@@ -1,0 +1,53 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder,opponent,venue,team_goals,opp_goals,h2h_match_no,h2h_total_vs_opp
+2025-08-15,SP2,Spain-Segunda,2526,Valladolid,Ceuta,3.0,0.0,H,2.0,0.0,H,1.9,3.4,4.1,1.96,3.5,4.18,1.87,3.43,3.82,1.98,1.83,1.88,1.83,-0.5,1.93,1.88,Real Valladolid,Ceuta,real_valladolid,ceuta,Real Valladolid,A,0.0,3.0,1,3
+2025-08-23,SP2,Spain-Segunda,2526,Ceuta,Sp Gijon,0.0,1.0,A,0.0,1.0,A,2.75,2.88,2.88,2.84,2.82,2.92,2.64,2.97,2.67,2.25,1.62,2.25,1.57,0.0,1.9,1.9,Ceuta,Sp Gijon,ceuta,sp_gijon,Sp Gijon,H,0.0,1.0,1,2
+2025-08-30,SP2,Spain-Segunda,2526,Santander,Ceuta,4.0,1.0,H,2.0,1.0,H,1.51,4.0,5.75,1.55,3.86,6.64,1.55,3.91,5.41,1.8,2.0,1.81,1.9,-1.0,1.95,1.85,Santander,Ceuta,santander,ceuta,Santander,A,1.0,4.0,1,2
+2025-09-07,SP2,Spain-Segunda,2526,Ceuta,Huesca,2.0,1.0,H,1.0,0.0,H,2.65,3.2,2.65,2.73,3.1,2.78,2.69,2.97,2.63,2.5,1.5,2.44,1.5,0.0,1.9,1.9,Ceuta,Huesca,ceuta,huesca,Huesca,H,2.0,1.0,1,2
+2025-09-14,SP2,Spain-Segunda,2526,Castellon,Ceuta,3.0,3.0,D,2.0,1.0,H,1.61,3.9,5.0,1.63,4.0,5.26,1.61,3.86,4.78,1.67,2.15,1.68,2.07,-0.75,1.8,2.0,Castellon,Ceuta,castellon,ceuta,Castellon,A,3.0,3.0,1,3
+2025-09-21,SP2,Spain-Segunda,2526,Ceuta,Zaragoza,1.0,0.0,H,0.0,0.0,D,2.5,3.25,2.75,2.57,3.18,2.89,2.42,3.11,2.81,2.15,1.67,2.15,1.63,0.0,1.8,2.0,Ceuta,Zaragoza,ceuta,zaragoza,Zaragoza,H,1.0,0.0,1,2
+2025-09-28,SP2,Spain-Segunda,2526,Cadiz,Ceuta,0.0,0.0,D,0.0,0.0,D,1.68,3.3,5.25,1.75,3.35,5.44,1.67,3.39,5.03,2.25,1.62,2.23,1.59,-0.75,1.95,1.85,Cadiz,Ceuta,cadiz,ceuta,Cadiz,A,0.0,0.0,1,2
+2025-10-03,SP2,Spain-Segunda,2526,Ceuta,Eibar,1.0,0.0,H,1.0,0.0,H,2.75,3.1,2.5,2.89,3.14,2.71,2.77,3.03,2.51,2.35,1.57,2.35,1.53,0.0,2.0,1.8,Ceuta,Eibar,ceuta,eibar,Eibar,H,1.0,0.0,1,2
+2025-10-12,SP2,Spain-Segunda,2526,Albacete,Ceuta,0.0,0.0,D,0.0,0.0,D,1.81,3.7,3.9,1.83,3.78,4.11,1.83,3.55,3.82,1.83,1.98,1.8,1.92,-0.5,1.83,1.98,Albacete,Ceuta,albacete,ceuta,Albacete,A,0.0,0.0,1,2
+2025-10-18,SP2,Spain-Segunda,2526,Ceuta,Mirandes,2.0,0.0,H,2.0,0.0,H,1.91,3.25,4.1,2.01,3.22,4.12,1.94,3.17,3.9,2.3,1.6,2.26,1.57,-0.5,1.95,1.85,Ceuta,Mirandes,ceuta,mirandes,Mirandes,H,2.0,0.0,1,2
+2025-10-25,SP2,Spain-Segunda,2526,Cultural Leonesa,Ceuta,0.0,1.0,A,0.0,1.0,A,2.3,3.05,3.2,2.53,3.08,3.03,2.34,3.08,2.99,2.35,1.57,2.27,1.56,-0.25,2.03,1.78,Cultural Leonesa,Ceuta,cultural_leonesa,ceuta,Cultural Leonesa,A,1.0,0.0,1,2
+2025-11-02,SP2,Spain-Segunda,2526,Cordoba,Ceuta,2.0,0.0,H,2.0,0.0,H,1.86,3.3,4.2,,,,1.86,3.37,3.98,1.98,1.83,1.93,1.79,-0.5,1.9,1.9,Cordoba,Ceuta,cordoba,ceuta,Cordoba,A,0.0,2.0,1,2
+2025-11-16,SP2,Spain-Segunda,2526,Ceuta,Leganes,1.0,2.0,A,0.0,1.0,A,2.45,3.05,2.85,,,,2.39,2.99,2.97,2.3,1.6,2.31,1.55,-0.25,2.1,1.7,Ceuta,Leganes,ceuta,leganes,Leganes,H,1.0,2.0,1,2
+2025-11-23,SP2,Spain-Segunda,2526,La Coruna,Ceuta,2.0,1.0,H,1.0,0.0,H,1.57,4.0,4.75,1.65,3.97,5.1,1.62,3.73,4.9,1.98,1.83,1.91,1.8,-0.75,1.8,2.0,La Coruna,Ceuta,la_coruna,ceuta,La Coruna,A,1.0,2.0,1,2
+2025-11-26,SP2,Spain-Segunda,2526,Ceuta,Almeria,3.0,2.0,H,1.0,1.0,D,3.05,3.4,2.25,,,,2.99,3.34,2.2,1.9,1.9,1.87,1.84,0.25,1.83,1.98,Ceuta,Almeria,ceuta,almeria,Almeria,H,3.0,2.0,1,2
+2025-11-29,SP2,Spain-Segunda,2526,Ceuta,Burgos,1.0,0.0,H,1.0,0.0,H,2.32,2.95,3.25,2.41,3.04,3.28,2.33,2.93,3.15,2.6,1.48,2.56,1.46,-0.25,2.0,1.8,Ceuta,Burgos,ceuta,burgos,Burgos,H,1.0,0.0,1,3
+2025-12-07,SP2,Spain-Segunda,2526,Granada,Ceuta,1.0,1.0,D,1.0,1.0,D,1.96,3.4,3.75,2.0,3.39,3.91,1.99,3.21,3.61,2.2,1.65,2.18,1.62,-0.5,2.0,1.8,Granada,Ceuta,granada,ceuta,Granada,A,1.0,1.0,1,2
+2025-12-14,SP2,Spain-Segunda,2526,Ceuta,Las Palmas,1.0,1.0,D,0.0,0.0,D,2.82,2.95,2.55,2.96,3.01,2.64,2.81,2.9,2.55,2.6,1.48,2.5,1.47,0.0,2.0,1.8,Ceuta,Las Palmas,ceuta,las_palmas,Las Palmas,H,1.0,1.0,1,3
+2025-12-21,SP2,Spain-Segunda,2526,Sociedad B,Ceuta,1.0,3.0,A,1.0,1.0,D,2.7,3.05,2.57,2.86,3.03,2.71,2.72,2.99,2.56,2.25,1.62,2.23,1.58,0.0,1.95,1.85,Sociedad B,Ceuta,sociedad_b,ceuta,Sociedad B,A,3.0,1.0,1,3
+2026-01-04,SP2,Spain-Segunda,2526,Ceuta,Andorra,2.0,1.0,H,1.0,0.0,H,1.86,3.5,4.0,1.95,3.46,3.98,1.93,3.29,3.73,1.95,1.85,1.95,1.76,-0.5,1.93,1.88,Ceuta,Andorra,ceuta,andorra,Andorra,H,2.0,1.0,1,3
+2026-01-11,SP2,Spain-Segunda,2526,Malaga,Ceuta,2.0,1.0,H,2.0,1.0,H,2.05,3.3,3.5,2.07,3.42,3.63,2.06,3.23,3.37,2.1,1.7,2.06,1.68,-0.25,1.78,2.03,Malaga,Ceuta,malaga,ceuta,Malaga,A,1.0,2.0,1,2
+2026-01-17,SP2,Spain-Segunda,2526,Ceuta,Valladolid,0.0,3.0,A,0.0,1.0,A,2.5,3.1,2.82,,,,2.52,3.02,2.75,2.2,1.65,2.19,1.6,0.0,1.78,2.03,Ceuta,Real Valladolid,ceuta,real_valladolid,Real Valladolid,H,0.0,3.0,2,3
+2026-01-26,SP2,Spain-Segunda,2526,Ceuta,Cultural Leonesa,3.0,1.0,H,2.0,1.0,H,1.96,3.4,3.75,,,,1.94,3.28,3.74,2.08,1.73,2.01,1.72,-0.5,2.0,1.8,Ceuta,Cultural Leonesa,ceuta,cultural_leonesa,Cultural Leonesa,H,3.0,1.0,2,2
+2026-02-01,SP2,Spain-Segunda,2526,Almeria,Ceuta,4.0,2.0,H,3.0,1.0,H,1.68,3.7,4.75,,,,1.68,3.71,4.53,1.8,2.0,1.73,1.99,-0.75,1.95,1.85,Almeria,Ceuta,almeria,ceuta,Almeria,A,2.0,4.0,2,2
+2026-02-15,SP2,Spain-Segunda,2526,Huesca,Ceuta,2.0,0.0,H,0.0,0.0,D,2.05,3.1,3.75,,,,2.13,3.07,3.4,2.35,1.57,2.32,1.54,-0.25,1.85,1.95,Huesca,Ceuta,huesca,ceuta,Huesca,A,0.0,2.0,2,2
+2026-02-20,SP2,Spain-Segunda,2526,Ceuta,Granada,2.0,1.0,H,1.0,0.0,H,2.45,3.1,2.85,,,,2.47,3.02,2.82,2.25,1.62,2.16,1.62,0.0,1.75,2.05,Ceuta,Granada,ceuta,granada,Granada,H,2.0,1.0,2,2
+2026-02-25,SP2,Spain-Segunda,2526,Ceuta,Cordoba,3.0,2.0,H,3.0,2.0,H,2.75,3.3,2.45,,,,2.7,3.09,2.56,1.93,1.88,1.89,1.82,0.0,2.0,1.8,Ceuta,Cordoba,ceuta,cordoba,Cordoba,H,3.0,2.0,2,2
+2026-03-01,SP2,Spain-Segunda,2526,Mirandes,Ceuta,0.0,1.0,A,0.0,1.0,A,2.3,3.2,3.1,,,,2.33,3.12,2.91,2.1,1.7,2.06,1.68,-0.25,2.0,1.8,Mirandes,Ceuta,mirandes,ceuta,Mirandes,A,1.0,0.0,2,2
+2026-03-08,SP2,Spain-Segunda,2526,Las Palmas,Ceuta,4.0,0.0,H,1.0,0.0,H,1.61,3.7,5.25,,,,1.64,3.57,4.98,2.1,1.7,2.03,1.71,-0.75,1.85,1.95,Las Palmas,Ceuta,las_palmas,ceuta,Las Palmas,A,0.0,4.0,2,3
+2026-03-14,SP2,Spain-Segunda,2526,Ceuta,La Coruna,1.0,2.0,A,1.0,1.0,D,2.85,3.2,2.45,,,,2.83,3.1,2.39,2.08,1.73,2.03,1.7,0.0,2.05,1.75,Ceuta,La Coruna,ceuta,la_coruna,La Coruna,H,1.0,2.0,2,2
+2026-03-21,SP2,Spain-Segunda,2526,Leganes,Ceuta,5.0,2.0,H,1.0,1.0,D,1.79,3.4,4.5,,,,1.81,3.38,4.13,2.1,1.7,2.03,1.71,-0.5,1.83,1.98,Leganes,Ceuta,leganes,ceuta,Leganes,A,2.0,5.0,2,2
+2026-03-28,SP2,Spain-Segunda,2526,Ceuta,Cadiz,2.0,1.0,H,1.0,0.0,H,2.2,3.2,3.2,,,,2.18,3.22,3.11,2.05,1.75,2.0,1.73,-0.25,1.9,1.9,Ceuta,Cadiz,ceuta,cadiz,Cadiz,H,2.0,1.0,2,2
+2026-04-01,SP2,Spain-Segunda,2526,Burgos,Ceuta,1.0,1.0,D,1.0,1.0,D,1.79,3.0,5.25,,,,1.81,3.14,4.56,2.4,1.53,2.33,1.54,-0.5,1.83,1.98,Burgos,Ceuta,burgos,ceuta,Burgos,A,1.0,1.0,2,3
+2026-04-05,SP2,Spain-Segunda,2526,Eibar,Ceuta,3.0,0.0,H,1.0,0.0,H,1.66,3.4,5.25,,,,1.69,3.44,4.83,2.1,1.7,2.1,1.66,-0.75,1.93,1.88,Eibar,Ceuta,eibar,ceuta,Eibar,A,0.0,3.0,2,2
+2026-04-10,SP2,Spain-Segunda,2526,Ceuta,Sociedad B,0.0,0.0,D,0.0,0.0,D,1.81,3.6,4.1,,,,1.85,3.45,3.86,1.73,2.08,1.73,2.01,-0.5,1.83,1.98,Ceuta,Sociedad B,ceuta,sociedad_b,Sociedad B,H,0.0,0.0,2,3
+2026-04-18,SP2,Spain-Segunda,2526,Zaragoza,Ceuta,2.0,2.0,D,0.0,1.0,A,1.66,3.8,4.5,,,,1.73,3.58,4.32,1.85,1.95,1.84,1.88,-0.75,1.93,1.88,Zaragoza,Ceuta,zaragoza,ceuta,Zaragoza,A,2.0,2.0,2,2
+2026-04-26,SP2,Spain-Segunda,2526,Ceuta,Santander,0.0,0.0,D,0.0,0.0,D,3.3,3.75,2.01,,,,3.2,3.6,1.96,1.57,2.35,1.57,2.28,0.5,1.78,2.03,Ceuta,Santander,ceuta,santander,Santander,H,0.0,0.0,2,2
+2026-05-03,SP2,Spain-Segunda,2526,Sp Gijon,Ceuta,1.0,2.0,A,1.0,2.0,A,1.62,4.1,4.5,,,,1.63,3.74,4.68,1.73,2.08,1.74,1.98,-0.75,1.85,1.95,Sp Gijon,Ceuta,sp_gijon,ceuta,Sp Gijon,A,2.0,1.0,2,2
+2026-05-09,SP2,Spain-Segunda,2526,Ceuta,Castellon,1.0,1.0,D,0.0,0.0,D,4.5,4.2,1.61,,,,4.44,3.97,1.62,1.57,2.35,1.55,2.34,0.75,2.0,1.8,Ceuta,Castellon,ceuta,castellon,Castellon,H,1.0,1.0,2,3
+2026-05-16,SP2,Spain-Segunda,2526,Ceuta,Malaga,1.0,4.0,A,0.0,3.0,A,3.75,3.75,1.86,,,,3.56,3.59,1.86,1.67,2.15,1.64,2.12,0.5,1.88,1.93,Ceuta,Malaga,ceuta,malaga,Malaga,H,1.0,4.0,2,2
+2026-05-24,SP2,Spain-Segunda,2526,Andorra,Ceuta,0.0,2.0,A,0.0,1.0,A,1.49,4.75,5.25,,,,1.47,4.39,5.41,1.5,2.5,1.5,2.47,-1.0,1.8,2.0,Andorra,Ceuta,andorra,ceuta,Andorra,A,2.0,0.0,2,3
+2026-05-30,SP2,Spain-Segunda,2526,Ceuta,Albacete,1.0,0.0,H,1.0,0.0,H,2.3,3.2,3.1,,,,2.29,3.2,2.88,1.8,2.0,1.77,1.95,0.0,1.83,1.98,Ceuta,Albacete,ceuta,albacete,Albacete,H,1.0,0.0,2,2
+2026-08-15,SP2,Spain-Segunda,2627,Andorra,Ceuta,5.0,1.0,H,1.0,0.0,H,1.68,3.7,4.75,,,,1.67,3.72,4.4,1.8,2.0,1.75,1.98,-0.75,1.93,1.88,Andorra,Ceuta,andorra,ceuta,Andorra,A,1.0,5.0,3,3
+2026-08-22,SP2,Spain-Segunda,2627,Ceuta,Las Palmas,0.0,2.0,A,0.0,1.0,A,2.85,3.2,2.45,,,,2.82,3.18,2.39,2.05,1.75,2.02,1.73,0.25,1.7,2.1,Ceuta,Las Palmas,ceuta,las_palmas,Las Palmas,H,0.0,2.0,3,3
+2026-08-30,SP2,Spain-Segunda,2627,Mallorca,Ceuta,3.0,0.0,H,1.0,0.0,H,1.39,4.2,8.0,,,,1.39,4.44,6.76,1.7,2.1,1.64,2.14,-1.25,1.93,1.88,Mallorca,Ceuta,mallorca,ceuta,Mallorca,A,0.0,3.0,1,1
+2026-09-05,SP2,Spain-Segunda,2627,Ceuta,Celta B,0.0,2.0,A,0.0,1.0,A,2.01,3.5,3.5,,,,2.01,3.41,3.36,1.85,1.95,1.79,1.95,-0.5,2.03,1.78,Ceuta,Celta B,ceuta,celta_b,Celta B,H,0.0,2.0,1,1
+2026-09-11,SP2,Spain-Segunda,2627,Burgos,Ceuta,3.0,1.0,H,1.0,1.0,D,1.66,3.6,5.0,,,,1.66,3.69,4.74,1.93,1.88,1.83,1.89,-0.75,1.9,1.9,Burgos,Ceuta,burgos,ceuta,Burgos,A,1.0,3.0,3,3
+2026-09-20,SP2,Spain-Segunda,2627,Ceuta,Valladolid,1.0,1.0,D,0.0,0.0,D,2.57,3.25,2.57,,,,2.54,3.24,2.55,2.0,1.8,1.94,1.78,0.0,1.88,1.93,Ceuta,Real Valladolid,ceuta,real_valladolid,Real Valladolid,H,1.0,1.0,3,3
+2026-09-26,SP2,Spain-Segunda,2627,Ceuta,Sociedad B,3.0,1.0,H,0.0,0.0,D,2.15,3.4,3.2,,,,2.16,3.42,2.96,1.75,2.05,1.73,2.0,-0.25,1.93,1.88,Ceuta,Sociedad B,ceuta,sociedad_b,Sociedad B,H,3.0,1.0,3,3
+2026-10-04,SP2,Spain-Segunda,2627,Castellon,Ceuta,1.0,1.0,D,1.0,0.0,H,1.22,6.0,10.0,,,,1.24,5.88,8.88,1.4,2.88,1.35,2.96,-1.75,1.88,1.93,Castellon,Ceuta,castellon,ceuta,Castellon,A,1.0,1.0,3,3
+2026-10-10,SP2,Spain-Segunda,2627,Ceuta,Sabadell,1.0,2.0,A,1.0,1.0,D,3.3,3.1,2.2,,,,3.09,3.19,2.2,2.08,1.73,2.01,1.73,0.25,1.85,1.95,Ceuta,Sabadell,ceuta,sabadell,Sabadell,H,1.0,2.0,1,1
+2026-10-18,SP2,Spain-Segunda,2627,Ceuta,Oviedo,1.0,2.0,A,0.0,1.0,A,3.0,3.2,2.32,,,,2.86,3.2,2.31,2.08,1.73,2.02,1.71,0.25,1.78,2.03,Ceuta,Real Oviedo,ceuta,real_oviedo,Real Oviedo,H,1.0,2.0,1,1

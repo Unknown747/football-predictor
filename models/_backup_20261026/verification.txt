@@ -1,0 +1,12 @@
+BACKUP VERIFICATION REPORT
+==========================
+Started:  2026-10-26T21:10:43.497748
+Finished: 2026-10-26T21:10:43.786584
+Backup dir: models/_backup_20261026
+
+Files planned:  36
+Files copied:   36
+Files verified: 36
+Failures:       0
+
+Status: PASS

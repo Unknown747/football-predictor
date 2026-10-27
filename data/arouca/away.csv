@@ -1,0 +1,90 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,P1,Portugal-Liga1,2122,Benfica,Arouca,2.0,0.0,H,2.0,0.0,H,1.18,6.5,15.0,1.17,7.41,18.93,1.17,7.02,16.22,1.6,2.3,1.6,2.31,-2.0,2.0,1.9,Benfica,Arouca,benfica,arouca
+2021-08-28,P1,Portugal-Liga1,2122,Porto,Arouca,3.0,0.0,H,2.0,0.0,H,1.18,6.5,15.0,1.17,7.47,18.95,1.18,6.97,16.11,1.61,2.25,1.62,2.3,-2.0,2.03,1.87,FC Porto,Arouca,fc_porto,arouca
+2021-09-13,P1,Portugal-Liga1,2122,Maritimo,Arouca,2.0,2.0,D,2.0,1.0,H,2.0,3.25,3.75,2.08,3.32,3.97,2.06,3.24,3.74,2.35,1.57,2.37,1.57,-0.5,2.08,1.82,Maritimo,Arouca,maritimo,arouca
+2021-09-25,P1,Portugal-Liga1,2122,Moreirense,Arouca,2.0,1.0,H,1.0,0.0,H,2.1,3.2,3.4,2.14,3.56,3.58,2.12,3.38,3.41,2.07,1.72,2.11,1.72,-0.25,1.85,2.05,Moreirense,Arouca,moreirense,arouca
+2021-10-24,P1,Portugal-Liga1,2122,Pacos Ferreira,Arouca,0.0,0.0,D,0.0,0.0,D,1.9,3.6,3.8,1.98,3.49,4.22,1.95,3.4,3.91,2.1,1.7,2.05,1.75,-0.5,1.98,1.92,Pacos Ferreira,Arouca,pacos_ferreira,arouca
+2021-11-05,P1,Portugal-Liga1,2122,Gil Vicente,Arouca,1.0,1.0,D,0.0,1.0,A,1.85,3.4,4.33,1.89,3.58,4.49,1.89,3.42,4.25,2.15,1.66,2.15,1.69,-0.5,1.88,2.02,Gil Vicente,Arouca,gil_vicente,arouca
+2021-12-05,P1,Portugal-Liga1,2122,Santa Clara,Arouca,2.0,1.0,H,2.0,1.0,H,2.1,3.3,3.4,2.13,3.59,3.56,2.09,3.38,3.5,2.2,1.65,2.23,1.65,-0.25,1.82,2.08,Santa Clara,Arouca,santa_clara,arouca
+2021-12-18,P1,Portugal-Liga1,2122,Portimonense,Arouca,1.0,1.0,D,0.0,0.0,D,2.0,3.3,3.75,2.07,3.34,4.08,2.03,3.28,3.81,2.25,1.61,2.27,1.63,-0.5,2.04,1.86,Portimonense,Arouca,portimonense,arouca
+2022-01-09,P1,Portugal-Liga1,2122,Belenenses,Arouca,2.0,1.0,H,0.0,1.0,A,2.75,3.1,2.7,2.87,3.32,2.65,2.76,3.14,2.63,2.25,1.61,2.24,1.64,0.0,2.0,1.9,Belenenses,Arouca,belenenses,arouca
+2022-01-27,P1,Portugal-Liga1,2122,Estoril,Arouca,1.0,2.0,A,1.0,0.0,H,2.0,3.3,3.8,2.01,3.66,3.86,1.98,3.36,3.79,2.25,1.61,2.21,1.65,-0.5,1.7,2.1,Estoril,Arouca,estoril,arouca
+2022-01-31,P1,Portugal-Liga1,2122,Famalicao,Arouca,0.0,0.0,D,0.0,0.0,D,1.8,3.3,4.2,1.98,3.48,4.11,1.94,3.35,4.01,2.15,1.66,2.16,1.68,-0.5,1.93,1.97,Famalicao,Arouca,famalicao,arouca
+2022-02-19,P1,Portugal-Liga1,2122,Guimaraes,Arouca,1.0,3.0,A,1.0,3.0,A,1.7,3.8,4.5,1.73,3.75,5.38,1.72,3.67,4.88,1.98,1.88,1.95,1.85,-0.75,1.93,1.97,Vitoria Guimaraes,Arouca,vitoria_guimaraes,arouca
+2022-03-05,P1,Portugal-Liga1,2122,Sp Lisbon,Arouca,2.0,0.0,H,0.0,0.0,D,1.28,6.0,9.5,1.26,6.0,13.91,1.25,5.72,11.76,1.66,2.15,1.7,2.14,-1.5,1.86,2.04,Sp Lisbon,Arouca,sp_lisbon,arouca
+2022-03-19,P1,Portugal-Liga1,2122,Tondela,Arouca,2.0,2.0,D,2.0,1.0,H,2.62,3.0,2.75,2.66,3.4,2.8,2.62,3.23,2.72,2.15,1.66,2.16,1.69,0.0,1.91,1.99,Tondela,Arouca,tondela,arouca
+2022-04-09,P1,Portugal-Liga1,2122,Boavista,Arouca,1.0,0.0,H,1.0,0.0,H,2.2,3.0,3.25,2.32,3.13,3.6,2.27,3.11,3.37,2.3,1.6,2.33,1.59,-0.25,1.97,1.93,Boavista,Arouca,boavista,arouca
+2022-04-22,P1,Portugal-Liga1,2122,Vizela,Arouca,2.0,1.0,H,1.0,0.0,H,1.95,3.4,3.75,2.05,3.46,3.97,2.03,3.4,3.71,2.02,1.83,1.95,1.85,-0.5,2.04,1.86,Vizela,Arouca,vizela,arouca
+2022-05-08,P1,Portugal-Liga1,2122,Sp Braga,Arouca,1.0,0.0,H,0.0,0.0,D,1.66,3.6,5.25,1.68,4.15,5.19,1.65,3.95,5.02,1.85,2.0,1.78,2.02,-0.75,1.9,2.0,Sp Braga,Arouca,sp_braga,arouca
+2022-08-05,P1,Portugal-Liga1,2223,Benfica,Arouca,4.0,0.0,H,3.0,0.0,H,1.14,6.5,17.0,1.15,8.6,21.58,1.15,7.51,18.19,1.47,2.6,1.49,2.56,-2.0,1.84,2.06,Benfica,Arouca,benfica,arouca
+2022-08-20,P1,Portugal-Liga1,2223,Santa Clara,Arouca,1.0,2.0,A,0.0,0.0,D,2.05,3.25,3.75,2.17,3.36,3.7,2.1,3.26,3.63,2.25,1.61,2.28,1.62,-0.25,1.83,2.07,Santa Clara,Arouca,santa_clara,arouca
+2022-09-04,P1,Portugal-Liga1,2223,Casa Pia,Arouca,0.0,0.0,D,0.0,0.0,D,2.0,3.1,3.8,2.15,3.04,4.28,2.09,3.14,3.83,2.3,1.6,2.29,1.6,-0.5,2.07,1.83,Casa Pia,Arouca,casa_pia,arouca
+2022-10-02,P1,Portugal-Liga1,2223,Pacos Ferreira,Arouca,1.0,1.0,D,0.0,0.0,D,2.2,3.2,3.2,2.36,3.12,3.45,2.28,3.18,3.26,2.2,1.65,2.22,1.65,-0.25,1.99,1.91,Pacos Ferreira,Arouca,pacos_ferreira,arouca
+2022-10-23,P1,Portugal-Liga1,2223,Maritimo,Arouca,1.0,1.0,D,1.0,1.0,D,2.55,3.1,2.7,2.66,3.3,2.87,2.59,3.2,2.75,2.15,1.66,2.17,1.68,0.0,1.9,2.0,Maritimo,Arouca,maritimo,arouca
+2022-11-05,P1,Portugal-Liga1,2223,Vizela,Arouca,0.0,1.0,A,0.0,1.0,A,1.9,3.25,4.5,1.98,3.33,4.45,1.95,3.29,4.14,2.15,1.66,2.19,1.66,-0.5,1.98,1.92,Vizela,Arouca,vizela,arouca
+2022-12-28,P1,Portugal-Liga1,2223,Porto,Arouca,5.0,1.0,H,3.0,0.0,H,1.11,8.0,23.0,1.14,8.8,22.87,1.13,8.18,20.31,1.44,2.7,1.46,2.65,-2.25,1.95,1.95,FC Porto,Arouca,fc_porto,arouca
+2023-01-15,P1,Portugal-Liga1,2223,Chaves,Arouca,1.0,1.0,D,1.0,0.0,H,2.15,3.2,3.4,2.17,3.44,3.6,2.16,3.32,3.41,2.1,1.7,2.11,1.73,-0.25,1.88,2.02,Chaves,Arouca,chaves,arouca
+2023-02-05,P1,Portugal-Liga1,2223,Gil Vicente,Arouca,1.0,1.0,D,1.0,1.0,D,2.2,3.1,3.3,2.31,3.32,3.4,2.25,3.28,3.21,2.08,1.73,2.08,1.75,-0.25,1.93,1.97,Gil Vicente,Arouca,gil_vicente,arouca
+2023-02-19,P1,Portugal-Liga1,2223,Sp Braga,Arouca,2.0,0.0,H,1.0,0.0,H,1.44,4.75,7.0,1.42,5.04,7.61,1.41,4.78,7.08,1.6,2.3,1.62,2.3,-1.25,1.98,1.92,Sp Braga,Arouca,sp_braga,arouca
+2023-03-03,P1,Portugal-Liga1,2223,Boavista,Arouca,0.0,0.0,D,0.0,0.0,D,2.25,3.25,3.25,2.34,3.2,3.47,2.29,3.14,3.31,2.25,1.62,2.25,1.64,-0.25,1.99,1.91,Boavista,Arouca,boavista,arouca
+2023-03-11,P1,Portugal-Liga1,2223,Guimaraes,Arouca,0.0,2.0,A,0.0,0.0,D,2.0,3.4,3.75,2.12,3.22,4.06,2.07,3.21,3.82,2.3,1.6,2.29,1.61,-0.5,2.08,1.82,Vitoria Guimaraes,Arouca,vitoria_guimaraes,arouca
+2023-04-03,P1,Portugal-Liga1,2223,Famalicao,Arouca,0.0,1.0,A,0.0,0.0,D,1.85,3.3,3.75,2.02,3.28,4.26,1.98,3.26,4.03,2.35,1.57,2.36,1.57,-0.5,1.99,1.91,Famalicao,Arouca,famalicao,arouca
+2023-04-16,P1,Portugal-Liga1,2223,Sp Lisbon,Arouca,1.0,1.0,D,0.0,1.0,A,1.2,7.0,12.0,1.19,7.53,16.91,1.19,7.05,14.81,1.48,2.6,1.47,2.61,-2.0,2.01,1.89,Sp Lisbon,Arouca,sp_lisbon,arouca
+2023-04-28,P1,Portugal-Liga1,2223,Rio Ave,Arouca,1.0,0.0,H,0.0,0.0,D,2.45,3.0,3.1,2.49,3.1,3.3,2.44,3.06,3.15,2.4,1.53,2.36,1.58,-0.25,2.08,1.82,Rio Ave,Arouca,rio_ave,arouca
+2023-05-15,P1,Portugal-Liga1,2223,Estoril,Arouca,2.0,0.0,H,0.0,0.0,D,2.45,3.1,2.8,2.65,3.07,3.03,2.55,3.14,2.89,2.2,1.65,2.2,1.66,0.0,1.81,2.09,Estoril,Arouca,estoril,arouca
+2023-05-27,P1,Portugal-Liga1,2223,Portimonense,Arouca,0.0,2.0,A,0.0,0.0,D,2.88,3.5,2.3,3.05,3.56,2.39,2.9,3.46,2.37,1.88,1.98,1.87,1.93,0.25,1.83,2.07,Portimonense,Arouca,portimonense,arouca
+2023-08-20,P1,Portugal-Liga1,2324,Vizela,Arouca,2.0,2.0,D,1.0,1.0,D,2.15,3.25,3.4,2.17,3.31,3.78,2.14,3.26,3.52,2.15,1.67,2.17,1.68,-0.25,1.87,2.03,Vizela,Arouca,vizela,arouca
+2023-09-03,P1,Portugal-Liga1,2324,Porto,Arouca,1.0,1.0,D,0.0,0.0,D,1.25,6.0,10.0,1.26,6.43,11.28,1.26,6.05,10.4,1.53,2.4,1.54,2.43,-1.75,2.04,1.86,FC Porto,Arouca,fc_porto,arouca
+2023-09-22,P1,Portugal-Liga1,2324,Famalicao,Arouca,1.0,0.0,H,1.0,0.0,H,2.0,3.3,3.8,2.04,3.4,4.1,2.02,3.33,3.86,2.15,1.67,2.2,1.64,-0.5,2.0,1.85,Famalicao,Arouca,famalicao,arouca
+2023-10-08,P1,Portugal-Liga1,2324,Sp Lisbon,Arouca,2.0,1.0,H,1.0,0.0,H,1.22,5.0,11.0,1.25,6.6,11.63,1.25,5.91,11.27,1.6,2.3,1.59,2.33,-1.75,1.99,1.91,Sp Lisbon,Arouca,sp_lisbon,arouca
+2023-11-06,P1,Portugal-Liga1,2324,Farense,Arouca,2.0,0.0,H,2.0,0.0,H,2.2,3.3,3.2,2.25,3.4,3.38,2.21,3.35,3.28,2.05,1.75,2.05,1.76,-0.25,1.94,1.96,Farense,Arouca,farense,arouca
+2023-12-03,P1,Portugal-Liga1,2324,Boavista,Arouca,0.0,4.0,A,0.0,3.0,A,2.1,3.3,3.25,2.17,3.31,3.55,2.13,3.36,3.46,2.05,1.75,2.03,1.78,-0.25,1.89,2.01,Boavista,Arouca,boavista,arouca
+2023-12-28,P1,Portugal-Liga1,2324,Estrela,Arouca,1.0,4.0,A,1.0,0.0,H,2.55,3.3,2.7,2.63,3.38,2.8,2.6,3.28,2.74,2.08,1.73,2.06,1.75,0.0,1.89,2.01,Estrela Amadora,Arouca,estrela_amadora,arouca
+2024-01-15,P1,Portugal-Liga1,2324,Guimaraes,Arouca,2.0,1.0,H,1.0,1.0,D,1.91,3.5,4.0,1.89,3.61,4.33,1.9,3.52,4.06,2.05,1.75,2.04,1.76,-0.5,1.92,1.98,Vitoria Guimaraes,Arouca,vitoria_guimaraes,arouca
+2024-01-20,P1,Portugal-Liga1,2324,Estoril,Arouca,1.0,2.0,A,1.0,2.0,A,2.4,3.4,2.88,2.47,3.47,2.99,2.43,3.36,2.87,1.98,1.88,1.95,1.85,-0.25,2.1,1.8,Estoril,Arouca,estoril,arouca
+2024-02-03,P1,Portugal-Liga1,2324,Portimonense,Arouca,1.0,2.0,A,0.0,0.0,D,2.9,3.4,2.38,2.96,3.53,2.46,2.91,3.4,2.39,2.03,1.83,2.0,1.8,0.25,1.81,2.09,Portimonense,Arouca,portimonense,arouca
+2024-02-18,P1,Portugal-Liga1,2324,Casa Pia,Arouca,1.0,0.0,H,0.0,0.0,D,3.4,3.0,2.3,3.38,3.25,2.36,3.19,3.19,2.33,2.2,1.65,2.22,1.66,0.25,1.91,1.99,Casa Pia,Arouca,casa_pia,arouca
+2024-03-01,P1,Portugal-Liga1,2324,Chaves,Arouca,1.0,5.0,A,1.0,2.0,A,3.2,3.4,2.3,3.24,3.36,2.38,3.15,3.31,2.3,2.05,1.75,2.07,1.76,0.25,1.89,2.01,Chaves,Arouca,chaves,arouca
+2024-03-17,P1,Portugal-Liga1,2324,Moreirense,Arouca,1.0,0.0,H,1.0,0.0,H,2.5,3.2,3.0,2.6,3.26,2.97,2.51,3.22,2.89,2.15,1.67,2.19,1.67,0.0,1.78,2.13,Moreirense,Arouca,moreirense,arouca
+2024-04-06,P1,Portugal-Liga1,2324,Sp Braga,Arouca,0.0,3.0,A,0.0,2.0,A,1.45,4.75,7.0,1.44,5.03,6.91,1.44,4.82,6.58,1.53,2.4,1.52,2.5,-1.25,1.98,1.92,Sp Braga,Arouca,sp_braga,arouca
+2024-04-19,P1,Portugal-Liga1,2324,Rio Ave,Arouca,1.0,1.0,D,1.0,0.0,H,2.63,3.2,2.8,2.67,3.17,2.91,2.62,3.16,2.82,2.08,1.73,2.12,1.72,0.0,1.85,2.05,Rio Ave,Arouca,rio_ave,arouca
+2024-04-26,P1,Portugal-Liga1,2324,Gil Vicente,Arouca,2.0,2.0,D,0.0,0.0,D,2.5,3.5,2.6,2.62,3.49,2.74,2.55,3.45,2.69,1.8,2.0,1.82,1.99,0.0,1.9,2.0,Gil Vicente,Arouca,gil_vicente,arouca
+2024-05-12,P1,Portugal-Liga1,2324,Benfica,Arouca,5.0,0.0,H,3.0,0.0,H,1.25,6.5,9.0,1.25,6.81,10.27,1.24,6.52,9.89,1.36,3.1,1.36,3.05,-1.75,1.9,2.0,Benfica,Arouca,benfica,arouca
+2024-08-18,P1,Portugal-Liga1,2425,Moreirense,Arouca,3.0,1.0,H,2.0,1.0,H,2.3,3.25,3.1,2.36,3.18,3.22,2.34,3.25,3.1,2.05,1.75,2.06,1.76,-0.25,2.03,1.87,Moreirense,Arouca,moreirense,arouca
+2024-09-01,P1,Portugal-Liga1,2425,Rio Ave,Arouca,1.0,0.0,H,1.0,0.0,H,2.3,3.25,3.1,2.32,3.28,3.19,2.32,3.28,3.11,2.05,1.75,2.04,1.77,-0.25,2.02,1.88,Rio Ave,Arouca,rio_ave,arouca
+2024-09-22,P1,Portugal-Liga1,2425,Farense,Arouca,0.0,1.0,A,0.0,1.0,A,2.7,3.1,2.7,2.65,3.4,2.64,2.64,3.34,2.63,1.95,1.9,1.92,1.89,0.0,1.95,1.95,Farense,Arouca,farense,arouca
+2024-09-29,P1,Portugal-Liga1,2425,Porto,Arouca,4.0,0.0,H,0.0,0.0,D,1.2,6.25,15.0,1.18,6.86,14.84,1.19,6.84,14.55,1.53,2.4,1.52,2.46,-2.0,2.05,1.85,FC Porto,Arouca,fc_porto,arouca
+2024-10-26,P1,Portugal-Liga1,2425,Estoril,Arouca,4.0,1.0,H,2.0,1.0,H,3.0,3.2,2.4,3.02,3.11,2.52,2.99,3.15,2.46,2.25,1.62,2.27,1.63,0.25,1.79,2.11,Estoril,Arouca,estoril,arouca
+2024-11-09,P1,Portugal-Liga1,2425,Famalicao,Arouca,0.0,0.0,D,0.0,0.0,D,1.91,3.5,4.0,1.91,3.27,4.48,1.92,3.35,4.21,2.3,1.6,2.3,1.61,-0.5,1.93,1.97,Famalicao,Arouca,famalicao,arouca
+2024-12-09,P1,Portugal-Liga1,2425,Estrela,Arouca,2.0,1.0,H,0.0,1.0,A,2.55,3.2,2.8,2.58,3.15,2.9,2.54,3.19,2.83,2.15,1.67,2.18,1.67,0.0,1.84,2.06,Estrela Amadora,Arouca,estrela_amadora,arouca
+2024-12-20,P1,Portugal-Liga1,2425,Casa Pia,Arouca,3.0,1.0,H,2.0,0.0,H,2.3,3.1,3.5,2.4,2.95,3.6,2.35,2.99,3.34,2.5,1.5,2.47,1.53,-0.25,2.0,1.9,Casa Pia,Arouca,casa_pia,arouca
+2025-01-04,P1,Portugal-Liga1,2425,Boavista,Arouca,1.0,3.0,A,0.0,1.0,A,2.75,3.1,2.63,2.79,3.21,2.64,2.76,3.18,2.58,2.25,1.62,2.27,1.61,0.0,2.01,1.89,Boavista,Arouca,boavista,arouca
+2025-01-18,P1,Portugal-Liga1,2425,Guimaraes,Arouca,2.0,2.0,D,2.0,0.0,H,1.55,3.9,6.25,1.55,4.09,6.01,1.57,3.96,5.71,1.98,1.88,1.94,1.84,-1.0,2.0,1.9,Vitoria Guimaraes,Arouca,vitoria_guimaraes,arouca
+2025-02-01,P1,Portugal-Liga1,2425,Nacional,Arouca,1.0,2.0,A,1.0,2.0,A,2.5,3.2,2.88,2.58,3.16,2.9,2.52,3.16,2.84,2.15,1.67,2.2,1.65,0.0,1.81,2.09,Nacional,Arouca,nacional,arouca
+2025-02-15,P1,Portugal-Liga1,2425,Sp Lisbon,Arouca,2.0,2.0,D,1.0,2.0,A,1.25,5.5,12.0,1.24,6.27,10.13,1.25,5.96,10.55,1.57,2.35,1.57,2.39,-1.75,2.0,1.9,Sp Lisbon,Arouca,sp_lisbon,arouca
+2025-03-08,P1,Portugal-Liga1,2425,AVS,Arouca,0.0,1.0,A,0.0,0.0,D,3.1,3.1,2.38,3.2,3.1,2.48,3.08,3.11,2.42,2.25,1.62,2.26,1.64,0.25,1.81,2.09,AVS,Arouca,avs,arouca
+2025-03-29,P1,Portugal-Liga1,2425,Sp Braga,Arouca,2.0,1.0,H,2.0,0.0,H,1.7,3.75,4.75,1.69,3.78,4.99,1.7,3.76,4.77,1.9,1.95,1.87,1.91,-0.75,1.95,1.95,Sp Braga,Arouca,sp_braga,arouca
+2025-04-13,P1,Portugal-Liga1,2425,Benfica,Arouca,2.0,2.0,D,0.0,0.0,D,1.17,7.0,17.0,1.15,7.9,15.95,1.15,7.51,15.9,1.44,2.7,1.4,2.81,-2.0,1.85,2.05,Benfica,Arouca,benfica,arouca
+2025-04-26,P1,Portugal-Liga1,2425,Santa Clara,Arouca,2.0,0.0,H,2.0,0.0,H,1.9,3.1,4.5,1.9,3.18,4.18,1.92,3.24,4.18,2.3,1.6,2.32,1.58,-0.5,1.95,1.95,Santa Clara,Arouca,santa_clara,arouca
+2025-05-10,P1,Portugal-Liga1,2425,Gil Vicente,Arouca,1.0,1.0,D,0.0,0.0,D,2.35,3.25,3.0,2.43,3.14,3.13,2.38,3.21,3.03,2.1,1.7,2.13,1.69,-0.25,2.08,1.82,Gil Vicente,Arouca,gil_vicente,arouca
+2025-08-17,P1,Portugal-Liga1,2526,Sp Lisbon,Arouca,6.0,0.0,H,3.0,0.0,H,1.29,6.0,8.5,1.27,5.94,9.75,1.25,5.68,10.08,1.57,2.35,1.57,2.27,-1.5,1.83,2.03,Sp Lisbon,Arouca,sp_lisbon,arouca
+2025-08-30,P1,Portugal-Liga1,2526,Guimaraes,Arouca,1.0,1.0,D,1.0,1.0,D,1.76,3.6,4.33,1.81,3.58,4.51,1.77,3.62,4.24,2.03,1.83,1.95,1.78,-0.5,1.8,2.05,Vitoria Guimaraes,Arouca,vitoria_guimaraes,arouca
+2025-09-20,P1,Portugal-Liga1,2526,Nacional,Arouca,1.0,2.0,A,0.0,0.0,D,2.45,3.1,2.85,2.55,3.18,2.93,2.47,3.2,2.77,2.08,1.73,2.02,1.72,0.0,1.78,2.1,Nacional,Arouca,nacional,arouca
+2025-10-25,P1,Portugal-Liga1,2526,Benfica,Arouca,5.0,0.0,H,3.0,0.0,H,1.15,7.0,13.0,1.16,8.16,14.07,1.16,7.13,14.09,1.44,2.7,1.41,2.73,-2.0,1.88,1.98,Benfica,Arouca,benfica,arouca
+2025-11-07,P1,Portugal-Liga1,2526,Estoril,Arouca,4.0,3.0,H,2.0,2.0,D,1.91,3.6,3.7,2.03,3.54,3.87,1.99,3.46,3.55,1.95,1.9,1.89,1.84,-0.5,1.98,1.88,Estoril,Arouca,estoril,arouca
+2025-12-07,P1,Portugal-Liga1,2526,Estrela,Arouca,3.0,1.0,H,2.0,0.0,H,2.1,3.2,3.5,2.17,3.29,3.51,2.19,3.21,3.24,2.1,1.7,2.08,1.67,-0.25,1.85,2.0,Estrela Amadora,Arouca,estrela_amadora,arouca
+2025-12-21,P1,Portugal-Liga1,2526,Santa Clara,Arouca,0.0,0.0,D,0.0,0.0,D,1.79,3.25,4.75,1.84,3.38,4.67,1.79,3.29,4.64,2.4,1.53,2.3,1.55,-0.5,1.83,2.03,Santa Clara,Arouca,santa_clara,arouca
+2026-01-03,P1,Portugal-Liga1,2526,Tondela,Arouca,3.0,1.0,H,2.0,1.0,H,2.05,3.3,3.5,2.14,3.36,3.51,2.11,3.25,3.37,2.05,1.75,2.0,1.72,-0.25,1.83,2.03,Tondela,Arouca,tondela,arouca
+2026-01-17,P1,Portugal-Liga1,2526,AVS,Arouca,0.0,1.0,A,0.0,1.0,A,3.0,3.1,2.45,,,,2.83,3.16,2.45,2.25,1.62,2.17,1.62,0.0,2.1,1.78,AVS,Arouca,avs,arouca
+2026-01-31,P1,Portugal-Liga1,2526,Rio Ave,Arouca,0.0,3.0,A,0.0,1.0,A,2.5,3.25,2.7,,,,2.46,3.15,2.8,2.05,1.8,1.97,1.76,0.0,1.83,2.03,Rio Ave,Arouca,rio_ave,arouca
+2026-02-14,P1,Portugal-Liga1,2526,Casa Pia,Arouca,3.0,2.0,H,3.0,2.0,H,2.65,3.2,2.55,,,,2.64,3.1,2.65,2.2,1.65,2.15,1.63,0.0,1.98,1.88,Casa Pia,Arouca,casa_pia,arouca
+2026-02-27,P1,Portugal-Liga1,2526,Porto,Arouca,3.0,1.0,H,1.0,0.0,H,1.19,6.25,11.0,,,,1.21,5.77,12.23,1.75,2.05,1.69,2.06,-1.75,2.0,1.85,FC Porto,Arouca,fc_porto,arouca
+2026-03-06,P1,Portugal-Liga1,2526,Famalicao,Arouca,1.0,0.0,H,0.0,0.0,D,1.71,3.5,4.75,,,,1.75,3.55,4.37,1.95,1.9,1.88,1.82,-0.75,2.0,1.85,Famalicao,Arouca,famalicao,arouca
+2026-03-21,P1,Portugal-Liga1,2526,Moreirense,Arouca,0.0,1.0,A,0.0,0.0,D,2.35,3.2,3.0,,,,2.36,3.19,2.92,2.1,1.7,2.09,1.67,-0.25,2.1,1.78,Moreirense,Arouca,moreirense,arouca
+2026-04-12,P1,Portugal-Liga1,2526,Sp Braga,Arouca,1.0,0.0,H,0.0,0.0,D,1.37,4.5,8.0,,,,1.37,4.59,7.19,1.67,2.15,1.64,2.15,-1.25,1.93,1.93,Sp Braga,Arouca,sp_braga,arouca
+2026-04-24,P1,Portugal-Liga1,2526,Alverca,Arouca,2.0,1.0,H,1.0,0.0,H,2.1,3.3,3.3,,,,2.19,3.28,3.12,1.93,1.93,1.89,1.83,-0.25,1.93,1.93,Alverca,Arouca,alverca,arouca
+2026-05-11,P1,Portugal-Liga1,2526,Gil Vicente,Arouca,1.0,3.0,A,0.0,0.0,D,1.66,3.8,4.75,,,,1.69,3.67,4.55,1.83,2.03,1.8,1.91,-0.75,1.93,1.93,Gil Vicente,Arouca,gil_vicente,arouca
+2026-08-08,P1,Portugal-Liga1,2627,Guimaraes,Arouca,0.0,1.0,A,0.0,0.0,D,1.86,3.4,4.0,,,,1.9,3.47,3.83,1.95,1.9,1.87,1.84,-0.5,1.93,1.93,Vitoria Guimaraes,Arouca,vitoria_guimaraes,arouca
+2026-08-23,P1,Portugal-Liga1,2627,Porto,Arouca,2.0,0.0,H,0.0,0.0,D,1.22,5.5,12.0,,,,1.21,5.79,11.96,1.62,2.25,1.59,2.23,-1.75,1.98,1.88,FC Porto,Arouca,fc_porto,arouca
+2026-09-07,P1,Portugal-Liga1,2627,Estoril,Arouca,0.0,0.0,D,0.0,0.0,D,2.25,3.4,3.0,,,,2.24,3.37,2.94,1.85,1.95,1.81,1.91,-0.25,2.03,1.83,Estoril,Arouca,estoril,arouca
+2026-09-19,P1,Portugal-Liga1,2627,Sp Lisbon,Arouca,2.0,2.0,D,2.0,0.0,H,1.19,7.0,11.0,,,,1.2,6.44,11.85,1.44,2.7,1.4,2.79,-2.0,2.03,1.83,Sp Lisbon,Arouca,sp_lisbon,arouca

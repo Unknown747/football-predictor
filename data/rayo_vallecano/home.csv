@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-29,SP1,Spain-LaLiga,2122,Vallecano,Granada,4.0,0.0,H,3.0,0.0,H,2.55,3.2,2.87,2.63,3.3,2.95,2.59,3.2,2.89,2.3,1.61,2.3,1.64,0.0,1.86,2.07,Rayo Vallecano,Granada,rayo_vallecano,granada
+2021-09-18,SP1,Spain-LaLiga,2122,Vallecano,Getafe,3.0,0.0,H,1.0,0.0,H,2.37,2.9,3.4,2.5,3.02,3.43,2.48,2.98,3.28,2.62,1.5,2.68,1.47,-0.25,2.09,1.84,Rayo Vallecano,Getafe,rayo_vallecano,getafe
+2021-09-26,SP1,Spain-LaLiga,2122,Vallecano,Cadiz,3.0,1.0,H,2.0,1.0,H,1.6,3.8,6.0,1.68,3.82,6.02,1.64,3.82,5.78,2.0,1.8,2.04,1.8,-0.75,1.85,2.08,Rayo Vallecano,Cadiz,rayo_vallecano,cadiz
+2021-10-17,SP1,Spain-LaLiga,2122,Vallecano,Elche,2.0,1.0,H,1.0,1.0,D,1.8,3.5,4.75,1.84,3.73,4.7,1.82,3.57,4.65,2.3,1.61,2.29,1.64,-0.5,1.84,2.09,Rayo Vallecano,Elche,rayo_vallecano,elche
+2021-10-27,SP1,Spain-LaLiga,2122,Vallecano,Barcelona,1.0,0.0,H,1.0,0.0,H,4.33,3.75,1.8,4.51,3.83,1.85,4.32,3.78,1.81,1.72,2.1,1.7,2.15,0.75,1.85,2.08,Rayo Vallecano,Barcelona,rayo_vallecano,barcelona
+2021-11-01,SP1,Spain-LaLiga,2122,Vallecano,Celta,0.0,0.0,D,0.0,0.0,D,2.37,3.25,3.1,2.41,3.49,3.12,2.38,3.33,3.03,1.9,1.9,1.99,1.82,-0.25,2.07,1.86,Rayo Vallecano,Celta Vigo,rayo_vallecano,celta_vigo
+2021-11-22,SP1,Spain-LaLiga,2122,Vallecano,Mallorca,3.0,1.0,H,2.0,0.0,H,1.8,3.5,4.75,1.85,3.5,5.01,1.83,3.49,4.67,2.2,1.66,2.17,1.69,-0.5,1.84,2.06,Rayo Vallecano,Mallorca,rayo_vallecano,mallorca
+2021-12-05,SP1,Spain-LaLiga,2122,Vallecano,Espanol,1.0,0.0,H,0.0,0.0,D,2.15,3.1,3.8,2.16,3.31,3.87,2.15,3.25,3.66,2.2,1.66,2.23,1.67,-0.25,1.85,2.08,Rayo Vallecano,Espanyol,rayo_vallecano,espanyol
+2021-12-18,SP1,Spain-LaLiga,2122,Vallecano,Alaves,2.0,0.0,H,2.0,0.0,H,1.72,3.6,5.0,1.82,3.5,5.3,1.8,3.55,4.84,2.2,1.66,2.16,1.71,-0.75,2.06,1.84,Rayo Vallecano,Deportivo Alaves,rayo_vallecano,deportivo_alaves
+2022-01-09,SP1,Spain-LaLiga,2122,Vallecano,Betis,1.0,1.0,D,0.0,1.0,A,2.5,3.4,2.8,2.57,3.51,2.79,2.52,3.46,2.76,1.91,1.99,1.87,1.95,0.0,1.85,2.08,Rayo Vallecano,Real Betis,rayo_vallecano,real_betis
+2022-01-23,SP1,Spain-LaLiga,2122,Vallecano,Ath Bilbao,0.0,1.0,A,0.0,1.0,A,2.75,3.0,2.8,2.96,2.8,2.96,2.84,2.88,2.86,2.5,1.53,2.49,1.54,0.0,1.95,1.95,Rayo Vallecano,Athletic Bilbao,rayo_vallecano,athletic_bilbao
+2022-02-12,SP1,Spain-LaLiga,2122,Vallecano,Osasuna,0.0,3.0,A,0.0,2.0,A,2.15,3.25,3.5,2.22,3.22,3.81,2.2,3.17,3.64,2.3,1.61,2.31,1.62,-0.25,1.86,2.04,Rayo Vallecano,Osasuna,rayo_vallecano,osasuna
+2022-02-26,SP1,Spain-LaLiga,2122,Vallecano,Real Madrid,0.0,1.0,A,0.0,0.0,D,5.0,3.8,1.66,5.33,4.21,1.67,5.07,4.05,1.67,1.86,2.04,1.81,2.03,0.75,2.05,1.85,Rayo Vallecano,Real Madrid,rayo_vallecano,real_madrid
+2022-03-13,SP1,Spain-LaLiga,2122,Vallecano,Sevilla,1.0,1.0,D,0.0,0.0,D,3.4,3.1,2.3,3.44,3.23,2.37,3.34,3.17,2.33,2.5,1.53,2.5,1.54,0.25,1.86,2.04,Rayo Vallecano,Sevilla,rayo_vallecano,sevilla
+2022-03-19,SP1,Spain-LaLiga,2122,Vallecano,Ath Madrid,0.0,1.0,A,0.0,0.0,D,4.0,3.25,2.0,4.1,3.44,2.05,3.94,3.31,2.05,2.3,1.61,2.27,1.65,0.5,1.83,2.07,Rayo Vallecano,Atletico Madrid,rayo_vallecano,atletico_madrid
+2022-04-11,SP1,Spain-LaLiga,2122,Vallecano,Valencia,1.0,1.0,D,0.0,0.0,D,2.2,3.3,3.3,2.26,3.33,3.59,2.25,3.27,3.4,2.3,1.61,2.26,1.64,-0.25,1.93,1.97,Rayo Vallecano,Valencia,rayo_vallecano,valencia
+2022-05-01,SP1,Spain-LaLiga,2122,Vallecano,Sociedad,1.0,1.0,D,0.0,1.0,A,3.3,3.1,2.37,3.31,3.27,2.41,3.21,3.19,2.38,2.3,1.61,2.32,1.62,0.25,1.86,2.04,Rayo Vallecano,Real Sociedad,rayo_vallecano,real_sociedad
+2022-05-12,SP1,Spain-LaLiga,2122,Vallecano,Villarreal,1.0,5.0,A,1.0,4.0,A,4.2,3.8,1.8,4.55,3.84,1.84,4.44,3.75,1.81,2.02,1.88,1.97,1.86,0.75,1.83,2.07,Rayo Vallecano,Villarreal,rayo_vallecano,villarreal
+2022-05-20,SP1,Spain-LaLiga,2122,Vallecano,Levante,2.0,4.0,A,1.0,3.0,A,1.85,4.0,3.8,1.89,4.07,3.91,1.89,3.97,3.85,1.57,2.37,1.55,2.44,-0.5,1.88,2.02,Rayo Vallecano,Levante,rayo_vallecano,levante
+2022-08-27,SP1,Spain-LaLiga,2223,Vallecano,Mallorca,0.0,2.0,A,0.0,1.0,A,2.05,3.25,4.0,2.08,3.23,4.3,2.07,3.23,4.02,2.37,1.57,2.34,1.61,-0.5,2.07,1.83,Rayo Vallecano,Mallorca,rayo_vallecano,mallorca
+2022-09-10,SP1,Spain-LaLiga,2223,Vallecano,Valencia,2.0,1.0,H,1.0,0.0,H,2.62,3.1,2.87,2.69,3.16,3.0,2.6,3.17,2.9,2.1,1.72,2.15,1.71,0.0,1.84,2.06,Rayo Vallecano,Valencia,rayo_vallecano,valencia
+2022-10-03,SP1,Spain-LaLiga,2223,Vallecano,Elche,2.0,1.0,H,1.0,1.0,D,1.72,3.6,5.25,1.74,3.82,5.31,1.73,3.68,5.13,2.1,1.72,2.07,1.76,-0.75,1.91,1.99,Rayo Vallecano,Elche,rayo_vallecano,elche
+2022-10-14,SP1,Spain-LaLiga,2223,Vallecano,Getafe,0.0,0.0,D,0.0,0.0,D,2.05,3.2,3.8,2.09,3.16,4.39,2.07,3.18,4.12,2.62,1.5,2.54,1.51,-0.5,2.07,1.83,Rayo Vallecano,Getafe,rayo_vallecano,getafe
+2022-10-22,SP1,Spain-LaLiga,2223,Vallecano,Cadiz,5.0,1.0,H,2.0,0.0,H,1.72,3.5,5.25,1.76,3.64,5.52,1.75,3.58,5.17,2.2,1.66,2.24,1.67,-0.75,1.98,1.92,Rayo Vallecano,Cadiz,rayo_vallecano,cadiz
+2022-11-07,SP1,Spain-LaLiga,2223,Vallecano,Real Madrid,3.0,2.0,H,2.0,2.0,D,4.75,4.2,1.65,5.6,4.1,1.66,5.2,4.11,1.64,1.72,2.1,1.75,2.08,0.75,2.07,1.83,Rayo Vallecano,Real Madrid,rayo_vallecano,real_madrid
+2022-11-10,SP1,Spain-LaLiga,2223,Vallecano,Celta,0.0,0.0,D,0.0,0.0,D,2.2,3.2,3.5,2.19,3.34,3.76,2.17,3.3,3.57,2.2,1.66,2.2,1.68,-0.25,1.84,2.06,Rayo Vallecano,Celta Vigo,rayo_vallecano,celta_vigo
+2023-01-08,SP1,Spain-LaLiga,2223,Vallecano,Betis,1.0,2.0,A,1.0,2.0,A,2.3,3.3,3.2,2.38,3.33,3.31,2.34,3.28,3.22,2.2,1.67,2.25,1.66,-0.25,2.02,1.88,Rayo Vallecano,Real Betis,rayo_vallecano,real_betis
+2023-01-21,SP1,Spain-LaLiga,2223,Vallecano,Sociedad,0.0,2.0,A,0.0,2.0,A,3.1,3.2,2.38,3.21,3.23,2.49,3.14,3.16,2.45,2.38,1.57,2.45,1.56,0.25,1.81,2.09,Rayo Vallecano,Real Sociedad,rayo_vallecano,real_sociedad
+2023-02-06,SP1,Spain-LaLiga,2223,Vallecano,Almeria,2.0,0.0,H,0.0,0.0,D,1.73,3.6,5.0,1.76,3.8,5.19,1.75,3.73,4.88,2.06,1.84,2.02,1.81,-0.75,2.0,1.93,Rayo Vallecano,Almeria,rayo_vallecano,almeria
+2023-02-19,SP1,Spain-LaLiga,2223,Vallecano,Sevilla,1.0,1.0,D,0.0,1.0,A,2.5,3.1,3.0,2.55,3.22,3.14,2.5,3.15,3.07,2.3,1.62,2.38,1.59,-0.25,2.14,1.77,Rayo Vallecano,Sevilla,rayo_vallecano,sevilla
+2023-03-05,SP1,Spain-LaLiga,2223,Vallecano,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,2.9,3.1,2.6,3.18,3.08,2.57,3.04,3.13,2.53,2.3,1.62,2.4,1.58,0.25,1.68,2.15,Rayo Vallecano,Athletic Bilbao,rayo_vallecano,athletic_bilbao
+2023-03-18,SP1,Spain-LaLiga,2223,Vallecano,Girona,2.0,2.0,D,2.0,1.0,H,2.0,3.4,3.8,2.11,3.44,3.79,2.08,3.39,3.72,2.1,1.73,2.15,1.72,-0.5,2.07,1.83,Rayo Vallecano,Girona,rayo_vallecano,girona
+2023-04-09,SP1,Spain-LaLiga,2223,Vallecano,Ath Madrid,1.0,2.0,A,0.0,2.0,A,4.33,3.5,1.85,4.68,3.45,1.9,4.45,3.45,1.89,2.3,1.62,2.32,1.62,0.5,2.0,1.9,Rayo Vallecano,Atletico Madrid,rayo_vallecano,atletico_madrid
+2023-04-14,SP1,Spain-LaLiga,2223,Vallecano,Osasuna,2.0,1.0,H,2.0,0.0,H,2.2,3.1,3.6,2.22,3.13,3.87,2.21,3.11,3.73,2.5,1.53,2.48,1.55,-0.25,1.9,2.03,Rayo Vallecano,Osasuna,rayo_vallecano,osasuna
+2023-04-26,SP1,Spain-LaLiga,2223,Vallecano,Barcelona,2.0,1.0,H,1.0,0.0,H,4.75,3.75,1.73,5.02,3.84,1.75,4.9,3.72,1.75,2.0,1.8,2.06,1.77,0.75,1.89,2.01,Rayo Vallecano,Barcelona,rayo_vallecano,barcelona
+2023-05-04,SP1,Spain-LaLiga,2223,Vallecano,Valladolid,2.0,1.0,H,0.0,0.0,D,1.73,3.8,4.75,1.81,3.74,4.73,1.79,3.73,4.59,1.99,1.91,1.97,1.86,-0.75,2.0,1.9,Rayo Vallecano,Real Valladolid,rayo_vallecano,real_valladolid
+2023-05-21,SP1,Spain-LaLiga,2223,Vallecano,Espanol,1.0,2.0,A,1.0,1.0,D,2.15,3.4,3.4,2.17,3.53,3.51,2.17,3.46,3.42,2.03,1.87,2.0,1.83,-0.25,1.87,2.03,Rayo Vallecano,Espanyol,rayo_vallecano,espanyol
+2023-05-28,SP1,Spain-LaLiga,2223,Vallecano,Villarreal,2.0,1.0,H,0.0,0.0,D,3.0,3.6,2.2,3.08,3.92,2.23,3.01,3.7,2.25,1.67,2.2,1.69,2.18,0.25,1.92,1.98,Rayo Vallecano,Villarreal,rayo_vallecano,villarreal
+2023-08-28,SP1,Spain-LaLiga,2324,Vallecano,Ath Madrid,0.0,7.0,A,0.0,3.0,A,4.2,3.3,1.95,4.16,3.48,2.0,4.04,3.47,1.97,2.1,1.73,2.12,1.74,0.5,1.92,1.98,Rayo Vallecano,Atletico Madrid,rayo_vallecano,atletico_madrid
+2023-09-15,SP1,Spain-LaLiga,2324,Vallecano,Alaves,2.0,0.0,H,1.0,0.0,H,2.0,3.25,4.0,2.03,3.23,4.52,2.01,3.2,4.36,2.63,1.5,2.66,1.49,-0.5,2.03,1.9,Rayo Vallecano,Deportivo Alaves,rayo_vallecano,deportivo_alaves
+2023-09-24,SP1,Spain-LaLiga,2324,Vallecano,Villarreal,1.0,1.0,D,1.0,1.0,D,2.5,3.5,2.63,2.56,3.54,2.83,2.52,3.54,2.74,1.73,2.1,1.76,2.1,0.0,1.86,2.04,Rayo Vallecano,Villarreal,rayo_vallecano,villarreal
+2023-09-30,SP1,Spain-LaLiga,2324,Vallecano,Mallorca,2.0,2.0,D,1.0,1.0,D,2.1,3.1,4.0,2.16,3.16,4.04,2.18,3.15,3.79,2.4,1.53,2.45,1.56,-0.25,1.83,2.1,Rayo Vallecano,Mallorca,rayo_vallecano,mallorca
+2023-10-29,SP1,Spain-LaLiga,2324,Vallecano,Sociedad,2.0,2.0,D,1.0,1.0,D,3.1,3.2,2.38,3.34,3.11,2.46,3.21,3.14,2.43,2.35,1.57,2.41,1.59,0.25,1.85,2.08,Rayo Vallecano,Real Sociedad,rayo_vallecano,real_sociedad
+2023-11-11,SP1,Spain-LaLiga,2324,Vallecano,Girona,1.0,2.0,A,1.0,1.0,D,2.88,3.5,2.4,2.92,3.48,2.48,2.88,3.51,2.45,1.85,2.05,1.83,2.01,0.25,1.75,2.05,Rayo Vallecano,Girona,rayo_vallecano,girona
+2023-11-25,SP1,Spain-LaLiga,2324,Vallecano,Barcelona,1.0,1.0,D,1.0,0.0,H,5.25,4.0,1.65,5.39,4.09,1.65,5.13,4.13,1.65,1.73,2.08,1.73,2.14,0.75,2.09,1.84,Rayo Vallecano,Barcelona,rayo_vallecano,barcelona
+2023-12-11,SP1,Spain-LaLiga,2324,Vallecano,Celta,0.0,0.0,D,0.0,0.0,D,2.45,3.1,3.1,2.51,3.31,3.02,2.44,3.32,3.0,2.08,1.73,2.05,1.79,-0.25,2.13,1.78,Rayo Vallecano,Celta Vigo,rayo_vallecano,celta_vigo
+2023-12-19,SP1,Spain-LaLiga,2324,Vallecano,Valencia,0.0,1.0,A,0.0,0.0,D,2.2,3.2,3.5,2.24,3.18,3.74,2.22,3.2,3.58,2.35,1.57,2.4,1.59,-0.25,1.93,2.0,Rayo Vallecano,Valencia,rayo_vallecano,valencia
+2024-01-20,SP1,Spain-LaLiga,2324,Vallecano,Las Palmas,0.0,2.0,A,0.0,1.0,A,1.85,3.3,4.5,1.93,3.42,4.5,1.92,3.43,4.37,2.3,1.6,2.33,1.62,-0.5,1.91,1.99,Rayo Vallecano,Las Palmas,rayo_vallecano,las_palmas
+2024-02-05,SP1,Spain-LaLiga,2324,Vallecano,Sevilla,1.0,2.0,A,1.0,2.0,A,2.15,3.3,3.5,2.18,3.36,3.61,2.19,3.34,3.45,2.15,1.67,2.18,1.69,-0.25,1.88,2.02,Rayo Vallecano,Sevilla,rayo_vallecano,sevilla
+2024-02-18,SP1,Spain-LaLiga,2324,Vallecano,Real Madrid,1.0,1.0,D,1.0,1.0,D,6.0,3.75,1.62,5.43,4.12,1.64,5.49,4.07,1.63,1.88,2.02,1.84,2.0,0.75,2.08,1.82,Rayo Vallecano,Real Madrid,rayo_vallecano,real_madrid
+2024-03-02,SP1,Spain-LaLiga,2324,Vallecano,Cadiz,1.0,1.0,D,0.0,0.0,D,1.8,3.3,5.25,1.84,3.32,5.25,1.83,3.34,5.09,2.6,1.48,2.6,1.5,-0.75,2.05,1.75,Rayo Vallecano,Cadiz,rayo_vallecano,cadiz
+2024-03-17,SP1,Spain-LaLiga,2324,Vallecano,Betis,2.0,0.0,H,1.0,0.0,H,2.5,3.25,3.0,2.51,3.31,3.0,2.49,3.23,2.98,2.25,1.62,2.25,1.66,-0.25,2.15,1.79,Rayo Vallecano,Real Betis,rayo_vallecano,real_betis
+2024-04-13,SP1,Spain-LaLiga,2324,Vallecano,Getafe,0.0,0.0,D,0.0,0.0,D,2.2,3.0,3.7,2.26,3.07,3.77,2.23,3.05,3.73,2.6,1.48,2.6,1.5,-0.25,1.89,2.01,Rayo Vallecano,Getafe,rayo_vallecano,getafe
+2024-04-20,SP1,Spain-LaLiga,2324,Vallecano,Osasuna,2.0,1.0,H,0.0,1.0,A,2.2,3.1,3.6,2.24,3.12,3.73,2.22,3.13,3.63,2.63,1.5,2.61,1.5,-0.25,1.88,2.02,Rayo Vallecano,Osasuna,rayo_vallecano,osasuna
+2024-05-05,SP1,Spain-LaLiga,2324,Vallecano,Almeria,0.0,1.0,A,0.0,1.0,A,1.57,4.0,5.75,1.6,4.2,5.76,1.58,4.15,5.8,1.85,2.05,1.83,2.0,-1.0,2.04,1.89,Rayo Vallecano,Almeria,rayo_vallecano,almeria
+2024-05-15,SP1,Spain-LaLiga,2324,Vallecano,Granada,2.0,1.0,H,1.0,0.0,H,1.65,3.8,5.5,1.68,3.79,5.66,1.67,3.77,5.54,2.2,1.67,2.18,1.71,-0.75,1.87,2.03,Rayo Vallecano,Granada,rayo_vallecano,granada
+2024-05-25,SP1,Spain-LaLiga,2324,Vallecano,Ath Bilbao,0.0,1.0,A,0.0,0.0,D,2.88,3.5,2.38,2.87,3.54,2.45,2.88,3.51,2.41,1.73,2.1,1.76,2.08,0.25,1.82,2.08,Rayo Vallecano,Athletic Bilbao,rayo_vallecano,athletic_bilbao
+2024-08-27,SP1,Spain-LaLiga,2425,Vallecano,Barcelona,1.0,2.0,A,1.0,0.0,H,5.25,3.8,1.62,5.7,4.07,1.64,5.33,3.95,1.66,1.91,1.99,1.88,1.95,0.75,2.11,1.82,Rayo Vallecano,Barcelona,rayo_vallecano,barcelona
+2024-09-16,SP1,Spain-LaLiga,2425,Vallecano,Osasuna,3.0,1.0,H,0.0,1.0,A,2.05,3.1,4.0,2.08,3.18,4.13,2.1,3.17,3.95,2.63,1.5,2.57,1.51,-0.25,1.73,2.08,Rayo Vallecano,Osasuna,rayo_vallecano,osasuna
+2024-09-22,SP1,Spain-LaLiga,2425,Vallecano,Ath Madrid,1.0,1.0,D,1.0,0.0,H,5.0,3.4,1.8,4.96,3.53,1.81,4.79,3.52,1.81,2.2,1.67,2.22,1.68,0.75,1.84,2.06,Rayo Vallecano,Atletico Madrid,rayo_vallecano,atletico_madrid
+2024-09-28,SP1,Spain-LaLiga,2425,Vallecano,Leganes,1.0,1.0,D,1.0,0.0,H,1.9,3.0,5.0,1.93,3.18,4.94,1.94,3.14,4.79,3.0,1.4,2.84,1.42,-0.5,1.92,1.98,Rayo Vallecano,Leganes,rayo_vallecano,leganes
+2024-10-26,SP1,Spain-LaLiga,2425,Vallecano,Alaves,1.0,0.0,H,0.0,0.0,D,2.25,3.1,3.5,2.26,3.1,3.74,2.26,3.09,3.6,2.5,1.53,2.49,1.55,-0.25,1.95,1.95,Rayo Vallecano,Deportivo Alaves,rayo_vallecano,deportivo_alaves
+2024-11-08,SP1,Spain-LaLiga,2425,Vallecano,Las Palmas,1.0,3.0,A,0.0,1.0,A,1.83,3.4,4.5,1.88,3.44,4.83,1.88,3.43,4.56,2.2,1.67,2.26,1.66,-0.5,1.88,2.02,Rayo Vallecano,Las Palmas,rayo_vallecano,las_palmas
+2024-12-01,SP1,Spain-LaLiga,2425,Vallecano,Ath Bilbao,1.0,2.0,A,1.0,0.0,H,2.8,3.1,2.7,2.91,3.16,2.68,2.84,3.08,2.69,2.38,1.57,2.42,1.57,0.0,2.01,1.89,Rayo Vallecano,Athletic Bilbao,rayo_vallecano,athletic_bilbao
+2024-12-14,SP1,Spain-LaLiga,2425,Vallecano,Real Madrid,3.0,3.0,D,2.0,2.0,D,6.0,3.8,1.57,6.07,3.97,1.61,5.79,4.01,1.6,1.89,2.01,1.84,1.99,1.0,1.86,2.04,Rayo Vallecano,Real Madrid,rayo_vallecano,real_madrid
+2025-01-10,SP1,Spain-LaLiga,2425,Vallecano,Celta,2.0,1.0,H,1.0,1.0,D,2.75,3.1,2.7,2.83,3.11,2.8,2.81,3.07,2.74,2.2,1.67,2.22,1.66,0.0,1.99,1.94,Rayo Vallecano,Celta Vigo,rayo_vallecano,celta_vigo
+2025-01-26,SP1,Spain-LaLiga,2425,Vallecano,Girona,2.0,1.0,H,0.0,0.0,D,2.75,2.9,2.88,2.75,3.1,2.88,2.72,3.06,2.82,2.2,1.67,2.2,1.68,0.0,1.91,1.99,Rayo Vallecano,Girona,rayo_vallecano,girona
+2025-02-07,SP1,Spain-LaLiga,2425,Vallecano,Valladolid,1.0,0.0,H,0.0,0.0,D,1.5,4.1,7.0,1.5,4.27,7.31,1.49,4.25,7.3,2.0,1.8,2.05,1.79,-1.0,1.89,2.04,Rayo Vallecano,Real Valladolid,rayo_vallecano,real_valladolid
+2025-02-22,SP1,Spain-LaLiga,2425,Vallecano,Villarreal,0.0,1.0,A,0.0,0.0,D,2.88,3.5,2.38,3.09,3.37,2.42,2.98,3.42,2.39,1.8,2.0,1.79,2.04,0.25,1.81,2.09,Rayo Vallecano,Villarreal,rayo_vallecano,villarreal
+2025-03-01,SP1,Spain-LaLiga,2425,Vallecano,Sevilla,1.0,1.0,D,0.0,0.0,D,2.3,3.2,3.3,2.32,3.25,3.4,2.3,3.23,3.31,2.2,1.67,2.23,1.67,-0.25,2.01,1.92,Rayo Vallecano,Sevilla,rayo_vallecano,sevilla
+2025-03-16,SP1,Spain-LaLiga,2425,Vallecano,Sociedad,2.0,2.0,D,0.0,1.0,A,2.5,3.0,3.1,2.51,3.15,3.16,2.49,3.08,3.12,2.63,1.5,2.67,1.47,-0.25,2.11,1.79,Rayo Vallecano,Real Sociedad,rayo_vallecano,real_sociedad
+2025-04-04,SP1,Spain-LaLiga,2425,Vallecano,Espanol,0.0,4.0,A,0.0,2.0,A,1.65,3.5,6.0,1.69,3.64,6.13,1.69,3.55,5.88,2.38,1.57,2.45,1.55,-0.75,1.94,1.99,Rayo Vallecano,Espanyol,rayo_vallecano,espanyol
+2025-04-19,SP1,Spain-LaLiga,2425,Vallecano,Valencia,1.0,1.0,D,1.0,0.0,H,2.25,3.0,3.4,2.31,3.17,3.5,2.29,3.13,3.37,2.38,1.57,2.37,1.58,-0.25,1.98,1.92,Rayo Vallecano,Valencia,rayo_vallecano,valencia
+2025-05-02,SP1,Spain-LaLiga,2425,Vallecano,Getafe,1.0,0.0,H,1.0,0.0,H,2.38,3.0,3.4,2.45,3.03,3.45,2.42,2.98,3.38,2.63,1.5,2.66,1.47,-0.25,2.04,1.86,Rayo Vallecano,Getafe,rayo_vallecano,getafe
+2025-05-15,SP1,Spain-LaLiga,2425,Vallecano,Betis,2.0,2.0,D,2.0,0.0,H,3.0,3.2,2.4,3.14,3.07,2.57,3.05,3.13,2.48,2.07,1.83,2.04,1.79,0.25,1.8,2.1,Rayo Vallecano,Real Betis,rayo_vallecano,real_betis
+2025-05-24,SP1,Spain-LaLiga,2425,Vallecano,Mallorca,0.0,0.0,D,0.0,0.0,D,1.53,4.2,6.25,1.56,4.19,6.3,1.53,4.1,6.46,2.1,1.73,2.14,1.71,-1.0,1.95,1.9,Rayo Vallecano,Mallorca,rayo_vallecano,mallorca
+2025-08-31,SP1,Spain-LaLiga,2526,Vallecano,Barcelona,1.0,1.0,D,0.0,1.0,A,6.25,5.5,1.4,6.92,5.34,1.41,6.74,5.11,1.39,1.44,2.75,1.41,2.74,1.25,2.03,1.83,Rayo Vallecano,Barcelona,rayo_vallecano,barcelona
+2025-09-21,SP1,Spain-LaLiga,2526,Vallecano,Celta,1.0,1.0,D,0.0,0.0,D,2.3,3.3,3.2,2.33,3.31,3.3,2.31,3.23,3.09,2.0,1.8,2.02,1.74,-0.25,1.98,1.88,Rayo Vallecano,Celta Vigo,rayo_vallecano,celta_vigo
+2025-09-28,SP1,Spain-LaLiga,2526,Vallecano,Sevilla,0.0,1.0,A,0.0,0.0,D,2.0,3.3,4.0,2.04,3.39,4.02,2.0,3.28,3.8,2.1,1.73,2.1,1.69,-0.5,2.03,1.83,Rayo Vallecano,Sevilla,rayo_vallecano,sevilla
+2025-10-26,SP1,Spain-LaLiga,2526,Vallecano,Alaves,1.0,0.0,H,0.0,0.0,D,2.1,3.1,3.9,2.15,3.09,4.08,2.08,3.06,3.88,2.63,1.5,2.53,1.48,-0.25,1.8,2.05,Rayo Vallecano,Deportivo Alaves,rayo_vallecano,deportivo_alaves
+2025-11-09,SP1,Spain-LaLiga,2526,Vallecano,Real Madrid,0.0,0.0,D,0.0,0.0,D,5.25,5.0,1.5,6.16,4.85,1.5,5.93,4.64,1.47,1.57,2.38,1.57,2.3,1.25,1.75,2.05,Rayo Vallecano,Real Madrid,rayo_vallecano,real_madrid
+2025-12-01,SP1,Spain-LaLiga,2526,Vallecano,Valencia,1.0,1.0,D,1.0,0.0,H,1.95,3.4,4.1,1.98,3.41,4.25,1.92,3.3,4.11,2.1,1.73,2.08,1.7,-0.5,1.98,1.88,Rayo Vallecano,Valencia,rayo_vallecano,valencia
+2025-12-15,SP1,Spain-LaLiga,2526,Vallecano,Betis,0.0,0.0,D,0.0,0.0,D,2.55,3.4,2.75,2.65,3.48,2.71,2.52,3.35,2.69,1.95,1.9,1.92,1.83,0.0,1.88,1.98,Rayo Vallecano,Real Betis,rayo_vallecano,real_betis
+2026-01-02,SP1,Spain-LaLiga,2526,Vallecano,Getafe,1.0,1.0,D,1.0,0.0,H,2.05,2.9,4.5,2.11,2.96,4.63,2.04,2.86,4.46,3.4,1.33,3.19,1.33,-0.5,2.05,1.8,Rayo Vallecano,Getafe,rayo_vallecano,getafe
+2026-01-11,SP1,Spain-LaLiga,2526,Vallecano,Mallorca,2.0,1.0,H,2.0,1.0,H,1.91,3.3,4.33,1.93,3.24,4.78,1.88,3.23,4.46,2.5,1.53,2.4,1.53,-0.5,1.93,1.93,Rayo Vallecano,Mallorca,rayo_vallecano,mallorca
+2026-01-24,SP1,Spain-LaLiga,2526,Vallecano,Osasuna,1.0,3.0,A,0.0,1.0,A,2.15,3.25,3.6,,,,2.13,3.15,3.68,2.3,1.62,2.32,1.56,-0.25,1.83,2.03,Rayo Vallecano,Osasuna,rayo_vallecano,osasuna
+2026-02-15,SP1,Spain-LaLiga,2526,Vallecano,Ath Madrid,3.0,0.0,H,2.0,0.0,H,4.2,3.3,1.83,,,,4.1,3.45,1.86,2.1,1.73,2.04,1.72,0.5,1.98,1.88,Rayo Vallecano,Atletico Madrid,rayo_vallecano,atletico_madrid
+2026-02-28,SP1,Spain-LaLiga,2526,Vallecano,Ath Bilbao,1.0,1.0,D,1.0,0.0,H,2.4,3.1,3.2,,,,2.41,3.09,3.1,2.3,1.62,2.26,1.59,-0.25,2.05,1.8,Rayo Vallecano,Athletic Bilbao,rayo_vallecano,athletic_bilbao
+2026-03-04,SP1,Spain-LaLiga,2526,Vallecano,Oviedo,3.0,0.0,H,1.0,0.0,H,1.67,3.75,5.25,,,,1.68,3.63,5.22,2.2,1.67,2.09,1.69,-0.75,1.93,1.93,Rayo Vallecano,Real Oviedo,rayo_vallecano,real_oviedo
+2026-03-16,SP1,Spain-LaLiga,2526,Vallecano,Levante,1.0,1.0,D,0.0,1.0,A,1.7,3.75,5.0,,,,1.67,3.74,4.92,1.91,1.91,1.86,1.87,-0.75,1.93,1.93,Rayo Vallecano,Levante,rayo_vallecano,levante
+2026-04-03,SP1,Spain-LaLiga,2526,Vallecano,Elche,1.0,0.0,H,0.0,0.0,D,1.75,3.9,4.75,,,,1.72,3.77,4.7,1.8,2.0,1.8,1.96,-0.75,1.98,1.88,Rayo Vallecano,Elche,rayo_vallecano,elche
+2026-04-23,SP1,Spain-LaLiga,2526,Vallecano,Espanol,1.0,0.0,H,0.0,0.0,D,2.1,3.25,3.75,,,,2.08,3.2,3.65,2.1,1.73,2.11,1.67,-0.5,2.08,1.73,Rayo Vallecano,Espanyol,rayo_vallecano,espanyol
+2026-04-26,SP1,Spain-LaLiga,2526,Vallecano,Sociedad,3.0,3.0,D,1.0,1.0,D,2.7,3.1,2.7,,,,2.62,3.23,2.63,2.0,1.8,1.92,1.81,0.0,1.93,1.93,Rayo Vallecano,Real Sociedad,rayo_vallecano,real_sociedad
+2026-05-11,SP1,Spain-LaLiga,2526,Vallecano,Girona,1.0,1.0,D,0.0,0.0,D,2.3,3.5,3.0,,,,2.3,3.39,2.92,1.83,2.03,1.77,1.97,-0.25,2.05,1.8,Rayo Vallecano,Girona,rayo_vallecano,girona
+2026-05-17,SP1,Spain-LaLiga,2526,Vallecano,Villarreal,2.0,0.0,H,1.0,0.0,H,2.35,3.5,2.63,,,,2.38,3.48,2.69,1.73,2.1,1.71,2.05,0.0,1.8,2.05,Rayo Vallecano,Villarreal,rayo_vallecano,villarreal
+2026-08-20,SP1,Spain-LaLiga,2627,Vallecano,Alaves,1.0,1.0,D,0.0,0.0,D,2.25,3.0,3.6,,,,2.23,2.99,3.52,2.75,1.44,2.63,1.45,-0.25,1.93,1.93,Rayo Vallecano,Deportivo Alaves,rayo_vallecano,deportivo_alaves
+2026-09-05,SP1,Spain-LaLiga,2627,Vallecano,Santander,3.0,2.0,H,2.0,2.0,D,2.25,3.25,3.3,,,,2.25,3.38,3.12,1.83,2.03,1.79,1.96,-0.25,1.98,1.88,Rayo Vallecano,Santander,rayo_vallecano,santander
+2026-09-15,SP1,Spain-LaLiga,2627,Vallecano,Espanol,2.0,1.0,H,2.0,0.0,H,2.3,3.3,3.1,,,,2.3,3.37,3.03,1.95,1.9,1.87,1.87,-0.25,2.03,1.83,Rayo Vallecano,Espanyol,rayo_vallecano,espanyol

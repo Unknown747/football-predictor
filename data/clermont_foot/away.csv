@@ -1,0 +1,94 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-08,F1,France-L1,2122,Bordeaux,Clermont,0.0,2.0,A,0.0,0.0,D,2.0,3.4,3.75,2.13,3.47,3.79,2.08,3.39,3.63,2.1,1.72,2.12,1.73,-0.25,1.81,2.09,Bordeaux,Clermont Foot,bordeaux,clermont_foot
+2021-08-22,F1,France-L1,2122,Lyon,Clermont,3.0,3.0,D,3.0,1.0,H,1.55,4.5,5.25,1.61,4.29,5.8,1.6,4.21,5.39,1.66,2.2,1.64,2.26,-1.0,2.05,1.88,Olympique Lyonnais,Clermont Foot,olympique_lyonnais,clermont_foot
+2021-09-11,F1,France-L1,2122,Paris SG,Clermont,4.0,0.0,H,2.0,0.0,H,1.25,6.5,10.0,1.26,6.37,12.02,1.26,6.08,10.92,1.44,2.75,1.45,2.73,-1.75,2.05,1.88,Paris Saint-Germain,Clermont Foot,paris_saint_germain,clermont_foot
+2021-09-22,F1,France-L1,2122,Rennes,Clermont,6.0,0.0,H,2.0,0.0,H,1.95,3.6,3.8,2.04,3.63,3.9,2.01,3.53,3.75,1.9,1.9,1.96,1.87,-0.5,2.05,1.85,Stade Rennais,Clermont Foot,stade_rennais,clermont_foot
+2021-10-03,F1,France-L1,2122,Lorient,Clermont,1.0,1.0,D,0.0,1.0,A,2.4,3.5,2.8,2.54,3.41,2.99,2.45,3.38,2.92,1.9,1.9,1.93,1.9,-0.25,2.08,1.73,Lorient,Clermont Foot,lorient,clermont_foot
+2021-10-23,F1,France-L1,2122,Nantes,Clermont,2.0,1.0,H,1.0,0.0,H,2.2,3.5,3.2,2.28,3.47,3.38,2.22,3.4,3.24,2.0,1.8,1.98,1.84,-0.25,1.98,1.95,FC Nantes,Clermont Foot,fc_nantes,clermont_foot
+2021-11-07,F1,France-L1,2122,St Etienne,Clermont,3.0,2.0,H,0.0,0.0,D,2.5,3.3,2.9,2.58,3.43,2.91,2.51,3.37,2.83,1.8,2.0,1.8,2.03,0.0,1.85,2.08,Saint-Etienne,Clermont Foot,saint_etienne,clermont_foot
+2021-11-28,F1,France-L1,2122,Reims,Clermont,1.0,0.0,H,0.0,0.0,D,2.45,3.1,3.1,2.51,3.2,3.21,2.45,3.17,3.08,2.3,1.61,2.25,1.64,-0.25,2.13,1.81,Stade de Reims,Clermont Foot,stade_de_reims,clermont_foot
+2021-12-05,F1,France-L1,2122,Montpellier,Clermont,1.0,0.0,H,1.0,0.0,H,2.1,3.7,3.3,2.18,3.68,3.44,2.12,3.64,3.31,1.66,2.2,1.72,2.15,-0.25,1.9,2.0,Montpellier,Clermont Foot,montpellier,clermont_foot
+2021-12-12,F1,France-L1,2122,Angers,Clermont,0.0,1.0,A,0.0,0.0,D,2.05,3.4,3.75,2.09,3.48,3.91,2.06,3.39,3.71,2.1,1.72,2.09,1.75,-0.5,2.08,1.85,Angers,Clermont Foot,angers,clermont_foot
+2022-01-16,F1,France-L1,2122,Monaco,Clermont,4.0,0.0,H,1.0,0.0,H,1.45,4.5,6.5,1.46,4.75,6.94,1.47,4.54,6.66,1.72,2.1,1.73,2.11,-1.0,1.75,2.05,AS Monaco,Clermont Foot,as_monaco,clermont_foot
+2022-02-06,F1,France-L1,2122,Nice,Clermont,0.0,1.0,A,0.0,0.0,D,1.55,4.2,6.0,1.56,4.33,6.0,1.58,4.18,5.69,1.86,2.04,1.82,2.0,-1.0,1.99,1.91,OGC Nice,Clermont Foot,ogc_nice,clermont_foot
+2022-02-20,F1,France-L1,2122,Marseille,Clermont,0.0,2.0,A,0.0,1.0,A,1.5,4.2,7.5,1.47,4.7,7.66,1.46,4.54,7.0,1.72,2.1,1.78,2.05,-1.25,2.08,1.82,Olympique Marseille,Clermont Foot,olympique_marseille,clermont_foot
+2022-03-06,F1,France-L1,2122,Lille,Clermont,4.0,0.0,H,1.0,0.0,H,1.7,3.5,5.25,1.75,3.58,5.73,1.73,3.64,5.21,2.08,1.82,2.02,1.8,-0.75,1.96,1.94,Lille,Clermont Foot,lille,clermont_foot
+2022-03-19,F1,France-L1,2122,Lens,Clermont,3.0,1.0,H,2.0,1.0,H,1.65,3.8,5.5,1.72,3.78,5.63,1.68,3.8,5.27,2.03,1.87,1.96,1.86,-0.75,1.85,2.05,RC Lens,Clermont Foot,rc_lens,clermont_foot
+2022-04-17,F1,France-L1,2122,Metz,Clermont,1.0,1.0,D,1.0,1.0,D,2.8,3.1,2.7,2.84,3.22,2.79,2.74,3.2,2.7,2.2,1.66,2.24,1.65,0.0,1.97,1.93,Metz,Clermont Foot,metz,clermont_foot
+2022-04-20,F1,France-L1,2122,Troyes,Clermont,0.0,1.0,A,0.0,0.0,D,2.3,3.25,3.3,2.36,3.41,3.28,2.31,3.32,3.2,2.2,1.66,2.15,1.71,-0.25,2.01,1.92,Troyes,Clermont Foot,troyes,clermont_foot
+2022-05-01,F1,France-L1,2122,Brest,Clermont,2.0,0.0,H,0.0,0.0,D,2.3,3.4,3.1,2.32,3.47,3.3,2.26,3.42,3.19,1.99,1.91,1.95,1.87,-0.25,1.99,1.91,Stade Brestois,Clermont Foot,stade_brestois,clermont_foot
+2022-05-14,F1,France-L1,2122,Strasbourg,Clermont,1.0,0.0,H,1.0,0.0,H,1.45,4.75,6.5,1.47,4.76,7.05,1.47,4.61,6.73,1.66,2.2,1.7,2.16,-1.25,2.07,1.83,RC Strasbourg,Clermont Foot,rc_strasbourg,clermont_foot
+2022-08-14,F1,France-L1,2223,Reims,Clermont,2.0,4.0,A,2.0,0.0,H,2.15,3.2,3.6,2.18,3.24,3.93,2.14,3.28,3.63,2.2,1.66,2.16,1.7,-0.25,1.82,2.08,Stade de Reims,Clermont Foot,stade_de_reims,clermont_foot
+2022-08-28,F1,France-L1,2223,Lorient,Clermont,2.0,1.0,H,2.0,0.0,H,2.05,3.4,3.8,2.06,3.52,3.94,2.06,3.45,3.68,2.06,1.84,2.01,1.82,-0.5,2.06,1.84,Lorient,Clermont Foot,lorient,clermont_foot
+2022-08-31,F1,France-L1,2223,Marseille,Clermont,1.0,0.0,H,0.0,0.0,D,1.36,5.0,8.5,1.4,5.25,8.38,1.38,5.05,8.08,1.66,2.2,1.64,2.28,-1.25,1.84,2.06,Olympique Marseille,Clermont Foot,olympique_marseille,clermont_foot
+2022-09-11,F1,France-L1,2223,Strasbourg,Clermont,0.0,0.0,D,0.0,0.0,D,1.66,3.75,5.5,1.7,3.75,5.85,1.67,3.81,5.38,1.99,1.91,1.92,1.89,-0.75,1.9,2.0,RC Strasbourg,Clermont Foot,rc_strasbourg,clermont_foot
+2022-10-02,F1,France-L1,2223,Ajaccio,Clermont,1.0,3.0,A,0.0,1.0,A,2.2,3.1,3.6,2.26,3.21,3.73,2.24,3.16,3.53,2.5,1.53,2.43,1.57,-0.25,1.92,1.98,Ajaccio,Clermont Foot,ajaccio,clermont_foot
+2022-10-16,F1,France-L1,2223,Monaco,Clermont,1.0,1.0,D,1.0,0.0,H,1.36,5.25,8.0,1.38,4.91,10.25,1.36,5.01,8.71,1.61,2.3,1.61,2.32,-1.5,2.05,1.85,AS Monaco,Clermont Foot,as_monaco,clermont_foot
+2022-10-30,F1,France-L1,2223,Nantes,Clermont,1.0,1.0,D,0.0,0.0,D,2.0,3.75,3.6,2.05,3.71,3.77,2.02,3.61,3.56,1.91,1.99,1.85,1.96,-0.5,2.03,1.87,FC Nantes,Clermont Foot,fc_nantes,clermont_foot
+2022-11-12,F1,France-L1,2223,Lens,Clermont,2.0,1.0,H,0.0,1.0,A,1.44,4.75,7.5,1.43,5.03,7.96,1.42,4.77,7.5,1.72,2.1,1.69,2.17,-1.25,1.94,1.96,RC Lens,Clermont Foot,rc_lens,clermont_foot
+2023-01-01,F1,France-L1,2223,Lyon,Clermont,0.0,1.0,A,0.0,0.0,D,1.5,4.5,6.0,1.56,4.45,6.2,1.5,4.56,6.28,1.62,2.3,1.62,2.31,-1.25,2.06,1.84,Olympique Lyonnais,Clermont Foot,olympique_lyonnais,clermont_foot
+2023-01-15,F1,France-L1,2223,Angers,Clermont,1.0,2.0,A,0.0,1.0,A,2.45,3.4,2.88,2.48,3.59,2.94,2.42,3.48,2.87,2.0,1.9,1.95,1.87,-0.25,2.08,1.73,Angers,Clermont Foot,angers,clermont_foot
+2023-02-01,F1,France-L1,2223,Lille,Clermont,0.0,0.0,D,0.0,0.0,D,1.5,4.2,7.0,1.52,4.5,7.0,1.49,4.41,6.64,1.85,2.05,1.82,2.01,-1.0,1.82,2.08,Lille,Clermont Foot,lille,clermont_foot
+2023-02-19,F1,France-L1,2223,Rennes,Clermont,2.0,0.0,H,1.0,0.0,H,1.57,3.8,6.5,1.6,4.12,6.39,1.57,4.01,6.11,2.02,1.88,1.99,1.84,-1.0,2.02,1.88,Stade Rennais,Clermont Foot,stade_rennais,clermont_foot
+2023-03-05,F1,France-L1,2223,Toulouse,Clermont,0.0,1.0,A,0.0,0.0,D,1.75,3.75,4.75,1.81,3.85,4.6,1.79,3.78,4.41,1.86,2.04,1.83,2.0,-0.75,2.04,1.86,Toulouse,Clermont Foot,toulouse,clermont_foot
+2023-03-19,F1,France-L1,2223,Montpellier,Clermont,2.0,1.0,H,0.0,1.0,A,1.83,3.5,4.33,1.88,3.64,4.46,1.87,3.52,4.32,2.1,1.73,2.16,1.71,-0.5,1.87,2.03,Montpellier,Clermont Foot,montpellier,clermont_foot
+2023-04-09,F1,France-L1,2223,Troyes,Clermont,0.0,2.0,A,0.0,2.0,A,2.75,3.25,2.63,2.83,3.4,2.63,2.75,3.31,2.59,2.0,1.8,2.05,1.77,0.0,2.02,1.88,Troyes,Clermont Foot,troyes,clermont_foot
+2023-04-23,F1,France-L1,2223,Nice,Clermont,1.0,2.0,A,1.0,1.0,D,1.8,3.4,5.0,1.83,3.63,4.79,1.79,3.56,4.71,2.1,1.73,2.09,1.74,-0.75,2.08,1.82,OGC Nice,Clermont Foot,ogc_nice,clermont_foot
+2023-05-07,F1,France-L1,2223,Auxerre,Clermont,1.0,1.0,D,1.0,0.0,H,2.3,3.4,3.1,2.46,3.31,3.14,2.38,3.26,3.08,2.2,1.67,2.2,1.68,-0.25,2.05,1.85,AJ Auxerre,Clermont Foot,aj_auxerre,clermont_foot
+2023-05-21,F1,France-L1,2223,Brest,Clermont,2.0,1.0,H,1.0,1.0,D,2.05,3.5,3.6,2.1,3.58,3.67,2.07,3.5,3.57,2.07,1.83,2.02,1.8,-0.25,1.75,2.05,Stade Brestois,Clermont Foot,stade_brestois,clermont_foot
+2023-06-03,F1,France-L1,2223,Paris SG,Clermont,2.0,3.0,A,2.0,2.0,D,1.22,6.5,10.0,1.24,7.09,10.71,1.23,7.04,10.91,1.3,3.5,1.29,3.54,-2.0,1.98,1.92,Paris Saint-Germain,Clermont Foot,paris_saint_germain,clermont_foot
+2023-08-20,F1,France-L1,2324,Reims,Clermont,2.0,0.0,H,1.0,0.0,H,1.85,3.75,4.0,1.93,3.72,4.1,1.89,3.71,4.04,1.86,2.04,1.8,2.02,-0.5,1.91,1.99,Stade de Reims,Clermont Foot,stade_de_reims,clermont_foot
+2023-09-03,F1,France-L1,2324,Toulouse,Clermont,2.0,2.0,D,2.0,1.0,H,2.0,3.6,3.75,2.02,3.69,3.82,1.99,3.65,3.69,1.89,2.01,1.86,1.97,-0.5,2.04,1.89,Toulouse,Clermont Foot,toulouse,clermont_foot
+2023-09-24,F1,France-L1,2324,Le Havre,Clermont,2.0,1.0,H,2.0,1.0,H,2.4,3.3,2.88,2.48,3.26,3.15,2.43,3.27,3.0,2.1,1.73,2.13,1.73,-0.25,2.09,1.81,Le Havre,Clermont Foot,le_havre,clermont_foot
+2023-10-22,F1,France-L1,2324,Lyon,Clermont,1.0,2.0,A,0.0,2.0,A,1.75,3.75,4.5,1.81,4.08,4.31,1.79,3.95,4.32,1.73,2.08,1.73,2.13,-0.75,2.04,1.86,Olympique Lyonnais,Clermont Foot,olympique_lyonnais,clermont_foot
+2023-11-05,F1,France-L1,2324,Strasbourg,Clermont,0.0,0.0,D,0.0,0.0,D,2.38,3.2,3.1,2.42,3.23,3.22,2.37,3.24,3.17,2.2,1.65,2.23,1.67,-0.25,2.06,1.87,RC Strasbourg,Clermont Foot,rc_strasbourg,clermont_foot
+2023-11-29,F1,France-L1,2324,Montpellier,Clermont,1.0,1.0,D,0.0,1.0,A,1.91,3.6,4.0,1.95,3.66,4.0,1.94,3.62,4.01,2.0,1.9,1.94,1.89,-0.5,1.96,1.94,Montpellier,Clermont Foot,montpellier,clermont_foot
+2023-12-03,F1,France-L1,2324,Brest,Clermont,3.0,0.0,H,2.0,0.0,H,1.75,3.6,4.5,1.8,3.79,4.62,1.8,3.72,4.56,2.04,1.86,2.01,1.83,-0.75,2.05,1.88,Stade Brestois,Clermont Foot,stade_brestois,clermont_foot
+2023-12-17,F1,France-L1,2324,Marseille,Clermont,2.0,1.0,H,2.0,0.0,H,1.4,5.0,7.0,1.43,4.79,7.84,1.42,4.73,7.61,1.73,2.08,1.76,2.09,-1.25,1.97,1.93,Olympique Marseille,Clermont Foot,olympique_marseille,clermont_foot
+2024-01-14,F1,France-L1,2324,Nantes,Clermont,1.0,2.0,A,0.0,1.0,A,1.95,3.5,3.8,2.0,3.44,4.11,1.98,3.45,3.96,2.15,1.67,2.15,1.72,-0.5,1.99,1.91,FC Nantes,Clermont Foot,fc_nantes,clermont_foot
+2024-02-04,F1,France-L1,2324,Lille,Clermont,4.0,0.0,H,4.0,0.0,H,1.4,4.5,8.5,1.42,4.81,7.95,1.41,4.72,7.88,1.85,2.05,1.81,2.02,-1.25,1.95,1.98,Lille,Clermont Foot,lille,clermont_foot
+2024-02-18,F1,France-L1,2324,Rennes,Clermont,3.0,1.0,H,1.0,0.0,H,1.53,4.2,6.5,1.52,4.41,6.44,1.5,4.41,6.41,1.75,2.05,1.78,2.05,-1.0,1.88,2.02,Stade Rennais,Clermont Foot,stade_rennais,clermont_foot
+2024-02-25,F1,France-L1,2324,Nice,Clermont,0.0,0.0,D,0.0,0.0,D,1.44,4.33,7.5,1.47,4.31,7.88,1.47,4.22,7.5,2.08,1.73,2.09,1.76,-1.0,1.83,2.07,OGC Nice,Clermont Foot,ogc_nice,clermont_foot
+2024-03-10,F1,France-L1,2324,Metz,Clermont,1.0,0.0,H,1.0,0.0,H,2.25,3.3,3.25,2.28,3.32,3.4,2.28,3.3,3.26,2.1,1.7,2.13,1.72,-0.25,1.95,1.98,Metz,Clermont Foot,metz,clermont_foot
+2024-04-06,F1,France-L1,2324,Paris SG,Clermont,1.0,1.0,D,0.0,1.0,A,1.18,8.0,12.0,1.18,8.03,13.96,1.18,7.87,14.32,1.33,3.4,1.33,3.31,-2.0,1.87,2.06,Paris Saint-Germain,Clermont Foot,paris_saint_germain,clermont_foot
+2024-04-20,F1,France-L1,2324,Lens,Clermont,1.0,0.0,H,1.0,0.0,H,1.36,4.75,9.0,1.4,4.78,8.58,1.39,4.8,8.27,1.73,2.1,1.75,2.1,-1.25,1.89,2.01,RC Lens,Clermont Foot,rc_lens,clermont_foot
+2024-05-04,F1,France-L1,2324,Monaco,Clermont,4.0,1.0,H,2.0,1.0,H,1.3,6.0,8.5,1.31,6.26,8.38,1.31,5.99,8.61,1.36,3.2,1.37,3.07,-1.75,2.03,1.78,AS Monaco,Clermont Foot,as_monaco,clermont_foot
+2024-05-19,F1,France-L1,2324,Lorient,Clermont,5.0,0.0,H,2.0,0.0,H,1.67,4.0,4.75,1.65,4.41,4.78,1.67,4.28,4.63,1.5,2.63,1.5,2.58,-0.75,1.85,2.05,Lorient,Clermont Foot,lorient,clermont_foot
+2024-08-23,F2,France-L2,2425,Troyes,Clermont,0.0,1.0,A,0.0,1.0,A,3.3,3.0,2.2,3.57,3.3,2.19,3.4,3.23,2.14,2.15,1.73,2.07,1.72,0.25,1.93,1.93,Troyes,Clermont Foot,troyes,clermont_foot
+2024-09-20,F2,France-L2,2425,Amiens,Clermont,1.0,0.0,H,1.0,0.0,H,2.5,2.9,2.88,2.69,2.94,3.06,2.59,2.91,2.94,2.4,1.53,2.46,1.52,0.0,1.8,2.05,Amiens,Clermont Foot,amiens,clermont_foot
+2024-09-27,F2,France-L2,2425,Grenoble,Clermont,3.0,0.0,H,1.0,0.0,H,2.35,3.25,2.8,2.45,3.24,3.11,2.41,3.19,2.94,2.05,1.8,2.01,1.77,-0.25,2.1,1.78,Grenoble,Clermont Foot,grenoble,clermont_foot
+2024-10-18,F2,France-L2,2425,Bastia,Clermont,0.0,0.0,D,0.0,0.0,D,2.15,3.0,3.1,2.29,3.12,3.54,2.24,3.02,3.39,2.6,1.48,2.6,1.47,-0.25,1.93,1.93,Bastia,Clermont Foot,bastia,clermont_foot
+2024-10-29,F2,France-L2,2425,Laval,Clermont,1.0,2.0,A,1.0,0.0,H,2.38,3.0,3.1,2.51,2.99,3.28,2.44,3.01,3.06,2.3,1.6,2.33,1.58,-0.25,2.05,1.8,Laval,Clermont Foot,laval,clermont_foot
+2024-11-08,F2,France-L2,2425,Ajaccio,Clermont,2.0,0.0,H,0.0,0.0,D,2.75,2.88,2.88,2.87,2.8,3.0,2.75,2.84,2.84,2.7,1.44,2.62,1.45,0.0,1.88,1.98,Ajaccio,Clermont Foot,ajaccio,clermont_foot
+2024-12-06,F2,France-L2,2425,Annecy,Clermont,2.0,0.0,H,1.0,0.0,H,2.25,3.3,2.7,2.44,3.14,3.23,2.37,3.1,3.05,2.25,1.62,2.26,1.61,-0.25,2.03,1.83,Annecy,Clermont Foot,annecy,clermont_foot
+2025-01-03,F2,France-L2,2425,Caen,Clermont,0.0,1.0,A,0.0,0.0,D,2.25,3.3,3.0,2.35,3.32,3.21,2.29,3.23,3.07,1.93,1.93,1.9,1.87,-0.25,2.0,1.85,Caen,Clermont Foot,caen,clermont_foot
+2025-01-10,F2,France-L2,2425,Martigues,Clermont,0.0,1.0,A,0.0,0.0,D,4.75,3.4,1.73,4.85,3.77,1.75,4.49,3.6,1.75,2.0,1.8,1.97,1.81,0.75,1.85,2.0,Martigues,Clermont Foot,martigues,clermont_foot
+2025-01-25,F2,France-L2,2425,Lorient,Clermont,3.0,2.0,H,2.0,1.0,H,1.65,3.9,5.0,1.63,3.95,5.2,1.63,3.91,5.0,1.82,1.92,1.84,1.93,-0.75,1.83,2.03,Lorient,Clermont Foot,lorient,clermont_foot
+2025-02-08,F2,France-L2,2425,Metz,Clermont,3.0,1.0,H,2.0,0.0,H,1.8,3.5,4.5,1.78,3.54,4.67,1.76,3.5,4.5,2.08,1.73,2.05,1.73,-0.75,2.05,1.8,Metz,Clermont Foot,metz,clermont_foot
+2025-02-21,F2,France-L2,2425,Dunkerque,Clermont,3.0,0.0,H,2.0,0.0,H,1.8,3.2,4.5,1.88,3.46,4.55,1.84,3.32,4.34,2.15,1.67,2.18,1.66,-0.5,1.88,1.98,Dunkerque,Clermont Foot,dunkerque,clermont_foot
+2025-03-07,F2,France-L2,2425,Guingamp,Clermont,3.0,1.0,H,0.0,1.0,A,1.8,3.6,4.0,1.83,3.52,4.59,1.82,3.46,4.29,2.05,1.75,2.02,1.76,-0.5,1.83,2.03,Guingamp,Clermont Foot,guingamp,clermont_foot
+2025-04-04,F2,France-L2,2425,Paris FC,Clermont,2.0,0.0,H,1.0,0.0,H,1.45,4.1,8.0,1.43,4.7,7.7,1.42,4.49,7.28,1.7,2.1,1.72,2.09,-1.25,1.98,1.88,Paris FC,Clermont Foot,paris_fc,clermont_foot
+2025-04-11,F2,France-L2,2425,Pau FC,Clermont,2.0,2.0,D,1.0,1.0,D,2.0,3.4,3.6,2.04,3.57,3.7,2.02,3.47,3.51,1.93,1.93,1.88,1.9,-0.5,1.99,1.74,Pau FC,Clermont Foot,pau_fc,clermont_foot
+2025-04-25,F2,France-L2,2425,Red Star,Clermont,1.0,1.0,D,1.0,0.0,H,2.5,3.25,2.8,2.5,3.48,2.84,2.42,3.4,2.79,1.9,1.95,1.86,1.93,0.0,1.8,2.05,Red Star,Clermont Foot,red_star,clermont_foot
+2025-05-10,F2,France-L2,2425,Rodez,Clermont,1.0,1.0,D,1.0,1.0,D,2.75,3.5,2.4,2.78,3.61,2.33,2.74,3.6,2.34,1.62,2.25,1.6,2.25,0.0,2.05,1.8,Rodez,Clermont Foot,rodez,clermont_foot
+2025-08-09,F2,France-L2,2526,Dunkerque,Clermont,2.0,2.0,D,1.0,2.0,A,2.1,3.1,3.2,2.23,3.31,3.27,2.13,3.2,3.2,2.15,1.67,2.1,1.66,-0.25,1.9,1.9,Dunkerque,Clermont Foot,dunkerque,clermont_foot
+2025-08-29,F2,France-L2,2526,Laval,Clermont,0.0,0.0,D,0.0,0.0,D,2.05,3.25,3.4,2.09,3.31,3.84,2.02,3.28,3.52,2.03,1.78,1.98,1.75,-0.5,2.05,1.75,Laval,Clermont Foot,laval,clermont_foot
+2025-09-19,F2,France-L2,2526,Rodez,Clermont,0.0,1.0,A,0.0,0.0,D,2.1,3.4,3.3,2.15,3.43,3.55,2.09,3.34,3.27,1.98,1.83,1.88,1.85,-0.25,1.8,2.0,Rodez,Clermont Foot,rodez,clermont_foot
+2025-09-23,F2,France-L2,2526,Reims,Clermont,4.0,1.0,H,2.0,0.0,H,1.4,4.33,6.5,1.53,4.41,6.18,1.42,4.39,6.45,1.67,2.15,1.67,2.09,-1.25,1.9,1.9,Stade de Reims,Clermont Foot,stade_de_reims,clermont_foot
+2025-10-03,F2,France-L2,2526,Pau FC,Clermont,3.0,1.0,H,3.0,0.0,H,1.65,3.7,5.0,1.78,3.69,4.77,1.67,3.73,4.61,1.73,2.08,1.75,1.99,-0.75,1.83,1.98,Pau FC,Clermont Foot,pau_fc,clermont_foot
+2025-10-24,F2,France-L2,2526,Guingamp,Clermont,0.0,1.0,A,0.0,0.0,D,1.7,3.7,4.75,1.68,3.8,4.91,1.7,3.59,4.69,1.98,1.83,1.92,1.8,-0.75,1.9,1.9,Guingamp,Clermont Foot,guingamp,clermont_foot
+2025-10-31,F2,France-L2,2526,Bastia,Clermont,1.0,0.0,H,0.0,0.0,D,1.8,3.4,4.75,,,,1.8,3.33,4.39,2.25,1.62,2.24,1.58,-0.5,1.8,2.0,Bastia,Clermont Foot,bastia,clermont_foot
+2025-11-22,F2,France-L2,2526,Red Star,Clermont,2.0,2.0,D,1.0,2.0,A,1.67,3.3,4.75,,,,1.66,3.54,4.88,2.0,1.8,1.98,1.75,-0.75,1.9,1.9,Red Star,Clermont Foot,red_star,clermont_foot
+2025-12-12,F2,France-L2,2526,Nancy,Clermont,1.0,0.0,H,1.0,0.0,H,1.85,3.2,3.7,,,,1.92,3.33,3.77,2.0,1.8,2.02,1.72,-0.5,1.93,1.88,Nancy,Clermont Foot,nancy,clermont_foot
+2026-01-17,F2,France-L2,2526,St Etienne,Clermont,1.0,0.0,H,0.0,0.0,D,1.53,3.8,5.0,,,,1.51,4.23,5.27,1.53,2.4,1.54,2.33,-1.0,1.88,1.93,Saint-Etienne,Clermont Foot,saint_etienne,clermont_foot
+2026-01-23,F2,France-L2,2526,Annecy,Clermont,2.0,1.0,H,1.0,0.0,H,2.05,3.1,3.6,,,,1.98,3.16,3.78,2.25,1.62,2.19,1.6,-0.5,2.08,1.73,Annecy,Clermont Foot,annecy,clermont_foot
+2026-02-09,F2,France-L2,2526,Amiens,Clermont,4.0,3.0,H,3.0,2.0,H,2.6,3.0,2.5,,,,2.68,3.11,2.53,2.1,1.7,2.07,1.68,0.0,1.98,1.83,Amiens,Clermont Foot,amiens,clermont_foot
+2026-02-20,F2,France-L2,2526,Boulogne,Clermont,0.0,2.0,A,0.0,0.0,D,2.38,2.9,2.8,,,,2.41,3.03,2.92,2.35,1.57,2.25,1.57,0.0,1.78,2.03,Boulogne,Clermont Foot,boulogne,clermont_foot
+2026-03-07,F2,France-L2,2526,Troyes,Clermont,2.0,1.0,H,0.0,0.0,D,1.62,3.5,5.0,,,,1.66,3.65,4.76,1.85,1.95,1.83,1.87,-0.75,1.85,1.95,Troyes,Clermont Foot,troyes,clermont_foot
+2026-04-03,F2,France-L2,2526,Grenoble,Clermont,2.0,2.0,D,2.0,1.0,H,2.5,3.0,2.63,,,,2.52,3.11,2.71,2.08,1.73,2.01,1.73,0.0,1.85,1.95,Grenoble,Clermont Foot,grenoble,clermont_foot
+2026-04-17,F2,France-L2,2526,Le Mans,Clermont,1.0,0.0,H,0.0,0.0,D,1.57,3.5,5.0,,,,1.64,3.72,4.79,1.83,1.98,1.78,1.94,-0.75,1.8,2.0,Le Mans,Clermont Foot,le_mans,clermont_foot
+2026-05-02,F2,France-L2,2526,Montpellier,Clermont,1.0,2.0,A,1.0,2.0,A,1.65,3.5,4.5,,,,1.67,3.64,4.57,1.95,1.85,1.89,1.83,-0.75,1.9,1.9,Montpellier,Clermont Foot,montpellier,clermont_foot
+2026-08-14,F2,France-L2,2627,St Etienne,Clermont,3.0,1.0,H,1.0,0.0,H,1.45,4.2,7.0,,,,1.45,4.29,6.18,1.73,2.08,1.68,2.09,-1.0,1.8,2.0,Saint-Etienne,Clermont Foot,saint_etienne,clermont_foot
+2026-09-04,F2,France-L2,2627,Dunkerque,Clermont,1.0,1.0,D,1.0,0.0,H,1.73,3.3,4.33,,,,1.74,3.57,4.3,1.88,1.93,1.82,1.9,-0.5,1.78,2.03,Dunkerque,Clermont Foot,dunkerque,clermont_foot
+2026-09-18,F2,France-L2,2627,Grenoble,Clermont,1.0,1.0,D,1.0,0.0,H,2.3,2.8,3.1,,,,2.34,3.02,3.07,2.4,1.53,2.35,1.54,-0.25,2.05,1.75,Grenoble,Clermont Foot,grenoble,clermont_foot
+2026-10-16,F2,France-L2,2627,Laval,Clermont,3.0,3.0,D,0.0,2.0,A,2.05,3.0,3.4,,,,2.11,3.18,3.28,2.05,1.75,1.99,1.74,-0.25,1.85,1.95,Laval,Clermont Foot,laval,clermont_foot

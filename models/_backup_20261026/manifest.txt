@@ -1,0 +1,43 @@
+# Backup manifest
+# Created: 2026-10-26T21:10:43.497748
+# Source root: /root/football-predictor
+# Backup dir: models/_backup_20261026
+# Total files: 36
+#
+# src_path | dst_path | size_src | size_dst | sha256_src | sha256_dst | match
+models/lgb_1x2_modeA.txt | models/_backup_20261026/models/lgb_1x2_modeA.txt | 1705181 | 1705181 | e7107fb6c623d34c19210cca275dff0799bc43c56148e8e53caf97034c82f5ba | e7107fb6c623d34c19210cca275dff0799bc43c56148e8e53caf97034c82f5ba | True
+models/lgb_1x2_modeB.txt | models/_backup_20261026/models/lgb_1x2_modeB.txt | 1328824 | 1328824 | 9c6ced7b83f2aa45ac4b70831d0ac89dd068d46787fb70bf78774879c5b933f3 | 9c6ced7b83f2aa45ac4b70831d0ac89dd068d46787fb70bf78774879c5b933f3 | True
+models/lgb_ou25_modeB.txt | models/_backup_20261026/models/lgb_ou25_modeB.txt | 273328 | 273328 | 101f55eb7bf4aa7d94cc4732c9eb5f1cfe6967757f4b996664be3657d540f1b4 | 101f55eb7bf4aa7d94cc4732c9eb5f1cfe6967757f4b996664be3657d540f1b4 | True
+models/lgb_home_ou05_modeB.txt | models/_backup_20261026/models/lgb_home_ou05_modeB.txt | 287288 | 287288 | fedb25c0b8825da772127d591000604fe388ee393b1f24254f144d9d96a30c0d | fedb25c0b8825da772127d591000604fe388ee393b1f24254f144d9d96a30c0d | True
+models/lgb_home_ou15_modeB.txt | models/_backup_20261026/models/lgb_home_ou15_modeB.txt | 521424 | 521424 | e25a7637e701ed114cc0783aad3f7d3596d9196b27f41ba12254136d842e79a4 | e25a7637e701ed114cc0783aad3f7d3596d9196b27f41ba12254136d842e79a4 | True
+models/lgb_away_ou05_modeB.txt | models/_backup_20261026/models/lgb_away_ou05_modeB.txt | 543298 | 543298 | a5863a9186d838a43ca15856718c8804ab6dff68351040e43f0ad0beb7768150 | a5863a9186d838a43ca15856718c8804ab6dff68351040e43f0ad0beb7768150 | True
+models/lgb_away_ou15_modeB.txt | models/_backup_20261026/models/lgb_away_ou15_modeB.txt | 362693 | 362693 | 60dbf5d14660a2261c305a8736aecee707c576edadb1294f2ac014a16801e338 | 60dbf5d14660a2261c305a8736aecee707c576edadb1294f2ac014a16801e338 | True
+models/lgb_1x2.txt | models/_backup_20261026/models/lgb_1x2.txt | 3305925 | 3305925 | 6f03bf3273770cd7f045cf1aac612f1957eed130f3c7ff9d1417bde04110611e | 6f03bf3273770cd7f045cf1aac612f1957eed130f3c7ff9d1417bde04110611e | True
+models/lgb_ou25.txt | models/_backup_20261026/models/lgb_ou25.txt | 273328 | 273328 | 101f55eb7bf4aa7d94cc4732c9eb5f1cfe6967757f4b996664be3657d540f1b4 | 101f55eb7bf4aa7d94cc4732c9eb5f1cfe6967757f4b996664be3657d540f1b4 | True
+models/lgb_home_ou05.txt | models/_backup_20261026/models/lgb_home_ou05.txt | 287288 | 287288 | fedb25c0b8825da772127d591000604fe388ee393b1f24254f144d9d96a30c0d | fedb25c0b8825da772127d591000604fe388ee393b1f24254f144d9d96a30c0d | True
+models/lgb_home_ou15.txt | models/_backup_20261026/models/lgb_home_ou15.txt | 521424 | 521424 | e25a7637e701ed114cc0783aad3f7d3596d9196b27f41ba12254136d842e79a4 | e25a7637e701ed114cc0783aad3f7d3596d9196b27f41ba12254136d842e79a4 | True
+models/lgb_away_ou05.txt | models/_backup_20261026/models/lgb_away_ou05.txt | 543298 | 543298 | a5863a9186d838a43ca15856718c8804ab6dff68351040e43f0ad0beb7768150 | a5863a9186d838a43ca15856718c8804ab6dff68351040e43f0ad0beb7768150 | True
+models/lgb_away_ou15.txt | models/_backup_20261026/models/lgb_away_ou15.txt | 362693 | 362693 | 60dbf5d14660a2261c305a8736aecee707c576edadb1294f2ac014a16801e338 | 60dbf5d14660a2261c305a8736aecee707c576edadb1294f2ac014a16801e338 | True
+models/evaluation_modeA.json | models/_backup_20261026/models/evaluation_modeA.json | 4268 | 4268 | 7d47dec26d5551c933cc95d9ee9413b660029b4b0938fe5813a36b352a72931d | 7d47dec26d5551c933cc95d9ee9413b660029b4b0938fe5813a36b352a72931d | True
+models/evaluation_modeA.md | models/_backup_20261026/models/evaluation_modeA.md | 3209 | 3209 | a64a18a1a73f91ebbab60a53b2c1387f0785ba295eb32a29d2c295d429293f9f | a64a18a1a73f91ebbab60a53b2c1387f0785ba295eb32a29d2c295d429293f9f | True
+models/evaluation_modeB.json | models/_backup_20261026/models/evaluation_modeB.json | 4267 | 4267 | ffb44779892b93ffb5106c9bc0ee8dcb54cddbf845b409dd9d5ba149aaa606ef | ffb44779892b93ffb5106c9bc0ee8dcb54cddbf845b409dd9d5ba149aaa606ef | True
+models/evaluation_modeB.md | models/_backup_20261026/models/evaluation_modeB.md | 3210 | 3210 | 3da2b5be637594a737ae0f2f26c2ab90ce18f7a3736f9e30fc86a87f83446b1f | 3da2b5be637594a737ae0f2f26c2ab90ce18f7a3736f9e30fc86a87f83446b1f | True
+models/evaluation.json | models/_backup_20261026/models/evaluation.json | 4269 | 4269 | 6ce5fba5e1522e1e48f467038c9c502ba172bf351a07d222b83caee096d31857 | 6ce5fba5e1522e1e48f467038c9c502ba172bf351a07d222b83caee096d31857 | True
+models/evaluation.md | models/_backup_20261026/models/evaluation.md | 3218 | 3218 | 325d26922385001f541357562a0df38471f2b823120a827c7c6cb063b574e975 | 325d26922385001f541357562a0df38471f2b823120a827c7c6cb063b574e975 | True
+logs/audit_feat_cols_modeB.json | models/_backup_20261026/logs/audit_feat_cols_modeB.json | 1744 | 1744 | d54debdb64bff8ecaed87e98dcec0fc8af354969d04fb7e1e140bf65d46d4e15 | d54debdb64bff8ecaed87e98dcec0fc8af354969d04fb7e1e140bf65d46d4e15 | True
+logs/features_train_hash_before.txt | models/_backup_20261026/logs/features_train_hash_before.txt | 212 | 212 | dc104c0a1b6e8fd81bc9efbd3d9cb2403b2f4d453590d3c45f4dddfc8917d209 | dc104c0a1b6e8fd81bc9efbd3d9cb2403b2f4d453590d3c45f4dddfc8917d209 | True
+logs/features_train_hash_after.txt | models/_backup_20261026/logs/features_train_hash_after.txt | 90 | 90 | 1987158667289a7c5ec99aa59af7ba6f413b6bcd19b2985e153b747cbd97afd7 | 1987158667289a7c5ec99aa59af7ba6f413b6bcd19b2985e153b747cbd97afd7 | True
+logs/features_hash_before_patch.txt | models/_backup_20261026/logs/features_hash_before_patch.txt | 189 | 189 | 6161d1a9973d8ad410d98b5689b0fb4651feb1af321f21c4d6e3dac603b3d9e0 | 6161d1a9973d8ad410d98b5689b0fb4651feb1af321f21c4d6e3dac603b3d9e0 | True
+logs/features_hash_after_patch.txt | models/_backup_20261026/logs/features_hash_after_patch.txt | 78 | 78 | d099c925f42c3f4a8061464096d80aefb8db9c3586d06f792c84e2bbde8c3f5c | d099c925f42c3f4a8061464096d80aefb8db9c3586d06f792c84e2bbde8c3f5c | True
+logs/features_regenerate_meta.txt | models/_backup_20261026/logs/features_regenerate_meta.txt | 116 | 116 | f36e6872806ec44b52a337faf11625ec14e5f2db83c6586fce4f9c21772fae06 | f36e6872806ec44b52a337faf11625ec14e5f2db83c6586fce4f9c21772fae06 | True
+logs/training_A.log | models/_backup_20261026/logs/training_A.log | 2035 | 2035 | 53f1c335336373a4418bc9dd0a69e0c64c013c9ecdd01a9d47d60781ef6baf19 | 53f1c335336373a4418bc9dd0a69e0c64c013c9ecdd01a9d47d60781ef6baf19 | True
+logs/training_B.log | models/_backup_20261026/logs/training_B.log | 2060 | 2060 | d12254fe11f44fcc581bc19dc74c4f6ff87d6235e2b1af65abae205d01c607c4 | d12254fe11f44fcc581bc19dc74c4f6ff87d6235e2b1af65abae205d01c607c4 | True
+logs/training_B3.log | models/_backup_20261026/logs/training_B3.log | 1718 | 1718 | bf923e16517964e5fb49643adba6c4489ebf59f4b0bf571e0f4b2980fd5810ae | bf923e16517964e5fb49643adba6c4489ebf59f4b0bf571e0f4b2980fd5810ae | True
+logs/audit_h2h_baseline.log | models/_backup_20261026/logs/audit_h2h_baseline.log | 3997 | 3997 | c5360aab6e61a01939b150a63ae1399de85b611d9f0d222de9788231ad35dfd8 | c5360aab6e61a01939b150a63ae1399de85b611d9f0d222de9788231ad35dfd8 | True
+logs/audit_h2h_after_patch.log | models/_backup_20261026/logs/audit_h2h_after_patch.log | 3769 | 3769 | 29b8b4c610b05416c2b13d52290fb882ac36989c2313d28184e296efee026b66 | 29b8b4c610b05416c2b13d52290fb882ac36989c2313d28184e296efee026b66 | True
+team_map.csv | models/_backup_20261026/team_map.csv | 21564 | 21564 | 0485b25a68c5c8adb78de8b083b2bf2bb21a7b1847cca396fb0474974f400aa5 | 0485b25a68c5c8adb78de8b083b2bf2bb21a7b1847cca396fb0474974f400aa5 | True
+h2h_summary.csv | models/_backup_20261026/h2h_summary.csv | 738087 | 738087 | 8bb44433e3fad3622396da69a9a4c8c4cf7bba493221d14b51a1b508bee2387b | 8bb44433e3fad3622396da69a9a4c8c4cf7bba493221d14b51a1b508bee2387b | True
+data/features_train.csv | models/_backup_20261026/data/features_train.csv | 33939045 | 33939045 | 37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09 | 37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09 | True
+data/master_canon.csv | models/_backup_20261026/data/master_canon.csv | 14658375 | 14658375 | 3337a960b355a9de2b3ab0eba932caba5cc63fc09f022df27ae857a2b8bf7c17 | 3337a960b355a9de2b3ab0eba932caba5cc63fc09f022df27ae857a2b8bf7c17 | True
+features.py | models/_backup_20261026/features.py | 15834 | 15834 | ba8f4c7313ec734a19aaad593a4135186884433d24992c77beee0150d52dbfbc | ba8f4c7313ec734a19aaad593a4135186884433d24992c77beee0150d52dbfbc | True
+train.py | models/_backup_20261026/train.py | 13680 | 13680 | 5df530499a9694721d8f259470d7b51fc7e35a6a66a9b5a9378c274bd19fd7fc | 5df530499a9694721d8f259470d7b51fc7e35a6a66a9b5a9378c274bd19fd7fc | True

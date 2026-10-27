@@ -1,0 +1,57 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-01,B1,Belgium-JPL,2122,Waregem,Standard,1.0,2.0,A,0.0,0.0,D,2.9,3.5,2.15,3.26,3.36,2.3,3.13,3.3,2.26,1.65,2.2,1.67,2.17,0.25,1.88,1.98,Zulte Waregem,Standard Liege,zulte_waregem,standard_liege
+2021-08-15,B1,Belgium-JPL,2122,Waregem,Club Brugge,0.0,4.0,A,0.0,1.0,A,6.5,4.5,1.44,6.08,4.75,1.49,5.87,4.6,1.48,1.5,2.5,1.51,2.51,1.0,2.05,1.8,Zulte Waregem,Club Brugge,zulte_waregem,club_brugge
+2021-08-22,B1,Belgium-JPL,2122,Waregem,Charleroi,2.0,2.0,D,1.0,1.0,D,3.0,3.5,2.25,2.99,3.74,2.29,2.88,3.57,2.3,1.66,2.15,1.7,2.14,0.25,1.85,2.0,Zulte Waregem,Sporting Charleroi,zulte_waregem,sporting_charleroi
+2021-09-11,B1,Belgium-JPL,2122,Waregem,Cercle Brugge,2.0,4.0,A,1.0,0.0,H,2.4,3.4,2.87,2.44,3.63,2.67,2.4,3.56,2.73,1.65,2.2,1.64,2.24,0.0,1.83,2.02,Zulte Waregem,Cercle Brugge,zulte_waregem,cercle_brugge
+2021-09-25,B1,Belgium-JPL,2122,Waregem,Kortrijk,2.0,2.0,D,0.0,0.0,D,2.75,3.6,2.25,2.93,3.88,2.25,2.87,3.71,2.25,1.57,2.35,1.59,2.33,0.25,1.88,1.98,Zulte Waregem,KV Kortrijk,zulte_waregem,kv_kortrijk
+2021-10-16,B1,Belgium-JPL,2122,Waregem,Antwerp,2.0,1.0,H,0.0,1.0,A,4.5,4.2,1.66,4.31,4.46,1.69,4.29,4.22,1.69,1.47,2.6,1.48,2.6,0.75,2.02,1.83,Zulte Waregem,Royal Antwerp,zulte_waregem,royal_antwerp
+2021-10-31,B1,Belgium-JPL,2122,Waregem,Genk,2.0,6.0,A,0.0,2.0,A,5.0,4.0,1.61,4.65,4.19,1.68,4.37,4.14,1.68,1.4,2.87,1.41,2.79,0.75,2.02,1.83,Zulte Waregem,Genk,zulte_waregem,genk
+2021-11-20,B1,Belgium-JPL,2122,Waregem,Gent,1.0,2.0,A,0.0,0.0,D,5.25,4.33,1.44,6.9,4.83,1.43,6.35,4.8,1.44,1.47,2.6,1.48,2.58,1.25,1.8,2.05,Zulte Waregem,KAA Gent,zulte_waregem,kaa_gent
+2021-11-28,B1,Belgium-JPL,2122,Waregem,Beerschot VA,2.0,0.0,H,2.0,0.0,H,2.62,3.5,2.55,2.67,3.81,2.46,2.64,3.63,2.45,1.57,2.35,1.62,2.28,0.0,2.02,1.83,Zulte Waregem,Beerschot VA,zulte_waregem,beerschot_va
+2021-12-15,B1,Belgium-JPL,2122,Waregem,St. Gilloise,0.0,2.0,A,0.0,2.0,A,6.5,4.75,1.44,6.77,5.09,1.41,6.65,5.01,1.41,1.4,2.87,1.4,2.87,1.25,2.0,1.85,Zulte Waregem,St. Gilloise,zulte_waregem,st_gilloise
+2021-12-18,B1,Belgium-JPL,2122,Waregem,Mechelen,3.0,2.0,H,0.0,1.0,A,3.4,3.8,1.95,3.45,4.06,1.96,3.34,3.87,1.98,1.5,2.5,1.48,2.59,0.5,1.85,2.0,Zulte Waregem,KV Mechelen,zulte_waregem,kv_mechelen
+2022-01-26,B1,Belgium-JPL,2122,Waregem,Oud-Heverlee Leuven,1.0,1.0,D,1.0,1.0,D,2.7,3.5,2.45,2.74,3.69,2.45,2.68,3.58,2.42,1.47,2.6,1.48,2.55,0.0,2.02,1.83,Zulte Waregem,Oud-Heverlee Leuven,zulte_waregem,oud_heverlee_leuven
+2022-02-09,B1,Belgium-JPL,2122,Waregem,Oostende,0.0,0.0,D,0.0,0.0,D,2.15,3.5,3.2,2.2,3.84,3.04,2.17,3.67,3.01,1.65,2.2,1.64,2.22,-0.25,1.93,1.93,Zulte Waregem,KV Oostende,zulte_waregem,kv_oostende
+2022-02-12,B1,Belgium-JPL,2122,Waregem,Anderlecht,1.0,2.0,A,0.0,2.0,A,6.5,4.5,1.45,5.84,4.58,1.51,6.06,4.55,1.48,1.53,2.4,1.55,2.39,1.25,1.83,2.02,Zulte Waregem,Anderlecht,zulte_waregem,anderlecht
+2022-02-27,B1,Belgium-JPL,2122,Waregem,Seraing,1.0,0.0,H,1.0,0.0,H,2.15,3.5,2.9,2.28,3.45,3.16,2.22,3.48,3.06,1.75,2.05,1.76,2.03,-0.25,1.95,1.9,Zulte Waregem,RFC Seraing,zulte_waregem,rfc_seraing
+2022-03-12,B1,Belgium-JPL,2122,Waregem,Eupen,3.0,0.0,H,1.0,0.0,H,2.3,3.5,2.8,2.42,3.63,2.81,2.38,3.53,2.79,1.66,2.15,1.69,2.14,-0.25,2.05,1.8,Zulte Waregem,KAS Eupen,zulte_waregem,kas_eupen
+2022-04-02,B1,Belgium-JPL,2122,Waregem,St Truiden,0.0,2.0,A,0.0,0.0,D,2.87,3.3,2.5,2.79,3.47,2.52,2.76,3.4,2.46,1.88,1.98,1.84,1.95,0.0,2.05,1.8,Zulte Waregem,Sint-Truiden,zulte_waregem,sint_truiden
+2022-07-23,B1,Belgium-JPL,2223,Waregem,Seraing,2.0,0.0,H,0.0,0.0,D,2.15,3.5,2.9,2.2,3.83,3.14,2.2,3.58,3.03,1.72,2.07,1.75,2.05,-0.25,1.93,1.93,Zulte Waregem,RFC Seraing,zulte_waregem,rfc_seraing
+2022-08-14,B1,Belgium-JPL,2223,Waregem,Genk,1.0,4.0,A,1.0,3.0,A,4.33,3.8,1.72,4.19,4.41,1.71,4.11,4.09,1.74,1.53,2.4,1.53,2.46,0.75,1.88,1.98,Zulte Waregem,Genk,zulte_waregem,genk
+2022-08-21,B1,Belgium-JPL,2223,Waregem,Charleroi,1.0,3.0,A,1.0,1.0,D,3.1,3.75,2.15,3.11,3.85,2.16,3.12,3.7,2.13,1.6,2.3,1.62,2.27,0.25,1.95,1.9,Zulte Waregem,Sporting Charleroi,zulte_waregem,sporting_charleroi
+2022-09-04,B1,Belgium-JPL,2223,Waregem,St. Gilloise,1.0,3.0,A,0.0,1.0,A,5.25,3.75,1.65,4.71,4.12,1.68,4.66,3.92,1.69,1.72,2.07,1.73,2.09,0.75,2.0,1.85,Zulte Waregem,St. Gilloise,zulte_waregem,st_gilloise
+2022-09-17,B1,Belgium-JPL,2223,Waregem,St Truiden,0.0,3.0,A,0.0,1.0,A,2.87,3.25,2.45,2.89,3.51,2.49,2.82,3.37,2.43,1.93,1.93,1.9,1.88,0.25,1.75,2.05,Zulte Waregem,Sint-Truiden,zulte_waregem,sint_truiden
+2022-10-08,B1,Belgium-JPL,2223,Waregem,Oud-Heverlee Leuven,2.0,5.0,A,1.0,0.0,H,2.62,3.6,2.45,2.65,3.92,2.5,2.63,3.74,2.43,1.53,2.4,1.55,2.41,0.0,2.0,1.85,Zulte Waregem,Oud-Heverlee Leuven,zulte_waregem,oud_heverlee_leuven
+2022-10-20,B1,Belgium-JPL,2223,Waregem,Anderlecht,3.0,2.0,H,1.0,1.0,D,5.25,4.2,1.57,4.85,4.4,1.62,4.93,4.24,1.6,1.57,2.35,1.57,2.37,1.0,1.83,2.02,Zulte Waregem,Anderlecht,zulte_waregem,anderlecht
+2022-10-29,B1,Belgium-JPL,2223,Waregem,Standard,0.0,3.0,A,0.0,0.0,D,3.0,3.6,2.2,3.1,3.89,2.2,3.02,3.61,2.19,1.7,2.1,1.7,2.11,0.25,1.93,1.93,Zulte Waregem,Standard Liege,zulte_waregem,standard_liege
+2022-11-12,B1,Belgium-JPL,2223,Waregem,Eupen,5.0,5.0,D,2.0,3.0,A,2.3,3.75,2.8,2.31,3.9,2.91,2.28,3.68,2.84,1.61,2.25,1.63,2.23,-0.25,2.0,1.85,Zulte Waregem,KAS Eupen,zulte_waregem,kas_eupen
+2023-01-08,B1,Belgium-JPL,2223,Waregem,Mechelen,2.0,0.0,H,1.0,0.0,H,2.75,3.5,2.2,2.88,3.94,2.25,2.83,3.76,2.25,1.57,2.35,1.56,2.38,0.25,1.85,2.0,Zulte Waregem,KV Mechelen,zulte_waregem,kv_mechelen
+2023-01-21,B1,Belgium-JPL,2223,Waregem,Westerlo,1.0,1.0,D,0.0,1.0,A,2.88,3.4,2.2,2.98,3.62,2.37,2.89,3.52,2.31,1.73,2.08,1.74,2.08,0.25,1.85,2.0,Zulte Waregem,KVC Westerlo,zulte_waregem,kvc_westerlo
+2023-01-29,B1,Belgium-JPL,2223,Waregem,Club Brugge,1.0,2.0,A,1.0,2.0,A,4.5,3.75,1.65,4.99,4.37,1.61,4.72,4.11,1.64,1.57,2.35,1.55,2.39,0.75,2.02,1.83,Zulte Waregem,Club Brugge,zulte_waregem,club_brugge
+2023-02-12,B1,Belgium-JPL,2223,Waregem,Oostende,1.0,1.0,D,1.0,0.0,H,1.95,3.6,3.5,2.04,3.66,3.53,2.02,3.64,3.4,1.65,2.2,1.65,2.21,-0.5,2.02,1.83,Zulte Waregem,KV Oostende,zulte_waregem,kv_oostende
+2023-02-24,B1,Belgium-JPL,2223,Waregem,Kortrijk,3.0,3.0,D,1.0,2.0,A,2.2,3.5,3.1,2.18,3.63,3.34,2.16,3.57,3.17,1.67,2.15,1.67,2.18,-0.25,1.88,1.98,Zulte Waregem,KV Kortrijk,zulte_waregem,kv_kortrijk
+2023-03-12,B1,Belgium-JPL,2223,Waregem,Gent,2.0,6.0,A,0.0,2.0,A,3.2,3.6,1.95,3.53,3.54,2.09,3.39,3.54,2.04,1.7,2.1,1.74,2.06,0.5,1.8,2.05,Zulte Waregem,KAA Gent,zulte_waregem,kaa_gent
+2023-03-31,B1,Belgium-JPL,2223,Waregem,Antwerp,0.0,2.0,A,0.0,0.0,D,4.2,4.0,1.65,4.68,4.18,1.71,4.42,3.95,1.71,1.7,2.1,1.72,2.09,0.75,1.98,1.88,Zulte Waregem,Royal Antwerp,zulte_waregem,royal_antwerp
+2023-04-23,B1,Belgium-JPL,2223,Waregem,Cercle Brugge,2.0,3.0,A,0.0,2.0,A,3.0,3.6,2.15,2.94,3.87,2.24,2.94,3.73,2.18,1.53,2.4,1.54,2.44,0.25,1.93,1.93,Zulte Waregem,Cercle Brugge,zulte_waregem,cercle_brugge
+2025-07-26,B1,Belgium-JPL,2526,Waregem,Mechelen,1.0,1.0,D,0.0,1.0,A,3.2,3.5,2.15,3.25,3.64,2.14,3.13,3.54,2.11,1.67,2.15,1.67,2.1,0.25,1.95,1.85,Zulte Waregem,KV Mechelen,zulte_waregem,kv_mechelen
+2025-08-16,B1,Belgium-JPL,2526,Waregem,Club Brugge,0.0,1.0,A,0.0,0.0,D,5.25,4.5,1.5,5.72,4.56,1.51,5.54,4.53,1.49,1.53,2.4,1.51,2.42,1.0,1.98,1.83,Zulte Waregem,Club Brugge,zulte_waregem,club_brugge
+2025-08-23,B1,Belgium-JPL,2526,Waregem,St Truiden,0.0,2.0,A,0.0,0.0,D,2.6,3.6,2.5,2.63,3.66,2.52,2.58,3.58,2.46,1.67,2.15,1.64,2.15,0.0,1.93,1.88,Zulte Waregem,Sint-Truiden,zulte_waregem,sint_truiden
+2025-09-13,B1,Belgium-JPL,2526,Waregem,Oud-Heverlee Leuven,2.0,0.0,H,2.0,0.0,H,2.4,3.4,2.88,2.42,3.44,2.9,2.38,3.35,2.82,1.93,1.88,1.89,1.82,0.0,1.75,2.05,Zulte Waregem,Oud-Heverlee Leuven,zulte_waregem,oud_heverlee_leuven
+2025-09-27,B1,Belgium-JPL,2526,Waregem,Antwerp,2.0,0.0,H,0.0,0.0,D,2.63,3.25,2.63,2.64,3.34,2.7,2.62,3.34,2.56,1.85,1.95,1.8,1.91,0.0,1.9,1.9,Zulte Waregem,Royal Antwerp,zulte_waregem,royal_antwerp
+2025-10-19,B1,Belgium-JPL,2526,Waregem,Gent,4.0,1.0,H,3.0,0.0,H,2.6,3.5,2.55,2.74,3.41,2.56,2.64,3.48,2.46,1.67,2.15,1.65,2.12,0.0,1.95,1.85,Zulte Waregem,KAA Gent,zulte_waregem,kaa_gent
+2025-11-01,B1,Belgium-JPL,2526,Waregem,St. Gilloise,1.0,4.0,A,0.0,2.0,A,4.33,4.1,1.67,,,,4.58,3.85,1.68,1.67,2.15,1.66,2.11,0.75,1.95,1.85,Zulte Waregem,St. Gilloise,zulte_waregem,st_gilloise
+2025-11-29,B1,Belgium-JPL,2526,Waregem,Cercle Brugge,1.0,1.0,D,1.0,0.0,H,2.5,3.5,2.5,,,,2.52,3.53,2.54,1.62,2.25,1.6,2.2,0.0,1.9,1.9,Zulte Waregem,Cercle Brugge,zulte_waregem,cercle_brugge
+2025-12-13,B1,Belgium-JPL,2526,Waregem,RAAL La Louviere,2.0,2.0,D,1.0,1.0,D,2.25,3.25,3.2,,,,2.24,3.23,3.14,2.05,1.75,2.02,1.71,-0.25,1.95,1.85,Zulte Waregem,RAAL La Louviere,zulte_waregem,raal_la_louviere
+2026-01-17,B1,Belgium-JPL,2526,Waregem,Genk,2.0,1.0,H,0.0,0.0,D,3.5,3.5,1.91,,,,3.44,3.64,1.96,1.65,2.2,1.64,2.14,0.5,1.85,1.95,Zulte Waregem,Genk,zulte_waregem,genk
+2026-01-31,B1,Belgium-JPL,2526,Waregem,Westerlo,0.0,1.0,A,0.0,1.0,A,2.25,3.6,2.7,,,,2.41,3.44,2.7,1.67,2.15,1.62,2.18,0.0,1.73,2.08,Zulte Waregem,KVC Westerlo,zulte_waregem,kvc_westerlo
+2026-02-07,B1,Belgium-JPL,2526,Waregem,Dender,1.0,0.0,H,0.0,0.0,D,2.15,3.3,3.25,,,,2.14,3.36,3.23,1.9,1.9,1.84,1.87,-0.25,1.83,1.98,Zulte Waregem,Dender,zulte_waregem,dender
+2026-02-22,B1,Belgium-JPL,2526,Waregem,Anderlecht,2.0,4.0,A,0.0,3.0,A,3.0,3.3,2.15,,,,3.12,3.37,2.16,1.85,1.95,1.83,1.87,0.25,1.88,1.93,Zulte Waregem,Anderlecht,zulte_waregem,anderlecht
+2026-03-08,B1,Belgium-JPL,2526,Waregem,Standard,0.0,1.0,A,0.0,0.0,D,1.95,3.4,3.7,,,,1.99,3.36,3.62,1.98,1.83,1.93,1.78,-0.5,1.98,1.83,Zulte Waregem,Standard Liege,zulte_waregem,standard_liege
+2026-03-22,B1,Belgium-JPL,2526,Waregem,Charleroi,1.0,0.0,H,1.0,0.0,H,2.55,3.4,2.55,,,,2.55,3.39,2.53,1.73,2.08,1.69,2.06,0.0,1.9,1.9,Zulte Waregem,Sporting Charleroi,zulte_waregem,sporting_charleroi
+2026-04-04,B1,Belgium-JPL,2526,Waregem,Cercle Brugge,2.0,2.0,D,0.0,1.0,A,2.25,3.5,2.7,,,,2.27,3.53,2.76,1.62,2.25,1.61,2.21,-0.25,2.03,1.78,Zulte Waregem,Cercle Brugge,zulte_waregem,cercle_brugge
+2026-04-26,B1,Belgium-JPL,2526,Waregem,RAAL La Louviere,4.0,0.0,H,2.0,0.0,H,1.95,3.3,3.5,,,,1.98,3.41,3.52,1.9,1.9,1.84,1.87,-0.5,2.0,1.8,Zulte Waregem,RAAL La Louviere,zulte_waregem,raal_la_louviere
+2026-05-09,B1,Belgium-JPL,2526,Waregem,Dender,2.0,1.0,H,2.0,1.0,H,1.55,3.9,5.5,,,,1.54,4.1,5.38,1.67,2.15,1.64,2.14,-1.0,1.95,1.85,Zulte Waregem,Dender,zulte_waregem,dender
+2026-08-09,B1,Belgium-JPL,2627,Waregem,Genk,2.0,1.0,H,0.0,1.0,A,2.9,3.6,2.1,,,,3.03,3.52,2.12,1.73,2.08,1.7,2.06,0.25,1.9,1.9,Zulte Waregem,Genk,zulte_waregem,genk
+2026-08-22,B1,Belgium-JPL,2627,Waregem,Beveren,4.0,0.0,H,2.0,0.0,H,1.95,3.5,3.3,,,,2.03,3.46,3.29,1.83,1.98,1.78,1.95,-0.25,1.78,2.03,Zulte Waregem,Beveren,zulte_waregem,beveren
+2026-09-13,B1,Belgium-JPL,2627,Waregem,Charleroi,0.0,1.0,A,0.0,1.0,A,2.45,3.3,2.55,,,,2.5,3.41,2.55,1.73,2.08,1.71,2.03,0.0,1.88,1.93,Zulte Waregem,Sporting Charleroi,zulte_waregem,sporting_charleroi
+2026-10-10,B1,Belgium-JPL,2627,Waregem,Gent,0.0,2.0,A,0.0,1.0,A,2.75,3.25,2.35,,,,2.77,3.31,2.38,1.93,1.88,1.88,1.84,0.0,2.05,1.75,Zulte Waregem,KAA Gent,zulte_waregem,kaa_gent

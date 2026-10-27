@@ -1,0 +1,22 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,SP2,Spain-Segunda,2122,Fuenlabrada,Tenerife,1.0,2.0,A,0.0,1.0,A,2.5,3.0,3.1,2.65,2.81,3.34,2.51,2.81,3.19,2.7,1.44,2.71,1.44,-0.25,2.13,1.75,Fuenlabrada,Tenerife,fuenlabrada,tenerife
+2021-09-04,SP2,Spain-Segunda,2122,Fuenlabrada,Lugo,1.0,1.0,D,1.0,1.0,D,1.9,3.1,4.5,2.06,2.91,4.85,2.02,2.92,4.39,2.87,1.4,2.83,1.41,-0.5,2.0,1.85,Fuenlabrada,Lugo,fuenlabrada,lugo
+2021-09-12,SP2,Spain-Segunda,2122,Fuenlabrada,Zaragoza,1.0,1.0,D,1.0,0.0,H,2.37,3.0,3.2,2.45,2.91,3.5,2.39,2.89,3.29,2.6,1.47,2.62,1.46,-0.25,2.02,1.83,Fuenlabrada,Zaragoza,fuenlabrada,zaragoza
+2021-09-27,SP2,Spain-Segunda,2122,Fuenlabrada,Cartagena,2.0,1.0,H,1.0,0.0,H,1.9,3.0,4.33,1.94,3.13,4.82,1.96,3.04,4.39,2.6,1.47,2.61,1.47,-0.5,1.95,1.9,Fuenlabrada,Cartagena,fuenlabrada,cartagena
+2021-10-10,SP2,Spain-Segunda,2122,Fuenlabrada,Leganes,2.0,1.0,H,1.0,1.0,D,2.5,3.0,3.1,2.74,2.9,3.04,2.57,2.87,2.97,2.5,1.5,2.53,1.5,0.0,1.77,2.1,Fuenlabrada,Leganes,fuenlabrada,leganes
+2021-10-20,SP2,Spain-Segunda,2122,Fuenlabrada,Amorebieta,0.0,0.0,D,0.0,0.0,D,1.61,3.6,6.5,1.64,3.49,6.76,1.62,3.46,6.06,2.4,1.53,2.33,1.58,-0.75,1.85,2.0,Fuenlabrada,Amorebieta,fuenlabrada,amorebieta
+2021-10-31,SP2,Spain-Segunda,2122,Fuenlabrada,Girona,1.0,2.0,A,0.0,0.0,D,2.7,3.0,2.75,2.78,3.1,2.81,2.75,2.97,2.67,2.4,1.53,2.46,1.52,0.0,1.95,1.9,Fuenlabrada,Girona,fuenlabrada,girona
+2021-11-06,SP2,Spain-Segunda,2122,Fuenlabrada,Eibar,0.0,0.0,D,0.0,0.0,D,3.0,3.0,2.5,3.27,2.89,2.59,3.12,2.92,2.47,2.4,1.53,2.47,1.53,0.25,1.75,2.13,Fuenlabrada,Eibar,fuenlabrada,eibar
+2021-11-19,SP2,Spain-Segunda,2122,Fuenlabrada,Mirandes,1.0,1.0,D,1.0,0.0,H,2.1,3.2,3.6,2.22,3.12,3.87,2.18,3.08,3.57,2.3,1.6,2.31,1.6,-0.25,1.85,2.0,Fuenlabrada,Mirandes,fuenlabrada,mirandes
+2021-12-04,SP2,Spain-Segunda,2122,Fuenlabrada,Almeria,1.0,1.0,D,0.0,0.0,D,3.6,3.3,2.1,3.69,3.29,2.16,3.44,3.23,2.14,2.1,1.7,2.13,1.7,0.25,2.0,1.85,Fuenlabrada,Almeria,fuenlabrada,almeria
+2021-12-19,SP2,Spain-Segunda,2122,Fuenlabrada,Oviedo,0.0,0.0,D,0.0,0.0,D,2.87,3.1,2.62,3.03,2.97,2.69,2.91,2.97,2.58,2.5,1.5,2.52,1.5,0.0,2.02,1.83,Fuenlabrada,Real Oviedo,fuenlabrada,real_oviedo
+2022-01-02,SP2,Spain-Segunda,2122,Fuenlabrada,Ibiza,1.0,2.0,A,1.0,1.0,D,2.2,3.0,3.2,2.27,2.98,3.8,2.25,2.95,3.52,2.6,1.47,2.65,1.46,-0.25,1.98,1.88,Fuenlabrada,Ibiza,fuenlabrada,ibiza
+2022-01-22,SP2,Spain-Segunda,2122,Fuenlabrada,Las Palmas,3.0,2.0,H,1.0,1.0,D,3.1,3.2,2.4,3.32,3.11,2.41,3.09,3.05,2.39,2.35,1.57,2.39,1.55,0.25,1.77,2.1,Fuenlabrada,Las Palmas,fuenlabrada,las_palmas
+2022-02-06,SP2,Spain-Segunda,2122,Fuenlabrada,Valladolid,0.0,0.0,D,0.0,0.0,D,3.5,3.3,2.1,3.48,3.4,2.18,3.45,3.22,2.12,2.25,1.61,2.2,1.64,0.25,2.0,1.85,Fuenlabrada,Real Valladolid,fuenlabrada,real_valladolid
+2022-02-20,SP2,Spain-Segunda,2122,Fuenlabrada,Alcorcon,2.0,2.0,D,1.0,0.0,H,2.1,3.1,4.0,2.09,2.88,4.66,2.04,2.97,4.14,2.7,1.44,2.63,1.45,-0.5,2.05,1.8,Fuenlabrada,Alcorcon,fuenlabrada,alcorcon
+2022-03-05,SP2,Spain-Segunda,2122,Fuenlabrada,Burgos,1.0,2.0,A,0.0,1.0,A,2.45,3.0,3.25,2.41,3.04,3.53,2.36,2.96,3.29,2.6,1.47,2.52,1.49,-0.25,2.0,1.85,Fuenlabrada,Burgos,fuenlabrada,burgos
+2022-03-19,SP2,Spain-Segunda,2122,Fuenlabrada,Malaga,1.0,0.0,H,0.0,0.0,D,2.1,3.2,3.8,2.1,3.09,4.16,2.07,3.08,3.84,2.5,1.5,2.52,1.5,-0.25,1.75,2.05,Fuenlabrada,Malaga,fuenlabrada,malaga
+2022-04-10,SP2,Spain-Segunda,2122,Fuenlabrada,Huesca,2.0,3.0,A,1.0,2.0,A,3.1,3.0,2.5,3.23,3.09,2.47,3.02,3.01,2.46,2.4,1.53,2.35,1.57,0.0,2.15,1.68,Fuenlabrada,Huesca,fuenlabrada,huesca
+2022-04-23,SP2,Spain-Segunda,2122,Fuenlabrada,Ponferradina,2.0,3.0,A,2.0,0.0,H,2.62,3.1,2.87,2.61,3.3,2.93,2.59,3.11,2.78,2.15,1.66,2.16,1.67,0.0,1.85,2.0,Fuenlabrada,Ponferradina,fuenlabrada,ponferradina
+2022-05-07,SP2,Spain-Segunda,2122,Fuenlabrada,Sociedad B,1.0,2.0,A,1.0,0.0,H,2.55,3.2,2.8,2.63,3.29,2.83,2.51,3.22,2.78,2.0,1.85,1.97,1.81,0.0,1.8,2.05,Fuenlabrada,Sociedad B,fuenlabrada,sociedad_b
+2022-05-21,SP2,Spain-Segunda,2122,Fuenlabrada,Sp Gijon,0.0,0.0,D,0.0,0.0,D,3.8,3.1,2.1,3.88,3.18,2.14,3.64,3.13,2.12,2.1,1.7,2.18,1.66,0.25,2.02,1.83,Fuenlabrada,Sp Gijon,fuenlabrada,sp_gijon

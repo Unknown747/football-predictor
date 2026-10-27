@@ -1,0 +1,54 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-09-18,G1,Greece-SL,2223,Levadeiakos,Asteras Tripolis,1.0,1.0,D,0.0,0.0,D,2.8,3.1,2.62,2.85,3.11,2.61,2.83,3.07,2.54,2.3,1.6,2.36,1.56,0.0,2.02,1.83,Levadeiakos,Asteras Tripolis,levadeiakos,asteras_tripolis
+2022-10-09,G1,Greece-SL,2223,Levadeiakos,PAOK,1.0,1.0,D,0.0,0.0,D,5.5,3.8,1.66,5.55,3.51,1.71,5.25,3.58,1.67,2.2,1.65,2.22,1.64,0.75,1.93,1.93,Levadeiakos,PAOK,levadeiakos,paok
+2022-10-24,G1,Greece-SL,2223,Levadeiakos,AEK,0.0,2.0,A,0.0,0.0,D,8.0,4.2,1.44,8.14,4.34,1.41,7.76,4.29,1.41,2.0,1.85,1.96,1.81,1.25,1.83,2.02,Levadeiakos,AEK Athens,levadeiakos,aek_athens
+2022-10-30,G1,Greece-SL,2223,Levadeiakos,Atromitos,2.0,1.0,H,1.0,0.0,H,2.7,3.2,2.75,2.91,2.96,2.68,2.72,3.05,2.65,2.4,1.53,2.42,1.53,0.0,1.95,1.9,Levadeiakos,Atromitos,levadeiakos,atromitos
+2022-11-09,G1,Greece-SL,2223,Levadeiakos,Olympiakos,0.0,1.0,A,0.0,1.0,A,9.0,4.75,1.36,9.98,4.96,1.34,9.02,4.76,1.34,1.85,2.0,1.82,1.94,1.25,2.0,1.85,Levadeiakos,Olympiacos,levadeiakos,olympiacos
+2022-12-21,G1,Greece-SL,2223,Levadeiakos,Aris,1.0,1.0,D,1.0,0.0,H,5.0,3.75,1.73,5.35,3.67,1.7,4.85,3.58,1.71,2.1,1.7,2.08,1.72,0.75,1.9,1.95,Levadeiakos,Aris Thessaloniki,levadeiakos,aris_thessaloniki
+2022-12-28,G1,Greece-SL,2223,Levadeiakos,Ionikos,1.0,0.0,H,1.0,0.0,H,2.3,3.1,3.3,2.42,2.91,3.49,2.31,3.02,3.27,2.35,1.57,2.34,1.56,-0.25,2.0,1.85,Levadeiakos,Ionikos,levadeiakos,ionikos
+2023-01-03,G1,Greece-SL,2223,Levadeiakos,Panathinaikos,0.0,1.0,A,0.0,1.0,A,12.0,4.5,1.33,14.86,4.83,1.29,11.87,4.66,1.3,2.15,1.67,2.14,1.67,1.25,2.02,1.77,Levadeiakos,Panathinaikos,levadeiakos,panathinaikos
+2023-01-07,G1,Greece-SL,2223,Levadeiakos,Giannina,1.0,3.0,A,0.0,1.0,A,2.4,3.0,3.25,2.46,3.1,3.18,2.42,3.03,3.07,2.5,1.5,2.42,1.53,-0.25,2.1,1.77,Levadeiakos,PAS Giannina,levadeiakos,pas_giannina
+2023-01-22,G1,Greece-SL,2223,Levadeiakos,Lamia,0.0,0.0,D,0.0,0.0,D,2.25,3.0,3.6,2.28,3.03,3.5,2.24,3.0,3.42,2.6,1.48,2.59,1.48,-0.25,1.95,1.9,Levadeiakos,Lamia,levadeiakos,lamia
+2023-02-06,G1,Greece-SL,2223,Levadeiakos,Volos NFC,0.0,3.0,A,0.0,0.0,D,2.38,3.3,2.9,2.46,3.13,3.03,2.36,3.13,3.04,2.3,1.6,2.37,1.56,-0.25,2.05,1.8,Levadeiakos,Volos NFC,levadeiakos,volos_nfc
+2023-02-26,G1,Greece-SL,2223,Levadeiakos,Panetolikos,0.0,0.0,D,0.0,0.0,D,2.25,3.2,3.4,2.23,3.08,3.54,2.24,3.09,3.33,2.5,1.5,2.46,1.52,-0.25,1.95,1.9,Levadeiakos,Panetolikos,levadeiakos,panetolikos
+2023-03-12,G1,Greece-SL,2223,Levadeiakos,OFI Crete,2.0,0.0,H,2.0,0.0,H,2.7,3.25,2.63,2.92,3.03,2.62,2.78,3.01,2.62,2.6,1.48,2.63,1.46,0.0,1.98,1.88,Levadeiakos,OFI Crete,levadeiakos,ofi_crete
+2023-04-01,G1,Greece-SL,2223,Levadeiakos,Atromitos,1.0,1.0,D,0.0,0.0,D,2.5,3.2,3.0,2.48,3.02,3.16,2.45,2.99,3.03,2.6,1.48,2.58,1.47,0.0,1.75,2.13,Levadeiakos,Atromitos,levadeiakos,atromitos
+2023-04-22,G1,Greece-SL,2223,Levadeiakos,Ionikos,2.0,2.0,D,0.0,1.0,A,2.38,3.25,3.1,2.41,3.14,3.23,2.36,3.06,3.11,2.4,1.53,2.45,1.52,-0.25,2.02,1.82,Levadeiakos,Ionikos,levadeiakos,ionikos
+2023-05-13,G1,Greece-SL,2223,Levadeiakos,Giannina,3.0,3.0,D,2.0,2.0,D,2.5,3.2,3.0,2.54,3.02,3.13,2.45,2.97,3.05,2.6,1.48,2.62,1.45,-0.25,2.13,1.75,Levadeiakos,PAS Giannina,levadeiakos,pas_giannina
+2024-08-18,G1,Greece-SL,2425,Levadeiakos,Athens Kallithea,0.0,0.0,D,0.0,0.0,D,2.45,2.88,3.2,2.59,3.08,2.85,2.41,3.06,3.01,2.3,1.6,2.4,1.54,-0.25,2.05,1.8,Levadeiakos,Athens Kallithea,levadeiakos,athens_kallithea
+2024-09-01,G1,Greece-SL,2425,Levadeiakos,AEK,0.0,3.0,A,0.0,1.0,A,11.0,5.5,1.27,8.73,5.85,1.27,9.86,5.59,1.26,1.65,2.2,1.62,2.21,1.5,2.03,1.83,Levadeiakos,AEK Athens,levadeiakos,aek_athens
+2024-09-22,G1,Greece-SL,2425,Levadeiakos,OFI Crete,1.0,1.0,D,0.0,0.0,D,2.45,3.0,3.1,2.45,3.1,3.09,2.44,3.06,2.97,2.25,1.62,2.25,1.61,-0.25,2.1,1.78,Levadeiakos,OFI Crete,levadeiakos,ofi_crete
+2024-10-06,G1,Greece-SL,2425,Levadeiakos,PAOK,0.0,2.0,A,0.0,0.0,D,6.0,4.33,1.5,7.16,4.51,1.43,6.84,4.35,1.43,1.95,1.9,1.9,1.86,1.25,1.8,2.05,Levadeiakos,PAOK,levadeiakos,paok
+2024-10-26,G1,Greece-SL,2425,Levadeiakos,Lamia,2.0,2.0,D,1.0,1.0,D,1.95,3.2,4.0,1.99,3.11,4.27,1.97,3.18,4.0,2.3,1.6,2.34,1.57,-0.5,2.0,1.85,Levadeiakos,Lamia,levadeiakos,lamia
+2024-11-10,G1,Greece-SL,2425,Levadeiakos,Volos NFC,3.0,2.0,H,1.0,1.0,D,2.25,3.1,3.4,2.27,3.17,3.35,2.22,3.11,3.29,2.35,1.57,2.36,1.55,-0.25,1.92,1.82,Levadeiakos,Volos NFC,levadeiakos,volos_nfc
+2024-11-30,G1,Greece-SL,2425,Levadeiakos,Panetolikos,1.0,1.0,D,1.0,0.0,H,2.38,3.2,3.0,2.47,2.91,3.26,2.42,2.94,3.15,2.5,1.5,2.56,1.48,-0.25,2.1,1.78,Levadeiakos,Panetolikos,levadeiakos,panetolikos
+2024-12-15,G1,Greece-SL,2425,Levadeiakos,Panathinaikos,0.0,1.0,A,0.0,0.0,D,8.0,4.2,1.42,7.5,4.31,1.43,7.42,4.24,1.42,2.05,1.8,1.99,1.78,1.25,1.8,2.05,Levadeiakos,Panathinaikos,levadeiakos,panathinaikos
+2025-01-05,G1,Greece-SL,2425,Levadeiakos,Panserraikos,1.0,0.0,H,0.0,0.0,D,2.0,3.2,4.0,2.08,3.05,4.02,2.03,3.18,3.76,2.25,1.62,2.25,1.61,-0.25,1.73,2.08,Levadeiakos,Panserraikos,levadeiakos,panserraikos
+2025-01-19,G1,Greece-SL,2425,Levadeiakos,Asteras Tripolis,1.0,2.0,A,1.0,0.0,H,2.5,3.0,3.1,2.51,2.95,3.15,2.44,2.94,3.03,2.6,1.48,2.52,1.49,-0.25,2.1,1.78,Levadeiakos,Asteras Tripolis,levadeiakos,asteras_tripolis
+2025-02-02,G1,Greece-SL,2425,Levadeiakos,Olympiakos,0.0,1.0,A,0.0,0.0,D,8.5,4.2,1.4,7.63,4.38,1.42,7.72,4.24,1.41,2.05,1.8,2.02,1.77,1.25,1.88,1.98,Levadeiakos,Olympiacos,levadeiakos,olympiacos
+2025-02-16,G1,Greece-SL,2425,Levadeiakos,Aris,4.0,1.0,H,1.0,1.0,D,3.6,3.25,2.1,3.67,3.2,2.12,3.55,3.12,2.11,2.6,1.48,2.56,1.48,0.25,2.03,1.83,Levadeiakos,Aris Thessaloniki,levadeiakos,aris_thessaloniki
+2025-03-02,G1,Greece-SL,2425,Levadeiakos,Atromitos,1.0,2.0,A,1.0,1.0,D,2.75,2.9,2.9,2.83,2.84,2.87,2.72,2.88,2.79,2.7,1.41,2.68,1.44,0.0,1.88,1.98,Levadeiakos,Atromitos,levadeiakos,atromitos
+2025-04-05,G1,Greece-SL,2425,Levadeiakos,Panserraikos,3.0,0.0,H,2.0,0.0,H,1.85,3.4,4.33,1.87,3.34,4.48,1.88,3.37,4.15,2.1,1.7,2.11,1.7,-0.5,1.88,1.98,Levadeiakos,Panserraikos,levadeiakos,panserraikos
+2025-04-28,G1,Greece-SL,2425,Levadeiakos,Lamia,0.0,0.0,D,0.0,0.0,D,1.38,4.33,8.5,1.38,4.39,9.08,1.39,4.27,8.63,2.1,1.7,2.12,1.69,-1.25,1.98,1.88,Levadeiakos,Lamia,levadeiakos,lamia
+2025-05-10,G1,Greece-SL,2425,Levadeiakos,Athens Kallithea,4.0,1.0,H,1.0,0.0,H,2.25,3.3,3.2,2.26,3.27,3.16,2.24,3.28,3.11,2.15,1.67,2.16,1.66,-0.25,1.98,1.88,Levadeiakos,Athens Kallithea,levadeiakos,athens_kallithea
+2025-05-14,G1,Greece-SL,2425,Levadeiakos,Panetolikos,1.0,2.0,A,1.0,2.0,A,1.8,3.25,5.0,1.75,3.29,4.93,1.79,3.28,4.75,2.4,1.53,2.43,1.51,-0.5,1.8,2.05,Levadeiakos,Panetolikos,levadeiakos,panetolikos
+2025-08-25,G1,Greece-SL,2526,Levadeiakos,Kifisia,3.0,2.0,H,2.0,2.0,D,1.85,3.4,4.5,1.93,3.29,4.26,1.86,3.27,4.04,2.2,1.65,2.16,1.63,-0.5,1.85,1.95,Levadeiakos,Kifisia,levadeiakos,kifisia
+2025-09-14,G1,Greece-SL,2526,Levadeiakos,AEK,0.0,1.0,A,0.0,0.0,D,7.5,3.9,1.45,6.92,4.22,1.47,6.88,4.08,1.43,2.0,1.8,1.93,1.78,1.25,1.73,2.08,Levadeiakos,AEK Athens,levadeiakos,aek_athens
+2025-09-21,G1,Greece-SL,2526,Levadeiakos,OFI Crete,4.0,0.0,H,1.0,0.0,H,2.01,3.6,3.4,2.08,3.36,3.59,2.09,3.31,3.21,1.98,1.83,1.9,1.81,-0.5,2.03,1.78,Levadeiakos,OFI Crete,levadeiakos,ofi_crete
+2025-10-05,G1,Greece-SL,2526,Levadeiakos,Panetolikos,6.0,0.0,H,4.0,0.0,H,1.62,3.5,5.75,1.65,3.57,5.71,1.66,3.35,5.26,2.35,1.57,2.34,1.54,-0.75,1.85,1.95,Levadeiakos,Panetolikos,levadeiakos,panetolikos
+2025-10-26,G1,Greece-SL,2526,Levadeiakos,Aris,1.0,1.0,D,0.0,1.0,A,2.57,3.2,2.57,2.63,3.31,2.68,2.56,3.15,2.58,2.1,1.7,2.05,1.7,0.0,1.9,1.9,Levadeiakos,Aris Thessaloniki,levadeiakos,aris_thessaloniki
+2025-11-09,G1,Greece-SL,2526,Levadeiakos,Panserraikos,5.0,2.0,H,2.0,1.0,H,1.39,4.33,9.0,,,,1.4,4.35,7.08,1.8,2.0,1.75,1.97,-1.25,1.9,1.9,Levadeiakos,Panserraikos,levadeiakos,panserraikos
+2025-11-30,G1,Greece-SL,2526,Levadeiakos,PAOK,2.0,3.0,A,1.0,1.0,D,4.5,3.5,1.76,,,,4.16,3.53,1.76,1.9,1.9,1.89,1.81,0.5,2.03,1.78,Levadeiakos,PAOK,levadeiakos,paok
+2025-12-13,G1,Greece-SL,2526,Levadeiakos,Larisa,3.0,0.0,H,1.0,0.0,H,1.37,4.5,8.0,,,,1.37,4.41,7.31,1.8,2.0,1.74,1.98,-1.25,1.9,1.9,Levadeiakos,Larisa,levadeiakos,larisa
+2026-01-11,G1,Greece-SL,2526,Levadeiakos,Volos NFC,3.0,1.0,H,2.0,0.0,H,1.61,3.8,5.25,,,,1.62,3.65,5.0,1.9,1.9,1.89,1.81,-0.75,1.8,2.0,Levadeiakos,Volos NFC,levadeiakos,volos_nfc
+2026-02-01,G1,Greece-SL,2526,Levadeiakos,Asteras Tripolis,3.0,1.0,H,1.0,0.0,H,1.53,3.8,6.25,,,,1.55,3.7,5.73,1.95,1.85,1.93,1.78,-1.0,1.98,1.83,Levadeiakos,Asteras Tripolis,levadeiakos,asteras_tripolis
+2026-02-14,G1,Greece-SL,2526,Levadeiakos,Olympiakos,0.0,0.0,D,0.0,0.0,D,7.5,4.1,1.45,,,,6.61,4.13,1.43,1.9,1.9,1.84,1.86,1.0,2.03,1.78,Levadeiakos,Olympiacos,levadeiakos,olympiacos
+2026-03-08,G1,Greece-SL,2526,Levadeiakos,Panathinaikos,1.0,4.0,A,0.0,2.0,A,3.5,3.2,2.15,,,,3.26,3.11,2.14,2.3,1.6,2.21,1.6,0.25,1.95,1.85,Levadeiakos,Panathinaikos,levadeiakos,panathinaikos
+2026-03-22,G1,Greece-SL,2526,Levadeiakos,Atromitos,1.0,0.0,H,0.0,0.0,D,2.05,3.2,3.6,,,,2.03,3.18,3.47,2.25,1.62,2.16,1.63,-0.25,1.83,1.98,Levadeiakos,Atromitos,levadeiakos,atromitos
+2026-04-05,G1,Greece-SL,2526,Levadeiakos,Aris,1.0,1.0,D,0.0,1.0,A,2.25,3.1,3.25,,,,2.32,3.08,2.95,2.35,1.57,2.29,1.56,-0.25,2.0,1.8,Levadeiakos,Aris Thessaloniki,levadeiakos,aris_thessaloniki
+2026-05-03,G1,Greece-SL,2526,Levadeiakos,Volos NFC,5.0,2.0,H,2.0,0.0,H,1.62,3.8,5.0,,,,1.67,3.55,4.59,1.98,1.83,1.91,1.79,-0.75,1.9,1.9,Levadeiakos,Volos NFC,levadeiakos,volos_nfc
+2026-05-13,G1,Greece-SL,2526,Levadeiakos,OFI Crete,3.0,2.0,H,0.0,2.0,A,1.57,4.2,5.0,,,,1.6,3.89,4.66,1.65,2.2,1.62,2.17,-0.75,1.78,2.03,Levadeiakos,OFI Crete,levadeiakos,ofi_crete
+2026-08-31,G1,Greece-SL,2627,Levadeiakos,Panathinaikos,0.0,2.0,A,0.0,1.0,A,6.25,3.6,1.56,,,,5.17,3.65,1.6,1.85,1.95,1.83,1.88,0.75,2.0,1.8,Levadeiakos,Panathinaikos,levadeiakos,panathinaikos
+2026-09-06,G1,Greece-SL,2627,Levadeiakos,Panetolikos,0.0,2.0,A,0.0,0.0,D,1.79,3.6,4.2,,,,1.8,3.44,4.02,2.0,1.8,1.96,1.76,-0.5,1.83,1.98,Levadeiakos,Panetolikos,levadeiakos,panetolikos
+2026-09-20,G1,Greece-SL,2627,Levadeiakos,Olympiakos,0.0,1.0,A,0.0,0.0,D,8.5,4.75,1.33,,,,7.81,4.4,1.35,1.9,1.9,1.86,1.84,1.25,1.9,1.9,Levadeiakos,Olympiacos,levadeiakos,olympiacos
+2026-10-17,G1,Greece-SL,2627,Levadeiakos,Volos NFC,0.0,0.0,D,0.0,0.0,D,2.1,3.3,3.4,,,,2.13,3.27,3.11,2.05,1.75,2.0,1.73,-0.25,1.9,1.9,Levadeiakos,Volos NFC,levadeiakos,volos_nfc

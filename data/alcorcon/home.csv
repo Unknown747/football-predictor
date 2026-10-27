@@ -1,0 +1,43 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-21,SP2,Spain-Segunda,2122,Alcorcon,Fuenlabrada,0.0,2.0,A,0.0,0.0,D,2.5,2.9,3.1,2.61,2.84,3.35,2.52,2.82,3.13,2.87,1.4,2.8,1.41,-0.25,2.05,1.75,Alcorcon,Fuenlabrada,alcorcon,fuenlabrada
+2021-09-05,SP2,Spain-Segunda,2122,Alcorcon,Zaragoza,1.0,2.0,A,1.0,0.0,H,2.25,2.9,3.6,2.32,2.89,3.9,2.3,2.83,3.56,3.1,1.36,2.92,1.39,-0.25,1.95,1.9,Alcorcon,Zaragoza,alcorcon,zaragoza
+2021-09-17,SP2,Spain-Segunda,2122,Alcorcon,Almeria,0.0,4.0,A,0.0,3.0,A,3.2,3.0,2.37,3.34,2.99,2.54,3.15,2.95,2.45,2.4,1.53,2.41,1.55,0.25,1.8,2.05,Alcorcon,Almeria,alcorcon,almeria
+2021-10-02,SP2,Spain-Segunda,2122,Alcorcon,Sociedad B,1.0,4.0,A,1.0,2.0,A,2.25,3.0,3.6,2.3,2.98,3.72,2.24,2.98,3.48,2.5,1.5,2.56,1.49,-0.25,1.9,1.95,Alcorcon,Sociedad B,alcorcon,sociedad_b
+2021-10-10,SP2,Spain-Segunda,2122,Alcorcon,Burgos,1.0,0.0,H,0.0,0.0,D,2.45,3.0,3.25,2.57,2.91,3.28,2.52,2.86,3.06,2.4,1.53,2.45,1.52,0.0,1.68,2.15,Alcorcon,Burgos,alcorcon,burgos
+2021-10-20,SP2,Spain-Segunda,2122,Alcorcon,Leganes,3.0,3.0,D,2.0,2.0,D,3.2,2.87,2.5,3.37,2.79,2.61,3.12,2.82,2.52,2.5,1.5,2.52,1.5,0.0,2.08,1.73,Alcorcon,Leganes,alcorcon,leganes
+2021-11-01,SP2,Spain-Segunda,2122,Alcorcon,Ibiza,0.0,2.0,A,0.0,0.0,D,3.0,3.2,2.37,3.15,3.29,2.4,3.0,3.08,2.39,2.4,1.53,2.37,1.55,0.25,1.8,2.05,Alcorcon,Ibiza,alcorcon,ibiza
+2021-11-07,SP2,Spain-Segunda,2122,Alcorcon,Amorebieta,2.0,2.0,D,0.0,1.0,A,2.4,3.1,3.25,2.51,3.07,3.18,2.41,3.01,3.08,2.4,1.53,2.56,1.49,-0.25,2.05,1.8,Alcorcon,Amorebieta,alcorcon,amorebieta
+2021-11-26,SP2,Spain-Segunda,2122,Alcorcon,Lugo,1.0,1.0,D,0.0,1.0,A,2.2,3.2,3.5,2.27,3.15,3.69,2.23,3.01,3.51,2.6,1.47,2.6,1.48,-0.25,1.9,1.95,Alcorcon,Lugo,alcorcon,lugo
+2021-12-12,SP2,Spain-Segunda,2122,Alcorcon,Cartagena,1.0,1.0,D,1.0,1.0,D,2.75,3.1,2.75,2.9,2.91,2.85,2.76,2.92,2.75,2.5,1.5,2.51,1.5,0.0,1.93,1.93,Alcorcon,Cartagena,alcorcon,cartagena
+2022-01-03,SP2,Spain-Segunda,2122,Alcorcon,Malaga,0.0,1.0,A,0.0,0.0,D,2.7,3.0,2.62,2.53,3.04,3.19,2.5,2.96,3.01,2.5,1.5,2.57,1.49,0.0,1.95,1.9,Alcorcon,Malaga,alcorcon,malaga
+2022-01-23,SP2,Spain-Segunda,2122,Alcorcon,Mirandes,0.0,0.0,D,0.0,0.0,D,2.75,3.0,2.8,2.78,3.14,2.77,2.69,3.07,2.67,2.25,1.61,2.25,1.61,0.0,1.9,1.95,Alcorcon,Mirandes,alcorcon,mirandes
+2022-02-13,SP2,Spain-Segunda,2122,Alcorcon,Tenerife,0.0,2.0,A,0.0,1.0,A,3.8,3.25,2.05,4.09,3.18,2.08,3.7,3.12,2.08,2.5,1.5,2.56,1.48,0.25,2.08,1.73,Alcorcon,Tenerife,alcorcon,tenerife
+2022-02-27,SP2,Spain-Segunda,2122,Alcorcon,Ponferradina,2.0,2.0,D,0.0,2.0,A,3.3,3.0,2.37,3.4,3.0,2.43,3.21,2.98,2.36,2.6,1.47,2.54,1.48,0.25,1.83,2.02,Alcorcon,Ponferradina,alcorcon,ponferradina
+2022-03-13,SP2,Spain-Segunda,2122,Alcorcon,Huesca,1.0,0.0,H,0.0,0.0,D,3.5,3.1,2.25,3.21,3.26,2.38,3.22,3.13,2.27,2.3,1.6,2.27,1.6,0.25,1.88,1.98,Alcorcon,Huesca,alcorcon,huesca
+2022-03-27,SP2,Spain-Segunda,2122,Alcorcon,Valladolid,1.0,2.0,A,1.0,2.0,A,4.75,3.5,1.83,4.3,3.68,1.86,4.18,3.52,1.84,2.0,1.85,1.98,1.8,0.5,1.98,1.88,Alcorcon,Real Valladolid,alcorcon,real_valladolid
+2022-04-09,SP2,Spain-Segunda,2122,Alcorcon,Sp Gijon,1.0,1.0,D,1.0,0.0,H,2.9,2.9,2.75,2.92,3.0,2.76,2.78,2.96,2.69,2.4,1.53,2.4,1.55,0.0,1.95,1.9,Alcorcon,Sp Gijon,alcorcon,sp_gijon
+2022-04-24,SP2,Spain-Segunda,2122,Alcorcon,Oviedo,1.0,2.0,A,0.0,0.0,D,4.33,3.3,1.9,4.52,3.34,1.92,4.3,3.24,1.9,2.4,1.53,2.41,1.54,0.5,1.93,1.93,Alcorcon,Real Oviedo,alcorcon,real_oviedo
+2022-05-01,SP2,Spain-Segunda,2122,Alcorcon,Girona,0.0,1.0,A,0.0,1.0,A,3.6,3.5,2.05,3.62,3.53,2.08,3.54,3.41,2.02,2.0,1.85,1.96,1.82,0.5,1.8,2.05,Alcorcon,Girona,alcorcon,girona
+2022-05-15,SP2,Spain-Segunda,2122,Alcorcon,Las Palmas,0.0,2.0,A,0.0,1.0,A,5.5,3.75,1.66,5.84,3.58,1.69,5.13,3.65,1.67,2.0,1.85,1.94,1.84,0.75,1.95,1.85,Alcorcon,Las Palmas,alcorcon,las_palmas
+2022-05-29,SP2,Spain-Segunda,2122,Alcorcon,Eibar,1.0,0.0,H,0.0,0.0,D,8.5,4.5,1.4,9.8,4.66,1.37,8.56,4.6,1.36,1.83,2.02,1.78,2.01,1.25,1.95,1.9,Alcorcon,Eibar,alcorcon,eibar
+2023-08-19,SP2,Spain-Segunda,2324,Alcorcon,Leganes,0.0,2.0,A,0.0,0.0,D,2.55,2.88,3.2,2.61,2.92,3.31,2.51,2.88,3.1,2.7,1.44,2.65,1.45,-0.25,2.13,1.75,Alcorcon,Leganes,alcorcon,leganes
+2023-09-01,SP2,Spain-Segunda,2324,Alcorcon,Ferrol,1.0,1.0,D,0.0,0.0,D,2.25,3.1,3.6,2.34,2.99,3.77,2.26,2.95,3.55,2.7,1.44,2.66,1.46,-0.25,1.9,1.95,Alcorcon,Ferrol,alcorcon,ferrol
+2023-09-16,SP2,Spain-Segunda,2324,Alcorcon,Levante,0.0,2.0,A,0.0,1.0,A,3.0,3.0,2.6,2.96,3.08,2.74,2.87,2.99,2.62,2.4,1.53,2.41,1.54,0.0,2.0,1.85,Alcorcon,Levante,alcorcon,levante
+2023-09-23,SP2,Spain-Segunda,2324,Alcorcon,Huesca,0.0,2.0,A,0.0,2.0,A,2.2,3.0,3.75,2.29,3.1,3.72,2.25,2.98,3.52,2.6,1.48,2.64,1.46,-0.25,1.9,1.95,Alcorcon,Huesca,alcorcon,huesca
+2023-10-03,SP2,Spain-Segunda,2324,Alcorcon,Albacete,1.0,2.0,A,0.0,1.0,A,3.1,3.1,2.3,3.16,3.11,2.57,3.01,3.05,2.46,2.25,1.62,2.28,1.6,0.25,1.88,1.98,Alcorcon,Albacete,alcorcon,albacete
+2023-10-23,SP2,Spain-Segunda,2324,Alcorcon,Cartagena,1.0,1.0,D,1.0,0.0,H,2.2,3.25,3.5,2.28,3.28,3.44,2.2,3.21,3.32,2.25,1.62,2.28,1.61,-0.25,1.9,1.95,Alcorcon,Cartagena,alcorcon,cartagena
+2023-11-05,SP2,Spain-Segunda,2324,Alcorcon,Santander,3.0,1.0,H,1.0,0.0,H,2.2,3.3,3.4,2.27,3.35,3.45,2.21,3.22,3.31,2.2,1.65,2.21,1.64,-0.25,1.93,1.93,Alcorcon,Santander,alcorcon,santander
+2023-11-18,SP2,Spain-Segunda,2324,Alcorcon,Sp Gijon,0.0,0.0,D,0.0,0.0,D,3.4,3.1,2.38,3.33,3.17,2.43,3.15,3.1,2.36,2.4,1.53,2.33,1.58,0.25,1.83,2.03,Alcorcon,Sp Gijon,alcorcon,sp_gijon
+2023-12-03,SP2,Spain-Segunda,2324,Alcorcon,Elche,0.0,2.0,A,0.0,1.0,A,3.1,3.1,2.45,3.21,3.1,2.54,3.05,3.06,2.44,2.35,1.57,2.33,1.59,0.25,1.78,2.1,Alcorcon,Elche,alcorcon,elche
+2023-12-17,SP2,Spain-Segunda,2324,Alcorcon,Eibar,1.0,0.0,H,1.0,0.0,H,4.0,3.4,2.0,4.04,3.35,2.07,3.81,3.33,1.99,2.15,1.67,2.16,1.68,0.5,1.83,2.03,Alcorcon,Eibar,alcorcon,eibar
+2024-01-13,SP2,Spain-Segunda,2324,Alcorcon,Mirandes,0.0,0.0,D,0.0,0.0,D,2.7,3.0,2.88,2.72,3.12,2.95,2.59,3.06,2.83,2.35,1.57,2.24,1.63,0.0,1.85,2.0,Alcorcon,Mirandes,alcorcon,mirandes
+2024-01-27,SP2,Spain-Segunda,2324,Alcorcon,Zaragoza,0.0,0.0,D,0.0,0.0,D,2.9,3.0,2.55,3.16,2.88,2.75,2.99,2.9,2.58,2.7,1.44,2.72,1.43,0.0,2.05,1.8,Alcorcon,Zaragoza,alcorcon,zaragoza
+2024-02-11,SP2,Spain-Segunda,2324,Alcorcon,Andorra,1.0,0.0,H,1.0,0.0,H,2.55,3.1,3.1,2.6,3.0,3.23,2.5,2.95,3.03,2.6,1.48,2.55,1.49,-0.25,2.08,1.73,Alcorcon,Andorra,alcorcon,andorra
+2024-02-25,SP2,Spain-Segunda,2324,Alcorcon,Tenerife,1.0,1.0,D,0.0,0.0,D,3.1,2.9,2.6,3.17,2.82,2.81,3.0,2.81,2.63,3.1,1.36,2.98,1.37,0.0,2.05,1.8,Alcorcon,Tenerife,alcorcon,tenerife
+2024-03-10,SP2,Spain-Segunda,2324,Alcorcon,Espanol,1.0,1.0,D,0.0,0.0,D,3.6,3.2,2.15,3.91,3.06,2.12,3.66,3.05,2.12,2.5,1.5,2.54,1.49,0.25,2.0,1.85,Alcorcon,Espanyol,alcorcon,espanyol
+2024-03-23,SP2,Spain-Segunda,2324,Alcorcon,Oviedo,1.0,0.0,H,0.0,0.0,D,3.75,2.9,2.2,3.77,2.93,2.37,3.57,2.9,2.26,2.7,1.44,2.69,1.44,0.25,1.95,1.9,Alcorcon,Real Oviedo,alcorcon,real_oviedo
+2024-03-31,SP2,Spain-Segunda,2324,Alcorcon,Amorebieta,1.0,1.0,D,1.0,1.0,D,2.2,3.0,3.8,2.22,3.08,3.87,2.15,2.97,3.73,2.88,1.4,2.72,1.43,-0.25,1.85,2.0,Alcorcon,Amorebieta,alcorcon,amorebieta
+2024-04-15,SP2,Spain-Segunda,2324,Alcorcon,Villarreal B,1.0,0.0,H,0.0,0.0,D,2.2,3.1,3.6,2.26,3.18,3.55,2.2,3.11,3.36,2.25,1.62,2.28,1.6,-0.25,1.9,1.95,Alcorcon,Villarreal B,alcorcon,villarreal_b
+2024-04-28,SP2,Spain-Segunda,2324,Alcorcon,Eldense,0.0,0.0,D,0.0,0.0,D,2.3,3.0,3.5,2.32,2.91,3.48,2.3,2.96,3.31,2.6,1.44,2.57,1.47,-0.25,1.98,1.88,Alcorcon,Eldense,alcorcon,eldense
+2024-05-19,SP2,Spain-Segunda,2324,Alcorcon,Valladolid,1.0,1.0,D,1.0,0.0,H,4.0,3.0,2.05,4.0,3.14,2.02,3.84,3.07,2.06,2.5,1.5,2.51,1.49,0.25,2.05,1.75,Alcorcon,Real Valladolid,alcorcon,real_valladolid
+2024-06-02,SP2,Spain-Segunda,2324,Alcorcon,Burgos,1.0,1.0,D,0.0,0.0,D,2.7,3.25,2.4,2.68,3.4,2.48,2.74,3.28,2.45,2.05,1.75,2.04,1.74,0.0,2.03,1.83,Alcorcon,Burgos,alcorcon,burgos

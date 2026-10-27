@@ -1,0 +1,62 @@
+======================================================================
+PRE-CHECK L10.4
+======================================================================
+
+[1] Split temporal dari config.json backtest:
+  train_end: 2024-06-30
+  val_end:   2025-06-30
+  n_train:   22945
+  n_test:    9438
+  test_period: ['2025-07-25', '2026-10-21']
+
+[2] Base rates dari config.json (harus identik dengan audit):
+  ou25: 0.5056875136
+  home_ou05: 0.7654826760
+  home_ou15: 0.4306384833
+  away_ou05: 0.6860753977
+  away_ou15: 0.3366310743
+
+[3] Recompute base rates dari features_train.csv (train split only):
+  N train: 22945
+  Expected (config): 22945
+  Match: True
+  ou25: recomputed=0.5056875136, expected=0.5056875136, diff=0.00e+00
+  home_ou05: recomputed=0.7654826760, expected=0.7654826760, diff=0.00e+00
+  home_ou15: recomputed=0.4306384833, expected=0.4306384833, diff=0.00e+00
+  away_ou05: recomputed=0.6860753977, expected=0.6860753977, diff=0.00e+00
+  away_ou15: recomputed=0.3366310743, expected=0.3366310743, diff=0.00e+00
+
+[4] Toleransi numerik base rate:
+  ou25: diff=0.00e+00 < 1e-09: True
+  home_ou05: diff=0.00e+00 < 1e-09: True
+  home_ou15: diff=0.00e+00 < 1e-09: True
+  away_ou05: diff=0.00e+00 < 1e-09: True
+  away_ou15: diff=0.00e+00 < 1e-09: True
+
+[5] Test split rows:
+  N test: 9438
+  Expected: 9438
+  Match: True
+  Date range: 2025-07-25 .. 2026-10-21
+
+[6] Load predictions.csv:
+  N rows: 9438
+  Duplicated match_id: 0
+  Duplicated (date,home,away,league): 0
+
+[7] Merge features_train test + predictions:
+Traceback (most recent call last):
+  File "/tmp/pre_check_l10_4.py", line 91, in <module>
+    df_te_merge = df_te.merge(
+                  ^^^^^^^^^^^^
+  File "/root/football-predictor/venv/lib/python3.12/site-packages/pandas/core/frame.py", line 10832, in merge
+    return merge(
+           ^^^^^^
+  File "/root/football-predictor/venv/lib/python3.12/site-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/root/football-predictor/venv/lib/python3.12/site-packages/pandas/core/reshape/merge.py", line 807, in __init__
+    self._maybe_coerce_merge_keys()
+  File "/root/football-predictor/venv/lib/python3.12/site-packages/pandas/core/reshape/merge.py", line 1512, in _maybe_coerce_merge_keys
+    raise ValueError(msg)
+ValueError: You are trying to merge on datetime64[ns] and object columns for key 'Date'. If you wish to proceed you should use pd.concat

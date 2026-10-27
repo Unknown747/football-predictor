@@ -1,0 +1,11 @@
+[2026-10-26T15:52:24.411006+00:00] === START shadow_capture ===
+[2026-10-26T15:52:24.411031+00:00] Input: /root/football-predictor/reports/shadow_test_20261026/fixtures/invalid_team.csv
+[2026-10-26T15:52:24.411037+00:00] Output dir: /root/football-predictor/reports/shadow_test_20261026/test_04_v2
+[2026-10-26T15:52:24.411042+00:00] Label: SYNTHETIC_TEST_ONLY
+[2026-10-26T15:52:24.411047+00:00] Source: manual
+[2026-10-26T15:52:24.411051+00:00] Odds source: unknown
+[2026-10-26T15:52:24.411056+00:00] Checking production integrity...
+[2026-10-26T15:52:24.444044+00:00] Production integrity OK
+[2026-10-26T15:52:24.445861+00:00] Input rows: 1
+[2026-10-26T15:52:24.445874+00:00] Validating input...
+[2026-10-26T15:52:24.446782+00:00] FATAL: input validation failed: ['home_eq_away_rows: 1']

@@ -1,0 +1,120 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E1,England-Champ,2122,Barnsley,Coventry,1.0,0.0,H,1.0,0.0,H,2.0,3.3,3.9,2.08,3.29,4.03,2.05,3.27,3.93,2.2,1.66,2.2,1.68,-0.5,2.09,1.84,Barnsley,Coventry,barnsley,coventry
+2021-08-17,E1,England-Champ,2122,Blackpool,Coventry,0.0,1.0,A,0.0,1.0,A,3.0,3.2,2.45,3.04,3.24,2.57,2.98,3.15,2.5,2.37,1.57,2.33,1.6,0.25,1.73,2.08,Blackpool,Coventry,blackpool,coventry
+2021-08-28,E1,England-Champ,2122,QPR,Coventry,2.0,0.0,H,0.0,0.0,D,2.2,3.3,3.4,2.3,3.33,3.34,2.26,3.31,3.28,2.0,1.8,2.05,1.78,-0.25,1.98,1.95,Queens Park Rangers,Coventry,queens_park_rangers,coventry
+2021-09-18,E1,England-Champ,2122,Millwall,Coventry,1.0,1.0,D,1.0,1.0,D,2.55,3.1,3.0,2.59,3.12,3.11,2.54,3.09,3.0,2.3,1.61,2.31,1.62,0.0,1.82,2.11,Millwall,Coventry,millwall,coventry
+2021-09-29,E1,England-Champ,2122,Luton,Coventry,5.0,0.0,H,4.0,0.0,H,2.7,3.2,2.7,2.76,3.23,2.81,2.7,3.16,2.74,2.1,1.72,2.16,1.7,0.0,1.95,1.95,Luton,Coventry,luton,coventry
+2021-10-16,E1,England-Champ,2122,Blackburn,Coventry,2.0,2.0,D,2.0,0.0,H,2.8,3.25,2.6,2.88,3.21,2.71,2.78,3.23,2.61,2.0,1.85,1.97,1.85,0.0,2.02,1.88,Blackburn,Coventry,blackburn,coventry
+2021-10-20,E1,England-Champ,2122,Preston,Coventry,2.0,1.0,H,0.0,1.0,A,2.75,3.2,2.7,2.74,3.35,2.75,2.7,3.21,2.68,2.2,1.66,2.22,1.66,0.0,1.96,1.94,Preston,Coventry,preston,coventry
+2021-10-30,E1,England-Champ,2122,Hull,Coventry,0.0,1.0,A,0.0,1.0,A,2.9,3.4,2.4,3.04,3.4,2.47,2.96,3.24,2.45,2.1,1.72,2.07,1.74,0.25,1.75,2.05,Hull City,Coventry,hull_city,coventry
+2021-11-20,E1,England-Champ,2122,Sheffield United,Coventry,0.0,0.0,D,0.0,0.0,D,2.0,3.5,3.8,2.04,3.53,3.92,2.01,3.48,3.75,1.93,1.93,1.91,1.9,-0.5,2.03,1.87,Sheffield United,Coventry,sheffield_united,coventry
+2021-11-27,E1,England-Champ,2122,Bournemouth,Coventry,2.0,2.0,D,1.0,0.0,H,1.9,3.4,4.33,1.9,3.47,4.63,1.89,3.44,4.32,2.05,1.8,2.03,1.79,-0.5,1.89,2.01,Bournemouth,Coventry,bournemouth,coventry
+2021-12-11,E1,England-Champ,2122,Huddersfield,Coventry,1.0,1.0,D,1.0,0.0,H,2.75,3.1,2.7,2.93,3.14,2.72,2.81,3.13,2.65,2.2,1.66,2.25,1.64,0.0,2.03,1.87,Huddersfield,Coventry,huddersfield,coventry
+2022-01-15,E1,England-Champ,2122,Peterboro,Coventry,1.0,4.0,A,1.0,2.0,A,3.3,3.4,2.2,3.42,3.46,2.24,3.29,3.38,2.2,2.1,1.72,2.04,1.77,0.25,1.99,1.91,Peterborough United,Coventry,peterborough_united,coventry
+2022-01-29,E1,England-Champ,2122,Middlesbrough,Coventry,1.0,0.0,H,0.0,0.0,D,2.05,3.3,3.8,2.07,3.38,3.99,2.07,3.35,3.7,2.2,1.66,2.16,1.69,-0.25,1.73,2.08,Middlesbrough,Coventry,middlesbrough,coventry
+2022-02-12,E1,England-Champ,2122,Reading,Coventry,2.0,3.0,A,1.0,1.0,D,3.75,3.5,2.0,3.94,3.64,2.0,3.69,3.53,2.0,1.9,1.95,1.88,1.92,0.5,1.83,1.98,Reading,Coventry,reading,coventry
+2022-02-15,E1,England-Champ,2122,Cardiff,Coventry,2.0,0.0,H,0.0,0.0,D,2.9,3.25,2.45,3.01,3.3,2.55,2.91,3.24,2.52,2.2,1.66,2.15,1.7,0.0,2.14,1.77,Cardiff City,Coventry,cardiff_city,coventry
+2022-02-22,E1,England-Champ,2122,Bristol City,Coventry,1.0,2.0,A,0.0,1.0,A,3.2,3.4,2.25,3.28,3.48,2.29,3.17,3.41,2.26,1.95,1.9,1.93,1.87,0.25,1.92,1.98,Bristol City,Coventry,bristol_city,coventry
+2022-03-05,E1,England-Champ,2122,Swansea,Coventry,3.0,1.0,H,2.0,0.0,H,2.8,3.2,2.7,2.92,3.24,2.65,2.8,3.23,2.61,2.1,1.72,2.12,1.72,0.0,2.03,1.87,Swansea City,Coventry,swansea_city,coventry
+2022-03-19,E1,England-Champ,2122,Derby,Coventry,1.0,1.0,D,0.0,1.0,A,3.1,3.1,2.5,3.19,3.14,2.53,3.04,3.16,2.46,2.3,1.61,2.27,1.63,0.25,1.76,2.15,Derby,Coventry,derby,coventry
+2022-04-06,E1,England-Champ,2122,Nott'm Forest,Coventry,2.0,0.0,H,1.0,0.0,H,2.0,3.5,3.75,2.02,3.6,3.93,2.0,3.52,3.72,2.05,1.8,1.98,1.83,-0.5,2.08,1.82,Nottingham Forest,Coventry,nottingham_forest,coventry
+2022-04-10,E1,England-Champ,2122,Fulham,Coventry,1.0,3.0,A,0.0,2.0,A,1.5,4.5,6.5,1.49,4.62,7.07,1.49,4.45,6.46,1.72,2.1,1.72,2.11,-1.0,1.82,2.08,Fulham,Coventry,fulham,coventry
+2022-04-15,E1,England-Champ,2122,Birmingham,Coventry,2.0,4.0,A,2.0,2.0,D,3.1,3.5,2.2,3.19,3.66,2.27,3.14,3.47,2.25,2.02,1.83,2.0,1.81,0.25,1.93,1.97,Birmingham,Coventry,birmingham,coventry
+2022-04-23,E1,England-Champ,2122,West Brom,Coventry,0.0,0.0,D,0.0,0.0,D,2.15,3.4,3.4,2.27,3.48,3.33,2.21,3.4,3.29,2.02,1.83,2.01,1.8,-0.25,1.91,1.99,West Bromwich Albion,Coventry,west_bromwich_albion,coventry
+2022-05-07,E1,England-Champ,2122,Stoke,Coventry,1.0,1.0,D,1.0,1.0,D,2.3,3.8,2.8,2.44,3.64,2.91,2.39,3.57,2.84,1.66,2.2,1.66,2.21,-0.25,2.08,1.82,Stoke City,Coventry,stoke_city,coventry
+2022-07-31,E1,England-Champ,2223,Sunderland,Coventry,1.0,1.0,D,1.0,0.0,H,2.62,3.5,2.6,2.77,3.46,2.65,2.69,3.34,2.61,2.02,1.83,2.01,1.8,0.0,1.99,1.91,Sunderland,Coventry,sunderland,coventry
+2022-08-13,E1,England-Champ,2223,Millwall,Coventry,3.0,2.0,H,1.0,2.0,A,2.45,3.2,3.0,2.44,3.21,3.28,2.45,3.16,3.06,2.37,1.57,2.35,1.6,-0.25,2.11,1.79,Millwall,Coventry,millwall,coventry
+2022-08-27,E1,England-Champ,2223,Hull,Coventry,3.0,2.0,H,2.0,1.0,H,3.0,3.4,2.37,3.13,3.46,2.39,3.01,3.35,2.38,2.0,1.8,2.04,1.78,0.25,1.85,2.05,Hull City,Coventry,hull_city,coventry
+2022-09-03,E1,England-Champ,2223,Norwich,Coventry,3.0,0.0,H,2.0,0.0,H,1.75,3.6,4.75,1.78,3.8,4.87,1.77,3.71,4.59,2.0,1.85,1.88,1.92,-0.75,2.05,1.85,Norwich City,Coventry,norwich_city,coventry
+2022-09-14,E1,England-Champ,2223,Luton,Coventry,2.0,2.0,D,2.0,1.0,H,2.1,3.4,3.5,2.14,3.37,3.79,2.12,3.37,3.5,2.05,1.8,2.04,1.78,-0.25,1.83,2.07,Luton,Coventry,luton,coventry
+2022-09-17,E1,England-Champ,2223,Birmingham,Coventry,0.0,0.0,D,0.0,0.0,D,2.87,3.25,2.55,2.94,3.34,2.57,2.85,3.27,2.52,2.0,1.8,2.03,1.78,0.0,2.07,1.83,Birmingham,Coventry,birmingham,coventry
+2022-10-04,E1,England-Champ,2223,Bristol City,Coventry,0.0,0.0,D,0.0,0.0,D,2.0,3.5,3.8,2.08,3.71,3.6,2.05,3.63,3.45,1.72,2.1,1.71,2.13,-0.5,2.05,1.85,Bristol City,Coventry,bristol_city,coventry
+2022-10-15,E1,England-Champ,2223,Cardiff,Coventry,0.0,1.0,A,0.0,1.0,A,2.2,3.3,3.4,2.25,3.38,3.47,2.21,3.31,3.32,2.1,1.72,2.15,1.7,-0.25,1.91,1.99,Cardiff City,Coventry,cardiff_city,coventry
+2022-10-22,E1,England-Champ,2223,Stoke,Coventry,0.0,2.0,A,0.0,0.0,D,2.15,3.3,3.5,2.18,3.45,3.58,2.15,3.4,3.38,2.0,1.85,1.98,1.83,-0.25,1.88,2.02,Stoke City,Coventry,stoke_city,coventry
+2022-11-05,E1,England-Champ,2223,Watford,Coventry,0.0,1.0,A,0.0,0.0,D,1.9,3.5,4.33,1.9,3.69,4.29,1.92,3.55,3.97,1.93,1.93,1.92,1.87,-0.5,1.91,1.99,Watford,Coventry,watford,coventry
+2022-12-10,E1,England-Champ,2223,Reading,Coventry,1.0,0.0,H,0.0,0.0,D,2.5,3.2,3.0,2.65,3.24,2.93,2.55,3.21,2.87,2.2,1.67,2.18,1.68,0.0,1.84,2.06,Reading,Coventry,reading,coventry
+2022-12-26,E1,England-Champ,2223,Sheffield United,Coventry,3.0,1.0,H,1.0,0.0,H,1.67,3.8,5.25,1.72,3.82,5.12,1.7,3.77,4.93,2.0,1.85,1.97,1.83,-0.75,1.95,1.95,Sheffield United,Coventry,sheffield_united,coventry
+2023-01-14,E1,England-Champ,2223,Burnley,Coventry,1.0,0.0,H,0.0,0.0,D,1.7,3.8,5.0,1.72,3.88,5.17,1.7,3.79,4.91,1.93,1.93,1.91,1.9,-0.75,1.91,1.99,Burnley,Coventry,burnley,coventry
+2023-02-03,E1,England-Champ,2223,West Brom,Coventry,1.0,0.0,H,1.0,0.0,H,1.85,3.5,4.5,1.89,3.48,4.66,1.85,3.52,4.37,2.05,1.8,2.01,1.8,-0.5,1.89,2.01,West Bromwich Albion,Coventry,west_bromwich_albion,coventry
+2023-02-18,E1,England-Champ,2223,Rotherham,Coventry,0.0,2.0,A,0.0,0.0,D,3.4,3.4,2.15,3.57,3.5,2.16,3.37,3.41,2.14,2.1,1.73,2.07,1.75,0.25,2.03,1.87,Rotherham United,Coventry,rotherham_united,coventry
+2023-02-28,E1,England-Champ,2223,Preston,Coventry,0.0,0.0,D,0.0,0.0,D,2.7,3.3,2.63,2.84,3.21,2.75,2.75,3.18,2.66,2.3,1.62,2.28,1.63,0.0,1.98,1.92,Preston,Coventry,preston,coventry
+2023-03-04,E1,England-Champ,2223,Huddersfield,Coventry,0.0,4.0,A,0.0,1.0,A,3.3,3.2,2.25,3.37,3.27,2.36,3.21,3.21,2.31,2.3,1.62,2.27,1.63,0.25,1.91,1.99,Huddersfield,Coventry,huddersfield,coventry
+2023-03-14,E1,England-Champ,2223,Wigan,Coventry,1.0,1.0,D,0.0,0.0,D,3.5,3.3,2.15,3.68,3.33,2.19,3.52,3.2,2.17,2.3,1.62,2.33,1.59,0.25,2.05,1.85,Wigan Athletic,Coventry,wigan_athletic,coventry
+2023-03-18,E1,England-Champ,2223,Blackpool,Coventry,1.0,4.0,A,1.0,2.0,A,3.3,3.3,2.25,3.41,3.41,2.26,3.3,3.31,2.22,2.1,1.73,2.12,1.72,0.25,1.97,1.93,Blackpool,Coventry,blackpool,coventry
+2023-04-07,E1,England-Champ,2223,Swansea,Coventry,0.0,0.0,D,0.0,0.0,D,2.3,3.25,3.25,2.38,3.42,3.18,2.3,3.37,3.1,2.05,1.8,2.01,1.8,-0.25,2.02,1.88,Swansea City,Coventry,swansea_city,coventry
+2023-04-15,E1,England-Champ,2223,QPR,Coventry,0.0,3.0,A,0.0,1.0,A,2.9,3.1,2.6,2.96,3.4,2.53,2.88,3.27,2.51,2.1,1.73,2.09,1.74,0.0,2.08,1.82,Queens Park Rangers,Coventry,queens_park_rangers,coventry
+2023-04-19,E1,England-Champ,2223,Blackburn,Coventry,1.0,1.0,D,1.0,0.0,H,2.45,3.3,2.88,2.54,3.25,3.06,2.47,3.27,2.93,2.02,1.82,2.04,1.77,-0.25,2.08,1.73,Blackburn,Coventry,blackburn,coventry
+2023-05-08,E1,England-Champ,2223,Middlesbrough,Coventry,1.0,1.0,D,1.0,1.0,D,2.55,3.6,2.63,2.59,3.62,2.7,2.54,3.54,2.64,1.8,2.0,1.75,2.06,0.0,1.92,1.98,Middlesbrough,Coventry,middlesbrough,coventry
+2023-08-06,E1,England-Champ,2324,Leicester,Coventry,2.0,1.0,H,0.0,0.0,D,1.57,4.2,5.5,1.6,4.24,5.9,1.55,4.19,5.87,1.8,2.0,1.79,2.02,-1.0,1.98,1.92,Leicester City,Coventry,leicester_city,coventry
+2023-08-19,E1,England-Champ,2324,Swansea,Coventry,1.0,1.0,D,1.0,1.0,D,2.4,3.3,3.0,2.43,3.53,3.01,2.39,3.41,2.92,1.93,1.93,1.9,1.88,-0.25,2.1,1.8,Swansea City,Coventry,swansea_city,coventry
+2023-09-15,E1,England-Champ,2324,Hull,Coventry,1.0,1.0,D,0.0,1.0,A,2.8,3.3,2.55,2.88,3.48,2.54,2.8,3.4,2.49,1.9,1.95,1.87,1.94,0.0,2.06,1.84,Hull City,Coventry,hull_city,coventry
+2023-09-19,E1,England-Champ,2324,Cardiff,Coventry,3.0,2.0,H,1.0,1.0,D,2.7,3.3,2.63,2.75,3.4,2.7,2.67,3.31,2.64,2.03,1.83,2.01,1.81,0.0,1.95,1.95,Cardiff City,Coventry,cardiff_city,coventry
+2023-09-30,E1,England-Champ,2324,QPR,Coventry,1.0,3.0,A,0.0,0.0,D,3.1,3.3,2.38,3.25,3.39,2.35,3.1,3.34,2.32,2.0,1.85,1.96,1.84,0.25,1.88,2.02,Queens Park Rangers,Coventry,queens_park_rangers,coventry
+2023-10-21,E1,England-Champ,2324,Bristol City,Coventry,1.0,0.0,H,1.0,0.0,H,2.38,3.4,2.9,2.47,3.49,2.97,2.4,3.39,2.9,2.0,1.85,1.94,1.85,-0.25,2.09,1.81,Bristol City,Coventry,bristol_city,coventry
+2023-10-25,E1,England-Champ,2324,Rotherham,Coventry,2.0,0.0,H,0.0,0.0,D,4.2,3.5,1.91,4.2,3.66,1.93,3.98,3.54,1.92,1.98,1.88,1.94,1.86,0.5,1.98,1.92,Rotherham United,Coventry,rotherham_united,coventry
+2023-11-04,E1,England-Champ,2324,Preston,Coventry,3.0,2.0,H,2.0,1.0,H,2.8,3.2,2.63,2.92,3.2,2.69,2.79,3.22,2.62,2.15,1.67,2.18,1.68,0.0,2.03,1.87,Preston,Coventry,preston,coventry
+2023-11-25,E1,England-Champ,2324,Millwall,Coventry,0.0,3.0,A,0.0,1.0,A,2.63,3.25,2.7,2.76,3.27,2.78,2.67,3.21,2.72,2.1,1.7,2.14,1.71,0.0,1.93,1.97,Millwall,Coventry,millwall,coventry
+2023-12-02,E1,England-Champ,2324,Ipswich,Coventry,2.0,1.0,H,2.0,0.0,H,1.8,4.0,4.2,1.81,4.08,4.3,1.79,3.93,4.16,1.62,2.25,1.63,2.26,-0.75,2.05,1.85,Ipswich,Coventry,ipswich,coventry
+2023-12-16,E1,England-Champ,2324,Leeds,Coventry,1.0,1.0,D,0.0,0.0,D,1.55,4.2,6.0,1.55,4.52,6.07,1.53,4.38,5.96,1.67,2.15,1.65,2.24,-1.0,1.9,2.0,Leeds,Coventry,leeds,coventry
+2023-12-23,E1,England-Champ,2324,Sunderland,Coventry,0.0,3.0,A,0.0,1.0,A,2.05,3.5,3.6,2.1,3.65,3.59,2.06,3.57,3.49,1.85,2.0,1.83,1.97,-0.5,2.08,1.82,Sunderland,Coventry,sunderland,coventry
+2024-01-01,E1,England-Champ,2324,Middlesbrough,Coventry,1.0,3.0,A,1.0,1.0,D,1.95,3.75,3.6,2.04,3.82,3.62,1.99,3.7,3.55,1.75,2.05,1.76,2.06,-0.5,2.02,1.88,Middlesbrough,Coventry,middlesbrough,coventry
+2024-01-20,E1,England-Champ,2324,Sheffield Weds,Coventry,1.0,2.0,A,0.0,1.0,A,3.0,3.5,2.3,3.19,3.59,2.3,3.12,3.44,2.26,2.0,1.85,1.95,1.84,0.25,1.9,2.0,Sheffield Wednesday,Coventry,sheffield_wednesday,coventry
+2024-02-03,E1,England-Champ,2324,Norwich,Coventry,2.0,1.0,H,0.0,0.0,D,2.45,3.4,2.88,2.48,3.67,2.84,2.45,3.56,2.75,1.7,2.1,1.71,2.14,0.0,1.82,2.08,Norwich City,Coventry,norwich_city,coventry
+2024-02-14,E1,England-Champ,2324,Plymouth,Coventry,2.0,2.0,D,0.0,0.0,D,3.5,3.8,1.95,3.46,3.98,2.05,3.44,3.84,1.98,1.57,2.35,1.58,2.38,0.5,1.88,2.02,Plymouth Argyle,Coventry,plymouth_argyle,coventry
+2024-02-17,E1,England-Champ,2324,Stoke,Coventry,0.0,1.0,A,0.0,0.0,D,2.8,3.4,2.5,2.9,3.51,2.51,2.76,3.49,2.47,1.83,2.03,1.8,2.02,0.0,2.07,1.83,Stoke City,Coventry,stoke_city,coventry
+2024-03-01,E1,England-Champ,2324,West Brom,Coventry,2.0,1.0,H,2.0,0.0,H,2.1,3.4,3.6,2.14,3.39,3.76,2.12,3.32,3.58,2.05,1.75,2.06,1.77,-0.25,1.81,2.09,West Bromwich Albion,Coventry,west_bromwich_albion,coventry
+2024-03-09,E1,England-Champ,2324,Watford,Coventry,1.0,2.0,A,1.0,1.0,D,2.88,3.4,2.4,2.99,3.54,2.43,2.87,3.46,2.4,1.85,2.0,1.82,2.0,0.25,1.81,2.09,Watford,Coventry,watford,coventry
+2024-03-29,E1,England-Champ,2324,Huddersfield,Coventry,1.0,3.0,A,0.0,2.0,A,3.0,3.5,2.3,3.05,3.45,2.4,2.97,3.45,2.35,1.88,1.98,1.87,1.94,0.25,1.85,2.05,Huddersfield,Coventry,huddersfield,coventry
+2024-04-09,E1,England-Champ,2324,Southampton,Coventry,2.0,1.0,H,2.0,0.0,H,1.75,4.0,4.2,1.79,4.4,3.97,1.78,4.2,3.92,1.44,2.75,1.4,2.89,-0.75,1.98,1.92,Southampton,Coventry,southampton,coventry
+2024-04-13,E1,England-Champ,2324,Birmingham,Coventry,3.0,0.0,H,2.0,0.0,H,3.1,3.4,2.25,3.05,3.69,2.3,2.99,3.54,2.29,1.8,2.0,1.78,2.03,0.25,1.88,2.02,Birmingham,Coventry,birmingham,coventry
+2024-04-27,E1,England-Champ,2324,Blackburn,Coventry,0.0,0.0,D,0.0,0.0,D,2.15,3.6,3.2,2.16,3.71,3.3,2.17,3.61,3.16,1.67,2.2,1.63,2.26,-0.25,1.89,2.01,Blackburn,Coventry,blackburn,coventry
+2024-08-10,E1,England-Champ,2425,Stoke,Coventry,1.0,0.0,H,0.0,0.0,D,2.45,3.6,2.7,2.53,3.51,2.79,2.47,3.51,2.75,1.83,2.03,1.8,2.01,0.0,1.86,2.04,Stoke City,Coventry,stoke_city,coventry
+2024-08-24,E1,England-Champ,2425,Bristol City,Coventry,1.0,1.0,D,1.0,0.0,H,2.45,3.4,2.8,2.54,3.38,2.87,2.47,3.41,2.8,1.88,1.98,1.87,1.94,0.0,1.83,2.07,Bristol City,Coventry,bristol_city,coventry
+2024-09-14,E1,England-Champ,2425,Watford,Coventry,1.0,1.0,D,0.0,1.0,A,2.6,3.4,2.7,2.6,3.47,2.63,2.6,3.44,2.64,1.83,2.03,1.8,2.02,0.0,1.91,1.99,Watford,Coventry,watford,coventry
+2024-09-28,E1,England-Champ,2425,Leeds,Coventry,3.0,0.0,H,1.0,0.0,H,1.55,4.5,5.0,1.56,4.29,5.47,1.56,4.32,5.4,1.67,2.2,1.65,2.23,-1.0,1.98,1.92,Leeds,Coventry,leeds,coventry
+2024-10-19,E1,England-Champ,2425,Preston,Coventry,1.0,0.0,H,0.0,0.0,D,2.75,3.3,2.5,2.84,3.22,2.59,2.8,3.32,2.53,1.95,1.9,1.94,1.84,0.0,2.05,1.85,Preston,Coventry,preston,coventry
+2024-10-22,E1,England-Champ,2425,QPR,Coventry,1.0,1.0,D,0.0,1.0,A,2.9,3.4,2.38,3.02,3.4,2.45,2.93,3.38,2.41,1.85,2.0,1.84,1.97,0.25,1.81,2.09,Queens Park Rangers,Coventry,queens_park_rangers,coventry
+2024-11-02,E1,England-Champ,2425,Middlesbrough,Coventry,0.0,3.0,A,0.0,1.0,A,1.7,4.1,4.5,1.71,4.06,4.49,1.72,4.02,4.5,1.67,2.2,1.67,2.2,-0.75,1.92,1.98,Middlesbrough,Coventry,middlesbrough,coventry
+2024-11-09,E1,England-Champ,2425,Sunderland,Coventry,2.0,2.0,D,2.0,0.0,H,2.15,3.2,3.5,2.22,3.29,3.38,2.19,3.33,3.37,1.98,1.88,1.94,1.86,-0.25,1.9,2.0,Sunderland,Coventry,sunderland,coventry
+2024-11-26,E1,England-Champ,2425,Burnley,Coventry,2.0,0.0,H,0.0,0.0,D,2.2,3.3,3.25,2.26,3.31,3.46,2.22,3.26,3.36,2.2,1.67,2.26,1.64,-0.25,1.93,1.97,Burnley,Coventry,burnley,coventry
+2024-12-07,E1,England-Champ,2425,Millwall,Coventry,0.0,1.0,A,0.0,0.0,D,2.5,3.1,2.9,2.6,3.01,3.01,2.56,3.06,2.98,2.38,1.57,2.38,1.58,0.0,1.8,2.1,Millwall,Coventry,millwall,coventry
+2024-12-11,E1,England-Champ,2425,West Brom,Coventry,2.0,0.0,H,1.0,0.0,H,2.25,3.3,3.2,2.34,3.31,3.12,2.3,3.29,3.08,2.1,1.73,2.07,1.74,-0.25,2.02,1.88,West Bromwich Albion,Coventry,west_bromwich_albion,coventry
+2024-12-21,E1,England-Champ,2425,Portsmouth,Coventry,4.0,1.0,H,2.0,1.0,H,3.9,3.6,1.91,3.7,3.89,1.95,3.73,3.68,1.93,1.8,2.0,1.79,2.0,0.5,1.95,1.95,Portsmouth,Coventry,portsmouth,coventry
+2025-01-01,E1,England-Champ,2425,Cardiff,Coventry,1.0,1.0,D,1.0,0.0,H,2.88,3.5,2.3,3.02,3.46,2.33,2.93,3.43,2.31,1.88,1.98,1.85,1.92,0.25,1.85,2.05,Cardiff City,Coventry,cardiff_city,coventry
+2025-01-04,E1,England-Champ,2425,Norwich,Coventry,2.0,1.0,H,0.0,1.0,A,2.4,3.4,2.8,2.43,3.39,2.91,2.39,3.45,2.83,1.85,2.0,1.81,1.98,-0.25,2.08,1.73,Norwich City,Coventry,norwich_city,coventry
+2025-01-21,E1,England-Champ,2425,Blackburn,Coventry,0.0,2.0,A,0.0,1.0,A,2.55,3.3,2.75,2.65,3.23,2.89,2.61,3.21,2.77,2.1,1.73,2.11,1.72,0.0,1.8,1.98,Blackburn,Coventry,blackburn,coventry
+2025-02-01,E1,England-Champ,2425,Swansea,Coventry,0.0,2.0,A,0.0,2.0,A,2.55,3.4,2.7,2.59,3.31,2.77,2.54,3.32,2.73,2.0,1.85,1.96,1.83,0.0,1.88,2.02,Swansea City,Coventry,swansea_city,coventry
+2025-02-15,E1,England-Champ,2425,Sheffield Weds,Coventry,1.0,2.0,A,0.0,1.0,A,2.45,3.4,2.75,2.51,3.4,2.8,2.46,3.4,2.81,1.98,1.88,1.95,1.86,0.0,1.84,2.06,Sheffield Wednesday,Coventry,sheffield_wednesday,coventry
+2025-03-01,E1,England-Champ,2425,Oxford,Coventry,2.0,3.0,A,0.0,1.0,A,3.5,3.25,2.1,3.61,3.45,2.07,3.53,3.38,2.1,2.03,1.83,2.01,1.81,0.25,2.06,1.84,Oxford United,Coventry,oxford_united,coventry
+2025-03-11,E1,England-Champ,2425,Derby,Coventry,2.0,0.0,H,1.0,0.0,H,3.4,3.2,2.2,3.43,3.25,2.27,3.35,3.23,2.24,2.32,1.53,2.4,1.57,0.25,1.95,1.95,Derby,Coventry,derby,coventry
+2025-03-28,E1,England-Champ,2425,Sheffield United,Coventry,3.0,1.0,H,2.0,0.0,H,2.05,3.3,3.6,2.1,3.34,3.65,2.07,3.37,3.56,2.05,1.8,2.01,1.79,-0.25,1.83,2.07,Sheffield United,Coventry,sheffield_united,coventry
+2025-04-14,E1,England-Champ,2425,Hull,Coventry,1.0,1.0,D,0.0,0.0,D,2.55,3.2,2.8,2.58,3.21,2.85,2.54,3.24,2.76,2.0,1.8,2.01,1.78,0.0,1.85,2.05,Hull City,Coventry,hull_city,coventry
+2025-04-21,E1,England-Champ,2425,Plymouth,Coventry,3.0,1.0,H,2.0,1.0,H,4.75,3.7,1.73,4.43,4.05,1.72,4.42,3.91,1.73,1.8,2.0,1.76,2.06,0.75,1.95,1.95,Plymouth Argyle,Coventry,plymouth_argyle,coventry
+2025-04-26,E1,England-Champ,2425,Luton,Coventry,1.0,0.0,H,0.0,0.0,D,2.5,3.25,2.88,2.54,3.26,2.96,2.47,3.3,2.86,2.03,1.83,1.99,1.82,0.0,1.8,2.05,Luton,Coventry,luton,coventry
+2025-08-16,E1,England-Champ,2526,Derby,Coventry,3.0,5.0,A,2.0,2.0,D,3.1,3.2,2.38,3.05,3.19,2.46,3.0,3.19,2.41,2.3,1.62,2.26,1.59,0.25,1.83,2.03,Derby,Coventry,derby,coventry
+2025-08-30,E1,England-Champ,2526,Oxford,Coventry,2.0,2.0,D,1.0,2.0,A,4.5,3.6,1.71,4.31,3.93,1.76,4.43,3.69,1.77,2.0,1.85,1.94,1.8,0.75,1.85,2.0,Oxford United,Coventry,oxford_united,coventry
+2025-09-20,E1,England-Champ,2526,Leicester,Coventry,0.0,0.0,D,0.0,0.0,D,2.4,3.4,2.65,2.55,3.44,2.73,2.46,3.46,2.71,1.73,2.1,1.69,2.09,0.0,1.85,2.0,Leicester City,Coventry,leicester_city,coventry
+2025-10-01,E1,England-Champ,2526,Millwall,Coventry,0.0,4.0,A,0.0,1.0,A,3.0,3.3,2.3,2.92,3.37,2.44,2.89,3.39,2.39,1.93,1.93,1.88,1.86,0.25,1.8,2.05,Millwall,Coventry,millwall,coventry
+2025-10-04,E1,England-Champ,2526,Sheffield Weds,Coventry,0.0,5.0,A,0.0,3.0,A,5.5,4.5,1.46,6.18,4.69,1.47,5.95,4.45,1.48,1.62,2.3,1.62,2.23,1.0,2.05,1.8,Sheffield Wednesday,Coventry,sheffield_wednesday,coventry
+2025-10-21,E1,England-Champ,2526,Portsmouth,Coventry,1.0,2.0,A,0.0,1.0,A,4.0,3.6,1.79,4.02,3.79,1.89,3.95,3.77,1.84,1.8,2.0,1.74,2.03,0.5,2.0,1.85,Portsmouth,Coventry,portsmouth,coventry
+2025-10-31,E1,England-Champ,2526,Wrexham,Coventry,3.0,2.0,H,0.0,1.0,A,3.9,3.4,1.91,,,,3.77,3.51,1.95,2.05,1.8,1.97,1.79,0.5,1.88,1.98,Wrexham,Coventry,wrexham,coventry
+2025-11-08,E1,England-Champ,2526,Stoke,Coventry,0.0,1.0,A,0.0,0.0,D,2.82,3.6,2.25,,,,2.88,3.5,2.33,1.8,2.0,1.79,1.95,0.25,1.8,2.05,Stoke City,Coventry,stoke_city,coventry
+2025-11-25,E1,England-Champ,2526,Middlesbrough,Coventry,2.0,4.0,A,1.0,2.0,A,2.57,3.4,2.55,2.73,3.45,2.66,2.71,3.35,2.53,1.93,1.93,1.87,1.88,0.0,1.95,1.9,Middlesbrough,Coventry,middlesbrough,coventry
+2025-12-06,E1,England-Champ,2526,Ipswich,Coventry,3.0,0.0,H,1.0,0.0,H,2.2,3.5,2.95,2.26,3.57,3.05,2.27,3.47,2.98,1.73,2.1,1.74,2.02,-0.25,2.0,1.85,Ipswich,Coventry,ipswich,coventry
+2025-12-09,E1,England-Champ,2526,Preston,Coventry,1.0,1.0,D,0.0,0.0,D,3.75,3.7,1.86,3.9,3.74,1.95,3.74,3.58,1.94,1.8,2.0,1.81,1.95,0.5,1.93,1.93,Preston,Coventry,preston,coventry
+2025-12-20,E1,England-Champ,2526,Southampton,Coventry,1.0,1.0,D,0.0,1.0,A,2.4,3.7,2.57,2.5,3.77,2.67,2.39,3.7,2.67,1.62,2.3,1.57,2.3,0.0,1.85,2.0,Southampton,Coventry,southampton,coventry
+2026-01-01,E1,England-Champ,2526,Charlton,Coventry,1.0,1.0,D,0.0,1.0,A,3.9,3.5,1.86,3.82,3.68,1.93,3.81,3.52,1.93,1.93,1.93,1.86,1.88,0.5,1.93,1.93,Charlton,Coventry,charlton,coventry
+2026-01-04,E1,England-Champ,2526,Birmingham,Coventry,3.0,2.0,H,2.0,1.0,H,2.5,3.4,2.65,2.61,3.44,2.67,2.54,3.41,2.64,1.83,2.03,1.78,1.96,0.0,1.88,1.98,Birmingham,Coventry,birmingham,coventry
+2026-01-26,E1,England-Champ,2526,Norwich,Coventry,2.0,1.0,H,0.0,1.0,A,2.82,3.5,2.3,,,,2.84,3.51,2.31,1.67,2.2,1.68,2.12,0.25,1.8,2.05,Norwich City,Coventry,norwich_city,coventry
+2026-01-31,E1,England-Champ,2526,QPR,Coventry,2.0,1.0,H,0.0,0.0,D,3.1,3.4,2.15,,,,3.13,3.39,2.22,1.91,1.91,1.8,1.94,0.25,1.93,1.93,Queens Park Rangers,Coventry,queens_park_rangers,coventry
+2026-02-21,E1,England-Champ,2526,West Brom,Coventry,0.0,2.0,A,0.0,2.0,A,3.5,3.5,2.01,,,,3.47,3.46,2.06,1.98,1.88,1.89,1.85,0.25,2.05,1.75,West Bromwich Albion,Coventry,west_bromwich_albion,coventry
+2026-02-25,E1,England-Champ,2526,Sheffield United,Coventry,1.0,2.0,A,0.0,0.0,D,2.4,3.4,2.7,,,,2.41,3.49,2.73,1.73,2.1,1.67,2.13,0.0,1.83,2.03,Sheffield United,Coventry,sheffield_united,coventry
+2026-03-07,E1,England-Champ,2526,Bristol City,Coventry,0.0,2.0,A,0.0,2.0,A,3.7,3.6,1.91,,,,3.47,3.61,2.0,1.73,2.1,1.7,2.08,0.5,1.85,2.0,Bristol City,Coventry,bristol_city,coventry
+2026-03-21,E1,England-Champ,2526,Swansea,Coventry,0.0,3.0,A,0.0,3.0,A,3.1,3.5,2.1,,,,3.2,3.46,2.15,1.9,1.95,1.82,1.93,0.25,1.93,1.93,Swansea City,Coventry,swansea_city,coventry
+2026-04-06,E1,England-Champ,2526,Hull,Coventry,0.0,0.0,D,0.0,0.0,D,4.0,3.5,1.86,,,,3.95,3.44,1.91,1.8,2.0,1.73,2.04,0.5,1.93,1.93,Hull City,Coventry,hull_city,coventry
+2026-04-17,E1,England-Champ,2526,Blackburn,Coventry,1.0,1.0,D,0.0,0.0,D,4.1,3.25,1.91,,,,3.98,3.26,1.99,2.1,1.73,2.05,1.72,0.5,1.85,2.0,Blackburn,Coventry,blackburn,coventry
+2026-05-02,E1,England-Champ,2526,Watford,Coventry,0.0,4.0,A,0.0,2.0,A,3.3,4.0,1.91,,,,3.28,3.87,1.99,1.57,2.38,1.54,2.36,0.5,1.85,2.0,Watford,Coventry,watford,coventry
+2026-08-21,E0,England-PL,2627,Arsenal,Coventry,3.0,0.0,H,2.0,0.0,H,1.2,7.0,13.0,,,,1.19,6.77,14.19,1.57,2.38,1.55,2.38,-2.0,2.03,1.78,Arsenal,Coventry,arsenal,coventry
+2026-09-05,E0,England-PL,2627,Man City,Coventry,1.0,0.0,H,1.0,0.0,H,1.18,8.0,12.0,,,,1.17,7.64,13.85,1.36,3.2,1.34,3.17,-2.25,2.03,1.78,Manchester City,Coventry,manchester_city,coventry
+2026-09-19,E0,England-PL,2627,Nott'm Forest,Coventry,0.0,1.0,A,0.0,0.0,D,1.57,4.0,5.75,,,,1.58,4.02,5.54,1.8,2.0,1.75,2.01,-1.0,1.98,1.88,Nottingham Forest,Coventry,nottingham_forest,coventry
+2026-10-19,E0,England-PL,2627,Tottenham,Coventry,3.0,1.0,H,1.0,0.0,H,1.45,4.5,7.0,,,,1.46,4.55,6.23,1.57,2.38,1.55,2.34,-1.25,2.0,1.85,Tottenham Hotspur,Coventry,tottenham_hotspur,coventry

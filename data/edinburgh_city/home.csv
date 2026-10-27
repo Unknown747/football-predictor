@@ -1,0 +1,78 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-13,SC3,Scotland-L2,2122,Edinburgh City,Stenhousemuir,1.0,0.0,H,1.0,0.0,H,2.05,3.4,3.2,2.15,3.52,3.33,2.09,3.4,3.18,1.75,2.05,1.74,2.03,-0.25,1.9,1.95,Edinburgh City,Stenhousemuir,edinburgh_city,stenhousemuir
+2021-08-27,SC3,Scotland-L2,2122,Edinburgh City,Elgin,2.0,0.0,H,2.0,0.0,H,2.37,3.5,2.6,2.52,3.38,2.69,2.48,3.33,2.61,1.75,2.05,1.75,2.01,0.0,1.88,1.98,Edinburgh City,Elgin,edinburgh_city,elgin
+2021-09-17,SC3,Scotland-L2,2122,Edinburgh City,Stirling,2.0,2.0,D,1.0,1.0,D,2.45,3.5,2.4,2.63,3.48,2.52,2.55,3.37,2.5,1.9,1.9,1.85,1.89,0.0,1.95,1.9,Edinburgh City,Stirling,edinburgh_city,stirling
+2021-10-01,SC3,Scotland-L2,2122,Edinburgh City,Cowdenbeath,1.0,1.0,D,1.0,0.0,H,1.9,3.6,3.4,1.97,3.79,3.4,1.96,3.66,3.31,1.7,2.1,1.68,2.1,-0.5,2.02,1.83,Edinburgh City,Cowdenbeath,edinburgh_city,cowdenbeath
+2021-10-15,SC3,Scotland-L2,2122,Edinburgh City,Kelty Hearts,2.0,3.0,A,1.0,2.0,A,9.0,4.5,1.28,8.73,4.86,1.32,8.39,4.77,1.32,1.66,2.15,1.66,2.14,1.5,1.88,1.98,Edinburgh City,Kelty Hearts,edinburgh_city,kelty_hearts
+2021-11-05,SC3,Scotland-L2,2122,Edinburgh City,Albion Rvs,0.0,4.0,A,0.0,3.0,A,2.0,3.5,3.75,2.05,3.64,3.3,2.03,3.56,3.2,1.7,2.1,1.71,2.06,-0.25,1.8,2.05,Edinburgh City,Albion Rvs,edinburgh_city,albion_rvs
+2021-11-12,SC3,Scotland-L2,2122,Edinburgh City,Stranraer,3.0,1.0,H,2.0,0.0,H,2.45,3.75,2.5,2.63,3.27,2.65,2.52,3.32,2.57,1.9,1.95,1.84,1.89,0.0,2.0,1.85,Edinburgh City,Stranraer,edinburgh_city,stranraer
+2021-12-03,SC3,Scotland-L2,2122,Edinburgh City,Annan Athletic,0.0,1.0,A,0.0,1.0,A,2.4,3.5,2.45,2.53,3.37,2.69,2.45,3.35,2.62,1.88,1.98,1.81,1.93,0.0,1.9,1.95,Edinburgh City,Annan Athletic,edinburgh_city,annan_athletic
+2021-12-17,SC3,Scotland-L2,2122,Edinburgh City,Forfar,0.0,4.0,A,0.0,3.0,A,3.75,3.2,1.95,3.85,3.32,1.98,3.65,3.31,1.96,2.15,1.66,2.11,1.68,0.5,1.83,2.02,Edinburgh City,Forfar,edinburgh_city,forfar
+2022-01-07,SC3,Scotland-L2,2122,Edinburgh City,Elgin,2.0,2.0,D,1.0,1.0,D,3.0,3.25,2.2,3.06,3.15,2.39,2.86,3.17,2.36,2.0,1.85,1.93,1.81,0.25,1.85,2.0,Edinburgh City,Elgin,edinburgh_city,elgin
+2022-02-11,SC3,Scotland-L2,2122,Edinburgh City,Stirling,1.0,0.0,H,0.0,0.0,D,2.75,3.25,2.25,2.55,3.41,2.64,2.53,3.32,2.54,1.72,2.07,1.72,2.04,0.0,2.1,1.7,Edinburgh City,Stirling,edinburgh_city,stirling
+2022-02-15,SC3,Scotland-L2,2122,Edinburgh City,Albion Rvs,1.0,2.0,A,0.0,0.0,D,2.3,3.25,2.8,2.27,3.33,3.09,2.17,3.32,3.05,1.8,2.0,1.82,1.92,-0.25,2.05,1.75,Edinburgh City,Albion Rvs,edinburgh_city,albion_rvs
+2022-02-25,SC3,Scotland-L2,2122,Edinburgh City,Cowdenbeath,1.0,0.0,H,1.0,0.0,H,1.85,3.3,4.0,2.06,3.36,3.55,2.03,3.34,3.39,1.98,1.88,1.87,1.86,-0.5,1.93,1.93,Edinburgh City,Cowdenbeath,edinburgh_city,cowdenbeath
+2022-03-02,SC3,Scotland-L2,2122,Edinburgh City,Stenhousemuir,1.0,1.0,D,1.0,1.0,D,2.7,3.3,2.4,2.74,3.25,2.31,2.72,3.29,2.39,1.8,2.0,1.84,1.89,0.0,,,Edinburgh City,Stenhousemuir,edinburgh_city,stenhousemuir
+2022-03-18,SC3,Scotland-L2,2122,Edinburgh City,Stranraer,1.0,2.0,A,0.0,2.0,A,2.5,3.4,2.4,2.88,3.47,2.33,2.9,3.31,2.28,2.0,1.85,1.91,1.82,0.25,1.68,2.15,Edinburgh City,Stranraer,edinburgh_city,stranraer
+2022-04-01,SC3,Scotland-L2,2122,Edinburgh City,Kelty Hearts,1.0,1.0,D,0.0,0.0,D,6.5,4.2,1.5,6.3,4.02,1.52,5.9,3.99,1.51,1.9,1.95,1.84,1.9,1.0,1.95,1.9,Edinburgh City,Kelty Hearts,edinburgh_city,kelty_hearts
+2022-04-09,SC3,Scotland-L2,2122,Edinburgh City,Forfar,2.0,0.0,H,1.0,0.0,H,3.1,3.3,2.1,3.14,3.45,2.2,3.1,3.31,2.16,1.95,1.85,1.94,1.8,0.25,1.98,1.88,Edinburgh City,Forfar,edinburgh_city,forfar
+2022-04-22,SC3,Scotland-L2,2122,Edinburgh City,Annan Athletic,2.0,1.0,H,2.0,1.0,H,2.45,3.25,2.5,2.6,3.56,2.42,2.57,3.41,2.46,1.88,1.98,1.81,1.93,0.0,1.88,1.98,Edinburgh City,Annan Athletic,edinburgh_city,annan_athletic
+2023-08-12,SC2,Scotland-L1,2324,Edinburgh City,Queen of Sth,1.0,2.0,A,1.0,0.0,H,3.0,3.5,2.1,,,,2.95,3.51,2.16,1.7,2.1,1.71,2.05,,,,Edinburgh City,Queen of Sth,edinburgh_city,queen_of_sth
+2023-08-19,SC2,Scotland-L1,2324,Edinburgh City,Hamilton,0.0,3.0,A,0.0,1.0,A,3.75,3.6,1.85,3.81,3.77,1.86,3.69,3.61,1.85,1.73,2.08,1.7,2.07,0.5,1.95,1.9,Edinburgh City,Hamilton Academical,edinburgh_city,hamilton_academical
+2023-09-02,SC2,Scotland-L1,2324,Edinburgh City,Falkirk,0.0,2.0,A,0.0,1.0,A,5.75,4.2,1.44,7.01,4.84,1.4,6.45,4.65,1.39,1.53,2.4,1.51,2.42,1.25,1.93,1.93,Edinburgh City,Falkirk,edinburgh_city,falkirk
+2023-09-23,SC2,Scotland-L1,2324,Edinburgh City,Cove Rangers,2.0,2.0,D,1.0,1.0,D,3.8,3.8,1.67,4.34,4.11,1.69,4.14,3.95,1.69,1.57,2.35,1.57,2.31,0.75,1.95,1.9,Edinburgh City,Cove Rangers,edinburgh_city,cove_rangers
+2023-10-07,SC2,Scotland-L1,2324,Edinburgh City,Kelty Hearts,1.0,4.0,A,0.0,2.0,A,3.25,3.6,1.95,3.13,3.59,2.14,3.12,3.6,2.04,1.62,2.25,1.6,2.23,0.25,2.03,1.78,Edinburgh City,Kelty Hearts,edinburgh_city,kelty_hearts
+2023-10-28,SC2,Scotland-L1,2324,Edinburgh City,Annan Athletic,3.0,2.0,H,2.0,1.0,H,3.1,3.6,2.15,3.03,3.6,2.19,2.99,3.55,2.13,1.6,2.3,1.58,2.27,0.25,1.95,1.9,Edinburgh City,Annan Athletic,edinburgh_city,annan_athletic
+2023-11-04,SC2,Scotland-L1,2324,Edinburgh City,Montrose,1.0,5.0,A,1.0,2.0,A,3.2,3.8,1.85,3.16,3.76,2.08,3.18,3.69,1.99,1.57,2.35,1.53,2.38,0.5,1.85,2.0,Edinburgh City,Montrose,edinburgh_city,montrose
+2023-11-18,SC2,Scotland-L1,2324,Edinburgh City,Alloa,3.0,0.0,H,2.0,0.0,H,3.75,3.8,1.85,3.89,3.83,1.83,3.68,3.72,1.83,1.62,2.25,1.58,2.27,0.5,2.0,1.85,Edinburgh City,Alloa,edinburgh_city,alloa
+2023-12-09,SC2,Scotland-L1,2324,Edinburgh City,Stirling,1.0,3.0,A,1.0,2.0,A,7.0,4.2,1.5,5.1,4.12,1.6,5.07,4.06,1.56,1.65,2.2,1.59,2.25,1.0,2.0,1.85,Edinburgh City,Stirling,edinburgh_city,stirling
+2023-12-30,SC2,Scotland-L1,2324,Edinburgh City,Hamilton,2.0,5.0,A,0.0,5.0,A,,,,,,,9.96,5.83,1.23,,,1.38,2.83,1.75,,,Edinburgh City,Hamilton Academical,edinburgh_city,hamilton_academical
+2024-01-13,SC2,Scotland-L1,2324,Edinburgh City,Falkirk,2.0,2.0,D,2.0,0.0,H,21.0,15.0,1.06,,,,37.35,13.28,1.03,1.14,5.0,1.15,4.97,3.75,,,Edinburgh City,Falkirk,edinburgh_city,falkirk
+2024-02-03,SC2,Scotland-L1,2324,Edinburgh City,Kelty Hearts,0.0,3.0,A,0.0,1.0,A,8.5,6.5,1.22,9.67,6.62,1.23,9.4,6.13,1.23,1.33,3.25,1.34,3.06,2.0,1.8,2.0,Edinburgh City,Kelty Hearts,edinburgh_city,kelty_hearts
+2024-02-17,SC2,Scotland-L1,2324,Edinburgh City,Queen of Sth,1.0,1.0,D,0.0,0.0,D,9.0,6.0,1.22,8.42,7.08,1.25,9.86,6.31,1.21,1.44,2.63,1.45,2.62,1.75,2.0,1.85,Edinburgh City,Queen of Sth,edinburgh_city,queen_of_sth
+2024-03-02,SC2,Scotland-L1,2324,Edinburgh City,Cove Rangers,0.0,2.0,A,0.0,1.0,A,7.5,5.25,1.29,8.63,5.77,1.3,7.96,5.45,1.29,1.4,2.75,1.39,2.83,1.5,2.03,1.83,Edinburgh City,Cove Rangers,edinburgh_city,cove_rangers
+2024-03-16,SC2,Scotland-L1,2324,Edinburgh City,Alloa,2.0,5.0,A,2.0,1.0,H,10.0,7.5,1.17,9.88,6.07,1.26,9.32,5.9,1.24,1.4,2.75,1.43,2.66,1.75,,,Edinburgh City,Alloa,edinburgh_city,alloa
+2024-04-16,SC2,Scotland-L1,2324,Edinburgh City,Montrose,1.0,0.0,H,0.0,0.0,D,8.0,5.5,1.29,8.42,5.58,1.31,8.06,5.38,1.29,1.44,2.63,1.42,2.71,1.5,2.05,1.77,Edinburgh City,Montrose,edinburgh_city,montrose
+2024-04-20,SC2,Scotland-L1,2324,Edinburgh City,Annan Athletic,1.0,2.0,A,1.0,1.0,D,6.0,6.0,1.29,6.3,5.01,1.42,5.95,5.05,1.39,1.36,3.0,1.37,2.9,1.25,,,Edinburgh City,Annan Athletic,edinburgh_city,annan_athletic
+2024-04-27,SC2,Scotland-L1,2324,Edinburgh City,Stirling,1.0,3.0,A,1.0,1.0,D,8.0,4.75,1.33,7.66,5.24,1.35,7.18,4.97,1.34,1.5,2.5,1.49,2.5,1.5,1.9,1.95,Edinburgh City,Stirling,edinburgh_city,stirling
+2024-08-03,SC3,Scotland-L2,2425,Edinburgh City,Stirling,1.0,2.0,A,0.0,0.0,D,6.5,5.75,1.27,6.78,5.0,1.37,8.55,5.5,1.27,1.53,2.38,1.51,2.42,1.5,2.03,1.83,Edinburgh City,Stirling,edinburgh_city,stirling
+2024-08-17,SC3,Scotland-L2,2425,Edinburgh City,Bonnyrigg Rose,2.0,2.0,D,1.0,1.0,D,4.5,4.75,1.48,5.84,4.19,1.5,5.57,4.25,1.47,1.73,2.08,1.72,2.04,1.0,2.0,1.85,Edinburgh City,Bonnyrigg Rose,edinburgh_city,bonnyrigg_rose
+2024-08-31,SC3,Scotland-L2,2425,Edinburgh City,Peterhead,0.0,4.0,A,0.0,4.0,A,4.75,4.0,1.53,,,,4.91,4.07,1.55,1.67,2.15,1.65,2.13,1.0,,,Edinburgh City,Peterhead,edinburgh_city,peterhead
+2024-10-05,SC3,Scotland-L2,2425,Edinburgh City,Stranraer,1.0,2.0,A,0.0,1.0,A,2.88,3.5,2.15,2.92,3.68,2.16,2.93,3.57,2.13,1.8,2.0,1.75,2.0,0.25,,,Edinburgh City,Stranraer,edinburgh_city,stranraer
+2024-10-12,SC3,Scotland-L2,2425,Edinburgh City,Spartans,2.0,0.0,H,0.0,0.0,D,4.75,3.9,1.6,5.01,3.83,1.62,4.89,3.86,1.6,1.83,2.03,1.77,1.98,0.75,2.05,1.8,Edinburgh City,Spartans,edinburgh_city,spartans
+2024-11-02,SC3,Scotland-L2,2425,Edinburgh City,Forfar,2.0,0.0,H,1.0,0.0,H,3.2,3.5,2.05,3.23,3.24,2.05,3.21,3.34,2.07,1.95,1.9,1.89,1.84,0.25,2.0,1.85,Edinburgh City,Forfar,edinburgh_city,forfar
+2024-11-09,SC3,Scotland-L2,2425,Edinburgh City,Clyde,1.0,0.0,H,0.0,0.0,D,3.5,3.5,1.83,3.67,3.7,1.87,3.63,3.64,1.85,1.75,2.05,1.73,2.03,0.5,1.98,1.88,Edinburgh City,Clyde,edinburgh_city,clyde
+2024-12-21,SC3,Scotland-L2,2425,Edinburgh City,Elgin,1.0,0.0,H,0.0,0.0,D,3.0,3.6,2.0,3.3,3.57,2.02,3.15,3.56,2.05,1.73,2.08,1.74,2.01,0.25,2.05,1.8,Edinburgh City,Elgin,edinburgh_city,elgin
+2025-01-04,SC3,Scotland-L2,2425,Edinburgh City,Bonnyrigg Rose,2.0,0.0,H,1.0,0.0,H,2.8,3.25,2.3,2.83,3.29,2.38,2.83,3.28,2.31,1.88,1.98,1.82,1.92,0.25,1.8,2.05,Edinburgh City,Bonnyrigg Rose,edinburgh_city,bonnyrigg_rose
+2025-01-08,SC3,Scotland-L2,2425,Edinburgh City,East Fife,2.0,4.0,A,1.0,0.0,H,2.88,3.4,2.2,2.94,3.35,2.28,2.95,3.38,2.2,1.88,1.98,1.83,1.91,0.25,1.85,2.0,Edinburgh City,East Fife,edinburgh_city,east_fife
+2025-01-11,SC3,Scotland-L2,2425,Edinburgh City,Peterhead,0.0,1.0,A,0.0,1.0,A,3.1,3.9,1.9,3.28,3.77,1.96,3.22,3.63,1.93,1.88,1.98,1.84,1.9,0.5,1.88,1.98,Edinburgh City,Peterhead,edinburgh_city,peterhead
+2025-02-01,SC3,Scotland-L2,2425,Edinburgh City,Stirling,4.0,3.0,H,2.0,1.0,H,2.8,3.4,2.25,2.87,3.26,2.37,2.84,3.31,2.28,1.88,1.98,1.83,1.91,0.25,1.8,2.05,Edinburgh City,Stirling,edinburgh_city,stirling
+2025-02-15,SC3,Scotland-L2,2425,Edinburgh City,Spartans,5.0,0.0,H,2.0,0.0,H,2.55,3.2,2.55,2.61,3.1,2.68,2.59,3.13,2.6,2.1,1.67,2.09,1.68,0.0,1.93,1.93,Edinburgh City,Spartans,edinburgh_city,spartans
+2025-03-01,SC3,Scotland-L2,2425,Edinburgh City,Stranraer,0.0,1.0,A,0.0,0.0,D,2.05,3.1,3.25,2.04,3.35,3.45,2.06,3.26,3.35,1.93,1.93,1.88,1.85,-0.25,1.83,2.03,Edinburgh City,Stranraer,edinburgh_city,stranraer
+2025-03-22,SC3,Scotland-L2,2425,Edinburgh City,East Fife,5.0,2.0,H,2.0,0.0,H,3.1,3.1,2.15,3.03,3.31,2.24,3.02,3.3,2.22,1.93,1.93,1.84,1.89,0.25,1.9,1.95,Edinburgh City,East Fife,edinburgh_city,east_fife
+2025-04-05,SC3,Scotland-L2,2425,Edinburgh City,Clyde,2.0,1.0,H,1.0,0.0,H,2.15,3.5,2.75,2.28,3.56,2.78,2.24,3.48,2.82,1.7,2.1,1.69,2.07,-0.25,2.0,1.85,Edinburgh City,Clyde,edinburgh_city,clyde
+2025-04-12,SC3,Scotland-L2,2425,Edinburgh City,Elgin,2.0,0.0,H,1.0,0.0,H,2.25,3.3,2.9,2.26,3.46,2.88,2.27,3.35,2.89,1.93,1.93,1.87,1.87,-0.25,2.0,1.85,Edinburgh City,Elgin,edinburgh_city,elgin
+2025-04-26,SC3,Scotland-L2,2425,Edinburgh City,Forfar,0.0,0.0,D,0.0,0.0,D,2.6,3.3,2.35,2.83,3.26,2.4,2.71,3.28,2.43,2.0,1.85,1.95,1.8,0.0,2.03,1.83,Edinburgh City,Forfar,edinburgh_city,forfar
+2025-08-02,SC3,Scotland-L2,2526,Edinburgh City,Stirling,1.0,2.0,A,0.0,2.0,A,2.1,3.5,3.0,2.14,3.47,3.03,2.11,3.33,3.02,1.87,1.87,1.84,1.84,-0.25,1.85,1.95,Edinburgh City,Stirling,edinburgh_city,stirling
+2025-08-16,SC3,Scotland-L2,2526,Edinburgh City,Annan Athletic,2.0,2.0,D,0.0,2.0,A,2.38,3.4,2.63,2.43,3.29,2.71,2.37,3.22,2.62,1.85,1.95,1.82,1.86,0.0,1.78,2.03,Edinburgh City,Annan Athletic,edinburgh_city,annan_athletic
+2025-09-13,SC3,Scotland-L2,2526,Edinburgh City,East Kilbride,2.0,2.0,D,1.0,2.0,A,3.6,3.7,1.95,2.87,4.12,2.0,3.1,3.71,1.95,1.5,2.5,1.46,2.53,0.25,2.05,1.75,Edinburgh City,East Kilbride,edinburgh_city,east_kilbride
+2025-09-27,SC3,Scotland-L2,2526,Edinburgh City,Forfar,1.0,1.0,D,0.0,1.0,A,1.91,3.75,3.3,1.92,3.74,3.37,1.92,3.57,3.2,1.57,2.35,1.56,2.23,-0.5,1.95,1.85,Edinburgh City,Forfar,edinburgh_city,forfar
+2025-10-18,SC3,Scotland-L2,2526,Edinburgh City,Stranraer,1.0,3.0,A,1.0,2.0,A,1.67,3.75,4.33,1.76,4.06,3.71,1.66,3.8,4.12,1.67,2.15,1.61,2.14,-0.75,1.93,1.88,Edinburgh City,Stranraer,edinburgh_city,stranraer
+2025-11-08,SC3,Scotland-L2,2526,Edinburgh City,Elgin,1.0,3.0,A,1.0,0.0,H,2.1,3.5,3.1,,,,2.12,3.36,2.97,1.8,2.0,1.78,1.9,-0.25,1.85,1.95,Edinburgh City,Elgin,edinburgh_city,elgin
+2025-12-06,SC3,Scotland-L2,2526,Edinburgh City,Dumbarton,4.0,3.0,H,3.0,0.0,H,1.67,3.75,4.0,,,,1.72,3.75,3.8,1.62,2.25,1.57,2.21,-0.75,1.93,1.88,Edinburgh City,Dumbarton,edinburgh_city,dumbarton
+2025-12-13,SC3,Scotland-L2,2526,Edinburgh City,Clyde,1.0,4.0,A,1.0,1.0,D,2.35,3.4,2.55,,,,2.3,3.41,2.59,1.67,2.15,1.62,2.1,0.0,1.78,2.03,Edinburgh City,Clyde,edinburgh_city,clyde
+2025-12-27,SC3,Scotland-L2,2526,Edinburgh City,Spartans,1.0,3.0,A,1.0,2.0,A,2.63,3.4,2.3,,,,2.62,3.33,2.32,1.8,2.0,1.73,1.96,0.0,2.0,1.8,Edinburgh City,Spartans,edinburgh_city,spartans
+2026-01-10,SC3,Scotland-L2,2526,Edinburgh City,Stirling,1.0,4.0,A,1.0,0.0,H,1.67,3.9,4.0,,,,1.68,3.83,3.9,1.53,2.38,1.51,2.34,-0.75,1.9,1.9,Edinburgh City,Stirling,edinburgh_city,stirling
+2026-01-24,SC3,Scotland-L2,2526,Edinburgh City,Annan Athletic,2.0,2.0,D,0.0,0.0,D,2.5,3.7,2.25,,,,2.53,3.58,2.28,1.5,2.5,1.48,2.42,0.0,2.0,1.8,Edinburgh City,Annan Athletic,edinburgh_city,annan_athletic
+2026-02-07,SC3,Scotland-L2,2526,Edinburgh City,East Kilbride,0.0,2.0,A,0.0,2.0,A,3.2,3.75,1.85,,,,3.25,3.64,1.88,1.44,2.63,1.45,2.49,0.5,1.88,1.93,Edinburgh City,East Kilbride,edinburgh_city,east_kilbride
+2026-02-28,SC3,Scotland-L2,2526,Edinburgh City,Forfar,0.0,0.0,D,0.0,0.0,D,2.75,3.4,2.15,,,,2.71,3.38,2.2,1.67,2.15,1.66,2.06,0.25,1.83,1.98,Edinburgh City,Forfar,edinburgh_city,forfar
+2026-03-07,SC3,Scotland-L2,2526,Edinburgh City,Stranraer,4.0,1.0,H,2.0,1.0,H,3.0,3.3,2.05,,,,3.03,3.25,2.08,1.85,1.95,1.8,1.88,0.25,1.95,1.85,Edinburgh City,Stranraer,edinburgh_city,stranraer
+2026-03-21,SC3,Scotland-L2,2526,Edinburgh City,Elgin,0.0,3.0,A,0.0,2.0,A,2.9,3.4,2.1,,,,2.86,3.38,2.12,1.7,2.1,1.64,2.07,0.25,1.88,1.93,Edinburgh City,Elgin,edinburgh_city,elgin
+2026-04-04,SC3,Scotland-L2,2526,Edinburgh City,Spartans,0.0,3.0,A,0.0,0.0,D,4.75,3.7,1.57,,,,4.69,3.75,1.57,1.7,2.1,1.65,2.07,1.0,1.78,2.03,Edinburgh City,Spartans,edinburgh_city,spartans
+2026-04-11,SC3,Scotland-L2,2526,Edinburgh City,Clyde,0.0,2.0,A,0.0,1.0,A,4.0,3.5,1.73,,,,3.83,3.67,1.72,1.7,2.1,1.64,2.08,0.75,1.8,2.0,Edinburgh City,Clyde,edinburgh_city,clyde
+2026-05-02,SC3,Scotland-L2,2526,Edinburgh City,Dumbarton,5.0,0.0,H,4.0,0.0,H,5.25,5.0,1.38,,,,5.75,4.66,1.37,1.53,2.38,1.5,2.37,1.25,1.98,1.83,Edinburgh City,Dumbarton,edinburgh_city,dumbarton
+2026-08-01,SC3,Scotland-L2,2627,Edinburgh City,Elgin,0.0,5.0,A,0.0,3.0,A,1.83,3.8,3.3,,,,1.82,3.62,3.55,1.73,2.08,1.68,2.06,-0.5,1.88,1.93,Edinburgh City,Elgin,edinburgh_city,elgin
+2026-08-22,SC3,Scotland-L2,2627,Edinburgh City,Annan Athletic,1.0,0.0,H,0.0,0.0,D,2.2,3.4,2.63,,,,2.22,3.46,2.74,1.73,2.08,1.69,2.04,-0.25,2.03,1.78,Edinburgh City,Annan Athletic,edinburgh_city,annan_athletic
+2026-08-28,SC3,Scotland-L2,2627,Edinburgh City,Forfar,1.0,1.0,D,0.0,0.0,D,1.6,3.7,4.75,,,,1.65,3.6,4.48,1.85,1.95,1.82,1.88,-0.75,1.8,2.0,Edinburgh City,Forfar,edinburgh_city,forfar
+2026-09-12,SC3,Scotland-L2,2627,Edinburgh City,Stirling,7.0,3.0,H,5.0,0.0,H,1.85,3.5,3.7,,,,1.8,3.5,3.85,1.8,2.0,1.75,1.96,-0.5,1.85,1.95,Edinburgh City,Stirling,edinburgh_city,stirling
+2026-10-10,SC3,Scotland-L2,2627,Edinburgh City,Spartans,1.0,3.0,A,1.0,1.0,D,2.55,3.4,2.3,,,,2.55,3.45,2.36,1.67,2.15,1.63,2.13,0.0,2.0,1.8,Edinburgh City,Spartans,edinburgh_city,spartans

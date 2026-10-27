@@ -1,0 +1,31 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2023-08-05,EC,England-Conference,2324,Kidderminster,Woking,0.0,0.0,D,0.0,0.0,D,2.88,3.2,2.5,2.96,3.29,2.49,2.77,3.26,2.41,1.9,1.9,1.88,1.86,0.0,2.03,1.78,Kidderminster,Woking,kidderminster,woking
+2023-08-19,EC,England-Conference,2324,Kidderminster,Bromley,0.0,0.0,D,0.0,0.0,D,2.2,3.4,2.8,2.3,3.34,3.22,2.22,3.31,3.01,1.95,1.85,1.91,1.82,-0.25,1.95,1.85,Kidderminster,Bromley,kidderminster,bromley
+2023-08-28,EC,England-Conference,2324,Kidderminster,Maidenhead,0.0,0.0,D,0.0,0.0,D,1.91,3.75,3.75,1.98,3.5,3.93,1.98,3.37,3.59,1.93,1.88,2.04,1.71,-0.5,1.9,1.9,Kidderminster,Maidenhead,kidderminster,maidenhead
+2023-09-09,EC,England-Conference,2324,Kidderminster,Rochdale,1.0,1.0,D,1.0,0.0,H,2.4,3.0,2.8,2.59,3.14,2.94,2.44,3.09,2.84,2.1,1.7,2.1,1.68,0.0,1.73,2.08,Kidderminster,Rochdale,kidderminster,rochdale
+2023-09-16,EC,England-Conference,2324,Kidderminster,Solihull,0.0,1.0,A,0.0,1.0,A,2.05,3.6,2.88,2.22,3.45,3.28,2.16,3.35,3.08,1.98,1.83,1.95,1.79,-0.25,1.9,1.9,Kidderminster,Solihull,kidderminster,solihull
+2023-09-26,EC,England-Conference,2324,Kidderminster,Oldham,1.0,2.0,A,0.0,1.0,A,2.9,3.2,2.25,2.98,3.31,2.46,2.87,3.23,2.35,2.05,1.75,2.01,1.73,0.25,1.78,2.03,Kidderminster,Oldham,kidderminster,oldham
+2023-09-30,EC,England-Conference,2324,Kidderminster,Barnet,1.0,2.0,A,0.0,2.0,A,3.0,3.6,2.1,3.2,3.61,2.16,3.13,3.45,2.1,1.9,1.9,1.86,1.85,0.25,1.95,1.85,Kidderminster,Barnet,kidderminster,barnet
+2023-10-07,EC,England-Conference,2324,Kidderminster,Wealdstone,1.0,0.0,H,0.0,0.0,D,2.1,3.25,3.2,2.21,3.61,3.18,2.11,3.39,3.11,1.9,1.9,1.86,1.86,-0.25,1.9,1.9,Kidderminster,Wealdstone,kidderminster,wealdstone
+2023-10-28,EC,England-Conference,2324,Kidderminster,Chesterfield,1.0,3.0,A,1.0,1.0,D,4.75,4.0,1.67,4.53,3.83,1.77,4.32,3.74,1.71,1.75,2.05,1.74,2.0,0.75,1.85,1.95,Kidderminster,Chesterfield,kidderminster,chesterfield
+2023-11-18,EC,England-Conference,2324,Kidderminster,Dag and Red,0.0,1.0,A,0.0,0.0,D,2.45,3.2,2.9,2.7,3.0,2.94,2.48,3.03,2.83,2.25,1.62,2.19,1.61,0.0,1.78,2.03,Kidderminster,Dag and Red,kidderminster,dag_and_red
+2023-11-21,EC,England-Conference,2324,Kidderminster,Hartlepool,1.0,1.0,D,1.0,1.0,D,2.63,3.1,2.55,2.73,3.36,2.64,2.63,3.24,2.5,2.15,1.68,2.0,1.74,0.0,1.95,1.85,Kidderminster,Hartlepool United,kidderminster,hartlepool_united
+2023-12-02,EC,England-Conference,2324,Kidderminster,Ebbsfleet,2.0,0.0,H,2.0,0.0,H,2.05,3.3,3.3,2.11,3.52,3.49,2.04,3.42,3.32,1.83,1.98,1.8,1.93,-0.25,1.78,2.03,Kidderminster,Ebbsfleet,kidderminster,ebbsfleet
+2023-12-23,EC,England-Conference,2324,Kidderminster,Southend,1.0,2.0,A,1.0,2.0,A,2.6,3.2,2.6,2.75,3.24,2.69,2.59,3.13,2.61,2.25,1.62,2.23,1.59,0.0,1.9,1.9,Kidderminster,Southend United,kidderminster,southend_united
+2023-12-30,EC,England-Conference,2324,Kidderminster,Boreham Wood,1.0,2.0,A,1.0,2.0,A,2.55,3.0,2.63,2.53,3.39,2.82,2.5,3.15,2.7,2.15,1.67,2.14,1.65,0.0,1.88,1.93,Kidderminster,Boreham Wood,kidderminster,boreham_wood
+2024-01-20,EC,England-Conference,2324,Kidderminster,Aldershot,4.0,2.0,H,2.0,2.0,D,2.1,3.6,3.1,2.17,3.55,3.31,2.09,3.42,3.14,1.85,1.95,1.83,1.9,-0.25,1.85,1.95,Kidderminster,Aldershot,kidderminster,aldershot
+2024-02-03,EC,England-Conference,2324,Kidderminster,Oxford City,3.0,2.0,H,0.0,2.0,A,1.53,4.0,5.0,1.56,4.1,5.98,1.54,3.91,5.4,1.85,1.95,1.84,1.89,-1.0,1.98,1.83,Kidderminster,Oxford City,kidderminster,oxford_city
+2024-02-17,EC,England-Conference,2324,Kidderminster,Dorking,0.0,0.0,D,0.0,0.0,D,1.7,3.75,5.0,1.71,3.9,4.79,1.69,3.69,4.48,1.83,1.98,1.81,1.92,-0.75,1.9,1.9,Kidderminster,Dorking,kidderminster,dorking
+2024-02-20,EC,England-Conference,2324,Kidderminster,Gateshead,0.0,2.0,A,0.0,1.0,A,2.55,3.5,2.63,2.59,3.46,2.71,2.5,3.31,2.6,2.05,1.75,2.01,1.74,0.0,1.85,1.95,Kidderminster,Gateshead,kidderminster,gateshead
+2024-03-09,EC,England-Conference,2324,Kidderminster,York,0.0,0.0,D,0.0,0.0,D,2.0,3.75,3.1,2.06,3.38,3.8,2.01,3.33,3.5,2.1,1.7,2.11,1.67,-0.5,2.03,1.78,Kidderminster,York,kidderminster,york
+2024-03-12,EC,England-Conference,2324,Kidderminster,Fylde,1.0,1.0,D,0.0,1.0,A,2.2,3.5,2.8,2.35,3.43,3.06,2.28,3.35,2.9,1.85,1.95,1.85,1.89,-0.25,2.0,1.8,Kidderminster,Fylde,kidderminster,fylde
+2024-03-29,EC,England-Conference,2324,Kidderminster,Altrincham,1.0,3.0,A,1.0,1.0,D,2.25,3.5,3.0,2.28,3.4,3.14,2.23,3.3,3.0,1.98,1.83,1.95,1.8,-0.25,1.95,1.85,Kidderminster,Altrincham,kidderminster,altrincham
+2024-04-06,EC,England-Conference,2324,Kidderminster,Halifax,0.0,2.0,A,0.0,0.0,D,2.15,3.2,3.1,2.36,3.22,3.18,2.21,3.16,3.16,2.3,1.6,2.3,1.57,-0.25,1.95,1.85,Kidderminster,Halifax,kidderminster,halifax
+2024-04-13,EC,England-Conference,2324,Kidderminster,Eastleigh,0.0,1.0,A,0.0,1.0,A,1.8,3.6,3.75,1.83,3.66,4.28,1.8,3.57,4.01,1.95,1.85,1.91,1.84,-0.5,1.83,1.98,Kidderminster,Eastleigh,kidderminster,eastleigh
+2026-08-15,EC,England-Conference,2627,Kidderminster,Eastleigh,1.0,0.0,H,0.0,0.0,D,1.83,3.75,3.6,,,,1.84,3.67,3.55,1.62,2.25,1.59,2.23,-0.5,1.85,1.95,Kidderminster,Eastleigh,kidderminster,eastleigh
+2026-08-22,EC,England-Conference,2627,Kidderminster,Aldershot,1.0,1.0,D,1.0,0.0,H,2.1,3.5,3.0,,,,2.1,3.48,2.99,1.67,2.15,1.66,2.09,-0.25,1.85,1.95,Kidderminster,Aldershot,kidderminster,aldershot
+2026-08-31,EC,England-Conference,2627,Kidderminster,Barrow,1.0,1.0,D,1.0,1.0,D,2.38,3.4,2.55,,,,2.43,3.3,2.62,1.85,1.95,1.82,1.91,0.0,1.8,2.0,Kidderminster,Barrow,kidderminster,barrow
+2026-09-11,EC,England-Conference,2627,Kidderminster,Hartlepool,2.0,0.0,H,1.0,0.0,H,2.25,3.4,2.8,,,,2.24,3.37,2.8,1.73,2.08,1.75,1.97,-0.25,2.0,1.8,Kidderminster,Hartlepool United,kidderminster,hartlepool_united
+2026-09-16,EC,England-Conference,2627,Kidderminster,Gateshead,1.0,0.0,H,1.0,0.0,H,1.65,3.8,4.5,,,,1.63,3.78,4.52,1.75,2.05,1.71,2.03,-0.75,1.83,1.98,Kidderminster,Gateshead,kidderminster,gateshead
+2026-09-26,EC,England-Conference,2627,Kidderminster,Yeovil,0.0,1.0,A,0.0,0.0,D,1.95,3.4,3.5,,,,1.96,3.39,3.35,1.88,1.93,1.82,1.88,-0.5,2.0,1.8,Kidderminster,Yeovil Town,kidderminster,yeovil_town
+2026-10-03,EC,England-Conference,2627,Kidderminster,Sutton,1.0,1.0,D,1.0,0.0,H,2.38,3.2,2.75,,,,2.37,3.21,2.73,2.1,1.7,2.02,1.71,0.0,1.78,2.03,Kidderminster,Sutton United,kidderminster,sutton_united

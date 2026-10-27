@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-06,EC,England-Conference,2223,Aldershot,Solihull,1.0,4.0,A,1.0,2.0,A,4.0,4.0,1.65,4.55,4.22,1.69,4.3,3.93,1.68,1.7,2.1,1.67,2.11,0.75,1.95,1.85,Aldershot,Solihull,aldershot,solihull
+2022-08-20,EC,England-Conference,2223,Scunthorpe,Solihull,3.0,4.0,A,3.0,2.0,H,3.75,3.8,1.85,3.87,4.09,1.84,3.72,3.74,1.83,1.7,2.1,1.69,2.08,0.5,1.9,1.9,Scunthorpe United,Solihull,scunthorpe_united,solihull
+2022-08-29,EC,England-Conference,2223,Notts County,Solihull,1.0,0.0,H,0.0,0.0,D,2.2,3.5,3.1,2.29,3.59,3.05,2.23,3.44,2.92,1.8,2.0,1.74,2.02,-0.25,1.93,1.88,Notts County,Solihull,notts_county,solihull
+2022-09-13,EC,England-Conference,2223,Torquay,Solihull,1.0,4.0,A,1.0,2.0,A,4.75,3.8,1.65,4.68,4.17,1.68,4.56,3.83,1.66,1.75,2.05,1.74,2.01,0.75,1.98,1.83,Torquay,Solihull,torquay,solihull
+2022-09-24,EC,England-Conference,2223,Woking,Solihull,2.0,0.0,H,1.0,0.0,H,2.75,3.6,2.37,2.76,3.71,2.42,2.67,3.45,2.39,1.72,2.07,1.74,2.01,0.0,2.05,1.75,Woking,Solihull,woking,solihull
+2022-10-08,EC,England-Conference,2223,Yeovil,Solihull,1.0,0.0,H,0.0,0.0,D,3.4,3.6,1.95,3.62,3.54,2.05,3.5,3.5,1.95,1.8,2.0,1.76,1.98,0.5,1.83,1.98,Yeovil Town,Solihull,yeovil_town,solihull
+2022-10-25,EC,England-Conference,2223,Maidenhead,Solihull,0.0,2.0,A,0.0,1.0,A,3.0,3.4,2.15,3.13,3.66,2.21,3.03,3.42,2.17,1.8,2.0,1.74,2.0,0.25,1.88,1.93,Maidenhead,Solihull,maidenhead,solihull
+2022-10-29,EC,England-Conference,2223,Gateshead,Solihull,1.0,1.0,D,1.0,0.0,H,3.3,3.4,1.95,3.26,3.87,2.08,3.16,3.54,2.04,1.7,2.1,1.67,2.09,0.25,2.0,1.8,Gateshead,Solihull,gateshead,solihull
+2022-11-01,EC,England-Conference,2223,Maidstone,Solihull,0.0,0.0,D,0.0,0.0,D,4.2,4.0,1.72,4.13,4.42,1.72,3.95,4.01,1.73,1.57,2.35,1.56,2.32,0.75,1.88,1.93,Maidstone,Solihull,maidstone,solihull
+2022-11-19,EC,England-Conference,2223,Chesterfield,Solihull,2.0,0.0,H,1.0,0.0,H,1.9,3.5,3.5,2.02,3.79,3.5,1.96,3.57,3.41,1.72,2.07,1.72,2.03,-0.5,1.95,1.85,Chesterfield,Solihull,chesterfield,solihull
+2022-12-26,EC,England-Conference,2223,Wrexham,Solihull,5.0,0.0,H,1.0,0.0,H,1.45,4.2,7.5,1.43,4.66,6.63,1.43,4.44,6.26,1.67,2.15,1.63,2.19,-1.25,2.0,1.8,Wrexham,Solihull,wrexham,solihull
+2023-01-07,EC,England-Conference,2223,Southend,Solihull,3.0,0.0,H,1.0,0.0,H,1.85,3.5,4.2,1.98,3.45,3.97,1.91,3.41,3.74,1.93,1.88,1.89,1.84,-0.5,1.85,1.95,Southend United,Solihull,southend_united,solihull
+2023-01-28,EC,England-Conference,2223,Dorking,Solihull,0.0,3.0,A,0.0,1.0,A,3.1,3.4,2.1,3.22,3.9,2.09,3.02,3.66,2.09,1.57,2.35,1.53,2.38,0.25,2.0,1.8,Dorking,Solihull,dorking,solihull
+2023-02-07,EC,England-Conference,2223,York,Solihull,2.0,3.0,A,1.0,0.0,H,2.88,3.25,2.3,2.87,3.56,2.41,2.85,3.36,2.29,1.9,1.9,1.86,1.88,0.25,1.75,2.05,York,Solihull,york,solihull
+2023-02-11,EC,England-Conference,2223,Dag and Red,Solihull,2.0,1.0,H,1.0,1.0,D,2.6,3.4,2.4,2.74,3.47,2.56,2.61,3.36,2.45,1.73,2.08,1.71,2.04,0.0,1.98,1.83,Dag and Red,Solihull,dag_and_red,solihull
+2023-02-14,EC,England-Conference,2223,Boreham Wood,Solihull,1.0,1.0,D,1.0,0.0,H,2.05,3.2,3.4,2.12,3.39,3.59,2.09,3.28,3.32,1.98,1.83,1.94,1.8,-0.25,1.8,2.0,Boreham Wood,Solihull,boreham_wood,solihull
+2023-02-21,EC,England-Conference,2223,Halifax,Solihull,1.0,1.0,D,0.0,1.0,A,2.8,3.2,2.3,2.98,3.34,2.45,2.83,3.2,2.39,2.1,1.7,2.08,1.69,0.0,2.08,1.73,Halifax,Solihull,halifax,solihull
+2023-02-25,EC,England-Conference,2223,Altrincham,Solihull,4.0,1.0,H,3.0,1.0,H,2.15,3.4,3.0,2.2,3.64,3.18,2.17,3.46,2.97,1.73,2.08,1.72,2.02,-0.25,1.88,1.93,Altrincham,Solihull,altrincham,solihull
+2023-03-25,EC,England-Conference,2223,Oldham,Solihull,1.0,1.0,D,1.0,0.0,H,2.3,3.4,2.55,2.57,3.51,2.7,2.42,3.38,2.64,1.85,1.95,1.83,1.91,0.0,1.8,2.0,Oldham,Solihull,oldham,solihull
+2023-04-01,EC,England-Conference,2223,Bromley,Solihull,4.0,0.0,H,2.0,0.0,H,2.1,3.6,3.2,2.25,3.42,3.26,2.14,3.3,3.15,1.95,1.85,1.89,1.84,-0.25,1.85,1.95,Bromley,Solihull,bromley,solihull
+2023-04-18,EC,England-Conference,2223,Barnet,Solihull,1.0,0.0,H,1.0,0.0,H,2.05,3.3,3.25,2.03,3.72,3.51,2.02,3.54,3.26,1.7,2.1,1.65,2.15,-0.5,2.08,1.73,Barnet,Solihull,barnet,solihull
+2023-04-22,EC,England-Conference,2223,Eastleigh,Solihull,0.0,0.0,D,0.0,0.0,D,1.83,3.6,3.5,1.97,3.81,3.61,1.92,3.55,3.54,1.88,1.93,1.82,1.91,-0.5,1.93,1.88,Eastleigh,Solihull,eastleigh,solihull
+2023-04-25,EC,England-Conference,2223,Wealdstone,Solihull,3.0,0.0,H,2.0,0.0,H,2.55,3.75,2.5,2.64,3.83,2.48,2.55,3.54,2.45,1.67,2.15,1.71,2.06,0.0,1.93,1.88,Wealdstone,Solihull,wealdstone,solihull
+2023-08-12,EC,England-Conference,2324,Ebbsfleet,Solihull,1.0,2.0,A,0.0,1.0,A,2.2,3.25,3.25,2.17,3.51,3.34,2.15,3.35,3.11,1.9,1.9,1.84,1.89,-0.25,1.9,1.9,Ebbsfleet,Solihull,ebbsfleet,solihull
+2023-08-16,EC,England-Conference,2324,Boreham Wood,Solihull,1.0,2.0,A,0.0,1.0,A,1.91,3.3,3.6,2.0,3.33,4.06,1.93,3.34,3.75,2.0,1.8,1.95,1.77,-0.5,1.93,1.88,Boreham Wood,Solihull,boreham_wood,solihull
+2023-08-28,EC,England-Conference,2324,Oldham,Solihull,0.0,2.0,A,0.0,0.0,D,1.95,3.6,3.6,1.9,3.98,3.72,1.9,3.7,3.51,1.7,2.1,1.68,2.09,-0.5,1.93,1.88,Oldham,Solihull,oldham,solihull
+2023-09-09,EC,England-Conference,2324,Woking,Solihull,1.0,1.0,D,0.0,1.0,A,1.67,3.6,4.33,1.68,4.08,4.62,1.69,3.79,4.36,1.73,2.08,1.72,2.03,-0.75,1.93,1.88,Woking,Solihull,woking,solihull
+2023-09-16,EC,England-Conference,2324,Kidderminster,Solihull,0.0,1.0,A,0.0,1.0,A,2.05,3.6,2.88,2.22,3.45,3.28,2.16,3.35,3.08,1.98,1.83,1.95,1.79,-0.25,1.9,1.9,Kidderminster,Solihull,kidderminster,solihull
+2023-09-26,EC,England-Conference,2324,Hartlepool,Solihull,0.0,2.0,A,0.0,2.0,A,2.05,3.3,3.4,2.01,3.78,3.52,2.0,3.59,3.29,1.7,2.1,1.65,2.14,-0.5,2.03,1.78,Hartlepool United,Solihull,hartlepool_united,solihull
+2023-09-30,EC,England-Conference,2324,York,Solihull,2.0,2.0,D,1.0,0.0,H,2.45,3.4,2.6,2.44,3.69,2.7,2.4,3.51,2.6,1.73,2.08,1.7,2.05,0.0,1.85,1.95,York,Solihull,york,solihull
+2023-10-21,EC,England-Conference,2324,Southend,Solihull,5.0,0.0,H,2.0,0.0,H,1.85,3.5,3.8,1.93,3.49,4.14,1.88,3.4,3.81,2.03,1.78,2.02,1.72,-0.5,1.88,1.93,Southend United,Solihull,southend_united,solihull
+2023-10-24,EC,England-Conference,2324,Barnet,Solihull,1.0,1.0,D,0.0,0.0,D,1.53,4.2,6.0,1.56,4.33,5.59,1.53,4.16,5.22,1.62,2.25,1.6,2.23,-1.0,1.88,1.93,Barnet,Solihull,barnet,solihull
+2023-11-11,EC,England-Conference,2324,Dag and Red,Solihull,1.0,2.0,A,1.0,1.0,D,2.38,3.5,2.9,2.41,3.27,3.08,2.32,3.22,2.89,1.98,1.83,1.93,1.8,-0.25,2.03,1.78,Dag and Red,Solihull,dag_and_red,solihull
+2023-11-25,EC,England-Conference,2324,Altrincham,Solihull,6.0,1.0,H,3.0,0.0,H,1.73,3.8,4.0,1.75,4.1,4.28,1.75,3.82,3.97,1.67,2.15,1.65,2.13,-0.75,1.98,1.83,Altrincham,Solihull,altrincham,solihull
+2023-12-23,EC,England-Conference,2324,Oxford City,Solihull,1.0,2.0,A,0.0,0.0,D,3.0,3.6,2.05,3.1,3.71,2.21,3.06,3.55,2.09,1.67,2.15,1.66,2.11,0.25,1.95,1.85,Oxford City,Solihull,oxford_city,solihull
+2024-01-01,EC,England-Conference,2324,Chesterfield,Solihull,3.0,2.0,H,0.0,1.0,A,1.3,6.0,8.0,1.32,5.95,8.05,1.28,5.49,8.21,1.48,2.6,1.46,2.57,-1.5,1.83,1.98,Chesterfield,Solihull,chesterfield,solihull
+2024-01-27,EC,England-Conference,2324,Maidenhead,Solihull,2.0,1.0,H,1.0,1.0,D,2.55,3.1,2.7,2.67,3.28,2.74,2.52,3.19,2.64,2.05,1.75,2.0,1.75,0.0,1.85,1.95,Maidenhead,Solihull,maidenhead,solihull
+2024-02-06,EC,England-Conference,2324,Halifax,Solihull,1.0,3.0,A,0.0,2.0,A,2.15,3.5,3.25,2.12,3.38,3.59,2.09,3.25,3.37,2.15,1.67,2.18,1.63,-0.25,1.8,2.0,Halifax,Solihull,halifax,solihull
+2024-02-17,EC,England-Conference,2324,Rochdale,Solihull,1.0,2.0,A,1.0,1.0,D,2.4,3.6,2.63,2.54,3.55,2.71,2.4,3.44,2.62,1.73,2.08,1.72,2.02,0.0,1.83,1.98,Rochdale,Solihull,rochdale,solihull
+2024-02-20,EC,England-Conference,2324,Fylde,Solihull,2.0,2.0,D,2.0,1.0,H,2.05,3.6,3.4,2.02,3.87,3.44,2.01,3.61,3.22,1.62,2.25,1.62,2.21,-0.5,2.0,1.8,Fylde,Solihull,fylde,solihull
+2024-03-02,EC,England-Conference,2324,Eastleigh,Solihull,3.0,3.0,D,2.0,0.0,H,2.55,3.6,2.3,2.74,3.59,2.5,2.61,3.54,2.35,1.62,2.25,1.61,2.21,0.0,2.0,1.8,Eastleigh,Solihull,eastleigh,solihull
+2024-03-05,EC,England-Conference,2324,Gateshead,Solihull,2.0,3.0,A,1.0,2.0,A,1.8,3.5,4.2,1.82,3.96,4.09,1.79,3.75,3.86,1.62,2.25,1.58,2.27,-0.75,2.03,1.78,Gateshead,Solihull,gateshead,solihull
+2024-03-16,EC,England-Conference,2324,Dorking,Solihull,1.0,1.0,D,0.0,0.0,D,2.7,3.6,2.2,2.98,3.8,2.24,2.82,3.59,2.21,1.6,2.3,1.61,2.23,0.25,1.8,2.0,Dorking,Solihull,dorking,solihull
+2024-03-23,EC,England-Conference,2324,Aldershot,Solihull,1.0,1.0,D,0.0,0.0,D,1.83,3.6,3.5,1.93,4.03,3.59,1.88,3.79,3.45,1.57,2.35,1.57,2.32,-0.5,1.9,1.9,Aldershot,Solihull,aldershot,solihull
+2024-04-01,EC,England-Conference,2324,Wealdstone,Solihull,0.0,1.0,A,0.0,0.0,D,2.6,3.4,2.4,2.69,3.55,2.55,2.58,3.45,2.42,1.62,2.25,1.6,2.23,0.0,1.98,1.83,Wealdstone,Solihull,wealdstone,solihull
+2024-04-13,EC,England-Conference,2324,Bromley,Solihull,3.0,0.0,H,2.0,0.0,H,1.95,3.5,3.4,2.02,3.58,3.6,1.96,3.48,3.47,1.83,1.98,1.79,1.96,-0.5,1.98,1.83,Bromley,Solihull,bromley,solihull
+2024-08-10,EC,England-Conference,2425,Fylde,Solihull,3.0,2.0,H,1.0,2.0,A,2.63,3.3,2.6,2.66,3.46,2.5,2.58,3.38,2.48,1.75,2.05,1.73,2.02,0.0,1.93,1.88,Fylde,Solihull,fylde,solihull
+2024-08-20,EC,England-Conference,2425,Eastleigh,Solihull,2.0,1.0,H,2.0,0.0,H,2.7,3.3,2.35,2.67,3.89,2.39,2.65,3.59,2.33,1.67,2.15,1.64,2.17,0.0,2.03,1.78,Eastleigh,Solihull,eastleigh,solihull
+2024-08-26,EC,England-Conference,2425,Halifax,Solihull,0.0,1.0,A,0.0,1.0,A,2.25,3.4,2.75,2.43,3.33,2.96,2.34,3.27,2.83,2.0,1.8,1.97,1.77,-0.25,2.03,1.78,Halifax,Solihull,halifax,solihull
+2024-09-10,EC,England-Conference,2425,Yeovil,Solihull,0.0,1.0,A,0.0,1.0,A,2.25,3.4,3.1,2.31,3.48,3.04,2.21,3.42,2.94,1.7,2.1,1.69,2.08,-0.25,1.95,1.85,Yeovil Town,Solihull,yeovil_town,solihull
+2024-09-14,EC,England-Conference,2425,Rochdale,Solihull,1.0,2.0,A,0.0,1.0,A,1.95,3.5,3.75,1.93,3.52,3.71,1.92,3.48,3.61,1.83,1.98,1.81,1.93,-0.5,1.95,1.85,Rochdale,Solihull,rochdale,solihull
+2024-09-28,EC,England-Conference,2425,Dag and Red,Solihull,1.0,1.0,D,0.0,0.0,D,2.15,3.25,3.2,2.2,3.42,3.14,2.16,3.34,3.09,1.88,1.93,1.84,1.89,-0.25,1.9,1.9,Dag and Red,Solihull,dag_and_red,solihull
+2024-10-05,EC,England-Conference,2425,Oldham,Solihull,2.0,3.0,A,0.0,0.0,D,1.85,3.5,3.7,1.88,3.53,3.93,1.88,3.48,3.74,1.93,1.88,1.89,1.84,-0.5,1.9,1.9,Oldham,Solihull,oldham,solihull
+2024-10-26,EC,England-Conference,2425,Gateshead,Solihull,1.0,0.0,H,0.0,0.0,D,1.67,4.0,4.75,1.68,3.9,4.54,1.66,3.82,4.44,1.7,2.1,1.71,2.05,-0.75,1.85,1.95,Gateshead,Solihull,gateshead,solihull
+2024-11-16,EC,England-Conference,2425,Ebbsfleet,Solihull,0.0,6.0,A,0.0,0.0,D,3.8,3.5,1.9,3.84,3.71,1.89,3.64,3.59,1.89,1.75,2.05,1.73,2.02,0.5,1.9,1.9,Ebbsfleet,Solihull,ebbsfleet,solihull
+2024-11-26,EC,England-Conference,2425,Sutton,Solihull,1.0,0.0,H,1.0,0.0,H,2.35,3.4,2.63,2.46,3.48,2.81,2.37,3.39,2.71,1.7,2.1,1.69,2.09,0.0,1.78,2.03,Sutton United,Solihull,sutton_united,solihull
+2024-12-14,EC,England-Conference,2425,Maidenhead,Solihull,1.0,1.0,D,0.0,0.0,D,3.6,3.5,2.0,3.25,3.56,2.09,3.32,3.5,2.02,1.8,2.0,1.76,1.98,0.25,2.08,1.73,Maidenhead,Solihull,maidenhead,solihull
+2024-12-26,EC,England-Conference,2425,Boston Utd,Solihull,0.0,1.0,A,0.0,1.0,A,3.5,3.3,1.95,3.56,3.6,1.96,3.44,3.48,1.96,1.73,2.08,1.73,2.01,0.5,1.8,2.0,Boston Utd,Solihull,boston_utd,solihull
+2025-01-18,EC,England-Conference,2425,Braintree Town,Solihull,1.0,0.0,H,1.0,0.0,H,3.3,3.6,1.91,3.7,3.5,1.95,3.49,3.52,1.94,1.8,2.0,1.79,1.94,0.5,1.8,2.0,Braintree Town,Solihull,braintree_town,solihull
+2025-02-01,EC,England-Conference,2425,Wealdstone,Solihull,1.0,1.0,D,1.0,1.0,D,2.9,3.4,2.3,2.66,3.62,2.42,2.73,3.47,2.32,1.73,2.08,1.73,2.03,0.25,1.8,2.0,Wealdstone,Solihull,wealdstone,solihull
+2025-02-15,EC,England-Conference,2425,Barnet,Solihull,3.0,1.0,H,1.0,0.0,H,1.55,4.0,5.75,1.57,4.03,5.34,1.55,3.98,5.11,1.7,2.1,1.68,2.09,-1.0,1.98,1.83,Barnet,Solihull,barnet,solihull
+2025-02-19,EC,England-Conference,2425,Woking,Solihull,1.0,0.0,H,1.0,0.0,H,2.45,3.25,2.55,2.49,3.43,2.69,2.43,3.27,2.66,2.0,1.8,1.97,1.77,0.0,1.83,1.98,Woking,Solihull,woking,solihull
+2025-02-25,EC,England-Conference,2425,Aldershot,Solihull,3.0,1.0,H,3.0,0.0,H,2.15,3.5,3.2,2.18,3.36,3.39,2.12,3.35,3.17,1.8,2.0,1.77,1.98,-0.25,1.85,1.95,Aldershot,Solihull,aldershot,solihull
+2025-03-15,EC,England-Conference,2425,Hartlepool,Solihull,1.0,1.0,D,0.0,0.0,D,2.0,3.4,3.5,2.01,3.38,3.64,1.98,3.4,3.5,1.85,1.95,1.83,1.89,-0.5,2.0,1.8,Hartlepool United,Solihull,hartlepool_united,solihull
+2025-03-25,EC,England-Conference,2425,Altrincham,Solihull,1.0,1.0,D,1.0,0.0,H,1.95,3.5,3.6,1.97,3.62,3.66,1.99,3.48,3.42,1.8,2.0,1.74,2.02,-0.5,1.98,1.83,Altrincham,Solihull,altrincham,solihull
+2025-03-29,EC,England-Conference,2425,Forest Green,Solihull,1.0,0.0,H,1.0,0.0,H,1.7,3.8,4.5,1.75,3.62,4.71,1.71,3.59,4.52,1.98,1.83,1.94,1.8,-0.75,1.95,1.85,Forest Green Rovers,Solihull,forest_green_rovers,solihull
+2025-04-12,EC,England-Conference,2425,Southend,Solihull,0.0,1.0,A,0.0,1.0,A,1.67,4.0,4.0,1.66,3.69,5.05,1.68,3.68,4.54,1.85,1.95,1.83,1.9,-0.75,1.9,1.9,Southend United,Solihull,southend_united,solihull
+2025-04-18,EC,England-Conference,2425,Tamworth,Solihull,1.0,2.0,A,1.0,0.0,H,1.85,3.6,3.6,1.9,3.63,3.73,1.9,3.55,3.59,1.85,1.95,1.82,1.91,-0.5,1.9,1.9,Tamworth,Solihull,tamworth,solihull
+2025-04-26,EC,England-Conference,2425,York,Solihull,2.0,0.0,H,1.0,0.0,H,1.4,4.75,5.75,1.4,4.69,6.87,1.4,4.58,6.38,1.62,2.25,1.61,2.21,-1.25,1.9,1.9,York,Solihull,york,solihull
+2025-08-16,EC,England-Conference,2526,Sutton,Solihull,0.0,0.0,D,0.0,0.0,D,1.85,3.4,3.75,1.91,3.58,3.78,1.85,3.41,3.67,1.95,1.85,1.91,1.79,-0.5,1.9,1.9,Sutton United,Solihull,sutton_united,solihull
+2025-08-19,EC,England-Conference,2526,Carlisle,Solihull,1.0,1.0,D,0.0,0.0,D,1.5,4.1,5.25,1.5,4.31,6.29,1.48,4.02,5.69,1.83,1.98,1.79,1.91,-1.0,1.85,1.95,Carlisle United,Solihull,carlisle_united,solihull
+2025-08-25,EC,England-Conference,2526,Altrincham,Solihull,2.0,0.0,H,1.0,0.0,H,,,,,,,,,,,,,,,,,Altrincham,Solihull,altrincham,solihull
+2025-09-06,EC,England-Conference,2526,Boston Utd,Solihull,1.0,2.0,A,1.0,1.0,D,2.15,3.3,3.1,2.23,3.5,3.02,2.14,3.31,3.05,1.9,1.9,1.84,1.85,-0.25,1.9,1.9,Boston Utd,Solihull,boston_utd,solihull
+2025-09-20,EC,England-Conference,2526,York,Solihull,0.0,1.0,A,0.0,0.0,D,1.33,5.0,8.0,1.29,5.2,8.98,1.31,4.86,7.82,1.6,2.3,1.56,2.27,-1.5,1.95,1.85,York,Solihull,york,solihull
+2025-09-23,EC,England-Conference,2526,Rochdale,Solihull,4.0,1.0,H,3.0,0.0,H,1.48,4.2,5.0,1.5,4.44,6.06,1.49,4.1,5.48,1.65,2.2,1.65,2.12,-1.0,1.83,1.98,Rochdale,Solihull,rochdale,solihull
+2025-10-04,EC,England-Conference,2526,Eastleigh,Solihull,1.0,1.0,D,0.0,0.0,D,2.0,3.5,3.3,2.05,3.49,3.41,2.0,3.36,3.29,1.9,1.9,1.83,1.87,-0.5,2.0,1.8,Eastleigh,Solihull,eastleigh,solihull
+2025-10-25,EC,England-Conference,2526,Hartlepool,Solihull,2.0,0.0,H,1.0,0.0,H,1.67,4.1,4.0,1.66,3.86,4.71,1.66,3.78,4.35,1.65,2.2,1.65,2.11,-0.75,1.88,1.93,Hartlepool United,Solihull,hartlepool_united,solihull
+2025-11-08,EC,England-Conference,2526,Gateshead,Solihull,0.0,2.0,A,0.0,0.0,D,2.4,3.5,2.55,,,,2.38,3.44,2.55,1.67,2.15,1.67,2.07,0.0,1.83,1.98,Gateshead,Solihull,gateshead,solihull
+2025-11-22,EC,England-Conference,2526,Halifax,Solihull,3.0,0.0,H,1.0,0.0,H,2.3,3.4,2.8,,,,2.28,3.32,2.76,1.85,1.95,1.83,1.87,-0.25,2.03,1.78,Halifax,Solihull,halifax,solihull
+2025-12-06,EC,England-Conference,2526,Forest Green,Solihull,1.0,1.0,D,0.0,1.0,A,1.48,4.0,5.75,,,,1.46,4.1,5.76,1.62,2.25,1.63,2.15,-1.0,1.8,2.0,Forest Green Rovers,Solihull,forest_green_rovers,solihull
+2025-12-30,EC,England-Conference,2526,Boreham Wood,Solihull,2.0,1.0,H,2.0,1.0,H,1.48,4.0,6.0,,,,1.44,4.29,5.76,1.57,2.35,1.54,2.32,-1.0,1.78,2.03,Boreham Wood,Solihull,boreham_wood,solihull
+2026-01-10,EC,England-Conference,2526,Aldershot,Solihull,1.0,5.0,A,0.0,4.0,A,1.85,3.9,3.4,,,,1.91,3.7,3.25,1.48,2.6,1.48,2.48,-0.5,1.9,1.9,Aldershot,Solihull,aldershot,solihull
+2026-01-24,EC,England-Conference,2526,Morecambe,Solihull,0.0,2.0,A,0.0,1.0,A,2.88,3.5,2.15,,,,2.84,3.49,2.18,1.57,2.35,1.58,2.24,0.25,1.88,1.93,Morecambe,Solihull,morecambe,solihull
+2026-02-14,EC,England-Conference,2526,Braintree Town,Solihull,0.0,0.0,D,0.0,0.0,D,3.4,3.6,1.9,,,,3.19,3.55,1.99,1.67,2.15,1.66,2.07,0.25,2.05,1.75,Braintree Town,Solihull,braintree_town,solihull
+2026-02-28,EC,England-Conference,2526,Scunthorpe,Solihull,3.0,3.0,D,0.0,2.0,A,1.8,3.7,3.8,,,,1.72,3.76,3.96,1.57,2.35,1.53,2.34,-0.75,1.98,1.83,Scunthorpe United,Solihull,scunthorpe_united,solihull
+2026-03-14,EC,England-Conference,2526,Wealdstone,Solihull,5.0,1.0,H,1.0,0.0,H,2.25,3.5,2.75,,,,2.31,3.46,2.64,1.6,2.3,1.58,2.23,-0.25,2.03,1.78,Wealdstone,Solihull,wealdstone,solihull
+2026-03-17,EC,England-Conference,2526,Brackley Town,Solihull,1.0,1.0,D,0.0,0.0,D,2.55,3.4,2.45,,,,2.55,3.34,2.43,1.75,2.05,1.73,1.98,0.0,1.95,1.85,Brackley Town,Solihull,brackley_town,solihull
+2026-03-25,EC,England-Conference,2526,Truro,Solihull,1.0,1.0,D,0.0,0.0,D,2.9,3.25,2.25,,,,2.89,3.31,2.21,1.85,1.95,1.8,1.91,0.25,1.75,2.05,Truro,Solihull,truro,solihull
+2026-04-03,EC,England-Conference,2526,Tamworth,Solihull,1.0,0.0,H,0.0,0.0,D,2.15,3.5,2.9,,,,2.16,3.48,2.87,1.62,2.25,1.58,2.25,-0.25,1.93,1.88,Tamworth,Solihull,tamworth,solihull
+2026-04-11,EC,England-Conference,2526,Southend,Solihull,0.0,0.0,D,0.0,0.0,D,1.42,4.33,6.5,,,,1.41,4.41,6.02,1.57,2.35,1.53,2.34,-1.25,1.93,1.88,Southend United,Solihull,southend_united,solihull
+2026-04-14,EC,England-Conference,2526,Woking,Solihull,0.0,0.0,D,0.0,0.0,D,2.0,3.6,3.1,,,,1.99,3.42,3.31,1.7,2.1,1.68,2.07,-0.5,2.03,1.78,Woking,Solihull,woking,solihull
+2026-04-25,EC,England-Conference,2526,Yeovil,Solihull,1.0,4.0,A,1.0,4.0,A,2.9,3.4,2.2,,,,2.93,3.26,2.19,1.9,1.9,1.88,1.82,0.25,1.85,1.95,Yeovil Town,Solihull,yeovil_town,solihull
+2026-08-08,EC,England-Conference,2627,Harrogate,Solihull,5.0,2.0,H,1.0,0.0,H,1.65,3.9,4.5,,,,1.6,3.88,4.51,1.75,2.05,1.7,2.03,-0.75,1.85,1.95,Harrogate Town,Solihull,harrogate_town,solihull
+2026-08-28,EC,England-Conference,2627,Scunthorpe,Solihull,3.0,1.0,H,1.0,1.0,D,1.73,3.9,4.0,,,,1.71,3.77,3.94,1.57,2.35,1.57,2.28,-0.75,1.95,1.85,Scunthorpe United,Solihull,scunthorpe_united,solihull
+2026-09-05,EC,England-Conference,2627,Gateshead,Solihull,1.0,1.0,D,0.0,0.0,D,2.4,3.5,2.5,,,,2.41,3.46,2.5,1.57,2.35,1.57,2.26,0.0,1.83,1.98,Gateshead,Solihull,gateshead,solihull
+2026-09-18,EC,England-Conference,2627,Yeovil,Solihull,4.0,1.0,H,1.0,0.0,H,2.0,3.5,3.2,,,,2.01,3.52,3.13,1.65,2.2,1.63,2.17,-0.5,2.03,1.78,Yeovil Town,Solihull,yeovil_town,solihull
+2026-09-29,EC,England-Conference,2627,Woking,Solihull,2.0,4.0,A,2.0,3.0,A,1.83,3.8,3.5,,,,1.86,3.66,3.43,1.57,2.35,1.56,2.28,-0.5,1.85,1.95,Woking,Solihull,woking,solihull
+2026-10-10,EC,England-Conference,2627,Worthing,Solihull,5.0,0.0,H,3.0,0.0,H,1.8,3.9,3.6,,,,1.78,3.95,3.51,1.44,2.7,1.41,2.69,-0.5,1.78,2.03,Worthing,Solihull,worthing,solihull

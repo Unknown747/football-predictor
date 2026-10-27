@@ -1,0 +1,51 @@
+{
+  "generated_at": "20261026_215202",
+  "seed": 42,
+  "train_end": "2024-06-30",
+  "val_end": "2025-06-30",
+  "n_train": 22945,
+  "n_test": 9438,
+  "test_period": [
+    "2025-07-25",
+    "2026-10-21"
+  ],
+  "feat_cols_count": 78,
+  "feat_cols_sha": "b7670deb88ea4bc71cded4d51652071c202d140b6c4bb545de8daae205eb4833",
+  "feat_cols_file_sha": "d54debdb64bff8ecaed87e98dcec0fc8af354969d04fb7e1e140bf65d46d4e15",
+  "features_train_sha": "37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09",
+  "models": {
+    "1x2": {
+      "file": "lgb_1x2_modeB.txt",
+      "sha256": "0e78456e59e8ff6336c9c3451c9adf1877f775bb10f60455587069851f32683e"
+    },
+    "ou25": {
+      "file": "lgb_ou25_modeB.txt",
+      "sha256": "de65429544bee058530a836ee7a54cfaa30fa36b551387b0917643ce51ea3b8b"
+    },
+    "home_ou05": {
+      "file": "lgb_home_ou05_modeB.txt",
+      "sha256": "c91dd5bc44f0bdf010002104dbf9ce4568696974a09d23cd2c0055c11f41fff0"
+    },
+    "home_ou15": {
+      "file": "lgb_home_ou15_modeB.txt",
+      "sha256": "1de2dd1ce6c19932bb511025593d5cf1fd4a11d9fb632d899a939ee821ca5d2b"
+    },
+    "away_ou05": {
+      "file": "lgb_away_ou05_modeB.txt",
+      "sha256": "8ff79bc5716a30a3c0e62667d6e01f0470d65acd5c4eefa8a9e08398ed17aaf2"
+    },
+    "away_ou15": {
+      "file": "lgb_away_ou15_modeB.txt",
+      "sha256": "7de8119cce018a420bf5c7c9d68dd302945b9472e9ce2a8d132b9a15ba165edd"
+    }
+  },
+  "base_rates_train": {
+    "ou25": 0.5056875136195249,
+    "home_ou05": 0.7654826759642623,
+    "home_ou15": 0.43063848332970145,
+    "away_ou05": 0.6860753976901286,
+    "away_ou15": 0.3366310743081281
+  },
+  "bootstrap_method": "block_iso_week_fallback_row",
+  "bootstrap_n_iter": 1000
+}

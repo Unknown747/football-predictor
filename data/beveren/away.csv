@@ -1,0 +1,5 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2026-08-09,B1,Belgium-JPL,2627,Antwerp,Beveren,2.0,1.0,H,0.0,1.0,A,1.73,3.5,4.33,,,,1.7,3.54,4.66,2.08,1.73,2.05,1.7,-0.75,2.0,1.8,Royal Antwerp,Beveren,royal_antwerp,beveren
+2026-08-22,B1,Belgium-JPL,2627,Waregem,Beveren,4.0,0.0,H,2.0,0.0,H,1.95,3.5,3.3,,,,2.03,3.46,3.29,1.83,1.98,1.78,1.95,-0.25,1.78,2.03,Zulte Waregem,Beveren,zulte_waregem,beveren
+2026-08-28,B1,Belgium-JPL,2627,Genk,Beveren,4.0,0.0,H,3.0,0.0,H,1.42,4.1,6.0,,,,1.44,4.48,6.04,1.48,2.6,1.49,2.52,-1.25,1.95,1.85,Genk,Beveren,genk,beveren
+2026-09-20,B1,Belgium-JPL,2627,Kortrijk,Beveren,1.0,0.0,H,0.0,0.0,D,2.55,3.3,2.55,,,,2.54,3.43,2.5,1.7,2.1,1.68,2.1,0.0,1.9,1.9,KV Kortrijk,Beveren,kv_kortrijk,beveren

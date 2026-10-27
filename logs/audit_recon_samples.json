@@ -1,0 +1,50 @@
+[
+  {
+    "name": "S1_early_season",
+    "date": "2021-08-06",
+    "home": "Sp Lisbon",
+    "away": "Vizela",
+    "league": "Portugal-Liga1",
+    "season": "2122"
+  },
+  {
+    "name": "S2_mid_h2h_mixed",
+    "date": "2023-01-02",
+    "home": "Rangers",
+    "away": "Celtic",
+    "league": "Scotland-Prem",
+    "season": "2223"
+  },
+  {
+    "name": "S3_late_high_h2h",
+    "date": "2026-10-16",
+    "home": "Ayr",
+    "away": "Partick",
+    "league": "Scotland-Champ",
+    "season": "2627"
+  },
+  {
+    "name": "S4_h2h_zero",
+    "date": "2024-08-02",
+    "home": "FC Koln",
+    "away": "Hamburger SV",
+    "league": "Germany-BL2",
+    "season": "2425"
+  },
+  {
+    "name": "S5_minimal_history",
+    "date": "2024-08-04",
+    "home": "Ulm",
+    "away": "Kaiserslautern",
+    "league": "Germany-BL2",
+    "season": "2425"
+  },
+  {
+    "name": "S6_rich_mixed_h2h",
+    "date": "2023-08-05",
+    "home": "Partick",
+    "away": "Raith Rvs",
+    "league": "Scotland-Champ",
+    "season": "2324"
+  }
+]

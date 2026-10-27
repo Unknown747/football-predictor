@@ -1,0 +1,75 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-01,B1,Belgium-JPL,2122,Antwerp,Kortrijk,0.0,1.0,A,0.0,0.0,D,1.7,3.6,4.2,1.79,3.49,5.08,1.76,3.53,4.73,1.8,2.0,1.83,1.97,-0.75,2.0,1.85,Royal Antwerp,KV Kortrijk,royal_antwerp,kv_kortrijk
+2021-08-14,B1,Belgium-JPL,2122,St. Gilloise,Kortrijk,2.0,0.0,H,1.0,0.0,H,1.6,4.0,5.25,1.66,4.22,4.95,1.65,4.02,4.87,1.85,2.0,1.83,1.98,-0.75,1.83,2.02,St. Gilloise,KV Kortrijk,st_gilloise,kv_kortrijk
+2021-08-21,B1,Belgium-JPL,2122,St Truiden,Kortrijk,0.0,2.0,A,0.0,1.0,A,2.75,3.0,2.75,2.76,3.08,2.84,2.69,3.09,2.72,2.0,1.8,1.97,1.83,0.0,1.9,1.95,Sint-Truiden,KV Kortrijk,sint_truiden,kv_kortrijk
+2021-09-12,B1,Belgium-JPL,2122,Oud-Heverlee Leuven,Kortrijk,2.0,1.0,H,0.0,0.0,D,2.7,3.4,2.5,2.66,3.65,2.57,2.62,3.59,2.48,1.65,2.2,1.64,2.25,0.0,1.95,1.9,Oud-Heverlee Leuven,KV Kortrijk,oud_heverlee_leuven,kv_kortrijk
+2021-09-25,B1,Belgium-JPL,2122,Waregem,Kortrijk,2.0,2.0,D,0.0,0.0,D,2.75,3.6,2.25,2.93,3.88,2.25,2.87,3.71,2.25,1.57,2.35,1.59,2.33,0.25,1.88,1.98,Zulte Waregem,KV Kortrijk,zulte_waregem,kv_kortrijk
+2021-10-15,B1,Belgium-JPL,2122,Club Brugge,Kortrijk,2.0,0.0,H,2.0,0.0,H,1.2,5.5,13.0,1.23,6.59,13.07,1.22,6.38,11.54,1.44,2.7,1.45,2.7,-1.75,1.88,1.98,Club Brugge,KV Kortrijk,club_brugge,kv_kortrijk
+2021-10-30,B1,Belgium-JPL,2122,Standard,Kortrijk,1.0,1.0,D,0.0,0.0,D,2.0,3.6,3.6,2.09,3.6,3.46,2.05,3.54,3.4,1.72,2.07,1.74,2.08,-0.25,1.83,2.02,Standard Liege,KV Kortrijk,standard_liege,kv_kortrijk
+2021-11-21,B1,Belgium-JPL,2122,Anderlecht,Kortrijk,1.0,1.0,D,0.0,1.0,A,1.4,4.75,8.0,1.41,4.77,7.47,1.41,4.75,7.17,1.6,2.3,1.61,2.28,-1.25,1.93,1.93,Anderlecht,KV Kortrijk,anderlecht,kv_kortrijk
+2021-11-27,B1,Belgium-JPL,2122,Eupen,Kortrijk,2.0,2.0,D,2.0,1.0,H,2.2,3.4,3.2,2.33,3.58,2.98,2.28,3.5,2.96,1.72,2.07,1.75,2.06,-0.25,2.0,1.85,KAS Eupen,KV Kortrijk,kas_eupen,kv_kortrijk
+2021-12-14,B1,Belgium-JPL,2122,Oostende,Kortrijk,0.0,2.0,A,0.0,1.0,A,2.45,3.4,2.7,2.47,3.71,2.79,2.43,3.54,2.73,1.66,2.15,1.64,2.25,0.0,1.8,2.05,KV Oostende,KV Kortrijk,kv_oostende,kv_kortrijk
+2021-12-17,B1,Belgium-JPL,2122,Seraing,Kortrijk,0.0,2.0,A,0.0,0.0,D,2.5,3.4,2.55,2.63,3.6,2.67,2.57,3.47,2.61,1.72,2.07,1.75,2.07,0.0,1.9,1.95,RFC Seraing,KV Kortrijk,rfc_seraing,kv_kortrijk
+2022-01-14,B1,Belgium-JPL,2122,Gent,Kortrijk,2.0,2.0,D,1.0,1.0,D,1.4,4.5,8.5,1.42,4.74,8.05,1.41,4.61,7.49,1.72,2.07,1.71,2.12,-1.25,1.95,1.9,KAA Gent,KV Kortrijk,kaa_gent,kv_kortrijk
+2022-01-25,B1,Belgium-JPL,2122,Charleroi,Kortrijk,1.0,1.0,D,1.0,1.0,D,1.95,3.5,3.75,1.98,3.56,4.01,1.94,3.54,3.79,1.88,1.98,1.84,1.96,-0.5,1.95,1.9,Sporting Charleroi,KV Kortrijk,sporting_charleroi,kv_kortrijk
+2022-02-13,B1,Belgium-JPL,2122,Beerschot VA,Kortrijk,2.0,1.0,H,2.0,1.0,H,3.1,3.5,2.15,3.22,3.49,2.23,3.08,3.45,2.23,1.8,2.0,1.78,2.02,0.25,1.93,1.93,Beerschot VA,KV Kortrijk,beerschot_va,kv_kortrijk
+2022-02-27,B1,Belgium-JPL,2122,Genk,Kortrijk,2.0,0.0,H,2.0,0.0,H,1.53,4.0,5.0,1.58,4.23,5.51,1.56,4.2,5.41,1.7,2.1,1.67,2.17,-1.0,1.93,1.93,Genk,KV Kortrijk,genk,kv_kortrijk
+2022-03-12,B1,Belgium-JPL,2122,Cercle Brugge,Kortrijk,2.0,0.0,H,0.0,0.0,D,1.65,3.8,5.25,1.65,3.99,5.17,1.67,3.87,4.92,1.83,2.02,1.81,1.98,-0.75,1.88,1.98,Cercle Brugge,KV Kortrijk,cercle_brugge,kv_kortrijk
+2022-04-02,B1,Belgium-JPL,2122,Mechelen,Kortrijk,3.0,2.0,H,1.0,1.0,D,1.66,4.0,4.33,1.7,4.29,4.42,1.68,4.05,4.51,1.65,2.2,1.65,2.2,-0.75,1.85,2.0,KV Mechelen,KV Kortrijk,kv_mechelen,kv_kortrijk
+2022-07-31,B1,Belgium-JPL,2223,Seraing,Kortrijk,0.0,1.0,A,0.0,0.0,D,2.87,3.4,2.25,2.92,3.45,2.43,2.86,3.34,2.4,1.9,1.95,1.88,1.9,0.25,1.83,2.02,RFC Seraing,KV Kortrijk,rfc_seraing,kv_kortrijk
+2022-08-13,B1,Belgium-JPL,2223,St. Gilloise,Kortrijk,2.0,1.0,H,1.0,0.0,H,1.4,4.75,7.0,1.46,4.65,6.61,1.44,4.53,6.84,1.72,2.07,1.72,2.1,-1.25,2.0,1.85,St. Gilloise,KV Kortrijk,st_gilloise,kv_kortrijk
+2022-08-21,B1,Belgium-JPL,2223,Club Brugge,Kortrijk,2.0,1.0,H,2.0,1.0,H,1.33,5.0,9.5,1.29,6.02,10.23,1.31,5.5,9.0,1.53,2.4,1.51,2.5,-1.5,1.9,1.95,Club Brugge,KV Kortrijk,club_brugge,kv_kortrijk
+2022-09-03,B1,Belgium-JPL,2223,Eupen,Kortrijk,0.0,1.0,A,0.0,0.0,D,2.25,3.4,3.1,2.27,3.52,3.24,2.23,3.43,3.09,1.8,2.0,1.8,1.99,-0.25,1.95,1.9,KAS Eupen,KV Kortrijk,kas_eupen,kv_kortrijk
+2022-09-18,B1,Belgium-JPL,2223,Anderlecht,Kortrijk,4.0,1.0,H,1.0,0.0,H,1.33,5.5,7.5,1.34,5.34,8.72,1.34,5.12,8.29,1.61,2.25,1.61,2.27,-1.5,2.0,1.85,Anderlecht,KV Kortrijk,anderlecht,kv_kortrijk
+2022-10-08,B1,Belgium-JPL,2223,Genk,Kortrijk,2.0,1.0,H,1.0,0.0,H,1.3,5.5,8.5,1.29,6.07,10.1,1.29,5.72,9.29,1.47,2.6,1.47,2.63,-1.75,2.02,1.77,Genk,KV Kortrijk,genk,kv_kortrijk
+2022-10-18,B1,Belgium-JPL,2223,Charleroi,Kortrijk,2.0,2.0,D,2.0,0.0,H,1.66,4.0,4.5,1.69,4.13,4.94,1.69,3.95,4.65,1.66,2.15,1.7,2.13,-0.75,1.88,1.98,Sporting Charleroi,KV Kortrijk,sporting_charleroi,kv_kortrijk
+2022-11-06,B1,Belgium-JPL,2223,Oostende,Kortrijk,3.0,1.0,H,1.0,1.0,D,2.1,3.4,3.3,2.22,3.54,3.22,2.15,3.55,3.16,1.7,2.1,1.69,2.14,-0.25,1.88,1.98,KV Oostende,KV Kortrijk,kv_oostende,kv_kortrijk
+2023-01-08,B1,Belgium-JPL,2223,Oud-Heverlee Leuven,Kortrijk,2.0,3.0,A,1.0,1.0,D,1.65,4.0,4.2,1.67,4.25,4.66,1.68,4.08,4.53,1.57,2.35,1.59,2.32,-0.75,1.85,2.0,Oud-Heverlee Leuven,KV Kortrijk,oud_heverlee_leuven,kv_kortrijk
+2023-01-15,B1,Belgium-JPL,2223,Gent,Kortrijk,2.0,1.0,H,1.0,0.0,H,1.36,5.0,8.5,1.32,5.43,9.12,1.34,5.16,8.26,1.57,2.35,1.58,2.34,-1.5,2.02,1.83,KAA Gent,KV Kortrijk,kaa_gent,kv_kortrijk
+2023-01-21,B1,Belgium-JPL,2223,Mechelen,Kortrijk,3.0,2.0,H,2.0,1.0,H,1.75,3.5,4.2,1.8,4.11,4.22,1.8,3.88,4.06,1.65,2.2,1.62,2.26,-0.5,1.77,2.02,KV Mechelen,KV Kortrijk,kv_mechelen,kv_kortrijk
+2023-02-04,B1,Belgium-JPL,2223,St Truiden,Kortrijk,1.0,0.0,H,1.0,0.0,H,1.73,3.6,4.33,1.8,3.75,4.68,1.78,3.65,4.45,2.0,1.85,1.97,1.83,-0.75,2.02,1.83,Sint-Truiden,KV Kortrijk,sint_truiden,kv_kortrijk
+2023-02-12,B1,Belgium-JPL,2223,Standard,Kortrijk,0.0,2.0,A,0.0,0.0,D,1.62,4.0,4.75,1.63,4.39,4.82,1.64,4.17,4.74,1.67,2.15,1.67,2.18,-1.0,2.05,1.75,Standard Liege,KV Kortrijk,standard_liege,kv_kortrijk
+2023-02-24,B1,Belgium-JPL,2223,Waregem,Kortrijk,3.0,3.0,D,1.0,2.0,A,2.2,3.5,3.1,2.18,3.63,3.34,2.16,3.57,3.17,1.67,2.15,1.67,2.18,-0.25,1.88,1.98,Zulte Waregem,KV Kortrijk,zulte_waregem,kv_kortrijk
+2023-03-11,B1,Belgium-JPL,2223,Westerlo,Kortrijk,3.0,1.0,H,1.0,0.0,H,1.67,4.0,4.33,1.69,4.25,4.57,1.67,4.05,4.56,1.57,2.35,1.59,2.3,-0.75,1.88,1.98,KVC Westerlo,KV Kortrijk,kvc_westerlo,kv_kortrijk
+2023-04-01,B1,Belgium-JPL,2223,Cercle Brugge,Kortrijk,2.0,0.0,H,2.0,0.0,H,1.57,4.0,4.75,1.61,4.31,5.4,1.6,4.15,5.11,1.65,2.2,1.65,2.19,-1.0,2.0,1.85,Cercle Brugge,KV Kortrijk,cercle_brugge,kv_kortrijk
+2023-04-16,B1,Belgium-JPL,2223,Antwerp,Kortrijk,1.0,0.0,H,0.0,0.0,D,1.29,5.75,9.0,1.29,5.45,11.18,1.28,5.49,10.31,1.65,2.2,1.62,2.25,-1.5,1.85,2.0,Royal Antwerp,KV Kortrijk,royal_antwerp,kv_kortrijk
+2023-07-30,B1,Belgium-JPL,2324,Gent,Kortrijk,3.0,2.0,H,2.0,1.0,H,1.33,4.75,8.0,1.33,5.51,8.63,1.32,5.23,8.52,1.57,2.35,1.59,2.33,-1.5,1.95,1.9,KAA Gent,KV Kortrijk,kaa_gent,kv_kortrijk
+2023-08-11,B1,Belgium-JPL,2324,Antwerp,Kortrijk,6.0,0.0,H,4.0,0.0,H,1.25,5.25,9.5,1.26,6.31,11.17,1.26,5.86,10.02,1.5,2.5,1.49,2.54,-1.5,1.75,2.05,Royal Antwerp,KV Kortrijk,royal_antwerp,kv_kortrijk
+2023-09-01,B1,Belgium-JPL,2324,Oud-Heverlee Leuven,Kortrijk,3.0,0.0,H,1.0,0.0,H,1.6,4.5,4.5,1.63,4.61,4.83,1.61,4.45,4.65,1.36,3.1,1.39,2.88,-1.0,2.0,1.85,Oud-Heverlee Leuven,KV Kortrijk,oud_heverlee_leuven,kv_kortrijk
+2023-09-23,B1,Belgium-JPL,2324,Charleroi,Kortrijk,1.0,0.0,H,1.0,0.0,H,1.62,4.33,4.75,1.65,4.34,5.05,1.64,4.16,4.77,1.57,2.35,1.58,2.35,-0.75,1.8,2.05,Sporting Charleroi,KV Kortrijk,sporting_charleroi,kv_kortrijk
+2023-10-07,B1,Belgium-JPL,2324,Westerlo,Kortrijk,1.0,0.0,H,1.0,0.0,H,1.8,4.0,3.8,1.85,4.29,3.79,1.83,4.08,3.73,1.48,2.6,1.47,2.61,-0.5,1.83,2.03,KVC Westerlo,KV Kortrijk,kvc_westerlo,kv_kortrijk
+2023-11-04,B1,Belgium-JPL,2324,RWD Molenbeek,Kortrijk,1.0,1.0,D,1.0,1.0,D,1.91,3.8,3.6,1.93,3.86,3.77,1.91,3.8,3.65,1.62,2.25,1.6,2.29,-0.5,1.9,1.95,RWD Molenbeek,KV Kortrijk,rwd_molenbeek,kv_kortrijk
+2023-11-12,B1,Belgium-JPL,2324,St. Gilloise,Kortrijk,3.0,0.0,H,2.0,0.0,H,1.2,7.0,11.0,1.2,7.29,12.28,1.2,6.84,12.42,1.44,2.7,1.43,2.73,-2.0,2.0,1.85,St. Gilloise,KV Kortrijk,st_gilloise,kv_kortrijk
+2023-12-02,B1,Belgium-JPL,2324,Eupen,Kortrijk,1.0,1.0,D,0.0,0.0,D,2.25,3.3,3.2,2.28,3.67,3.09,2.24,3.56,3.02,1.7,2.1,1.66,2.19,-0.25,1.98,1.88,KAS Eupen,KV Kortrijk,kas_eupen,kv_kortrijk
+2023-12-17,B1,Belgium-JPL,2324,Genk,Kortrijk,4.0,0.0,H,1.0,0.0,H,1.22,6.5,10.0,1.23,6.73,10.54,1.23,6.49,11.0,1.4,2.88,1.41,2.76,-1.75,1.83,2.03,Genk,KV Kortrijk,genk,kv_kortrijk
+2023-12-20,B1,Belgium-JPL,2324,Cercle Brugge,Kortrijk,3.0,0.0,H,1.0,0.0,H,1.36,5.0,8.0,1.35,5.53,8.71,1.34,5.16,8.29,1.57,2.35,1.58,2.34,-1.5,1.98,1.88,Cercle Brugge,KV Kortrijk,cercle_brugge,kv_kortrijk
+2024-01-20,B1,Belgium-JPL,2324,Standard,Kortrijk,0.0,1.0,A,0.0,1.0,A,1.57,3.8,6.0,1.56,4.28,6.11,1.55,4.13,5.68,1.85,2.0,1.8,1.99,-1.0,1.95,1.9,Standard Liege,KV Kortrijk,standard_liege,kv_kortrijk
+2024-01-30,B1,Belgium-JPL,2324,Club Brugge,Kortrijk,3.0,3.0,D,1.0,0.0,H,1.13,8.5,17.0,1.12,10.0,21.28,1.11,8.89,19.73,1.36,3.1,1.36,3.07,-2.5,2.03,1.78,Club Brugge,KV Kortrijk,club_brugge,kv_kortrijk
+2024-02-09,B1,Belgium-JPL,2324,St Truiden,Kortrijk,1.0,0.0,H,1.0,0.0,H,1.5,4.33,6.0,1.53,4.44,6.28,1.5,4.28,6.05,1.75,2.05,1.77,2.04,-1.0,1.88,1.98,Sint-Truiden,KV Kortrijk,sint_truiden,kv_kortrijk
+2024-02-24,B1,Belgium-JPL,2324,Mechelen,Kortrijk,3.0,0.0,H,1.0,0.0,H,1.65,3.8,5.0,1.66,4.07,5.34,1.63,3.94,5.06,1.8,2.0,1.78,2.02,-0.75,1.83,2.03,KV Mechelen,KV Kortrijk,kv_mechelen,kv_kortrijk
+2024-03-16,B1,Belgium-JPL,2324,Anderlecht,Kortrijk,0.0,1.0,A,0.0,0.0,D,1.25,5.5,10.0,1.25,6.45,11.44,1.24,6.08,10.76,1.48,2.6,1.46,2.65,-1.75,1.93,1.93,Anderlecht,KV Kortrijk,anderlecht,kv_kortrijk
+2024-04-07,B1,Belgium-JPL,2324,Eupen,Kortrijk,1.0,1.0,D,0.0,0.0,D,2.3,3.2,3.1,2.41,3.28,3.04,2.34,3.34,2.97,1.93,1.93,1.88,1.91,-0.25,2.05,1.8,KAS Eupen,KV Kortrijk,kas_eupen,kv_kortrijk
+2024-04-28,B1,Belgium-JPL,2324,RWD Molenbeek,Kortrijk,0.0,1.0,A,0.0,1.0,A,2.38,3.4,2.9,2.4,3.4,2.95,2.35,3.38,2.88,1.93,1.93,1.87,1.91,-0.25,2.05,1.8,RWD Molenbeek,KV Kortrijk,rwd_molenbeek,kv_kortrijk
+2024-05-11,B1,Belgium-JPL,2324,Charleroi,Kortrijk,3.0,1.0,H,2.0,0.0,H,2.25,3.4,3.1,2.29,3.72,3.0,2.23,3.53,3.01,1.93,1.93,1.88,1.9,-0.25,1.98,1.88,Sporting Charleroi,KV Kortrijk,sporting_charleroi,kv_kortrijk
+2024-08-04,B1,Belgium-JPL,2425,Cercle Brugge,Kortrijk,1.0,2.0,A,1.0,1.0,D,1.6,4.0,4.75,1.63,4.13,4.89,1.62,4.14,4.9,1.67,2.15,1.65,2.18,-1.0,2.05,1.8,Cercle Brugge,KV Kortrijk,cercle_brugge,kv_kortrijk
+2024-08-10,B1,Belgium-JPL,2425,Dender,Kortrijk,4.0,1.0,H,2.0,1.0,H,2.15,3.4,3.2,2.19,3.49,3.21,2.17,3.48,3.21,1.85,2.0,1.83,1.95,-0.25,1.88,1.98,Dender,KV Kortrijk,dender,kv_kortrijk
+2024-08-25,B1,Belgium-JPL,2425,Charleroi,Kortrijk,1.0,0.0,H,1.0,0.0,H,1.7,3.6,4.33,1.72,3.79,4.6,1.75,3.7,4.51,1.98,1.88,1.91,1.87,-0.75,1.98,1.88,Sporting Charleroi,KV Kortrijk,sporting_charleroi,kv_kortrijk
+2024-09-22,B1,Belgium-JPL,2425,Oud-Heverlee Leuven,Kortrijk,1.0,1.0,D,0.0,0.0,D,1.8,3.4,4.2,1.8,3.59,4.46,1.81,3.58,4.31,1.98,1.88,1.95,1.84,-0.5,1.8,2.05,Oud-Heverlee Leuven,KV Kortrijk,oud_heverlee_leuven,kv_kortrijk
+2024-09-29,B1,Belgium-JPL,2425,St. Gilloise,Kortrijk,3.0,0.0,H,1.0,0.0,H,1.38,4.33,8.0,1.39,4.66,7.78,1.39,4.61,7.81,1.85,2.0,1.82,1.97,-1.25,1.93,1.93,St. Gilloise,KV Kortrijk,st_gilloise,kv_kortrijk
+2024-10-20,B1,Belgium-JPL,2425,Mechelen,Kortrijk,3.0,0.0,H,1.0,0.0,H,1.73,3.9,4.1,1.75,3.98,4.26,1.73,3.95,4.26,1.67,2.15,1.65,2.2,-0.75,1.98,1.88,KV Mechelen,KV Kortrijk,kv_mechelen,kv_kortrijk
+2024-11-03,B1,Belgium-JPL,2425,Anderlecht,Kortrijk,4.0,0.0,H,1.0,0.0,H,1.45,5.0,5.5,1.44,4.72,6.39,1.44,4.61,6.39,1.65,2.2,1.65,2.21,-1.25,2.03,1.83,Anderlecht,KV Kortrijk,anderlecht,kv_kortrijk
+2024-11-24,B1,Belgium-JPL,2425,Westerlo,Kortrijk,4.0,0.0,H,0.0,0.0,D,1.67,3.75,4.5,1.66,4.06,4.7,1.67,4.04,4.56,1.62,2.25,1.61,2.27,-0.75,1.88,1.98,KVC Westerlo,KV Kortrijk,kvc_westerlo,kv_kortrijk
+2024-12-07,B1,Belgium-JPL,2425,Genk,Kortrijk,3.0,2.0,H,1.0,1.0,D,1.36,5.25,7.5,1.33,5.35,8.19,1.34,5.31,8.13,1.5,2.5,1.51,2.49,-1.5,2.0,1.85,Genk,KV Kortrijk,genk,kv_kortrijk
+2024-12-21,B1,Belgium-JPL,2425,Beerschot VA,Kortrijk,2.0,2.0,D,0.0,0.0,D,2.63,3.3,2.63,2.62,3.44,2.61,2.61,3.35,2.62,1.85,2.0,1.85,1.93,0.0,1.93,1.93,Beerschot VA,KV Kortrijk,beerschot_va,kv_kortrijk
+2025-01-10,B1,Belgium-JPL,2425,Standard,Kortrijk,1.0,0.0,H,0.0,0.0,D,2.05,3.4,3.6,2.03,3.34,4.02,2.01,3.37,3.73,2.05,1.75,2.04,1.74,-0.5,2.05,1.8,Standard Liege,KV Kortrijk,standard_liege,kv_kortrijk
+2025-01-25,B1,Belgium-JPL,2425,Club Brugge,Kortrijk,1.0,1.0,D,1.0,1.0,D,1.18,6.5,15.0,1.17,7.48,13.31,1.18,7.11,14.04,1.48,2.6,1.45,2.63,-2.0,1.98,1.88,Club Brugge,KV Kortrijk,club_brugge,kv_kortrijk
+2025-02-15,B1,Belgium-JPL,2425,Antwerp,Kortrijk,2.0,1.0,H,2.0,0.0,H,1.67,4.2,4.5,1.64,4.19,4.85,1.64,4.11,4.81,1.7,2.1,1.7,2.12,-0.75,1.83,2.03,Royal Antwerp,KV Kortrijk,royal_antwerp,kv_kortrijk
+2025-03-01,B1,Belgium-JPL,2425,St Truiden,Kortrijk,4.0,2.0,H,2.0,1.0,H,1.75,3.6,4.33,1.78,3.65,4.57,1.76,3.71,4.42,1.83,2.03,1.8,2.0,-0.75,2.03,1.83,Sint-Truiden,KV Kortrijk,sint_truiden,kv_kortrijk
+2025-03-16,B1,Belgium-JPL,2425,Gent,Kortrijk,1.0,2.0,A,0.0,1.0,A,1.7,3.75,4.75,1.74,3.86,4.56,1.71,3.82,4.57,1.77,1.97,1.81,1.98,-0.75,1.95,1.9,KAA Gent,KV Kortrijk,kaa_gent,kv_kortrijk
+2025-04-06,B1,Belgium-JPL,2425,St Truiden,Kortrijk,0.0,3.0,A,0.0,3.0,A,1.9,3.6,4.0,1.91,3.6,3.99,1.91,3.56,3.83,1.83,2.03,1.8,1.98,-0.5,1.93,1.93,Sint-Truiden,KV Kortrijk,sint_truiden,kv_kortrijk
+2025-04-25,B1,Belgium-JPL,2425,Beerschot VA,Kortrijk,2.0,0.0,H,2.0,0.0,H,4.1,3.5,1.85,4.09,3.77,1.9,3.89,3.67,1.88,1.7,2.1,1.72,2.11,0.5,1.98,1.88,Beerschot VA,KV Kortrijk,beerschot_va,kv_kortrijk
+2025-05-03,B1,Belgium-JPL,2425,Cercle Brugge,Kortrijk,0.0,2.0,A,0.0,2.0,A,1.85,3.6,3.9,1.89,3.6,4.06,1.87,3.62,3.9,1.85,2.0,1.84,1.95,-0.5,1.88,1.98,Cercle Brugge,KV Kortrijk,cercle_brugge,kv_kortrijk
+2026-08-07,B1,Belgium-JPL,2627,Club Brugge,Kortrijk,3.0,0.0,H,1.0,0.0,H,1.22,6.0,10.0,,,,1.22,6.26,10.3,1.36,3.1,1.36,2.92,-1.75,1.8,2.0,Club Brugge,KV Kortrijk,club_brugge,kv_kortrijk
+2026-09-03,B1,Belgium-JPL,2627,Anderlecht,Kortrijk,1.0,0.0,H,1.0,0.0,H,1.48,4.2,5.5,,,,1.49,4.33,5.49,1.57,2.35,1.54,2.36,-1.0,1.8,2.0,Anderlecht,KV Kortrijk,anderlecht,kv_kortrijk
+2026-09-13,B1,Belgium-JPL,2627,RAAL La Louviere,Kortrijk,3.0,0.0,H,2.0,0.0,H,2.35,3.2,2.8,,,,2.37,3.28,2.78,1.95,1.85,1.92,1.8,-0.25,2.05,1.75,RAAL La Louviere,KV Kortrijk,raal_la_louviere,kv_kortrijk
+2026-10-10,B1,Belgium-JPL,2627,Genk,Kortrijk,3.0,0.0,H,2.0,0.0,H,1.42,4.5,6.0,,,,1.42,4.54,6.31,1.57,2.35,1.53,2.37,-1.25,1.93,1.88,Genk,KV Kortrijk,genk,kv_kortrijk

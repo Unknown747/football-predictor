@@ -1,0 +1,94 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-13,F1,France-L1,2122,Lorient,Monaco,1.0,0.0,H,1.0,0.0,H,4.0,3.75,1.85,4.31,3.59,1.95,4.21,3.52,1.92,2.01,1.92,1.96,1.87,0.5,1.98,1.95,Lorient,AS Monaco,lorient,as_monaco
+2021-09-10,F1,France-L1,2122,Lorient,Lille,2.0,1.0,H,1.0,1.0,D,3.4,3.4,2.15,3.52,3.3,2.3,3.4,3.26,2.24,2.1,1.72,2.1,1.74,0.25,1.97,1.96,Lorient,Lille,lorient,lille
+2021-09-22,F1,France-L1,2122,Lorient,Nice,1.0,0.0,H,1.0,0.0,H,3.3,3.5,2.15,3.31,3.54,2.28,3.21,3.43,2.26,2.0,1.8,1.98,1.83,0.25,1.92,1.98,Lorient,OGC Nice,lorient,ogc_nice
+2021-10-03,F1,France-L1,2122,Lorient,Clermont,1.0,1.0,D,0.0,1.0,A,2.4,3.5,2.8,2.54,3.41,2.99,2.45,3.38,2.92,1.9,1.9,1.93,1.9,-0.25,2.08,1.73,Lorient,Clermont Foot,lorient,clermont_foot
+2021-10-24,F1,France-L1,2122,Lorient,Bordeaux,1.0,1.0,D,0.0,0.0,D,2.0,3.5,3.8,2.08,3.5,3.89,2.06,3.45,3.62,2.0,1.8,1.99,1.83,-0.5,2.06,1.87,Lorient,Bordeaux,lorient,bordeaux
+2021-11-07,F1,France-L1,2122,Lorient,Brest,1.0,2.0,A,1.0,0.0,H,2.4,3.4,2.9,2.53,3.33,3.07,2.46,3.27,2.97,1.93,1.93,1.93,1.9,-0.25,2.13,1.81,Lorient,Stade Brestois,lorient,stade_brestois
+2021-11-28,F1,France-L1,2122,Lorient,Rennes,0.0,2.0,A,0.0,0.0,D,4.33,4.0,1.72,4.64,4.05,1.78,4.48,3.89,1.76,1.8,2.0,1.81,2.01,0.75,1.92,2.01,Lorient,Stade Rennais,lorient,stade_rennais
+2021-12-05,F1,France-L1,2122,Lorient,Nantes,0.0,1.0,A,0.0,0.0,D,2.8,3.2,2.6,2.98,3.11,2.74,2.88,3.16,2.61,2.2,1.66,2.2,1.68,0.0,2.05,1.85,Lorient,FC Nantes,lorient,fc_nantes
+2021-12-22,F1,France-L1,2122,Lorient,Paris SG,1.0,1.0,D,1.0,0.0,H,7.5,5.25,1.4,8.34,5.45,1.38,7.88,5.15,1.38,1.53,2.5,1.54,2.47,1.5,1.84,2.09,Lorient,Paris Saint-Germain,lorient,paris_saint_germain
+2022-01-16,F1,France-L1,2122,Lorient,Angers,0.0,0.0,D,0.0,0.0,D,2.37,3.25,3.1,2.44,3.21,3.21,2.4,3.24,3.09,2.1,1.72,2.13,1.72,-0.25,2.06,1.84,Lorient,Angers,lorient,angers
+2022-02-06,F1,France-L1,2122,Lorient,Lens,2.0,0.0,H,1.0,0.0,H,3.3,3.5,2.15,3.46,3.49,2.18,3.32,3.46,2.18,1.97,1.93,1.92,1.9,0.25,2.0,1.9,Lorient,RC Lens,lorient,rc_lens
+2022-02-20,F1,France-L1,2122,Lorient,Montpellier,0.0,1.0,A,0.0,0.0,D,2.3,3.25,3.2,2.45,3.29,3.23,2.37,3.29,3.13,2.0,1.8,2.04,1.78,-0.25,2.06,1.84,Lorient,Montpellier,lorient,montpellier
+2022-03-04,F1,France-L1,2122,Lorient,Lyon,1.0,4.0,A,0.0,2.0,A,4.33,3.8,1.8,4.53,3.73,1.87,4.45,3.72,1.82,1.93,1.97,1.9,1.92,0.75,1.8,2.1,Lorient,Olympique Lyonnais,lorient,olympique_lyonnais
+2022-03-20,F1,France-L1,2122,Lorient,Strasbourg,0.0,0.0,D,0.0,0.0,D,3.4,3.3,2.2,3.61,3.4,2.22,3.43,3.29,2.21,2.2,1.66,2.16,1.7,0.25,2.0,1.9,Lorient,RC Strasbourg,lorient,rc_strasbourg
+2022-04-08,F1,France-L1,2122,Lorient,St Etienne,6.0,2.0,H,2.0,2.0,D,2.15,3.1,3.8,2.25,3.13,3.87,2.21,3.11,3.71,2.5,1.53,2.49,1.54,-0.25,1.89,2.01,Lorient,Saint-Etienne,lorient,saint_etienne
+2022-04-20,F1,France-L1,2122,Lorient,Metz,1.0,0.0,H,0.0,0.0,D,1.75,3.5,5.0,1.79,3.77,5.02,1.79,3.65,4.71,2.1,1.72,2.08,1.76,-0.75,2.07,1.86,Lorient,Metz,lorient,metz
+2022-05-01,F1,France-L1,2122,Lorient,Reims,1.0,2.0,A,1.0,1.0,D,2.25,3.2,3.4,2.34,3.29,3.45,2.27,3.25,3.34,2.3,1.61,2.28,1.63,-0.25,1.96,1.94,Lorient,Stade de Reims,lorient,stade_de_reims
+2022-05-08,F1,France-L1,2122,Lorient,Marseille,0.0,3.0,A,0.0,1.0,A,3.8,3.8,1.85,3.93,3.98,1.93,3.93,3.79,1.9,1.85,2.05,1.8,2.04,0.5,2.0,1.9,Lorient,Olympique Marseille,lorient,olympique_marseille
+2022-05-21,F1,France-L1,2122,Lorient,Troyes,1.0,1.0,D,0.0,1.0,A,2.15,3.5,3.4,2.14,3.66,3.48,2.15,3.57,3.31,1.72,2.1,1.75,2.1,-0.25,1.83,2.07,Lorient,Troyes,lorient,troyes
+2022-08-28,F1,France-L1,2223,Lorient,Clermont,2.0,1.0,H,2.0,0.0,H,2.05,3.4,3.8,2.06,3.52,3.94,2.06,3.45,3.68,2.06,1.84,2.01,1.82,-0.5,2.06,1.84,Lorient,Clermont Foot,lorient,clermont_foot
+2022-09-07,F1,France-L1,2223,Lorient,Lyon,3.0,1.0,H,2.0,1.0,H,4.5,4.5,1.65,4.64,4.42,1.72,4.62,4.25,1.68,1.57,2.37,1.58,2.4,0.75,2.03,1.87,Lorient,Olympique Lyonnais,lorient,olympique_lyonnais
+2022-09-11,F1,France-L1,2223,Lorient,Nantes,3.0,2.0,H,1.0,1.0,D,2.1,3.25,3.75,2.18,3.23,3.93,2.13,3.27,3.68,2.0,1.8,2.04,1.78,-0.25,1.84,2.06,Lorient,FC Nantes,lorient,fc_nantes
+2022-10-02,F1,France-L1,2223,Lorient,Lille,2.0,1.0,H,1.0,0.0,H,2.87,3.6,2.37,2.93,3.66,2.45,2.86,3.62,2.38,1.72,2.1,1.71,2.16,0.25,1.81,2.09,Lorient,Lille,lorient,lille
+2022-10-15,F1,France-L1,2223,Lorient,Reims,0.0,0.0,D,0.0,0.0,D,2.25,3.4,3.25,2.34,3.39,3.33,2.27,3.44,3.17,1.89,2.01,1.87,1.95,-0.25,1.97,1.93,Lorient,Stade de Reims,lorient,stade_de_reims
+2022-10-30,F1,France-L1,2223,Lorient,Nice,1.0,2.0,A,1.0,0.0,H,2.45,3.4,2.87,2.58,3.47,2.89,2.47,3.36,2.87,2.1,1.72,2.06,1.75,0.0,1.81,2.09,Lorient,OGC Nice,lorient,ogc_nice
+2022-11-06,F1,France-L1,2223,Lorient,Paris SG,1.0,2.0,A,0.0,1.0,A,9.5,6.5,1.28,10.48,6.6,1.27,10.06,6.36,1.26,1.4,3.0,1.39,2.99,1.75,1.98,1.92,Lorient,Paris Saint-Germain,lorient,paris_saint_germain
+2022-12-29,F1,France-L1,2223,Lorient,Montpellier,0.0,2.0,A,0.0,2.0,A,1.95,3.75,3.75,2.05,3.75,3.71,2.03,3.68,3.56,1.8,2.0,1.78,2.05,-0.5,2.05,1.85,Lorient,Montpellier,lorient,montpellier
+2023-01-11,F1,France-L1,2223,Lorient,Monaco,2.0,2.0,D,0.0,0.0,D,3.8,3.75,1.91,3.96,3.9,1.94,3.82,3.82,1.93,1.73,2.1,1.71,2.16,0.5,1.98,1.92,Lorient,AS Monaco,lorient,as_monaco
+2023-01-27,F1,France-L1,2223,Lorient,Rennes,2.0,1.0,H,2.0,0.0,H,4.0,3.5,1.95,4.1,3.6,1.99,3.94,3.52,1.97,2.01,1.89,1.96,1.87,0.5,1.93,1.97,Lorient,Stade Rennais,lorient,stade_rennais
+2023-02-05,F1,France-L1,2223,Lorient,Angers,0.0,0.0,D,0.0,0.0,D,1.85,3.6,4.2,1.9,3.64,4.48,1.87,3.6,4.22,2.01,1.89,1.97,1.85,-0.5,1.9,2.03,Lorient,Angers,lorient,angers
+2023-02-19,F1,France-L1,2223,Lorient,Ajaccio,3.0,0.0,H,2.0,0.0,H,2.0,3.4,3.8,2.11,3.3,4.08,2.07,3.29,3.85,2.3,1.62,2.32,1.62,-0.5,2.06,1.84,Lorient,Ajaccio,lorient,ajaccio
+2023-02-26,F1,France-L1,2223,Lorient,Auxerre,0.0,1.0,A,0.0,0.0,D,2.05,3.4,3.6,2.12,3.58,3.69,2.1,3.48,3.51,1.93,1.97,1.9,1.92,-0.25,1.82,2.08,Lorient,AJ Auxerre,lorient,aj_auxerre
+2023-03-12,F1,France-L1,2223,Lorient,Troyes,2.0,0.0,H,1.0,0.0,H,1.73,3.75,4.75,1.79,3.89,4.7,1.76,3.83,4.49,1.85,2.08,1.81,2.0,-0.75,2.02,1.91,Lorient,Troyes,lorient,troyes
+2023-04-09,F1,France-L1,2223,Lorient,Marseille,0.0,0.0,D,0.0,0.0,D,5.0,4.2,1.65,5.02,4.34,1.66,4.81,4.21,1.65,1.67,2.2,1.64,2.26,0.75,2.06,1.84,Lorient,Olympique Marseille,lorient,olympique_marseille
+2023-04-23,F1,France-L1,2223,Lorient,Toulouse,0.0,1.0,A,0.0,0.0,D,2.38,3.75,2.88,2.39,3.71,2.93,2.33,3.62,2.88,1.73,2.1,1.74,2.1,-0.25,2.06,1.84,Lorient,Toulouse,lorient,toulouse
+2023-05-07,F1,France-L1,2223,Lorient,Brest,2.0,1.0,H,1.0,0.0,H,2.4,3.4,2.9,2.41,3.46,3.09,2.37,3.41,2.97,1.97,1.93,1.93,1.88,-0.25,2.08,1.82,Lorient,Stade Brestois,lorient,stade_brestois
+2023-05-21,F1,France-L1,2223,Lorient,Lens,1.0,3.0,A,1.0,2.0,A,5.5,4.33,1.57,5.49,4.33,1.62,5.35,4.25,1.6,1.73,2.1,1.73,2.12,1.0,1.86,2.04,Lorient,RC Lens,lorient,rc_lens
+2023-06-03,F1,France-L1,2223,Lorient,Strasbourg,2.0,1.0,H,2.0,0.0,H,3.0,3.5,2.3,3.02,3.57,2.37,2.96,3.56,2.32,1.73,2.1,1.72,2.14,0.25,1.84,2.06,Lorient,RC Strasbourg,lorient,rc_strasbourg
+2023-08-20,F1,France-L1,2324,Lorient,Nice,1.0,1.0,D,0.0,0.0,D,3.4,3.4,2.15,3.49,3.52,2.19,3.35,3.46,2.18,2.0,1.9,1.95,1.87,0.25,2.01,1.89,Lorient,OGC Nice,lorient,ogc_nice
+2023-08-27,F1,France-L1,2324,Lorient,Lille,4.0,1.0,H,2.0,0.0,H,4.0,3.6,1.91,3.83,3.75,1.99,3.77,3.69,1.95,1.87,2.03,1.83,2.01,0.5,1.91,1.99,Lorient,Lille,lorient,lille
+2023-09-17,F1,France-L1,2324,Lorient,Monaco,2.0,2.0,D,1.0,1.0,D,4.0,3.75,1.85,4.12,3.98,1.87,3.94,3.87,1.87,1.62,2.3,1.63,2.29,0.5,2.03,1.87,Lorient,AS Monaco,lorient,as_monaco
+2023-10-01,F1,France-L1,2324,Lorient,Montpellier,0.0,3.0,A,0.0,1.0,A,3.0,3.5,2.38,2.95,3.59,2.44,2.92,3.54,2.38,1.8,2.0,1.78,2.04,0.25,1.81,2.09,Lorient,Montpellier,lorient,montpellier
+2023-10-22,F1,France-L1,2324,Lorient,Rennes,2.0,1.0,H,2.0,1.0,H,3.8,3.8,1.85,4.02,3.79,1.93,3.95,3.74,1.89,1.75,2.05,1.79,2.04,0.5,1.99,1.91,Lorient,Stade Rennais,lorient,stade_rennais
+2023-11-04,F1,France-L1,2324,Lorient,Lens,0.0,0.0,D,0.0,0.0,D,5.0,3.8,1.7,4.73,3.95,1.75,4.81,3.89,1.73,1.88,2.02,1.85,1.98,0.75,1.95,1.98,Lorient,RC Lens,lorient,rc_lens
+2023-11-26,F1,France-L1,2324,Lorient,Metz,2.0,3.0,A,2.0,1.0,H,1.95,3.5,4.0,2.0,3.45,4.07,1.99,3.45,3.96,2.1,1.7,2.12,1.74,-0.5,2.01,1.92,Lorient,Metz,lorient,metz
+2023-12-10,F1,France-L1,2324,Lorient,Marseille,2.0,4.0,A,1.0,4.0,A,4.75,3.6,1.8,4.58,3.78,1.81,4.44,3.73,1.8,1.97,1.93,1.89,1.94,0.75,1.83,2.07,Lorient,Olympique Marseille,lorient,olympique_marseille
+2023-12-17,F1,France-L1,2324,Lorient,Strasbourg,1.0,2.0,A,0.0,1.0,A,2.55,3.2,2.88,2.6,3.25,2.94,2.53,3.25,2.93,2.15,1.67,2.16,1.71,0.0,1.85,2.08,Lorient,RC Strasbourg,lorient,rc_strasbourg
+2024-01-28,F1,France-L1,2324,Lorient,Le Havre,3.0,3.0,D,1.0,1.0,D,2.9,3.1,2.63,3.0,3.12,2.63,2.92,3.12,2.59,2.4,1.53,2.38,1.58,0.0,2.07,1.83,Lorient,Le Havre,lorient,le_havre
+2024-02-11,F1,France-L1,2324,Lorient,Reims,2.0,0.0,H,0.0,0.0,D,3.75,3.5,2.05,3.73,3.57,2.06,3.61,3.53,2.04,1.99,1.91,1.94,1.88,0.5,1.84,2.09,Lorient,Stade de Reims,lorient,stade_de_reims
+2024-02-24,F1,France-L1,2324,Lorient,Nantes,0.0,1.0,A,0.0,0.0,D,2.6,3.2,2.8,2.61,3.19,2.97,2.57,3.23,2.88,2.15,1.67,2.17,1.71,0.0,1.82,2.08,Lorient,FC Nantes,lorient,fc_nantes
+2024-03-09,F1,France-L1,2324,Lorient,Lyon,0.0,2.0,A,0.0,0.0,D,3.3,3.4,2.2,3.33,3.44,2.26,3.29,3.46,2.22,2.0,1.9,1.94,1.88,0.25,2.01,1.92,Lorient,Olympique Lyonnais,lorient,olympique_lyonnais
+2024-03-31,F1,France-L1,2324,Lorient,Brest,0.0,1.0,A,0.0,0.0,D,4.2,3.3,1.95,4.02,3.38,2.04,3.93,3.37,2.01,2.2,1.65,2.2,1.68,0.5,1.87,2.03,Lorient,Stade Brestois,lorient,stade_brestois
+2024-04-24,F1,France-L1,2324,Lorient,Paris SG,1.0,4.0,A,0.0,2.0,A,7.5,5.0,1.4,7.76,5.46,1.38,7.45,5.29,1.38,1.5,2.63,1.49,2.63,1.5,1.86,2.04,Lorient,Paris Saint-Germain,lorient,paris_saint_germain
+2024-04-28,F1,France-L1,2324,Lorient,Toulouse,1.0,2.0,A,1.0,0.0,H,2.6,3.4,2.63,2.69,3.41,2.72,2.66,3.36,2.67,2.04,1.86,2.0,1.83,0.0,1.92,1.98,Lorient,Toulouse,lorient,toulouse
+2024-05-19,F1,France-L1,2324,Lorient,Clermont,5.0,0.0,H,2.0,0.0,H,1.67,4.0,4.75,1.65,4.41,4.78,1.67,4.28,4.63,1.5,2.63,1.5,2.58,-0.75,1.85,2.05,Lorient,Clermont Foot,lorient,clermont_foot
+2024-08-24,F2,France-L2,2425,Lorient,Grenoble,2.0,0.0,H,0.0,0.0,D,1.62,3.5,5.25,1.68,3.75,5.3,1.67,3.72,4.96,1.95,1.9,1.89,1.89,-0.75,1.88,1.98,Lorient,Grenoble,lorient,grenoble
+2024-09-13,F2,France-L2,2425,Lorient,Red Star,2.0,1.0,H,1.0,0.0,H,1.62,3.8,4.75,1.66,4.41,4.61,1.65,4.18,4.51,1.57,2.35,1.56,2.36,-0.75,1.83,2.03,Lorient,Red Star,lorient,red_star
+2024-09-27,F2,France-L2,2425,Lorient,Ajaccio,3.0,0.0,H,0.0,0.0,D,1.48,4.1,5.5,1.53,4.19,6.6,1.5,4.03,6.39,2.05,1.75,2.05,1.74,-1.0,1.82,1.92,Lorient,Ajaccio,lorient,ajaccio
+2024-10-19,F2,France-L2,2425,Lorient,Annecy,4.0,2.0,H,0.0,1.0,A,1.48,4.0,5.5,1.52,4.24,5.98,1.51,4.18,5.75,1.7,2.1,1.72,2.07,-1.0,1.9,1.95,Lorient,Annecy,lorient,annecy
+2024-10-29,F2,France-L2,2425,Lorient,Dunkerque,4.0,2.0,H,1.0,2.0,A,1.42,4.5,6.25,1.47,4.61,6.85,1.44,4.5,6.48,1.62,2.25,1.61,2.27,-1.25,2.0,1.85,Lorient,Dunkerque,lorient,dunkerque
+2024-11-09,F2,France-L2,2425,Lorient,Guingamp,3.0,1.0,H,2.0,0.0,H,1.85,3.75,3.9,1.88,3.59,4.2,1.86,3.6,3.97,1.8,2.0,1.76,2.01,-0.5,1.85,2.0,Lorient,Guingamp,lorient,guingamp
+2024-12-06,F2,France-L2,2425,Lorient,Troyes,2.0,0.0,H,1.0,0.0,H,1.42,4.75,5.75,1.43,4.73,7.33,1.41,4.55,6.98,1.73,2.08,1.74,2.05,-1.25,1.98,1.88,Lorient,Troyes,lorient,troyes
+2024-12-14,F2,France-L2,2425,Lorient,Paris FC,2.0,0.0,H,1.0,0.0,H,1.91,3.5,3.4,2.08,3.25,3.91,2.0,3.39,3.62,1.98,1.88,1.94,1.84,-0.5,2.03,1.83,Lorient,Paris FC,lorient,paris_fc
+2025-01-11,F2,France-L2,2425,Lorient,Metz,0.0,0.0,D,0.0,0.0,D,1.85,3.5,4.0,1.88,3.58,4.07,1.88,3.53,3.89,1.93,1.93,1.87,1.9,-0.5,1.9,1.95,Lorient,Metz,lorient,metz
+2025-01-25,F2,France-L2,2425,Lorient,Clermont,3.0,2.0,H,2.0,1.0,H,1.65,3.9,5.0,1.63,3.95,5.2,1.63,3.91,5.0,1.82,1.92,1.84,1.93,-0.75,1.83,2.03,Lorient,Clermont Foot,lorient,clermont_foot
+2025-02-08,F2,France-L2,2425,Lorient,Amiens,3.0,1.0,H,1.0,1.0,D,1.44,4.2,7.5,1.43,4.44,7.3,1.43,4.32,6.9,1.85,2.0,1.81,1.96,-1.25,2.03,1.83,Lorient,Amiens,lorient,amiens
+2025-02-22,F2,France-L2,2425,Lorient,Laval,0.0,1.0,A,0.0,0.0,D,1.45,4.1,6.5,1.46,4.45,7.14,1.45,4.22,6.62,1.88,1.98,1.85,1.93,-1.0,1.78,2.1,Lorient,Laval,lorient,laval
+2025-03-01,F2,France-L2,2425,Lorient,Rodez,3.0,1.0,H,1.0,1.0,D,1.65,4.0,4.5,1.68,4.02,4.59,1.66,3.92,4.55,1.7,2.1,1.69,2.11,-0.75,1.88,1.98,Lorient,Rodez,lorient,rodez
+2025-03-15,F2,France-L2,2425,Lorient,Bastia,4.0,0.0,H,2.0,0.0,H,1.67,3.4,5.0,1.7,3.64,5.04,1.71,3.5,5.0,2.25,1.62,2.24,1.61,-0.75,1.93,1.93,Lorient,Bastia,lorient,bastia
+2025-04-05,F2,France-L2,2425,Lorient,Pau FC,5.0,0.0,H,1.0,0.0,H,1.42,4.5,7.0,1.41,4.73,6.95,1.41,4.62,6.89,1.62,2.25,1.64,2.18,-1.25,1.93,1.93,Lorient,Pau FC,lorient,pau_fc
+2025-04-26,F2,France-L2,2425,Lorient,Caen,4.0,0.0,H,2.0,0.0,H,1.25,6.0,13.0,1.22,6.61,10.61,1.23,6.06,11.33,1.57,2.35,1.54,2.35,-1.75,1.93,1.93,Lorient,Caen,lorient,caen
+2025-05-10,F2,France-L2,2425,Lorient,Martigues,5.0,1.0,H,1.0,0.0,H,1.57,4.1,5.5,1.55,3.6,6.66,1.56,3.86,5.79,1.53,2.4,1.51,2.41,-1.0,1.93,1.93,Lorient,Martigues,lorient,martigues
+2025-08-24,F1,France-L1,2526,Lorient,Rennes,4.0,0.0,H,1.0,0.0,H,2.8,3.3,2.55,2.84,3.3,2.64,2.71,3.29,2.54,1.98,1.88,1.94,1.81,0.0,2.0,1.85,Lorient,Stade Rennais,lorient,stade_rennais
+2025-08-30,F1,France-L1,2526,Lorient,Lille,1.0,7.0,A,0.0,0.0,D,3.4,3.5,2.1,3.44,3.62,2.14,3.3,3.48,2.11,1.88,1.98,1.85,1.89,0.25,2.0,1.85,Lorient,Lille,lorient,lille
+2025-09-27,F1,France-L1,2526,Lorient,Monaco,3.0,1.0,H,1.0,0.0,H,5.5,4.1,1.6,5.28,4.36,1.62,4.93,4.25,1.6,1.57,2.38,1.51,2.45,1.0,1.85,2.0,Lorient,AS Monaco,lorient,as_monaco
+2025-10-19,F1,France-L1,2526,Lorient,Brest,3.0,3.0,D,1.0,2.0,A,2.38,3.25,3.0,2.55,3.55,2.79,2.39,3.35,2.86,1.98,1.88,1.87,1.88,-0.25,2.05,1.8,Lorient,Stade Brestois,lorient,stade_brestois
+2025-10-29,F1,France-L1,2526,Lorient,Paris SG,1.0,1.0,D,0.0,0.0,D,9.5,6.5,1.25,10.79,6.39,1.26,10.17,6.12,1.25,1.44,2.75,1.4,2.79,1.75,1.93,1.93,Lorient,Paris Saint-Germain,lorient,paris_saint_germain
+2025-11-09,F1,France-L1,2526,Lorient,Toulouse,1.0,1.0,D,1.0,0.0,H,3.0,3.3,2.4,2.99,3.32,2.51,2.96,3.26,2.38,2.1,1.73,2.04,1.73,0.25,1.78,2.1,Lorient,Toulouse,lorient,toulouse
+2025-11-30,F1,France-L1,2526,Lorient,Nice,3.0,1.0,H,2.0,1.0,H,2.45,3.3,2.88,2.45,3.38,3.03,2.43,3.31,2.84,1.8,2.0,1.82,1.93,-0.25,2.08,1.73,Lorient,OGC Nice,lorient,ogc_nice
+2025-12-07,F1,France-L1,2526,Lorient,Lyon,1.0,0.0,H,1.0,0.0,H,3.2,3.5,2.2,3.32,3.58,2.21,3.11,3.46,2.22,1.91,1.91,1.83,1.92,0.25,1.93,1.93,Lorient,Olympique Lyonnais,lorient,olympique_lyonnais
+2026-01-04,F1,France-L1,2526,Lorient,Metz,1.0,1.0,D,0.0,1.0,A,1.8,3.5,4.75,1.81,3.83,4.51,1.77,3.64,4.37,1.91,1.91,1.83,1.91,-0.5,1.78,2.03,Lorient,Metz,lorient,metz
+2026-01-31,F1,France-L1,2526,Lorient,Nantes,2.0,1.0,H,1.0,0.0,H,1.83,3.5,4.5,,,,1.82,3.48,4.31,2.0,1.8,2.02,1.74,-0.5,1.85,2.0,Lorient,FC Nantes,lorient,fc_nantes
+2026-02-15,F1,France-L1,2526,Lorient,Angers,2.0,0.0,H,1.0,0.0,H,1.91,3.2,4.5,,,,1.93,3.11,4.41,2.3,1.62,2.25,1.59,-0.5,1.93,1.93,Lorient,Angers,lorient,angers
+2026-03-01,F1,France-L1,2526,Lorient,Auxerre,2.0,2.0,D,2.0,2.0,D,2.05,3.25,3.9,,,,2.03,3.22,3.73,2.2,1.67,2.19,1.63,-0.5,2.03,1.83,Lorient,AJ Auxerre,lorient,aj_auxerre
+2026-03-14,F1,France-L1,2526,Lorient,Lens,2.0,1.0,H,1.0,0.0,H,4.2,3.7,1.85,,,,4.04,3.6,1.84,1.8,2.0,1.79,1.96,0.5,2.0,1.85,Lorient,RC Lens,lorient,rc_lens
+2026-04-05,F1,France-L1,2526,Lorient,Paris FC,1.0,1.0,D,0.0,0.0,D,2.25,3.3,3.3,,,,2.22,3.24,3.21,2.1,1.73,2.08,1.69,-0.25,1.95,1.9,Lorient,Paris FC,lorient,paris_fc
+2026-04-18,F1,France-L1,2526,Lorient,Marseille,2.0,0.0,H,1.0,0.0,H,4.5,4.0,1.73,,,,4.26,3.85,1.74,1.67,2.2,1.65,2.15,0.75,1.88,1.98,Lorient,Olympique Marseille,lorient,olympique_marseille
+2026-04-26,F1,France-L1,2526,Lorient,Strasbourg,2.0,3.0,A,1.0,0.0,H,2.1,3.6,3.2,,,,2.09,3.51,3.22,1.8,2.0,1.76,1.98,-0.25,1.83,2.03,Lorient,RC Strasbourg,lorient,rc_strasbourg
+2026-05-17,F1,France-L1,2526,Lorient,Le Havre,0.0,2.0,A,0.0,1.0,A,2.55,3.3,2.5,,,,2.55,3.43,2.56,1.88,1.98,1.84,1.9,0.0,1.95,1.9,Lorient,Le Havre,lorient,le_havre
+2026-08-29,F1,France-L1,2627,Lorient,Troyes,1.0,2.0,A,0.0,2.0,A,1.8,3.6,4.5,,,,1.84,3.5,4.17,2.05,1.8,1.99,1.76,-0.5,1.85,2.0,Lorient,Troyes,lorient,troyes
+2026-09-12,F1,France-L1,2627,Lorient,Toulouse,2.0,2.0,D,2.0,0.0,H,2.63,3.25,2.75,,,,2.56,3.3,2.68,1.98,1.88,1.9,1.84,0.0,1.88,1.98,Lorient,Toulouse,lorient,toulouse
+2026-10-10,F1,France-L1,2627,Lorient,Paris FC,1.0,0.0,H,0.0,0.0,D,3.25,3.4,2.2,,,,3.15,3.33,2.23,1.98,1.88,1.88,1.85,0.25,1.93,1.93,Lorient,Paris FC,lorient,paris_fc
+2026-10-18,F1,France-L1,2627,Lorient,Monaco,1.0,0.0,H,0.0,0.0,D,3.6,3.5,2.05,,,,3.48,3.46,2.03,1.91,1.91,1.86,1.85,0.5,1.8,2.05,Lorient,AS Monaco,lorient,as_monaco

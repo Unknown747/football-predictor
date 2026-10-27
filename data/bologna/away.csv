@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-28,I1,Italy-SA,2122,Atalanta,Bologna,0.0,0.0,D,0.0,0.0,D,1.33,5.5,8.0,1.34,5.86,9.29,1.33,5.59,8.73,1.36,3.2,1.39,2.99,-1.5,1.92,2.01,Atalanta,Bologna,atalanta,bologna
+2021-09-18,I1,Italy-SA,2122,Inter,Bologna,6.0,1.0,H,3.0,0.0,H,1.36,5.0,8.5,1.4,5.3,8.33,1.39,5.05,8.04,1.53,2.5,1.55,2.46,-1.5,2.07,1.86,Inter Milan,Bologna,inter_milan,bologna
+2021-09-26,I1,Italy-SA,2122,Empoli,Bologna,4.0,2.0,H,2.0,1.0,H,2.6,3.75,2.5,2.69,3.75,2.61,2.63,3.64,2.57,1.57,2.37,1.61,2.32,0.0,1.98,1.95,Empoli,Bologna,empoli,bologna
+2021-10-17,I1,Italy-SA,2122,Udinese,Bologna,1.0,1.0,D,0.0,0.0,D,2.25,3.4,3.2,2.38,3.44,3.21,2.32,3.36,3.14,1.9,1.9,1.92,1.91,-0.25,2.01,1.89,Udinese,Bologna,udinese,bologna
+2021-10-28,I1,Italy-SA,2122,Napoli,Bologna,3.0,0.0,H,2.0,0.0,H,1.3,5.5,9.5,1.37,5.71,8.38,1.34,5.36,8.58,1.5,2.62,1.49,2.58,-1.5,1.97,1.96,Napoli,Bologna,napoli,bologna
+2021-11-07,I1,Italy-SA,2122,Sampdoria,Bologna,1.0,2.0,A,0.0,0.0,D,2.37,3.6,2.87,2.45,3.57,2.99,2.4,3.53,2.9,1.72,2.1,1.69,2.18,-0.25,2.09,1.81,Sampdoria,Bologna,sampdoria,bologna
+2021-11-28,I1,Italy-SA,2122,Spezia,Bologna,0.0,1.0,A,0.0,0.0,D,3.0,3.5,2.3,3.26,3.52,2.32,3.05,3.44,2.31,1.72,2.1,1.76,2.07,0.25,1.9,2.03,Spezia,Bologna,spezia,bologna
+2021-12-12,I1,Italy-SA,2122,Torino,Bologna,2.0,1.0,H,1.0,0.0,H,2.2,3.25,3.5,2.32,3.25,3.54,2.28,3.23,3.37,2.1,1.72,2.07,1.77,-0.25,1.97,1.96,Torino,Bologna,torino,bologna
+2021-12-22,I1,Italy-SA,2122,Sassuolo,Bologna,0.0,3.0,A,0.0,2.0,A,2.0,3.6,3.6,2.06,3.76,3.69,2.03,3.68,3.55,1.57,2.37,1.6,2.35,-0.5,2.04,1.86,Sassuolo,Bologna,sassuolo,bologna
+2022-01-11,I1,Italy-SA,2122,Cagliari,Bologna,2.0,1.0,H,0.0,0.0,D,2.75,3.3,2.55,2.9,3.37,2.63,2.86,3.28,2.57,2.0,1.9,1.97,1.85,0.0,2.05,1.85,Cagliari,Bologna,cagliari,bologna
+2022-01-21,I1,Italy-SA,2122,Verona,Bologna,2.0,1.0,H,1.0,1.0,D,1.95,3.6,3.8,1.96,3.7,3.93,1.97,3.61,3.82,1.72,2.1,1.77,2.07,-0.5,1.99,1.91,Hellas Verona,Bologna,hellas_verona,bologna
+2022-02-12,I1,Italy-SA,2122,Lazio,Bologna,3.0,0.0,H,1.0,0.0,H,1.7,4.0,4.75,1.77,4.07,4.68,1.72,3.98,4.69,1.72,2.1,1.74,2.12,-0.75,1.95,1.98,Lazio,Bologna,lazio,bologna
+2022-02-26,I1,Italy-SA,2122,Salernitana,Bologna,1.0,1.0,D,0.0,1.0,A,3.5,3.4,2.15,3.5,3.56,2.19,3.4,3.45,2.18,1.95,1.95,1.91,1.92,0.25,2.03,1.87,Salernitana,Bologna,salernitana,bologna
+2022-03-13,I1,Italy-SA,2122,Fiorentina,Bologna,1.0,0.0,H,0.0,0.0,D,1.61,4.0,5.5,1.67,4.05,5.6,1.65,4.06,5.25,1.72,2.1,1.75,2.1,-0.75,1.8,2.1,Fiorentina,Bologna,fiorentina,bologna
+2022-04-04,I1,Italy-SA,2122,Milan,Bologna,0.0,0.0,D,0.0,0.0,D,1.4,4.5,8.5,1.39,4.97,9.32,1.39,4.85,8.57,1.72,2.1,1.73,2.12,-1.25,1.86,2.04,AC Milan,Bologna,ac_milan,bologna
+2022-04-16,I1,Italy-SA,2122,Juventus,Bologna,1.0,1.0,D,0.0,0.0,D,1.33,5.0,10.0,1.34,5.31,10.98,1.35,5.01,9.81,1.86,2.04,1.81,2.02,-1.5,2.0,1.8,Juventus,Bologna,juventus,bologna
+2022-05-01,I1,Italy-SA,2122,Roma,Bologna,0.0,0.0,D,0.0,0.0,D,1.5,4.5,6.0,1.48,4.68,7.33,1.47,4.62,6.76,1.66,2.2,1.68,2.21,-1.25,2.09,1.81,AS Roma,Bologna,as_roma,bologna
+2022-05-08,I1,Italy-SA,2122,Venezia,Bologna,4.0,3.0,H,2.0,1.0,H,2.87,3.5,2.35,3.11,3.71,2.32,3.0,3.55,2.33,1.87,2.03,1.81,2.02,0.25,1.82,2.08,Venezia,Bologna,venezia,bologna
+2022-05-21,I1,Italy-SA,2122,Genoa,Bologna,0.0,1.0,A,0.0,0.0,D,2.25,3.6,3.0,2.34,3.57,3.12,2.32,3.54,3.03,1.66,2.2,1.67,2.21,-0.25,2.01,1.89,Genoa,Bologna,genoa,bologna
+2022-08-14,I1,Italy-SA,2223,Lazio,Bologna,2.0,1.0,H,0.0,1.0,A,1.57,4.33,5.75,1.62,4.29,5.7,1.58,4.3,5.49,1.66,2.2,1.65,2.26,-1.0,2.0,1.9,Lazio,Bologna,lazio,bologna
+2022-08-27,I1,Italy-SA,2223,Milan,Bologna,2.0,0.0,H,1.0,0.0,H,1.33,5.5,8.5,1.37,5.59,8.58,1.35,5.37,8.74,1.61,2.3,1.61,2.34,-1.5,2.01,1.89,AC Milan,Bologna,ac_milan,bologna
+2022-09-04,I1,Italy-SA,2223,Spezia,Bologna,2.0,2.0,D,1.0,1.0,D,3.0,3.3,2.37,3.18,3.24,2.5,3.04,3.27,2.45,1.9,2.0,1.86,1.96,0.25,1.79,2.11,Spezia,Bologna,spezia,bologna
+2022-10-02,I1,Italy-SA,2223,Juventus,Bologna,3.0,0.0,H,1.0,0.0,H,1.5,4.33,6.5,1.53,4.43,6.79,1.51,4.3,6.48,1.88,2.02,1.84,1.98,-1.0,1.86,2.04,Juventus,Bologna,juventus,bologna
+2022-10-16,I1,Italy-SA,2223,Napoli,Bologna,3.0,2.0,H,1.0,1.0,D,1.25,6.0,11.0,1.26,6.19,13.19,1.26,6.0,11.54,1.53,2.5,1.55,2.45,-1.75,2.0,1.9,Napoli,Bologna,napoli,bologna
+2022-10-31,I1,Italy-SA,2223,Monza,Bologna,1.0,2.0,A,0.0,0.0,D,2.2,3.3,3.4,2.27,3.35,3.54,2.22,3.33,3.32,1.97,1.93,1.91,1.88,-0.25,1.91,1.99,Monza,Bologna,monza,bologna
+2022-11-09,I1,Italy-SA,2223,Inter,Bologna,6.0,1.0,H,3.0,1.0,H,1.28,5.75,10.0,1.32,5.77,10.64,1.31,5.59,9.7,1.53,2.5,1.55,2.45,-1.5,1.94,1.96,Inter Milan,Bologna,inter_milan,bologna
+2023-01-04,I1,Italy-SA,2223,Roma,Bologna,1.0,0.0,H,1.0,0.0,H,1.6,3.8,5.5,1.65,3.96,5.96,1.63,3.87,5.72,2.0,1.8,2.04,1.79,-0.75,1.82,2.08,AS Roma,Bologna,as_roma,bologna
+2023-01-15,I1,Italy-SA,2223,Udinese,Bologna,1.0,2.0,A,1.0,0.0,H,1.91,3.4,4.2,1.98,3.48,4.34,1.97,3.45,4.04,2.0,1.9,1.96,1.87,-0.5,1.98,1.92,Udinese,Bologna,udinese,bologna
+2023-02-05,I1,Italy-SA,2223,Fiorentina,Bologna,1.0,2.0,A,1.0,1.0,D,1.83,3.5,4.5,1.85,3.64,4.83,1.84,3.53,4.6,2.0,1.8,2.07,1.78,-0.5,1.86,2.07,Fiorentina,Bologna,fiorentina,bologna
+2023-02-18,I1,Italy-SA,2223,Sampdoria,Bologna,1.0,2.0,A,0.0,1.0,A,3.25,3.1,2.38,3.38,3.16,2.44,3.24,3.14,2.39,2.3,1.62,2.35,1.61,0.25,1.85,2.05,Sampdoria,Bologna,sampdoria,bologna
+2023-03-06,I1,Italy-SA,2223,Torino,Bologna,1.0,0.0,H,1.0,0.0,H,2.4,2.9,3.4,2.39,3.02,3.59,2.37,3.01,3.41,2.38,1.57,2.4,1.57,-0.25,2.01,1.89,Torino,Bologna,torino,bologna
+2023-03-18,I1,Italy-SA,2223,Salernitana,Bologna,2.0,2.0,D,1.0,1.0,D,3.4,3.25,2.2,3.56,3.31,2.24,3.43,3.27,2.23,2.2,1.67,2.21,1.68,0.25,1.97,1.93,Salernitana,Bologna,salernitana,bologna
+2023-04-08,I1,Italy-SA,2223,Atalanta,Bologna,0.0,2.0,A,0.0,0.0,D,1.65,3.8,5.5,1.7,3.92,5.33,1.66,3.87,5.44,2.02,1.88,1.97,1.86,-0.75,1.88,2.02,Atalanta,Bologna,atalanta,bologna
+2023-04-21,I1,Italy-SA,2223,Verona,Bologna,2.0,1.0,H,1.0,0.0,H,2.75,3.0,2.8,2.82,3.08,2.92,2.78,3.0,2.85,2.75,1.44,2.69,1.48,0.0,1.92,2.01,Hellas Verona,Bologna,hellas_verona,bologna
+2023-05-04,I1,Italy-SA,2223,Empoli,Bologna,3.0,1.0,H,2.0,0.0,H,2.9,3.2,2.55,3.05,3.19,2.59,2.99,3.17,2.53,2.3,1.62,2.26,1.65,0.0,2.1,1.8,Empoli,Bologna,empoli,bologna
+2023-05-08,I1,Italy-SA,2223,Sassuolo,Bologna,1.0,1.0,D,1.0,1.0,D,2.3,3.5,3.0,2.39,3.53,3.06,2.36,3.45,2.99,1.88,2.02,1.86,1.96,-0.25,2.05,1.85,Sassuolo,Bologna,sassuolo,bologna
+2023-05-20,I1,Italy-SA,2223,Cremonese,Bologna,1.0,5.0,A,0.0,3.0,A,2.88,3.4,2.4,3.0,3.52,2.44,2.96,3.41,2.43,2.07,1.83,2.03,1.81,0.25,1.8,2.1,Cremonese,Bologna,cremonese,bologna
+2023-06-04,I1,Italy-SA,2223,Lecce,Bologna,2.0,3.0,A,1.0,0.0,H,2.75,3.5,2.45,2.8,3.41,2.61,2.76,3.37,2.58,1.99,1.94,1.93,1.88,0.0,2.04,1.89,Lecce,Bologna,lecce,bologna
+2023-08-27,I1,Italy-SA,2324,Juventus,Bologna,1.0,1.0,D,0.0,1.0,A,1.5,4.5,6.0,1.51,4.42,7.08,1.49,4.39,6.86,1.93,1.97,1.91,1.92,-1.0,1.83,2.07,Juventus,Bologna,juventus,bologna
+2023-09-18,I1,Italy-SA,2324,Verona,Bologna,0.0,0.0,D,0.0,0.0,D,3.1,3.3,2.38,3.15,3.39,2.41,2.98,3.31,2.44,2.1,1.73,2.1,1.75,0.25,1.88,2.02,Hellas Verona,Bologna,hellas_verona,bologna
+2023-09-28,I1,Italy-SA,2324,Monza,Bologna,0.0,0.0,D,0.0,0.0,D,2.38,3.3,3.0,2.49,3.35,3.06,2.42,3.34,2.99,2.04,1.86,2.0,1.83,-0.25,2.09,1.81,Monza,Bologna,monza,bologna
+2023-10-07,I1,Italy-SA,2324,Inter,Bologna,2.0,2.0,D,2.0,1.0,H,1.36,5.5,7.5,1.4,5.17,8.08,1.39,5.1,7.98,1.6,2.3,1.61,2.34,-1.25,1.86,2.04,Inter Milan,Bologna,inter_milan,bologna
+2023-10-28,I1,Italy-SA,2324,Sassuolo,Bologna,1.0,1.0,D,1.0,1.0,D,2.6,3.4,2.63,2.76,3.41,2.69,2.67,3.48,2.64,1.7,2.1,1.73,2.15,0.0,1.97,1.96,Sassuolo,Bologna,sassuolo,bologna
+2023-11-12,I1,Italy-SA,2324,Fiorentina,Bologna,2.0,1.0,H,1.0,1.0,D,2.0,3.4,3.8,2.09,3.51,3.69,2.07,3.47,3.65,2.05,1.85,1.98,1.85,-0.5,2.08,1.82,Fiorentina,Bologna,fiorentina,bologna
+2023-12-03,I1,Italy-SA,2324,Lecce,Bologna,1.0,1.0,D,0.0,0.0,D,3.0,3.2,2.45,3.16,3.09,2.55,3.05,3.17,2.5,2.2,1.65,2.26,1.65,0.25,1.8,2.14,Lecce,Bologna,lecce,bologna
+2023-12-10,I1,Italy-SA,2324,Salernitana,Bologna,1.0,2.0,A,0.0,2.0,A,3.75,3.3,2.05,3.87,3.29,2.12,3.71,3.32,2.11,2.1,1.7,2.13,1.73,0.25,2.05,1.75,Salernitana,Bologna,salernitana,bologna
+2023-12-30,I1,Italy-SA,2324,Udinese,Bologna,3.0,0.0,H,1.0,0.0,H,3.5,3.1,2.25,3.64,3.12,2.28,3.5,3.14,2.28,2.4,1.53,2.39,1.59,0.25,1.98,1.95,Udinese,Bologna,udinese,bologna
+2024-01-14,I1,Italy-SA,2324,Cagliari,Bologna,2.0,1.0,H,1.0,1.0,D,3.0,3.1,2.5,3.12,3.11,2.55,3.07,3.08,2.51,2.4,1.53,2.44,1.57,0.25,1.77,2.14,Cagliari,Bologna,cagliari,bologna
+2024-01-27,I1,Italy-SA,2324,Milan,Bologna,2.0,2.0,D,1.0,1.0,D,1.67,3.75,5.25,1.7,3.93,5.11,1.71,3.79,5.03,2.08,1.73,2.07,1.78,-0.75,1.95,1.95,AC Milan,Bologna,ac_milan,bologna
+2024-02-18,I1,Italy-SA,2324,Lazio,Bologna,1.0,2.0,A,1.0,1.0,D,2.3,3.1,3.4,2.39,3.12,3.4,2.33,3.11,3.36,2.5,1.5,2.47,1.53,-0.25,2.01,1.89,Lazio,Bologna,lazio,bologna
+2024-03-03,I1,Italy-SA,2324,Atalanta,Bologna,1.0,2.0,A,1.0,0.0,H,1.91,3.4,4.2,1.98,3.51,4.09,1.95,3.48,4.04,2.08,1.73,2.07,1.77,-0.5,1.99,1.91,Atalanta,Bologna,atalanta,bologna
+2024-03-15,I1,Italy-SA,2324,Empoli,Bologna,0.0,1.0,A,0.0,0.0,D,4.0,3.2,2.0,4.04,3.28,2.08,4.02,3.24,2.05,2.35,1.57,2.37,1.6,0.5,1.85,2.08,Empoli,Bologna,empoli,bologna
+2024-04-07,I1,Italy-SA,2324,Frosinone,Bologna,0.0,0.0,D,0.0,0.0,D,4.2,3.5,1.91,4.32,3.59,1.9,4.13,3.56,1.92,1.95,1.95,1.91,1.91,0.5,2.0,1.93,Frosinone,Bologna,frosinone,bologna
+2024-04-22,I1,Italy-SA,2324,Roma,Bologna,1.0,3.0,A,0.0,2.0,A,2.4,3.1,3.2,2.41,3.16,3.31,2.39,3.12,3.23,2.38,1.57,2.4,1.58,-0.25,2.05,1.85,AS Roma,Bologna,as_roma,bologna
+2024-05-03,I1,Italy-SA,2324,Torino,Bologna,0.0,0.0,D,0.0,0.0,D,2.88,2.8,2.88,2.86,3.01,2.9,2.85,2.95,2.84,2.75,1.44,2.69,1.47,0.0,1.95,1.98,Torino,Bologna,torino,bologna
+2024-05-11,I1,Italy-SA,2324,Napoli,Bologna,0.0,2.0,A,0.0,2.0,A,2.1,3.4,3.5,2.14,3.45,3.42,2.13,3.51,3.44,1.99,1.91,1.92,1.88,-0.25,1.86,2.04,Napoli,Bologna,napoli,bologna
+2024-05-24,I1,Italy-SA,2324,Genoa,Bologna,2.0,0.0,H,1.0,0.0,H,3.4,3.4,2.15,3.52,3.33,2.2,3.45,3.31,2.21,2.2,1.67,2.23,1.68,0.25,2.02,1.88,Genoa,Bologna,genoa,bologna
+2024-08-25,I1,Italy-SA,2425,Napoli,Bologna,3.0,0.0,H,1.0,0.0,H,1.9,3.5,4.1,1.94,3.62,4.11,1.92,3.58,4.08,2.03,1.87,1.99,1.84,-0.5,1.95,1.95,Napoli,Bologna,napoli,bologna
+2024-09-14,I1,Italy-SA,2425,Como,Bologna,2.0,2.0,D,1.0,0.0,H,3.0,3.25,2.45,3.03,3.15,2.57,3.01,3.21,2.51,2.2,1.67,2.24,1.67,0.0,2.08,1.73,Como,Bologna,como,bologna
+2024-09-22,I1,Italy-SA,2425,Monza,Bologna,1.0,2.0,A,1.0,1.0,D,3.3,3.1,2.4,3.21,3.23,2.43,3.19,3.19,2.39,2.3,1.62,2.28,1.64,0.25,1.84,2.09,Monza,Bologna,monza,bologna
+2024-10-19,I1,Italy-SA,2425,Genoa,Bologna,2.0,2.0,D,0.0,1.0,A,3.75,3.1,2.15,3.85,3.16,2.19,3.74,3.15,2.18,2.3,1.62,2.33,1.62,0.25,2.05,1.85,Genoa,Bologna,genoa,bologna
+2024-10-29,I1,Italy-SA,2425,Cagliari,Bologna,0.0,2.0,A,0.0,1.0,A,3.0,3.25,2.35,3.25,3.19,2.46,3.12,3.21,2.44,2.1,1.73,2.16,1.72,0.25,1.82,2.08,Cagliari,Bologna,cagliari,bologna
+2024-11-10,I1,Italy-SA,2425,Roma,Bologna,2.0,3.0,A,0.0,1.0,A,2.05,3.4,3.6,2.14,3.31,3.78,2.11,3.32,3.66,2.2,1.67,2.18,1.7,-0.25,1.82,2.08,AS Roma,Bologna,as_roma,bologna
+2024-11-24,I1,Italy-SA,2425,Lazio,Bologna,3.0,0.0,H,0.0,0.0,D,1.9,3.5,4.2,1.91,3.35,4.68,1.91,3.42,4.35,2.1,1.73,2.12,1.74,-0.5,1.92,1.98,Lazio,Bologna,lazio,bologna
+2024-12-07,I1,Italy-SA,2425,Juventus,Bologna,2.0,2.0,D,0.0,1.0,A,1.7,3.6,5.25,1.7,3.63,5.78,1.7,3.6,5.51,2.3,1.62,2.32,1.62,-0.75,1.92,1.98,Juventus,Bologna,juventus,bologna
+2024-12-21,I1,Italy-SA,2425,Torino,Bologna,0.0,2.0,A,0.0,0.0,D,3.3,2.9,2.45,3.43,2.91,2.51,3.32,2.9,2.48,2.63,1.5,2.61,1.49,0.25,1.81,2.09,Torino,Bologna,torino,bologna
+2025-01-15,I1,Italy-SA,2425,Inter,Bologna,2.0,2.0,D,2.0,1.0,H,1.48,4.2,7.0,1.49,4.5,6.91,1.47,4.45,6.85,1.73,2.1,1.77,2.06,-1.25,2.09,1.81,Inter Milan,Bologna,inter_milan,bologna
+2025-01-25,I1,Italy-SA,2425,Empoli,Bologna,1.0,1.0,D,1.0,1.0,D,3.8,3.3,2.0,4.03,3.28,2.08,3.83,3.24,2.08,2.3,1.62,2.31,1.61,0.25,2.08,1.73,Empoli,Bologna,empoli,bologna
+2025-02-09,I1,Italy-SA,2425,Lecce,Bologna,0.0,0.0,D,0.0,0.0,D,4.2,3.5,1.91,4.51,3.44,1.91,4.34,3.42,1.9,2.2,1.67,2.24,1.66,0.5,1.99,1.91,Lecce,Bologna,lecce,bologna
+2025-02-22,I1,Italy-SA,2425,Parma,Bologna,2.0,0.0,H,1.0,0.0,H,4.0,3.5,1.91,4.06,3.71,1.93,4.03,3.63,1.92,1.91,1.99,1.88,1.96,0.5,1.97,1.93,Parma,Bologna,parma,bologna
+2025-03-09,I1,Italy-SA,2425,Verona,Bologna,1.0,2.0,A,0.0,1.0,A,5.25,3.3,1.75,5.18,3.54,1.78,5.01,3.45,1.79,2.3,1.62,2.29,1.63,0.75,1.85,2.05,Hellas Verona,Bologna,hellas_verona,bologna
+2025-03-29,I1,Italy-SA,2425,Venezia,Bologna,0.0,1.0,A,0.0,0.0,D,5.0,3.5,1.75,4.86,3.51,1.83,4.73,3.5,1.8,2.2,1.67,2.19,1.68,0.5,2.03,1.78,Venezia,Bologna,venezia,bologna
+2025-04-13,I1,Italy-SA,2425,Atalanta,Bologna,2.0,0.0,H,2.0,0.0,H,1.95,3.5,3.9,2.04,3.59,3.77,1.99,3.52,3.78,2.05,1.85,2.0,1.82,-0.5,2.04,1.86,Atalanta,Bologna,atalanta,bologna
+2025-04-28,I1,Italy-SA,2425,Udinese,Bologna,0.0,0.0,D,0.0,0.0,D,4.5,3.5,1.85,4.69,3.51,1.86,4.47,3.44,1.86,2.2,1.67,2.26,1.64,0.5,2.03,1.87,Udinese,Bologna,udinese,bologna
+2025-05-09,I1,Italy-SA,2425,Milan,Bologna,3.0,1.0,H,0.0,0.0,D,2.3,3.4,3.0,2.36,3.45,3.13,2.35,3.38,3.05,1.99,1.91,1.96,1.87,-0.25,2.04,1.86,AC Milan,Bologna,ac_milan,bologna
+2025-05-18,I1,Italy-SA,2425,Fiorentina,Bologna,3.0,2.0,H,1.0,0.0,H,2.75,3.0,2.75,2.82,3.16,2.77,2.77,3.12,2.71,2.3,1.62,2.29,1.63,0.0,1.98,1.92,Fiorentina,Bologna,fiorentina,bologna
+2025-08-23,I1,Italy-SA,2526,Roma,Bologna,1.0,0.0,H,0.0,0.0,D,2.1,3.3,3.5,2.13,3.32,3.79,2.1,3.28,3.56,2.1,1.73,2.11,1.69,-0.25,1.8,2.05,AS Roma,Bologna,as_roma,bologna
+2025-09-14,I1,Italy-SA,2526,Milan,Bologna,1.0,0.0,H,0.0,0.0,D,1.91,3.4,4.2,1.91,3.52,4.42,1.89,3.48,4.04,2.0,1.85,1.91,1.84,-0.5,1.93,1.93,AC Milan,Bologna,ac_milan,bologna
+2025-09-28,I1,Italy-SA,2526,Lecce,Bologna,2.0,2.0,D,1.0,1.0,D,4.2,3.0,2.05,4.17,3.19,2.08,3.94,3.07,2.06,2.5,1.53,2.52,1.49,0.5,1.8,2.05,Lecce,Bologna,lecce,bologna
+2025-10-19,I1,Italy-SA,2526,Cagliari,Bologna,0.0,2.0,A,0.0,1.0,A,3.6,3.3,2.1,3.72,3.27,2.18,3.54,3.22,2.13,2.3,1.62,2.24,1.61,0.25,2.03,1.83,Cagliari,Bologna,cagliari,bologna
+2025-10-26,I1,Italy-SA,2526,Fiorentina,Bologna,2.0,2.0,D,0.0,1.0,A,2.7,3.1,2.75,2.72,3.18,2.85,2.66,3.13,2.73,2.2,1.67,2.24,1.61,0.0,1.88,1.98,Fiorentina,Bologna,fiorentina,bologna
+2025-11-02,I1,Italy-SA,2526,Parma,Bologna,1.0,3.0,A,1.0,1.0,D,4.2,3.0,2.05,4.24,3.05,2.13,4.02,3.08,2.05,2.5,1.53,2.4,1.53,0.5,1.8,2.05,Parma,Bologna,parma,bologna
+2025-11-22,I1,Italy-SA,2526,Udinese,Bologna,0.0,3.0,A,0.0,0.0,D,3.75,3.2,2.1,3.91,3.16,2.16,3.74,3.19,2.08,2.3,1.62,2.24,1.61,0.25,2.05,1.8,Udinese,Bologna,udinese,bologna
+2025-12-07,I1,Italy-SA,2526,Lazio,Bologna,1.0,1.0,D,1.0,1.0,D,2.6,3.1,2.9,2.65,3.1,3.01,2.6,3.02,2.87,2.5,1.53,2.43,1.52,0.0,1.8,2.05,Lazio,Bologna,lazio,bologna
+2026-01-04,I1,Italy-SA,2526,Inter,Bologna,3.0,1.0,H,1.0,0.0,H,1.42,4.75,7.5,1.39,5.18,8.05,1.38,4.75,7.63,1.73,2.1,1.69,2.09,-1.25,1.95,1.9,Inter Milan,Bologna,inter_milan,bologna
+2026-01-10,I1,Italy-SA,2526,Como,Bologna,1.0,1.0,D,0.0,0.0,D,1.95,3.3,4.2,2.0,3.34,4.24,1.93,3.34,4.02,2.1,1.73,2.07,1.71,-0.5,1.98,1.88,Como,Bologna,como,bologna
+2026-01-15,I1,Italy-SA,2526,Verona,Bologna,2.0,3.0,A,1.0,3.0,A,3.6,3.3,2.1,3.68,3.32,2.17,3.58,3.23,2.1,2.3,1.62,2.24,1.61,0.25,2.03,1.83,Hellas Verona,Bologna,hellas_verona,bologna
+2026-01-25,I1,Italy-SA,2526,Genoa,Bologna,3.0,2.0,H,0.0,1.0,A,3.0,3.0,2.6,,,,2.93,3.0,2.56,2.38,1.57,2.38,1.55,0.0,2.1,1.78,Genoa,Bologna,genoa,bologna
+2026-02-15,I1,Italy-SA,2526,Torino,Bologna,1.0,2.0,A,0.0,0.0,D,3.3,3.25,2.25,,,,3.18,3.23,2.27,2.1,1.73,2.02,1.74,0.25,1.85,2.0,Torino,Bologna,torino,bologna
+2026-03-02,I1,Italy-SA,2526,Pisa,Bologna,0.0,1.0,A,0.0,0.0,D,4.2,3.2,2.0,,,,3.8,3.32,1.98,2.1,1.73,2.08,1.71,0.5,1.85,2.0,Pisa,Bologna,pisa,bologna
+2026-03-15,I1,Italy-SA,2526,Sassuolo,Bologna,0.0,1.0,A,0.0,1.0,A,2.4,3.3,3.0,,,,2.47,3.23,2.84,2.0,1.8,1.99,1.77,0.0,1.7,2.1,Sassuolo,Bologna,sassuolo,bologna
+2026-04-05,I1,Italy-SA,2526,Cremonese,Bologna,1.0,2.0,A,0.0,2.0,A,3.6,3.4,2.05,,,,3.55,3.37,2.05,2.03,1.83,1.98,1.78,0.25,2.05,1.8,Cremonese,Bologna,cremonese,bologna
+2026-04-19,I1,Italy-SA,2526,Juventus,Bologna,2.0,0.0,H,1.0,0.0,H,1.5,4.5,6.5,,,,1.45,4.38,6.58,1.73,2.1,1.71,2.08,-1.25,2.05,1.75,Juventus,Bologna,juventus,bologna
+2026-05-11,I1,Italy-SA,2526,Napoli,Bologna,2.0,3.0,A,1.0,2.0,A,1.53,4.2,6.0,,,,1.52,4.01,6.06,1.98,1.88,1.9,1.85,-1.0,1.93,1.93,Napoli,Bologna,napoli,bologna
+2026-05-17,I1,Italy-SA,2526,Atalanta,Bologna,0.0,1.0,A,0.0,0.0,D,1.62,4.2,4.75,,,,1.64,4.06,4.65,1.67,2.2,1.62,2.22,-0.75,1.83,2.03,Atalanta,Bologna,atalanta,bologna
+2026-08-31,I1,Italy-SA,2627,Atalanta,Bologna,1.0,0.0,H,0.0,0.0,D,1.85,3.75,4.0,,,,1.88,3.55,3.95,1.95,1.9,1.87,1.86,-0.5,1.9,1.95,Atalanta,Bologna,atalanta,bologna
+2026-09-13,I1,Italy-SA,2627,Napoli,Bologna,1.0,0.0,H,0.0,0.0,D,1.8,3.6,4.75,,,,1.75,3.53,4.72,2.1,1.73,2.05,1.72,-0.5,1.75,2.05,Napoli,Bologna,napoli,bologna
+2026-10-11,I1,Italy-SA,2627,Lecce,Bologna,1.0,2.0,A,0.0,1.0,A,4.2,3.3,1.85,,,,4.1,3.34,1.91,2.1,1.73,2.07,1.71,0.5,1.93,1.93,Lecce,Bologna,lecce,bologna

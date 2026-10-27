@@ -1,0 +1,95 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,F1,France-L1,2122,Reims,Montpellier,3.0,3.0,D,2.0,3.0,A,2.6,3.3,2.75,2.75,3.22,2.87,2.67,3.18,2.79,2.0,1.8,2.07,1.77,0.0,1.92,2.01,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2021-08-29,F1,France-L1,2122,Lille,Montpellier,2.0,1.0,H,1.0,1.0,D,1.66,4.0,5.0,1.72,3.9,5.35,1.71,3.84,4.98,1.72,2.1,1.77,2.07,-0.75,1.94,1.99,Lille,Montpellier,lille,montpellier
+2021-09-19,F1,France-L1,2122,Troyes,Montpellier,1.0,1.0,D,1.0,0.0,H,2.45,3.5,2.8,2.58,3.56,2.83,2.54,3.47,2.73,1.72,2.1,1.77,2.07,0.0,1.88,2.05,Troyes,Montpellier,troyes,montpellier
+2021-09-25,F1,France-L1,2122,Paris SG,Montpellier,2.0,0.0,H,1.0,0.0,H,1.18,8.0,12.0,1.23,7.11,13.15,1.21,7.17,12.44,1.33,3.4,1.32,3.39,-2.0,1.99,1.94,Paris Saint-Germain,Montpellier,paris_saint_germain,montpellier
+2021-10-24,F1,France-L1,2122,Monaco,Montpellier,3.0,1.0,H,2.0,0.0,H,1.44,5.0,6.0,1.5,4.71,6.91,1.46,4.6,6.56,1.61,2.3,1.61,2.33,-1.25,2.07,1.86,AS Monaco,Montpellier,as_monaco,montpellier
+2021-11-07,F1,France-L1,2122,Nice,Montpellier,0.0,1.0,A,0.0,0.0,D,1.53,4.5,5.5,1.57,4.62,5.77,1.56,4.41,5.51,1.61,2.3,1.62,2.33,-1.0,1.96,1.97,OGC Nice,Montpellier,ogc_nice,montpellier
+2021-11-20,F1,France-L1,2122,Rennes,Montpellier,2.0,0.0,H,2.0,0.0,H,1.5,4.33,6.5,1.53,4.68,6.33,1.53,4.45,5.9,1.66,2.2,1.66,2.24,-1.0,1.9,2.03,Stade Rennais,Montpellier,stade_rennais,montpellier
+2021-12-01,F1,France-L1,2122,Metz,Montpellier,1.0,3.0,A,0.0,2.0,A,2.6,3.3,2.75,2.68,3.46,2.79,2.6,3.39,2.72,1.93,1.93,1.9,1.91,0.0,1.93,2.0,Metz,Montpellier,metz,montpellier
+2021-12-11,F1,France-L1,2122,Brest,Montpellier,0.0,4.0,A,0.0,1.0,A,2.05,3.5,3.5,2.11,3.71,3.58,2.09,3.58,3.44,1.8,2.0,1.79,2.05,-0.25,1.77,2.02,Stade Brestois,Montpellier,stade_brestois,montpellier
+2022-01-16,F1,France-L1,2122,Strasbourg,Montpellier,3.0,1.0,H,0.0,1.0,A,2.0,3.5,3.6,2.07,3.45,3.82,2.06,3.49,3.6,1.85,2.05,1.81,2.01,-0.5,2.06,1.84,RC Strasbourg,Montpellier,rc_strasbourg,montpellier
+2022-02-05,F1,France-L1,2122,St Etienne,Montpellier,3.0,1.0,H,0.0,1.0,A,2.7,3.4,2.62,2.81,3.14,2.78,2.71,3.27,2.68,1.99,1.91,1.94,1.87,0.0,1.96,1.94,Saint-Etienne,Montpellier,saint_etienne,montpellier
+2022-02-20,F1,France-L1,2122,Lorient,Montpellier,0.0,1.0,A,0.0,0.0,D,2.3,3.25,3.2,2.45,3.29,3.23,2.37,3.29,3.13,2.0,1.8,2.04,1.78,-0.25,2.06,1.84,Lorient,Montpellier,lorient,montpellier
+2022-03-06,F1,France-L1,2122,Nantes,Montpellier,2.0,0.0,H,0.0,0.0,D,2.1,3.1,3.75,2.14,3.32,3.94,2.11,3.3,3.71,2.1,1.72,2.1,1.75,-0.25,1.82,2.08,FC Nantes,Montpellier,fc_nantes,montpellier
+2022-03-20,F1,France-L1,2122,Bordeaux,Montpellier,0.0,2.0,A,0.0,2.0,A,2.45,3.5,2.8,2.56,3.62,2.81,2.46,3.5,2.82,1.9,2.0,1.87,1.95,0.0,1.79,2.11,Bordeaux,Montpellier,bordeaux,montpellier
+2022-04-10,F1,France-L1,2122,Marseille,Montpellier,2.0,0.0,H,2.0,0.0,H,1.5,4.5,6.25,1.55,4.45,6.45,1.53,4.36,6.11,1.72,2.1,1.77,2.07,-1.0,1.92,1.98,Olympique Marseille,Montpellier,olympique_marseille,montpellier
+2022-04-20,F1,France-L1,2122,Lens,Montpellier,2.0,0.0,H,1.0,0.0,H,1.75,3.6,5.0,1.8,3.82,4.86,1.77,3.76,4.68,1.72,2.1,1.74,2.11,-0.75,2.02,1.91,RC Lens,Montpellier,rc_lens,montpellier
+2022-04-23,F1,France-L1,2122,Lyon,Montpellier,5.0,2.0,H,2.0,2.0,D,1.33,5.5,8.5,1.36,5.86,8.17,1.35,5.56,8.03,1.44,2.75,1.43,2.81,-1.5,1.96,1.94,Olympique Lyonnais,Montpellier,olympique_lyonnais,montpellier
+2022-05-08,F1,France-L1,2122,Clermont,Montpellier,2.0,1.0,H,1.0,1.0,D,1.9,3.8,3.8,1.92,4.19,3.81,1.9,3.91,3.79,1.72,2.1,1.73,2.12,-0.5,1.91,1.99,Clermont Foot,Montpellier,clermont_foot,montpellier
+2022-05-21,F1,France-L1,2122,Angers,Montpellier,2.0,0.0,H,1.0,0.0,H,2.0,3.75,3.5,2.03,3.98,3.51,2.02,3.81,3.44,1.61,2.3,1.64,2.26,-0.5,2.02,1.88,Angers,Montpellier,angers,montpellier
+2022-08-13,F1,France-L1,2223,Paris SG,Montpellier,5.0,2.0,H,2.0,0.0,H,1.08,12.0,21.0,1.1,11.52,25.32,1.1,11.08,24.23,1.22,4.33,1.22,4.25,-2.75,1.94,1.96,Paris Saint-Germain,Montpellier,paris_saint_germain,montpellier
+2022-08-28,F1,France-L1,2223,Brest,Montpellier,0.0,7.0,A,0.0,5.0,A,1.9,3.6,4.0,1.94,3.65,4.26,1.92,3.66,3.98,1.72,2.1,1.73,2.13,-0.5,1.92,1.98,Stade Brestois,Montpellier,stade_brestois,montpellier
+2022-09-11,F1,France-L1,2223,Angers,Montpellier,2.0,1.0,H,1.0,1.0,D,2.4,3.6,2.75,2.44,3.8,2.86,2.43,3.62,2.79,1.72,2.1,1.72,2.13,0.0,1.82,2.08,Angers,Montpellier,angers,montpellier
+2022-10-02,F1,France-L1,2223,Toulouse,Montpellier,4.0,2.0,H,3.0,1.0,H,1.85,3.8,3.75,1.93,3.96,3.98,1.92,3.8,3.82,1.72,2.1,1.72,2.15,-0.5,1.92,1.98,Toulouse,Montpellier,toulouse,montpellier
+2022-10-15,F1,France-L1,2223,Lens,Montpellier,1.0,0.0,H,0.0,0.0,D,1.4,5.0,7.0,1.43,5.11,7.78,1.42,4.91,7.12,1.57,2.37,1.57,2.38,-1.25,1.96,1.94,RC Lens,Montpellier,rc_lens,montpellier
+2022-10-30,F1,France-L1,2223,Rennes,Montpellier,3.0,0.0,H,2.0,0.0,H,1.33,5.5,8.0,1.35,5.66,9.18,1.34,5.36,8.46,1.57,2.37,1.54,2.43,-1.5,1.98,1.92,Stade Rennais,Montpellier,stade_rennais,montpellier
+2022-11-06,F1,France-L1,2223,Clermont,Montpellier,1.0,1.0,D,0.0,1.0,A,2.37,3.5,2.9,2.46,3.53,3.01,2.4,3.55,2.88,1.84,2.06,1.8,2.04,-0.25,2.1,1.8,Clermont Foot,Montpellier,clermont_foot,montpellier
+2022-12-29,F1,France-L1,2223,Lorient,Montpellier,0.0,2.0,A,0.0,2.0,A,1.95,3.75,3.75,2.05,3.75,3.71,2.03,3.68,3.56,1.8,2.0,1.78,2.05,-0.5,2.05,1.85,Lorient,Montpellier,lorient,montpellier
+2023-01-11,F1,France-L1,2223,Nice,Montpellier,6.0,1.0,H,2.0,0.0,H,1.8,3.6,4.5,1.85,3.73,4.68,1.81,3.71,4.46,1.95,1.95,1.9,1.92,-0.5,1.75,2.05,OGC Nice,Montpellier,ogc_nice,montpellier
+2023-01-29,F1,France-L1,2223,Auxerre,Montpellier,0.0,2.0,A,0.0,0.0,D,2.45,3.3,3.0,2.51,3.43,3.01,2.46,3.42,2.89,2.03,1.87,1.99,1.84,0.0,1.8,2.1,AJ Auxerre,Montpellier,aj_auxerre,montpellier
+2023-02-05,F1,France-L1,2223,Strasbourg,Montpellier,2.0,0.0,H,2.0,0.0,H,2.05,3.3,3.8,2.16,3.37,3.82,2.11,3.32,3.68,1.99,1.91,1.96,1.86,-0.25,1.82,2.11,RC Strasbourg,Montpellier,rc_strasbourg,montpellier
+2023-02-19,F1,France-L1,2223,Troyes,Montpellier,0.0,1.0,A,0.0,0.0,D,2.75,3.25,2.6,2.92,3.32,2.64,2.79,3.32,2.57,1.91,1.99,1.9,1.93,0.0,2.03,1.87,Troyes,Montpellier,troyes,montpellier
+2023-03-12,F1,France-L1,2223,Ajaccio,Montpellier,0.0,1.0,A,0.0,0.0,D,3.0,3.2,2.5,3.06,3.21,2.57,2.96,3.17,2.52,2.38,1.57,2.35,1.59,0.0,2.13,1.81,Ajaccio,Montpellier,ajaccio,montpellier
+2023-03-31,F1,France-L1,2223,Marseille,Montpellier,1.0,1.0,D,1.0,1.0,D,1.45,4.33,6.5,1.48,4.71,6.95,1.46,4.61,6.8,1.67,2.2,1.68,2.21,-1.25,2.07,1.83,Olympique Marseille,Montpellier,olympique_marseille,montpellier
+2023-04-16,F1,France-L1,2223,Lille,Montpellier,2.0,1.0,H,0.0,1.0,A,1.5,4.5,6.0,1.55,4.67,5.85,1.52,4.53,5.81,1.57,2.38,1.59,2.35,-1.0,1.86,2.04,Lille,Montpellier,lille,montpellier
+2023-04-30,F1,France-L1,2223,Monaco,Montpellier,0.0,4.0,A,0.0,1.0,A,1.5,4.5,6.0,1.51,4.82,6.12,1.5,4.64,5.92,1.57,2.38,1.58,2.38,-1.0,1.75,2.05,AS Monaco,Montpellier,as_monaco,montpellier
+2023-05-07,F1,France-L1,2223,Lyon,Montpellier,5.0,4.0,H,1.0,2.0,A,1.62,4.33,5.0,1.7,4.36,4.72,1.67,4.19,4.73,1.67,2.2,1.66,2.22,-0.75,1.85,2.05,Olympique Lyonnais,Montpellier,olympique_lyonnais,montpellier
+2023-05-20,F1,France-L1,2223,Nantes,Montpellier,0.0,3.0,A,0.0,1.0,A,2.1,3.5,3.4,2.21,3.59,3.37,2.17,3.53,3.3,1.91,1.99,1.88,1.93,-0.25,1.88,2.02,FC Nantes,Montpellier,fc_nantes,montpellier
+2023-06-03,F1,France-L1,2223,Reims,Montpellier,1.0,3.0,A,1.0,0.0,H,2.0,3.8,3.4,2.05,4.0,3.38,2.03,3.93,3.31,1.5,2.63,1.48,2.66,-0.5,2.03,1.87,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2023-08-19,F1,France-L1,2324,Lyon,Montpellier,1.0,4.0,A,0.0,2.0,A,1.7,4.2,4.33,1.72,4.25,4.67,1.71,4.16,4.53,1.57,2.38,1.58,2.38,-0.75,1.9,2.0,Olympique Lyonnais,Montpellier,olympique_lyonnais,montpellier
+2023-09-03,F1,France-L1,2324,Lille,Montpellier,1.0,0.0,H,1.0,0.0,H,1.75,4.0,4.2,1.83,4.25,4.05,1.78,4.11,4.1,1.62,2.3,1.6,2.36,-0.75,2.04,1.89,Lille,Montpellier,lille,montpellier
+2023-09-17,F1,France-L1,2324,Strasbourg,Montpellier,2.0,2.0,D,0.0,2.0,A,2.3,3.6,2.9,2.39,3.61,3.01,2.33,3.54,2.96,1.85,2.05,1.82,2.01,-0.25,2.05,1.85,RC Strasbourg,Montpellier,rc_strasbourg,montpellier
+2023-10-01,F1,France-L1,2324,Lorient,Montpellier,0.0,3.0,A,0.0,1.0,A,3.0,3.5,2.38,2.95,3.59,2.44,2.92,3.54,2.38,1.8,2.0,1.78,2.04,0.25,1.81,2.09,Lorient,Montpellier,lorient,montpellier
+2023-10-22,F1,France-L1,2324,Nantes,Montpellier,2.0,0.0,H,1.0,0.0,H,2.88,3.5,2.4,3.03,3.62,2.37,2.9,3.54,2.38,1.75,2.05,1.76,2.08,0.25,1.83,2.07,FC Nantes,Montpellier,fc_nantes,montpellier
+2023-11-03,F1,France-L1,2324,Paris SG,Montpellier,3.0,0.0,H,1.0,0.0,H,1.25,6.0,10.0,1.26,6.76,10.17,1.26,6.56,10.28,1.36,3.1,1.35,3.22,-1.75,1.91,2.02,Paris Saint-Germain,Montpellier,paris_saint_germain,montpellier
+2023-12-03,F1,France-L1,2324,Monaco,Montpellier,2.0,0.0,H,1.0,0.0,H,1.62,4.2,5.0,1.66,4.47,4.74,1.65,4.37,4.78,1.5,2.5,1.51,2.56,-1.0,2.05,1.75,AS Monaco,Montpellier,as_monaco,montpellier
+2023-12-17,F1,France-L1,2324,Metz,Montpellier,0.0,1.0,A,0.0,1.0,A,3.25,3.3,2.25,3.29,3.32,2.34,3.25,3.29,2.31,2.08,1.73,2.08,1.77,0.25,1.91,2.02,Metz,Montpellier,metz,montpellier
+2024-01-14,F1,France-L1,2324,Brest,Montpellier,2.0,0.0,H,0.0,0.0,D,1.83,3.75,4.2,1.88,3.65,4.34,1.86,3.67,4.21,1.99,1.91,1.94,1.89,-0.5,1.88,2.02,Stade Brestois,Montpellier,stade_brestois,montpellier
+2024-02-03,F1,France-L1,2324,Rennes,Montpellier,2.0,1.0,H,1.0,0.0,H,1.62,4.0,5.5,1.63,4.09,5.56,1.63,4.07,5.33,1.86,2.04,1.81,1.98,-0.75,1.82,2.11,Stade Rennais,Montpellier,stade_rennais,montpellier
+2024-02-25,F1,France-L1,2324,Marseille,Montpellier,4.0,1.0,H,2.0,1.0,H,1.7,4.0,4.75,1.73,3.96,4.85,1.71,3.94,4.74,1.84,2.06,1.8,2.02,-0.75,1.95,1.95,Olympique Marseille,Montpellier,olympique_marseille,montpellier
+2024-03-08,F1,France-L1,2324,Nice,Montpellier,1.0,2.0,A,1.0,2.0,A,1.75,3.6,4.5,1.8,3.92,4.57,1.78,3.79,4.56,1.92,1.98,1.88,1.95,-0.75,2.03,1.9,OGC Nice,Montpellier,ogc_nice,montpellier
+2024-03-31,F1,France-L1,2324,Le Havre,Montpellier,0.0,2.0,A,0.0,0.0,D,2.55,3.3,2.8,2.59,3.36,2.87,2.55,3.32,2.81,2.06,1.84,2.03,1.81,0.0,1.84,2.06,Le Havre,Montpellier,le_havre,montpellier
+2024-04-14,F1,France-L1,2324,Clermont,Montpellier,1.0,1.0,D,1.0,0.0,H,3.3,3.5,2.15,3.37,3.65,2.16,3.31,3.59,2.14,1.73,2.1,1.77,2.07,0.25,2.04,1.86,Clermont Foot,Montpellier,clermont_foot,montpellier
+2024-04-21,F1,France-L1,2324,Reims,Montpellier,1.0,2.0,A,0.0,1.0,A,1.95,3.75,3.6,2.0,3.69,3.79,1.98,3.71,3.65,1.73,2.1,1.72,2.14,-0.5,2.02,1.88,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2024-05-03,F1,France-L1,2324,Toulouse,Montpellier,1.0,2.0,A,1.0,1.0,D,2.05,3.8,3.3,2.1,3.81,3.44,2.08,3.8,3.33,1.57,2.38,1.59,2.4,-0.25,1.85,2.08,Toulouse,Montpellier,toulouse,montpellier
+2024-05-19,F1,France-L1,2324,Lens,Montpellier,2.0,2.0,D,2.0,0.0,H,1.44,4.75,6.5,1.43,5.16,6.65,1.43,4.98,6.45,1.44,2.75,1.43,2.81,-1.25,1.91,1.99,RC Lens,Montpellier,rc_lens,montpellier
+2024-08-23,F1,France-L1,2425,Paris SG,Montpellier,6.0,0.0,H,2.0,0.0,H,1.25,7.0,10.0,1.25,6.94,10.85,1.23,6.93,11.18,1.33,3.4,1.32,3.35,-2.0,2.04,1.86,Paris Saint-Germain,Montpellier,paris_saint_germain,montpellier
+2024-09-15,F1,France-L1,2425,Rennes,Montpellier,3.0,0.0,H,2.0,0.0,H,1.62,4.0,5.25,1.63,4.26,5.16,1.63,4.2,5.08,1.62,2.3,1.64,2.3,-1.0,2.06,1.84,Stade Rennais,Montpellier,stade_rennais,montpellier
+2024-09-28,F1,France-L1,2425,Monaco,Montpellier,2.0,1.0,H,1.0,1.0,D,1.33,5.5,7.5,1.34,5.7,8.48,1.34,5.59,8.22,1.44,2.7,1.44,2.79,-1.5,1.98,1.92,AS Monaco,Montpellier,as_monaco,montpellier
+2024-10-06,F1,France-L1,2425,Reims,Montpellier,4.0,2.0,H,2.0,1.0,H,1.8,3.8,4.33,1.81,3.99,4.28,1.82,3.93,4.13,1.62,2.3,1.64,2.29,-0.5,1.78,2.03,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2024-11-03,F1,France-L1,2425,Le Havre,Montpellier,1.0,0.0,H,0.0,0.0,D,2.2,3.5,3.2,2.28,3.37,3.37,2.21,3.44,3.26,1.9,2.0,1.86,1.97,-0.25,1.95,1.95,Le Havre,Montpellier,le_havre,montpellier
+2024-11-23,F1,France-L1,2425,St Etienne,Montpellier,1.0,0.0,H,0.0,0.0,D,2.3,3.6,2.9,2.38,3.44,3.11,2.37,3.48,2.97,1.73,2.1,1.71,2.16,-0.25,2.04,1.86,Saint-Etienne,Montpellier,saint_etienne,montpellier
+2024-12-08,F1,France-L1,2425,Lens,Montpellier,2.0,0.0,H,1.0,0.0,H,1.36,5.25,7.5,1.34,5.44,9.35,1.36,5.15,8.4,1.57,2.38,1.58,2.4,-1.5,2.06,1.84,RC Lens,Montpellier,rc_lens,montpellier
+2025-01-04,F1,France-L1,2425,Lyon,Montpellier,1.0,0.0,H,0.0,0.0,D,1.33,5.5,8.0,1.34,5.81,8.44,1.33,5.49,8.2,1.4,3.0,1.39,2.93,-1.5,1.91,1.99,Olympique Lyonnais,Montpellier,olympique_lyonnais,montpellier
+2025-01-26,F1,France-L1,2425,Toulouse,Montpellier,1.0,2.0,A,0.0,0.0,D,1.62,4.0,5.25,1.64,4.08,5.47,1.63,4.03,5.27,1.73,2.1,1.72,2.13,-0.75,1.81,2.09,Toulouse,Montpellier,toulouse,montpellier
+2025-02-09,F1,France-L1,2425,Strasbourg,Montpellier,2.0,0.0,H,1.0,0.0,H,1.75,4.1,4.1,1.82,3.99,4.24,1.79,3.93,4.15,1.73,2.1,1.72,2.15,-0.75,2.05,1.85,RC Strasbourg,Montpellier,rc_strasbourg,montpellier
+2025-02-23,F1,France-L1,2425,Nice,Montpellier,2.0,0.0,H,1.0,0.0,H,1.38,5.0,7.5,1.38,5.37,7.79,1.37,5.23,7.62,1.5,2.63,1.48,2.63,-1.5,2.05,1.85,OGC Nice,Montpellier,ogc_nice,montpellier
+2025-03-08,F1,France-L1,2425,Lille,Montpellier,1.0,0.0,H,0.0,0.0,D,1.37,4.75,7.5,1.41,5.13,7.44,1.4,4.94,7.45,1.62,2.3,1.62,2.31,-1.25,1.9,2.0,Lille,Montpellier,lille,montpellier
+2025-03-30,F1,France-L1,2425,Auxerre,Montpellier,1.0,0.0,H,0.0,0.0,D,1.69,3.8,4.5,1.77,3.9,4.65,1.75,3.82,4.5,1.8,2.0,1.77,2.05,-0.75,2.0,1.9,AJ Auxerre,Montpellier,aj_auxerre,montpellier
+2025-04-13,F1,France-L1,2425,Angers,Montpellier,2.0,0.0,H,2.0,0.0,H,1.9,3.5,4.1,1.94,3.73,3.95,1.93,3.63,3.86,1.91,1.99,1.88,1.94,-0.5,1.95,1.95,Angers,Montpellier,angers,montpellier
+2025-04-19,F1,France-L1,2425,Marseille,Montpellier,5.0,1.0,H,1.0,0.0,H,1.22,7.0,11.0,1.22,7.31,11.96,1.2,6.95,12.24,1.4,3.0,1.39,2.87,-2.0,2.01,1.89,Olympique Marseille,Montpellier,olympique_marseille,montpellier
+2025-05-04,F1,France-L1,2425,Brest,Montpellier,1.0,0.0,H,1.0,0.0,H,1.36,5.25,7.5,1.37,5.37,8.16,1.36,5.15,7.87,1.57,2.38,1.56,2.42,-1.5,2.06,1.84,Stade Brestois,Montpellier,stade_brestois,montpellier
+2025-05-17,F1,France-L1,2425,Nantes,Montpellier,3.0,0.0,H,2.0,0.0,H,1.53,4.5,5.5,1.52,4.34,6.01,1.52,4.36,5.85,1.73,2.1,1.72,2.12,-1.0,1.88,1.98,FC Nantes,Montpellier,fc_nantes,montpellier
+2025-08-18,F2,France-L2,2526,Le Mans,Montpellier,1.0,2.0,A,0.0,0.0,D,2.35,3.4,2.55,2.55,3.3,2.79,2.51,3.31,2.57,2.0,1.8,1.94,1.77,0.0,1.8,2.0,Le Mans,Montpellier,le_mans,montpellier
+2025-08-23,F2,France-L2,2526,Troyes,Montpellier,1.0,0.0,H,1.0,0.0,H,2.2,3.4,2.7,2.31,3.33,3.11,2.29,3.27,2.88,2.03,1.78,2.01,1.73,-0.25,2.0,1.8,Troyes,Montpellier,troyes,montpellier
+2025-09-15,F2,France-L2,2526,Guingamp,Montpellier,1.0,0.0,H,1.0,0.0,H,2.38,3.25,2.75,2.43,3.34,2.9,2.39,3.27,2.75,2.03,1.78,1.95,1.77,-0.25,2.08,1.73,Guingamp,Montpellier,guingamp,montpellier
+2025-09-27,F2,France-L2,2526,Laval,Montpellier,0.0,1.0,A,0.0,1.0,A,2.88,3.0,2.5,2.88,3.11,2.59,2.74,3.06,2.52,2.2,1.65,2.19,1.62,0.0,2.03,1.78,Laval,Montpellier,laval,montpellier
+2025-10-18,F2,France-L2,2526,Dunkerque,Montpellier,0.0,1.0,A,0.0,0.0,D,2.15,3.3,3.3,2.11,3.38,3.48,2.11,3.28,3.28,2.0,1.8,1.94,1.78,-0.25,1.83,1.98,Dunkerque,Montpellier,dunkerque,montpellier
+2025-10-28,F2,France-L2,2526,Clermont,Montpellier,1.0,1.0,D,1.0,1.0,D,3.1,3.4,2.15,,,,3.15,3.19,2.2,2.1,1.7,2.1,1.67,0.25,1.9,1.9,Clermont Foot,Montpellier,clermont_foot,montpellier
+2025-11-24,F2,France-L2,2526,Reims,Montpellier,2.0,0.0,H,1.0,0.0,H,1.95,3.2,3.5,,,,1.98,3.24,3.64,1.95,1.85,1.93,1.78,-0.5,2.0,1.8,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2025-12-13,F2,France-L2,2526,Grenoble,Montpellier,1.0,1.0,D,0.0,0.0,D,2.9,3.1,2.2,,,,3.01,3.19,2.24,2.05,1.75,2.01,1.71,0.25,1.83,1.98,Grenoble,Montpellier,grenoble,montpellier
+2026-01-16,F2,France-L2,2526,Boulogne,Montpellier,1.0,0.0,H,0.0,0.0,D,2.8,3.0,2.3,,,,2.98,3.1,2.33,2.15,1.67,2.15,1.62,0.25,1.75,2.05,Boulogne,Montpellier,boulogne,montpellier
+2026-01-23,F2,France-L2,2526,Bastia,Montpellier,0.0,2.0,A,0.0,1.0,A,2.8,3.0,2.4,,,,2.85,3.03,2.5,2.4,1.53,2.26,1.57,0.25,1.7,2.1,Bastia,Montpellier,bastia,montpellier
+2026-02-07,F2,France-L2,2526,St Etienne,Montpellier,1.0,0.0,H,0.0,0.0,D,1.83,3.4,3.6,,,,1.86,3.57,3.72,1.73,2.08,1.74,1.99,-0.5,1.9,1.9,Saint-Etienne,Montpellier,saint_etienne,montpellier
+2026-02-20,F2,France-L2,2526,Rodez,Montpellier,1.0,0.0,H,0.0,0.0,D,2.75,3.1,2.3,,,,2.77,3.21,2.4,1.98,1.83,1.92,1.8,0.0,2.08,1.73,Rodez,Montpellier,rodez,montpellier
+2026-03-06,F2,France-L2,2526,Nancy,Montpellier,0.0,3.0,A,0.0,1.0,A,2.7,3.2,2.45,,,,2.73,3.16,2.48,2.08,1.73,2.08,1.67,0.0,2.03,1.78,Nancy,Montpellier,nancy,montpellier
+2026-03-20,F2,France-L2,2526,Pau FC,Montpellier,0.0,0.0,D,0.0,0.0,D,2.55,3.1,2.45,,,,2.55,3.28,2.55,1.93,1.88,1.86,1.84,0.0,1.98,1.83,Pau FC,Montpellier,pau_fc,montpellier
+2026-04-10,F2,France-L2,2526,Annecy,Montpellier,0.0,0.0,D,0.0,0.0,D,2.4,3.0,2.63,,,,2.51,3.1,2.72,2.1,1.7,2.09,1.67,0.0,1.83,1.98,Annecy,Montpellier,annecy,montpellier
+2026-04-24,F2,France-L2,2526,Amiens,Montpellier,0.0,2.0,A,0.0,1.0,A,3.6,3.5,1.9,,,,3.4,3.49,1.95,1.8,2.0,1.74,1.99,0.5,1.85,1.95,Amiens,Montpellier,amiens,montpellier
+2026-05-09,F2,France-L2,2526,Red Star,Montpellier,1.0,1.0,D,1.0,0.0,H,1.8,3.4,3.75,,,,1.84,3.54,3.8,1.8,2.0,1.77,1.95,-0.5,1.83,1.98,Red Star,Montpellier,red_star,montpellier
+2026-08-14,F2,France-L2,2627,Nancy,Montpellier,0.0,1.0,A,0.0,0.0,D,2.75,3.25,2.55,,,,2.64,3.28,2.52,2.05,1.75,1.94,1.79,0.0,1.95,1.85,Nancy,Montpellier,nancy,montpellier
+2026-08-21,F2,France-L2,2627,Dunkerque,Montpellier,0.0,1.0,A,0.0,0.0,D,2.25,3.25,2.8,,,,2.32,3.37,2.79,1.73,2.08,1.75,1.98,-0.25,2.03,1.78,Dunkerque,Montpellier,dunkerque,montpellier
+2026-09-05,F2,France-L2,2627,St Etienne,Montpellier,3.0,1.0,H,1.0,1.0,D,1.5,3.7,5.75,,,,1.53,4.08,5.46,1.67,2.15,1.65,2.14,-1.0,1.9,1.9,Saint-Etienne,Montpellier,saint_etienne,montpellier
+2026-09-18,F2,France-L2,2627,Reims,Montpellier,1.0,1.0,D,1.0,1.0,D,2.05,3.1,3.3,,,,2.08,3.26,3.35,1.9,1.9,1.83,1.88,-0.5,2.08,1.73,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2026-10-19,F2,France-L2,2627,Rodez,Montpellier,0.0,3.0,A,0.0,0.0,D,2.63,3.3,2.25,,,,2.68,3.26,2.39,1.67,2.15,1.63,2.15,0.0,2.05,1.75,Rodez,Montpellier,rodez,montpellier

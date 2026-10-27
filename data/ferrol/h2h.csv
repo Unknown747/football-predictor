@@ -1,0 +1,85 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder,opponent,venue,team_goals,opp_goals,h2h_match_no,h2h_total_vs_opp
+2023-08-12,SP2,Spain-Segunda,2324,Elche,Ferrol,0.0,1.0,A,0.0,0.0,D,1.75,3.5,5.0,,,,1.82,3.45,4.29,2.05,1.75,2.07,1.73,-0.5,1.75,2.05,Elche,Ferrol,elche,ferrol,Elche,A,1.0,0.0,1,4
+2023-08-20,SP2,Spain-Segunda,2324,Oviedo,Ferrol,1.0,1.0,D,0.0,1.0,A,2.05,3.0,4.33,2.08,2.96,4.75,2.02,2.99,4.19,2.7,1.44,2.69,1.44,-0.5,2.05,1.8,Real Oviedo,Ferrol,real_oviedo,ferrol,Real Oviedo,A,1.0,1.0,1,4
+2023-08-27,SP2,Spain-Segunda,2324,Ferrol,Sp Gijon,2.0,0.0,H,0.0,0.0,D,2.45,3.0,3.2,2.53,3.04,3.29,2.41,2.98,3.17,2.6,1.48,2.57,1.48,-0.25,2.1,1.78,Ferrol,Sp Gijon,ferrol,sp_gijon,Sp Gijon,H,2.0,0.0,1,4
+2023-09-01,SP2,Spain-Segunda,2324,Alcorcon,Ferrol,1.0,1.0,D,0.0,0.0,D,2.25,3.1,3.6,2.34,2.99,3.77,2.26,2.95,3.55,2.7,1.44,2.66,1.46,-0.25,1.9,1.95,Alcorcon,Ferrol,alcorcon,ferrol,Alcorcon,A,1.0,1.0,1,2
+2023-09-10,SP2,Spain-Segunda,2324,Ferrol,Villarreal B,2.0,2.0,D,0.0,1.0,A,1.91,3.4,4.2,1.97,3.33,4.54,1.93,3.25,4.17,2.35,1.57,2.39,1.55,-0.5,1.93,1.93,Ferrol,Villarreal B,ferrol,villarreal_b,Villarreal B,H,2.0,2.0,1,2
+2023-09-17,SP2,Spain-Segunda,2324,Eibar,Ferrol,2.0,0.0,H,1.0,0.0,H,1.8,3.25,5.25,1.82,3.42,5.31,1.81,3.27,4.83,2.5,1.5,2.56,1.48,-0.5,1.8,2.05,Eibar,Ferrol,eibar,ferrol,Eibar,A,0.0,2.0,1,4
+2023-09-25,SP2,Spain-Segunda,2324,Ferrol,Zaragoza,1.0,0.0,H,0.0,0.0,D,2.8,2.9,2.8,2.9,3.0,2.82,2.81,2.9,2.73,2.7,1.44,2.63,1.46,0.0,1.95,1.9,Ferrol,Zaragoza,ferrol,zaragoza,Zaragoza,H,1.0,0.0,1,4
+2023-10-02,SP2,Spain-Segunda,2324,Espanol,Ferrol,3.0,0.0,H,1.0,0.0,H,1.6,3.75,5.25,1.63,4.01,5.76,1.6,3.83,5.43,1.95,1.9,1.94,1.84,-1.0,2.05,1.75,Espanyol,Ferrol,espanyol,ferrol,Espanyol,A,0.0,3.0,1,2
+2023-10-05,SP2,Spain-Segunda,2324,Ferrol,Amorebieta,1.0,0.0,H,1.0,0.0,H,1.83,3.25,5.0,1.85,3.5,4.75,1.83,3.33,4.53,2.35,1.57,2.35,1.57,-0.5,1.83,2.03,Ferrol,Amorebieta,ferrol,amorebieta,Amorebieta,H,1.0,0.0,1,2
+2023-10-08,SP2,Spain-Segunda,2324,Ferrol,Cartagena,1.0,1.0,D,0.0,1.0,A,1.91,3.5,4.33,1.97,3.4,4.41,1.9,3.35,4.17,2.15,1.67,2.18,1.66,-0.5,1.93,1.93,Ferrol,Cartagena,ferrol,cartagena,Cartagena,H,1.0,1.0,1,4
+2023-10-16,SP2,Spain-Segunda,2324,Levante,Ferrol,1.0,0.0,H,0.0,0.0,D,1.8,3.4,4.75,1.83,3.64,4.62,1.81,3.47,4.39,2.1,1.7,2.13,1.68,-0.5,1.75,2.05,Levante,Ferrol,levante,ferrol,Levante,A,0.0,1.0,1,4
+2023-10-22,SP2,Spain-Segunda,2324,Ferrol,Eldense,1.0,1.0,D,0.0,0.0,D,1.95,3.25,4.33,1.9,3.33,4.9,1.89,3.23,4.39,2.35,1.57,2.38,1.55,-0.5,1.9,1.95,Ferrol,Eldense,ferrol,eldense,Eldense,H,1.0,1.0,1,4
+2023-10-29,SP2,Spain-Segunda,2324,Santander,Ferrol,1.0,3.0,A,1.0,2.0,A,2.25,3.25,3.5,2.23,3.14,3.83,2.21,3.07,3.5,2.4,1.53,2.44,1.54,-0.25,1.9,1.95,Santander,Ferrol,santander,ferrol,Santander,A,3.0,1.0,1,4
+2023-11-05,SP2,Spain-Segunda,2324,Ferrol,Andorra,1.0,0.0,H,1.0,0.0,H,2.38,3.1,3.25,2.37,3.2,3.42,2.31,3.08,3.25,2.35,1.57,2.35,1.57,-0.25,2.0,1.85,Ferrol,Andorra,ferrol,andorra,Andorra,H,1.0,0.0,1,2
+2023-11-11,SP2,Spain-Segunda,2324,Mirandes,Ferrol,1.0,2.0,A,0.0,2.0,A,2.5,3.1,3.0,2.53,3.04,3.3,2.45,3.04,3.07,2.35,1.57,2.35,1.57,-0.25,2.13,1.75,Mirandes,Ferrol,mirandes,ferrol,Mirandes,A,2.0,1.0,1,4
+2023-11-19,SP2,Spain-Segunda,2324,Ferrol,Burgos,1.0,1.0,D,0.0,0.0,D,2.2,3.2,3.6,2.13,3.09,3.79,2.14,3.09,3.6,2.35,1.57,2.33,1.58,-0.25,1.83,2.03,Ferrol,Burgos,ferrol,burgos,Burgos,H,1.0,1.0,1,4
+2023-11-26,SP2,Spain-Segunda,2324,Leganes,Ferrol,2.0,2.0,D,2.0,2.0,D,1.95,3.2,4.5,1.99,3.21,4.67,1.96,3.11,4.28,2.6,1.48,2.63,1.47,-0.5,1.95,1.9,Leganes,Ferrol,leganes,ferrol,Leganes,A,2.0,2.0,1,2
+2023-12-03,SP2,Spain-Segunda,2324,Ferrol,Albacete,5.0,4.0,H,1.0,1.0,D,2.4,3.0,3.3,2.51,2.94,3.17,2.45,2.98,3.09,2.5,1.5,2.52,1.5,-0.25,2.1,1.78,Ferrol,Albacete,ferrol,albacete,Albacete,H,5.0,4.0,1,4
+2023-12-10,SP2,Spain-Segunda,2324,Huesca,Ferrol,1.0,0.0,H,1.0,0.0,H,2.25,3.0,3.6,2.34,2.99,3.74,2.28,2.93,3.52,2.88,1.4,2.82,1.4,-0.25,1.93,1.93,Huesca,Ferrol,huesca,ferrol,Huesca,A,0.0,1.0,1,4
+2023-12-17,SP2,Spain-Segunda,2324,Ferrol,Tenerife,3.0,1.0,H,1.0,0.0,H,2.3,3.0,3.5,2.46,2.92,3.59,2.37,2.9,3.36,2.88,1.4,2.77,1.42,-0.25,2.03,1.83,Ferrol,Tenerife,ferrol,tenerife,Tenerife,H,3.0,1.0,1,4
+2023-12-21,SP2,Spain-Segunda,2324,Valladolid,Ferrol,0.0,1.0,A,0.0,1.0,A,2.0,3.25,4.0,2.06,3.33,4.11,2.03,3.18,3.83,2.4,1.53,2.41,1.55,-0.5,2.03,1.83,Real Valladolid,Ferrol,real_valladolid,ferrol,Real Valladolid,A,1.0,0.0,1,2
+2024-01-13,SP2,Spain-Segunda,2324,Ferrol,Espanol,0.0,0.0,D,0.0,0.0,D,2.4,3.2,3.0,2.55,3.22,3.08,2.46,3.16,2.93,2.2,1.65,2.18,1.66,-0.25,2.1,1.78,Ferrol,Espanyol,ferrol,espanyol,Espanyol,H,0.0,0.0,2,2
+2024-01-20,SP2,Spain-Segunda,2324,Ferrol,Oviedo,1.0,3.0,A,0.0,0.0,D,2.38,3.0,3.3,2.48,2.94,3.53,2.36,2.95,3.31,2.7,1.44,2.64,1.46,-0.25,2.03,1.83,Ferrol,Real Oviedo,ferrol,real_oviedo,Real Oviedo,H,1.0,3.0,2,4
+2024-01-28,SP2,Spain-Segunda,2324,Sp Gijon,Ferrol,1.0,2.0,A,0.0,0.0,D,1.83,3.3,5.0,1.9,3.41,4.75,1.86,3.29,4.42,2.4,1.53,2.39,1.55,-0.5,1.85,2.0,Sp Gijon,Ferrol,sp_gijon,ferrol,Sp Gijon,A,2.0,1.0,2,4
+2024-02-04,SP2,Spain-Segunda,2324,Ferrol,Eibar,1.0,1.0,D,0.0,0.0,D,3.1,3.0,2.55,3.19,2.93,2.69,2.97,2.96,2.54,2.4,1.53,2.37,1.56,0.0,2.15,1.73,Ferrol,Eibar,ferrol,eibar,Eibar,H,1.0,1.0,2,4
+2024-02-11,SP2,Spain-Segunda,2324,Burgos,Ferrol,2.0,0.0,H,2.0,0.0,H,2.05,3.1,4.0,2.11,3.18,4.15,2.06,3.12,3.81,2.4,1.53,2.43,1.53,-0.25,1.75,2.05,Burgos,Ferrol,burgos,ferrol,Burgos,A,0.0,2.0,2,4
+2024-02-18,SP2,Spain-Segunda,2324,Ferrol,Levante,0.0,0.0,D,0.0,0.0,D,2.4,3.2,3.1,2.52,3.12,3.22,2.4,3.06,3.07,2.25,1.62,2.26,1.61,-0.25,2.1,1.78,Ferrol,Levante,ferrol,levante,Levante,H,0.0,0.0,2,4
+2024-02-25,SP2,Spain-Segunda,2324,Eldense,Ferrol,2.0,0.0,H,2.0,0.0,H,2.25,3.1,3.5,2.29,3.1,3.72,2.22,3.06,3.43,2.5,1.5,2.48,1.52,-0.25,1.88,1.98,Eldense,Ferrol,eldense,ferrol,Eldense,A,0.0,2.0,2,4
+2024-03-02,SP2,Spain-Segunda,2324,Ferrol,Santander,2.0,2.0,D,1.0,1.0,D,2.2,3.3,3.4,2.31,3.16,3.59,2.21,3.16,3.31,2.15,1.67,2.15,1.68,-0.25,1.9,1.95,Ferrol,Santander,ferrol,santander,Santander,H,2.0,2.0,2,4
+2024-03-09,SP2,Spain-Segunda,2324,Cartagena,Ferrol,2.0,1.0,H,1.0,1.0,D,2.5,3.1,3.0,2.53,2.96,3.39,2.46,2.92,3.14,2.7,1.44,2.67,1.45,-0.25,2.1,1.78,Cartagena,Ferrol,cartagena,ferrol,Cartagena,A,1.0,2.0,2,4
+2024-03-17,SP2,Spain-Segunda,2324,Ferrol,Valladolid,2.0,0.0,H,1.0,0.0,H,3.0,3.25,2.4,3.24,3.07,2.54,3.06,3.0,2.44,2.5,1.5,2.53,1.5,0.25,1.78,2.1,Ferrol,Real Valladolid,ferrol,real_valladolid,Real Valladolid,H,2.0,0.0,2,2
+2024-03-25,SP2,Spain-Segunda,2324,Albacete,Ferrol,1.0,1.0,D,1.0,0.0,H,1.83,3.1,4.2,1.98,3.3,4.41,1.91,3.21,4.21,2.35,1.57,2.38,1.55,-0.5,1.93,1.93,Albacete,Ferrol,albacete,ferrol,Albacete,A,1.0,1.0,2,4
+2024-03-31,SP2,Spain-Segunda,2324,Ferrol,Elche,1.0,0.0,H,0.0,0.0,D,3.0,2.9,2.7,3.01,2.98,2.74,2.89,2.9,2.64,2.6,1.48,2.55,1.5,0.0,2.0,1.85,Ferrol,Elche,ferrol,elche,Elche,H,1.0,0.0,2,4
+2024-04-05,SP2,Spain-Segunda,2324,Amorebieta,Ferrol,3.0,1.0,H,2.0,0.0,H,3.0,2.8,2.75,3.14,2.77,2.83,2.98,2.8,2.69,2.88,1.4,2.74,1.43,0.0,2.03,1.83,Amorebieta,Ferrol,amorebieta,ferrol,Amorebieta,A,1.0,3.0,2,2
+2024-04-14,SP2,Spain-Segunda,2324,Ferrol,Huesca,2.0,1.0,H,0.0,1.0,A,2.3,2.9,3.6,2.3,2.7,3.92,2.27,2.8,3.65,3.1,1.36,3.04,1.35,-0.25,1.95,1.9,Ferrol,Huesca,ferrol,huesca,Huesca,H,2.0,1.0,2,4
+2024-04-20,SP2,Spain-Segunda,2324,Villarreal B,Ferrol,1.0,0.0,H,0.0,0.0,D,2.4,3.1,3.0,2.47,3.05,3.05,2.41,3.07,3.01,2.3,1.6,2.3,1.59,-0.25,2.1,1.78,Villarreal B,Ferrol,villarreal_b,ferrol,Villarreal B,A,0.0,1.0,2,2
+2024-04-29,SP2,Spain-Segunda,2324,Ferrol,Mirandes,0.0,2.0,A,0.0,1.0,A,2.05,3.2,4.0,2.13,3.09,4.05,2.05,3.09,3.84,2.4,1.5,2.42,1.53,-0.5,2.08,1.73,Ferrol,Mirandes,ferrol,mirandes,Mirandes,H,0.0,2.0,2,4
+2024-05-05,SP2,Spain-Segunda,2324,Tenerife,Ferrol,2.0,0.0,H,0.0,0.0,D,2.15,3.1,3.8,2.15,2.97,3.85,2.11,3.01,3.73,2.6,1.48,2.6,1.46,-0.25,1.83,2.03,Tenerife,Ferrol,tenerife,ferrol,Tenerife,A,0.0,2.0,2,4
+2024-05-11,SP2,Spain-Segunda,2324,Ferrol,Alcorcon,2.0,1.0,H,0.0,0.0,D,1.91,3.1,4.5,1.91,3.02,4.79,1.91,3.09,4.48,2.6,1.48,2.53,1.49,-0.5,1.93,1.93,Ferrol,Alcorcon,ferrol,alcorcon,Alcorcon,H,2.0,1.0,2,2
+2024-05-19,SP2,Spain-Segunda,2324,Zaragoza,Ferrol,2.0,2.0,D,1.0,0.0,H,2.1,3.0,3.8,2.1,2.75,4.48,2.11,2.91,3.93,2.6,1.48,2.55,1.48,-0.25,1.8,2.05,Zaragoza,Ferrol,zaragoza,ferrol,Zaragoza,A,2.0,2.0,2,4
+2024-05-26,SP2,Spain-Segunda,2324,Ferrol,Leganes,2.0,2.0,D,1.0,1.0,D,2.8,3.0,2.7,2.79,2.99,2.65,2.8,2.97,2.62,2.6,1.48,2.52,1.48,0.0,1.98,1.88,Ferrol,Leganes,ferrol,leganes,Leganes,H,2.0,2.0,2,2
+2024-06-02,SP2,Spain-Segunda,2324,Andorra,Ferrol,1.0,0.0,H,0.0,0.0,D,2.15,3.5,3.0,2.23,3.2,3.22,2.19,3.31,3.16,2.03,1.83,1.96,1.81,-0.25,1.93,1.93,Andorra,Ferrol,andorra,ferrol,Andorra,A,0.0,1.0,2,2
+2024-08-17,SP2,Spain-Segunda,2425,Ferrol,Malaga,2.0,2.0,D,0.0,1.0,A,2.3,2.9,3.5,2.31,3.05,3.47,2.28,2.99,3.38,2.5,1.5,2.53,1.49,-0.25,1.98,1.88,Ferrol,Malaga,ferrol,malaga,Malaga,H,2.0,2.0,1,2
+2024-08-24,SP2,Spain-Segunda,2425,Ferrol,Granada,0.0,1.0,A,0.0,0.0,D,3.2,3.0,2.45,3.16,3.0,2.5,3.03,3.0,2.46,2.4,1.53,2.4,1.55,0.25,1.78,2.1,Ferrol,Granada,ferrol,granada,Granada,H,0.0,1.0,1,2
+2024-09-01,SP2,Spain-Segunda,2425,La Coruna,Ferrol,1.0,0.0,H,0.0,0.0,D,1.85,3.3,4.33,1.9,3.33,4.46,1.89,3.27,4.25,2.35,1.57,2.36,1.56,-0.5,1.88,1.98,La Coruna,Ferrol,la_coruna,ferrol,La Coruna,A,0.0,1.0,1,2
+2024-09-08,SP2,Spain-Segunda,2425,Ferrol,Mirandes,0.0,0.0,D,0.0,0.0,D,1.8,3.6,4.33,1.84,3.36,4.73,1.82,3.32,4.56,2.4,1.53,2.4,1.55,-0.5,1.83,2.03,Ferrol,Mirandes,ferrol,mirandes,Mirandes,H,0.0,0.0,3,4
+2024-09-15,SP2,Spain-Segunda,2425,Cadiz,Ferrol,0.0,0.0,D,0.0,0.0,D,1.67,3.6,5.5,1.65,3.85,5.22,1.65,3.69,5.18,2.2,1.65,2.18,1.65,-0.75,1.88,1.98,Cadiz,Ferrol,cadiz,ferrol,Cadiz,A,0.0,0.0,1,2
+2024-09-21,SP2,Spain-Segunda,2425,Ferrol,Albacete,1.0,4.0,A,0.0,0.0,D,2.45,2.9,3.1,2.52,2.97,3.17,2.46,2.95,3.06,2.4,1.53,2.42,1.53,0.0,1.68,2.15,Ferrol,Albacete,ferrol,albacete,Albacete,H,1.0,4.0,3,4
+2024-09-29,SP2,Spain-Segunda,2425,Cordoba,Ferrol,3.0,1.0,H,1.0,0.0,H,1.83,3.6,4.2,1.81,3.43,4.81,1.82,3.36,4.47,2.35,1.57,2.38,1.56,-0.5,1.83,2.03,Cordoba,Ferrol,cordoba,ferrol,Cordoba,A,1.0,3.0,1,2
+2024-10-05,SP2,Spain-Segunda,2425,Ferrol,Elche,1.0,0.0,H,1.0,0.0,H,3.3,2.9,2.4,3.47,2.92,2.44,3.27,2.91,2.39,2.6,1.48,2.58,1.47,0.25,1.83,2.03,Ferrol,Elche,ferrol,elche,Elche,H,1.0,0.0,3,4
+2024-10-12,SP2,Spain-Segunda,2425,Cartagena,Ferrol,0.0,1.0,A,0.0,0.0,D,2.55,2.88,3.1,2.55,2.9,3.31,2.5,2.87,3.13,2.6,1.48,2.58,1.48,-0.25,2.15,1.68,Cartagena,Ferrol,cartagena,ferrol,Cartagena,A,1.0,0.0,3,4
+2024-10-20,SP2,Spain-Segunda,2425,Ferrol,Huesca,0.0,0.0,D,0.0,0.0,D,2.45,2.8,3.3,2.51,2.87,3.3,2.44,2.84,3.21,2.88,1.4,2.8,1.4,-0.25,2.1,1.78,Ferrol,Huesca,ferrol,huesca,Huesca,H,0.0,0.0,3,4
+2024-10-24,SP2,Spain-Segunda,2425,Burgos,Ferrol,1.0,1.0,D,1.0,1.0,D,2.05,3.25,3.8,2.04,2.92,4.55,2.03,3.07,4.04,2.35,1.57,2.36,1.56,-0.5,2.05,1.8,Burgos,Ferrol,burgos,ferrol,Burgos,A,1.0,1.0,3,4
+2024-10-28,SP2,Spain-Segunda,2425,Ferrol,Tenerife,1.0,1.0,D,1.0,1.0,D,2.57,2.75,3.0,2.77,2.88,2.93,2.46,2.88,3.12,2.88,1.4,2.77,1.42,0.0,1.8,2.05,Ferrol,Tenerife,ferrol,tenerife,Tenerife,H,1.0,1.0,3,4
+2024-11-10,SP2,Spain-Segunda,2425,Ferrol,Santander,1.0,2.0,A,0.0,2.0,A,3.3,3.2,2.2,3.33,3.25,2.26,3.21,3.21,2.22,2.08,1.73,2.07,1.73,0.25,1.93,1.93,Ferrol,Santander,ferrol,santander,Santander,H,1.0,2.0,3,4
+2024-11-16,SP2,Spain-Segunda,2425,Eibar,Ferrol,2.0,0.0,H,0.0,0.0,D,1.8,3.3,5.0,1.81,3.34,5.23,1.8,3.31,4.8,2.35,1.57,2.34,1.57,-0.5,1.8,2.05,Eibar,Ferrol,eibar,ferrol,Eibar,A,0.0,2.0,3,4
+2024-11-22,SP2,Spain-Segunda,2425,Ferrol,Levante,0.0,0.0,D,0.0,0.0,D,3.2,3.0,2.35,3.38,3.1,2.41,3.21,3.04,2.34,2.25,1.62,2.28,1.59,0.25,1.85,2.0,Ferrol,Levante,ferrol,levante,Levante,H,0.0,0.0,3,4
+2024-11-27,SP2,Spain-Segunda,2425,Castellon,Ferrol,0.0,0.0,D,0.0,0.0,D,1.6,3.9,5.5,1.63,4.02,5.23,1.61,3.94,5.07,1.75,2.05,1.74,2.03,-0.75,1.75,2.05,Castellon,Ferrol,castellon,ferrol,Castellon,A,0.0,0.0,1,2
+2024-12-01,SP2,Spain-Segunda,2425,Eldense,Ferrol,0.0,0.0,D,0.0,0.0,D,1.91,3.0,4.75,1.88,3.26,4.63,1.88,3.13,4.48,2.6,1.48,2.52,1.48,-0.5,1.9,1.95,Eldense,Ferrol,eldense,ferrol,Eldense,A,0.0,0.0,3,4
+2024-12-08,SP2,Spain-Segunda,2425,Ferrol,Oviedo,1.0,5.0,A,0.0,1.0,A,3.8,3.1,2.1,3.87,3.02,2.17,3.68,2.97,2.16,2.7,1.44,2.71,1.43,0.25,2.03,1.83,Ferrol,Real Oviedo,ferrol,real_oviedo,Real Oviedo,H,1.0,5.0,3,4
+2024-12-15,SP2,Spain-Segunda,2425,Sp Gijon,Ferrol,1.0,3.0,A,1.0,3.0,A,1.53,3.6,7.5,1.54,3.85,6.81,1.52,3.74,6.7,2.3,1.6,2.31,1.58,-1.0,2.0,1.85,Sp Gijon,Ferrol,sp_gijon,ferrol,Sp Gijon,A,3.0,1.0,3,4
+2024-12-18,SP2,Spain-Segunda,2425,Ferrol,Almeria,1.0,4.0,A,0.0,1.0,A,4.0,3.5,1.9,4.13,3.55,1.89,3.99,3.47,1.88,2.03,1.83,1.99,1.79,0.5,1.93,1.93,Ferrol,Almeria,ferrol,almeria,Almeria,H,1.0,4.0,1,2
+2024-12-21,SP2,Spain-Segunda,2425,Zaragoza,Ferrol,1.0,0.0,H,0.0,0.0,D,1.62,3.6,6.0,1.61,3.73,6.01,1.62,3.61,5.7,2.25,1.62,2.27,1.61,-0.75,1.8,2.05,Zaragoza,Ferrol,zaragoza,ferrol,Zaragoza,A,0.0,1.0,3,4
+2025-01-11,SP2,Spain-Segunda,2425,Ferrol,Cartagena,0.0,0.0,D,0.0,0.0,D,1.9,3.25,4.33,1.92,3.19,4.6,1.88,3.19,4.38,2.5,1.5,2.53,1.47,-0.5,1.93,1.93,Ferrol,Cartagena,ferrol,cartagena,Cartagena,H,0.0,0.0,4,4
+2025-01-19,SP2,Spain-Segunda,2425,Santander,Ferrol,6.0,0.0,H,3.0,0.0,H,1.55,3.9,6.25,1.54,4.16,6.04,1.52,4.04,5.71,1.88,1.98,1.86,1.91,-1.0,1.98,1.88,Santander,Ferrol,santander,ferrol,Santander,A,0.0,6.0,4,4
+2025-02-03,SP2,Spain-Segunda,2425,Levante,Ferrol,0.0,1.0,A,0.0,1.0,A,1.44,4.2,7.5,1.43,4.41,7.71,1.42,4.29,7.4,1.95,1.9,1.93,1.85,-1.25,2.03,1.83,Levante,Ferrol,levante,ferrol,Levante,A,1.0,0.0,4,4
+2025-02-08,SP2,Spain-Segunda,2425,Ferrol,Castellon,1.0,3.0,A,0.0,2.0,A,2.7,3.2,2.7,2.83,3.06,2.72,2.72,3.08,2.64,2.15,1.67,2.14,1.67,0.0,1.95,1.9,Ferrol,Castellon,ferrol,castellon,Castellon,H,1.0,3.0,2,2
+2025-02-14,SP2,Spain-Segunda,2425,Mirandes,Ferrol,4.0,1.0,H,2.0,1.0,H,1.67,3.4,5.75,1.7,3.41,6.34,1.68,3.29,5.8,2.7,1.44,2.65,1.46,-0.75,1.93,1.93,Mirandes,Ferrol,mirandes,ferrol,Mirandes,A,1.0,4.0,4,4
+2025-02-22,SP2,Spain-Segunda,2425,Ferrol,Cordoba,0.0,1.0,A,0.0,0.0,D,3.2,3.0,2.38,3.25,3.0,2.51,3.07,3.0,2.43,2.2,1.65,2.2,1.64,0.25,1.8,2.05,Ferrol,Cordoba,ferrol,cordoba,Cordoba,H,0.0,1.0,2,2
+2025-03-01,SP2,Spain-Segunda,2425,Huesca,Ferrol,3.0,1.0,H,2.0,1.0,H,1.57,3.5,6.5,1.59,3.59,6.76,1.59,3.46,6.39,2.6,1.48,2.6,1.46,-0.75,1.78,2.1,Huesca,Ferrol,huesca,ferrol,Huesca,A,1.0,3.0,4,4
+2025-03-05,SP2,Spain-Segunda,2425,Ferrol,Burgos,0.0,1.0,A,0.0,1.0,A,3.0,2.7,2.8,3.05,2.71,2.84,2.96,2.69,2.73,3.1,1.36,3.03,1.35,0.0,2.0,1.63,Ferrol,Burgos,ferrol,burgos,Burgos,H,0.0,1.0,4,4
+2025-03-09,SP2,Spain-Segunda,2425,Granada,Ferrol,3.0,0.0,H,2.0,0.0,H,1.55,3.8,6.5,1.55,3.9,6.42,1.54,3.81,6.13,2.1,1.7,2.12,1.69,-1.0,2.0,1.85,Granada,Ferrol,granada,ferrol,Granada,A,0.0,3.0,2,2
+2025-03-15,SP2,Spain-Segunda,2425,Ferrol,Eibar,0.0,0.0,D,0.0,0.0,D,3.6,2.9,2.2,3.78,2.9,2.27,3.6,2.88,2.25,2.88,1.4,2.82,1.39,0.25,1.98,1.88,Ferrol,Eibar,ferrol,eibar,Eibar,H,0.0,0.0,4,4
+2025-03-22,SP2,Spain-Segunda,2425,Malaga,Ferrol,2.0,0.0,H,2.0,0.0,H,1.85,3.3,4.5,1.88,3.06,5.12,1.87,3.11,4.69,2.6,1.48,2.56,1.48,-0.5,1.88,1.98,Malaga,Ferrol,malaga,ferrol,Malaga,A,0.0,2.0,2,2
+2025-03-29,SP2,Spain-Segunda,2425,Ferrol,La Coruna,0.0,1.0,A,0.0,1.0,A,3.6,3.2,2.1,3.82,3.21,2.15,3.55,3.1,2.15,2.35,1.57,2.38,1.54,0.25,2.03,1.83,Ferrol,La Coruna,ferrol,la_coruna,La Coruna,H,0.0,1.0,2,2
+2025-04-07,SP2,Spain-Segunda,2425,Elche,Ferrol,1.0,0.0,H,1.0,0.0,H,1.33,5.0,8.0,1.33,4.85,10.14,1.32,4.72,9.83,2.15,1.67,2.12,1.68,-1.25,1.83,2.03,Elche,Ferrol,elche,ferrol,Elche,A,0.0,1.0,4,4
+2025-04-12,SP2,Spain-Segunda,2425,Oviedo,Ferrol,3.0,0.0,H,0.0,0.0,D,1.45,4.5,6.5,1.45,4.11,7.91,1.44,4.1,7.55,2.25,1.62,2.26,1.61,-1.0,1.8,2.05,Real Oviedo,Ferrol,real_oviedo,ferrol,Real Oviedo,A,0.0,3.0,4,4
+2025-04-19,SP2,Spain-Segunda,2425,Ferrol,Eldense,1.0,0.0,H,0.0,0.0,D,3.3,2.9,2.35,3.45,2.89,2.41,3.34,2.9,2.33,2.88,1.4,2.83,1.39,0.25,1.83,2.03,Ferrol,Eldense,ferrol,eldense,Eldense,H,1.0,0.0,4,4
+2025-04-29,SP2,Spain-Segunda,2425,Almeria,Ferrol,2.0,1.0,H,1.0,0.0,H,1.3,4.75,12.0,1.29,5.37,10.58,1.29,5.05,10.2,1.8,2.0,1.78,2.0,-1.5,1.93,1.93,Almeria,Ferrol,almeria,ferrol,Almeria,A,1.0,2.0,2,2
+2025-05-04,SP2,Spain-Segunda,2425,Ferrol,Zaragoza,1.0,2.0,A,0.0,1.0,A,3.5,3.4,1.96,3.8,3.31,2.06,3.67,3.29,2.01,2.3,1.6,2.32,1.58,0.5,1.71,1.91,Ferrol,Zaragoza,ferrol,zaragoza,Zaragoza,H,1.0,2.0,4,4
+2025-05-11,SP2,Spain-Segunda,2425,Tenerife,Ferrol,0.0,0.0,D,0.0,0.0,D,1.53,3.8,6.5,1.53,3.74,7.28,1.54,3.71,6.67,2.35,1.57,2.33,1.57,-1.0,2.0,1.85,Tenerife,Ferrol,tenerife,ferrol,Tenerife,A,0.0,0.0,4,4
+2025-05-18,SP2,Spain-Segunda,2425,Ferrol,Cadiz,1.0,0.0,H,0.0,0.0,D,3.9,3.2,2.05,3.76,3.13,2.03,3.77,3.12,2.05,2.6,1.48,2.52,1.47,0.5,1.78,2.03,Ferrol,Cadiz,ferrol,cadiz,Cadiz,H,1.0,0.0,2,2
+2025-05-24,SP2,Spain-Segunda,2425,Albacete,Ferrol,2.0,0.0,H,1.0,0.0,H,1.67,4.1,4.5,1.66,4.12,4.64,1.65,3.95,4.69,1.8,2.0,1.81,1.97,-0.75,1.85,1.95,Albacete,Ferrol,albacete,ferrol,Albacete,A,0.0,2.0,4,4
+2025-05-31,SP2,Spain-Segunda,2425,Ferrol,Sp Gijon,0.0,2.0,A,0.0,1.0,A,2.7,3.0,2.75,2.71,3.01,2.75,2.7,2.94,2.77,2.2,1.65,2.19,1.64,0.0,1.88,1.93,Ferrol,Sp Gijon,ferrol,sp_gijon,Sp Gijon,H,0.0,2.0,4,4

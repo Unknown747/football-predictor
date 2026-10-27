@@ -1,0 +1,121 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E3,England-L2,2122,Walsall,Forest Green,1.0,3.0,A,0.0,3.0,A,2.8,3.2,2.6,2.83,3.21,2.68,2.76,3.16,2.61,2.25,1.61,2.28,1.62,0.0,2.03,1.9,Walsall,Forest Green Rovers,walsall,forest_green_rovers
+2021-08-17,E3,England-L2,2122,Walsall,Scunthorpe,1.0,1.0,D,0.0,0.0,D,1.83,3.6,4.33,1.88,3.62,4.42,1.86,3.51,4.13,2.05,1.75,2.07,1.74,-0.5,1.88,1.98,Walsall,Scunthorpe United,walsall,scunthorpe_united
+2021-08-28,E3,England-L2,2122,Walsall,Stevenage,1.0,0.0,H,1.0,0.0,H,3.0,3.2,2.5,3.03,3.2,2.53,2.92,3.13,2.49,2.35,1.57,2.36,1.58,0.0,2.11,1.82,Walsall,Stevenage,walsall,stevenage
+2021-09-11,E3,England-L2,2122,Walsall,Mansfield,3.0,1.0,H,2.0,0.0,H,3.0,3.3,2.3,3.04,3.35,2.4,2.96,3.24,2.39,2.15,1.66,2.14,1.68,0.25,1.8,2.05,Walsall,Mansfield Town,walsall,mansfield_town
+2021-09-25,E3,England-L2,2122,Walsall,Bristol Rvs,1.0,2.0,A,1.0,0.0,H,2.4,3.3,3.0,2.49,3.16,3.07,2.42,3.16,3.0,2.3,1.6,2.27,1.61,-0.25,2.05,1.8,Walsall,Bristol Rvs,walsall,bristol_rvs
+2021-10-09,E3,England-L2,2122,Walsall,Salford,2.0,1.0,H,1.0,0.0,H,3.5,3.2,2.2,3.5,3.2,2.24,3.37,3.18,2.2,2.1,1.7,2.13,1.68,0.25,1.9,1.95,Walsall,Salford City,walsall,salford_city
+2021-10-23,E3,England-L2,2122,Walsall,Barrow,2.0,2.0,D,1.0,1.0,D,2.4,3.25,3.0,2.43,3.27,3.06,2.43,3.21,2.92,2.15,1.66,2.14,1.67,0.0,1.77,2.1,Walsall,Barrow,walsall,barrow
+2021-11-13,E3,England-L2,2122,Walsall,Harrogate,1.0,3.0,A,0.0,1.0,A,2.7,3.3,2.62,2.7,3.32,2.68,2.63,3.26,2.63,2.02,1.83,1.99,1.79,0.0,1.9,1.95,Walsall,Harrogate Town,walsall,harrogate_town
+2021-11-20,E3,England-L2,2122,Walsall,Rochdale,0.0,0.0,D,0.0,0.0,D,2.37,3.3,3.1,2.32,3.46,3.08,2.33,3.33,2.99,2.07,1.72,2.06,1.73,-0.25,2.0,1.85,Walsall,Rochdale,walsall,rochdale
+2021-12-07,E3,England-L2,2122,Walsall,Crawley Town,1.0,1.0,D,1.0,1.0,D,1.95,3.4,4.2,1.98,3.36,4.33,1.96,3.32,4.0,2.15,1.66,2.25,1.63,-0.5,1.95,1.9,Walsall,Crawley Town,walsall,crawley_town
+2021-12-11,E3,England-L2,2122,Walsall,Colchester,3.0,0.0,H,2.0,0.0,H,2.0,3.3,4.0,2.0,3.37,4.03,2.01,3.3,3.81,2.25,1.61,2.28,1.6,-0.5,2.02,1.83,Walsall,Colchester United,walsall,colchester_united
+2022-01-01,E3,England-L2,2122,Walsall,Newport County,3.0,3.0,D,0.0,1.0,A,2.7,3.2,2.75,2.7,3.15,2.81,2.61,3.18,2.73,2.15,1.66,2.19,1.64,0.0,1.88,1.98,Walsall,Newport County,walsall,newport_county
+2022-01-22,E3,England-L2,2122,Walsall,Exeter,0.0,2.0,A,0.0,1.0,A,2.62,3.25,2.75,2.74,3.32,2.65,2.6,3.21,2.69,2.15,1.66,2.11,1.69,0.0,1.88,1.98,Walsall,Exeter City,walsall,exeter_city
+2022-01-25,E3,England-L2,2122,Walsall,Bradford,1.0,2.0,A,0.0,1.0,A,3.1,3.4,2.3,3.06,3.35,2.45,3.01,3.23,2.35,2.1,1.7,2.1,1.7,0.25,1.8,2.05,Walsall,Bradford City,walsall,bradford_city
+2022-02-05,E3,England-L2,2122,Walsall,Northampton,0.0,1.0,A,0.0,1.0,A,2.9,3.2,2.55,3.07,3.14,2.5,2.9,3.1,2.5,2.4,1.53,2.35,1.57,0.0,2.05,1.8,Walsall,Northampton Town,walsall,northampton_town
+2022-02-12,E3,England-L2,2122,Walsall,Tranmere,1.0,0.0,H,0.0,0.0,D,2.9,3.25,2.5,3.01,3.19,2.51,2.92,3.11,2.47,2.35,1.57,2.39,1.55,0.0,2.1,1.77,Walsall,Tranmere Rovers,walsall,tranmere_rovers
+2022-02-26,E3,England-L2,2122,Walsall,Hartlepool,3.0,1.0,H,2.0,0.0,H,2.37,3.3,3.0,2.39,3.21,3.18,2.39,3.18,3.01,2.25,1.61,2.26,1.6,-0.25,2.05,1.8,Walsall,Hartlepool United,walsall,hartlepool_united
+2022-03-12,E3,England-L2,2122,Walsall,Sutton,1.0,0.0,H,1.0,0.0,H,2.6,3.2,2.8,2.73,3.2,2.75,2.62,3.19,2.7,2.2,1.65,2.18,1.65,0.0,1.9,1.95,Walsall,Sutton United,walsall,sutton_united
+2022-03-15,E3,England-L2,2122,Walsall,Oldham,2.0,1.0,H,1.0,1.0,D,2.0,3.5,3.75,2.02,3.39,4.07,2.0,3.34,3.79,2.2,1.65,2.16,1.66,-0.5,2.0,1.85,Walsall,Oldham,walsall,oldham
+2022-04-02,E3,England-L2,2122,Walsall,Leyton Orient,0.0,2.0,A,0.0,2.0,A,2.4,3.1,3.2,2.38,3.05,3.37,2.39,3.03,3.13,2.5,1.5,2.42,1.53,-0.25,2.1,1.77,Walsall,Leyton Orient,walsall,leyton_orient
+2022-04-15,E3,England-L2,2122,Walsall,Carlisle,1.0,0.0,H,1.0,0.0,H,1.9,3.3,4.5,2.02,3.32,4.18,1.96,3.29,3.98,2.35,1.57,2.32,1.57,-0.5,1.95,1.9,Walsall,Carlisle United,walsall,carlisle_united
+2022-04-23,E3,England-L2,2122,Walsall,Port Vale,2.0,0.0,H,0.0,0.0,D,4.0,3.3,2.0,4.23,3.25,1.99,4.06,3.22,1.96,2.4,1.53,2.42,1.52,0.5,1.83,2.02,Walsall,Port Vale,walsall,port_vale
+2022-05-07,E3,England-L2,2122,Walsall,Swindon,0.0,3.0,A,0.0,3.0,A,4.33,4.0,1.75,4.36,4.04,1.75,4.24,3.8,1.77,1.83,2.02,1.76,2.02,0.75,1.85,2.0,Walsall,Swindon Town,walsall,swindon_town
+2022-07-30,E3,England-L2,2223,Walsall,Hartlepool,4.0,0.0,H,2.0,0.0,H,2.25,3.3,3.3,2.28,3.33,3.4,2.22,3.22,3.25,2.2,1.65,2.18,1.64,-0.25,1.93,1.93,Walsall,Hartlepool United,walsall,hartlepool_united
+2022-08-13,E3,England-L2,2223,Walsall,Stevenage,1.0,1.0,D,1.0,0.0,H,2.6,3.2,2.8,2.77,3.2,2.78,2.65,3.13,2.71,2.2,1.65,2.23,1.62,0.0,1.88,1.98,Walsall,Stevenage,walsall,stevenage
+2022-08-27,E3,England-L2,2223,Walsall,Grimsby,1.0,2.0,A,1.0,0.0,H,2.3,3.2,3.25,2.35,3.25,3.34,2.31,3.2,3.14,2.25,1.61,2.24,1.62,-0.25,1.98,1.88,Walsall,Grimsby Town,walsall,grimsby_town
+2022-09-13,E3,England-L2,2223,Walsall,Colchester,1.0,1.0,D,0.0,1.0,A,1.75,3.6,4.5,1.81,3.62,4.8,1.8,3.48,4.43,2.2,1.65,2.18,1.65,-0.5,1.8,2.05,Walsall,Colchester United,walsall,colchester_united
+2022-09-24,E3,England-L2,2223,Walsall,Tranmere,0.0,1.0,A,0.0,0.0,D,2.1,3.4,3.6,2.19,3.32,3.62,2.15,3.24,3.39,2.25,1.61,2.23,1.61,-0.25,1.8,2.05,Walsall,Tranmere Rovers,walsall,tranmere_rovers
+2022-10-04,E3,England-L2,2223,Walsall,Northampton,1.0,0.0,H,1.0,0.0,H,2.5,3.2,2.9,2.58,3.2,3.0,2.47,3.11,2.92,2.3,1.6,2.31,1.59,0.0,1.77,2.1,Walsall,Northampton Town,walsall,northampton_town
+2022-10-08,E3,England-L2,2223,Walsall,AFC Wimbledon,3.0,1.0,H,1.0,1.0,D,2.15,3.2,3.6,2.19,3.09,3.94,2.11,3.13,3.67,2.3,1.6,2.34,1.56,-0.25,1.83,2.02,Walsall,AFC Wimbledon,walsall,afc_wimbledon
+2022-10-25,E3,England-L2,2223,Walsall,Harrogate,3.0,1.0,H,3.0,0.0,H,1.9,3.5,4.2,1.97,3.53,4.09,1.97,3.37,3.86,2.15,1.66,2.16,1.66,-0.5,1.93,1.93,Walsall,Harrogate Town,walsall,harrogate_town
+2022-10-29,E3,England-L2,2223,Walsall,Rochdale,1.0,0.0,H,1.0,0.0,H,2.0,3.5,3.75,1.97,3.4,4.27,1.97,3.3,3.8,2.25,1.61,2.24,1.6,-0.5,1.98,1.88,Walsall,Rochdale,walsall,rochdale
+2022-11-19,E3,England-L2,2223,Walsall,Crawley Town,2.0,1.0,H,1.0,1.0,D,1.83,3.5,4.5,1.83,3.55,4.81,1.83,3.4,4.39,2.2,1.65,2.17,1.64,-0.5,1.8,2.0,Walsall,Crawley Town,walsall,crawley_town
+2022-12-29,E3,England-L2,2223,Walsall,Stockport,0.0,2.0,A,0.0,1.0,A,3.75,3.2,2.15,3.67,3.23,2.21,3.45,3.17,2.17,2.35,1.57,2.34,1.56,0.25,1.98,1.88,Walsall,Stockport County,walsall,stockport_county
+2023-01-01,E3,England-L2,2223,Walsall,Mansfield,2.0,1.0,H,1.0,0.0,H,2.5,3.4,2.8,2.65,3.23,2.9,2.51,3.21,2.78,2.1,1.7,2.12,1.67,0.0,1.8,2.05,Walsall,Mansfield Town,walsall,mansfield_town
+2023-02-11,E3,England-L2,2223,Walsall,Leyton Orient,1.0,1.0,D,1.0,0.0,H,2.55,3.0,3.0,2.64,3.01,3.11,2.53,2.97,2.96,2.5,1.5,2.49,1.5,0.0,1.73,2.08,Walsall,Leyton Orient,walsall,leyton_orient
+2023-02-18,E3,England-L2,2223,Walsall,Newport County,1.0,1.0,D,1.0,0.0,H,2.38,3.4,3.0,2.38,3.24,3.28,2.32,3.19,3.09,2.2,1.65,2.21,1.63,-0.25,2.02,1.83,Walsall,Newport County,walsall,newport_county
+2023-02-21,E3,England-L2,2223,Walsall,Crewe,0.0,0.0,D,0.0,0.0,D,1.75,3.6,5.0,1.79,3.54,5.18,1.77,3.45,4.78,2.3,1.6,2.26,1.61,-0.75,2.0,1.85,Walsall,Crewe Alexandra,walsall,crewe_alexandra
+2023-03-04,E3,England-L2,2223,Walsall,Barrow,0.0,1.0,A,0.0,1.0,A,2.2,3.2,3.5,2.2,3.1,3.8,2.18,3.06,3.54,2.5,1.5,2.5,1.5,-0.25,1.9,1.95,Walsall,Barrow,walsall,barrow
+2023-03-07,E3,England-L2,2223,Walsall,Bradford,0.0,0.0,D,0.0,0.0,D,2.7,3.2,2.75,2.79,3.14,2.81,2.69,3.07,2.71,2.35,1.57,2.33,1.57,0.0,1.9,1.95,Walsall,Bradford City,walsall,bradford_city
+2023-03-14,E3,England-L2,2223,Walsall,Swindon,0.0,0.0,D,0.0,0.0,D,2.1,3.2,3.75,2.13,3.31,3.8,2.09,3.21,3.59,2.15,1.67,2.17,1.65,-0.5,2.08,1.73,Walsall,Swindon Town,walsall,swindon_town
+2023-03-18,E3,England-L2,2223,Walsall,Gillingham,2.0,0.0,H,0.0,0.0,D,2.3,3.1,3.4,2.23,3.09,3.81,2.19,3.04,3.54,2.7,1.44,2.65,1.45,-0.25,1.98,1.88,Walsall,Gillingham,walsall,gillingham
+2023-04-01,E3,England-L2,2223,Walsall,Sutton,1.0,1.0,D,0.0,1.0,A,2.75,3.2,2.75,2.81,3.03,2.88,2.68,3.01,2.76,2.5,1.5,2.51,1.5,0.0,1.9,1.95,Walsall,Sutton United,walsall,sutton_united
+2023-04-10,E3,England-L2,2223,Walsall,Carlisle,0.0,0.0,D,0.0,0.0,D,3.0,3.0,2.63,3.19,3.0,2.59,3.02,2.98,2.51,2.5,1.5,2.53,1.49,0.0,2.1,1.77,Walsall,Carlisle United,walsall,carlisle_united
+2023-04-22,E3,England-L2,2223,Walsall,Salford,2.0,3.0,A,0.0,1.0,A,3.8,3.5,2.0,3.81,3.72,1.99,3.6,3.5,1.99,1.95,1.9,1.93,1.83,0.5,1.88,1.98,Walsall,Salford City,walsall,salford_city
+2023-05-08,E3,England-L2,2223,Walsall,Doncaster,2.0,1.0,H,0.0,0.0,D,1.75,3.6,5.0,1.75,3.7,4.56,1.76,3.65,4.45,1.85,1.95,1.88,1.86,-0.5,1.75,2.13,Walsall,Doncaster Rovers,walsall,doncaster_rovers
+2023-08-12,E3,England-L2,2324,Walsall,Stockport,2.0,1.0,H,1.0,0.0,H,4.0,3.3,2.0,4.13,3.32,2.04,3.78,3.24,2.02,2.35,1.57,2.34,1.56,0.5,1.83,2.03,Walsall,Stockport County,walsall,stockport_county
+2023-08-26,E3,England-L2,2324,Walsall,Grimsby,1.0,1.0,D,0.0,0.0,D,2.5,3.3,2.88,2.46,3.35,3.05,2.42,3.25,2.89,2.15,1.67,2.11,1.68,-0.25,2.1,1.7,Walsall,Grimsby Town,walsall,grimsby_town
+2023-09-02,E3,England-L2,2324,Walsall,Colchester,1.0,0.0,H,0.0,0.0,D,2.2,3.4,3.3,2.14,3.46,3.6,2.16,3.31,3.33,2.1,1.7,2.11,1.68,-0.25,1.9,1.95,Walsall,Colchester United,walsall,colchester_united
+2023-09-23,E3,England-L2,2324,Walsall,AFC Wimbledon,1.0,3.0,A,0.0,1.0,A,2.63,3.3,2.7,2.64,3.43,2.76,2.54,3.26,2.7,2.08,1.73,2.05,1.73,0.0,1.88,1.98,Walsall,AFC Wimbledon,walsall,afc_wimbledon
+2023-10-03,E3,England-L2,2324,Walsall,Milton Keynes Dons,0.0,0.0,D,0.0,0.0,D,2.6,3.4,2.6,2.74,3.4,2.67,2.61,3.36,2.6,1.9,1.95,1.85,1.9,0.0,1.93,1.93,Walsall,MK Dons,walsall,mk_dons
+2023-10-14,E3,England-L2,2324,Walsall,Gillingham,4.0,1.0,H,2.0,0.0,H,2.75,3.3,2.6,2.85,3.29,2.65,2.69,3.22,2.57,2.1,1.7,2.09,1.69,0.0,2.0,1.85,Walsall,Gillingham,walsall,gillingham
+2023-10-24,E3,England-L2,2324,Walsall,Crawley Town,1.0,1.0,D,0.0,0.0,D,2.2,3.4,3.25,2.18,3.66,3.31,2.15,3.49,3.18,1.8,2.0,1.78,1.99,-0.25,1.88,1.98,Walsall,Crawley Town,walsall,crawley_town
+2023-11-11,E3,England-L2,2324,Walsall,Harrogate,0.0,1.0,A,0.0,0.0,D,1.8,3.6,4.75,1.79,3.9,4.51,1.76,3.72,4.35,1.75,2.05,1.76,2.0,-0.75,2.0,1.85,Walsall,Harrogate Town,walsall,harrogate_town
+2023-11-25,E3,England-L2,2324,Walsall,Forest Green,0.0,0.0,D,0.0,0.0,D,2.15,3.5,3.25,2.2,3.73,3.22,2.13,3.54,3.18,1.83,2.03,1.77,1.99,-0.25,1.88,1.98,Walsall,Forest Green Rovers,walsall,forest_green_rovers
+2023-12-16,E3,England-L2,2324,Walsall,Tranmere,1.0,0.0,H,0.0,0.0,D,1.95,3.6,3.8,1.99,3.57,3.96,1.96,3.47,3.7,1.98,1.88,1.89,1.86,-0.5,1.98,1.88,Walsall,Tranmere Rovers,walsall,tranmere_rovers
+2023-12-26,E3,England-L2,2324,Walsall,Crewe,2.0,0.0,H,1.0,0.0,H,2.2,3.5,3.2,2.17,3.66,3.33,2.13,3.53,3.17,1.73,2.08,1.72,2.06,-0.25,1.88,1.98,Walsall,Crewe Alexandra,walsall,crewe_alexandra
+2023-12-29,E3,England-L2,2324,Walsall,Wrexham,3.0,1.0,H,1.0,1.0,D,3.4,3.6,2.1,3.47,3.71,2.1,3.31,3.51,2.1,1.88,1.98,1.81,1.95,0.25,2.05,1.8,Walsall,Wrexham,walsall,wrexham
+2024-01-27,E3,England-L2,2324,Walsall,Sutton,1.0,1.0,D,1.0,1.0,D,1.83,3.6,4.33,1.83,3.78,4.45,1.81,3.6,4.17,1.93,1.93,1.87,1.87,-0.5,1.8,2.05,Walsall,Sutton United,walsall,sutton_united
+2024-02-10,E3,England-L2,2324,Walsall,Newport County,0.0,3.0,A,0.0,3.0,A,1.91,3.6,3.8,2.01,3.66,3.8,1.95,3.54,3.64,1.88,1.98,1.83,1.92,-0.5,1.98,1.88,Walsall,Newport County,walsall,newport_county
+2024-02-17,E3,England-L2,2324,Walsall,Mansfield,2.0,1.0,H,0.0,0.0,D,3.5,3.75,2.0,3.52,3.72,2.08,3.4,3.58,2.01,1.85,2.0,1.81,1.94,0.25,2.05,1.75,Walsall,Mansfield Town,walsall,mansfield_town
+2024-02-20,E3,England-L2,2324,Walsall,Morecambe,3.0,0.0,H,2.0,0.0,H,1.95,3.4,4.0,1.99,3.54,4.0,1.94,3.49,3.77,1.95,1.9,1.88,1.87,-0.5,1.98,1.88,Walsall,Morecambe,walsall,morecambe
+2024-02-27,E3,England-L2,2324,Walsall,Accrington,2.0,1.0,H,0.0,0.0,D,1.85,3.75,4.2,1.85,3.74,4.39,1.84,3.58,4.11,1.93,1.93,1.88,1.88,-0.5,1.83,2.03,Walsall,Accrington Stanley,walsall,accrington_stanley
+2024-03-02,E3,England-L2,2324,Walsall,Doncaster,3.0,1.0,H,1.0,0.0,H,1.95,3.5,4.0,1.99,3.65,3.9,1.97,3.5,3.65,1.98,1.88,1.92,1.84,-0.5,2.0,1.85,Walsall,Doncaster Rovers,walsall,doncaster_rovers
+2024-03-12,E3,England-L2,2324,Walsall,Barrow,1.0,1.0,D,1.0,0.0,H,2.3,3.25,3.25,2.38,3.17,3.35,2.3,3.18,3.15,2.15,1.67,2.13,1.68,-0.25,2.0,1.85,Walsall,Barrow,walsall,barrow
+2024-04-01,E3,England-L2,2324,Walsall,Salford,2.0,1.0,H,1.0,0.0,H,2.05,3.6,3.5,2.1,3.63,3.48,2.05,3.61,3.34,1.7,2.1,1.68,2.12,-0.25,1.75,2.05,Walsall,Salford City,walsall,salford_city
+2024-04-13,E3,England-L2,2324,Walsall,Notts County,1.0,3.0,A,0.0,2.0,A,2.1,3.5,3.4,2.09,3.64,3.49,2.05,3.59,3.35,1.7,2.1,1.71,2.08,-0.5,2.05,1.8,Walsall,Notts County,walsall,notts_county
+2024-04-16,E3,England-L2,2324,Walsall,Swindon,2.0,1.0,H,1.0,0.0,H,1.91,3.75,3.75,1.91,3.79,3.93,1.92,3.69,3.7,1.67,2.15,1.66,2.15,-0.5,1.93,1.93,Walsall,Swindon Town,walsall,swindon_town
+2024-04-20,E3,England-L2,2324,Walsall,Bradford,2.0,3.0,A,2.0,2.0,D,2.25,3.6,3.0,2.29,3.57,3.1,2.22,3.47,3.06,1.85,2.0,1.82,1.94,-0.25,1.98,1.88,Walsall,Bradford City,walsall,bradford_city
+2024-08-10,E3,England-L2,2425,Walsall,Morecambe,1.0,0.0,H,1.0,0.0,H,1.62,3.9,5.0,1.63,4.06,4.98,1.62,3.97,4.92,1.7,2.1,1.7,2.08,-0.75,1.83,2.03,Walsall,Morecambe,walsall,morecambe
+2024-08-31,E3,England-L2,2425,Walsall,Cheltenham,2.0,1.0,H,0.0,0.0,D,1.67,3.75,5.0,1.7,3.9,4.88,1.7,3.77,4.7,1.8,2.0,1.78,1.98,-0.75,1.9,1.95,Walsall,Cheltenham Town,walsall,cheltenham_town
+2024-09-14,E3,England-L2,2425,Walsall,Bradford,2.0,1.0,H,1.0,1.0,D,2.25,3.4,3.0,2.31,3.36,3.02,2.28,3.36,2.98,1.98,1.88,1.92,1.84,-0.25,2.0,1.85,Walsall,Bradford City,walsall,bradford_city
+2024-09-28,E3,England-L2,2425,Walsall,Colchester,4.0,0.0,H,1.0,0.0,H,1.8,3.7,4.1,1.79,3.7,4.36,1.8,3.61,4.24,1.93,1.93,1.91,1.85,-0.5,1.78,2.03,Walsall,Colchester United,walsall,colchester_united
+2024-10-01,E3,England-L2,2425,Walsall,Fleetwood Town,2.0,6.0,A,2.0,1.0,H,1.95,3.4,3.75,2.01,3.56,3.7,2.01,3.46,3.58,1.88,1.98,1.85,1.92,-0.5,2.0,1.85,Walsall,Fleetwood Town,walsall,fleetwood_town
+2024-10-22,E3,England-L2,2425,Walsall,Carlisle,3.0,1.0,H,1.0,0.0,H,1.57,3.9,5.75,1.61,4.15,5.3,1.6,4.03,5.17,1.7,2.1,1.71,2.09,-1.0,2.03,1.83,Walsall,Carlisle United,walsall,carlisle_united
+2024-11-09,E3,England-L2,2425,Walsall,Crewe,1.0,1.0,D,0.0,0.0,D,1.67,3.6,5.0,1.67,3.77,4.88,1.68,3.69,4.82,1.95,1.9,1.9,1.85,-0.75,1.93,1.93,Walsall,Crewe Alexandra,walsall,crewe_alexandra
+2024-11-26,E3,England-L2,2425,Walsall,Bromley,2.0,2.0,D,1.0,0.0,H,1.62,4.0,4.75,1.62,4.2,5.1,1.61,4.06,4.96,1.7,2.1,1.71,2.08,-1.0,2.05,1.75,Walsall,Bromley,walsall,bromley
+2024-12-03,E3,England-L2,2425,Walsall,Notts County,3.0,2.0,H,0.0,0.0,D,2.0,3.3,3.6,2.08,3.46,3.58,2.07,3.48,3.39,1.83,2.03,1.78,2.0,-0.5,2.05,1.8,Walsall,Notts County,walsall,notts_county
+2024-12-14,E3,England-L2,2425,Walsall,Barrow,1.0,0.0,H,1.0,0.0,H,1.8,3.5,4.33,1.79,3.53,4.42,1.8,3.52,4.27,2.05,1.75,2.01,1.76,-0.5,1.8,2.05,Walsall,Barrow,walsall,barrow
+2024-12-26,E3,England-L2,2425,Walsall,Doncaster,2.0,0.0,H,0.0,0.0,D,2.2,3.3,3.2,2.19,3.33,3.28,2.19,3.31,3.16,1.95,1.9,1.91,1.85,-0.25,1.9,1.95,Walsall,Doncaster Rovers,walsall,doncaster_rovers
+2024-12-29,E3,England-L2,2425,Walsall,Newport County,2.0,0.0,H,0.0,0.0,D,1.25,5.0,9.5,1.27,5.64,9.54,1.27,5.41,9.34,1.57,2.35,1.55,2.33,-1.5,1.85,2.0,Walsall,Newport County,walsall,newport_county
+2025-01-11,E3,England-L2,2425,Walsall,Tranmere,5.0,1.0,H,2.0,1.0,H,1.53,4.1,5.75,1.52,4.16,5.81,1.54,4.1,5.56,1.85,2.0,1.8,1.97,-1.0,1.95,1.9,Walsall,Tranmere Rovers,walsall,tranmere_rovers
+2025-01-18,E3,England-L2,2425,Walsall,Milton Keynes Dons,4.0,2.0,H,1.0,1.0,D,1.7,3.9,4.33,1.7,3.83,4.6,1.72,3.83,4.42,1.75,2.05,1.76,2.01,-0.75,1.95,1.9,Walsall,MK Dons,walsall,mk_dons
+2025-02-01,E3,England-L2,2425,Walsall,Salford,2.0,2.0,D,0.0,1.0,A,1.85,3.6,3.8,1.85,3.49,4.21,1.87,3.48,4.03,2.05,1.75,2.03,1.75,-0.5,1.88,1.98,Walsall,Salford City,walsall,salford_city
+2025-02-11,E3,England-L2,2425,Walsall,Gillingham,1.0,1.0,D,0.0,0.0,D,1.53,3.9,6.0,1.54,3.99,6.52,1.54,3.88,6.06,2.1,1.7,2.06,1.73,-1.0,2.0,1.85,Walsall,Gillingham,walsall,gillingham
+2025-02-15,E3,England-L2,2425,Walsall,Chesterfield,3.0,1.0,H,0.0,1.0,A,1.91,3.4,3.8,1.96,3.42,3.8,1.94,3.42,3.71,1.98,1.88,1.92,1.84,-0.5,1.98,1.88,Walsall,Chesterfield,walsall,chesterfield
+2025-03-01,E3,England-L2,2425,Walsall,Swindon,0.0,1.0,A,0.0,0.0,D,1.75,3.4,5.0,1.74,3.76,4.42,1.74,3.64,4.45,1.9,1.95,1.85,1.91,-0.75,1.98,1.88,Walsall,Swindon Town,walsall,swindon_town
+2025-03-08,E3,England-L2,2425,Walsall,Grimsby,1.0,3.0,A,1.0,2.0,A,1.8,3.75,4.0,1.83,3.68,4.17,1.81,3.55,4.16,1.98,1.88,1.93,1.82,-0.5,1.8,2.05,Walsall,Grimsby Town,walsall,grimsby_town
+2025-03-29,E3,England-L2,2425,Walsall,AFC Wimbledon,1.0,1.0,D,0.0,0.0,D,2.25,3.3,3.2,2.3,3.15,3.32,2.26,3.15,3.21,2.3,1.6,2.27,1.6,-0.25,1.98,1.88,Walsall,AFC Wimbledon,walsall,afc_wimbledon
+2025-04-05,E3,England-L2,2425,Walsall,Port Vale,2.0,3.0,A,2.0,3.0,A,2.15,3.1,3.5,2.19,3.09,3.55,2.13,3.12,3.52,2.35,1.57,2.35,1.56,-0.25,1.85,2.0,Walsall,Port Vale,walsall,port_vale
+2025-04-18,E3,England-L2,2425,Walsall,Harrogate,2.0,2.0,D,1.0,1.0,D,1.5,3.9,6.5,1.49,4.21,6.26,1.49,4.12,6.3,1.98,1.88,1.93,1.84,-1.0,1.88,1.98,Walsall,Harrogate Town,walsall,harrogate_town
+2025-04-26,E3,England-L2,2425,Walsall,Accrington,0.0,1.0,A,0.0,1.0,A,1.53,3.75,6.25,1.56,3.9,5.88,1.54,3.88,5.97,2.0,1.85,1.98,1.79,-1.0,1.98,1.88,Walsall,Accrington Stanley,walsall,accrington_stanley
+2025-08-02,E3,England-L2,2526,Walsall,Swindon,2.0,1.0,H,1.0,0.0,H,2.2,3.3,3.2,2.2,3.5,3.09,2.17,3.36,3.08,1.87,1.92,1.85,1.87,-0.25,1.93,1.93,Walsall,Swindon Town,walsall,swindon_town
+2025-08-19,E3,England-L2,2526,Walsall,Grimsby,0.0,1.0,A,0.0,0.0,D,2.45,3.25,2.8,2.42,3.45,2.89,2.42,3.24,2.86,2.25,1.62,2.17,1.63,0.0,1.77,2.05,Walsall,Grimsby Town,walsall,grimsby_town
+2025-08-23,E3,England-L2,2526,Walsall,Salford,1.0,0.0,H,1.0,0.0,H,2.2,3.25,3.2,2.23,3.33,3.21,2.2,3.28,3.19,2.03,1.83,1.99,1.74,-0.25,1.9,1.9,Walsall,Salford City,walsall,salford_city
+2025-09-06,E3,England-L2,2526,Walsall,Chesterfield,1.0,0.0,H,1.0,0.0,H,2.75,3.2,2.45,2.84,3.15,2.55,2.76,3.26,2.48,2.1,1.7,2.01,1.73,0.0,2.05,1.8,Walsall,Chesterfield,walsall,chesterfield
+2025-09-20,E3,England-L2,2526,Walsall,Tranmere,4.0,2.0,H,2.0,1.0,H,1.91,3.25,3.9,2.01,3.27,3.85,1.98,3.27,3.83,2.35,1.57,2.25,1.58,-0.5,2.0,1.85,Walsall,Tranmere Rovers,walsall,tranmere_rovers
+2025-10-04,E3,England-L2,2526,Walsall,Bristol Rvs,2.0,1.0,H,0.0,1.0,A,2.01,3.3,3.5,2.09,3.28,3.57,2.11,3.28,3.38,2.1,1.7,2.06,1.7,-0.25,1.8,2.05,Walsall,Bristol Rvs,walsall,bristol_rvs
+2025-10-18,E3,England-L2,2526,Walsall,Barrow,1.0,2.0,A,0.0,1.0,A,1.79,3.4,4.5,1.83,3.33,4.52,1.82,3.4,4.38,2.2,1.65,2.14,1.64,-0.5,1.85,2.0,Walsall,Barrow,walsall,barrow
+2025-11-15,E3,England-L2,2526,Walsall,Colchester,0.0,2.0,A,0.0,2.0,A,2.15,3.4,3.05,,,,2.2,3.27,3.18,2.15,1.67,2.11,1.66,-0.25,1.93,1.93,Walsall,Colchester United,walsall,colchester_united
+2025-11-29,E3,England-L2,2526,Walsall,Bromley,3.0,1.0,H,0.0,1.0,A,2.15,3.25,3.25,,,,2.23,3.2,3.19,2.1,1.7,2.11,1.66,-0.25,1.9,1.95,Walsall,Bromley,walsall,bromley
+2025-12-13,E3,England-L2,2526,Walsall,Shrewsbury,1.0,1.0,D,1.0,0.0,H,1.62,3.7,4.75,,,,1.7,3.54,4.89,2.05,1.75,2.05,1.7,-0.75,1.93,1.93,Walsall,Shrewsbury Town,walsall,shrewsbury_town
+2025-12-26,E3,England-L2,2526,Walsall,Crewe,1.0,0.0,H,1.0,0.0,H,1.96,3.3,3.7,,,,2.04,3.26,3.52,2.1,1.7,2.06,1.69,-0.5,2.05,1.8,Walsall,Crewe Alexandra,walsall,crewe_alexandra
+2025-12-29,E3,England-L2,2526,Walsall,Oldham,1.0,2.0,A,0.0,1.0,A,1.96,3.25,3.7,,,,2.05,3.19,3.64,2.2,1.65,2.17,1.62,-0.5,2.05,1.8,Walsall,Oldham,walsall,oldham
+2026-01-24,E3,England-L2,2526,Walsall,Accrington,0.0,0.0,D,0.0,0.0,D,1.81,3.4,4.33,,,,1.85,3.4,4.16,2.15,1.67,2.11,1.66,-0.5,1.88,1.98,Walsall,Accrington Stanley,walsall,accrington_stanley
+2026-01-27,E3,England-L2,2526,Walsall,Crawley Town,0.0,0.0,D,0.0,0.0,D,1.71,3.4,4.75,,,,1.77,3.54,4.42,2.03,1.83,1.91,1.81,-0.5,1.78,2.03,Walsall,Crawley Town,walsall,crawley_town
+2026-02-07,E3,England-L2,2526,Walsall,Barnet,1.0,3.0,A,0.0,1.0,A,3.1,3.25,2.2,,,,3.09,3.2,2.26,2.15,1.67,2.1,1.66,0.25,1.88,1.98,Walsall,Barnet,walsall,barnet
+2026-02-23,E3,England-L2,2526,Walsall,Milton Keynes Dons,0.0,2.0,A,0.0,1.0,A,2.85,3.2,2.25,,,,2.87,3.14,2.38,2.1,1.7,2.07,1.68,0.25,1.8,2.05,Walsall,MK Dons,walsall,mk_dons
+2026-03-03,E3,England-L2,2526,Walsall,Fleetwood Town,0.0,1.0,A,0.0,1.0,A,2.45,3.2,2.75,,,,2.43,3.24,2.81,2.1,1.7,2.06,1.69,0.0,1.8,2.05,Walsall,Fleetwood Town,walsall,fleetwood_town
+2026-03-07,E3,England-L2,2526,Walsall,Notts County,1.0,2.0,A,1.0,0.0,H,3.25,3.2,2.15,,,,3.19,3.21,2.21,2.15,1.67,2.12,1.65,0.25,1.93,1.93,Walsall,Notts County,walsall,notts_county
+2026-03-17,E3,England-L2,2526,Walsall,Cambridge,0.0,0.0,D,0.0,0.0,D,3.8,3.1,2.05,,,,3.6,3.08,2.11,2.6,1.48,2.51,1.48,0.25,2.05,1.8,Walsall,Cambridge United,walsall,cambridge_united
+2026-03-21,E3,England-L2,2526,Walsall,Newport County,2.0,1.0,H,0.0,1.0,A,1.66,3.6,4.75,,,,1.7,3.58,4.79,2.05,1.75,2.0,1.74,-0.75,1.93,1.93,Walsall,Newport County,walsall,newport_county
+2026-04-03,E3,England-L2,2526,Walsall,Gillingham,2.0,2.0,D,1.0,0.0,H,1.66,3.6,4.75,,,,1.71,3.53,4.83,2.05,1.75,1.99,1.74,-0.75,1.95,1.9,Walsall,Gillingham,walsall,gillingham
+2026-04-11,E3,England-L2,2526,Walsall,Cheltenham,0.0,4.0,A,0.0,0.0,D,1.71,3.4,5.0,,,,1.77,3.44,4.53,2.15,1.67,2.05,1.7,-0.75,2.03,1.83,Walsall,Cheltenham Town,walsall,cheltenham_town
+2026-04-25,E3,England-L2,2526,Walsall,Harrogate,0.0,2.0,A,0.0,1.0,A,2.05,3.7,3.1,,,,2.11,3.48,3.15,1.98,1.88,1.9,1.82,-0.25,1.85,2.0,Walsall,Harrogate Town,walsall,harrogate_town
+2026-08-22,E3,England-L2,2627,Walsall,Grimsby,0.0,0.0,D,0.0,0.0,D,2.75,3.2,2.4,,,,2.73,3.26,2.49,2.1,1.7,2.03,1.71,0.0,2.03,1.83,Walsall,Grimsby Town,walsall,grimsby_town
+2026-08-29,E3,England-L2,2627,Walsall,Accrington,3.0,2.0,H,2.0,1.0,H,1.81,3.4,4.1,,,,1.85,3.47,4.05,2.05,1.75,1.99,1.74,-0.5,1.88,1.98,Walsall,Accrington Stanley,walsall,accrington_stanley
+2026-09-12,E3,England-L2,2627,Walsall,Rochdale,0.0,0.0,D,0.0,0.0,D,1.66,3.8,4.5,,,,1.73,3.77,4.37,1.8,2.0,1.73,2.01,-0.75,1.93,1.93,Walsall,Rochdale,walsall,rochdale
+2026-09-19,E3,England-L2,2627,Walsall,Port Vale,2.0,0.0,H,1.0,0.0,H,2.4,3.25,2.75,,,,2.44,3.31,2.79,1.98,1.88,1.92,1.81,0.0,1.8,2.05,Walsall,Port Vale,walsall,port_vale
+2026-10-20,E3,England-L2,2627,Walsall,Oldham,3.0,0.0,H,2.0,0.0,H,2.35,3.3,2.7,,,,2.4,3.44,2.74,1.85,2.0,1.79,1.94,0.0,1.83,2.03,Walsall,Oldham,walsall,oldham

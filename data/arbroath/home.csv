@@ -1,0 +1,96 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,SC1,Scotland-Champ,2122,Arbroath,Inverness C,0.0,1.0,A,0.0,0.0,D,2.87,3.2,2.37,2.99,3.29,2.43,2.86,3.23,2.37,2.07,1.72,2.05,1.73,0.25,1.77,2.1,Arbroath,Inverness Caledonian Thistle,arbroath,inverness_caledonian_thistle
+2021-08-21,SC1,Scotland-Champ,2122,Arbroath,Partick,3.0,1.0,H,1.0,1.0,D,3.3,3.3,2.05,3.43,3.46,2.13,3.26,3.37,2.1,1.85,1.95,1.83,1.93,0.25,2.0,1.8,Arbroath,Partick,arbroath,partick
+2021-09-11,SC1,Scotland-Champ,2122,Arbroath,Hamilton,4.0,0.0,H,1.0,0.0,H,2.2,3.3,2.9,2.3,3.45,2.88,2.29,3.42,2.84,1.75,2.05,1.75,2.0,-0.25,2.05,1.8,Arbroath,Hamilton Academical,arbroath,hamilton_academical
+2021-09-24,SC1,Scotland-Champ,2122,Arbroath,Kilmarnock,0.0,0.0,D,0.0,0.0,D,3.1,3.3,2.1,3.32,3.46,2.2,3.17,3.34,2.16,2.0,1.85,1.96,1.81,0.25,1.9,1.95,Arbroath,Kilmarnock,arbroath,kilmarnock
+2021-10-23,SC1,Scotland-Champ,2122,Arbroath,Ayr,1.0,1.0,D,0.0,0.0,D,1.72,3.5,4.5,1.79,3.8,4.2,1.8,3.53,4.15,2.05,1.75,2.07,1.71,-0.5,1.8,2.05,Arbroath,Ayr,arbroath,ayr
+2021-10-30,SC1,Scotland-Champ,2122,Arbroath,Dunfermline,4.0,2.0,H,2.0,2.0,D,1.83,3.5,3.5,1.9,3.67,3.87,1.91,3.48,3.66,1.95,1.85,1.9,1.85,-0.5,1.93,1.93,Arbroath,Dunfermline,arbroath,dunfermline
+2021-11-13,SC1,Scotland-Champ,2122,Arbroath,Queen of Sth,1.0,1.0,D,0.0,0.0,D,1.75,3.4,4.75,1.81,3.73,4.39,1.8,3.58,4.06,1.95,1.9,1.86,1.87,-0.5,1.8,2.05,Arbroath,Queen of Sth,arbroath,queen_of_sth
+2021-12-04,SC1,Scotland-Champ,2122,Arbroath,Raith Rvs,0.0,0.0,D,0.0,0.0,D,2.55,3.25,2.75,2.47,3.3,2.88,2.44,3.23,2.76,1.95,1.9,1.98,1.78,0.0,1.85,2.0,Arbroath,Raith Rvs,arbroath,raith_rvs
+2021-12-18,SC1,Scotland-Champ,2122,Arbroath,Morton,2.0,1.0,H,0.0,0.0,D,1.66,3.4,5.25,1.65,4.01,4.9,1.66,3.64,4.89,2.02,1.83,2.02,1.75,-0.75,1.9,1.95,Arbroath,Morton,arbroath,morton
+2022-01-02,SC1,Scotland-Champ,2122,Arbroath,Inverness C,0.0,0.0,D,0.0,0.0,D,2.4,3.0,2.75,2.56,3.08,2.95,2.44,3.06,2.86,2.2,1.65,2.15,1.65,0.0,1.8,2.05,Arbroath,Inverness Caledonian Thistle,arbroath,inverness_caledonian_thistle
+2022-02-04,SC1,Scotland-Champ,2122,Arbroath,Kilmarnock,1.0,0.0,H,0.0,0.0,D,2.9,2.87,2.5,3.11,3.08,2.52,2.96,3.02,2.44,2.4,1.53,2.33,1.56,0.25,1.7,2.1,Arbroath,Kilmarnock,arbroath,kilmarnock
+2022-02-09,SC1,Scotland-Champ,2122,Arbroath,Hamilton,2.0,2.0,D,1.0,2.0,A,1.9,3.5,3.5,1.95,4.06,3.35,1.94,3.47,3.58,2.0,1.85,1.96,1.79,-0.5,1.98,1.88,Arbroath,Hamilton Academical,arbroath,hamilton_academical
+2022-03-01,SC1,Scotland-Champ,2122,Arbroath,Partick,1.0,1.0,D,1.0,0.0,H,2.3,3.1,2.87,2.26,3.35,3.29,2.25,3.21,3.12,2.0,1.85,2.08,1.7,-0.25,2.1,1.77,Arbroath,Partick,arbroath,partick
+2022-03-05,SC1,Scotland-Champ,2122,Arbroath,Dunfermline,1.0,0.0,H,1.0,0.0,H,1.8,3.2,4.5,1.89,3.46,4.15,1.86,3.37,4.09,2.15,1.66,2.1,1.68,-0.5,1.83,2.02,Arbroath,Dunfermline,arbroath,dunfermline
+2022-03-19,SC1,Scotland-Champ,2122,Arbroath,Ayr,1.0,0.0,H,0.0,0.0,D,1.66,3.5,4.33,1.74,3.63,4.75,1.71,3.62,4.53,2.02,1.83,1.96,1.79,-0.75,1.95,1.9,Arbroath,Ayr,arbroath,ayr
+2022-03-26,SC1,Scotland-Champ,2122,Arbroath,Raith Rvs,3.0,3.0,D,1.0,1.0,D,2.1,3.2,3.4,2.0,3.33,3.88,2.03,3.24,3.59,2.2,1.65,2.21,1.62,-0.5,2.1,1.7,Arbroath,Raith Rvs,arbroath,raith_rvs
+2022-04-16,SC1,Scotland-Champ,2122,Arbroath,Queen of Sth,5.0,1.0,H,2.0,1.0,H,1.6,3.25,6.0,1.63,3.8,5.4,1.62,3.67,5.21,2.1,1.7,2.0,1.76,-0.75,1.75,2.05,Arbroath,Queen of Sth,arbroath,queen_of_sth
+2022-04-29,SC1,Scotland-Champ,2122,Arbroath,Morton,3.0,0.0,H,1.0,0.0,H,1.9,3.2,3.75,1.96,3.42,4.11,1.96,3.27,3.89,2.15,1.66,2.16,1.65,-0.5,1.98,1.88,Arbroath,Morton,arbroath,morton
+2022-08-06,SC1,Scotland-Champ,2223,Arbroath,Inverness C,0.0,0.0,D,0.0,0.0,D,2.37,3.0,3.0,2.56,3.04,3.09,2.44,3.01,2.94,2.5,1.5,2.42,1.52,-0.25,2.13,1.75,Arbroath,Inverness Caledonian Thistle,arbroath,inverness_caledonian_thistle
+2022-08-20,SC1,Scotland-Champ,2223,Arbroath,Queens Park,1.0,2.0,A,0.0,1.0,A,1.85,3.25,4.5,1.85,3.42,4.68,1.82,3.32,4.36,2.25,1.61,2.22,1.61,-0.5,1.85,2.0,Arbroath,Queens Park,arbroath,queens_park
+2022-09-03,SC1,Scotland-Champ,2223,Arbroath,Partick,0.0,2.0,A,0.0,0.0,D,2.55,3.2,2.6,2.75,3.35,2.62,2.63,3.18,2.58,2.15,1.66,2.11,1.67,0.0,1.95,1.9,Arbroath,Partick,arbroath,partick
+2022-10-08,SC1,Scotland-Champ,2223,Arbroath,Dundee,1.0,1.0,D,1.0,1.0,D,3.4,3.2,2.05,3.62,3.31,2.14,3.35,3.24,2.12,2.07,1.72,2.07,1.71,0.25,2.02,1.83,Arbroath,Dundee,arbroath,dundee
+2022-10-19,SC1,Scotland-Champ,2223,Arbroath,Raith Rvs,0.0,1.0,A,0.0,1.0,A,2.3,3.2,2.9,2.17,3.52,3.33,2.19,3.31,3.09,1.98,1.88,1.97,1.78,-0.25,2.02,1.77,Arbroath,Raith Rvs,arbroath,raith_rvs
+2022-10-22,SC1,Scotland-Champ,2223,Arbroath,Hamilton,1.0,0.0,H,1.0,0.0,H,1.9,3.3,3.75,2.1,3.48,3.55,2.06,3.33,3.39,2.07,1.72,2.0,1.75,-0.5,1.95,1.85,Arbroath,Hamilton Academical,arbroath,hamilton_academical
+2022-10-29,SC1,Scotland-Champ,2223,Arbroath,Ayr,0.0,2.0,A,0.0,0.0,D,2.87,3.2,2.25,3.1,3.36,2.36,2.89,3.2,2.35,2.02,1.83,2.02,1.74,0.25,1.8,2.0,Arbroath,Ayr,arbroath,ayr
+2022-11-12,SC1,Scotland-Champ,2223,Arbroath,Cove Rangers,1.0,1.0,D,1.0,0.0,H,2.05,3.3,3.3,2.09,3.54,3.51,2.04,3.37,3.4,2.0,1.85,1.95,1.8,-0.25,1.8,2.05,Arbroath,Cove Rangers,arbroath,cove_rangers
+2022-12-03,SC1,Scotland-Champ,2223,Arbroath,Morton,1.0,1.0,D,0.0,1.0,A,2.6,3.1,2.6,2.71,3.28,2.71,2.59,3.13,2.66,2.2,1.7,2.17,1.64,0.0,1.93,1.93,Arbroath,Morton,arbroath,morton
+2022-12-23,SC1,Scotland-Champ,2223,Arbroath,Queens Park,1.0,4.0,A,0.0,2.0,A,2.9,3.25,2.25,3.01,3.45,2.37,2.87,3.35,2.3,1.73,2.08,1.74,2.03,0.25,1.83,2.02,Arbroath,Queens Park,arbroath,queens_park
+2023-01-07,SC1,Scotland-Champ,2223,Arbroath,Inverness C,1.0,4.0,A,1.0,2.0,A,2.38,3.25,2.75,2.51,3.38,2.86,2.42,3.24,2.79,2.1,1.77,2.07,1.72,0.0,1.77,2.1,Arbroath,Inverness Caledonian Thistle,arbroath,inverness_caledonian_thistle
+2023-02-04,SC1,Scotland-Champ,2223,Arbroath,Raith Rvs,1.0,2.0,A,1.0,0.0,H,2.63,3.0,2.63,2.75,3.24,2.69,2.63,3.15,2.59,2.1,1.7,2.06,1.71,0.0,1.95,1.9,Arbroath,Raith Rvs,arbroath,raith_rvs
+2023-02-25,SC1,Scotland-Champ,2223,Arbroath,Partick,0.0,0.0,D,0.0,0.0,D,3.2,3.1,2.2,3.22,3.16,2.34,3.07,3.13,2.29,2.15,1.67,2.15,1.65,0.25,1.83,2.02,Arbroath,Partick,arbroath,partick
+2023-03-17,SC1,Scotland-Champ,2223,Arbroath,Morton,1.0,1.0,D,0.0,1.0,A,2.55,2.9,2.75,2.71,2.96,2.97,2.58,2.97,2.79,2.35,1.57,2.31,1.57,0.0,1.85,2.0,Arbroath,Morton,arbroath,morton
+2023-03-31,SC1,Scotland-Champ,2223,Arbroath,Ayr,2.0,0.0,H,1.0,0.0,H,2.8,3.3,2.3,3.01,3.35,2.42,2.91,3.23,2.33,2.08,1.73,2.05,1.72,0.25,1.8,2.05,Arbroath,Ayr,arbroath,ayr
+2023-04-08,SC1,Scotland-Champ,2223,Arbroath,Dundee,0.0,0.0,D,0.0,0.0,D,4.5,3.6,1.7,4.75,3.71,1.76,4.44,3.56,1.73,2.02,1.83,1.97,1.78,0.75,1.85,2.0,Arbroath,Dundee,arbroath,dundee
+2023-04-22,SC1,Scotland-Champ,2223,Arbroath,Cove Rangers,0.0,1.0,A,0.0,0.0,D,1.75,3.5,4.2,1.76,3.76,4.65,1.82,3.49,3.98,2.02,1.82,1.96,1.79,-0.5,1.8,2.05,Arbroath,Cove Rangers,arbroath,cove_rangers
+2023-05-05,SC1,Scotland-Champ,2223,Arbroath,Hamilton,0.0,0.0,D,0.0,0.0,D,1.85,3.4,3.8,1.97,3.48,3.98,1.95,3.38,3.72,2.0,1.85,2.02,1.76,-0.5,1.98,1.88,Arbroath,Hamilton Academical,arbroath,hamilton_academical
+2023-08-04,SC1,Scotland-Champ,2324,Arbroath,Dundee United,0.0,4.0,A,0.0,4.0,A,3.3,3.2,2.05,3.88,3.26,2.08,3.57,3.19,2.04,2.1,1.7,2.05,1.72,0.25,2.03,1.83,Arbroath,Dundee United,arbroath,dundee_united
+2023-08-19,SC1,Scotland-Champ,2324,Arbroath,Queens Park,0.0,1.0,A,0.0,0.0,D,3.0,3.75,1.95,3.49,3.44,2.14,3.29,3.38,2.06,1.93,1.93,1.88,1.86,0.25,2.05,1.8,Arbroath,Queens Park,arbroath,queens_park
+2023-09-02,SC1,Scotland-Champ,2324,Arbroath,Ayr,2.0,1.0,H,1.0,1.0,D,2.63,3.25,2.63,2.8,2.96,2.87,2.64,3.07,2.66,2.15,1.67,2.13,1.67,0.0,1.9,1.95,Arbroath,Ayr,arbroath,ayr
+2023-09-16,SC1,Scotland-Champ,2324,Arbroath,Airdrie Utd,4.0,0.0,H,2.0,0.0,H,2.55,3.3,2.7,2.43,3.68,2.77,2.41,3.41,2.67,1.85,2.0,1.81,1.93,0.0,1.83,2.03,Arbroath,Airdrie Utd,arbroath,airdrie_utd
+2023-09-30,SC1,Scotland-Champ,2324,Arbroath,Inverness C,2.0,3.0,A,0.0,2.0,A,2.15,3.3,3.1,2.19,3.6,3.14,2.18,3.39,3.02,1.98,1.88,1.91,1.83,-0.25,1.95,1.9,Arbroath,Inverness Caledonian Thistle,arbroath,inverness_caledonian_thistle
+2023-11-04,SC1,Scotland-Champ,2324,Arbroath,Partick,1.0,3.0,A,0.0,1.0,A,2.63,3.4,2.4,2.76,3.55,2.5,2.62,3.46,2.41,1.7,2.1,1.67,2.12,0.0,2.0,1.85,Arbroath,Partick,arbroath,partick
+2023-12-09,SC1,Scotland-Champ,2324,Arbroath,Morton,1.0,2.0,A,0.0,1.0,A,2.63,3.3,2.63,2.74,3.42,2.58,2.62,3.27,2.52,1.98,1.88,1.87,1.86,0.0,1.98,1.88,Arbroath,Morton,arbroath,morton
+2023-12-13,SC1,Scotland-Champ,2324,Arbroath,Raith Rvs,1.0,2.0,A,1.0,1.0,D,4.2,3.75,1.8,4.42,3.9,1.78,4.06,3.7,1.78,1.73,2.08,1.7,2.06,0.5,2.03,1.78,Arbroath,Raith Rvs,arbroath,raith_rvs
+2023-12-23,SC1,Scotland-Champ,2324,Arbroath,Dunfermline,1.0,1.0,D,1.0,0.0,H,4.0,3.8,1.83,4.12,3.93,1.82,3.84,3.67,1.82,1.75,2.05,1.73,2.02,0.5,2.0,1.85,Arbroath,Dunfermline,arbroath,dunfermline
+2024-01-02,SC1,Scotland-Champ,2324,Arbroath,Dundee United,0.0,3.0,A,0.0,1.0,A,10.0,5.75,1.2,12.35,6.82,1.21,11.75,6.34,1.2,1.5,2.5,1.49,2.5,2.0,1.8,2.05,Arbroath,Dundee United,arbroath,dundee_united
+2024-01-13,SC1,Scotland-Champ,2324,Arbroath,Ayr,0.0,0.0,D,0.0,0.0,D,2.75,4.0,2.1,3.04,3.88,2.18,2.95,3.66,2.12,1.67,2.15,1.67,2.11,0.25,1.95,1.9,Arbroath,Ayr,arbroath,ayr
+2024-02-24,SC1,Scotland-Champ,2324,Arbroath,Inverness C,1.0,1.0,D,0.0,0.0,D,4.0,3.6,1.75,4.36,3.91,1.78,4.1,3.66,1.76,1.93,1.93,1.87,1.87,0.5,2.05,1.75,Arbroath,Inverness Caledonian Thistle,arbroath,inverness_caledonian_thistle
+2024-03-01,SC1,Scotland-Champ,2324,Arbroath,Raith Rvs,3.0,2.0,H,0.0,1.0,A,5.5,3.75,1.53,5.89,4.15,1.56,5.46,3.98,1.54,1.88,1.98,1.81,1.94,1.0,1.88,1.98,Arbroath,Raith Rvs,arbroath,raith_rvs
+2024-03-23,SC1,Scotland-Champ,2324,Arbroath,Partick,0.0,1.0,A,0.0,1.0,A,5.0,4.2,1.5,6.03,4.7,1.49,5.65,4.45,1.47,1.57,2.35,1.54,2.38,1.0,2.05,1.8,Arbroath,Partick,arbroath,partick
+2024-03-30,SC1,Scotland-Champ,2324,Arbroath,Dunfermline,2.0,3.0,A,0.0,3.0,A,4.0,3.6,1.8,4.46,3.67,1.79,4.08,3.54,1.8,1.93,1.93,1.87,1.87,0.5,2.05,1.8,Arbroath,Dunfermline,arbroath,dunfermline
+2024-04-02,SC1,Scotland-Champ,2324,Arbroath,Airdrie Utd,1.0,2.0,A,0.0,0.0,D,4.0,3.75,1.75,4.57,3.74,1.76,4.3,3.65,1.74,1.95,1.9,1.88,1.87,0.75,1.83,2.03,Arbroath,Airdrie Utd,arbroath,airdrie_utd
+2024-04-20,SC1,Scotland-Champ,2324,Arbroath,Morton,1.0,2.0,A,0.0,0.0,D,4.33,4.0,1.57,4.81,4.4,1.61,4.68,4.07,1.6,1.73,2.08,1.71,2.06,0.75,2.05,1.75,Arbroath,Morton,arbroath,morton
+2024-04-27,SC1,Scotland-Champ,2324,Arbroath,Queens Park,0.0,5.0,A,0.0,3.0,A,3.75,4.0,1.67,,,,3.99,4.0,1.68,1.6,2.3,1.6,2.24,0.75,,,Arbroath,Queens Park,arbroath,queens_park
+2024-08-10,SC2,Scotland-L1,2425,Arbroath,Montrose,0.0,0.0,D,0.0,0.0,D,2.05,3.6,2.88,2.26,3.44,2.9,2.17,3.48,2.93,1.73,2.08,1.72,2.05,-0.25,1.93,1.93,Arbroath,Montrose,arbroath,montrose
+2024-08-17,SC2,Scotland-L1,2425,Arbroath,Kelty Hearts,0.0,3.0,A,0.0,0.0,D,2.05,3.4,3.4,2.17,3.47,3.04,2.09,3.41,3.17,1.85,2.0,1.81,1.93,-0.25,1.8,2.05,Arbroath,Kelty Hearts,arbroath,kelty_hearts
+2024-08-31,SC2,Scotland-L1,2425,Arbroath,Alloa,0.0,0.0,D,0.0,0.0,D,2.45,3.6,2.5,,,,2.44,3.58,2.51,1.57,2.35,1.53,2.37,0.0,,,Arbroath,Alloa,arbroath,alloa
+2024-09-21,SC2,Scotland-L1,2425,Arbroath,Annan Athletic,2.0,0.0,H,0.0,0.0,D,2.15,3.6,2.9,2.23,3.54,2.88,2.2,3.51,2.88,1.65,2.2,1.63,2.19,-0.25,1.93,1.93,Arbroath,Annan Athletic,arbroath,annan_athletic
+2024-10-05,SC2,Scotland-L1,2425,Arbroath,Inverness C,1.0,0.0,H,0.0,0.0,D,2.7,3.4,2.4,2.74,3.23,2.48,2.7,3.28,2.42,1.9,1.95,1.84,1.9,0.0,2.05,1.8,Arbroath,Inverness Caledonian Thistle,arbroath,inverness_caledonian_thistle
+2024-10-19,SC2,Scotland-L1,2425,Arbroath,Dumbarton,1.0,3.0,A,1.0,1.0,D,1.95,3.3,3.25,2.0,3.57,3.36,1.98,3.54,3.29,1.6,2.3,1.6,2.23,-0.5,2.03,1.83,Arbroath,Dumbarton,arbroath,dumbarton
+2024-11-02,SC2,Scotland-L1,2425,Arbroath,Stenhousemuir,1.0,0.0,H,1.0,0.0,H,2.1,3.4,3.1,2.21,3.32,3.09,2.16,3.32,3.08,1.93,1.93,1.87,1.87,-0.25,1.88,1.98,Arbroath,Stenhousemuir,arbroath,stenhousemuir
+2024-11-16,SC2,Scotland-L1,2425,Arbroath,Cove Rangers,2.0,1.0,H,2.0,1.0,H,2.1,3.25,3.2,2.22,3.25,3.12,2.17,3.28,3.12,2.0,1.85,1.93,1.82,-0.25,1.93,1.93,Arbroath,Cove Rangers,arbroath,cove_rangers
+2024-12-07,SC2,Scotland-L1,2425,Arbroath,Queen of Sth,2.0,1.0,H,0.0,0.0,D,1.95,3.2,3.6,2.07,3.32,3.41,2.01,3.28,3.52,2.05,1.75,2.06,1.71,-0.5,2.03,1.83,Arbroath,Queen of Sth,arbroath,queen_of_sth
+2024-12-28,SC2,Scotland-L1,2425,Arbroath,Montrose,3.0,0.0,H,1.0,0.0,H,1.75,3.4,4.33,1.81,3.21,4.51,1.76,3.43,4.38,2.08,1.73,2.04,1.72,-0.5,1.8,2.05,Arbroath,Montrose,arbroath,montrose
+2025-01-04,SC2,Scotland-L1,2425,Arbroath,Alloa,1.0,3.0,A,1.0,2.0,A,1.9,3.4,3.8,1.91,3.4,3.82,1.91,3.37,3.72,1.95,1.9,1.89,1.84,-0.5,1.95,1.9,Arbroath,Alloa,arbroath,alloa
+2025-02-08,SC2,Scotland-L1,2425,Arbroath,Inverness C,3.0,0.0,H,2.0,0.0,H,2.38,3.3,2.7,2.48,3.2,2.76,2.44,3.21,2.7,1.93,1.93,1.9,1.84,0.0,1.8,2.05,Arbroath,Inverness Caledonian Thistle,arbroath,inverness_caledonian_thistle
+2025-02-25,SC2,Scotland-L1,2425,Arbroath,Kelty Hearts,2.0,1.0,H,1.0,0.0,H,1.67,3.5,4.75,1.72,3.59,4.58,1.71,3.53,4.49,1.9,1.95,1.84,1.9,-0.75,1.95,1.9,Arbroath,Kelty Hearts,arbroath,kelty_hearts
+2025-03-01,SC2,Scotland-L1,2425,Arbroath,Annan Athletic,3.0,0.0,H,1.0,0.0,H,1.67,3.6,4.5,1.72,3.76,4.33,1.7,3.69,4.32,1.7,2.1,1.71,2.05,-0.75,1.95,1.9,Arbroath,Annan Athletic,arbroath,annan_athletic
+2025-03-15,SC2,Scotland-L1,2425,Arbroath,Dumbarton,1.0,1.0,D,1.0,0.0,H,1.27,5.0,6.5,1.31,5.12,8.31,1.31,5.12,7.92,1.53,2.38,1.5,2.43,-1.5,1.87,1.87,Arbroath,Dumbarton,arbroath,dumbarton
+2025-03-29,SC2,Scotland-L1,2425,Arbroath,Cove Rangers,1.0,0.0,H,1.0,0.0,H,2.0,3.3,3.2,2.06,3.43,3.32,2.01,3.4,3.35,1.75,2.05,1.76,2.0,-0.5,2.05,1.75,Arbroath,Cove Rangers,arbroath,cove_rangers
+2025-04-12,SC2,Scotland-L1,2425,Arbroath,Stenhousemuir,4.0,0.0,H,1.0,0.0,H,1.83,3.6,3.7,1.83,3.48,4.07,1.82,3.49,3.98,1.95,1.85,1.93,1.81,-0.5,1.85,2.0,Arbroath,Stenhousemuir,arbroath,stenhousemuir
+2025-05-03,SC2,Scotland-L1,2425,Arbroath,Queen of Sth,1.0,1.0,D,0.0,1.0,A,2.05,3.3,3.25,1.99,3.51,3.44,2.03,3.4,3.36,1.82,1.92,1.83,1.9,-0.5,2.08,1.7,Arbroath,Queen of Sth,arbroath,queen_of_sth
+2025-08-01,SC1,Scotland-Champ,2526,Arbroath,Ayr,1.0,1.0,D,0.0,1.0,A,3.9,3.8,1.75,4.01,4.15,1.78,3.96,3.68,1.75,1.83,1.98,1.81,1.89,0.5,2.05,1.75,Arbroath,Ayr,arbroath,ayr
+2025-08-30,SC1,Scotland-Champ,2526,Arbroath,Airdrie Utd,1.0,0.0,H,0.0,0.0,D,2.1,3.5,3.0,2.22,3.41,3.1,2.07,3.45,3.09,1.85,1.95,1.78,1.92,-0.25,1.88,1.93,Arbroath,Airdrie Utd,arbroath,airdrie_utd
+2025-09-13,SC1,Scotland-Champ,2526,Arbroath,Dunfermline,0.0,5.0,A,0.0,2.0,A,3.2,3.3,2.1,3.26,3.38,2.16,3.12,3.17,2.17,2.1,1.7,2.09,1.67,0.25,1.95,1.85,Arbroath,Dunfermline,arbroath,dunfermline
+2025-09-20,SC1,Scotland-Champ,2526,Arbroath,Morton,1.0,1.0,D,0.0,0.0,D,2.4,3.2,2.75,2.4,3.41,2.82,2.27,3.28,2.81,1.95,1.85,1.89,1.81,-0.25,2.1,1.7,Arbroath,Morton,arbroath,morton
+2025-10-11,SC1,Scotland-Champ,2526,Arbroath,Queens Park,4.0,1.0,H,3.0,0.0,H,2.05,3.4,3.2,2.15,3.22,3.43,2.12,3.25,3.12,1.98,1.83,1.89,1.82,-0.25,1.83,1.98,Arbroath,Queens Park,arbroath,queens_park
+2025-10-18,SC1,Scotland-Champ,2526,Arbroath,St Johnstone,3.0,1.0,H,0.0,1.0,A,4.5,4.1,1.57,4.96,3.96,1.61,4.91,3.89,1.57,1.75,2.05,1.73,1.99,1.0,1.8,2.0,Arbroath,St Johnstone,arbroath,st_johnstone
+2025-11-01,SC1,Scotland-Champ,2526,Arbroath,Ross County,3.0,0.0,H,1.0,0.0,H,3.1,3.6,2.05,,,,3.25,3.37,2.03,1.85,1.95,1.83,1.86,0.25,1.98,1.83,Arbroath,Ross County,arbroath,ross_county
+2025-11-22,SC1,Scotland-Champ,2526,Arbroath,Raith Rvs,0.0,0.0,D,0.0,0.0,D,2.75,3.1,2.35,,,,2.73,3.14,2.41,2.2,1.65,2.16,1.62,0.0,2.03,1.78,Arbroath,Raith Rvs,arbroath,raith_rvs
+2025-12-13,SC1,Scotland-Champ,2526,Arbroath,Partick,2.0,1.0,H,0.0,0.0,D,3.3,3.2,2.05,,,,3.29,3.25,2.04,2.05,1.75,1.99,1.73,0.25,1.98,1.83,Arbroath,Partick,arbroath,partick
+2025-12-27,SC1,Scotland-Champ,2526,Arbroath,Airdrie Utd,1.0,1.0,D,0.0,0.0,D,1.73,3.3,4.33,,,,1.78,3.35,4.16,2.0,1.8,1.94,1.76,-0.5,1.8,2.0,Arbroath,Airdrie Utd,arbroath,airdrie_utd
+2026-01-23,SC1,Scotland-Champ,2526,Arbroath,Morton,1.0,1.0,D,0.0,0.0,D,1.8,3.4,3.8,,,,1.84,3.31,3.91,2.08,1.73,2.01,1.72,-0.5,1.88,1.93,Arbroath,Morton,arbroath,morton
+2026-02-21,SC1,Scotland-Champ,2526,Arbroath,Dunfermline,4.0,2.0,H,1.0,1.0,D,2.2,3.2,2.9,,,,2.26,3.12,2.97,2.15,1.67,2.1,1.66,-0.25,1.95,1.85,Arbroath,Dunfermline,arbroath,dunfermline
+2026-03-03,SC1,Scotland-Champ,2526,Arbroath,Ayr,1.0,1.0,D,0.0,0.0,D,2.35,3.25,2.8,,,,2.32,3.16,2.82,2.08,1.73,2.02,1.71,0.0,1.73,2.08,Arbroath,Ayr,arbroath,ayr
+2026-03-07,SC1,Scotland-Champ,2526,Arbroath,Ross County,0.0,0.0,D,0.0,0.0,D,2.15,3.1,3.1,,,,2.19,3.09,3.11,2.2,1.65,2.13,1.64,-0.25,1.93,1.88,Arbroath,Ross County,arbroath,ross_county
+2026-03-21,SC1,Scotland-Champ,2526,Arbroath,Queens Park,1.0,0.0,H,1.0,0.0,H,1.75,3.2,4.2,,,,1.8,3.25,4.15,2.25,1.62,2.17,1.61,-0.5,1.83,1.98,Arbroath,Queens Park,arbroath,queens_park
+2026-04-04,SC1,Scotland-Champ,2526,Arbroath,St Johnstone,2.0,4.0,A,1.0,1.0,D,4.5,3.3,1.7,,,,4.41,3.43,1.71,2.05,1.75,1.97,1.76,0.75,1.83,1.98,Arbroath,St Johnstone,arbroath,st_johnstone
+2026-04-18,SC1,Scotland-Champ,2526,Arbroath,Raith Rvs,2.0,1.0,H,1.0,0.0,H,2.5,2.9,2.7,,,,2.53,2.91,2.75,2.5,1.5,2.47,1.49,0.0,1.83,1.98,Arbroath,Raith Rvs,arbroath,raith_rvs
+2026-04-25,SC1,Scotland-Champ,2526,Arbroath,Partick,0.0,0.0,D,0.0,0.0,D,3.4,3.25,2.0,,,,3.38,3.19,2.02,2.15,1.67,2.07,1.68,0.25,2.03,1.78,Arbroath,Partick,arbroath,partick
+2026-08-08,SC1,Scotland-Champ,2627,Arbroath,Inverness C,0.0,0.0,D,0.0,0.0,D,2.88,3.3,2.15,,,,2.91,3.21,2.21,2.08,1.73,2.01,1.71,0.25,1.78,2.03,Arbroath,Inverness Caledonian Thistle,arbroath,inverness_caledonian_thistle
+2026-08-29,SC1,Scotland-Champ,2627,Arbroath,Livingston,1.0,0.0,H,0.0,0.0,D,3.1,3.2,2.1,,,,3.26,3.38,2.01,1.85,1.95,1.82,1.89,0.5,1.78,2.03,Arbroath,Livingston,arbroath,livingston
+2026-09-05,SC1,Scotland-Champ,2627,Arbroath,Dunfermline,1.0,1.0,D,0.0,0.0,D,2.63,3.0,2.45,,,,2.64,3.09,2.51,2.2,1.65,2.16,1.63,0.0,1.95,1.85,Arbroath,Dunfermline,arbroath,dunfermline
+2026-09-25,SC1,Scotland-Champ,2627,Arbroath,Queens Park,2.0,1.0,H,2.0,0.0,H,1.75,3.4,3.9,,,,1.79,3.29,4.2,2.2,1.65,2.21,1.6,-0.5,1.8,2.0,Arbroath,Queens Park,arbroath,queens_park
+2026-10-10,SC1,Scotland-Champ,2627,Arbroath,Morton,1.0,2.0,A,0.0,1.0,A,1.75,3.3,4.0,,,,1.76,3.38,4.19,2.1,1.7,2.05,1.69,-0.5,1.78,2.03,Arbroath,Morton,arbroath,morton

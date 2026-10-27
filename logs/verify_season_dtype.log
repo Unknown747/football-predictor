@@ -1,0 +1,30 @@
+======================================================================
+VERIFIKASI TIPE DATA 'season'
+======================================================================
+
+[1] master_canon.csv
+  dtype: int64
+  sample values: [2122, 2122, 2122, 2122, 2122]
+  unique (first 10): [2122]
+
+[2] features_train.csv
+  dtype: int64
+  sample values: [2122, 2122, 2122, 2122, 2122]
+  unique (first 10): [2122]
+
+[3] build_team_rows() output 'season'
+  dtype: int64
+  sample values: [2122, 2122, 2122, 2122, 2122]
+
+[4] Target row inference
+  season_str = '2223'  type=str
+  season_int = 2223  type=int
+  master_canon 2223 sample: NOT FOUND
+
+[5] Groupby test: campuran int vs str
+  groupby result: {('Rangers', 2223): 2, ('Rangers', '2223'): 1}
+  Jumlah group: 2  (1 = tipe disatukan, 2 = terpisah)
+
+[6] KESIMPULAN
+  → season = INTEGER → infer_season() HARUS return int
+  → Patch: infer_season return int

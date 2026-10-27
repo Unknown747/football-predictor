@@ -1,0 +1,100 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-23,SP1,Spain-LaLiga,2122,Osasuna,Celta,0.0,0.0,D,0.0,0.0,D,2.62,3.25,2.75,2.77,3.21,2.87,2.66,3.19,2.8,2.2,1.66,2.15,1.71,0.0,1.92,2.01,Osasuna,Celta Vigo,osasuna,celta_vigo
+2021-09-12,SP1,Spain-LaLiga,2122,Real Madrid,Celta,5.0,2.0,H,1.0,2.0,A,1.36,5.25,8.0,1.38,5.48,8.4,1.37,5.25,7.97,1.53,2.5,1.53,2.49,-1.5,2.07,1.86,Real Madrid,Celta Vigo,real_madrid,celta_vigo
+2021-09-21,SP1,Spain-LaLiga,2122,Levante,Celta,0.0,2.0,A,0.0,0.0,D,2.6,3.4,2.7,2.7,3.46,2.76,2.62,3.39,2.74,1.9,1.9,1.88,1.95,0.0,1.94,1.96,Levante,Celta Vigo,levante,celta_vigo
+2021-10-03,SP1,Spain-LaLiga,2122,Elche,Celta,1.0,0.0,H,0.0,0.0,D,3.3,3.2,2.3,3.52,3.17,2.37,3.36,3.16,2.33,2.3,1.61,2.31,1.63,0.25,1.91,2.02,Elche,Celta Vigo,elche,celta_vigo
+2021-10-25,SP1,Spain-LaLiga,2122,Getafe,Celta,0.0,3.0,A,0.0,0.0,D,2.5,3.0,3.1,2.77,2.95,3.11,2.65,2.94,3.03,2.75,1.44,2.67,1.47,0.0,1.85,2.08,Getafe,Celta Vigo,getafe,celta_vigo
+2021-11-01,SP1,Spain-LaLiga,2122,Vallecano,Celta,0.0,0.0,D,0.0,0.0,D,2.37,3.25,3.1,2.41,3.49,3.12,2.38,3.33,3.03,1.9,1.9,1.99,1.82,-0.25,2.07,1.86,Rayo Vallecano,Celta Vigo,rayo_vallecano,celta_vigo
+2021-11-27,SP1,Spain-LaLiga,2122,Alaves,Celta,1.0,2.0,A,1.0,1.0,D,2.9,3.1,2.55,3.09,3.19,2.6,2.97,3.15,2.56,2.37,1.57,2.34,1.6,0.0,2.13,1.81,Deportivo Alaves,Celta Vigo,deportivo_alaves,celta_vigo
+2021-12-10,SP1,Spain-LaLiga,2122,Mallorca,Celta,0.0,0.0,D,0.0,0.0,D,2.5,3.0,3.1,2.62,3.0,3.26,2.56,2.98,3.14,2.5,1.53,2.53,1.53,0.0,1.73,2.08,Mallorca,Celta Vigo,mallorca,celta_vigo
+2022-01-02,SP1,Spain-LaLiga,2122,Betis,Celta,0.0,2.0,A,0.0,2.0,A,1.72,3.75,4.75,1.79,3.71,4.83,1.77,3.79,4.58,1.86,2.04,1.81,2.02,-0.75,2.0,1.9,Real Betis,Celta Vigo,real_betis,celta_vigo
+2022-01-08,SP1,Spain-LaLiga,2122,Sociedad,Celta,1.0,0.0,H,1.0,0.0,H,1.83,3.3,4.75,1.88,3.43,4.68,1.88,3.45,4.44,2.2,1.66,2.18,1.69,-0.5,1.9,2.03,Real Sociedad,Celta Vigo,real_sociedad,celta_vigo
+2022-01-22,SP1,Spain-LaLiga,2122,Sevilla,Celta,2.0,2.0,D,0.0,2.0,A,1.75,3.5,5.25,1.79,3.58,5.05,1.77,3.59,4.95,2.2,1.66,2.21,1.68,-0.75,2.03,1.87,Sevilla,Celta Vigo,sevilla,celta_vigo
+2022-02-12,SP1,Spain-LaLiga,2122,Cadiz,Celta,0.0,0.0,D,0.0,0.0,D,3.8,3.4,2.05,4.12,3.35,2.08,3.88,3.33,2.06,2.2,1.66,2.19,1.69,0.5,1.85,2.05,Cadiz,Celta Vigo,cadiz,celta_vigo
+2022-02-26,SP1,Spain-LaLiga,2122,Ath Madrid,Celta,2.0,0.0,H,1.0,0.0,H,1.61,3.8,6.0,1.65,3.85,6.34,1.63,3.87,5.83,2.04,1.86,2.0,1.82,-0.75,1.8,2.1,Atletico Madrid,Celta Vigo,atletico_madrid,celta_vigo
+2022-03-12,SP1,Spain-LaLiga,2122,Villarreal,Celta,1.0,0.0,H,0.0,0.0,D,1.65,4.2,4.75,1.68,4.25,5.18,1.67,4.1,5.02,1.8,2.0,1.81,2.02,-0.75,1.83,2.07,Villarreal,Celta Vigo,villarreal,celta_vigo
+2022-04-10,SP1,Spain-LaLiga,2122,Espanol,Celta,1.0,0.0,H,0.0,0.0,D,2.75,3.2,2.7,2.92,3.14,2.77,2.81,3.14,2.73,2.2,1.66,2.23,1.67,0.0,1.98,1.92,Espanyol,Celta Vigo,espanyol,celta_vigo
+2022-04-17,SP1,Spain-LaLiga,2122,Ath Bilbao,Celta,0.0,2.0,A,0.0,2.0,A,1.75,3.6,5.0,1.85,3.67,4.78,1.83,3.57,4.59,2.2,1.66,2.18,1.69,-0.5,1.75,2.05,Athletic Bilbao,Celta Vigo,athletic_bilbao,celta_vigo
+2022-05-01,SP1,Spain-LaLiga,2122,Granada,Celta,1.0,1.0,D,0.0,0.0,D,2.8,3.2,2.62,2.94,3.31,2.63,2.82,3.25,2.63,2.1,1.72,2.11,1.74,0.0,2.03,1.87,Granada,Celta Vigo,granada,celta_vigo
+2022-05-10,SP1,Spain-LaLiga,2122,Barcelona,Celta,3.0,1.0,H,2.0,0.0,H,1.44,5.0,6.0,1.45,5.06,7.17,1.44,5.01,6.89,1.53,2.5,1.51,2.57,-1.25,1.95,1.95,Barcelona,Celta Vigo,barcelona,celta_vigo
+2022-05-21,SP1,Spain-LaLiga,2122,Valencia,Celta,2.0,0.0,H,1.0,0.0,H,2.75,3.3,2.62,2.79,3.33,2.71,2.77,3.31,2.63,2.1,1.72,2.03,1.8,0.0,2.0,1.9,Valencia,Celta Vigo,valencia,celta_vigo
+2022-08-26,SP1,Spain-LaLiga,2223,Girona,Celta,0.0,1.0,A,0.0,0.0,D,2.8,3.1,2.75,2.81,3.15,2.87,2.77,3.15,2.75,2.2,1.66,2.21,1.68,0.0,1.93,1.97,Girona,Celta Vigo,girona,celta_vigo
+2022-09-10,SP1,Spain-LaLiga,2223,Ath Madrid,Celta,4.0,1.0,H,1.0,0.0,H,1.61,3.8,6.0,1.66,3.87,6.07,1.65,3.81,5.76,2.0,1.8,2.05,1.78,-0.75,1.84,2.06,Atletico Madrid,Celta Vigo,atletico_madrid,celta_vigo
+2022-09-17,SP1,Spain-LaLiga,2223,Valencia,Celta,3.0,0.0,H,1.0,0.0,H,2.3,3.2,3.3,2.42,3.22,3.36,2.37,3.27,3.16,2.2,1.66,2.17,1.7,-0.25,2.02,1.88,Valencia,Celta Vigo,valencia,celta_vigo
+2022-10-09,SP1,Spain-LaLiga,2223,Barcelona,Celta,1.0,0.0,H,1.0,0.0,H,1.28,6.0,9.0,1.29,5.99,11.48,1.29,5.91,10.72,1.57,2.37,1.56,2.43,-1.5,1.83,2.07,Barcelona,Celta Vigo,barcelona,celta_vigo
+2022-10-19,SP1,Spain-LaLiga,2223,Valladolid,Celta,4.0,1.0,H,1.0,1.0,D,2.9,3.3,2.45,3.01,3.35,2.56,2.89,3.28,2.55,2.1,1.72,2.14,1.73,0.0,2.11,1.79,Real Valladolid,Celta Vigo,real_valladolid,celta_vigo
+2022-10-29,SP1,Spain-LaLiga,2223,Almeria,Celta,3.0,1.0,H,0.0,1.0,A,3.3,3.3,2.25,3.4,3.44,2.28,3.26,3.37,2.26,2.1,1.72,2.08,1.75,0.25,1.94,1.96,Almeria,Celta Vigo,almeria,celta_vigo
+2022-11-10,SP1,Spain-LaLiga,2223,Vallecano,Celta,0.0,0.0,D,0.0,0.0,D,2.2,3.2,3.5,2.19,3.34,3.76,2.17,3.3,3.57,2.2,1.66,2.2,1.68,-0.25,1.84,2.06,Rayo Vallecano,Celta Vigo,rayo_vallecano,celta_vigo
+2023-01-06,SP1,Spain-LaLiga,2223,Elche,Celta,0.0,1.0,A,0.0,1.0,A,4.0,3.25,1.95,4.26,3.31,2.06,4.07,3.28,2.03,2.38,1.57,2.39,1.59,0.5,1.88,2.05,Elche,Celta Vigo,elche,celta_vigo
+2023-01-20,SP1,Spain-LaLiga,2223,Mallorca,Celta,1.0,0.0,H,0.0,0.0,D,2.8,2.75,3.0,2.89,2.79,3.15,2.85,2.76,3.06,3.5,1.3,3.34,1.33,0.0,1.85,2.05,Mallorca,Celta Vigo,mallorca,celta_vigo
+2023-02-04,SP1,Spain-LaLiga,2223,Betis,Celta,3.0,4.0,A,2.0,2.0,D,2.2,3.2,3.5,2.23,3.18,3.85,2.22,3.16,3.65,2.5,1.53,2.49,1.55,-0.25,1.87,2.06,Real Betis,Celta Vigo,real_betis,celta_vigo
+2023-02-18,SP1,Spain-LaLiga,2223,Sociedad,Celta,1.0,1.0,D,1.0,0.0,H,1.8,3.3,5.25,1.81,3.5,5.39,1.8,3.44,5.03,2.38,1.57,2.39,1.59,-0.75,2.08,1.82,Real Sociedad,Celta Vigo,real_sociedad,celta_vigo
+2023-03-06,SP1,Spain-LaLiga,2223,Osasuna,Celta,0.0,0.0,D,0.0,0.0,D,2.8,3.0,2.8,2.85,3.07,2.86,2.81,3.06,2.77,2.5,1.53,2.47,1.55,0.0,1.98,1.92,Osasuna,Celta Vigo,osasuna,celta_vigo
+2023-03-18,SP1,Spain-LaLiga,2223,Espanol,Celta,1.0,3.0,A,0.0,2.0,A,2.75,3.25,2.55,2.94,3.24,2.64,2.88,3.19,2.6,2.3,1.62,2.34,1.61,0.0,2.06,1.84,Espanyol,Celta Vigo,espanyol,celta_vigo
+2023-04-07,SP1,Spain-LaLiga,2223,Sevilla,Celta,2.0,2.0,D,1.0,0.0,H,2.1,3.4,3.5,2.22,3.41,3.58,2.19,3.36,3.47,2.1,1.73,2.16,1.71,-0.25,1.89,2.01,Sevilla,Celta Vigo,sevilla,celta_vigo
+2023-04-22,SP1,Spain-LaLiga,2223,Real Madrid,Celta,2.0,0.0,H,1.0,0.0,H,1.36,5.0,9.0,1.38,5.42,8.07,1.37,5.25,8.16,1.57,2.38,1.56,2.43,-1.5,2.04,1.86,Real Madrid,Celta Vigo,real_madrid,celta_vigo
+2023-04-30,SP1,Spain-LaLiga,2223,Villarreal,Celta,3.0,1.0,H,2.0,1.0,H,1.8,3.6,4.5,1.83,3.93,4.34,1.82,3.77,4.32,1.88,2.02,1.84,1.98,-0.5,1.84,2.09,Villarreal,Celta Vigo,villarreal,celta_vigo
+2023-05-03,SP1,Spain-LaLiga,2223,Getafe,Celta,1.0,0.0,H,1.0,0.0,H,2.55,3.0,3.1,2.59,3.03,3.21,2.56,2.99,3.14,2.63,1.5,2.66,1.48,0.0,1.74,2.19,Getafe,Celta Vigo,getafe,celta_vigo
+2023-05-20,SP1,Spain-LaLiga,2223,Ath Bilbao,Celta,2.0,1.0,H,1.0,0.0,H,1.62,3.8,5.5,1.66,3.99,5.65,1.67,3.87,5.44,2.04,1.86,2.04,1.81,-0.75,1.83,2.07,Athletic Bilbao,Celta Vigo,athletic_bilbao,celta_vigo
+2023-05-28,SP1,Spain-LaLiga,2223,Cadiz,Celta,1.0,0.0,H,0.0,0.0,D,2.6,3.1,2.75,2.72,3.23,2.86,2.63,3.22,2.81,2.1,1.73,2.11,1.75,0.0,1.89,2.01,Cadiz,Celta Vigo,cadiz,celta_vigo
+2023-08-19,SP1,Spain-LaLiga,2324,Sociedad,Celta,1.0,1.0,D,1.0,0.0,H,1.73,3.4,5.5,1.76,3.54,5.57,1.76,3.5,5.24,2.38,1.57,2.4,1.58,-0.75,2.02,1.88,Real Sociedad,Celta Vigo,real_sociedad,celta_vigo
+2023-09-01,SP1,Spain-LaLiga,2324,Almeria,Celta,2.0,3.0,A,0.0,2.0,A,2.8,3.4,2.5,3.04,3.33,2.55,2.97,3.31,2.5,2.0,1.8,2.07,1.78,0.25,1.75,2.05,Almeria,Celta Vigo,almeria,celta_vigo
+2023-09-23,SP1,Spain-LaLiga,2324,Barcelona,Celta,3.0,2.0,H,0.0,1.0,A,1.29,6.0,9.0,1.29,6.04,10.38,1.29,5.95,10.23,1.5,2.63,1.52,2.55,-1.5,1.78,2.03,Barcelona,Celta Vigo,barcelona,celta_vigo
+2023-10-02,SP1,Spain-LaLiga,2324,Las Palmas,Celta,2.0,1.0,H,0.0,0.0,D,2.5,3.2,3.0,2.52,3.15,2.99,2.48,3.21,3.03,2.25,1.62,2.28,1.64,-0.25,2.08,1.73,Las Palmas,Celta Vigo,las_palmas,celta_vigo
+2023-10-27,SP1,Spain-LaLiga,2324,Girona,Celta,1.0,0.0,H,0.0,0.0,D,1.7,4.2,4.5,1.69,4.27,4.84,1.69,4.2,4.74,1.62,2.25,1.64,2.3,-0.75,1.88,2.05,Girona,Celta Vigo,girona,celta_vigo
+2023-11-10,SP1,Spain-LaLiga,2324,Ath Bilbao,Celta,4.0,3.0,H,2.0,2.0,D,1.67,3.8,5.0,1.69,4.17,5.04,1.68,4.05,5.07,1.73,2.08,1.75,2.12,-0.75,1.9,2.03,Athletic Bilbao,Celta Vigo,athletic_bilbao,celta_vigo
+2023-11-25,SP1,Spain-LaLiga,2324,Valencia,Celta,0.0,0.0,D,0.0,0.0,D,2.2,3.25,3.5,2.19,3.43,3.51,2.18,3.39,3.47,2.08,1.73,2.11,1.75,-0.25,1.89,2.04,Valencia,Celta Vigo,valencia,celta_vigo
+2023-12-11,SP1,Spain-LaLiga,2324,Vallecano,Celta,0.0,0.0,D,0.0,0.0,D,2.45,3.1,3.1,2.51,3.31,3.02,2.44,3.32,3.0,2.08,1.73,2.05,1.79,-0.25,2.13,1.78,Rayo Vallecano,Celta Vigo,rayo_vallecano,celta_vigo
+2023-12-20,SP1,Spain-LaLiga,2324,Villarreal,Celta,3.0,2.0,H,2.0,0.0,H,2.4,3.6,2.88,2.42,3.52,2.98,2.41,3.53,2.9,1.9,2.0,1.85,1.99,-0.25,2.09,1.81,Villarreal,Celta Vigo,villarreal,celta_vigo
+2024-01-13,SP1,Spain-LaLiga,2324,Mallorca,Celta,1.0,1.0,D,1.0,1.0,D,2.5,3.1,3.0,2.57,3.02,3.2,2.57,3.02,3.1,2.6,1.48,2.6,1.5,-0.25,2.08,1.73,Mallorca,Celta Vigo,mallorca,celta_vigo
+2024-02-04,SP1,Spain-LaLiga,2324,Osasuna,Celta,0.0,3.0,A,0.0,2.0,A,2.38,3.1,3.3,2.38,3.16,3.36,2.35,3.17,3.31,2.4,1.53,2.45,1.56,-0.25,2.01,1.89,Osasuna,Celta Vigo,osasuna,celta_vigo
+2024-02-11,SP1,Spain-LaLiga,2324,Getafe,Celta,3.0,2.0,H,2.0,0.0,H,2.2,3.1,3.6,2.24,3.14,3.71,2.24,3.14,3.59,2.5,1.5,2.54,1.53,-0.25,1.9,2.0,Getafe,Celta Vigo,getafe,celta_vigo
+2024-02-25,SP1,Spain-LaLiga,2324,Cadiz,Celta,2.0,2.0,D,0.0,1.0,A,3.1,3.0,2.5,3.15,3.04,2.58,3.08,3.03,2.57,2.6,1.48,2.62,1.5,0.25,1.78,2.13,Cadiz,Celta Vigo,cadiz,celta_vigo
+2024-03-10,SP1,Spain-LaLiga,2324,Real Madrid,Celta,4.0,0.0,H,1.0,0.0,H,1.3,6.0,8.0,1.29,6.13,10.04,1.3,5.94,9.62,1.5,2.5,1.52,2.52,-1.5,1.88,2.05,Real Madrid,Celta Vigo,real_madrid,celta_vigo
+2024-03-17,SP1,Spain-LaLiga,2324,Sevilla,Celta,1.0,2.0,A,1.0,0.0,H,2.0,3.4,3.75,2.03,3.45,4.05,2.01,3.42,3.92,2.05,1.75,2.07,1.78,-0.5,2.03,1.9,Sevilla,Celta Vigo,sevilla,celta_vigo
+2024-04-12,SP1,Spain-LaLiga,2324,Betis,Celta,2.0,1.0,H,0.0,0.0,D,2.1,3.4,3.5,2.12,3.5,3.7,2.06,3.47,3.71,2.09,1.84,2.03,1.81,-0.5,2.1,1.83,Real Betis,Celta Vigo,real_betis,celta_vigo
+2024-04-27,SP1,Spain-LaLiga,2324,Alaves,Celta,3.0,0.0,H,0.0,0.0,D,2.75,3.1,2.7,2.7,3.09,2.95,2.66,3.1,2.9,2.38,1.57,2.41,1.59,0.0,1.96,1.94,Deportivo Alaves,Celta Vigo,deportivo_alaves,celta_vigo
+2024-05-12,SP1,Spain-LaLiga,2324,Ath Madrid,Celta,1.0,0.0,H,0.0,0.0,D,1.42,4.75,7.0,1.43,4.22,8.29,1.44,4.64,7.42,1.62,2.3,1.59,2.37,-1.25,1.99,1.91,Atletico Madrid,Celta Vigo,atletico_madrid,celta_vigo
+2024-05-19,SP1,Spain-LaLiga,2324,Granada,Celta,1.0,2.0,A,0.0,0.0,D,3.7,3.6,2.0,3.81,3.53,1.98,3.62,3.61,2.04,1.8,2.0,1.78,2.07,0.5,1.88,2.02,Granada,Celta Vigo,granada,celta_vigo
+2024-08-26,SP1,Spain-LaLiga,2425,Villarreal,Celta,4.0,3.0,H,1.0,2.0,A,1.91,3.4,3.8,1.94,3.46,3.76,1.96,3.56,3.82,1.98,1.92,1.93,1.88,-0.5,2.0,1.9,Villarreal,Celta Vigo,villarreal,celta_vigo
+2024-09-01,SP1,Spain-LaLiga,2425,Osasuna,Celta,3.0,2.0,H,2.0,1.0,H,2.45,3.25,3.0,2.51,3.31,3.0,2.46,3.31,2.99,2.1,1.73,2.1,1.76,-0.25,2.11,1.79,Osasuna,Celta Vigo,osasuna,celta_vigo
+2024-09-22,SP1,Spain-LaLiga,2425,Ath Bilbao,Celta,3.0,1.0,H,2.0,1.0,H,1.7,3.7,5.25,1.72,3.99,4.85,1.71,3.96,4.83,1.73,2.1,1.76,2.09,-0.75,1.91,1.99,Athletic Bilbao,Celta Vigo,athletic_bilbao,celta_vigo
+2024-10-05,SP1,Spain-LaLiga,2425,Las Palmas,Celta,0.0,1.0,A,0.0,1.0,A,3.1,3.5,2.25,3.14,3.6,2.29,3.12,3.58,2.26,1.73,2.1,1.76,2.1,0.25,1.92,1.98,Las Palmas,Celta Vigo,las_palmas,celta_vigo
+2024-10-27,SP1,Spain-LaLiga,2425,Leganes,Celta,3.0,0.0,H,0.0,0.0,D,3.25,3.25,2.3,3.35,3.19,2.37,3.28,3.18,2.36,2.3,1.62,2.34,1.61,0.25,1.88,2.02,Leganes,Celta Vigo,leganes,celta_vigo
+2024-11-10,SP1,Spain-LaLiga,2425,Betis,Celta,2.0,2.0,D,1.0,1.0,D,1.95,3.4,4.0,2.01,3.6,3.85,2.0,3.54,3.77,1.87,2.03,1.84,1.99,-0.5,2.02,1.88,Real Betis,Celta Vigo,real_betis,celta_vigo
+2024-11-30,SP1,Spain-LaLiga,2425,Espanol,Celta,3.0,1.0,H,1.0,0.0,H,3.3,3.4,2.2,3.36,3.35,2.28,3.31,3.33,2.26,2.05,1.85,2.02,1.82,0.25,1.95,1.95,Espanyol,Celta Vigo,espanyol,celta_vigo
+2024-12-14,SP1,Spain-LaLiga,2425,Sevilla,Celta,1.0,0.0,H,0.0,0.0,D,2.2,3.25,3.3,2.26,3.34,3.42,2.27,3.31,3.28,2.04,1.86,2.01,1.83,-0.25,1.95,1.95,Sevilla,Celta Vigo,sevilla,celta_vigo
+2025-01-10,SP1,Spain-LaLiga,2425,Vallecano,Celta,2.0,1.0,H,1.0,1.0,D,2.75,3.1,2.7,2.83,3.11,2.8,2.81,3.07,2.74,2.2,1.67,2.22,1.66,0.0,1.99,1.94,Rayo Vallecano,Celta Vigo,rayo_vallecano,celta_vigo
+2025-01-27,SP1,Spain-LaLiga,2425,Alaves,Celta,1.0,1.0,D,1.0,0.0,H,2.63,3.0,3.0,2.69,3.15,2.91,2.66,3.1,2.85,2.2,1.67,2.2,1.67,0.0,1.89,2.01,Deportivo Alaves,Celta Vigo,deportivo_alaves,celta_vigo
+2025-02-02,SP1,Spain-LaLiga,2425,Valencia,Celta,2.0,1.0,H,1.0,0.0,H,2.3,3.1,3.25,2.39,3.14,3.38,2.37,3.13,3.24,2.3,1.62,2.28,1.63,-0.25,2.03,1.87,Valencia,Celta Vigo,valencia,celta_vigo
+2025-02-15,SP1,Spain-LaLiga,2425,Ath Madrid,Celta,1.0,1.0,D,0.0,0.0,D,1.39,4.5,8.0,1.43,4.79,7.81,1.42,4.64,7.71,1.78,2.0,1.82,2.02,-1.25,1.93,1.85,Atletico Madrid,Celta Vigo,atletico_madrid,celta_vigo
+2025-03-01,SP1,Spain-LaLiga,2425,Girona,Celta,2.0,2.0,D,1.0,1.0,D,2.2,3.5,3.25,2.19,3.56,3.38,2.17,3.51,3.31,1.88,2.02,1.85,1.99,-0.25,1.91,2.02,Girona,Celta Vigo,girona,celta_vigo
+2025-03-15,SP1,Spain-LaLiga,2425,Valladolid,Celta,0.0,1.0,A,0.0,0.0,D,5.0,3.8,1.63,5.3,3.94,1.68,5.07,3.88,1.69,1.99,1.91,1.93,1.89,0.75,2.0,1.9,Real Valladolid,Celta Vigo,real_valladolid,celta_vigo
+2025-04-05,SP1,Spain-LaLiga,2425,Mallorca,Celta,1.0,2.0,A,1.0,0.0,H,2.63,3.2,2.8,2.73,3.07,2.94,2.68,3.09,2.85,2.3,1.62,2.34,1.59,0.0,1.87,2.03,Mallorca,Celta Vigo,mallorca,celta_vigo
+2025-04-19,SP1,Spain-LaLiga,2425,Barcelona,Celta,4.0,3.0,H,1.0,1.0,D,1.3,5.75,8.0,1.29,6.53,8.64,1.3,6.1,8.61,1.36,3.2,1.33,3.21,-1.75,2.03,1.87,Barcelona,Celta Vigo,barcelona,celta_vigo
+2025-05-04,SP1,Spain-LaLiga,2425,Real Madrid,Celta,3.0,2.0,H,2.0,0.0,H,1.33,5.75,7.0,1.37,5.85,7.34,1.36,5.64,7.26,1.36,3.2,1.34,3.16,-1.5,1.98,1.92,Real Madrid,Celta Vigo,real_madrid,celta_vigo
+2025-05-13,SP1,Spain-LaLiga,2425,Sociedad,Celta,0.0,1.0,A,0.0,1.0,A,2.3,3.3,3.1,2.39,3.36,3.16,2.37,3.32,3.12,2.05,1.85,2.03,1.81,-0.25,2.04,1.86,Real Sociedad,Celta Vigo,real_sociedad,celta_vigo
+2025-05-24,SP1,Spain-LaLiga,2425,Getafe,Celta,1.0,2.0,A,1.0,1.0,D,4.1,3.75,1.85,4.32,3.76,1.85,4.22,3.65,1.86,2.1,1.73,2.07,1.76,0.5,2.0,1.85,Getafe,Celta Vigo,getafe,celta_vigo
+2025-08-23,SP1,Spain-LaLiga,2526,Mallorca,Celta,1.0,1.0,D,0.0,1.0,A,3.0,3.1,2.55,3.06,3.1,2.6,2.94,3.09,2.52,2.38,1.57,2.34,1.55,0.0,2.1,1.78,Mallorca,Celta Vigo,mallorca,celta_vigo
+2025-09-21,SP1,Spain-LaLiga,2526,Vallecano,Celta,1.0,1.0,D,0.0,0.0,D,2.3,3.3,3.2,2.33,3.31,3.3,2.31,3.23,3.09,2.0,1.8,2.02,1.74,-0.25,1.98,1.88,Rayo Vallecano,Celta Vigo,rayo_vallecano,celta_vigo
+2025-09-28,SP1,Spain-LaLiga,2526,Elche,Celta,2.0,1.0,H,1.0,1.0,D,2.88,3.1,2.6,2.89,3.2,2.68,2.78,3.14,2.57,2.3,1.62,2.17,1.64,0.0,2.0,1.85,Elche,Celta Vigo,elche,celta_vigo
+2025-10-26,SP1,Spain-LaLiga,2526,Osasuna,Celta,2.0,3.0,A,2.0,1.0,H,2.35,3.2,3.2,2.43,3.2,3.24,2.36,3.17,3.08,2.2,1.67,2.16,1.65,-0.25,2.03,1.83,Osasuna,Celta Vigo,osasuna,celta_vigo
+2025-11-02,SP1,Spain-LaLiga,2526,Levante,Celta,1.0,2.0,A,0.0,1.0,A,2.88,3.4,2.45,2.93,3.41,2.51,2.81,3.35,2.43,1.8,2.0,1.78,1.96,0.0,2.1,1.78,Levante,Celta Vigo,levante,celta_vigo
+2025-11-22,SP1,Spain-LaLiga,2526,Alaves,Celta,0.0,1.0,A,0.0,0.0,D,2.6,3.0,2.9,2.58,3.12,3.08,2.56,3.04,2.94,2.3,1.62,2.29,1.58,0.0,1.8,2.05,Deportivo Alaves,Celta Vigo,deportivo_alaves,celta_vigo
+2025-12-07,SP1,Spain-LaLiga,2526,Real Madrid,Celta,0.0,2.0,A,0.0,0.0,D,1.3,5.5,9.5,1.3,5.84,9.64,1.29,5.65,8.81,1.36,3.2,1.36,3.01,-1.75,2.0,1.85,Real Madrid,Celta Vigo,real_madrid,celta_vigo
+2025-12-20,SP1,Spain-LaLiga,2526,Oviedo,Celta,0.0,0.0,D,0.0,0.0,D,3.6,3.4,2.05,3.81,3.39,2.1,3.7,3.27,2.07,2.2,1.67,2.21,1.62,0.5,1.8,2.05,Real Oviedo,Celta Vigo,real_oviedo,celta_vigo
+2026-01-12,SP1,Spain-LaLiga,2526,Sevilla,Celta,0.0,1.0,A,0.0,0.0,D,2.6,3.3,2.75,2.65,3.39,2.77,2.54,3.27,2.71,2.03,1.83,1.97,1.77,0.0,1.88,1.98,Sevilla,Celta Vigo,sevilla,celta_vigo
+2026-01-25,SP1,Spain-LaLiga,2526,Sociedad,Celta,3.0,1.0,H,1.0,0.0,H,2.0,3.4,3.9,,,,1.99,3.37,3.77,2.05,1.8,2.01,1.75,-0.5,2.0,1.85,Real Sociedad,Celta Vigo,real_sociedad,celta_vigo
+2026-02-01,SP1,Spain-LaLiga,2526,Getafe,Celta,0.0,0.0,D,0.0,0.0,D,2.8,2.9,2.8,,,,2.82,2.85,2.76,3.0,1.4,2.86,1.39,0.0,1.93,1.93,Getafe,Celta Vigo,getafe,celta_vigo
+2026-02-14,SP1,Spain-LaLiga,2526,Espanol,Celta,2.0,2.0,D,0.0,1.0,A,2.35,3.2,3.0,,,,2.41,3.16,2.97,2.2,1.67,2.16,1.66,-0.25,2.05,1.8,Espanyol,Celta Vigo,espanyol,celta_vigo
+2026-03-01,SP1,Spain-LaLiga,2526,Girona,Celta,1.0,2.0,A,1.0,0.0,H,2.38,3.3,3.0,,,,2.4,3.28,2.86,2.0,1.85,1.95,1.78,-0.25,2.05,1.8,Girona,Celta Vigo,girona,celta_vigo
+2026-03-15,SP1,Spain-LaLiga,2526,Betis,Celta,1.0,1.0,D,0.0,1.0,A,2.2,3.3,3.4,,,,2.18,3.25,3.29,1.91,1.91,1.91,1.81,-0.25,1.88,1.98,Real Betis,Celta Vigo,real_betis,celta_vigo
+2026-04-05,SP1,Spain-LaLiga,2526,Valencia,Celta,2.0,3.0,A,1.0,0.0,H,2.3,3.3,3.2,,,,2.3,3.22,3.07,2.2,1.67,2.1,1.68,-0.25,2.0,1.85,Valencia,Celta Vigo,valencia,celta_vigo
+2026-04-22,SP1,Spain-LaLiga,2526,Barcelona,Celta,1.0,0.0,H,1.0,0.0,H,1.22,6.5,11.0,,,,1.23,6.72,10.25,1.3,3.5,1.28,3.48,-2.0,2.0,1.85,Barcelona,Celta Vigo,barcelona,celta_vigo
+2026-04-26,SP1,Spain-LaLiga,2526,Villarreal,Celta,2.0,1.0,H,2.0,0.0,H,2.05,3.4,3.7,,,,2.03,3.35,3.57,1.83,2.03,1.79,1.95,-0.5,2.05,1.8,Villarreal,Celta Vigo,villarreal,celta_vigo
+2026-05-09,SP1,Spain-LaLiga,2526,Ath Madrid,Celta,0.0,1.0,A,0.0,0.0,D,2.05,3.5,3.5,,,,2.08,3.47,3.34,1.73,2.1,1.68,2.09,-0.25,1.83,2.03,Atletico Madrid,Celta Vigo,atletico_madrid,celta_vigo
+2026-05-17,SP1,Spain-LaLiga,2526,Ath Bilbao,Celta,1.0,1.0,D,0.0,1.0,A,2.15,3.2,3.4,,,,2.15,3.11,3.42,2.1,1.73,2.07,1.69,-0.25,1.88,1.98,Athletic Bilbao,Celta Vigo,athletic_bilbao,celta_vigo
+2026-08-22,SP1,Spain-LaLiga,2627,Valencia,Celta,0.0,0.0,D,0.0,0.0,D,2.35,3.2,3.2,,,,2.33,3.21,3.13,2.2,1.67,2.2,1.63,-0.25,2.03,1.83,Valencia,Celta Vigo,valencia,celta_vigo
+2026-09-03,SP1,Spain-LaLiga,2627,Sociedad,Celta,0.0,0.0,D,0.0,0.0,D,1.95,3.6,3.8,,,,1.95,3.48,3.69,1.93,1.93,1.86,1.86,-0.5,1.95,1.9,Real Sociedad,Celta Vigo,real_sociedad,celta_vigo
+2026-09-07,SP1,Spain-LaLiga,2627,Getafe,Celta,1.0,1.0,D,1.0,0.0,H,2.4,2.9,3.4,,,,2.4,2.86,3.28,3.0,1.4,2.83,1.39,-0.25,2.03,1.83,Getafe,Celta Vigo,getafe,celta_vigo
+2026-10-11,SP1,Spain-LaLiga,2627,Elche,Celta,0.0,0.0,D,0.0,0.0,D,2.8,3.2,2.63,,,,2.72,3.25,2.55,2.0,1.8,1.96,1.78,0.0,2.0,1.85,Elche,Celta Vigo,elche,celta_vigo

@@ -1,0 +1,93 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,F1,France-L1,2122,Brest,Rennes,1.0,1.0,D,0.0,0.0,D,3.1,3.4,2.3,3.14,3.43,2.42,3.06,3.36,2.36,1.89,2.04,1.85,1.98,0.25,1.85,2.08,Stade Brestois,Stade Rennais,stade_brestois,stade_rennais
+2021-08-29,F1,France-L1,2122,Angers,Rennes,2.0,0.0,H,0.0,0.0,D,2.9,3.25,2.5,2.99,3.29,2.61,2.9,3.23,2.55,2.2,1.66,2.19,1.68,0.0,2.1,1.83,Angers,Stade Rennais,angers,stade_rennais
+2021-09-19,F1,France-L1,2122,Marseille,Rennes,2.0,0.0,H,0.0,0.0,D,1.9,3.6,3.8,1.97,3.63,4.15,1.95,3.52,3.97,2.0,1.8,2.04,1.79,-0.5,1.97,1.96,Olympique Marseille,Stade Rennais,olympique_marseille,stade_rennais
+2021-09-26,F1,France-L1,2122,Bordeaux,Rennes,1.0,1.0,D,0.0,0.0,D,3.4,3.4,2.15,3.45,3.67,2.17,3.35,3.49,2.17,2.0,1.8,2.03,1.8,0.25,2.04,1.89,Bordeaux,Stade Rennais,bordeaux,stade_rennais
+2021-10-17,F1,France-L1,2122,Metz,Rennes,0.0,3.0,A,0.0,3.0,A,4.33,3.6,1.83,4.76,3.6,1.87,4.46,3.51,1.85,2.1,1.72,2.14,1.72,0.5,2.08,1.85,Metz,Stade Rennais,metz,stade_rennais
+2021-10-31,F1,France-L1,2122,Troyes,Rennes,2.0,2.0,D,2.0,1.0,H,3.8,3.6,1.95,3.84,3.66,2.04,3.75,3.53,1.99,2.0,1.8,1.97,1.85,0.5,1.9,2.03,Troyes,Stade Rennais,troyes,stade_rennais
+2021-11-28,F1,France-L1,2122,Lorient,Rennes,0.0,2.0,A,0.0,0.0,D,4.33,4.0,1.72,4.64,4.05,1.78,4.48,3.89,1.76,1.8,2.0,1.81,2.01,0.75,1.92,2.01,Lorient,Stade Rennais,lorient,stade_rennais
+2021-12-05,F1,France-L1,2122,St Etienne,Rennes,0.0,5.0,A,0.0,3.0,A,4.2,3.75,1.85,4.31,3.88,1.88,4.16,3.74,1.85,1.8,2.0,1.81,2.02,0.5,2.05,1.85,Saint-Etienne,Stade Rennais,saint_etienne,stade_rennais
+2021-12-22,F1,France-L1,2122,Monaco,Rennes,2.0,1.0,H,1.0,1.0,D,2.2,3.5,3.25,2.28,3.63,3.26,2.23,3.49,3.2,1.9,2.0,1.87,1.96,-0.25,1.95,1.95,AS Monaco,Stade Rennais,as_monaco,stade_rennais
+2022-01-08,F1,France-L1,2122,Lens,Rennes,1.0,0.0,H,0.0,0.0,D,2.75,3.4,2.55,2.84,3.51,2.6,2.77,3.44,2.51,1.92,1.98,1.86,1.95,0.0,2.03,1.87,RC Lens,Stade Rennais,rc_lens,stade_rennais
+2022-01-23,F1,France-L1,2122,Clermont,Rennes,2.0,1.0,H,0.0,1.0,A,3.8,3.8,1.85,4.1,3.85,1.88,4.01,3.77,1.87,1.88,2.02,1.84,1.98,0.5,2.03,1.87,Clermont Foot,Stade Rennais,clermont_foot,stade_rennais
+2022-02-11,F1,France-L1,2122,Paris SG,Rennes,1.0,0.0,H,0.0,0.0,D,1.55,4.33,5.75,1.54,4.64,6.15,1.54,4.45,5.92,1.61,2.3,1.62,2.27,-1.0,1.91,2.02,Paris Saint-Germain,Stade Rennais,paris_saint_germain,stade_rennais
+2022-02-25,F1,France-L1,2122,Montpellier,Rennes,2.0,4.0,A,2.0,2.0,D,4.33,3.8,1.75,4.79,3.8,1.81,4.52,3.71,1.81,1.92,1.98,1.88,1.94,0.75,1.87,2.03,Montpellier,Stade Rennais,montpellier,stade_rennais
+2022-03-13,F1,France-L1,2122,Lyon,Rennes,2.0,4.0,A,0.0,3.0,A,2.05,3.6,3.4,2.1,3.66,3.67,2.09,3.57,3.48,1.72,2.1,1.78,2.04,-0.25,1.8,2.1,Olympique Lyonnais,Stade Rennais,olympique_lyonnais,stade_rennais
+2022-04-02,F1,France-L1,2122,Nice,Rennes,1.0,1.0,D,0.0,0.0,D,3.1,3.4,2.3,3.22,3.48,2.36,3.15,3.39,2.32,2.03,1.87,1.96,1.86,0.25,1.93,1.97,OGC Nice,Stade Rennais,ogc_nice,stade_rennais
+2022-04-09,F1,France-L1,2122,Reims,Rennes,2.0,3.0,A,0.0,2.0,A,4.5,3.5,1.8,4.74,3.78,1.82,4.54,3.6,1.83,2.1,1.72,2.13,1.72,0.75,1.77,2.02,Stade de Reims,Stade Rennais,stade_de_reims,stade_rennais
+2022-04-20,F1,France-L1,2122,Strasbourg,Rennes,2.0,1.0,H,1.0,0.0,H,2.55,3.5,2.7,2.61,3.53,2.81,2.59,3.41,2.72,1.96,1.94,1.93,1.89,0.0,1.91,2.02,RC Strasbourg,Stade Rennais,rc_strasbourg,stade_rennais
+2022-05-11,F1,France-L1,2122,Nantes,Rennes,2.0,1.0,H,1.0,1.0,D,4.75,4.0,1.66,4.92,4.15,1.64,4.78,4.08,1.69,1.72,2.1,1.73,2.12,0.75,1.99,1.91,FC Nantes,Stade Rennais,fc_nantes,stade_rennais
+2022-05-21,F1,France-L1,2122,Lille,Rennes,2.0,2.0,D,1.0,1.0,D,4.33,3.75,1.8,4.19,4.1,1.83,4.14,3.99,1.8,1.61,2.3,1.6,2.34,0.75,1.85,2.05,Lille,Stade Rennais,lille,stade_rennais
+2022-08-13,F1,France-L1,2223,Monaco,Rennes,1.0,1.0,D,0.0,0.0,D,2.15,3.5,3.25,2.21,3.68,3.36,2.17,3.6,3.26,1.72,2.1,1.76,2.08,-0.25,1.89,2.01,AS Monaco,Stade Rennais,as_monaco,stade_rennais
+2022-08-27,F1,France-L1,2223,Lens,Rennes,2.0,1.0,H,0.0,0.0,D,2.55,3.5,2.7,2.6,3.51,2.83,2.54,3.52,2.72,1.72,2.1,1.72,2.14,0.0,1.88,2.02,RC Lens,Stade Rennais,rc_lens,stade_rennais
+2022-09-04,F1,France-L1,2223,Troyes,Rennes,1.0,1.0,D,1.0,0.0,H,4.33,4.0,1.75,4.24,3.92,1.88,4.21,3.79,1.83,1.86,2.04,1.81,2.02,0.5,2.1,1.7,Troyes,Stade Rennais,troyes,stade_rennais
+2022-09-18,F1,France-L1,2223,Marseille,Rennes,1.0,1.0,D,0.0,1.0,A,2.05,3.6,3.6,2.11,3.58,3.7,2.06,3.59,3.53,1.8,2.0,1.79,2.04,-0.5,2.05,1.85,Olympique Marseille,Stade Rennais,olympique_marseille,stade_rennais
+2022-10-01,F1,France-L1,2223,Strasbourg,Rennes,1.0,3.0,A,0.0,1.0,A,3.0,3.5,2.3,3.09,3.56,2.4,2.99,3.5,2.35,1.92,1.98,1.87,1.93,0.25,1.82,2.08,RC Strasbourg,Stade Rennais,rc_strasbourg,stade_rennais
+2022-10-23,F1,France-L1,2223,Angers,Rennes,1.0,2.0,A,0.0,1.0,A,4.0,4.0,1.83,4.47,4.04,1.81,4.21,3.9,1.81,1.72,2.1,1.7,2.16,0.75,1.8,2.0,Angers,Stade Rennais,angers,stade_rennais
+2022-11-06,F1,France-L1,2223,Lille,Rennes,1.0,1.0,D,1.0,0.0,H,2.45,3.6,2.75,2.46,3.65,2.93,2.46,3.6,2.77,1.72,2.1,1.71,2.16,0.0,1.82,2.08,Lille,Stade Rennais,lille,stade_rennais
+2022-12-29,F1,France-L1,2223,Reims,Rennes,3.0,1.0,H,2.0,1.0,H,3.3,3.4,2.2,3.48,3.4,2.27,3.28,3.44,2.22,1.9,2.0,1.86,1.96,0.25,1.97,1.93,Stade de Reims,Stade Rennais,stade_de_reims,stade_rennais
+2023-01-11,F1,France-L1,2223,Clermont,Rennes,2.0,1.0,H,1.0,0.0,H,4.2,3.5,1.91,4.1,3.66,1.97,3.92,3.63,1.94,1.94,1.96,1.89,1.94,0.5,1.94,1.96,Clermont Foot,Stade Rennais,clermont_foot,stade_rennais
+2023-01-27,F1,France-L1,2223,Lorient,Rennes,2.0,1.0,H,2.0,0.0,H,4.0,3.5,1.95,4.1,3.6,1.99,3.94,3.52,1.97,2.01,1.89,1.96,1.87,0.5,1.93,1.97,Lorient,Stade Rennais,lorient,stade_rennais
+2023-02-12,F1,France-L1,2223,Toulouse,Rennes,3.0,1.0,H,3.0,0.0,H,3.2,3.3,2.3,3.16,3.54,2.36,3.04,3.45,2.33,1.8,2.0,1.77,2.07,0.25,1.9,2.03,Toulouse,Stade Rennais,toulouse,stade_rennais
+2023-02-26,F1,France-L1,2223,Nantes,Rennes,0.0,1.0,A,0.0,1.0,A,3.5,3.3,2.15,3.56,3.41,2.23,3.44,3.36,2.18,2.1,1.73,2.09,1.76,0.25,2.02,1.88,FC Nantes,Stade Rennais,fc_nantes,stade_rennais
+2023-03-11,F1,France-L1,2223,Auxerre,Rennes,0.0,0.0,D,0.0,0.0,D,4.0,3.4,1.95,4.02,3.49,2.03,3.87,3.45,1.99,2.1,1.73,2.06,1.77,0.5,1.9,2.03,AJ Auxerre,Stade Rennais,aj_auxerre,stade_rennais
+2023-03-19,F1,France-L1,2223,Paris SG,Rennes,0.0,2.0,A,0.0,1.0,A,1.45,4.75,6.5,1.48,4.96,6.4,1.47,4.8,6.32,1.57,2.38,1.55,2.44,-1.25,2.06,1.84,Paris Saint-Germain,Stade Rennais,paris_saint_germain,stade_rennais
+2023-04-09,F1,France-L1,2223,Lyon,Rennes,3.0,1.0,H,0.0,1.0,A,2.15,3.4,3.4,2.22,3.53,3.39,2.17,3.49,3.31,1.92,1.98,1.88,1.93,-0.25,1.88,2.02,Olympique Lyonnais,Stade Rennais,olympique_lyonnais,stade_rennais
+2023-04-23,F1,France-L1,2223,Montpellier,Rennes,1.0,0.0,H,0.0,0.0,D,3.3,3.25,2.3,3.3,3.52,2.27,3.16,3.44,2.26,1.94,1.96,1.92,1.89,0.25,1.92,1.98,Montpellier,Stade Rennais,montpellier,stade_rennais
+2023-05-06,F1,France-L1,2223,Nice,Rennes,2.0,1.0,H,0.0,0.0,D,2.6,3.2,2.8,2.65,3.33,2.86,2.58,3.28,2.81,2.1,1.73,2.08,1.76,0.0,1.85,2.05,OGC Nice,Stade Rennais,ogc_nice,stade_rennais
+2023-05-21,F1,France-L1,2223,Ajaccio,Rennes,0.0,5.0,A,0.0,4.0,A,7.0,4.2,1.5,7.68,4.33,1.49,7.11,4.22,1.49,2.06,1.84,2.04,1.8,1.0,2.05,1.85,Ajaccio,Stade Rennais,ajaccio,stade_rennais
+2023-06-03,F1,France-L1,2223,Brest,Rennes,1.0,2.0,A,1.0,2.0,A,5.75,4.2,1.55,5.77,4.48,1.56,5.59,4.37,1.56,1.67,2.2,1.65,2.26,1.0,1.93,1.97,Stade Brestois,Stade Rennais,stade_brestois,stade_rennais
+2023-08-20,F1,France-L1,2324,Lens,Rennes,1.0,1.0,D,1.0,0.0,H,2.4,3.6,2.75,2.42,3.78,2.86,2.42,3.63,2.78,1.73,2.1,1.71,2.15,-0.25,2.08,1.73,RC Lens,Stade Rennais,rc_lens,stade_rennais
+2023-09-02,F1,France-L1,2324,Brest,Rennes,0.0,0.0,D,0.0,0.0,D,3.3,3.5,2.15,3.37,3.68,2.18,3.32,3.64,2.13,1.73,2.1,1.74,2.11,0.25,2.04,1.89,Stade Brestois,Stade Rennais,stade_brestois,stade_rennais
+2023-09-24,F1,France-L1,2324,Montpellier,Rennes,0.0,0.0,D,0.0,0.0,D,2.7,3.5,2.5,2.7,3.56,2.65,2.65,3.53,2.56,1.73,2.1,1.74,2.12,0.0,1.96,1.94,Montpellier,Stade Rennais,montpellier,stade_rennais
+2023-10-22,F1,France-L1,2324,Lorient,Rennes,2.0,1.0,H,2.0,1.0,H,3.8,3.8,1.85,4.02,3.79,1.93,3.95,3.74,1.89,1.75,2.05,1.79,2.04,0.5,1.99,1.91,Lorient,Stade Rennais,lorient,stade_rennais
+2023-11-05,F1,France-L1,2324,Nice,Rennes,2.0,0.0,H,1.0,0.0,H,2.05,3.4,3.6,2.13,3.36,3.74,2.1,3.39,3.63,2.1,1.7,2.09,1.75,-0.25,1.75,2.05,OGC Nice,Stade Rennais,ogc_nice,stade_rennais
+2023-12-03,F1,France-L1,2324,Marseille,Rennes,2.0,0.0,H,1.0,0.0,H,1.91,3.8,3.8,1.92,3.84,3.95,1.92,3.75,3.9,1.84,2.06,1.82,2.02,-0.5,1.94,1.99,Olympique Marseille,Stade Rennais,olympique_marseille,stade_rennais
+2023-12-17,F1,France-L1,2324,Toulouse,Rennes,0.0,0.0,D,0.0,0.0,D,3.2,3.5,2.2,3.26,3.57,2.24,3.19,3.55,2.22,1.89,2.01,1.84,1.99,0.25,1.94,1.99,Toulouse,Stade Rennais,toulouse,stade_rennais
+2023-12-20,F1,France-L1,2324,Clermont,Rennes,1.0,3.0,A,1.0,0.0,H,3.3,3.4,2.2,3.44,3.4,2.23,3.35,3.39,2.21,2.05,1.75,2.04,1.79,0.25,1.99,1.91,Clermont Foot,Stade Rennais,clermont_foot,stade_rennais
+2024-01-26,F1,France-L1,2324,Lyon,Rennes,2.0,3.0,A,0.0,3.0,A,2.5,3.4,2.8,2.56,3.35,2.91,2.53,3.35,2.85,2.05,1.75,2.03,1.8,0.0,1.83,2.07,Olympique Lyonnais,Stade Rennais,olympique_lyonnais,stade_rennais
+2024-02-11,F1,France-L1,2324,Le Havre,Rennes,0.0,1.0,A,0.0,0.0,D,3.6,3.3,2.15,3.66,3.38,2.15,3.52,3.34,2.16,2.15,1.67,2.2,1.69,0.25,2.05,1.88,Le Havre,Stade Rennais,le_havre,stade_rennais
+2024-02-25,F1,France-L1,2324,Paris SG,Rennes,1.0,1.0,D,0.0,1.0,A,1.45,4.75,7.0,1.47,4.65,6.94,1.46,4.69,6.73,1.6,2.3,1.6,2.35,-1.25,2.02,1.88,Paris Saint-Germain,Stade Rennais,paris_saint_germain,stade_rennais
+2024-03-10,F1,France-L1,2324,Lille,Rennes,2.0,2.0,D,0.0,2.0,A,2.05,3.4,3.6,2.05,3.5,3.84,2.04,3.49,3.66,2.05,1.85,1.99,1.83,-0.5,2.08,1.85,Lille,Stade Rennais,lille,stade_rennais
+2024-03-31,F1,France-L1,2324,Strasbourg,Rennes,2.0,0.0,H,0.0,0.0,D,3.1,3.5,2.25,3.14,3.43,2.36,3.08,3.43,2.31,1.91,1.99,1.89,1.94,0.25,1.88,2.02,RC Strasbourg,Stade Rennais,rc_strasbourg,stade_rennais
+2024-04-07,F1,France-L1,2324,Monaco,Rennes,1.0,0.0,H,1.0,0.0,H,1.8,4.0,4.0,1.83,4.05,4.14,1.82,3.98,4.02,1.57,2.35,1.58,2.39,-0.5,1.78,2.03,AS Monaco,Stade Rennais,as_monaco,stade_rennais
+2024-04-20,F1,France-L1,2324,Nantes,Rennes,0.0,3.0,A,0.0,0.0,D,3.0,3.3,2.4,3.11,3.3,2.45,3.03,3.31,2.41,2.1,1.73,2.09,1.76,0.25,1.82,2.08,FC Nantes,Stade Rennais,fc_nantes,stade_rennais
+2024-05-04,F1,France-L1,2324,Metz,Rennes,2.0,3.0,A,2.0,1.0,H,3.5,3.6,2.05,3.49,3.75,2.08,3.47,3.65,2.06,1.89,2.01,1.86,1.95,0.5,1.84,2.09,Metz,Stade Rennais,metz,stade_rennais
+2024-05-19,F1,France-L1,2324,Reims,Rennes,2.0,1.0,H,0.0,0.0,D,2.88,3.3,2.5,2.85,3.54,2.47,2.79,3.53,2.46,1.62,2.3,1.6,2.36,0.0,2.07,1.83,Stade de Reims,Stade Rennais,stade_de_reims,stade_rennais
+2024-08-25,F1,France-L1,2425,Strasbourg,Rennes,3.0,1.0,H,1.0,0.0,H,3.1,3.5,2.25,3.19,3.5,2.3,3.12,3.5,2.26,1.86,2.04,1.83,2.01,0.25,1.92,1.98,RC Strasbourg,Stade Rennais,rc_strasbourg,stade_rennais
+2024-09-01,F1,France-L1,2425,Reims,Rennes,2.0,1.0,H,1.0,1.0,D,2.9,3.5,2.38,2.94,3.29,2.37,2.92,3.44,2.4,1.83,2.07,1.8,2.04,0.25,1.82,2.08,Stade de Reims,Stade Rennais,stade_de_reims,stade_rennais
+2024-09-27,F1,France-L1,2425,Paris SG,Rennes,3.0,1.0,H,1.0,0.0,H,1.38,5.25,7.5,1.37,5.3,8.67,1.38,5.12,8.03,1.57,2.38,1.59,2.4,-1.25,1.78,2.03,Paris Saint-Germain,Stade Rennais,paris_saint_germain,stade_rennais
+2024-10-19,F1,France-L1,2425,Brest,Rennes,1.0,1.0,D,0.0,0.0,D,2.9,3.25,2.5,2.99,3.22,2.58,2.93,3.25,2.52,2.04,1.86,1.99,1.81,0.0,2.08,1.82,Stade Brestois,Stade Rennais,stade_brestois,stade_rennais
+2024-11-03,F1,France-L1,2425,Auxerre,Rennes,4.0,0.0,H,2.0,0.0,H,3.5,3.6,2.05,3.51,3.59,2.13,3.45,3.57,2.09,1.8,2.0,1.79,2.06,0.25,2.08,1.82,AJ Auxerre,Stade Rennais,aj_auxerre,stade_rennais
+2024-11-24,F1,France-L1,2425,Lille,Rennes,1.0,0.0,H,1.0,0.0,H,1.91,3.6,3.9,1.93,3.55,4.23,1.93,3.52,4.03,1.92,1.98,1.88,1.94,-0.5,1.95,1.95,Lille,Stade Rennais,lille,stade_rennais
+2024-12-08,F1,France-L1,2425,Nantes,Rennes,1.0,0.0,H,0.0,0.0,D,3.0,3.25,2.4,3.16,3.15,2.51,3.04,3.16,2.47,2.2,1.67,2.19,1.68,0.25,1.74,2.04,FC Nantes,Stade Rennais,fc_nantes,stade_rennais
+2025-01-03,F1,France-L1,2425,Nice,Rennes,3.0,2.0,H,3.0,1.0,H,2.2,3.3,3.4,2.22,3.42,3.51,2.19,3.35,3.39,1.97,1.93,1.94,1.87,-0.25,1.91,2.02,OGC Nice,Stade Rennais,ogc_nice,stade_rennais
+2025-01-25,F1,France-L1,2425,Monaco,Rennes,3.0,2.0,H,1.0,1.0,D,1.7,3.9,4.75,1.75,4.02,4.66,1.73,3.94,4.61,1.68,2.05,1.71,2.12,-0.75,1.95,1.95,AS Monaco,Stade Rennais,as_monaco,stade_rennais
+2025-02-08,F1,France-L1,2425,St Etienne,Rennes,0.0,2.0,A,0.0,1.0,A,3.3,3.4,2.15,3.52,3.36,2.22,3.37,3.35,2.2,2.07,1.83,2.03,1.81,0.25,1.99,1.91,Saint-Etienne,Stade Rennais,saint_etienne,stade_rennais
+2025-03-02,F1,France-L1,2425,Montpellier,Rennes,0.0,4.0,A,0.0,1.0,A,3.5,3.4,2.1,3.62,3.53,2.11,3.49,3.49,2.09,1.85,2.05,1.82,2.01,0.25,2.09,1.84,Montpellier,Stade Rennais,montpellier,stade_rennais
+2025-03-15,F1,France-L1,2425,Lens,Rennes,1.0,0.0,H,0.0,0.0,D,2.05,3.5,3.6,2.09,3.5,3.69,2.08,3.45,3.59,1.98,1.92,1.92,1.9,-0.25,1.75,2.05,RC Lens,Stade Rennais,rc_lens,stade_rennais
+2025-03-30,F1,France-L1,2425,Angers,Rennes,0.0,3.0,A,0.0,1.0,A,4.2,3.6,1.82,4.27,3.55,1.93,4.1,3.55,1.89,2.0,1.9,1.95,1.86,0.5,1.99,1.91,Angers,Stade Rennais,angers,stade_rennais
+2025-04-13,F1,France-L1,2425,Le Havre,Rennes,1.0,5.0,A,1.0,3.0,A,3.5,3.4,2.1,3.6,3.49,2.13,3.52,3.44,2.09,2.01,1.89,1.96,1.86,0.25,2.05,1.85,Le Havre,Stade Rennais,le_havre,stade_rennais
+2025-04-26,F1,France-L1,2425,Lyon,Rennes,4.0,1.0,H,3.0,0.0,H,1.75,4.2,4.1,1.79,4.12,4.29,1.76,4.09,4.17,1.57,2.38,1.55,2.39,-0.75,1.99,1.91,Olympique Lyonnais,Stade Rennais,olympique_lyonnais,stade_rennais
+2025-05-03,F1,France-L1,2425,Toulouse,Rennes,2.0,1.0,H,1.0,0.0,H,2.15,3.4,3.4,2.17,3.48,3.49,2.12,3.43,3.42,1.98,1.92,1.95,1.87,-0.25,1.87,2.03,Toulouse,Stade Rennais,toulouse,stade_rennais
+2025-05-17,F1,France-L1,2425,Marseille,Rennes,4.0,2.0,H,3.0,1.0,H,1.75,3.9,4.2,1.76,4.03,4.2,1.78,4.04,4.05,1.5,2.63,1.48,2.57,-0.75,2.0,1.85,Olympique Marseille,Stade Rennais,olympique_marseille,stade_rennais
+2025-08-24,F1,France-L1,2526,Lorient,Rennes,4.0,0.0,H,1.0,0.0,H,2.8,3.3,2.55,2.84,3.3,2.64,2.71,3.29,2.54,1.98,1.88,1.94,1.81,0.0,2.0,1.85,Lorient,Stade Rennais,lorient,stade_rennais
+2025-08-31,F1,France-L1,2526,Angers,Rennes,1.0,1.0,D,0.0,1.0,A,3.4,3.5,2.1,3.47,3.53,2.16,3.34,3.37,2.11,2.05,1.8,2.0,1.76,0.25,2.03,1.83,Angers,Stade Rennais,angers,stade_rennais
+2025-09-20,F1,France-L1,2526,Nantes,Rennes,2.0,2.0,D,0.0,2.0,A,3.5,3.4,2.1,3.69,3.47,2.11,3.39,3.35,2.11,2.05,1.8,1.98,1.78,0.25,2.05,1.8,FC Nantes,Stade Rennais,fc_nantes,stade_rennais
+2025-10-05,F1,France-L1,2526,Le Havre,Rennes,2.0,2.0,D,1.0,2.0,A,3.1,3.3,2.35,3.08,3.33,2.45,3.04,3.29,2.31,2.0,1.85,1.95,1.8,0.25,1.83,2.03,Le Havre,Stade Rennais,le_havre,stade_rennais
+2025-10-29,F1,France-L1,2526,Toulouse,Rennes,2.0,2.0,D,0.0,0.0,D,2.15,3.5,3.3,2.21,3.53,3.36,2.12,3.44,3.32,1.93,1.93,1.86,1.89,-0.25,1.88,1.98,Toulouse,Stade Rennais,toulouse,stade_rennais
+2025-11-07,F1,France-L1,2526,Paris FC,Rennes,0.0,1.0,A,0.0,0.0,D,2.2,3.5,3.2,2.27,3.61,3.22,2.19,3.5,3.13,1.8,2.0,1.75,2.02,-0.25,1.93,1.93,Paris FC,Stade Rennais,paris_fc,stade_rennais
+2025-11-28,F1,France-L1,2526,Metz,Rennes,0.0,1.0,A,0.0,1.0,A,4.0,3.6,1.85,4.0,3.97,1.89,3.78,3.75,1.88,1.67,2.2,1.66,2.16,0.5,1.98,1.88,Metz,Stade Rennais,metz,stade_rennais
+2025-12-06,F1,France-L1,2526,Paris SG,Rennes,5.0,0.0,H,2.0,0.0,H,1.3,6.5,7.5,1.31,6.21,8.64,1.28,5.86,8.8,1.4,3.0,1.39,2.85,-1.5,1.78,2.03,Paris Saint-Germain,Stade Rennais,paris_saint_germain,stade_rennais
+2026-01-03,F1,France-L1,2526,Lille,Rennes,0.0,2.0,A,0.0,0.0,D,1.9,3.7,4.0,1.89,3.67,4.27,1.87,3.63,3.92,1.67,2.2,1.66,2.15,-0.5,1.88,1.98,Lille,Stade Rennais,lille,stade_rennais
+2026-01-31,F1,France-L1,2526,Monaco,Rennes,4.0,0.0,H,1.0,0.0,H,2.0,3.9,3.3,,,,1.98,3.83,3.31,1.5,2.63,1.47,2.57,-0.5,2.03,1.83,AS Monaco,Stade Rennais,as_monaco,stade_rennais
+2026-02-07,F1,France-L1,2526,Lens,Rennes,3.0,1.0,H,1.0,1.0,D,1.75,3.8,4.5,,,,1.76,3.81,4.19,1.62,2.3,1.58,2.29,-0.75,2.03,1.83,RC Lens,Stade Rennais,rc_lens,stade_rennais
+2026-02-22,F1,France-L1,2526,Auxerre,Rennes,0.0,3.0,A,0.0,3.0,A,2.9,3.4,2.35,,,,2.91,3.33,2.36,1.91,1.91,1.85,1.88,0.25,1.8,2.05,AJ Auxerre,Stade Rennais,aj_auxerre,stade_rennais
+2026-03-08,F1,France-L1,2526,Nice,Rennes,0.0,4.0,A,0.0,2.0,A,2.88,3.5,2.35,,,,2.74,3.56,2.36,1.67,2.2,1.63,2.18,0.25,1.8,2.05,OGC Nice,Stade Rennais,ogc_nice,stade_rennais
+2026-04-04,F1,France-L1,2526,Brest,Rennes,3.0,4.0,A,1.0,2.0,A,3.1,3.5,2.25,,,,3.07,3.42,2.21,1.91,1.91,1.83,1.9,0.25,1.88,1.98,Stade Brestois,Stade Rennais,stade_brestois,stade_rennais
+2026-04-19,F1,France-L1,2526,Strasbourg,Rennes,0.0,3.0,A,0.0,1.0,A,2.63,3.75,2.5,,,,2.57,3.6,2.49,1.67,2.2,1.65,2.15,0.0,2.0,1.85,RC Strasbourg,Stade Rennais,rc_strasbourg,stade_rennais
+2026-05-03,F1,France-L1,2526,Lyon,Rennes,4.0,2.0,H,2.0,1.0,H,2.1,3.5,2.88,,,,2.16,3.59,2.99,1.67,2.2,1.65,2.14,-0.25,1.93,1.93,Olympique Lyonnais,Stade Rennais,olympique_lyonnais,stade_rennais
+2026-05-17,F1,France-L1,2526,Marseille,Rennes,3.0,1.0,H,2.0,0.0,H,1.95,3.7,3.25,,,,1.99,3.69,3.33,1.57,2.38,1.54,2.36,-0.5,2.03,1.83,Olympique Marseille,Stade Rennais,olympique_marseille,stade_rennais
+2026-09-06,F1,France-L1,2627,Angers,Rennes,1.0,2.0,A,1.0,2.0,A,4.0,3.75,1.85,,,,3.79,3.75,1.86,1.67,2.2,1.64,2.17,0.5,1.98,1.88,Angers,Stade Rennais,angers,stade_rennais
+2026-09-19,F1,France-L1,2627,Lyon,Rennes,4.0,0.0,H,2.0,0.0,H,2.1,3.7,3.2,,,,2.09,3.72,3.09,1.57,2.38,1.52,2.44,-0.25,1.85,2.0,Olympique Lyonnais,Stade Rennais,olympique_lyonnais,stade_rennais
+2026-10-18,F1,France-L1,2627,Paris FC,Rennes,4.0,3.0,H,2.0,1.0,H,2.25,3.6,3.0,,,,2.26,3.5,2.93,1.67,2.2,1.63,2.18,-0.25,1.98,1.88,Paris FC,Stade Rennais,paris_fc,stade_rennais

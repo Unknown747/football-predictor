@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E3,England-L2,2122,Oldham,Newport County,0.0,1.0,A,0.0,0.0,D,2.62,3.25,2.62,2.68,3.32,2.71,2.61,3.26,2.65,2.05,1.75,2.0,1.8,0.0,1.93,1.93,Oldham,Newport County,oldham,newport_county
+2021-08-21,E3,England-L2,2122,Oldham,Colchester,1.0,2.0,A,0.0,2.0,A,2.55,3.5,2.7,2.53,3.58,2.75,2.52,3.4,2.67,1.95,1.85,1.94,1.84,0.0,1.93,2.0,Oldham,Colchester United,oldham,colchester_united
+2021-09-04,E3,England-L2,2122,Oldham,Barrow,0.0,3.0,A,0.0,1.0,A,2.7,3.2,2.7,2.66,3.3,2.79,2.59,3.23,2.73,2.07,1.72,2.06,1.75,0.0,1.9,1.95,Oldham,Barrow,oldham,barrow
+2021-09-18,E3,England-L2,2122,Oldham,Hartlepool,0.0,0.0,D,0.0,0.0,D,3.1,3.4,2.3,3.07,3.47,2.33,2.97,3.36,2.33,2.0,1.8,1.99,1.8,0.25,1.88,2.05,Oldham,Hartlepool United,oldham,hartlepool_united
+2021-10-02,E3,England-L2,2122,Oldham,Harrogate,1.0,2.0,A,0.0,1.0,A,3.25,3.5,2.15,3.12,3.72,2.2,3.05,3.54,2.21,1.9,1.9,1.88,1.9,0.25,1.93,1.93,Oldham,Harrogate Town,oldham,harrogate_town
+2021-10-16,E3,England-L2,2122,Oldham,Stevenage,3.0,0.0,H,2.0,0.0,H,2.7,3.1,2.8,2.63,3.29,2.77,2.61,3.19,2.71,2.2,1.65,2.2,1.65,0.0,1.88,1.98,Oldham,Stevenage,oldham,stevenage
+2021-10-19,E3,England-L2,2122,Oldham,Walsall,1.0,3.0,A,0.0,2.0,A,2.8,3.3,2.55,2.93,3.03,2.76,2.79,3.04,2.65,2.25,1.61,2.28,1.6,0.0,2.0,1.85,Oldham,Walsall,oldham,walsall
+2021-10-30,E3,England-L2,2122,Oldham,Swindon,1.0,3.0,A,0.0,1.0,A,3.25,3.25,2.3,3.22,3.35,2.3,3.05,3.28,2.3,2.1,1.7,2.07,1.72,0.25,1.88,1.98,Oldham,Swindon Town,oldham,swindon_town
+2021-11-20,E3,England-L2,2122,Oldham,Port Vale,3.0,2.0,H,1.0,1.0,D,4.1,3.4,1.95,3.9,3.49,1.99,3.74,3.41,1.99,2.05,1.75,2.03,1.76,0.5,1.88,1.98,Oldham,Port Vale,oldham,port_vale
+2021-12-07,E3,England-L2,2122,Oldham,Tranmere,0.0,1.0,A,0.0,0.0,D,2.75,3.4,2.55,2.82,3.17,2.75,2.74,3.17,2.62,2.07,1.72,2.14,1.69,0.0,1.98,1.88,Oldham,Tranmere Rovers,oldham,tranmere_rovers
+2021-12-11,E3,England-L2,2122,Oldham,Forest Green,5.0,5.0,D,1.0,3.0,A,4.5,3.75,1.8,4.33,3.87,1.79,4.19,3.73,1.79,1.88,1.98,1.8,1.99,0.5,2.05,1.75,Oldham,Forest Green Rovers,oldham,forest_green_rovers
+2021-12-26,E3,England-L2,2122,Oldham,Scunthorpe,1.0,3.0,A,1.0,0.0,H,2.1,3.4,3.5,2.15,3.42,3.48,2.11,3.36,3.37,2.05,1.75,2.01,1.77,-0.25,1.83,2.02,Oldham,Scunthorpe United,oldham,scunthorpe_united
+2022-01-29,E3,England-L2,2122,Oldham,Rochdale,0.0,0.0,D,0.0,0.0,D,3.0,3.4,2.37,3.13,3.57,2.25,3.01,3.45,2.24,1.98,1.88,1.83,1.94,0.25,1.83,2.02,Oldham,Rochdale,oldham,rochdale
+2022-02-08,E3,England-L2,2122,Oldham,Bristol Rvs,2.0,1.0,H,2.0,1.0,H,2.8,3.1,2.62,2.87,3.22,2.68,2.77,3.15,2.58,2.07,1.72,2.06,1.73,0.0,2.0,1.85,Oldham,Bristol Rvs,oldham,bristol_rvs
+2022-02-19,E3,England-L2,2122,Oldham,Bradford,2.0,0.0,H,2.0,0.0,H,3.2,3.2,2.37,3.25,3.28,2.31,3.09,3.25,2.3,2.1,1.7,2.05,1.73,0.25,1.88,1.98,Oldham,Bradford City,oldham,bradford_city
+2022-03-05,E3,England-L2,2122,Oldham,Carlisle,1.0,2.0,A,1.0,0.0,H,2.4,3.3,3.0,2.43,3.23,3.1,2.37,3.21,3.0,2.15,1.66,2.14,1.67,-0.25,2.05,1.8,Oldham,Carlisle United,oldham,carlisle_united
+2022-03-19,E3,England-L2,2122,Oldham,Exeter,0.0,2.0,A,0.0,0.0,D,4.0,3.6,1.9,3.83,3.67,1.95,3.74,3.54,1.94,1.98,1.88,1.94,1.83,0.5,1.98,1.88,Oldham,Exeter City,oldham,exeter_city
+2022-03-22,E3,England-L2,2122,Oldham,Sutton,1.0,3.0,A,0.0,1.0,A,3.4,3.3,2.2,3.48,3.41,2.21,3.31,3.32,2.17,2.02,1.83,1.95,1.81,0.25,1.98,1.88,Oldham,Sutton United,oldham,sutton_united
+2022-03-26,E3,England-L2,2122,Oldham,Mansfield,1.0,2.0,A,1.0,0.0,H,3.8,3.6,1.95,3.99,3.65,1.96,3.75,3.55,1.93,1.95,1.9,1.91,1.85,0.5,1.88,1.98,Oldham,Mansfield Town,oldham,mansfield_town
+2022-03-29,E3,England-L2,2122,Oldham,Leyton Orient,2.0,0.0,H,1.0,0.0,H,3.6,3.4,2.1,3.6,3.39,2.17,3.48,3.25,2.13,2.25,1.61,2.19,1.65,0.25,2.02,1.83,Oldham,Leyton Orient,oldham,leyton_orient
+2022-04-15,E3,England-L2,2122,Oldham,Northampton,0.0,2.0,A,0.0,1.0,A,3.8,3.25,2.1,3.56,3.54,2.13,3.46,3.32,2.11,2.15,1.66,2.12,1.68,0.25,2.05,1.75,Oldham,Northampton Town,oldham,northampton_town
+2022-04-23,E3,England-L2,2122,Oldham,Salford,1.0,2.0,A,1.0,2.0,A,3.6,3.4,2.1,3.72,3.42,2.06,3.47,3.41,2.06,1.93,1.93,1.94,1.83,0.25,2.05,1.8,Oldham,Salford City,oldham,salford_city
+2022-05-07,E3,England-L2,2122,Oldham,Crawley Town,3.0,3.0,D,2.0,2.0,D,2.6,3.4,2.62,2.53,3.76,2.61,2.52,3.5,2.6,1.75,2.05,1.73,2.06,0.0,1.88,1.98,Oldham,Crawley Town,oldham,crawley_town
+2022-08-13,EC,England-Conference,2223,Oldham,Dorking,3.0,2.0,H,1.0,0.0,H,1.83,3.6,3.75,1.9,4.1,3.6,1.85,3.73,3.65,1.66,2.15,1.64,2.17,-0.5,1.83,1.98,Oldham,Dorking,oldham,dorking
+2022-08-16,EC,England-Conference,2223,Oldham,Wealdstone,1.0,2.0,A,0.0,2.0,A,1.66,4.0,4.5,1.69,4.07,4.69,1.66,3.93,4.52,1.7,2.1,1.7,2.07,-0.75,1.85,1.95,Oldham,Wealdstone,oldham,wealdstone
+2022-08-26,EC,England-Conference,2223,Oldham,Aldershot,2.0,1.0,H,1.0,1.0,D,1.66,4.0,4.75,1.67,4.11,4.88,1.65,3.93,4.62,1.75,2.05,1.7,2.07,-0.75,1.85,1.95,Oldham,Aldershot,oldham,aldershot
+2022-09-03,EC,England-Conference,2223,Oldham,Chesterfield,0.0,2.0,A,0.0,2.0,A,2.87,3.5,2.15,3.43,3.71,2.06,3.24,3.47,2.07,1.88,1.93,1.86,1.87,0.25,1.85,1.95,Oldham,Chesterfield,oldham,chesterfield
+2022-09-17,EC,England-Conference,2223,Oldham,Eastleigh,3.0,2.0,H,1.0,2.0,A,1.95,3.5,3.5,2.18,3.71,3.17,2.07,3.49,3.17,1.77,2.02,1.8,1.93,-0.25,1.7,2.1,Oldham,Eastleigh,oldham,eastleigh
+2022-10-01,EC,England-Conference,2223,Oldham,Wrexham,1.0,2.0,A,1.0,0.0,H,6.0,4.5,1.5,6.06,4.68,1.49,5.6,4.43,1.47,1.65,2.2,1.59,2.26,1.0,1.85,1.95,Oldham,Wrexham,oldham,wrexham
+2022-10-04,EC,England-Conference,2223,Oldham,Scunthorpe,2.0,2.0,D,1.0,2.0,A,1.9,3.3,3.6,2.03,3.66,3.58,2.0,3.48,3.36,1.83,1.98,1.78,1.96,-0.5,2.0,1.8,Oldham,Scunthorpe United,oldham,scunthorpe_united
+2022-10-22,EC,England-Conference,2223,Oldham,Yeovil,2.0,0.0,H,1.0,0.0,H,2.4,3.6,2.7,2.43,3.35,3.0,2.35,3.29,2.83,1.98,1.83,1.96,1.78,-0.25,2.05,1.75,Oldham,Yeovil Town,oldham,yeovil_town
+2022-11-12,EC,England-Conference,2223,Oldham,Barnet,0.0,2.0,A,0.0,0.0,D,2.37,3.5,2.62,2.33,3.62,2.95,2.29,3.53,2.76,1.6,2.3,1.57,2.29,-0.25,2.08,1.73,Oldham,Barnet,oldham,barnet
+2022-12-11,EC,England-Conference,2223,Oldham,Torquay,3.0,2.0,H,1.0,0.0,H,1.91,3.75,3.6,1.83,3.57,4.28,1.9,3.46,3.76,1.95,1.85,1.89,1.84,-0.5,1.88,1.93,Oldham,Torquay,oldham,torquay
+2023-01-01,EC,England-Conference,2223,Oldham,Notts County,2.0,2.0,D,0.0,0.0,D,6.5,4.0,1.44,6.57,4.79,1.45,6.27,4.47,1.42,1.6,2.3,1.59,2.26,1.25,1.85,1.95,Oldham,Notts County,oldham,notts_county
+2023-01-24,EC,England-Conference,2223,Oldham,York,2.0,0.0,H,1.0,0.0,H,2.2,3.3,3.25,2.33,3.33,3.19,2.22,3.26,3.07,1.98,1.83,1.91,1.83,-0.25,1.95,1.85,Oldham,York,oldham,york
+2023-02-04,EC,England-Conference,2223,Oldham,Halifax,0.0,1.0,A,0.0,0.0,D,2.55,2.88,2.8,2.42,3.26,3.08,2.4,3.13,2.86,2.1,1.7,2.07,1.69,-0.25,2.15,1.68,Oldham,Halifax,oldham,halifax
+2023-02-07,EC,England-Conference,2223,Oldham,Dag and Red,4.0,2.0,H,0.0,1.0,A,2.05,3.5,3.0,2.2,3.52,3.27,2.14,3.37,3.1,1.98,1.83,1.92,1.81,-0.25,1.85,1.95,Oldham,Dag and Red,oldham,dag_and_red
+2023-02-14,EC,England-Conference,2223,Oldham,Gateshead,2.0,2.0,D,0.0,0.0,D,2.3,3.3,2.88,2.36,3.43,3.05,2.27,3.34,2.87,1.93,1.88,1.9,1.84,-0.25,2.0,1.8,Oldham,Gateshead,oldham,gateshead
+2023-02-18,EC,England-Conference,2223,Oldham,Maidstone,2.0,0.0,H,1.0,0.0,H,1.8,3.5,4.0,1.88,3.84,3.95,1.83,3.65,3.79,1.8,2.0,1.75,1.97,-0.5,1.8,2.0,Oldham,Maidstone,oldham,maidstone
+2023-03-04,EC,England-Conference,2223,Oldham,Boreham Wood,0.0,2.0,A,0.0,0.0,D,2.63,3.2,2.4,3.18,3.25,2.37,2.93,3.19,2.31,2.0,1.8,2.05,1.72,0.25,1.7,2.1,Oldham,Boreham Wood,oldham,boreham_wood
+2023-03-07,EC,England-Conference,2223,Oldham,Woking,1.0,0.0,H,0.0,0.0,D,3.6,3.2,2.0,3.84,3.49,2.0,3.55,3.32,1.98,2.05,1.75,1.99,1.76,0.5,1.83,1.98,Oldham,Woking,oldham,woking
+2023-03-25,EC,England-Conference,2223,Oldham,Solihull,1.0,1.0,D,1.0,0.0,H,2.3,3.4,2.55,2.57,3.51,2.7,2.42,3.38,2.64,1.85,1.95,1.83,1.91,0.0,1.8,2.0,Oldham,Solihull,oldham,solihull
+2023-04-07,EC,England-Conference,2223,Oldham,Altrincham,2.0,2.0,D,1.0,0.0,H,2.2,3.4,3.2,2.34,3.29,3.2,2.23,3.3,3.01,1.8,2.0,1.86,1.88,-0.25,1.9,1.9,Oldham,Altrincham,oldham,altrincham
+2023-04-15,EC,England-Conference,2223,Oldham,Maidenhead,1.0,0.0,H,1.0,0.0,H,2.1,3.2,3.75,2.12,3.41,3.57,2.08,3.25,3.4,2.0,1.8,2.0,1.74,-0.25,1.75,2.05,Oldham,Maidenhead,oldham,maidenhead
+2023-04-18,EC,England-Conference,2223,Oldham,Southend,2.0,0.0,H,1.0,0.0,H,3.2,3.3,2.05,3.71,3.22,2.15,3.45,3.14,2.1,2.1,1.7,2.17,1.63,0.25,1.98,1.83,Oldham,Southend United,oldham,southend_united
+2023-04-29,EC,England-Conference,2223,Oldham,Bromley,1.0,1.0,D,1.0,0.0,H,2.7,3.25,2.55,2.7,3.35,2.67,2.63,3.28,2.51,1.82,1.98,1.83,1.9,0.0,1.98,1.82,Oldham,Bromley,oldham,bromley
+2023-08-12,EC,England-Conference,2324,Oldham,Aldershot,5.0,1.0,H,3.0,0.0,H,1.95,3.4,3.8,2.07,3.41,3.7,1.97,3.38,3.57,1.9,1.9,1.9,1.83,-0.5,1.98,1.83,Oldham,Aldershot,oldham,aldershot
+2023-08-15,EC,England-Conference,2324,Oldham,Halifax,1.0,2.0,A,1.0,1.0,D,1.85,3.2,4.2,1.93,3.27,4.48,1.9,3.25,4.03,2.15,1.67,2.13,1.66,-0.5,1.9,1.9,Oldham,Halifax,oldham,halifax
+2023-08-28,EC,England-Conference,2324,Oldham,Solihull,0.0,2.0,A,0.0,0.0,D,1.95,3.6,3.6,1.9,3.98,3.72,1.9,3.7,3.51,1.7,2.1,1.68,2.09,-0.5,1.93,1.88,Oldham,Solihull,oldham,solihull
+2023-09-09,EC,England-Conference,2324,Oldham,Dorking,0.0,0.0,D,0.0,0.0,D,1.6,4.0,4.5,1.58,4.35,5.14,1.57,4.16,4.8,1.53,2.4,1.52,2.37,-1.0,2.03,1.78,Oldham,Dorking,oldham,dorking
+2023-09-19,EC,England-Conference,2324,Oldham,York,2.0,0.0,H,1.0,0.0,H,1.91,3.6,3.6,2.01,3.84,3.47,1.98,3.59,3.35,1.83,1.98,1.72,2.04,-0.5,1.93,1.88,Oldham,York,oldham,york
+2023-09-23,EC,England-Conference,2324,Oldham,Oxford City,4.0,0.0,H,2.0,0.0,H,1.65,3.6,5.5,1.66,4.09,4.94,1.63,3.9,4.66,1.7,2.1,1.66,2.13,-0.75,1.8,2.0,Oldham,Oxford City,oldham,oxford_city
+2023-10-03,EC,England-Conference,2324,Oldham,Maidenhead,1.0,1.0,D,1.0,0.0,H,1.62,3.8,4.75,1.62,4.22,5.11,1.6,3.9,4.81,1.83,1.98,1.77,1.95,-1.0,2.05,1.75,Oldham,Maidenhead,oldham,maidenhead
+2023-10-07,EC,England-Conference,2324,Oldham,Dag and Red,1.0,1.0,D,1.0,0.0,H,1.73,3.4,4.5,1.8,3.69,4.51,1.76,3.49,4.25,2.0,1.8,1.96,1.76,-0.75,2.0,1.8,Oldham,Dag and Red,oldham,dag_and_red
+2023-10-28,EC,England-Conference,2324,Oldham,Altrincham,2.0,2.0,D,1.0,2.0,A,2.2,3.5,3.1,2.25,3.86,2.93,2.16,3.59,2.9,1.67,2.15,1.65,2.14,-0.25,1.95,1.85,Oldham,Altrincham,oldham,altrincham
+2023-11-11,EC,England-Conference,2324,Oldham,Eastleigh,1.0,1.0,D,0.0,1.0,A,1.67,3.75,5.0,1.56,4.1,4.71,1.62,3.93,4.57,1.65,2.2,1.6,2.21,-0.75,1.8,2.0,Oldham,Eastleigh,oldham,eastleigh
+2023-11-25,EC,England-Conference,2324,Oldham,Ebbsfleet,1.0,4.0,A,0.0,1.0,A,1.65,3.8,4.5,1.68,4.22,4.63,1.65,3.98,4.38,1.57,2.35,1.54,2.37,-0.75,1.8,2.0,Oldham,Ebbsfleet,oldham,ebbsfleet
+2023-12-23,EC,England-Conference,2324,Oldham,Gateshead,1.0,2.0,A,1.0,0.0,H,2.8,3.6,2.2,3.15,3.68,2.2,2.89,3.55,2.17,1.62,2.25,1.6,2.23,0.25,1.85,1.95,Oldham,Gateshead,oldham,gateshead
+2023-12-30,EC,England-Conference,2324,Oldham,Hartlepool,2.0,0.0,H,1.0,0.0,H,1.95,3.5,3.3,2.0,3.77,3.56,1.97,3.58,3.32,1.65,2.2,1.63,2.17,-0.5,1.98,1.83,Oldham,Hartlepool United,oldham,hartlepool_united
+2024-01-23,EC,England-Conference,2324,Oldham,Barnet,2.0,0.0,H,1.0,0.0,H,2.5,3.5,2.7,2.52,3.49,2.78,2.44,3.44,2.58,1.7,2.1,1.66,2.11,0.0,1.83,1.98,Oldham,Barnet,oldham,barnet
+2024-01-27,EC,England-Conference,2324,Oldham,Woking,0.0,1.0,A,0.0,0.0,D,1.75,3.6,4.2,1.93,3.67,3.92,1.85,3.51,3.81,1.85,1.95,1.85,1.88,-0.5,1.78,2.03,Oldham,Woking,oldham,woking
+2024-02-13,EC,England-Conference,2324,Oldham,Boreham Wood,2.0,1.0,H,0.0,1.0,A,1.8,3.4,4.0,1.85,3.7,4.25,1.84,3.52,3.89,1.88,1.93,1.84,1.9,-0.5,1.85,1.95,Oldham,Boreham Wood,oldham,boreham_wood
+2024-02-24,EC,England-Conference,2324,Oldham,Kidderminster,1.0,2.0,A,0.0,1.0,A,2.1,3.2,3.6,2.08,3.37,3.74,2.04,3.21,3.5,2.4,1.53,2.36,1.54,-0.5,2.08,1.73,Oldham,Kidderminster,oldham,kidderminster
+2024-03-02,EC,England-Conference,2324,Oldham,Southend,1.0,1.0,D,0.0,0.0,D,2.3,3.4,2.7,2.55,3.36,2.82,2.37,3.29,2.76,1.98,1.83,1.96,1.79,0.0,1.8,2.0,Oldham,Southend United,oldham,southend_united
+2024-03-05,EC,England-Conference,2324,Oldham,Bromley,0.0,0.0,D,0.0,0.0,D,2.2,3.3,2.9,2.33,3.26,3.23,2.24,3.21,3.03,2.1,1.7,2.08,1.7,-0.25,2.0,1.8,Oldham,Bromley,oldham,bromley
+2024-03-16,EC,England-Conference,2324,Oldham,Chesterfield,2.0,2.0,D,2.0,1.0,H,4.0,3.75,1.75,4.16,3.73,1.85,4.02,3.63,1.78,1.8,2.0,1.79,1.95,0.5,2.03,1.78,Oldham,Chesterfield,oldham,chesterfield
+2024-03-29,EC,England-Conference,2324,Oldham,Fylde,1.0,3.0,A,1.0,3.0,A,2.2,3.6,3.0,2.23,3.58,3.1,2.16,3.5,2.99,1.73,2.08,1.72,2.05,-0.25,1.9,1.9,Oldham,Fylde,oldham,fylde
+2024-04-06,EC,England-Conference,2324,Oldham,Rochdale,1.0,1.0,D,1.0,1.0,D,2.0,3.4,3.3,2.1,3.4,3.55,2.03,3.33,3.4,2.0,1.8,1.98,1.77,-0.25,1.78,2.03,Oldham,Rochdale,oldham,rochdale
+2024-04-20,EC,England-Conference,2324,Oldham,Wealdstone,2.0,3.0,A,1.0,0.0,H,1.75,3.6,3.75,1.83,3.69,4.22,1.81,3.61,3.92,1.75,2.05,1.76,2.0,-0.5,1.83,1.98,Oldham,Wealdstone,oldham,wealdstone
+2024-08-10,EC,England-Conference,2425,Oldham,Braintree Town,3.0,0.0,H,2.0,0.0,H,1.75,3.5,4.75,1.81,3.5,4.33,1.77,3.51,4.25,1.95,1.85,1.86,1.87,-0.75,1.98,1.83,Oldham,Braintree Town,oldham,braintree_town
+2024-08-20,EC,England-Conference,2425,Oldham,Fylde,1.0,1.0,D,0.0,1.0,A,1.9,3.5,3.5,1.93,3.59,3.95,1.9,3.47,3.68,1.9,1.9,1.87,1.87,-0.5,1.93,1.88,Oldham,Fylde,oldham,fylde
+2024-08-26,EC,England-Conference,2425,Oldham,Gateshead,1.0,1.0,D,0.0,1.0,A,2.8,3.4,2.25,2.89,3.62,2.34,2.86,3.44,2.25,1.83,1.98,1.79,1.96,0.25,1.8,2.0,Oldham,Gateshead,oldham,gateshead
+2024-09-07,EC,England-Conference,2425,Oldham,Southend,1.0,1.0,D,0.0,1.0,A,2.15,3.5,2.88,2.27,3.31,3.1,2.23,3.27,3.01,2.1,1.7,2.08,1.69,-0.25,1.98,1.83,Oldham,Southend United,oldham,southend_united
+2024-09-21,EC,England-Conference,2425,Oldham,Yeovil,1.0,0.0,H,0.0,0.0,D,1.83,3.7,3.7,1.86,3.49,4.05,1.85,3.49,3.87,2.0,1.8,1.97,1.77,-0.5,1.85,1.95,Oldham,Yeovil Town,oldham,yeovil_town
+2024-09-24,EC,England-Conference,2425,Oldham,Forest Green,1.0,0.0,H,1.0,0.0,H,2.38,3.25,2.7,2.54,3.13,2.98,2.41,3.14,2.84,2.05,1.75,2.01,1.75,-0.25,2.08,1.73,Oldham,Forest Green Rovers,oldham,forest_green_rovers
+2024-10-05,EC,England-Conference,2425,Oldham,Solihull,2.0,3.0,A,0.0,0.0,D,1.85,3.5,3.7,1.88,3.53,3.93,1.88,3.48,3.74,1.93,1.88,1.89,1.84,-0.5,1.9,1.9,Oldham,Solihull,oldham,solihull
+2024-10-26,EC,England-Conference,2425,Oldham,Dag and Red,1.0,0.0,H,1.0,0.0,H,2.1,3.4,3.5,2.1,3.38,3.38,2.05,3.33,3.31,1.95,1.85,1.9,1.83,-0.25,1.8,2.0,Oldham,Dag and Red,oldham,dag_and_red
+2024-11-16,EC,England-Conference,2425,Oldham,Tamworth,4.0,0.0,H,3.0,0.0,H,1.6,4.33,4.75,1.57,4.02,5.71,1.57,3.93,5.24,1.85,1.95,1.84,1.9,-1.0,2.0,1.8,Oldham,Tamworth,oldham,tamworth
+2024-11-26,EC,England-Conference,2425,Oldham,Boston Utd,4.0,0.0,H,2.0,0.0,H,1.42,4.2,6.25,1.45,4.45,6.98,1.44,4.21,6.49,1.83,1.98,1.81,1.93,-1.25,2.03,1.78,Oldham,Boston Utd,oldham,boston_utd
+2024-12-14,EC,England-Conference,2425,Oldham,Wealdstone,3.0,2.0,H,1.0,2.0,A,1.57,4.2,5.25,1.57,4.0,5.32,1.56,3.96,5.24,1.83,1.98,1.8,1.95,-1.0,1.98,1.83,Oldham,Wealdstone,oldham,wealdstone
+2025-01-18,EC,England-Conference,2425,Oldham,Aldershot,1.0,3.0,A,1.0,2.0,A,1.55,4.0,5.0,1.51,4.36,5.44,1.53,4.17,5.14,1.67,2.15,1.64,2.17,-1.0,1.95,1.85,Oldham,Aldershot,oldham,aldershot
+2025-01-21,EC,England-Conference,2425,Oldham,York,0.0,2.0,A,0.0,2.0,A,2.3,3.1,3.0,2.39,3.49,2.91,2.32,3.33,2.85,1.85,1.95,1.83,1.92,-0.25,2.03,1.78,Oldham,York,oldham,york
+2025-02-11,EC,England-Conference,2425,Oldham,Altrincham,2.0,2.0,D,0.0,1.0,A,2.05,3.4,3.5,2.06,3.49,3.57,2.02,3.36,3.43,1.93,1.88,1.89,1.85,-0.5,2.05,1.75,Oldham,Altrincham,oldham,altrincham
+2025-02-15,EC,England-Conference,2425,Oldham,Sutton,0.0,0.0,D,0.0,0.0,D,1.75,3.8,4.1,1.78,3.6,4.34,1.75,3.55,4.21,1.85,1.95,1.85,1.88,-0.75,2.0,1.8,Oldham,Sutton United,oldham,sutton_united
+2025-02-18,EC,England-Conference,2425,Oldham,Maidenhead,0.0,1.0,A,0.0,0.0,D,1.5,3.5,6.25,1.57,4.18,5.59,1.54,3.91,5.47,1.83,1.98,1.79,1.95,-1.0,1.93,1.88,Oldham,Maidenhead,oldham,maidenhead
+2025-03-01,EC,England-Conference,2425,Oldham,Barnet,0.0,3.0,A,0.0,0.0,D,2.8,3.2,2.38,2.96,3.22,2.4,2.81,3.13,2.41,2.05,1.75,2.01,1.73,0.0,2.05,1.75,Oldham,Barnet,oldham,barnet
+2025-03-11,EC,England-Conference,2425,Oldham,Eastleigh,2.0,0.0,H,1.0,0.0,H,1.91,3.4,3.8,1.99,3.54,3.68,1.94,3.41,3.65,2.05,1.75,1.99,1.75,-0.5,1.95,1.85,Oldham,Eastleigh,oldham,eastleigh
+2025-03-15,EC,England-Conference,2425,Oldham,Rochdale,1.0,1.0,D,0.0,1.0,A,2.2,3.2,3.25,2.28,3.19,3.18,2.2,3.18,3.18,2.15,1.67,2.1,1.67,-0.25,1.9,1.9,Oldham,Rochdale,oldham,rochdale
+2025-03-22,EC,England-Conference,2425,Oldham,Halifax,2.0,0.0,H,1.0,0.0,H,2.0,3.4,3.4,2.03,3.25,3.76,1.99,3.26,3.64,2.2,1.65,2.19,1.61,-0.5,2.0,1.8,Oldham,Halifax,oldham,halifax
+2025-04-08,EC,England-Conference,2425,Oldham,Woking,1.0,2.0,A,1.0,0.0,H,1.83,3.3,4.33,1.85,3.34,4.68,1.83,3.24,4.42,2.4,1.53,2.37,1.53,-0.5,1.83,1.98,Oldham,Woking,oldham,woking
+2025-04-18,EC,England-Conference,2425,Oldham,Hartlepool,2.0,1.0,H,1.0,1.0,D,2.05,3.5,3.2,2.06,3.43,3.46,2.06,3.37,3.27,2.05,1.75,2.0,1.75,-0.25,1.8,2.0,Oldham,Hartlepool United,oldham,hartlepool_united
+2025-05-05,EC,England-Conference,2425,Oldham,Ebbsfleet,2.0,0.0,H,1.0,0.0,H,1.33,4.1,10.0,1.33,4.61,8.06,1.34,4.49,8.38,1.93,1.88,1.89,1.83,-1.25,1.8,2.0,Oldham,Ebbsfleet,oldham,ebbsfleet
+2025-08-09,E3,England-L2,2526,Oldham,Colchester,1.0,1.0,D,1.0,1.0,D,2.35,3.3,2.9,2.42,3.36,2.87,2.35,3.25,2.93,2.1,1.7,2.09,1.68,-0.25,2.05,1.8,Oldham,Colchester United,oldham,colchester_united
+2025-08-16,E3,England-L2,2526,Oldham,Swindon,1.0,2.0,A,1.0,2.0,A,2.7,3.1,2.6,2.67,3.28,2.62,2.69,3.28,2.53,2.03,1.83,1.99,1.75,0.0,1.95,1.9,Oldham,Swindon Town,oldham,swindon_town
+2025-08-30,E3,England-L2,2526,Oldham,Gillingham,0.0,1.0,A,0.0,0.0,D,2.25,3.1,3.25,2.41,3.05,3.15,2.35,3.1,3.09,2.4,1.53,2.39,1.52,-0.25,2.03,1.83,Oldham,Gillingham,oldham,gillingham
+2025-09-13,E3,England-L2,2526,Oldham,Bromley,1.0,0.0,H,0.0,0.0,D,2.45,3.2,2.82,2.44,3.38,2.81,2.41,3.32,2.81,2.05,1.75,1.97,1.76,0.0,1.8,2.05,Oldham,Bromley,oldham,bromley
+2025-09-27,E3,England-L2,2526,Oldham,Barnet,1.0,1.0,D,0.0,1.0,A,2.57,3.2,2.57,2.67,3.26,2.71,2.61,3.24,2.6,2.08,1.73,2.04,1.72,0.0,1.93,1.93,Oldham,Barnet,oldham,barnet
+2025-10-11,E3,England-L2,2526,Oldham,Barrow,0.0,0.0,D,0.0,0.0,D,1.81,3.3,4.33,1.87,3.5,4.11,1.91,3.37,3.96,2.15,1.67,2.1,1.67,-0.5,1.88,1.98,Oldham,Barrow,oldham,barrow
+2025-10-25,E3,England-L2,2526,Oldham,Shrewsbury,2.0,2.0,D,0.0,0.0,D,1.86,3.4,4.0,1.92,3.5,3.88,1.92,3.37,3.92,2.1,1.7,2.07,1.69,-0.5,1.93,1.93,Oldham,Shrewsbury Town,oldham,shrewsbury_town
+2025-11-15,E3,England-L2,2526,Oldham,Crewe,0.0,0.0,D,0.0,0.0,D,2.2,3.25,3.05,,,,2.27,3.29,3.03,2.05,1.75,1.99,1.74,-0.25,1.98,1.88,Oldham,Crewe Alexandra,oldham,crewe_alexandra
+2025-11-22,E3,England-L2,2526,Oldham,Newport County,3.0,0.0,H,0.0,0.0,D,1.57,4.0,5.0,,,,1.63,3.83,5.06,1.88,1.98,1.87,1.85,-0.75,1.8,2.05,Oldham,Newport County,oldham,newport_county
+2025-12-10,E3,England-L2,2526,Oldham,Walsall,0.0,1.0,A,0.0,1.0,A,2.5,3.2,2.65,,,,2.65,3.13,2.66,2.2,1.65,2.16,1.63,0.0,1.88,1.98,Oldham,Walsall,oldham,walsall
+2025-12-20,E3,England-L2,2526,Oldham,Tranmere,3.0,1.0,H,1.0,1.0,D,1.91,3.5,3.7,,,,1.97,3.45,3.62,2.0,1.8,1.95,1.78,-0.5,1.98,1.88,Oldham,Tranmere Rovers,oldham,tranmere_rovers
+2026-01-01,E3,England-L2,2526,Oldham,Chesterfield,1.0,1.0,D,0.0,1.0,A,2.25,3.25,2.95,,,,2.37,3.29,2.87,1.98,1.88,1.91,1.8,-0.25,2.03,1.83,Oldham,Chesterfield,oldham,chesterfield
+2026-01-17,E3,England-L2,2526,Oldham,Cheltenham,2.0,1.0,H,1.0,1.0,D,1.68,3.6,4.75,,,,1.73,3.57,4.6,2.0,1.85,1.94,1.79,-0.75,1.98,1.88,Oldham,Cheltenham Town,oldham,cheltenham_town
+2026-01-31,E3,England-L2,2526,Oldham,Cambridge,0.0,3.0,A,0.0,0.0,D,2.65,3.0,2.7,,,,2.64,3.0,2.74,2.5,1.5,2.4,1.51,0.0,1.9,1.95,Oldham,Cambridge United,oldham,cambridge_united
+2026-02-14,E3,England-L2,2526,Oldham,Fleetwood Town,1.0,1.0,D,0.0,1.0,A,1.86,3.3,3.8,,,,1.95,3.35,3.69,2.03,1.83,1.93,1.8,-0.5,1.98,1.88,Oldham,Fleetwood Town,oldham,fleetwood_town
+2026-02-17,E3,England-L2,2526,Oldham,Bristol Rvs,2.0,0.0,H,1.0,0.0,H,2.1,3.25,3.3,,,,2.13,3.33,3.28,2.1,1.7,2.01,1.72,-0.25,1.88,1.98,Oldham,Bristol Rvs,oldham,bristol_rvs
+2026-02-28,E3,England-L2,2526,Oldham,Crawley Town,2.0,0.0,H,1.0,0.0,H,1.91,3.4,3.75,,,,1.97,3.4,3.59,1.95,1.85,1.88,1.84,-0.5,2.0,1.85,Oldham,Crawley Town,oldham,crawley_town
+2026-03-14,E3,England-L2,2526,Oldham,Grimsby,1.0,0.0,H,0.0,0.0,D,2.45,3.3,2.65,,,,2.5,3.28,2.67,1.98,1.88,1.92,1.8,0.0,1.85,2.0,Oldham,Grimsby Town,oldham,grimsby_town
+2026-03-21,E3,England-L2,2526,Oldham,Harrogate,1.0,0.0,H,0.0,0.0,D,1.61,3.5,5.5,,,,1.64,3.73,5.05,2.0,1.85,1.89,1.83,-0.75,1.85,2.0,Oldham,Harrogate Town,oldham,harrogate_town
+2026-03-24,E3,England-L2,2526,Oldham,Notts County,3.0,0.0,H,1.0,0.0,H,2.65,3.1,2.57,,,,2.58,3.2,2.64,2.0,1.8,2.0,1.74,0.0,1.93,1.93,Oldham,Notts County,oldham,notts_county
+2026-04-06,E3,England-L2,2526,Oldham,Milton Keynes Dons,1.0,1.0,D,0.0,1.0,A,2.65,3.2,2.5,,,,2.67,3.28,2.48,2.08,1.73,2.02,1.73,0.0,1.98,1.88,Oldham,MK Dons,oldham,mk_dons
+2026-04-18,E3,England-L2,2526,Oldham,Salford,1.0,2.0,A,0.0,2.0,A,2.45,3.25,2.65,,,,2.49,3.3,2.66,1.95,1.85,1.89,1.83,0.0,1.88,1.98,Oldham,Salford City,oldham,salford_city
+2026-05-02,E3,England-L2,2526,Oldham,Accrington,3.0,0.0,H,1.0,0.0,H,1.71,4.1,3.9,,,,1.74,3.76,4.19,1.88,1.98,1.79,1.93,-0.75,2.03,1.83,Oldham,Accrington Stanley,oldham,accrington_stanley
+2026-08-15,E3,England-L2,2627,Oldham,Port Vale,2.0,0.0,H,0.0,0.0,D,2.5,3.2,2.65,,,,2.58,3.25,2.63,2.1,1.7,2.04,1.71,0.0,1.88,1.98,Oldham,Port Vale,oldham,port_vale
+2026-08-29,E3,England-L2,2627,Oldham,Swindon,3.0,0.0,H,1.0,0.0,H,1.91,3.5,3.6,,,,1.91,3.54,3.72,1.9,1.9,1.86,1.85,-0.5,2.0,1.85,Oldham,Swindon Town,oldham,swindon_town
+2026-09-12,E3,England-L2,2627,Oldham,Chesterfield,1.0,2.0,A,0.0,1.0,A,2.1,3.3,3.2,,,,2.17,3.37,3.15,1.95,1.85,1.87,1.84,-0.25,1.9,1.95,Oldham,Chesterfield,oldham,chesterfield
+2026-09-26,E3,England-L2,2627,Oldham,Salford,1.0,4.0,A,1.0,2.0,A,2.4,3.5,2.57,,,,2.44,3.49,2.66,1.75,2.05,1.71,2.04,0.0,1.83,2.03,Oldham,Salford City,oldham,salford_city
+2026-10-10,E3,England-L2,2627,Oldham,Accrington,0.0,0.0,D,0.0,0.0,D,1.61,3.8,5.0,,,,1.64,3.9,4.87,1.8,2.0,1.75,1.99,-0.75,1.85,2.0,Oldham,Accrington Stanley,oldham,accrington_stanley
+2026-10-17,E3,England-L2,2627,Oldham,Cheltenham,4.0,1.0,H,3.0,1.0,H,1.66,4.0,4.33,,,,1.71,3.87,4.38,1.75,2.05,1.71,2.03,-0.5,1.7,2.1,Oldham,Cheltenham Town,oldham,cheltenham_town

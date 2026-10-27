@@ -1,0 +1,121 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E2,England-L1,2122,Sunderland,Wigan,2.0,1.0,H,1.0,1.0,D,1.9,3.6,3.8,1.93,3.61,4.08,1.9,3.53,3.9,1.93,1.93,1.9,1.89,-0.5,1.9,1.95,Sunderland,Wigan Athletic,sunderland,wigan_athletic
+2021-08-21,E2,England-L1,2122,Charlton,Wigan,0.0,2.0,A,0.0,0.0,D,2.3,3.4,3.1,2.35,3.42,3.12,2.3,3.35,3.03,2.0,1.8,1.99,1.81,-0.25,2.05,1.88,Charlton,Wigan Athletic,charlton,wigan_athletic
+2021-09-18,E2,England-L1,2122,Accrington,Wigan,1.0,4.0,A,0.0,2.0,A,2.8,3.5,2.45,2.87,3.36,2.51,2.81,3.29,2.49,2.0,1.8,2.01,1.79,0.25,1.83,2.1,Accrington Stanley,Wigan Athletic,accrington_stanley,wigan_athletic
+2021-10-02,E2,England-L1,2122,Gillingham,Wigan,0.0,2.0,A,0.0,0.0,D,4.5,3.6,1.8,4.32,3.78,1.81,4.25,3.65,1.81,2.05,1.75,1.94,1.85,0.5,2.0,1.85,Gillingham,Wigan Athletic,gillingham,wigan_athletic
+2021-10-16,E2,England-L1,2122,Bolton,Wigan,0.0,4.0,A,0.0,1.0,A,2.6,3.2,2.8,2.63,3.26,2.8,2.54,3.28,2.73,1.95,1.85,1.93,1.86,0.0,1.83,2.02,Bolton,Wigan Athletic,bolton,wigan_athletic
+2021-10-23,E2,England-L1,2122,AFC Wimbledon,Wigan,0.0,2.0,A,0.0,0.0,D,3.5,3.6,2.05,3.48,3.58,2.09,3.39,3.47,2.08,1.95,1.85,1.9,1.88,0.25,2.05,1.8,AFC Wimbledon,Wigan Athletic,afc_wimbledon,wigan_athletic
+2021-11-02,E2,England-L1,2122,Fleetwood Town,Wigan,2.0,3.0,A,1.0,0.0,H,4.2,3.6,1.85,4.4,3.63,1.88,4.19,3.48,1.86,2.07,1.72,2.08,1.73,0.5,2.0,1.85,Fleetwood Town,Wigan Athletic,fleetwood_town,wigan_athletic
+2021-11-23,E2,England-L1,2122,Cambridge,Wigan,2.0,2.0,D,1.0,0.0,H,4.75,3.75,1.75,4.86,3.72,1.78,4.6,3.61,1.76,2.0,1.85,1.97,1.83,0.75,1.88,1.98,Cambridge United,Wigan Athletic,cambridge_united,wigan_athletic
+2021-11-27,E2,England-L1,2122,Plymouth,Wigan,1.0,2.0,A,1.0,1.0,D,2.9,3.4,2.4,2.9,3.47,2.43,2.82,3.4,2.41,1.88,1.98,1.87,1.92,0.0,2.08,1.73,Plymouth Argyle,Wigan Athletic,plymouth_argyle,wigan_athletic
+2021-12-18,E2,England-L1,2122,Oxford,Wigan,2.0,3.0,A,1.0,2.0,A,2.4,3.3,3.0,2.47,3.27,2.99,2.43,3.33,2.87,1.95,1.9,1.89,1.89,-0.25,2.1,1.77,Oxford United,Wigan Athletic,oxford_united,wigan_athletic
+2022-01-15,E2,England-L1,2122,Doncaster,Wigan,1.0,2.0,A,0.0,1.0,A,7.5,4.2,1.45,7.23,4.61,1.44,6.78,4.42,1.44,1.72,2.07,1.74,2.05,1.25,1.77,2.02,Doncaster Rovers,Wigan Athletic,doncaster_rovers,wigan_athletic
+2022-01-18,E2,England-L1,2122,Morecambe,Wigan,1.0,2.0,A,1.0,1.0,D,5.5,4.0,1.61,5.44,3.96,1.67,5.14,3.94,1.63,1.83,2.02,1.78,2.01,1.0,1.75,2.05,Morecambe,Wigan Athletic,morecambe,wigan_athletic
+2022-01-29,E2,England-L1,2122,Cheltenham,Wigan,0.0,0.0,D,0.0,0.0,D,4.5,3.6,1.8,4.34,3.52,1.88,4.27,3.51,1.83,2.05,1.8,1.98,1.8,0.5,2.0,1.8,Cheltenham Town,Wigan Athletic,cheltenham_town,wigan_athletic
+2022-02-08,E2,England-L1,2122,Sheffield Weds,Wigan,1.0,0.0,H,0.0,0.0,D,2.5,3.2,2.9,2.58,3.17,3.03,2.48,3.17,2.89,2.15,1.66,2.14,1.68,0.0,1.8,2.05,Sheffield Wednesday,Wigan Athletic,sheffield_wednesday,wigan_athletic
+2022-02-18,E2,England-L1,2122,Rotherham,Wigan,1.0,1.0,D,0.0,1.0,A,2.0,3.4,4.0,2.03,3.28,4.22,2.0,3.24,3.95,2.3,1.6,2.28,1.61,-0.5,2.02,1.83,Rotherham United,Wigan Athletic,rotherham_united,wigan_athletic
+2022-02-22,E2,England-L1,2122,Wycombe,Wigan,1.0,3.0,A,1.0,0.0,H,2.62,3.2,2.75,2.62,3.25,2.91,2.58,3.18,2.78,2.07,1.72,2.04,1.76,0.0,1.83,2.02,Wycombe Wanderers,Wigan Athletic,wycombe_wanderers,wigan_athletic
+2022-03-12,E2,England-L1,2122,Milton Keynes Dons,Wigan,1.0,1.0,D,0.0,0.0,D,2.4,3.25,3.1,2.44,3.38,2.96,2.41,3.31,2.9,2.1,1.7,2.06,1.74,-0.25,2.1,1.77,MK Dons,Wigan Athletic,mk_dons,wigan_athletic
+2022-03-15,E2,England-L1,2122,Crewe,Wigan,0.0,2.0,A,0.0,1.0,A,7.0,3.8,1.55,6.95,4.09,1.54,6.36,4.01,1.52,2.02,1.83,1.96,1.82,1.0,1.9,1.95,Crewe Alexandra,Wigan Athletic,crewe_alexandra,wigan_athletic
+2022-04-09,E2,England-L1,2122,Lincoln,Wigan,1.0,3.0,A,1.0,2.0,A,4.0,3.5,1.95,4.13,3.44,1.95,3.89,3.42,1.95,2.1,1.7,2.11,1.7,0.5,1.88,1.98,Lincoln City,Wigan Athletic,lincoln_city,wigan_athletic
+2022-04-12,E2,England-L1,2122,Burton,Wigan,0.0,0.0,D,0.0,0.0,D,5.25,3.75,1.66,5.55,3.79,1.69,5.21,3.66,1.67,2.05,1.75,2.03,1.77,0.75,2.0,1.85,Burton Albion,Wigan Athletic,burton_albion,wigan_athletic
+2022-04-19,E2,England-L1,2122,Ipswich,Wigan,2.0,2.0,D,0.0,1.0,A,2.6,3.25,2.8,2.64,3.17,2.86,2.56,3.2,2.77,2.15,1.66,2.18,1.66,0.0,1.85,2.0,Ipswich,Wigan Athletic,ipswich,wigan_athletic
+2022-04-26,E2,England-L1,2122,Portsmouth,Wigan,3.0,2.0,H,0.0,2.0,A,3.2,3.3,2.3,3.16,3.36,2.38,3.08,3.28,2.31,2.07,1.72,2.11,1.71,0.25,1.88,1.98,Portsmouth,Wigan Athletic,portsmouth,wigan_athletic
+2022-04-30,E2,England-L1,2122,Shrewsbury,Wigan,0.0,3.0,A,0.0,1.0,A,5.0,3.6,1.75,4.78,3.7,1.76,4.74,3.56,1.75,2.05,1.8,1.99,1.79,0.75,1.88,1.98,Shrewsbury Town,Wigan Athletic,shrewsbury_town,wigan_athletic
+2022-08-06,E1,England-Champ,2223,Norwich,Wigan,1.0,1.0,D,0.0,1.0,A,1.66,3.6,5.25,1.75,3.73,5.21,1.71,3.67,5.1,2.0,1.8,2.02,1.79,-0.75,1.97,1.93,Norwich City,Wigan Athletic,norwich_city,wigan_athletic
+2022-08-20,E1,England-Champ,2223,Birmingham,Wigan,0.0,1.0,A,0.0,0.0,D,2.55,3.25,2.8,2.67,3.22,2.91,2.59,3.16,2.85,2.2,1.66,2.21,1.66,0.0,1.85,2.05,Birmingham,Wigan Athletic,birmingham,wigan_athletic
+2022-09-03,E1,England-Champ,2223,Luton,Wigan,1.0,2.0,A,1.0,0.0,H,2.1,3.3,3.6,2.15,3.24,3.94,2.12,3.22,3.72,2.3,1.61,2.31,1.61,-0.25,1.81,2.09,Luton,Wigan Athletic,luton,wigan_athletic
+2022-09-13,E1,England-Champ,2223,Huddersfield,Wigan,1.0,2.0,A,0.0,1.0,A,2.62,3.25,2.75,2.71,3.24,2.86,2.63,3.21,2.77,2.2,1.66,2.16,1.69,0.0,1.89,2.01,Huddersfield,Wigan Athletic,huddersfield,wigan_athletic
+2022-10-01,E1,England-Champ,2223,Rotherham,Wigan,0.0,2.0,A,0.0,1.0,A,2.25,3.3,3.2,2.37,3.32,3.28,2.32,3.25,3.17,2.2,1.66,2.2,1.66,-0.25,2.02,1.88,Rotherham United,Wigan Athletic,rotherham_united,wigan_athletic
+2022-10-05,E1,England-Champ,2223,Hull,Wigan,2.0,1.0,H,1.0,1.0,D,2.62,3.25,2.75,2.69,3.35,2.8,2.62,3.27,2.71,2.1,1.72,2.13,1.71,0.0,1.91,1.99,Hull City,Wigan Athletic,hull_city,wigan_athletic
+2022-10-15,E1,England-Champ,2223,Sunderland,Wigan,2.0,1.0,H,0.0,1.0,A,2.15,3.3,3.5,2.19,3.34,3.67,2.15,3.29,3.5,2.2,1.66,2.24,1.64,-0.25,1.86,2.04,Sunderland,Wigan Athletic,sunderland,wigan_athletic
+2022-10-22,E1,England-Champ,2223,QPR,Wigan,2.0,1.0,H,2.0,1.0,H,1.95,3.5,4.0,2.01,3.52,4.05,1.98,3.45,3.88,2.1,1.72,2.09,1.74,-0.5,2.01,1.89,Queens Park Rangers,Wigan Athletic,queens_park_rangers,wigan_athletic
+2022-11-05,E1,England-Champ,2223,Swansea,Wigan,2.0,2.0,D,1.0,2.0,A,1.9,3.5,4.33,1.91,3.55,4.46,1.91,3.47,4.14,2.1,1.72,2.09,1.74,-0.5,1.91,1.99,Swansea City,Wigan Athletic,swansea_city,wigan_athletic
+2022-11-08,E1,England-Champ,2223,Coventry,Wigan,2.0,0.0,H,0.0,0.0,D,1.9,3.5,4.0,1.99,3.58,4.03,1.97,3.44,3.89,2.1,1.72,2.14,1.69,-0.5,1.97,1.93,Coventry,Wigan Athletic,coventry,wigan_athletic
+2022-12-10,E1,England-Champ,2223,Millwall,Wigan,1.0,1.0,D,1.0,1.0,D,1.91,3.4,4.33,1.91,3.5,4.57,1.88,3.4,4.36,2.2,1.67,2.23,1.65,-0.5,1.88,2.02,Millwall,Wigan Athletic,millwall,wigan_athletic
+2022-12-26,E1,England-Champ,2223,Middlesbrough,Wigan,4.0,1.0,H,1.0,0.0,H,1.67,3.75,5.5,1.66,3.94,5.56,1.65,3.77,5.36,2.02,1.83,2.02,1.79,-0.75,1.84,2.06,Middlesbrough,Wigan Athletic,middlesbrough,wigan_athletic
+2023-01-14,E1,England-Champ,2223,Cardiff,Wigan,1.0,1.0,D,0.0,0.0,D,1.95,3.4,4.0,2.0,3.42,4.23,1.97,3.36,4.0,2.3,1.62,2.26,1.63,-0.5,1.99,1.91,Cardiff City,Wigan Athletic,cardiff_city,wigan_athletic
+2023-02-06,E1,England-Champ,2223,Blackburn,Wigan,0.0,0.0,D,0.0,0.0,D,1.95,3.3,4.0,2.01,3.5,3.96,1.99,3.4,3.82,2.2,1.67,2.13,1.71,-0.5,2.02,1.88,Blackburn,Wigan Athletic,blackburn,wigan_athletic
+2023-02-15,E1,England-Champ,2223,Bristol City,Wigan,1.0,1.0,D,1.0,0.0,H,1.95,3.4,4.0,2.04,3.43,4.06,2.02,3.4,3.79,2.1,1.73,2.08,1.75,-0.5,2.03,1.87,Bristol City,Wigan Athletic,bristol_city,wigan_athletic
+2023-02-25,E1,England-Champ,2223,Preston,Wigan,2.0,1.0,H,0.0,1.0,A,2.25,3.2,3.3,2.29,3.22,3.57,2.29,3.14,3.33,2.38,1.57,2.34,1.6,-0.25,1.95,1.95,Preston,Wigan Athletic,preston,wigan_athletic
+2023-03-07,E1,England-Champ,2223,West Brom,Wigan,1.0,0.0,H,1.0,0.0,H,1.57,4.0,6.0,1.58,4.07,6.45,1.56,3.95,6.22,2.1,1.73,2.09,1.73,-1.0,2.02,1.88,West Bromwich Albion,Wigan Athletic,west_bromwich_albion,wigan_athletic
+2023-03-11,E1,England-Champ,2223,Burnley,Wigan,3.0,0.0,H,1.0,0.0,H,1.33,5.25,8.5,1.35,5.11,10.75,1.33,4.89,10.0,2.0,1.85,1.96,1.83,-1.25,1.82,2.08,Burnley,Wigan Athletic,burnley,wigan_athletic
+2023-03-18,E1,England-Champ,2223,Watford,Wigan,1.0,1.0,D,1.0,0.0,H,1.7,3.6,5.25,1.74,3.76,5.26,1.72,3.64,5.05,2.2,1.67,2.17,1.69,-0.75,1.95,1.95,Watford,Wigan Athletic,watford,wigan_athletic
+2023-04-07,E1,England-Champ,2223,Sheffield United,Wigan,1.0,0.0,H,1.0,0.0,H,1.45,4.2,7.0,1.49,4.42,7.39,1.48,4.27,7.08,1.93,1.93,1.91,1.89,-1.0,1.8,2.1,Sheffield United,Wigan Athletic,sheffield_united,wigan_athletic
+2023-04-15,E1,England-Champ,2223,Blackpool,Wigan,1.0,0.0,H,1.0,0.0,H,2.3,3.2,3.3,2.36,3.36,3.27,2.3,3.29,3.18,2.1,1.73,2.12,1.72,-0.25,2.0,1.9,Blackpool,Wigan Athletic,blackpool,wigan_athletic
+2023-04-18,E1,England-Champ,2223,Stoke,Wigan,0.0,1.0,A,0.0,0.0,D,1.55,3.8,6.5,1.57,4.17,6.45,1.56,3.99,6.27,2.02,1.83,2.03,1.79,-1.0,2.01,1.89,Stoke City,Wigan Athletic,stoke_city,wigan_athletic
+2023-04-29,E1,England-Champ,2223,Reading,Wigan,1.0,1.0,D,0.0,0.0,D,2.6,3.25,2.8,2.64,3.26,2.93,2.58,3.19,2.85,2.1,1.73,2.16,1.69,0.0,1.83,2.07,Reading,Wigan Athletic,reading,wigan_athletic
+2023-08-05,E2,England-L1,2324,Derby,Wigan,1.0,2.0,A,0.0,1.0,A,1.67,3.8,5.5,1.68,3.97,5.27,1.66,3.84,5.02,1.95,1.9,1.9,1.87,-0.75,1.88,1.98,Derby,Wigan Athletic,derby,wigan_athletic
+2023-08-15,E2,England-L1,2324,Carlisle,Wigan,1.0,1.0,D,0.0,1.0,A,2.75,3.2,2.7,2.82,3.24,2.71,2.71,3.19,2.62,2.08,1.73,2.08,1.73,0.0,1.95,1.9,Carlisle United,Wigan Athletic,carlisle_united,wigan_athletic
+2023-08-19,E2,England-L1,2324,Bolton,Wigan,0.0,4.0,A,0.0,3.0,A,1.75,3.8,4.5,1.79,3.81,4.63,1.76,3.7,4.43,1.93,1.93,1.87,1.9,-0.75,2.0,1.85,Bolton,Wigan Athletic,bolton,wigan_athletic
+2023-09-02,E2,England-L1,2324,Blackpool,Wigan,2.0,1.0,H,1.0,0.0,H,2.15,3.5,3.3,2.26,3.46,3.31,2.17,3.37,3.26,2.0,1.85,1.99,1.79,-0.25,1.9,1.95,Blackpool,Wigan Athletic,blackpool,wigan_athletic
+2023-09-23,E2,England-L1,2324,Bristol Rvs,Wigan,4.0,1.0,H,2.0,1.0,H,2.25,3.4,3.2,2.24,3.6,3.23,2.23,3.42,3.1,1.9,1.95,1.88,1.89,-0.25,1.95,1.9,Bristol Rvs,Wigan Athletic,bristol_rvs,wigan_athletic
+2023-10-03,E2,England-L1,2324,Burton,Wigan,2.0,1.0,H,0.0,1.0,A,2.7,3.25,2.7,2.74,3.37,2.7,2.63,3.3,2.63,1.98,1.88,1.92,1.84,0.0,1.93,1.93,Burton Albion,Wigan Athletic,burton_albion,wigan_athletic
+2023-10-07,E2,England-L1,2324,Stevenage,Wigan,1.0,0.0,H,1.0,0.0,H,1.75,3.6,4.75,1.79,3.86,4.55,1.74,3.74,4.43,1.85,2.0,1.79,1.98,-0.75,2.0,1.85,Stevenage,Wigan Athletic,stevenage,wigan_athletic
+2023-10-21,E2,England-L1,2324,Exeter,Wigan,0.0,2.0,A,0.0,1.0,A,2.1,3.5,3.3,2.17,3.7,3.29,2.09,3.5,3.26,1.88,1.98,1.8,1.98,-0.25,1.85,2.0,Exeter City,Wigan Athletic,exeter_city,wigan_athletic
+2023-11-11,E2,England-L1,2324,Cheltenham,Wigan,1.0,1.0,D,1.0,1.0,D,3.25,3.5,2.15,3.33,3.51,2.23,3.25,3.41,2.15,2.0,1.85,1.95,1.82,0.25,1.95,1.9,Cheltenham Town,Wigan Athletic,cheltenham_town,wigan_athletic
+2023-11-25,E2,England-L1,2324,Leyton Orient,Wigan,1.0,1.0,D,1.0,1.0,D,1.85,3.6,4.0,1.95,3.7,3.98,1.9,3.61,3.86,1.9,1.95,1.88,1.89,-0.5,1.85,1.95,Leyton Orient,Wigan Athletic,leyton_orient,wigan_athletic
+2023-12-16,E2,England-L1,2324,Port Vale,Wigan,3.0,2.0,H,2.0,0.0,H,2.25,3.3,3.3,2.29,3.48,3.24,2.21,3.34,3.2,2.0,1.85,1.96,1.82,-0.25,1.93,1.93,Port Vale,Wigan Athletic,port_vale,wigan_athletic
+2023-12-23,E2,England-L1,2324,Reading,Wigan,2.0,0.0,H,1.0,0.0,H,2.1,3.4,3.6,2.14,3.6,3.47,2.09,3.46,3.36,1.93,1.93,1.84,1.92,-0.25,1.83,2.03,Reading,Wigan Athletic,reading,wigan_athletic
+2024-01-01,E2,England-L1,2324,Barnsley,Wigan,1.0,1.0,D,1.0,0.0,H,1.57,3.8,6.0,1.62,4.21,5.49,1.58,4.03,5.33,1.73,2.08,1.72,2.05,-1.0,2.03,1.83,Barnsley,Wigan Athletic,barnsley,wigan_athletic
+2024-01-13,E2,England-L1,2324,Northampton,Wigan,1.0,1.0,D,1.0,0.0,H,2.3,3.4,3.1,2.37,3.46,3.1,2.31,3.32,2.99,2.05,1.75,2.0,1.76,-0.25,2.0,1.85,Northampton Town,Wigan Athletic,northampton_town,wigan_athletic
+2024-02-03,E2,England-L1,2324,Peterboro,Wigan,2.0,3.0,A,0.0,1.0,A,1.53,4.0,6.5,1.5,4.64,6.41,1.49,4.39,5.94,1.62,2.25,1.6,2.28,-1.0,1.8,2.05,Peterborough United,Wigan Athletic,peterborough_united,wigan_athletic
+2024-02-13,E2,England-L1,2324,Oxford,Wigan,4.0,2.0,H,1.0,1.0,D,1.85,3.6,4.2,1.87,3.71,4.33,1.86,3.56,4.01,1.88,1.98,1.86,1.9,-0.5,1.85,2.0,Oxford United,Wigan Athletic,oxford_united,wigan_athletic
+2024-02-17,E2,England-L1,2324,Shrewsbury,Wigan,0.0,1.0,A,0.0,0.0,D,2.6,3.3,2.75,2.65,3.35,2.79,2.57,3.2,2.71,2.2,1.65,2.19,1.64,0.0,1.88,1.98,Shrewsbury Town,Wigan Athletic,shrewsbury_town,wigan_athletic
+2024-03-02,E2,England-L1,2324,Fleetwood Town,Wigan,4.0,2.0,H,2.0,2.0,D,2.4,3.25,3.1,2.41,3.41,3.09,2.34,3.36,2.93,1.98,1.88,1.87,1.88,-0.25,2.0,1.85,Fleetwood Town,Wigan Athletic,fleetwood_town,wigan_athletic
+2024-03-12,E2,England-L1,2324,Wycombe,Wigan,1.0,0.0,H,1.0,0.0,H,1.95,3.6,4.0,1.97,3.48,4.16,1.93,3.42,3.9,2.05,1.75,2.01,1.77,-0.5,1.95,1.9,Wycombe Wanderers,Wigan Athletic,wycombe_wanderers,wigan_athletic
+2024-04-01,E2,England-L1,2324,Cambridge,Wigan,3.0,1.0,H,1.0,0.0,H,2.6,3.3,2.75,2.73,3.27,2.74,2.62,3.21,2.67,2.1,1.7,2.09,1.71,0.0,1.93,1.93,Cambridge United,Wigan Athletic,cambridge_united,wigan_athletic
+2024-04-09,E2,England-L1,2324,Charlton,Wigan,2.0,2.0,D,1.0,0.0,H,1.91,3.6,4.2,1.91,3.56,4.24,1.91,3.51,3.92,1.88,1.98,1.85,1.92,-0.5,1.93,1.93,Charlton,Wigan Athletic,charlton,wigan_athletic
+2024-04-13,E2,England-L1,2324,Lincoln,Wigan,1.0,2.0,A,1.0,1.0,D,1.67,4.0,5.0,1.67,3.84,5.47,1.65,3.75,5.14,2.05,1.75,2.04,1.75,-0.75,1.85,2.0,Lincoln City,Wigan Athletic,lincoln_city,wigan_athletic
+2024-04-20,E2,England-L1,2324,Portsmouth,Wigan,1.0,2.0,A,0.0,1.0,A,1.67,4.0,4.75,1.72,3.95,4.76,1.69,3.85,4.62,1.75,2.05,1.76,2.02,-0.75,1.87,1.92,Portsmouth,Wigan Athletic,portsmouth,wigan_athletic
+2024-08-17,E2,England-L1,2425,Reading,Wigan,2.0,0.0,H,1.0,0.0,H,2.1,3.5,3.4,2.15,3.55,3.24,2.08,3.47,3.34,2.03,1.83,1.96,1.81,-0.25,1.83,2.03,Reading,Wigan Athletic,reading,wigan_athletic
+2024-08-31,E2,England-L1,2425,Birmingham,Wigan,2.0,1.0,H,1.0,0.0,H,1.4,4.75,7.0,1.43,4.75,7.03,1.42,4.63,6.69,1.65,2.2,1.64,2.2,-1.25,1.98,1.88,Birmingham,Wigan Athletic,birmingham,wigan_athletic
+2024-09-14,E2,England-L1,2425,Bristol Rvs,Wigan,0.0,4.0,A,0.0,2.0,A,2.1,3.4,3.3,2.11,3.39,3.45,2.1,3.34,3.37,2.05,1.75,2.03,1.75,-0.25,1.83,2.03,Bristol Rvs,Wigan Athletic,bristol_rvs,wigan_athletic
+2024-09-21,E2,England-L1,2425,Lincoln,Wigan,0.0,0.0,D,0.0,0.0,D,1.91,3.4,4.0,1.95,3.39,4.19,1.93,3.33,4.01,2.15,1.67,2.15,1.67,-0.5,1.93,1.93,Lincoln City,Wigan Athletic,lincoln_city,wigan_athletic
+2024-10-05,E2,England-L1,2425,Stockport,Wigan,0.0,0.0,D,0.0,0.0,D,1.91,3.7,3.6,1.93,3.5,3.95,1.92,3.51,3.8,1.98,1.88,1.94,1.82,-0.5,1.93,1.93,Stockport County,Wigan Athletic,stockport_county,wigan_athletic
+2024-10-19,E2,England-L1,2425,Cambridge,Wigan,2.0,0.0,H,2.0,0.0,H,3.2,3.2,2.25,3.24,3.18,2.32,3.14,3.19,2.27,2.15,1.67,2.16,1.66,0.25,1.82,1.92,Cambridge United,Wigan Athletic,cambridge_united,wigan_athletic
+2024-10-28,E2,England-L1,2425,Blackpool,Wigan,2.0,2.0,D,1.0,2.0,A,1.73,3.6,4.5,1.78,3.7,4.38,1.76,3.66,4.28,1.88,1.98,1.83,1.93,-0.75,2.0,1.85,Blackpool,Wigan Athletic,blackpool,wigan_athletic
+2024-11-23,E2,England-L1,2425,Barnsley,Wigan,0.0,1.0,A,0.0,1.0,A,1.85,3.7,3.9,1.87,3.72,3.93,1.88,3.62,3.83,1.93,1.93,1.87,1.89,-0.5,1.9,1.95,Barnsley,Wigan Athletic,barnsley,wigan_athletic
+2024-12-03,E2,England-L1,2425,Huddersfield,Wigan,1.0,0.0,H,0.0,0.0,D,1.7,3.6,5.0,1.75,3.64,5.1,1.74,3.54,4.8,2.2,1.65,2.16,1.66,-0.75,1.98,1.88,Huddersfield,Wigan Athletic,huddersfield,wigan_athletic
+2024-12-14,E2,England-L1,2425,Bolton,Wigan,0.0,2.0,A,0.0,1.0,A,1.67,3.8,4.75,1.7,3.83,4.96,1.68,3.77,4.84,1.98,1.88,1.91,1.86,-0.75,1.9,1.95,Bolton,Wigan Athletic,bolton,wigan_athletic
+2024-12-26,E2,England-L1,2425,Rotherham,Wigan,0.0,1.0,A,0.0,1.0,A,2.1,3.2,3.5,2.19,3.19,3.5,2.13,3.23,3.38,2.15,1.67,2.16,1.65,-0.25,1.85,2.0,Rotherham United,Wigan Athletic,rotherham_united,wigan_athletic
+2024-12-29,E2,England-L1,2425,Wrexham,Wigan,2.0,1.0,H,0.0,0.0,D,1.8,3.6,4.2,1.83,3.59,4.25,1.81,3.52,4.19,2.1,1.7,2.08,1.71,-0.5,1.85,2.0,Wrexham,Wigan Athletic,wrexham,wigan_athletic
+2025-01-18,E2,England-L1,2425,Stevenage,Wigan,1.0,2.0,A,0.0,0.0,D,2.3,3.1,3.2,2.3,3.11,3.35,2.26,3.08,3.29,2.5,1.5,2.54,1.48,-0.25,1.98,1.88,Stevenage,Wigan Athletic,stevenage,wigan_athletic
+2025-01-28,E2,England-L1,2425,Peterboro,Wigan,1.0,0.0,H,1.0,0.0,H,2.55,3.25,2.7,2.6,3.4,2.77,2.57,3.3,2.67,2.03,1.83,1.98,1.81,0.0,1.85,2.0,Peterborough United,Wigan Athletic,peterborough_united,wigan_athletic
+2025-02-18,E2,England-L1,2425,Crawley Town,Wigan,1.0,1.0,D,1.0,1.0,D,2.6,3.3,2.6,2.76,3.31,2.67,2.65,3.21,2.62,2.15,1.67,2.13,1.68,0.0,1.93,1.93,Crawley Town,Wigan Athletic,crawley_town,wigan_athletic
+2025-02-22,E2,England-L1,2425,Wycombe,Wigan,0.0,0.0,D,0.0,0.0,D,1.7,3.5,5.0,1.71,3.52,5.17,1.7,3.5,4.97,2.25,1.62,2.24,1.61,-0.75,1.95,1.9,Wycombe Wanderers,Wigan Athletic,wycombe_wanderers,wigan_athletic
+2025-03-04,E2,England-L1,2425,Mansfield,Wigan,0.0,0.0,D,0.0,0.0,D,2.15,3.2,3.3,2.26,3.28,3.43,2.22,3.18,3.28,2.35,1.57,2.32,1.58,-0.25,1.93,1.93,Mansfield Town,Wigan Athletic,mansfield_town,wigan_athletic
+2025-03-15,E2,England-L1,2425,Charlton,Wigan,2.0,1.0,H,2.0,0.0,H,1.6,4.0,5.0,1.59,3.71,6.09,1.59,3.68,5.7,2.25,1.62,2.22,1.61,-0.75,1.8,2.05,Charlton,Wigan Athletic,charlton,wigan_athletic
+2025-04-05,E2,England-L1,2425,Leyton Orient,Wigan,0.0,0.0,D,0.0,0.0,D,1.9,3.25,4.2,1.93,3.38,4.1,1.91,3.33,4.06,2.35,1.57,2.31,1.58,-0.5,1.93,1.93,Leyton Orient,Wigan Athletic,leyton_orient,wigan_athletic
+2025-04-08,E2,England-L1,2425,Exeter,Wigan,1.0,1.0,D,0.0,0.0,D,2.57,3.1,2.7,2.72,3.05,2.92,2.67,2.99,2.78,2.5,1.5,2.53,1.5,0.0,1.85,2.0,Exeter City,Wigan Athletic,exeter_city,wigan_athletic
+2025-04-18,E2,England-L1,2425,Shrewsbury,Wigan,0.0,1.0,A,0.0,0.0,D,3.6,3.3,2.1,3.64,3.2,2.13,3.58,3.15,2.12,2.7,1.44,2.69,1.44,0.25,2.05,1.8,Shrewsbury Town,Wigan Athletic,shrewsbury_town,wigan_athletic
+2025-04-29,E2,England-L1,2425,Burton,Wigan,1.0,1.0,D,0.0,0.0,D,2.25,3.1,3.3,2.33,2.97,3.66,2.28,3.01,3.42,2.6,1.48,2.63,1.47,-0.25,1.95,1.9,Burton Albion,Wigan Athletic,burton_albion,wigan_athletic
+2025-05-03,E2,England-L1,2425,Northampton,Wigan,1.0,1.0,D,1.0,0.0,H,2.5,3.25,2.75,2.6,3.05,2.84,2.54,3.14,2.79,2.3,1.6,2.31,1.58,0.0,1.83,2.03,Northampton Town,Wigan Athletic,northampton_town,wigan_athletic
+2025-08-09,E2,England-L1,2526,Leyton Orient,Wigan,2.0,0.0,H,1.0,0.0,H,2.05,3.4,3.6,2.11,3.38,3.49,2.03,3.27,3.62,2.3,1.6,2.25,1.59,-0.5,2.05,1.8,Leyton Orient,Wigan Athletic,leyton_orient,wigan_athletic
+2025-08-19,E2,England-L1,2526,Luton,Wigan,1.0,0.0,H,1.0,0.0,H,1.6,3.75,5.5,1.64,3.8,5.93,1.59,3.82,5.65,2.15,1.67,2.08,1.68,-0.75,1.8,2.05,Luton,Wigan Athletic,luton,wigan_athletic
+2025-08-23,E2,England-L1,2526,Rotherham,Wigan,2.0,2.0,D,0.0,1.0,A,3.0,3.2,2.35,2.99,3.26,2.42,2.95,3.28,2.34,2.25,1.62,2.14,1.65,0.25,1.8,2.05,Rotherham United,Wigan Athletic,rotherham_united,wigan_athletic
+2025-09-06,E2,England-L1,2526,Lincoln,Wigan,2.0,2.0,D,2.0,1.0,H,2.3,3.1,3.0,2.47,3.17,2.99,2.35,3.09,3.12,2.6,1.48,2.5,1.49,-0.25,2.1,1.78,Lincoln City,Wigan Athletic,lincoln_city,wigan_athletic
+2025-09-20,E2,England-L1,2526,Bolton,Wigan,4.0,1.0,H,3.0,0.0,H,1.68,3.6,4.75,1.76,3.79,4.39,1.72,3.67,4.62,2.03,1.83,1.96,1.79,-0.75,1.98,1.88,Bolton,Wigan Athletic,bolton,wigan_athletic
+2025-10-04,E2,England-L1,2526,Plymouth,Wigan,1.0,1.0,D,0.0,0.0,D,2.4,3.25,2.7,2.6,3.36,2.68,2.53,3.29,2.7,2.03,1.83,1.96,1.78,0.0,1.8,2.05,Plymouth Argyle,Wigan Athletic,plymouth_argyle,wigan_athletic
+2025-10-25,E2,England-L1,2526,Mansfield,Wigan,1.0,1.0,D,1.0,0.0,H,2.35,3.05,2.95,2.44,3.26,2.96,2.35,3.26,2.95,2.15,1.67,2.08,1.69,-0.25,2.1,1.78,Mansfield Town,Wigan Athletic,mansfield_town,wigan_athletic
+2025-11-08,E2,England-L1,2526,Exeter,Wigan,1.0,1.0,D,0.0,1.0,A,2.82,3.2,2.4,,,,2.91,3.2,2.43,2.25,1.62,2.21,1.61,0.25,1.7,2.1,Exeter City,Wigan Athletic,exeter_city,wigan_athletic
+2025-11-22,E2,England-L1,2526,AFC Wimbledon,Wigan,1.0,2.0,A,0.0,0.0,D,2.85,2.95,2.55,,,,2.79,3.02,2.64,2.5,1.5,2.45,1.5,0.0,2.05,1.8,AFC Wimbledon,Wigan Athletic,afc_wimbledon,wigan_athletic
+2025-12-13,E2,England-L1,2526,Huddersfield,Wigan,1.0,1.0,D,1.0,0.0,H,2.01,3.4,3.4,,,,2.09,3.33,3.43,2.08,1.73,2.02,1.72,-0.25,1.83,2.03,Huddersfield,Wigan Athletic,huddersfield,wigan_athletic
+2025-12-26,E2,England-L1,2526,Bradford,Wigan,2.0,1.0,H,1.0,0.0,H,1.86,3.4,3.75,,,,1.94,3.36,3.81,2.1,1.7,2.08,1.68,-0.5,1.98,1.88,Bradford City,Wigan Athletic,bradford_city,wigan_athletic
+2025-12-29,E2,England-L1,2526,Burton,Wigan,0.0,2.0,A,0.0,0.0,D,2.57,3.2,2.55,,,,2.7,3.18,2.58,2.25,1.62,2.18,1.61,0.0,1.95,1.9,Burton Albion,Wigan Athletic,burton_albion,wigan_athletic
+2026-01-04,E2,England-L1,2526,Cardiff,Wigan,1.0,0.0,H,1.0,0.0,H,1.62,3.7,5.0,,,,1.7,3.66,4.69,1.98,1.88,1.92,1.81,-0.75,1.9,1.95,Cardiff City,Wigan Athletic,cardiff_city,wigan_athletic
+2026-01-24,E2,England-L1,2526,Doncaster,Wigan,3.0,3.0,D,2.0,0.0,H,2.25,3.2,3.1,,,,2.35,3.17,3.01,2.1,1.7,2.07,1.69,-0.25,2.03,1.83,Doncaster Rovers,Wigan Athletic,doncaster_rovers,wigan_athletic
+2026-01-27,E2,England-L1,2526,Wycombe,Wigan,2.0,0.0,H,1.0,0.0,H,1.96,3.25,3.75,,,,1.99,3.2,3.91,2.5,1.5,2.43,1.51,-0.5,2.03,1.83,Wycombe Wanderers,Wigan Athletic,wycombe_wanderers,wigan_athletic
+2026-02-07,E2,England-L1,2526,Peterboro,Wigan,6.0,1.0,H,3.0,1.0,H,2.15,3.3,3.2,,,,2.27,3.26,3.06,1.95,1.85,1.94,1.79,-0.25,1.98,1.88,Peterborough United,Wigan Athletic,peterborough_united,wigan_athletic
+2026-02-21,E2,England-L1,2526,Stockport,Wigan,4.0,2.0,H,2.0,2.0,D,1.57,3.7,5.5,,,,1.63,3.79,5.21,2.05,1.8,1.93,1.79,-0.75,1.83,2.03,Stockport County,Wigan Athletic,stockport_county,wigan_athletic
+2026-03-07,E2,England-L1,2526,Blackpool,Wigan,1.0,1.0,D,1.0,1.0,D,2.5,3.2,2.7,,,,2.48,3.22,2.77,2.1,1.7,2.04,1.71,0.0,1.85,2.0,Blackpool,Wigan Athletic,blackpool,wigan_athletic
+2026-03-17,E2,England-L1,2526,Barnsley,Wigan,1.0,1.0,D,0.0,1.0,A,2.2,3.2,3.1,,,,2.21,3.42,3.05,1.85,1.95,1.8,1.93,-0.25,1.98,1.88,Barnsley,Wigan Athletic,barnsley,wigan_athletic
+2026-03-28,E2,England-L1,2526,Reading,Wigan,3.0,0.0,H,2.0,0.0,H,2.15,3.3,3.2,,,,2.22,3.22,3.17,2.15,1.67,2.13,1.65,-0.25,1.95,1.9,Reading,Wigan Athletic,reading,wigan_athletic
+2026-04-06,E2,England-L1,2526,Northampton,Wigan,1.0,3.0,A,0.0,2.0,A,2.7,3.0,2.4,,,,2.84,3.13,2.43,2.25,1.62,2.17,1.63,0.0,2.05,1.8,Northampton Town,Wigan Athletic,northampton_town,wigan_athletic
+2026-04-19,E2,England-L1,2526,Port Vale,Wigan,0.0,0.0,D,0.0,0.0,D,3.5,3.1,2.1,,,,3.31,3.15,2.17,2.25,1.62,2.23,1.59,0.25,2.03,1.83,Port Vale,Wigan Athletic,port_vale,wigan_athletic
+2026-05-02,E2,England-L1,2526,Stevenage,Wigan,1.0,0.0,H,0.0,0.0,D,1.51,4.0,5.75,,,,1.56,3.77,6.0,2.25,1.62,2.22,1.6,-1.0,2.05,1.75,Stevenage,Wigan Athletic,stevenage,wigan_athletic
+2026-08-15,E2,England-L1,2627,Cambridge,Wigan,3.0,2.0,H,2.0,0.0,H,2.35,3.2,2.85,,,,2.37,3.17,2.94,2.25,1.62,2.18,1.62,-0.25,2.1,1.7,Cambridge United,Wigan Athletic,cambridge_united,wigan_athletic
+2026-08-30,E2,England-L1,2627,AFC Wimbledon,Wigan,1.0,0.0,H,0.0,0.0,D,3.2,3.2,2.2,,,,3.08,3.25,2.24,2.08,1.73,2.04,1.71,0.25,1.88,1.98,AFC Wimbledon,Wigan Athletic,afc_wimbledon,wigan_athletic
+2026-09-12,E2,England-L1,2627,Sheffield Weds,Wigan,0.0,0.0,D,0.0,0.0,D,1.56,4.0,5.25,,,,1.66,3.95,4.62,1.62,2.25,1.59,2.24,-0.75,1.75,2.05,Sheffield Wednesday,Wigan Athletic,sheffield_wednesday,wigan_athletic
+2026-10-10,E2,England-L1,2627,Stevenage,Wigan,1.0,0.0,H,0.0,0.0,D,2.05,3.2,3.5,,,,2.09,3.29,3.48,2.15,1.67,2.13,1.66,-0.25,1.8,2.05,Stevenage,Wigan Athletic,stevenage,wigan_athletic
+2026-10-20,E2,England-L1,2627,Oxford,Wigan,2.0,1.0,H,1.0,0.0,H,1.91,3.6,3.5,,,,1.97,3.53,3.59,1.88,1.98,1.82,1.92,-0.5,2.0,1.85,Oxford United,Wigan Athletic,oxford_united,wigan_athletic

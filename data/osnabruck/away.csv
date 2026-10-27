@@ -1,0 +1,22 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2023-08-04,D2,Germany-BL2,2324,Paderborn,Osnabruck,1.0,1.0,D,0.0,0.0,D,1.6,4.2,5.25,1.6,4.38,5.68,1.59,4.17,5.08,1.5,2.5,1.5,2.51,-1.0,1.95,1.9,Paderborn,Osnabruck,paderborn,osnabruck
+2023-08-26,D2,Germany-BL2,2324,Hansa Rostock,Osnabruck,2.0,1.0,H,1.0,1.0,D,2.05,3.5,3.4,2.12,3.7,3.49,2.08,3.6,3.3,1.73,2.08,1.75,2.06,-0.25,1.83,2.03,Hansa Rostock,Osnabruck,hansa_rostock,osnabruck
+2023-09-17,D2,Germany-BL2,2324,Hannover,Osnabruck,7.0,0.0,H,2.0,0.0,H,1.8,3.8,4.33,1.88,4.02,4.03,1.82,3.9,3.89,1.65,2.2,1.66,2.19,-0.5,1.83,2.03,Hannover,Osnabruck,hannover,osnabruck
+2023-10-06,D2,Germany-BL2,2324,Fortuna Dusseldorf,Osnabruck,1.0,1.0,D,0.0,0.0,D,1.57,4.33,5.25,1.59,4.64,5.36,1.55,4.49,5.14,1.44,2.7,1.45,2.66,-1.0,1.9,1.95,Fortuna Dusseldorf,Osnabruck,fortuna_dusseldorf,osnabruck
+2023-10-27,D2,Germany-BL2,2324,Greuther Furth,Osnabruck,4.0,0.0,H,1.0,0.0,H,1.75,4.2,4.2,1.76,4.32,4.32,1.74,4.08,4.18,1.57,2.35,1.55,2.4,-0.75,1.93,1.93,Greuther Furth,Osnabruck,greuther_furth,osnabruck
+2023-11-11,D2,Germany-BL2,2324,Braunschweig,Osnabruck,3.0,2.0,H,1.0,1.0,D,2.25,3.5,3.1,2.32,3.56,3.16,2.26,3.5,3.01,1.73,2.08,1.72,2.09,-0.25,2.0,1.85,Braunschweig,Osnabruck,braunschweig,osnabruck
+2023-12-01,D2,Germany-BL2,2324,Schalke 04,Osnabruck,4.0,0.0,H,1.0,0.0,H,1.53,4.33,5.75,1.56,4.52,5.91,1.54,4.33,5.56,1.6,2.3,1.59,2.31,-1.0,1.85,2.0,Schalke 04,Osnabruck,schalke_04,osnabruck
+2023-12-16,D2,Germany-BL2,2324,Hertha,Osnabruck,0.0,0.0,D,0.0,0.0,D,1.44,4.75,6.5,1.45,4.97,7.01,1.43,4.81,6.54,1.5,2.5,1.49,2.55,-1.25,1.93,1.93,Hertha Berlin,Osnabruck,hertha_berlin,osnabruck
+2024-01-19,D2,Germany-BL2,2324,Karlsruhe,Osnabruck,2.0,1.0,H,1.0,1.0,D,1.57,4.33,5.5,1.6,4.43,5.54,1.57,4.32,5.23,1.57,2.35,1.58,2.34,-1.0,1.98,1.88,Karlsruhe,Osnabruck,karlsruhe,osnabruck
+2024-02-03,D2,Germany-BL2,2324,Nurnberg,Osnabruck,2.0,2.0,D,1.0,1.0,D,1.8,4.0,4.2,1.83,3.91,4.37,1.8,3.86,4.06,1.65,2.2,1.64,2.23,-0.75,2.03,1.83,Nurnberg,Osnabruck,nurnberg,osnabruck
+2024-02-18,D2,Germany-BL2,2324,Elversberg,Osnabruck,3.0,1.0,H,3.0,0.0,H,1.8,4.0,4.2,1.85,4.19,3.98,1.8,3.97,3.89,1.6,2.3,1.58,2.33,-0.75,2.03,1.78,Elversberg,Osnabruck,elversberg,osnabruck
+2024-03-03,D2,Germany-BL2,2324,Hamburg,Osnabruck,1.0,2.0,A,1.0,1.0,D,1.4,5.5,6.5,1.41,5.33,7.52,1.39,5.18,6.71,1.36,3.1,1.34,3.14,-1.5,2.0,1.85,Hamburger SV,Osnabruck,hamburger_sv,osnabruck
+2024-03-10,D2,Germany-BL2,2324,Kaiserslautern,Osnabruck,3.0,2.0,H,0.0,0.0,D,1.8,4.0,4.0,1.83,3.91,4.43,1.8,3.9,4.03,1.6,2.3,1.6,2.3,-0.75,2.05,1.8,Kaiserslautern,Osnabruck,kaiserslautern,osnabruck
+2024-03-31,D2,Germany-BL2,2324,Wehen,Osnabruck,0.0,1.0,A,0.0,1.0,A,2.05,3.6,3.5,2.11,3.68,3.46,2.03,3.62,3.39,1.65,2.2,1.65,2.21,-0.5,2.05,1.8,Wehen,Osnabruck,wehen,osnabruck
+2024-04-13,D2,Germany-BL2,2324,Holstein Kiel,Osnabruck,4.0,0.0,H,2.0,0.0,H,1.5,4.75,5.75,1.48,4.93,6.34,1.47,4.74,5.83,1.44,2.7,1.45,2.69,-1.25,2.03,1.83,Holstein Kiel,Osnabruck,holstein_kiel,osnabruck
+2024-04-28,D2,Germany-BL2,2324,Magdeburg,Osnabruck,1.0,1.0,D,1.0,1.0,D,1.65,4.33,4.75,1.67,4.27,4.95,1.64,4.24,4.6,1.48,2.6,1.46,2.62,-0.75,1.8,2.05,Magdeburg,Osnabruck,magdeburg,osnabruck
+2024-05-12,D2,Germany-BL2,2324,St Pauli,Osnabruck,3.0,1.0,H,1.0,0.0,H,1.2,6.5,13.0,1.21,7.2,13.29,1.2,6.75,12.56,1.44,2.7,1.41,2.81,-2.0,1.98,1.88,FC St Pauli,Osnabruck,fc_st_pauli,osnabruck
+2026-08-08,D2,Germany-BL2,2627,Heidenheim,Osnabruck,4.0,3.0,H,3.0,2.0,H,1.62,3.9,5.0,,,,1.59,3.94,4.9,1.67,2.15,1.63,2.15,-1.0,2.05,1.75,1. FC Heidenheim,Osnabruck,1_fc_heidenheim,osnabruck
+2026-08-28,D2,Germany-BL2,2627,Bochum,Osnabruck,0.0,1.0,A,0.0,1.0,A,1.73,3.75,4.5,,,,1.75,3.72,4.17,1.67,2.15,1.65,2.12,-0.5,1.73,2.08,VfL Bochum,Osnabruck,vfl_bochum,osnabruck
+2026-09-19,D2,Germany-BL2,2627,Holstein Kiel,Osnabruck,1.0,1.0,D,1.0,0.0,H,1.73,4.0,4.0,,,,1.74,3.95,3.91,1.5,2.5,1.46,2.56,-0.75,1.98,1.83,Holstein Kiel,Osnabruck,holstein_kiel,osnabruck
+2026-10-18,D2,Germany-BL2,2627,Bielefeld,Osnabruck,2.0,1.0,H,1.0,1.0,D,1.7,3.8,4.2,,,,1.71,3.83,4.09,1.57,2.35,1.53,2.35,-0.75,1.95,1.85,Arminia Bielefeld,Osnabruck,arminia_bielefeld,osnabruck

@@ -1,0 +1,94 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-24,F2,France-L2,2122,Le Havre,Guingamp,0.0,0.0,D,0.0,0.0,D,2.4,3.2,3.0,2.52,3.01,3.23,2.44,3.02,3.07,2.35,1.57,2.33,1.58,-0.25,2.1,1.77,Le Havre,Guingamp,le_havre,guingamp
+2021-08-07,F2,France-L2,2122,Le Havre,Paris FC,1.0,2.0,A,0.0,1.0,A,3.0,3.3,2.35,3.13,3.19,2.46,2.98,3.11,2.42,2.15,1.66,2.17,1.67,0.0,2.08,1.73,Le Havre,Paris FC,le_havre,paris_fc
+2021-08-21,F2,France-L2,2122,Le Havre,Niort,2.0,1.0,H,1.0,0.0,H,2.0,3.4,3.8,2.06,3.23,4.08,2.04,3.18,3.8,2.15,1.66,2.17,1.67,-0.5,2.02,1.77,Le Havre,Niort,le_havre,niort
+2021-09-13,F2,France-L2,2122,Le Havre,Toulouse,1.0,1.0,D,0.0,1.0,A,3.8,3.2,2.05,4.39,3.05,2.06,3.93,3.08,2.06,2.2,1.65,2.22,1.64,0.5,1.77,2.1,Le Havre,Toulouse,le_havre,toulouse
+2021-09-21,F2,France-L2,2122,Le Havre,Quevilly Rouen,1.0,0.0,H,1.0,0.0,H,2.0,3.5,3.75,2.05,3.47,3.86,2.02,3.37,3.66,2.05,1.75,1.97,1.82,-0.5,2.02,1.83,Le Havre,Quevilly Rouen,le_havre,quevilly_rouen
+2021-10-02,F2,France-L2,2122,Le Havre,Dijon,2.0,0.0,H,1.0,0.0,H,2.3,3.25,2.87,2.46,3.03,3.25,2.37,3.04,3.17,2.35,1.57,2.38,1.56,-0.25,2.05,1.8,Le Havre,Dijon,le_havre,dijon
+2021-10-23,F2,France-L2,2122,Le Havre,Pau FC,1.0,0.0,H,1.0,0.0,H,2.37,3.0,3.25,2.41,2.97,3.42,2.34,2.96,3.27,2.4,1.53,2.46,1.52,-0.25,2.05,1.8,Le Havre,Pau FC,le_havre,pau_fc
+2021-11-06,F2,France-L2,2122,Le Havre,Valenciennes,0.0,0.0,D,0.0,0.0,D,2.0,3.25,3.75,2.12,3.19,3.84,2.07,3.19,3.7,2.3,1.6,2.32,1.58,-0.5,2.05,1.8,Le Havre,Valenciennes,le_havre,valenciennes
+2021-11-20,F2,France-L2,2122,Le Havre,Amiens,1.0,1.0,D,1.0,0.0,H,2.0,3.25,3.8,2.1,2.99,4.25,2.06,3.08,3.91,2.4,1.53,2.42,1.54,-0.5,2.1,1.77,Le Havre,Amiens,le_havre,amiens
+2021-12-11,F2,France-L2,2122,Le Havre,Ajaccio,0.0,1.0,A,0.0,0.0,D,3.4,2.9,2.37,3.32,2.87,2.54,3.23,2.82,2.49,3.1,1.36,2.9,1.39,0.25,1.8,2.05,Le Havre,Ajaccio,le_havre,ajaccio
+2022-01-08,F2,France-L2,2122,Le Havre,Sochaux,0.0,1.0,A,0.0,0.0,D,2.55,3.0,2.55,2.78,3.14,2.82,2.68,3.05,2.72,2.4,1.53,2.36,1.57,0.0,1.98,1.88,Le Havre,Sochaux,le_havre,sochaux
+2022-01-22,F2,France-L2,2122,Le Havre,Rodez,0.0,0.0,D,0.0,0.0,D,2.25,3.0,3.0,2.38,3.04,3.38,2.34,3.05,3.19,2.5,1.5,2.49,1.5,-0.25,2.02,1.83,Le Havre,Rodez,le_havre,rodez
+2022-02-14,F2,France-L2,2122,Le Havre,Bastia,2.0,4.0,A,2.0,2.0,D,2.5,2.87,2.9,2.57,2.89,3.24,2.47,2.92,3.1,2.6,1.47,2.54,1.49,-0.25,2.08,1.73,Le Havre,Bastia,le_havre,bastia
+2022-02-26,F2,France-L2,2122,Le Havre,Nancy,1.0,0.0,H,1.0,0.0,H,1.85,3.2,3.8,1.97,3.33,4.17,1.96,3.26,4.01,2.4,1.53,2.42,1.54,-0.5,1.98,1.88,Le Havre,Nancy,le_havre,nancy
+2022-03-12,F2,France-L2,2122,Le Havre,Nimes,0.0,1.0,A,0.0,1.0,A,2.25,3.1,3.4,2.29,3.12,3.49,2.26,3.07,3.36,2.4,1.53,2.32,1.58,-0.25,1.93,1.93,Le Havre,Nimes,le_havre,nimes
+2022-03-19,F2,France-L2,2122,Le Havre,Caen,2.0,4.0,A,0.0,1.0,A,2.5,2.8,2.87,2.56,2.91,3.23,2.54,2.87,3.09,2.87,1.4,2.76,1.43,0.0,1.73,2.08,Le Havre,Caen,le_havre,caen
+2022-04-09,F2,France-L2,2122,Le Havre,Dunkerque,2.0,1.0,H,1.0,0.0,H,1.95,3.0,4.2,1.93,3.13,4.75,1.94,3.08,4.44,2.6,1.47,2.57,1.49,-0.5,1.95,1.9,Le Havre,Dunkerque,le_havre,dunkerque
+2022-04-22,F2,France-L2,2122,Le Havre,Grenoble,0.0,1.0,A,0.0,0.0,D,2.0,3.1,3.75,2.15,2.95,4.34,2.13,2.96,3.92,2.6,1.47,2.62,1.47,-0.25,1.77,2.1,Le Havre,Grenoble,le_havre,grenoble
+2022-05-07,F2,France-L2,2122,Le Havre,Auxerre,1.0,2.0,A,1.0,0.0,H,3.8,3.4,1.85,4.06,3.5,1.94,3.83,3.46,1.94,1.95,1.9,1.95,1.84,0.5,1.9,1.95,Le Havre,AJ Auxerre,le_havre,aj_auxerre
+2022-07-30,F2,France-L2,2223,Le Havre,Grenoble,0.0,0.0,D,0.0,0.0,D,2.15,3.2,3.2,2.29,3.18,3.54,2.23,3.09,3.37,2.35,1.57,2.39,1.55,-0.25,1.88,1.98,Le Havre,Grenoble,le_havre,grenoble
+2022-08-13,F2,France-L2,2223,Le Havre,Pau FC,1.0,1.0,D,1.0,0.0,H,2.1,3.25,3.5,2.12,3.23,3.96,2.1,3.21,3.57,2.2,1.65,2.22,1.64,-0.25,1.8,2.05,Le Havre,Pau FC,le_havre,pau_fc
+2022-08-27,F2,France-L2,2223,Le Havre,Amiens,1.0,1.0,D,0.0,1.0,A,2.2,3.2,3.25,2.19,3.07,3.81,2.19,3.09,3.48,2.25,1.61,2.32,1.58,-0.25,1.93,1.93,Le Havre,Amiens,le_havre,amiens
+2022-09-02,F2,France-L2,2223,Le Havre,Caen,2.0,1.0,H,1.0,0.0,H,2.25,3.1,3.2,2.37,3.17,3.38,2.32,3.07,3.22,2.35,1.57,2.34,1.58,-0.25,1.98,1.88,Le Havre,Caen,le_havre,caen
+2022-09-17,F2,France-L2,2223,Le Havre,Annecy,2.0,0.0,H,0.0,0.0,D,1.83,3.3,4.0,1.92,3.31,4.73,1.89,3.33,4.19,2.35,1.57,2.33,1.58,-0.5,1.9,1.95,Le Havre,Annecy,le_havre,annecy
+2022-10-08,F2,France-L2,2223,Le Havre,Bastia,3.0,0.0,H,2.0,0.0,H,1.95,3.3,3.8,2.03,3.25,4.29,2.03,3.2,3.84,2.4,1.53,2.4,1.55,-0.5,2.05,1.8,Le Havre,Bastia,le_havre,bastia
+2022-10-24,F2,France-L2,2223,Le Havre,Metz,2.0,0.0,H,1.0,0.0,H,1.95,3.4,4.0,2.0,3.45,3.92,1.98,3.35,3.73,2.15,1.66,2.12,1.69,-0.5,2.0,1.85,Le Havre,Metz,le_havre,metz
+2022-12-26,F2,France-L2,2223,Le Havre,Bordeaux,1.0,0.0,H,1.0,0.0,H,2.2,3.1,3.3,2.23,3.03,3.75,2.2,3.07,3.42,2.35,1.57,2.39,1.55,-0.25,1.9,1.95,Le Havre,Bordeaux,le_havre,bordeaux
+2023-01-10,F2,France-L2,2223,Le Havre,Sochaux,1.0,0.0,H,0.0,0.0,D,2.15,3.0,3.8,2.19,3.04,4.03,2.16,3.02,3.66,2.4,1.53,2.36,1.57,-0.25,1.8,2.05,Le Havre,Sochaux,le_havre,sochaux
+2023-01-13,F2,France-L2,2223,Le Havre,Nimes,3.0,1.0,H,0.0,0.0,D,1.6,3.8,5.5,1.56,3.89,7.07,1.56,3.74,6.37,2.2,1.65,2.21,1.65,-1.0,2.05,1.75,Le Havre,Nimes,le_havre,nimes
+2023-02-03,F2,France-L2,2223,Le Havre,Paris FC,0.0,0.0,D,0.0,0.0,D,1.91,3.1,4.5,1.95,3.21,4.73,1.92,3.13,4.44,2.5,1.5,2.52,1.51,-0.5,1.95,1.9,Le Havre,Paris FC,le_havre,paris_fc
+2023-02-18,F2,France-L2,2223,Le Havre,Niort,1.0,0.0,H,0.0,0.0,D,1.65,3.6,4.75,1.67,3.64,6.12,1.64,3.56,5.58,2.25,1.62,2.28,1.6,-0.75,1.85,2.0,Le Havre,Niort,le_havre,niort
+2023-03-04,F2,France-L2,2223,Le Havre,Laval,2.0,1.0,H,1.0,1.0,D,1.67,3.5,5.5,1.72,3.42,6.09,1.68,3.39,5.64,2.5,1.5,2.49,1.51,-0.75,1.93,1.93,Le Havre,Laval,le_havre,laval
+2023-03-18,F2,France-L2,2223,Le Havre,St Etienne,2.0,2.0,D,0.0,0.0,D,2.3,3.1,3.3,2.35,3.14,3.47,2.3,3.07,3.24,2.35,1.57,2.35,1.56,-0.25,1.98,1.88,Le Havre,Saint-Etienne,le_havre,saint_etienne
+2023-04-08,F2,France-L2,2223,Le Havre,Guingamp,0.0,0.0,D,0.0,0.0,D,1.85,3.1,5.0,1.93,3.16,5.03,1.87,3.15,4.58,2.5,1.5,2.5,1.5,-0.5,1.88,1.98,Le Havre,Guingamp,le_havre,guingamp
+2023-04-22,F2,France-L2,2223,Le Havre,Quevilly Rouen,0.0,0.0,D,0.0,0.0,D,2.0,3.1,4.0,2.0,3.13,4.63,1.98,3.07,4.22,2.7,1.44,2.66,1.45,-0.5,2.02,1.82,Le Havre,Quevilly Rouen,le_havre,quevilly_rouen
+2023-05-08,F2,France-L2,2223,Le Havre,Rodez,1.0,0.0,H,0.0,0.0,D,1.6,3.6,5.75,1.57,3.9,6.35,1.59,3.68,5.87,2.3,1.6,2.22,1.63,-0.75,1.8,2.05,Le Havre,Rodez,le_havre,rodez
+2023-05-22,F2,France-L2,2223,Le Havre,Valenciennes,0.0,2.0,A,0.0,2.0,A,1.6,3.75,5.5,1.6,3.81,6.22,1.57,3.73,5.98,2.2,1.65,2.22,1.63,-0.75,1.8,2.05,Le Havre,Valenciennes,le_havre,valenciennes
+2023-06-02,F2,France-L2,2223,Le Havre,Dijon,1.0,0.0,H,1.0,0.0,H,2.1,3.2,3.5,2.15,3.27,3.8,2.13,3.15,3.57,2.35,1.57,2.32,1.58,-0.25,1.8,2.05,Le Havre,Dijon,le_havre,dijon
+2023-08-20,F1,France-L1,2324,Le Havre,Brest,1.0,2.0,A,0.0,1.0,A,2.7,3.2,2.7,2.82,3.22,2.76,2.72,3.2,2.74,2.2,1.67,2.22,1.67,0.0,1.95,1.95,Le Havre,Stade Brestois,le_havre,stade_brestois
+2023-09-03,F1,France-L1,2324,Le Havre,Lorient,3.0,0.0,H,0.0,0.0,D,2.7,3.25,2.7,2.87,3.12,2.79,2.78,3.15,2.7,2.2,1.67,2.24,1.66,0.0,1.99,1.94,Le Havre,Lorient,le_havre,lorient
+2023-09-24,F1,France-L1,2324,Le Havre,Clermont,2.0,1.0,H,2.0,1.0,H,2.4,3.3,2.88,2.48,3.26,3.15,2.43,3.27,3.0,2.1,1.73,2.13,1.73,-0.25,2.09,1.81,Le Havre,Clermont Foot,le_havre,clermont_foot
+2023-10-01,F1,France-L1,2324,Le Havre,Lille,0.0,2.0,A,0.0,1.0,A,4.0,3.5,1.95,4.08,3.44,2.03,3.93,3.47,1.99,2.0,1.8,2.03,1.8,0.5,1.89,2.01,Le Havre,Lille,le_havre,lille
+2023-10-20,F1,France-L1,2324,Le Havre,Lens,0.0,0.0,D,0.0,0.0,D,4.5,3.5,1.83,4.66,3.6,1.88,4.53,3.52,1.85,2.1,1.7,2.11,1.74,0.5,2.05,1.88,Le Havre,RC Lens,le_havre,rc_lens
+2023-11-11,F1,France-L1,2324,Le Havre,Monaco,0.0,0.0,D,0.0,0.0,D,4.5,4.0,1.73,4.5,3.95,1.78,4.45,3.93,1.77,1.73,2.08,1.75,2.09,0.75,1.9,2.0,Le Havre,AS Monaco,le_havre,as_monaco
+2023-12-03,F1,France-L1,2324,Le Havre,Paris SG,0.0,2.0,A,0.0,1.0,A,11.0,5.25,1.3,9.54,5.88,1.31,9.68,5.69,1.31,1.53,2.4,1.53,2.49,1.5,2.03,1.9,Le Havre,Paris Saint-Germain,le_havre,paris_saint_germain
+2023-12-16,F1,France-L1,2324,Le Havre,Nice,3.0,1.0,H,2.0,0.0,H,4.5,3.3,1.91,4.46,3.28,1.98,4.33,3.32,1.96,2.4,1.53,2.46,1.55,0.5,1.94,1.99,Le Havre,OGC Nice,le_havre,ogc_nice
+2024-01-14,F1,France-L1,2324,Le Havre,Lyon,3.0,1.0,H,1.0,0.0,H,3.25,3.25,2.25,3.26,3.29,2.36,3.18,3.32,2.32,2.08,1.73,2.06,1.78,0.25,1.89,2.01,Le Havre,Olympique Lyonnais,le_havre,olympique_lyonnais
+2024-02-11,F1,France-L1,2324,Le Havre,Rennes,0.0,1.0,A,0.0,0.0,D,3.6,3.3,2.15,3.66,3.38,2.15,3.52,3.34,2.16,2.15,1.67,2.2,1.69,0.25,2.05,1.88,Le Havre,Stade Rennais,le_havre,stade_rennais
+2024-02-25,F1,France-L1,2324,Le Havre,Reims,1.0,2.0,A,0.0,0.0,D,3.1,3.25,2.38,3.02,3.3,2.51,3.02,3.31,2.41,2.15,1.67,2.16,1.71,0.25,1.8,2.1,Le Havre,Stade de Reims,le_havre,stade_de_reims
+2024-03-10,F1,France-L1,2324,Le Havre,Toulouse,1.0,0.0,H,0.0,0.0,D,2.8,3.1,2.63,2.8,3.21,2.74,2.77,3.22,2.65,2.15,1.67,2.18,1.69,0.0,2.01,1.92,Le Havre,Toulouse,le_havre,toulouse
+2024-03-31,F1,France-L1,2324,Le Havre,Montpellier,0.0,2.0,A,0.0,0.0,D,2.55,3.3,2.8,2.59,3.36,2.87,2.55,3.32,2.81,2.06,1.84,2.03,1.81,0.0,1.84,2.06,Le Havre,Montpellier,le_havre,montpellier
+2024-04-14,F1,France-L1,2324,Le Havre,Nantes,0.0,1.0,A,0.0,0.0,D,2.6,3.0,3.0,2.63,2.99,3.14,2.55,3.04,3.07,2.5,1.53,2.48,1.55,-0.25,2.1,1.7,Le Havre,FC Nantes,le_havre,fc_nantes
+2024-04-21,F1,France-L1,2324,Le Havre,Metz,0.0,1.0,A,0.0,0.0,D,2.15,3.2,3.6,2.24,3.18,3.67,2.19,3.19,3.58,2.3,1.62,2.35,1.61,-0.25,1.89,2.01,Le Havre,Metz,le_havre,metz
+2024-05-04,F1,France-L1,2324,Le Havre,Strasbourg,3.0,1.0,H,1.0,0.0,H,2.38,3.2,3.1,2.44,3.28,3.15,2.4,3.22,3.14,2.3,1.62,2.31,1.62,-0.25,2.08,1.85,Le Havre,RC Strasbourg,le_havre,rc_strasbourg
+2024-05-19,F1,France-L1,2324,Le Havre,Marseille,1.0,2.0,A,0.0,0.0,D,4.5,3.6,1.8,4.43,3.77,1.82,4.41,3.72,1.81,1.84,2.06,1.83,1.99,0.75,1.84,2.06,Le Havre,Olympique Marseille,le_havre,olympique_marseille
+2024-08-16,F1,France-L1,2425,Le Havre,Paris SG,1.0,4.0,A,0.0,1.0,A,7.0,4.75,1.42,7.84,4.94,1.42,7.41,4.86,1.42,1.62,2.3,1.63,2.33,1.25,1.95,1.98,Le Havre,Paris Saint-Germain,le_havre,paris_saint_germain
+2024-09-01,F1,France-L1,2425,Le Havre,Auxerre,3.0,1.0,H,1.0,1.0,D,2.75,3.3,2.6,2.81,3.28,2.69,2.77,3.28,2.63,2.1,1.73,2.15,1.72,0.0,2.0,1.9,Le Havre,AJ Auxerre,le_havre,aj_auxerre
+2024-09-28,F1,France-L1,2425,Le Havre,Lille,0.0,3.0,A,0.0,2.0,A,4.75,3.7,1.75,4.7,3.71,1.81,4.55,3.71,1.8,2.08,1.82,2.04,1.81,0.75,1.85,2.05,Le Havre,Lille,le_havre,lille
+2024-10-20,F1,France-L1,2425,Le Havre,Lyon,0.0,4.0,A,0.0,1.0,A,3.75,3.5,2.0,3.88,3.57,2.01,3.7,3.62,1.99,1.73,2.1,1.77,2.08,0.5,1.87,2.03,Le Havre,Olympique Lyonnais,le_havre,olympique_lyonnais
+2024-11-03,F1,France-L1,2425,Le Havre,Montpellier,1.0,0.0,H,0.0,0.0,D,2.2,3.5,3.2,2.28,3.37,3.37,2.21,3.44,3.26,1.9,2.0,1.86,1.97,-0.25,1.95,1.95,Le Havre,Montpellier,le_havre,montpellier
+2024-11-10,F1,France-L1,2425,Le Havre,Reims,0.0,3.0,A,0.0,2.0,A,3.3,3.2,2.3,3.43,3.23,2.32,3.28,3.27,2.28,2.1,1.73,2.07,1.77,0.25,1.92,1.98,Le Havre,Stade de Reims,le_havre,stade_de_reims
+2024-12-01,F1,France-L1,2425,Le Havre,Angers,0.0,1.0,A,0.0,0.0,D,2.3,3.2,3.3,2.37,3.05,3.53,2.3,3.16,3.34,2.2,1.67,2.21,1.68,-0.25,2.0,1.9,Le Havre,Angers,le_havre,angers
+2024-12-15,F1,France-L1,2425,Le Havre,Strasbourg,0.0,3.0,A,0.0,2.0,A,3.1,3.2,2.4,3.19,3.16,2.48,3.03,3.21,2.44,2.02,1.88,1.99,1.83,0.25,1.8,2.1,Le Havre,RC Strasbourg,le_havre,rc_strasbourg
+2025-01-12,F1,France-L1,2425,Le Havre,Lens,1.0,2.0,A,1.0,1.0,D,5.5,3.8,1.62,6.04,3.82,1.64,5.53,3.77,1.65,2.05,1.85,2.01,1.81,0.75,2.06,1.84,Le Havre,RC Lens,le_havre,rc_lens
+2025-01-26,F1,France-L1,2425,Le Havre,Brest,0.0,1.0,A,0.0,1.0,A,3.3,3.1,2.35,3.38,3.13,2.39,3.28,3.11,2.34,2.3,1.62,2.33,1.6,0.25,1.87,2.03,Le Havre,Stade Brestois,le_havre,stade_brestois
+2025-02-16,F1,France-L1,2425,Le Havre,Nice,1.0,3.0,A,1.0,2.0,A,5.0,4.0,1.62,5.37,4.01,1.66,5.18,3.96,1.65,1.8,1.98,1.84,1.99,0.75,2.07,1.83,Le Havre,OGC Nice,le_havre,ogc_nice
+2025-02-23,F1,France-L1,2425,Le Havre,Toulouse,1.0,4.0,A,0.0,1.0,A,4.0,3.4,1.95,4.02,3.49,2.0,3.91,3.46,1.97,2.1,1.73,2.08,1.77,0.5,1.91,1.99,Le Havre,Toulouse,le_havre,toulouse
+2025-03-09,F1,France-L1,2425,Le Havre,St Etienne,1.0,1.0,D,1.0,1.0,D,2.3,3.4,3.1,2.38,3.53,3.04,2.34,3.44,2.97,1.85,2.05,1.83,2.0,-0.25,2.05,1.85,Le Havre,Saint-Etienne,le_havre,saint_etienne
+2025-03-30,F1,France-L1,2425,Le Havre,Nantes,3.0,2.0,H,2.0,1.0,H,3.1,3.2,2.37,3.13,3.4,2.38,3.03,3.28,2.38,2.1,1.73,2.1,1.73,0.25,1.84,2.06,Le Havre,FC Nantes,le_havre,fc_nantes
+2025-04-13,F1,France-L1,2425,Le Havre,Rennes,1.0,5.0,A,1.0,3.0,A,3.5,3.4,2.1,3.6,3.49,2.13,3.52,3.44,2.09,2.01,1.89,1.96,1.86,0.25,2.05,1.85,Le Havre,Stade Rennais,le_havre,stade_rennais
+2025-04-26,F1,France-L1,2425,Le Havre,Monaco,1.0,1.0,D,1.0,0.0,H,6.5,5.0,1.42,7.04,5.25,1.42,6.78,5.0,1.41,1.44,2.75,1.43,2.72,1.25,2.0,1.9,Le Havre,AS Monaco,le_havre,as_monaco
+2025-05-10,F1,France-L1,2425,Le Havre,Marseille,1.0,3.0,A,0.0,0.0,D,6.0,4.5,1.5,5.86,4.54,1.5,5.92,4.55,1.5,1.57,2.38,1.57,2.37,1.0,2.08,1.82,Le Havre,Olympique Marseille,le_havre,olympique_marseille
+2025-08-24,F1,France-L1,2526,Le Havre,Lens,1.0,2.0,A,1.0,2.0,A,3.75,3.6,1.95,3.99,3.66,1.95,3.69,3.61,1.93,1.85,2.0,1.82,1.93,0.5,1.9,1.95,Le Havre,RC Lens,le_havre,rc_lens
+2025-08-31,F1,France-L1,2526,Le Havre,Nice,3.0,1.0,H,1.0,0.0,H,3.6,3.5,2.05,3.64,3.59,2.08,3.44,3.51,2.05,1.88,1.98,1.85,1.9,0.5,1.8,2.05,Le Havre,OGC Nice,le_havre,ogc_nice
+2025-09-21,F1,France-L1,2526,Le Havre,Lorient,1.0,1.0,D,0.0,1.0,A,2.25,3.5,3.1,2.31,3.49,3.18,2.26,3.38,3.05,1.95,1.9,1.91,1.84,-0.25,1.98,1.88,Le Havre,Lorient,le_havre,lorient
+2025-10-05,F1,France-L1,2526,Le Havre,Rennes,2.0,2.0,D,1.0,2.0,A,3.1,3.3,2.35,3.08,3.33,2.45,3.04,3.29,2.31,2.0,1.85,1.95,1.8,0.25,1.83,2.03,Le Havre,Stade Rennais,le_havre,stade_rennais
+2025-10-29,F1,France-L1,2526,Le Havre,Brest,1.0,0.0,H,0.0,0.0,D,2.55,3.2,2.9,2.56,3.38,2.89,2.51,3.29,2.76,1.98,1.88,1.92,1.83,0.0,1.8,2.05,Le Havre,Stade Brestois,le_havre,stade_brestois
+2025-11-08,F1,France-L1,2526,Le Havre,Nantes,1.0,1.0,D,0.0,1.0,A,1.9,3.3,4.5,1.91,3.43,4.56,1.89,3.32,4.29,2.2,1.67,2.16,1.65,-0.5,1.88,1.98,Le Havre,FC Nantes,le_havre,fc_nantes
+2025-11-30,F1,France-L1,2526,Le Havre,Lille,0.0,1.0,A,0.0,0.0,D,4.33,3.6,1.85,4.31,3.7,1.88,4.19,3.58,1.83,1.91,1.91,1.88,1.87,0.5,2.0,1.85,Le Havre,Lille,le_havre,lille
+2025-12-07,F1,France-L1,2526,Le Havre,Paris FC,0.0,0.0,D,0.0,0.0,D,2.7,3.2,2.7,2.72,3.3,2.76,2.66,3.28,2.61,2.03,1.83,1.95,1.8,0.0,1.93,1.93,Le Havre,Paris FC,le_havre,paris_fc
+2026-01-04,F1,France-L1,2526,Le Havre,Angers,2.0,1.0,H,1.0,0.0,H,2.05,3.3,3.7,2.08,3.38,3.87,2.05,3.25,3.66,2.2,1.67,2.17,1.65,-0.5,2.05,1.8,Le Havre,Angers,le_havre,angers
+2026-01-24,F1,France-L1,2526,Le Havre,Monaco,0.0,0.0,D,0.0,0.0,D,3.4,3.8,2.0,,,,3.38,3.71,1.99,1.67,2.2,1.65,2.16,0.5,1.83,2.03,Le Havre,AS Monaco,le_havre,as_monaco
+2026-02-08,F1,France-L1,2526,Le Havre,Strasbourg,2.0,1.0,H,1.0,1.0,D,4.0,3.5,1.91,,,,3.91,3.47,1.91,2.0,1.85,1.93,1.82,0.5,1.93,1.93,Le Havre,RC Strasbourg,le_havre,rc_strasbourg
+2026-02-15,F1,France-L1,2526,Le Havre,Toulouse,2.0,1.0,H,1.0,1.0,D,3.4,3.1,2.3,,,,3.28,3.15,2.25,2.2,1.67,2.19,1.64,0.25,1.88,1.98,Le Havre,Toulouse,le_havre,toulouse
+2026-02-28,F1,France-L1,2526,Le Havre,Paris SG,0.0,1.0,A,0.0,1.0,A,8.0,6.25,1.3,,,,9.19,5.79,1.27,1.44,2.75,1.41,2.73,1.75,1.83,2.03,Le Havre,Paris Saint-Germain,le_havre,paris_saint_germain
+2026-03-15,F1,France-L1,2526,Le Havre,Lyon,0.0,0.0,D,0.0,0.0,D,3.75,3.4,2.0,,,,3.67,3.37,1.99,2.1,1.73,2.04,1.72,0.5,1.8,2.05,Le Havre,Olympique Lyonnais,le_havre,olympique_lyonnais
+2026-04-05,F1,France-L1,2526,Le Havre,Auxerre,1.0,1.0,D,1.0,1.0,D,2.6,3.1,3.0,,,,2.49,3.1,2.9,2.3,1.62,2.22,1.61,0.0,1.8,2.05,Le Havre,AJ Auxerre,le_havre,aj_auxerre
+2026-04-26,F1,France-L1,2526,Le Havre,Metz,4.0,4.0,D,2.0,2.0,D,1.67,4.0,5.0,,,,1.62,3.81,5.18,1.91,1.91,1.88,1.86,-0.75,1.83,2.03,Le Havre,Metz,le_havre,metz
+2026-05-10,F1,France-L1,2526,Le Havre,Marseille,0.0,1.0,A,0.0,0.0,D,3.5,3.7,2.0,,,,3.42,3.69,1.96,1.67,2.2,1.62,2.2,0.5,1.83,2.03,Le Havre,Olympique Marseille,le_havre,olympique_marseille
+2026-08-23,F1,France-L1,2627,Le Havre,Monaco,0.0,1.0,A,0.0,1.0,A,3.6,4.0,1.91,,,,3.64,3.82,1.87,1.57,2.38,1.56,2.3,0.5,1.98,1.88,Le Havre,AS Monaco,le_havre,as_monaco
+2026-09-05,F1,France-L1,2627,Le Havre,Brest,1.0,2.0,A,0.0,1.0,A,2.63,3.25,2.7,,,,2.59,3.23,2.7,2.1,1.73,2.04,1.72,0.0,1.88,1.98,Le Havre,Stade Brestois,le_havre,stade_brestois
+2026-09-12,F1,France-L1,2627,Le Havre,Angers,0.0,0.0,D,0.0,0.0,D,2.55,3.2,2.88,,,,2.46,3.21,2.86,2.1,1.73,2.03,1.73,0.0,1.8,2.05,Le Havre,Angers,le_havre,angers
+2026-10-18,F1,France-L1,2627,Le Havre,Auxerre,1.0,3.0,A,0.0,1.0,A,2.25,3.4,3.2,,,,2.28,3.36,3.01,1.88,1.98,1.83,1.89,-0.25,1.98,1.88,Le Havre,AJ Auxerre,le_havre,aj_auxerre

@@ -1,0 +1,5 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2026-08-16,B1,Belgium-JPL,2627,Lommel SK,Charleroi,0.0,1.0,A,0.0,0.0,D,3.25,3.4,2.1,,,,3.24,3.46,2.08,1.75,2.05,1.78,1.94,0.25,1.98,1.83,Lommel SK,Sporting Charleroi,lommel_sk,sporting_charleroi
+2026-08-23,B1,Belgium-JPL,2627,Lommel SK,Westerlo,4.0,0.0,H,2.0,0.0,H,2.5,3.3,2.5,,,,2.53,3.4,2.51,1.7,2.1,1.71,2.05,0.0,1.9,1.9,Lommel SK,KVC Westerlo,lommel_sk,kvc_westerlo
+2026-09-04,B1,Belgium-JPL,2627,Lommel SK,Club Brugge,0.0,1.0,A,0.0,1.0,A,8.5,5.25,1.29,,,,8.83,5.93,1.25,1.3,3.5,1.29,3.4,1.75,1.85,1.95,Lommel SK,Club Brugge,lommel_sk,club_brugge
+2026-09-19,B1,Belgium-JPL,2627,Lommel SK,Mechelen,0.0,0.0,D,0.0,0.0,D,2.6,3.3,2.5,,,,2.57,3.45,2.48,1.75,2.05,1.71,2.06,0.0,1.95,1.85,Lommel SK,KV Mechelen,lommel_sk,kv_mechelen

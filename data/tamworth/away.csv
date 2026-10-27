@@ -1,0 +1,54 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2024-08-17,EC,England-Conference,2425,York,Tamworth,2.0,0.0,H,0.0,0.0,D,1.83,3.6,4.1,1.87,3.43,4.11,1.84,3.39,4.04,2.03,1.78,2.07,1.7,-0.5,1.83,1.98,York,Tamworth,york,tamworth
+2024-08-24,EC,England-Conference,2425,Boston Utd,Tamworth,1.0,1.0,D,1.0,0.0,H,2.75,3.1,2.38,2.91,2.99,2.58,2.8,3.06,2.47,2.25,1.62,2.23,1.61,0.0,2.05,1.75,Boston Utd,Tamworth,boston_utd,tamworth
+2024-08-31,EC,England-Conference,2425,Barnet,Tamworth,7.0,0.0,H,3.0,0.0,H,1.48,4.5,5.25,1.47,4.46,6.41,1.47,4.29,5.9,1.7,2.1,1.68,2.1,-1.0,1.8,2.0,Barnet,Tamworth,barnet,tamworth
+2024-09-07,EC,England-Conference,2425,Eastleigh,Tamworth,1.0,0.0,H,1.0,0.0,H,1.75,3.7,4.0,1.71,3.86,4.37,1.73,3.73,4.2,1.75,2.05,1.72,2.04,-0.75,2.0,1.8,Eastleigh,Tamworth,eastleigh,tamworth
+2024-09-21,EC,England-Conference,2425,Braintree Town,Tamworth,0.0,1.0,A,0.0,0.0,D,2.0,3.3,3.4,2.1,3.28,3.49,2.05,3.28,3.39,2.03,1.78,2.02,1.74,-0.25,1.78,2.03,Braintree Town,Tamworth,braintree_town,tamworth
+2024-09-24,EC,England-Conference,2425,Fylde,Tamworth,1.0,2.0,A,0.0,0.0,D,2.05,3.5,3.25,2.07,3.73,3.33,2.02,3.52,3.25,1.8,2.0,1.76,1.98,-0.25,1.8,2.0,Fylde,Tamworth,fylde,tamworth
+2024-10-05,EC,England-Conference,2425,Halifax,Tamworth,3.0,2.0,H,0.0,2.0,A,1.9,3.25,3.8,2.01,3.48,3.54,1.95,3.35,3.61,2.08,1.73,2.07,1.7,-0.5,1.98,1.83,Halifax,Tamworth,halifax,tamworth
+2024-10-26,EC,England-Conference,2425,Southend,Tamworth,2.0,0.0,H,2.0,0.0,H,1.62,3.75,5.75,1.61,3.84,5.19,1.6,3.78,5.01,1.9,1.9,1.86,1.87,-0.75,1.78,2.03,Southend United,Tamworth,southend_united,tamworth
+2024-11-16,EC,England-Conference,2425,Oldham,Tamworth,4.0,0.0,H,3.0,0.0,H,1.6,4.33,4.75,1.57,4.02,5.71,1.57,3.93,5.24,1.85,1.95,1.84,1.9,-1.0,2.0,1.8,Oldham,Tamworth,oldham,tamworth
+2024-12-17,EC,England-Conference,2425,Rochdale,Tamworth,3.0,0.0,H,0.0,0.0,D,1.6,3.7,5.75,1.59,4.01,5.68,1.58,3.87,5.34,1.8,2.0,1.79,1.97,-1.0,2.0,1.8,Rochdale,Tamworth,rochdale,tamworth
+2024-12-21,EC,England-Conference,2425,Sutton,Tamworth,1.0,2.0,A,1.0,0.0,H,1.7,3.75,4.33,1.74,3.89,4.19,1.72,3.75,4.26,1.8,2.0,1.76,1.98,-0.75,1.95,1.85,Sutton United,Tamworth,sutton_united,tamworth
+2024-12-31,EC,England-Conference,2425,Solihull,Tamworth,2.0,0.0,H,1.0,0.0,H,1.6,4.0,4.75,1.6,4.02,4.99,1.6,3.94,4.81,1.7,2.1,1.68,2.08,-0.75,1.78,2.03,Solihull,Tamworth,solihull,tamworth
+2025-01-25,EC,England-Conference,2425,Aldershot,Tamworth,2.0,2.0,D,0.0,0.0,D,2.05,3.5,3.1,2.09,3.59,3.23,2.06,3.52,3.16,1.7,2.1,1.69,2.08,-0.25,1.83,1.98,Aldershot,Tamworth,aldershot,tamworth
+2025-02-04,EC,England-Conference,2425,Wealdstone,Tamworth,0.0,1.0,A,0.0,0.0,D,2.0,3.4,3.8,2.0,3.59,3.65,1.98,3.4,3.51,1.9,1.9,1.86,1.89,-0.5,1.98,1.83,Wealdstone,Tamworth,wealdstone,tamworth
+2025-02-11,EC,England-Conference,2425,Hartlepool,Tamworth,2.0,2.0,D,1.0,2.0,A,1.73,3.7,4.5,1.75,3.7,4.71,1.72,3.63,4.4,1.9,1.9,1.86,1.88,-0.75,1.93,1.88,Hartlepool United,Tamworth,hartlepool_united,tamworth
+2025-02-15,EC,England-Conference,2425,Woking,Tamworth,1.0,1.0,D,0.0,0.0,D,2.25,3.5,2.9,2.34,3.23,3.05,2.28,3.22,2.92,1.9,1.9,1.89,1.84,-0.25,1.98,1.83,Woking,Tamworth,woking,tamworth
+2025-02-18,EC,England-Conference,2425,Yeovil,Tamworth,2.0,1.0,H,0.0,1.0,A,1.9,3.2,3.7,2.03,3.57,3.59,1.99,3.31,3.56,2.15,1.67,2.12,1.67,-0.5,1.95,1.85,Yeovil Town,Tamworth,yeovil_town,tamworth
+2025-03-01,EC,England-Conference,2425,Ebbsfleet,Tamworth,2.0,3.0,A,1.0,3.0,A,2.9,3.5,2.2,3.14,3.25,2.28,3.02,3.25,2.22,1.95,1.85,1.92,1.81,0.25,1.85,1.95,Ebbsfleet,Tamworth,ebbsfleet,tamworth
+2025-03-15,EC,England-Conference,2425,Dag and Red,Tamworth,1.0,3.0,A,1.0,1.0,D,2.4,3.25,2.8,2.52,3.3,2.74,2.44,3.24,2.75,2.0,1.8,1.97,1.77,0.0,1.78,2.03,Dag and Red,Tamworth,dag_and_red,tamworth
+2025-03-22,EC,England-Conference,2425,Gateshead,Tamworth,0.0,2.0,A,0.0,0.0,D,1.85,3.75,3.5,1.93,3.73,3.53,1.9,3.65,3.51,1.67,2.15,1.64,2.13,-0.5,1.9,1.9,Gateshead,Tamworth,gateshead,tamworth
+2025-04-05,EC,England-Conference,2425,Maidenhead,Tamworth,3.0,1.0,H,1.0,0.0,H,3.25,3.3,2.15,3.42,3.4,2.08,3.24,3.32,2.11,1.9,1.9,1.89,1.84,0.25,1.98,1.83,Maidenhead,Tamworth,maidenhead,tamworth
+2025-04-21,EC,England-Conference,2425,Forest Green,Tamworth,3.0,0.0,H,3.0,0.0,H,1.85,3.4,3.8,1.91,3.62,3.72,1.88,3.54,3.67,1.9,1.9,1.85,1.88,-0.5,1.9,1.9,Forest Green Rovers,Tamworth,forest_green_rovers,tamworth
+2025-05-05,EC,England-Conference,2425,Altrincham,Tamworth,1.0,1.0,D,0.0,1.0,A,1.91,3.8,3.2,1.93,3.71,3.62,1.94,3.65,3.37,1.6,2.3,1.58,2.26,-0.5,1.98,1.83,Altrincham,Tamworth,altrincham,tamworth
+2025-08-16,EC,England-Conference,2526,Southend,Tamworth,2.0,0.0,H,1.0,0.0,H,1.57,3.9,5.0,1.58,3.69,5.93,1.57,3.89,4.87,1.73,2.08,1.69,2.04,-1.0,2.0,1.8,Southend United,Tamworth,southend_united,tamworth
+2025-08-23,EC,England-Conference,2526,Gateshead,Tamworth,2.0,1.0,H,1.0,0.0,H,2.5,3.3,2.55,2.5,3.63,2.56,2.41,3.38,2.55,1.8,2.0,1.69,2.03,0.0,1.85,1.95,Gateshead,Tamworth,gateshead,tamworth
+2025-09-02,EC,England-Conference,2526,Braintree Town,Tamworth,1.0,2.0,A,0.0,1.0,A,2.7,3.5,2.3,2.76,3.54,2.47,2.73,3.35,2.28,1.85,1.95,1.8,1.89,0.0,2.05,1.75,Braintree Town,Tamworth,braintree_town,tamworth
+2025-09-09,EC,England-Conference,2526,York,Tamworth,4.0,0.0,H,0.0,0.0,D,1.48,4.33,5.25,1.5,4.53,5.99,1.47,4.23,5.53,1.6,2.3,1.58,2.24,-1.0,1.8,2.0,York,Tamworth,york,tamworth
+2025-09-13,EC,England-Conference,2526,Sutton,Tamworth,2.0,3.0,A,2.0,3.0,A,2.45,3.25,2.55,2.43,3.51,2.71,2.54,3.31,2.48,1.85,1.95,1.79,1.91,0.0,1.85,1.95,Sutton United,Tamworth,sutton_united,tamworth
+2025-09-27,EC,England-Conference,2526,Hartlepool,Tamworth,1.0,1.0,D,0.0,0.0,D,2.0,3.5,3.4,2.0,3.58,3.47,1.95,3.45,3.35,1.8,2.0,1.73,1.99,-0.5,2.03,1.78,Hartlepool United,Tamworth,hartlepool_united,tamworth
+2025-10-01,EC,England-Conference,2526,Altrincham,Tamworth,1.0,2.0,A,0.0,0.0,D,1.91,3.5,3.5,1.96,3.71,3.45,1.93,3.53,3.32,1.67,2.15,1.65,2.11,-0.5,1.95,1.85,Altrincham,Tamworth,altrincham,tamworth
+2025-10-18,EC,England-Conference,2526,Aldershot,Tamworth,1.0,2.0,A,1.0,1.0,D,2.63,3.4,2.38,2.76,3.62,2.34,2.56,3.47,2.39,1.57,2.35,1.56,2.26,0.0,1.98,1.83,Aldershot,Tamworth,aldershot,tamworth
+2025-11-11,EC,England-Conference,2526,Forest Green,Tamworth,4.0,2.0,H,2.0,1.0,H,1.42,4.2,7.0,,,,1.42,4.3,6.2,1.67,2.15,1.69,2.05,-1.25,1.95,1.85,Forest Green Rovers,Tamworth,forest_green_rovers,tamworth
+2025-11-15,EC,England-Conference,2526,Boreham Wood,Tamworth,1.0,2.0,A,1.0,1.0,D,1.5,4.1,5.75,,,,1.47,4.15,5.71,1.7,2.1,1.67,2.07,-1.0,1.8,2.0,Boreham Wood,Tamworth,boreham_wood,tamworth
+2025-11-29,EC,England-Conference,2526,Carlisle,Tamworth,2.0,1.0,H,1.0,1.0,D,1.44,4.33,5.75,,,,1.43,4.37,5.89,1.57,2.35,1.55,2.31,-1.25,1.98,1.83,Carlisle United,Tamworth,carlisle_united,tamworth
+2025-12-06,EC,England-Conference,2526,Scunthorpe,Tamworth,3.0,1.0,H,1.0,1.0,D,1.73,3.6,4.33,,,,1.74,3.65,3.96,1.65,2.2,1.67,2.09,-0.75,1.98,1.83,Scunthorpe United,Tamworth,scunthorpe_united,tamworth
+2025-12-26,EC,England-Conference,2526,Solihull,Tamworth,7.0,1.0,H,4.0,1.0,H,1.95,3.4,3.5,,,,1.97,3.43,3.3,1.75,2.05,1.73,1.99,-0.5,1.98,1.83,Solihull,Tamworth,solihull,tamworth
+2026-01-17,EC,England-Conference,2526,Truro,Tamworth,0.0,0.0,D,0.0,0.0,D,2.3,3.3,2.8,,,,2.26,3.33,2.81,1.8,2.0,1.74,1.97,-0.25,2.0,1.8,Truro,Tamworth,truro,tamworth
+2026-02-10,EC,England-Conference,2526,Morecambe,Tamworth,2.0,2.0,D,1.0,1.0,D,2.25,3.5,2.8,,,,2.24,3.38,2.83,1.73,2.08,1.68,2.06,-0.25,1.98,1.83,Morecambe,Tamworth,morecambe,tamworth
+2026-02-21,EC,England-Conference,2526,Boston Utd,Tamworth,0.0,0.0,D,0.0,0.0,D,2.0,3.4,3.4,,,,2.03,3.33,3.27,1.9,1.9,1.82,1.87,-0.5,2.03,1.78,Boston Utd,Tamworth,boston_utd,tamworth
+2026-03-03,EC,England-Conference,2526,Yeovil,Tamworth,2.0,0.0,H,1.0,0.0,H,2.45,3.4,2.55,,,,2.42,3.23,2.63,2.0,1.8,1.91,1.78,0.0,1.85,1.95,Yeovil Town,Tamworth,yeovil_town,tamworth
+2026-03-07,EC,England-Conference,2526,Woking,Tamworth,3.0,1.0,H,1.0,0.0,H,2.0,3.5,3.25,,,,2.02,3.32,3.3,1.85,1.95,1.85,1.84,-0.25,1.8,2.0,Woking,Tamworth,woking,tamworth
+2026-03-10,EC,England-Conference,2526,Wealdstone,Tamworth,3.0,2.0,H,2.0,2.0,D,2.05,3.5,3.2,,,,2.02,3.46,3.15,1.73,2.08,1.68,2.06,-0.25,1.8,2.0,Wealdstone,Tamworth,wealdstone,tamworth
+2026-03-21,EC,England-Conference,2526,Rochdale,Tamworth,3.0,2.0,H,2.0,2.0,D,1.33,4.75,8.0,,,,1.3,4.81,7.97,1.62,2.25,1.57,2.23,-1.5,1.95,1.85,Rochdale,Tamworth,rochdale,tamworth
+2026-03-28,EC,England-Conference,2526,Brackley Town,Tamworth,0.0,1.0,A,0.0,0.0,D,2.63,3.5,2.35,,,,2.62,3.38,2.35,1.75,2.05,1.74,1.97,0.0,2.0,1.8,Brackley Town,Tamworth,brackley_town,tamworth
+2026-04-06,EC,England-Conference,2526,Halifax,Tamworth,2.0,2.0,D,0.0,1.0,A,1.9,3.5,3.5,,,,1.95,3.5,3.34,1.7,2.1,1.69,2.06,-0.5,2.0,1.8,Halifax,Tamworth,halifax,tamworth
+2026-04-18,EC,England-Conference,2526,Eastleigh,Tamworth,1.0,1.0,D,1.0,1.0,D,2.25,3.4,2.8,,,,2.27,3.42,2.73,1.67,2.15,1.63,2.15,-0.25,2.0,1.8,Eastleigh,Tamworth,eastleigh,tamworth
+2026-08-08,EC,England-Conference,2627,Boreham Wood,Tamworth,3.0,3.0,D,1.0,1.0,D,1.4,4.5,6.25,,,,1.39,4.55,6.04,1.48,2.6,1.46,2.54,-1.25,1.85,1.95,Boreham Wood,Tamworth,boreham_wood,tamworth
+2026-08-22,EC,England-Conference,2627,Halifax,Tamworth,4.0,1.0,H,3.0,0.0,H,2.2,3.5,2.8,,,,2.18,3.33,2.93,1.85,1.95,1.81,1.9,-0.25,1.98,1.83,Halifax,Tamworth,halifax,tamworth
+2026-08-31,EC,England-Conference,2627,Yeovil,Tamworth,3.0,2.0,H,1.0,1.0,D,2.1,3.5,3.0,,,,2.13,3.55,2.97,1.65,2.2,1.65,2.14,-0.25,1.85,1.95,Yeovil Town,Tamworth,yeovil_town,tamworth
+2026-09-12,EC,England-Conference,2627,Harrogate,Tamworth,3.0,1.0,H,2.0,1.0,H,1.75,3.8,3.8,,,,1.74,3.86,3.75,1.53,2.4,1.52,2.37,-0.75,2.0,1.8,Harrogate Town,Tamworth,harrogate_town,tamworth
+2026-09-15,EC,England-Conference,2627,Southend,Tamworth,3.0,1.0,H,0.0,0.0,D,1.53,4.2,4.75,,,,1.51,4.29,4.79,1.44,2.7,1.43,2.63,-1.0,1.85,1.95,Southend United,Tamworth,southend_united,tamworth
+2026-09-26,EC,England-Conference,2627,Aldershot,Tamworth,5.0,1.0,H,4.0,0.0,H,2.4,3.6,2.5,,,,2.36,3.6,2.49,1.53,2.4,1.5,2.41,0.0,1.83,1.98,Aldershot,Tamworth,aldershot,tamworth
+2026-10-03,EC,England-Conference,2627,Hartlepool,Tamworth,0.0,1.0,A,0.0,1.0,A,2.2,3.6,2.8,,,,2.21,3.53,2.73,1.6,2.3,1.56,2.27,-0.25,1.98,1.83,Hartlepool United,Tamworth,hartlepool_united,tamworth

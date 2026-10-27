@@ -1,0 +1,95 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,F1,France-L1,2122,Reims,Montpellier,3.0,3.0,D,2.0,3.0,A,2.6,3.3,2.75,2.75,3.22,2.87,2.67,3.18,2.79,2.0,1.8,2.07,1.77,0.0,1.92,2.01,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2021-08-29,F1,France-L1,2122,Reims,Paris SG,0.0,2.0,A,0.0,1.0,A,17.0,8.0,1.14,15.58,7.92,1.19,15.48,7.74,1.17,1.36,3.2,1.36,3.16,2.25,1.77,2.02,Stade de Reims,Paris Saint-Germain,stade_de_reims,paris_saint_germain
+2021-09-19,F1,France-L1,2122,Reims,Lorient,0.0,0.0,D,0.0,0.0,D,2.15,3.3,3.4,2.27,3.47,3.42,2.23,3.35,3.31,2.2,1.66,2.17,1.7,-0.25,1.95,1.98,Stade de Reims,Lorient,stade_de_reims,lorient
+2021-09-26,F1,France-L1,2122,Reims,Nantes,3.0,1.0,H,0.0,0.0,D,2.55,3.1,2.9,2.66,3.25,2.96,2.61,3.16,2.87,2.37,1.57,2.34,1.61,0.0,1.86,2.07,Stade de Reims,FC Nantes,stade_de_reims,fc_nantes
+2021-10-24,F1,France-L1,2122,Reims,Troyes,1.0,2.0,A,1.0,1.0,D,2.15,3.3,3.5,2.3,3.15,3.71,2.23,3.19,3.45,2.3,1.61,2.25,1.66,-0.25,1.92,2.01,Stade de Reims,Troyes,stade_de_reims,troyes
+2021-11-07,F1,France-L1,2122,Reims,Monaco,0.0,0.0,D,0.0,0.0,D,4.0,3.6,1.9,4.19,3.41,2.04,4.0,3.42,1.98,2.1,1.72,2.08,1.77,0.5,1.9,2.03,Stade de Reims,AS Monaco,stade_de_reims,as_monaco
+2021-11-28,F1,France-L1,2122,Reims,Clermont,1.0,0.0,H,0.0,0.0,D,2.45,3.1,3.1,2.51,3.2,3.21,2.45,3.17,3.08,2.3,1.61,2.25,1.64,-0.25,2.13,1.81,Stade de Reims,Clermont Foot,stade_de_reims,clermont_foot
+2021-12-05,F1,France-L1,2122,Reims,Angers,1.0,2.0,A,0.0,0.0,D,2.4,3.0,3.3,2.48,3.07,3.43,2.43,3.06,3.22,2.5,1.53,2.56,1.51,-0.25,2.09,1.81,Stade de Reims,Angers,stade_de_reims,angers
+2021-12-11,F1,France-L1,2122,Reims,St Etienne,2.0,0.0,H,1.0,0.0,H,2.15,3.2,3.6,2.2,3.28,3.81,2.18,3.22,3.61,2.3,1.61,2.3,1.63,-0.25,1.88,2.05,Stade de Reims,Saint-Etienne,stade_de_reims,saint_etienne
+2022-01-16,F1,France-L1,2122,Reims,Metz,0.0,1.0,A,0.0,0.0,D,1.8,3.5,5.0,1.75,3.71,5.1,1.78,3.54,4.86,2.3,1.61,2.27,1.63,-0.75,2.05,1.85,Stade de Reims,Metz,stade_de_reims,metz
+2022-02-06,F1,France-L1,2122,Reims,Bordeaux,5.0,0.0,H,1.0,0.0,H,2.05,3.6,3.5,2.17,3.45,3.55,2.13,3.44,3.48,2.09,1.81,2.04,1.79,-0.25,1.83,2.07,Stade de Reims,Bordeaux,stade_de_reims,bordeaux
+2022-02-20,F1,France-L1,2122,Reims,Brest,1.0,1.0,D,1.0,1.0,D,2.37,3.2,3.2,2.42,3.25,3.32,2.38,3.23,3.18,2.1,1.72,2.12,1.71,-0.25,2.03,1.87,Stade de Reims,Stade Brestois,stade_de_reims,stade_brestois
+2022-03-06,F1,France-L1,2122,Reims,Strasbourg,1.0,1.0,D,0.0,0.0,D,3.6,3.0,2.2,3.66,3.16,2.31,3.47,3.12,2.28,2.2,1.66,2.22,1.67,0.25,1.97,1.93,Stade de Reims,RC Strasbourg,stade_de_reims,rc_strasbourg
+2022-03-20,F1,France-L1,2122,Reims,Lyon,0.0,0.0,D,0.0,0.0,D,4.33,3.6,1.83,4.35,3.78,1.89,4.19,3.68,1.87,2.03,1.87,1.97,1.85,0.5,2.02,1.88,Stade de Reims,Olympique Lyonnais,stade_de_reims,olympique_lyonnais
+2022-04-09,F1,France-L1,2122,Reims,Rennes,2.0,3.0,A,0.0,2.0,A,4.5,3.5,1.8,4.74,3.78,1.82,4.54,3.6,1.83,2.1,1.72,2.13,1.72,0.75,1.77,2.02,Stade de Reims,Stade Rennais,stade_de_reims,stade_rennais
+2022-04-20,F1,France-L1,2122,Reims,Lille,2.0,1.0,H,1.0,0.0,H,3.7,3.1,2.15,3.86,3.23,2.2,3.66,3.19,2.18,2.5,1.53,2.42,1.57,0.25,2.04,1.89,Stade de Reims,Lille,stade_de_reims,lille
+2022-04-24,F1,France-L1,2122,Reims,Marseille,0.0,1.0,A,0.0,0.0,D,3.8,3.3,2.05,4.13,3.35,2.07,3.88,3.35,2.04,2.2,1.66,2.18,1.69,0.5,1.83,2.07,Stade de Reims,Olympique Marseille,stade_de_reims,olympique_marseille
+2022-05-08,F1,France-L1,2122,Reims,Lens,1.0,2.0,A,1.0,0.0,H,3.3,3.3,2.25,3.31,3.54,2.28,3.25,3.41,2.25,2.06,1.84,2.05,1.79,0.25,1.91,1.99,Stade de Reims,RC Lens,stade_de_reims,rc_lens
+2022-05-21,F1,France-L1,2122,Reims,Nice,2.0,3.0,A,2.0,0.0,H,4.0,3.75,1.85,4.2,3.99,1.85,4.04,3.85,1.85,1.66,2.2,1.7,2.17,0.5,2.03,1.87,Stade de Reims,OGC Nice,stade_de_reims,ogc_nice
+2022-08-14,F1,France-L1,2223,Reims,Clermont,2.0,4.0,A,2.0,0.0,H,2.15,3.2,3.6,2.18,3.24,3.93,2.14,3.28,3.63,2.2,1.66,2.16,1.7,-0.25,1.82,2.08,Stade de Reims,Clermont Foot,stade_de_reims,clermont_foot
+2022-08-28,F1,France-L1,2223,Reims,Lyon,1.0,1.0,D,1.0,0.0,H,4.2,4.0,1.75,4.29,4.13,1.82,4.28,4.03,1.77,1.66,2.2,1.64,2.27,0.75,1.88,2.02,Stade de Reims,Olympique Lyonnais,stade_de_reims,olympique_lyonnais
+2022-09-04,F1,France-L1,2223,Reims,Lens,1.0,1.0,D,0.0,0.0,D,3.2,3.5,2.25,3.23,3.58,2.31,3.13,3.51,2.26,1.88,2.02,1.85,1.97,0.25,1.9,2.0,Stade de Reims,RC Lens,stade_de_reims,rc_lens
+2022-09-18,F1,France-L1,2223,Reims,Monaco,0.0,3.0,A,0.0,0.0,D,3.1,3.5,2.25,3.21,3.66,2.29,3.15,3.55,2.23,1.72,2.1,1.73,2.08,0.25,1.93,1.97,Stade de Reims,AS Monaco,stade_de_reims,as_monaco
+2022-10-08,F1,France-L1,2223,Reims,Paris SG,0.0,0.0,D,0.0,0.0,D,7.0,5.5,1.4,7.54,5.45,1.41,7.17,5.3,1.39,1.44,2.75,1.44,2.76,1.5,1.84,2.06,Stade de Reims,Paris Saint-Germain,stade_de_reims,paris_saint_germain
+2022-10-23,F1,France-L1,2223,Reims,Auxerre,2.0,1.0,H,1.0,1.0,D,1.83,3.6,4.2,1.88,3.82,4.33,1.84,3.68,4.26,1.98,1.92,1.93,1.88,-0.5,1.86,2.04,Stade de Reims,AJ Auxerre,stade_de_reims,aj_auxerre
+2022-11-06,F1,France-L1,2223,Reims,Nantes,1.0,0.0,H,0.0,0.0,D,2.05,3.5,3.4,2.13,3.54,3.69,2.08,3.5,3.54,1.97,1.93,1.93,1.88,-0.25,1.75,2.05,Stade de Reims,FC Nantes,stade_de_reims,fc_nantes
+2022-12-29,F1,France-L1,2223,Reims,Rennes,3.0,1.0,H,2.0,1.0,H,3.3,3.4,2.2,3.48,3.4,2.27,3.28,3.44,2.22,1.9,2.0,1.86,1.96,0.25,1.97,1.93,Stade de Reims,Stade Rennais,stade_de_reims,stade_rennais
+2023-01-15,F1,France-L1,2223,Reims,Nice,0.0,0.0,D,0.0,0.0,D,2.4,3.25,3.0,2.53,3.37,3.03,2.47,3.3,2.93,2.1,1.73,2.08,1.76,0.0,1.79,2.11,Stade de Reims,OGC Nice,stade_de_reims,ogc_nice
+2023-02-01,F1,France-L1,2223,Reims,Lorient,4.0,2.0,H,1.0,2.0,A,1.8,3.6,4.5,1.87,3.73,4.52,1.83,3.66,4.35,1.98,1.92,1.94,1.89,-0.5,1.85,2.05,Stade de Reims,Lorient,stade_de_reims,lorient
+2023-02-12,F1,France-L1,2223,Reims,Troyes,4.0,0.0,H,2.0,0.0,H,1.55,4.33,5.75,1.58,4.46,5.96,1.55,4.33,5.78,1.73,2.1,1.74,2.11,-1.0,1.96,1.97,Stade de Reims,Troyes,stade_de_reims,troyes
+2023-02-26,F1,France-L1,2223,Reims,Toulouse,3.0,0.0,H,2.0,0.0,H,2.1,3.5,3.5,2.16,3.53,3.62,2.12,3.52,3.44,1.73,2.1,1.72,2.14,-0.25,1.75,2.05,Stade de Reims,Toulouse,stade_de_reims,toulouse
+2023-03-05,F1,France-L1,2223,Reims,Ajaccio,1.0,0.0,H,0.0,0.0,D,1.62,3.8,6.0,1.6,3.97,6.51,1.61,3.86,5.99,2.1,1.73,2.11,1.74,-1.0,2.11,1.79,Stade de Reims,Ajaccio,stade_de_reims,ajaccio
+2023-03-19,F1,France-L1,2223,Reims,Marseille,1.0,2.0,A,1.0,2.0,A,3.0,3.3,2.4,3.03,3.57,2.4,2.95,3.49,2.36,1.89,2.01,1.86,1.97,0.25,1.81,2.09,Stade de Reims,Olympique Marseille,stade_de_reims,olympique_marseille
+2023-04-09,F1,France-L1,2223,Reims,Brest,1.0,1.0,D,0.0,1.0,A,1.62,3.8,5.75,1.64,4.18,5.55,1.62,4.05,5.33,1.84,2.06,1.79,2.03,-1.0,2.0,1.8,Stade de Reims,Stade Brestois,stade_de_reims,stade_brestois
+2023-04-23,F1,France-L1,2223,Reims,Strasbourg,0.0,2.0,A,0.0,2.0,A,1.91,3.6,3.8,1.95,3.8,3.94,1.94,3.66,3.81,1.94,1.96,1.9,1.9,-0.5,1.96,1.94,Stade de Reims,RC Strasbourg,stade_de_reims,rc_strasbourg
+2023-05-06,F1,France-L1,2223,Reims,Lille,1.0,0.0,H,1.0,0.0,H,3.4,3.75,2.05,3.49,3.9,2.06,3.42,3.76,2.04,1.73,2.1,1.7,2.16,0.5,1.85,2.05,Stade de Reims,Lille,stade_de_reims,lille
+2023-05-21,F1,France-L1,2223,Reims,Angers,2.0,2.0,D,1.0,0.0,H,1.36,5.5,7.0,1.41,5.18,7.62,1.41,5.0,7.28,1.57,2.38,1.61,2.33,-1.25,1.9,2.0,Stade de Reims,Angers,stade_de_reims,angers
+2023-06-03,F1,France-L1,2223,Reims,Montpellier,1.0,3.0,A,1.0,0.0,H,2.0,3.8,3.4,2.05,4.0,3.38,2.03,3.93,3.31,1.5,2.63,1.48,2.66,-0.5,2.03,1.87,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2023-08-20,F1,France-L1,2324,Reims,Clermont,2.0,0.0,H,1.0,0.0,H,1.85,3.75,4.0,1.93,3.72,4.1,1.89,3.71,4.04,1.86,2.04,1.8,2.02,-0.5,1.91,1.99,Stade de Reims,Clermont Foot,stade_de_reims,clermont_foot
+2023-09-17,F1,France-L1,2324,Reims,Brest,1.0,2.0,A,1.0,0.0,H,1.85,3.6,4.2,1.9,3.6,4.43,1.88,3.67,4.12,1.8,2.0,1.82,2.02,-0.5,1.9,2.0,Stade de Reims,Stade Brestois,stade_de_reims,stade_brestois
+2023-10-01,F1,France-L1,2324,Reims,Lyon,2.0,0.0,H,1.0,0.0,H,2.0,3.8,3.4,2.1,3.81,3.45,2.05,3.8,3.38,1.67,2.2,1.65,2.26,-0.25,1.75,2.05,Stade de Reims,Olympique Lyonnais,stade_de_reims,olympique_lyonnais
+2023-10-07,F1,France-L1,2324,Reims,Monaco,1.0,3.0,A,0.0,1.0,A,2.6,3.6,2.55,2.68,3.62,2.64,2.64,3.66,2.55,1.6,2.3,1.59,2.37,0.0,1.96,1.94,Stade de Reims,AS Monaco,stade_de_reims,as_monaco
+2023-10-28,F1,France-L1,2324,Reims,Lorient,1.0,0.0,H,0.0,0.0,D,1.67,4.0,5.0,1.67,4.24,5.13,1.66,4.16,5.01,1.7,2.1,1.71,2.16,-1.0,2.08,1.73,Stade de Reims,Lorient,stade_de_reims,lorient
+2023-11-11,F1,France-L1,2324,Reims,Paris SG,0.0,3.0,A,0.0,1.0,A,5.0,4.33,1.6,5.46,4.35,1.6,5.21,4.35,1.6,1.6,2.3,1.59,2.36,1.0,1.89,2.01,Stade de Reims,Paris Saint-Germain,stade_de_reims,paris_saint_germain
+2023-12-01,F1,France-L1,2324,Reims,Strasbourg,2.0,1.0,H,2.0,0.0,H,1.73,3.75,4.75,1.76,3.87,4.93,1.74,3.87,4.78,1.9,2.0,1.85,1.99,-0.75,1.98,1.95,Stade de Reims,RC Strasbourg,stade_de_reims,rc_strasbourg
+2023-12-20,F1,France-L1,2324,Reims,Le Havre,1.0,0.0,H,1.0,0.0,H,1.7,4.0,4.75,1.69,3.92,5.28,1.69,3.93,5.0,1.95,1.95,1.91,1.91,-0.75,1.91,1.99,Stade de Reims,Le Havre,stade_de_reims,le_havre
+2024-01-28,F1,France-L1,2324,Reims,Nantes,0.0,0.0,D,0.0,0.0,D,1.8,3.75,4.33,1.83,3.76,4.5,1.83,3.72,4.29,1.92,1.98,1.88,1.92,-0.5,1.83,2.07,Stade de Reims,FC Nantes,stade_de_reims,fc_nantes
+2024-02-04,F1,France-L1,2324,Reims,Toulouse,2.0,3.0,A,0.0,3.0,A,1.75,3.5,4.75,1.8,3.73,4.69,1.78,3.72,4.55,1.98,1.92,1.92,1.9,-0.75,2.06,1.87,Stade de Reims,Toulouse,stade_de_reims,toulouse
+2024-02-18,F1,France-L1,2324,Reims,Lens,1.0,1.0,D,1.0,1.0,D,2.8,3.2,2.63,2.75,3.3,2.73,2.72,3.33,2.63,2.06,1.84,2.0,1.83,0.0,1.99,1.91,Stade de Reims,RC Lens,stade_de_reims,rc_lens
+2024-03-02,F1,France-L1,2324,Reims,Lille,0.0,1.0,A,0.0,0.0,D,2.7,3.3,2.63,2.78,3.33,2.69,2.73,3.36,2.62,1.99,1.91,1.9,1.88,0.0,1.99,1.91,Stade de Reims,Lille,stade_de_reims,lille
+2024-03-17,F1,France-L1,2324,Reims,Metz,2.0,1.0,H,1.0,1.0,D,1.57,4.0,6.0,1.58,4.11,6.19,1.56,4.1,6.09,2.02,1.88,1.97,1.86,-1.0,2.04,1.89,Stade de Reims,Metz,stade_de_reims,metz
+2024-04-07,F1,France-L1,2324,Reims,Nice,0.0,0.0,D,0.0,0.0,D,2.5,3.2,2.9,2.53,3.19,3.09,2.49,3.24,2.97,2.07,1.83,2.05,1.79,-0.25,2.08,1.73,Stade de Reims,OGC Nice,stade_de_reims,ogc_nice
+2024-04-21,F1,France-L1,2324,Reims,Montpellier,1.0,2.0,A,0.0,1.0,A,1.95,3.75,3.6,2.0,3.69,3.79,1.98,3.71,3.65,1.73,2.1,1.72,2.14,-0.5,2.02,1.88,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2024-05-15,F1,France-L1,2324,Reims,Marseille,1.0,0.0,H,1.0,0.0,H,3.25,3.5,2.15,3.3,3.68,2.18,3.22,3.64,2.17,1.67,2.2,1.68,2.22,0.25,2.0,1.9,Stade de Reims,Olympique Marseille,stade_de_reims,olympique_marseille
+2024-05-19,F1,France-L1,2324,Reims,Rennes,2.0,1.0,H,0.0,0.0,D,2.88,3.3,2.5,2.85,3.54,2.47,2.79,3.53,2.46,1.62,2.3,1.6,2.36,0.0,2.07,1.83,Stade de Reims,Stade Rennais,stade_de_reims,stade_rennais
+2024-08-17,F1,France-L1,2425,Reims,Lille,0.0,2.0,A,0.0,1.0,A,3.3,3.4,2.2,3.36,3.38,2.27,3.33,3.41,2.2,1.99,1.91,1.95,1.88,0.25,1.99,1.94,Stade de Reims,Lille,stade_de_reims,lille
+2024-09-01,F1,France-L1,2425,Reims,Rennes,2.0,1.0,H,1.0,1.0,D,2.9,3.5,2.38,2.94,3.29,2.37,2.92,3.44,2.4,1.83,2.07,1.8,2.04,0.25,1.82,2.08,Stade de Reims,Stade Rennais,stade_de_reims,stade_rennais
+2024-09-21,F1,France-L1,2425,Reims,Paris SG,1.0,1.0,D,1.0,0.0,H,6.5,4.75,1.44,6.91,5.01,1.44,6.59,4.92,1.44,1.53,2.5,1.52,2.52,1.25,1.98,1.95,Stade de Reims,Paris Saint-Germain,stade_de_reims,paris_saint_germain
+2024-10-06,F1,France-L1,2425,Reims,Montpellier,4.0,2.0,H,2.0,1.0,H,1.8,3.8,4.33,1.81,3.99,4.28,1.82,3.93,4.13,1.62,2.3,1.64,2.29,-0.5,1.78,2.03,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2024-10-26,F1,France-L1,2425,Reims,Brest,1.0,2.0,A,1.0,2.0,A,2.15,3.5,3.25,2.2,3.55,3.38,2.19,3.53,3.26,1.84,2.06,1.84,2.0,-0.25,1.85,1.93,Stade de Reims,Stade Brestois,stade_de_reims,stade_brestois
+2024-11-23,F1,France-L1,2425,Reims,Lyon,1.0,1.0,D,0.0,1.0,A,2.75,3.75,2.35,2.86,3.77,2.39,2.81,3.67,2.39,1.57,2.38,1.59,2.38,0.25,1.82,2.08,Stade de Reims,Olympique Lyonnais,stade_de_reims,olympique_lyonnais
+2024-11-29,F1,France-L1,2425,Reims,Lens,0.0,2.0,A,0.0,1.0,A,3.1,3.3,2.3,3.23,3.31,2.38,3.14,3.32,2.34,2.0,1.9,1.96,1.87,0.25,1.89,2.04,Stade de Reims,RC Lens,stade_de_reims,rc_lens
+2024-12-14,F1,France-L1,2425,Reims,Monaco,0.0,0.0,D,0.0,0.0,D,3.7,3.6,2.0,3.81,3.63,2.01,3.63,3.6,2.02,1.73,2.1,1.71,2.15,0.5,1.87,2.03,Stade de Reims,AS Monaco,stade_de_reims,as_monaco
+2025-01-11,F1,France-L1,2425,Reims,Nice,2.0,4.0,A,1.0,2.0,A,2.6,3.5,2.6,2.72,3.41,2.68,2.64,3.42,2.63,1.8,2.0,1.79,2.03,0.0,1.95,1.95,Stade de Reims,OGC Nice,stade_de_reims,ogc_nice
+2025-01-19,F1,France-L1,2425,Reims,Le Havre,1.0,1.0,D,1.0,0.0,H,1.62,4.0,5.25,1.64,4.04,5.54,1.64,3.9,5.3,2.0,1.9,1.95,1.87,-0.75,1.83,2.07,Stade de Reims,Le Havre,stade_de_reims,le_havre
+2025-02-02,F1,France-L1,2425,Reims,Nantes,1.0,2.0,A,1.0,1.0,D,2.15,3.4,3.4,2.19,3.42,3.51,2.15,3.38,3.43,2.0,1.8,2.05,1.77,-0.25,1.87,2.03,Stade de Reims,FC Nantes,stade_de_reims,fc_nantes
+2025-02-16,F1,France-L1,2425,Reims,Angers,0.0,1.0,A,0.0,1.0,A,2.0,3.4,3.9,2.03,3.44,3.99,1.99,3.44,3.85,2.04,1.86,2.01,1.83,-0.5,2.03,1.87,Stade de Reims,Angers,stade_de_reims,angers
+2025-03-09,F1,France-L1,2425,Reims,Auxerre,0.0,2.0,A,0.0,2.0,A,2.4,3.3,3.0,2.54,3.26,3.01,2.46,3.26,2.94,2.04,1.86,2.01,1.82,-0.25,2.1,1.8,Stade de Reims,AJ Auxerre,stade_de_reims,aj_auxerre
+2025-03-29,F1,France-L1,2425,Reims,Marseille,3.0,1.0,H,1.0,0.0,H,5.5,4.2,1.57,5.75,4.24,1.59,5.48,4.18,1.59,1.73,2.1,1.74,2.09,1.0,1.88,2.02,Stade de Reims,Olympique Marseille,stade_de_reims,olympique_marseille
+2025-04-06,F1,France-L1,2425,Reims,Strasbourg,0.0,1.0,A,0.0,1.0,A,3.2,3.6,2.15,3.48,3.48,2.18,3.32,3.47,2.15,2.0,1.9,1.95,1.86,0.25,2.01,1.89,Stade de Reims,RC Strasbourg,stade_de_reims,rc_strasbourg
+2025-04-20,F1,France-L1,2425,Reims,Toulouse,1.0,0.0,H,1.0,0.0,H,3.3,3.25,2.25,3.35,3.32,2.3,3.24,3.3,2.25,2.06,1.84,2.02,1.81,0.25,1.91,1.99,Stade de Reims,Toulouse,stade_de_reims,toulouse
+2025-05-10,F1,France-L1,2425,Reims,St Etienne,0.0,2.0,A,0.0,2.0,A,2.1,3.7,3.2,2.06,3.71,3.39,2.08,3.7,3.31,1.67,2.2,1.68,2.17,-0.25,1.84,2.06,Stade de Reims,Saint-Etienne,stade_de_reims,saint_etienne
+2025-08-16,F2,France-L2,2526,Reims,Guingamp,1.0,0.0,H,1.0,0.0,H,1.95,3.3,3.5,2.05,3.28,3.78,1.98,3.27,3.61,2.2,1.65,2.16,1.62,-0.5,2.03,1.78,Stade de Reims,Guingamp,stade_de_reims,guingamp
+2025-08-30,F2,France-L2,2526,Reims,Le Mans,1.0,0.0,H,0.0,0.0,D,1.8,3.25,4.33,1.8,3.56,4.48,1.76,3.44,4.34,2.1,1.7,2.04,1.7,-0.5,1.83,1.98,Stade de Reims,Le Mans,stade_de_reims,le_mans
+2025-09-23,F2,France-L2,2526,Reims,Clermont,4.0,1.0,H,2.0,0.0,H,1.4,4.33,6.5,1.53,4.41,6.18,1.42,4.39,6.45,1.67,2.15,1.67,2.09,-1.25,1.9,1.9,Stade de Reims,Clermont Foot,stade_de_reims,clermont_foot
+2025-10-04,F2,France-L2,2526,Reims,Grenoble,2.0,4.0,A,1.0,2.0,A,1.5,3.75,6.25,1.52,3.91,6.65,1.5,4.0,5.91,1.85,1.95,1.8,1.91,-1.0,1.9,1.9,Stade de Reims,Grenoble,stade_de_reims,grenoble
+2025-10-24,F2,France-L2,2526,Reims,Troyes,0.0,0.0,D,0.0,0.0,D,2.1,3.4,3.4,2.02,3.5,3.61,2.08,3.29,3.32,2.05,1.75,1.99,1.75,-0.25,1.78,2.03,Stade de Reims,Troyes,stade_de_reims,troyes
+2025-11-01,F2,France-L2,2526,Reims,Dunkerque,1.0,2.0,A,1.0,1.0,D,2.1,3.2,3.6,,,,2.05,3.35,3.32,1.95,1.85,1.9,1.83,-0.25,1.8,2.0,Stade de Reims,Dunkerque,stade_de_reims,dunkerque
+2025-11-24,F2,France-L2,2526,Reims,Montpellier,2.0,0.0,H,1.0,0.0,H,1.95,3.2,3.5,,,,1.98,3.24,3.64,1.95,1.85,1.93,1.78,-0.5,2.0,1.8,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2025-12-08,F2,France-L2,2526,Reims,Laval,4.0,0.0,H,3.0,0.0,H,1.62,3.75,5.25,,,,1.62,3.59,5.23,2.08,1.73,2.05,1.69,-0.75,1.8,2.0,Stade de Reims,Laval,stade_de_reims,laval
+2026-01-03,F2,France-L2,2526,Reims,Annecy,2.0,1.0,H,2.0,1.0,H,1.75,3.5,4.2,,,,1.77,3.39,4.33,2.08,1.73,2.06,1.68,-0.5,1.78,2.03,Stade de Reims,Annecy,stade_de_reims,annecy
+2026-01-24,F2,France-L2,2526,Reims,St Etienne,1.0,0.0,H,0.0,0.0,D,1.95,3.4,3.5,,,,1.98,3.47,3.4,1.73,2.08,1.72,2.01,-0.5,2.0,1.8,Stade de Reims,Saint-Etienne,stade_de_reims,saint_etienne
+2026-02-06,F2,France-L2,2526,Reims,Bastia,0.0,0.0,D,0.0,0.0,D,1.67,3.25,4.75,,,,1.69,3.43,5.01,2.25,1.62,2.16,1.63,-0.75,1.95,1.85,Stade de Reims,Bastia,stade_de_reims,bastia
+2026-02-21,F2,France-L2,2526,Reims,Amiens,0.0,0.0,D,0.0,0.0,D,1.42,4.5,6.5,,,,1.43,4.34,6.58,1.75,2.05,1.72,2.01,-1.25,1.98,1.83,Stade de Reims,Amiens,stade_de_reims,amiens
+2026-03-14,F2,France-L2,2526,Reims,Rodez,1.0,2.0,A,1.0,0.0,H,1.55,3.5,5.25,,,,1.57,3.89,5.07,1.73,2.08,1.7,2.03,-1.0,2.03,1.78,Stade de Reims,Rodez,stade_de_reims,rodez
+2026-04-04,F2,France-L2,2526,Reims,Boulogne,0.0,0.0,D,0.0,0.0,D,1.5,3.6,5.75,,,,1.53,3.85,5.73,1.9,1.9,1.88,1.83,-1.0,1.95,1.85,Stade de Reims,Boulogne,stade_de_reims,boulogne
+2026-04-18,F2,France-L2,2526,Reims,Red Star,3.0,2.0,H,2.0,0.0,H,1.83,3.3,3.9,,,,1.88,3.35,3.85,2.1,1.7,2.05,1.7,-0.5,1.9,1.9,Stade de Reims,Red Star,stade_de_reims,red_star
+2026-04-25,F2,France-L2,2526,Reims,Nancy,1.0,1.0,D,1.0,0.0,H,1.53,4.0,5.5,,,,1.52,4.02,5.33,1.7,2.1,1.69,2.05,-1.0,1.9,1.9,Stade de Reims,Nancy,stade_de_reims,nancy
+2026-05-09,F2,France-L2,2526,Reims,Pau FC,5.0,3.0,H,2.0,2.0,D,1.36,4.33,7.0,,,,1.35,4.8,7.01,1.53,2.4,1.51,2.41,-1.5,2.03,1.78,Stade de Reims,Pau FC,stade_de_reims,pau_fc
+2026-08-14,F2,France-L2,2627,Reims,Dunkerque,3.0,3.0,D,1.0,1.0,D,1.8,3.6,4.33,,,,1.75,3.6,4.25,1.85,1.95,1.8,1.92,-0.5,1.78,2.03,Stade de Reims,Dunkerque,stade_de_reims,dunkerque
+2026-08-24,F2,France-L2,2627,Reims,Annecy,3.0,1.0,H,0.0,1.0,A,1.75,3.5,4.0,,,,1.77,3.59,4.09,1.93,1.88,1.87,1.84,-0.5,1.8,2.0,Stade de Reims,Annecy,stade_de_reims,annecy
+2026-09-05,F2,France-L2,2627,Reims,Guingamp,2.0,2.0,D,0.0,1.0,A,1.75,3.3,4.1,,,,1.77,3.62,4.04,1.7,2.1,1.68,2.08,-0.75,2.03,1.78,Stade de Reims,Guingamp,stade_de_reims,guingamp
+2026-09-18,F2,France-L2,2627,Reims,Montpellier,1.0,1.0,D,1.0,1.0,D,2.05,3.1,3.3,,,,2.08,3.26,3.35,1.9,1.9,1.83,1.88,-0.5,2.08,1.73,Stade de Reims,Montpellier,stade_de_reims,montpellier
+2026-10-16,F2,France-L2,2627,Reims,Dijon,4.0,2.0,H,3.0,1.0,H,1.67,3.5,4.5,,,,1.72,3.72,4.16,1.67,2.15,1.64,2.13,-0.75,1.9,1.9,Stade de Reims,Dijon,stade_de_reims,dijon

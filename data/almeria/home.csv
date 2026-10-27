@@ -1,0 +1,107 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-20,SP2,Spain-Segunda,2122,Almeria,Oviedo,2.0,1.0,H,2.0,1.0,H,1.7,3.4,5.5,1.74,3.58,5.65,1.72,3.45,5.12,2.15,1.66,2.17,1.67,-0.75,1.95,1.9,Almeria,Real Oviedo,almeria,real_oviedo
+2021-09-04,SP2,Spain-Segunda,2122,Almeria,Malaga,2.0,0.0,H,0.0,0.0,D,1.72,3.3,5.25,1.76,3.42,5.71,1.75,3.32,5.18,2.3,1.6,2.31,1.6,-0.75,2.02,1.83,Almeria,Malaga,almeria,malaga
+2021-09-24,SP2,Spain-Segunda,2122,Almeria,Tenerife,3.0,1.0,H,0.0,0.0,D,2.1,3.2,3.6,2.27,3.05,3.86,2.17,3.06,3.63,2.25,1.61,2.28,1.62,-0.25,1.85,2.0,Almeria,Tenerife,almeria,tenerife
+2021-10-09,SP2,Spain-Segunda,2122,Almeria,Las Palmas,1.0,1.0,D,1.0,0.0,H,1.75,3.5,5.0,1.79,3.5,5.04,1.77,3.4,4.62,2.0,1.8,1.99,1.81,-0.75,2.02,1.83,Almeria,Las Palmas,almeria,las_palmas
+2021-10-21,SP2,Spain-Segunda,2122,Almeria,Sociedad B,3.0,1.0,H,1.0,1.0,D,1.5,4.0,7.5,1.51,4.13,7.24,1.51,3.96,6.43,2.0,1.8,1.96,1.83,-1.0,1.95,1.9,Almeria,Sociedad B,almeria,sociedad_b
+2021-10-29,SP2,Spain-Segunda,2122,Almeria,Leganes,1.0,0.0,H,1.0,0.0,H,1.72,3.5,5.0,1.76,3.71,5.18,1.73,3.55,4.76,2.0,1.8,1.98,1.82,-0.75,1.95,1.9,Almeria,Leganes,almeria,leganes
+2021-11-07,SP2,Spain-Segunda,2122,Almeria,Burgos,2.0,0.0,H,1.0,0.0,H,1.45,3.75,10.0,1.52,3.99,7.39,1.49,3.94,6.84,2.05,1.75,2.03,1.77,-1.0,1.83,2.02,Almeria,Burgos,almeria,burgos
+2021-11-20,SP2,Spain-Segunda,2122,Almeria,Valladolid,3.0,1.0,H,0.0,1.0,A,2.05,3.2,3.9,2.17,3.2,3.77,2.12,3.19,3.52,2.0,1.8,2.02,1.79,-0.25,1.8,2.05,Almeria,Real Valladolid,almeria,real_valladolid
+2021-11-27,SP2,Spain-Segunda,2122,Almeria,Huesca,0.0,0.0,D,0.0,0.0,D,1.7,3.6,5.25,1.75,3.48,5.46,1.73,3.46,4.9,2.07,1.72,2.1,1.72,-0.75,1.98,1.88,Almeria,Huesca,almeria,huesca
+2021-12-11,SP2,Spain-Segunda,2122,Almeria,Zaragoza,3.0,0.0,H,0.0,0.0,D,1.7,3.75,5.25,1.68,3.75,5.55,1.69,3.57,5.1,2.1,1.7,2.12,1.71,-0.75,1.9,1.95,Almeria,Zaragoza,almeria,zaragoza
+2022-01-02,SP2,Spain-Segunda,2122,Almeria,Cartagena,0.0,1.0,A,0.0,1.0,A,1.61,3.8,6.0,1.56,4.3,5.87,1.59,3.9,5.52,1.98,1.88,1.93,1.86,-1.0,2.05,1.8,Almeria,Cartagena,almeria,cartagena
+2022-01-24,SP2,Spain-Segunda,2122,Almeria,Eibar,0.0,2.0,A,0.0,1.0,A,2.0,3.3,4.0,2.05,3.43,3.83,2.01,3.27,3.72,2.1,1.7,2.15,1.67,-0.5,2.0,1.85,Almeria,Eibar,almeria,eibar
+2022-02-04,SP2,Spain-Segunda,2122,Almeria,Ibiza,2.0,0.0,H,0.0,0.0,D,1.72,3.8,4.75,1.75,3.85,5.06,1.72,3.7,4.61,1.83,2.02,1.83,1.96,-0.75,1.98,1.88,Almeria,Ibiza,almeria,ibiza
+2022-02-20,SP2,Spain-Segunda,2122,Almeria,Mirandes,2.0,1.0,H,0.0,0.0,D,1.57,4.0,6.0,1.57,3.84,6.82,1.56,3.84,5.95,2.0,1.85,1.97,1.81,-1.0,2.02,1.83,Almeria,Mirandes,almeria,mirandes
+2022-02-25,SP2,Spain-Segunda,2122,Almeria,Fuenlabrada,3.0,1.0,H,1.0,1.0,D,1.61,4.2,5.0,1.64,3.97,5.92,1.62,3.77,5.42,2.0,1.85,1.98,1.81,-0.75,1.85,2.0,Almeria,Fuenlabrada,almeria,fuenlabrada
+2022-03-12,SP2,Spain-Segunda,2122,Almeria,Lugo,3.0,3.0,D,1.0,1.0,D,1.45,4.5,7.0,1.42,4.56,8.41,1.42,4.3,7.72,2.0,1.8,1.96,1.81,-1.25,2.0,1.85,Almeria,Lugo,almeria,lugo
+2022-03-27,SP2,Spain-Segunda,2122,Almeria,Girona,0.0,1.0,A,0.0,1.0,A,2.05,3.5,3.6,2.05,3.4,3.89,2.05,3.33,3.55,2.02,1.83,2.0,1.78,-0.5,2.02,1.83,Almeria,Girona,almeria,girona
+2022-04-11,SP2,Spain-Segunda,2122,Almeria,Ponferradina,3.0,0.0,H,1.0,0.0,H,1.6,4.0,6.0,1.57,3.93,6.54,1.58,3.76,5.86,2.02,1.83,2.02,1.77,-1.0,2.05,1.8,Almeria,Ponferradina,almeria,ponferradina
+2022-04-25,SP2,Spain-Segunda,2122,Almeria,Sp Gijon,1.0,0.0,H,0.0,0.0,D,1.57,3.8,6.5,1.56,3.9,6.75,1.57,3.73,6.03,2.05,1.75,2.05,1.74,-1.0,2.02,1.83,Almeria,Sp Gijon,almeria,sp_gijon
+2022-05-07,SP2,Spain-Segunda,2122,Almeria,Amorebieta,3.0,0.0,H,0.0,0.0,D,1.5,4.2,6.5,1.52,3.99,7.28,1.51,3.99,6.5,1.98,1.88,1.94,1.83,-1.0,1.9,1.95,Almeria,Amorebieta,almeria,amorebieta
+2022-05-21,SP2,Spain-Segunda,2122,Almeria,Alcorcon,1.0,1.0,D,0.0,0.0,D,1.25,6.5,11.0,1.24,6.24,13.6,1.22,6.02,12.34,1.6,2.3,1.59,2.3,-1.75,1.9,1.9,Almeria,Alcorcon,almeria,alcorcon
+2022-08-14,SP1,Spain-LaLiga,2223,Almeria,Real Madrid,1.0,2.0,A,1.0,0.0,H,7.5,5.0,1.4,7.38,5.0,1.45,7.17,4.91,1.42,1.57,2.37,1.58,2.38,1.25,1.97,1.93,Almeria,Real Madrid,almeria,real_madrid
+2022-08-27,SP1,Spain-LaLiga,2223,Almeria,Sevilla,2.0,1.0,H,1.0,1.0,D,3.6,3.25,2.15,3.72,3.29,2.23,3.56,3.23,2.21,2.2,1.66,2.25,1.66,0.25,2.02,1.88,Almeria,Sevilla,almeria,sevilla
+2022-09-12,SP1,Spain-LaLiga,2223,Almeria,Osasuna,0.0,1.0,A,0.0,1.0,A,2.6,3.25,2.75,2.76,3.24,2.85,2.68,3.19,2.79,2.2,1.66,2.23,1.66,0.0,1.91,1.99,Almeria,Osasuna,almeria,osasuna
+2022-10-08,SP1,Spain-LaLiga,2223,Almeria,Vallecano,3.0,1.0,H,3.0,0.0,H,2.9,3.3,2.55,3.12,3.23,2.55,3.01,3.24,2.5,2.2,1.66,2.21,1.68,0.25,1.78,2.13,Almeria,Rayo Vallecano,almeria,rayo_vallecano
+2022-10-20,SP1,Spain-LaLiga,2223,Almeria,Girona,3.0,2.0,H,3.0,0.0,H,2.6,3.25,2.8,2.69,3.32,2.87,2.61,3.29,2.81,2.1,1.72,2.15,1.71,0.0,1.89,2.01,Almeria,Girona,almeria,girona
+2022-10-29,SP1,Spain-LaLiga,2223,Almeria,Celta,3.0,1.0,H,0.0,1.0,A,3.3,3.3,2.25,3.4,3.44,2.28,3.26,3.37,2.26,2.1,1.72,2.08,1.75,0.25,1.94,1.96,Almeria,Celta Vigo,almeria,celta_vigo
+2022-11-09,SP1,Spain-LaLiga,2223,Almeria,Getafe,1.0,0.0,H,1.0,0.0,H,2.15,3.3,3.5,2.27,3.2,3.72,2.22,3.22,3.54,2.37,1.57,2.37,1.6,-0.25,1.88,2.02,Almeria,Getafe,almeria,getafe
+2023-01-08,SP1,Spain-LaLiga,2223,Almeria,Sociedad,0.0,2.0,A,0.0,0.0,D,4.2,3.3,1.95,4.35,3.37,2.01,4.06,3.4,1.99,2.1,1.73,2.08,1.77,0.5,1.89,2.01,Almeria,Real Sociedad,almeria,real_sociedad
+2023-01-15,SP1,Spain-LaLiga,2223,Almeria,Ath Madrid,1.0,1.0,D,1.0,1.0,D,5.0,3.75,1.7,5.1,3.94,1.74,4.84,3.84,1.73,1.99,1.91,1.93,1.89,0.75,1.95,1.95,Almeria,Atletico Madrid,almeria,atletico_madrid
+2023-01-27,SP1,Spain-LaLiga,2223,Almeria,Espanol,3.0,1.0,H,1.0,0.0,H,2.38,3.1,3.2,2.44,3.22,3.32,2.4,3.18,3.23,2.1,1.73,2.16,1.72,-0.25,2.06,1.84,Almeria,Espanyol,almeria,espanyol
+2023-02-11,SP1,Spain-LaLiga,2223,Almeria,Betis,2.0,3.0,A,1.0,2.0,A,2.8,3.4,2.5,3.04,3.38,2.52,2.91,3.35,2.48,2.0,1.8,2.03,1.78,0.0,2.14,1.8,Almeria,Real Betis,almeria,real_betis
+2023-02-26,SP1,Spain-LaLiga,2223,Almeria,Barcelona,1.0,0.0,H,1.0,0.0,H,7.0,4.75,1.44,7.08,5.02,1.46,6.87,4.9,1.44,1.57,2.38,1.58,2.4,1.25,1.94,1.96,Almeria,Barcelona,almeria,barcelona
+2023-03-04,SP1,Spain-LaLiga,2223,Almeria,Villarreal,0.0,2.0,A,0.0,0.0,D,3.5,3.6,2.05,3.56,3.71,2.09,3.43,3.66,2.09,1.73,2.1,1.75,2.11,0.25,2.04,1.86,Almeria,Villarreal,almeria,villarreal
+2023-03-18,SP1,Spain-LaLiga,2223,Almeria,Cadiz,1.0,1.0,D,0.0,0.0,D,2.0,3.5,3.6,2.1,3.43,3.85,2.08,3.4,3.71,2.1,1.73,2.12,1.74,-0.25,1.75,2.05,Almeria,Cadiz,almeria,cadiz
+2023-04-09,SP1,Spain-LaLiga,2223,Almeria,Valencia,2.0,1.0,H,0.0,0.0,D,3.0,3.3,2.4,3.13,3.38,2.43,3.03,3.34,2.41,2.1,1.73,2.08,1.76,0.25,1.83,2.07,Almeria,Valencia,almeria,valencia
+2023-04-22,SP1,Spain-LaLiga,2223,Almeria,Ath Bilbao,1.0,2.0,A,0.0,1.0,A,3.8,3.75,1.85,4.16,3.78,1.91,4.11,3.68,1.88,1.91,1.99,1.88,1.94,0.5,2.02,1.88,Almeria,Athletic Bilbao,almeria,athletic_bilbao
+2023-05-02,SP1,Spain-LaLiga,2223,Almeria,Elche,2.0,1.0,H,1.0,0.0,H,1.62,4.33,5.0,1.63,4.37,5.42,1.62,4.33,5.21,1.53,2.5,1.55,2.47,-1.0,2.04,1.86,Almeria,Elche,almeria,elche
+2023-05-20,SP1,Spain-LaLiga,2223,Almeria,Mallorca,3.0,0.0,H,2.0,0.0,H,2.25,3.25,3.3,2.32,3.33,3.38,2.29,3.32,3.29,2.1,1.73,2.15,1.73,-0.25,1.97,1.93,Almeria,Mallorca,almeria,mallorca
+2023-05-28,SP1,Spain-LaLiga,2223,Almeria,Valladolid,0.0,0.0,D,0.0,0.0,D,2.25,3.4,3.1,2.35,3.47,3.18,2.28,3.56,3.06,1.73,2.1,1.73,2.13,-0.25,1.99,1.91,Almeria,Real Valladolid,almeria,real_valladolid
+2023-08-11,SP1,Spain-LaLiga,2324,Almeria,Vallecano,0.0,2.0,A,0.0,2.0,A,2.45,3.3,2.9,2.62,3.3,2.96,2.54,3.26,2.92,2.1,1.73,2.15,1.72,0.0,1.84,2.09,Almeria,Rayo Vallecano,almeria,rayo_vallecano
+2023-08-19,SP1,Spain-LaLiga,2324,Almeria,Real Madrid,1.0,3.0,A,1.0,1.0,D,8.0,4.75,1.4,8.15,5.11,1.4,8.0,5.01,1.39,1.62,2.3,1.63,2.32,1.25,2.04,1.86,Almeria,Real Madrid,almeria,real_madrid
+2023-09-01,SP1,Spain-LaLiga,2324,Almeria,Celta,2.0,3.0,A,0.0,2.0,A,2.8,3.4,2.5,3.04,3.33,2.55,2.97,3.31,2.5,2.0,1.8,2.07,1.78,0.25,1.75,2.05,Almeria,Celta Vigo,almeria,celta_vigo
+2023-09-23,SP1,Spain-LaLiga,2324,Almeria,Valencia,2.0,2.0,D,0.0,1.0,A,3.0,3.6,2.3,3.11,3.53,2.36,3.04,3.48,2.34,1.94,1.96,1.93,1.91,0.25,1.9,2.0,Almeria,Valencia,almeria,valencia
+2023-10-01,SP1,Spain-LaLiga,2324,Almeria,Granada,3.0,3.0,D,3.0,0.0,H,1.95,3.6,3.75,1.92,3.68,3.96,1.96,3.7,3.79,1.73,2.08,1.76,2.09,-0.5,1.96,1.94,Almeria,Granada,almeria,granada
+2023-10-28,SP1,Spain-LaLiga,2324,Almeria,Las Palmas,1.0,2.0,A,0.0,1.0,A,2.25,3.5,3.1,2.37,3.46,3.15,2.33,3.46,3.1,1.97,1.93,1.95,1.88,-0.25,2.01,1.92,Almeria,Las Palmas,almeria,las_palmas
+2023-11-11,SP1,Spain-LaLiga,2324,Almeria,Sociedad,1.0,3.0,A,0.0,0.0,D,4.75,3.8,1.73,4.83,4.01,1.72,4.71,3.95,1.73,1.85,2.05,1.82,2.02,0.75,1.96,1.94,Almeria,Real Sociedad,almeria,real_sociedad
+2023-12-03,SP1,Spain-LaLiga,2324,Almeria,Betis,0.0,0.0,D,0.0,0.0,D,3.2,3.6,2.2,3.36,3.66,2.16,3.28,3.63,2.18,1.7,2.1,1.74,2.12,0.25,2.02,1.91,Almeria,Real Betis,almeria,real_betis
+2023-12-17,SP1,Spain-LaLiga,2324,Almeria,Mallorca,0.0,0.0,D,0.0,0.0,D,2.7,3.2,2.7,2.66,3.3,2.83,2.65,3.3,2.78,2.1,1.7,2.12,1.75,0.0,1.91,2.02,Almeria,Mallorca,almeria,mallorca
+2024-01-14,SP1,Spain-LaLiga,2324,Almeria,Girona,0.0,0.0,D,0.0,0.0,D,4.5,4.0,1.7,4.71,4.42,1.67,4.61,4.32,1.68,1.5,2.5,1.5,2.59,0.75,2.05,1.85,Almeria,Girona,almeria,girona
+2024-01-26,SP1,Spain-LaLiga,2324,Almeria,Alaves,0.0,3.0,A,0.0,1.0,A,2.6,3.2,2.8,2.64,3.24,2.9,2.61,3.23,2.86,2.2,1.65,2.23,1.68,0.0,1.85,2.05,Almeria,Deportivo Alaves,almeria,deportivo_alaves
+2024-02-12,SP1,Spain-LaLiga,2324,Almeria,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,4.33,4.0,1.73,4.64,3.99,1.76,4.65,3.92,1.73,1.84,2.06,1.81,2.01,0.75,1.94,1.99,Almeria,Athletic Bilbao,almeria,athletic_bilbao
+2024-02-24,SP1,Spain-LaLiga,2324,Almeria,Ath Madrid,2.0,2.0,D,1.0,1.0,D,4.75,4.0,1.7,4.55,4.02,1.76,4.54,3.95,1.75,1.73,2.08,1.74,2.08,0.75,1.92,1.98,Almeria,Atletico Madrid,almeria,atletico_madrid
+2024-03-11,SP1,Spain-LaLiga,2324,Almeria,Sevilla,2.0,2.0,D,1.0,0.0,H,3.1,3.3,2.38,3.11,3.36,2.42,3.06,3.34,2.38,1.98,1.92,1.93,1.89,0.25,1.87,2.06,Almeria,Sevilla,almeria,sevilla
+2024-03-30,SP1,Spain-LaLiga,2324,Almeria,Osasuna,0.0,3.0,A,0.0,2.0,A,2.63,3.2,2.8,2.63,3.25,2.89,2.62,3.25,2.83,2.08,1.73,2.12,1.75,0.0,1.87,2.03,Almeria,Osasuna,almeria,osasuna
+2024-04-21,SP1,Spain-LaLiga,2324,Almeria,Villarreal,1.0,2.0,A,1.0,1.0,D,3.4,3.8,2.05,3.32,3.81,2.05,3.4,3.75,2.06,1.62,2.3,1.63,2.32,0.5,1.84,2.06,Almeria,Villarreal,almeria,villarreal
+2024-04-27,SP1,Spain-LaLiga,2324,Almeria,Getafe,1.0,3.0,A,1.0,1.0,D,2.7,3.4,2.63,2.69,3.3,2.67,2.72,3.31,2.66,2.1,1.73,2.1,1.76,0.0,1.97,1.93,Almeria,Getafe,almeria,getafe
+2024-05-16,SP1,Spain-LaLiga,2324,Almeria,Barcelona,0.0,2.0,A,0.0,1.0,A,6.5,5.0,1.44,6.79,5.43,1.41,6.62,5.32,1.42,1.36,3.2,1.36,3.18,1.25,2.02,1.88,Almeria,Barcelona,almeria,barcelona
+2024-05-25,SP1,Spain-LaLiga,2324,Almeria,Cadiz,6.0,1.0,H,0.0,1.0,A,2.05,3.6,3.5,2.08,3.63,3.52,2.1,3.59,3.43,1.86,2.04,1.84,1.99,-0.25,1.83,2.07,Almeria,Cadiz,almeria,cadiz
+2024-08-31,SP2,Spain-Segunda,2425,Almeria,Sp Gijon,1.0,1.0,D,0.0,0.0,D,1.73,3.5,5.0,1.71,3.7,5.04,1.72,3.61,4.82,2.08,1.73,2.05,1.74,-0.75,1.98,1.88,Almeria,Sp Gijon,almeria,sp_gijon
+2024-09-16,SP2,Spain-Segunda,2425,Almeria,Castellon,2.0,5.0,A,0.0,1.0,A,2.15,3.4,3.3,2.03,3.46,3.24,2.12,3.41,3.23,2.03,1.83,1.99,1.78,-0.25,1.85,2.0,Almeria,Castellon,almeria,castellon
+2024-09-22,SP2,Spain-Segunda,2425,Almeria,Eibar,2.0,2.0,D,0.0,1.0,A,1.91,3.4,4.1,1.95,3.48,3.98,1.93,3.42,3.82,1.95,1.9,1.92,1.85,-0.5,1.95,1.9,Almeria,Eibar,almeria,eibar
+2024-10-05,SP2,Spain-Segunda,2425,Almeria,Burgos,2.0,0.0,H,1.0,0.0,H,1.73,3.8,4.5,1.72,3.91,4.59,1.72,3.83,4.42,1.73,2.08,1.73,2.08,-0.75,1.95,1.9,Almeria,Burgos,almeria,burgos
+2024-10-24,SP2,Spain-Segunda,2425,Almeria,Albacete,3.0,1.0,H,1.0,1.0,D,1.73,3.6,4.75,1.73,4.01,4.43,1.73,3.81,4.31,1.67,2.15,1.66,2.17,-0.75,1.98,1.88,Almeria,Albacete,almeria,albacete
+2024-11-17,SP2,Spain-Segunda,2425,Almeria,La Coruna,2.0,1.0,H,2.0,1.0,H,1.95,3.5,3.75,2.01,3.45,3.78,1.98,3.46,3.59,1.7,2.1,1.69,2.14,-0.5,2.03,1.83,Almeria,La Coruna,almeria,la_coruna
+2024-11-26,SP2,Spain-Segunda,2425,Almeria,Cordoba,4.0,0.0,H,0.0,0.0,D,1.67,4.1,4.5,1.72,4.24,4.54,1.67,4.03,4.4,1.62,2.25,1.6,2.27,-0.75,1.88,1.98,Almeria,Cordoba,almeria,cordoba
+2024-11-30,SP2,Spain-Segunda,2425,Almeria,Granada,2.0,1.0,H,0.0,1.0,A,1.8,3.6,4.33,1.81,3.78,4.24,1.81,3.72,4.05,1.7,2.1,1.71,2.09,-0.5,1.83,2.03,Almeria,Granada,almeria,granada
+2024-12-13,SP2,Spain-Segunda,2425,Almeria,Mirandes,1.0,0.0,H,1.0,0.0,H,1.62,3.6,5.75,1.65,3.8,5.89,1.63,3.67,5.45,2.1,1.7,2.1,1.71,-0.75,1.8,2.05,Almeria,Mirandes,almeria,mirandes
+2024-12-22,SP2,Spain-Segunda,2425,Almeria,Cadiz,1.0,1.0,D,0.0,1.0,A,1.62,3.9,5.25,1.62,4.0,5.34,1.62,3.83,5.13,1.93,1.93,1.88,1.89,-0.75,1.8,2.05,Almeria,Cadiz,almeria,cadiz
+2025-01-19,SP2,Spain-Segunda,2425,Almeria,Huesca,0.0,0.0,D,0.0,0.0,D,1.55,4.0,6.0,1.53,4.05,6.39,1.53,3.93,5.95,2.05,1.75,2.06,1.73,-1.0,2.0,1.85,Almeria,Huesca,almeria,huesca
+2025-02-01,SP2,Spain-Segunda,2425,Almeria,Oviedo,1.0,1.0,D,0.0,1.0,A,1.85,3.4,4.33,1.83,3.47,4.55,1.83,3.44,4.27,2.0,1.85,1.95,1.84,-0.5,1.85,2.0,Almeria,Real Oviedo,almeria,real_oviedo
+2025-02-17,SP2,Spain-Segunda,2425,Almeria,Elche,1.0,1.0,D,0.0,0.0,D,2.1,3.4,3.4,2.11,3.26,3.69,2.08,3.24,3.47,2.05,1.75,2.01,1.77,-0.25,1.83,2.03,Almeria,Elche,almeria,elche
+2025-03-01,SP2,Spain-Segunda,2425,Almeria,Malaga,2.0,2.0,D,1.0,0.0,H,1.44,4.75,6.0,1.44,4.69,6.69,1.44,4.53,6.36,1.7,2.1,1.68,2.14,-1.25,2.03,1.83,Almeria,Malaga,almeria,malaga
+2025-03-15,SP2,Spain-Segunda,2425,Almeria,Zaragoza,4.0,1.0,H,3.0,1.0,H,1.65,4.0,4.75,1.65,4.05,4.97,1.64,3.92,4.85,1.75,2.05,1.75,2.03,-0.75,1.83,2.03,Almeria,Zaragoza,almeria,zaragoza
+2025-03-29,SP2,Spain-Segunda,2425,Almeria,Levante,1.0,0.0,H,0.0,0.0,D,2.0,3.25,3.8,2.05,3.23,3.94,2.04,3.23,3.7,1.83,2.03,1.79,1.98,-0.5,2.03,1.83,Almeria,Levante,almeria,levante
+2025-04-13,SP2,Spain-Segunda,2425,Almeria,Cartagena,2.0,1.0,H,1.0,0.0,H,1.2,6.25,15.0,1.19,6.97,12.71,1.19,6.46,12.95,1.53,2.4,1.5,2.45,-2.0,2.03,1.83,Almeria,Cartagena,almeria,cartagena
+2025-04-29,SP2,Spain-Segunda,2425,Almeria,Ferrol,2.0,1.0,H,1.0,0.0,H,1.3,4.75,12.0,1.29,5.37,10.58,1.29,5.05,10.2,1.8,2.0,1.78,2.0,-1.5,1.93,1.93,Almeria,Ferrol,almeria,ferrol
+2025-05-04,SP2,Spain-Segunda,2425,Almeria,Eldense,5.0,0.0,H,2.0,0.0,H,1.49,3.8,6.0,1.56,4.17,5.68,1.54,4.06,5.58,1.73,2.08,1.72,2.07,-1.0,1.83,1.78,Almeria,Eldense,almeria,eldense
+2025-05-18,SP2,Spain-Segunda,2425,Almeria,Santander,2.0,0.0,H,1.0,0.0,H,1.75,4.0,4.0,1.75,4.08,4.15,1.76,4.01,3.94,1.48,2.6,1.46,2.56,-0.75,1.98,1.83,Almeria,Santander,almeria,santander
+2025-06-01,SP2,Spain-Segunda,2425,Almeria,Tenerife,2.0,0.0,H,1.0,0.0,H,1.22,6.5,11.0,1.22,5.92,10.94,1.22,6.23,10.97,1.53,2.4,1.51,2.41,-1.75,1.8,2.0,Almeria,Tenerife,almeria,tenerife
+2025-08-18,SP2,Spain-Segunda,2526,Almeria,Albacete,4.0,4.0,D,1.0,1.0,D,1.65,4.0,4.75,1.66,3.85,5.21,1.59,3.95,4.88,1.73,2.08,1.7,2.03,-0.75,1.83,1.98,Almeria,Albacete,almeria,albacete
+2025-09-07,SP2,Spain-Segunda,2526,Almeria,Santander,2.0,3.0,A,2.0,0.0,H,1.76,3.8,4.2,1.81,3.89,4.09,1.72,3.85,4.08,1.57,2.35,1.59,2.23,-0.75,2.0,1.8,Almeria,Santander,almeria,santander
+2025-09-20,SP2,Spain-Segunda,2526,Almeria,Sp Gijon,2.0,1.0,H,0.0,1.0,A,1.71,3.8,4.33,1.77,3.76,4.49,1.71,3.68,4.22,1.88,1.93,1.79,1.93,-0.75,1.98,1.83,Almeria,Sp Gijon,almeria,sp_gijon
+2025-10-11,SP2,Spain-Segunda,2526,Almeria,Zaragoza,4.0,2.0,H,0.0,0.0,D,1.61,4.0,5.0,1.63,3.99,5.29,1.62,3.78,4.83,1.85,1.95,1.81,1.9,-0.75,1.8,2.0,Almeria,Zaragoza,almeria,zaragoza
+2025-10-26,SP2,Spain-Segunda,2526,Almeria,Castellon,1.0,0.0,H,0.0,0.0,D,1.86,3.6,3.7,1.81,3.83,4.15,1.89,3.66,3.48,1.6,2.3,1.58,2.25,-0.5,1.95,1.85,Almeria,Castellon,almeria,castellon
+2025-11-01,SP2,Spain-Segunda,2526,Almeria,Eibar,3.0,1.0,H,3.0,0.0,H,1.68,3.6,4.75,,,,1.71,3.6,4.38,1.98,1.83,1.9,1.82,-0.75,1.98,1.83,Almeria,Eibar,almeria,eibar
+2025-11-16,SP2,Spain-Segunda,2526,Almeria,Cadiz,3.0,0.0,H,1.0,0.0,H,1.57,3.9,5.25,,,,1.6,3.81,4.96,1.83,1.98,1.81,1.89,-0.75,1.78,2.03,Almeria,Cadiz,almeria,cadiz
+2025-11-29,SP2,Spain-Segunda,2526,Almeria,Huesca,0.0,0.0,D,0.0,0.0,D,1.56,3.7,5.75,1.62,3.88,5.6,1.58,3.67,5.43,2.1,1.7,2.05,1.69,-0.75,1.78,2.03,Almeria,Huesca,almeria,huesca
+2025-12-14,SP2,Spain-Segunda,2526,Almeria,Burgos,1.0,2.0,A,1.0,1.0,D,1.68,3.6,4.5,1.74,3.71,4.78,1.7,3.42,4.67,2.25,1.62,2.17,1.62,-0.75,1.98,1.83,Almeria,Burgos,almeria,burgos
+2026-01-03,SP2,Spain-Segunda,2526,Almeria,Granada,3.0,2.0,H,1.0,1.0,D,1.76,3.6,4.33,1.82,3.61,4.41,1.76,3.5,4.18,1.9,1.9,1.83,1.86,-0.5,1.8,2.0,Almeria,Granada,almeria,granada
+2026-01-17,SP2,Spain-Segunda,2526,Almeria,La Coruna,1.0,2.0,A,1.0,0.0,H,1.91,3.5,3.75,,,,1.9,3.51,3.57,1.8,2.0,1.73,2.0,-0.5,1.95,1.85,Almeria,La Coruna,almeria,la_coruna
+2026-02-01,SP2,Spain-Segunda,2526,Almeria,Ceuta,4.0,2.0,H,3.0,1.0,H,1.68,3.7,4.75,,,,1.68,3.71,4.53,1.8,2.0,1.73,1.99,-0.75,1.95,1.85,Almeria,Ceuta,almeria,ceuta
+2026-02-13,SP2,Spain-Segunda,2526,Almeria,Andorra,3.0,2.0,H,1.0,1.0,D,1.68,3.8,4.5,,,,1.69,3.78,4.31,1.67,2.15,1.63,2.16,-0.75,1.95,1.85,Almeria,Andorra,almeria,andorra
+2026-02-21,SP2,Spain-Segunda,2526,Almeria,Cordoba,2.0,1.0,H,2.0,0.0,H,2.01,3.5,3.3,,,,1.99,3.48,3.33,1.6,2.3,1.6,2.2,-0.25,1.8,2.0,Almeria,Cordoba,almeria,cordoba
+2026-03-09,SP2,Spain-Segunda,2526,Almeria,Cultural Leonesa,3.0,0.0,H,1.0,0.0,H,1.49,4.33,5.75,,,,1.5,4.03,5.46,1.7,2.1,1.69,2.05,-1.0,1.85,1.95,Almeria,Cultural Leonesa,almeria,cultural_leonesa
+2026-03-29,SP2,Spain-Segunda,2526,Almeria,Sociedad B,5.0,1.0,H,2.0,0.0,H,1.51,4.0,5.5,,,,1.53,4.03,5.25,1.65,2.2,1.62,2.17,-1.0,1.9,1.9,Almeria,Sociedad B,almeria,sociedad_b
+2026-04-05,SP2,Spain-Segunda,2526,Almeria,Leganes,2.0,1.0,H,1.0,1.0,D,1.57,3.75,5.5,,,,1.66,3.6,4.76,1.83,1.98,1.76,1.97,-0.75,1.78,2.03,Almeria,Leganes,almeria,leganes
+2026-04-19,SP2,Spain-Segunda,2526,Almeria,Malaga,3.0,2.0,H,0.0,0.0,D,1.86,3.7,3.7,,,,1.83,3.67,3.67,1.62,2.25,1.61,2.2,-0.5,1.9,1.9,Almeria,Malaga,almeria,malaga
+2026-05-04,SP2,Spain-Segunda,2526,Almeria,Mirandes,4.0,2.0,H,2.0,2.0,D,1.45,4.5,6.0,,,,1.43,4.44,5.84,1.5,2.5,1.49,2.48,-1.25,2.0,1.8,Almeria,Mirandes,almeria,mirandes
+2026-05-16,SP2,Spain-Segunda,2526,Almeria,Las Palmas,1.0,2.0,A,0.0,0.0,D,2.01,3.3,3.6,,,,1.99,3.4,3.36,1.73,2.08,1.7,2.05,-0.25,1.8,2.0,Almeria,Las Palmas,almeria,las_palmas
+2026-05-31,SP2,Spain-Segunda,2526,Almeria,Valladolid,1.0,0.0,H,0.0,0.0,D,1.39,5.25,5.75,,,,1.38,4.6,6.54,1.53,2.4,1.52,2.37,-1.25,1.88,1.93,Almeria,Real Valladolid,almeria,real_valladolid
+2026-08-17,SP2,Spain-Segunda,2627,Almeria,Eldense,3.0,0.0,H,3.0,0.0,H,1.3,4.75,10.0,,,,1.29,4.9,8.44,1.67,2.15,1.63,2.17,-1.5,1.95,1.85,Almeria,Eldense,almeria,eldense
+2026-09-06,SP2,Spain-Segunda,2627,Almeria,Cadiz,3.0,2.0,H,3.0,1.0,H,1.46,4.2,6.0,,,,1.49,4.12,5.73,1.75,2.05,1.71,2.03,-1.0,1.9,1.9,Almeria,Cadiz,almeria,cadiz
+2026-09-20,SP2,Spain-Segunda,2627,Almeria,Celta B,2.0,0.0,H,2.0,0.0,H,1.37,4.5,8.0,,,,1.37,4.64,7.06,1.62,2.25,1.58,2.25,-1.25,1.85,1.95,Almeria,Celta B,almeria,celta_b
+2026-10-03,SP2,Spain-Segunda,2627,Almeria,Burgos,2.0,1.0,H,0.0,1.0,A,1.56,3.6,6.25,,,,1.59,3.71,5.18,1.95,1.85,1.87,1.84,-1.0,2.05,1.75,Almeria,Burgos,almeria,burgos
+2026-10-11,SP2,Spain-Segunda,2627,Almeria,Leganes,3.0,0.0,H,0.0,0.0,D,1.62,3.7,5.25,,,,1.61,3.88,4.65,1.7,2.1,1.65,2.12,-0.75,1.83,1.98,Almeria,Leganes,almeria,leganes

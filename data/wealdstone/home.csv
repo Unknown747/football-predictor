@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-06,EC,England-Conference,2223,Wealdstone,Bromley,3.0,2.0,H,1.0,2.0,A,3.0,3.25,2.15,3.19,3.66,2.18,3.0,3.43,2.17,1.83,1.98,1.78,1.96,0.25,1.93,1.88,Wealdstone,Bromley,wealdstone,bromley
+2022-08-20,EC,England-Conference,2223,Wealdstone,Halifax,1.0,0.0,H,1.0,0.0,H,3.25,3.5,2.15,3.06,3.56,2.29,3.05,3.37,2.18,1.93,1.88,1.92,1.81,0.25,1.93,1.88,Wealdstone,Halifax,wealdstone,halifax
+2022-08-29,EC,England-Conference,2223,Wealdstone,Yeovil,0.0,0.0,D,0.0,0.0,D,2.4,3.25,3.0,2.43,3.35,2.99,2.34,3.25,2.89,2.05,1.75,2.0,1.75,-0.25,2.02,1.77,Wealdstone,Yeovil Town,wealdstone,yeovil_town
+2022-09-04,EC,England-Conference,2223,Wealdstone,Woking,1.0,1.0,D,1.0,1.0,D,2.8,3.4,2.25,3.05,3.64,2.2,2.94,3.38,2.2,1.77,2.02,1.81,1.92,0.25,1.8,2.0,Wealdstone,Woking,wealdstone,woking
+2022-09-17,EC,England-Conference,2223,Wealdstone,Torquay,1.0,1.0,D,0.0,1.0,A,2.2,3.4,2.87,2.13,3.5,3.45,2.12,3.41,3.11,1.75,2.05,1.78,1.95,-0.25,1.95,1.85,Wealdstone,Torquay,wealdstone,torquay
+2022-09-24,EC,England-Conference,2223,Wealdstone,Southend,0.0,1.0,A,0.0,0.0,D,2.8,3.25,2.5,2.94,3.44,2.42,2.83,3.28,2.36,2.07,1.72,2.03,1.72,0.25,1.68,2.15,Wealdstone,Southend United,wealdstone,southend_united
+2022-10-08,EC,England-Conference,2223,Wealdstone,Boreham Wood,1.0,2.0,A,0.0,0.0,D,2.8,3.3,2.25,3.07,3.46,2.33,2.93,3.27,2.29,2.05,1.75,2.01,1.74,0.25,1.8,2.0,Wealdstone,Boreham Wood,wealdstone,boreham_wood
+2022-10-25,EC,England-Conference,2223,Wealdstone,Notts County,1.0,6.0,A,0.0,4.0,A,5.5,4.0,1.5,5.87,4.37,1.53,5.31,4.26,1.51,1.6,2.3,1.57,2.28,1.0,1.98,1.83,Wealdstone,Notts County,wealdstone,notts_county
+2022-11-12,EC,England-Conference,2223,Wealdstone,Wrexham,0.0,0.0,D,0.0,0.0,D,5.5,4.2,1.5,6.01,4.83,1.48,5.84,4.46,1.45,1.65,2.2,1.59,2.25,1.25,1.73,2.08,Wealdstone,Wrexham,wealdstone,wrexham
+2022-11-26,EC,England-Conference,2223,Wealdstone,Scunthorpe,3.0,1.0,H,1.0,1.0,D,2.0,3.6,3.2,2.16,3.47,3.4,2.06,3.42,3.26,1.83,1.98,1.8,1.93,-0.25,1.83,1.98,Wealdstone,Scunthorpe United,wealdstone,scunthorpe_united
+2022-12-26,EC,England-Conference,2223,Wealdstone,Maidenhead,3.0,2.0,H,2.0,2.0,D,2.2,3.25,3.25,2.35,3.32,3.05,2.23,3.26,3.03,1.98,1.83,1.97,1.8,-0.25,1.95,1.85,Wealdstone,Maidenhead,wealdstone,maidenhead
+2023-01-07,EC,England-Conference,2223,Wealdstone,Eastleigh,3.0,1.0,H,1.0,1.0,D,2.6,3.4,2.6,2.66,3.44,2.65,2.61,3.31,2.51,1.95,1.85,1.91,1.83,0.0,1.9,1.9,Wealdstone,Eastleigh,wealdstone,eastleigh
+2023-01-28,EC,England-Conference,2223,Wealdstone,Gateshead,1.0,2.0,A,1.0,0.0,H,2.4,3.5,2.7,2.5,3.45,2.83,2.41,3.38,2.69,1.88,1.93,1.85,1.9,0.0,1.83,1.98,Wealdstone,Gateshead,wealdstone,gateshead
+2023-02-04,EC,England-Conference,2223,Wealdstone,Dag and Red,1.0,0.0,H,1.0,0.0,H,2.55,3.3,2.55,2.65,3.65,2.48,2.56,3.41,2.47,1.83,1.98,1.76,2.0,0.0,1.9,1.9,Wealdstone,Dag and Red,wealdstone,dag_and_red
+2023-02-18,EC,England-Conference,2223,Wealdstone,York,3.0,1.0,H,1.0,0.0,H,2.38,3.2,2.88,2.45,3.42,2.91,2.35,3.26,2.83,1.9,1.9,1.92,1.81,-0.25,2.05,1.75,Wealdstone,York,wealdstone,york
+2023-03-04,EC,England-Conference,2223,Wealdstone,Altrincham,4.0,0.0,H,2.0,0.0,H,2.88,3.3,2.3,2.99,3.51,2.36,2.81,3.39,2.3,1.77,2.02,1.75,1.99,0.25,1.77,2.02,Wealdstone,Altrincham,wealdstone,altrincham
+2023-03-07,EC,England-Conference,2223,Wealdstone,Maidstone,2.0,1.0,H,2.0,0.0,H,1.91,3.3,3.8,1.96,3.6,3.86,1.92,3.42,3.66,1.88,1.93,1.85,1.9,-0.5,1.9,1.9,Wealdstone,Maidstone,wealdstone,maidstone
+2023-03-14,EC,England-Conference,2223,Wealdstone,Chesterfield,0.0,4.0,A,0.0,2.0,A,4.75,3.6,1.73,4.42,3.89,1.77,4.22,3.69,1.73,1.73,2.08,1.72,2.04,0.75,1.85,1.95,Wealdstone,Chesterfield,wealdstone,chesterfield
+2023-03-25,EC,England-Conference,2223,Wealdstone,Barnet,0.0,2.0,A,0.0,0.0,D,2.9,3.4,2.05,3.24,3.92,2.08,3.05,3.58,2.09,1.73,2.08,1.69,2.07,0.25,1.95,1.85,Wealdstone,Barnet,wealdstone,barnet
+2023-03-28,EC,England-Conference,2223,Wealdstone,Oldham,2.0,2.0,D,0.0,1.0,A,2.7,3.4,2.55,2.71,3.59,2.52,2.63,3.38,2.44,1.88,1.93,1.85,1.89,0.0,2.0,1.8,Wealdstone,Oldham,wealdstone,oldham
+2023-04-18,EC,England-Conference,2223,Wealdstone,Aldershot,0.0,1.0,A,0.0,0.0,D,2.88,3.4,2.2,3.17,3.68,2.18,2.95,3.45,2.19,1.8,2.0,1.75,1.99,0.25,1.83,1.98,Wealdstone,Aldershot,wealdstone,aldershot
+2023-04-22,EC,England-Conference,2223,Wealdstone,Dorking,2.0,2.0,D,1.0,2.0,A,2.1,3.5,2.8,2.26,3.61,3.07,2.16,3.48,2.96,1.67,2.15,1.63,2.16,-0.25,1.9,1.9,Wealdstone,Dorking,wealdstone,dorking
+2023-04-25,EC,England-Conference,2223,Wealdstone,Solihull,3.0,0.0,H,2.0,0.0,H,2.55,3.75,2.5,2.64,3.83,2.48,2.55,3.54,2.45,1.67,2.15,1.71,2.06,0.0,1.93,1.88,Wealdstone,Solihull,wealdstone,solihull
+2023-08-05,EC,England-Conference,2324,Wealdstone,York,2.0,1.0,H,0.0,1.0,A,2.63,3.25,2.63,2.68,3.54,2.58,2.54,3.37,2.54,1.83,1.98,1.8,1.94,0.0,1.88,1.93,Wealdstone,York,wealdstone,york
+2023-08-19,EC,England-Conference,2324,Wealdstone,Fylde,3.0,2.0,H,1.0,1.0,D,2.45,3.5,2.45,2.66,3.73,2.5,2.51,3.51,2.49,1.67,2.15,1.65,2.12,0.0,1.93,1.88,Wealdstone,Fylde,wealdstone,fylde
+2023-08-28,EC,England-Conference,2324,Wealdstone,Dag and Red,0.0,2.0,A,0.0,0.0,D,2.25,3.4,3.1,2.25,3.77,2.98,2.2,3.49,2.94,1.75,2.05,1.74,2.01,-0.25,1.95,1.85,Wealdstone,Dag and Red,wealdstone,dag_and_red
+2023-09-09,EC,England-Conference,2324,Wealdstone,Ebbsfleet,2.0,1.0,H,0.0,0.0,D,2.7,3.25,2.3,2.79,3.89,2.29,2.72,3.58,2.28,1.65,2.2,1.62,2.2,0.25,1.75,2.05,Wealdstone,Ebbsfleet,wealdstone,ebbsfleet
+2023-09-16,EC,England-Conference,2324,Wealdstone,Altrincham,0.0,0.0,D,0.0,0.0,D,2.75,3.5,2.3,2.66,3.8,2.47,2.69,3.64,2.31,1.57,2.35,1.57,2.29,0.0,2.05,1.75,Wealdstone,Altrincham,wealdstone,altrincham
+2023-09-26,EC,England-Conference,2324,Wealdstone,Woking,1.0,0.0,H,1.0,0.0,H,3.3,3.4,2.05,3.26,3.85,2.09,3.22,3.62,2.02,1.73,2.08,1.68,2.08,0.25,2.03,1.78,Wealdstone,Woking,wealdstone,woking
+2023-09-30,EC,England-Conference,2324,Wealdstone,Oldham,1.0,1.0,D,1.0,1.0,D,3.1,3.6,2.0,3.3,3.7,2.08,3.19,3.63,2.01,1.65,2.2,1.63,2.16,0.25,2.0,1.8,Wealdstone,Oldham,wealdstone,oldham
+2023-10-21,EC,England-Conference,2324,Wealdstone,Boreham Wood,1.0,1.0,D,1.0,1.0,D,2.3,3.25,2.88,2.6,3.35,2.77,2.42,3.26,2.68,1.9,1.9,1.86,1.86,0.0,1.73,2.08,Wealdstone,Boreham Wood,wealdstone,boreham_wood
+2023-10-24,EC,England-Conference,2324,Wealdstone,Oxford City,3.0,1.0,H,1.0,1.0,D,1.67,3.8,5.0,1.64,4.23,4.94,1.63,3.96,4.59,1.62,2.25,1.6,2.24,-0.75,1.78,2.03,Wealdstone,Oxford City,wealdstone,oxford_city
+2023-11-11,EC,England-Conference,2324,Wealdstone,Rochdale,3.0,2.0,H,1.0,1.0,D,2.75,3.5,2.5,2.74,3.54,2.48,2.62,3.44,2.4,1.65,2.2,1.63,2.17,0.0,2.0,1.8,Wealdstone,Rochdale,wealdstone,rochdale
+2023-11-25,EC,England-Conference,2324,Wealdstone,Barnet,3.0,2.0,H,1.0,2.0,A,3.2,3.5,1.95,3.74,3.83,1.93,3.46,3.65,1.91,1.65,2.2,1.62,2.19,0.5,1.8,2.0,Wealdstone,Barnet,wealdstone,barnet
+2023-12-23,EC,England-Conference,2324,Wealdstone,Hartlepool,4.0,4.0,D,3.0,2.0,H,2.3,3.5,2.7,2.32,3.74,2.89,2.26,3.57,2.71,1.6,2.3,1.58,2.26,-0.25,2.05,1.75,Wealdstone,Hartlepool United,wealdstone,hartlepool_united
+2024-01-27,EC,England-Conference,2324,Wealdstone,Halifax,2.0,0.0,H,1.0,0.0,H,2.38,3.2,2.88,2.49,3.26,3.0,2.36,3.18,2.83,2.0,1.8,1.99,1.75,-0.25,2.05,1.75,Wealdstone,Halifax,wealdstone,halifax
+2024-01-30,EC,England-Conference,2324,Wealdstone,Aldershot,3.0,3.0,D,2.0,2.0,D,2.0,3.6,3.25,2.03,3.82,3.44,2.01,3.6,3.23,1.65,2.2,1.64,2.17,-0.25,1.78,2.03,Wealdstone,Aldershot,wealdstone,aldershot
+2024-02-06,EC,England-Conference,2324,Wealdstone,Maidenhead,0.0,1.0,A,0.0,0.0,D,1.95,3.5,3.6,2.03,3.59,3.65,2.0,3.45,3.39,1.88,1.93,1.85,1.89,-0.5,1.98,1.83,Wealdstone,Maidenhead,wealdstone,maidenhead
+2024-02-17,EC,England-Conference,2324,Wealdstone,Gateshead,2.0,4.0,A,1.0,3.0,A,2.2,3.4,3.1,2.19,4.01,2.95,2.15,3.67,2.86,1.53,2.4,1.5,2.46,-0.25,1.93,1.88,Wealdstone,Gateshead,wealdstone,gateshead
+2024-03-20,EC,England-Conference,2324,Wealdstone,Bromley,0.0,1.0,A,0.0,0.0,D,2.8,3.6,2.2,2.97,3.5,2.37,2.84,3.44,2.27,1.67,2.15,1.67,2.14,0.25,1.83,1.98,Wealdstone,Bromley,wealdstone,bromley
+2024-03-23,EC,England-Conference,2324,Wealdstone,Kidderminster,1.0,1.0,D,1.0,0.0,H,2.4,3.4,2.6,2.44,3.34,2.98,2.4,3.28,2.76,1.9,1.9,1.89,1.85,0.0,1.78,2.03,Wealdstone,Kidderminster,wealdstone,kidderminster
+2024-04-01,EC,England-Conference,2324,Wealdstone,Solihull,0.0,1.0,A,0.0,0.0,D,2.6,3.4,2.4,2.69,3.55,2.55,2.58,3.45,2.42,1.62,2.25,1.6,2.23,0.0,1.98,1.83,Wealdstone,Solihull,wealdstone,solihull
+2024-04-09,EC,England-Conference,2324,Wealdstone,Southend,1.0,2.0,A,1.0,1.0,D,4.0,3.6,1.75,4.8,3.54,1.78,4.34,3.59,1.74,1.75,2.05,1.75,2.01,0.75,1.8,2.0,Wealdstone,Southend United,wealdstone,southend_united
+2024-04-11,EC,England-Conference,2324,Wealdstone,Dorking,4.0,2.0,H,0.0,0.0,D,2.1,3.5,2.95,,,,2.14,3.5,2.97,1.7,2.1,1.69,2.08,,,,Wealdstone,Dorking,wealdstone,dorking
+2024-04-13,EC,England-Conference,2324,Wealdstone,Chesterfield,1.0,0.0,H,0.0,0.0,D,3.4,3.6,1.8,3.8,3.83,1.89,3.59,3.8,1.83,1.5,2.5,1.47,2.53,0.5,1.95,1.85,Wealdstone,Chesterfield,wealdstone,chesterfield
+2024-04-16,EC,England-Conference,2324,Wealdstone,Eastleigh,0.0,1.0,A,0.0,0.0,D,1.8,3.8,3.5,1.85,4.05,3.76,1.82,3.84,3.63,1.57,2.35,1.54,2.36,-0.75,2.05,1.75,Wealdstone,Eastleigh,wealdstone,eastleigh
+2024-08-17,EC,England-Conference,2425,Wealdstone,Oldham,0.0,1.0,A,0.0,0.0,D,2.63,3.2,2.75,2.63,3.27,2.64,2.55,3.23,2.61,1.88,1.93,1.85,1.88,0.0,1.88,1.93,Wealdstone,Oldham,wealdstone,oldham
+2024-08-20,EC,England-Conference,2425,Wealdstone,Sutton,0.0,1.0,A,0.0,1.0,A,2.9,3.25,2.25,3.09,3.46,2.29,2.95,3.34,2.24,1.85,1.95,1.82,1.92,0.25,1.83,1.98,Wealdstone,Sutton United,wealdstone,sutton_united
+2024-08-26,EC,England-Conference,2425,Wealdstone,Fylde,1.0,0.0,H,1.0,0.0,H,1.95,3.5,3.4,1.95,3.91,3.52,1.95,3.66,3.34,1.67,2.15,1.63,2.18,-0.5,2.0,1.8,Wealdstone,Fylde,wealdstone,fylde
+2024-09-07,EC,England-Conference,2425,Wealdstone,York,0.0,2.0,A,0.0,1.0,A,3.0,3.75,2.0,3.33,3.53,2.07,3.22,3.51,2.04,1.9,1.9,1.85,1.89,0.25,2.0,1.8,Wealdstone,York,wealdstone,york
+2024-09-21,EC,England-Conference,2425,Wealdstone,Barnet,0.0,3.0,A,0.0,0.0,D,4.1,3.7,1.73,4.15,3.91,1.74,4.02,3.83,1.73,1.6,2.3,1.57,2.28,0.75,1.85,1.95,Wealdstone,Barnet,wealdstone,barnet
+2024-09-24,EC,England-Conference,2425,Wealdstone,Southend,1.0,1.0,D,0.0,0.0,D,3.1,3.4,2.1,3.26,3.56,2.17,3.15,3.39,2.11,1.9,1.9,1.87,1.87,0.25,1.95,1.85,Wealdstone,Southend United,wealdstone,southend_united
+2024-10-19,EC,England-Conference,2425,Wealdstone,Yeovil,0.0,3.0,A,0.0,1.0,A,2.55,3.4,2.63,2.47,3.28,2.81,2.47,3.23,2.69,2.0,1.8,2.0,1.75,0.0,1.85,1.95,Wealdstone,Yeovil Town,wealdstone,yeovil_town
+2024-10-23,EC,England-Conference,2425,Wealdstone,Braintree Town,3.0,2.0,H,1.0,2.0,A,2.25,3.3,3.0,2.34,3.52,2.82,2.29,3.34,2.84,2.05,1.75,2.01,1.73,-0.25,2.0,1.8,Wealdstone,Braintree Town,wealdstone,braintree_town
+2024-11-16,EC,England-Conference,2425,Wealdstone,Rochdale,2.0,0.0,H,0.0,0.0,D,3.1,3.75,2.05,3.28,3.48,2.15,3.21,3.44,2.07,1.8,2.0,1.79,1.95,0.25,1.98,1.83,Wealdstone,Rochdale,wealdstone,rochdale
+2024-12-10,EC,England-Conference,2425,Wealdstone,Altrincham,3.0,3.0,D,2.0,2.0,D,2.75,3.4,2.4,2.81,3.46,2.47,2.73,3.33,2.42,1.85,1.95,1.86,1.9,0.0,2.03,1.78,Wealdstone,Altrincham,wealdstone,altrincham
+2024-12-21,EC,England-Conference,2425,Wealdstone,Dag and Red,3.0,0.0,H,2.0,0.0,H,2.35,3.5,2.75,2.41,3.48,2.75,2.35,3.43,2.7,1.8,2.0,1.76,1.98,-0.25,2.05,1.75,Wealdstone,Dag and Red,wealdstone,dag_and_red
+2025-01-18,EC,England-Conference,2425,Wealdstone,Hartlepool,1.0,1.0,D,0.0,1.0,A,2.7,3.4,2.3,2.86,3.36,2.4,2.8,3.33,2.33,1.85,1.95,1.82,1.91,0.25,1.78,2.03,Wealdstone,Hartlepool United,wealdstone,hartlepool_united
+2025-02-01,EC,England-Conference,2425,Wealdstone,Solihull,1.0,1.0,D,1.0,1.0,D,2.9,3.4,2.3,2.66,3.62,2.42,2.73,3.47,2.32,1.73,2.08,1.73,2.03,0.25,1.8,2.0,Wealdstone,Solihull,wealdstone,solihull
+2025-02-04,EC,England-Conference,2425,Wealdstone,Tamworth,0.0,1.0,A,0.0,0.0,D,2.0,3.4,3.8,2.0,3.59,3.65,1.98,3.4,3.51,1.9,1.9,1.86,1.89,-0.5,1.98,1.83,Wealdstone,Tamworth,wealdstone,tamworth
+2025-02-08,EC,England-Conference,2425,Wealdstone,Gateshead,0.0,4.0,A,0.0,2.0,A,3.1,3.4,2.3,2.87,3.66,2.25,2.85,3.48,2.22,1.7,2.1,1.66,2.13,0.25,1.83,1.98,Wealdstone,Gateshead,wealdstone,gateshead
+2025-02-22,EC,England-Conference,2425,Wealdstone,Ebbsfleet,4.0,2.0,H,2.0,2.0,D,1.62,3.8,5.25,1.6,4.02,5.01,1.57,3.94,5.03,1.7,2.1,1.69,2.08,-1.0,2.05,1.75,Wealdstone,Ebbsfleet,wealdstone,ebbsfleet
+2025-03-15,EC,England-Conference,2425,Wealdstone,Eastleigh,3.0,3.0,D,0.0,3.0,A,2.35,3.3,2.8,2.41,3.2,2.95,2.35,3.22,2.86,2.05,1.75,2.0,1.73,-0.25,2.03,1.78,Wealdstone,Eastleigh,wealdstone,eastleigh
+2025-03-22,EC,England-Conference,2425,Wealdstone,Woking,1.0,0.0,H,0.0,0.0,D,2.5,3.1,2.9,2.52,3.16,2.84,2.43,3.15,2.83,2.1,1.7,2.08,1.69,0.0,1.75,2.05,Wealdstone,Woking,wealdstone,woking
+2025-03-25,EC,England-Conference,2425,Wealdstone,Aldershot,1.0,3.0,A,1.0,0.0,H,2.45,3.25,2.8,2.44,3.48,2.79,2.36,3.4,2.74,1.85,1.95,1.79,1.94,-0.25,2.1,1.7,Wealdstone,Aldershot,wealdstone,aldershot
+2025-04-01,EC,England-Conference,2425,Wealdstone,Boston Utd,1.0,0.0,H,1.0,0.0,H,2.45,3.25,2.7,2.5,3.43,2.79,2.44,3.26,2.72,2.0,1.8,1.96,1.79,0.0,1.8,2.0,Wealdstone,Boston Utd,wealdstone,boston_utd
+2025-04-05,EC,England-Conference,2425,Wealdstone,Forest Green,2.0,1.0,H,1.0,1.0,D,3.3,3.3,2.15,3.11,3.61,2.13,3.18,3.39,2.1,1.88,1.93,1.84,1.89,0.25,1.98,1.83,Wealdstone,Forest Green Rovers,wealdstone,forest_green_rovers
+2025-04-21,EC,England-Conference,2425,Wealdstone,Maidenhead,1.0,1.0,D,1.0,1.0,D,2.1,3.7,2.88,2.18,3.71,2.95,2.1,3.57,2.97,1.75,2.05,1.74,2.0,-0.25,1.9,1.9,Wealdstone,Maidenhead,wealdstone,maidenhead
+2025-05-05,EC,England-Conference,2425,Wealdstone,Halifax,3.0,1.0,H,3.0,0.0,H,2.25,3.4,2.88,2.33,3.47,2.91,2.28,3.36,2.88,2.03,1.78,1.99,1.75,-0.25,2.0,1.8,Wealdstone,Halifax,wealdstone,halifax
+2025-08-09,EC,England-Conference,2526,Wealdstone,Truro,2.0,0.0,H,1.0,0.0,H,2.3,3.6,2.75,2.37,3.3,2.93,2.29,3.34,2.72,1.9,1.9,1.83,1.85,-0.25,2.05,1.75,Wealdstone,Truro,wealdstone,truro
+2025-08-16,EC,England-Conference,2526,Wealdstone,Halifax,2.0,1.0,H,1.0,1.0,D,2.3,3.2,2.88,2.4,3.35,2.85,2.29,3.2,2.82,1.98,1.83,1.94,1.76,-0.25,2.0,1.8,Wealdstone,Halifax,wealdstone,halifax
+2025-08-23,EC,England-Conference,2526,Wealdstone,Carlisle,0.0,1.0,A,0.0,1.0,A,3.75,3.9,1.75,3.64,3.82,1.88,3.68,3.71,1.81,1.75,2.05,1.74,1.99,0.5,2.03,1.78,Wealdstone,Carlisle United,wealdstone,carlisle_united
+2025-08-30,EC,England-Conference,2526,Wealdstone,Rochdale,1.0,3.0,A,0.0,2.0,A,3.6,3.3,1.95,3.45,3.31,2.1,3.25,3.32,2.02,1.9,1.9,1.81,1.87,0.25,2.05,1.75,Wealdstone,Rochdale,wealdstone,rochdale
+2025-09-02,EC,England-Conference,2526,Wealdstone,Southend,3.0,2.0,H,1.0,1.0,D,4.0,3.7,1.75,4.6,3.65,1.78,3.97,3.48,1.77,1.98,1.83,1.89,1.8,0.75,1.78,2.03,Wealdstone,Southend United,wealdstone,southend_united
+2025-09-13,EC,England-Conference,2526,Wealdstone,Gateshead,2.0,2.0,D,1.0,1.0,D,1.9,3.8,3.3,1.95,3.81,3.4,1.93,3.62,3.29,1.62,2.25,1.59,2.22,-0.5,1.93,1.88,Wealdstone,Gateshead,wealdstone,gateshead
+2025-09-27,EC,England-Conference,2526,Wealdstone,Eastleigh,0.0,0.0,D,0.0,0.0,D,2.1,3.4,3.1,2.19,3.61,3.0,2.09,3.4,3.05,1.7,2.1,1.71,2.02,-0.25,1.9,1.9,Wealdstone,Eastleigh,wealdstone,eastleigh
+2025-10-04,EC,England-Conference,2526,Wealdstone,Altrincham,1.0,1.0,D,1.0,1.0,D,2.35,3.5,2.7,2.48,3.46,2.68,2.29,3.43,2.72,1.67,2.15,1.61,2.17,0.0,1.78,2.03,Wealdstone,Altrincham,wealdstone,altrincham
+2025-10-25,EC,England-Conference,2526,Wealdstone,Sutton,4.0,2.0,H,1.0,2.0,A,2.1,3.4,3.1,2.11,3.56,3.21,2.08,3.43,3.06,1.7,2.1,1.68,2.07,-0.25,1.83,1.98,Wealdstone,Sutton United,wealdstone,sutton_united
+2025-11-08,EC,England-Conference,2526,Wealdstone,Braintree Town,1.0,0.0,H,0.0,0.0,D,1.75,3.8,3.8,,,,1.73,3.87,3.79,1.53,2.4,1.52,2.35,-0.75,1.98,1.83,Wealdstone,Braintree Town,wealdstone,braintree_town
+2025-11-22,EC,England-Conference,2526,Wealdstone,Forest Green,1.0,1.0,D,0.0,1.0,A,3.7,3.6,1.85,,,,3.52,3.65,1.85,1.6,2.3,1.58,2.23,0.5,1.95,1.85,Wealdstone,Forest Green Rovers,wealdstone,forest_green_rovers
+2025-12-26,EC,England-Conference,2526,Wealdstone,Boreham Wood,0.0,4.0,A,0.0,2.0,A,4.2,3.8,1.73,,,,3.94,3.65,1.74,1.62,2.25,1.62,2.15,0.75,1.85,1.95,Wealdstone,Boreham Wood,wealdstone,boreham_wood
+2026-01-17,EC,England-Conference,2526,Wealdstone,Woking,1.0,0.0,H,0.0,0.0,D,2.5,3.25,2.55,,,,2.47,3.2,2.61,1.98,1.83,1.93,1.78,0.0,1.88,1.93,Wealdstone,Woking,wealdstone,woking
+2026-02-14,EC,England-Conference,2526,Wealdstone,York,0.0,3.0,A,0.0,0.0,D,6.5,4.33,1.4,,,,6.04,4.62,1.4,1.48,2.6,1.44,2.58,1.25,1.9,1.9,Wealdstone,York,wealdstone,york
+2026-02-24,EC,England-Conference,2526,Wealdstone,Brackley Town,2.0,1.0,H,1.0,0.0,H,2.1,3.2,3.25,,,,2.11,3.24,3.17,1.95,1.85,1.88,1.82,-0.25,1.85,1.95,Wealdstone,Brackley Town,wealdstone,brackley_town
+2026-03-03,EC,England-Conference,2526,Wealdstone,Morecambe,2.0,3.0,A,1.0,2.0,A,1.95,3.5,3.4,,,,1.95,3.53,3.28,1.67,2.15,1.64,2.12,-0.5,2.0,1.8,Wealdstone,Morecambe,wealdstone,morecambe
+2026-03-10,EC,England-Conference,2526,Wealdstone,Tamworth,3.0,2.0,H,2.0,2.0,D,2.05,3.5,3.2,,,,2.02,3.46,3.15,1.73,2.08,1.68,2.06,-0.25,1.8,2.0,Wealdstone,Tamworth,wealdstone,tamworth
+2026-03-14,EC,England-Conference,2526,Wealdstone,Solihull,5.0,1.0,H,1.0,0.0,H,2.25,3.5,2.75,,,,2.31,3.46,2.64,1.6,2.3,1.58,2.23,-0.25,2.03,1.78,Wealdstone,Solihull,wealdstone,solihull
+2026-03-25,EC,England-Conference,2526,Wealdstone,Yeovil,0.0,2.0,A,0.0,1.0,A,1.83,3.3,4.0,,,,1.83,3.42,3.81,1.95,1.85,1.89,1.81,-0.5,1.85,1.95,Wealdstone,Yeovil Town,wealdstone,yeovil_town
+2026-03-31,EC,England-Conference,2526,Wealdstone,Hartlepool,7.0,0.0,H,5.0,0.0,H,2.5,3.3,2.5,,,,2.49,3.31,2.52,1.75,2.05,1.68,2.07,0.0,1.9,1.9,Wealdstone,Hartlepool United,wealdstone,hartlepool_united
+2026-04-06,EC,England-Conference,2526,Wealdstone,Aldershot,3.0,0.0,H,1.0,0.0,H,2.15,3.7,2.8,,,,2.25,3.65,2.63,1.44,2.7,1.45,2.56,-0.25,2.0,1.8,Wealdstone,Aldershot,wealdstone,aldershot
+2026-04-14,EC,England-Conference,2526,Wealdstone,Boston Utd,1.0,1.0,D,0.0,0.0,D,2.1,3.4,3.0,,,,2.11,3.41,3.01,1.7,2.1,1.67,2.09,-0.25,1.88,1.93,Wealdstone,Boston Utd,wealdstone,boston_utd
+2026-04-18,EC,England-Conference,2526,Wealdstone,Scunthorpe,1.0,1.0,D,0.0,0.0,D,2.55,3.6,2.38,,,,2.5,3.56,2.4,1.53,2.4,1.52,2.37,0.0,1.95,1.85,Wealdstone,Scunthorpe United,wealdstone,scunthorpe_united
+2026-08-15,EC,England-Conference,2627,Wealdstone,Harrogate,1.0,3.0,A,1.0,1.0,D,3.3,3.7,1.9,,,,3.25,3.56,1.96,1.75,2.05,1.69,2.05,0.5,1.8,2.0,Wealdstone,Harrogate Town,wealdstone,harrogate_town
+2026-08-28,EC,England-Conference,2627,Wealdstone,Carlisle,1.0,1.0,D,0.0,1.0,A,3.7,3.6,1.83,,,,3.56,3.69,1.82,1.57,2.35,1.54,2.33,0.5,1.98,1.83,Wealdstone,Carlisle United,wealdstone,carlisle_united
+2026-09-05,EC,England-Conference,2627,Wealdstone,Kidderminster,1.0,4.0,A,1.0,1.0,D,2.2,3.5,2.8,,,,2.21,3.49,2.75,1.62,2.25,1.58,2.22,-0.25,1.95,1.85,Wealdstone,Kidderminster,wealdstone,kidderminster
+2026-09-15,EC,England-Conference,2627,Wealdstone,Halifax,0.0,1.0,A,0.0,0.0,D,2.2,3.5,2.88,,,,2.21,3.44,2.79,1.67,2.15,1.62,2.17,-0.25,1.98,1.83,Wealdstone,Halifax,wealdstone,halifax
+2026-09-26,EC,England-Conference,2627,Wealdstone,Gateshead,4.0,0.0,H,2.0,0.0,H,1.65,3.8,4.33,,,,1.67,3.78,4.26,1.67,2.15,1.63,2.14,-0.75,1.88,1.93,Wealdstone,Gateshead,wealdstone,gateshead
+2026-10-10,EC,England-Conference,2627,Wealdstone,Yeovil,0.0,6.0,A,0.0,1.0,A,2.5,3.6,2.4,,,,2.45,3.52,2.43,1.62,2.25,1.59,2.22,0.0,1.95,1.85,Wealdstone,Yeovil Town,wealdstone,yeovil_town

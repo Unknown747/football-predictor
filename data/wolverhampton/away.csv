@@ -1,0 +1,102 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E0,England-PL,2122,Leicester,Wolves,1.0,0.0,H,1.0,0.0,H,1.66,3.8,5.25,1.73,3.79,5.47,1.71,3.75,5.32,2.09,1.84,2.04,1.81,-0.75,1.96,1.97,Leicester City,Wolverhampton,leicester_city,wolverhampton
+2021-09-11,E0,England-PL,2122,Watford,Wolves,0.0,2.0,A,0.0,0.0,D,3.4,3.2,2.25,3.47,3.22,2.36,3.36,3.19,2.33,2.3,1.61,2.3,1.64,0.25,1.91,2.02,Watford,Wolverhampton,watford,wolverhampton
+2021-09-26,E0,England-PL,2122,Southampton,Wolves,0.0,1.0,A,0.0,0.0,D,2.62,3.2,2.8,2.7,3.27,2.89,2.65,3.24,2.83,2.1,1.72,2.12,1.75,0.0,1.92,2.01,Southampton,Wolverhampton,southampton,wolverhampton
+2021-10-16,E0,England-PL,2122,Aston Villa,Wolves,2.0,3.0,A,0.0,0.0,D,2.15,3.25,3.5,2.32,3.31,3.47,2.25,3.28,3.42,2.1,1.72,2.12,1.76,-0.25,1.95,1.98,Aston Villa,Wolverhampton,aston_villa,wolverhampton
+2021-10-23,E0,England-PL,2122,Leeds,Wolves,1.0,1.0,D,0.0,1.0,A,2.4,3.4,2.87,2.67,3.46,2.79,2.57,3.37,2.79,1.9,1.9,1.9,1.95,0.0,1.89,2.04,Leeds,Wolverhampton,leeds,wolverhampton
+2021-11-06,E0,England-PL,2122,Crystal Palace,Wolves,2.0,0.0,H,0.0,0.0,D,2.45,3.2,3.0,2.56,3.17,3.17,2.5,3.15,3.08,2.37,1.57,2.37,1.61,-0.25,2.14,1.8,Crystal Palace,Wolverhampton,crystal_palace,wolverhampton
+2021-11-27,E0,England-PL,2122,Norwich,Wolves,0.0,0.0,D,0.0,0.0,D,3.5,3.3,2.15,3.61,3.44,2.2,3.54,3.35,2.17,2.3,1.61,2.3,1.64,0.25,2.04,1.89,Norwich City,Wolverhampton,norwich_city,wolverhampton
+2021-12-11,E0,England-PL,2122,Man City,Wolves,1.0,0.0,H,0.0,0.0,D,1.14,8.0,19.0,1.17,8.21,20.21,1.16,8.11,20.35,1.53,2.5,1.55,2.49,-2.0,1.73,2.08,Manchester City,Wolverhampton,manchester_city,wolverhampton
+2021-12-15,E0,England-PL,2122,Brighton,Wolves,0.0,1.0,A,0.0,1.0,A,2.25,3.1,3.5,2.37,3.05,3.66,2.32,3.05,3.51,2.5,1.53,2.52,1.54,-0.25,2.0,1.9,Brighton & Hove Albion,Wolverhampton,brighton_hove_albion,wolverhampton
+2022-01-03,E0,England-PL,2122,Man United,Wolves,0.0,1.0,A,0.0,0.0,D,1.53,4.33,6.0,1.56,4.37,5.98,1.56,4.17,6.08,1.98,1.92,1.95,1.88,-1.0,2.02,1.93,Manchester United,Wolverhampton,manchester_united,wolverhampton
+2022-01-22,E0,England-PL,2122,Brentford,Wolves,1.0,2.0,A,0.0,0.0,D,3.2,2.8,2.6,3.15,3.11,2.54,3.09,3.05,2.54,2.5,1.53,2.51,1.54,0.0,2.16,1.78,Brentford,Wolverhampton,brentford,wolverhampton
+2022-02-13,E0,England-PL,2122,Tottenham,Wolves,0.0,2.0,A,0.0,2.0,A,1.7,3.6,5.5,1.69,3.82,5.86,1.68,3.76,5.57,2.2,1.66,2.18,1.71,-0.75,1.9,2.03,Tottenham Hotspur,Wolverhampton,tottenham_hotspur,wolverhampton
+2022-02-24,E0,England-PL,2122,Arsenal,Wolves,2.0,1.0,H,0.0,1.0,A,1.65,3.8,5.5,1.65,3.9,6.08,1.65,3.8,5.83,2.2,1.66,2.23,1.67,-0.75,1.86,2.04,Arsenal,Wolverhampton,arsenal,wolverhampton
+2022-02-27,E0,England-PL,2122,West Ham,Wolves,1.0,0.0,H,0.0,0.0,D,2.05,3.3,3.8,2.15,3.23,4.03,2.11,3.24,3.89,2.3,1.61,2.29,1.64,-0.5,2.1,1.8,West Ham United,Wolverhampton,west_ham_united,wolverhampton
+2022-03-13,E0,England-PL,2122,Everton,Wolves,0.0,1.0,A,0.0,0.0,D,2.3,3.2,3.3,2.37,3.2,3.48,2.31,3.24,3.35,2.3,1.61,2.3,1.63,-0.25,1.99,1.94,Everton,Wolverhampton,everton,wolverhampton
+2022-04-08,E0,England-PL,2122,Newcastle,Wolves,1.0,0.0,H,0.0,0.0,D,2.25,3.1,3.4,2.34,3.14,3.62,2.31,3.11,3.51,2.37,1.57,2.4,1.59,-0.25,1.97,1.93,Newcastle United,Wolverhampton,newcastle_united,wolverhampton
+2022-04-24,E0,England-PL,2122,Burnley,Wolves,1.0,0.0,H,0.0,0.0,D,2.7,3.0,2.87,2.73,3.15,2.95,2.71,3.11,2.86,2.37,1.57,2.39,1.59,0.0,1.87,2.03,Burnley,Wolverhampton,burnley,wolverhampton
+2022-05-07,E0,England-PL,2122,Chelsea,Wolves,2.0,2.0,D,0.0,0.0,D,1.33,5.0,9.5,1.36,5.1,10.4,1.36,4.95,9.62,1.93,1.97,1.89,1.94,-1.25,1.85,2.05,Chelsea,Wolverhampton,chelsea,wolverhampton
+2022-05-22,E0,England-PL,2122,Liverpool,Wolves,3.0,1.0,H,1.0,1.0,D,1.14,8.5,15.0,1.15,8.49,21.36,1.16,8.12,18.95,1.44,2.75,1.43,2.82,-2.0,1.73,2.08,Liverpool,Wolverhampton,liverpool,wolverhampton
+2022-08-06,E0,England-PL,2223,Leeds,Wolves,2.0,1.0,H,1.0,1.0,D,2.25,3.4,3.2,2.39,3.33,3.3,2.34,3.34,3.18,2.05,1.85,2.03,1.81,-0.25,2.05,1.88,Leeds,Wolverhampton,leeds,wolverhampton
+2022-08-20,E0,England-PL,2223,Tottenham,Wolves,1.0,0.0,H,0.0,0.0,D,1.4,4.75,7.5,1.43,4.94,7.95,1.41,4.88,7.96,1.72,2.1,1.73,2.14,-1.25,1.95,1.95,Tottenham Hotspur,Wolverhampton,tottenham_hotspur,wolverhampton
+2022-08-31,E0,England-PL,2223,Bournemouth,Wolves,0.0,0.0,D,0.0,0.0,D,3.5,3.3,2.15,3.52,3.43,2.24,3.53,3.38,2.16,2.1,1.72,2.11,1.75,0.25,2.02,1.88,Bournemouth,Wolverhampton,bournemouth,wolverhampton
+2022-10-01,E0,England-PL,2223,West Ham,Wolves,2.0,0.0,H,1.0,0.0,H,1.95,3.5,4.2,2.01,3.42,4.31,1.96,3.48,4.12,2.2,1.66,2.16,1.71,-0.5,1.98,1.92,West Ham United,Wolverhampton,west_ham_united,wolverhampton
+2022-10-08,E0,England-PL,2223,Chelsea,Wolves,3.0,0.0,H,1.0,0.0,H,1.4,4.5,8.0,1.41,4.92,8.68,1.4,4.82,8.5,1.87,2.03,1.84,1.99,-1.25,1.92,1.98,Chelsea,Wolverhampton,chelsea,wolverhampton
+2022-10-18,E0,England-PL,2223,Crystal Palace,Wolves,2.0,1.0,H,0.0,1.0,A,2.25,3.1,3.4,2.32,3.21,3.58,2.29,3.19,3.46,2.5,1.53,2.43,1.57,-0.25,1.96,1.94,Crystal Palace,Wolverhampton,crystal_palace,wolverhampton
+2022-10-29,E0,England-PL,2223,Brentford,Wolves,1.0,1.0,D,0.0,0.0,D,2.2,3.4,3.3,2.24,3.5,3.44,2.2,3.46,3.33,2.01,1.89,1.96,1.86,-0.25,1.91,1.99,Brentford,Wolverhampton,brentford,wolverhampton
+2022-12-26,E0,England-PL,2223,Everton,Wolves,1.0,2.0,A,1.0,1.0,D,2.3,3.25,3.2,2.41,3.26,3.34,2.35,3.25,3.24,2.2,1.67,2.2,1.68,-0.25,2.0,1.9,Everton,Wolverhampton,everton,wolverhampton
+2023-01-04,E0,England-PL,2223,Aston Villa,Wolves,1.0,1.0,D,0.0,1.0,A,1.95,3.6,4.0,1.99,3.76,3.93,1.99,3.57,3.86,2.08,1.82,2.05,1.78,-0.5,1.97,1.93,Aston Villa,Wolverhampton,aston_villa,wolverhampton
+2023-01-22,E0,England-PL,2223,Man City,Wolves,3.0,0.0,H,1.0,0.0,H,1.2,8.0,11.0,1.2,7.65,14.95,1.2,7.38,14.81,1.5,2.63,1.49,2.62,-2.0,1.96,1.94,Manchester City,Wolverhampton,manchester_city,wolverhampton
+2023-02-11,E0,England-PL,2223,Southampton,Wolves,1.0,2.0,A,1.0,0.0,H,2.9,3.2,2.55,3.16,3.18,2.55,3.03,3.18,2.54,2.3,1.62,2.29,1.64,0.0,2.11,1.82,Southampton,Wolverhampton,southampton,wolverhampton
+2023-02-24,E0,England-PL,2223,Fulham,Wolves,1.0,1.0,D,0.0,1.0,A,2.5,3.2,3.0,2.59,3.26,3.04,2.54,3.22,3.0,2.2,1.67,2.23,1.67,0.0,1.81,2.13,Fulham,Wolverhampton,fulham,wolverhampton
+2023-03-01,E0,England-PL,2223,Liverpool,Wolves,2.0,0.0,H,0.0,0.0,D,1.5,4.75,6.0,1.5,4.63,6.68,1.49,4.59,6.6,1.73,2.1,1.73,2.14,-1.0,1.82,2.08,Liverpool,Wolverhampton,liverpool,wolverhampton
+2023-03-12,E0,England-PL,2223,Newcastle,Wolves,2.0,1.0,H,1.0,0.0,H,1.65,3.75,5.5,1.68,3.88,5.55,1.67,3.81,5.47,2.2,1.67,2.15,1.72,-0.75,1.88,2.05,Newcastle United,Wolverhampton,newcastle_united,wolverhampton
+2023-04-01,E0,England-PL,2223,Nott'm Forest,Wolves,1.0,1.0,D,1.0,0.0,H,3.0,3.1,2.55,3.01,3.16,2.64,2.96,3.13,2.61,2.38,1.57,2.38,1.59,0.0,2.08,1.82,Nottingham Forest,Wolverhampton,nottingham_forest,wolverhampton
+2023-04-22,E0,England-PL,2223,Leicester,Wolves,2.0,1.0,H,1.0,1.0,D,2.38,3.3,3.0,2.46,3.31,3.14,2.45,3.27,3.05,2.1,1.73,2.14,1.72,-0.25,2.08,1.82,Leicester City,Wolverhampton,leicester_city,wolverhampton
+2023-04-29,E0,England-PL,2223,Brighton,Wolves,6.0,0.0,H,4.0,0.0,H,1.5,4.33,6.5,1.51,4.48,6.75,1.51,4.37,6.69,1.85,2.05,1.8,2.02,-1.0,1.86,2.07,Brighton & Hove Albion,Wolverhampton,brighton_hove_albion,wolverhampton
+2023-05-13,E0,England-PL,2223,Man United,Wolves,2.0,0.0,H,1.0,0.0,H,1.36,5.0,7.5,1.38,5.24,8.6,1.38,5.1,8.37,1.67,2.2,1.65,2.25,-1.5,2.02,1.77,Manchester United,Wolverhampton,manchester_united,wolverhampton
+2023-05-28,E0,England-PL,2223,Arsenal,Wolves,5.0,0.0,H,3.0,0.0,H,1.36,5.25,8.0,1.38,5.51,7.66,1.37,5.33,7.87,1.44,2.75,1.46,2.71,-1.5,2.01,1.89,Arsenal,Wolverhampton,arsenal,wolverhampton
+2023-08-14,E0,England-PL,2324,Man United,Wolves,1.0,0.0,H,0.0,0.0,D,1.33,5.5,9.0,1.32,5.79,9.66,1.31,5.65,9.85,1.62,2.3,1.6,2.38,-1.5,1.99,1.91,Manchester United,Wolverhampton,manchester_united,wolverhampton
+2023-08-26,E0,England-PL,2324,Everton,Wolves,0.0,1.0,A,0.0,0.0,D,2.3,3.3,3.2,2.34,3.32,3.34,2.32,3.31,3.24,2.1,1.73,2.12,1.74,-0.25,2.02,1.88,Everton,Wolverhampton,everton,wolverhampton
+2023-09-03,E0,England-PL,2324,Crystal Palace,Wolves,3.0,2.0,H,0.0,0.0,D,1.91,3.3,4.33,1.97,3.5,4.25,1.95,3.45,4.15,2.2,1.67,2.23,1.68,-0.5,1.98,1.95,Crystal Palace,Wolverhampton,crystal_palace,wolverhampton
+2023-09-23,E0,England-PL,2324,Luton,Wolves,1.0,1.0,D,0.0,0.0,D,3.25,3.4,2.2,3.26,3.47,2.31,3.3,3.43,2.23,2.02,1.88,1.99,1.85,0.25,1.96,1.94,Luton,Wolverhampton,luton,wolverhampton
+2023-10-21,E0,England-PL,2324,Bournemouth,Wolves,1.0,2.0,A,1.0,0.0,H,2.38,3.4,3.0,2.45,3.49,3.01,2.41,3.48,2.95,1.85,2.05,1.82,2.02,-0.25,2.1,1.83,Bournemouth,Wolverhampton,bournemouth,wolverhampton
+2023-11-04,E0,England-PL,2324,Sheffield United,Wolves,2.0,1.0,H,0.0,0.0,D,3.8,3.5,2.0,3.91,3.68,1.97,3.83,3.64,1.98,1.91,1.99,1.89,1.94,0.5,1.93,2.0,Sheffield United,Wolverhampton,sheffield_united,wolverhampton
+2023-11-27,E0,England-PL,2324,Fulham,Wolves,3.0,2.0,H,1.0,1.0,D,2.38,3.3,3.0,2.45,3.37,3.05,2.43,3.34,3.02,2.08,1.73,2.1,1.76,-0.25,2.1,1.83,Fulham,Wolverhampton,fulham,wolverhampton
+2023-12-02,E0,England-PL,2324,Arsenal,Wolves,2.0,1.0,H,2.0,0.0,H,1.25,5.5,12.0,1.29,5.9,10.82,1.27,5.95,11.58,1.65,2.2,1.65,2.27,-1.5,1.83,2.1,Arsenal,Wolverhampton,arsenal,wolverhampton
+2023-12-17,E0,England-PL,2324,West Ham,Wolves,3.0,0.0,H,2.0,0.0,H,2.15,3.5,3.3,2.12,3.62,3.5,2.16,3.55,3.4,1.95,1.95,1.9,1.93,-0.25,1.88,2.05,West Ham United,Wolverhampton,west_ham_united,wolverhampton
+2023-12-27,E0,England-PL,2324,Brentford,Wolves,1.0,4.0,A,1.0,3.0,A,1.95,3.5,4.2,1.94,3.66,4.07,1.96,3.59,3.97,2.03,1.87,1.97,1.86,-0.5,1.98,1.92,Brentford,Wolverhampton,brentford,wolverhampton
+2024-01-22,E0,England-PL,2324,Brighton,Wolves,0.0,0.0,D,0.0,0.0,D,1.65,4.33,5.0,1.66,4.28,5.01,1.65,4.29,4.95,1.62,2.25,1.63,2.29,-1.0,2.05,1.75,Brighton & Hove Albion,Wolverhampton,brighton_hove_albion,wolverhampton
+2024-02-04,E0,England-PL,2324,Chelsea,Wolves,2.0,4.0,A,1.0,2.0,A,1.62,4.0,5.5,1.63,4.29,5.27,1.63,4.22,5.24,1.7,2.1,1.69,2.19,-1.0,2.09,1.84,Chelsea,Wolverhampton,chelsea,wolverhampton
+2024-02-17,E0,England-PL,2324,Tottenham,Wolves,1.0,2.0,A,0.0,1.0,A,1.53,4.75,5.25,1.55,4.87,5.36,1.55,4.75,5.37,1.44,2.7,1.43,2.82,-1.0,1.87,2.03,Tottenham Hotspur,Wolverhampton,tottenham_hotspur,wolverhampton
+2024-03-02,E0,England-PL,2324,Newcastle,Wolves,3.0,0.0,H,2.0,0.0,H,1.91,4.0,3.6,1.89,4.01,3.89,1.9,3.95,3.8,1.57,2.35,1.59,2.39,-0.5,1.91,1.99,Newcastle United,Wolverhampton,newcastle_united,wolverhampton
+2024-03-30,E0,England-PL,2324,Aston Villa,Wolves,2.0,0.0,H,1.0,0.0,H,1.6,4.33,5.0,1.64,4.46,4.9,1.64,4.38,4.86,1.57,2.35,1.56,2.44,-1.0,2.07,1.83,Aston Villa,Wolverhampton,aston_villa,wolverhampton
+2024-04-02,E0,England-PL,2324,Burnley,Wolves,1.0,1.0,D,1.0,1.0,D,2.45,3.6,2.75,2.55,3.54,2.83,2.53,3.49,2.8,1.84,2.06,1.81,2.03,0.0,1.85,2.08,Burnley,Wolverhampton,burnley,wolverhampton
+2024-04-13,E0,England-PL,2324,Nott'm Forest,Wolves,2.0,2.0,D,1.0,1.0,D,2.1,3.4,3.5,2.14,3.57,3.5,2.16,3.55,3.37,1.86,2.04,1.83,2.0,-0.25,1.85,2.05,Nottingham Forest,Wolverhampton,nottingham_forest,wolverhampton
+2024-05-04,E0,England-PL,2324,Man City,Wolves,5.0,1.0,H,3.0,0.0,H,1.08,12.0,21.0,1.09,13.16,25.65,1.09,11.51,25.33,1.3,3.5,1.3,3.52,-2.5,1.88,2.05,Manchester City,Wolverhampton,manchester_city,wolverhampton
+2024-05-19,E0,England-PL,2324,Liverpool,Wolves,2.0,0.0,H,2.0,0.0,H,1.17,8.0,15.0,1.16,9.27,13.56,1.16,8.71,14.55,1.22,4.33,1.22,4.23,-2.25,1.91,1.99,Liverpool,Wolverhampton,liverpool,wolverhampton
+2024-08-17,E0,England-PL,2425,Arsenal,Wolves,2.0,0.0,H,1.0,0.0,H,1.18,7.5,13.0,1.16,8.56,16.22,1.18,7.86,15.87,1.44,2.75,1.46,2.7,-2.0,1.93,2.0,Arsenal,Wolverhampton,arsenal,wolverhampton
+2024-08-31,E0,England-PL,2425,Nott'm Forest,Wolves,1.0,1.0,D,1.0,1.0,D,2.0,3.7,3.7,2.02,3.7,3.71,2.03,3.66,3.65,1.85,2.05,1.83,2.02,-0.5,2.03,1.87,Nottingham Forest,Wolverhampton,nottingham_forest,wolverhampton
+2024-09-21,E0,England-PL,2425,Aston Villa,Wolves,3.0,1.0,H,0.0,1.0,A,1.57,4.2,5.25,1.59,4.47,5.44,1.59,4.39,5.35,1.57,2.38,1.58,2.41,-1.0,2.0,1.9,Aston Villa,Wolverhampton,aston_villa,wolverhampton
+2024-10-05,E0,England-PL,2425,Brentford,Wolves,5.0,3.0,H,4.0,2.0,H,2.05,3.6,3.4,2.14,3.62,3.44,2.09,3.64,3.47,1.73,2.1,1.78,2.08,-0.25,1.85,2.05,Brentford,Wolverhampton,brentford,wolverhampton
+2024-10-26,E0,England-PL,2425,Brighton,Wolves,2.0,2.0,D,1.0,0.0,H,1.62,4.5,4.5,1.66,4.34,4.9,1.64,4.32,4.94,1.57,2.38,1.56,2.43,-1.0,2.03,1.75,Brighton & Hove Albion,Wolverhampton,brighton_hove_albion,wolverhampton
+2024-11-23,E0,England-PL,2425,Fulham,Wolves,1.0,4.0,A,1.0,1.0,D,1.62,4.0,5.25,1.64,4.11,5.43,1.65,4.09,5.23,1.67,2.2,1.68,2.21,-0.75,1.78,2.03,Fulham,Wolverhampton,fulham,wolverhampton
+2024-12-04,E0,England-PL,2425,Everton,Wolves,4.0,0.0,H,2.0,0.0,H,2.1,3.4,3.5,2.16,3.4,3.62,2.14,3.46,3.51,2.03,1.87,1.98,1.86,-0.25,1.85,2.05,Everton,Wolverhampton,everton,wolverhampton
+2024-12-09,E0,England-PL,2425,West Ham,Wolves,2.0,1.0,H,0.0,0.0,D,1.9,3.9,3.75,1.95,3.88,3.76,1.91,3.85,3.81,1.62,2.3,1.6,2.36,-0.5,1.93,1.97,West Ham United,Wolverhampton,west_ham_united,wolverhampton
+2024-12-22,E0,England-PL,2425,Leicester,Wolves,0.0,3.0,A,0.0,3.0,A,2.55,3.4,2.7,2.63,3.58,2.68,2.55,3.56,2.69,1.67,2.2,1.66,2.24,0.0,1.9,2.0,Leicester City,Wolverhampton,leicester_city,wolverhampton
+2024-12-29,E0,England-PL,2425,Tottenham,Wolves,2.0,2.0,D,2.0,1.0,H,1.6,5.0,4.2,1.63,4.91,4.57,1.61,4.77,4.56,1.33,3.4,1.31,3.33,-1.0,2.01,1.89,Tottenham Hotspur,Wolverhampton,tottenham_hotspur,wolverhampton
+2025-01-15,E0,England-PL,2425,Newcastle,Wolves,3.0,0.0,H,1.0,0.0,H,1.36,5.5,8.0,1.36,5.73,7.91,1.35,5.54,8.08,1.44,2.75,1.42,2.82,-1.5,1.95,1.95,Newcastle United,Wolverhampton,newcastle_united,wolverhampton
+2025-01-20,E0,England-PL,2425,Chelsea,Wolves,3.0,1.0,H,1.0,1.0,D,1.36,5.75,6.5,1.38,5.69,7.16,1.37,5.51,7.3,1.36,3.2,1.37,3.06,-1.5,1.98,1.92,Chelsea,Wolverhampton,chelsea,wolverhampton
+2025-02-16,E0,England-PL,2425,Liverpool,Wolves,2.0,1.0,H,2.0,0.0,H,1.15,8.0,12.0,1.19,8.22,12.7,1.19,7.85,12.84,1.36,3.2,1.37,3.12,-2.0,1.92,1.98,Liverpool,Wolverhampton,liverpool,wolverhampton
+2025-02-22,E0,England-PL,2425,Bournemouth,Wolves,0.0,1.0,A,0.0,1.0,A,1.53,4.5,5.5,1.57,4.52,5.58,1.56,4.45,5.5,1.57,2.38,1.59,2.39,-1.0,1.92,1.98,Bournemouth,Wolverhampton,bournemouth,wolverhampton
+2025-03-15,E0,England-PL,2425,Southampton,Wolves,1.0,2.0,A,0.0,1.0,A,3.7,3.4,2.0,3.67,3.56,2.08,3.63,3.51,2.06,1.84,2.06,1.81,2.03,0.5,1.83,2.07,Southampton,Wolverhampton,southampton,wolverhampton
+2025-04-05,E0,England-PL,2425,Ipswich,Wolves,1.0,2.0,A,1.0,0.0,H,2.7,3.25,2.63,2.78,3.3,2.71,2.74,3.28,2.65,2.1,1.73,2.07,1.75,0.0,2.0,1.9,Ipswich,Wolverhampton,ipswich,wolverhampton
+2025-04-20,E0,England-PL,2425,Man United,Wolves,0.0,1.0,A,0.0,0.0,D,2.0,3.6,3.6,2.01,3.63,3.82,2.0,3.58,3.72,1.97,1.93,1.93,1.89,-0.5,2.02,1.88,Manchester United,Wolverhampton,manchester_united,wolverhampton
+2025-05-02,E0,England-PL,2425,Man City,Wolves,1.0,0.0,H,1.0,0.0,H,1.4,4.75,7.5,1.41,5.27,7.55,1.4,5.14,7.49,1.53,2.5,1.52,2.51,-1.25,1.86,2.04,Manchester City,Wolverhampton,manchester_city,wolverhampton
+2025-05-20,E0,England-PL,2425,Crystal Palace,Wolves,4.0,2.0,H,2.0,1.0,H,2.25,3.3,3.2,2.29,3.37,3.34,2.27,3.32,3.26,2.02,1.88,1.99,1.83,-0.25,1.98,1.92,Crystal Palace,Wolverhampton,crystal_palace,wolverhampton
+2025-08-23,E0,England-PL,2526,Bournemouth,Wolves,1.0,0.0,H,1.0,0.0,H,1.8,3.8,4.2,1.79,3.98,4.4,1.79,3.88,4.24,1.73,2.1,1.72,2.06,-0.75,2.03,1.83,Bournemouth,Wolverhampton,bournemouth,wolverhampton
+2025-09-13,E0,England-PL,2526,Newcastle,Wolves,1.0,0.0,H,1.0,0.0,H,1.42,4.75,7.0,1.43,4.93,7.21,1.43,4.62,7.45,1.8,2.0,1.74,2.04,-1.25,1.98,1.88,Newcastle United,Wolverhampton,newcastle_united,wolverhampton
+2025-09-27,E0,England-PL,2526,Tottenham,Wolves,1.0,1.0,D,0.0,0.0,D,1.5,4.5,6.0,1.49,4.96,6.08,1.47,4.57,6.38,1.73,2.1,1.68,2.14,-1.25,2.05,1.75,Tottenham Hotspur,Wolverhampton,tottenham_hotspur,wolverhampton
+2025-10-18,E0,England-PL,2526,Sunderland,Wolves,2.0,0.0,H,1.0,0.0,H,2.5,3.0,3.1,2.5,3.07,3.25,2.46,3.07,3.13,2.5,1.53,2.43,1.53,-0.25,2.1,1.78,Sunderland,Wolverhampton,sunderland,wolverhampton
+2025-11-01,E0,England-PL,2526,Fulham,Wolves,3.0,0.0,H,1.0,0.0,H,1.83,3.5,4.5,1.88,3.54,4.56,1.84,3.46,4.51,2.2,1.67,2.17,1.66,-0.5,1.85,2.0,Fulham,Wolverhampton,fulham,wolverhampton
+2025-11-08,E0,England-PL,2526,Chelsea,Wolves,3.0,0.0,H,0.0,0.0,D,1.36,4.75,8.5,1.37,5.26,8.42,1.36,5.06,8.27,1.62,2.3,1.62,2.23,-1.25,1.83,2.03,Chelsea,Wolverhampton,chelsea,wolverhampton
+2025-11-30,E0,England-PL,2526,Aston Villa,Wolves,1.0,0.0,H,0.0,0.0,D,1.5,4.33,6.5,1.48,4.76,6.56,1.48,4.39,6.57,1.8,2.0,1.78,1.98,-1.0,1.83,2.03,Aston Villa,Wolverhampton,aston_villa,wolverhampton
+2025-12-13,E0,England-PL,2526,Arsenal,Wolves,2.0,1.0,H,0.0,0.0,D,1.13,8.5,21.0,1.14,8.77,21.15,1.12,8.62,22.31,1.53,2.5,1.51,2.48,-2.25,1.93,1.93,Arsenal,Wolverhampton,arsenal,wolverhampton
+2025-12-27,E0,England-PL,2526,Liverpool,Wolves,2.0,1.0,H,2.0,0.0,H,1.25,6.5,10.0,1.23,7.02,11.7,1.24,6.31,11.25,1.5,2.63,1.46,2.62,-1.75,1.88,1.98,Liverpool,Wolverhampton,liverpool,wolverhampton
+2025-12-30,E0,England-PL,2526,Man United,Wolves,1.0,1.0,D,1.0,1.0,D,1.36,5.25,8.0,1.37,5.38,8.33,1.37,5.06,8.09,1.62,2.3,1.58,2.32,-1.25,1.83,2.03,Manchester United,Wolverhampton,manchester_united,wolverhampton
+2026-01-07,E0,England-PL,2526,Everton,Wolves,1.0,1.0,D,1.0,0.0,H,1.75,3.5,5.0,1.79,3.57,5.06,1.76,3.55,4.85,2.1,1.73,2.05,1.73,-0.75,2.03,1.83,Everton,Wolverhampton,everton,wolverhampton
+2026-01-24,E0,England-PL,2526,Man City,Wolves,2.0,0.0,H,2.0,0.0,H,1.2,7.0,11.0,,,,1.21,6.68,12.0,1.4,3.0,1.39,2.87,-1.75,1.83,2.03,Manchester City,Wolverhampton,manchester_city,wolverhampton
+2026-02-11,E0,England-PL,2526,Nott'm Forest,Wolves,0.0,0.0,D,0.0,0.0,D,1.7,3.8,5.0,,,,1.69,3.72,5.09,2.0,1.85,1.94,1.81,-0.75,1.93,1.93,Nottingham Forest,Wolverhampton,nottingham_forest,wolverhampton
+2026-02-22,E0,England-PL,2526,Crystal Palace,Wolves,1.0,0.0,H,0.0,0.0,D,1.65,4.0,5.0,,,,1.62,3.99,5.26,1.91,1.91,1.89,1.86,-0.75,1.83,2.03,Crystal Palace,Wolverhampton,crystal_palace,wolverhampton
+2026-03-16,E0,England-PL,2526,Brentford,Wolves,2.0,2.0,D,2.0,1.0,H,1.55,4.2,5.75,,,,1.54,4.15,5.68,1.73,2.1,1.68,2.11,-1.0,1.93,1.93,Brentford,Wolverhampton,brentford,wolverhampton
+2026-04-10,E0,England-PL,2526,West Ham,Wolves,4.0,0.0,H,1.0,0.0,H,1.8,3.8,4.33,,,,1.78,3.74,4.34,1.8,2.0,1.79,1.98,-0.5,1.75,2.05,West Ham United,Wolverhampton,west_ham_united,wolverhampton
+2026-04-18,E0,England-PL,2526,Leeds,Wolves,3.0,0.0,H,2.0,0.0,H,1.62,3.9,5.75,,,,1.6,3.93,5.5,1.9,1.95,1.86,1.89,-1.0,2.1,1.78,Leeds,Wolverhampton,leeds,wolverhampton
+2026-05-09,E0,England-PL,2526,Brighton,Wolves,3.0,0.0,H,2.0,0.0,H,1.27,6.25,9.5,,,,1.27,5.88,9.98,1.53,2.5,1.5,2.5,-1.75,1.98,1.88,Brighton & Hove Albion,Wolverhampton,brighton_hove_albion,wolverhampton
+2026-05-24,E0,England-PL,2526,Burnley,Wolves,1.0,1.0,D,0.0,1.0,A,2.35,3.5,2.9,,,,2.36,3.5,2.77,1.73,2.1,1.71,2.07,-0.25,2.05,1.8,Burnley,Wolverhampton,burnley,wolverhampton
+2026-08-22,E1,England-Champ,2627,Preston,Wolves,1.0,3.0,A,0.0,1.0,A,4.2,3.4,1.81,,,,4.03,3.64,1.85,1.8,2.0,1.75,2.0,0.5,1.98,1.88,Preston,Wolverhampton,preston,wolverhampton
+2026-09-01,E1,England-Champ,2627,West Ham,Wolves,4.0,2.0,H,2.0,1.0,H,2.01,3.6,3.4,,,,2.04,3.65,3.33,1.67,2.2,1.65,2.17,-0.5,2.05,1.8,West Ham United,Wolverhampton,west_ham_united,wolverhampton
+2026-09-06,E1,England-Champ,2627,Birmingham,Wolves,2.0,2.0,D,2.0,2.0,D,2.85,3.25,2.35,,,,2.87,3.24,2.41,2.1,1.73,2.06,1.71,0.25,1.78,2.1,Birmingham,Wolverhampton,birmingham,wolverhampton
+2026-09-13,E1,England-Champ,2627,Sheffield United,Wolves,0.0,1.0,A,0.0,0.0,D,3.2,3.5,2.1,,,,3.16,3.52,2.12,1.73,2.1,1.7,2.07,0.25,2.0,1.85,Sheffield United,Wolverhampton,sheffield_united,wolverhampton
+2026-10-10,E1,England-Champ,2627,Middlesbrough,Wolves,1.0,0.0,H,0.0,0.0,D,2.15,3.7,2.85,,,,2.22,3.67,2.92,1.62,2.3,1.6,2.25,-0.25,1.98,1.88,Middlesbrough,Wolverhampton,middlesbrough,wolverhampton
+2026-10-16,E1,England-Champ,2627,Burnley,Wolves,1.0,2.0,A,1.0,1.0,D,3.2,3.5,2.15,,,,3.1,3.49,2.2,1.83,2.03,1.77,1.97,0.25,1.93,1.93,Burnley,Wolverhampton,burnley,wolverhampton

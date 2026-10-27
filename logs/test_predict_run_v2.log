@@ -1,0 +1,85 @@
+======================================================================
+TEST SUITE predict.py
+======================================================================
+
+T1: Match lengkap, full history, full odds
+  [PASS] T1_status_ok - status=OK
+  [PASS] T1_prob_valid 
+  [PASS] T1_prob_sum_1 - sum=1.000000
+
+T2: Tim baru → UNKNOWN_TEAM
+  [PASS] T2_unknown_team - status=UNKNOWN_TEAM
+  [PASS] T2_probs_nan - p_H=nan, p_D=nan, p_A=nan
+
+T3: H2H kosong (debut pair)
+  [PASS] T3_predicts - p_H=0.5528191678661826
+
+T4: Odds tidak ada
+  [PASS] T4_used_odds_none - used=none
+  [PASS] T4_odds_nan 
+  [PASS] T4_predicts 
+
+T5: Odds lengkap (1x2 + ou25)
+  [PASS] T5_used_odds_both - used=both
+  [PASS] T5_implied_sum_1 - sum=1.000000
+  [PASS] T5_value_nonnull 
+
+T6: Duplikat input
+  [PASS] T6_dedup - rows=1
+
+T7: Tanggal invalid
+  [PASS] T7_invalid_date - status=INVALID_DATE
+
+T8: Home == Away
+  [PASS] T8_invalid_match - status=INVALID_MATCH
+
+T9: Tanggal masa lalu
+  [PASS] T9_past_date - status=DATE_NOT_IN_FUTURE
+
+T10: Schema 39 kolom
+  [PASS] T10_columns_39 - cols=39
+
+T11: match_id uniqueness
+  [PASS] T11_unique_matchid - unique=3/3
+
+T12: Determinism (run 2x, hash compare)
+  [PASS] T12_determinism 
+
+T13: Cutoff (parity test historical)
+  [PASS] T13_parity_1_sample - n_diff=0
+
+T14: Case-insensitive team names
+  [PASS] T14_resolves - status=OK
+
+T15: Liga tidak dikenal
+  [PASS] T15_unknown_league - status=UNKNOWN_LEAGUE
+
+======================================================================
+RINGKASAN
+======================================================================
+  PASS T1_status_ok
+  PASS T1_prob_valid
+  PASS T1_prob_sum_1
+  PASS T2_unknown_team
+  PASS T2_probs_nan
+  PASS T3_predicts
+  PASS T4_used_odds_none
+  PASS T4_odds_nan
+  PASS T4_predicts
+  PASS T5_used_odds_both
+  PASS T5_implied_sum_1
+  PASS T5_value_nonnull
+  PASS T6_dedup
+  PASS T7_invalid_date
+  PASS T8_invalid_match
+  PASS T9_past_date
+  PASS T10_columns_39
+  PASS T11_unique_matchid
+  PASS T12_determinism
+  PASS T13_parity_1_sample
+  PASS T14_resolves
+  PASS T15_unknown_league
+
+TOTAL: 22/22 PASS
+
+✓ SEMUA TEST PASS

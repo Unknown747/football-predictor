@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E1,England-Champ,2122,Millwall,Blackburn,1.0,1.0,D,0.0,0.0,D,2.45,3.2,3.0,2.5,3.2,3.12,2.48,3.17,3.01,2.2,1.66,2.27,1.64,-0.25,2.14,1.8,Millwall,Blackburn,millwall,blackburn
+2021-08-18,E1,England-Champ,2122,Nott'm Forest,Blackburn,1.0,2.0,A,0.0,0.0,D,2.37,3.3,3.1,2.5,3.24,3.09,2.44,3.24,2.98,2.1,1.72,2.1,1.73,-0.25,2.1,1.83,Nottingham Forest,Blackburn,nottingham_forest,blackburn
+2021-08-28,E1,England-Champ,2122,Middlesbrough,Blackburn,1.0,1.0,D,1.0,1.0,D,2.1,3.3,3.6,2.2,3.26,3.68,2.18,3.26,3.53,2.1,1.72,2.14,1.71,-0.25,1.88,2.05,Middlesbrough,Blackburn,middlesbrough,blackburn
+2021-09-18,E1,England-Champ,2122,Barnsley,Blackburn,0.0,0.0,D,0.0,0.0,D,3.0,3.0,2.62,2.89,3.14,2.76,2.83,3.12,2.65,2.2,1.66,2.19,1.68,0.0,2.03,1.9,Barnsley,Blackburn,barnsley,blackburn
+2021-09-28,E1,England-Champ,2122,Huddersfield,Blackburn,3.0,2.0,H,1.0,0.0,H,2.55,3.3,2.8,2.63,3.34,2.87,2.59,3.25,2.82,2.0,1.8,1.98,1.83,0.0,1.88,2.02,Huddersfield,Blackburn,huddersfield,blackburn
+2021-10-02,E1,England-Champ,2122,Blackpool,Blackburn,2.0,1.0,H,2.0,0.0,H,3.0,3.3,2.45,3.03,3.32,2.52,2.93,3.3,2.47,2.0,1.8,1.98,1.84,0.25,1.78,2.13,Blackpool,Blackburn,blackpool,blackburn
+2021-10-19,E1,England-Champ,2122,QPR,Blackburn,1.0,0.0,H,0.0,0.0,D,2.15,3.5,3.3,2.22,3.49,3.44,2.15,3.51,3.31,1.72,2.1,1.72,2.13,-0.25,1.91,1.99,Queens Park Rangers,Blackburn,queens_park_rangers,blackburn
+2021-10-30,E1,England-Champ,2122,Derby,Blackburn,1.0,2.0,A,0.0,2.0,A,2.8,3.25,2.55,2.85,3.31,2.66,2.8,3.22,2.59,2.3,1.61,2.27,1.63,0.0,1.98,1.92,Derby,Blackburn,derby,blackburn
+2021-11-20,E1,England-Champ,2122,Bristol City,Blackburn,1.0,1.0,D,1.0,0.0,H,3.1,3.4,2.3,3.26,3.47,2.31,3.1,3.42,2.29,1.9,1.95,1.87,1.94,0.25,1.91,1.99,Bristol City,Blackburn,bristol_city,blackburn
+2021-11-27,E1,England-Champ,2122,Stoke,Blackburn,0.0,1.0,A,0.0,0.0,D,2.1,3.4,3.5,2.14,3.36,3.78,2.11,3.36,3.59,2.02,1.83,2.01,1.81,-0.25,1.82,2.08,Stoke City,Blackburn,stoke_city,blackburn
+2021-12-11,E1,England-Champ,2122,Bournemouth,Blackburn,0.0,2.0,A,0.0,1.0,A,1.7,3.8,5.0,1.72,3.87,5.19,1.72,3.77,4.88,1.9,1.95,1.89,1.92,-0.75,1.93,1.97,Bournemouth,Blackburn,bournemouth,blackburn
+2022-01-15,E1,England-Champ,2122,Cardiff,Blackburn,0.0,1.0,A,0.0,1.0,A,2.7,3.3,2.6,2.75,3.45,2.68,2.66,3.34,2.64,2.0,1.8,2.03,1.78,0.0,1.97,1.93,Cardiff City,Blackburn,cardiff_city,blackburn
+2022-01-19,E1,England-Champ,2122,Hull,Blackburn,2.0,0.0,H,1.0,0.0,H,3.0,3.4,2.37,3.13,3.47,2.38,3.03,3.3,2.36,2.1,1.72,2.11,1.72,0.25,1.85,2.05,Hull City,Blackburn,hull_city,blackburn
+2022-01-29,E1,England-Champ,2122,Luton,Blackburn,0.0,0.0,D,0.0,0.0,D,2.4,3.2,3.1,2.44,3.39,3.1,2.41,3.27,3.02,2.2,1.66,2.17,1.68,-0.25,2.08,1.82,Luton,Blackburn,luton,blackburn
+2022-02-05,E1,England-Champ,2122,Swansea,Blackburn,1.0,0.0,H,1.0,0.0,H,2.5,3.25,2.9,2.53,3.17,3.15,2.52,3.1,3.01,2.5,1.53,2.43,1.56,-0.25,2.05,1.75,Swansea City,Blackburn,swansea_city,blackburn
+2022-02-14,E1,England-Champ,2122,West Brom,Blackburn,0.0,0.0,D,0.0,0.0,D,1.8,3.6,4.5,1.83,3.44,5.05,1.84,3.47,4.5,2.2,1.66,2.2,1.67,-0.5,1.85,2.05,West Bromwich Albion,Blackburn,west_bromwich_albion,blackburn
+2022-02-23,E1,England-Champ,2122,Sheffield United,Blackburn,1.0,0.0,H,0.0,0.0,D,1.85,3.6,4.33,1.83,3.79,4.58,1.84,3.65,4.31,2.1,1.72,2.13,1.71,-0.5,1.86,2.04,Sheffield United,Blackburn,sheffield_united,blackburn
+2022-03-05,E1,England-Champ,2122,Fulham,Blackburn,2.0,0.0,H,2.0,0.0,H,1.44,4.33,8.5,1.47,4.32,8.21,1.45,4.4,7.4,1.83,2.02,1.8,2.01,-1.25,2.02,1.88,Fulham,Blackburn,fulham,blackburn
+2022-03-19,E1,England-Champ,2122,Reading,Blackburn,1.0,0.0,H,0.0,0.0,D,3.2,3.2,2.3,3.24,3.4,2.35,3.15,3.3,2.33,2.1,1.72,2.1,1.74,0.25,1.87,2.03,Reading,Blackburn,reading,blackburn
+2022-04-02,E1,England-Champ,2122,Coventry,Blackburn,2.0,2.0,D,1.0,0.0,H,2.1,3.2,3.75,2.17,3.2,3.91,2.15,3.21,3.68,2.3,1.61,2.31,1.61,-0.25,1.84,2.06,Coventry,Blackburn,coventry,blackburn
+2022-04-15,E1,England-Champ,2122,Peterboro,Blackburn,2.0,1.0,H,0.0,0.0,D,4.75,3.7,1.75,4.81,3.79,1.79,4.6,3.68,1.78,1.98,1.88,1.96,1.84,0.75,1.89,2.01,Peterborough United,Blackburn,peterborough_united,blackburn
+2022-04-25,E1,England-Champ,2122,Preston,Blackburn,1.0,4.0,A,1.0,3.0,A,2.62,3.4,2.55,2.75,3.27,2.75,2.69,3.21,2.69,2.1,1.72,2.13,1.71,0.0,1.99,1.91,Preston,Blackburn,preston,blackburn
+2022-05-07,E1,England-Champ,2122,Birmingham,Blackburn,1.0,2.0,A,0.0,2.0,A,2.8,3.5,2.4,2.81,3.71,2.48,2.77,3.59,2.43,1.66,2.2,1.66,2.22,0.25,1.73,2.08,Birmingham,Blackburn,birmingham,blackburn
+2022-08-06,E1,England-Champ,2223,Swansea,Blackburn,0.0,3.0,A,0.0,1.0,A,2.4,3.25,3.1,2.39,3.33,3.23,2.37,3.29,3.08,2.1,1.72,2.09,1.74,-0.25,2.04,1.86,Swansea City,Blackburn,swansea_city,blackburn
+2022-08-17,E1,England-Champ,2223,Reading,Blackburn,3.0,0.0,H,1.0,0.0,H,3.2,3.2,2.3,3.29,3.41,2.32,3.17,3.33,2.29,2.1,1.72,2.06,1.76,0.25,1.89,2.01,Reading,Blackburn,reading,blackburn
+2022-08-20,E1,England-Champ,2223,Sheffield United,Blackburn,3.0,0.0,H,1.0,0.0,H,1.75,3.6,4.75,1.79,3.71,4.93,1.79,3.59,4.67,2.0,1.8,2.05,1.77,-0.75,2.04,1.86,Sheffield United,Blackburn,sheffield_united,blackburn
+2022-08-31,E1,England-Champ,2223,Blackpool,Blackburn,0.0,1.0,A,0.0,1.0,A,2.4,3.3,3.0,2.53,3.27,3.06,2.44,3.3,2.94,2.02,1.83,2.03,1.79,-0.25,2.11,1.79,Blackpool,Blackburn,blackpool,blackburn
+2022-09-17,E1,England-Champ,2223,Luton,Blackburn,2.0,0.0,H,0.0,0.0,D,2.3,3.25,3.3,2.29,3.26,3.53,2.25,3.26,3.31,2.1,1.72,2.13,1.71,-0.25,1.94,1.96,Luton,Blackburn,luton,blackburn
+2022-10-04,E1,England-Champ,2223,Cardiff,Blackburn,1.0,0.0,H,0.0,0.0,D,2.3,3.4,3.1,2.39,3.3,3.27,2.36,3.23,3.14,2.2,1.66,2.22,1.65,-0.25,2.02,1.88,Cardiff City,Blackburn,cardiff_city,blackburn
+2022-10-11,E1,England-Champ,2223,Wigan,Blackburn,1.0,0.0,H,0.0,0.0,D,2.87,3.1,2.6,2.93,3.18,2.69,2.84,3.11,2.63,2.3,1.61,2.31,1.61,0.0,2.06,1.84,Wigan Athletic,Blackburn,wigan_athletic,blackburn
+2022-10-15,E1,England-Champ,2223,Middlesbrough,Blackburn,1.0,2.0,A,1.0,2.0,A,2.0,3.4,3.75,2.05,3.34,4.15,2.02,3.36,3.8,2.1,1.72,2.14,1.7,-0.5,2.04,1.86,Middlesbrough,Blackburn,middlesbrough,blackburn
+2022-10-29,E1,England-Champ,2223,Hull,Blackburn,0.0,1.0,A,0.0,1.0,A,2.5,3.2,2.9,2.58,3.21,3.05,2.51,3.19,2.89,2.2,1.66,2.16,1.68,0.0,1.8,2.1,Hull City,Blackburn,hull_city,blackburn
+2022-11-01,E1,England-Champ,2223,Coventry,Blackburn,1.0,0.0,H,1.0,0.0,H,2.4,3.2,3.1,2.44,3.2,3.27,2.4,3.19,3.09,2.2,1.66,2.16,1.69,-0.25,2.06,1.84,Coventry,Blackburn,coventry,blackburn
+2022-11-13,E1,England-Champ,2223,Burnley,Blackburn,3.0,0.0,H,0.0,0.0,D,1.72,3.6,5.25,1.7,3.72,5.75,1.71,3.66,5.09,1.98,1.88,1.96,1.84,-0.75,1.92,1.98,Burnley,Blackburn,burnley,blackburn
+2022-12-17,E1,England-Champ,2223,Norwich,Blackburn,0.0,2.0,A,0.0,1.0,A,1.8,3.7,4.5,1.81,3.73,4.74,1.79,3.65,4.49,1.98,1.88,1.93,1.86,-0.75,2.05,1.85,Norwich City,Blackburn,norwich_city,blackburn
+2022-12-26,E1,England-Champ,2223,Sunderland,Blackburn,2.0,1.0,H,1.0,1.0,D,2.3,3.3,3.2,2.4,3.3,3.19,2.34,3.25,3.13,2.2,1.67,2.17,1.69,-0.25,2.03,1.87,Sunderland,Blackburn,sunderland,blackburn
+2023-01-14,E1,England-Champ,2223,Rotherham,Blackburn,4.0,0.0,H,1.0,0.0,H,3.4,3.4,2.15,3.5,3.44,2.22,3.36,3.4,2.16,2.1,1.73,2.09,1.74,0.25,2.02,1.88,Rotherham United,Blackburn,rotherham_united,blackburn
+2023-01-21,E1,England-Champ,2223,Bristol City,Blackburn,1.0,1.0,D,0.0,0.0,D,2.2,3.4,3.3,2.23,3.43,3.46,2.18,3.42,3.28,2.02,1.83,2.0,1.82,-0.25,1.91,1.99,Bristol City,Blackburn,bristol_city,blackburn
+2023-02-11,E1,England-Champ,2223,Watford,Blackburn,1.0,1.0,D,0.0,1.0,A,1.91,3.4,4.33,1.91,3.6,4.37,1.92,3.47,4.07,2.1,1.73,2.14,1.7,-0.5,1.93,1.97,Watford,Blackburn,watford,blackburn
+2023-02-15,E1,England-Champ,2223,West Brom,Blackburn,1.0,1.0,D,0.0,0.0,D,1.67,3.8,5.5,1.69,3.85,5.57,1.69,3.73,5.18,2.02,1.83,2.02,1.8,-0.75,1.9,2.0,West Bromwich Albion,Blackburn,west_bromwich_albion,blackburn
+2023-02-25,E1,England-Champ,2223,QPR,Blackburn,1.0,3.0,A,1.0,2.0,A,2.15,3.2,3.6,2.19,3.32,3.71,2.15,3.23,3.56,2.2,1.67,2.21,1.66,-0.25,1.85,2.05,Queens Park Rangers,Blackburn,queens_park_rangers,blackburn
+2023-03-10,E1,England-Champ,2223,Stoke,Blackburn,3.0,2.0,H,2.0,0.0,H,2.0,3.4,3.8,2.04,3.39,4.08,2.02,3.31,3.89,2.3,1.62,2.27,1.63,-0.5,2.04,1.86,Stoke City,Blackburn,stoke_city,blackburn
+2023-04-01,E1,England-Champ,2223,Birmingham,Blackburn,1.0,0.0,H,0.0,0.0,D,2.6,3.2,2.88,2.72,3.08,2.99,2.6,3.09,2.89,2.38,1.57,2.4,1.56,0.0,1.84,2.06,Birmingham,Blackburn,birmingham,blackburn
+2023-04-10,E1,England-Champ,2223,Huddersfield,Blackburn,2.0,2.0,D,2.0,0.0,H,2.8,3.25,2.55,2.89,3.28,2.66,2.81,3.22,2.57,2.2,1.67,2.23,1.65,0.0,2.04,1.86,Huddersfield,Blackburn,huddersfield,blackburn
+2023-04-22,E1,England-Champ,2223,Preston,Blackburn,1.0,1.0,D,0.0,0.0,D,2.6,3.1,2.9,2.66,3.09,3.05,2.58,3.13,2.9,2.2,1.67,2.24,1.64,0.0,1.82,2.08,Preston,Blackburn,preston,blackburn
+2023-05-08,E1,England-Champ,2223,Millwall,Blackburn,3.0,4.0,A,3.0,1.0,H,1.91,3.75,3.8,1.92,3.81,3.98,1.91,3.67,3.89,1.9,1.95,1.89,1.9,-0.5,1.92,1.98,Millwall,Blackburn,millwall,blackburn
+2023-08-12,E1,England-Champ,2324,Rotherham,Blackburn,2.0,2.0,D,1.0,0.0,H,2.9,3.4,2.4,3.09,3.4,2.44,2.92,3.37,2.4,2.03,1.83,1.98,1.82,0.25,1.83,2.07,Rotherham United,Blackburn,rotherham_united,blackburn
+2023-08-27,E1,England-Champ,2324,Watford,Blackburn,0.0,1.0,A,0.0,0.0,D,2.0,3.5,3.75,2.12,3.65,3.55,2.07,3.51,3.48,1.9,1.95,1.88,1.92,-0.25,1.75,2.05,Watford,Blackburn,watford,blackburn
+2023-09-02,E1,England-Champ,2324,Plymouth,Blackburn,3.0,0.0,H,1.0,0.0,H,2.7,3.6,2.5,2.72,3.79,2.52,2.69,3.67,2.44,1.62,2.3,1.59,2.35,0.0,2.04,1.86,Plymouth Argyle,Blackburn,plymouth_argyle,blackburn
+2023-09-23,E1,England-Champ,2324,Ipswich,Blackburn,4.0,3.0,H,3.0,1.0,H,1.7,4.0,4.75,1.7,4.26,4.77,1.7,4.07,4.56,1.62,2.3,1.63,2.28,-0.75,1.9,2.0,Ipswich,Blackburn,ipswich,blackburn
+2023-10-04,E1,England-Champ,2324,Coventry,Blackburn,1.0,0.0,H,0.0,0.0,D,2.05,3.6,3.4,2.11,3.73,3.5,2.07,3.68,3.35,1.62,2.25,1.63,2.27,-0.5,2.05,1.75,Coventry,Blackburn,coventry,blackburn
+2023-10-07,E1,England-Champ,2324,QPR,Blackburn,0.0,4.0,A,0.0,2.0,A,3.0,3.5,2.3,3.02,3.65,2.36,2.89,3.51,2.36,1.75,2.05,1.76,2.06,0.25,1.86,2.04,Queens Park Rangers,Blackburn,queens_park_rangers,blackburn
+2023-10-24,E1,England-Champ,2324,Millwall,Blackburn,1.0,2.0,A,1.0,1.0,D,2.45,3.5,2.88,2.52,3.54,2.87,2.46,3.46,2.81,1.88,1.98,1.86,1.94,0.0,1.84,2.06,Millwall,Blackburn,millwall,blackburn
+2023-11-05,E1,England-Champ,2324,Norwich,Blackburn,1.0,3.0,A,0.0,2.0,A,2.15,3.6,3.2,2.17,3.94,3.18,2.13,3.76,3.14,1.53,2.4,1.53,2.49,-0.25,1.9,2.0,Norwich City,Blackburn,norwich_city,blackburn
+2023-11-25,E1,England-Champ,2324,Stoke,Blackburn,0.0,3.0,A,0.0,1.0,A,2.2,3.5,3.2,2.22,3.72,3.24,2.2,3.57,3.15,1.75,2.05,1.76,2.07,-0.25,1.94,1.96,Stoke City,Blackburn,stoke_city,blackburn
+2023-12-02,E1,England-Champ,2324,Sheffield Weds,Blackburn,3.0,1.0,H,1.0,0.0,H,2.88,3.4,2.4,2.93,3.65,2.42,2.9,3.52,2.36,1.75,2.05,1.76,2.06,0.25,1.79,2.11,Sheffield Wednesday,Blackburn,sheffield_wednesday,blackburn
+2023-12-16,E1,England-Champ,2324,Southampton,Blackburn,4.0,0.0,H,1.0,0.0,H,1.65,4.0,5.0,1.7,4.07,5.1,1.68,4.1,4.73,1.53,2.4,1.53,2.46,-0.75,1.86,2.04,Southampton,Blackburn,southampton,blackburn
+2023-12-26,E1,England-Champ,2324,Huddersfield,Blackburn,3.0,0.0,H,1.0,0.0,H,3.2,3.6,2.15,3.27,3.77,2.19,3.19,3.67,2.14,1.7,2.1,1.69,2.16,0.25,2.01,1.89,Huddersfield,Blackburn,huddersfield,blackburn
+2023-12-29,E1,England-Champ,2324,Hull,Blackburn,3.0,2.0,H,2.0,2.0,D,1.85,3.8,4.0,1.87,3.98,4.11,1.86,3.92,3.87,1.62,2.25,1.62,2.3,-0.5,1.85,2.05,Hull City,Blackburn,hull_city,blackburn
+2024-01-13,E1,England-Champ,2324,West Brom,Blackburn,4.0,1.0,H,3.0,0.0,H,1.73,4.0,4.75,1.75,4.02,4.77,1.73,3.94,4.59,1.75,2.05,1.77,2.05,-0.75,1.95,1.95,West Bromwich Albion,Blackburn,west_bromwich_albion,blackburn
+2024-02-13,E1,England-Champ,2324,Birmingham,Blackburn,1.0,0.0,H,0.0,0.0,D,2.25,3.6,3.0,2.31,3.75,3.05,2.26,3.68,2.95,1.57,2.35,1.57,2.39,-0.25,2.01,1.89,Birmingham,Blackburn,birmingham,blackburn
+2024-02-17,E1,England-Champ,2324,Preston,Blackburn,2.0,2.0,D,2.0,2.0,D,2.45,3.25,3.0,2.44,3.5,3.01,2.42,3.4,2.88,1.93,1.93,1.88,1.93,-0.25,2.08,1.82,Preston,Blackburn,preston,blackburn
+2024-02-20,E1,England-Champ,2324,Cardiff,Blackburn,0.0,0.0,D,0.0,0.0,D,3.0,3.25,2.45,3.02,3.3,2.55,2.89,3.27,2.49,2.05,1.8,2.01,1.8,0.0,2.08,1.73,Cardiff City,Blackburn,cardiff_city,blackburn
+2024-03-02,E1,England-Champ,2324,Swansea,Blackburn,2.0,1.0,H,2.0,0.0,H,2.2,3.5,3.2,2.26,3.58,3.27,2.22,3.53,3.12,1.73,2.08,1.72,2.1,-0.25,1.95,1.95,Swansea City,Blackburn,swansea_city,blackburn
+2024-03-16,E1,England-Champ,2324,Middlesbrough,Blackburn,0.0,0.0,D,0.0,0.0,D,1.91,3.5,4.2,1.85,3.82,4.42,1.86,3.7,4.14,1.75,2.05,1.75,2.08,-0.5,1.88,2.02,Middlesbrough,Blackburn,middlesbrough,blackburn
+2024-04-01,E1,England-Champ,2324,Sunderland,Blackburn,1.0,5.0,A,0.0,2.0,A,2.1,3.4,3.6,2.15,3.45,3.58,2.1,3.46,3.46,1.95,1.9,1.92,1.88,-0.25,1.84,2.06,Sunderland,Blackburn,sunderland,blackburn
+2024-04-10,E1,England-Champ,2324,Bristol City,Blackburn,5.0,0.0,H,2.0,0.0,H,2.5,3.2,3.0,2.56,3.26,2.99,2.49,3.21,2.92,2.1,1.73,2.12,1.71,0.0,1.81,2.09,Bristol City,Blackburn,bristol_city,blackburn
+2024-04-13,E1,England-Champ,2324,Leeds,Blackburn,0.0,1.0,A,0.0,0.0,D,1.33,5.0,10.0,1.35,5.46,8.57,1.35,5.16,8.51,1.62,2.3,1.59,2.34,-1.5,2.04,1.86,Leeds,Blackburn,leeds,blackburn
+2024-05-04,E1,England-Champ,2324,Leicester,Blackburn,0.0,2.0,A,0.0,0.0,D,1.7,3.75,5.25,1.69,3.83,5.28,1.67,4.01,4.89,1.53,2.5,1.52,2.48,-0.75,1.86,2.04,Leicester City,Blackburn,leicester_city,blackburn
+2024-08-17,E1,England-Champ,2425,Norwich,Blackburn,2.0,2.0,D,0.0,1.0,A,2.0,3.4,3.7,2.07,3.59,3.45,2.06,3.54,3.48,1.8,2.0,1.79,2.02,-0.25,1.75,2.05,Norwich City,Blackburn,norwich_city,blackburn
+2024-08-31,E1,England-Champ,2425,Burnley,Blackburn,1.0,1.0,D,1.0,1.0,D,1.91,3.6,3.8,1.94,3.71,3.89,1.93,3.67,3.81,1.8,2.0,1.79,2.02,-0.5,1.92,1.98,Burnley,Blackburn,burnley,blackburn
+2024-09-22,E1,England-Champ,2425,Preston,Blackburn,0.0,0.0,D,0.0,0.0,D,2.63,3.3,2.55,2.81,3.25,2.59,2.75,3.27,2.58,2.0,1.8,2.04,1.78,0.0,2.02,1.88,Preston,Blackburn,preston,blackburn
+2024-10-01,E1,England-Champ,2425,Coventry,Blackburn,3.0,0.0,H,1.0,0.0,H,2.15,3.25,3.5,2.13,3.48,3.6,2.11,3.43,3.48,1.85,2.0,1.83,1.98,-0.25,1.86,2.04,Coventry,Blackburn,coventry,blackburn
+2024-10-05,E1,England-Champ,2425,Plymouth,Blackburn,2.0,1.0,H,1.0,0.0,H,3.1,3.7,2.1,3.25,3.62,2.14,3.18,3.66,2.14,1.67,2.2,1.66,2.21,0.25,1.99,1.91,Plymouth Argyle,Blackburn,plymouth_argyle,blackburn
+2024-10-26,E1,England-Champ,2425,Watford,Blackburn,1.0,0.0,H,0.0,0.0,D,2.4,3.4,2.8,2.53,3.38,2.87,2.47,3.41,2.81,1.85,2.0,1.82,2.0,0.0,1.82,2.08,Watford,Blackburn,watford,blackburn
+2024-11-09,E1,England-Champ,2425,Cardiff,Blackburn,1.0,3.0,A,0.0,1.0,A,2.3,3.4,3.0,2.35,3.47,3.06,2.32,3.45,3.01,1.95,1.9,1.93,1.88,-0.25,2.05,1.85,Cardiff City,Blackburn,cardiff_city,blackburn
+2024-11-27,E1,England-Champ,2425,Middlesbrough,Blackburn,0.0,1.0,A,0.0,0.0,D,1.53,4.1,6.25,1.54,4.33,5.65,1.53,4.32,5.89,1.73,2.1,1.71,2.13,-1.0,1.91,1.99,Middlesbrough,Blackburn,middlesbrough,blackburn
+2024-12-07,E1,England-Champ,2425,Hull,Blackburn,0.0,1.0,A,0.0,1.0,A,2.55,3.25,2.75,2.5,3.4,2.81,2.53,3.37,2.77,2.03,1.83,2.0,1.8,0.0,1.87,2.03,Hull City,Blackburn,hull_city,blackburn
+2024-12-10,E1,England-Champ,2425,Sheffield Weds,Blackburn,0.0,1.0,A,0.0,0.0,D,2.25,3.3,3.1,2.33,3.29,3.33,2.3,3.24,3.2,2.1,1.73,2.17,1.68,-0.25,2.0,1.9,Sheffield Wednesday,Blackburn,sheffield_wednesday,blackburn
+2024-12-21,E1,England-Champ,2425,Millwall,Blackburn,1.0,0.0,H,0.0,0.0,D,2.3,3.25,3.2,2.34,3.22,3.21,2.3,3.2,3.21,2.38,1.57,2.35,1.57,-0.25,2.02,1.88,Millwall,Blackburn,millwall,blackburn
+2025-01-01,E1,England-Champ,2425,Leeds,Blackburn,1.0,1.0,D,0.0,0.0,D,1.36,5.0,7.5,1.37,4.77,8.58,1.36,4.7,8.46,1.9,1.95,1.86,1.9,-1.25,1.91,1.99,Leeds,Blackburn,leeds,blackburn
+2025-01-18,E1,England-Champ,2425,Oxford,Blackburn,1.0,0.0,H,0.0,0.0,D,3.0,3.4,2.3,3.21,3.26,2.32,3.09,3.24,2.34,2.2,1.67,2.18,1.66,0.25,1.87,2.03,Oxford United,Blackburn,oxford_united,blackburn
+2025-01-25,E1,England-Champ,2425,Bristol City,Blackburn,2.0,1.0,H,1.0,1.0,D,1.95,3.5,3.75,1.99,3.32,4.03,1.99,3.34,3.88,2.2,1.67,2.22,1.64,-0.5,2.02,1.88,Bristol City,Blackburn,bristol_city,blackburn
+2025-02-04,E1,England-Champ,2425,QPR,Blackburn,2.0,1.0,H,1.0,0.0,H,2.63,3.1,2.8,2.69,3.14,2.92,2.62,3.09,2.84,2.3,1.62,2.31,1.61,0.0,1.87,2.03,Queens Park Rangers,Blackburn,queens_park_rangers,blackburn
+2025-02-12,E1,England-Champ,2425,West Brom,Blackburn,0.0,2.0,A,0.0,0.0,D,1.83,3.4,4.33,1.85,3.56,4.36,1.84,3.55,4.33,2.05,1.8,2.02,1.8,-0.5,1.88,2.02,West Bromwich Albion,Blackburn,west_bromwich_albion,blackburn
+2025-02-22,E1,England-Champ,2425,Swansea,Blackburn,3.0,0.0,H,2.0,0.0,H,2.5,3.3,2.75,2.61,3.21,2.82,2.56,3.23,2.79,2.2,1.67,2.17,1.68,0.0,1.86,2.04,Swansea City,Blackburn,swansea_city,blackburn
+2025-03-08,E1,England-Champ,2425,Derby,Blackburn,2.0,1.0,H,2.0,1.0,H,2.7,3.0,2.75,2.77,3.11,2.81,2.74,3.08,2.74,2.38,1.57,2.4,1.57,0.0,1.95,1.95,Derby,Blackburn,derby,blackburn
+2025-03-12,E1,England-Champ,2425,Stoke,Blackburn,1.0,0.0,H,1.0,0.0,H,2.6,3.3,2.7,2.68,3.17,2.77,2.64,3.2,2.72,2.05,1.68,2.11,1.72,0.0,1.9,2.0,Stoke City,Blackburn,stoke_city,blackburn
+2025-03-29,E1,England-Champ,2425,Portsmouth,Blackburn,1.0,0.0,H,1.0,0.0,H,2.25,3.2,3.3,2.33,3.34,3.23,2.27,3.27,3.22,2.1,1.73,2.14,1.7,-0.25,2.0,1.9,Portsmouth,Blackburn,portsmouth,blackburn
+2025-04-12,E1,England-Champ,2425,Luton,Blackburn,0.0,1.0,A,0.0,0.0,D,1.85,3.4,4.33,1.88,3.48,4.29,1.88,3.43,4.21,2.2,1.67,2.2,1.66,-0.5,1.9,2.0,Luton,Blackburn,luton,blackburn
+2025-04-21,E1,England-Champ,2425,Sunderland,Blackburn,0.0,1.0,A,0.0,1.0,A,1.75,3.5,4.75,1.76,3.73,4.57,1.74,3.63,4.69,2.1,1.73,2.09,1.73,-0.75,2.04,1.86,Sunderland,Blackburn,sunderland,blackburn
+2025-05-03,E1,England-Champ,2425,Sheffield United,Blackburn,1.0,1.0,D,0.0,0.0,D,2.25,3.5,3.0,2.28,3.47,3.2,2.26,3.43,3.07,2.03,1.83,2.0,1.81,-0.25,2.02,1.88,Sheffield United,Blackburn,sheffield_united,blackburn
+2025-08-09,E1,England-Champ,2526,West Brom,Blackburn,1.0,0.0,H,1.0,0.0,H,1.83,3.4,4.33,1.84,3.52,4.45,1.82,3.43,4.48,2.2,1.67,2.2,1.63,-0.5,1.85,2.0,West Bromwich Albion,Blackburn,west_bromwich_albion,blackburn
+2025-08-23,E1,England-Champ,2526,Hull,Blackburn,0.0,3.0,A,0.0,1.0,A,2.38,3.25,3.0,2.37,3.21,3.16,2.35,3.19,3.08,2.3,1.62,2.3,1.57,-0.25,2.05,1.8,Hull City,Blackburn,hull_city,blackburn
+2025-09-13,E1,England-Champ,2526,Watford,Blackburn,0.0,1.0,A,0.0,0.0,D,2.15,3.5,3.1,2.22,3.39,3.27,2.26,3.27,3.19,2.2,1.67,2.13,1.67,-0.25,1.93,1.93,Watford,Blackburn,watford,blackburn
+2025-09-27,E1,England-Champ,2526,Charlton,Blackburn,3.0,0.0,H,1.0,0.0,H,2.25,3.25,3.1,2.35,3.17,3.24,2.35,3.19,3.11,2.3,1.62,2.28,1.58,-0.25,2.0,1.85,Charlton,Blackburn,charlton,blackburn
+2025-10-18,E1,England-Champ,2526,Coventry,Blackburn,2.0,0.0,H,0.0,0.0,D,1.53,4.0,5.75,1.53,4.16,6.19,1.54,4.17,5.82,1.67,2.2,1.66,2.15,-1.0,1.98,1.88,Coventry,Blackburn,coventry,blackburn
+2025-11-01,E1,England-Champ,2526,Leicester,Blackburn,0.0,2.0,A,0.0,1.0,A,1.76,3.9,4.0,,,,1.78,3.63,4.47,2.0,1.85,1.96,1.79,-0.75,2.08,1.73,Leicester City,Blackburn,leicester_city,blackburn
+2025-11-04,E1,England-Champ,2526,Bristol City,Blackburn,0.0,1.0,A,0.0,1.0,A,2.1,3.25,3.5,,,,2.1,3.35,3.51,2.03,1.83,2.01,1.76,-0.25,1.88,1.98,Bristol City,Blackburn,bristol_city,blackburn
+2025-11-21,E1,England-Champ,2526,Preston,Blackburn,1.0,2.0,A,1.0,1.0,D,2.45,3.05,2.85,,,,2.44,3.11,3.03,2.2,1.67,2.24,1.62,-0.25,2.1,1.7,Preston,Blackburn,preston,blackburn
+2025-11-29,E1,England-Champ,2526,Wrexham,Blackburn,1.0,1.0,D,0.0,1.0,A,2.15,3.4,3.25,2.24,3.35,3.27,2.27,3.26,3.18,2.1,1.73,2.1,1.69,-0.25,1.93,1.93,Wrexham,Blackburn,wrexham,blackburn
+2025-12-13,E1,England-Champ,2526,Portsmouth,Blackburn,2.0,1.0,H,0.0,1.0,A,2.7,3.25,2.5,2.81,3.31,2.56,2.74,3.22,2.57,2.1,1.73,2.09,1.69,0.0,2.0,1.85,Portsmouth,Blackburn,portsmouth,blackburn
+2025-12-26,E1,England-Champ,2526,Middlesbrough,Blackburn,0.0,0.0,D,0.0,0.0,D,1.76,3.6,4.33,1.82,3.64,4.37,1.79,3.6,4.26,1.93,1.93,1.87,1.87,-0.5,1.83,2.03,Middlesbrough,Blackburn,middlesbrough,blackburn
+2025-12-29,E1,England-Champ,2526,Sheffield Weds,Blackburn,0.0,0.0,D,0.0,0.0,D,4.5,3.6,1.71,4.41,3.78,1.78,4.39,3.63,1.78,1.93,1.93,1.89,1.85,0.75,1.83,2.03,Sheffield Wednesday,Blackburn,sheffield_wednesday,blackburn
+2026-01-17,E1,England-Champ,2526,Ipswich,Blackburn,3.0,0.0,H,2.0,0.0,H,1.49,4.0,6.25,,,,1.51,4.06,6.38,2.0,1.8,1.95,1.8,-1.0,1.93,1.93,Ipswich,Blackburn,ipswich,blackburn
+2026-01-20,E1,England-Champ,2526,Swansea,Blackburn,3.0,1.0,H,1.0,1.0,D,2.05,3.25,3.7,,,,2.08,3.23,3.65,2.2,1.67,2.23,1.61,-0.5,2.08,1.73,Swansea City,Blackburn,swansea_city,blackburn
+2026-02-07,E1,England-Champ,2526,Norwich,Blackburn,2.0,0.0,H,0.0,0.0,D,1.91,3.5,3.75,,,,1.95,3.44,3.84,2.0,1.8,1.98,1.77,-0.5,1.95,1.9,Norwich City,Blackburn,norwich_city,blackburn
+2026-02-14,E1,England-Champ,2526,QPR,Blackburn,1.0,3.0,A,1.0,2.0,A,2.15,3.1,3.25,,,,2.22,3.19,3.26,2.2,1.67,2.2,1.62,-0.25,1.93,1.93,Queens Park Rangers,Blackburn,queens_park_rangers,blackburn
+2026-02-28,E1,England-Champ,2526,Derby,Blackburn,3.0,1.0,H,0.0,1.0,A,2.1,3.3,3.3,,,,2.16,3.23,3.39,2.2,1.67,2.15,1.66,-0.25,1.85,2.0,Derby,Blackburn,derby,blackburn
+2026-03-11,E1,England-Champ,2526,Oxford,Blackburn,1.0,0.0,H,1.0,0.0,H,2.65,3.1,2.65,,,,2.67,3.12,2.67,2.3,1.62,2.22,1.62,0.0,1.93,1.93,Oxford United,Blackburn,oxford_united,blackburn
+2026-03-14,E1,England-Champ,2526,Millwall,Blackburn,1.0,2.0,A,0.0,0.0,D,1.66,3.5,5.25,,,,1.71,3.56,4.94,2.2,1.67,2.09,1.68,-0.75,1.98,1.88,Millwall,Blackburn,millwall,blackburn
+2026-04-03,E1,England-Champ,2526,Birmingham,Blackburn,0.0,1.0,A,0.0,0.0,D,1.81,3.3,4.5,,,,1.84,3.37,4.41,2.2,1.67,2.19,1.63,-0.5,1.85,2.0,Birmingham,Blackburn,birmingham,blackburn
+2026-04-11,E1,England-Champ,2526,Stoke,Blackburn,1.0,1.0,D,0.0,1.0,A,2.57,3.25,2.65,,,,2.55,3.22,2.75,2.2,1.67,2.1,1.67,0.0,1.9,1.95,Stoke City,Blackburn,stoke_city,blackburn
+2026-04-14,E1,England-Champ,2526,Southampton,Blackburn,3.0,0.0,H,2.0,0.0,H,1.51,4.1,5.75,,,,1.55,4.01,5.79,1.88,1.98,1.83,1.91,-1.0,1.98,1.88,Southampton,Blackburn,southampton,blackburn
+2026-04-22,E1,England-Champ,2526,Sheffield United,Blackburn,1.0,3.0,A,0.0,3.0,A,1.71,3.5,4.75,,,,1.76,3.7,4.36,1.9,1.95,1.83,1.9,-0.75,2.03,1.83,Sheffield United,Blackburn,sheffield_united,blackburn
+2026-08-14,E1,England-Champ,2627,Wolves,Blackburn,2.0,2.0,D,1.0,1.0,D,1.49,3.9,6.25,,,,1.53,4.12,6.02,1.91,1.91,1.82,1.92,-1.0,1.93,1.93,Wolverhampton,Blackburn,wolverhampton,blackburn
+2026-09-01,E1,England-Champ,2627,Lincoln,Blackburn,0.0,0.0,D,0.0,0.0,D,2.2,3.4,3.1,,,,2.25,3.39,3.09,1.93,1.93,1.87,1.87,-0.25,1.98,1.88,Lincoln City,Blackburn,lincoln_city,blackburn
+2026-09-05,E1,England-Champ,2627,Preston,Blackburn,2.0,1.0,H,2.0,0.0,H,2.3,3.25,3.0,,,,2.37,3.32,2.93,2.0,1.85,1.96,1.79,-0.25,2.05,1.8,Preston,Blackburn,preston,blackburn
+2026-09-19,E1,England-Champ,2627,Portsmouth,Blackburn,2.0,2.0,D,1.0,1.0,D,2.05,3.5,3.4,,,,2.08,3.39,3.44,2.0,1.8,1.99,1.76,-0.25,1.8,2.05,Portsmouth,Blackburn,portsmouth,blackburn
+2026-10-13,E1,England-Champ,2627,Bristol City,Blackburn,0.0,1.0,A,0.0,1.0,A,2.05,3.3,3.6,,,,2.07,3.38,3.53,1.91,1.91,1.87,1.87,-0.5,2.05,1.75,Bristol City,Blackburn,bristol_city,blackburn
+2026-10-17,E1,England-Champ,2627,West Brom,Blackburn,3.0,2.0,H,1.0,2.0,A,1.86,3.5,4.0,,,,1.91,3.47,3.94,2.0,1.8,1.98,1.76,-0.5,1.93,1.93,West Bromwich Albion,Blackburn,west_bromwich_albion,blackburn

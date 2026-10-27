@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E3,England-L2,2122,Harrogate,Rochdale,3.0,2.0,H,2.0,1.0,H,2.2,3.3,3.25,2.33,3.49,3.1,2.27,3.34,3.06,2.07,1.72,2.04,1.76,-0.25,2.0,1.85,Harrogate Town,Rochdale,harrogate_town,rochdale
+2021-08-21,E3,England-L2,2122,Northampton,Rochdale,1.0,3.0,A,1.0,1.0,D,1.9,3.6,4.0,1.95,3.73,3.85,1.96,3.53,3.69,1.95,1.85,1.94,1.85,-0.5,1.96,1.97,Northampton Town,Rochdale,northampton_town,rochdale
+2021-09-04,E3,England-L2,2122,Port Vale,Rochdale,2.0,3.0,A,1.0,1.0,D,2.2,3.3,3.4,2.25,3.31,3.43,2.2,3.27,3.32,2.1,1.7,2.13,1.69,-0.25,1.88,1.98,Port Vale,Rochdale,port_vale,rochdale
+2021-09-18,E3,England-L2,2122,Mansfield,Rochdale,1.0,1.0,D,0.0,0.0,D,2.3,3.5,3.0,2.36,3.52,2.97,2.3,3.44,2.96,1.9,2.03,1.84,1.95,-0.25,2.03,1.9,Mansfield Town,Rochdale,mansfield_town,rochdale
+2021-10-02,E3,England-L2,2122,Bradford,Rochdale,2.0,0.0,H,1.0,0.0,H,2.15,3.5,3.3,2.13,3.51,3.45,2.1,3.48,3.32,1.85,1.95,1.86,1.92,-0.25,1.85,2.0,Bradford City,Rochdale,bradford_city,rochdale
+2021-10-16,E3,England-L2,2122,Swindon,Rochdale,2.0,2.0,D,1.0,0.0,H,2.15,3.25,3.6,2.18,3.28,3.55,2.16,3.23,3.4,2.1,1.7,2.11,1.71,-0.25,1.88,1.98,Swindon Town,Rochdale,swindon_town,rochdale
+2021-10-19,E3,England-L2,2122,Salford,Rochdale,0.0,0.0,D,0.0,0.0,D,1.95,3.5,4.0,2.02,3.65,3.77,2.0,3.45,3.65,2.05,1.75,2.04,1.76,-0.5,2.0,1.85,Salford City,Rochdale,salford_city,rochdale
+2021-10-30,E3,England-L2,2122,Barrow,Rochdale,1.0,2.0,A,0.0,1.0,A,2.5,3.25,2.87,2.55,3.23,2.92,2.5,3.18,2.84,2.15,1.66,2.16,1.66,0.0,1.8,2.05,Barrow,Rochdale,barrow,rochdale
+2021-11-20,E3,England-L2,2122,Walsall,Rochdale,0.0,0.0,D,0.0,0.0,D,2.37,3.3,3.1,2.32,3.46,3.08,2.33,3.33,2.99,2.07,1.72,2.06,1.73,-0.25,2.0,1.85,Walsall,Rochdale,walsall,rochdale
+2021-12-08,E3,England-L2,2122,Hartlepool,Rochdale,2.0,1.0,H,0.0,0.0,D,2.62,3.4,2.6,2.85,3.46,2.47,2.75,3.36,2.46,1.95,1.9,1.96,1.82,0.0,2.0,1.85,Hartlepool United,Rochdale,hartlepool_united,rochdale
+2021-12-11,E3,England-L2,2122,Bristol Rvs,Rochdale,4.0,2.0,H,1.0,0.0,H,2.7,3.3,2.62,2.77,3.3,2.63,2.68,3.3,2.57,2.0,1.85,1.94,1.83,0.0,1.95,1.9,Bristol Rvs,Rochdale,bristol_rvs,rochdale
+2022-01-15,E3,England-L2,2122,Tranmere,Rochdale,2.0,0.0,H,2.0,0.0,H,2.0,3.6,3.6,2.08,3.68,3.43,2.06,3.43,3.44,2.07,1.72,2.05,1.74,-0.5,2.05,1.75,Tranmere Rovers,Rochdale,tranmere_rovers,rochdale
+2022-01-29,E3,England-L2,2122,Oldham,Rochdale,0.0,0.0,D,0.0,0.0,D,3.0,3.4,2.37,3.13,3.57,2.25,3.01,3.45,2.24,1.98,1.88,1.83,1.94,0.25,1.83,2.02,Oldham,Rochdale,oldham,rochdale
+2022-02-01,E3,England-L2,2122,Colchester,Rochdale,1.0,1.0,D,0.0,0.0,D,2.87,3.3,2.5,3.16,3.22,2.46,2.93,3.2,2.41,2.05,1.75,2.03,1.75,0.25,1.7,2.1,Colchester United,Rochdale,colchester_united,rochdale
+2022-02-08,E3,England-L2,2122,Forest Green,Rochdale,2.0,1.0,H,0.0,0.0,D,1.61,3.75,5.75,1.65,3.93,5.72,1.62,3.84,5.3,1.9,1.95,1.87,1.9,-0.75,1.77,2.02,Forest Green Rovers,Rochdale,forest_green_rovers,rochdale
+2022-02-19,E3,England-L2,2122,Scunthorpe,Rochdale,1.0,2.0,A,1.0,0.0,H,3.5,3.2,2.25,3.62,3.24,2.17,3.39,3.23,2.17,2.2,1.65,2.14,1.67,0.25,1.98,1.88,Scunthorpe United,Rochdale,scunthorpe_united,rochdale
+2022-03-01,E3,England-L2,2122,Carlisle,Rochdale,2.0,0.0,H,1.0,0.0,H,3.2,3.3,2.3,3.19,3.25,2.43,3.07,3.18,2.36,2.07,1.72,2.18,1.65,0.25,1.8,2.05,Carlisle United,Rochdale,carlisle_united,rochdale
+2022-03-05,E3,England-L2,2122,Sutton,Rochdale,3.0,0.0,H,2.0,0.0,H,2.37,3.3,3.1,2.3,3.35,3.22,2.27,3.31,3.1,2.0,1.85,1.96,1.8,-0.25,2.0,1.85,Sutton United,Rochdale,sutton_united,rochdale
+2022-03-19,E3,England-L2,2122,Leyton Orient,Rochdale,3.0,1.0,H,1.0,1.0,D,2.37,3.25,3.2,2.41,3.19,3.16,2.32,3.21,3.07,2.2,1.65,2.15,1.67,-0.25,2.0,1.85,Leyton Orient,Rochdale,leyton_orient,rochdale
+2022-03-26,E3,England-L2,2122,Crawley Town,Rochdale,1.0,0.0,H,1.0,0.0,H,2.4,3.25,3.0,2.51,3.35,2.98,2.41,3.29,2.87,2.0,1.85,1.95,1.82,-0.25,2.05,1.8,Crawley Town,Rochdale,crawley_town,rochdale
+2022-04-15,E3,England-L2,2122,Stevenage,Rochdale,1.0,0.0,H,0.0,0.0,D,2.4,3.2,3.1,2.47,3.09,3.17,2.4,3.07,3.08,2.2,1.65,2.25,1.61,-0.25,2.02,1.83,Stevenage,Rochdale,stevenage,rochdale
+2022-04-23,E3,England-L2,2122,Exeter,Rochdale,2.0,0.0,H,1.0,0.0,H,1.7,3.8,5.0,1.63,3.92,5.52,1.65,3.77,5.13,2.02,1.83,1.97,1.8,-0.75,1.85,2.0,Exeter City,Rochdale,exeter_city,rochdale
+2022-05-07,E3,England-L2,2122,Newport County,Rochdale,0.0,2.0,A,0.0,1.0,A,1.95,3.6,3.75,1.92,3.7,3.93,1.92,3.63,3.73,1.72,2.07,1.72,2.06,-0.5,1.95,1.9,Newport County,Rochdale,newport_county,rochdale
+2022-08-06,E3,England-L2,2223,Gillingham,Rochdale,1.0,0.0,H,1.0,0.0,H,2.25,3.3,3.3,2.3,3.34,3.34,2.22,3.28,3.22,2.02,1.83,2.06,1.72,-0.25,1.93,1.93,Gillingham,Rochdale,gillingham,rochdale
+2022-08-16,E3,England-L2,2223,Stevenage,Rochdale,1.0,0.0,H,1.0,0.0,H,1.85,3.6,4.33,1.9,3.73,4.14,1.9,3.51,3.97,2.07,1.72,2.03,1.75,-0.5,1.9,1.95,Stevenage,Rochdale,stevenage,rochdale
+2022-08-20,E3,England-L2,2223,Swindon,Rochdale,3.0,0.0,H,1.0,0.0,H,1.95,3.6,3.8,1.99,3.53,4.02,1.96,3.47,3.72,1.93,1.93,1.89,1.86,-0.5,1.95,1.9,Swindon Town,Rochdale,swindon_town,rochdale
+2022-09-03,E3,England-L2,2223,Carlisle,Rochdale,3.0,3.0,D,1.0,1.0,D,2.2,3.25,3.5,2.19,3.34,3.6,2.15,3.24,3.4,2.1,1.7,2.12,1.68,-0.25,1.88,1.98,Carlisle United,Rochdale,carlisle_united,rochdale
+2022-09-17,E3,England-L2,2223,Northampton,Rochdale,3.0,0.0,H,1.0,0.0,H,1.8,3.5,4.75,1.79,3.62,4.98,1.79,3.49,4.51,2.1,1.7,2.08,1.7,-0.75,2.0,1.85,Northampton Town,Rochdale,northampton_town,rochdale
+2022-09-24,E3,England-L2,2223,Colchester,Rochdale,0.0,1.0,A,0.0,1.0,A,2.2,3.5,3.2,2.24,3.44,3.37,2.2,3.35,3.18,2.1,1.7,2.06,1.72,-0.25,1.95,1.9,Colchester United,Rochdale,colchester_united,rochdale
+2022-10-08,E3,England-L2,2223,Newport County,Rochdale,0.0,1.0,A,0.0,1.0,A,2.0,3.5,3.8,2.06,3.49,3.8,2.03,3.35,3.64,2.1,1.7,2.08,1.71,-0.25,1.7,2.1,Newport County,Rochdale,newport_county,rochdale
+2022-10-25,E3,England-L2,2223,Tranmere,Rochdale,1.0,1.0,D,1.0,1.0,D,1.8,3.5,5.0,1.78,3.53,5.27,1.78,3.46,4.68,2.15,1.66,2.12,1.68,-0.5,1.75,2.05,Tranmere Rovers,Rochdale,tranmere_rovers,rochdale
+2022-10-29,E3,England-L2,2223,Walsall,Rochdale,1.0,0.0,H,1.0,0.0,H,2.0,3.5,3.75,1.97,3.4,4.27,1.97,3.3,3.8,2.25,1.61,2.24,1.6,-0.5,1.98,1.88,Walsall,Rochdale,walsall,rochdale
+2022-11-19,E3,England-L2,2223,Sutton,Rochdale,1.0,0.0,H,1.0,0.0,H,2.15,3.3,3.5,2.08,3.45,3.79,2.07,3.34,3.49,2.07,1.72,2.07,1.7,-0.25,1.8,2.05,Sutton United,Rochdale,sutton_united,rochdale
+2022-12-29,E3,England-L2,2223,Doncaster,Rochdale,4.0,3.0,H,3.0,2.0,H,2.1,3.3,3.8,2.06,3.38,3.97,2.05,3.28,3.66,2.15,1.67,2.12,1.68,-0.5,2.05,1.75,Doncaster Rovers,Rochdale,doncaster_rovers,rochdale
+2023-01-02,E3,England-L2,2223,Barrow,Rochdale,0.0,0.0,D,0.0,0.0,D,1.85,3.5,4.33,1.86,3.49,4.49,1.87,3.38,4.17,2.15,1.67,2.17,1.63,-0.5,1.88,1.98,Barrow,Rochdale,barrow,rochdale
+2023-01-10,E3,England-L2,2223,Bradford,Rochdale,1.0,2.0,A,1.0,0.0,H,1.8,3.75,4.33,1.81,3.72,4.64,1.81,3.58,4.31,2.02,1.83,1.98,1.8,-0.5,1.77,2.02,Bradford City,Rochdale,bradford_city,rochdale
+2023-01-21,E3,England-L2,2223,Hartlepool,Rochdale,2.0,0.0,H,0.0,0.0,D,2.4,3.2,3.1,2.45,3.31,2.99,2.4,3.24,2.92,2.1,1.7,2.08,1.7,-0.25,2.05,1.8,Hartlepool United,Rochdale,hartlepool_united,rochdale
+2023-02-04,E3,England-L2,2223,Salford,Rochdale,2.0,1.0,H,1.0,0.0,H,1.91,3.4,4.33,1.9,3.62,4.29,1.9,3.47,3.95,2.0,1.8,1.97,1.8,-0.5,1.9,1.95,Salford City,Rochdale,salford_city,rochdale
+2023-02-14,E3,England-L2,2223,Leyton Orient,Rochdale,2.0,1.0,H,2.0,0.0,H,1.62,3.6,6.5,1.66,3.74,5.99,1.63,3.65,5.59,2.15,1.67,2.14,1.67,-0.75,1.8,2.0,Leyton Orient,Rochdale,leyton_orient,rochdale
+2023-02-25,E3,England-L2,2223,Crewe,Rochdale,1.0,1.0,D,0.0,0.0,D,2.45,3.1,3.1,2.61,3.14,3.01,2.47,3.16,2.89,2.25,1.62,2.24,1.62,0.0,1.75,2.05,Crewe Alexandra,Rochdale,crewe_alexandra,rochdale
+2023-03-11,E3,England-L2,2223,Grimsby,Rochdale,1.0,0.0,H,0.0,0.0,D,1.95,3.2,4.33,1.93,3.51,4.28,1.91,3.35,4.07,2.25,1.62,2.23,1.62,-0.5,1.93,1.93,Grimsby Town,Rochdale,grimsby_town,rochdale
+2023-03-25,E3,England-L2,2223,Crawley Town,Rochdale,2.0,0.0,H,2.0,0.0,H,2.15,3.4,3.4,2.23,3.33,3.5,2.18,3.31,3.28,2.02,1.83,2.0,1.77,-0.25,1.88,1.98,Crawley Town,Rochdale,crawley_town,rochdale
+2023-04-01,E3,England-L2,2223,AFC Wimbledon,Rochdale,0.0,1.0,A,0.0,0.0,D,2.2,3.25,3.4,2.23,3.41,3.42,2.17,3.29,3.3,2.15,1.67,2.15,1.66,-0.25,1.9,1.95,AFC Wimbledon,Rochdale,afc_wimbledon,rochdale
+2023-04-10,E3,England-L2,2223,Mansfield,Rochdale,1.0,1.0,D,1.0,1.0,D,1.6,3.75,6.0,1.65,4.02,5.52,1.61,3.87,5.37,1.95,1.9,1.91,1.84,-0.75,1.75,2.05,Mansfield Town,Rochdale,mansfield_town,rochdale
+2023-04-22,E3,England-L2,2223,Stockport,Rochdale,1.0,0.0,H,1.0,0.0,H,1.36,4.75,9.0,1.34,5.09,10.56,1.33,4.82,9.51,1.9,1.95,1.88,1.87,-1.25,1.85,2.0,Stockport County,Rochdale,stockport_county,rochdale
+2023-05-08,E3,England-L2,2223,Harrogate,Rochdale,1.0,1.0,D,0.0,1.0,A,1.95,3.6,3.8,1.94,3.74,3.63,1.96,3.68,3.54,1.75,2.05,1.68,2.13,-0.5,2.0,1.85,Harrogate Town,Rochdale,harrogate_town,rochdale
+2023-08-12,EC,England-Conference,2324,Oxford City,Rochdale,0.0,1.0,A,0.0,0.0,D,3.3,3.4,2.15,3.15,3.64,2.21,3.02,3.47,2.16,1.78,2.03,1.7,2.06,0.25,1.95,1.85,Oxford City,Rochdale,oxford_city,rochdale
+2023-08-15,EC,England-Conference,2324,Woking,Rochdale,3.0,2.0,H,0.0,1.0,A,1.95,3.6,3.3,2.04,3.54,3.67,1.98,3.43,3.48,1.98,1.83,1.92,1.8,-0.5,2.0,1.8,Woking,Rochdale,woking,rochdale
+2023-08-28,EC,England-Conference,2324,York,Rochdale,1.0,3.0,A,1.0,1.0,D,2.63,3.4,2.6,2.67,3.41,2.66,2.58,3.31,2.55,1.88,1.93,1.86,1.87,0.0,1.9,1.9,York,Rochdale,york,rochdale
+2023-09-09,EC,England-Conference,2324,Kidderminster,Rochdale,1.0,1.0,D,1.0,0.0,H,2.4,3.0,2.8,2.59,3.14,2.94,2.44,3.09,2.84,2.1,1.7,2.1,1.68,0.0,1.73,2.08,Kidderminster,Rochdale,kidderminster,rochdale
+2023-09-19,EC,England-Conference,2324,Boreham Wood,Rochdale,1.0,1.0,D,0.0,0.0,D,2.55,3.2,2.8,2.65,3.18,2.84,2.51,3.18,2.71,2.08,1.73,2.04,1.72,0.0,1.8,2.0,Boreham Wood,Rochdale,boreham_wood,rochdale
+2023-09-23,EC,England-Conference,2324,Dorking,Rochdale,1.0,2.0,A,0.0,0.0,D,3.8,3.6,1.91,3.81,3.82,1.88,3.62,3.7,1.87,1.67,2.15,1.63,2.17,0.5,1.93,1.88,Dorking,Rochdale,dorking,rochdale
+2023-10-03,EC,England-Conference,2324,Solihull,Rochdale,2.0,0.0,H,0.0,0.0,D,2.3,3.5,2.7,2.46,3.44,2.89,2.35,3.36,2.74,1.75,2.05,1.73,2.0,0.0,1.75,2.05,Solihull,Rochdale,solihull,rochdale
+2023-10-07,EC,England-Conference,2324,Maidenhead,Rochdale,2.0,2.0,D,0.0,1.0,A,3.25,3.25,2.1,3.37,3.43,2.19,3.24,3.26,2.1,2.08,1.73,2.03,1.71,0.25,1.95,1.85,Maidenhead,Rochdale,maidenhead,rochdale
+2023-10-28,EC,England-Conference,2324,Hartlepool,Rochdale,2.0,3.0,A,1.0,3.0,A,2.2,3.6,3.0,2.23,4.01,2.88,2.18,3.64,2.85,1.65,2.2,1.63,2.16,-0.25,1.93,1.88,Hartlepool United,Rochdale,hartlepool_united,rochdale
+2023-11-11,EC,England-Conference,2324,Wealdstone,Rochdale,3.0,2.0,H,1.0,1.0,D,2.75,3.5,2.5,2.74,3.54,2.48,2.62,3.44,2.4,1.65,2.2,1.63,2.17,0.0,2.0,1.8,Wealdstone,Rochdale,wealdstone,rochdale
+2023-11-25,EC,England-Conference,2324,Dag and Red,Rochdale,1.0,2.0,A,0.0,1.0,A,2.5,3.4,2.5,2.7,3.66,2.49,2.56,3.42,2.46,1.83,1.98,1.79,1.94,0.0,1.9,1.9,Dag and Red,Rochdale,dag_and_red,rochdale
+2023-12-02,EC,England-Conference,2324,Bromley,Rochdale,1.0,0.0,H,0.0,0.0,D,2.38,3.4,2.63,2.44,3.52,2.85,2.34,3.42,2.74,1.75,2.05,1.73,2.0,-0.25,2.08,1.73,Bromley,Rochdale,bromley,rochdale
+2023-12-23,EC,England-Conference,2324,Halifax,Rochdale,2.0,2.0,D,2.0,1.0,H,2.3,3.4,2.75,2.51,3.19,3.0,2.34,3.18,2.88,2.08,1.73,2.06,1.7,-0.25,2.0,1.8,Halifax,Rochdale,halifax,rochdale
+2024-01-01,EC,England-Conference,2324,Fylde,Rochdale,2.0,0.0,H,0.0,0.0,D,2.45,3.6,2.63,2.33,4.01,2.73,2.3,3.6,2.68,1.62,2.25,1.6,2.23,0.0,1.83,1.98,Fylde,Rochdale,fylde,rochdale
+2024-01-27,EC,England-Conference,2324,Aldershot,Rochdale,3.0,1.0,H,2.0,1.0,H,2.1,3.5,3.0,2.23,3.71,3.06,2.1,3.61,2.98,1.6,2.3,1.58,2.29,-0.25,1.9,1.9,Aldershot,Rochdale,aldershot,rochdale
+2024-02-10,EC,England-Conference,2324,Altrincham,Rochdale,3.0,0.0,H,1.0,0.0,H,1.95,3.6,3.4,2.06,3.62,3.51,1.96,3.56,3.37,1.7,2.1,1.67,2.1,-0.5,1.98,1.83,Altrincham,Rochdale,altrincham,rochdale
+2024-02-24,EC,England-Conference,2324,Chesterfield,Rochdale,2.0,2.0,D,0.0,0.0,D,1.2,6.0,12.0,1.23,6.26,12.13,1.2,6.15,11.2,1.4,2.88,1.39,2.84,-2.0,2.0,1.8,Chesterfield,Rochdale,chesterfield,rochdale
+2024-03-02,EC,England-Conference,2324,Ebbsfleet,Rochdale,2.0,1.0,H,1.0,1.0,D,2.0,3.6,3.0,2.09,3.76,3.32,2.03,3.64,3.13,1.6,2.3,1.6,2.25,-0.25,1.83,1.98,Ebbsfleet,Rochdale,ebbsfleet,rochdale
+2024-03-05,EC,England-Conference,2324,Barnet,Rochdale,2.0,0.0,H,1.0,0.0,H,1.55,3.6,5.25,1.59,4.45,5.08,1.57,4.13,4.86,1.6,2.3,1.54,2.37,-1.0,1.98,1.83,Barnet,Rochdale,barnet,rochdale
+2024-03-16,EC,England-Conference,2324,Eastleigh,Rochdale,1.0,4.0,A,1.0,2.0,A,2.38,3.6,2.55,2.6,3.69,2.57,2.47,3.54,2.5,1.6,2.3,1.58,2.28,0.0,1.88,1.93,Eastleigh,Rochdale,eastleigh,rochdale
+2024-03-29,EC,England-Conference,2324,Gateshead,Rochdale,1.0,0.0,H,1.0,0.0,H,1.62,4.2,4.75,1.65,4.27,4.66,1.62,4.13,4.49,1.5,2.5,1.48,2.52,-0.75,1.78,2.03,Gateshead,Rochdale,gateshead,rochdale
+2024-04-06,EC,England-Conference,2324,Oldham,Rochdale,1.0,1.0,D,1.0,1.0,D,2.0,3.4,3.3,2.1,3.4,3.55,2.03,3.33,3.4,2.0,1.8,1.98,1.77,-0.25,1.78,2.03,Oldham,Rochdale,oldham,rochdale
+2024-04-20,EC,England-Conference,2324,Southend,Rochdale,1.0,2.0,A,1.0,1.0,D,1.57,4.0,4.33,1.58,4.1,5.61,1.58,3.94,5.05,1.73,2.08,1.73,2.03,-1.0,2.0,1.8,Southend United,Rochdale,southend_united,rochdale
+2024-08-10,EC,England-Conference,2425,Boston Utd,Rochdale,0.0,3.0,A,0.0,2.0,A,3.0,3.4,2.3,2.91,3.36,2.36,2.88,3.34,2.28,1.75,2.05,1.77,1.97,0.25,1.83,1.98,Boston Utd,Rochdale,boston_utd,rochdale
+2024-08-20,EC,England-Conference,2425,York,Rochdale,1.0,0.0,H,1.0,0.0,H,2.5,3.2,2.75,2.52,3.29,2.87,2.43,3.23,2.74,2.03,1.78,1.98,1.76,0.0,1.8,2.0,York,Rochdale,york,rochdale
+2024-08-26,EC,England-Conference,2425,Yeovil,Rochdale,0.0,1.0,A,0.0,0.0,D,2.2,3.2,3.1,2.35,3.3,3.12,2.29,3.2,2.96,2.08,1.73,2.04,1.73,-0.25,1.98,1.83,Yeovil Town,Rochdale,yeovil_town,rochdale
+2024-09-07,EC,England-Conference,2425,Aldershot,Rochdale,0.0,2.0,A,0.0,2.0,A,2.38,3.5,2.6,2.4,3.77,2.6,2.34,3.62,2.6,1.67,2.15,1.65,2.14,-0.25,2.1,1.7,Aldershot,Rochdale,aldershot,rochdale
+2024-09-21,EC,England-Conference,2425,Eastleigh,Rochdale,4.0,2.0,H,2.0,1.0,H,2.7,3.6,2.25,2.77,3.46,2.41,2.71,3.47,2.33,1.73,2.08,1.71,2.06,0.0,2.05,1.75,Eastleigh,Rochdale,eastleigh,rochdale
+2024-09-24,EC,England-Conference,2425,Hartlepool,Rochdale,0.0,3.0,A,0.0,1.0,A,2.75,3.3,2.35,2.86,3.48,2.42,2.78,3.31,2.36,2.0,1.8,1.96,1.79,0.25,1.75,2.05,Hartlepool United,Rochdale,hartlepool_united,rochdale
+2024-10-05,EC,England-Conference,2425,Ebbsfleet,Rochdale,2.0,2.0,D,0.0,2.0,A,3.4,3.6,1.9,3.66,3.65,1.92,3.54,3.57,1.91,1.73,2.08,1.72,2.03,0.5,1.88,1.93,Ebbsfleet,Rochdale,ebbsfleet,rochdale
+2024-10-26,EC,England-Conference,2425,Barnet,Rochdale,2.0,1.0,H,2.0,0.0,H,1.7,3.9,4.75,1.68,3.96,4.45,1.67,3.89,4.35,1.67,2.15,1.64,2.16,-0.75,1.85,1.95,Barnet,Rochdale,barnet,rochdale
+2024-11-16,EC,England-Conference,2425,Wealdstone,Rochdale,2.0,0.0,H,0.0,0.0,D,3.1,3.75,2.05,3.28,3.48,2.15,3.21,3.44,2.07,1.8,2.0,1.79,1.95,0.25,1.98,1.83,Wealdstone,Rochdale,wealdstone,rochdale
+2024-11-26,EC,England-Conference,2425,Gateshead,Rochdale,0.0,1.0,A,0.0,0.0,D,2.2,3.3,3.0,2.26,3.43,3.17,2.24,3.36,2.96,1.8,2.0,1.76,1.99,-0.25,1.95,1.85,Gateshead,Rochdale,gateshead,rochdale
+2024-12-14,EC,England-Conference,2425,Dag and Red,Rochdale,1.0,0.0,H,0.0,0.0,D,2.7,3.7,2.35,2.68,3.39,2.52,2.66,3.44,2.4,1.75,2.05,1.75,2.0,0.0,2.03,1.78,Dag and Red,Rochdale,dag_and_red,rochdale
+2024-12-26,EC,England-Conference,2425,Fylde,Rochdale,1.0,3.0,A,1.0,1.0,D,3.6,3.6,1.85,3.59,3.61,1.95,3.49,3.57,1.92,1.67,2.15,1.67,2.09,0.5,1.9,1.9,Fylde,Rochdale,fylde,rochdale
+2025-01-18,EC,England-Conference,2425,Forest Green,Rochdale,1.0,0.0,H,0.0,0.0,D,1.9,3.4,3.6,1.98,3.38,3.73,1.94,3.39,3.63,2.0,1.8,1.96,1.78,-0.5,1.98,1.83,Forest Green Rovers,Rochdale,forest_green_rovers,rochdale
+2025-02-15,EC,England-Conference,2425,Southend,Rochdale,1.0,1.0,D,0.0,1.0,A,2.4,3.4,2.8,2.52,3.14,2.86,2.43,3.13,2.78,2.1,1.7,2.06,1.69,-0.25,2.08,1.73,Southend United,Rochdale,southend_united,rochdale
+2025-02-19,EC,England-Conference,2425,Halifax,Rochdale,0.0,0.0,D,0.0,0.0,D,2.55,3.2,2.45,2.74,3.19,2.58,2.63,3.16,2.52,2.08,1.73,2.03,1.71,0.0,1.95,1.85,Halifax,Rochdale,halifax,rochdale
+2025-02-25,EC,England-Conference,2425,Tamworth,Rochdale,1.0,1.0,D,1.0,0.0,H,2.88,3.5,2.25,3.05,3.37,2.36,2.93,3.29,2.27,2.0,1.8,1.98,1.77,0.25,1.8,2.0,Tamworth,Rochdale,tamworth,rochdale
+2025-03-15,EC,England-Conference,2425,Oldham,Rochdale,1.0,1.0,D,0.0,1.0,A,2.2,3.2,3.25,2.28,3.19,3.18,2.2,3.18,3.18,2.15,1.67,2.1,1.67,-0.25,1.9,1.9,Oldham,Rochdale,oldham,rochdale
+2025-03-22,EC,England-Conference,2425,Maidenhead,Rochdale,1.0,1.0,D,0.0,1.0,A,3.9,3.4,1.9,4.0,3.57,1.85,3.84,3.48,1.87,1.9,1.9,1.86,1.87,0.5,1.9,1.9,Maidenhead,Rochdale,maidenhead,rochdale
+2025-04-01,EC,England-Conference,2425,Woking,Rochdale,1.0,1.0,D,0.0,1.0,A,2.8,3.4,2.35,2.93,3.23,2.51,2.85,3.18,2.39,2.15,1.67,2.15,1.65,0.0,2.1,1.7,Woking,Rochdale,woking,rochdale
+2025-04-08,EC,England-Conference,2425,Sutton,Rochdale,1.0,0.0,H,0.0,0.0,D,2.63,3.4,2.4,2.84,3.26,2.56,2.7,3.27,2.45,1.98,1.83,1.92,1.83,0.0,2.0,1.8,Sutton United,Rochdale,sutton_united,rochdale
+2025-04-18,EC,England-Conference,2425,Altrincham,Rochdale,1.0,2.0,A,0.0,1.0,A,2.7,3.5,2.3,2.89,3.32,2.39,2.79,3.33,2.32,1.88,1.93,1.83,1.9,0.25,1.78,2.03,Altrincham,Rochdale,altrincham,rochdale
+2025-04-29,EC,England-Conference,2425,Solihull,Rochdale,0.0,1.0,A,0.0,0.0,D,3.0,3.3,2.15,2.75,3.78,2.25,2.91,3.42,2.22,1.85,1.95,1.83,1.91,0.25,1.88,1.93,Solihull,Rochdale,solihull,rochdale
+2025-05-05,EC,England-Conference,2425,Braintree Town,Rochdale,2.0,0.0,H,1.0,0.0,H,3.3,3.4,2.0,3.74,3.22,2.07,3.46,3.3,2.02,2.03,1.78,1.99,1.75,0.25,2.03,1.78,Braintree Town,Rochdale,braintree_town,rochdale
+2025-08-09,EC,England-Conference,2526,Boreham Wood,Rochdale,0.0,2.0,A,0.0,0.0,D,2.88,3.4,2.38,3.07,3.19,2.35,2.87,3.19,2.29,2.05,1.75,1.99,1.72,0.25,1.8,2.0,Boreham Wood,Rochdale,boreham_wood,rochdale
+2025-08-23,EC,England-Conference,2526,Brackley Town,Rochdale,2.0,1.0,H,1.0,0.0,H,3.1,3.6,2.05,3.11,3.67,2.12,3.07,3.38,2.07,2.05,1.75,1.94,1.76,0.25,1.95,1.85,Brackley Town,Rochdale,brackley_town,rochdale
+2025-08-30,EC,England-Conference,2526,Wealdstone,Rochdale,1.0,3.0,A,0.0,2.0,A,3.6,3.3,1.95,3.45,3.31,2.1,3.25,3.32,2.02,1.9,1.9,1.81,1.87,0.25,2.05,1.75,Wealdstone,Rochdale,wealdstone,rochdale
+2025-09-13,EC,England-Conference,2526,Truro,Rochdale,0.0,1.0,A,0.0,1.0,A,4.1,3.75,1.73,4.41,3.72,1.74,4.03,3.55,1.75,1.83,1.98,1.82,1.88,0.75,1.83,1.98,Truro,Rochdale,truro,rochdale
+2025-09-27,EC,England-Conference,2526,Carlisle,Rochdale,0.0,2.0,A,0.0,1.0,A,2.0,3.3,3.4,2.05,3.53,3.38,2.01,3.39,3.23,1.8,2.0,1.74,1.98,-0.5,2.0,1.8,Carlisle United,Rochdale,carlisle_united,rochdale
+2025-10-04,EC,England-Conference,2526,Forest Green,Rochdale,0.0,1.0,A,0.0,1.0,A,1.95,3.3,3.5,2.09,3.31,3.5,1.99,3.3,3.38,1.98,1.83,1.88,1.82,-0.5,2.03,1.78,Forest Green Rovers,Rochdale,forest_green_rovers,rochdale
+2025-10-25,EC,England-Conference,2526,Woking,Rochdale,0.0,0.0,D,0.0,0.0,D,3.9,3.5,1.8,3.74,3.89,1.83,3.85,3.56,1.79,1.8,2.0,1.75,1.96,0.5,1.98,1.83,Woking,Rochdale,woking,rochdale
+2025-11-08,EC,England-Conference,2526,Boston Utd,Rochdale,1.0,3.0,A,0.0,1.0,A,3.9,3.8,1.75,,,,3.98,3.67,1.74,1.75,2.05,1.73,1.98,0.75,1.83,1.98,Boston Utd,Rochdale,boston_utd,rochdale
+2025-11-11,EC,England-Conference,2526,York,Rochdale,4.0,1.0,H,1.0,1.0,D,1.91,3.6,3.5,,,,1.93,3.59,3.35,1.65,2.2,1.63,2.16,-0.5,1.98,1.83,York,Rochdale,york,rochdale
+2025-11-22,EC,England-Conference,2526,Tamworth,Rochdale,1.0,2.0,A,0.0,1.0,A,4.33,3.6,1.7,,,,4.07,3.62,1.74,1.75,2.05,1.76,1.96,0.75,1.85,1.95,Tamworth,Rochdale,tamworth,rochdale
+2025-12-19,EC,England-Conference,2526,Altrincham,Rochdale,0.0,3.0,A,0.0,2.0,A,3.8,3.6,1.8,,,,3.7,3.54,1.83,1.73,2.08,1.69,2.04,0.5,1.98,1.83,Altrincham,Rochdale,altrincham,rochdale
+2025-12-26,EC,England-Conference,2526,Morecambe,Rochdale,1.0,2.0,A,0.0,1.0,A,5.75,4.1,1.45,,,,5.55,4.19,1.46,1.57,2.35,1.55,2.28,1.0,2.05,1.75,Morecambe,Rochdale,morecambe,rochdale
+2026-01-17,EC,England-Conference,2526,Gateshead,Rochdale,0.0,2.0,A,0.0,1.0,A,7.5,4.75,1.33,,,,6.84,4.77,1.35,1.48,2.6,1.46,2.51,1.5,1.85,1.95,Gateshead,Rochdale,gateshead,rochdale
+2026-01-21,EC,England-Conference,2526,Solihull,Rochdale,0.0,1.0,A,0.0,0.0,D,3.6,3.5,1.91,,,,3.43,3.5,1.92,1.7,2.1,1.68,2.05,0.5,1.85,1.95,Solihull,Rochdale,solihull,rochdale
+2026-02-14,EC,England-Conference,2526,Yeovil,Rochdale,1.0,1.0,D,1.0,1.0,D,5.25,3.7,1.6,,,,4.94,3.68,1.61,1.95,1.85,1.88,1.8,0.75,2.03,1.78,Yeovil Town,Rochdale,yeovil_town,rochdale
+2026-02-24,EC,England-Conference,2526,Halifax,Rochdale,2.0,2.0,D,0.0,1.0,A,4.75,3.4,1.7,,,,4.44,3.58,1.68,1.95,1.85,1.85,1.84,0.75,1.85,1.95,Halifax,Rochdale,halifax,rochdale
+2026-02-28,EC,England-Conference,2526,Aldershot,Rochdale,0.0,2.0,A,0.0,1.0,A,4.0,3.6,1.75,,,,3.93,3.62,1.75,1.67,2.15,1.65,2.09,0.75,1.8,2.0,Aldershot,Rochdale,aldershot,rochdale
+2026-03-14,EC,England-Conference,2526,Eastleigh,Rochdale,1.0,3.0,A,0.0,1.0,A,6.5,4.0,1.45,,,,6.24,4.0,1.45,1.88,1.93,1.82,1.88,1.0,2.03,1.78,Eastleigh,Rochdale,eastleigh,rochdale
+2026-03-17,EC,England-Conference,2526,Southend,Rochdale,3.0,2.0,H,3.0,1.0,H,2.6,3.1,2.6,,,,2.6,3.08,2.54,2.15,1.67,2.09,1.65,0.0,1.9,1.9,Southend United,Rochdale,southend_united,rochdale
+2026-03-25,EC,England-Conference,2526,Scunthorpe,Rochdale,2.0,2.0,D,0.0,1.0,A,3.4,3.4,2.0,,,,3.33,3.42,1.97,1.8,2.0,1.77,1.94,0.5,1.8,2.0,Scunthorpe United,Rochdale,scunthorpe_united,rochdale
+2026-03-28,EC,England-Conference,2526,Sutton,Rochdale,1.0,2.0,A,0.0,0.0,D,4.1,3.6,1.75,,,,3.88,3.58,1.77,1.73,2.08,1.72,1.99,0.5,2.0,1.8,Sutton United,Rochdale,sutton_united,rochdale
+2026-04-06,EC,England-Conference,2526,Hartlepool,Rochdale,0.0,0.0,D,0.0,0.0,D,3.9,3.4,1.83,,,,3.86,3.47,1.81,1.85,1.95,1.83,1.89,0.5,1.95,1.85,Hartlepool United,Rochdale,hartlepool_united,rochdale
+2026-04-18,EC,England-Conference,2526,Braintree Town,Rochdale,1.0,2.0,A,0.0,1.0,A,9.5,5.0,1.27,,,,8.92,5.16,1.26,1.57,2.35,1.53,2.35,1.5,2.0,1.8,Braintree Town,Rochdale,braintree_town,rochdale
+2026-08-15,E3,England-L2,2627,Newport County,Rochdale,3.0,0.0,H,2.0,0.0,H,2.85,3.4,2.25,,,,3.01,3.32,2.27,2.05,1.8,1.97,1.75,0.25,1.85,2.0,Newport County,Rochdale,newport_county,rochdale
+2026-08-29,E3,England-L2,2627,Colchester,Rochdale,1.0,0.0,H,0.0,0.0,D,2.2,3.3,3.0,,,,2.23,3.36,3.05,2.0,1.85,1.93,1.8,-0.25,2.0,1.85,Colchester United,Rochdale,colchester_united,rochdale
+2026-09-12,E3,England-L2,2627,Walsall,Rochdale,0.0,0.0,D,0.0,0.0,D,1.66,3.8,4.5,,,,1.73,3.77,4.37,1.8,2.0,1.73,2.01,-0.75,1.93,1.93,Walsall,Rochdale,walsall,rochdale
+2026-09-26,E3,England-L2,2627,Fleetwood Town,Rochdale,1.0,2.0,A,1.0,2.0,A,1.81,3.6,3.9,,,,1.88,3.58,3.87,1.95,1.9,1.86,1.85,-0.5,1.88,1.98,Fleetwood Town,Rochdale,fleetwood_town,rochdale
+2026-10-10,E3,England-L2,2627,Tranmere,Rochdale,1.0,1.0,D,1.0,0.0,H,1.91,3.4,3.8,,,,1.98,3.46,3.6,1.98,1.88,1.88,1.84,-0.5,1.98,1.88,Tranmere Rovers,Rochdale,tranmere_rovers,rochdale
+2026-10-17,E3,England-L2,2627,Crewe,Rochdale,3.0,2.0,H,2.0,0.0,H,1.79,3.75,4.0,,,,1.84,3.64,3.92,1.88,1.98,1.8,1.91,-0.5,1.85,2.0,Crewe Alexandra,Rochdale,crewe_alexandra,rochdale

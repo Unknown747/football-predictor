@@ -1,0 +1,100 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-13,EC,England-Conference,2223,Bromley,Altrincham,0.0,0.0,D,0.0,0.0,D,1.9,3.5,4.2,1.88,3.88,3.74,1.87,3.59,3.7,1.77,2.02,1.73,2.03,-0.5,1.88,1.93,Bromley,Altrincham,bromley,altrincham
+2022-08-16,EC,England-Conference,2223,Maidenhead,Altrincham,2.0,0.0,H,1.0,0.0,H,2.62,3.4,2.55,2.66,3.58,2.57,2.55,3.39,2.55,1.85,1.95,1.82,1.92,0.0,1.93,1.88,Maidenhead,Altrincham,maidenhead,altrincham
+2022-08-27,EC,England-Conference,2223,Boreham Wood,Altrincham,1.0,1.0,D,0.0,1.0,A,1.8,3.6,4.2,1.88,3.68,4.1,1.82,3.52,4.02,2.05,1.75,1.92,1.82,-0.5,1.8,2.0,Boreham Wood,Altrincham,boreham_wood,altrincham
+2022-09-03,EC,England-Conference,2223,Solihull,Altrincham,5.0,1.0,H,2.0,1.0,H,1.5,3.8,5.5,1.57,4.33,5.44,1.54,4.06,5.33,1.72,2.07,1.69,2.07,-1.0,1.95,1.85,Solihull,Altrincham,solihull,altrincham
+2022-09-17,EC,England-Conference,2223,Dag and Red,Altrincham,4.0,1.0,H,2.0,0.0,H,1.83,3.5,3.8,1.96,3.75,3.7,1.88,3.58,3.65,1.8,2.0,1.79,1.94,-0.5,1.88,1.93,Dag and Red,Altrincham,dag_and_red,altrincham
+2022-10-01,EC,England-Conference,2223,Notts County,Altrincham,3.0,1.0,H,2.0,0.0,H,1.4,4.75,6.5,1.41,4.8,7.49,1.4,4.58,6.74,1.66,2.15,1.64,2.16,-1.25,1.9,1.9,Notts County,Altrincham,notts_county,altrincham
+2022-10-04,EC,England-Conference,2223,Gateshead,Altrincham,1.0,3.0,A,1.0,2.0,A,1.85,3.5,3.6,1.94,3.75,3.76,1.91,3.57,3.59,1.83,1.98,1.8,1.94,-0.5,1.93,1.88,Gateshead,Altrincham,gateshead,altrincham
+2022-10-22,EC,England-Conference,2223,Torquay,Altrincham,4.0,4.0,D,0.0,2.0,A,2.87,3.6,2.3,3.2,3.28,2.28,2.93,3.37,2.24,1.72,2.07,1.75,1.99,0.25,1.8,2.0,Torquay,Altrincham,torquay,altrincham
+2022-10-29,EC,England-Conference,2223,Wrexham,Altrincham,4.0,0.0,H,2.0,0.0,H,1.33,4.75,8.5,1.35,5.46,7.98,1.32,5.22,7.25,1.4,2.87,1.39,2.8,-1.5,1.95,1.85,Wrexham,Altrincham,wrexham,altrincham
+2022-11-19,EC,England-Conference,2223,Woking,Altrincham,1.0,1.0,D,0.0,0.0,D,1.61,4.0,4.5,1.6,4.32,5.18,1.58,4.1,4.81,1.6,2.3,1.61,2.21,-1.0,2.05,1.75,Woking,Altrincham,woking,altrincham
+2022-12-03,EC,England-Conference,2223,Southend,Altrincham,2.0,2.0,D,2.0,1.0,H,1.66,3.8,5.0,1.75,3.94,4.53,1.72,3.68,4.29,1.83,1.98,1.8,1.93,-0.75,1.88,1.93,Southend United,Altrincham,southend_united,altrincham
+2022-12-10,EC,England-Conference,2223,Maidstone,Altrincham,2.0,3.0,A,1.0,1.0,D,2.88,3.6,2.3,3.17,3.72,2.17,2.95,3.46,2.19,1.75,2.05,1.75,1.99,0.25,1.8,2.0,Maidstone,Altrincham,maidstone,altrincham
+2023-01-01,EC,England-Conference,2223,Halifax,Altrincham,2.0,2.0,D,0.0,1.0,A,2.45,3.3,2.55,2.56,3.22,2.92,2.43,3.21,2.76,1.98,1.83,1.93,1.8,0.0,1.8,2.0,Halifax,Altrincham,halifax,altrincham
+2023-01-24,EC,England-Conference,2223,Chesterfield,Altrincham,1.0,0.0,H,0.0,0.0,D,1.7,4.0,4.33,1.7,4.19,4.52,1.65,3.97,4.46,1.65,2.2,1.63,2.18,-0.75,1.83,1.98,Chesterfield,Altrincham,chesterfield,altrincham
+2023-02-21,EC,England-Conference,2223,Barnet,Altrincham,2.0,4.0,A,2.0,1.0,H,2.05,3.6,3.0,2.16,3.59,3.3,2.09,3.49,3.13,1.7,2.1,1.67,2.11,-0.25,1.85,1.95,Barnet,Altrincham,barnet,altrincham
+2023-02-28,EC,England-Conference,2223,Yeovil,Altrincham,1.0,1.0,D,0.0,1.0,A,3.0,3.1,2.15,3.33,3.28,2.27,3.08,3.19,2.22,2.05,1.75,2.02,1.73,0.25,1.93,1.88,Yeovil Town,Altrincham,yeovil_town,altrincham
+2023-03-04,EC,England-Conference,2223,Wealdstone,Altrincham,4.0,0.0,H,2.0,0.0,H,2.88,3.3,2.3,2.99,3.51,2.36,2.81,3.39,2.3,1.77,2.02,1.75,1.99,0.25,1.77,2.02,Wealdstone,Altrincham,wealdstone,altrincham
+2023-03-07,EC,England-Conference,2223,Scunthorpe,Altrincham,2.0,0.0,H,0.0,0.0,D,2.7,3.1,2.4,2.72,3.6,2.51,2.68,3.33,2.41,1.95,1.85,1.84,1.89,0.0,2.02,1.77,Scunthorpe United,Altrincham,scunthorpe_united,altrincham
+2023-03-14,EC,England-Conference,2223,York,Altrincham,1.0,2.0,A,0.0,1.0,A,2.25,3.2,3.2,2.35,3.33,3.13,2.25,3.21,3.04,1.98,1.83,1.95,1.8,-0.25,1.98,1.83,York,Altrincham,york,altrincham
+2023-03-18,EC,England-Conference,2223,Eastleigh,Altrincham,3.0,2.0,H,2.0,1.0,H,2.45,3.25,2.7,2.5,3.33,2.91,2.43,3.24,2.73,1.9,1.9,1.86,1.87,0.0,,,Eastleigh,Altrincham,eastleigh,altrincham
+2023-04-07,EC,England-Conference,2223,Oldham,Altrincham,2.0,2.0,D,1.0,0.0,H,2.2,3.4,3.2,2.34,3.29,3.2,2.23,3.3,3.01,1.8,2.0,1.86,1.88,-0.25,1.9,1.9,Oldham,Altrincham,oldham,altrincham
+2023-04-15,EC,England-Conference,2223,Dorking,Altrincham,3.0,2.0,H,1.0,2.0,A,2.3,3.6,2.88,2.25,3.8,2.97,2.21,3.54,2.85,1.62,2.25,1.61,2.22,-0.25,1.98,1.83,Dorking,Altrincham,dorking,altrincham
+2023-04-29,EC,England-Conference,2223,Aldershot,Altrincham,1.0,1.0,D,0.0,0.0,D,2.15,3.4,3.1,2.18,3.72,3.07,2.14,3.55,2.98,1.7,2.1,1.66,2.11,-0.25,1.88,1.93,Aldershot,Altrincham,aldershot,altrincham
+2023-08-12,EC,England-Conference,2324,Woking,Altrincham,2.0,3.0,A,2.0,2.0,D,1.57,4.0,5.75,1.59,4.37,5.24,1.56,4.02,5.06,1.8,2.0,1.75,1.99,-1.0,1.98,1.83,Woking,Altrincham,woking,altrincham
+2023-08-15,EC,England-Conference,2324,York,Altrincham,2.0,2.0,D,2.0,1.0,H,2.15,3.3,3.0,2.16,3.77,3.16,2.16,3.44,3.05,1.85,1.95,1.75,2.0,-0.25,1.95,1.85,York,Altrincham,york,altrincham
+2023-08-28,EC,England-Conference,2324,Fylde,Altrincham,3.0,3.0,D,0.0,2.0,A,2.45,3.6,2.7,2.45,3.73,2.72,2.36,3.57,2.65,1.67,2.15,1.65,2.15,0.0,1.8,2.0,Fylde,Altrincham,fylde,altrincham
+2023-09-09,EC,England-Conference,2324,Barnet,Altrincham,3.0,0.0,H,1.0,0.0,H,1.83,3.5,3.6,1.92,3.81,3.81,1.86,3.68,3.64,1.65,2.2,1.63,2.19,-0.5,1.85,1.95,Barnet,Altrincham,barnet,altrincham
+2023-09-16,EC,England-Conference,2324,Wealdstone,Altrincham,0.0,0.0,D,0.0,0.0,D,2.75,3.5,2.3,2.66,3.8,2.47,2.69,3.64,2.31,1.57,2.35,1.57,2.29,0.0,2.05,1.75,Wealdstone,Altrincham,wealdstone,altrincham
+2023-09-26,EC,England-Conference,2324,Maidenhead,Altrincham,0.0,1.0,A,0.0,0.0,D,3.0,3.4,2.1,3.11,3.52,2.28,3.03,3.41,2.17,1.9,1.9,1.85,1.89,0.25,1.88,1.93,Maidenhead,Altrincham,maidenhead,altrincham
+2023-09-30,EC,England-Conference,2324,Oxford City,Altrincham,1.0,2.0,A,0.0,1.0,A,3.0,3.6,2.1,3.21,3.86,2.11,3.07,3.64,2.07,1.7,2.1,1.66,2.12,0.25,1.98,1.83,Oxford City,Altrincham,oxford_city,altrincham
+2023-10-07,EC,England-Conference,2324,Gateshead,Altrincham,0.0,2.0,A,0.0,0.0,D,1.53,4.0,5.25,1.59,4.4,5.18,1.55,4.18,4.88,1.53,2.4,1.52,2.39,-1.0,1.95,1.85,Gateshead,Altrincham,gateshead,altrincham
+2023-10-28,EC,England-Conference,2324,Oldham,Altrincham,2.0,2.0,D,1.0,2.0,A,2.2,3.5,3.1,2.25,3.86,2.93,2.16,3.59,2.9,1.67,2.15,1.65,2.14,-0.25,1.95,1.85,Oldham,Altrincham,oldham,altrincham
+2023-11-18,EC,England-Conference,2324,Eastleigh,Altrincham,2.0,1.0,H,1.0,0.0,H,3.1,3.4,2.2,3.07,3.8,2.19,2.89,3.58,2.17,1.65,2.2,1.63,2.16,0.25,1.9,1.9,Eastleigh,Altrincham,eastleigh,altrincham
+2023-11-21,EC,England-Conference,2324,Rochdale,Altrincham,3.0,0.0,H,1.0,0.0,H,2.15,3.5,2.88,2.28,3.62,3.03,2.18,3.52,2.9,1.65,2.2,1.63,2.18,-0.25,1.95,1.85,Rochdale,Altrincham,rochdale,altrincham
+2023-12-23,EC,England-Conference,2324,Bromley,Altrincham,2.0,2.0,D,0.0,1.0,A,2.0,3.6,3.1,2.13,3.9,3.14,2.05,3.6,3.09,1.73,2.08,1.7,2.04,-0.25,1.85,1.95,Bromley,Altrincham,bromley,altrincham
+2024-01-01,EC,England-Conference,2324,Halifax,Altrincham,0.0,0.0,D,0.0,0.0,D,2.1,3.5,3.3,2.2,3.36,3.4,2.11,3.31,3.23,1.95,1.85,1.9,1.83,-0.25,1.8,2.0,Halifax,Altrincham,halifax,altrincham
+2024-01-16,EC,England-Conference,2324,Chesterfield,Altrincham,2.0,1.0,H,1.0,1.0,D,1.3,5.25,9.5,1.28,5.79,8.77,1.28,5.48,8.27,1.4,2.88,1.39,2.83,-1.5,1.78,2.03,Chesterfield,Altrincham,chesterfield,altrincham
+2024-02-03,EC,England-Conference,2324,Solihull,Altrincham,0.0,1.0,A,0.0,1.0,A,2.6,3.6,2.3,2.64,3.79,2.49,2.65,3.56,2.34,1.7,2.1,1.71,2.05,0.0,2.0,1.8,Solihull,Altrincham,solihull,altrincham
+2024-02-17,EC,England-Conference,2324,Aldershot,Altrincham,2.0,0.0,H,2.0,0.0,H,2.9,3.6,2.2,2.67,3.97,2.39,2.68,3.68,2.26,1.53,2.4,1.51,2.44,0.25,1.85,1.95,Aldershot,Altrincham,aldershot,altrincham
+2024-02-20,EC,England-Conference,2324,Hartlepool,Altrincham,3.0,2.0,H,0.0,1.0,A,2.3,3.4,2.9,2.37,3.61,2.89,2.29,3.51,2.75,1.65,2.2,1.61,2.23,-0.25,2.03,1.78,Hartlepool United,Altrincham,hartlepool_united,altrincham
+2024-02-27,EC,England-Conference,2324,Southend,Altrincham,2.0,1.0,H,2.0,1.0,H,1.75,3.5,3.8,1.86,3.72,4.14,1.82,3.53,3.93,1.85,1.95,1.85,1.89,-0.5,1.8,2.0,Southend United,Altrincham,southend_united,altrincham
+2024-03-02,EC,England-Conference,2324,Dag and Red,Altrincham,3.0,1.0,H,1.0,1.0,D,2.1,3.6,2.9,2.25,3.55,3.14,2.13,3.47,3.04,1.8,2.0,1.79,1.95,-0.25,1.9,1.9,Dag and Red,Altrincham,dag_and_red,altrincham
+2024-03-16,EC,England-Conference,2324,Boreham Wood,Altrincham,0.0,1.0,A,0.0,0.0,D,2.15,3.5,2.88,2.27,3.44,3.19,2.19,3.33,3.02,1.83,1.98,1.82,1.92,-0.25,1.95,1.85,Boreham Wood,Altrincham,boreham_wood,altrincham
+2024-03-29,EC,England-Conference,2324,Kidderminster,Altrincham,1.0,3.0,A,1.0,1.0,D,2.25,3.5,3.0,2.28,3.4,3.14,2.23,3.3,3.0,1.98,1.83,1.95,1.8,-0.25,1.95,1.85,Kidderminster,Altrincham,kidderminster,altrincham
+2024-04-06,EC,England-Conference,2324,Dorking,Altrincham,0.0,0.0,D,0.0,0.0,D,3.4,3.6,1.91,3.53,4.16,1.89,3.39,3.8,1.9,1.57,2.35,1.53,2.38,0.5,1.9,1.9,Dorking,Altrincham,dorking,altrincham
+2024-04-13,EC,England-Conference,2324,Ebbsfleet,Altrincham,0.0,2.0,A,0.0,2.0,A,2.25,3.6,2.7,2.36,3.56,2.9,2.27,3.56,2.75,1.53,2.4,1.52,2.42,-0.25,2.0,1.8,Ebbsfleet,Altrincham,ebbsfleet,altrincham
+2024-08-17,EC,England-Conference,2425,Sutton,Altrincham,5.0,0.0,H,4.0,0.0,H,2.05,3.4,3.3,2.06,3.75,3.18,2.03,3.64,3.14,1.57,2.35,1.56,2.31,-0.25,1.8,2.0,Sutton United,Altrincham,sutton_united,altrincham
+2024-08-20,EC,England-Conference,2425,Maidenhead,Altrincham,0.0,1.0,A,0.0,1.0,A,2.55,3.2,2.55,2.58,3.42,2.7,2.51,3.35,2.57,1.75,2.05,1.74,2.01,0.0,1.88,1.93,Maidenhead,Altrincham,maidenhead,altrincham
+2024-08-26,EC,England-Conference,2425,Forest Green,Altrincham,2.0,1.0,H,1.0,0.0,H,2.05,3.5,3.1,2.08,3.65,3.39,2.05,3.49,3.2,1.73,2.08,1.69,2.08,-0.25,1.8,2.0,Forest Green Rovers,Altrincham,forest_green_rovers,altrincham
+2024-09-10,EC,England-Conference,2425,Barnet,Altrincham,2.0,1.0,H,1.0,1.0,D,1.45,5.0,5.75,1.43,4.97,6.27,1.43,4.69,5.8,1.4,2.88,1.39,2.81,-1.25,1.93,1.88,Barnet,Altrincham,barnet,altrincham
+2024-09-14,EC,England-Conference,2425,Yeovil,Altrincham,0.0,0.0,D,0.0,0.0,D,2.3,3.3,3.0,2.37,3.5,2.8,2.31,3.37,2.8,1.93,1.88,1.89,1.84,-0.25,2.03,1.78,Yeovil Town,Altrincham,yeovil_town,altrincham
+2024-09-28,EC,England-Conference,2425,Tamworth,Altrincham,1.0,2.0,A,0.0,0.0,D,2.5,3.25,2.6,2.55,3.49,2.58,2.49,3.41,2.54,1.75,2.05,1.76,1.98,0.0,1.88,1.93,Tamworth,Altrincham,tamworth,altrincham
+2024-10-05,EC,England-Conference,2425,Braintree Town,Altrincham,2.0,0.0,H,1.0,0.0,H,2.75,3.4,2.3,2.86,3.2,2.48,2.78,3.25,2.37,1.9,1.9,1.88,1.85,0.0,2.05,1.75,Braintree Town,Altrincham,braintree_town,altrincham
+2024-10-26,EC,England-Conference,2425,Fylde,Altrincham,0.0,5.0,A,0.0,3.0,A,3.1,3.7,2.2,3.09,3.49,2.19,2.98,3.48,2.16,1.67,2.15,1.66,2.13,0.25,1.9,1.9,Fylde,Altrincham,fylde,altrincham
+2024-11-09,EC,England-Conference,2425,Solihull,Altrincham,3.0,3.0,D,2.0,0.0,H,2.15,3.5,3.0,2.24,3.42,3.06,2.18,3.38,2.99,1.8,2.0,1.77,1.97,-0.25,1.93,1.88,Solihull,Altrincham,solihull,altrincham
+2024-11-23,EC,England-Conference,2425,Aldershot,Altrincham,2.0,1.0,H,2.0,0.0,H,2.7,3.5,2.3,2.74,3.56,2.38,2.71,3.45,2.34,1.75,2.05,1.74,2.0,0.25,1.75,2.05,Aldershot,Altrincham,aldershot,altrincham
+2024-12-10,EC,England-Conference,2425,Wealdstone,Altrincham,3.0,3.0,D,2.0,2.0,D,2.75,3.4,2.4,2.81,3.46,2.47,2.73,3.33,2.42,1.85,1.95,1.86,1.9,0.0,2.03,1.78,Wealdstone,Altrincham,wealdstone,altrincham
+2024-12-21,EC,England-Conference,2425,Woking,Altrincham,2.0,1.0,H,0.0,0.0,D,2.7,3.4,2.45,2.75,3.56,2.37,2.73,3.35,2.37,1.95,1.85,1.91,1.82,0.0,2.0,1.8,Woking,Altrincham,woking,altrincham
+2025-01-18,EC,England-Conference,2425,Eastleigh,Altrincham,1.0,2.0,A,1.0,1.0,D,2.75,3.4,2.25,2.84,3.34,2.42,2.78,3.34,2.34,1.83,1.98,1.81,1.93,0.0,2.08,1.73,Eastleigh,Altrincham,eastleigh,altrincham
+2025-02-11,EC,England-Conference,2425,Oldham,Altrincham,2.0,2.0,D,0.0,1.0,A,2.05,3.4,3.5,2.06,3.49,3.57,2.02,3.36,3.43,1.93,1.88,1.89,1.85,-0.5,2.05,1.75,Oldham,Altrincham,oldham,altrincham
+2025-02-15,EC,England-Conference,2425,Gateshead,Altrincham,0.0,1.0,A,0.0,1.0,A,2.05,3.5,3.25,2.0,3.68,3.38,2.02,3.54,3.2,1.62,2.25,1.59,2.21,-0.25,1.8,2.0,Gateshead,Altrincham,gateshead,altrincham
+2025-02-18,EC,England-Conference,2425,Hartlepool,Altrincham,1.0,2.0,A,0.0,0.0,D,2.2,3.3,2.88,2.3,3.63,2.95,2.25,3.4,2.88,1.8,2.0,1.76,1.98,-0.25,1.95,1.85,Hartlepool United,Altrincham,hartlepool_united,altrincham
+2025-03-04,EC,England-Conference,2425,York,Altrincham,1.0,2.0,A,0.0,1.0,A,1.75,3.4,4.33,1.76,3.85,4.41,1.76,3.62,4.14,1.8,2.0,1.78,1.97,-0.5,1.75,2.05,York,Altrincham,york,altrincham
+2025-03-08,EC,England-Conference,2425,Southend,Altrincham,2.0,1.0,H,2.0,0.0,H,2.1,3.4,3.4,2.2,3.3,3.36,2.1,3.25,3.31,2.05,1.75,2.01,1.74,-0.25,1.83,1.98,Southend United,Altrincham,southend_united,altrincham
+2025-03-11,EC,England-Conference,2425,Rochdale,Altrincham,3.0,0.0,H,0.0,0.0,D,2.2,3.3,3.0,2.27,3.3,3.2,2.23,3.26,3.06,2.0,1.8,1.98,1.77,-0.25,1.95,1.85,Rochdale,Altrincham,rochdale,altrincham
+2025-03-29,EC,England-Conference,2425,Ebbsfleet,Altrincham,2.0,2.0,D,1.0,1.0,D,4.75,3.9,1.65,4.89,4.22,1.61,4.64,3.92,1.63,1.67,2.15,1.65,2.14,0.75,2.0,1.8,Ebbsfleet,Altrincham,ebbsfleet,altrincham
+2025-04-12,EC,England-Conference,2425,Boston Utd,Altrincham,1.0,0.0,H,1.0,0.0,H,2.63,3.75,2.3,2.82,3.55,2.33,2.72,3.51,2.32,1.73,2.08,1.7,2.06,0.0,2.03,1.78,Boston Utd,Altrincham,boston_utd,altrincham
+2025-04-21,EC,England-Conference,2425,Halifax,Altrincham,0.0,3.0,A,0.0,1.0,A,2.6,3.3,2.5,2.81,3.1,2.58,2.64,3.21,2.51,2.05,1.75,2.01,1.74,0.0,1.95,1.85,Halifax,Altrincham,halifax,altrincham
+2025-04-26,EC,England-Conference,2425,Dag and Red,Altrincham,6.0,1.0,H,4.0,0.0,H,2.6,3.25,2.5,2.62,3.55,2.48,2.59,3.4,2.45,1.75,2.05,1.74,2.0,0.0,1.95,1.85,Dag and Red,Altrincham,dag_and_red,altrincham
+2025-08-16,EC,England-Conference,2526,Rochdale,Altrincham,2.0,1.0,H,1.0,1.0,D,1.85,3.4,3.8,1.9,3.61,3.77,1.86,3.45,3.61,1.75,2.05,1.74,1.97,-0.5,1.9,1.9,Rochdale,Altrincham,rochdale,altrincham
+2025-08-23,EC,England-Conference,2526,Morecambe,Altrincham,2.0,1.0,H,1.0,1.0,D,3.8,3.75,1.7,3.08,3.34,2.23,3.91,3.68,1.75,1.75,2.05,1.73,2.0,0.5,2.05,1.75,Morecambe,Altrincham,morecambe,altrincham
+2025-08-30,EC,England-Conference,2526,Eastleigh,Altrincham,2.0,1.0,H,0.0,1.0,A,2.6,3.5,2.35,2.64,3.55,2.47,2.58,3.38,2.39,1.75,2.05,1.72,1.99,0.0,2.0,1.8,Eastleigh,Altrincham,eastleigh,altrincham
+2025-09-03,EC,England-Conference,2526,Gateshead,Altrincham,0.0,2.0,A,0.0,2.0,A,2.7,3.6,2.25,2.7,3.81,2.31,2.63,3.48,2.28,1.57,2.35,1.57,2.23,-0.25,2.38,1.55,Gateshead,Altrincham,gateshead,altrincham
+2025-09-13,EC,England-Conference,2526,Boreham Wood,Altrincham,3.0,1.0,H,3.0,0.0,H,1.9,3.5,3.7,1.93,3.79,3.46,1.94,3.49,3.37,1.73,2.08,1.72,2.0,-0.5,1.95,1.85,Boreham Wood,Altrincham,boreham_wood,altrincham
+2025-09-27,EC,England-Conference,2526,Yeovil,Altrincham,1.0,0.0,H,1.0,0.0,H,2.75,3.2,2.4,2.74,3.62,2.36,2.61,3.41,2.36,1.67,2.15,1.65,2.1,0.0,2.03,1.78,Yeovil Town,Altrincham,yeovil_town,altrincham
+2025-10-04,EC,England-Conference,2526,Wealdstone,Altrincham,1.0,1.0,D,1.0,1.0,D,2.35,3.5,2.7,2.48,3.46,2.68,2.29,3.43,2.72,1.67,2.15,1.61,2.17,0.0,1.78,2.03,Wealdstone,Altrincham,wealdstone,altrincham
+2025-10-25,EC,England-Conference,2526,Braintree Town,Altrincham,0.0,0.0,D,0.0,0.0,D,2.8,3.4,2.25,2.78,3.37,2.45,2.75,3.42,2.26,1.73,2.08,1.66,2.1,0.25,1.8,2.0,Braintree Town,Altrincham,braintree_town,altrincham
+2025-11-08,EC,England-Conference,2526,Truro,Altrincham,0.0,1.0,A,0.0,0.0,D,2.35,3.3,2.75,,,,2.35,3.35,2.66,1.85,1.95,1.76,1.95,0.0,1.78,2.03,Truro,Altrincham,truro,altrincham
+2025-11-22,EC,England-Conference,2526,Southend,Altrincham,3.0,0.0,H,2.0,0.0,H,1.53,3.9,5.75,,,,1.51,4.05,5.3,1.65,2.2,1.6,2.19,-1.0,1.88,1.93,Southend United,Altrincham,southend_united,altrincham
+2025-12-06,EC,England-Conference,2526,Aldershot,Altrincham,2.0,1.0,H,0.0,0.0,D,2.4,3.4,2.5,,,,2.42,3.41,2.53,1.62,2.25,1.6,2.2,0.0,1.85,1.95,Aldershot,Altrincham,aldershot,altrincham
+2025-12-26,EC,England-Conference,2526,Halifax,Altrincham,2.0,1.0,H,0.0,0.0,D,2.15,3.25,3.1,,,,2.09,3.29,3.13,1.88,1.93,1.83,1.86,-0.25,1.88,1.93,Halifax,Altrincham,halifax,altrincham
+2026-01-17,EC,England-Conference,2526,Hartlepool,Altrincham,1.0,0.0,H,0.0,0.0,D,1.91,3.4,3.7,,,,1.91,3.38,3.58,1.9,1.9,1.83,1.87,-0.5,1.95,1.85,Hartlepool United,Altrincham,hartlepool_united,altrincham
+2026-01-21,EC,England-Conference,2526,Forest Green,Altrincham,1.0,1.0,D,0.0,1.0,A,1.42,4.2,6.5,,,,1.4,4.4,6.27,1.57,2.35,1.53,2.34,-1.25,1.93,1.88,Forest Green Rovers,Altrincham,forest_green_rovers,altrincham
+2026-01-31,EC,England-Conference,2526,Carlisle,Altrincham,3.0,1.0,H,3.0,0.0,H,1.55,3.9,5.25,,,,1.51,4.07,5.36,1.67,2.15,1.62,2.14,-1.0,1.9,1.9,Carlisle United,Altrincham,carlisle_united,altrincham
+2026-02-24,EC,England-Conference,2526,Tamworth,Altrincham,5.0,1.0,H,1.0,0.0,H,2.25,3.3,2.9,,,,2.24,3.33,2.84,1.73,2.08,1.69,2.04,-0.25,2.03,1.78,Tamworth,Altrincham,tamworth,altrincham
+2026-02-28,EC,England-Conference,2526,Brackley Town,Altrincham,0.0,2.0,A,0.0,1.0,A,2.2,3.2,3.1,,,,2.17,3.27,2.99,1.9,1.9,1.87,1.82,-0.25,1.95,1.85,Brackley Town,Altrincham,brackley_town,altrincham
+2026-03-14,EC,England-Conference,2526,Scunthorpe,Altrincham,2.0,1.0,H,0.0,1.0,A,1.62,3.8,4.5,,,,1.61,3.9,4.47,1.57,2.35,1.53,2.33,-0.75,1.83,1.98,Scunthorpe United,Altrincham,scunthorpe_united,altrincham
+2026-03-24,EC,England-Conference,2526,Boston Utd,Altrincham,2.0,2.0,D,1.0,0.0,H,1.9,3.5,3.5,,,,1.9,3.49,3.49,1.67,2.15,1.66,2.09,-0.5,1.95,1.85,Boston Utd,Altrincham,boston_utd,altrincham
+2026-03-28,EC,England-Conference,2526,Solihull,Altrincham,1.0,0.0,H,1.0,0.0,H,1.9,3.5,3.5,,,,1.89,3.56,3.39,1.65,2.2,1.59,2.22,-0.5,1.95,1.85,Solihull,Altrincham,solihull,altrincham
+2026-03-31,EC,England-Conference,2526,Woking,Altrincham,1.0,1.0,D,0.0,1.0,A,1.9,3.5,3.6,,,,1.91,3.47,3.48,1.75,2.05,1.72,2.01,-0.5,1.93,1.88,Woking,Altrincham,woking,altrincham
+2026-04-06,EC,England-Conference,2526,York,Altrincham,2.0,1.0,H,1.0,1.0,D,1.17,7.0,12.0,,,,1.16,6.92,11.82,1.29,3.6,1.26,3.54,-2.25,1.98,1.83,York,Altrincham,york,altrincham
+2026-04-18,EC,England-Conference,2526,Sutton,Altrincham,1.0,2.0,A,1.0,0.0,H,1.91,3.8,3.3,,,,1.9,3.67,3.31,1.5,2.5,1.51,2.4,-0.5,1.93,1.88,Sutton United,Altrincham,sutton_united,altrincham
+2026-08-15,EC,England-Conference,2627,Sutton,Altrincham,1.0,0.0,H,1.0,0.0,H,2.0,3.5,3.25,,,,1.97,3.5,3.22,1.67,2.15,1.65,2.11,-0.5,2.0,1.8,Sutton United,Altrincham,sutton_united,altrincham
+2026-08-22,EC,England-Conference,2627,Boston Utd,Altrincham,1.0,0.0,H,0.0,0.0,D,1.75,3.7,4.0,,,,1.75,3.69,3.93,1.73,2.08,1.71,2.03,-0.75,2.0,1.8,Boston Utd,Altrincham,boston_utd,altrincham
+2026-08-31,EC,England-Conference,2627,Forest Green,Altrincham,1.0,2.0,A,0.0,0.0,D,1.53,4.33,4.75,,,,1.55,4.25,4.78,1.44,2.7,1.47,2.53,-1.0,1.93,1.88,Forest Green Rovers,Altrincham,forest_green_rovers,altrincham
+2026-09-12,EC,England-Conference,2627,Woking,Altrincham,5.0,1.0,H,3.0,1.0,H,1.95,3.5,3.4,,,,1.97,3.36,3.38,1.83,1.98,1.78,1.94,-0.5,2.0,1.8,Woking,Altrincham,woking,altrincham
+2026-09-19,EC,England-Conference,2627,Fylde,Altrincham,1.0,2.0,A,1.0,2.0,A,1.7,3.9,4.0,,,,1.72,3.83,3.9,1.53,2.4,1.53,2.36,-0.75,1.95,1.85,Fylde,Altrincham,fylde,altrincham
+2026-09-29,EC,England-Conference,2627,Gateshead,Altrincham,0.0,1.0,A,0.0,1.0,A,4.1,3.9,1.67,,,,4.04,3.85,1.68,1.6,2.3,1.59,2.21,0.75,1.93,1.88,Gateshead,Altrincham,gateshead,altrincham
+2026-10-03,EC,England-Conference,2627,Boreham Wood,Altrincham,3.0,1.0,H,0.0,1.0,A,1.38,4.75,6.25,,,,1.4,4.7,5.73,1.4,2.88,1.36,2.86,-1.25,1.8,2.0,Boreham Wood,Altrincham,boreham_wood,altrincham

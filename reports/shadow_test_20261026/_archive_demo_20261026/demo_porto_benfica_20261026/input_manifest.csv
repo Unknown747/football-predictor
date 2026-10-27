@@ -1,0 +1,2 @@
+input_path,input_sha256,input_rows,capture_ts_utc,label,source,odds_source
+/root/football-predictor/reports/shadow_test_20261026/fixture_live_20261026.csv,ea0959de17823fd3045c37bcdcc1ebccf9a345446dac7f2e5d9f02b7c9ef34d9,1,2026-10-26T16:03:01.013668+00:00,HISTORICAL_FIXTURE,flashscore_manual,flashscore

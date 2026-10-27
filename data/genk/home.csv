@@ -1,0 +1,100 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-30,B1,Belgium-JPL,2122,Genk,Oostende,3.0,4.0,A,2.0,1.0,H,1.53,4.0,6.5,1.59,4.23,5.85,1.57,4.19,5.53,1.53,2.4,1.56,2.39,-1.0,1.93,1.93,Genk,KV Oostende,genk,kv_oostende
+2021-08-14,B1,Belgium-JPL,2122,Genk,Oud-Heverlee Leuven,4.0,0.0,H,1.0,0.0,H,1.45,4.33,7.0,1.48,4.28,7.34,1.48,4.33,6.53,1.47,2.6,1.48,2.61,-1.0,1.73,2.08,Genk,Oud-Heverlee Leuven,genk,oud_heverlee_leuven
+2021-08-29,B1,Belgium-JPL,2122,Genk,Anderlecht,1.0,0.0,H,0.0,0.0,D,2.15,3.4,3.25,2.26,3.28,3.43,2.25,3.22,3.26,1.7,2.1,1.74,2.08,-0.25,1.93,1.93,Genk,Anderlecht,genk,anderlecht
+2021-09-12,B1,Belgium-JPL,2122,Genk,St. Gilloise,1.0,1.0,D,0.0,0.0,D,2.2,3.6,3.0,2.3,3.88,2.89,2.24,3.69,2.89,1.57,2.35,1.58,2.35,-0.25,1.98,1.88,Genk,St. Gilloise,genk,st_gilloise
+2021-09-26,B1,Belgium-JPL,2122,Genk,Seraing,3.0,0.0,H,2.0,0.0,H,1.3,5.0,7.5,1.31,5.6,8.96,1.31,5.46,8.63,1.5,2.5,1.51,2.51,-1.5,1.95,1.9,Genk,RFC Seraing,genk,rfc_seraing
+2021-10-24,B1,Belgium-JPL,2122,Genk,Gent,0.0,3.0,A,0.0,1.0,A,2.0,3.6,3.5,2.1,3.86,3.23,2.07,3.69,3.2,1.53,2.4,1.55,2.4,-0.25,1.85,2.0,Genk,KAA Gent,genk,kaa_gent
+2021-11-07,B1,Belgium-JPL,2122,Genk,Cercle Brugge,1.0,1.0,D,0.0,1.0,A,1.5,4.33,5.25,1.55,4.37,5.67,1.54,4.36,5.32,1.5,2.5,1.51,2.53,-1.0,1.93,1.93,Genk,Cercle Brugge,genk,cercle_brugge
+2021-11-28,B1,Belgium-JPL,2122,Genk,Club Brugge,2.0,3.0,A,0.0,1.0,A,3.2,3.5,2.15,2.84,3.69,2.29,2.9,3.67,2.24,1.53,2.4,1.54,2.42,0.25,1.88,1.98,Genk,Club Brugge,genk,club_brugge
+2021-12-16,B1,Belgium-JPL,2122,Genk,Charleroi,4.0,2.0,H,2.0,2.0,D,1.9,3.8,3.6,1.91,3.69,3.96,1.9,3.78,3.7,1.57,2.35,1.57,2.37,-0.5,1.88,1.98,Genk,Sporting Charleroi,genk,sporting_charleroi
+2021-12-19,B1,Belgium-JPL,2122,Genk,Antwerp,1.0,1.0,D,1.0,0.0,H,1.85,3.6,3.6,1.93,3.82,3.76,1.94,3.72,3.58,1.6,2.3,1.58,2.35,-0.5,1.93,1.93,Genk,Royal Antwerp,genk,royal_antwerp
+2022-01-16,B1,Belgium-JPL,2122,Genk,Beerschot VA,4.0,1.0,H,2.0,0.0,H,1.33,5.5,7.0,1.31,5.72,9.07,1.32,5.43,8.34,1.47,2.6,1.49,2.55,-1.5,1.93,1.93,Genk,Beerschot VA,genk,beerschot_va
+2022-02-06,B1,Belgium-JPL,2122,Genk,Waregem,2.0,0.0,H,1.0,0.0,H,1.33,5.0,9.0,1.38,5.14,7.46,1.35,5.24,7.83,1.47,2.6,1.46,2.63,-1.5,1.93,1.93,Genk,Zulte Waregem,genk,zulte_waregem
+2022-02-13,B1,Belgium-JPL,2122,Genk,Standard,2.0,0.0,H,1.0,0.0,H,1.61,3.8,4.5,1.72,4.13,4.42,1.68,4.03,4.52,1.7,2.1,1.68,2.15,-0.75,1.85,2.0,Genk,Standard Liege,genk,standard_liege
+2022-02-16,B1,Belgium-JPL,2122,Genk,Mechelen,4.0,1.0,H,1.0,0.0,H,1.57,3.8,5.0,1.61,4.23,5.21,1.61,4.13,5.05,1.57,2.35,1.58,2.34,-1.0,2.02,1.83,Genk,KV Mechelen,genk,kv_mechelen
+2022-02-27,B1,Belgium-JPL,2122,Genk,Kortrijk,2.0,0.0,H,2.0,0.0,H,1.53,4.0,5.0,1.58,4.23,5.51,1.56,4.2,5.41,1.7,2.1,1.67,2.17,-1.0,1.93,1.93,Genk,KV Kortrijk,genk,kv_kortrijk
+2022-03-13,B1,Belgium-JPL,2122,Genk,St Truiden,0.0,1.0,A,0.0,1.0,A,1.44,4.33,7.0,1.44,4.68,6.93,1.46,4.52,6.45,1.66,2.15,1.65,2.19,-1.25,2.0,1.8,Genk,Sint-Truiden,genk,sint_truiden
+2022-04-03,B1,Belgium-JPL,2122,Genk,Eupen,5.0,0.0,H,2.0,0.0,H,1.4,4.75,7.0,1.39,4.97,7.57,1.4,4.84,7.02,1.57,2.35,1.57,2.35,-1.25,1.93,1.93,Genk,KAS Eupen,genk,kas_eupen
+2022-07-31,B1,Belgium-JPL,2223,Genk,Standard,3.0,1.0,H,3.0,1.0,H,1.5,4.2,5.25,1.52,4.35,6.15,1.51,4.31,5.82,1.66,2.15,1.65,2.2,-1.0,1.88,1.98,Genk,Standard Liege,genk,standard_liege
+2022-08-06,B1,Belgium-JPL,2223,Genk,Eupen,4.0,2.0,H,3.0,1.0,H,1.36,5.0,6.5,1.35,5.76,8.06,1.35,5.3,7.43,1.44,2.7,1.44,2.72,-1.5,1.98,1.88,Genk,KAS Eupen,genk,kas_eupen
+2022-08-20,B1,Belgium-JPL,2223,Genk,Cercle Brugge,2.0,1.0,H,1.0,0.0,H,1.61,4.33,4.5,1.62,4.17,5.53,1.59,4.17,5.14,1.6,2.3,1.6,2.3,-1.0,2.05,1.8,Genk,Cercle Brugge,genk,cercle_brugge
+2022-09-03,B1,Belgium-JPL,2223,Genk,St Truiden,0.0,0.0,D,0.0,0.0,D,1.65,4.0,5.0,1.66,4.18,5.11,1.65,4.03,4.82,1.66,2.15,1.68,2.15,-0.75,1.85,2.0,Genk,Sint-Truiden,genk,sint_truiden
+2022-09-18,B1,Belgium-JPL,2223,Genk,Gent,1.0,0.0,H,0.0,0.0,D,2.2,3.4,3.1,2.14,3.74,3.23,2.19,3.58,3.04,1.7,2.1,1.7,2.12,-0.25,1.9,1.95,Genk,KAA Gent,genk,kaa_gent
+2022-10-08,B1,Belgium-JPL,2223,Genk,Kortrijk,2.0,1.0,H,1.0,0.0,H,1.3,5.5,8.5,1.29,6.07,10.1,1.29,5.72,9.29,1.47,2.6,1.47,2.63,-1.75,2.02,1.77,Genk,KV Kortrijk,genk,kv_kortrijk
+2022-10-18,B1,Belgium-JPL,2223,Genk,Westerlo,6.0,1.0,H,5.0,1.0,H,1.57,4.2,5.0,1.61,4.5,5.16,1.59,4.32,5.02,1.53,2.4,1.54,2.42,-1.0,1.95,1.9,Genk,KVC Westerlo,genk,kvc_westerlo
+2022-10-28,B1,Belgium-JPL,2223,Genk,Mechelen,3.0,1.0,H,1.0,1.0,D,1.36,5.25,7.0,1.36,5.6,8.1,1.35,5.28,7.6,1.44,2.7,1.42,2.78,-1.5,1.95,1.9,Genk,KV Mechelen,genk,kv_mechelen
+2022-11-04,B1,Belgium-JPL,2223,Genk,Charleroi,4.0,1.0,H,2.0,0.0,H,1.4,4.75,7.5,1.4,5.26,7.51,1.39,5.06,7.06,1.44,2.7,1.45,2.69,-1.25,1.83,2.02,Genk,Sporting Charleroi,genk,sporting_charleroi
+2023-01-08,B1,Belgium-JPL,2223,Genk,Club Brugge,3.0,1.0,H,1.0,1.0,D,2.1,3.5,3.0,2.2,3.76,3.08,2.18,3.67,3.04,1.6,2.3,1.58,2.34,-0.25,1.93,1.93,Genk,Club Brugge,genk,club_brugge
+2023-01-14,B1,Belgium-JPL,2223,Genk,Waregem,1.0,0.0,H,1.0,0.0,H,1.25,6.5,8.0,1.26,6.4,9.3,1.25,6.39,9.45,1.33,3.4,1.34,3.17,-1.75,1.88,1.98,Genk,Zulte Waregem,genk,zulte_waregem
+2023-01-29,B1,Belgium-JPL,2223,Genk,Seraing,4.0,0.0,H,2.0,0.0,H,1.22,5.75,10.0,1.21,6.63,12.63,1.21,6.4,12.02,1.44,2.7,1.45,2.69,-1.75,1.83,2.02,Genk,RFC Seraing,genk,rfc_seraing
+2023-02-12,B1,Belgium-JPL,2223,Genk,Antwerp,0.0,1.0,A,0.0,0.0,D,1.91,3.5,3.75,2.03,3.66,3.57,1.99,3.6,3.57,1.75,2.05,1.76,2.05,-0.5,1.98,1.88,Genk,Royal Antwerp,genk,royal_antwerp
+2023-02-25,B1,Belgium-JPL,2223,Genk,Oostende,3.0,0.0,H,2.0,0.0,H,1.33,5.5,7.0,1.34,5.68,8.75,1.33,5.42,8.05,1.44,2.7,1.43,2.75,-1.5,1.98,1.88,Genk,KV Oostende,genk,kv_oostende
+2023-03-12,B1,Belgium-JPL,2223,Genk,St. Gilloise,1.0,2.0,A,1.0,2.0,A,2.2,3.4,3.0,2.35,3.54,2.98,2.29,3.45,2.95,1.73,2.08,1.75,2.05,-0.25,2.02,1.83,Genk,St. Gilloise,genk,st_gilloise
+2023-04-02,B1,Belgium-JPL,2223,Genk,Oud-Heverlee Leuven,2.0,1.0,H,1.0,0.0,H,1.5,4.0,6.0,1.51,4.64,5.85,1.5,4.46,5.78,1.57,2.35,1.54,2.4,-1.0,1.83,2.02,Genk,Oud-Heverlee Leuven,genk,oud_heverlee_leuven
+2023-04-16,B1,Belgium-JPL,2223,Genk,Anderlecht,5.0,2.0,H,2.0,1.0,H,1.85,3.6,4.0,1.83,4.08,3.91,1.83,3.92,3.83,1.53,2.4,1.52,2.48,-0.5,1.9,1.95,Genk,Anderlecht,genk,anderlecht
+2023-08-05,B1,Belgium-JPL,2324,Genk,Eupen,0.0,1.0,A,0.0,1.0,A,1.33,5.25,8.5,1.29,6.28,9.53,1.29,5.67,8.88,1.44,2.7,1.45,2.67,-1.5,1.83,2.03,Genk,KAS Eupen,genk,kas_eupen
+2023-08-20,B1,Belgium-JPL,2324,Genk,Charleroi,0.0,0.0,D,0.0,0.0,D,1.53,4.2,5.5,1.59,4.53,5.02,1.56,4.37,5.19,1.53,2.4,1.54,2.42,-1.0,1.95,1.9,Genk,Sporting Charleroi,genk,sporting_charleroi
+2023-09-03,B1,Belgium-JPL,2324,Genk,Anderlecht,1.0,1.0,D,0.0,0.0,D,1.91,3.6,3.8,1.97,3.56,3.87,1.93,3.68,3.69,1.65,2.2,1.63,2.22,-0.5,1.93,1.93,Genk,Anderlecht,genk,anderlecht
+2023-09-24,B1,Belgium-JPL,2324,Genk,St Truiden,3.0,3.0,D,0.0,3.0,A,1.55,4.33,5.25,1.58,4.34,5.35,1.57,4.23,5.33,1.67,2.15,1.69,2.14,-1.0,1.98,1.88,Genk,Sint-Truiden,genk,sint_truiden
+2023-10-01,B1,Belgium-JPL,2324,Genk,Westerlo,3.0,3.0,D,2.0,1.0,H,1.44,4.5,7.0,1.45,4.87,6.35,1.45,4.7,6.32,1.53,2.4,1.51,2.49,-1.25,1.98,1.88,Genk,KVC Westerlo,genk,kvc_westerlo
+2023-10-22,B1,Belgium-JPL,2324,Genk,Mechelen,4.0,0.0,H,2.0,0.0,H,1.53,4.2,5.75,1.54,4.67,5.72,1.53,4.42,5.53,1.57,2.35,1.56,2.38,-1.0,1.85,2.0,Genk,KV Mechelen,genk,kv_mechelen
+2023-11-12,B1,Belgium-JPL,2324,Genk,Oud-Heverlee Leuven,3.0,1.0,H,1.0,0.0,H,1.4,4.75,7.0,1.39,5.53,6.66,1.39,5.25,6.52,1.36,3.1,1.35,3.08,-1.5,2.03,1.83,Genk,Oud-Heverlee Leuven,genk,oud_heverlee_leuven
+2023-12-03,B1,Belgium-JPL,2324,Genk,Gent,2.0,2.0,D,1.0,1.0,D,2.15,3.5,3.2,2.21,3.75,3.19,2.14,3.7,3.09,1.57,2.35,1.54,2.41,-0.25,1.9,1.95,Genk,KAA Gent,genk,kaa_gent
+2023-12-17,B1,Belgium-JPL,2324,Genk,Kortrijk,4.0,0.0,H,1.0,0.0,H,1.22,6.5,10.0,1.23,6.73,10.54,1.23,6.49,11.0,1.4,2.88,1.41,2.76,-1.75,1.83,2.03,Genk,KV Kortrijk,genk,kv_kortrijk
+2023-12-26,B1,Belgium-JPL,2324,Genk,Antwerp,3.0,0.0,H,1.0,0.0,H,2.1,3.5,3.4,2.18,3.81,3.2,2.11,3.65,3.2,1.62,2.25,1.62,2.28,-0.25,1.85,2.0,Genk,Royal Antwerp,genk,royal_antwerp
+2024-01-20,B1,Belgium-JPL,2324,Genk,Cercle Brugge,1.0,1.0,D,0.0,1.0,A,1.8,3.75,4.33,1.83,3.97,4.18,1.81,3.9,3.95,1.6,2.3,1.57,2.35,-0.75,2.0,1.8,Genk,Cercle Brugge,genk,cercle_brugge
+2024-02-03,B1,Belgium-JPL,2324,Genk,St. Gilloise,0.0,1.0,A,0.0,0.0,D,2.8,3.4,2.38,2.87,3.54,2.49,2.79,3.47,2.41,1.73,2.08,1.72,2.11,0.25,1.73,2.08,Genk,St. Gilloise,genk,st_gilloise
+2024-02-17,B1,Belgium-JPL,2324,Genk,RWD Molenbeek,3.0,1.0,H,2.0,1.0,H,1.29,6.0,9.5,1.26,6.23,10.85,1.27,5.71,10.09,1.53,2.4,1.53,2.44,-1.75,2.03,1.83,Genk,RWD Molenbeek,genk,rwd_molenbeek
+2024-03-03,B1,Belgium-JPL,2324,Genk,Club Brugge,0.0,3.0,A,0.0,1.0,A,3.0,3.6,2.2,3.09,3.67,2.28,2.98,3.57,2.24,1.73,2.08,1.73,2.09,0.25,1.88,1.98,Genk,Club Brugge,genk,club_brugge
+2024-03-10,B1,Belgium-JPL,2324,Genk,Standard,1.0,0.0,H,0.0,0.0,D,1.65,4.0,5.25,1.63,4.23,5.44,1.61,4.07,5.18,1.73,2.08,1.73,2.09,-0.75,1.75,2.05,Genk,Standard Liege,genk,standard_liege
+2024-04-01,B1,Belgium-JPL,2324,Genk,St. Gilloise,1.0,0.0,H,1.0,0.0,H,2.75,3.4,2.5,2.81,3.56,2.42,2.76,3.52,2.4,1.7,2.1,1.71,2.1,0.0,2.03,1.83,Genk,St. Gilloise,genk,st_gilloise
+2024-04-13,B1,Belgium-JPL,2324,Genk,Cercle Brugge,1.0,1.0,D,1.0,0.0,H,1.85,3.6,4.0,1.89,3.94,3.87,1.88,3.8,3.76,1.65,2.2,1.64,2.22,-0.5,1.88,1.98,Genk,Cercle Brugge,genk,cercle_brugge
+2024-04-20,B1,Belgium-JPL,2324,Genk,Anderlecht,2.0,1.0,H,1.0,0.0,H,2.15,3.6,3.2,2.18,3.52,3.37,2.13,3.53,3.23,1.73,2.08,1.73,2.08,-0.25,1.88,1.98,Genk,Anderlecht,genk,anderlecht
+2024-04-28,B1,Belgium-JPL,2324,Genk,Club Brugge,0.0,3.0,A,0.0,1.0,A,2.9,3.6,2.25,2.95,3.53,2.34,2.89,3.54,2.27,1.65,2.2,1.63,2.23,0.25,1.85,2.0,Genk,Club Brugge,genk,club_brugge
+2024-05-20,B1,Belgium-JPL,2324,Genk,Antwerp,1.0,0.0,H,1.0,0.0,H,1.8,3.9,3.9,1.83,3.79,4.1,1.83,3.79,3.91,1.67,2.15,1.67,2.16,-0.5,1.83,2.03,Genk,Royal Antwerp,genk,royal_antwerp
+2024-06-02,B1,Belgium-JPL,2324,Genk,Gent,0.0,1.0,A,0.0,0.0,D,2.25,3.5,2.75,2.37,3.54,2.89,2.32,3.54,2.81,1.6,2.3,1.59,2.3,-0.25,2.05,1.8,Genk,KAA Gent,genk,kaa_gent
+2024-07-28,B1,Belgium-JPL,2425,Genk,Standard,0.0,0.0,D,0.0,0.0,D,1.48,3.9,6.5,1.44,4.62,6.5,1.46,4.5,6.32,1.57,2.35,1.57,2.37,-1.25,2.03,1.83,Genk,Standard Liege,genk,standard_liege
+2024-08-11,B1,Belgium-JPL,2425,Genk,Club Brugge,3.0,2.0,H,0.0,1.0,A,3.3,3.7,2.05,3.48,3.61,2.03,3.4,3.63,2.04,1.7,2.1,1.69,2.14,0.25,2.05,1.8,Genk,Club Brugge,genk,club_brugge
+2024-08-30,B1,Belgium-JPL,2425,Genk,Westerlo,1.0,0.0,H,0.0,0.0,D,1.62,4.2,4.75,1.66,4.33,4.77,1.65,4.26,4.55,1.44,2.7,1.42,2.79,-0.75,1.75,2.05,Genk,KVC Westerlo,genk,kvc_westerlo
+2024-09-22,B1,Belgium-JPL,2425,Genk,Dender,4.0,0.0,H,1.0,0.0,H,1.48,4.33,5.0,1.49,4.52,5.85,1.5,4.48,5.65,1.57,2.35,1.55,2.37,-1.0,1.8,2.05,Genk,Dender,genk,dender
+2024-09-28,B1,Belgium-JPL,2425,Genk,Mechelen,2.0,1.0,H,0.0,0.0,D,1.53,4.33,5.25,1.52,4.6,5.31,1.52,4.63,5.28,1.4,2.88,1.4,2.85,-1.0,1.79,1.94,Genk,KV Mechelen,genk,kv_mechelen
+2024-10-20,B1,Belgium-JPL,2425,Genk,St Truiden,3.0,2.0,H,3.0,1.0,H,1.38,4.5,7.0,1.4,4.9,6.98,1.4,4.84,6.82,1.5,2.5,1.49,2.51,-1.25,1.82,1.92,Genk,Sint-Truiden,genk,sint_truiden
+2024-11-03,B1,Belgium-JPL,2425,Genk,Antwerp,2.0,0.0,H,1.0,0.0,H,1.95,3.75,3.6,1.96,3.73,3.57,1.96,3.73,3.48,1.62,2.25,1.59,2.33,-0.5,1.98,1.88,Genk,Royal Antwerp,genk,royal_antwerp
+2024-11-23,B1,Belgium-JPL,2425,Genk,Charleroi,3.0,0.0,H,0.0,0.0,D,1.53,4.1,5.75,1.52,4.28,5.83,1.53,4.27,5.74,1.67,2.15,1.66,2.18,-1.0,1.93,1.93,Genk,Sporting Charleroi,genk,sporting_charleroi
+2024-12-07,B1,Belgium-JPL,2425,Genk,Kortrijk,3.0,2.0,H,1.0,1.0,D,1.36,5.25,7.5,1.33,5.35,8.19,1.34,5.31,8.13,1.5,2.5,1.51,2.49,-1.5,2.0,1.85,Genk,KV Kortrijk,genk,kv_kortrijk
+2024-12-22,B1,Belgium-JPL,2425,Genk,Anderlecht,2.0,0.0,H,1.0,0.0,H,2.2,3.5,3.1,2.2,3.57,3.12,2.16,3.59,3.11,1.67,2.15,1.65,2.18,-0.25,1.93,1.93,Genk,Anderlecht,genk,anderlecht
+2025-01-11,B1,Belgium-JPL,2425,Genk,Oud-Heverlee Leuven,2.0,0.0,H,0.0,0.0,D,1.57,4.0,5.0,1.56,4.17,5.55,1.57,4.12,5.39,1.7,2.1,1.69,2.1,-1.0,2.0,1.85,Genk,Oud-Heverlee Leuven,genk,oud_heverlee_leuven
+2025-02-01,B1,Belgium-JPL,2425,Genk,Beerschot VA,1.0,0.0,H,1.0,0.0,H,1.25,5.5,10.0,1.23,6.28,10.01,1.25,6.06,10.17,1.44,2.7,1.41,2.73,-1.75,1.95,1.9,Genk,Beerschot VA,genk,beerschot_va
+2025-02-08,B1,Belgium-JPL,2425,Genk,Cercle Brugge,2.0,1.0,H,2.0,1.0,H,1.6,4.2,4.75,1.6,4.21,5.03,1.6,4.22,4.94,1.62,2.25,1.61,2.26,-1.0,2.03,1.83,Genk,Cercle Brugge,genk,cercle_brugge
+2025-02-23,B1,Belgium-JPL,2425,Genk,Gent,0.0,0.0,D,0.0,0.0,D,1.55,3.8,5.5,1.57,4.02,5.88,1.56,4.1,5.47,1.62,2.25,1.61,2.27,-1.0,1.98,1.88,Genk,KAA Gent,genk,kaa_gent
+2025-03-15,B1,Belgium-JPL,2425,Genk,St. Gilloise,2.0,1.0,H,0.0,0.0,D,2.6,3.4,2.6,2.66,3.4,2.63,2.61,3.39,2.59,1.8,2.0,1.79,2.01,0.0,1.93,1.93,Genk,St. Gilloise,genk,st_gilloise
+2025-03-30,B1,Belgium-JPL,2425,Genk,Gent,4.0,0.0,H,1.0,0.0,H,1.54,4.0,5.75,1.56,4.02,5.95,1.56,4.1,5.5,1.57,2.35,1.57,2.34,-1.0,1.95,1.9,Genk,KAA Gent,genk,kaa_gent
+2025-04-20,B1,Belgium-JPL,2425,Genk,St. Gilloise,1.0,2.0,A,0.0,1.0,A,2.4,3.5,2.7,2.54,3.45,2.73,2.44,3.45,2.73,1.73,2.08,1.74,2.05,0.0,1.83,2.03,Genk,St. Gilloise,genk,st_gilloise
+2025-04-27,B1,Belgium-JPL,2425,Genk,Antwerp,0.0,1.0,A,0.0,1.0,A,1.57,4.75,4.75,1.56,4.36,5.39,1.56,4.38,5.18,1.57,2.35,1.56,2.38,-1.0,1.95,1.9,Genk,Royal Antwerp,genk,royal_antwerp
+2025-05-11,B1,Belgium-JPL,2425,Genk,Club Brugge,0.0,2.0,A,0.0,1.0,A,3.4,3.7,2.0,3.51,3.74,2.0,3.4,3.66,2.01,1.62,2.25,1.63,2.22,0.5,1.83,2.03,Genk,Club Brugge,genk,club_brugge
+2025-05-25,B1,Belgium-JPL,2425,Genk,Anderlecht,2.0,1.0,H,1.0,1.0,D,1.95,3.6,3.6,1.95,3.64,3.59,1.97,3.64,3.53,1.7,2.1,1.71,2.1,-0.5,1.98,1.83,Genk,Anderlecht,genk,anderlecht
+2025-08-03,B1,Belgium-JPL,2526,Genk,Antwerp,1.0,1.0,D,1.0,1.0,D,1.6,4.1,5.0,1.59,4.25,5.23,1.58,4.15,4.98,1.6,2.3,1.56,2.31,-1.0,2.03,1.78,Genk,Royal Antwerp,genk,royal_antwerp
+2025-08-31,B1,Belgium-JPL,2526,Genk,Waregem,3.0,2.0,H,2.0,2.0,D,1.4,5.5,6.0,1.4,4.99,6.99,1.37,5.05,6.83,1.48,2.6,1.47,2.54,-1.5,2.05,1.75,Genk,Zulte Waregem,genk,zulte_waregem
+2025-09-17,B1,Belgium-JPL,2526,Genk,Charleroi,0.0,1.0,A,0.0,1.0,A,1.7,3.8,4.33,1.75,3.94,4.41,1.71,3.9,4.31,1.67,2.15,1.64,2.14,-0.75,1.93,1.88,Genk,Sporting Charleroi,genk,sporting_charleroi
+2025-09-21,B1,Belgium-JPL,2526,Genk,St. Gilloise,1.0,2.0,A,0.0,1.0,A,3.0,3.4,2.2,3.09,3.53,2.25,2.92,3.43,2.28,1.8,2.0,1.75,1.97,0.25,1.88,1.93,Genk,St. Gilloise,genk,st_gilloise
+2025-10-05,B1,Belgium-JPL,2526,Genk,Dender,2.0,1.0,H,1.0,1.0,D,1.36,4.75,7.0,1.41,4.8,7.19,1.35,4.95,7.68,1.57,2.35,1.54,2.33,-1.25,1.83,1.98,Genk,Dender,genk,dender
+2025-10-26,B1,Belgium-JPL,2526,Genk,RAAL La Louviere,1.0,1.0,D,1.0,1.0,D,1.48,4.5,5.5,1.48,4.47,6.39,1.47,4.39,6.12,1.7,2.1,1.66,2.1,-1.0,1.78,2.03,Genk,RAAL La Louviere,genk,raal_la_louviere
+2025-11-23,B1,Belgium-JPL,2526,Genk,Mechelen,0.0,1.0,A,0.0,1.0,A,1.5,3.9,5.5,,,,1.54,4.23,5.27,1.53,2.4,1.52,2.37,-1.0,1.85,1.95,Genk,KV Mechelen,genk,kv_mechelen
+2025-11-30,B1,Belgium-JPL,2526,Genk,Oud-Heverlee Leuven,2.0,1.0,H,0.0,0.0,D,1.5,4.0,5.75,,,,1.52,4.15,5.64,1.7,2.1,1.68,2.07,-1.0,1.85,1.95,Genk,Oud-Heverlee Leuven,genk,oud_heverlee_leuven
+2025-12-14,B1,Belgium-JPL,2526,Genk,Westerlo,1.0,1.0,D,0.0,1.0,A,1.7,4.1,4.33,,,,1.66,4.11,4.35,1.48,2.6,1.46,2.54,-0.75,1.85,1.95,Genk,KVC Westerlo,genk,kvc_westerlo
+2025-12-26,B1,Belgium-JPL,2526,Genk,Club Brugge,3.0,5.0,A,1.0,3.0,A,2.9,3.5,2.15,,,,2.94,3.49,2.22,1.67,2.15,1.62,2.17,0.25,1.85,1.95,Genk,Club Brugge,genk,club_brugge
+2026-01-25,B1,Belgium-JPL,2526,Genk,Cercle Brugge,1.0,1.0,D,1.0,0.0,H,1.9,3.7,3.8,,,,1.85,3.62,3.84,1.73,2.08,1.67,2.09,-0.5,1.88,1.93,Genk,Cercle Brugge,genk,cercle_brugge
+2026-02-08,B1,Belgium-JPL,2526,Genk,Anderlecht,2.0,0.0,H,0.0,0.0,D,2.0,3.4,3.5,,,,2.03,3.41,3.42,1.83,1.98,1.79,1.92,-0.25,1.75,2.05,Genk,Anderlecht,genk,anderlecht
+2026-02-22,B1,Belgium-JPL,2526,Genk,Standard,0.0,3.0,A,0.0,2.0,A,1.48,3.8,6.25,,,,1.49,4.14,6.15,1.83,1.98,1.78,1.93,-1.0,1.85,1.95,Genk,Standard Liege,genk,standard_liege
+2026-03-01,B1,Belgium-JPL,2526,Genk,Gent,3.0,0.0,H,1.0,0.0,H,1.65,3.8,4.75,,,,1.65,3.93,4.55,1.65,2.2,1.61,2.2,-0.75,1.85,1.95,Genk,KAA Gent,genk,kaa_gent
+2026-03-15,B1,Belgium-JPL,2526,Genk,St Truiden,1.0,0.0,H,1.0,0.0,H,2.15,3.4,3.0,,,,2.13,3.63,2.96,1.67,2.15,1.61,2.2,-0.25,1.93,1.88,Genk,Sint-Truiden,genk,sint_truiden
+2026-04-12,B1,Belgium-JPL,2526,Genk,Oud-Heverlee Leuven,0.0,0.0,D,0.0,0.0,D,1.62,3.75,4.75,,,,1.62,3.93,4.71,1.67,2.15,1.63,2.16,-0.75,1.83,1.98,Genk,Oud-Heverlee Leuven,genk,oud_heverlee_leuven
+2026-04-21,B1,Belgium-JPL,2526,Genk,Charleroi,1.0,1.0,D,0.0,1.0,A,1.83,3.4,3.9,,,,1.86,3.53,3.93,1.85,1.95,1.81,1.89,-0.5,1.85,1.95,Genk,Sporting Charleroi,genk,sporting_charleroi
+2026-04-25,B1,Belgium-JPL,2526,Genk,Standard,1.0,1.0,D,0.0,0.0,D,1.65,3.6,5.0,,,,1.62,3.8,4.92,1.83,1.98,1.78,1.93,-0.75,1.8,2.0,Genk,Standard Liege,genk,standard_liege
+2026-05-10,B1,Belgium-JPL,2526,Genk,Westerlo,3.0,0.0,H,0.0,0.0,D,1.6,4.0,4.5,,,,1.6,4.16,4.63,1.44,2.7,1.43,2.63,-1.0,2.0,1.8,Genk,KVC Westerlo,genk,kvc_westerlo
+2026-05-19,B1,Belgium-JPL,2526,Genk,Antwerp,0.0,0.0,D,0.0,0.0,D,1.55,4.2,5.5,,,,1.53,4.15,5.36,1.67,2.15,1.64,2.14,-1.0,1.93,1.88,Genk,Royal Antwerp,genk,royal_antwerp
+2026-08-15,B1,Belgium-JPL,2627,Genk,Westerlo,3.0,2.0,H,2.0,2.0,D,1.62,4.1,5.0,,,,1.65,3.99,4.51,1.5,2.5,1.48,2.52,-0.75,1.78,2.03,Genk,KVC Westerlo,genk,kvc_westerlo
+2026-08-28,B1,Belgium-JPL,2627,Genk,Beveren,4.0,0.0,H,3.0,0.0,H,1.42,4.1,6.0,,,,1.44,4.48,6.04,1.48,2.6,1.49,2.52,-1.25,1.95,1.85,Genk,Beveren,genk,beveren
+2026-09-13,B1,Belgium-JPL,2627,Genk,Gent,1.0,1.0,D,0.0,1.0,A,1.91,3.5,3.4,,,,1.98,3.4,3.48,1.8,2.0,1.77,1.96,-0.5,2.0,1.8,Genk,KAA Gent,genk,kaa_gent
+2026-10-10,B1,Belgium-JPL,2627,Genk,Kortrijk,3.0,0.0,H,2.0,0.0,H,1.42,4.5,6.0,,,,1.42,4.54,6.31,1.57,2.35,1.53,2.37,-1.25,1.93,1.88,Genk,KV Kortrijk,genk,kv_kortrijk

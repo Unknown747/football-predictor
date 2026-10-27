@@ -1,0 +1,57 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,F2,France-L2,2122,Guingamp,Valenciennes,1.0,1.0,D,0.0,0.0,D,1.85,3.4,4.5,1.89,3.41,4.56,1.89,3.29,4.28,2.2,1.65,2.24,1.63,-0.5,1.9,1.95,Guingamp,Valenciennes,guingamp,valenciennes
+2021-08-14,F2,France-L2,2122,Nancy,Valenciennes,0.0,1.0,A,0.0,0.0,D,2.2,3.25,3.3,2.23,3.36,3.41,2.2,3.26,3.28,2.07,1.72,2.1,1.71,-0.25,1.9,1.95,Nancy,Valenciennes,nancy,valenciennes
+2021-08-28,F2,France-L2,2122,Toulouse,Valenciennes,1.0,0.0,H,1.0,0.0,H,1.45,4.33,7.5,1.49,4.25,7.25,1.46,4.3,6.69,1.65,2.2,1.63,2.22,-1.25,2.05,1.8,Toulouse,Valenciennes,toulouse,valenciennes
+2021-09-18,F2,France-L2,2122,Pau FC,Valenciennes,1.0,1.0,D,1.0,1.0,D,2.0,3.2,4.0,2.11,3.16,3.91,2.05,3.21,3.77,2.1,1.7,2.1,1.72,-0.25,1.7,2.1,Pau FC,Valenciennes,pau_fc,valenciennes
+2021-09-24,F2,France-L2,2122,Dijon,Valenciennes,0.0,1.0,A,0.0,1.0,A,1.75,4.0,4.5,1.8,3.67,4.78,1.8,3.55,4.44,2.0,1.8,2.0,1.79,-0.5,1.75,2.05,Dijon,Valenciennes,dijon,valenciennes
+2021-10-02,F2,France-L2,2122,Caen,Valenciennes,1.0,2.0,A,0.0,2.0,A,2.0,3.3,3.6,2.11,3.18,3.88,2.11,3.15,3.65,2.15,1.66,2.22,1.64,-0.25,1.8,2.05,Caen,Valenciennes,caen,valenciennes
+2021-10-23,F2,France-L2,2122,Amiens,Valenciennes,3.0,0.0,H,1.0,0.0,H,2.15,3.0,3.6,2.32,2.98,3.59,2.23,3.06,3.38,2.3,1.6,2.29,1.6,-0.25,1.95,1.9,Amiens,Valenciennes,amiens,valenciennes
+2021-11-06,F2,France-L2,2122,Le Havre,Valenciennes,0.0,0.0,D,0.0,0.0,D,2.0,3.25,3.75,2.12,3.19,3.84,2.07,3.19,3.7,2.3,1.6,2.32,1.58,-0.5,2.05,1.8,Le Havre,Valenciennes,le_havre,valenciennes
+2021-12-03,F2,France-L2,2122,Ajaccio,Valenciennes,0.0,0.0,D,0.0,0.0,D,1.75,3.1,5.75,1.85,3.21,5.4,1.83,3.12,5.03,2.7,1.44,2.7,1.45,-0.5,1.8,2.05,Ajaccio,Valenciennes,ajaccio,valenciennes
+2021-12-21,F2,France-L2,2122,Sochaux,Valenciennes,1.0,1.0,D,0.0,1.0,A,1.8,3.2,4.2,1.88,3.35,4.89,1.85,3.31,4.55,2.25,1.61,2.28,1.6,-0.5,1.85,2.0,Sochaux,Valenciennes,sochaux,valenciennes
+2022-01-28,F2,France-L2,2122,Nimes,Valenciennes,2.0,1.0,H,2.0,0.0,H,2.15,3.1,3.25,2.25,3.17,3.66,2.19,3.17,3.42,2.05,1.75,2.05,1.75,-0.25,1.88,1.98,Nimes,Valenciennes,nimes,valenciennes
+2022-02-05,F2,France-L2,2122,Rodez,Valenciennes,0.0,0.0,D,0.0,0.0,D,2.1,3.2,3.75,2.23,3.04,3.74,2.14,3.16,3.54,2.35,1.57,2.31,1.59,-0.25,1.8,2.05,Rodez,Valenciennes,rodez,valenciennes
+2022-02-19,F2,France-L2,2122,Quevilly Rouen,Valenciennes,1.0,1.0,D,1.0,1.0,D,2.3,3.1,2.87,2.75,3.03,2.86,2.58,3.09,2.8,2.15,1.66,2.22,1.63,0.0,1.7,2.1,Quevilly Rouen,Valenciennes,quevilly_rouen,valenciennes
+2022-03-05,F2,France-L2,2122,Bastia,Valenciennes,1.0,1.0,D,1.0,1.0,D,1.95,3.1,4.75,1.95,3.33,4.3,1.99,3.23,3.96,2.25,1.61,2.25,1.63,-0.5,2.0,1.85,Bastia,Valenciennes,bastia,valenciennes
+2022-03-19,F2,France-L2,2122,Dunkerque,Valenciennes,1.0,2.0,A,0.0,1.0,A,2.55,2.9,2.7,2.89,2.83,2.91,2.74,2.89,2.82,2.6,1.47,2.6,1.48,0.0,1.93,1.93,Dunkerque,Valenciennes,dunkerque,valenciennes
+2022-04-09,F2,France-L2,2122,Auxerre,Valenciennes,1.0,0.0,H,1.0,0.0,H,1.75,3.4,4.5,1.81,3.6,4.62,1.78,3.47,4.63,2.15,1.66,2.19,1.65,-0.75,2.02,1.83,AJ Auxerre,Valenciennes,aj_auxerre,valenciennes
+2022-04-19,F2,France-L2,2122,Grenoble,Valenciennes,3.0,0.0,H,1.0,0.0,H,2.8,2.8,2.6,3.17,2.75,2.83,2.99,2.78,2.71,2.7,1.44,2.72,1.44,0.0,2.0,1.85,Grenoble,Valenciennes,grenoble,valenciennes
+2022-04-30,F2,France-L2,2122,Paris FC,Valenciennes,1.0,1.0,D,1.0,1.0,D,1.65,3.3,4.75,1.71,3.51,5.54,1.71,3.42,5.28,2.25,1.61,2.23,1.63,-0.75,1.95,1.9,Paris FC,Valenciennes,paris_fc,valenciennes
+2022-05-14,F2,France-L2,2122,Niort,Valenciennes,1.0,2.0,A,1.0,1.0,D,2.5,3.25,2.7,2.56,3.3,2.85,2.51,3.27,2.76,1.85,2.0,1.85,1.93,0.0,1.83,2.02,Niort,Valenciennes,niort,valenciennes
+2022-07-30,F2,France-L2,2223,Bordeaux,Valenciennes,0.0,0.0,D,0.0,0.0,D,2.5,3.1,2.75,,,,2.57,3.12,2.82,2.3,1.6,2.29,1.6,0.0,,,Bordeaux,Valenciennes,bordeaux,valenciennes
+2022-08-13,F2,France-L2,2223,Metz,Valenciennes,2.0,0.0,H,1.0,0.0,H,1.9,3.4,3.8,1.95,3.27,4.61,1.96,3.25,4.03,2.3,1.6,2.31,1.6,-0.5,1.93,1.93,Metz,Valenciennes,metz,valenciennes
+2022-08-30,F2,France-L2,2223,Niort,Valenciennes,0.0,1.0,A,0.0,1.0,A,2.55,3.0,2.87,2.64,3.04,3.07,2.54,3.03,2.9,2.4,1.53,2.37,1.57,0.0,1.8,2.05,Niort,Valenciennes,niort,valenciennes
+2022-09-10,F2,France-L2,2223,Rodez,Valenciennes,1.0,1.0,D,0.0,0.0,D,2.55,3.0,2.7,2.83,3.03,2.87,2.67,2.99,2.78,2.5,1.5,2.53,1.49,0.0,1.9,1.95,Rodez,Valenciennes,rodez,valenciennes
+2022-09-17,F2,France-L2,2223,Pau FC,Valenciennes,1.0,0.0,H,0.0,0.0,D,2.5,3.1,2.62,2.66,3.1,2.99,2.57,3.07,2.81,2.35,1.57,2.31,1.59,0.0,1.8,2.05,Pau FC,Valenciennes,pau_fc,valenciennes
+2022-10-08,F2,France-L2,2223,Paris FC,Valenciennes,0.0,1.0,A,0.0,1.0,A,1.8,3.6,4.5,1.8,3.66,4.82,1.78,3.55,4.48,2.1,1.7,2.06,1.74,-0.75,2.05,1.8,Paris FC,Valenciennes,paris_fc,valenciennes
+2022-10-22,F2,France-L2,2223,Grenoble,Valenciennes,1.0,0.0,H,0.0,0.0,D,2.37,3.2,3.0,2.47,2.99,3.4,2.37,3.03,3.18,2.4,1.53,2.42,1.54,-0.25,2.02,1.83,Grenoble,Valenciennes,grenoble,valenciennes
+2022-11-12,F2,France-L2,2223,Laval,Valenciennes,1.0,0.0,H,1.0,0.0,H,2.1,3.2,3.4,2.1,3.3,3.94,2.11,3.22,3.54,2.2,1.65,2.21,1.64,-0.25,1.85,2.0,Laval,Valenciennes,laval,valenciennes
+2022-12-30,F2,France-L2,2223,Bastia,Valenciennes,1.0,0.0,H,0.0,0.0,D,2.15,3.0,3.4,2.28,3.15,3.61,2.21,3.07,3.44,2.5,1.5,2.49,1.52,-0.25,1.85,2.0,Bastia,Valenciennes,bastia,valenciennes
+2023-01-13,F2,France-L2,2223,Dijon,Valenciennes,2.0,1.0,H,1.0,0.0,H,1.95,3.3,4.0,1.99,3.39,4.2,1.98,3.26,3.93,2.3,1.6,2.32,1.59,-0.5,1.95,1.9,Dijon,Valenciennes,dijon,valenciennes
+2023-01-31,F2,France-L2,2223,Sochaux,Valenciennes,4.0,0.0,H,2.0,0.0,H,1.65,3.75,5.25,1.67,3.85,5.64,1.66,3.66,5.16,2.05,1.8,2.0,1.79,-0.75,1.88,1.98,Sochaux,Valenciennes,sochaux,valenciennes
+2023-02-11,F2,France-L2,2223,Guingamp,Valenciennes,3.0,1.0,H,1.0,0.0,H,1.91,3.2,4.0,1.93,3.4,4.47,1.92,3.26,4.15,2.3,1.6,2.31,1.59,-0.5,1.93,1.93,Guingamp,Valenciennes,guingamp,valenciennes
+2023-03-04,F2,France-L2,2223,Quevilly Rouen,Valenciennes,1.0,1.0,D,0.0,1.0,A,1.85,3.0,5.0,1.88,3.25,5.11,1.86,3.19,4.58,2.6,1.48,2.55,1.49,-0.5,1.85,2.0,Quevilly Rouen,Valenciennes,quevilly_rouen,valenciennes
+2023-03-18,F2,France-L2,2223,Caen,Valenciennes,2.0,1.0,H,1.0,1.0,D,1.65,3.6,5.25,1.67,3.74,5.58,1.67,3.56,5.31,2.25,1.62,2.25,1.61,-0.75,1.9,1.95,Caen,Valenciennes,caen,valenciennes
+2023-04-10,F2,France-L2,2223,Annecy,Valenciennes,2.0,1.0,H,1.0,1.0,D,2.2,3.3,3.25,2.2,3.21,3.6,2.17,3.18,3.36,2.1,1.7,2.12,1.69,-0.25,1.88,1.98,Annecy,Valenciennes,annecy,valenciennes
+2023-04-22,F2,France-L2,2223,Amiens,Valenciennes,0.0,2.0,A,0.0,0.0,D,1.85,3.5,4.33,1.91,3.6,4.26,1.87,3.49,4.06,2.0,1.85,1.94,1.82,-0.5,1.85,2.0,Amiens,Valenciennes,amiens,valenciennes
+2023-05-06,F2,France-L2,2223,Nimes,Valenciennes,3.0,3.0,D,1.0,1.0,D,2.2,3.2,3.25,2.3,3.23,3.45,2.22,3.2,3.28,2.2,1.65,2.19,1.65,-0.25,1.95,1.9,Nimes,Valenciennes,nimes,valenciennes
+2023-05-22,F2,France-L2,2223,Le Havre,Valenciennes,0.0,2.0,A,0.0,2.0,A,1.6,3.75,5.5,1.6,3.81,6.22,1.57,3.73,5.98,2.2,1.65,2.22,1.63,-0.75,1.8,2.05,Le Havre,Valenciennes,le_havre,valenciennes
+2023-06-02,F2,France-L2,2223,St Etienne,Valenciennes,2.0,0.0,H,0.0,0.0,D,1.62,4.2,4.5,1.63,4.5,5.0,1.62,4.25,4.62,1.44,2.7,1.43,2.74,-0.75,1.73,2.08,Saint-Etienne,Valenciennes,saint_etienne,valenciennes
+2023-08-12,F2,France-L2,2324,Bastia,Valenciennes,3.0,0.0,H,1.0,0.0,H,1.73,3.5,4.5,1.81,3.56,4.95,1.8,3.46,4.48,2.1,1.7,2.12,1.69,-0.5,1.75,2.05,Bastia,Valenciennes,bastia,valenciennes
+2023-08-26,F2,France-L2,2324,Rodez,Valenciennes,0.0,1.0,A,0.0,1.0,A,1.95,3.4,4.0,1.99,3.2,4.57,1.95,3.24,4.07,2.15,1.67,2.16,1.67,-0.5,1.98,1.88,Rodez,Valenciennes,rodez,valenciennes
+2023-09-02,F2,France-L2,2324,St Etienne,Valenciennes,0.0,0.0,D,0.0,0.0,D,1.6,3.8,5.75,1.6,4.22,5.76,1.57,4.01,5.52,1.8,2.05,1.78,2.0,-1.0,2.05,1.8,Saint-Etienne,Valenciennes,saint_etienne,valenciennes
+2023-09-23,F2,France-L2,2324,Amiens,Valenciennes,0.0,0.0,D,0.0,0.0,D,1.65,3.75,5.25,1.7,3.79,5.38,1.66,3.68,5.12,2.03,1.83,1.97,1.8,-0.75,1.88,1.98,Amiens,Valenciennes,amiens,valenciennes
+2023-09-30,F2,France-L2,2324,Laval,Valenciennes,1.0,0.0,H,0.0,0.0,D,1.73,3.4,5.0,1.78,3.56,5.18,1.74,3.49,4.85,2.25,1.62,2.26,1.61,-0.75,2.0,1.85,Laval,Valenciennes,laval,valenciennes
+2023-10-21,F2,France-L2,2324,Grenoble,Valenciennes,3.0,3.0,D,2.0,1.0,H,2.0,3.25,4.0,1.98,3.3,4.38,1.99,3.23,3.95,2.3,1.6,2.34,1.58,-0.5,2.03,1.83,Grenoble,Valenciennes,grenoble,valenciennes
+2023-11-04,F2,France-L2,2324,Angers,Valenciennes,2.0,0.0,H,2.0,0.0,H,1.6,3.75,6.0,1.63,3.92,5.69,1.6,3.77,5.64,2.05,1.75,2.02,1.76,-1.0,2.1,1.78,Angers,Valenciennes,angers,valenciennes
+2023-11-25,F2,France-L2,2324,Quevilly Rouen,Valenciennes,0.0,0.0,D,0.0,0.0,D,1.67,3.5,4.75,1.68,3.91,5.03,1.7,3.72,4.79,2.05,1.8,2.0,1.78,-0.75,1.93,1.93,Quevilly Rouen,Valenciennes,quevilly_rouen,valenciennes
+2023-12-05,F2,France-L2,2324,Pau FC,Valenciennes,3.0,1.0,H,1.0,0.0,H,1.91,3.4,4.0,1.93,3.5,4.31,1.94,3.37,3.96,2.1,1.7,2.12,1.7,-0.5,1.93,1.93,Pau FC,Valenciennes,pau_fc,valenciennes
+2023-12-19,F2,France-L2,2324,Ajaccio,Valenciennes,2.0,1.0,H,2.0,1.0,H,1.91,3.0,4.75,2.0,2.99,5.01,1.95,2.97,4.57,3.1,1.36,2.96,1.37,-0.5,1.98,1.88,Ajaccio,Valenciennes,ajaccio,valenciennes
+2024-01-23,F2,France-L2,2324,Bordeaux,Valenciennes,3.0,1.0,H,0.0,0.0,D,1.45,4.0,7.0,1.5,4.42,6.92,1.47,4.18,6.64,1.98,1.88,1.92,1.85,-1.0,1.83,2.03,Bordeaux,Valenciennes,bordeaux,valenciennes
+2024-02-03,F2,France-L2,2324,Concarneau,Valenciennes,1.0,0.0,H,0.0,0.0,D,2.3,3.2,3.2,2.36,3.12,3.45,2.28,3.12,3.2,2.3,1.6,2.3,1.59,-0.25,1.98,1.88,Concarneau,Valenciennes,concarneau,valenciennes
+2024-02-17,F2,France-L2,2324,Dunkerque,Valenciennes,2.0,1.0,H,1.0,1.0,D,2.1,3.1,3.4,2.26,3.13,3.7,2.18,3.13,3.42,2.2,1.65,2.19,1.65,-0.25,1.88,1.98,Dunkerque,Valenciennes,dunkerque,valenciennes
+2024-03-02,F2,France-L2,2324,Auxerre,Valenciennes,0.0,0.0,D,0.0,0.0,D,1.3,5.25,9.0,1.33,5.13,10.93,1.31,5.0,9.43,1.73,2.08,1.72,2.08,-1.5,1.98,1.88,AJ Auxerre,Valenciennes,aj_auxerre,valenciennes
+2024-03-16,F2,France-L2,2324,Guingamp,Valenciennes,3.0,0.0,H,2.0,0.0,H,1.55,3.8,6.5,1.54,3.96,7.38,1.52,3.77,6.75,2.2,1.65,2.23,1.63,-1.0,1.98,1.88,Guingamp,Valenciennes,guingamp,valenciennes
+2024-04-06,F2,France-L2,2324,Annecy,Valenciennes,2.0,1.0,H,0.0,1.0,A,1.65,3.6,5.5,1.65,3.61,6.33,1.65,3.48,5.65,2.35,1.57,2.35,1.57,-0.75,1.85,2.0,Annecy,Valenciennes,annecy,valenciennes
+2024-04-20,F2,France-L2,2324,Paris FC,Valenciennes,2.0,1.0,H,2.0,1.0,H,1.36,4.33,8.0,1.38,4.72,9.39,1.36,4.47,8.38,2.03,1.83,1.98,1.79,-1.25,1.93,1.93,Paris FC,Valenciennes,paris_fc,valenciennes
+2024-05-17,F2,France-L2,2324,Caen,Valenciennes,3.0,0.0,H,1.0,0.0,H,1.3,5.0,8.5,1.3,5.54,9.38,1.29,5.41,8.89,1.53,2.4,1.51,2.48,-1.5,1.93,1.93,Caen,Valenciennes,caen,valenciennes

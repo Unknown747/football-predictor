@@ -1,0 +1,91 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-09-19,G1,Greece-SL,2122,Lamia,Olympiakos,1.0,2.0,A,0.0,2.0,A,11.0,5.5,1.22,12.35,5.55,1.24,11.78,5.69,1.23,1.72,2.07,1.71,2.11,1.75,1.85,2.0,Lamia,Olympiacos,lamia,olympiacos
+2021-09-26,G1,Greece-SL,2122,Asteras Tripolis,Olympiakos,0.0,2.0,A,0.0,2.0,A,5.5,4.0,1.61,5.43,3.86,1.62,5.35,3.76,1.62,2.1,1.7,2.13,1.69,0.75,2.02,1.83,Asteras Tripolis,Olympiacos,asteras_tripolis,olympiacos
+2021-10-17,G1,Greece-SL,2122,Giannina,Olympiakos,1.0,2.0,A,0.0,1.0,A,8.0,4.2,1.44,7.53,4.21,1.44,7.05,4.19,1.44,1.95,1.85,1.95,1.84,1.0,2.05,1.8,PAS Giannina,Olympiacos,pas_giannina,olympiacos
+2021-10-30,G1,Greece-SL,2122,Panetolikos,Olympiakos,1.0,2.0,A,1.0,1.0,D,8.5,4.33,1.4,7.46,4.38,1.43,7.16,4.33,1.42,1.9,1.9,1.89,1.89,1.25,1.83,2.02,Panetolikos,Olympiacos,panetolikos,olympiacos
+2021-11-21,G1,Greece-SL,2122,AEK,Olympiakos,2.0,3.0,A,1.0,2.0,A,3.25,3.25,2.3,2.99,3.42,2.34,3.0,3.27,2.3,2.02,1.83,1.98,1.8,0.25,1.8,2.05,AEK Athens,Olympiacos,aek_athens,olympiacos
+2021-12-04,G1,Greece-SL,2122,OFI Crete,Olympiakos,1.0,3.0,A,1.0,1.0,D,7.5,4.33,1.45,6.67,4.26,1.48,6.61,4.23,1.46,1.9,1.95,1.88,1.9,1.0,2.02,1.83,OFI Crete,Olympiacos,ofi_crete,olympiacos
+2021-12-15,G1,Greece-SL,2122,Atromitos,Olympiakos,0.0,3.0,A,0.0,1.0,A,7.0,4.5,1.4,7.18,4.42,1.43,7.35,4.49,1.4,1.85,2.0,1.83,1.96,1.25,1.9,1.95,Atromitos,Olympiacos,atromitos,olympiacos
+2022-01-05,G1,Greece-SL,2122,Apollon,Olympiakos,0.0,0.0,D,0.0,0.0,D,11.0,5.0,1.33,11.76,5.18,1.27,10.73,5.04,1.28,1.8,2.0,1.81,1.96,1.5,,,Apollon,Olympiacos,apollon,olympiacos
+2022-01-16,G1,Greece-SL,2122,Panathinaikos,Olympiakos,0.0,0.0,D,0.0,0.0,D,4.33,3.3,1.95,4.15,3.31,1.94,4.05,3.29,1.92,2.25,1.61,2.2,1.64,0.5,1.93,1.93,Panathinaikos,Olympiacos,panathinaikos,olympiacos
+2022-01-30,G1,Greece-SL,2122,PAOK,Olympiakos,1.0,1.0,D,1.0,1.0,D,2.6,3.2,2.8,2.67,3.25,2.69,2.59,3.15,2.71,2.35,1.57,2.28,1.6,0.0,1.85,2.0,PAOK,Olympiacos,paok,olympiacos
+2022-02-06,G1,Greece-SL,2122,Ionikos,Olympiakos,0.0,3.0,A,0.0,1.0,A,9.0,4.75,1.36,9.26,4.2,1.39,9.23,4.4,1.36,2.05,1.75,2.08,1.72,1.25,1.98,1.88,Ionikos,Olympiacos,ionikos,olympiacos
+2022-02-20,G1,Greece-SL,2122,Volos NFC,Olympiakos,0.0,1.0,A,0.0,0.0,D,7.0,4.0,1.53,5.86,4.17,1.53,6.03,4.11,1.51,1.75,2.05,1.77,2.02,1.0,2.0,1.85,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2022-03-06,G1,Greece-SL,2122,Aris,Olympiakos,2.0,1.0,H,0.0,1.0,A,3.5,2.75,2.5,3.09,2.91,2.59,3.15,2.84,2.51,2.5,1.5,2.55,1.48,0.25,1.75,2.13,Aris Thessaloniki,Olympiacos,aris_thessaloniki,olympiacos
+2022-03-20,G1,Greece-SL,2122,Giannina,Olympiakos,1.0,1.0,D,0.0,1.0,A,5.75,3.4,1.72,5.46,3.4,1.71,5.11,3.44,1.71,2.15,1.66,2.19,1.64,0.75,1.9,1.95,PAS Giannina,Olympiacos,pas_giannina,olympiacos
+2022-04-17,G1,Greece-SL,2122,Panathinaikos,Olympiakos,1.0,0.0,H,1.0,0.0,H,3.0,3.1,2.5,3.13,3.13,2.4,2.99,3.08,2.42,2.25,1.61,2.35,1.56,0.25,1.7,2.1,Panathinaikos,Olympiacos,panathinaikos,olympiacos
+2022-05-04,G1,Greece-SL,2122,PAOK,Olympiakos,1.0,2.0,A,1.0,0.0,H,2.6,3.2,2.8,2.71,3.17,2.7,2.64,3.11,2.7,2.25,1.61,2.26,1.61,0.0,1.88,1.98,PAOK,Olympiacos,paok,olympiacos
+2022-05-08,G1,Greece-SL,2122,Aris,Olympiakos,0.0,1.0,A,0.0,0.0,D,1.66,3.4,5.0,1.71,3.45,5.35,1.71,3.37,5.24,2.5,1.5,2.52,1.49,-0.75,1.95,1.9,Aris Thessaloniki,Olympiacos,aris_thessaloniki,olympiacos
+2022-05-17,G1,Greece-SL,2122,AEK,Olympiakos,2.0,3.0,A,1.0,1.0,D,2.25,3.3,3.3,2.26,3.34,3.3,2.23,3.29,3.16,1.95,1.9,1.93,1.84,-0.25,1.93,1.93,AEK Athens,Olympiacos,aek_athens,olympiacos
+2022-08-29,G1,Greece-SL,2223,Asteras Tripolis,Olympiakos,0.0,0.0,D,0.0,0.0,D,5.0,3.4,1.8,4.26,3.56,1.84,4.37,3.45,1.8,2.07,1.72,2.06,1.72,0.75,1.8,2.05,Asteras Tripolis,Olympiacos,asteras_tripolis,olympiacos
+2022-09-18,G1,Greece-SL,2223,Aris,Olympiakos,2.0,1.0,H,0.0,1.0,A,3.5,3.3,2.15,3.79,3.28,2.05,3.56,3.27,2.07,2.15,1.66,2.16,1.66,0.25,2.0,1.85,Aris Thessaloniki,Olympiacos,aris_thessaloniki,olympiacos
+2022-10-09,G1,Greece-SL,2223,OFI Crete,Olympiakos,1.0,2.0,A,1.0,0.0,H,8.0,4.2,1.44,7.04,4.14,1.5,6.62,4.1,1.48,1.93,1.93,1.93,1.85,1.0,2.15,1.68,OFI Crete,Olympiacos,ofi_crete,olympiacos
+2022-10-22,G1,Greece-SL,2223,Panetolikos,Olympiakos,0.0,2.0,A,0.0,0.0,D,5.5,4.33,1.55,6.14,3.92,1.58,5.83,3.94,1.55,2.05,1.8,2.02,1.77,1.0,1.83,2.02,Panetolikos,Olympiacos,panetolikos,olympiacos
+2022-11-06,G1,Greece-SL,2223,Panathinaikos,Olympiakos,1.0,1.0,D,0.0,0.0,D,2.2,3.3,3.4,2.23,3.18,3.41,2.21,3.14,3.33,2.25,1.61,2.26,1.61,-0.25,1.85,2.0,Panathinaikos,Olympiacos,panathinaikos,olympiacos
+2022-11-09,G1,Greece-SL,2223,Levadeiakos,Olympiakos,0.0,1.0,A,0.0,1.0,A,9.0,4.75,1.36,9.98,4.96,1.34,9.02,4.76,1.34,1.85,2.0,1.82,1.94,1.25,2.0,1.85,Levadeiakos,Olympiacos,levadeiakos,olympiacos
+2022-12-21,G1,Greece-SL,2223,Giannina,Olympiakos,2.0,2.0,D,0.0,2.0,A,9.0,4.5,1.4,9.24,4.61,1.38,8.16,4.4,1.39,1.85,2.0,1.9,1.87,1.25,1.9,1.95,PAS Giannina,Olympiacos,pas_giannina,olympiacos
+2023-01-03,G1,Greece-SL,2223,Ionikos,Olympiakos,0.0,2.0,A,0.0,2.0,A,13.0,5.25,1.25,13.07,5.35,1.25,12.26,5.33,1.25,1.8,2.0,1.78,1.99,1.5,2.0,1.8,Ionikos,Olympiacos,ionikos,olympiacos
+2023-01-08,G1,Greece-SL,2223,Volos NFC,Olympiakos,0.0,4.0,A,0.0,3.0,A,10.0,4.75,1.33,8.61,4.73,1.36,8.66,4.64,1.35,1.9,1.95,1.82,1.95,1.25,2.02,1.83,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2023-01-22,G1,Greece-SL,2223,Atromitos,Olympiakos,1.0,1.0,D,0.0,0.0,D,8.0,4.75,1.4,8.4,4.99,1.34,7.97,4.76,1.36,1.7,2.1,1.69,2.1,1.25,2.0,1.85,Atromitos,Olympiacos,atromitos,olympiacos
+2023-02-05,G1,Greece-SL,2223,PAOK,Olympiakos,0.0,0.0,D,0.0,0.0,D,2.45,3.2,3.1,2.6,2.99,2.98,2.49,3.04,2.94,2.4,1.53,2.42,1.53,-0.25,2.1,1.77,PAOK,Olympiacos,paok,olympiacos
+2023-02-19,G1,Greece-SL,2223,Lamia,Olympiakos,0.0,3.0,A,0.0,1.0,A,12.0,4.75,1.3,11.93,4.83,1.29,11.08,4.89,1.29,2.02,1.83,1.98,1.8,1.5,1.83,2.02,Lamia,Olympiacos,lamia,olympiacos
+2023-03-12,G1,Greece-SL,2223,AEK,Olympiakos,1.0,3.0,A,0.0,0.0,D,2.05,3.3,3.75,1.96,3.35,4.0,1.98,3.31,3.76,2.15,1.67,2.13,1.67,-0.5,2.0,1.85,AEK Athens,Olympiacos,aek_athens,olympiacos
+2023-03-19,G1,Greece-SL,2223,Volos NFC,Olympiakos,0.0,3.0,A,0.0,2.0,A,34.0,9.0,1.07,,,,23.16,7.82,1.12,1.48,2.6,1.53,2.38,2.25,,,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2023-04-09,G1,Greece-SL,2223,Panathinaikos,Olympiakos,2.0,0.0,H,2.0,0.0,H,2.55,3.2,2.88,2.71,2.94,2.89,2.56,3.0,2.86,2.5,1.5,2.49,1.51,0.0,1.8,2.05,Panathinaikos,Olympiacos,panathinaikos,olympiacos
+2023-04-26,G1,Greece-SL,2223,Aris,Olympiakos,2.0,1.0,H,1.0,0.0,H,4.5,3.4,1.91,4.45,3.47,1.87,4.32,3.37,1.85,2.1,1.7,2.17,1.65,0.5,1.98,1.88,Aris Thessaloniki,Olympiacos,aris_thessaloniki,olympiacos
+2023-05-03,G1,Greece-SL,2223,AEK,Olympiakos,0.0,0.0,D,0.0,0.0,D,1.73,3.6,5.25,1.72,3.75,5.0,1.71,3.64,4.69,1.98,1.88,1.92,1.84,-0.75,1.95,1.9,AEK Athens,Olympiacos,aek_athens,olympiacos
+2023-05-14,G1,Greece-SL,2223,PAOK,Olympiakos,0.0,1.0,A,0.0,1.0,A,2.25,3.25,3.4,2.25,3.27,3.29,2.23,3.24,3.16,2.05,1.75,2.07,1.72,-0.25,1.93,1.93,PAOK,Olympiacos,paok,olympiacos
+2023-09-17,G1,Greece-SL,2324,AEK,Olympiakos,1.0,1.0,D,1.0,1.0,D,2.2,3.4,3.3,2.19,3.35,3.32,2.13,3.33,3.3,2.03,1.83,1.99,1.78,-0.25,1.88,1.98,AEK Athens,Olympiacos,aek_athens,olympiacos
+2023-10-01,G1,Greece-SL,2324,Giannina,Olympiakos,0.0,3.0,A,0.0,2.0,A,8.0,4.33,1.44,7.93,4.46,1.4,7.74,4.32,1.41,1.95,1.9,1.9,1.86,1.25,1.85,2.0,PAS Giannina,Olympiacos,pas_giannina,olympiacos
+2023-10-30,G1,Greece-SL,2324,OFI Crete,Olympiakos,0.0,2.0,A,0.0,1.0,A,6.5,4.0,1.55,5.97,4.26,1.51,5.67,4.08,1.54,1.8,2.0,1.78,1.99,1.0,1.9,1.95,OFI Crete,Olympiacos,ofi_crete,olympiacos
+2023-11-12,G1,Greece-SL,2324,Asteras Tripolis,Olympiakos,0.0,2.0,A,0.0,0.0,D,7.0,4.33,1.45,7.05,4.47,1.43,6.74,4.37,1.44,1.75,2.05,1.77,2.01,1.0,2.08,1.73,Asteras Tripolis,Olympiacos,asteras_tripolis,olympiacos
+2023-12-03,G1,Greece-SL,2324,Volos NFC,Olympiakos,2.0,2.0,D,1.0,1.0,D,15.0,6.5,1.2,12.69,6.38,1.2,13.23,6.18,1.2,1.65,2.2,1.63,2.2,1.75,2.03,1.83,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2023-12-18,G1,Greece-SL,2324,Panserraikos,Olympiakos,0.0,1.0,A,0.0,0.0,D,8.5,5.0,1.36,8.79,4.98,1.34,8.39,4.83,1.34,1.83,2.03,1.79,1.98,1.25,2.03,1.83,Panserraikos,Olympiacos,panserraikos,olympiacos
+2023-12-21,G1,Greece-SL,2324,Atromitos,Olympiakos,0.0,0.0,D,0.0,0.0,D,8.5,4.5,1.44,7.93,4.69,1.38,7.43,4.5,1.4,1.85,2.0,1.82,1.95,1.25,1.93,1.93,Atromitos,Olympiacos,atromitos,olympiacos
+2024-01-03,G1,Greece-SL,2324,Lamia,Olympiakos,1.0,0.0,H,1.0,0.0,H,9.5,4.75,1.36,8.2,4.98,1.37,8.55,4.78,1.34,1.75,2.05,1.78,2.0,1.5,1.73,2.08,Lamia,Olympiacos,lamia,olympiacos
+2024-01-14,G1,Greece-SL,2324,Kifisia,Olympiakos,2.0,3.0,A,1.0,2.0,A,11.0,5.0,1.33,8.7,5.18,1.32,9.36,5.11,1.3,1.7,2.1,1.67,2.13,1.5,1.9,1.95,Kifisia,Olympiacos,kifisia,olympiacos
+2024-01-21,G1,Greece-SL,2324,Aris,Olympiakos,1.0,2.0,A,0.0,2.0,A,4.75,3.3,1.85,4.31,3.5,1.85,4.13,3.41,1.85,2.08,1.73,2.04,1.74,0.5,1.98,1.88,Aris Thessaloniki,Olympiacos,aris_thessaloniki,olympiacos
+2024-02-04,G1,Greece-SL,2324,Panathinaikos,Olympiakos,2.0,0.0,H,1.0,0.0,H,2.4,3.25,3.0,2.54,2.85,3.23,2.38,3.07,3.04,2.25,1.62,2.24,1.62,-0.25,2.1,1.78,Panathinaikos,Olympiacos,panathinaikos,olympiacos
+2024-02-18,G1,Greece-SL,2324,PAOK,Olympiakos,1.0,4.0,A,1.0,1.0,D,1.95,3.5,4.0,2.18,3.11,3.63,2.08,3.28,3.47,2.05,1.75,2.05,1.74,-0.25,1.7,2.2,PAOK,Olympiacos,paok,olympiacos
+2024-02-28,G1,Greece-SL,2324,Panetolikos,Olympiakos,1.0,2.0,A,1.0,0.0,H,7.5,4.75,1.4,7.09,5.14,1.4,7.34,4.88,1.36,1.67,2.15,1.68,2.14,1.25,1.98,1.88,Panetolikos,Olympiacos,panetolikos,olympiacos
+2024-03-31,G1,Greece-SL,2324,AEK,Olympiakos,1.0,0.0,H,0.0,0.0,D,1.8,3.4,5.0,1.76,3.74,4.36,1.79,3.61,4.21,1.93,1.93,1.87,1.89,-0.75,2.05,1.75,AEK Athens,Olympiacos,aek_athens,olympiacos
+2024-04-07,G1,Greece-SL,2324,Lamia,Olympiakos,1.0,5.0,A,0.0,3.0,A,12.0,6.0,1.25,10.64,5.92,1.23,10.93,5.8,1.23,1.6,2.3,1.6,2.28,1.75,1.85,2.0,Lamia,Olympiacos,lamia,olympiacos
+2024-04-24,G1,Greece-SL,2324,Aris,Olympiakos,1.0,1.0,D,0.0,0.0,D,8.0,4.2,1.45,7.05,4.44,1.45,6.75,4.33,1.44,1.83,2.03,1.8,1.98,1.25,1.83,2.03,Aris Thessaloniki,Olympiacos,aris_thessaloniki,olympiacos
+2024-05-12,G1,Greece-SL,2324,PAOK,Olympiakos,2.0,0.0,H,1.0,0.0,H,2.15,3.6,3.1,2.11,3.31,3.5,2.1,3.42,3.23,1.75,2.05,1.75,2.02,-0.25,1.85,2.0,PAOK,Olympiacos,paok,olympiacos
+2024-05-19,G1,Greece-SL,2324,Panathinaikos,Olympiakos,2.0,2.0,D,1.0,0.0,H,2.7,3.3,2.55,2.69,3.48,2.5,2.63,3.4,2.5,1.9,1.95,1.85,1.91,0.0,2.0,1.85,Panathinaikos,Olympiacos,panathinaikos,olympiacos
+2024-08-17,G1,Greece-SL,2425,Volos NFC,Olympiakos,0.0,2.0,A,0.0,1.0,A,10.0,5.0,1.3,8.11,6.08,1.28,8.75,5.63,1.28,1.57,2.35,1.58,2.28,1.5,1.93,1.93,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2024-08-31,G1,Greece-SL,2425,Lamia,Olympiakos,0.0,3.0,A,0.0,1.0,A,13.0,5.75,1.22,11.12,6.37,1.21,11.45,6.26,1.22,1.5,2.5,1.46,2.59,1.75,1.98,1.88,Lamia,Olympiacos,lamia,olympiacos
+2024-09-21,G1,Greece-SL,2425,Aris,Olympiakos,2.0,1.0,H,2.0,0.0,H,6.0,3.9,1.6,5.58,3.95,1.59,5.34,3.92,1.6,1.85,2.0,1.82,1.96,1.0,1.8,2.05,Aris Thessaloniki,Olympiacos,aris_thessaloniki,olympiacos
+2024-10-06,G1,Greece-SL,2425,Panathinaikos,Olympiakos,0.0,0.0,D,0.0,0.0,D,2.7,3.2,2.63,2.84,2.97,2.74,2.69,3.11,2.63,2.05,1.75,1.99,1.78,0.0,1.95,1.9,Panathinaikos,Olympiacos,panathinaikos,olympiacos
+2024-10-27,G1,Greece-SL,2425,Asteras Tripolis,Olympiakos,1.0,0.0,H,1.0,0.0,H,8.0,4.1,1.42,7.45,4.49,1.41,7.33,4.34,1.41,1.93,1.93,1.88,1.88,1.25,1.83,2.03,Asteras Tripolis,Olympiacos,asteras_tripolis,olympiacos
+2024-11-10,G1,Greece-SL,2425,PAOK,Olympiakos,2.0,3.0,A,0.0,1.0,A,2.63,3.2,2.8,2.64,3.09,2.85,2.55,3.13,2.76,2.08,1.73,2.05,1.73,0.0,1.79,1.94,PAOK,Olympiacos,paok,olympiacos
+2024-12-01,G1,Greece-SL,2425,OFI Crete,Olympiakos,0.0,2.0,A,0.0,0.0,D,8.5,4.2,1.42,7.85,4.81,1.37,7.78,4.52,1.38,1.73,2.08,1.72,2.07,1.25,1.93,1.93,OFI Crete,Olympiacos,ofi_crete,olympiacos
+2024-12-16,G1,Greece-SL,2425,Athens Kallithea,Olympiakos,1.0,1.0,D,0.0,0.0,D,10.0,4.75,1.33,8.59,5.05,1.34,8.63,4.87,1.33,1.8,2.0,1.78,2.0,1.5,1.78,2.03,Athens Kallithea,Olympiacos,athens_kallithea,olympiacos
+2025-01-06,G1,Greece-SL,2425,Panetolikos,Olympiakos,0.0,2.0,A,0.0,1.0,A,8.5,4.5,1.38,9.07,4.75,1.35,8.28,4.51,1.36,2.03,1.83,1.95,1.81,1.25,1.93,1.93,Panetolikos,Olympiacos,panetolikos,olympiacos
+2025-01-19,G1,Greece-SL,2425,Atromitos,Olympiakos,1.0,2.0,A,1.0,2.0,A,6.5,3.9,1.53,6.89,3.95,1.51,6.34,3.82,1.52,2.15,1.67,2.16,1.66,1.0,1.88,1.98,Atromitos,Olympiacos,atromitos,olympiacos
+2025-02-02,G1,Greece-SL,2425,Levadeiakos,Olympiakos,0.0,1.0,A,0.0,0.0,D,8.5,4.2,1.4,7.63,4.38,1.42,7.72,4.24,1.41,2.05,1.8,2.02,1.77,1.25,1.88,1.98,Levadeiakos,Olympiacos,levadeiakos,olympiacos
+2025-02-16,G1,Greece-SL,2425,Panserraikos,Olympiakos,0.0,4.0,A,0.0,2.0,A,15.0,5.75,1.2,14.16,6.19,1.2,13.94,6.09,1.19,1.73,2.08,1.7,2.11,1.75,1.98,1.88,Panserraikos,Olympiacos,panserraikos,olympiacos
+2025-03-02,G1,Greece-SL,2425,AEK,Olympiakos,0.0,1.0,A,0.0,0.0,D,2.63,3.1,2.8,2.58,3.21,2.81,2.51,3.13,2.78,2.25,1.58,2.25,1.62,0.0,1.85,2.0,AEK Athens,Olympiacos,aek_athens,olympiacos
+2025-04-06,G1,Greece-SL,2425,PAOK,Olympiakos,2.0,1.0,H,2.0,0.0,H,2.55,3.0,3.0,2.55,2.98,3.06,2.51,3.13,2.87,2.15,1.67,2.14,1.68,0.0,1.78,2.1,PAOK,Olympiacos,paok,olympiacos
+2025-04-27,G1,Greece-SL,2425,AEK,Olympiakos,0.0,2.0,A,0.0,1.0,A,2.25,3.0,3.5,2.33,2.99,3.43,2.24,3.1,3.33,2.35,1.57,2.34,1.57,-0.25,1.95,1.9,AEK Athens,Olympiacos,aek_athens,olympiacos
+2025-05-11,G1,Greece-SL,2425,Panathinaikos,Olympiakos,0.0,1.0,A,0.0,0.0,D,2.4,3.25,2.9,2.41,3.09,3.06,2.38,3.15,2.98,2.15,1.67,2.18,1.65,-0.25,2.1,1.78,Panathinaikos,Olympiacos,panathinaikos,olympiacos
+2025-08-30,G1,Greece-SL,2526,Volos NFC,Olympiakos,0.0,2.0,A,0.0,0.0,D,15.0,5.0,1.22,13.83,5.13,1.26,12.5,5.24,1.22,1.95,1.85,1.83,1.87,1.5,2.0,1.8,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2025-09-21,G1,Greece-SL,2526,Panathinaikos,Olympiakos,1.0,1.0,D,0.0,0.0,D,3.4,3.2,2.15,3.51,3.24,2.17,3.21,3.11,2.18,2.35,1.57,2.26,1.58,0.25,1.93,1.88,Panathinaikos,Olympiacos,panathinaikos,olympiacos
+2025-10-05,G1,Greece-SL,2526,PAOK,Olympiakos,2.0,1.0,H,0.0,1.0,A,2.5,3.1,2.75,2.46,3.57,2.71,2.5,3.09,2.69,2.25,1.62,2.2,1.61,0.0,1.8,2.0,PAOK,Olympiacos,paok,olympiacos
+2025-10-18,G1,Greece-SL,2526,Larisa,Olympiakos,0.0,2.0,A,0.0,2.0,A,13.0,6.0,1.19,12.45,6.21,1.21,11.5,5.54,1.22,1.7,2.1,1.67,2.09,1.75,1.78,2.03,Larisa,Olympiacos,larisa,olympiacos
+2025-11-09,G1,Greece-SL,2526,Kifisia,Olympiakos,1.0,3.0,A,0.0,1.0,A,11.0,5.25,1.25,,,,9.75,5.08,1.27,1.73,2.08,1.72,2.01,1.5,1.9,1.9,Kifisia,Olympiacos,kifisia,olympiacos
+2025-11-30,G1,Greece-SL,2526,Panetolikos,Olympiakos,0.0,1.0,A,0.0,0.0,D,13.0,5.75,1.19,,,,10.71,5.39,1.23,1.62,2.25,1.63,2.16,1.75,1.85,1.95,Panetolikos,Olympiacos,panetolikos,olympiacos
+2025-12-14,G1,Greece-SL,2526,Aris,Olympiakos,0.0,0.0,D,0.0,0.0,D,7.5,4.2,1.42,,,,6.78,3.99,1.44,2.03,1.78,1.96,1.75,1.0,2.03,1.78,Aris Thessaloniki,Olympiacos,aris_thessaloniki,olympiacos
+2026-01-10,G1,Greece-SL,2526,Atromitos,Olympiakos,0.0,2.0,A,0.0,1.0,A,10.0,5.5,1.25,,,,9.75,5.05,1.26,1.75,2.05,1.75,1.95,1.5,1.95,1.85,Atromitos,Olympiacos,atromitos,olympiacos
+2026-02-01,G1,Greece-SL,2526,AEK,Olympiakos,1.0,1.0,D,0.0,0.0,D,2.7,3.1,2.7,,,,2.62,3.05,2.62,2.15,1.67,2.15,1.63,0.0,1.9,1.9,AEK Athens,Olympiacos,aek_athens,olympiacos
+2026-02-04,G1,Greece-SL,2526,Asteras Tripolis,Olympiakos,0.0,3.0,A,0.0,2.0,A,11.0,4.75,1.3,,,,9.16,4.63,1.31,1.95,1.85,1.87,1.82,1.5,1.78,2.03,Asteras Tripolis,Olympiacos,asteras_tripolis,olympiacos
+2026-02-14,G1,Greece-SL,2526,Levadeiakos,Olympiakos,0.0,0.0,D,0.0,0.0,D,7.5,4.1,1.45,,,,6.61,4.13,1.43,1.9,1.9,1.84,1.86,1.0,2.03,1.78,Levadeiakos,Olympiacos,levadeiakos,olympiacos
+2026-03-01,G1,Greece-SL,2526,Panserraikos,Olympiakos,1.0,2.0,A,0.0,0.0,D,19.0,9.0,1.09,,,,19.94,7.83,1.09,1.53,2.4,1.5,2.43,2.25,1.95,1.85,Panserraikos,Olympiacos,panserraikos,olympiacos
+2026-03-14,G1,Greece-SL,2526,OFI Crete,Olympiakos,0.0,3.0,A,0.0,1.0,A,11.0,6.0,1.19,,,,11.08,5.25,1.23,1.7,2.1,1.68,2.07,1.75,1.85,1.95,OFI Crete,Olympiacos,ofi_crete,olympiacos
+2026-04-19,G1,Greece-SL,2526,Panathinaikos,Olympiakos,0.0,2.0,A,0.0,2.0,A,4.5,3.1,1.86,,,,4.1,3.19,1.86,2.35,1.57,2.28,1.56,0.5,1.9,1.9,Panathinaikos,Olympiacos,panathinaikos,olympiacos
+2026-05-03,G1,Greece-SL,2526,PAOK,Olympiakos,3.0,1.0,H,1.0,1.0,D,3.1,3.2,2.3,,,,2.96,3.07,2.31,2.35,1.57,2.24,1.57,0.25,1.8,2.0,PAOK,Olympiacos,paok,olympiacos
+2026-05-17,G1,Greece-SL,2526,AEK,Olympiakos,1.0,1.0,D,0.0,1.0,A,3.2,3.1,2.15,,,,3.01,3.15,2.22,2.1,1.7,2.06,1.68,0.25,1.85,1.95,AEK Athens,Olympiacos,aek_athens,olympiacos
+2026-08-30,G1,Greece-SL,2627,Asteras Tripolis,Olympiakos,0.0,1.0,A,0.0,1.0,A,11.0,4.5,1.3,,,,9.15,4.59,1.31,1.9,1.9,1.88,1.84,1.5,1.78,2.03,Asteras Tripolis,Olympiacos,asteras_tripolis,olympiacos
+2026-09-05,G1,Greece-SL,2627,Volos NFC,Olympiakos,1.0,1.0,D,0.0,1.0,A,12.0,5.5,1.22,,,,10.71,5.37,1.23,1.67,2.15,1.63,2.16,1.75,1.8,2.0,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2026-09-20,G1,Greece-SL,2627,Levadeiakos,Olympiakos,0.0,1.0,A,0.0,0.0,D,8.5,4.75,1.33,,,,7.81,4.4,1.35,1.9,1.9,1.86,1.84,1.25,1.9,1.9,Levadeiakos,Olympiacos,levadeiakos,olympiacos
+2026-10-18,G1,Greece-SL,2627,Panetolikos,Olympiakos,0.0,2.0,A,0.0,1.0,A,10.0,4.75,1.3,,,,8.72,4.73,1.3,1.8,2.0,1.76,1.96,1.5,1.83,1.98,Panetolikos,Olympiacos,panetolikos,olympiacos

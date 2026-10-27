@@ -1,0 +1,96 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,SC2,Scotland-L1,2122,Alloa,East Fife,3.0,1.0,H,1.0,0.0,H,1.8,3.5,3.75,1.89,3.99,3.67,1.85,3.67,3.63,1.85,1.95,1.84,1.9,-0.5,1.93,1.93,Alloa,East Fife,alloa,east_fife
+2021-08-21,SC2,Scotland-L1,2122,Alloa,Queens Park,1.0,1.0,D,0.0,0.0,D,3.1,3.4,2.2,3.04,3.3,2.24,2.99,3.3,2.21,1.85,2.0,1.82,1.93,0.25,1.88,1.98,Alloa,Queens Park,alloa,queens_park
+2021-09-11,SC2,Scotland-L1,2122,Alloa,Falkirk,2.0,0.0,H,1.0,0.0,H,3.2,3.5,2.0,3.43,3.43,2.02,3.32,3.37,2.03,1.9,1.9,1.86,1.88,0.25,2.02,1.83,Alloa,Falkirk,alloa,falkirk
+2021-10-02,SC2,Scotland-L1,2122,Alloa,Cove Rangers,1.0,3.0,A,0.0,0.0,D,3.2,3.6,1.9,3.26,3.35,2.11,3.29,3.42,2.03,1.8,2.0,1.79,1.95,0.5,1.83,2.02,Alloa,Cove Rangers,alloa,cove_rangers
+2021-10-16,SC2,Scotland-L1,2122,Alloa,Peterhead,2.0,4.0,A,2.0,2.0,D,1.9,3.6,3.25,1.97,3.84,3.22,1.97,3.55,3.33,1.93,1.93,1.87,1.88,-0.5,2.0,1.85,Alloa,Peterhead,alloa,peterhead
+2021-10-30,SC2,Scotland-L1,2122,Alloa,Airdrie Utd,2.0,1.0,H,1.0,0.0,H,2.5,3.5,2.37,2.58,3.39,2.53,2.5,3.33,2.56,1.9,1.9,1.87,1.87,0.0,1.95,1.9,Alloa,Airdrie Utd,alloa,airdrie_utd
+2021-11-13,SC2,Scotland-L1,2122,Alloa,Montrose,2.0,2.0,D,0.0,0.0,D,2.62,3.4,2.37,2.54,3.66,2.44,2.53,3.44,2.48,1.72,2.07,1.71,2.03,0.0,1.98,1.88,Alloa,Montrose,alloa,montrose
+2021-11-20,SC2,Scotland-L1,2122,Alloa,Dumbarton,1.0,2.0,A,0.0,0.0,D,2.0,3.6,3.5,1.91,3.79,3.43,1.96,3.57,3.34,1.72,2.07,1.77,1.97,-0.5,2.02,1.77,Alloa,Dumbarton,alloa,dumbarton
+2021-12-11,SC2,Scotland-L1,2122,Alloa,Clyde,0.0,1.0,A,0.0,0.0,D,1.83,3.5,3.6,1.79,3.81,3.89,1.81,3.68,3.81,1.66,2.15,1.67,2.1,-0.5,1.9,1.95,Alloa,Clyde,alloa,clyde
+2022-01-15,SC2,Scotland-L1,2122,Alloa,Queens Park,1.0,1.0,D,0.0,1.0,A,2.75,3.1,2.45,2.94,3.47,2.29,2.84,3.28,2.31,1.95,1.9,1.85,1.89,0.25,1.7,2.1,Alloa,Queens Park,alloa,queens_park
+2022-02-08,SC2,Scotland-L1,2122,Alloa,Falkirk,0.0,3.0,A,0.0,0.0,D,2.5,3.4,2.4,2.68,3.68,2.39,2.57,3.41,2.45,1.75,2.05,1.74,2.02,0.0,1.95,1.9,Alloa,Falkirk,alloa,falkirk
+2022-02-12,SC2,Scotland-L1,2122,Alloa,East Fife,1.0,3.0,A,1.0,2.0,A,1.85,3.5,3.5,1.94,3.53,3.41,1.91,3.52,3.51,1.72,2.07,1.72,2.03,-0.5,1.88,1.98,Alloa,East Fife,alloa,east_fife
+2022-02-26,SC2,Scotland-L1,2122,Alloa,Cove Rangers,2.0,2.0,D,2.0,0.0,H,4.2,3.4,1.8,4.0,3.57,1.74,3.95,3.57,1.79,1.85,2.0,1.75,1.99,0.5,2.02,1.83,Alloa,Cove Rangers,alloa,cove_rangers
+2022-03-05,SC2,Scotland-L1,2122,Alloa,Airdrie Utd,0.0,2.0,A,0.0,1.0,A,3.2,3.4,2.0,3.27,3.41,1.97,3.25,3.41,2.05,1.83,2.02,1.78,1.96,0.25,2.05,1.8,Alloa,Airdrie Utd,alloa,airdrie_utd
+2022-03-19,SC2,Scotland-L1,2122,Alloa,Peterhead,1.0,0.0,H,0.0,0.0,D,2.25,3.25,3.0,2.52,3.3,2.74,2.35,3.33,2.79,1.83,2.02,1.8,1.94,-0.25,2.0,1.85,Alloa,Peterhead,alloa,peterhead
+2022-04-02,SC2,Scotland-L1,2122,Alloa,Dumbarton,2.0,3.0,A,0.0,0.0,D,1.95,3.6,3.6,1.93,3.79,3.51,1.95,3.55,3.45,1.88,1.98,1.77,1.98,-0.5,1.98,1.88,Alloa,Dumbarton,alloa,dumbarton
+2022-04-09,SC2,Scotland-L1,2122,Alloa,Clyde,1.0,0.0,H,0.0,0.0,D,1.9,3.5,3.6,1.86,3.59,4.02,1.87,3.53,3.73,1.9,1.95,1.83,1.91,-0.5,1.95,1.9,Alloa,Clyde,alloa,clyde
+2022-04-30,SC2,Scotland-L1,2122,Alloa,Montrose,4.0,1.0,H,1.0,1.0,D,3.0,3.2,2.15,2.8,3.62,2.32,2.83,3.42,2.26,1.7,2.1,1.71,2.05,0.25,1.88,1.98,Alloa,Montrose,alloa,montrose
+2022-08-06,SC2,Scotland-L1,2223,Alloa,Kelty Hearts,3.0,1.0,H,1.0,0.0,H,2.1,3.4,3.1,2.29,3.38,3.01,2.16,3.36,3.05,1.98,1.88,1.87,1.86,-0.25,1.9,1.95,Alloa,Kelty Hearts,alloa,kelty_hearts
+2022-08-13,SC2,Scotland-L1,2223,Alloa,FC Edinburgh,2.0,4.0,A,1.0,2.0,A,1.61,3.8,4.75,1.63,4.0,5.03,1.62,3.82,4.82,1.75,2.05,1.76,1.99,-0.75,1.83,2.02,Alloa,FC Edinburgh,alloa,fc_edinburgh
+2022-08-27,SC2,Scotland-L1,2223,Alloa,Peterhead,5.0,0.0,H,3.0,0.0,H,1.75,3.5,4.2,1.66,3.92,4.5,1.72,3.7,4.21,1.75,2.05,1.74,2.0,-0.75,2.0,1.8,Alloa,Peterhead,alloa,peterhead
+2022-09-17,SC2,Scotland-L1,2223,Alloa,Montrose,2.0,1.0,H,0.0,0.0,D,2.2,3.75,2.55,2.3,3.62,2.83,2.27,3.49,2.75,1.72,2.07,1.72,2.03,-0.25,2.02,1.77,Alloa,Montrose,alloa,montrose
+2022-10-08,SC2,Scotland-L1,2223,Alloa,Dunfermline,0.0,3.0,A,0.0,2.0,A,3.0,3.4,2.05,3.44,3.5,2.05,3.21,3.42,2.06,1.9,1.95,1.84,1.89,0.25,1.95,1.9,Alloa,Dunfermline,alloa,dunfermline
+2022-10-15,SC2,Scotland-L1,2223,Alloa,Airdrie Utd,2.0,0.0,H,0.0,0.0,D,2.55,3.3,2.4,2.77,3.79,2.28,2.67,3.5,2.33,1.7,2.1,1.66,2.12,0.25,1.68,2.15,Alloa,Airdrie Utd,alloa,airdrie_utd
+2022-10-29,SC2,Scotland-L1,2223,Alloa,Clyde,2.0,1.0,H,1.0,1.0,D,1.61,3.75,4.75,1.72,3.67,4.73,1.67,3.75,4.41,1.72,2.07,1.68,2.08,-0.75,1.83,2.02,Alloa,Clyde,alloa,clyde
+2022-11-12,SC2,Scotland-L1,2223,Alloa,Queen of Sth,5.0,1.0,H,1.0,1.0,D,2.45,3.5,2.4,2.43,3.69,2.61,2.47,3.45,2.53,1.72,2.07,1.74,2.0,0.0,1.9,1.95,Alloa,Queen of Sth,alloa,queen_of_sth
+2022-12-31,SC2,Scotland-L1,2223,Alloa,Kelty Hearts,0.0,0.0,D,0.0,0.0,D,1.91,3.4,3.4,2.05,3.52,3.41,1.95,3.47,3.42,1.85,2.0,1.79,1.94,-0.25,1.73,2.15,Alloa,Kelty Hearts,alloa,kelty_hearts
+2023-01-14,SC2,Scotland-L1,2223,Alloa,FC Edinburgh,2.0,1.0,H,2.0,0.0,H,1.91,3.5,3.5,1.94,3.71,3.56,1.92,3.55,3.49,1.75,2.05,1.71,2.05,-0.5,1.95,1.9,Alloa,FC Edinburgh,alloa,fc_edinburgh
+2023-02-04,SC2,Scotland-L1,2223,Alloa,Peterhead,1.0,0.0,H,1.0,0.0,H,1.4,4.33,7.0,1.4,4.77,7.27,1.39,4.55,6.79,1.67,2.15,1.65,2.17,-1.25,1.93,1.93,Alloa,Peterhead,alloa,peterhead
+2023-02-07,SC2,Scotland-L1,2223,Alloa,Falkirk,1.0,1.0,D,0.0,0.0,D,3.6,3.3,1.95,3.97,3.25,1.98,3.64,3.31,1.94,1.9,1.95,1.82,1.92,0.5,1.88,1.98,Alloa,Falkirk,alloa,falkirk
+2023-02-25,SC2,Scotland-L1,2223,Alloa,Montrose,1.0,0.0,H,0.0,0.0,D,2.1,3.25,2.9,2.31,3.37,3.0,2.19,3.34,2.96,1.75,2.05,1.74,2.0,-0.25,1.98,1.88,Alloa,Montrose,alloa,montrose
+2023-03-18,SC2,Scotland-L1,2223,Alloa,Clyde,3.0,1.0,H,1.0,0.0,H,1.53,3.8,5.0,1.55,4.16,5.65,1.54,3.96,5.29,1.73,2.08,1.69,2.07,-1.0,1.98,1.88,Alloa,Clyde,alloa,clyde
+2023-04-01,SC2,Scotland-L1,2223,Alloa,Airdrie Utd,0.0,1.0,A,0.0,1.0,A,2.63,3.25,2.38,2.74,3.62,2.36,2.66,3.41,2.37,1.7,2.1,1.67,2.11,0.0,2.02,1.83,Alloa,Airdrie Utd,alloa,airdrie_utd
+2023-04-08,SC2,Scotland-L1,2223,Alloa,Queen of Sth,1.0,2.0,A,0.0,2.0,A,2.38,3.4,2.5,2.5,3.36,2.73,2.42,3.34,2.65,1.7,2.1,1.78,1.97,0.0,1.85,1.95,Alloa,Queen of Sth,alloa,queen_of_sth
+2023-04-22,SC2,Scotland-L1,2223,Alloa,Falkirk,1.0,4.0,A,0.0,2.0,A,3.0,3.25,2.1,3.05,3.23,2.34,2.98,3.32,2.21,2.08,1.73,1.88,1.85,0.25,1.9,1.95,Alloa,Falkirk,alloa,falkirk
+2023-05-06,SC2,Scotland-L1,2223,Alloa,Dunfermline,0.0,2.0,A,0.0,0.0,D,2.88,3.4,2.15,2.69,3.58,2.42,2.77,3.42,2.3,1.75,2.05,1.75,2.0,0.25,1.88,1.98,Alloa,Dunfermline,alloa,dunfermline
+2023-08-12,SC2,Scotland-L1,2324,Alloa,Stirling,0.0,1.0,A,0.0,0.0,D,2.1,3.5,3.0,,,,2.08,3.51,3.1,1.7,2.1,1.7,2.07,,,,Alloa,Stirling,alloa,stirling
+2023-08-26,SC2,Scotland-L1,2324,Alloa,Falkirk,1.0,4.0,A,0.0,2.0,A,4.5,3.8,1.73,3.99,3.88,1.8,4.06,3.72,1.76,1.73,2.08,1.72,2.06,0.75,1.85,2.0,Alloa,Falkirk,alloa,falkirk
+2023-09-02,SC2,Scotland-L1,2324,Alloa,Cove Rangers,1.0,0.0,H,1.0,0.0,H,2.55,3.5,2.45,2.64,3.33,2.6,2.58,3.38,2.48,1.73,2.08,1.71,2.07,0.0,1.98,1.88,Alloa,Cove Rangers,alloa,cove_rangers
+2023-09-30,SC2,Scotland-L1,2324,Alloa,Edinburgh City,1.0,1.0,D,0.0,0.0,D,1.6,4.0,5.0,1.67,3.94,4.45,1.65,3.92,4.39,1.62,2.25,1.57,2.29,-0.75,1.78,2.1,Alloa,Edinburgh City,alloa,edinburgh_city
+2023-10-21,SC2,Scotland-L1,2324,Alloa,Kelty Hearts,3.0,1.0,H,1.0,1.0,D,2.15,3.3,3.0,2.3,3.66,2.8,2.24,3.49,2.83,1.7,2.1,1.69,2.07,-0.25,1.98,1.88,Alloa,Kelty Hearts,alloa,kelty_hearts
+2023-11-11,SC2,Scotland-L1,2324,Alloa,Queen of Sth,1.0,0.0,H,0.0,0.0,D,2.55,3.2,2.45,2.74,3.47,2.43,2.62,3.44,2.41,1.7,2.1,1.65,2.13,0.0,2.0,1.85,Alloa,Queen of Sth,alloa,queen_of_sth
+2023-12-09,SC2,Scotland-L1,2324,Alloa,Hamilton,0.0,0.0,D,0.0,0.0,D,5.25,4.0,1.5,6.5,4.3,1.48,5.85,4.19,1.48,1.7,2.1,1.68,2.09,1.0,2.0,1.85,Alloa,Hamilton Academical,alloa,hamilton_academical
+2023-12-23,SC2,Scotland-L1,2324,Alloa,Montrose,2.0,2.0,D,0.0,0.0,D,2.2,3.3,2.9,2.26,3.51,2.97,2.19,3.45,2.92,1.75,2.05,1.7,2.05,-0.25,1.95,1.9,Alloa,Montrose,alloa,montrose
+2024-01-06,SC2,Scotland-L1,2324,Alloa,Edinburgh City,3.0,1.0,H,1.0,0.0,H,1.05,11.0,15.0,,,,1.06,10.49,21.83,1.29,3.5,1.31,3.23,-2.5,,,Alloa,Edinburgh City,alloa,edinburgh_city
+2024-01-27,SC2,Scotland-L1,2324,Alloa,Falkirk,0.0,5.0,A,0.0,1.0,A,6.5,4.2,1.4,6.74,4.71,1.42,6.67,4.55,1.38,1.62,2.25,1.59,2.24,1.25,1.95,1.9,Alloa,Falkirk,alloa,falkirk
+2024-02-10,SC2,Scotland-L1,2324,Alloa,Stirling,1.0,0.0,H,0.0,0.0,D,2.1,3.3,3.1,2.35,3.45,2.86,2.21,3.37,2.93,1.83,2.03,1.77,1.97,-0.25,1.93,1.93,Alloa,Stirling,alloa,stirling
+2024-02-13,SC2,Scotland-L1,2324,Alloa,Annan Athletic,2.0,1.0,H,1.0,0.0,H,1.85,3.5,3.6,1.95,3.89,3.38,1.91,3.7,3.41,1.6,2.3,1.56,2.33,-0.5,1.93,1.93,Alloa,Annan Athletic,alloa,annan_athletic
+2024-02-17,SC2,Scotland-L1,2324,Alloa,Cove Rangers,4.0,1.0,H,1.0,0.0,H,2.3,3.75,2.6,2.41,3.56,2.77,2.35,3.54,2.61,1.62,2.25,1.63,2.18,0.0,1.83,2.03,Alloa,Cove Rangers,alloa,cove_rangers
+2024-03-09,SC2,Scotland-L1,2324,Alloa,Kelty Hearts,3.0,0.0,H,1.0,0.0,H,1.91,3.5,3.5,1.83,3.89,3.94,1.83,3.75,3.67,1.53,2.38,1.54,2.37,-0.5,1.9,1.95,Alloa,Kelty Hearts,alloa,kelty_hearts
+2024-03-23,SC2,Scotland-L1,2324,Alloa,Queen of Sth,0.0,2.0,A,0.0,1.0,A,1.8,3.5,3.8,1.87,3.9,3.65,1.83,3.72,3.72,1.7,2.1,1.68,2.11,-0.5,1.83,2.03,Alloa,Queen of Sth,alloa,queen_of_sth
+2024-03-30,SC2,Scotland-L1,2324,Alloa,Annan Athletic,1.0,1.0,D,1.0,1.0,D,1.62,3.8,4.5,1.71,4.43,3.91,1.69,4.1,3.99,1.44,2.63,1.45,2.6,-0.75,1.88,1.98,Alloa,Annan Athletic,alloa,annan_athletic
+2024-04-13,SC2,Scotland-L1,2324,Alloa,Montrose,0.0,0.0,D,0.0,0.0,D,1.91,3.8,3.3,1.96,3.66,3.54,1.92,3.66,3.41,1.67,2.15,1.63,2.2,-0.5,1.98,1.88,Alloa,Montrose,alloa,montrose
+2024-04-27,SC2,Scotland-L1,2324,Alloa,Hamilton,0.0,1.0,A,0.0,1.0,A,3.3,3.75,1.8,3.79,3.77,1.87,3.64,3.75,1.82,1.57,2.35,1.58,2.29,0.5,2.0,1.85,Alloa,Hamilton Academical,alloa,hamilton_academical
+2024-08-03,SC2,Scotland-L1,2425,Alloa,Queen of Sth,0.0,0.0,D,0.0,0.0,D,2.05,3.5,3.2,2.18,3.4,3.07,2.11,3.45,3.09,1.73,2.08,1.74,2.02,-0.25,1.83,2.03,Alloa,Queen of Sth,alloa,queen_of_sth
+2024-08-17,SC2,Scotland-L1,2425,Alloa,Stenhousemuir,1.0,0.0,H,0.0,0.0,D,1.67,3.8,4.75,1.71,3.78,4.32,1.68,3.76,4.44,1.73,2.08,1.74,2.01,-0.75,1.85,2.0,Alloa,Stenhousemuir,alloa,stenhousemuir
+2024-09-14,SC2,Scotland-L1,2425,Alloa,Inverness C,2.0,2.0,D,0.0,1.0,A,2.2,3.25,3.1,2.3,3.32,2.91,2.24,3.28,2.96,1.98,1.88,1.88,1.85,-0.25,1.98,1.88,Alloa,Inverness Caledonian Thistle,alloa,inverness_caledonian_thistle
+2024-09-21,SC2,Scotland-L1,2425,Alloa,Kelty Hearts,1.0,0.0,H,0.0,0.0,D,1.95,3.4,3.5,1.95,3.49,3.56,1.95,3.46,3.51,1.83,2.03,1.78,1.97,-0.5,2.0,1.85,Alloa,Kelty Hearts,alloa,kelty_hearts
+2024-10-05,SC2,Scotland-L1,2425,Alloa,Cove Rangers,0.0,2.0,A,0.0,2.0,A,1.83,3.5,3.7,1.85,3.67,3.73,1.85,3.66,3.67,1.65,2.2,1.64,2.17,-0.5,1.88,1.98,Alloa,Cove Rangers,alloa,cove_rangers
+2024-10-26,SC2,Scotland-L1,2425,Alloa,Arbroath,0.0,1.0,A,0.0,1.0,A,1.95,3.5,3.5,1.93,3.58,3.55,1.94,3.5,3.52,1.73,2.08,1.71,2.05,-0.5,1.98,1.88,Alloa,Arbroath,alloa,arbroath
+2024-11-02,SC2,Scotland-L1,2425,Alloa,Annan Athletic,5.0,0.0,H,3.0,0.0,H,1.95,3.5,3.4,2.07,3.33,3.4,2.03,3.36,3.36,1.98,1.88,1.96,1.79,-0.5,2.03,1.83,Alloa,Annan Athletic,alloa,annan_athletic
+2024-12-03,SC2,Scotland-L1,2425,Alloa,Dumbarton,2.0,2.0,D,1.0,1.0,D,2.15,3.4,3.1,2.17,3.49,3.02,2.17,3.44,2.99,1.7,2.1,1.69,2.09,-0.25,1.95,1.9,Alloa,Dumbarton,alloa,dumbarton
+2024-12-14,SC2,Scotland-L1,2425,Alloa,Montrose,1.0,2.0,A,0.0,0.0,D,2.1,3.3,3.25,2.13,3.14,3.45,2.11,3.16,3.38,2.2,1.65,2.22,1.61,-0.25,1.85,2.0,Alloa,Montrose,alloa,montrose
+2024-12-28,SC2,Scotland-L1,2425,Alloa,Stenhousemuir,1.0,3.0,A,0.0,1.0,A,2.05,3.4,3.1,2.09,3.24,3.42,2.1,3.32,3.23,1.95,1.9,1.92,1.83,-0.25,1.85,2.0,Alloa,Stenhousemuir,alloa,stenhousemuir
+2025-01-11,SC2,Scotland-L1,2425,Alloa,Queen of Sth,1.0,1.0,D,0.0,1.0,A,2.15,3.5,3.0,2.2,3.37,3.06,2.15,3.34,2.99,1.8,2.0,1.78,1.97,-0.25,1.93,1.93,Alloa,Queen of Sth,alloa,queen_of_sth
+2025-01-25,SC2,Scotland-L1,2425,Alloa,Inverness C,1.0,2.0,A,0.0,1.0,A,2.8,3.25,2.25,2.82,3.22,2.39,2.81,3.2,2.31,2.03,1.83,1.99,1.77,0.25,1.8,2.05,Alloa,Inverness Caledonian Thistle,alloa,inverness_caledonian_thistle
+2025-02-15,SC2,Scotland-L1,2425,Alloa,Kelty Hearts,2.0,0.0,H,2.0,0.0,H,2.0,3.75,2.9,2.12,3.48,3.13,2.08,3.49,3.08,1.85,2.0,1.79,1.95,-0.25,1.85,2.0,Alloa,Kelty Hearts,alloa,kelty_hearts
+2025-03-01,SC2,Scotland-L1,2425,Alloa,Cove Rangers,2.0,1.0,H,0.0,1.0,A,2.88,3.4,2.2,2.78,3.45,2.34,2.8,3.4,2.27,1.75,2.05,1.73,2.02,0.25,1.83,2.03,Alloa,Cove Rangers,alloa,cove_rangers
+2025-03-08,SC2,Scotland-L1,2425,Alloa,Arbroath,2.0,3.0,A,0.0,1.0,A,3.3,3.5,2.1,3.23,3.36,2.12,3.2,3.37,2.1,1.85,2.0,1.8,1.93,0.25,2.0,1.85,Alloa,Arbroath,alloa,arbroath
+2025-03-29,SC2,Scotland-L1,2425,Alloa,Dumbarton,2.0,3.0,A,1.0,0.0,H,1.75,3.6,3.7,1.91,3.68,3.52,1.83,3.68,3.71,1.65,2.2,1.62,2.18,-0.5,1.85,2.0,Alloa,Dumbarton,alloa,dumbarton
+2025-04-12,SC2,Scotland-L1,2425,Alloa,Annan Athletic,1.0,0.0,H,0.0,0.0,D,2.05,3.4,3.2,2.16,3.62,2.96,2.12,3.51,3.07,1.7,2.1,1.71,2.07,-0.25,1.85,2.0,Alloa,Annan Athletic,alloa,annan_athletic
+2025-04-26,SC2,Scotland-L1,2425,Alloa,Montrose,2.0,1.0,H,0.0,1.0,A,1.8,3.75,3.5,1.85,3.55,3.51,1.85,3.64,3.63,1.75,2.05,1.75,2.0,-0.5,1.85,2.0,Alloa,Montrose,alloa,montrose
+2025-08-23,SC2,Scotland-L1,2526,Alloa,Hamilton,1.0,0.0,H,0.0,0.0,D,2.5,3.4,2.35,2.63,3.2,2.6,2.63,3.15,2.42,2.08,1.73,2.05,1.67,0.0,1.95,1.85,Alloa,Hamilton Academical,alloa,hamilton_academical
+2025-09-13,SC2,Scotland-L1,2526,Alloa,Montrose,0.0,1.0,A,0.0,0.0,D,2.3,3.25,2.88,2.33,3.52,2.75,2.28,3.19,2.83,1.98,1.83,1.92,1.77,-0.25,2.03,1.78,Alloa,Montrose,alloa,montrose
+2025-09-20,SC2,Scotland-L1,2526,Alloa,Cove Rangers,2.0,1.0,H,2.0,0.0,H,2.15,3.4,3.1,2.24,3.31,3.03,2.14,3.25,3.01,1.85,1.95,1.84,1.84,-0.25,1.9,1.9,Alloa,Cove Rangers,alloa,cove_rangers
+2025-10-18,SC2,Scotland-L1,2526,Alloa,East Fife,1.0,1.0,D,0.0,0.0,D,2.15,3.4,2.9,2.25,3.28,3.03,2.14,3.3,2.94,1.85,1.95,1.79,1.88,-0.25,1.95,1.85,Alloa,East Fife,alloa,east_fife
+2025-10-25,SC2,Scotland-L1,2526,Alloa,Stenhousemuir,0.0,0.0,D,0.0,0.0,D,2.55,3.5,2.35,,,,2.6,3.18,2.45,2.0,1.8,1.96,1.73,0.0,2.0,1.8,Alloa,Stenhousemuir,alloa,stenhousemuir
+2025-11-01,SC2,Scotland-L1,2526,Alloa,Kelty Hearts,3.0,0.0,H,2.0,0.0,H,1.48,3.8,6.0,,,,1.48,4.05,5.5,1.7,2.1,1.68,2.04,-1.0,1.8,2.0,Alloa,Kelty Hearts,alloa,kelty_hearts
+2025-11-25,SC2,Scotland-L1,2526,Alloa,Inverness C,1.0,1.0,D,0.0,1.0,A,4.5,3.9,1.62,,,,4.44,3.64,1.65,1.75,2.05,1.74,1.95,0.75,2.0,1.8,Alloa,Inverness Caledonian Thistle,alloa,inverness_caledonian_thistle
+2025-12-06,SC2,Scotland-L1,2526,Alloa,Peterhead,4.0,0.0,H,1.0,0.0,H,1.85,3.5,3.6,,,,1.87,3.4,3.54,1.88,1.93,1.82,1.85,-0.5,1.93,1.88,Alloa,Peterhead,alloa,peterhead
+2025-12-13,SC2,Scotland-L1,2526,Alloa,Queen of Sth,0.0,2.0,A,0.0,1.0,A,1.85,3.3,3.8,,,,1.86,3.34,3.65,1.95,1.85,1.89,1.79,-0.5,1.9,1.9,Alloa,Queen of Sth,alloa,queen_of_sth
+2025-12-27,SC2,Scotland-L1,2526,Alloa,Stenhousemuir,0.0,0.0,D,0.0,0.0,D,2.1,3.3,3.0,,,,2.08,3.17,3.17,2.1,1.7,2.04,1.67,-0.25,1.8,2.0,Alloa,Stenhousemuir,alloa,stenhousemuir
+2026-01-20,SC2,Scotland-L1,2526,Alloa,Montrose,4.0,1.0,H,2.0,0.0,H,1.85,3.3,3.6,,,,1.88,3.27,3.63,1.98,1.83,1.89,1.78,-0.5,1.93,1.88,Alloa,Montrose,alloa,montrose
+2026-01-31,SC2,Scotland-L1,2526,Alloa,Cove Rangers,2.0,2.0,D,1.0,0.0,H,1.95,3.25,3.5,,,,1.92,3.29,3.48,1.98,1.83,1.85,1.82,-0.5,2.0,1.8,Alloa,Cove Rangers,alloa,cove_rangers
+2026-02-21,SC2,Scotland-L1,2526,Alloa,Hamilton,3.0,0.0,H,0.0,0.0,D,1.91,3.2,3.6,,,,1.94,3.19,3.52,2.05,1.75,2.0,1.69,-0.5,1.98,1.83,Alloa,Hamilton Academical,alloa,hamilton_academical
+2026-03-07,SC2,Scotland-L1,2526,Alloa,Kelty Hearts,2.0,1.0,H,0.0,1.0,A,1.67,3.5,4.75,,,,1.63,3.55,4.58,1.9,1.9,1.85,1.83,-0.75,1.88,1.93,Alloa,Kelty Hearts,alloa,kelty_hearts
+2026-03-21,SC2,Scotland-L1,2526,Alloa,Inverness C,1.0,1.0,D,1.0,0.0,H,4.5,3.5,1.65,,,,4.38,3.62,1.64,1.8,2.0,1.74,1.94,0.75,1.95,1.85,Alloa,Inverness Caledonian Thistle,alloa,inverness_caledonian_thistle
+2026-03-28,SC2,Scotland-L1,2526,Alloa,Peterhead,1.0,2.0,A,1.0,0.0,H,1.91,3.4,3.4,,,,1.93,3.4,3.28,1.73,2.08,1.7,1.99,-0.5,1.98,1.83,Alloa,Peterhead,alloa,peterhead
+2026-04-18,SC2,Scotland-L1,2526,Alloa,East Fife,2.0,0.0,H,1.0,0.0,H,1.7,3.6,4.1,,,,1.7,3.62,4.03,1.7,2.1,1.64,2.08,-0.75,1.93,1.88,Alloa,East Fife,alloa,east_fife
+2026-05-02,SC2,Scotland-L1,2526,Alloa,Queen of Sth,1.0,4.0,A,1.0,1.0,D,2.15,3.4,2.8,,,,2.18,3.41,2.75,1.73,2.08,1.65,2.06,-0.25,1.95,1.85,Alloa,Queen of Sth,alloa,queen_of_sth
+2026-08-01,SC2,Scotland-L1,2627,Alloa,East Fife,0.0,0.0,D,0.0,0.0,D,1.9,3.5,3.4,,,,1.92,3.38,3.4,1.9,1.9,1.85,1.85,-0.5,1.95,1.85,Alloa,East Fife,alloa,east_fife
+2026-08-15,SC2,Scotland-L1,2627,Alloa,Montrose,3.0,0.0,H,2.0,0.0,H,2.0,3.4,3.1,,,,2.03,3.39,3.12,1.85,1.95,1.77,1.93,-0.25,1.83,1.98,Alloa,Montrose,alloa,montrose
+2026-08-29,SC2,Scotland-L1,2627,Alloa,Peterhead,1.0,1.0,D,1.0,0.0,H,2.05,3.25,3.1,,,,2.05,3.3,3.15,1.98,1.83,1.93,1.79,-0.25,1.85,1.95,Alloa,Peterhead,alloa,peterhead
+2026-09-19,SC2,Scotland-L1,2627,Alloa,East Kilbride,1.0,2.0,A,0.0,1.0,A,2.45,3.4,2.55,,,,2.43,3.4,2.52,1.67,2.15,1.65,2.11,0.0,1.85,1.95,Alloa,East Kilbride,alloa,east_kilbride
+2026-10-10,SC2,Scotland-L1,2627,Alloa,Hamilton,0.0,3.0,A,0.0,3.0,A,3.8,3.6,1.73,,,,3.94,3.55,1.75,1.8,2.0,1.74,1.97,0.5,2.03,1.78,Alloa,Hamilton Academical,alloa,hamilton_academical

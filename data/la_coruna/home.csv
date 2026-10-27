@@ -1,0 +1,48 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2024-08-17,SP2,Spain-Segunda,2425,La Coruna,Oviedo,0.0,1.0,A,0.0,1.0,A,2.5,3.1,2.9,2.59,3.02,3.02,2.52,3.03,2.93,2.35,1.57,2.35,1.57,0.0,1.78,2.1,La Coruna,Real Oviedo,la_coruna,real_oviedo
+2024-09-01,SP2,Spain-Segunda,2425,La Coruna,Ferrol,1.0,0.0,H,0.0,0.0,D,1.85,3.3,4.33,1.9,3.33,4.46,1.89,3.27,4.25,2.35,1.57,2.36,1.56,-0.5,1.88,1.98,La Coruna,Ferrol,la_coruna,ferrol
+2024-09-21,SP2,Spain-Segunda,2425,La Coruna,Burgos,0.0,2.0,A,0.0,0.0,D,1.9,3.3,4.2,1.93,3.26,4.38,1.93,3.27,4.1,2.2,1.65,2.22,1.63,-0.5,1.93,1.93,La Coruna,Burgos,la_coruna,burgos
+2024-10-06,SP2,Spain-Segunda,2425,La Coruna,Malaga,0.0,0.0,D,0.0,0.0,D,1.85,3.25,4.5,1.84,3.44,4.57,1.86,3.33,4.36,2.25,1.62,2.25,1.61,-0.5,1.85,2.0,La Coruna,Malaga,la_coruna,malaga
+2024-10-19,SP2,Spain-Segunda,2425,La Coruna,Eldense,1.0,1.0,D,1.0,1.0,D,1.83,3.5,4.2,1.83,3.52,4.52,1.82,3.46,4.34,2.1,1.7,2.09,1.72,-0.5,1.85,2.0,La Coruna,Eldense,la_coruna,eldense
+2024-10-27,SP2,Spain-Segunda,2425,La Coruna,Santander,1.0,2.0,A,0.0,2.0,A,2.4,3.25,2.9,2.45,3.2,3.04,2.4,3.2,2.91,1.95,1.9,1.9,1.86,0.0,1.73,2.08,La Coruna,Santander,la_coruna,santander
+2024-11-11,SP2,Spain-Segunda,2425,La Coruna,Eibar,1.0,0.0,H,0.0,0.0,D,1.95,3.2,4.0,2.03,3.34,3.85,1.99,3.28,3.74,2.15,1.67,2.14,1.67,-0.5,2.03,1.83,La Coruna,Eibar,la_coruna,eibar
+2024-11-24,SP2,Spain-Segunda,2425,La Coruna,Sp Gijon,1.0,1.0,D,0.0,0.0,D,2.1,3.25,3.5,2.18,3.17,3.62,2.12,3.2,3.48,2.1,1.7,2.12,1.69,-0.25,1.85,2.0,La Coruna,Sp Gijon,la_coruna,sp_gijon
+2024-12-07,SP2,Spain-Segunda,2425,La Coruna,Zaragoza,1.0,1.0,D,1.0,0.0,H,2.1,3.25,3.6,2.07,3.23,3.85,2.07,3.23,3.64,2.08,1.73,2.07,1.73,-0.25,1.8,2.05,La Coruna,Zaragoza,la_coruna,zaragoza
+2024-12-19,SP2,Spain-Segunda,2425,La Coruna,Castellon,5.0,1.0,H,3.0,1.0,H,2.05,3.6,3.4,2.08,3.68,3.35,2.04,3.6,3.3,1.7,2.1,1.68,2.13,-0.5,2.05,1.75,La Coruna,Castellon,la_coruna,castellon
+2024-12-22,SP2,Spain-Segunda,2425,La Coruna,Mirandes,0.0,4.0,A,0.0,2.0,A,1.91,3.3,4.2,1.88,3.45,4.36,1.88,3.32,4.16,2.3,1.6,2.28,1.59,-0.5,1.9,1.95,La Coruna,Mirandes,la_coruna,mirandes
+2025-01-25,SP2,Spain-Segunda,2425,La Coruna,Levante,1.0,2.0,A,0.0,0.0,D,2.2,3.3,3.3,2.22,3.27,3.41,2.18,3.26,3.29,2.0,1.85,1.94,1.84,-0.25,1.93,1.93,La Coruna,Levante,la_coruna,levante
+2025-02-09,SP2,Spain-Segunda,2425,La Coruna,Almeria,3.0,1.0,H,3.0,0.0,H,2.45,3.3,2.8,2.42,3.39,2.93,2.38,3.33,2.82,1.83,2.03,1.79,1.98,0.0,1.8,2.05,La Coruna,Almeria,la_coruna,almeria
+2025-02-23,SP2,Spain-Segunda,2425,La Coruna,Huesca,0.0,0.0,D,0.0,0.0,D,1.95,3.25,4.1,1.96,3.24,4.29,1.95,3.18,4.01,2.35,1.57,2.37,1.56,-0.5,2.0,1.85,La Coruna,Huesca,la_coruna,huesca
+2025-03-07,SP2,Spain-Segunda,2425,La Coruna,Cordoba,1.0,1.0,D,0.0,0.0,D,1.96,3.4,3.75,2.11,3.21,3.94,2.04,3.26,3.68,1.97,1.77,1.98,1.79,-0.5,2.05,1.8,La Coruna,Cordoba,la_coruna,cordoba
+2025-03-23,SP2,Spain-Segunda,2425,La Coruna,Cartagena,2.0,2.0,D,0.0,0.0,D,1.29,5.0,11.0,1.27,5.48,11.93,1.27,5.2,11.04,1.8,2.0,1.76,2.02,-1.5,1.88,1.98,La Coruna,Cartagena,la_coruna,cartagena
+2025-04-06,SP2,Spain-Segunda,2425,La Coruna,Cadiz,1.0,0.0,H,0.0,0.0,D,2.15,3.1,3.4,2.2,3.18,3.57,2.15,3.15,3.47,2.35,1.57,2.36,1.56,-0.25,1.88,1.98,La Coruna,Cadiz,la_coruna,cadiz
+2025-04-20,SP2,Spain-Segunda,2425,La Coruna,Tenerife,0.0,0.0,D,0.0,0.0,D,2.0,3.1,4.0,2.02,3.31,3.92,2.0,3.26,3.75,2.25,1.62,2.21,1.63,-0.5,2.03,1.83,La Coruna,Tenerife,la_coruna,tenerife
+2025-05-04,SP2,Spain-Segunda,2425,La Coruna,Albacete,5.0,1.0,H,2.0,1.0,H,2.15,3.1,3.3,2.3,2.82,3.85,2.21,2.93,3.58,2.1,1.7,2.1,1.7,-0.25,1.81,1.81,La Coruna,Albacete,la_coruna,albacete
+2025-05-17,SP2,Spain-Segunda,2425,La Coruna,Granada,2.0,3.0,A,0.0,2.0,A,2.88,3.5,2.3,2.95,3.5,2.32,2.9,3.44,2.3,1.85,1.95,1.84,1.93,0.25,1.78,2.03,La Coruna,Granada,la_coruna,granada
+2025-06-01,SP2,Spain-Segunda,2425,La Coruna,Elche,0.0,4.0,A,0.0,3.0,A,5.5,4.33,1.53,4.97,4.33,1.56,5.3,4.43,1.52,1.5,2.5,1.49,2.48,1.25,1.78,2.03,La Coruna,Elche,la_coruna,elche
+2025-08-24,SP2,Spain-Segunda,2526,La Coruna,Burgos,0.0,0.0,D,0.0,0.0,D,1.83,3.5,4.33,1.84,3.45,4.55,1.8,3.34,4.31,2.15,1.67,2.12,1.65,-0.5,1.83,1.98,La Coruna,Burgos,la_coruna,burgos
+2025-09-06,SP2,Spain-Segunda,2526,La Coruna,Sp Gijon,1.0,0.0,H,0.0,0.0,D,2.05,3.1,3.7,2.13,3.2,3.71,2.05,3.15,3.56,2.1,1.7,2.08,1.67,-0.25,1.8,2.0,La Coruna,Sp Gijon,la_coruna,sp_gijon
+2025-09-19,SP2,Spain-Segunda,2526,La Coruna,Huesca,4.0,0.0,H,3.0,0.0,H,1.62,3.6,5.5,1.66,3.7,6.04,1.67,3.46,4.98,2.15,1.67,2.15,1.63,-0.75,1.83,1.98,La Coruna,Huesca,la_coruna,huesca
+2025-10-04,SP2,Spain-Segunda,2526,La Coruna,Almeria,1.0,1.0,D,0.0,1.0,A,1.96,3.2,4.0,2.09,3.15,3.92,2.02,3.3,3.45,1.75,2.05,1.74,1.98,-0.5,2.0,1.8,La Coruna,Almeria,la_coruna,almeria
+2025-10-26,SP2,Spain-Segunda,2526,La Coruna,Valladolid,1.0,1.0,D,0.0,1.0,A,1.91,3.5,3.7,2.1,3.38,3.6,1.97,3.37,3.54,2.0,1.8,1.94,1.78,-0.5,1.98,1.83,La Coruna,Real Valladolid,la_coruna,real_valladolid
+2025-11-08,SP2,Spain-Segunda,2526,La Coruna,Cultural Leonesa,3.0,0.0,H,2.0,0.0,H,1.53,4.2,5.25,,,,1.51,4.11,5.45,1.8,2.0,1.72,2.01,-1.0,1.95,1.85,La Coruna,Cultural Leonesa,la_coruna,cultural_leonesa
+2025-11-23,SP2,Spain-Segunda,2526,La Coruna,Ceuta,2.0,1.0,H,1.0,0.0,H,1.57,4.0,4.75,1.65,3.97,5.1,1.62,3.73,4.9,1.98,1.83,1.91,1.8,-0.75,1.8,2.0,La Coruna,Ceuta,la_coruna,ceuta
+2025-12-07,SP2,Spain-Segunda,2526,La Coruna,Castellon,1.0,3.0,A,1.0,0.0,H,2.2,3.5,2.85,2.39,3.04,3.3,2.25,3.21,3.0,1.83,1.98,1.8,1.91,-0.25,2.0,1.8,La Coruna,Castellon,la_coruna,castellon
+2025-12-13,SP2,Spain-Segunda,2526,La Coruna,Sociedad B,0.0,3.0,A,0.0,1.0,A,1.46,4.33,5.75,1.5,4.29,6.43,1.46,4.04,6.04,1.85,1.95,1.82,1.88,-1.0,1.85,1.95,La Coruna,Sociedad B,la_coruna,sociedad_b
+2026-01-04,SP2,Spain-Segunda,2526,La Coruna,Cadiz,2.0,2.0,D,2.0,1.0,H,1.66,3.6,5.0,1.68,3.56,5.66,1.68,3.44,4.83,2.08,1.73,2.05,1.68,-0.75,1.93,1.88,La Coruna,Cadiz,la_coruna,cadiz
+2026-01-25,SP2,Spain-Segunda,2526,La Coruna,Santander,0.0,1.0,A,0.0,0.0,D,2.1,3.4,3.3,,,,2.05,3.38,3.31,1.67,2.15,1.64,2.14,-0.25,1.83,1.98,La Coruna,Santander,la_coruna,santander
+2026-02-08,SP2,Spain-Segunda,2526,La Coruna,Albacete,2.0,1.0,H,2.0,0.0,H,1.71,3.7,4.5,,,,1.69,3.64,4.53,1.95,1.85,1.87,1.85,-0.75,1.98,1.83,La Coruna,Albacete,la_coruna,albacete
+2026-02-21,SP2,Spain-Segunda,2526,La Coruna,Eibar,1.0,0.0,H,1.0,0.0,H,1.86,3.25,4.33,,,,1.9,3.1,4.14,2.4,1.53,2.39,1.51,-0.5,1.9,1.9,La Coruna,Eibar,la_coruna,eibar
+2026-03-08,SP2,Spain-Segunda,2526,La Coruna,Granada,0.0,2.0,A,0.0,1.0,A,1.76,3.4,4.75,,,,1.8,3.29,4.3,2.2,1.65,2.14,1.63,-0.5,1.8,2.0,La Coruna,Granada,la_coruna,granada
+2026-03-21,SP2,Spain-Segunda,2526,La Coruna,Zaragoza,2.0,1.0,H,1.0,1.0,D,1.57,3.6,5.75,,,,1.58,3.7,5.28,2.0,1.8,1.94,1.78,-0.75,1.78,2.03,La Coruna,Zaragoza,la_coruna,zaragoza
+2026-03-31,SP2,Spain-Segunda,2526,La Coruna,Cordoba,2.0,0.0,H,2.0,0.0,H,1.86,3.6,4.0,,,,1.87,3.49,3.73,1.85,1.95,1.79,1.94,-0.5,1.9,1.9,La Coruna,Cordoba,la_coruna,cordoba
+2026-04-04,SP2,Spain-Segunda,2526,La Coruna,Malaga,1.0,1.0,D,0.0,0.0,D,1.86,3.6,3.7,,,,1.89,3.38,3.74,2.08,1.73,1.99,1.74,-0.5,1.95,1.85,La Coruna,Malaga,la_coruna,malaga
+2026-04-20,SP2,Spain-Segunda,2526,La Coruna,Mirandes,3.0,1.0,H,0.0,1.0,A,1.46,4.0,7.0,,,,1.49,3.85,6.1,1.95,1.85,1.91,1.81,-1.0,1.9,1.9,La Coruna,Mirandes,la_coruna,mirandes
+2026-05-01,SP2,Spain-Segunda,2526,La Coruna,Leganes,2.0,1.0,H,0.0,0.0,D,1.53,4.1,5.25,,,,1.53,3.86,5.46,1.85,1.95,1.82,1.89,-1.0,1.98,1.83,La Coruna,Leganes,la_coruna,leganes
+2026-05-17,SP2,Spain-Segunda,2526,La Coruna,Andorra,2.0,1.0,H,0.0,1.0,A,1.62,4.33,4.33,,,,1.56,3.94,5.01,1.53,2.4,1.63,2.15,-1.0,2.05,1.75,La Coruna,Andorra,la_coruna,andorra
+2026-05-31,SP2,Spain-Segunda,2526,La Coruna,Las Palmas,1.0,2.0,A,1.0,2.0,A,3.25,3.4,2.1,,,,3.2,3.26,2.08,2.05,1.75,1.98,1.74,0.25,1.95,1.85,La Coruna,Las Palmas,la_coruna,las_palmas
+2026-08-17,SP1,Spain-LaLiga,2627,La Coruna,Elche,1.0,1.0,D,1.0,0.0,H,2.3,3.0,3.5,,,,2.31,3.01,3.28,2.3,1.62,2.27,1.59,-0.25,2.03,1.83,La Coruna,Elche,la_coruna,elche
+2026-08-30,SP1,Spain-LaLiga,2627,La Coruna,Valencia,3.0,1.0,H,2.0,1.0,H,2.55,3.0,3.1,,,,2.53,3.02,2.91,2.38,1.57,2.29,1.57,-0.25,2.1,1.7,La Coruna,Valencia,la_coruna,valencia
+2026-09-16,SP1,Spain-LaLiga,2627,La Coruna,Sevilla,0.0,1.0,A,0.0,0.0,D,2.4,3.25,3.0,,,,2.45,3.1,3.01,2.2,1.67,2.22,1.61,0.0,1.7,2.1,La Coruna,Sevilla,la_coruna,sevilla
+2026-09-20,SP1,Spain-LaLiga,2627,La Coruna,Betis,1.0,1.0,D,0.0,1.0,A,3.4,3.75,2.05,,,,3.32,3.51,2.07,1.8,2.0,1.79,1.94,0.5,1.75,2.05,La Coruna,Real Betis,la_coruna,real_betis
+2026-10-16,SP1,Spain-LaLiga,2627,La Coruna,Levante,1.0,1.0,D,0.0,0.0,D,2.05,3.5,3.6,,,,2.06,3.46,3.51,1.93,1.93,1.87,1.87,-0.5,2.05,1.75,La Coruna,Levante,la_coruna,levante

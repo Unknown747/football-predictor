@@ -1,0 +1,73 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,P1,Portugal-Liga1,2122,Santa Clara,Moreirense,2.0,2.0,D,0.0,0.0,D,2.1,3.2,3.25,2.48,3.17,3.19,2.41,3.13,3.07,2.35,1.57,2.31,1.61,-0.25,1.91,1.99,Santa Clara,Moreirense,santa_clara,moreirense
+2021-08-29,P1,Portugal-Liga1,2122,Santa Clara,Gil Vicente,1.0,0.0,H,1.0,0.0,H,2.6,3.0,2.9,2.71,3.04,2.99,2.63,2.98,2.9,2.4,1.53,2.44,1.55,0.0,1.86,2.04,Santa Clara,Gil Vicente,santa_clara,gil_vicente
+2021-09-11,P1,Portugal-Liga1,2122,Santa Clara,Benfica,0.0,5.0,A,0.0,1.0,A,5.75,4.2,1.53,6.34,4.48,1.54,5.9,4.22,1.53,1.75,2.05,1.76,2.06,1.0,1.96,1.94,Santa Clara,Benfica,santa_clara,benfica
+2021-09-26,P1,Portugal-Liga1,2122,Santa Clara,Sp Braga,1.0,1.0,D,0.0,0.0,D,4.0,3.4,1.9,4.06,3.47,2.02,3.86,3.39,1.98,2.0,1.8,2.03,1.79,0.5,1.89,2.01,Santa Clara,Sp Braga,santa_clara,sp_braga
+2021-10-23,P1,Portugal-Liga1,2122,Santa Clara,Famalicao,0.0,2.0,A,0.0,1.0,A,2.45,3.1,3.0,2.58,3.21,3.05,2.48,3.12,2.95,2.25,1.61,2.24,1.64,0.0,1.8,2.1,Santa Clara,Famalicao,santa_clara,famalicao
+2021-11-07,P1,Portugal-Liga1,2122,Santa Clara,Porto,0.0,3.0,A,0.0,1.0,A,8.0,4.5,1.4,8.42,4.59,1.44,7.65,4.44,1.42,1.8,2.0,1.82,1.97,1.25,1.92,1.98,Santa Clara,FC Porto,santa_clara,fc_porto
+2021-12-05,P1,Portugal-Liga1,2122,Santa Clara,Arouca,2.0,1.0,H,2.0,1.0,H,2.1,3.3,3.4,2.13,3.59,3.56,2.09,3.38,3.5,2.2,1.65,2.23,1.65,-0.25,1.82,2.08,Santa Clara,Arouca,santa_clara,arouca
+2021-12-17,P1,Portugal-Liga1,2122,Santa Clara,Guimaraes,1.0,0.0,H,1.0,0.0,H,3.25,3.2,2.3,3.27,3.27,2.41,3.11,3.24,2.35,2.1,1.7,2.11,1.73,0.25,1.85,2.05,Santa Clara,Vitoria Guimaraes,santa_clara,vitoria_guimaraes
+2022-01-07,P1,Portugal-Liga1,2122,Santa Clara,Sp Lisbon,3.0,2.0,H,1.0,1.0,D,8.5,4.5,1.4,8.91,4.6,1.42,8.17,4.45,1.41,1.9,1.95,1.87,1.94,1.25,1.85,2.05,Santa Clara,Sp Lisbon,santa_clara,sp_lisbon
+2022-01-16,P1,Portugal-Liga1,2122,Santa Clara,Tondela,2.0,2.0,D,2.0,0.0,H,1.83,3.5,4.5,1.88,3.45,4.77,1.87,3.4,4.29,2.2,1.65,2.18,1.67,-0.5,1.83,2.07,Santa Clara,Tondela,santa_clara,tondela
+2022-02-01,P1,Portugal-Liga1,2122,Santa Clara,Boavista,2.0,1.0,H,1.0,1.0,D,2.15,3.0,3.4,2.23,3.1,3.91,2.2,3.06,3.57,2.5,1.5,2.49,1.53,-0.25,1.9,2.0,Santa Clara,Boavista,santa_clara,boavista
+2022-02-21,P1,Portugal-Liga1,2122,Santa Clara,Portimonense,1.0,1.0,D,1.0,0.0,H,2.0,3.25,4.0,2.12,3.26,3.91,2.06,3.26,3.72,2.25,1.61,2.25,1.63,-0.5,2.05,1.85,Santa Clara,Portimonense,santa_clara,portimonense
+2022-03-06,P1,Portugal-Liga1,2122,Santa Clara,Vizela,3.0,1.0,H,0.0,0.0,D,2.25,3.3,3.2,2.41,3.33,3.21,2.32,3.26,3.1,2.1,1.7,2.13,1.7,-0.25,2.02,1.88,Santa Clara,Vizela,santa_clara,vizela
+2022-03-19,P1,Portugal-Liga1,2122,Santa Clara,Belenenses,0.0,0.0,D,0.0,0.0,D,1.55,3.5,6.5,1.59,3.91,6.85,1.58,3.8,6.15,2.15,1.66,2.15,1.7,-1.0,2.07,1.83,Santa Clara,Belenenses,santa_clara,belenenses
+2022-04-10,P1,Portugal-Liga1,2122,Santa Clara,Estoril,2.0,0.0,H,1.0,0.0,H,2.15,3.0,3.3,2.36,3.11,3.55,2.26,3.11,3.37,2.35,1.57,2.32,1.59,-0.25,1.93,1.97,Santa Clara,Estoril,santa_clara,estoril
+2022-04-23,P1,Portugal-Liga1,2122,Santa Clara,Maritimo,2.0,2.0,D,2.0,0.0,H,2.1,3.2,3.5,2.23,3.27,3.65,2.16,3.22,3.49,2.25,1.61,2.26,1.63,-0.25,1.87,2.03,Santa Clara,Maritimo,santa_clara,maritimo
+2022-05-08,P1,Portugal-Liga1,2122,Santa Clara,Pacos Ferreira,2.0,0.0,H,1.0,0.0,H,2.05,3.5,3.6,2.13,3.47,3.7,2.07,3.39,3.55,2.13,1.75,2.09,1.73,-0.5,2.05,1.75,Santa Clara,Pacos Ferreira,santa_clara,pacos_ferreira
+2022-08-07,P1,Portugal-Liga1,2223,Santa Clara,Casa Pia,0.0,0.0,D,0.0,0.0,D,1.95,3.0,4.0,2.1,3.45,3.83,2.03,3.31,3.73,2.15,1.66,2.14,1.69,-0.5,2.06,1.84,Santa Clara,Casa Pia,santa_clara,casa_pia
+2022-08-20,P1,Portugal-Liga1,2223,Santa Clara,Arouca,1.0,2.0,A,0.0,0.0,D,2.05,3.25,3.75,2.17,3.36,3.7,2.1,3.26,3.63,2.25,1.61,2.28,1.62,-0.25,1.83,2.07,Santa Clara,Arouca,santa_clara,arouca
+2022-09-04,P1,Portugal-Liga1,2223,Santa Clara,Maritimo,2.0,1.0,H,0.0,1.0,A,2.0,3.2,3.6,2.05,3.21,4.36,2.03,3.23,3.89,2.25,1.61,2.23,1.65,-0.5,2.05,1.85,Santa Clara,Maritimo,santa_clara,maritimo
+2022-09-17,P1,Portugal-Liga1,2223,Santa Clara,Pacos Ferreira,1.0,1.0,D,1.0,0.0,H,2.0,3.3,3.75,2.06,3.27,4.23,2.03,3.25,3.9,2.2,1.65,2.2,1.67,-0.5,2.03,1.87,Santa Clara,Pacos Ferreira,santa_clara,pacos_ferreira
+2022-10-08,P1,Portugal-Liga1,2223,Santa Clara,Sp Lisbon,1.0,2.0,A,0.0,1.0,A,5.75,4.0,1.5,7.01,4.44,1.51,6.28,4.16,1.51,1.88,1.98,1.85,1.95,1.0,2.03,1.87,Santa Clara,Sp Lisbon,santa_clara,sp_lisbon
+2022-10-29,P1,Portugal-Liga1,2223,Santa Clara,Porto,1.0,1.0,D,0.0,1.0,A,7.5,4.5,1.4,9.37,4.78,1.4,7.76,4.51,1.39,1.88,1.98,1.84,1.94,1.25,1.92,1.98,Santa Clara,FC Porto,santa_clara,fc_porto
+2022-11-14,P1,Portugal-Liga1,2223,Santa Clara,Estoril,3.0,1.0,H,2.0,1.0,H,2.25,3.2,3.2,2.39,3.18,3.32,2.32,3.15,3.2,2.25,1.61,2.26,1.63,-0.25,2.0,1.9,Santa Clara,Estoril,santa_clara,estoril
+2023-01-05,P1,Portugal-Liga1,2223,Santa Clara,Sp Braga,0.0,4.0,A,0.0,2.0,A,5.0,3.6,1.65,5.25,3.94,1.68,4.98,3.79,1.68,1.95,1.9,1.91,1.88,0.75,1.99,1.91,Santa Clara,Sp Braga,santa_clara,sp_braga
+2023-01-21,P1,Portugal-Liga1,2223,Santa Clara,Benfica,0.0,3.0,A,0.0,2.0,A,9.0,5.25,1.29,11.66,5.38,1.32,10.04,5.39,1.29,1.6,2.3,1.63,2.26,1.5,1.99,1.91,Santa Clara,Benfica,santa_clara,benfica
+2023-02-04,P1,Portugal-Liga1,2223,Santa Clara,Boavista,2.0,2.0,D,0.0,1.0,A,2.7,3.0,2.8,2.82,3.08,2.87,2.69,3.03,2.81,2.5,1.5,2.49,1.52,0.0,1.91,1.99,Santa Clara,Boavista,santa_clara,boavista
+2023-02-19,P1,Portugal-Liga1,2223,Santa Clara,Famalicao,1.0,3.0,A,0.0,0.0,D,2.88,3.25,2.45,3.09,3.04,2.66,2.98,3.04,2.54,2.5,1.5,2.5,1.53,0.0,2.1,1.8,Santa Clara,Famalicao,santa_clara,famalicao
+2023-03-05,P1,Portugal-Liga1,2223,Santa Clara,Guimaraes,1.0,3.0,A,0.0,3.0,A,3.0,3.1,2.5,3.25,3.02,2.57,3.05,3.03,2.5,2.5,1.5,2.5,1.52,0.0,2.15,1.76,Santa Clara,Vitoria Guimaraes,santa_clara,vitoria_guimaraes
+2023-03-17,P1,Portugal-Liga1,2223,Santa Clara,Rio Ave,0.0,2.0,A,0.0,0.0,D,2.6,3.0,3.0,2.69,2.91,3.14,2.62,2.9,3.02,2.7,1.44,2.69,1.45,0.0,1.8,2.1,Santa Clara,Rio Ave,santa_clara,rio_ave
+2023-04-07,P1,Portugal-Liga1,2223,Santa Clara,Vizela,0.0,1.0,A,0.0,1.0,A,3.75,3.3,2.05,3.94,3.42,2.07,3.75,3.27,2.06,2.2,1.65,2.22,1.65,0.5,1.82,2.08,Santa Clara,Vizela,santa_clara,vizela
+2023-04-23,P1,Portugal-Liga1,2223,Santa Clara,Chaves,1.0,1.0,D,0.0,0.0,D,2.6,3.1,2.75,2.74,3.16,2.89,2.64,3.14,2.77,2.25,1.62,2.29,1.61,0.0,1.87,2.03,Santa Clara,Chaves,santa_clara,chaves
+2023-05-06,P1,Portugal-Liga1,2223,Santa Clara,Gil Vicente,3.0,2.0,H,2.0,0.0,H,2.8,3.1,2.5,2.9,3.39,2.58,2.84,3.27,2.51,2.08,1.73,2.1,1.73,0.0,2.08,1.82,Santa Clara,Gil Vicente,santa_clara,gil_vicente
+2023-05-20,P1,Portugal-Liga1,2223,Santa Clara,Portimonense,1.0,0.0,H,1.0,0.0,H,2.2,3.2,3.0,2.38,3.37,3.22,2.29,3.33,3.12,2.1,1.7,2.09,1.74,-0.25,2.02,1.88,Santa Clara,Portimonense,santa_clara,portimonense
+2024-08-16,P1,Portugal-Liga1,2425,Santa Clara,Porto,0.0,2.0,A,0.0,2.0,A,6.0,4.1,1.53,6.0,4.42,1.55,5.93,4.24,1.53,1.95,1.9,1.91,1.9,1.0,1.92,1.98,Santa Clara,FC Porto,santa_clara,fc_porto
+2024-08-31,P1,Portugal-Liga1,2425,Santa Clara,AVS,2.0,1.0,H,1.0,1.0,D,1.8,3.4,4.75,1.81,3.56,4.73,1.83,3.49,4.43,2.1,1.7,2.09,1.74,-0.5,1.83,2.07,Santa Clara,AVS,santa_clara,avs
+2024-09-21,P1,Portugal-Liga1,2425,Santa Clara,Estrela,1.0,0.0,H,0.0,0.0,D,1.75,3.5,5.0,1.74,3.61,4.96,1.77,3.57,4.73,2.1,1.7,2.13,1.71,-0.75,2.02,1.88,Santa Clara,Estrela Amadora,santa_clara,estrela_amadora
+2024-09-29,P1,Portugal-Liga1,2425,Santa Clara,Boavista,1.0,0.0,H,1.0,0.0,H,1.57,4.0,5.5,1.59,3.79,6.1,1.6,3.79,5.91,2.15,1.67,2.2,1.66,-0.75,1.73,2.08,Santa Clara,Boavista,santa_clara,boavista
+2024-10-25,P1,Portugal-Liga1,2425,Santa Clara,Gil Vicente,2.0,1.0,H,2.0,1.0,H,2.1,3.1,3.9,2.16,3.0,4.19,2.13,3.0,3.96,2.88,1.4,2.83,1.43,-0.25,1.81,2.09,Santa Clara,Gil Vicente,santa_clara,gil_vicente
+2024-11-10,P1,Portugal-Liga1,2425,Santa Clara,Guimaraes,1.0,0.0,H,0.0,0.0,D,2.9,3.0,2.6,2.89,3.01,2.69,2.89,3.01,2.61,2.6,1.48,2.56,1.49,0.0,2.05,1.85,Santa Clara,Vitoria Guimaraes,santa_clara,vitoria_guimaraes
+2024-12-07,P1,Portugal-Liga1,2425,Santa Clara,Rio Ave,1.0,0.0,H,1.0,0.0,H,1.83,3.3,4.75,1.82,3.39,4.79,1.82,3.43,4.63,2.2,1.65,2.18,1.67,-0.5,1.87,2.03,Santa Clara,Rio Ave,santa_clara,rio_ave
+2024-12-22,P1,Portugal-Liga1,2425,Santa Clara,Sp Braga,0.0,2.0,A,0.0,0.0,D,3.1,3.2,2.3,3.2,3.2,2.35,3.14,3.18,2.3,2.25,1.62,2.22,1.64,0.25,1.87,2.03,Santa Clara,Sp Braga,santa_clara,sp_braga
+2025-01-05,P1,Portugal-Liga1,2425,Santa Clara,Farense,0.0,0.0,D,0.0,0.0,D,1.67,3.4,6.0,1.67,3.45,5.97,1.67,3.45,5.57,2.35,1.57,2.35,1.56,-0.75,1.93,1.97,Santa Clara,Farense,santa_clara,farense
+2025-01-18,P1,Portugal-Liga1,2425,Santa Clara,Estoril,2.0,3.0,A,1.0,2.0,A,1.7,3.4,5.5,1.72,3.57,5.19,1.71,3.49,5.12,2.4,1.53,2.39,1.55,-0.75,2.0,1.9,Santa Clara,Estoril,santa_clara,estoril
+2025-02-01,P1,Portugal-Liga1,2425,Santa Clara,Casa Pia,2.0,1.0,H,0.0,1.0,A,2.1,3.1,3.8,2.12,3.07,3.95,2.11,3.04,3.8,2.7,1.44,2.66,1.44,-0.25,1.81,2.09,Santa Clara,Casa Pia,santa_clara,casa_pia
+2025-02-15,P1,Portugal-Liga1,2425,Santa Clara,Benfica,0.0,1.0,A,0.0,0.0,D,5.0,3.8,1.67,5.18,3.75,1.68,5.09,3.7,1.68,2.2,1.65,2.23,1.65,0.75,1.99,1.91,Santa Clara,Benfica,santa_clara,benfica
+2025-03-09,P1,Portugal-Liga1,2425,Santa Clara,Moreirense,1.0,1.0,D,0.0,0.0,D,2.0,3.1,4.1,2.02,3.08,4.3,2.02,3.09,4.11,2.7,1.41,2.67,1.45,-0.5,2.06,1.84,Santa Clara,Moreirense,santa_clara,moreirense
+2025-03-30,P1,Portugal-Liga1,2425,Santa Clara,Nacional,1.0,0.0,H,1.0,0.0,H,1.9,3.2,4.33,1.93,3.11,4.67,1.93,3.18,4.37,2.5,1.5,2.53,1.49,-0.5,1.98,1.92,Santa Clara,Nacional,santa_clara,nacional
+2025-04-12,P1,Portugal-Liga1,2425,Santa Clara,Sp Lisbon,0.0,1.0,A,0.0,0.0,D,6.25,3.6,1.6,5.99,3.79,1.6,5.72,3.74,1.61,2.15,1.67,2.14,1.69,0.75,2.09,1.81,Santa Clara,Sp Lisbon,santa_clara,sp_lisbon
+2025-04-26,P1,Portugal-Liga1,2425,Santa Clara,Arouca,2.0,0.0,H,2.0,0.0,H,1.9,3.1,4.5,1.9,3.18,4.18,1.92,3.24,4.18,2.3,1.6,2.32,1.58,-0.5,1.95,1.95,Santa Clara,Arouca,santa_clara,arouca
+2025-05-10,P1,Portugal-Liga1,2425,Santa Clara,Famalicao,2.0,1.0,H,1.0,0.0,H,2.15,3.1,3.6,2.19,3.2,3.55,2.17,3.14,3.52,2.5,1.5,2.49,1.5,-0.25,1.89,2.01,Santa Clara,Famalicao,santa_clara,famalicao
+2025-08-17,P1,Portugal-Liga1,2526,Santa Clara,Moreirense,0.0,1.0,A,0.0,1.0,A,1.9,3.2,4.5,1.88,3.22,4.73,1.87,3.12,4.5,2.6,1.48,2.6,1.44,-0.5,1.93,1.93,Santa Clara,Moreirense,santa_clara,moreirense
+2025-08-31,P1,Portugal-Liga1,2526,Santa Clara,Estrela,0.0,0.0,D,0.0,0.0,D,1.81,3.4,4.33,1.88,3.33,4.51,1.85,3.26,4.32,2.4,1.53,2.44,1.5,-0.5,1.88,1.98,Santa Clara,Estrela Amadora,santa_clara,estrela_amadora
+2025-09-20,P1,Portugal-Liga1,2526,Santa Clara,Alverca,2.0,1.0,H,1.0,1.0,D,1.66,3.1,6.25,1.69,3.44,5.84,1.69,3.33,5.4,2.5,1.5,2.43,1.51,-0.75,1.95,1.9,Santa Clara,Alverca,santa_clara,alverca
+2025-09-27,P1,Portugal-Liga1,2526,Santa Clara,Tondela,1.0,2.0,A,0.0,0.0,D,1.66,3.4,5.5,1.7,3.51,5.53,1.7,3.39,5.18,2.4,1.53,2.35,1.54,-0.75,1.98,1.88,Santa Clara,Tondela,santa_clara,tondela
+2025-10-25,P1,Portugal-Liga1,2526,Santa Clara,AVS,2.0,0.0,H,0.0,0.0,D,1.49,3.8,7.0,1.53,3.91,6.89,1.51,3.78,6.74,2.3,1.6,2.22,1.6,-1.0,1.98,1.88,Santa Clara,AVS,santa_clara,avs
+2025-11-08,P1,Portugal-Liga1,2526,Santa Clara,Sp Lisbon,1.0,2.0,A,1.0,1.0,D,7.0,4.5,1.39,8.45,4.53,1.39,7.93,4.35,1.39,2.05,1.8,1.96,1.77,1.25,1.83,2.03,Santa Clara,Sp Lisbon,santa_clara,sp_lisbon
+2025-12-06,P1,Portugal-Liga1,2526,Santa Clara,Casa Pia,1.0,0.0,H,1.0,0.0,H,1.81,3.05,5.0,1.88,3.15,4.87,1.88,3.11,4.53,2.6,1.48,2.6,1.45,-0.5,1.88,1.98,Santa Clara,Casa Pia,santa_clara,casa_pia
+2025-12-21,P1,Portugal-Liga1,2526,Santa Clara,Arouca,0.0,0.0,D,0.0,0.0,D,1.79,3.25,4.75,1.84,3.38,4.67,1.79,3.29,4.64,2.4,1.53,2.3,1.55,-0.5,1.83,2.03,Santa Clara,Arouca,santa_clara,arouca
+2026-01-04,P1,Portugal-Liga1,2526,Santa Clara,Porto,0.0,1.0,A,0.0,0.0,D,8.0,4.0,1.42,7.56,4.12,1.47,7.43,3.91,1.45,2.25,1.62,2.21,1.59,1.0,2.05,1.8,Santa Clara,FC Porto,santa_clara,fc_porto
+2026-01-18,P1,Portugal-Liga1,2526,Santa Clara,Famalicao,0.0,1.0,A,0.0,0.0,D,2.82,3.0,2.55,,,,2.96,2.93,2.5,2.5,1.5,2.41,1.51,0.0,2.05,1.8,Santa Clara,Famalicao,santa_clara,famalicao
+2026-01-31,P1,Portugal-Liga1,2526,Santa Clara,Estoril,2.0,4.0,A,0.0,2.0,A,2.2,3.0,3.4,,,,2.2,3.08,3.3,2.25,1.62,2.23,1.59,-0.25,1.98,1.88,Santa Clara,Estoril,santa_clara,estoril
+2026-02-13,P1,Portugal-Liga1,2526,Santa Clara,Benfica,1.0,2.0,A,0.0,2.0,A,7.0,3.6,1.51,,,,6.47,3.77,1.51,2.2,1.65,2.13,1.64,1.0,1.83,2.03,Santa Clara,Benfica,santa_clara,benfica
+2026-03-08,P1,Portugal-Liga1,2526,Santa Clara,Guimaraes,2.0,0.0,H,2.0,0.0,H,2.57,3.0,2.82,,,,2.57,2.98,2.77,2.5,1.5,2.39,1.51,0.0,1.85,2.0,Santa Clara,Vitoria Guimaraes,santa_clara,vitoria_guimaraes
+2026-03-21,P1,Portugal-Liga1,2526,Santa Clara,Gil Vicente,1.0,0.0,H,0.0,0.0,D,2.57,3.1,2.7,,,,2.65,2.95,2.73,2.7,1.44,2.53,1.47,0.0,1.88,1.98,Santa Clara,Gil Vicente,santa_clara,gil_vicente
+2026-04-11,P1,Portugal-Liga1,2526,Santa Clara,Rio Ave,0.0,2.0,A,0.0,0.0,D,1.76,3.4,4.75,,,,1.77,3.34,4.56,2.3,1.6,2.24,1.59,-0.5,1.8,2.05,Santa Clara,Rio Ave,santa_clara,rio_ave
+2026-04-26,P1,Portugal-Liga1,2526,Santa Clara,Sp Braga,2.0,1.0,H,0.0,1.0,A,3.25,3.25,2.15,,,,3.35,3.14,2.13,2.25,1.62,2.23,1.58,0.25,1.93,1.93,Santa Clara,Sp Braga,santa_clara,sp_braga
+2026-05-11,P1,Portugal-Liga1,2526,Santa Clara,Nacional,2.0,0.0,H,1.0,0.0,H,2.05,3.4,3.5,,,,2.04,3.26,3.44,2.05,1.75,2.0,1.73,-0.25,1.83,2.03,Santa Clara,Nacional,santa_clara,nacional
+2026-08-10,P1,Portugal-Liga1,2627,Santa Clara,Nacional,2.0,2.0,D,2.0,2.0,D,1.86,3.25,4.2,,,,1.85,3.32,4.17,2.15,1.67,2.11,1.65,-0.5,1.88,1.98,Santa Clara,Nacional,santa_clara,nacional
+2026-08-23,P1,Portugal-Liga1,2627,Santa Clara,Famalicao,1.0,0.0,H,1.0,0.0,H,2.65,2.85,2.82,,,,2.61,2.95,2.78,2.5,1.5,2.46,1.5,0.0,1.88,1.98,Santa Clara,Famalicao,santa_clara,famalicao
+2026-09-06,P1,Portugal-Liga1,2627,Santa Clara,Rio Ave,4.0,0.0,H,1.0,0.0,H,1.76,3.4,4.75,,,,1.75,3.41,4.61,2.2,1.65,2.12,1.65,-0.75,2.05,1.8,Santa Clara,Rio Ave,santa_clara,rio_ave
+2026-09-20,P1,Portugal-Liga1,2627,Santa Clara,Sp Braga,0.0,0.0,D,0.0,0.0,D,3.5,3.3,2.05,,,,3.66,3.11,2.05,2.4,1.53,2.42,1.51,0.25,2.05,1.8,Santa Clara,Sp Braga,santa_clara,sp_braga

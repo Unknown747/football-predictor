@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E2,England-L1,2122,Burton,Ipswich,2.0,1.0,H,1.0,1.0,D,2.87,3.25,2.5,2.94,3.28,2.54,2.9,3.21,2.48,2.15,1.66,2.16,1.68,0.0,2.05,1.75,Burton Albion,Ipswich,burton_albion,ipswich
+2021-08-17,E2,England-L1,2122,Burton,Sunderland,1.0,0.0,H,0.0,0.0,D,3.5,3.3,2.15,3.44,3.37,2.24,3.34,3.23,2.2,2.1,1.7,2.12,1.71,0.25,1.99,1.94,Burton Albion,Sunderland,burton_albion,sunderland
+2021-08-27,E2,England-L1,2122,Burton,Cheltenham,1.0,1.0,D,0.0,1.0,A,2.4,3.3,3.0,2.52,3.19,3.09,2.43,3.16,3.0,2.15,1.66,2.18,1.67,-0.25,2.16,1.78,Burton Albion,Cheltenham Town,burton_albion,cheltenham_town
+2021-09-11,E2,England-L1,2122,Burton,Gillingham,1.0,1.0,D,0.0,1.0,A,1.95,3.5,3.8,2.01,3.53,3.77,2.03,3.39,3.62,2.1,1.7,2.12,1.71,-0.5,2.0,1.85,Burton Albion,Gillingham,burton_albion,gillingham
+2021-09-25,E2,England-L1,2122,Burton,Lincoln,1.0,2.0,A,0.0,1.0,A,2.55,3.5,2.7,2.62,3.41,2.71,2.55,3.33,2.72,2.05,1.75,2.05,1.76,0.0,1.9,1.95,Burton Albion,Lincoln City,burton_albion,lincoln_city
+2021-09-28,E2,England-L1,2122,Burton,Portsmouth,2.0,1.0,H,1.0,0.0,H,2.55,3.2,2.87,2.68,3.19,2.89,2.59,3.12,2.82,2.15,1.66,2.13,1.7,0.0,1.85,2.0,Burton Albion,Portsmouth,burton_albion,portsmouth
+2021-10-15,E2,England-L1,2122,Burton,Morecambe,3.0,2.0,H,2.0,1.0,H,1.9,3.6,4.0,1.97,3.57,4.06,1.92,3.52,3.9,1.95,1.85,1.94,1.86,-0.5,1.93,1.93,Burton Albion,Morecambe,burton_albion,morecambe
+2021-10-23,E2,England-L1,2122,Burton,Oxford,1.0,3.0,A,0.0,2.0,A,3.0,3.25,2.4,2.92,3.29,2.52,2.83,3.29,2.46,2.0,1.8,2.02,1.77,0.0,2.08,1.73,Burton Albion,Oxford United,burton_albion,oxford_united
+2021-11-13,E2,England-L1,2122,Burton,Charlton,0.0,1.0,A,0.0,1.0,A,2.7,3.4,2.6,2.64,3.48,2.65,2.61,3.37,2.6,1.98,1.88,1.96,1.84,0.0,1.93,1.93,Burton Albion,Charlton,burton_albion,charlton
+2021-11-23,E2,England-L1,2122,Burton,Accrington,4.0,0.0,H,2.0,0.0,H,2.1,3.5,3.5,2.16,3.5,3.51,2.12,3.41,3.37,1.95,1.9,1.93,1.86,-0.25,1.85,2.0,Burton Albion,Accrington Stanley,burton_albion,accrington_stanley
+2021-11-27,E2,England-L1,2122,Burton,Doncaster,2.0,0.0,H,0.0,0.0,D,1.75,3.75,4.5,1.74,3.91,4.57,1.77,3.7,4.42,1.98,1.88,1.96,1.84,-0.75,1.98,1.88,Burton Albion,Doncaster Rovers,burton_albion,doncaster_rovers
+2022-01-01,E2,England-L1,2122,Burton,Crewe,4.0,1.0,H,3.0,1.0,H,1.72,3.6,5.0,1.79,3.68,4.58,1.79,3.63,4.37,2.0,1.8,1.93,1.86,-0.75,2.0,1.8,Burton Albion,Crewe Alexandra,burton_albion,crewe_alexandra
+2022-01-22,E2,England-L1,2122,Burton,AFC Wimbledon,1.0,1.0,D,0.0,0.0,D,2.1,3.4,3.6,2.0,3.65,3.68,2.0,3.51,3.55,1.85,2.0,1.88,1.89,-0.5,2.1,1.77,Burton Albion,AFC Wimbledon,burton_albion,afc_wimbledon
+2022-01-25,E2,England-L1,2122,Burton,Milton Keynes Dons,0.0,1.0,A,0.0,0.0,D,2.8,3.4,2.5,2.78,3.56,2.55,2.7,3.38,2.5,1.8,2.05,1.79,2.0,0.0,2.0,1.85,Burton Albion,MK Dons,burton_albion,mk_dons
+2022-02-05,E2,England-L1,2122,Burton,Sheffield Weds,0.0,2.0,A,0.0,1.0,A,2.87,3.3,2.5,2.98,3.25,2.5,2.88,3.21,2.47,2.2,1.65,2.12,1.7,0.0,2.05,1.8,Burton Albion,Sheffield Wednesday,burton_albion,sheffield_wednesday
+2022-02-12,E2,England-L1,2122,Burton,Cambridge,2.0,2.0,D,1.0,1.0,D,1.9,3.6,3.8,1.97,3.58,3.84,1.94,3.51,3.76,1.95,1.9,1.92,1.86,-0.5,1.95,1.9,Burton Albion,Cambridge United,burton_albion,cambridge_united
+2022-02-15,E2,England-L1,2122,Burton,Bolton,3.0,1.0,H,3.0,0.0,H,2.6,3.5,2.6,2.7,3.49,2.66,2.63,3.33,2.63,1.98,1.88,1.94,1.85,0.0,1.95,1.9,Burton Albion,Bolton,burton_albion,bolton
+2022-02-26,E2,England-L1,2122,Burton,Shrewsbury,0.0,2.0,A,0.0,1.0,A,2.2,3.3,3.4,2.23,3.12,3.62,2.23,3.17,3.36,2.25,1.61,2.27,1.61,-0.25,1.93,1.93,Burton Albion,Shrewsbury Town,burton_albion,shrewsbury_town
+2022-03-12,E2,England-L1,2122,Burton,Fleetwood Town,3.0,2.0,H,0.0,1.0,A,1.95,3.4,4.2,1.96,3.46,4.06,1.97,3.44,3.8,2.0,1.85,1.96,1.82,-0.5,1.98,1.88,Burton Albion,Fleetwood Town,burton_albion,fleetwood_town
+2022-04-09,E2,England-L1,2122,Burton,Plymouth,0.0,0.0,D,0.0,0.0,D,3.0,3.5,2.3,3.13,3.53,2.26,3.02,3.4,2.28,2.02,1.83,1.97,1.8,0.25,1.83,1.98,Burton Albion,Plymouth Argyle,burton_albion,plymouth_argyle
+2022-04-12,E2,England-L1,2122,Burton,Wigan,0.0,0.0,D,0.0,0.0,D,5.25,3.75,1.66,5.55,3.79,1.69,5.21,3.66,1.67,2.05,1.75,2.03,1.77,0.75,2.0,1.85,Burton Albion,Wigan Athletic,burton_albion,wigan_athletic
+2022-04-19,E2,England-L1,2122,Burton,Rotherham,2.0,0.0,H,1.0,0.0,H,4.75,3.8,1.72,4.76,3.84,1.73,4.55,3.72,1.74,1.98,1.88,1.91,1.86,0.75,1.88,1.98,Burton Albion,Rotherham United,burton_albion,rotherham_united
+2022-04-30,E2,England-L1,2122,Burton,Wycombe,1.0,2.0,A,0.0,1.0,A,4.75,4.0,1.7,4.92,4.04,1.67,4.81,3.92,1.67,1.72,2.07,1.73,2.08,0.75,1.98,1.88,Burton Albion,Wycombe Wanderers,burton_albion,wycombe_wanderers
+2022-08-06,E2,England-L1,2223,Burton,Bristol Rvs,0.0,4.0,A,0.0,4.0,A,2.7,3.25,2.7,2.66,3.32,2.82,2.6,3.27,2.68,2.07,1.72,2.01,1.76,0.0,1.9,1.95,Burton Albion,Bristol Rvs,burton_albion,bristol_rvs
+2022-08-16,E2,England-L1,2223,Burton,Ipswich,0.0,1.0,A,0.0,0.0,D,5.25,3.8,1.66,5.3,3.97,1.68,5.07,3.83,1.66,2.0,1.85,1.98,1.8,0.75,2.02,1.83,Burton Albion,Ipswich,burton_albion,ipswich
+2022-08-20,E2,England-L1,2223,Burton,Port Vale,0.0,2.0,A,0.0,0.0,D,2.87,3.25,2.5,2.84,3.41,2.58,2.77,3.31,2.5,1.98,1.88,1.98,1.8,0.0,2.08,1.73,Burton Albion,Port Vale,burton_albion,port_vale
+2022-09-13,E2,England-L1,2223,Burton,Portsmouth,0.0,2.0,A,0.0,0.0,D,4.0,3.6,1.9,4.16,3.79,1.88,3.89,3.68,1.87,1.75,2.05,1.78,2.01,0.5,1.95,1.9,Burton Albion,Portsmouth,burton_albion,portsmouth
+2022-10-01,E2,England-L1,2223,Burton,Forest Green,3.0,2.0,H,1.0,0.0,H,1.85,3.6,4.2,1.93,3.75,4.11,1.87,3.59,3.98,1.95,1.9,1.92,1.85,-0.5,1.88,1.98,Burton Albion,Forest Green Rovers,burton_albion,forest_green_rovers
+2022-10-04,E2,England-L1,2223,Burton,Fleetwood Town,0.0,1.0,A,0.0,1.0,A,2.05,3.75,3.4,2.09,3.62,3.57,2.03,3.56,3.45,1.93,1.93,1.87,1.9,-0.5,2.02,1.83,Burton Albion,Fleetwood Town,burton_albion,fleetwood_town
+2022-10-15,E2,England-L1,2223,Burton,Morecambe,1.0,1.0,D,1.0,0.0,H,1.7,3.75,5.0,1.72,3.98,4.87,1.72,3.77,4.62,1.8,2.0,1.8,1.97,-0.75,1.93,1.93,Burton Albion,Morecambe,burton_albion,morecambe
+2022-10-22,E2,England-L1,2223,Burton,Cheltenham,1.0,0.0,H,0.0,0.0,D,2.1,3.4,3.6,2.16,3.53,3.48,2.11,3.45,3.31,1.95,1.9,1.9,1.88,-0.25,1.8,2.0,Burton Albion,Cheltenham Town,burton_albion,cheltenham_town
+2022-11-12,E2,England-L1,2223,Burton,Charlton,3.0,3.0,D,2.0,2.0,D,2.8,3.4,2.5,2.79,3.65,2.49,2.74,3.44,2.45,1.9,1.95,1.85,1.92,0.0,2.05,1.8,Burton Albion,Charlton,burton_albion,charlton
+2022-11-19,E2,England-L1,2223,Burton,Plymouth,2.0,2.0,D,1.0,0.0,H,2.8,3.6,2.37,2.75,3.67,2.52,2.76,3.53,2.39,1.8,2.0,1.77,2.0,0.0,2.08,1.73,Burton Albion,Plymouth Argyle,burton_albion,plymouth_argyle
+2022-12-10,E2,England-L1,2223,Burton,Derby,1.0,1.0,D,0.0,1.0,A,3.3,3.3,2.25,3.28,3.53,2.24,3.15,3.39,2.2,2.0,1.85,1.92,1.84,0.25,1.93,1.93,Burton Albion,Derby,burton_albion,derby
+2022-12-26,E2,England-L1,2223,Burton,Lincoln,3.0,0.0,H,3.0,0.0,H,2.2,3.4,3.3,2.35,3.32,3.15,2.25,3.3,3.12,2.02,1.83,2.02,1.76,-0.25,1.95,1.9,Burton Albion,Lincoln City,burton_albion,lincoln_city
+2023-01-14,E2,England-L1,2223,Burton,Shrewsbury,0.0,4.0,A,0.0,2.0,A,2.3,3.2,3.3,2.32,3.28,3.25,2.28,3.25,3.13,2.1,1.7,2.1,1.71,-0.25,1.98,1.88,Burton Albion,Shrewsbury Town,burton_albion,shrewsbury_town
+2023-01-28,E2,England-L1,2223,Burton,Oxford,2.0,0.0,H,1.0,0.0,H,2.75,3.75,2.4,2.78,3.84,2.42,2.72,3.6,2.37,1.75,2.05,1.76,2.02,0.0,2.1,1.77,Burton Albion,Oxford United,burton_albion,oxford_united
+2023-02-11,E2,England-L1,2223,Burton,Exeter,1.0,0.0,H,0.0,0.0,D,2.6,3.4,2.7,2.58,3.53,2.69,2.53,3.41,2.65,1.9,1.95,1.87,1.9,0.0,1.88,1.98,Burton Albion,Exeter City,burton_albion,exeter_city
+2023-02-25,E2,England-L1,2223,Burton,Accrington,0.0,0.0,D,0.0,0.0,D,1.83,4.0,4.0,1.85,3.78,4.32,1.83,3.7,4.07,1.9,1.95,1.89,1.88,-0.5,1.8,2.0,Burton Albion,Accrington Stanley,burton_albion,accrington_stanley
+2023-03-11,E2,England-L1,2223,Burton,Wycombe,2.0,1.0,H,2.0,0.0,H,2.88,3.4,2.45,2.84,3.49,2.54,2.81,3.37,2.43,2.0,1.8,1.92,1.85,0.25,1.7,2.1,Burton Albion,Wycombe Wanderers,burton_albion,wycombe_wanderers
+2023-03-14,E2,England-L1,2223,Burton,Peterboro,2.0,5.0,A,1.0,3.0,A,3.2,3.4,2.25,3.35,3.44,2.25,3.14,3.38,2.22,2.0,1.85,1.94,1.84,0.25,1.93,1.93,Burton Albion,Peterborough United,burton_albion,peterborough_united
+2023-04-07,E2,England-L1,2223,Burton,Barnsley,2.0,1.0,H,0.0,0.0,D,3.75,3.6,1.95,3.9,3.56,2.01,3.69,3.53,1.97,1.95,1.9,1.91,1.86,0.5,1.9,1.95,Burton Albion,Barnsley,burton_albion,barnsley
+2023-04-15,E2,England-L1,2223,Burton,Sheffield Weds,3.0,2.0,H,3.0,1.0,H,5.5,4.0,1.62,5.58,3.9,1.66,5.25,3.9,1.61,1.85,2.0,1.83,1.94,0.75,2.05,1.8,Burton Albion,Sheffield Wednesday,burton_albion,sheffield_wednesday
+2023-04-18,E2,England-L1,2223,Burton,Bolton,1.0,1.0,D,0.0,1.0,A,3.4,3.5,2.1,3.41,3.47,2.21,3.31,3.38,2.16,2.05,1.8,2.0,1.78,0.25,1.95,1.9,Burton Albion,Bolton,burton_albion,bolton
+2023-05-03,E2,England-L1,2223,Burton,Cambridge,1.0,0.0,H,1.0,0.0,H,3.2,3.4,2.25,3.2,3.39,2.29,3.15,3.29,2.27,2.1,1.7,2.13,1.69,0.25,1.88,1.98,Burton Albion,Cambridge United,burton_albion,cambridge_united
+2023-05-07,E2,England-L1,2223,Burton,Milton Keynes Dons,0.0,0.0,D,0.0,0.0,D,3.6,3.5,2.05,3.46,3.57,2.05,3.48,3.54,2.02,1.88,1.98,1.83,1.94,0.5,1.8,2.05,Burton Albion,MK Dons,burton_albion,mk_dons
+2023-08-12,E2,England-L1,2324,Burton,Derby,0.0,3.0,A,0.0,1.0,A,4.33,3.6,1.85,4.22,3.84,1.85,4.02,3.63,1.85,1.93,1.93,1.89,1.88,0.5,2.0,1.85,Burton Albion,Derby,burton_albion,derby
+2023-08-26,E2,England-L1,2324,Burton,Bolton,1.0,1.0,D,0.0,0.0,D,4.0,3.5,1.95,3.83,3.61,1.98,3.71,3.57,1.95,1.88,1.98,1.85,1.92,0.5,1.88,1.98,Burton Albion,Bolton,burton_albion,bolton
+2023-09-02,E2,England-L1,2324,Burton,Exeter,0.0,1.0,A,0.0,0.0,D,2.8,3.4,2.5,2.9,3.43,2.52,2.79,3.35,2.46,1.95,1.9,1.88,1.89,0.0,2.03,1.83,Burton Albion,Exeter City,burton_albion,exeter_city
+2023-09-23,E2,England-L1,2324,Burton,Fleetwood Town,1.0,1.0,D,1.0,1.0,D,2.7,3.2,2.75,2.64,3.49,2.72,2.58,3.36,2.63,1.93,1.93,1.88,1.87,0.0,1.9,1.95,Burton Albion,Fleetwood Town,burton_albion,fleetwood_town
+2023-10-03,E2,England-L1,2324,Burton,Wigan,2.0,1.0,H,0.0,1.0,A,2.7,3.25,2.7,2.74,3.37,2.7,2.63,3.3,2.63,1.98,1.88,1.92,1.84,0.0,1.93,1.93,Burton Albion,Wigan Athletic,burton_albion,wigan_athletic
+2023-10-09,E2,England-L1,2324,Burton,Cambridge,2.0,1.0,H,2.0,0.0,H,2.38,3.4,3.0,2.42,3.25,3.09,2.38,3.25,2.94,2.08,1.73,2.05,1.74,-0.25,2.05,1.8,Burton Albion,Cambridge United,burton_albion,cambridge_united
+2023-10-21,E2,England-L1,2324,Burton,Bristol Rvs,4.0,1.0,H,2.0,1.0,H,2.6,3.6,2.5,2.76,3.51,2.59,2.69,3.44,2.45,1.85,2.0,1.81,1.95,0.0,1.98,1.88,Burton Albion,Bristol Rvs,burton_albion,bristol_rvs
+2023-10-28,E2,England-L1,2324,Burton,Leyton Orient,0.0,0.0,D,0.0,0.0,D,2.7,3.2,2.7,2.75,3.37,2.68,2.62,3.28,2.65,2.05,1.8,2.0,1.78,0.0,1.93,1.93,Burton Albion,Leyton Orient,burton_albion,leyton_orient
+2023-11-28,E2,England-L1,2324,Burton,Portsmouth,0.0,2.0,A,0.0,1.0,A,4.5,3.6,1.83,4.32,3.68,1.88,4.04,3.57,1.86,1.93,1.93,1.88,1.89,0.5,2.0,1.85,Burton Albion,Portsmouth,burton_albion,portsmouth
+2023-12-09,E2,England-L1,2324,Burton,Stevenage,1.0,2.0,A,1.0,1.0,D,3.1,3.4,2.25,3.03,3.63,2.22,3.03,3.43,2.22,2.03,1.83,1.93,1.82,0.25,1.88,1.98,Burton Albion,Stevenage,burton_albion,stevenage
+2023-12-26,E2,England-L1,2324,Burton,Blackpool,1.0,0.0,H,1.0,0.0,H,4.0,4.0,1.8,4.41,3.75,1.85,4.12,3.64,1.81,1.93,1.93,1.89,1.87,0.5,2.03,1.83,Burton Albion,Blackpool,burton_albion,blackpool
+2023-12-29,E2,England-L1,2324,Burton,Shrewsbury,1.0,0.0,H,1.0,0.0,H,2.15,3.0,3.8,2.18,3.16,3.86,2.14,3.14,3.58,2.3,1.6,2.24,1.63,-0.25,1.83,2.03,Burton Albion,Shrewsbury Town,burton_albion,shrewsbury_town
+2024-01-06,E2,England-L1,2324,Burton,Wycombe,1.0,1.0,D,0.0,0.0,D,3.0,3.3,2.38,3.14,3.29,2.44,3.0,3.24,2.35,2.1,1.7,2.1,1.7,0.25,1.8,2.05,Burton Albion,Wycombe Wanderers,burton_albion,wycombe_wanderers
+2024-01-20,E2,England-L1,2324,Burton,Charlton,2.0,0.0,H,1.0,0.0,H,3.2,3.5,2.2,3.12,3.58,2.31,3.08,3.4,2.22,2.0,1.85,1.92,1.84,0.25,1.9,1.95,Burton Albion,Charlton,burton_albion,charlton
+2024-02-03,E2,England-L1,2324,Burton,Lincoln,0.0,1.0,A,0.0,0.0,D,2.88,3.25,2.45,3.07,3.21,2.52,2.89,3.18,2.44,2.2,1.65,2.22,1.63,0.0,2.1,1.78,Burton Albion,Lincoln City,burton_albion,lincoln_city
+2024-02-24,E2,England-L1,2324,Burton,Northampton,0.0,2.0,A,0.0,2.0,A,2.63,3.3,2.7,2.65,3.26,2.87,2.6,3.21,2.68,2.08,1.73,2.07,1.71,0.0,1.9,1.95,Burton Albion,Northampton Town,burton_albion,northampton_town
+2024-02-27,E2,England-L1,2324,Burton,Carlisle,0.0,1.0,A,0.0,1.0,A,2.05,3.5,3.6,2.03,3.45,3.97,2.02,3.33,3.7,2.15,1.67,2.15,1.68,-0.5,2.03,1.83,Burton Albion,Carlisle United,burton_albion,carlisle_united
+2024-03-09,E2,England-L1,2324,Burton,Peterboro,1.0,3.0,A,0.0,0.0,D,4.33,4.0,1.73,4.66,4.06,1.74,4.42,3.9,1.72,1.75,2.05,1.75,2.04,0.75,1.93,1.93,Burton Albion,Peterborough United,burton_albion,peterborough_united
+2024-03-23,E2,England-L1,2324,Burton,Port Vale,0.0,1.0,A,0.0,0.0,D,2.25,3.2,3.4,2.32,3.3,3.34,2.25,3.22,3.23,2.2,1.65,2.21,1.64,-0.25,1.93,1.93,Burton Albion,Port Vale,burton_albion,port_vale
+2024-04-01,E2,England-L1,2324,Burton,Barnsley,1.0,3.0,A,1.0,0.0,H,4.33,3.75,1.8,4.2,3.8,1.85,4.06,3.65,1.82,1.88,1.98,1.84,1.92,0.5,2.03,1.83,Burton Albion,Barnsley,burton_albion,barnsley
+2024-04-06,E2,England-L1,2324,Burton,Oxford,0.0,4.0,A,0.0,1.0,A,3.5,3.5,2.1,3.5,3.65,2.08,3.46,3.48,2.05,2.03,1.83,1.99,1.78,0.25,2.05,1.8,Burton Albion,Oxford United,burton_albion,oxford_united
+2024-04-16,E2,England-L1,2324,Burton,Cheltenham,1.0,2.0,A,1.0,0.0,H,2.3,3.2,3.2,2.4,3.07,3.38,2.35,3.06,3.18,2.4,1.53,2.43,1.53,-0.25,2.0,1.85,Burton Albion,Cheltenham Town,burton_albion,cheltenham_town
+2024-04-20,E2,England-L1,2324,Burton,Reading,3.0,2.0,H,3.0,1.0,H,3.0,3.4,2.3,2.91,3.5,2.44,2.87,3.42,2.35,1.88,1.98,1.85,1.91,0.25,1.8,2.05,Burton Albion,Reading,burton_albion,reading
+2024-08-10,E2,England-L1,2425,Burton,Lincoln,2.0,3.0,A,2.0,2.0,D,2.9,3.4,2.3,3.13,3.27,2.33,3.0,3.28,2.3,2.1,1.7,2.1,1.7,0.25,1.83,2.03,Burton Albion,Lincoln City,burton_albion,lincoln_city
+2024-08-24,E2,England-L1,2425,Burton,Stevenage,0.0,0.0,D,0.0,0.0,D,2.88,3.3,2.38,2.86,3.51,2.44,2.85,3.38,2.37,2.05,1.75,2.04,1.74,0.25,1.78,2.1,Burton Albion,Stevenage,burton_albion,stevenage
+2024-09-21,E2,England-L1,2425,Burton,Barnsley,1.0,2.0,A,0.0,1.0,A,3.9,3.5,1.91,3.76,3.85,1.88,3.68,3.7,1.89,1.67,2.15,1.67,2.15,0.5,1.93,1.93,Burton Albion,Barnsley,burton_albion,barnsley
+2024-10-05,E2,England-L1,2425,Burton,Bristol Rvs,1.0,3.0,A,1.0,0.0,H,2.25,3.4,3.0,2.31,3.45,3.02,2.26,3.43,2.96,1.8,2.0,1.78,1.99,-0.25,2.0,1.85,Burton Albion,Bristol Rvs,burton_albion,bristol_rvs
+2024-10-22,E2,England-L1,2425,Burton,Wycombe,2.0,3.0,A,1.0,1.0,D,3.9,3.6,1.85,4.01,3.77,1.9,3.82,3.66,1.88,1.73,2.08,1.74,2.06,0.5,1.98,1.88,Burton Albion,Wycombe Wanderers,burton_albion,wycombe_wanderers
+2024-11-05,E2,England-L1,2425,Burton,Crawley Town,0.0,0.0,D,0.0,0.0,D,2.1,3.5,3.2,2.18,3.61,3.3,2.15,3.5,3.16,1.8,2.0,1.77,2.01,-0.25,1.85,2.0,Burton Albion,Crawley Town,burton_albion,crawley_town
+2024-11-09,E2,England-L1,2425,Burton,Shrewsbury,2.0,0.0,H,1.0,0.0,H,2.2,3.4,3.1,2.31,3.35,3.19,2.23,3.33,3.14,2.0,1.85,1.95,1.82,-0.25,1.95,1.9,Burton Albion,Shrewsbury Town,burton_albion,shrewsbury_town
+2024-11-23,E2,England-L1,2425,Burton,Stockport,0.0,3.0,A,0.0,2.0,A,3.8,3.6,1.9,3.92,3.59,1.91,3.78,3.53,1.91,1.88,1.98,1.84,1.92,0.5,1.93,1.93,Burton Albion,Stockport County,burton_albion,stockport_county
+2024-11-26,E2,England-L1,2425,Burton,Charlton,0.0,1.0,A,0.0,0.0,D,3.6,3.4,2.0,3.76,3.58,2.02,3.64,3.42,1.99,1.95,1.9,1.95,1.83,0.5,1.83,2.03,Burton Albion,Charlton,burton_albion,charlton
+2024-12-07,E2,England-L1,2425,Burton,Wrexham,0.0,1.0,A,0.0,0.0,D,4.1,3.5,1.85,3.93,3.52,1.93,3.91,3.49,1.88,2.0,1.85,1.95,1.82,0.5,1.95,1.9,Burton Albion,Wrexham,burton_albion,wrexham
+2024-12-21,E2,England-L1,2425,Burton,Exeter,1.0,2.0,A,1.0,1.0,D,2.88,3.4,2.3,2.97,3.35,2.39,2.89,3.35,2.34,1.98,1.88,1.94,1.83,0.25,1.8,2.05,Burton Albion,Exeter City,burton_albion,exeter_city
+2025-01-01,E2,England-L1,2425,Burton,Peterboro,2.0,2.0,D,2.0,1.0,H,2.7,3.3,2.5,2.68,3.53,2.51,2.68,3.46,2.42,1.65,2.2,1.62,2.21,0.0,2.0,1.85,Burton Albion,Peterborough United,burton_albion,peterborough_united
+2025-01-04,E2,England-L1,2425,Burton,Northampton,0.0,1.0,A,0.0,0.0,D,2.15,3.25,3.3,2.17,3.32,3.55,2.14,3.25,3.37,2.15,1.67,2.16,1.66,-0.25,1.85,2.0,Burton Albion,Northampton Town,burton_albion,northampton_town
+2025-01-25,E2,England-L1,2425,Burton,Rotherham,4.0,2.0,H,3.0,1.0,H,3.9,3.4,1.86,3.99,3.43,1.94,3.78,3.41,1.94,2.08,1.73,2.04,1.73,0.5,1.9,1.95,Burton Albion,Rotherham United,burton_albion,rotherham_united
+2025-01-28,E2,England-L1,2425,Burton,Reading,3.0,2.0,H,2.0,0.0,H,2.38,3.4,2.75,2.46,3.45,2.93,2.4,3.37,2.83,1.98,1.88,1.92,1.86,-0.25,2.05,1.75,Burton Albion,Reading,burton_albion,reading
+2025-02-08,E2,England-L1,2425,Burton,Blackpool,1.0,1.0,D,1.0,0.0,H,3.3,3.4,2.1,3.32,3.41,2.17,3.29,3.39,2.11,1.95,1.9,1.92,1.85,0.25,2.0,1.85,Burton Albion,Blackpool,burton_albion,blackpool
+2025-03-01,E2,England-L1,2425,Burton,Mansfield,1.0,1.0,D,1.0,0.0,H,2.25,3.6,3.0,2.3,3.46,3.02,2.27,3.4,2.95,1.93,1.93,1.89,1.87,-0.25,2.0,1.85,Burton Albion,Mansfield Town,burton_albion,mansfield_town
+2025-03-08,E2,England-L1,2425,Burton,Bolton,1.0,2.0,A,0.0,1.0,A,3.6,3.6,1.95,3.77,3.57,2.0,3.56,3.49,1.97,1.88,1.98,1.85,1.91,0.5,1.88,1.98,Burton Albion,Bolton,burton_albion,bolton
+2025-04-01,E2,England-L1,2425,Burton,Leyton Orient,2.0,1.0,H,0.0,1.0,A,2.7,3.2,2.55,2.81,3.27,2.65,2.74,3.2,2.56,2.1,1.7,2.1,1.71,0.0,2.0,1.85,Burton Albion,Leyton Orient,burton_albion,leyton_orient
+2025-04-12,E2,England-L1,2425,Burton,Huddersfield,3.0,0.0,H,2.0,0.0,H,3.25,3.25,2.2,3.13,3.46,2.24,3.12,3.37,2.21,2.0,1.85,1.95,1.83,0.25,1.93,1.93,Burton Albion,Huddersfield,burton_albion,huddersfield
+2025-04-21,E2,England-L1,2425,Burton,Birmingham,1.0,2.0,A,0.0,2.0,A,4.0,4.0,1.75,4.05,4.05,1.77,4.16,3.87,1.75,1.93,1.93,1.88,1.89,0.75,1.77,1.97,Burton Albion,Birmingham,burton_albion,birmingham
+2025-04-26,E2,England-L1,2425,Burton,Cambridge,2.0,1.0,H,0.0,0.0,D,1.85,3.4,4.0,1.91,3.51,4.03,1.89,3.52,3.9,2.0,1.85,1.93,1.85,-0.5,1.9,1.95,Burton Albion,Cambridge United,burton_albion,cambridge_united
+2025-04-29,E2,England-L1,2425,Burton,Wigan,1.0,1.0,D,0.0,0.0,D,2.25,3.1,3.3,2.33,2.97,3.66,2.28,3.01,3.42,2.6,1.48,2.63,1.47,-0.25,1.95,1.9,Burton Albion,Wigan Athletic,burton_albion,wigan_athletic
+2025-08-02,E2,England-L1,2526,Burton,Mansfield,2.0,1.0,H,1.0,0.0,H,2.45,3.4,2.7,2.54,3.43,2.71,2.47,3.44,2.68,1.88,1.98,1.83,1.91,0.0,1.83,2.03,Burton Albion,Mansfield Town,burton_albion,mansfield_town
+2025-08-16,E2,England-L1,2526,Burton,Port Vale,0.0,0.0,D,0.0,0.0,D,3.0,3.3,2.25,3.08,3.29,2.34,3.04,3.28,2.29,2.08,1.73,2.04,1.71,0.25,1.83,2.03,Burton Albion,Port Vale,burton_albion,port_vale
+2025-08-30,E2,England-L1,2526,Burton,Luton,0.0,3.0,A,0.0,2.0,A,4.5,3.9,1.66,4.5,3.76,1.75,4.51,3.76,1.71,2.0,1.85,1.91,1.82,0.75,1.88,1.98,Burton Albion,Luton,burton_albion,luton
+2025-09-13,E2,England-L1,2526,Burton,Lincoln,0.0,1.0,A,0.0,1.0,A,2.75,3.5,2.35,2.76,3.32,2.55,2.87,3.21,2.45,2.2,1.65,2.19,1.62,0.0,2.1,1.78,Burton Albion,Lincoln City,burton_albion,lincoln_city
+2025-09-27,E2,England-L1,2526,Burton,Plymouth,0.0,4.0,A,0.0,2.0,A,2.5,3.3,2.55,2.61,3.38,2.66,2.51,3.43,2.64,1.88,1.98,1.81,1.93,0.0,1.9,1.95,Burton Albion,Plymouth Argyle,burton_albion,plymouth_argyle
+2025-10-11,E2,England-L1,2526,Burton,Bolton,3.0,0.0,H,1.0,0.0,H,4.33,3.9,1.66,4.41,4.12,1.69,4.41,3.94,1.7,1.75,2.05,1.73,2.03,0.75,1.93,1.93,Burton Albion,Bolton,burton_albion,bolton
+2025-10-18,E2,England-L1,2526,Burton,Peterboro,0.0,1.0,A,0.0,0.0,D,2.32,3.4,2.75,2.44,3.69,2.68,2.35,3.55,2.76,1.8,2.0,1.74,2.0,-0.25,2.08,1.73,Burton Albion,Peterborough United,burton_albion,peterborough_united
+2025-11-15,E2,England-L1,2526,Burton,Blackpool,1.0,0.0,H,0.0,0.0,D,2.15,3.5,2.95,,,,2.29,3.42,2.96,1.85,2.0,1.86,1.88,-0.25,1.98,1.88,Burton Albion,Blackpool,burton_albion,blackpool
+2025-11-29,E2,England-L1,2526,Burton,Leyton Orient,0.0,4.0,A,0.0,2.0,A,2.65,3.3,2.45,,,,2.69,3.43,2.46,1.75,2.05,1.75,1.99,0.0,2.0,1.85,Burton Albion,Leyton Orient,burton_albion,leyton_orient
+2025-12-13,E2,England-L1,2526,Burton,Wycombe,0.0,0.0,D,0.0,0.0,D,3.5,3.4,1.96,,,,3.62,3.38,2.0,2.0,1.8,1.96,1.76,0.5,1.8,2.05,Burton Albion,Wycombe Wanderers,burton_albion,wycombe_wanderers
+2025-12-26,E2,England-L1,2526,Burton,Northampton,5.0,1.0,H,4.0,1.0,H,2.2,3.05,3.25,,,,2.25,3.19,3.13,2.25,1.62,2.17,1.63,-0.25,1.95,1.9,Burton Albion,Northampton Town,burton_albion,northampton_town
+2025-12-29,E2,England-L1,2526,Burton,Wigan,0.0,2.0,A,0.0,0.0,D,2.57,3.2,2.55,,,,2.7,3.18,2.58,2.25,1.62,2.18,1.61,0.0,1.95,1.9,Burton Albion,Wigan Athletic,burton_albion,wigan_athletic
+2026-01-17,E2,England-L1,2526,Burton,Huddersfield,3.0,1.0,H,1.0,1.0,D,4.0,3.4,1.86,,,,3.85,3.46,1.91,1.98,1.88,1.92,1.81,0.5,1.93,1.93,Burton Albion,Huddersfield,burton_albion,huddersfield
+2026-01-31,E2,England-L1,2526,Burton,Cardiff,2.0,2.0,D,1.0,0.0,H,4.33,3.7,1.71,,,,4.29,3.69,1.76,1.85,2.0,1.79,1.94,0.75,1.85,2.0,Burton Albion,Cardiff City,burton_albion,cardiff_city
+2026-02-03,E2,England-L1,2526,Burton,Doncaster,1.0,2.0,A,0.0,2.0,A,3.0,3.25,2.3,,,,2.9,3.29,2.38,1.98,1.88,1.9,1.83,0.25,1.8,2.05,Burton Albion,Doncaster Rovers,burton_albion,doncaster_rovers
+2026-02-17,E2,England-L1,2526,Burton,Rotherham,1.0,0.0,H,1.0,0.0,H,2.2,3.2,3.2,,,,2.26,3.28,3.1,2.08,1.73,2.02,1.72,-0.25,2.0,1.85,Burton Albion,Rotherham United,burton_albion,rotherham_united
+2026-02-24,E2,England-L1,2526,Burton,Stockport,3.0,0.0,H,0.0,0.0,D,3.25,3.4,2.1,,,,3.26,3.34,2.14,2.05,1.75,1.99,1.75,0.25,1.95,1.9,Burton Albion,Stockport County,burton_albion,stockport_county
+2026-03-07,E2,England-L1,2526,Burton,Stevenage,0.0,1.0,A,0.0,1.0,A,2.57,3.2,2.57,,,,2.71,3.07,2.62,2.5,1.5,2.45,1.5,0.0,1.93,1.93,Burton Albion,Stevenage,burton_albion,stevenage
+2026-03-17,E2,England-L1,2526,Burton,Reading,1.0,2.0,A,1.0,1.0,D,2.2,3.25,3.2,,,,2.21,3.36,3.08,1.98,1.88,1.89,1.84,-0.25,1.98,1.88,Burton Albion,Reading,burton_albion,reading
+2026-03-21,E2,England-L1,2526,Burton,Bradford,2.0,1.0,H,1.0,0.0,H,2.82,3.3,2.32,,,,2.9,3.26,2.36,2.2,1.65,2.13,1.65,0.25,1.78,2.1,Burton Albion,Bradford City,burton_albion,bradford_city
+2026-04-03,E2,England-L1,2526,Burton,Barnsley,1.0,1.0,D,0.0,0.0,D,2.1,3.5,3.2,,,,2.1,3.51,3.19,1.8,2.0,1.75,1.99,-0.25,1.88,1.98,Burton Albion,Barnsley,burton_albion,barnsley
+2026-04-11,E2,England-L1,2526,Burton,AFC Wimbledon,1.0,0.0,H,0.0,0.0,D,1.76,3.5,4.5,,,,1.81,3.45,4.27,2.05,1.75,2.0,1.74,-0.5,1.8,2.05,Burton Albion,AFC Wimbledon,burton_albion,afc_wimbledon
+2026-04-25,E2,England-L1,2526,Burton,Exeter,1.0,1.0,D,0.0,1.0,A,1.91,3.5,3.7,,,,1.94,3.53,3.62,1.8,2.0,1.76,1.96,-0.5,1.98,1.88,Burton Albion,Exeter City,burton_albion,exeter_city
+2026-08-15,E2,England-L1,2627,Burton,Stevenage,1.0,1.0,D,0.0,0.0,D,2.25,3.2,3.1,,,,2.33,3.09,3.11,2.4,1.53,2.35,1.54,-0.25,2.03,1.83,Burton Albion,Stevenage,burton_albion,stevenage
+2026-09-02,E2,England-L1,2627,Burton,AFC Wimbledon,4.0,1.0,H,2.0,1.0,H,1.91,3.25,4.0,,,,1.97,3.38,3.73,2.05,1.75,2.0,1.73,-0.5,2.0,1.85,Burton Albion,AFC Wimbledon,burton_albion,afc_wimbledon
+2026-09-05,E2,England-L1,2627,Burton,Cambridge,2.0,2.0,D,1.0,1.0,D,2.65,3.25,2.45,,,,2.66,3.27,2.55,2.08,1.73,2.03,1.72,0.0,2.03,1.83,Burton Albion,Cambridge United,burton_albion,cambridge_united
+2026-09-19,E2,England-L1,2627,Burton,Mansfield,2.0,2.0,D,2.0,1.0,H,2.5,3.3,2.57,,,,2.5,3.42,2.65,1.93,1.93,1.85,1.88,0.0,1.88,1.98,Burton Albion,Mansfield Town,burton_albion,mansfield_town
+2026-10-03,E2,England-L1,2627,Burton,Huddersfield,1.0,3.0,A,1.0,2.0,A,3.9,3.5,1.81,,,,3.79,3.64,1.85,1.85,2.0,1.78,1.95,0.5,1.95,1.9,Burton Albion,Huddersfield,burton_albion,huddersfield
+2026-10-20,E2,England-L1,2627,Burton,Bradford,0.0,0.0,D,0.0,0.0,D,3.7,3.4,1.91,,,,3.69,3.41,1.98,1.98,1.88,1.94,1.8,0.5,1.88,1.98,Burton Albion,Bradford City,burton_albion,bradford_city

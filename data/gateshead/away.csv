@@ -1,0 +1,100 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-06,EC,England-Conference,2223,Dag and Red,Gateshead,2.0,2.0,D,1.0,2.0,A,1.85,3.4,3.75,1.99,3.78,3.58,1.9,3.62,3.55,1.7,2.1,1.68,2.08,-0.5,1.9,1.9,Dag and Red,Gateshead,dag_and_red,gateshead
+2022-08-20,EC,England-Conference,2223,Dorking,Gateshead,2.0,1.0,H,2.0,0.0,H,2.5,3.75,2.55,2.47,3.92,2.6,2.41,3.63,2.55,1.57,2.35,1.55,2.33,0.0,1.85,1.95,Dorking,Gateshead,dorking,gateshead
+2022-08-30,EC,England-Conference,2223,Wrexham,Gateshead,3.0,1.0,H,2.0,1.0,H,1.3,5.0,10.0,1.27,6.11,9.89,1.27,5.36,9.38,1.7,2.1,1.59,2.23,-1.5,1.9,1.9,Wrexham,Gateshead,wrexham,gateshead
+2022-09-13,EC,England-Conference,2223,Halifax,Gateshead,2.0,0.0,H,0.0,0.0,D,2.45,3.4,2.55,2.62,3.48,2.67,2.52,3.38,2.56,1.83,1.98,1.81,1.93,0.0,1.9,1.9,Halifax,Gateshead,halifax,gateshead
+2022-09-24,EC,England-Conference,2223,Maidenhead,Gateshead,0.0,1.0,A,0.0,1.0,A,2.87,3.5,2.3,2.8,3.54,2.47,2.69,3.34,2.43,1.9,1.9,1.86,1.87,0.0,2.1,1.7,Maidenhead,Gateshead,maidenhead,gateshead
+2022-10-08,EC,England-Conference,2223,Bromley,Gateshead,1.0,1.0,D,0.0,0.0,D,1.9,3.6,3.4,1.98,3.73,3.68,1.94,3.55,3.47,1.72,2.07,1.72,2.03,-0.5,1.95,1.85,Bromley,Gateshead,bromley,gateshead
+2022-10-25,EC,England-Conference,2223,Scunthorpe,Gateshead,3.0,1.0,H,1.0,1.0,D,2.6,3.4,2.4,2.68,3.64,2.52,2.6,3.44,2.45,1.8,2.0,1.74,2.0,0.0,1.98,1.83,Scunthorpe United,Gateshead,scunthorpe_united,gateshead
+2022-11-01,EC,England-Conference,2223,Chesterfield,Gateshead,2.0,1.0,H,1.0,1.0,D,1.5,4.5,5.5,1.5,4.78,5.82,1.47,4.46,5.55,1.6,2.3,1.58,2.29,-1.0,1.75,2.05,Chesterfield,Gateshead,chesterfield,gateshead
+2022-11-12,EC,England-Conference,2223,Yeovil,Gateshead,3.0,1.0,H,1.0,1.0,D,2.37,3.4,2.75,2.49,3.39,2.87,2.39,3.32,2.73,1.85,1.95,1.83,1.91,0.0,1.75,2.05,Yeovil Town,Gateshead,yeovil_town,gateshead
+2022-11-26,EC,England-Conference,2223,Torquay,Gateshead,1.0,1.0,D,0.0,0.0,D,2.55,3.5,2.45,2.62,3.72,2.54,2.6,3.48,2.42,1.72,2.07,1.72,2.03,0.0,1.95,1.85,Torquay,Gateshead,torquay,gateshead
+2022-12-13,EC,England-Conference,2223,Notts County,Gateshead,2.0,0.0,H,1.0,0.0,H,1.17,6.5,13.0,1.17,7.39,14.94,1.16,6.99,13.45,1.44,2.7,1.42,2.68,-2.0,1.83,1.98,Notts County,Gateshead,notts_county,gateshead
+2022-12-26,EC,England-Conference,2223,York,Gateshead,0.0,3.0,A,0.0,1.0,A,2.0,3.4,3.75,1.89,3.53,4.06,1.95,3.36,3.66,2.0,1.8,1.98,1.78,-0.5,2.0,1.8,York,Gateshead,york,gateshead
+2023-01-07,EC,England-Conference,2223,Barnet,Gateshead,1.0,1.0,D,0.0,0.0,D,2.2,3.4,3.1,2.19,3.68,3.16,2.2,3.45,2.95,1.75,2.05,1.72,2.04,-0.25,1.95,1.85,Barnet,Gateshead,barnet,gateshead
+2023-01-28,EC,England-Conference,2223,Wealdstone,Gateshead,1.0,2.0,A,1.0,0.0,H,2.4,3.5,2.7,2.5,3.45,2.83,2.41,3.38,2.69,1.88,1.93,1.85,1.9,0.0,1.83,1.98,Wealdstone,Gateshead,wealdstone,gateshead
+2023-02-04,EC,England-Conference,2223,Solihull,Gateshead,0.0,2.0,A,0.0,1.0,A,1.85,3.6,3.5,2.1,3.69,3.35,2.02,3.53,3.23,1.7,2.1,1.69,2.07,-0.5,1.93,1.88,Solihull,Gateshead,solihull,gateshead
+2023-02-14,EC,England-Conference,2223,Oldham,Gateshead,2.0,2.0,D,0.0,0.0,D,2.3,3.3,2.88,2.36,3.43,3.05,2.27,3.34,2.87,1.93,1.88,1.9,1.84,-0.25,2.0,1.8,Oldham,Gateshead,oldham,gateshead
+2023-02-18,EC,England-Conference,2223,Southend,Gateshead,1.0,0.0,H,1.0,0.0,H,1.67,3.5,4.75,1.81,3.82,4.28,1.73,3.66,4.26,1.9,1.9,1.87,1.86,-0.75,1.93,1.88,Southend United,Gateshead,southend_united,gateshead
+2023-02-25,EC,England-Conference,2223,Maidstone,Gateshead,1.0,1.0,D,0.0,1.0,A,3.25,3.1,2.15,3.07,3.51,2.31,3.06,3.34,2.17,1.95,1.85,1.83,1.89,0.25,1.9,1.9,Maidstone,Gateshead,maidstone,gateshead
+2023-03-25,EC,England-Conference,2223,Aldershot,Gateshead,2.0,3.0,A,1.0,1.0,D,2.63,3.3,2.3,2.81,3.52,2.48,2.66,3.38,2.4,1.8,2.0,1.75,1.99,0.0,2.02,1.77,Aldershot,Gateshead,aldershot,gateshead
+2023-04-10,EC,England-Conference,2223,Altrincham,Gateshead,0.0,1.0,A,0.0,1.0,A,2.8,3.4,2.45,3.01,3.6,2.3,2.88,3.43,2.23,1.73,2.08,1.73,2.02,0.25,1.73,2.08,Altrincham,Gateshead,altrincham,gateshead
+2023-04-12,EC,England-Conference,2223,Eastleigh,Gateshead,2.0,5.0,A,1.0,2.0,A,2.5,3.2,2.88,2.46,3.39,2.92,2.38,3.3,2.77,1.93,1.88,1.91,1.83,0.0,1.77,2.02,Eastleigh,Gateshead,eastleigh,gateshead
+2023-04-22,EC,England-Conference,2223,Woking,Gateshead,2.0,1.0,H,2.0,0.0,H,1.75,3.6,3.75,1.91,3.83,3.83,1.84,3.64,3.74,1.8,2.0,1.8,1.92,-0.5,1.85,1.95,Woking,Gateshead,woking,gateshead
+2023-04-25,EC,England-Conference,2223,Boreham Wood,Gateshead,0.0,2.0,A,0.0,1.0,A,1.95,3.4,3.5,2.1,3.43,3.59,2.03,3.33,3.44,2.0,1.8,2.0,1.75,-0.25,1.73,2.08,Boreham Wood,Gateshead,boreham_wood,gateshead
+2023-08-12,EC,England-Conference,2324,Hartlepool,Gateshead,2.0,1.0,H,1.0,0.0,H,2.4,3.3,2.8,2.54,3.6,2.69,2.41,3.42,2.65,1.75,2.05,1.73,2.01,0.0,1.8,2.0,Hartlepool United,Gateshead,hartlepool_united,gateshead
+2023-08-15,EC,England-Conference,2324,Dag and Red,Gateshead,2.0,4.0,A,0.0,1.0,A,3.5,3.5,1.91,3.64,3.73,1.99,3.49,3.54,1.95,1.73,2.08,1.72,2.02,0.5,1.88,1.93,Dag and Red,Gateshead,dag_and_red,gateshead
+2023-08-28,EC,England-Conference,2324,Halifax,Gateshead,0.0,0.0,D,0.0,0.0,D,2.7,3.5,2.45,2.79,3.51,2.49,2.71,3.36,2.41,1.88,1.93,1.85,1.89,0.0,2.0,1.8,Halifax,Gateshead,halifax,gateshead
+2023-09-09,EC,England-Conference,2324,Eastleigh,Gateshead,0.0,6.0,A,0.0,4.0,A,2.9,3.2,2.2,2.95,3.45,2.37,2.82,3.42,2.28,1.7,2.1,1.7,2.05,0.25,1.78,2.03,Eastleigh,Gateshead,eastleigh,gateshead
+2023-09-16,EC,England-Conference,2324,Aldershot,Gateshead,1.0,1.0,D,0.0,0.0,D,3.3,3.5,2.05,3.28,3.85,2.05,3.17,3.67,2.02,1.57,2.35,1.55,2.34,0.25,2.03,1.78,Aldershot,Gateshead,aldershot,gateshead
+2023-09-26,EC,England-Conference,2324,Oxford City,Gateshead,0.0,4.0,A,0.0,1.0,A,5.0,4.0,1.55,4.94,4.43,1.61,4.85,4.17,1.57,1.57,2.35,1.55,2.34,1.0,1.85,1.95,Oxford City,Gateshead,oxford_city,gateshead
+2023-09-30,EC,England-Conference,2324,Bromley,Gateshead,3.0,1.0,H,0.0,0.0,D,3.4,3.75,1.85,3.72,3.57,2.01,3.51,3.51,1.93,1.8,2.0,1.79,1.93,0.5,1.83,1.98,Bromley,Gateshead,bromley,gateshead
+2023-10-24,EC,England-Conference,2324,Rochdale,Gateshead,2.0,2.0,D,2.0,0.0,H,3.5,3.6,2.0,3.44,3.78,2.04,3.25,3.67,1.98,1.57,2.35,1.54,2.35,0.5,1.83,1.98,Rochdale,Gateshead,rochdale,gateshead
+2023-11-18,EC,England-Conference,2324,Barnet,Gateshead,0.0,2.0,A,0.0,0.0,D,2.0,3.6,3.6,2.05,3.99,3.26,1.95,3.72,3.25,1.53,2.4,1.51,2.42,-0.5,1.95,1.85,Barnet,Gateshead,barnet,gateshead
+2023-11-21,EC,England-Conference,2324,Solihull,Gateshead,1.0,2.0,A,0.0,2.0,A,3.8,3.4,1.83,3.86,3.85,1.89,3.57,3.67,1.87,1.6,2.3,1.6,2.24,0.5,1.93,1.88,Solihull,Gateshead,solihull,gateshead
+2023-12-23,EC,England-Conference,2324,Oldham,Gateshead,1.0,2.0,A,1.0,0.0,H,2.8,3.6,2.2,3.15,3.68,2.2,2.89,3.55,2.17,1.62,2.25,1.6,2.23,0.25,1.85,1.95,Oldham,Gateshead,oldham,gateshead
+2024-01-01,EC,England-Conference,2324,York,Gateshead,2.0,0.0,H,1.0,0.0,H,4.75,4.0,1.62,4.81,4.48,1.62,4.69,4.16,1.58,1.57,2.35,1.55,2.32,1.0,1.8,2.0,York,Gateshead,york,gateshead
+2024-01-10,EC,England-Conference,2324,Chesterfield,Gateshead,5.0,0.0,H,4.0,0.0,H,1.5,4.0,6.0,1.52,4.49,5.87,1.5,4.31,5.3,1.5,2.5,1.49,2.49,-1.0,1.83,1.98,Chesterfield,Gateshead,chesterfield,gateshead
+2024-01-20,EC,England-Conference,2324,Dorking,Gateshead,1.0,0.0,H,1.0,0.0,H,4.0,4.0,1.65,4.1,4.5,1.72,4.09,4.1,1.66,1.53,2.4,1.52,2.42,0.75,1.95,1.85,Dorking,Gateshead,dorking,gateshead
+2024-02-03,EC,England-Conference,2324,Southend,Gateshead,0.0,1.0,A,0.0,0.0,D,1.75,3.75,3.8,1.77,3.94,4.39,1.75,3.72,4.05,1.7,2.1,1.69,2.08,-0.75,1.95,1.85,Southend United,Gateshead,southend_united,gateshead
+2024-02-17,EC,England-Conference,2324,Wealdstone,Gateshead,2.0,4.0,A,1.0,3.0,A,2.2,3.4,3.1,2.19,4.01,2.95,2.15,3.67,2.86,1.53,2.4,1.5,2.46,-0.25,1.93,1.88,Wealdstone,Gateshead,wealdstone,gateshead
+2024-02-20,EC,England-Conference,2324,Kidderminster,Gateshead,0.0,2.0,A,0.0,1.0,A,2.55,3.5,2.63,2.59,3.46,2.71,2.5,3.31,2.6,2.05,1.75,2.01,1.74,0.0,1.85,1.95,Kidderminster,Gateshead,kidderminster,gateshead
+2024-02-27,EC,England-Conference,2324,Woking,Gateshead,3.0,2.0,H,1.0,2.0,A,3.3,3.4,2.0,3.57,3.68,2.02,3.29,3.52,2.02,1.8,2.0,1.75,2.0,0.25,2.05,1.75,Woking,Gateshead,woking,gateshead
+2024-03-02,EC,England-Conference,2324,Boreham Wood,Gateshead,1.0,1.0,D,1.0,0.0,H,2.45,3.4,2.55,2.7,3.45,2.62,2.52,3.37,2.54,1.73,2.08,1.73,2.01,0.0,1.9,1.9,Boreham Wood,Gateshead,boreham_wood,gateshead
+2024-03-16,EC,England-Conference,2324,Ebbsfleet,Gateshead,4.0,2.0,H,1.0,2.0,A,2.7,3.6,2.25,2.79,3.67,2.42,2.65,3.6,2.32,1.53,2.4,1.53,2.4,0.0,2.08,1.73,Ebbsfleet,Gateshead,ebbsfleet,gateshead
+2024-03-23,EC,England-Conference,2324,Altrincham,Gateshead,2.0,3.0,A,1.0,0.0,H,2.5,3.4,2.55,2.57,3.57,2.67,2.48,3.5,2.53,1.6,2.3,1.57,2.31,0.0,1.88,1.93,Altrincham,Gateshead,altrincham,gateshead
+2024-04-11,EC,England-Conference,2324,Fylde,Gateshead,2.0,0.0,H,0.0,0.0,D,3.4,3.6,1.91,3.52,4.02,1.93,3.25,3.74,1.95,1.5,2.5,1.48,2.53,0.5,1.9,1.9,Fylde,Gateshead,fylde,gateshead
+2024-04-13,EC,England-Conference,2324,Maidenhead,Gateshead,2.0,1.0,H,0.0,0.0,D,3.0,3.5,2.0,3.27,3.62,2.14,3.2,3.53,2.04,1.7,2.1,1.7,2.07,0.25,2.0,1.8,Maidenhead,Gateshead,maidenhead,gateshead
+2024-08-17,EC,England-Conference,2425,Woking,Gateshead,0.0,2.0,A,0.0,1.0,A,3.1,3.5,2.2,2.88,3.58,2.28,2.86,3.42,2.26,1.85,1.95,1.81,1.92,0.25,1.9,1.9,Woking,Gateshead,woking,gateshead
+2024-08-20,EC,England-Conference,2425,Halifax,Gateshead,1.0,1.0,D,0.0,0.0,D,3.1,3.25,2.15,3.22,3.6,2.16,3.08,3.42,2.13,1.85,1.95,1.82,1.92,0.25,1.93,1.88,Halifax,Gateshead,halifax,gateshead
+2024-08-26,EC,England-Conference,2425,Oldham,Gateshead,1.0,1.0,D,0.0,1.0,A,2.8,3.4,2.25,2.89,3.62,2.34,2.86,3.44,2.25,1.83,1.98,1.79,1.96,0.25,1.8,2.0,Oldham,Gateshead,oldham,gateshead
+2024-09-14,EC,England-Conference,2425,Dag and Red,Gateshead,7.0,1.0,H,2.0,1.0,H,3.2,3.3,2.2,3.04,3.61,2.17,2.99,3.52,2.15,1.65,2.2,1.63,2.19,0.25,1.9,1.9,Dag and Red,Gateshead,dag_and_red,gateshead
+2024-09-28,EC,England-Conference,2425,Southend,Gateshead,1.0,3.0,A,1.0,1.0,D,2.4,3.1,2.8,2.48,3.26,2.81,2.4,3.22,2.77,1.95,1.85,1.9,1.84,0.0,1.75,2.05,Southend United,Gateshead,southend_united,gateshead
+2024-10-08,EC,England-Conference,2425,Tamworth,Gateshead,2.0,1.0,H,1.0,0.0,H,3.6,3.5,1.9,3.66,3.8,1.94,3.56,3.59,1.9,1.85,1.95,1.82,1.92,0.5,1.88,1.93,Tamworth,Gateshead,tamworth,gateshead
+2024-10-19,EC,England-Conference,2425,Altrincham,Gateshead,2.0,2.0,D,1.0,2.0,A,3.0,3.7,2.15,2.93,3.62,2.23,2.93,3.54,2.17,1.67,2.15,1.66,2.12,0.25,1.9,1.9,Altrincham,Gateshead,altrincham,gateshead
+2024-10-23,EC,England-Conference,2425,Sutton,Gateshead,0.0,1.0,A,0.0,0.0,D,2.8,3.75,2.25,2.89,3.59,2.27,2.81,3.52,2.22,1.6,2.3,1.59,2.24,0.25,1.83,1.98,Sutton United,Gateshead,sutton_united,gateshead
+2024-11-09,EC,England-Conference,2425,Fylde,Gateshead,3.0,0.0,H,1.0,0.0,H,4.1,3.75,1.73,4.09,3.83,1.77,4.09,3.77,1.73,1.62,2.25,1.62,2.2,0.75,1.83,1.98,Fylde,Gateshead,fylde,gateshead
+2024-11-23,EC,England-Conference,2425,Maidenhead,Gateshead,0.0,5.0,A,0.0,2.0,A,3.7,3.6,1.83,3.75,3.75,1.87,3.68,3.67,1.85,1.67,2.15,1.64,2.16,0.5,1.95,1.85,Maidenhead,Gateshead,maidenhead,gateshead
+2024-11-30,EC,England-Conference,2425,Braintree Town,Gateshead,2.0,2.0,D,2.0,2.0,D,3.5,3.4,1.95,3.75,3.5,1.94,3.59,3.42,1.94,1.93,1.88,1.87,1.87,0.5,1.83,1.98,Braintree Town,Gateshead,braintree_town,gateshead
+2024-12-21,EC,England-Conference,2425,Ebbsfleet,Gateshead,1.0,4.0,A,0.0,2.0,A,6.0,4.75,1.42,6.0,4.65,1.44,5.87,4.58,1.43,1.53,2.4,1.5,2.45,1.25,1.85,1.95,Ebbsfleet,Gateshead,ebbsfleet,gateshead
+2025-01-01,EC,England-Conference,2425,York,Gateshead,1.0,0.0,H,1.0,0.0,H,1.95,3.75,3.3,2.03,3.66,3.31,1.96,3.65,3.29,1.6,2.3,1.59,2.24,-0.5,1.98,1.83,York,Gateshead,york,gateshead
+2025-01-17,EC,England-Conference,2425,Yeovil,Gateshead,0.0,0.0,D,0.0,0.0,D,2.9,3.5,2.15,3.05,3.66,2.23,2.97,3.5,2.17,1.7,2.1,1.66,2.14,0.25,1.85,1.95,Yeovil Town,Gateshead,yeovil_town,gateshead
+2025-02-08,EC,England-Conference,2425,Wealdstone,Gateshead,0.0,4.0,A,0.0,2.0,A,3.1,3.4,2.3,2.87,3.66,2.25,2.85,3.48,2.22,1.7,2.1,1.66,2.13,0.25,1.83,1.98,Wealdstone,Gateshead,wealdstone,gateshead
+2025-02-22,EC,England-Conference,2425,Solihull,Gateshead,1.0,3.0,A,0.0,1.0,A,2.9,3.6,2.2,2.89,3.74,2.21,2.9,3.56,2.15,1.65,2.2,1.62,2.18,0.25,1.85,1.95,Solihull,Gateshead,solihull,gateshead
+2025-02-25,EC,England-Conference,2425,Eastleigh,Gateshead,1.0,1.0,D,0.0,0.0,D,3.0,3.6,2.15,3.23,3.62,2.15,3.05,3.46,2.13,1.75,2.05,1.74,2.01,0.25,1.93,1.88,Eastleigh,Gateshead,eastleigh,gateshead
+2025-03-04,EC,England-Conference,2425,Rochdale,Gateshead,1.0,0.0,H,0.0,0.0,D,2.25,3.5,2.88,2.39,3.45,2.92,2.24,3.33,2.91,1.9,1.9,1.83,1.92,-0.25,2.0,1.8,Rochdale,Gateshead,rochdale,gateshead
+2025-03-08,EC,England-Conference,2425,Aldershot,Gateshead,3.0,1.0,H,1.0,1.0,D,2.7,3.4,2.45,2.66,3.51,2.54,2.64,3.41,2.43,1.67,2.15,1.63,2.17,0.0,2.0,1.8,Aldershot,Gateshead,aldershot,gateshead
+2025-03-29,EC,England-Conference,2425,Barnet,Gateshead,3.0,1.0,H,2.0,0.0,H,1.38,4.5,8.5,1.35,5.13,7.87,1.36,4.68,7.38,1.53,2.4,1.51,2.42,-1.5,2.0,1.8,Barnet,Gateshead,barnet,gateshead
+2025-04-12,EC,England-Conference,2425,Forest Green,Gateshead,2.0,3.0,A,0.0,2.0,A,1.85,3.6,3.75,1.87,3.69,3.8,1.87,3.6,3.67,1.7,2.1,1.67,2.1,-0.5,1.88,1.93,Forest Green Rovers,Gateshead,forest_green_rovers,gateshead
+2025-04-21,EC,England-Conference,2425,Hartlepool,Gateshead,3.0,2.0,H,2.0,0.0,H,2.1,3.8,2.88,2.22,3.77,2.85,2.14,3.66,2.88,1.6,2.3,1.58,2.27,-0.25,1.9,1.9,Hartlepool United,Gateshead,hartlepool_united,gateshead
+2025-04-26,EC,England-Conference,2425,Boston Utd,Gateshead,2.0,1.0,H,2.0,1.0,H,2.3,3.5,2.7,2.36,3.34,2.91,2.3,3.4,2.77,1.75,2.05,1.76,1.98,-0.25,2.05,1.75,Boston Utd,Gateshead,boston_utd,gateshead
+2025-08-16,EC,England-Conference,2526,Eastleigh,Gateshead,0.0,2.0,A,0.0,2.0,A,1.83,3.5,3.7,1.88,3.94,3.51,1.9,3.5,3.42,1.73,2.08,1.72,2.0,-0.5,1.88,1.93,Eastleigh,Gateshead,eastleigh,gateshead
+2025-08-20,EC,England-Conference,2526,Rochdale,Gateshead,4.0,0.0,H,2.0,0.0,H,1.57,4.1,4.75,1.61,3.99,4.96,1.58,3.89,4.72,1.7,2.1,1.69,2.03,-1.0,2.03,1.78,Rochdale,Gateshead,rochdale,gateshead
+2025-08-25,EC,England-Conference,2526,Yeovil,Gateshead,3.0,4.0,A,3.0,0.0,H,,,,,,,,,,,,,,,,,Yeovil Town,Gateshead,yeovil_town,gateshead
+2025-09-06,EC,England-Conference,2526,Woking,Gateshead,5.0,0.0,H,2.0,0.0,H,2.1,3.5,2.9,2.19,3.52,3.06,2.18,3.4,2.87,1.73,2.08,1.69,2.05,-0.25,1.9,1.9,Woking,Gateshead,woking,gateshead
+2025-09-13,EC,England-Conference,2526,Wealdstone,Gateshead,2.0,2.0,D,1.0,1.0,D,1.9,3.8,3.3,1.95,3.81,3.4,1.93,3.62,3.29,1.62,2.25,1.59,2.22,-0.5,1.93,1.88,Wealdstone,Gateshead,wealdstone,gateshead
+2025-09-27,EC,England-Conference,2526,Braintree Town,Gateshead,1.0,2.0,A,0.0,2.0,A,2.15,3.4,3.1,2.21,3.54,3.01,2.12,3.44,2.95,1.7,2.1,1.65,2.11,-0.25,1.9,1.9,Braintree Town,Gateshead,braintree_town,gateshead
+2025-09-30,EC,England-Conference,2526,Morecambe,Gateshead,2.0,5.0,A,1.0,4.0,A,2.45,3.5,2.45,2.53,3.82,2.51,2.44,3.6,2.42,1.44,2.7,1.44,2.59,0.0,1.9,1.9,Morecambe,Gateshead,morecambe,gateshead
+2025-10-18,EC,England-Conference,2526,Brackley Town,Gateshead,0.0,0.0,D,0.0,0.0,D,1.75,3.75,3.8,1.76,3.96,3.99,1.73,3.7,4.06,1.73,2.08,1.7,2.04,-0.75,1.98,1.83,Brackley Town,Gateshead,brackley_town,gateshead
+2025-11-05,EC,England-Conference,2526,York,Gateshead,4.0,0.0,H,3.0,0.0,H,1.27,6.0,7.0,,,,1.26,5.69,8.05,1.29,3.6,1.28,3.35,-1.75,1.9,1.9,York,Gateshead,york,gateshead
+2025-11-15,EC,England-Conference,2526,Forest Green,Gateshead,3.0,1.0,H,3.0,0.0,H,1.33,4.75,7.5,,,,1.34,4.95,6.81,1.44,2.7,1.42,2.64,-1.5,1.95,1.85,Forest Green Rovers,Gateshead,forest_green_rovers,gateshead
+2025-11-29,EC,England-Conference,2526,Sutton,Gateshead,4.0,2.0,H,1.0,1.0,D,1.8,3.8,3.6,,,,1.81,3.78,3.55,1.5,2.5,1.48,2.46,-0.5,1.83,1.98,Sutton United,Gateshead,sutton_united,gateshead
+2025-12-30,EC,England-Conference,2526,Scunthorpe,Gateshead,2.0,0.0,H,1.0,0.0,H,1.33,4.5,7.0,,,,1.35,4.75,6.82,1.44,2.7,1.42,2.62,-1.5,1.95,1.85,Scunthorpe United,Gateshead,scunthorpe_united,gateshead
+2026-01-03,EC,England-Conference,2526,Tamworth,Gateshead,3.0,1.0,H,1.0,0.0,H,1.65,3.8,4.5,,,,1.69,3.86,4.04,1.53,2.4,1.52,2.36,-0.75,1.85,1.95,Tamworth,Gateshead,tamworth,gateshead
+2026-01-20,EC,England-Conference,2526,Hartlepool,Gateshead,2.0,1.0,H,0.0,1.0,A,1.5,4.0,5.5,,,,1.48,4.26,5.33,1.53,2.4,1.47,2.48,-1.0,1.8,2.0,Hartlepool United,Gateshead,hartlepool_united,gateshead
+2026-02-10,EC,England-Conference,2526,Boston Utd,Gateshead,1.0,0.0,H,1.0,0.0,H,1.67,3.7,4.5,,,,1.68,3.87,4.17,1.6,2.3,1.56,2.26,-0.75,1.9,1.9,Boston Utd,Gateshead,boston_utd,gateshead
+2026-02-17,EC,England-Conference,2526,Halifax,Gateshead,1.0,2.0,A,0.0,1.0,A,1.55,3.9,5.0,,,,1.57,3.97,4.84,1.65,2.2,1.6,2.19,-1.0,2.0,1.8,Halifax,Gateshead,halifax,gateshead
+2026-02-21,EC,England-Conference,2526,Truro,Gateshead,1.0,2.0,A,1.0,1.0,D,2.1,3.25,3.25,,,,2.09,3.44,3.0,1.8,2.0,1.7,2.01,-0.25,1.85,1.95,Truro,Gateshead,truro,gateshead
+2026-03-07,EC,England-Conference,2526,Solihull,Gateshead,1.0,2.0,A,1.0,1.0,D,1.62,4.1,4.33,,,,1.61,4.07,4.28,1.44,2.7,1.42,2.63,-0.75,1.78,2.03,Solihull,Gateshead,solihull,gateshead
+2026-03-10,EC,England-Conference,2526,Southend,Gateshead,1.0,1.0,D,1.0,1.0,D,1.33,5.0,7.0,,,,1.32,4.84,7.47,1.36,3.1,1.35,2.93,-1.5,1.95,1.85,Southend United,Gateshead,southend_united,gateshead
+2026-03-21,EC,England-Conference,2526,Boreham Wood,Gateshead,3.0,0.0,H,2.0,0.0,H,1.4,4.5,6.25,,,,1.37,4.93,6.04,1.33,3.4,1.3,3.2,-1.25,1.83,1.98,Boreham Wood,Gateshead,boreham_wood,gateshead
+2026-04-03,EC,England-Conference,2526,Carlisle,Gateshead,0.0,0.0,D,0.0,0.0,D,1.5,4.1,5.25,,,,1.48,4.38,5.19,1.48,2.6,1.44,2.62,-1.0,1.85,1.95,Carlisle United,Gateshead,carlisle_united,gateshead
+2026-04-11,EC,England-Conference,2526,Aldershot,Gateshead,0.0,1.0,A,0.0,1.0,A,1.8,3.9,3.4,,,,1.85,3.84,3.35,1.44,2.7,1.41,2.7,-0.5,1.9,1.9,Aldershot,Gateshead,aldershot,gateshead
+2026-04-25,EC,England-Conference,2526,Altrincham,Gateshead,3.0,1.0,H,2.0,1.0,H,2.3,3.7,2.63,,,,2.27,3.48,2.64,1.53,2.4,1.52,2.37,-0.25,2.0,1.8,Altrincham,Gateshead,altrincham,gateshead
+2026-08-08,EC,England-Conference,2627,Eastleigh,Gateshead,2.0,1.0,H,1.0,0.0,H,2.2,3.5,2.8,,,,2.19,3.54,2.72,1.6,2.3,1.56,2.27,-0.25,2.0,1.8,Eastleigh,Gateshead,eastleigh,gateshead
+2026-08-22,EC,England-Conference,2627,Yeovil,Gateshead,3.0,0.0,H,1.0,0.0,H,2.0,3.5,3.3,,,,2.01,3.37,3.31,1.85,1.95,1.86,1.84,-0.5,2.03,1.78,Yeovil Town,Gateshead,yeovil_town,gateshead
+2026-08-31,EC,England-Conference,2627,Harrogate,Gateshead,2.0,1.0,H,0.0,0.0,D,1.55,4.2,4.75,,,,1.57,4.12,4.71,1.5,2.5,1.48,2.47,-1.0,1.95,1.85,Harrogate Town,Gateshead,harrogate_town,gateshead
+2026-09-12,EC,England-Conference,2627,Forest Green,Gateshead,4.0,0.0,H,1.0,0.0,H,1.48,4.2,5.5,,,,1.44,4.42,5.55,1.5,2.5,1.47,2.51,-1.25,1.98,1.83,Forest Green Rovers,Gateshead,forest_green_rovers,gateshead
+2026-09-16,EC,England-Conference,2627,Kidderminster,Gateshead,1.0,0.0,H,1.0,0.0,H,1.65,3.8,4.5,,,,1.63,3.78,4.52,1.75,2.05,1.71,2.03,-0.75,1.83,1.98,Kidderminster,Gateshead,kidderminster,gateshead
+2026-09-26,EC,England-Conference,2627,Wealdstone,Gateshead,4.0,0.0,H,2.0,0.0,H,1.65,3.8,4.33,,,,1.67,3.78,4.26,1.67,2.15,1.63,2.14,-0.75,1.88,1.93,Wealdstone,Gateshead,wealdstone,gateshead
+2026-10-10,EC,England-Conference,2627,Halifax,Gateshead,4.0,1.0,H,0.0,1.0,A,1.4,4.2,7.0,,,,1.36,4.53,6.81,1.65,2.2,1.61,2.18,-1.25,1.85,1.95,Halifax,Gateshead,halifax,gateshead

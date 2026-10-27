@@ -1,0 +1,22 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2023-07-29,D2,Germany-BL2,2324,Osnabruck,Karlsruhe,2.0,3.0,A,1.0,2.0,A,2.8,3.75,2.3,2.94,3.75,2.38,2.79,3.6,2.32,1.6,2.3,1.6,2.28,0.25,1.83,2.03,Osnabruck,Karlsruhe,osnabruck,karlsruhe
+2023-08-20,D2,Germany-BL2,2324,Osnabruck,Nurnberg,2.0,3.0,A,0.0,1.0,A,2.5,3.4,2.8,2.6,3.4,2.86,2.47,3.42,2.71,1.8,2.0,1.78,2.0,0.0,1.83,2.03,Osnabruck,Nurnberg,osnabruck,nurnberg
+2023-09-03,D2,Germany-BL2,2324,Osnabruck,Elversberg,0.0,1.0,A,0.0,0.0,D,2.4,3.75,2.7,2.44,3.98,2.73,2.36,3.77,2.67,1.53,2.4,1.53,2.44,0.0,1.8,2.05,Osnabruck,Elversberg,osnabruck,elversberg
+2023-09-22,D2,Germany-BL2,2324,Osnabruck,Hamburg,2.0,1.0,H,2.0,1.0,H,4.5,4.5,1.62,4.5,4.74,1.67,4.47,4.53,1.62,1.36,3.1,1.38,2.96,1.0,1.83,2.03,Osnabruck,Hamburger SV,osnabruck,hamburger_sv
+2023-10-01,D2,Germany-BL2,2324,Osnabruck,Kaiserslautern,2.0,2.0,D,2.0,1.0,H,2.75,3.6,2.45,2.77,3.67,2.54,2.72,3.57,2.42,1.67,2.15,1.68,2.14,0.0,2.05,1.8,Osnabruck,Kaiserslautern,osnabruck,kaiserslautern
+2023-10-21,D2,Germany-BL2,2324,Osnabruck,Wehen,0.0,2.0,A,0.0,1.0,A,2.25,3.6,3.0,2.31,3.64,3.13,2.2,3.65,3.0,1.65,2.2,1.63,2.21,-0.25,1.95,1.9,Osnabruck,Wehen,osnabruck,wehen
+2023-11-04,D2,Germany-BL2,2324,Osnabruck,Holstein Kiel,1.0,1.0,D,0.0,0.0,D,2.88,3.6,2.38,2.91,3.88,2.35,2.77,3.75,2.31,1.53,2.4,1.51,2.49,0.25,1.83,2.03,Osnabruck,Holstein Kiel,osnabruck,holstein_kiel
+2023-11-25,D2,Germany-BL2,2324,Osnabruck,Magdeburg,0.0,2.0,A,0.0,0.0,D,3.1,3.5,2.25,3.16,3.83,2.22,2.99,3.71,2.2,1.53,2.4,1.53,2.45,0.25,1.93,1.93,Osnabruck,Magdeburg,osnabruck,magdeburg
+2023-12-09,D2,Germany-BL2,2324,Osnabruck,St Pauli,1.0,1.0,D,0.0,1.0,A,6.5,4.2,1.5,6.7,4.42,1.52,6.21,4.4,1.49,1.67,2.15,1.64,2.22,1.0,2.05,1.8,Osnabruck,FC St Pauli,osnabruck,fc_st_pauli
+2024-01-27,D2,Germany-BL2,2324,Osnabruck,Paderborn,0.0,0.0,D,0.0,0.0,D,3.3,3.8,2.05,3.49,3.69,2.12,3.27,3.75,2.04,1.53,2.4,1.52,2.46,0.5,1.78,2.03,Osnabruck,Paderborn,osnabruck,paderborn
+2024-02-11,D2,Germany-BL2,2324,Osnabruck,Hansa Rostock,0.0,0.0,D,0.0,0.0,D,2.25,3.5,3.1,2.4,3.54,3.04,2.28,3.48,2.96,1.88,1.98,1.83,1.95,-0.25,2.03,1.83,Osnabruck,Hansa Rostock,osnabruck,hansa_rostock
+2024-02-24,D2,Germany-BL2,2324,Osnabruck,Hannover,1.0,0.0,H,0.0,0.0,D,3.8,3.8,1.91,3.86,3.84,1.96,3.64,3.76,1.92,1.65,2.2,1.63,2.24,0.5,1.93,1.93,Osnabruck,Hannover,osnabruck,hannover
+2024-03-15,D2,Germany-BL2,2324,Osnabruck,Fortuna Dusseldorf,0.0,4.0,A,0.0,1.0,A,3.6,3.75,1.95,3.71,3.83,2.01,3.53,3.71,1.97,1.62,2.25,1.62,2.27,0.5,1.88,1.98,Osnabruck,Fortuna Dusseldorf,osnabruck,fortuna_dusseldorf
+2024-04-07,D2,Germany-BL2,2324,Osnabruck,Greuther Furth,2.0,0.0,H,2.0,0.0,H,3.0,3.5,2.3,2.97,3.61,2.38,2.92,3.53,2.3,1.67,2.15,1.68,2.16,0.25,1.83,2.03,Osnabruck,Greuther Furth,osnabruck,greuther_furth
+2024-04-20,D2,Germany-BL2,2324,Osnabruck,Braunschweig,0.0,3.0,A,0.0,2.0,A,2.5,3.5,2.63,2.57,3.43,2.84,2.51,3.41,2.69,1.8,2.0,1.78,2.02,0.0,1.83,2.03,Osnabruck,Braunschweig,osnabruck,braunschweig
+2024-05-07,D2,Germany-BL2,2324,Osnabruck,Schalke 04,0.0,4.0,A,0.0,2.0,A,4.0,3.8,1.85,4.1,3.62,1.94,3.81,3.78,1.85,1.53,2.4,1.52,2.45,0.5,1.98,1.88,Osnabruck,Schalke 04,osnabruck,schalke_04
+2024-05-19,D2,Germany-BL2,2324,Osnabruck,Hertha,2.0,1.0,H,1.0,1.0,D,3.5,3.6,2.0,3.21,4.08,1.97,3.14,4.03,2.0,1.33,3.4,1.33,3.16,0.5,1.83,2.03,Osnabruck,Hertha Berlin,osnabruck,hertha_berlin
+2026-08-15,D2,Germany-BL2,2627,Osnabruck,Magdeburg,0.0,3.0,A,0.0,2.0,A,2.55,3.5,2.6,,,,2.47,3.58,2.48,1.57,2.35,1.53,2.35,0.0,1.88,1.93,Osnabruck,Magdeburg,osnabruck,magdeburg
+2026-09-06,D2,Germany-BL2,2627,Osnabruck,Braunschweig,3.0,1.0,H,0.0,0.0,D,2.35,3.3,2.8,,,,2.24,3.44,2.87,1.7,2.1,1.7,2.05,-0.25,1.98,1.83,Osnabruck,Braunschweig,osnabruck,braunschweig
+2026-09-13,D2,Germany-BL2,2627,Osnabruck,Hertha,1.0,3.0,A,0.0,0.0,D,3.2,3.5,2.1,,,,3.02,3.63,2.09,1.57,2.35,1.54,2.34,0.25,1.98,1.83,Osnabruck,Hertha Berlin,osnabruck,hertha_berlin
+2026-10-10,D2,Germany-BL2,2627,Osnabruck,Dresden,1.0,1.0,D,0.0,1.0,A,2.55,3.6,2.4,,,,2.56,3.61,2.37,1.53,2.4,1.51,2.4,0.0,1.98,1.83,Osnabruck,Dresden,osnabruck,dresden

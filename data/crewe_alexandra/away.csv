@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E2,England-L1,2122,Portsmouth,Crewe,2.0,0.0,H,0.0,0.0,D,1.75,3.75,4.5,1.87,3.64,4.31,1.86,3.54,4.16,2.06,1.87,2.01,1.8,-0.5,1.8,2.0,Portsmouth,Crewe Alexandra,portsmouth,crewe_alexandra
+2021-08-17,E2,England-L1,2122,Oxford,Crewe,1.0,0.0,H,1.0,0.0,H,1.7,3.75,5.0,1.74,3.74,5.14,1.72,3.65,4.79,1.85,1.95,1.85,1.95,-0.75,1.97,1.96,Oxford United,Crewe Alexandra,oxford_united,crewe_alexandra
+2021-08-28,E2,England-L1,2122,Charlton,Crewe,2.0,0.0,H,2.0,0.0,H,1.8,3.75,4.33,1.83,3.72,4.46,1.82,3.6,4.29,2.0,1.8,1.97,1.83,-0.5,1.8,2.14,Charlton,Crewe Alexandra,charlton,crewe_alexandra
+2021-09-11,E2,England-L1,2122,Shrewsbury,Crewe,1.0,1.0,D,1.0,1.0,D,2.2,3.4,3.3,2.27,3.25,3.37,2.22,3.22,3.32,2.15,1.66,2.2,1.66,-0.25,1.93,1.93,Shrewsbury Town,Crewe Alexandra,shrewsbury_town,crewe_alexandra
+2021-09-25,E2,England-L1,2122,Rotherham,Crewe,1.0,1.0,D,0.0,0.0,D,1.5,4.5,6.0,1.53,4.23,6.26,1.51,4.26,6.0,1.8,2.0,1.76,2.05,-1.0,1.9,1.95,Rotherham United,Crewe Alexandra,rotherham_united,crewe_alexandra
+2021-09-28,E2,England-L1,2122,Plymouth,Crewe,1.0,1.0,D,0.0,1.0,A,1.72,3.75,4.75,1.79,3.82,4.65,1.78,3.67,4.4,1.85,1.95,1.86,1.93,-0.75,2.0,1.85,Plymouth Argyle,Crewe Alexandra,plymouth_argyle,crewe_alexandra
+2021-10-16,E2,England-L1,2122,Fleetwood Town,Crewe,3.0,0.0,H,0.0,0.0,D,1.9,3.75,3.75,1.92,3.69,3.94,1.92,3.58,3.8,1.9,1.9,1.89,1.9,-0.5,1.93,1.93,Fleetwood Town,Crewe Alexandra,fleetwood_town,crewe_alexandra
+2021-10-23,E2,England-L1,2122,Wycombe,Crewe,2.0,1.0,H,1.0,0.0,H,1.45,4.33,7.5,1.47,4.29,7.35,1.47,4.33,6.71,1.8,2.0,1.78,2.02,-1.0,1.8,2.05,Wycombe Wanderers,Crewe Alexandra,wycombe_wanderers,crewe_alexandra
+2021-11-12,E2,England-L1,2122,Bolton,Crewe,2.0,0.0,H,0.0,0.0,D,1.66,4.0,5.0,1.75,3.96,4.71,1.72,3.9,4.5,1.7,2.1,1.7,2.13,-0.75,1.9,1.95,Bolton,Crewe Alexandra,bolton,crewe_alexandra
+2021-11-23,E2,England-L1,2122,AFC Wimbledon,Crewe,3.0,2.0,H,3.0,1.0,H,1.85,3.5,4.33,1.88,3.64,4.4,1.86,3.53,4.16,2.02,1.83,1.98,1.81,-0.5,1.88,1.98,AFC Wimbledon,Crewe Alexandra,afc_wimbledon,crewe_alexandra
+2021-11-28,E2,England-L1,2122,Ipswich,Crewe,2.0,1.0,H,2.0,0.0,H,1.44,4.5,7.5,1.38,5.1,7.63,1.4,4.71,7.24,1.75,2.05,1.76,2.03,-1.25,1.98,1.88,Ipswich,Crewe Alexandra,ipswich,crewe_alexandra
+2021-12-29,E2,England-L1,2122,Morecambe,Crewe,1.0,2.0,A,1.0,0.0,H,2.25,3.6,3.0,2.33,3.44,3.09,2.28,3.38,3.02,2.0,1.85,1.94,1.85,-0.25,1.98,1.88,Morecambe,Crewe Alexandra,morecambe,crewe_alexandra
+2022-01-01,E2,England-L1,2122,Burton,Crewe,4.0,1.0,H,3.0,1.0,H,1.72,3.6,5.0,1.79,3.68,4.58,1.79,3.63,4.37,2.0,1.8,1.93,1.86,-0.75,2.0,1.8,Burton Albion,Crewe Alexandra,burton_albion,crewe_alexandra
+2022-01-22,E2,England-L1,2122,Cambridge,Crewe,1.0,0.0,H,1.0,0.0,H,1.95,3.5,4.0,1.96,3.57,3.91,1.97,3.49,3.68,1.93,1.93,1.85,1.92,-0.5,1.98,1.88,Cambridge United,Crewe Alexandra,cambridge_united,crewe_alexandra
+2022-02-01,E2,England-L1,2122,Gillingham,Crewe,1.0,0.0,H,1.0,0.0,H,2.3,3.1,3.3,2.41,3.34,3.14,2.36,3.23,3.01,2.07,1.72,2.08,1.73,-0.25,2.0,1.85,Gillingham,Crewe Alexandra,gillingham,crewe_alexandra
+2022-02-12,E2,England-L1,2122,Accrington,Crewe,4.0,1.0,H,1.0,0.0,H,1.66,3.8,4.75,1.71,4.14,4.49,1.72,3.84,4.48,1.9,1.95,1.85,1.93,-0.75,1.93,1.93,Accrington Stanley,Crewe Alexandra,accrington_stanley,crewe_alexandra
+2022-02-15,E2,England-L1,2122,Wigan,Crewe,2.0,0.0,H,0.0,0.0,D,1.33,4.75,9.5,1.35,5.18,9.39,1.35,4.96,8.33,1.66,2.15,1.67,2.17,-1.5,2.0,1.8,Wigan Athletic,Crewe Alexandra,wigan_athletic,crewe_alexandra
+2022-02-26,E2,England-L1,2122,Cheltenham,Crewe,1.0,2.0,A,0.0,1.0,A,1.75,3.8,4.5,1.73,3.7,5.01,1.75,3.72,4.54,1.83,2.02,1.8,1.99,-0.75,2.0,1.85,Cheltenham Town,Crewe Alexandra,cheltenham_town,crewe_alexandra
+2022-03-12,E2,England-L1,2122,Sunderland,Crewe,2.0,0.0,H,0.0,0.0,D,1.36,5.0,8.5,1.33,5.27,9.1,1.35,4.95,8.54,1.7,2.1,1.69,2.13,-1.5,2.02,1.77,Sunderland,Crewe Alexandra,sunderland,crewe_alexandra
+2022-04-05,E2,England-L1,2122,Milton Keynes Dons,Crewe,2.0,1.0,H,2.0,0.0,H,1.28,5.75,10.0,1.32,5.39,10.82,1.3,5.39,9.99,1.65,2.2,1.67,2.17,-1.5,1.93,1.93,MK Dons,Crewe Alexandra,mk_dons,crewe_alexandra
+2022-04-09,E2,England-L1,2122,Doncaster,Crewe,2.0,0.0,H,1.0,0.0,H,2.2,3.4,3.3,2.1,3.45,3.58,2.11,3.4,3.38,1.95,1.9,1.93,1.84,-0.25,1.85,2.0,Doncaster Rovers,Crewe Alexandra,doncaster_rovers,crewe_alexandra
+2022-04-19,E2,England-L1,2122,Sheffield Weds,Crewe,1.0,0.0,H,0.0,0.0,D,1.22,6.5,13.0,1.2,6.56,14.72,1.21,6.21,13.02,1.7,2.1,1.64,2.22,-1.75,2.0,1.85,Sheffield Wednesday,Crewe Alexandra,sheffield_wednesday,crewe_alexandra
+2022-04-30,E2,England-L1,2122,Lincoln,Crewe,2.0,1.0,H,0.0,1.0,A,1.75,4.0,4.33,1.76,3.92,4.43,1.77,3.83,4.29,1.7,2.1,1.7,2.11,-0.75,1.98,1.88,Lincoln City,Crewe Alexandra,lincoln_city,crewe_alexandra
+2022-07-30,E3,England-L2,2223,Rochdale,Crewe,1.0,2.0,A,0.0,2.0,A,2.15,3.3,3.5,2.17,3.43,3.56,2.12,3.33,3.36,2.05,1.8,2.0,1.75,-0.25,1.85,2.0,Rochdale,Crewe Alexandra,rochdale,crewe_alexandra
+2022-08-13,E3,England-L2,2223,Salford,Crewe,3.0,0.0,H,1.0,0.0,H,1.85,3.6,4.33,1.92,3.48,4.21,1.9,3.45,4.04,2.05,1.8,2.03,1.75,-0.5,1.9,1.95,Salford City,Crewe Alexandra,salford_city,crewe_alexandra
+2022-08-27,E3,England-L2,2223,Bradford,Crewe,0.0,0.0,D,0.0,0.0,D,1.8,3.5,4.75,1.81,3.74,4.64,1.81,3.57,4.3,1.98,1.88,1.95,1.82,-0.5,1.83,2.02,Bradford City,Crewe Alexandra,bradford_city,crewe_alexandra
+2022-09-13,E3,England-L2,2223,Hartlepool,Crewe,1.0,1.0,D,1.0,0.0,H,2.8,3.25,2.55,2.9,3.22,2.65,2.76,3.21,2.54,2.1,1.7,2.07,1.72,0.0,2.02,1.83,Hartlepool United,Crewe Alexandra,hartlepool_united,crewe_alexandra
+2022-10-01,E3,England-L2,2223,Carlisle,Crewe,0.0,0.0,D,0.0,0.0,D,1.95,3.3,4.2,2.03,3.52,3.98,1.97,3.39,3.76,2.05,1.75,2.05,1.73,-0.5,1.95,1.9,Carlisle United,Crewe Alexandra,carlisle_united,crewe_alexandra
+2022-10-14,E3,England-L2,2223,Tranmere,Crewe,3.0,0.0,H,1.0,0.0,H,2.0,3.2,4.2,2.02,3.25,4.32,1.99,3.19,3.98,2.35,1.57,2.32,1.58,-0.5,2.0,1.85,Tranmere Rovers,Crewe Alexandra,tranmere_rovers,crewe_alexandra
+2022-10-25,E3,England-L2,2223,AFC Wimbledon,Crewe,1.0,1.0,D,1.0,0.0,H,2.25,3.3,3.3,2.28,3.43,3.3,2.24,3.31,3.16,1.98,1.88,1.96,1.81,-0.25,1.95,1.9,AFC Wimbledon,Crewe Alexandra,afc_wimbledon,crewe_alexandra
+2022-10-29,E3,England-L2,2223,Barrow,Crewe,3.0,0.0,H,2.0,0.0,H,1.9,3.3,4.33,1.93,3.37,4.55,1.89,3.31,4.12,2.25,1.61,2.23,1.6,-0.5,1.9,1.95,Barrow,Crewe Alexandra,barrow,crewe_alexandra
+2022-11-19,E3,England-L2,2223,Swindon,Crewe,0.0,1.0,A,0.0,1.0,A,1.8,3.75,4.5,1.76,3.9,4.7,1.73,3.78,4.42,1.85,2.0,1.81,1.94,-0.75,1.98,1.88,Swindon Town,Crewe Alexandra,swindon_town,crewe_alexandra
+2022-12-26,E3,England-L2,2223,Stockport,Crewe,2.0,0.0,H,0.0,0.0,D,1.45,4.2,8.0,1.45,4.42,7.39,1.42,4.32,7.27,1.98,1.88,1.92,1.84,-1.25,2.02,1.77,Stockport County,Crewe Alexandra,stockport_county,crewe_alexandra
+2023-01-14,E3,England-L2,2223,Mansfield,Crewe,1.0,1.0,D,1.0,0.0,H,1.5,4.2,7.0,1.5,4.33,7.22,1.48,4.13,6.65,1.98,1.88,1.92,1.84,-1.0,1.85,2.0,Mansfield Town,Crewe Alexandra,mansfield_town,crewe_alexandra
+2023-02-11,E3,England-L2,2223,Crawley Town,Crewe,2.0,2.0,D,1.0,0.0,H,2.2,3.4,3.3,2.26,3.36,3.41,2.22,3.26,3.22,2.05,1.75,2.01,1.76,-0.25,1.93,1.93,Crawley Town,Crewe Alexandra,crawley_town,crewe_alexandra
+2023-02-18,E3,England-L2,2223,Harrogate,Crewe,2.0,2.0,D,1.0,0.0,H,2.0,3.3,4.0,2.01,3.48,3.82,2.0,3.38,3.67,2.1,1.77,2.02,1.75,-0.5,2.0,1.85,Harrogate Town,Crewe Alexandra,harrogate_town,crewe_alexandra
+2023-02-21,E3,England-L2,2223,Walsall,Crewe,0.0,0.0,D,0.0,0.0,D,1.75,3.6,5.0,1.79,3.54,5.18,1.77,3.45,4.78,2.3,1.6,2.26,1.61,-0.75,2.0,1.85,Walsall,Crewe Alexandra,walsall,crewe_alexandra
+2023-03-04,E3,England-L2,2223,Sutton,Crewe,1.0,1.0,D,0.0,1.0,A,1.65,3.5,5.75,1.66,3.93,5.52,1.66,3.69,5.18,2.08,1.73,2.07,1.72,-0.75,1.88,1.98,Sutton United,Crewe Alexandra,sutton_united,crewe_alexandra
+2023-03-14,E3,England-L2,2223,Stevenage,Crewe,1.0,0.0,H,0.0,0.0,D,1.4,4.5,8.0,1.38,4.82,9.46,1.38,4.5,8.58,1.95,1.9,1.94,1.83,-1.25,1.93,1.93,Stevenage,Crewe Alexandra,stevenage,crewe_alexandra
+2023-03-18,E3,England-L2,2223,Northampton,Crewe,1.0,0.0,H,1.0,0.0,H,1.53,3.8,7.0,1.53,4.16,6.9,1.5,4.05,6.41,2.05,1.8,2.0,1.77,-1.0,1.9,1.95,Northampton Town,Crewe Alexandra,northampton_town,crewe_alexandra
+2023-03-21,E3,England-L2,2223,Gillingham,Crewe,2.0,1.0,H,0.0,0.0,D,1.75,3.5,5.5,1.79,3.44,5.3,1.78,3.36,4.83,2.3,1.6,2.3,1.59,-0.75,2.02,1.83,Gillingham,Crewe Alexandra,gillingham,crewe_alexandra
+2023-04-01,E3,England-L2,2223,Doncaster,Crewe,0.0,2.0,A,0.0,2.0,A,2.0,3.5,3.75,2.04,3.59,3.78,2.0,3.43,3.62,2.02,1.83,2.06,1.72,-0.5,2.0,1.85,Doncaster Rovers,Crewe Alexandra,doncaster_rovers,crewe_alexandra
+2023-04-10,E3,England-L2,2223,Colchester,Crewe,4.0,0.0,H,3.0,0.0,H,1.91,3.3,4.5,1.98,3.44,4.19,1.95,3.35,3.94,2.15,1.67,2.16,1.66,-0.5,1.93,1.93,Colchester United,Crewe Alexandra,colchester_united,crewe_alexandra
+2023-04-22,E3,England-L2,2223,Leyton Orient,Crewe,2.0,0.0,H,0.0,0.0,D,1.44,4.0,9.0,1.44,4.54,8.2,1.43,4.26,7.54,2.0,1.85,1.96,1.8,-1.25,2.05,1.75,Leyton Orient,Crewe Alexandra,leyton_orient,crewe_alexandra
+2023-04-25,E3,England-L2,2223,Grimsby,Crewe,2.0,0.0,H,1.0,0.0,H,1.83,3.5,4.5,1.86,3.61,4.53,1.83,3.5,4.32,2.08,1.73,2.04,1.74,-0.5,1.82,2.02,Grimsby Town,Crewe Alexandra,grimsby_town,crewe_alexandra
+2023-05-08,E3,England-L2,2223,Newport County,Crewe,2.0,2.0,D,0.0,0.0,D,1.65,3.75,5.5,1.61,3.85,5.17,1.62,3.87,5.23,2.0,1.8,1.91,1.84,-0.75,1.85,2.0,Newport County,Crewe Alexandra,newport_county,crewe_alexandra
+2023-08-12,E3,England-L2,2324,Swindon,Crewe,2.0,2.0,D,1.0,0.0,H,1.8,3.75,4.33,1.86,3.6,4.54,1.81,3.57,4.26,1.95,1.9,1.9,1.85,-0.5,1.78,2.03,Swindon Town,Crewe Alexandra,swindon_town,crewe_alexandra
+2023-08-26,E3,England-L2,2324,Bradford,Crewe,1.0,0.0,H,1.0,0.0,H,1.6,4.0,5.25,1.65,4.24,5.13,1.61,4.07,5.05,1.8,2.05,1.76,2.02,-1.0,2.03,1.78,Bradford City,Crewe Alexandra,bradford_city,crewe_alexandra
+2023-09-09,E3,England-L2,2324,Forest Green,Crewe,1.0,4.0,A,1.0,0.0,H,2.2,3.5,3.25,2.18,3.52,3.44,2.12,3.44,3.31,1.85,2.0,1.81,1.95,-0.25,1.83,1.98,Forest Green Rovers,Crewe Alexandra,forest_green_rovers,crewe_alexandra
+2023-09-16,E3,England-L2,2324,AFC Wimbledon,Crewe,2.0,2.0,D,2.0,0.0,H,1.73,3.8,4.33,1.8,3.96,4.41,1.75,3.77,4.25,1.73,2.08,1.74,2.02,-0.75,2.0,1.85,AFC Wimbledon,Crewe Alexandra,afc_wimbledon,crewe_alexandra
+2023-09-30,E3,England-L2,2324,Wrexham,Crewe,3.0,3.0,D,1.0,2.0,A,1.4,4.75,8.0,1.42,5.24,7.06,1.39,4.99,6.83,1.44,2.7,1.44,2.67,-1.25,1.85,2.0,Wrexham,Crewe Alexandra,wrexham,crewe_alexandra
+2023-10-07,E3,England-L2,2324,Salford,Crewe,4.0,2.0,H,1.0,1.0,D,2.15,3.5,3.4,2.12,3.75,3.3,2.05,3.61,3.29,1.73,2.08,1.69,2.09,-0.5,2.08,1.73,Salford City,Crewe Alexandra,salford_city,crewe_alexandra
+2023-10-21,E3,England-L2,2324,Crawley Town,Crewe,2.0,4.0,A,2.0,1.0,H,2.1,3.6,3.2,2.08,3.92,3.36,2.05,3.65,3.24,1.57,2.35,1.58,2.26,-0.5,2.03,1.78,Crawley Town,Crewe Alexandra,crawley_town,crewe_alexandra
+2023-10-28,E3,England-L2,2324,Harrogate,Crewe,0.0,1.0,A,0.0,1.0,A,3.0,3.5,2.3,2.94,3.63,2.4,2.86,3.51,2.31,1.67,2.15,1.68,2.12,0.25,1.83,2.03,Harrogate Town,Crewe Alexandra,harrogate_town,crewe_alexandra
+2023-11-28,E3,England-L2,2324,Sutton,Crewe,1.0,1.0,D,1.0,1.0,D,2.63,3.5,2.6,2.71,3.57,2.6,2.58,3.5,2.52,1.7,2.1,1.7,2.08,0.0,1.98,1.88,Sutton United,Crewe Alexandra,sutton_united,crewe_alexandra
+2023-12-09,E3,England-L2,2324,Grimsby,Crewe,2.0,1.0,H,2.0,0.0,H,2.38,3.6,2.9,2.39,3.53,3.02,2.31,3.49,2.85,1.75,2.05,1.73,2.04,-0.25,2.03,1.83,Grimsby Town,Crewe Alexandra,grimsby_town,crewe_alexandra
+2023-12-26,E3,England-L2,2324,Walsall,Crewe,2.0,0.0,H,1.0,0.0,H,2.2,3.5,3.2,2.17,3.66,3.33,2.13,3.53,3.17,1.73,2.08,1.72,2.06,-0.25,1.88,1.98,Walsall,Crewe Alexandra,walsall,crewe_alexandra
+2023-12-29,E3,England-L2,2324,Newport County,Crewe,1.0,1.0,D,0.0,0.0,D,2.2,3.75,3.0,2.25,3.71,3.13,2.19,3.6,3.03,1.67,2.15,1.68,2.12,-0.25,1.95,1.9,Newport County,Crewe Alexandra,newport_county,crewe_alexandra
+2024-01-06,E3,England-L2,2324,Mansfield,Crewe,0.0,1.0,A,0.0,1.0,A,1.44,5.0,7.0,1.45,4.97,6.73,1.43,4.73,6.34,1.53,2.4,1.51,2.44,-1.25,1.95,1.9,Mansfield Town,Crewe Alexandra,mansfield_town,crewe_alexandra
+2024-01-20,E3,England-L2,2324,Barrow,Crewe,1.0,3.0,A,1.0,1.0,D,1.8,3.8,4.33,1.83,3.76,4.47,1.82,3.62,4.13,1.93,1.93,1.86,1.88,-0.5,1.83,2.03,Barrow,Crewe Alexandra,barrow,crewe_alexandra
+2024-02-03,E3,England-L2,2324,Tranmere,Crewe,0.0,0.0,D,0.0,0.0,D,2.2,3.8,3.0,2.2,3.84,3.13,2.15,3.69,3.0,1.62,2.25,1.59,2.27,-0.25,1.93,1.93,Tranmere Rovers,Crewe Alexandra,tranmere_rovers,crewe_alexandra
+2024-02-13,E3,England-L2,2324,Stockport,Crewe,1.0,3.0,A,1.0,2.0,A,1.5,4.75,6.0,1.49,4.6,6.66,1.47,4.43,6.17,1.7,2.1,1.69,2.11,-1.0,1.8,2.05,Stockport County,Crewe Alexandra,stockport_county,crewe_alexandra
+2024-02-24,E3,England-L2,2324,Notts County,Crewe,1.0,3.0,A,0.0,2.0,A,1.91,3.75,4.0,1.92,3.99,3.8,1.87,3.86,3.65,1.57,2.35,1.54,2.4,-0.5,1.88,1.98,Notts County,Crewe Alexandra,notts_county,crewe_alexandra
+2024-03-09,E3,England-L2,2324,Doncaster,Crewe,2.0,0.0,H,1.0,0.0,H,2.45,3.6,2.63,2.58,3.39,2.85,2.49,3.39,2.71,1.88,1.98,1.84,1.92,0.0,1.85,2.0,Doncaster Rovers,Crewe Alexandra,doncaster_rovers,crewe_alexandra
+2024-03-16,E3,England-L2,2324,Milton Keynes Dons,Crewe,3.0,1.0,H,3.0,1.0,H,1.91,3.6,4.0,1.95,3.74,3.9,1.9,3.66,3.78,1.73,2.08,1.72,2.07,-0.5,1.93,1.93,MK Dons,Crewe Alexandra,mk_dons,crewe_alexandra
+2024-03-29,E3,England-L2,2324,Gillingham,Crewe,0.0,0.0,D,0.0,0.0,D,2.05,3.5,3.6,2.07,3.47,3.74,2.05,3.39,3.55,2.1,1.7,2.11,1.7,-0.5,2.03,1.83,Gillingham,Crewe Alexandra,gillingham,crewe_alexandra
+2024-04-06,E3,England-L2,2324,Accrington,Crewe,0.0,0.0,D,0.0,0.0,D,2.7,3.6,2.5,2.7,3.55,2.59,2.65,3.51,2.48,1.7,2.1,1.7,2.1,0.0,2.0,1.85,Accrington Stanley,Crewe Alexandra,accrington_stanley,crewe_alexandra
+2024-04-09,E3,England-L2,2324,Morecambe,Crewe,0.0,1.0,A,0.0,0.0,D,2.63,3.5,2.55,2.72,3.34,2.69,2.63,3.36,2.58,1.85,2.0,1.82,1.94,0.0,1.93,1.93,Morecambe,Crewe Alexandra,morecambe,crewe_alexandra
+2024-04-27,E3,England-L2,2324,Colchester,Crewe,1.0,1.0,D,1.0,0.0,H,2.75,2.55,3.3,2.74,2.46,3.59,2.65,2.55,3.36,2.2,1.65,2.18,1.64,-0.25,2.2,1.65,Colchester United,Crewe Alexandra,colchester_united,crewe_alexandra
+2024-08-10,E3,England-L2,2425,Barrow,Crewe,1.0,0.0,H,1.0,0.0,H,1.91,3.5,3.8,1.92,3.51,3.96,1.92,3.48,3.81,2.0,1.85,1.94,1.81,-0.5,1.95,1.9,Barrow,Crewe Alexandra,barrow,crewe_alexandra
+2024-08-31,E3,England-L2,2425,Bromley,Crewe,1.0,2.0,A,1.0,0.0,H,2.0,3.3,3.8,2.03,3.49,3.75,2.02,3.42,3.59,1.93,1.93,1.87,1.89,-0.5,2.03,1.83,Bromley,Crewe Alexandra,bromley,crewe_alexandra
+2024-09-14,E3,England-L2,2425,Accrington,Crewe,0.0,1.0,A,0.0,0.0,D,2.25,3.5,2.9,2.32,3.51,2.89,2.31,3.47,2.87,1.85,2.0,1.83,1.93,-0.25,2.0,1.85,Accrington Stanley,Crewe Alexandra,accrington_stanley,crewe_alexandra
+2024-09-28,E3,England-L2,2425,Newport County,Crewe,2.0,1.0,H,1.0,0.0,H,3.25,3.7,2.0,3.39,3.58,2.04,3.39,3.53,2.04,2.0,1.85,1.93,1.82,0.5,1.8,2.05,Newport County,Crewe Alexandra,newport_county,crewe_alexandra
+2024-10-12,E3,England-L2,2425,Doncaster,Crewe,1.0,1.0,D,0.0,0.0,D,1.7,3.6,4.75,1.76,3.71,4.57,1.74,3.67,4.5,1.95,1.9,1.9,1.85,-0.75,2.0,1.85,Doncaster Rovers,Crewe Alexandra,doncaster_rovers,crewe_alexandra
+2024-10-22,E3,England-L2,2425,Fleetwood Town,Crewe,0.0,1.0,A,0.0,0.0,D,1.85,3.6,4.0,1.88,3.6,4.12,1.89,3.52,3.93,1.98,1.88,1.93,1.84,-0.5,1.88,1.98,Fleetwood Town,Crewe Alexandra,fleetwood_town,crewe_alexandra
+2024-11-09,E3,England-L2,2425,Walsall,Crewe,1.0,1.0,D,0.0,0.0,D,1.67,3.6,5.0,1.67,3.77,4.88,1.68,3.69,4.82,1.95,1.9,1.9,1.85,-0.75,1.93,1.93,Walsall,Crewe Alexandra,walsall,crewe_alexandra
+2024-11-25,E3,England-L2,2425,Port Vale,Crewe,1.0,1.0,D,1.0,0.0,H,1.8,3.25,4.75,1.81,3.42,4.53,1.81,3.34,4.46,2.2,1.65,2.21,1.62,-0.5,1.83,2.03,Port Vale,Crewe Alexandra,port_vale,crewe_alexandra
+2024-11-30,E3,England-L2,2425,Carlisle,Crewe,1.0,1.0,D,1.0,0.0,H,2.7,3.3,2.5,2.76,3.2,2.59,2.73,3.22,2.54,2.15,1.67,2.1,1.68,0.0,2.0,1.85,Carlisle United,Crewe Alexandra,carlisle_united,crewe_alexandra
+2024-12-14,E3,England-L2,2425,Grimsby,Crewe,0.0,2.0,A,0.0,0.0,D,2.55,3.25,2.7,2.49,3.14,2.93,2.51,3.22,2.77,2.15,1.67,2.13,1.68,0.0,1.83,2.03,Grimsby Town,Crewe Alexandra,grimsby_town,crewe_alexandra
+2024-12-26,E3,England-L2,2425,Cheltenham,Crewe,2.0,1.0,H,0.0,0.0,D,2.7,3.3,2.5,2.77,3.19,2.59,2.71,3.22,2.54,2.2,1.65,2.24,1.61,0.0,2.0,1.85,Cheltenham Town,Crewe Alexandra,cheltenham_town,crewe_alexandra
+2024-12-29,E3,England-L2,2425,Milton Keynes Dons,Crewe,1.0,1.0,D,1.0,0.0,H,2.0,3.5,3.3,2.04,3.48,3.52,2.03,3.44,3.43,1.98,1.88,1.92,1.84,-0.5,2.03,1.83,MK Dons,Crewe Alexandra,mk_dons,crewe_alexandra
+2025-01-11,E3,England-L2,2425,Swindon,Crewe,0.0,0.0,D,0.0,0.0,D,2.8,3.3,2.4,3.0,3.15,2.44,2.86,3.24,2.42,2.05,1.75,2.03,1.74,0.25,1.73,2.08,Swindon Town,Crewe Alexandra,swindon_town,crewe_alexandra
+2025-01-18,E3,England-L2,2425,Morecambe,Crewe,0.0,1.0,A,0.0,0.0,D,3.2,3.25,2.2,3.33,3.36,2.14,3.32,3.29,2.14,2.1,1.7,2.06,1.72,0.25,1.98,1.88,Morecambe,Crewe Alexandra,morecambe,crewe_alexandra
+2025-02-01,E3,England-L2,2425,Harrogate,Crewe,1.0,1.0,D,1.0,0.0,H,3.0,3.3,2.25,3.08,3.25,2.32,3.1,3.24,2.28,2.25,1.62,2.23,1.62,0.25,1.85,2.0,Harrogate Town,Crewe Alexandra,harrogate_town,crewe_alexandra
+2025-02-11,E3,England-L2,2425,AFC Wimbledon,Crewe,3.0,0.0,H,2.0,0.0,H,1.73,3.3,5.25,1.73,3.47,5.38,1.74,3.36,5.06,2.5,1.5,2.47,1.51,-0.75,2.03,1.83,AFC Wimbledon,Crewe Alexandra,afc_wimbledon,crewe_alexandra
+2025-02-15,E3,England-L2,2425,Gillingham,Crewe,0.0,0.0,D,0.0,0.0,D,2.45,3.0,3.0,2.44,3.02,3.14,2.41,2.97,3.06,2.6,1.48,2.58,1.46,-0.25,2.1,1.78,Gillingham,Crewe Alexandra,gillingham,crewe_alexandra
+2025-03-01,E3,England-L2,2425,Chesterfield,Crewe,1.0,3.0,A,0.0,2.0,A,1.9,3.4,4.0,1.91,3.56,3.87,1.9,3.48,3.82,2.03,1.83,1.98,1.78,-0.5,1.93,1.93,Chesterfield,Crewe Alexandra,chesterfield,crewe_alexandra
+2025-03-08,E3,England-L2,2425,Salford,Crewe,1.0,1.0,D,0.0,0.0,D,2.2,3.25,3.2,2.23,3.27,3.33,2.2,3.19,3.23,2.15,1.67,2.18,1.64,-0.25,1.95,1.9,Salford City,Crewe Alexandra,salford_city,crewe_alexandra
+2025-03-22,E3,England-L2,2425,Notts County,Crewe,0.0,0.0,D,0.0,0.0,D,1.9,3.5,3.8,1.91,3.68,3.83,1.91,3.54,3.77,1.88,1.98,1.84,1.93,-0.5,1.93,1.93,Notts County,Crewe Alexandra,notts_county,crewe_alexandra
+2025-04-05,E3,England-L2,2425,Bradford,Crewe,2.0,0.0,H,1.0,0.0,H,1.7,3.4,5.5,1.71,3.37,5.29,1.71,3.43,5.03,2.3,1.6,2.28,1.59,-0.75,1.95,1.9,Bradford City,Crewe Alexandra,bradford_city,crewe_alexandra
+2025-04-18,E3,England-L2,2425,Colchester,Crewe,0.0,0.0,D,0.0,0.0,D,2.0,3.4,3.5,2.01,3.24,3.91,2.03,3.29,3.65,2.2,1.65,2.18,1.65,-0.5,2.05,1.8,Colchester United,Crewe Alexandra,colchester_united,crewe_alexandra
+2025-04-26,E3,England-L2,2425,Tranmere,Crewe,2.0,0.0,H,1.0,0.0,H,1.85,3.8,3.6,1.93,3.58,3.72,1.93,3.56,3.68,2.08,1.73,2.07,1.72,-0.5,1.93,1.93,Tranmere Rovers,Crewe Alexandra,tranmere_rovers,crewe_alexandra
+2025-08-02,E3,England-L2,2526,Salford,Crewe,1.0,3.0,A,1.0,3.0,A,1.85,3.8,3.6,1.88,3.76,3.76,1.86,3.66,3.65,1.75,2.05,1.74,2.0,-0.5,1.9,1.95,Salford City,Crewe Alexandra,salford_city,crewe_alexandra
+2025-08-19,E3,England-L2,2526,Fleetwood Town,Crewe,1.0,4.0,A,0.0,2.0,A,2.6,3.3,2.6,2.68,3.29,2.69,2.62,3.21,2.65,2.0,1.85,1.99,1.75,0.0,1.93,1.93,Fleetwood Town,Crewe Alexandra,fleetwood_town,crewe_alexandra
+2025-08-23,E3,England-L2,2526,Gillingham,Crewe,1.0,0.0,H,0.0,0.0,D,2.6,3.0,2.8,2.62,3.27,2.67,2.53,3.19,2.75,2.3,1.6,2.24,1.59,0.0,1.85,2.0,Gillingham,Crewe Alexandra,gillingham,crewe_alexandra
+2025-09-06,E3,England-L2,2526,Colchester,Crewe,1.0,1.0,D,0.0,1.0,A,2.57,3.2,2.57,2.63,3.35,2.61,2.59,3.28,2.62,2.08,1.73,2.07,1.69,0.0,1.93,1.93,Colchester United,Crewe Alexandra,colchester_united,crewe_alexandra
+2025-09-20,E3,England-L2,2526,Barrow,Crewe,1.0,0.0,H,0.0,0.0,D,2.65,3.3,2.45,2.73,3.36,2.5,2.73,3.28,2.5,2.1,1.7,2.06,1.69,0.0,2.03,1.83,Barrow,Crewe Alexandra,barrow,crewe_alexandra
+2025-10-06,E3,England-L2,2526,Harrogate,Crewe,1.0,2.0,A,1.0,1.0,D,3.0,3.7,2.05,3.14,3.77,2.09,3.17,3.44,2.11,1.98,1.88,1.92,1.81,0.25,1.98,1.88,Harrogate Town,Crewe Alexandra,harrogate_town,crewe_alexandra
+2025-10-18,E3,England-L2,2526,Milton Keynes Dons,Crewe,3.0,1.0,H,2.0,0.0,H,1.76,3.4,4.5,1.76,3.74,4.38,1.8,3.59,4.2,2.0,1.85,1.93,1.8,-0.5,1.83,2.03,MK Dons,Crewe Alexandra,mk_dons,crewe_alexandra
+2025-11-15,E3,England-L2,2526,Oldham,Crewe,0.0,0.0,D,0.0,0.0,D,2.2,3.25,3.05,,,,2.27,3.29,3.03,2.05,1.75,1.99,1.74,-0.25,1.98,1.88,Oldham,Crewe Alexandra,oldham,crewe_alexandra
+2025-11-29,E3,England-L2,2526,Cambridge,Crewe,2.0,1.0,H,0.0,0.0,D,2.25,2.95,3.25,,,,2.32,3.15,3.08,2.2,1.65,2.17,1.62,-0.25,2.0,1.85,Cambridge United,Crewe Alexandra,cambridge_united,crewe_alexandra
+2025-12-13,E3,England-L2,2526,Tranmere,Crewe,1.0,4.0,A,0.0,2.0,A,2.5,3.3,2.57,,,,2.58,3.33,2.58,1.93,1.93,1.86,1.85,0.0,1.88,1.98,Tranmere Rovers,Crewe Alexandra,tranmere_rovers,crewe_alexandra
+2025-12-26,E3,England-L2,2526,Walsall,Crewe,1.0,0.0,H,1.0,0.0,H,1.96,3.3,3.7,,,,2.04,3.26,3.52,2.1,1.7,2.06,1.69,-0.5,2.05,1.8,Walsall,Crewe Alexandra,walsall,crewe_alexandra
+2025-12-29,E3,England-L2,2526,Newport County,Crewe,2.0,0.0,H,1.0,0.0,H,3.6,3.4,1.96,,,,3.5,3.39,2.02,1.9,1.95,1.85,1.86,0.5,1.83,2.03,Newport County,Crewe Alexandra,newport_county,crewe_alexandra
+2026-01-24,E3,England-L2,2526,Notts County,Crewe,1.0,0.0,H,1.0,0.0,H,1.91,3.6,3.6,,,,1.96,3.47,3.58,1.85,1.95,1.82,1.89,-0.5,1.98,1.88,Notts County,Crewe Alexandra,notts_county,crewe_alexandra
+2026-01-27,E3,England-L2,2526,Bromley,Crewe,2.0,2.0,D,1.0,0.0,H,1.66,3.6,4.75,,,,1.72,3.61,4.62,1.98,1.88,1.88,1.83,-0.75,1.95,1.9,Bromley,Crewe Alexandra,bromley,crewe_alexandra
+2026-02-03,E3,England-L2,2526,Barnet,Crewe,1.0,1.0,D,1.0,1.0,D,1.66,3.6,5.0,,,,1.72,3.66,4.63,1.93,1.93,1.87,1.85,-0.75,1.93,1.93,Barnet,Crewe Alexandra,barnet,crewe_alexandra
+2026-02-07,E3,England-L2,2526,Crawley Town,Crewe,0.0,1.0,A,0.0,0.0,D,2.05,3.7,3.1,,,,2.13,3.49,3.08,1.73,2.08,1.73,2.0,-0.25,1.88,1.98,Crawley Town,Crewe Alexandra,crawley_town,crewe_alexandra
+2026-02-21,E3,England-L2,2526,Swindon,Crewe,1.0,2.0,A,0.0,1.0,A,1.96,3.5,3.4,,,,1.99,3.5,3.47,1.8,2.0,1.76,1.96,-0.5,2.03,1.83,Swindon Town,Crewe Alexandra,swindon_town,crewe_alexandra
+2026-03-07,E3,England-L2,2526,Bristol Rvs,Crewe,2.0,1.0,H,0.0,1.0,A,2.15,3.4,3.1,,,,2.22,3.36,3.03,1.88,1.98,1.84,1.88,-0.25,1.93,1.93,Bristol Rvs,Crewe Alexandra,bristol_rvs,crewe_alexandra
+2026-03-17,E3,England-L2,2526,Cheltenham,Crewe,1.0,1.0,D,0.0,0.0,D,2.65,3.1,2.55,,,,2.69,3.22,2.54,2.1,1.7,2.02,1.72,0.0,1.98,1.88,Cheltenham Town,Crewe Alexandra,cheltenham_town,crewe_alexandra
+2026-03-21,E3,England-L2,2526,Shrewsbury,Crewe,0.0,4.0,A,0.0,2.0,A,2.45,3.25,2.65,,,,2.53,3.23,2.68,2.1,1.7,2.05,1.7,0.0,1.85,2.0,Shrewsbury Town,Crewe Alexandra,shrewsbury_town,crewe_alexandra
+2026-04-03,E3,England-L2,2526,Accrington,Crewe,2.0,0.0,H,0.0,0.0,D,3.4,3.2,2.1,,,,3.31,3.31,2.12,2.08,1.73,2.01,1.74,0.25,1.98,1.88,Accrington Stanley,Crewe Alexandra,accrington_stanley,crewe_alexandra
+2026-04-11,E3,England-L2,2526,Grimsby,Crewe,3.0,2.0,H,1.0,0.0,H,1.66,3.8,4.5,,,,1.74,3.7,4.29,1.75,2.05,1.73,2.0,-0.75,1.98,1.88,Grimsby Town,Crewe Alexandra,grimsby_town,crewe_alexandra
+2026-04-25,E3,England-L2,2526,Chesterfield,Crewe,2.0,0.0,H,1.0,0.0,H,1.56,4.2,4.75,,,,1.61,4.03,4.85,1.67,2.15,1.65,2.11,-0.75,1.8,2.05,Chesterfield,Crewe Alexandra,chesterfield,crewe_alexandra
+2026-08-15,E3,England-L2,2627,Crawley Town,Crewe,0.0,1.0,A,0.0,0.0,D,2.5,3.25,2.65,,,,2.52,3.3,2.67,2.0,1.85,1.91,1.81,0.0,1.88,1.98,Crawley Town,Crewe Alexandra,crawley_town,crewe_alexandra
+2026-08-29,E3,England-L2,2627,Port Vale,Crewe,0.0,0.0,D,0.0,0.0,D,2.15,3.3,3.2,,,,2.18,3.4,3.11,1.85,1.95,1.85,1.86,-0.25,1.93,1.93,Port Vale,Crewe Alexandra,port_vale,crewe_alexandra
+2026-09-12,E3,England-L2,2627,Colchester,Crewe,1.0,1.0,D,1.0,0.0,H,2.05,3.4,3.3,,,,2.09,3.51,3.21,1.8,2.0,1.76,1.96,-0.25,1.85,2.0,Colchester United,Crewe Alexandra,colchester_united,crewe_alexandra
+2026-09-26,E3,England-L2,2627,Rotherham,Crewe,1.0,1.0,D,1.0,1.0,D,2.05,3.6,3.1,,,,2.1,3.63,3.11,1.7,2.1,1.69,2.07,-0.25,1.88,1.98,Rotherham United,Crewe Alexandra,rotherham_united,crewe_alexandra
+2026-10-10,E3,England-L2,2627,Swindon,Crewe,0.0,1.0,A,0.0,0.0,D,2.55,3.4,2.45,,,,2.54,3.51,2.54,1.75,2.05,1.71,2.04,0.0,1.95,1.9,Swindon Town,Crewe Alexandra,swindon_town,crewe_alexandra
+2026-10-20,E3,England-L2,2627,Exeter,Crewe,2.0,0.0,H,1.0,0.0,H,2.4,3.3,2.65,,,,2.5,3.2,2.78,2.08,1.73,2.12,1.65,0.0,1.83,2.03,Exeter City,Crewe Alexandra,exeter_city,crewe_alexandra

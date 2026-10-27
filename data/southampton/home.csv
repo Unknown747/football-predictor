@@ -1,0 +1,110 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-22,E0,England-PL,2122,Southampton,Man United,1.0,1.0,D,1.0,0.0,H,5.5,4.2,1.57,5.32,4.41,1.64,5.36,4.26,1.61,1.72,2.1,1.72,2.16,1.0,1.87,2.06,Southampton,Manchester United,southampton,manchester_united
+2021-09-11,E0,England-PL,2122,Southampton,West Ham,0.0,0.0,D,0.0,0.0,D,2.9,3.5,2.4,2.93,3.48,2.54,2.89,3.46,2.47,1.72,2.1,1.72,2.15,0.0,2.1,1.83,Southampton,West Ham United,southampton,west_ham_united
+2021-09-26,E0,England-PL,2122,Southampton,Wolves,0.0,1.0,A,0.0,0.0,D,2.62,3.2,2.8,2.7,3.27,2.89,2.65,3.24,2.83,2.1,1.72,2.12,1.75,0.0,1.92,2.01,Southampton,Wolverhampton,southampton,wolverhampton
+2021-10-16,E0,England-PL,2122,Southampton,Leeds,1.0,0.0,H,0.0,0.0,D,2.3,3.5,3.0,2.44,3.58,3.01,2.4,3.52,2.93,1.72,2.1,1.72,2.17,-0.25,2.08,1.85,Southampton,Leeds,southampton,leeds
+2021-10-23,E0,England-PL,2122,Southampton,Burnley,2.0,2.0,D,1.0,1.0,D,1.95,3.5,3.9,2.02,3.63,3.98,2.0,3.54,3.87,1.9,1.9,2.01,1.84,-0.5,2.02,1.91,Southampton,Burnley,southampton,burnley
+2021-11-05,E0,England-PL,2122,Southampton,Aston Villa,1.0,0.0,H,1.0,0.0,H,1.95,3.6,3.75,2.04,3.71,3.79,2.02,3.66,3.68,1.72,2.1,1.72,2.18,-0.5,2.03,1.9,Southampton,Aston Villa,southampton,aston_villa
+2021-12-01,E0,England-PL,2122,Southampton,Leicester,2.0,2.0,D,2.0,1.0,H,2.37,3.5,2.87,2.47,3.56,2.98,2.43,3.47,2.91,1.72,2.1,1.78,2.07,-0.25,2.09,1.81,Southampton,Leicester City,southampton,leicester_city
+2021-12-04,E0,England-PL,2122,Southampton,Brighton,1.0,1.0,D,1.0,0.0,H,2.45,3.2,3.0,2.48,3.25,3.22,2.45,3.21,3.1,2.2,1.66,2.17,1.72,-0.25,2.07,1.83,Southampton,Brighton & Hove Albion,southampton,brighton_hove_albion
+2021-12-28,E0,England-PL,2122,Southampton,Tottenham,1.0,1.0,D,1.0,1.0,D,3.75,3.5,2.0,3.87,3.52,2.08,3.74,3.51,2.05,1.95,1.95,1.9,1.93,0.5,1.87,2.06,Southampton,Tottenham Hotspur,southampton,tottenham_hotspur
+2022-01-11,E0,England-PL,2122,Southampton,Brentford,4.0,1.0,H,2.0,1.0,H,2.05,3.4,3.6,2.15,3.37,3.82,2.11,3.37,3.73,2.06,1.84,2.03,1.82,-0.25,1.82,2.08,Southampton,Brentford,southampton,brentford
+2022-01-22,E0,England-PL,2122,Southampton,Man City,1.0,1.0,D,1.0,0.0,H,10.0,6.5,1.25,10.23,6.18,1.27,10.18,6.08,1.28,1.44,2.75,1.47,2.67,1.75,1.88,2.05,Southampton,Manchester City,southampton,manchester_city
+2022-02-19,E0,England-PL,2122,Southampton,Everton,2.0,0.0,H,0.0,0.0,D,2.1,3.5,3.5,2.1,3.61,3.71,2.08,3.56,3.58,1.72,2.1,1.8,2.04,-0.5,2.06,1.84,Southampton,Everton,southampton,everton
+2022-02-25,E0,England-PL,2122,Southampton,Norwich,2.0,0.0,H,1.0,0.0,H,1.53,4.33,6.0,1.56,4.35,6.55,1.54,4.37,6.22,1.72,2.1,1.75,2.11,-1.0,1.92,1.98,Southampton,Norwich City,southampton,norwich_city
+2022-03-10,E0,England-PL,2122,Southampton,Newcastle,1.0,2.0,A,1.0,1.0,D,2.0,3.75,3.5,1.99,3.78,3.89,2.0,3.7,3.71,1.8,2.0,1.79,2.04,-0.5,2.01,1.89,Southampton,Newcastle United,southampton,newcastle_united
+2022-03-13,E0,England-PL,2122,Southampton,Watford,1.0,2.0,A,1.0,2.0,A,1.6,4.2,5.25,1.61,4.33,5.82,1.61,4.17,5.59,1.8,2.0,1.81,2.02,-1.0,2.1,1.83,Southampton,Watford,southampton,watford
+2022-04-09,E0,England-PL,2122,Southampton,Chelsea,0.0,6.0,A,0.0,4.0,A,3.8,3.6,1.95,4.08,3.76,1.95,3.98,3.69,1.93,1.95,1.95,1.94,1.9,0.5,1.96,1.94,Southampton,Chelsea,southampton,chelsea
+2022-04-16,E0,England-PL,2122,Southampton,Arsenal,1.0,0.0,H,1.0,0.0,H,3.8,3.6,1.95,3.97,3.79,1.97,3.9,3.68,1.95,1.9,2.0,1.88,1.95,0.5,1.93,1.97,Southampton,Arsenal,southampton,arsenal
+2022-04-30,E0,England-PL,2122,Southampton,Crystal Palace,1.0,2.0,A,1.0,0.0,H,2.4,3.3,3.1,2.47,3.35,3.13,2.41,3.37,3.05,2.03,1.87,2.0,1.84,-0.25,2.08,1.82,Southampton,Crystal Palace,southampton,crystal_palace
+2022-05-17,E0,England-PL,2122,Southampton,Liverpool,1.0,2.0,A,1.0,1.0,D,7.5,5.5,1.33,8.15,5.53,1.38,8.02,5.49,1.37,1.44,2.75,1.44,2.79,1.5,1.93,1.97,Southampton,Liverpool,southampton,liverpool
+2022-08-13,E0,England-PL,2223,Southampton,Leeds,2.0,2.0,D,0.0,0.0,D,2.25,3.5,3.1,2.34,3.55,3.18,2.32,3.51,3.1,1.72,2.1,1.73,2.13,-0.25,2.01,1.89,Southampton,Leeds,southampton,leeds
+2022-08-27,E0,England-PL,2223,Southampton,Man United,0.0,1.0,A,0.0,0.0,D,4.2,4.0,1.8,4.31,4.0,1.85,4.27,4.06,1.8,1.57,2.37,1.59,2.39,0.75,1.87,2.03,Southampton,Manchester United,southampton,manchester_united
+2022-08-30,E0,England-PL,2223,Southampton,Chelsea,2.0,1.0,H,2.0,1.0,H,5.25,4.0,1.61,5.28,4.24,1.67,5.22,4.16,1.65,1.72,2.1,1.75,2.11,0.75,2.07,1.83,Southampton,Chelsea,southampton,chelsea
+2022-10-01,E0,England-PL,2223,Southampton,Everton,1.0,2.0,A,0.0,0.0,D,2.15,3.4,3.4,2.23,3.48,3.49,2.19,3.41,3.44,2.04,1.86,2.0,1.83,-0.25,1.87,2.03,Southampton,Everton,southampton,everton
+2022-10-16,E0,England-PL,2223,Southampton,West Ham,1.0,1.0,D,1.0,0.0,H,2.9,3.4,2.4,3.08,3.42,2.47,2.96,3.42,2.44,2.0,1.9,1.93,1.9,0.25,1.8,2.1,Southampton,West Ham United,southampton,west_ham_united
+2022-10-23,E0,England-PL,2223,Southampton,Arsenal,1.0,1.0,D,0.0,1.0,A,6.0,4.0,1.57,6.2,4.31,1.58,5.78,4.27,1.58,1.66,2.2,1.67,2.22,1.0,1.93,1.97,Southampton,Arsenal,southampton,arsenal
+2022-11-06,E0,England-PL,2223,Southampton,Newcastle,1.0,4.0,A,0.0,1.0,A,4.0,3.6,1.9,4.22,3.71,1.93,4.02,3.66,1.92,1.95,1.95,1.9,1.92,0.5,1.96,1.94,Southampton,Newcastle United,southampton,newcastle_united
+2022-12-26,E0,England-PL,2223,Southampton,Brighton,1.0,3.0,A,0.0,2.0,A,3.3,3.5,2.15,3.5,3.6,2.18,3.4,3.51,2.15,1.94,1.96,1.89,1.89,0.25,2.03,1.87,Southampton,Brighton & Hove Albion,southampton,brighton_hove_albion
+2023-01-04,E0,England-PL,2223,Southampton,Nott'm Forest,0.0,1.0,A,0.0,1.0,A,2.0,3.5,3.8,2.1,3.52,3.82,2.03,3.46,3.82,2.06,1.84,2.02,1.8,-0.5,2.04,1.86,Southampton,Nottingham Forest,southampton,nottingham_forest
+2023-01-21,E0,England-PL,2223,Southampton,Aston Villa,0.0,1.0,A,0.0,0.0,D,2.88,3.25,2.55,2.96,3.4,2.57,2.88,3.38,2.53,2.1,1.73,2.03,1.8,0.0,2.06,1.84,Southampton,Aston Villa,southampton,aston_villa
+2023-02-11,E0,England-PL,2223,Southampton,Wolves,1.0,2.0,A,1.0,0.0,H,2.9,3.2,2.55,3.16,3.18,2.55,3.03,3.18,2.54,2.3,1.62,2.29,1.64,0.0,2.11,1.82,Southampton,Wolverhampton,southampton,wolverhampton
+2023-03-04,E0,England-PL,2223,Southampton,Leicester,1.0,0.0,H,1.0,0.0,H,2.75,3.3,2.6,2.85,3.3,2.67,2.77,3.31,2.64,2.06,1.84,2.03,1.81,0.0,2.0,1.9,Southampton,Leicester City,southampton,leicester_city
+2023-03-15,E0,England-PL,2223,Southampton,Brentford,0.0,2.0,A,0.0,1.0,A,2.88,3.25,2.5,3.05,3.36,2.49,2.97,3.31,2.46,2.1,1.73,2.06,1.77,0.25,1.73,2.08,Southampton,Brentford,southampton,brentford
+2023-03-18,E0,England-PL,2223,Southampton,Tottenham,3.0,3.0,D,0.0,1.0,A,4.75,3.6,1.75,4.62,3.78,1.82,4.56,3.68,1.82,2.06,1.84,2.0,1.83,0.5,2.13,1.78,Southampton,Tottenham Hotspur,southampton,tottenham_hotspur
+2023-04-08,E0,England-PL,2223,Southampton,Man City,1.0,4.0,A,0.0,1.0,A,11.0,6.0,1.25,12.65,6.46,1.24,12.48,6.19,1.25,1.62,2.3,1.6,2.35,1.75,1.93,1.97,Southampton,Manchester City,southampton,manchester_city
+2023-04-15,E0,England-PL,2223,Southampton,Crystal Palace,0.0,2.0,A,0.0,0.0,D,2.8,3.1,2.7,2.88,3.19,2.73,2.82,3.2,2.68,2.3,1.62,2.28,1.64,0.0,2.01,1.89,Southampton,Crystal Palace,southampton,crystal_palace
+2023-04-27,E0,England-PL,2223,Southampton,Bournemouth,0.0,1.0,A,0.0,0.0,D,2.25,3.4,3.2,2.34,3.49,3.19,2.3,3.43,3.15,2.03,1.87,2.01,1.82,-0.25,2.0,1.9,Southampton,Bournemouth,southampton,bournemouth
+2023-05-13,E0,England-PL,2223,Southampton,Fulham,0.0,2.0,A,0.0,0.0,D,2.75,3.3,2.5,2.84,3.56,2.54,2.82,3.44,2.51,1.91,1.99,1.88,1.94,0.0,2.06,1.84,Southampton,Fulham,southampton,fulham
+2023-05-28,E0,England-PL,2223,Southampton,Liverpool,4.0,4.0,D,2.0,2.0,D,6.5,4.75,1.44,6.68,5.29,1.43,6.74,5.2,1.42,1.4,3.0,1.39,3.01,1.5,1.75,2.05,Southampton,Liverpool,southampton,liverpool
+2023-08-12,E1,England-Champ,2324,Southampton,Norwich,4.0,4.0,D,2.0,3.0,A,1.83,3.75,4.0,1.87,3.77,4.35,1.84,3.69,4.13,1.88,1.98,1.87,1.92,-0.5,1.86,2.04,Southampton,Norwich City,southampton,norwich_city
+2023-08-26,E1,England-Champ,2324,Southampton,QPR,2.0,1.0,H,1.0,1.0,D,1.36,4.75,9.0,1.37,5.47,8.46,1.36,5.09,8.24,1.62,2.3,1.63,2.28,-1.5,2.03,1.78,Southampton,Queens Park Rangers,southampton,queens_park_rangers
+2023-09-15,E1,England-Champ,2324,Southampton,Leicester,1.0,4.0,A,1.0,3.0,A,2.45,3.4,2.8,2.52,3.6,2.83,2.47,3.52,2.77,1.73,2.1,1.73,2.11,0.0,1.81,2.09,Southampton,Leicester City,southampton,leicester_city
+2023-09-19,E1,England-Champ,2324,Southampton,Ipswich,0.0,1.0,A,0.0,1.0,A,2.25,3.4,3.1,2.32,3.74,3.05,2.28,3.62,2.96,1.67,2.2,1.64,2.27,-0.25,2.01,1.89,Southampton,Ipswich,southampton,ipswich
+2023-09-30,E1,England-Champ,2324,Southampton,Leeds,3.0,1.0,H,3.0,0.0,H,3.0,3.5,2.3,2.97,3.7,2.38,2.88,3.63,2.31,1.6,2.3,1.61,2.31,0.25,1.85,2.05,Southampton,Leeds,southampton,leeds
+2023-10-07,E1,England-Champ,2324,Southampton,Rotherham,1.0,1.0,D,1.0,0.0,H,1.33,5.5,8.5,1.35,5.51,9.29,1.34,5.25,8.66,1.6,2.3,1.59,2.35,-1.5,1.98,1.92,Southampton,Rotherham United,southampton,rotherham_united
+2023-10-28,E1,England-Champ,2324,Southampton,Birmingham,3.0,1.0,H,2.0,0.0,H,1.6,4.0,5.5,1.62,4.27,5.54,1.6,4.11,5.44,1.8,2.0,1.78,2.03,-1.0,2.05,1.85,Southampton,Birmingham,southampton,birmingham
+2023-11-11,E1,England-Champ,2324,Southampton,West Brom,2.0,1.0,H,1.0,0.0,H,1.91,3.6,4.0,1.88,3.76,4.31,1.89,3.65,4.02,1.9,1.95,1.86,1.94,-0.5,1.9,2.0,Southampton,West Bromwich Albion,southampton,west_bromwich_albion
+2023-11-29,E1,England-Champ,2324,Southampton,Bristol City,1.0,0.0,H,0.0,0.0,D,1.57,4.5,5.25,1.59,4.33,5.8,1.58,4.26,5.49,1.73,2.08,1.74,2.09,-1.0,2.03,1.87,Southampton,Bristol City,southampton,bristol_city
+2023-12-02,E1,England-Champ,2324,Southampton,Cardiff,2.0,0.0,H,2.0,0.0,H,1.62,4.0,5.25,1.67,4.11,5.28,1.64,4.02,5.09,1.8,2.0,1.79,2.01,-0.75,1.84,2.06,Southampton,Cardiff City,southampton,cardiff_city
+2023-12-16,E1,England-Champ,2324,Southampton,Blackburn,4.0,0.0,H,1.0,0.0,H,1.65,4.0,5.0,1.7,4.07,5.1,1.68,4.1,4.73,1.53,2.4,1.53,2.46,-0.75,1.86,2.04,Southampton,Blackburn,southampton,blackburn
+2023-12-26,E1,England-Champ,2324,Southampton,Swansea,5.0,0.0,H,1.0,0.0,H,1.4,5.0,7.5,1.48,4.83,6.71,1.45,4.72,6.51,1.57,2.35,1.59,2.35,-1.25,2.04,1.86,Southampton,Swansea City,southampton,swansea_city
+2023-12-29,E1,England-Champ,2324,Southampton,Plymouth,2.0,1.0,H,0.0,0.0,D,1.33,5.75,7.5,1.33,5.98,8.73,1.32,5.69,8.33,1.4,2.88,1.4,2.93,-1.5,1.89,2.01,Southampton,Plymouth Argyle,southampton,plymouth_argyle
+2024-01-13,E1,England-Champ,2324,Southampton,Sheffield Weds,4.0,0.0,H,1.0,0.0,H,1.4,4.75,7.0,1.42,4.93,8.13,1.41,4.77,7.57,1.7,2.1,1.74,2.09,-1.25,1.95,1.95,Southampton,Sheffield Wednesday,southampton,sheffield_wednesday
+2024-02-10,E1,England-Champ,2324,Southampton,Huddersfield,5.0,3.0,H,0.0,2.0,A,1.3,5.5,10.0,1.3,5.71,11.65,1.29,5.51,10.31,1.6,2.3,1.6,2.33,-1.5,1.87,2.03,Southampton,Huddersfield,southampton,huddersfield
+2024-02-20,E1,England-Champ,2324,Southampton,Hull,1.0,2.0,A,0.0,2.0,A,1.57,4.33,5.5,1.56,4.64,5.75,1.54,4.46,5.56,1.53,2.4,1.53,2.47,-1.0,1.91,1.99,Southampton,Hull City,southampton,hull_city
+2024-02-24,E1,England-Champ,2324,Southampton,Millwall,1.0,2.0,A,1.0,2.0,A,1.36,5.0,8.0,1.36,5.34,8.96,1.36,5.04,8.31,1.62,2.25,1.63,2.26,-1.5,2.03,1.78,Southampton,Millwall,southampton,millwall
+2024-03-09,E1,England-Champ,2324,Southampton,Sunderland,4.0,2.0,H,2.0,0.0,H,1.44,4.5,7.0,1.47,4.72,7.22,1.45,4.62,6.72,1.57,2.35,1.58,2.38,-1.25,2.02,1.88,Southampton,Sunderland,southampton,sunderland
+2024-03-29,E1,England-Champ,2324,Southampton,Middlesbrough,1.0,1.0,D,1.0,0.0,H,1.57,4.5,5.25,1.57,4.6,5.46,1.57,4.49,5.14,1.48,2.6,1.48,2.62,-1.0,1.95,1.95,Southampton,Middlesbrough,southampton,middlesbrough
+2024-04-09,E1,England-Champ,2324,Southampton,Coventry,2.0,1.0,H,2.0,0.0,H,1.75,4.0,4.2,1.79,4.4,3.97,1.78,4.2,3.92,1.44,2.75,1.4,2.89,-0.75,1.98,1.92,Southampton,Coventry,southampton,coventry
+2024-04-13,E1,England-Champ,2324,Southampton,Watford,3.0,2.0,H,2.0,1.0,H,1.44,5.0,6.5,1.43,5.13,6.94,1.42,4.97,6.82,1.53,2.5,1.52,2.52,-1.25,1.93,1.97,Southampton,Watford,southampton,watford
+2024-04-16,E1,England-Champ,2324,Southampton,Preston,3.0,0.0,H,3.0,0.0,H,1.33,5.25,9.0,1.36,5.23,8.96,1.35,5.18,8.35,1.57,2.38,1.55,2.43,-1.5,2.05,1.85,Southampton,Preston,southampton,preston
+2024-04-27,E1,England-Champ,2324,Southampton,Stoke,0.0,1.0,A,0.0,1.0,A,1.75,4.33,4.0,1.79,4.49,3.93,1.77,4.27,3.95,1.53,2.5,1.51,2.52,-0.75,2.0,1.9,Southampton,Stoke City,southampton,stoke_city
+2024-08-24,E0,England-PL,2425,Southampton,Nott'm Forest,0.0,1.0,A,0.0,0.0,D,2.55,3.3,2.8,2.59,3.28,2.92,2.57,3.32,2.84,2.01,1.89,1.97,1.87,0.0,1.83,2.07,Southampton,Nottingham Forest,southampton,nottingham_forest
+2024-09-14,E0,England-PL,2425,Southampton,Man United,0.0,3.0,A,0.0,2.0,A,4.5,4.0,1.7,4.5,4.13,1.74,4.56,4.04,1.74,1.62,2.3,1.61,2.36,0.75,1.95,1.95,Southampton,Manchester United,southampton,manchester_united
+2024-09-21,E0,England-PL,2425,Southampton,Ipswich,1.0,1.0,D,1.0,0.0,H,2.25,3.5,3.2,2.27,3.5,3.24,2.25,3.52,3.17,1.8,2.0,1.77,2.06,-0.25,1.97,1.93,Southampton,Ipswich,southampton,ipswich
+2024-10-19,E0,England-PL,2425,Southampton,Leicester,2.0,3.0,A,2.0,0.0,H,2.3,3.5,3.0,2.34,3.53,3.09,2.33,3.54,3.03,1.73,2.1,1.76,2.08,-0.25,1.97,1.81,Southampton,Leicester City,southampton,leicester_city
+2024-11-02,E0,England-PL,2425,Southampton,Everton,1.0,0.0,H,0.0,0.0,D,2.63,3.4,2.63,2.7,3.45,2.69,2.65,3.48,2.66,1.84,2.06,1.83,2.02,0.0,1.95,1.95,Southampton,Everton,southampton,everton
+2024-11-24,E0,England-PL,2425,Southampton,Liverpool,2.0,3.0,A,1.0,1.0,D,11.0,5.75,1.27,10.83,5.79,1.28,10.4,5.96,1.28,1.44,2.75,1.44,2.8,1.75,1.9,2.0,Southampton,Liverpool,southampton,liverpool
+2024-12-04,E0,England-PL,2425,Southampton,Chelsea,1.0,5.0,A,1.0,3.0,A,8.5,5.25,1.33,8.92,5.79,1.33,8.39,5.64,1.34,1.44,2.75,1.43,2.83,1.5,1.98,1.92,Southampton,Chelsea,southampton,chelsea
+2024-12-15,E0,England-PL,2425,Southampton,Tottenham,0.0,5.0,A,0.0,5.0,A,4.33,4.5,1.67,4.47,4.51,1.69,4.29,4.47,1.69,1.3,3.5,1.3,3.46,0.75,2.05,1.85,Southampton,Tottenham Hotspur,southampton,tottenham_hotspur
+2024-12-26,E0,England-PL,2425,Southampton,West Ham,0.0,1.0,A,0.0,0.0,D,3.25,3.5,2.2,3.28,3.62,2.21,3.24,3.56,2.18,1.67,2.2,1.66,2.23,0.25,1.98,1.92,Southampton,West Ham United,southampton,west_ham_united
+2025-01-04,E0,England-PL,2425,Southampton,Brentford,0.0,5.0,A,0.0,1.0,A,3.0,3.4,2.4,2.95,3.59,2.41,2.78,3.54,2.48,1.67,2.2,1.66,2.24,0.25,1.82,2.08,Southampton,Brentford,southampton,brentford
+2025-01-25,E0,England-PL,2425,Southampton,Newcastle,1.0,3.0,A,1.0,2.0,A,6.5,5.25,1.42,7.05,5.17,1.42,6.82,5.09,1.42,1.41,2.7,1.44,2.75,1.25,2.02,1.88,Southampton,Newcastle United,southampton,newcastle_united
+2025-02-15,E0,England-PL,2425,Southampton,Bournemouth,1.0,3.0,A,0.0,2.0,A,6.0,4.5,1.5,6.01,4.65,1.52,5.83,4.64,1.52,1.5,2.63,1.49,2.62,1.0,2.06,1.84,Southampton,Bournemouth,southampton,bournemouth
+2025-02-22,E0,England-PL,2425,Southampton,Brighton,0.0,4.0,A,0.0,1.0,A,6.0,4.1,1.55,5.56,4.53,1.57,5.52,4.38,1.57,1.57,2.38,1.58,2.42,1.0,1.97,1.93,Southampton,Brighton & Hove Albion,southampton,brighton_hove_albion
+2025-03-15,E0,England-PL,2425,Southampton,Wolves,1.0,2.0,A,0.0,1.0,A,3.7,3.4,2.0,3.67,3.56,2.08,3.63,3.51,2.06,1.84,2.06,1.81,2.03,0.5,1.83,2.07,Southampton,Wolverhampton,southampton,wolverhampton
+2025-04-02,E0,England-PL,2425,Southampton,Crystal Palace,1.0,1.0,D,1.0,0.0,H,5.75,3.8,1.62,5.72,4.05,1.63,5.5,4.01,1.62,1.8,2.0,1.78,2.03,1.0,1.84,2.06,Southampton,Crystal Palace,southampton,crystal_palace
+2025-04-12,E0,England-PL,2425,Southampton,Aston Villa,0.0,3.0,A,0.0,0.0,D,6.0,4.2,1.55,5.75,4.49,1.56,5.65,4.42,1.55,1.62,2.3,1.59,2.37,1.0,2.0,1.93,Southampton,Aston Villa,southampton,aston_villa
+2025-04-26,E0,England-PL,2425,Southampton,Fulham,1.0,2.0,A,1.0,0.0,H,5.25,4.0,1.6,5.28,4.2,1.64,5.17,4.11,1.64,1.73,2.1,1.71,2.13,1.0,1.81,2.09,Southampton,Fulham,southampton,fulham
+2025-05-10,E0,England-PL,2425,Southampton,Man City,0.0,0.0,D,0.0,0.0,D,11.0,7.5,1.2,14.01,7.65,1.19,13.37,7.58,1.19,1.36,3.2,1.33,3.22,2.0,1.98,1.92,Southampton,Manchester City,southampton,manchester_city
+2025-05-25,E0,England-PL,2425,Southampton,Arsenal,1.0,2.0,A,0.0,1.0,A,8.5,6.0,1.3,9.46,5.85,1.3,9.45,5.83,1.29,1.5,2.63,1.47,2.64,1.5,2.03,1.83,Southampton,Arsenal,southampton,arsenal
+2025-08-09,E1,England-Champ,2526,Southampton,Wrexham,2.0,1.0,H,0.0,1.0,A,1.7,3.75,4.75,1.72,3.77,4.83,1.71,3.74,4.77,1.98,1.88,1.89,1.84,-0.75,1.95,1.9,Southampton,Wrexham,southampton,wrexham
+2025-08-23,E1,England-Champ,2526,Southampton,Stoke,1.0,2.0,A,0.0,0.0,D,1.73,3.8,4.5,1.78,3.76,4.43,1.73,3.77,4.61,1.98,1.88,1.93,1.82,-0.75,2.0,1.85,Southampton,Stoke City,southampton,stoke_city
+2025-09-14,E1,England-Champ,2526,Southampton,Portsmouth,0.0,0.0,D,0.0,0.0,D,1.66,3.9,4.5,1.75,3.87,4.47,1.72,3.84,4.57,1.85,2.0,1.79,1.97,-0.75,1.98,1.88,Southampton,Portsmouth,southampton,portsmouth
+2025-09-27,E1,England-Champ,2526,Southampton,Middlesbrough,1.0,1.0,D,0.0,0.0,D,2.3,3.4,2.85,2.39,3.42,2.95,2.34,3.44,2.9,1.88,1.98,1.81,1.95,-0.25,2.03,1.83,Southampton,Middlesbrough,southampton,middlesbrough
+2025-10-18,E1,England-Champ,2526,Southampton,Swansea,0.0,0.0,D,0.0,0.0,D,1.91,3.5,3.8,1.93,3.61,3.87,1.94,3.42,3.92,2.03,1.83,1.98,1.77,-0.5,1.98,1.88,Southampton,Swansea City,southampton,swansea_city
+2025-11-01,E1,England-Champ,2526,Southampton,Preston,0.0,2.0,A,0.0,1.0,A,1.68,3.9,4.33,,,,1.7,3.83,4.77,1.88,1.98,1.84,1.9,-0.75,1.93,1.93,Southampton,Preston,southampton,preston
+2025-11-08,E1,England-Champ,2526,Southampton,Sheffield Weds,3.0,1.0,H,2.0,1.0,H,1.39,4.75,6.5,,,,1.41,4.67,7.14,1.67,2.2,1.67,2.13,-1.25,1.93,1.93,Southampton,Sheffield Wednesday,southampton,sheffield_wednesday
+2025-11-25,E1,England-Champ,2526,Southampton,Leicester,3.0,0.0,H,3.0,0.0,H,1.96,3.6,3.7,2.02,3.63,3.78,2.0,3.52,3.57,1.8,2.0,1.8,1.95,-0.5,2.0,1.85,Southampton,Leicester City,southampton,leicester_city
+2025-12-06,E1,England-Champ,2526,Southampton,Birmingham,3.0,1.0,H,2.0,0.0,H,2.25,3.5,2.85,2.33,3.54,2.95,2.3,3.42,2.98,1.93,1.93,1.87,1.88,-0.25,2.03,1.83,Southampton,Birmingham,southampton,birmingham
+2025-12-09,E1,England-Champ,2526,Southampton,West Brom,3.0,2.0,H,3.0,0.0,H,1.79,3.75,3.9,1.87,3.86,4.16,1.83,3.75,3.97,1.73,2.1,1.71,2.08,-0.5,1.83,2.03,Southampton,West Bromwich Albion,southampton,west_bromwich_albion
+2025-12-20,E1,England-Champ,2526,Southampton,Coventry,1.0,1.0,D,0.0,1.0,A,2.4,3.7,2.57,2.5,3.77,2.67,2.39,3.7,2.67,1.62,2.3,1.57,2.3,0.0,1.85,2.0,Southampton,Coventry,southampton,coventry
+2026-01-01,E1,England-Champ,2526,Southampton,Millwall,0.0,0.0,D,0.0,0.0,D,1.71,3.6,4.5,1.76,3.91,4.32,1.76,3.79,4.31,1.8,2.0,1.75,2.01,-0.75,2.0,1.85,Southampton,Millwall,southampton,millwall
+2026-01-17,E1,England-Champ,2526,Southampton,Hull,1.0,2.0,A,0.0,2.0,A,1.66,3.8,4.75,,,,1.7,3.97,4.5,1.67,2.2,1.62,2.2,-0.75,1.93,1.93,Southampton,Hull City,southampton,hull_city
+2026-01-21,E1,England-Champ,2526,Southampton,Sheffield United,1.0,0.0,H,1.0,0.0,H,2.25,3.8,2.65,,,,2.32,3.65,2.77,1.67,2.2,1.66,2.15,-0.25,2.1,1.78,Southampton,Sheffield United,southampton,sheffield_united
+2026-02-07,E1,England-Champ,2526,Southampton,Watford,1.0,0.0,H,0.0,0.0,D,1.81,3.7,4.0,,,,1.87,3.61,3.97,1.83,2.03,1.79,1.96,-0.5,1.88,1.98,Southampton,Watford,southampton,watford
+2026-02-21,E1,England-Champ,2526,Southampton,Charlton,1.0,1.0,D,0.0,0.0,D,1.53,4.2,5.5,,,,1.56,4.1,5.59,1.8,2.0,1.76,1.97,-1.0,2.0,1.85,Southampton,Charlton,southampton,charlton
+2026-02-24,E1,England-Champ,2526,Southampton,QPR,5.0,0.0,H,2.0,0.0,H,1.61,3.7,4.33,,,,1.68,3.87,4.58,1.73,2.1,1.69,2.11,-0.75,1.9,1.95,Southampton,Queens Park Rangers,southampton,queens_park_rangers
+2026-03-18,E1,England-Champ,2526,Southampton,Norwich,1.0,0.0,H,1.0,0.0,H,1.91,3.5,3.75,,,,1.93,3.64,3.63,1.73,2.1,1.69,2.1,-0.5,1.98,1.88,Southampton,Norwich City,southampton,norwich_city
+2026-03-21,E1,England-Champ,2526,Southampton,Oxford,2.0,0.0,H,2.0,0.0,H,1.51,4.0,6.0,,,,1.52,4.17,5.87,1.73,2.1,1.68,2.1,-1.0,1.93,1.93,Southampton,Oxford United,southampton,oxford_united
+2026-04-11,E1,England-Champ,2526,Southampton,Derby,2.0,1.0,H,0.0,1.0,A,1.71,3.8,4.2,,,,1.77,3.74,4.22,1.8,2.0,1.73,2.01,-0.75,2.03,1.83,Southampton,Derby,southampton,derby
+2026-04-14,E1,England-Champ,2526,Southampton,Blackburn,3.0,0.0,H,2.0,0.0,H,1.51,4.1,5.75,,,,1.55,4.01,5.79,1.88,1.98,1.83,1.91,-1.0,1.98,1.88,Southampton,Blackburn,southampton,blackburn
+2026-04-21,E1,England-Champ,2526,Southampton,Bristol City,2.0,2.0,D,1.0,1.0,D,1.39,4.33,8.0,,,,1.4,4.67,7.31,1.73,2.1,1.66,2.13,-1.25,1.93,1.93,Southampton,Bristol City,southampton,bristol_city
+2026-04-28,E1,England-Champ,2526,Southampton,Ipswich,2.0,2.0,D,0.0,0.0,D,2.1,3.4,3.1,,,,2.18,3.5,3.08,1.73,2.1,1.69,2.1,-0.25,1.95,1.9,Southampton,Ipswich,southampton,ipswich
+2026-08-22,E1,England-Champ,2627,Southampton,Stoke,3.0,1.0,H,1.0,1.0,D,1.57,4.0,5.0,,,,1.59,4.1,5.11,1.73,2.1,1.66,2.13,-1.0,2.05,1.8,Southampton,Stoke City,southampton,stoke_city
+2026-08-29,E1,England-Champ,2627,Southampton,Millwall,5.0,1.0,H,2.0,1.0,H,1.91,3.6,3.6,,,,1.96,3.58,3.62,1.83,2.03,1.79,1.96,-0.5,2.0,1.85,Southampton,Millwall,southampton,millwall
+2026-09-08,E1,England-Champ,2627,Southampton,Swansea,3.0,1.0,H,2.0,0.0,H,1.76,3.8,4.0,,,,1.82,3.75,4.03,1.73,2.1,1.73,2.04,-0.5,1.83,2.03,Southampton,Swansea City,southampton,swansea_city
+2026-09-12,E1,England-Champ,2627,Southampton,Bristol City,4.0,1.0,H,1.0,0.0,H,1.61,4.0,4.75,,,,1.66,4.02,4.64,1.62,2.3,1.56,2.33,-0.75,1.85,2.0,Southampton,Bristol City,southampton,bristol_city
+2026-10-11,E1,England-Champ,2627,Southampton,Portsmouth,1.0,0.0,H,1.0,0.0,H,1.53,4.0,5.5,,,,1.57,4.13,5.23,1.67,2.2,1.63,2.19,-1.0,2.0,1.85,Southampton,Portsmouth,southampton,portsmouth
+2026-10-17,E1,England-Champ,2627,Southampton,Bolton,0.0,0.0,D,0.0,0.0,D,1.45,4.75,6.0,,,,1.47,4.79,5.65,1.44,2.75,1.41,2.74,-1.25,2.03,1.83,Southampton,Bolton,southampton,bolton

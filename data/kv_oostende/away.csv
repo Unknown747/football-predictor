@@ -1,0 +1,35 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-30,B1,Belgium-JPL,2122,Genk,Oostende,3.0,4.0,A,2.0,1.0,H,1.53,4.0,6.5,1.59,4.23,5.85,1.57,4.19,5.53,1.53,2.4,1.56,2.39,-1.0,1.93,1.93,Genk,KV Oostende,genk,kv_oostende
+2021-08-14,B1,Belgium-JPL,2122,Seraing,Oostende,2.0,3.0,A,1.0,0.0,H,3.5,3.6,2.0,3.5,3.92,2.0,3.41,3.72,2.0,1.7,2.1,1.69,2.16,0.5,1.8,2.05,RFC Seraing,KV Oostende,rfc_seraing,kv_oostende
+2021-08-20,B1,Belgium-JPL,2122,Standard,Oostende,1.0,0.0,H,0.0,0.0,D,1.8,3.5,4.2,1.93,3.93,3.81,1.91,3.77,3.67,1.5,2.5,1.5,2.52,-0.5,1.93,1.93,Standard Liege,KV Oostende,standard_liege,kv_oostende
+2021-09-10,B1,Belgium-JPL,2122,Club Brugge,Oostende,3.0,0.0,H,1.0,0.0,H,1.33,5.25,7.5,1.35,5.34,9.26,1.34,5.2,8.15,1.5,2.5,1.51,2.52,-1.5,2.0,1.85,Club Brugge,KV Oostende,club_brugge,kv_oostende
+2021-10-02,B1,Belgium-JPL,2122,St Truiden,Oostende,1.0,1.0,D,0.0,0.0,D,2.1,3.8,3.2,2.13,3.84,3.16,2.13,3.66,3.13,1.72,2.07,1.76,2.07,-0.25,1.88,1.98,Sint-Truiden,KV Oostende,sint_truiden,kv_oostende
+2021-10-23,B1,Belgium-JPL,2122,Kortrijk,Oostende,1.0,0.0,H,1.0,0.0,H,2.0,3.5,3.6,2.09,3.82,3.27,2.09,3.63,3.23,1.66,2.15,1.68,2.17,-0.25,1.83,2.02,KV Kortrijk,KV Oostende,kv_kortrijk,kv_oostende
+2021-11-05,B1,Belgium-JPL,2122,Oud-Heverlee Leuven,Oostende,1.0,0.0,H,0.0,0.0,D,1.85,3.75,4.0,1.94,4.08,3.64,1.92,3.94,3.53,1.5,2.5,1.5,2.56,-0.5,1.93,1.93,Oud-Heverlee Leuven,KV Oostende,oud_heverlee_leuven,kv_oostende
+2021-11-28,B1,Belgium-JPL,2122,Antwerp,Oostende,3.0,0.0,H,0.0,0.0,D,1.7,4.0,4.5,1.72,4.12,4.46,1.72,3.95,4.36,1.7,2.1,1.71,2.12,-0.75,1.9,1.95,Royal Antwerp,KV Oostende,royal_antwerp,kv_oostende
+2021-12-10,B1,Belgium-JPL,2122,Charleroi,Oostende,1.0,0.0,H,0.0,0.0,D,1.5,4.0,5.75,1.53,4.72,5.76,1.51,4.55,5.6,1.53,2.4,1.51,2.51,-1.0,1.8,2.05,Sporting Charleroi,KV Oostende,sporting_charleroi,kv_oostende
+2021-12-18,B1,Belgium-JPL,2122,Beerschot VA,Oostende,0.0,2.0,A,0.0,2.0,A,2.2,3.5,3.0,2.33,3.72,2.88,2.31,3.56,2.86,1.7,2.1,1.69,2.14,-0.25,2.0,1.85,Beerschot VA,KV Oostende,beerschot_va,kv_oostende
+2022-01-25,B1,Belgium-JPL,2122,Gent,Oostende,1.0,1.0,D,0.0,1.0,A,1.44,4.5,7.0,1.42,4.59,8.54,1.4,4.75,7.32,1.57,2.35,1.55,2.41,-1.25,1.93,1.93,KAA Gent,KV Oostende,kaa_gent,kv_oostende
+2022-01-29,B1,Belgium-JPL,2122,Cercle Brugge,Oostende,0.0,1.0,A,0.0,0.0,D,1.5,4.0,6.5,1.56,4.19,5.85,1.54,4.21,5.68,1.72,2.07,1.74,2.08,-1.0,1.88,1.98,Cercle Brugge,KV Oostende,cercle_brugge,kv_oostende
+2022-02-09,B1,Belgium-JPL,2122,Waregem,Oostende,0.0,0.0,D,0.0,0.0,D,2.15,3.5,3.2,2.2,3.84,3.04,2.17,3.67,3.01,1.65,2.2,1.64,2.22,-0.25,1.93,1.93,Zulte Waregem,KV Oostende,zulte_waregem,kv_oostende
+2022-02-12,B1,Belgium-JPL,2122,Mechelen,Oostende,3.0,0.0,H,1.0,0.0,H,1.8,4.0,4.0,1.78,3.99,4.26,1.81,3.86,3.99,1.7,2.1,1.68,2.15,-0.5,1.77,2.02,KV Mechelen,KV Oostende,kv_mechelen,kv_oostende
+2022-03-06,B1,Belgium-JPL,2122,Anderlecht,Oostende,3.0,0.0,H,0.0,0.0,D,1.25,5.25,9.5,1.26,5.47,12.41,1.27,5.66,10.66,1.53,2.4,1.55,2.41,-1.75,2.0,1.85,Anderlecht,KV Oostende,anderlecht,kv_oostende
+2022-03-18,B1,Belgium-JPL,2122,St. Gilloise,Oostende,1.0,1.0,D,0.0,1.0,A,1.28,5.0,10.0,1.3,5.53,10.99,1.29,5.33,10.1,1.66,2.15,1.68,2.15,-1.5,1.88,1.98,St. Gilloise,KV Oostende,st_gilloise,kv_oostende
+2022-04-09,B1,Belgium-JPL,2122,Eupen,Oostende,0.0,2.0,A,0.0,1.0,A,2.45,3.4,2.55,,,,2.49,3.46,2.67,1.72,2.07,1.73,2.07,0.0,1.88,1.98,KAS Eupen,KV Oostende,kas_eupen,kv_oostende
+2022-07-24,B1,Belgium-JPL,2223,Anderlecht,Oostende,2.0,0.0,H,1.0,0.0,H,1.25,5.5,9.0,1.3,5.79,8.87,1.27,5.73,9.61,1.53,2.4,1.53,2.46,-1.5,1.75,2.05,Anderlecht,KV Oostende,anderlecht,kv_oostende
+2022-08-06,B1,Belgium-JPL,2223,Charleroi,Oostende,1.0,3.0,A,0.0,1.0,A,1.6,3.8,5.0,1.62,4.38,5.23,1.61,4.1,5.04,1.7,2.1,1.69,2.15,-1.0,2.05,1.75,Sporting Charleroi,KV Oostende,sporting_charleroi,kv_oostende
+2022-08-27,B1,Belgium-JPL,2223,Oud-Heverlee Leuven,Oostende,2.0,1.0,H,0.0,1.0,A,1.95,3.5,3.6,2.04,3.82,3.56,2.01,3.68,3.4,1.7,2.1,1.71,2.11,-0.5,2.0,1.85,Oud-Heverlee Leuven,KV Oostende,oud_heverlee_leuven,kv_oostende
+2022-09-03,B1,Belgium-JPL,2223,Standard,Oostende,1.0,0.0,H,0.0,0.0,D,2.0,3.5,3.75,1.99,3.82,3.7,2.0,3.64,3.5,1.8,2.0,1.75,2.06,-0.5,2.02,1.83,Standard Liege,KV Oostende,standard_liege,kv_oostende
+2022-09-17,B1,Belgium-JPL,2223,Cercle Brugge,Oostende,2.0,2.0,D,2.0,0.0,H,1.8,3.5,4.5,1.82,3.94,4.28,1.79,3.73,4.23,1.9,1.95,1.85,1.93,-0.75,2.02,1.83,Cercle Brugge,KV Oostende,cercle_brugge,kv_oostende
+2022-10-08,B1,Belgium-JPL,2223,Seraing,Oostende,1.0,1.0,D,0.0,0.0,D,2.75,3.4,2.4,2.83,3.5,2.53,2.81,3.4,2.44,1.93,1.93,1.9,1.9,0.0,2.05,1.8,RFC Seraing,KV Oostende,rfc_seraing,kv_oostende
+2022-10-20,B1,Belgium-JPL,2223,Antwerp,Oostende,3.0,0.0,H,1.0,0.0,H,1.57,4.2,5.0,1.58,4.32,5.39,1.57,4.17,5.35,1.66,2.15,1.69,2.14,-1.0,2.0,1.85,Royal Antwerp,KV Oostende,royal_antwerp,kv_oostende
+2022-10-29,B1,Belgium-JPL,2223,Club Brugge,Oostende,4.0,2.0,H,2.0,0.0,H,1.25,6.0,10.0,1.28,6.42,9.18,1.26,5.91,9.57,1.44,2.7,1.45,2.66,-1.75,2.0,1.85,Club Brugge,KV Oostende,club_brugge,kv_oostende
+2022-11-12,B1,Belgium-JPL,2223,Westerlo,Oostende,6.0,0.0,H,3.0,0.0,H,1.75,4.0,4.2,1.78,4.11,4.31,1.77,3.92,4.12,1.65,2.2,1.63,2.24,-0.75,1.98,1.88,KVC Westerlo,KV Oostende,kvc_westerlo,kv_oostende
+2022-12-26,B1,Belgium-JPL,2223,St. Gilloise,Oostende,3.0,0.0,H,0.0,0.0,D,1.33,5.0,7.0,1.32,5.62,8.85,1.33,5.28,8.08,1.44,2.7,1.45,2.65,-1.5,1.95,1.9,St. Gilloise,KV Oostende,st_gilloise,kv_oostende
+2023-01-14,B1,Belgium-JPL,2223,Mechelen,Oostende,2.0,1.0,H,1.0,0.0,H,1.73,3.8,4.33,1.74,4.09,4.4,1.74,3.97,4.26,1.65,2.2,1.63,2.23,-0.75,1.95,1.9,KV Mechelen,KV Oostende,kv_mechelen,kv_oostende
+2023-01-28,B1,Belgium-JPL,2223,Kortrijk,Oostende,2.0,2.0,D,1.0,1.0,D,2.0,3.4,3.3,2.09,3.86,3.38,2.08,3.66,3.26,1.65,2.2,1.65,2.21,-0.25,1.8,2.05,KV Kortrijk,KV Oostende,kv_kortrijk,kv_oostende
+2023-02-12,B1,Belgium-JPL,2223,Waregem,Oostende,1.0,1.0,D,1.0,0.0,H,1.95,3.6,3.5,2.04,3.66,3.53,2.02,3.64,3.4,1.65,2.2,1.65,2.21,-0.5,2.02,1.83,Zulte Waregem,KV Oostende,zulte_waregem,kv_oostende
+2023-02-25,B1,Belgium-JPL,2223,Genk,Oostende,3.0,0.0,H,2.0,0.0,H,1.33,5.5,7.0,1.34,5.68,8.75,1.33,5.42,8.05,1.44,2.7,1.43,2.75,-1.5,1.98,1.88,Genk,KV Oostende,genk,kv_oostende
+2023-03-11,B1,Belgium-JPL,2223,Eupen,Oostende,4.0,4.0,D,1.0,1.0,D,2.5,3.4,2.6,2.62,3.6,2.68,2.53,3.46,2.63,1.75,2.05,1.75,2.06,0.0,1.88,1.98,KAS Eupen,KV Oostende,kas_eupen,kv_oostende
+2023-04-09,B1,Belgium-JPL,2223,St Truiden,Oostende,5.0,0.0,H,2.0,0.0,H,2.25,3.25,3.25,2.33,3.35,3.16,2.26,3.32,3.11,2.02,1.83,2.03,1.77,-0.25,1.95,1.9,Sint-Truiden,KV Oostende,sint_truiden,kv_oostende
+2023-04-23,B1,Belgium-JPL,2223,Gent,Oostende,1.0,2.0,A,0.0,0.0,D,1.2,6.0,12.0,1.21,7.1,11.31,1.21,6.71,11.56,1.36,3.1,1.36,3.03,-2.0,2.0,1.85,KAA Gent,KV Oostende,kaa_gent,kv_oostende

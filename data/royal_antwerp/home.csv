@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-01,B1,Belgium-JPL,2122,Antwerp,Kortrijk,0.0,1.0,A,0.0,0.0,D,1.7,3.6,4.2,1.79,3.49,5.08,1.76,3.53,4.73,1.8,2.0,1.83,1.97,-0.75,2.0,1.85,Royal Antwerp,KV Kortrijk,royal_antwerp,kv_kortrijk
+2021-08-29,B1,Belgium-JPL,2122,Antwerp,Oud-Heverlee Leuven,2.0,2.0,D,2.0,0.0,H,1.6,4.0,5.25,1.59,3.98,6.09,1.61,3.97,5.41,1.47,2.6,1.51,2.52,-1.0,2.0,1.85,Royal Antwerp,Oud-Heverlee Leuven,royal_antwerp,oud_heverlee_leuven
+2021-09-19,B1,Belgium-JPL,2122,Antwerp,Seraing,2.0,1.0,H,0.0,0.0,D,1.5,4.33,5.5,1.55,4.5,5.48,1.53,4.42,5.42,1.53,2.4,1.54,2.43,-1.0,1.9,1.95,Royal Antwerp,RFC Seraing,royal_antwerp,rfc_seraing
+2021-09-22,B1,Belgium-JPL,2122,Antwerp,Genk,4.0,2.0,H,3.0,1.0,H,2.9,3.6,2.05,3.16,3.94,2.1,3.05,3.8,2.11,1.57,2.35,1.55,2.41,0.25,1.95,1.9,Royal Antwerp,Genk,royal_antwerp,genk
+2021-10-03,B1,Belgium-JPL,2122,Antwerp,Gent,1.0,0.0,H,0.0,0.0,D,2.75,3.75,2.4,2.68,3.88,2.42,2.66,3.71,2.42,1.65,2.2,1.63,2.26,0.0,2.02,1.83,Royal Antwerp,KAA Gent,royal_antwerp,kaa_gent
+2021-10-24,B1,Belgium-JPL,2122,Antwerp,Club Brugge,1.0,1.0,D,1.0,1.0,D,3.75,4.0,1.85,3.58,4.17,1.89,3.57,3.92,1.89,1.57,2.35,1.57,2.37,0.5,1.95,1.9,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2021-11-07,B1,Belgium-JPL,2122,Antwerp,Anderlecht,2.0,0.0,H,0.0,0.0,D,3.6,3.6,1.95,3.24,3.75,2.13,3.23,3.63,2.08,1.7,2.1,1.69,2.14,0.25,2.0,1.85,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2021-11-28,B1,Belgium-JPL,2122,Antwerp,Oostende,3.0,0.0,H,0.0,0.0,D,1.7,4.0,4.5,1.72,4.12,4.46,1.72,3.95,4.36,1.7,2.1,1.71,2.12,-0.75,1.9,1.95,Royal Antwerp,KV Oostende,royal_antwerp,kv_oostende
+2021-12-12,B1,Belgium-JPL,2122,Antwerp,Standard,2.0,3.0,A,0.0,0.0,D,1.9,3.6,4.0,1.9,3.64,4.08,1.9,3.61,3.87,1.83,2.02,1.78,2.03,-0.5,1.9,1.95,Royal Antwerp,Standard Liege,royal_antwerp,standard_liege
+2021-12-16,B1,Belgium-JPL,2122,Antwerp,Eupen,4.0,2.0,H,2.0,1.0,H,1.57,4.33,5.25,1.59,4.36,5.26,1.59,4.28,4.99,1.57,2.35,1.56,2.39,-1.0,2.0,1.85,Royal Antwerp,KAS Eupen,royal_antwerp,kas_eupen
+2022-01-16,B1,Belgium-JPL,2122,Antwerp,Charleroi,3.0,0.0,H,2.0,0.0,H,1.9,3.6,3.75,1.95,3.59,3.91,1.96,3.66,3.58,1.6,2.3,1.59,2.32,-0.5,1.93,1.93,Royal Antwerp,Sporting Charleroi,royal_antwerp,sporting_charleroi
+2022-01-25,B1,Belgium-JPL,2122,Antwerp,St Truiden,1.0,1.0,D,1.0,0.0,H,1.85,3.6,4.0,1.88,3.62,4.41,1.85,3.55,4.16,2.0,1.85,1.97,1.82,-0.5,1.88,1.98,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2022-02-05,B1,Belgium-JPL,2122,Antwerp,St. Gilloise,0.0,2.0,A,0.0,0.0,D,3.1,3.6,2.1,3.19,3.54,2.23,3.09,3.53,2.19,1.7,2.1,1.7,2.13,0.25,1.98,1.88,Royal Antwerp,St. Gilloise,royal_antwerp,st_gilloise
+2022-02-20,B1,Belgium-JPL,2122,Antwerp,Mechelen,1.0,2.0,A,0.0,2.0,A,1.75,3.6,3.75,1.85,4.02,3.9,1.84,3.78,3.9,1.7,2.1,1.7,2.12,-0.75,2.05,1.75,Royal Antwerp,KV Mechelen,royal_antwerp,kv_mechelen
+2022-03-06,B1,Belgium-JPL,2122,Antwerp,Beerschot VA,2.0,1.0,H,0.0,1.0,A,,,,1.62,3.93,5.6,1.62,4.0,5.21,,,1.76,2.04,-1.0,,,Royal Antwerp,Beerschot VA,royal_antwerp,beerschot_va
+2022-03-19,B1,Belgium-JPL,2122,Antwerp,Waregem,1.0,0.0,H,0.0,0.0,D,1.4,4.75,6.0,1.45,4.74,6.65,1.44,4.67,6.41,1.53,2.4,1.54,2.42,-1.25,1.98,1.88,Royal Antwerp,Zulte Waregem,royal_antwerp,zulte_waregem
+2022-04-09,B1,Belgium-JPL,2122,Antwerp,Cercle Brugge,1.0,1.0,D,0.0,0.0,D,1.95,3.3,3.6,2.0,3.79,3.55,2.01,3.6,3.48,1.72,2.07,1.73,2.08,-0.5,1.98,1.88,Royal Antwerp,Cercle Brugge,royal_antwerp,cercle_brugge
+2022-07-31,B1,Belgium-JPL,2223,Antwerp,Waregem,1.0,0.0,H,0.0,0.0,D,1.36,4.5,7.0,1.4,5.15,7.14,1.38,4.91,7.28,1.61,2.25,1.62,2.25,-1.25,1.88,1.98,Royal Antwerp,Zulte Waregem,royal_antwerp,zulte_waregem
+2022-08-07,B1,Belgium-JPL,2223,Antwerp,Oud-Heverlee Leuven,4.0,2.0,H,2.0,1.0,H,1.61,4.0,4.75,1.59,4.35,5.25,1.6,4.17,5.05,1.7,2.1,1.67,2.18,-1.0,2.08,1.73,Royal Antwerp,Oud-Heverlee Leuven,royal_antwerp,oud_heverlee_leuven
+2022-08-31,B1,Belgium-JPL,2223,Antwerp,St. Gilloise,4.0,2.0,H,4.0,1.0,H,2.75,3.25,2.55,2.82,3.45,2.58,2.72,3.37,2.52,1.93,1.93,1.89,1.89,0.0,2.02,1.83,Royal Antwerp,St. Gilloise,royal_antwerp,st_gilloise
+2022-09-04,B1,Belgium-JPL,2223,Antwerp,Westerlo,3.0,0.0,H,1.0,0.0,H,1.9,4.0,3.6,1.91,3.81,3.84,1.91,3.68,3.76,1.75,2.05,1.75,2.05,-0.5,1.88,1.98,Royal Antwerp,KVC Westerlo,royal_antwerp,kvc_westerlo
+2022-09-16,B1,Belgium-JPL,2223,Antwerp,Seraing,2.0,1.0,H,2.0,1.0,H,1.33,5.25,8.0,1.34,5.48,9.11,1.33,5.23,8.53,1.6,2.3,1.6,2.3,-1.5,1.98,1.88,Royal Antwerp,RFC Seraing,royal_antwerp,rfc_seraing
+2022-10-07,B1,Belgium-JPL,2223,Antwerp,St Truiden,2.0,0.0,H,1.0,0.0,H,1.9,3.6,3.8,1.97,3.41,4.29,1.94,3.41,3.99,2.15,1.66,2.14,1.7,-0.5,1.93,1.93,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2022-10-20,B1,Belgium-JPL,2223,Antwerp,Oostende,3.0,0.0,H,1.0,0.0,H,1.57,4.2,5.0,1.58,4.32,5.39,1.57,4.17,5.35,1.66,2.15,1.69,2.14,-1.0,2.0,1.85,Royal Antwerp,KV Oostende,royal_antwerp,kv_oostende
+2022-10-23,B1,Belgium-JPL,2223,Antwerp,Genk,1.0,3.0,A,1.0,2.0,A,2.62,3.4,2.45,2.74,3.49,2.63,2.64,3.5,2.51,1.61,2.25,1.62,2.27,0.0,1.98,1.88,Royal Antwerp,Genk,royal_antwerp,genk
+2022-11-06,B1,Belgium-JPL,2223,Antwerp,Anderlecht,0.0,0.0,D,0.0,0.0,D,2.15,3.4,3.3,2.2,3.53,3.25,2.19,3.41,3.2,1.88,1.98,1.81,1.98,-0.25,1.88,1.98,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2023-01-07,B1,Belgium-JPL,2223,Antwerp,Gent,2.0,0.0,H,1.0,0.0,H,2.45,3.25,2.63,2.51,3.35,2.89,2.46,3.36,2.79,2.02,1.83,1.98,1.82,0.0,1.8,2.05,Royal Antwerp,KAA Gent,royal_antwerp,kaa_gent
+2023-01-22,B1,Belgium-JPL,2223,Antwerp,Standard,4.0,1.0,H,3.0,1.0,H,1.67,3.6,4.75,1.68,3.88,5.05,1.7,3.77,4.82,1.93,1.93,1.89,1.9,-0.75,1.9,1.95,Royal Antwerp,Standard Liege,royal_antwerp,standard_liege
+2023-02-05,B1,Belgium-JPL,2223,Antwerp,Club Brugge,0.0,0.0,D,0.0,0.0,D,2.5,3.3,2.63,2.66,3.28,2.84,2.57,3.32,2.7,1.93,1.93,1.88,1.9,0.0,1.88,1.98,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2023-02-18,B1,Belgium-JPL,2223,Antwerp,Eupen,2.0,0.0,H,2.0,0.0,H,1.36,5.0,8.0,1.37,5.26,8.43,1.36,5.0,8.17,1.65,2.2,1.64,2.22,-1.5,2.02,1.83,Royal Antwerp,KAS Eupen,royal_antwerp,kas_eupen
+2023-03-05,B1,Belgium-JPL,2223,Antwerp,Mechelen,5.0,0.0,H,3.0,0.0,H,1.53,4.2,5.75,1.53,4.32,6.12,1.53,4.29,5.78,1.73,2.08,1.72,2.1,-1.0,1.9,1.95,Royal Antwerp,KV Mechelen,royal_antwerp,kv_mechelen
+2023-03-19,B1,Belgium-JPL,2223,Antwerp,Charleroi,0.0,1.0,A,0.0,1.0,A,1.67,3.75,4.5,1.71,4.0,4.77,1.7,3.83,4.62,1.8,2.0,1.79,2.0,-0.75,1.93,1.93,Royal Antwerp,Sporting Charleroi,royal_antwerp,sporting_charleroi
+2023-04-09,B1,Belgium-JPL,2223,Antwerp,Cercle Brugge,2.0,1.0,H,0.0,1.0,A,1.7,3.6,4.75,1.7,3.86,4.95,1.69,3.79,4.74,1.85,2.0,1.85,1.92,-0.75,1.95,1.9,Royal Antwerp,Cercle Brugge,royal_antwerp,cercle_brugge
+2023-04-16,B1,Belgium-JPL,2223,Antwerp,Kortrijk,1.0,0.0,H,0.0,0.0,D,1.29,5.75,9.0,1.29,5.45,11.18,1.28,5.49,10.31,1.65,2.2,1.62,2.25,-1.5,1.85,2.0,Royal Antwerp,KV Kortrijk,royal_antwerp,kv_kortrijk
+2023-07-30,B1,Belgium-JPL,2324,Antwerp,Cercle Brugge,1.0,0.0,H,1.0,0.0,H,1.75,3.5,4.2,1.85,3.6,4.36,1.82,3.61,4.18,1.88,1.98,1.84,1.93,-0.75,2.05,1.75,Royal Antwerp,Cercle Brugge,royal_antwerp,cercle_brugge
+2023-08-11,B1,Belgium-JPL,2324,Antwerp,Kortrijk,6.0,0.0,H,4.0,0.0,H,1.25,5.25,9.5,1.26,6.31,11.17,1.26,5.86,10.02,1.5,2.5,1.49,2.54,-1.5,1.75,2.05,Royal Antwerp,KV Kortrijk,royal_antwerp,kv_kortrijk
+2023-09-23,B1,Belgium-JPL,2324,Antwerp,RWD Molenbeek,0.0,0.0,D,0.0,0.0,D,1.3,5.0,9.0,1.33,5.63,8.62,1.32,5.33,8.56,1.53,2.4,1.56,2.4,-1.5,1.95,1.9,Royal Antwerp,RWD Molenbeek,royal_antwerp,rwd_molenbeek
+2023-09-27,B1,Belgium-JPL,2324,Antwerp,Gent,0.0,0.0,D,0.0,0.0,D,2.1,3.6,3.2,2.12,3.7,3.42,2.12,3.61,3.21,1.7,2.1,1.71,2.12,-0.25,1.83,2.03,Royal Antwerp,KAA Gent,royal_antwerp,kaa_gent
+2023-10-08,B1,Belgium-JPL,2324,Antwerp,Eupen,4.0,1.0,H,2.0,1.0,H,1.25,6.5,9.5,1.23,6.64,10.66,1.23,6.33,10.72,1.5,2.5,1.49,2.54,-1.75,1.9,1.95,Royal Antwerp,KAS Eupen,royal_antwerp,kas_eupen
+2023-11-04,B1,Belgium-JPL,2324,Antwerp,Genk,3.0,2.0,H,3.0,1.0,H,2.15,3.5,3.2,2.19,3.77,3.2,2.16,3.68,3.07,1.65,2.2,1.64,2.22,-0.25,1.9,1.95,Royal Antwerp,Genk,royal_antwerp,genk
+2023-11-11,B1,Belgium-JPL,2324,Antwerp,Standard,6.0,0.0,H,4.0,0.0,H,1.6,4.0,5.0,1.63,4.28,5.29,1.63,4.06,4.99,1.67,2.15,1.68,2.15,-0.75,1.78,2.1,Royal Antwerp,Standard Liege,royal_antwerp,standard_liege
+2023-12-02,B1,Belgium-JPL,2324,Antwerp,Oud-Heverlee Leuven,1.0,0.0,H,1.0,0.0,H,1.36,5.0,8.5,1.34,5.81,8.32,1.35,5.35,7.69,1.44,2.7,1.43,2.74,-1.5,1.95,1.9,Royal Antwerp,Oud-Heverlee Leuven,royal_antwerp,oud_heverlee_leuven
+2023-12-17,B1,Belgium-JPL,2324,Antwerp,Anderlecht,1.0,1.0,D,0.0,1.0,A,1.91,3.5,3.8,1.99,3.57,3.8,1.96,3.57,3.71,1.9,1.95,1.85,1.94,-0.5,1.95,1.9,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2023-12-23,B1,Belgium-JPL,2324,Antwerp,Westerlo,2.0,2.0,D,1.0,0.0,H,1.33,5.25,8.0,1.37,5.38,8.0,1.35,5.13,7.9,1.53,2.4,1.53,2.45,-1.5,1.95,1.9,Royal Antwerp,KVC Westerlo,royal_antwerp,kvc_westerlo
+2024-01-21,B1,Belgium-JPL,2324,Antwerp,Charleroi,4.0,1.0,H,2.0,0.0,H,1.73,3.75,4.75,1.71,4.03,4.87,1.72,3.82,4.55,1.75,2.05,1.77,2.03,-0.75,1.9,1.95,Royal Antwerp,Sporting Charleroi,royal_antwerp,sporting_charleroi
+2024-02-04,B1,Belgium-JPL,2324,Antwerp,Club Brugge,2.0,1.0,H,0.0,0.0,D,3.6,3.5,1.91,3.86,3.69,1.98,3.66,3.57,1.97,1.83,2.03,1.8,2.01,0.5,1.88,1.98,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2024-02-17,B1,Belgium-JPL,2324,Antwerp,Mechelen,0.0,1.0,A,0.0,0.0,D,1.57,4.0,5.75,1.58,4.27,5.79,1.57,4.1,5.52,1.8,2.0,1.77,2.04,-1.0,2.0,1.85,Royal Antwerp,KV Mechelen,royal_antwerp,kv_mechelen
+2024-03-03,B1,Belgium-JPL,2324,Antwerp,St Truiden,3.0,0.0,H,0.0,0.0,D,1.62,4.0,4.75,1.67,4.01,5.01,1.64,3.95,4.94,1.8,2.0,1.8,1.99,-0.75,1.83,2.03,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2024-03-17,B1,Belgium-JPL,2324,Antwerp,St. Gilloise,1.0,1.0,D,0.0,0.0,D,2.6,3.5,2.55,2.66,3.53,2.6,2.64,3.44,2.54,1.8,2.0,1.77,2.02,0.0,1.95,1.9,Royal Antwerp,St. Gilloise,royal_antwerp,st_gilloise
+2024-04-06,B1,Belgium-JPL,2324,Antwerp,Genk,0.0,1.0,A,0.0,1.0,A,2.25,3.4,3.1,2.28,3.5,3.18,2.24,3.46,3.06,1.8,2.0,1.79,2.02,-0.25,1.98,1.88,Royal Antwerp,Genk,royal_antwerp,genk
+2024-04-25,B1,Belgium-JPL,2324,Antwerp,St. Gilloise,0.0,3.0,A,0.0,0.0,D,2.8,3.5,2.38,3.02,3.3,2.41,2.87,3.35,2.38,1.93,1.93,1.89,1.89,0.25,1.78,2.1,Royal Antwerp,St. Gilloise,royal_antwerp,st_gilloise
+2024-05-05,B1,Belgium-JPL,2324,Antwerp,Club Brugge,1.0,2.0,A,0.0,0.0,D,3.8,3.6,1.91,3.81,3.64,1.94,3.72,3.61,1.91,1.8,2.0,1.77,2.01,0.5,1.9,1.95,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2024-05-12,B1,Belgium-JPL,2324,Antwerp,Cercle Brugge,1.0,2.0,A,0.0,2.0,A,2.25,3.5,3.0,2.27,3.58,3.02,2.24,3.52,2.97,1.73,2.08,1.71,2.1,-0.25,2.0,1.85,Royal Antwerp,Cercle Brugge,royal_antwerp,cercle_brugge
+2024-05-26,B1,Belgium-JPL,2324,Antwerp,Anderlecht,3.0,1.0,H,0.0,1.0,A,3.75,3.5,1.75,3.94,4.0,1.82,3.88,3.81,1.82,1.73,2.08,1.73,2.07,0.5,2.0,1.85,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2024-08-04,B1,Belgium-JPL,2425,Antwerp,Anderlecht,1.0,2.0,A,1.0,1.0,D,2.63,3.3,2.5,2.78,3.44,2.47,2.73,3.45,2.46,1.75,2.05,1.76,2.04,0.0,2.03,1.83,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2024-08-11,B1,Belgium-JPL,2425,Antwerp,St Truiden,6.0,1.0,H,2.0,0.0,H,1.38,4.5,8.0,1.37,4.89,7.68,1.38,4.84,7.47,1.57,2.35,1.58,2.35,-1.25,1.85,2.0,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2024-08-24,B1,Belgium-JPL,2425,Antwerp,Mechelen,0.0,1.0,A,0.0,1.0,A,1.53,4.1,5.0,1.53,4.31,5.59,1.55,4.27,5.4,1.6,2.3,1.6,2.3,-1.0,1.93,1.93,Royal Antwerp,KV Mechelen,royal_antwerp,kv_mechelen
+2024-09-15,B1,Belgium-JPL,2425,Antwerp,St. Gilloise,2.0,0.0,H,0.0,0.0,D,2.35,3.5,2.88,2.38,3.41,2.9,2.36,3.43,2.89,1.8,2.0,1.81,1.98,-0.25,2.05,1.8,Royal Antwerp,St. Gilloise,royal_antwerp,st_gilloise
+2024-09-29,B1,Belgium-JPL,2425,Antwerp,Beerschot VA,5.0,0.0,H,,,,1.27,5.75,9.0,1.23,6.25,10.3,1.25,5.97,10.32,1.5,2.5,1.49,2.47,-1.75,1.98,1.88,Royal Antwerp,Beerschot VA,royal_antwerp,beerschot_va
+2024-10-06,B1,Belgium-JPL,2425,Antwerp,Cercle Brugge,3.0,0.0,H,2.0,0.0,H,1.65,4.0,4.75,1.63,3.95,5.12,1.65,4.01,4.85,1.62,2.25,1.6,2.29,-0.75,1.8,2.05,Royal Antwerp,Cercle Brugge,royal_antwerp,cercle_brugge
+2024-10-27,B1,Belgium-JPL,2425,Antwerp,Standard,3.0,0.0,H,1.0,0.0,H,1.55,4.2,5.5,1.53,4.23,5.77,1.55,4.16,5.56,1.69,2.07,1.73,2.08,-1.0,1.98,1.88,Royal Antwerp,Standard Liege,royal_antwerp,standard_liege
+2024-11-22,B1,Belgium-JPL,2425,Antwerp,Dender,1.0,1.0,D,0.0,1.0,A,1.48,4.5,6.0,1.48,4.6,6.6,1.47,4.47,6.34,1.73,2.08,1.71,2.12,-1.0,1.8,2.05,Royal Antwerp,Dender,royal_antwerp,dender
+2024-12-08,B1,Belgium-JPL,2425,Antwerp,Charleroi,1.0,3.0,A,0.0,1.0,A,1.91,3.6,3.75,1.9,3.67,3.87,1.91,3.62,3.77,1.85,2.0,1.85,1.95,-0.5,1.93,1.93,Royal Antwerp,Sporting Charleroi,royal_antwerp,sporting_charleroi
+2024-12-26,B1,Belgium-JPL,2425,Antwerp,Genk,2.0,2.0,D,2.0,1.0,H,2.55,3.6,2.38,2.53,3.5,2.67,2.54,3.48,2.56,1.67,2.15,1.71,2.08,0.0,2.0,1.85,Royal Antwerp,Genk,royal_antwerp,genk
+2025-01-19,B1,Belgium-JPL,2425,Antwerp,Westerlo,3.0,2.0,H,1.0,2.0,A,1.75,3.9,4.1,1.78,4.0,4.05,1.77,4.01,4.0,1.53,2.4,1.52,2.43,-0.75,2.03,1.83,Royal Antwerp,KVC Westerlo,royal_antwerp,kvc_westerlo
+2025-02-02,B1,Belgium-JPL,2425,Antwerp,Club Brugge,2.0,1.0,H,0.0,1.0,A,4.75,3.6,1.73,4.51,3.89,1.72,4.42,3.84,1.73,1.7,2.1,1.71,2.09,0.75,1.9,1.95,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2025-02-15,B1,Belgium-JPL,2425,Antwerp,Kortrijk,2.0,1.0,H,2.0,0.0,H,1.67,4.2,4.5,1.64,4.19,4.85,1.64,4.11,4.81,1.7,2.1,1.7,2.12,-0.75,1.83,2.03,Royal Antwerp,KV Kortrijk,royal_antwerp,kv_kortrijk
+2025-02-22,B1,Belgium-JPL,2425,Antwerp,Oud-Heverlee Leuven,2.0,2.0,D,0.0,0.0,D,1.85,3.4,4.0,1.88,3.59,4.12,1.87,3.58,4.01,1.95,1.9,1.92,1.87,-0.5,1.9,1.95,Royal Antwerp,Oud-Heverlee Leuven,royal_antwerp,oud_heverlee_leuven
+2025-03-09,B1,Belgium-JPL,2425,Antwerp,Gent,0.0,1.0,A,0.0,0.0,D,2.2,3.5,3.1,2.26,3.46,3.14,2.22,3.49,3.05,1.73,2.08,1.74,2.06,-0.25,1.98,1.88,Royal Antwerp,KAA Gent,royal_antwerp,kaa_gent
+2025-04-06,B1,Belgium-JPL,2425,Antwerp,Club Brugge,2.0,3.0,A,0.0,3.0,A,4.75,3.7,1.7,4.59,4.05,1.69,4.57,3.88,1.71,1.67,2.15,1.67,2.16,0.75,1.95,1.9,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2025-04-13,B1,Belgium-JPL,2425,Antwerp,Gent,0.0,1.0,A,0.0,1.0,A,2.05,3.4,3.4,2.08,3.68,3.36,2.06,3.62,3.24,1.75,2.05,1.75,2.04,-0.5,2.05,1.75,Royal Antwerp,KAA Gent,royal_antwerp,kaa_gent
+2025-04-23,B1,Belgium-JPL,2425,Antwerp,Genk,1.0,1.0,D,0.0,0.0,D,3.2,3.5,2.0,3.28,3.65,2.12,3.18,3.57,2.12,1.67,2.15,1.67,2.18,0.25,1.98,1.88,Royal Antwerp,Genk,royal_antwerp,genk
+2025-05-01,B1,Belgium-JPL,2425,Antwerp,Anderlecht,1.0,3.0,A,0.0,0.0,D,2.7,3.4,2.45,2.73,3.48,2.52,2.68,3.46,2.48,1.8,2.0,1.78,2.02,0.0,1.98,1.83,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2025-05-17,B1,Belgium-JPL,2425,Antwerp,St. Gilloise,0.0,4.0,A,0.0,3.0,A,4.5,3.75,1.73,4.5,3.76,1.72,4.47,3.79,1.73,1.8,2.0,1.77,2.02,0.75,1.85,1.95,Royal Antwerp,St. Gilloise,royal_antwerp,st_gilloise
+2025-07-25,B1,Belgium-JPL,2526,Antwerp,St. Gilloise,1.0,1.0,D,1.0,0.0,H,4.0,3.4,1.9,4.26,3.53,1.93,3.87,3.45,1.9,1.95,1.85,1.91,1.83,0.5,1.9,1.9,Royal Antwerp,St. Gilloise,royal_antwerp,st_gilloise
+2025-08-10,B1,Belgium-JPL,2526,Antwerp,Oud-Heverlee Leuven,3.0,1.0,H,1.0,0.0,H,1.91,3.6,3.7,1.93,3.67,3.81,1.9,3.56,3.73,1.8,2.0,1.78,1.94,-0.5,1.9,1.9,Royal Antwerp,Oud-Heverlee Leuven,royal_antwerp,oud_heverlee_leuven
+2025-08-24,B1,Belgium-JPL,2526,Antwerp,Mechelen,2.0,1.0,H,1.0,1.0,D,1.95,3.6,3.6,2.0,3.58,3.68,1.96,3.64,3.46,1.7,2.1,1.68,2.07,-0.5,1.95,1.85,Royal Antwerp,KV Mechelen,royal_antwerp,kv_mechelen
+2025-09-14,B1,Belgium-JPL,2526,Antwerp,Gent,1.0,2.0,A,1.0,1.0,D,2.45,3.3,2.9,2.46,3.56,2.76,2.36,3.45,2.79,1.75,2.05,1.74,2.0,0.0,1.78,2.03,Royal Antwerp,KAA Gent,royal_antwerp,kaa_gent
+2025-10-04,B1,Belgium-JPL,2526,Antwerp,Cercle Brugge,1.0,1.0,D,1.0,1.0,D,2.4,3.4,2.8,2.4,3.46,2.91,2.35,3.48,2.77,1.75,2.05,1.74,1.99,0.0,1.78,2.03,Royal Antwerp,Cercle Brugge,royal_antwerp,cercle_brugge
+2025-10-26,B1,Belgium-JPL,2526,Antwerp,Club Brugge,0.0,1.0,A,0.0,1.0,A,4.75,4.1,1.62,4.95,4.26,1.62,4.93,4.15,1.59,1.57,2.35,1.55,2.31,1.0,1.73,2.08,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2025-11-08,B1,Belgium-JPL,2526,Antwerp,RAAL La Louviere,3.0,1.0,H,0.0,0.0,D,2.15,3.2,3.4,,,,2.16,3.2,3.37,2.15,1.67,2.14,1.64,-0.25,1.85,1.95,Royal Antwerp,RAAL La Louviere,royal_antwerp,raal_la_louviere
+2025-11-23,B1,Belgium-JPL,2526,Antwerp,Dender,1.0,2.0,A,0.0,0.0,D,1.83,3.4,3.9,,,,1.86,3.54,3.95,1.9,1.9,1.86,1.84,-0.5,1.83,1.98,Royal Antwerp,Dender,royal_antwerp,dender
+2025-12-07,B1,Belgium-JPL,2526,Antwerp,Genk,3.0,0.0,H,2.0,0.0,H,3.25,3.5,2.1,,,,3.38,3.42,2.06,1.85,1.95,1.83,1.88,0.25,1.98,1.83,Royal Antwerp,Genk,royal_antwerp,genk
+2025-12-21,B1,Belgium-JPL,2526,Antwerp,Anderlecht,2.0,2.0,D,2.0,0.0,H,3.0,3.3,2.2,,,,3.13,3.33,2.2,1.93,1.88,1.9,1.81,0.25,1.88,1.93,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2025-12-27,B1,Belgium-JPL,2526,Antwerp,Waregem,2.0,1.0,H,1.0,1.0,D,1.95,3.4,3.5,,,,2.02,3.46,3.42,1.85,1.95,1.81,1.91,-0.5,2.0,1.8,Royal Antwerp,Zulte Waregem,royal_antwerp,zulte_waregem
+2026-01-25,B1,Belgium-JPL,2526,Antwerp,Charleroi,0.0,2.0,A,0.0,1.0,A,2.4,3.25,2.9,,,,2.32,3.2,3.02,2.1,1.7,2.01,1.73,-0.25,2.05,1.75,Royal Antwerp,Sporting Charleroi,royal_antwerp,sporting_charleroi
+2026-02-15,B1,Belgium-JPL,2526,Antwerp,Westerlo,0.0,2.0,A,0.0,1.0,A,2.1,3.6,3.2,,,,2.09,3.43,3.23,1.8,2.0,1.75,1.98,-0.25,1.83,1.98,Royal Antwerp,KVC Westerlo,royal_antwerp,kvc_westerlo
+2026-02-28,B1,Belgium-JPL,2526,Antwerp,St Truiden,1.0,0.0,H,0.0,0.0,D,3.0,3.3,2.2,,,,2.98,3.3,2.25,1.9,1.9,1.83,1.87,0.25,1.85,1.95,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2026-03-15,B1,Belgium-JPL,2526,Antwerp,Standard,1.0,1.0,D,0.0,0.0,D,2.05,3.1,3.5,,,,2.11,3.2,3.41,2.2,1.65,2.12,1.65,-0.25,1.8,2.0,Royal Antwerp,Standard Liege,royal_antwerp,standard_liege
+2026-04-03,B1,Belgium-JPL,2526,Antwerp,Genk,1.0,2.0,A,0.0,1.0,A,3.4,3.3,2.05,,,,3.37,3.4,2.04,1.9,1.9,1.82,1.9,0.5,1.75,2.05,Royal Antwerp,Genk,royal_antwerp,genk
+2026-04-18,B1,Belgium-JPL,2526,Antwerp,Oud-Heverlee Leuven,2.0,0.0,H,0.0,0.0,D,2.15,3.25,3.1,,,,2.18,3.3,3.1,1.95,1.85,1.89,1.82,-0.25,1.9,1.9,Royal Antwerp,Oud-Heverlee Leuven,royal_antwerp,oud_heverlee_leuven
+2026-05-03,B1,Belgium-JPL,2526,Antwerp,Standard,0.0,5.0,A,0.0,3.0,A,1.91,3.6,3.8,,,,1.92,3.46,3.68,1.85,1.95,1.87,1.83,-0.5,1.93,1.88,Royal Antwerp,Standard Liege,royal_antwerp,standard_liege
+2026-05-10,B1,Belgium-JPL,2526,Antwerp,Charleroi,0.0,1.0,A,0.0,1.0,A,2.3,3.2,2.9,,,,2.28,3.25,2.97,2.0,1.8,1.93,1.78,-0.25,2.0,1.8,Royal Antwerp,Sporting Charleroi,royal_antwerp,sporting_charleroi
+2026-05-23,B1,Belgium-JPL,2526,Antwerp,Westerlo,2.0,0.0,H,1.0,0.0,H,1.91,3.7,3.5,,,,1.88,3.77,3.42,1.53,2.4,1.5,2.44,-0.5,1.95,1.85,Royal Antwerp,KVC Westerlo,royal_antwerp,kvc_westerlo
+2026-08-09,B1,Belgium-JPL,2627,Antwerp,Beveren,2.0,1.0,H,0.0,1.0,A,1.73,3.5,4.33,,,,1.7,3.54,4.66,2.08,1.73,2.05,1.7,-0.75,2.0,1.8,Royal Antwerp,Beveren,royal_antwerp,beveren
+2026-08-22,B1,Belgium-JPL,2627,Antwerp,Genk,4.0,4.0,D,1.0,1.0,D,3.1,3.4,2.1,,,,3.15,3.38,2.13,1.83,1.98,1.81,1.92,0.25,1.98,1.83,Royal Antwerp,Genk,royal_antwerp,genk
+2026-08-30,B1,Belgium-JPL,2627,Antwerp,St Truiden,1.0,4.0,A,0.0,1.0,A,2.45,3.4,2.7,,,,2.42,3.41,2.65,1.8,2.0,1.75,2.0,0.0,1.8,2.0,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2026-09-20,B1,Belgium-JPL,2627,Antwerp,St. Gilloise,0.0,2.0,A,0.0,0.0,D,4.75,3.9,1.6,,,,4.99,3.93,1.6,1.75,2.05,1.72,2.02,0.75,2.05,1.75,Royal Antwerp,St. Gilloise,royal_antwerp,st_gilloise

@@ -1,0 +1,10 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder,opponent,venue,team_goals,opp_goals,h2h_match_no,h2h_total_vs_opp
+2026-08-08,N1,Netherlands-ED,2627,AZ Alkmaar,Den Haag,2.0,0.0,H,0.0,0.0,D,1.45,4.5,7.0,,,,1.44,4.61,6.08,1.53,2.4,1.48,2.5,-1.25,1.95,1.85,AZ Alkmaar,Den Haag,az_alkmaar,den_haag,AZ Alkmaar,A,0.0,2.0,1,1
+2026-08-16,N1,Netherlands-ED,2627,Den Haag,Groningen,1.0,4.0,A,0.0,3.0,A,2.75,3.75,2.38,,,,2.7,3.59,2.34,1.65,2.2,1.6,2.21,0.0,2.03,1.78,Den Haag,FC Groningen,den_haag,fc_groningen,FC Groningen,H,1.0,4.0,1,1
+2026-08-23,N1,Netherlands-ED,2627,Go Ahead Eagles,Den Haag,3.0,1.0,H,1.0,0.0,H,1.73,3.8,4.75,,,,1.71,3.98,4.16,1.53,2.4,1.52,2.41,-0.75,1.93,1.88,Go Ahead Eagles,Den Haag,go_ahead_eagles,den_haag,Go Ahead Eagles,A,1.0,3.0,1,1
+2026-08-30,N1,Netherlands-ED,2627,Feyenoord,Den Haag,2.0,2.0,D,0.0,1.0,A,1.17,8.0,15.0,,,,1.15,7.8,13.58,1.29,3.6,1.27,3.52,-2.25,1.9,1.9,Feyenoord,Den Haag,feyenoord,den_haag,Feyenoord,A,2.0,2.0,1,1
+2026-09-06,N1,Netherlands-ED,2627,Den Haag,For Sittard,2.0,3.0,A,0.0,2.0,A,2.05,3.9,3.1,,,,2.02,3.87,3.07,1.44,2.7,1.4,2.73,-0.5,2.05,1.75,Den Haag,For Sittard,den_haag,for_sittard,For Sittard,H,2.0,3.0,1,1
+2026-09-12,N1,Netherlands-ED,2627,Twente,Den Haag,2.0,0.0,H,0.0,0.0,D,1.22,7.0,11.0,,,,1.22,6.4,9.97,1.3,3.5,1.3,3.33,-2.0,1.98,1.83,FC Twente,Den Haag,fc_twente,den_haag,FC Twente,A,0.0,2.0,1,1
+2026-09-19,N1,Netherlands-ED,2627,Den Haag,Cambuur,1.0,1.0,D,0.0,1.0,A,1.8,3.9,4.2,,,,1.76,3.95,3.87,1.5,2.5,1.46,2.58,-0.5,1.78,2.03,Den Haag,SC Cambuur,den_haag,sc_cambuur,SC Cambuur,H,1.0,1.0,1,1
+2026-10-11,N1,Netherlands-ED,2627,Telstar,Den Haag,2.0,2.0,D,2.0,2.0,D,2.0,3.8,3.3,,,,2.0,3.74,3.23,1.53,2.4,1.51,2.42,-0.5,2.0,1.8,Telstar,Den Haag,telstar,den_haag,Telstar,A,2.0,2.0,1,1
+2026-10-17,N1,Netherlands-ED,2627,Den Haag,PSV Eindhoven,2.0,1.0,H,0.0,1.0,A,8.0,6.25,1.29,,,,8.37,6.53,1.25,1.25,4.0,1.22,3.96,1.75,1.98,1.83,Den Haag,PSV Eindhoven,den_haag,psv_eindhoven,PSV Eindhoven,H,2.0,1.0,1,1

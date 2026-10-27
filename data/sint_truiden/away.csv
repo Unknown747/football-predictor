@@ -1,0 +1,97 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,B1,Belgium-JPL,2122,Charleroi,St Truiden,0.0,0.0,D,0.0,0.0,D,1.95,3.4,3.5,2.04,3.7,3.58,2.02,3.58,3.45,1.83,2.02,1.82,1.97,-0.5,2.02,1.83,Sporting Charleroi,Sint-Truiden,sporting_charleroi,sint_truiden
+2021-08-14,B1,Belgium-JPL,2122,Eupen,St Truiden,2.0,1.0,H,1.0,0.0,H,1.95,3.5,3.75,2.01,3.91,3.49,1.98,3.75,3.46,1.75,2.05,1.79,2.02,-0.5,1.98,1.88,KAS Eupen,Sint-Truiden,kas_eupen,sint_truiden
+2021-08-28,B1,Belgium-JPL,2122,Cercle Brugge,St Truiden,0.0,1.0,A,0.0,1.0,A,1.95,3.5,3.6,2.05,3.84,3.43,2.07,3.58,3.37,1.95,1.9,1.97,1.84,-0.25,1.73,2.08,Cercle Brugge,Sint-Truiden,cercle_brugge,sint_truiden
+2021-09-13,B1,Belgium-JPL,2122,Beerschot VA,St Truiden,0.0,1.0,A,0.0,1.0,A,2.5,3.4,2.7,2.48,3.43,2.73,2.47,3.45,2.71,1.72,2.07,1.78,2.04,0.0,1.83,2.02,Beerschot VA,Sint-Truiden,beerschot_va,sint_truiden
+2021-09-25,B1,Belgium-JPL,2122,Standard,St Truiden,1.0,2.0,A,1.0,0.0,H,1.9,3.6,3.4,2.02,3.56,3.73,2.0,3.54,3.58,1.8,2.0,1.82,1.99,-0.5,2.02,1.83,Standard Liege,Sint-Truiden,standard_liege,sint_truiden
+2021-10-24,B1,Belgium-JPL,2122,Oud-Heverlee Leuven,St Truiden,4.0,1.0,H,0.0,0.0,D,2.3,3.5,2.9,2.36,3.49,2.98,2.34,3.42,2.88,1.8,2.0,1.79,2.01,-0.25,2.05,1.8,Oud-Heverlee Leuven,Sint-Truiden,oud_heverlee_leuven,sint_truiden
+2021-11-06,B1,Belgium-JPL,2122,Mechelen,St Truiden,0.0,1.0,A,0.0,1.0,A,1.8,3.6,4.2,1.84,3.9,4.06,1.83,3.81,3.96,1.7,2.1,1.72,2.11,-0.5,1.85,2.0,KV Mechelen,Sint-Truiden,kv_mechelen,sint_truiden
+2021-11-27,B1,Belgium-JPL,2122,Seraing,St Truiden,2.0,0.0,H,1.0,0.0,H,2.8,3.5,2.37,2.99,3.39,2.42,2.88,3.36,2.4,1.9,1.95,1.88,1.91,0.25,1.77,2.1,RFC Seraing,Sint-Truiden,rfc_seraing,sint_truiden
+2021-12-14,B1,Belgium-JPL,2122,Anderlecht,St Truiden,2.0,0.0,H,0.0,0.0,D,1.4,4.75,6.5,1.43,4.65,7.96,1.41,4.66,7.31,1.66,2.15,1.68,2.16,-1.25,1.93,1.93,Anderlecht,Sint-Truiden,anderlecht,sint_truiden
+2021-12-18,B1,Belgium-JPL,2122,Gent,St Truiden,2.0,1.0,H,1.0,0.0,H,1.4,4.75,8.0,1.35,4.87,9.38,1.36,4.76,8.54,1.85,2.0,1.8,2.0,-1.25,1.85,2.0,KAA Gent,Sint-Truiden,kaa_gent,sint_truiden
+2022-01-15,B1,Belgium-JPL,2122,Club Brugge,St Truiden,2.0,0.0,H,1.0,0.0,H,1.28,5.75,9.0,1.28,5.87,10.29,1.28,5.66,9.46,1.53,2.4,1.53,2.43,-1.5,1.85,2.0,Club Brugge,Sint-Truiden,club_brugge,sint_truiden
+2022-01-25,B1,Belgium-JPL,2122,Antwerp,St Truiden,1.0,1.0,D,1.0,0.0,H,1.85,3.6,4.0,1.88,3.62,4.41,1.85,3.55,4.16,2.0,1.85,1.97,1.82,-0.5,1.88,1.98,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2022-02-05,B1,Belgium-JPL,2122,Kortrijk,St Truiden,1.0,3.0,A,0.0,2.0,A,2.25,3.5,3.0,2.3,3.54,3.05,2.31,3.41,2.97,2.0,1.85,1.96,1.82,-0.25,2.0,1.85,KV Kortrijk,Sint-Truiden,kv_kortrijk,sint_truiden
+2022-02-13,B1,Belgium-JPL,2122,St. Gilloise,St Truiden,0.0,1.0,A,0.0,0.0,D,1.33,5.0,8.0,1.42,4.6,7.83,1.39,4.66,7.94,1.75,2.05,1.76,2.05,-1.25,1.8,2.05,St. Gilloise,Sint-Truiden,st_gilloise,sint_truiden
+2022-02-26,B1,Belgium-JPL,2122,Oostende,St Truiden,0.0,0.0,D,0.0,0.0,D,2.3,3.5,2.5,2.59,3.49,2.69,2.51,3.43,2.67,1.9,1.95,1.87,1.91,0.0,1.85,2.0,KV Oostende,Sint-Truiden,kv_oostende,sint_truiden
+2022-03-13,B1,Belgium-JPL,2122,Genk,St Truiden,0.0,1.0,A,0.0,1.0,A,1.44,4.33,7.0,1.44,4.68,6.93,1.46,4.52,6.45,1.66,2.15,1.65,2.19,-1.25,2.0,1.8,Genk,Sint-Truiden,genk,sint_truiden
+2022-04-02,B1,Belgium-JPL,2122,Waregem,St Truiden,0.0,2.0,A,0.0,0.0,D,2.87,3.3,2.5,2.79,3.47,2.52,2.76,3.4,2.46,1.88,1.98,1.84,1.95,0.0,2.05,1.8,Zulte Waregem,Sint-Truiden,zulte_waregem,sint_truiden
+2022-07-30,B1,Belgium-JPL,2223,Gent,St Truiden,1.0,1.0,D,1.0,0.0,H,1.5,4.2,5.5,1.53,4.31,6.61,1.54,4.08,6.04,1.93,1.93,1.91,1.87,-1.0,1.95,1.9,KAA Gent,Sint-Truiden,kaa_gent,sint_truiden
+2022-08-06,B1,Belgium-JPL,2223,Kortrijk,St Truiden,0.0,0.0,D,0.0,0.0,D,3.0,3.2,2.3,3.27,3.32,2.34,3.07,3.26,2.33,2.05,1.75,2.05,1.75,0.25,1.85,2.0,KV Kortrijk,Sint-Truiden,kv_kortrijk,sint_truiden
+2022-08-20,B1,Belgium-JPL,2223,Oostende,St Truiden,0.0,1.0,A,0.0,1.0,A,3.2,3.25,2.25,3.22,3.5,2.29,3.12,3.33,2.27,2.05,1.75,2.07,1.74,0.25,1.85,2.0,KV Oostende,Sint-Truiden,kv_oostende,sint_truiden
+2022-09-03,B1,Belgium-JPL,2223,Genk,St Truiden,0.0,0.0,D,0.0,0.0,D,1.65,4.0,5.0,1.66,4.18,5.11,1.65,4.03,4.82,1.66,2.15,1.68,2.15,-0.75,1.85,2.0,Genk,Sint-Truiden,genk,sint_truiden
+2022-09-17,B1,Belgium-JPL,2223,Waregem,St Truiden,0.0,3.0,A,0.0,1.0,A,2.87,3.25,2.45,2.89,3.51,2.49,2.82,3.37,2.43,1.93,1.93,1.9,1.88,0.25,1.75,2.05,Zulte Waregem,Sint-Truiden,zulte_waregem,sint_truiden
+2022-10-07,B1,Belgium-JPL,2223,Antwerp,St Truiden,2.0,0.0,H,1.0,0.0,H,1.9,3.6,3.8,1.97,3.41,4.29,1.94,3.41,3.99,2.15,1.66,2.14,1.7,-0.5,1.93,1.93,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2022-10-19,B1,Belgium-JPL,2223,Club Brugge,St Truiden,3.0,0.0,H,1.0,0.0,H,1.5,4.5,5.75,1.48,4.73,6.62,1.46,4.49,6.55,1.75,2.05,1.75,2.05,-1.0,1.77,2.02,Club Brugge,Sint-Truiden,club_brugge,sint_truiden
+2022-10-29,B1,Belgium-JPL,2223,Westerlo,St Truiden,2.0,3.0,A,0.0,2.0,A,2.2,3.25,3.4,2.25,3.44,3.34,2.19,3.33,3.26,2.07,1.72,2.05,1.75,-0.25,1.9,1.95,KVC Westerlo,Sint-Truiden,kvc_westerlo,sint_truiden
+2022-11-05,B1,Belgium-JPL,2223,Seraing,St Truiden,1.0,2.0,A,1.0,0.0,H,3.6,3.2,2.1,3.73,3.4,2.12,3.6,3.32,2.07,2.15,1.66,2.16,1.68,0.25,2.1,1.77,RFC Seraing,Sint-Truiden,rfc_seraing,sint_truiden
+2023-01-06,B1,Belgium-JPL,2223,Standard,St Truiden,1.0,1.0,D,0.0,0.0,D,2.2,3.25,3.0,2.43,3.17,3.27,2.37,3.17,3.09,2.25,1.62,2.27,1.63,-0.25,2.05,1.8,Standard Liege,Sint-Truiden,standard_liege,sint_truiden
+2023-01-14,B1,Belgium-JPL,2223,Eupen,St Truiden,0.0,2.0,A,0.0,1.0,A,2.9,3.4,2.3,3.03,3.35,2.41,2.95,3.32,2.37,2.02,1.83,1.98,1.82,0.25,1.8,2.05,KAS Eupen,Sint-Truiden,kas_eupen,sint_truiden
+2023-01-28,B1,Belgium-JPL,2223,Oud-Heverlee Leuven,St Truiden,1.0,1.0,D,0.0,1.0,A,2.25,3.3,2.9,2.34,3.49,3.14,2.31,3.38,2.99,2.0,1.85,1.95,1.85,-0.25,2.02,1.83,Oud-Heverlee Leuven,Sint-Truiden,oud_heverlee_leuven,sint_truiden
+2023-02-12,B1,Belgium-JPL,2223,Anderlecht,St Truiden,3.0,1.0,H,0.0,0.0,D,1.83,3.4,4.0,1.81,3.61,4.56,1.86,3.51,4.22,2.08,1.73,2.08,1.73,-0.5,1.83,2.02,Anderlecht,Sint-Truiden,anderlecht,sint_truiden
+2023-02-26,B1,Belgium-JPL,2223,Charleroi,St Truiden,1.0,0.0,H,0.0,0.0,D,2.05,3.5,3.6,2.02,3.48,3.8,2.05,3.42,3.56,2.1,1.7,2.11,1.72,-0.25,1.73,2.08,Sporting Charleroi,Sint-Truiden,sporting_charleroi,sint_truiden
+2023-03-11,B1,Belgium-JPL,2223,Mechelen,St Truiden,1.0,0.0,H,0.0,0.0,D,2.15,3.25,3.1,2.28,3.37,3.35,2.24,3.28,3.16,2.05,1.75,2.06,1.75,-0.25,1.95,1.9,KV Mechelen,Sint-Truiden,kv_mechelen,sint_truiden
+2023-04-02,B1,Belgium-JPL,2223,St. Gilloise,St Truiden,2.0,1.0,H,0.0,0.0,D,1.44,4.5,6.5,1.45,4.27,7.87,1.45,4.31,6.99,1.9,1.95,1.89,1.89,-1.0,1.75,2.13,St. Gilloise,Sint-Truiden,st_gilloise,sint_truiden
+2023-04-15,B1,Belgium-JPL,2223,Cercle Brugge,St Truiden,3.0,1.0,H,2.0,0.0,H,1.67,3.75,5.0,1.72,3.94,4.99,1.69,3.81,4.85,1.93,1.93,1.89,1.89,-0.75,1.88,1.98,Cercle Brugge,Sint-Truiden,cercle_brugge,sint_truiden
+2023-08-06,B1,Belgium-JPL,2324,Kortrijk,St Truiden,0.0,1.0,A,0.0,0.0,D,2.8,3.4,2.45,2.85,3.35,2.53,2.8,3.36,2.44,2.03,1.83,1.95,1.83,0.0,2.05,1.8,KV Kortrijk,Sint-Truiden,kv_kortrijk,sint_truiden
+2023-08-20,B1,Belgium-JPL,2324,Gent,St Truiden,2.0,2.0,D,1.0,2.0,A,1.4,4.75,7.5,1.44,4.89,6.52,1.41,4.71,6.99,1.73,2.08,1.73,2.09,-1.25,1.95,1.9,KAA Gent,Sint-Truiden,kaa_gent,sint_truiden
+2023-09-03,B1,Belgium-JPL,2324,Charleroi,St Truiden,1.0,1.0,D,0.0,0.0,D,2.25,3.3,3.2,2.23,3.43,3.28,2.24,3.38,3.14,2.05,1.8,2.01,1.78,-0.25,1.95,1.9,Sporting Charleroi,Sint-Truiden,sporting_charleroi,sint_truiden
+2023-09-24,B1,Belgium-JPL,2324,Genk,St Truiden,3.0,3.0,D,0.0,3.0,A,1.55,4.33,5.25,1.58,4.34,5.35,1.57,4.23,5.33,1.67,2.15,1.69,2.14,-1.0,1.98,1.88,Genk,Sint-Truiden,genk,sint_truiden
+2023-10-01,B1,Belgium-JPL,2324,Club Brugge,St Truiden,1.0,1.0,D,0.0,0.0,D,1.36,4.75,8.5,1.38,5.12,7.61,1.39,4.91,7.36,1.62,2.25,1.58,2.34,-1.25,1.85,2.0,Club Brugge,Sint-Truiden,club_brugge,sint_truiden
+2023-10-22,B1,Belgium-JPL,2324,Oud-Heverlee Leuven,St Truiden,4.0,0.0,H,2.0,0.0,H,2.3,3.5,2.88,2.24,3.58,3.13,2.26,3.51,3.0,1.73,2.08,1.74,2.07,-0.25,1.98,1.88,Oud-Heverlee Leuven,Sint-Truiden,oud_heverlee_leuven,sint_truiden
+2023-11-10,B1,Belgium-JPL,2324,Westerlo,St Truiden,3.0,3.0,D,2.0,1.0,H,2.6,3.4,2.6,2.65,3.52,2.69,2.59,3.47,2.57,1.88,1.98,1.81,1.99,0.0,1.93,1.93,KVC Westerlo,Sint-Truiden,kvc_westerlo,sint_truiden
+2023-12-03,B1,Belgium-JPL,2324,Mechelen,St Truiden,0.0,2.0,A,0.0,2.0,A,2.15,3.3,3.4,2.22,3.38,3.36,2.16,3.43,3.3,1.9,1.95,1.86,1.92,-0.25,1.88,1.98,KV Mechelen,Sint-Truiden,kv_mechelen,sint_truiden
+2023-12-16,B1,Belgium-JPL,2324,RWD Molenbeek,St Truiden,3.0,0.0,H,1.0,0.0,H,3.4,3.4,2.15,3.42,3.43,2.22,3.33,3.38,2.16,2.03,1.83,1.96,1.84,0.25,1.98,1.88,RWD Molenbeek,Sint-Truiden,rwd_molenbeek,sint_truiden
+2023-12-27,B1,Belgium-JPL,2324,Standard,St Truiden,1.0,1.0,D,0.0,0.0,D,2.38,3.1,3.2,2.37,3.34,3.1,2.34,3.32,3.01,2.05,1.8,1.96,1.82,-0.25,2.03,1.83,Standard Liege,Sint-Truiden,standard_liege,sint_truiden
+2024-01-21,B1,Belgium-JPL,2324,St. Gilloise,St Truiden,2.0,1.0,H,1.0,1.0,D,1.33,5.25,8.5,1.34,5.23,9.04,1.32,5.09,8.79,1.7,2.1,1.69,2.14,-1.5,2.03,1.83,St. Gilloise,Sint-Truiden,st_gilloise,sint_truiden
+2024-02-04,B1,Belgium-JPL,2324,Cercle Brugge,St Truiden,4.0,1.0,H,2.0,0.0,H,1.85,3.6,3.8,1.85,3.8,4.08,1.86,3.72,3.86,1.73,2.08,1.74,2.08,-0.5,1.88,1.98,Cercle Brugge,Sint-Truiden,cercle_brugge,sint_truiden
+2024-02-18,B1,Belgium-JPL,2324,Anderlecht,St Truiden,4.0,1.0,H,0.0,1.0,A,1.62,3.75,5.75,1.61,4.22,5.28,1.62,4.0,5.11,1.85,2.0,1.82,1.98,-0.75,1.8,2.05,Anderlecht,Sint-Truiden,anderlecht,sint_truiden
+2024-03-03,B1,Belgium-JPL,2324,Antwerp,St Truiden,3.0,0.0,H,0.0,0.0,D,1.62,4.0,4.75,1.67,4.01,5.01,1.64,3.95,4.94,1.8,2.0,1.8,1.99,-0.75,1.83,2.03,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2024-03-10,B1,Belgium-JPL,2324,Eupen,St Truiden,1.0,0.0,H,1.0,0.0,H,3.5,3.3,2.1,3.46,3.39,2.17,3.41,3.38,2.11,2.03,1.83,1.98,1.81,0.25,2.03,1.83,KAS Eupen,Sint-Truiden,kas_eupen,sint_truiden
+2024-04-05,B1,Belgium-JPL,2324,Mechelen,St Truiden,2.0,3.0,A,1.0,0.0,H,2.05,3.5,3.4,2.12,3.43,3.63,2.08,3.45,3.47,1.88,1.98,1.86,1.94,-0.25,1.83,2.03,KV Mechelen,Sint-Truiden,kv_mechelen,sint_truiden
+2024-04-20,B1,Belgium-JPL,2324,Oud-Heverlee Leuven,St Truiden,1.0,0.0,H,0.0,0.0,D,2.63,3.3,2.63,2.67,3.53,2.63,2.59,3.42,2.59,1.75,2.05,1.77,2.03,0.0,1.93,1.93,Oud-Heverlee Leuven,Sint-Truiden,oud_heverlee_leuven,sint_truiden
+2024-04-27,B1,Belgium-JPL,2324,Standard,St Truiden,1.0,1.0,D,0.0,1.0,A,2.25,3.4,3.1,2.25,3.49,3.25,2.2,3.41,3.15,1.88,1.98,1.87,1.92,-0.25,1.95,1.9,Standard Liege,Sint-Truiden,standard_liege,sint_truiden
+2024-05-03,B1,Belgium-JPL,2324,Westerlo,St Truiden,2.0,2.0,D,1.0,1.0,D,2.38,3.75,2.63,2.39,3.8,2.79,2.36,3.71,2.7,1.5,2.5,1.51,2.51,-0.25,2.05,1.75,KVC Westerlo,Sint-Truiden,kvc_westerlo,sint_truiden
+2024-05-25,B1,Belgium-JPL,2324,Gent,St Truiden,2.0,0.0,H,0.0,0.0,D,1.5,4.5,5.25,1.52,4.74,5.3,1.51,4.63,5.26,1.4,2.88,1.39,2.87,-1.0,1.83,2.03,KAA Gent,Sint-Truiden,kaa_gent,sint_truiden
+2024-07-27,B1,Belgium-JPL,2425,Anderlecht,St Truiden,1.0,0.0,H,0.0,0.0,D,1.5,3.9,5.75,1.51,4.36,5.91,1.51,4.32,5.85,1.65,2.2,1.64,2.22,-1.0,1.85,2.0,Anderlecht,Sint-Truiden,anderlecht,sint_truiden
+2024-08-11,B1,Belgium-JPL,2425,Antwerp,St Truiden,6.0,1.0,H,2.0,0.0,H,1.38,4.5,8.0,1.37,4.89,7.68,1.38,4.84,7.47,1.57,2.35,1.58,2.35,-1.25,1.85,2.0,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2024-09-01,B1,Belgium-JPL,2425,Kortrijk,St Truiden,1.0,1.0,D,0.0,1.0,A,2.05,3.5,3.3,2.12,3.46,3.4,2.1,3.49,3.34,1.88,1.98,1.85,1.94,-0.25,1.83,2.03,KV Kortrijk,Sint-Truiden,kv_kortrijk,sint_truiden
+2024-09-21,B1,Belgium-JPL,2425,Beerschot VA,St Truiden,0.0,3.0,A,0.0,1.0,A,2.4,3.3,2.7,2.57,3.28,2.78,2.53,3.3,2.74,1.9,1.95,1.88,1.91,0.0,1.85,2.0,Beerschot VA,Sint-Truiden,beerschot_va,sint_truiden
+2024-09-29,B1,Belgium-JPL,2425,Cercle Brugge,St Truiden,1.0,1.0,D,1.0,0.0,H,1.65,3.75,4.5,1.68,4.06,4.56,1.68,3.99,4.55,1.65,2.2,1.64,2.23,-0.75,,,Cercle Brugge,Sint-Truiden,cercle_brugge,sint_truiden
+2024-10-20,B1,Belgium-JPL,2425,Genk,St Truiden,3.0,2.0,H,3.0,1.0,H,1.38,4.5,7.0,1.4,4.9,6.98,1.4,4.84,6.82,1.5,2.5,1.49,2.51,-1.25,1.82,1.92,Genk,Sint-Truiden,genk,sint_truiden
+2024-11-02,B1,Belgium-JPL,2425,Standard,St Truiden,2.0,1.0,H,2.0,0.0,H,2.2,3.2,3.3,2.18,3.31,3.38,2.17,3.31,3.35,2.05,1.75,2.01,1.79,-0.25,1.9,1.95,Standard Liege,Sint-Truiden,standard_liege,sint_truiden
+2024-11-23,B1,Belgium-JPL,2425,Club Brugge,St Truiden,7.0,0.0,H,3.0,0.0,H,1.36,5.25,8.0,1.36,5.2,7.43,1.35,5.24,7.7,1.53,2.4,1.51,2.48,-1.5,1.98,1.88,Club Brugge,Sint-Truiden,club_brugge,sint_truiden
+2024-12-07,B1,Belgium-JPL,2425,Gent,St Truiden,2.0,0.0,H,1.0,0.0,H,1.8,3.8,4.0,1.79,3.88,4.12,1.8,3.83,4.06,1.7,2.1,1.69,2.12,-0.75,2.03,1.78,KAA Gent,Sint-Truiden,kaa_gent,sint_truiden
+2024-12-21,B1,Belgium-JPL,2425,Charleroi,St Truiden,2.0,1.0,H,1.0,0.0,H,1.95,3.5,3.7,1.97,3.31,4.06,1.96,3.44,3.8,1.9,1.95,1.86,1.92,-0.5,1.98,1.88,Sporting Charleroi,Sint-Truiden,sporting_charleroi,sint_truiden
+2025-01-11,B1,Belgium-JPL,2425,Westerlo,St Truiden,1.0,2.0,A,1.0,1.0,D,2.0,3.8,3.2,2.04,3.46,3.59,2.01,3.68,3.37,1.53,2.4,1.51,2.45,-0.5,2.05,1.8,KVC Westerlo,Sint-Truiden,kvc_westerlo,sint_truiden
+2025-02-02,B1,Belgium-JPL,2425,St. Gilloise,St Truiden,2.0,1.0,H,0.0,0.0,D,1.44,4.33,7.0,1.43,4.34,7.39,1.42,4.51,7.19,1.62,2.25,1.62,2.24,-1.25,1.98,1.88,St. Gilloise,Sint-Truiden,st_gilloise,sint_truiden
+2025-02-08,B1,Belgium-JPL,2425,Dender,St Truiden,2.0,1.0,H,1.0,0.0,H,2.7,3.4,2.5,2.71,3.36,2.58,2.72,3.36,2.53,1.98,1.88,1.93,1.85,0.0,1.98,1.88,Dender,Sint-Truiden,dender,sint_truiden
+2025-02-21,B1,Belgium-JPL,2425,Mechelen,St Truiden,1.0,1.0,D,1.0,0.0,H,1.8,3.8,4.1,1.82,3.97,4.28,1.8,3.9,4.06,1.57,2.35,1.56,2.37,-0.75,1.97,1.77,KV Mechelen,Sint-Truiden,kv_mechelen,sint_truiden
+2025-03-16,B1,Belgium-JPL,2425,Oud-Heverlee Leuven,St Truiden,3.0,2.0,H,1.0,1.0,D,2.6,3.0,3.0,2.61,3.02,2.99,2.53,3.03,2.93,1.92,1.82,1.93,1.85,-0.25,2.15,1.68,Oud-Heverlee Leuven,Sint-Truiden,oud_heverlee_leuven,sint_truiden
+2025-03-29,B1,Belgium-JPL,2425,Beerschot VA,St Truiden,0.0,1.0,A,0.0,0.0,D,3.3,3.5,2.15,3.32,3.74,2.12,3.21,3.54,2.12,1.75,2.05,1.75,2.05,0.25,2.0,1.85,Beerschot VA,Sint-Truiden,beerschot_va,sint_truiden
+2025-04-26,B1,Belgium-JPL,2425,Cercle Brugge,St Truiden,3.0,1.0,H,2.0,0.0,H,2.05,3.5,3.5,2.07,3.53,3.51,2.04,3.5,3.44,1.8,2.0,1.77,2.02,-0.25,1.75,2.05,Cercle Brugge,Sint-Truiden,cercle_brugge,sint_truiden
+2025-05-10,B1,Belgium-JPL,2425,Kortrijk,St Truiden,2.0,2.0,D,2.0,2.0,D,3.1,3.6,2.2,3.17,3.53,2.22,3.07,3.52,2.19,1.73,2.08,1.74,2.05,0.25,1.93,1.93,KV Kortrijk,Sint-Truiden,kv_kortrijk,sint_truiden
+2025-08-03,B1,Belgium-JPL,2526,Charleroi,St Truiden,1.0,1.0,D,1.0,1.0,D,2.0,3.6,3.7,2.01,3.5,3.74,1.98,3.54,3.47,1.75,2.05,1.73,2.01,-0.5,2.0,1.8,Sporting Charleroi,Sint-Truiden,sporting_charleroi,sint_truiden
+2025-08-23,B1,Belgium-JPL,2526,Waregem,St Truiden,0.0,2.0,A,0.0,0.0,D,2.6,3.6,2.5,2.63,3.66,2.52,2.58,3.58,2.46,1.67,2.15,1.64,2.15,0.0,1.93,1.88,Zulte Waregem,Sint-Truiden,zulte_waregem,sint_truiden
+2025-08-29,B1,Belgium-JPL,2526,Cercle Brugge,St Truiden,1.0,1.0,D,1.0,1.0,D,2.1,3.4,3.1,2.19,3.65,3.29,2.15,3.51,3.12,1.75,2.05,1.76,1.98,-0.25,1.85,1.95,Cercle Brugge,Sint-Truiden,cercle_brugge,sint_truiden
+2025-09-21,B1,Belgium-JPL,2526,Club Brugge,St Truiden,2.0,0.0,H,1.0,0.0,H,1.42,5.25,5.25,1.43,5.4,5.8,1.41,4.83,6.36,1.48,2.6,1.47,2.52,-1.25,1.9,1.9,Club Brugge,Sint-Truiden,club_brugge,sint_truiden
+2025-10-04,B1,Belgium-JPL,2526,Mechelen,St Truiden,1.0,3.0,A,1.0,0.0,H,2.1,3.6,3.0,2.22,3.49,3.2,2.12,3.58,3.1,1.73,2.08,1.7,2.05,-0.25,1.88,1.93,KV Mechelen,Sint-Truiden,kv_mechelen,sint_truiden
+2025-10-26,B1,Belgium-JPL,2526,St. Gilloise,St Truiden,2.0,0.0,H,0.0,0.0,D,1.36,4.75,7.5,1.36,5.12,8.04,1.35,4.92,7.66,1.6,2.3,1.57,2.27,-1.5,2.05,1.75,St. Gilloise,Sint-Truiden,st_gilloise,sint_truiden
+2025-11-23,B1,Belgium-JPL,2526,Oud-Heverlee Leuven,St Truiden,1.0,2.0,A,1.0,2.0,A,2.5,3.1,2.7,,,,2.55,3.19,2.72,1.93,1.88,1.91,1.8,0.0,1.85,1.95,Oud-Heverlee Leuven,Sint-Truiden,oud_heverlee_leuven,sint_truiden
+2025-11-30,B1,Belgium-JPL,2526,Gent,St Truiden,1.0,2.0,A,1.0,0.0,H,2.1,3.5,3.1,,,,2.2,3.49,3.0,1.7,2.1,1.69,2.06,-0.25,1.93,1.88,KAA Gent,Sint-Truiden,kaa_gent,sint_truiden
+2025-12-13,B1,Belgium-JPL,2526,Anderlecht,St Truiden,2.0,1.0,H,0.0,0.0,D,1.85,3.75,3.7,,,,1.86,3.68,3.77,1.67,2.15,1.64,2.14,-0.5,1.9,1.9,Anderlecht,Sint-Truiden,anderlecht,sint_truiden
+2025-12-26,B1,Belgium-JPL,2526,Standard,St Truiden,1.0,2.0,A,1.0,1.0,D,2.7,3.3,2.38,,,,2.79,3.3,2.41,1.88,1.93,1.86,1.85,0.0,2.03,1.78,Standard Liege,Sint-Truiden,standard_liege,sint_truiden
+2026-01-24,B1,Belgium-JPL,2526,RAAL La Louviere,St Truiden,1.0,2.0,A,0.0,0.0,D,3.1,3.2,2.3,,,,3.1,3.2,2.28,2.05,1.75,1.98,1.75,0.25,1.8,2.0,RAAL La Louviere,Sint-Truiden,raal_la_louviere,sint_truiden
+2026-02-06,B1,Belgium-JPL,2526,Westerlo,St Truiden,0.0,4.0,A,0.0,3.0,A,2.4,3.6,2.55,,,,2.45,3.64,2.56,1.53,2.4,1.52,2.38,0.0,1.85,1.95,KVC Westerlo,Sint-Truiden,kvc_westerlo,sint_truiden
+2026-02-21,B1,Belgium-JPL,2526,Dender,St Truiden,1.0,4.0,A,1.0,2.0,A,3.2,3.4,2.05,,,,3.28,3.48,2.06,1.8,2.0,1.76,1.96,0.25,2.0,1.8,Dender,Sint-Truiden,dender,sint_truiden
+2026-02-28,B1,Belgium-JPL,2526,Antwerp,St Truiden,1.0,0.0,H,0.0,0.0,D,3.0,3.3,2.2,,,,2.98,3.3,2.25,1.9,1.9,1.83,1.87,0.25,1.85,1.95,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2026-03-15,B1,Belgium-JPL,2526,Genk,St Truiden,1.0,0.0,H,1.0,0.0,H,2.15,3.4,3.0,,,,2.13,3.63,2.96,1.67,2.15,1.61,2.2,-0.25,1.93,1.88,Genk,Sint-Truiden,genk,sint_truiden
+2026-04-04,B1,Belgium-JPL,2526,St. Gilloise,St Truiden,1.0,0.0,H,0.0,0.0,D,1.7,3.5,4.5,,,,1.7,3.65,4.49,1.85,1.95,1.81,1.91,-0.75,1.95,1.85,St. Gilloise,Sint-Truiden,st_gilloise,sint_truiden
+2026-04-19,B1,Belgium-JPL,2526,Gent,St Truiden,0.0,0.0,D,0.0,0.0,D,2.55,3.4,2.45,,,,2.54,3.46,2.5,1.67,2.15,1.64,2.14,0.0,1.98,1.83,KAA Gent,Sint-Truiden,kaa_gent,sint_truiden
+2026-04-26,B1,Belgium-JPL,2526,Mechelen,St Truiden,1.0,4.0,A,1.0,1.0,D,3.0,3.5,2.2,,,,3.0,3.58,2.15,1.67,2.15,1.63,2.16,0.25,1.85,1.95,KV Mechelen,Sint-Truiden,kv_mechelen,sint_truiden
+2026-05-09,B1,Belgium-JPL,2526,Club Brugge,St Truiden,2.0,0.0,H,1.0,0.0,H,1.45,4.5,5.5,,,,1.47,4.6,5.5,1.44,2.7,1.4,2.73,-1.25,2.03,1.78,Club Brugge,Sint-Truiden,club_brugge,sint_truiden
+2026-05-21,B1,Belgium-JPL,2526,Anderlecht,St Truiden,3.0,1.0,H,2.0,0.0,H,2.2,3.75,3.0,,,,2.14,3.61,2.92,1.6,2.3,1.55,2.31,-0.25,1.9,1.9,Anderlecht,Sint-Truiden,anderlecht,sint_truiden
+2026-08-14,B1,Belgium-JPL,2627,Cercle Brugge,St Truiden,3.0,3.0,D,1.0,2.0,A,2.35,3.5,2.88,,,,2.3,3.51,2.81,1.7,2.1,1.69,2.08,-0.25,2.08,1.73,Cercle Brugge,Sint-Truiden,cercle_brugge,sint_truiden
+2026-08-30,B1,Belgium-JPL,2627,Antwerp,St Truiden,1.0,4.0,A,0.0,1.0,A,2.45,3.4,2.7,,,,2.42,3.41,2.65,1.8,2.0,1.75,2.0,0.0,1.8,2.0,Royal Antwerp,Sint-Truiden,royal_antwerp,sint_truiden
+2026-09-12,B1,Belgium-JPL,2627,Beveren,St Truiden,2.0,0.0,H,0.0,0.0,D,3.0,3.3,2.15,,,,2.97,3.53,2.15,1.6,2.3,1.56,2.32,0.25,1.88,1.93,Beveren,Sint-Truiden,beveren,sint_truiden
+2026-10-11,B1,Belgium-JPL,2627,Mechelen,St Truiden,4.0,3.0,H,3.0,1.0,H,3.2,3.5,2.05,,,,3.14,3.51,2.08,1.67,2.15,1.63,2.17,0.25,1.95,1.85,KV Mechelen,Sint-Truiden,kv_mechelen,sint_truiden

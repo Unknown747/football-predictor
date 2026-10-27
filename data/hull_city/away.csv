@@ -1,0 +1,120 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E1,England-Champ,2122,Preston,Hull,1.0,4.0,A,1.0,1.0,D,2.25,3.4,3.1,2.41,3.32,3.21,2.34,3.27,3.11,2.0,1.8,2.03,1.79,-0.25,2.04,1.86,Preston,Hull City,preston,hull_city
+2021-08-21,E1,England-Champ,2122,Fulham,Hull,2.0,0.0,H,2.0,0.0,H,1.36,4.75,9.5,1.42,4.79,8.03,1.41,4.63,7.85,1.85,2.0,1.83,1.99,-1.25,1.89,2.01,Fulham,Hull City,fulham,hull_city
+2021-09-11,E1,England-Champ,2122,Swansea,Hull,0.0,0.0,D,0.0,0.0,D,2.15,3.3,3.5,2.16,3.5,3.57,2.15,3.38,3.44,2.1,1.72,2.07,1.77,-0.25,1.85,2.05,Swansea City,Hull City,swansea_city,hull_city
+2021-09-14,E1,England-Champ,2122,Blackburn,Hull,2.0,0.0,H,0.0,0.0,D,1.75,3.6,5.0,1.79,3.55,5.28,1.76,3.53,5.0,2.1,1.72,2.11,1.74,-0.75,2.01,1.89,Blackburn,Hull City,blackburn,hull_city
+2021-09-25,E1,England-Champ,2122,Stoke,Hull,2.0,0.0,H,1.0,0.0,H,1.57,3.8,6.5,1.62,3.86,6.51,1.6,3.82,6.09,2.2,1.66,2.15,1.71,-1.0,2.1,1.8,Stoke City,Hull City,stoke_city,hull_city
+2021-10-16,E1,England-Champ,2122,Huddersfield,Hull,2.0,0.0,H,1.0,0.0,H,2.0,3.3,4.0,2.02,3.52,4.03,2.0,3.4,3.84,2.1,1.72,2.13,1.72,-0.5,2.01,1.89,Huddersfield,Hull City,huddersfield,hull_city
+2021-10-23,E1,England-Champ,2122,Luton,Hull,1.0,0.0,H,1.0,0.0,H,1.8,3.6,4.5,1.84,3.66,4.68,1.82,3.55,4.49,2.1,1.72,2.11,1.73,-0.5,1.82,2.08,Luton,Hull City,luton,hull_city
+2021-11-03,E1,England-Champ,2122,West Brom,Hull,1.0,0.0,H,0.0,0.0,D,1.4,4.5,9.0,1.41,4.73,8.77,1.4,4.57,8.34,1.9,1.9,1.84,1.96,-1.25,1.95,1.95,West Bromwich Albion,Hull City,west_bromwich_albion,hull_city
+2021-11-06,E1,England-Champ,2122,Barnsley,Hull,0.0,2.0,A,0.0,1.0,A,2.25,3.2,3.4,2.27,3.32,3.49,2.24,3.24,3.37,2.3,1.61,2.24,1.65,-0.25,1.94,1.96,Barnsley,Hull City,barnsley,hull_city
+2021-11-24,E1,England-Champ,2122,Cardiff,Hull,0.0,1.0,A,0.0,1.0,A,2.05,3.4,3.8,2.08,3.57,3.74,2.07,3.45,3.6,2.0,1.8,2.07,1.75,-0.25,1.81,2.09,Cardiff City,Hull City,cardiff_city,hull_city
+2021-12-04,E1,England-Champ,2122,Reading,Hull,1.0,1.0,D,1.0,0.0,H,2.4,3.3,3.0,2.48,3.29,3.13,2.42,3.27,3.0,2.1,1.72,2.06,1.76,-0.25,2.08,1.82,Reading,Hull City,reading,hull_city
+2021-12-18,E1,England-Champ,2122,Nott'm Forest,Hull,2.0,1.0,H,0.0,1.0,A,1.9,3.6,4.0,1.89,3.59,4.48,1.9,3.46,4.24,2.3,1.61,2.27,1.64,-0.5,1.91,1.99,Nottingham Forest,Hull City,nottingham_forest,hull_city
+2022-01-01,E1,England-Champ,2122,Blackpool,Hull,1.0,0.0,H,1.0,0.0,H,2.1,3.5,3.3,2.23,3.43,3.46,2.15,3.43,3.37,2.1,1.72,2.08,1.75,-0.25,1.9,2.0,Blackpool,Hull City,blackpool,hull_city
+2022-01-22,E1,England-Champ,2122,Bournemouth,Hull,0.0,1.0,A,0.0,0.0,D,1.57,4.0,6.0,1.6,4.2,5.95,1.58,4.04,5.74,1.98,1.88,1.94,1.86,-1.0,2.03,1.87,Bournemouth,Hull City,bournemouth,hull_city
+2022-02-08,E1,England-Champ,2122,Derby,Hull,3.0,1.0,H,2.0,0.0,H,2.2,3.1,3.6,2.28,3.24,3.56,2.26,3.16,3.45,2.37,1.57,2.37,1.58,-0.25,1.93,1.97,Derby,Hull City,derby,hull_city
+2022-02-15,E1,England-Champ,2122,Sheffield United,Hull,0.0,0.0,D,0.0,0.0,D,1.53,4.0,6.5,1.56,4.16,6.68,1.54,4.06,6.36,1.98,1.88,1.95,1.85,-1.0,1.94,1.96,Sheffield United,Hull City,sheffield_united,hull_city
+2022-02-19,E1,England-Champ,2122,QPR,Hull,1.0,1.0,D,0.0,1.0,A,1.83,3.5,4.5,1.91,3.66,4.29,1.87,3.61,4.2,2.0,1.85,1.96,1.85,-0.5,1.85,2.05,Queens Park Rangers,Hull City,queens_park_rangers,hull_city
+2022-02-26,E1,England-Champ,2122,Peterboro,Hull,0.0,3.0,A,0.0,1.0,A,2.6,3.25,2.75,2.75,3.32,2.76,2.65,3.25,2.72,2.1,1.72,2.09,1.75,0.0,1.87,2.03,Peterborough United,Hull City,peterborough_united,hull_city
+2022-03-12,E1,England-Champ,2122,Birmingham,Hull,0.0,0.0,D,0.0,0.0,D,2.1,3.3,3.75,2.13,3.35,3.84,2.12,3.3,3.6,2.2,1.66,2.19,1.67,-0.25,1.82,2.08,Birmingham,Hull City,birmingham,hull_city
+2022-03-16,E1,England-Champ,2122,Coventry,Hull,0.0,2.0,A,0.0,2.0,A,1.57,3.75,6.5,1.61,3.99,6.29,1.61,3.89,5.84,2.0,1.8,2.03,1.79,-1.0,2.02,1.77,Coventry,Hull City,coventry,hull_city
+2022-04-09,E1,England-Champ,2122,Middlesbrough,Hull,0.0,1.0,A,0.0,0.0,D,1.55,4.0,6.5,1.58,4.08,6.46,1.56,4.05,6.09,1.95,1.9,1.94,1.87,-1.0,2.0,1.9,Middlesbrough,Hull City,middlesbrough,hull_city
+2022-04-18,E1,England-Champ,2122,Millwall,Hull,2.0,1.0,H,0.0,0.0,D,1.83,3.3,5.0,1.85,3.48,5.0,1.84,3.41,4.67,2.3,1.61,2.32,1.6,-0.5,1.83,2.07,Millwall,Hull City,millwall,hull_city
+2022-04-30,E1,England-Champ,2122,Bristol City,Hull,5.0,0.0,H,3.0,0.0,H,2.2,3.5,3.2,2.21,3.68,3.29,2.21,3.52,3.18,1.9,1.95,1.89,1.91,-0.25,1.94,1.96,Bristol City,Hull City,bristol_city,hull_city
+2022-08-06,E1,England-Champ,2223,Preston,Hull,0.0,0.0,D,0.0,0.0,D,1.95,3.4,4.0,2.01,3.46,4.12,1.97,3.42,3.97,2.1,1.72,2.11,1.73,-0.5,1.99,1.91,Preston,Hull City,preston,hull_city
+2022-08-16,E1,England-Champ,2223,Burnley,Hull,1.0,1.0,D,1.0,1.0,D,1.53,4.0,6.5,1.56,4.13,6.74,1.54,4.04,6.47,2.05,1.8,2.04,1.78,-1.0,1.96,1.94,Burnley,Hull City,burnley,hull_city
+2022-08-20,E1,England-Champ,2223,West Brom,Hull,5.0,2.0,H,1.0,0.0,H,1.55,4.2,6.0,1.56,4.16,6.64,1.54,4.09,6.4,1.98,1.88,1.95,1.85,-1.0,1.95,1.95,West Bromwich Albion,Hull City,west_bromwich_albion,hull_city
+2022-08-30,E1,England-Champ,2223,QPR,Hull,3.0,1.0,H,3.0,0.0,H,1.8,3.6,4.33,1.81,3.8,4.64,1.81,3.69,4.35,1.9,1.95,1.89,1.92,-0.5,1.79,2.11,Queens Park Rangers,Hull City,queens_park_rangers,hull_city
+2022-09-17,E1,England-Champ,2223,Swansea,Hull,3.0,0.0,H,0.0,0.0,D,1.8,3.6,4.75,1.82,3.82,4.58,1.82,3.66,4.34,1.93,1.93,1.89,1.9,-0.5,1.77,2.02,Swansea City,Hull City,swansea_city,hull_city
+2022-10-09,E1,England-Champ,2223,Huddersfield,Hull,2.0,0.0,H,1.0,0.0,H,2.37,3.3,3.1,2.37,3.34,3.27,2.35,3.3,3.08,2.02,1.83,2.04,1.78,-0.25,2.02,1.88,Huddersfield,Hull City,huddersfield,hull_city
+2022-10-19,E1,England-Champ,2223,Blackpool,Hull,1.0,3.0,A,1.0,2.0,A,2.05,3.4,3.75,2.1,3.43,3.85,2.07,3.4,3.6,2.05,1.8,2.04,1.77,-0.5,2.07,1.83,Blackpool,Hull City,blackpool,hull_city
+2022-10-22,E1,England-Champ,2223,Rotherham,Hull,2.0,4.0,A,1.0,1.0,D,2.25,3.3,3.3,2.34,3.31,3.35,2.27,3.29,3.21,2.2,1.66,2.16,1.69,-0.25,1.99,1.91,Rotherham United,Hull City,rotherham_united,hull_city
+2022-11-05,E1,England-Champ,2223,Millwall,Hull,0.0,0.0,D,0.0,0.0,D,1.83,3.6,4.5,1.83,3.58,4.88,1.84,3.49,4.49,2.2,1.66,2.16,1.69,-0.5,1.84,2.06,Millwall,Hull City,millwall,hull_city
+2022-11-08,E1,England-Champ,2223,Cardiff,Hull,2.0,3.0,A,0.0,1.0,A,2.05,3.25,3.8,2.11,3.34,3.9,2.06,3.31,3.76,2.2,1.66,2.23,1.65,-0.5,2.09,1.81,Cardiff City,Hull City,cardiff_city,hull_city
+2022-12-11,E1,England-Champ,2223,Watford,Hull,0.0,0.0,D,0.0,0.0,D,1.7,3.6,5.5,1.68,3.85,5.67,1.68,3.72,5.3,2.0,1.85,1.98,1.82,-0.75,1.88,2.02,Watford,Hull City,watford,hull_city
+2022-12-30,E1,England-Champ,2223,Birmingham,Hull,0.0,1.0,A,0.0,0.0,D,1.95,3.3,4.0,2.03,3.37,4.17,2.01,3.36,3.86,2.2,1.67,2.21,1.66,-0.5,2.02,1.88,Birmingham,Hull City,birmingham,hull_city
+2023-01-02,E1,England-Champ,2223,Wigan,Hull,1.0,4.0,A,0.0,1.0,A,2.45,3.3,2.88,2.56,3.37,2.94,2.45,3.31,2.91,2.1,1.73,2.07,1.75,-0.25,2.08,1.73,Wigan Athletic,Hull City,wigan_athletic,hull_city
+2023-01-20,E1,England-Champ,2223,Sheffield United,Hull,1.0,0.0,H,1.0,0.0,H,1.7,3.75,5.25,1.7,3.81,5.53,1.69,3.73,5.1,2.0,1.85,1.95,1.85,-0.75,1.9,2.0,Sheffield United,Hull City,sheffield_united,hull_city
+2023-02-11,E1,England-Champ,2223,Stoke,Hull,0.0,0.0,D,0.0,0.0,D,2.05,3.3,3.8,2.09,3.38,3.94,2.05,3.34,3.72,2.2,1.67,2.22,1.66,-0.5,2.07,1.83,Stoke City,Hull City,stoke_city,hull_city
+2023-02-14,E1,England-Champ,2223,Norwich,Hull,3.0,1.0,H,1.0,1.0,D,1.8,3.75,4.33,1.85,3.72,4.55,1.82,3.65,4.36,1.95,1.9,1.94,1.86,-0.75,2.02,1.77,Norwich City,Hull City,norwich_city,hull_city
+2023-02-25,E1,England-Champ,2223,Bristol City,Hull,1.0,0.0,H,0.0,0.0,D,2.38,3.2,3.1,2.4,3.2,3.29,2.34,3.24,3.14,2.2,1.67,2.18,1.68,-0.25,2.05,1.85,Bristol City,Hull City,bristol_city,hull_city
+2023-03-11,E1,England-Champ,2223,Coventry,Hull,1.0,1.0,D,0.0,0.0,D,1.95,3.3,4.1,2.05,3.39,4.09,2.02,3.33,3.82,2.2,1.67,2.24,1.64,-0.5,2.04,1.86,Coventry,Hull City,coventry,hull_city
+2023-03-18,E1,England-Champ,2223,Reading,Hull,1.0,1.0,D,1.0,1.0,D,2.75,3.4,2.5,2.92,3.27,2.64,2.85,3.17,2.57,2.38,1.57,2.34,1.59,0.0,2.04,1.86,Reading,Hull City,reading,hull_city
+2023-04-07,E1,England-Champ,2223,Sunderland,Hull,4.0,4.0,D,2.0,2.0,D,2.0,3.3,4.0,2.04,3.42,4.08,2.01,3.4,3.83,2.1,1.73,2.09,1.74,-0.5,2.02,1.88,Sunderland,Hull City,sunderland,hull_city
+2023-04-15,E1,England-Champ,2223,Blackburn,Hull,0.0,0.0,D,0.0,0.0,D,1.85,3.5,4.33,1.87,3.67,4.49,1.85,3.55,4.31,2.1,1.73,2.1,1.73,-0.5,1.85,2.05,Blackburn,Hull City,blackburn,hull_city
+2023-04-19,E1,England-Champ,2223,Middlesbrough,Hull,3.0,1.0,H,0.0,1.0,A,1.45,4.5,6.5,1.47,4.73,7.13,1.46,4.56,6.64,1.67,2.2,1.67,2.19,-1.25,2.07,1.83,Middlesbrough,Hull City,middlesbrough,hull_city
+2023-05-08,E1,England-Champ,2223,Luton,Hull,0.0,0.0,D,0.0,0.0,D,1.62,3.8,5.5,1.65,4.1,5.39,1.64,3.92,5.27,1.93,1.93,1.9,1.89,-0.75,1.84,2.06,Luton,Hull City,luton,hull_city
+2023-08-05,E1,England-Champ,2324,Norwich,Hull,2.0,1.0,H,1.0,1.0,D,1.75,3.5,5.0,1.8,3.71,4.87,1.77,3.65,4.65,2.03,1.83,1.98,1.82,-0.75,2.04,1.86,Norwich City,Hull City,norwich_city,hull_city
+2023-08-19,E1,England-Champ,2324,Blackburn,Hull,1.0,2.0,A,0.0,0.0,D,1.95,3.5,3.9,1.93,3.77,4.04,1.91,3.63,3.93,1.88,1.98,1.85,1.95,-0.5,1.92,1.98,Blackburn,Hull City,blackburn,hull_city
+2023-09-02,E1,England-Champ,2324,Leicester,Hull,0.0,1.0,A,0.0,1.0,A,1.57,4.2,5.5,1.54,4.67,5.95,1.53,4.44,5.7,1.62,2.3,1.62,2.29,-1.0,1.89,2.01,Leicester City,Hull City,leicester_city,hull_city
+2023-09-24,E1,England-Champ,2324,Stoke,Hull,1.0,3.0,A,0.0,2.0,A,1.91,3.75,3.8,1.95,3.78,3.97,1.91,3.7,3.82,1.9,1.95,1.86,1.94,-0.5,1.94,1.96,Stoke City,Hull City,stoke_city,hull_city
+2023-10-03,E1,England-Champ,2324,Ipswich,Hull,3.0,0.0,H,2.0,0.0,H,1.7,4.0,4.75,1.76,3.99,4.74,1.72,4.0,4.53,1.65,2.2,1.64,2.25,-0.75,1.98,1.92,Ipswich,Hull City,ipswich,hull_city
+2023-10-07,E1,England-Champ,2324,Millwall,Hull,2.0,2.0,D,1.0,2.0,A,2.3,3.4,3.1,2.32,3.48,3.23,2.29,3.36,3.12,2.03,1.83,2.03,1.78,-0.25,2.0,1.9,Millwall,Hull City,millwall,hull_city
+2023-10-25,E1,England-Champ,2324,Birmingham,Hull,0.0,2.0,A,0.0,1.0,A,2.3,3.25,3.2,2.38,3.36,3.22,2.31,3.33,3.14,2.05,1.8,2.04,1.77,-0.25,2.01,1.89,Birmingham,Hull City,birmingham,hull_city
+2023-11-04,E1,England-Champ,2324,West Brom,Hull,3.0,1.0,H,1.0,1.0,D,2.05,3.2,3.8,2.07,3.48,3.86,2.09,3.37,3.62,2.05,1.75,2.1,1.74,-0.25,1.79,2.11,West Bromwich Albion,Hull City,west_bromwich_albion,hull_city
+2023-11-25,E1,England-Champ,2324,Swansea,Hull,2.0,2.0,D,2.0,0.0,H,2.6,3.2,2.8,2.63,3.33,2.88,2.56,3.3,2.8,2.0,1.85,2.01,1.8,0.0,1.87,2.03,Swansea City,Hull City,swansea_city,hull_city
+2023-12-09,E1,England-Champ,2324,QPR,Hull,2.0,0.0,H,1.0,0.0,H,3.2,3.25,2.3,3.21,3.35,2.39,3.12,3.29,2.32,2.1,1.7,2.09,1.73,0.25,1.85,2.05,Queens Park Rangers,Hull City,queens_park_rangers,hull_city
+2023-12-13,E1,England-Champ,2324,Middlesbrough,Hull,1.0,2.0,A,1.0,0.0,H,1.83,3.8,4.0,1.89,3.88,4.1,1.86,3.77,4.01,1.85,2.0,1.81,1.99,-0.5,1.88,2.02,Middlesbrough,Hull City,middlesbrough,hull_city
+2023-12-22,E1,England-Champ,2324,Bristol City,Hull,3.0,2.0,H,1.0,2.0,A,2.7,3.3,2.63,2.88,3.2,2.72,2.73,3.23,2.65,2.15,1.67,2.15,1.7,0.0,1.99,1.91,Bristol City,Hull City,bristol_city,hull_city
+2024-01-01,E1,England-Champ,2324,Sheffield Weds,Hull,3.0,1.0,H,0.0,0.0,D,3.1,3.2,2.38,3.23,3.22,2.46,3.1,3.22,2.37,2.1,1.7,2.1,1.73,0.25,1.84,2.06,Sheffield Wednesday,Hull City,sheffield_wednesday,hull_city
+2024-01-19,E1,England-Champ,2324,Sunderland,Hull,0.0,1.0,A,0.0,0.0,D,1.85,3.6,4.33,1.86,3.71,4.47,1.84,3.6,4.31,1.98,1.88,1.92,1.88,-0.5,1.86,2.04,Sunderland,Hull City,sunderland,hull_city
+2024-02-13,E1,England-Champ,2324,Rotherham,Hull,1.0,2.0,A,1.0,0.0,H,5.0,3.4,1.8,4.91,3.57,1.83,4.63,3.44,1.83,2.3,1.6,2.33,1.61,0.5,2.08,1.82,Rotherham United,Hull City,rotherham_united,hull_city
+2024-02-17,E1,England-Champ,2324,Huddersfield,Hull,1.0,2.0,A,0.0,1.0,A,3.2,3.3,2.3,3.21,3.36,2.39,3.14,3.31,2.3,2.05,1.75,2.03,1.79,0.25,1.87,2.03,Huddersfield,Hull City,huddersfield,hull_city
+2024-02-20,E1,England-Champ,2324,Southampton,Hull,1.0,2.0,A,0.0,2.0,A,1.57,4.33,5.5,1.56,4.64,5.75,1.54,4.46,5.56,1.53,2.4,1.53,2.47,-1.0,1.91,1.99,Southampton,Hull City,southampton,hull_city
+2024-03-02,E1,England-Champ,2324,Preston,Hull,0.0,0.0,D,0.0,0.0,D,2.8,3.25,2.55,2.96,3.3,2.59,2.82,3.27,2.54,2.05,1.75,2.04,1.78,0.0,2.07,1.83,Preston,Hull City,preston,hull_city
+2024-04-01,E1,England-Champ,2324,Leeds,Hull,3.0,1.0,H,1.0,1.0,D,1.4,5.0,7.5,1.45,4.82,6.99,1.43,4.75,6.98,1.65,2.2,1.66,2.18,-1.25,1.95,1.95,Leeds,Hull City,leeds,hull_city
+2024-04-06,E1,England-Champ,2324,Cardiff,Hull,1.0,3.0,A,0.0,2.0,A,3.1,3.3,2.38,3.25,3.29,2.37,3.13,3.28,2.33,2.1,1.73,2.15,1.7,0.25,1.87,2.03,Cardiff City,Hull City,cardiff_city,hull_city
+2024-04-20,E1,England-Champ,2324,Watford,Hull,0.0,0.0,D,0.0,0.0,D,2.9,3.5,2.38,2.95,3.5,2.45,2.86,3.45,2.4,1.83,2.03,1.82,1.98,0.25,1.81,2.09,Watford,Hull City,watford,hull_city
+2024-04-24,E1,England-Champ,2324,Coventry,Hull,2.0,3.0,A,1.0,2.0,A,2.25,3.6,3.0,2.24,3.8,3.09,2.24,3.65,3.0,1.67,2.2,1.68,2.18,-0.25,1.98,1.92,Coventry,Hull City,coventry,hull_city
+2024-05-04,E1,England-Champ,2324,Plymouth,Hull,1.0,0.0,H,1.0,0.0,H,3.5,3.75,2.0,3.51,3.88,2.03,3.38,3.73,2.03,1.62,2.3,1.63,2.26,0.5,1.85,2.05,Plymouth Argyle,Hull City,plymouth_argyle,hull_city
+2024-08-17,E1,England-Champ,2425,Plymouth,Hull,1.0,1.0,D,0.0,0.0,D,2.8,3.7,2.3,2.82,3.64,2.37,2.83,3.65,2.35,1.67,2.15,1.67,2.19,0.25,1.81,2.09,Plymouth Argyle,Hull City,plymouth_argyle,hull_city
+2024-08-31,E1,England-Champ,2425,Leeds,Hull,2.0,0.0,H,0.0,0.0,D,1.33,5.25,9.0,1.32,5.4,9.66,1.33,5.3,9.01,1.6,2.3,1.61,2.32,-1.5,2.0,1.9,Leeds,Hull City,leeds,hull_city
+2024-09-20,E1,England-Champ,2425,Stoke,Hull,1.0,3.0,A,1.0,0.0,H,2.1,3.3,3.5,2.13,3.52,3.57,2.1,3.47,3.46,1.93,1.93,1.91,1.9,-0.25,1.83,2.07,Stoke City,Hull City,stoke_city,hull_city
+2024-10-01,E1,England-Champ,2425,QPR,Hull,1.0,3.0,A,1.0,2.0,A,2.45,3.4,2.8,2.5,3.44,2.92,2.46,3.38,2.86,1.93,1.93,1.91,1.89,0.0,1.81,2.09,Queens Park Rangers,Hull City,queens_park_rangers,hull_city
+2024-10-05,E1,England-Champ,2425,Norwich,Hull,4.0,0.0,H,2.0,0.0,H,1.95,3.6,3.75,2.0,3.84,3.56,2.0,3.73,3.51,1.67,2.2,1.67,2.18,-0.5,2.03,1.87,Norwich City,Hull City,norwich_city,hull_city
+2024-10-26,E1,England-Champ,2425,Derby,Hull,1.0,1.0,D,0.0,0.0,D,2.3,3.3,3.1,2.32,3.4,3.08,2.34,3.42,3.01,1.9,1.95,1.87,1.93,-0.25,2.03,1.87,Derby,Hull City,derby,hull_city
+2024-11-05,E1,England-Champ,2425,Oxford,Hull,1.0,0.0,H,0.0,0.0,D,3.0,3.3,2.3,3.05,3.44,2.41,2.95,3.39,2.39,1.98,1.88,1.93,1.87,0.25,1.84,2.06,Oxford United,Hull City,oxford_united,hull_city
+2024-11-23,E1,England-Champ,2425,Luton,Hull,1.0,0.0,H,1.0,0.0,H,1.95,3.5,3.75,2.01,3.56,3.67,2.01,3.54,3.62,1.9,1.95,1.88,1.9,-0.5,2.04,1.86,Luton,Hull City,luton,hull_city
+2024-11-30,E1,England-Champ,2425,Middlesbrough,Hull,3.0,1.0,H,2.0,0.0,H,1.5,4.5,6.0,1.51,4.46,5.93,1.5,4.49,5.96,1.62,2.3,1.61,2.3,-1.0,1.84,2.06,Middlesbrough,Hull City,middlesbrough,hull_city
+2024-12-14,E1,England-Champ,2425,Coventry,Hull,2.0,1.0,H,0.0,1.0,A,1.73,3.6,4.75,1.73,3.96,4.75,1.75,3.81,4.52,1.8,2.0,1.79,2.02,-0.75,1.98,1.92,Coventry,Hull City,coventry,hull_city
+2024-12-26,E1,England-Champ,2425,Preston,Hull,1.0,0.0,H,0.0,0.0,D,2.25,3.3,3.2,2.28,3.26,3.29,2.24,3.29,3.19,2.1,1.73,2.08,1.73,-0.25,1.99,1.91,Preston,Hull City,preston,hull_city
+2024-12-29,E1,England-Champ,2425,Blackburn,Hull,0.0,1.0,A,0.0,0.0,D,2.0,3.5,3.6,2.03,3.4,3.77,2.02,3.38,3.66,2.1,1.73,2.06,1.74,-0.5,2.06,1.84,Blackburn,Hull City,blackburn,hull_city
+2025-01-18,E1,England-Champ,2425,Millwall,Hull,0.0,1.0,A,0.0,0.0,D,2.05,3.2,3.75,2.12,3.17,3.94,2.09,3.17,3.81,2.5,1.53,2.47,1.52,-0.25,1.81,2.09,Millwall,Hull City,millwall,hull_city
+2025-01-24,E1,England-Champ,2425,Sheffield United,Hull,0.0,3.0,A,0.0,1.0,A,1.73,3.7,4.75,1.75,3.76,5.0,1.74,3.66,4.77,2.05,1.8,2.03,1.78,-0.75,2.01,1.89,Sheffield United,Hull City,sheffield_united,hull_city
+2025-02-12,E1,England-Champ,2425,Burnley,Hull,2.0,0.0,H,2.0,0.0,H,1.67,3.5,5.5,1.69,3.56,5.46,1.69,3.54,5.45,2.38,1.57,2.35,1.59,-0.75,1.92,1.98,Burnley,Hull City,burnley,hull_city
+2025-02-22,E1,England-Champ,2425,Sunderland,Hull,0.0,1.0,A,0.0,1.0,A,1.62,3.8,5.5,1.63,3.95,5.71,1.64,3.85,5.42,2.03,1.83,2.0,1.82,-0.75,1.83,2.07,Sunderland,Hull City,sunderland,hull_city
+2025-02-25,E1,England-Champ,2425,Cardiff,Hull,1.0,0.0,H,0.0,0.0,D,2.7,3.1,2.7,2.8,3.27,2.7,2.68,3.25,2.69,2.1,1.73,2.11,1.74,0.0,1.95,1.95,Cardiff City,Hull City,cardiff_city,hull_city
+2025-03-08,E1,England-Champ,2425,Bristol City,Hull,1.0,1.0,D,0.0,1.0,A,1.9,3.5,3.9,1.93,3.5,4.21,1.93,3.44,4.04,2.15,1.62,2.15,1.69,-0.5,1.93,1.97,Bristol City,Hull City,bristol_city,hull_city
+2025-03-15,E1,England-Champ,2425,West Brom,Hull,1.0,1.0,D,0.0,0.0,D,1.9,3.5,4.0,1.9,3.38,4.33,1.91,3.39,4.19,2.1,1.73,2.12,1.71,-0.5,1.92,1.98,West Bromwich Albion,Hull City,west_bromwich_albion,hull_city
+2025-04-05,E1,England-Champ,2425,Sheffield Weds,Hull,0.0,1.0,A,0.0,0.0,D,2.0,3.5,3.75,2.02,3.33,3.92,2.0,3.39,3.79,2.1,1.73,2.1,1.72,-0.5,2.04,1.86,Sheffield Wednesday,Hull City,sheffield_wednesday,hull_city
+2025-04-08,E1,England-Champ,2425,Watford,Hull,1.0,0.0,H,0.0,0.0,D,2.38,3.3,3.0,2.48,3.25,3.11,2.4,3.23,3.02,2.2,1.67,2.19,1.67,-0.25,2.08,1.82,Watford,Hull City,watford,hull_city
+2025-04-18,E1,England-Champ,2425,Swansea,Hull,1.0,0.0,H,0.0,0.0,D,2.3,3.3,3.0,2.41,3.23,3.07,2.37,3.23,3.02,2.2,1.67,2.2,1.66,-0.25,2.07,1.83,Swansea City,Hull City,swansea_city,hull_city
+2025-05-03,E1,England-Champ,2425,Portsmouth,Hull,1.0,1.0,D,0.0,1.0,A,2.8,3.6,2.3,2.86,3.68,2.39,2.89,3.56,2.31,1.95,1.9,1.93,1.88,0.25,1.83,2.07,Portsmouth,Hull City,portsmouth,hull_city
+2025-08-09,E1,England-Champ,2526,Coventry,Hull,0.0,0.0,D,0.0,0.0,D,1.73,3.8,4.5,1.75,3.8,4.54,1.73,3.75,4.58,1.9,1.95,1.86,1.88,-0.75,1.98,1.88,Coventry,Hull City,coventry,hull_city
+2025-08-30,E1,England-Champ,2526,Bristol City,Hull,4.0,2.0,H,3.0,1.0,H,1.86,3.4,4.2,1.88,3.56,4.17,1.88,3.47,4.15,2.0,1.8,2.04,1.72,-0.5,1.93,1.93,Bristol City,Hull City,bristol_city,hull_city
+2025-09-13,E1,England-Champ,2526,Swansea,Hull,2.0,2.0,D,1.0,1.0,D,1.79,3.5,4.5,1.81,3.56,4.53,1.82,3.55,4.36,2.0,1.8,1.99,1.77,-0.5,1.83,2.03,Swansea City,Hull City,swansea_city,hull_city
+2025-09-27,E1,England-Champ,2526,Watford,Hull,2.0,1.0,H,0.0,1.0,A,2.2,3.4,3.1,2.31,3.4,3.1,2.23,3.35,3.16,1.95,1.9,1.95,1.81,-0.25,1.98,1.88,Watford,Hull City,watford,hull_city
+2025-10-18,E1,England-Champ,2526,Birmingham,Hull,2.0,3.0,A,1.0,2.0,A,1.71,3.75,4.5,1.73,3.73,4.83,1.76,3.63,4.63,2.03,1.83,1.93,1.82,-0.75,1.98,1.88,Birmingham,Hull City,birmingham,hull_city
+2025-11-01,E1,England-Champ,2526,Norwich,Hull,0.0,2.0,A,0.0,0.0,D,2.05,3.8,3.05,,,,2.08,3.66,3.26,1.73,2.1,1.7,2.09,-0.25,1.85,2.0,Norwich City,Hull City,norwich_city,hull_city
+2025-11-04,E1,England-Champ,2526,Derby,Hull,2.0,1.0,H,1.0,0.0,H,2.15,3.25,3.3,,,,2.21,3.31,3.26,2.1,1.73,2.05,1.73,-0.25,1.9,1.95,Derby,Hull City,derby,hull_city
+2025-11-22,E1,England-Champ,2526,QPR,Hull,3.0,2.0,H,1.0,1.0,D,2.05,3.25,3.6,,,,2.1,3.36,3.49,1.98,1.88,1.92,1.82,-0.25,1.83,2.03,Queens Park Rangers,Hull City,queens_park_rangers,hull_city
+2025-11-29,E1,England-Champ,2526,Stoke,Hull,1.0,2.0,A,1.0,0.0,H,1.62,3.8,5.0,1.69,3.78,5.0,1.68,3.88,4.82,1.8,2.0,1.77,1.98,-0.75,1.9,1.95,Stoke City,Hull City,stoke_city,hull_city
+2025-12-13,E1,England-Champ,2526,Millwall,Hull,1.0,3.0,A,0.0,2.0,A,1.91,3.5,3.7,1.95,3.71,3.7,1.96,3.5,3.71,1.91,1.91,1.89,1.84,-0.5,1.98,1.88,Millwall,Hull City,millwall,hull_city
+2025-12-26,E1,England-Champ,2526,Sheffield Weds,Hull,2.0,2.0,D,1.0,1.0,D,3.7,3.6,1.91,3.69,3.67,1.97,3.6,3.57,1.96,1.8,2.0,1.75,2.01,0.5,1.88,1.98,Sheffield Wednesday,Hull City,sheffield_wednesday,hull_city
+2025-12-29,E1,England-Champ,2526,Middlesbrough,Hull,0.0,1.0,A,0.0,1.0,A,1.62,3.9,4.5,1.67,4.08,4.74,1.65,3.96,4.79,1.73,2.1,1.69,2.1,-0.75,1.88,1.98,Middlesbrough,Hull City,middlesbrough,hull_city
+2026-01-17,E1,England-Champ,2526,Southampton,Hull,1.0,2.0,A,0.0,2.0,A,1.66,3.8,4.75,,,,1.7,3.97,4.5,1.67,2.2,1.62,2.2,-0.75,1.93,1.93,Southampton,Hull City,southampton,hull_city
+2026-01-20,E1,England-Champ,2526,Preston,Hull,0.0,3.0,A,0.0,2.0,A,2.25,3.2,3.2,,,,2.25,3.29,3.18,2.1,1.73,2.09,1.7,-0.25,2.0,1.85,Preston,Hull City,preston,hull_city
+2026-01-31,E1,England-Champ,2526,Blackburn,Hull,0.0,1.0,A,0.0,0.0,D,2.15,3.3,3.2,,,,2.3,3.31,3.06,2.0,1.8,2.0,1.76,-0.25,1.95,1.9,Blackburn,Hull City,blackburn,hull_city
+2026-02-28,E1,England-Champ,2526,Portsmouth,Hull,0.0,1.0,A,0.0,0.0,D,2.01,3.5,3.5,,,,2.07,3.44,3.42,2.0,1.8,1.94,1.81,-0.25,1.75,2.05,Portsmouth,Hull City,portsmouth,hull_city
+2026-03-03,E1,England-Champ,2526,Ipswich,Hull,1.0,0.0,H,0.0,0.0,D,1.42,4.33,6.25,,,,1.45,4.42,6.49,1.73,2.1,1.68,2.13,-1.0,1.75,2.05,Ipswich,Hull City,ipswich,hull_city
+2026-03-10,E1,England-Champ,2526,Wrexham,Hull,1.0,2.0,A,0.0,1.0,A,1.91,3.5,3.75,,,,1.95,3.54,3.69,1.93,1.93,1.86,1.88,-0.5,2.0,1.85,Wrexham,Hull City,wrexham,hull_city
+2026-03-14,E1,England-Champ,2526,West Brom,Hull,3.0,0.0,H,1.0,0.0,H,2.15,3.3,3.25,,,,2.18,3.37,3.2,2.0,1.8,1.94,1.79,-0.25,1.9,1.95,West Bromwich Albion,Hull City,west_bromwich_albion,hull_city
+2026-04-03,E1,England-Champ,2526,Oxford,Hull,1.0,1.0,D,1.0,1.0,D,2.45,3.2,2.85,,,,2.46,3.3,2.82,2.1,1.73,2.03,1.74,0.0,1.78,2.1,Oxford United,Hull City,oxford_united,hull_city
+2026-04-11,E1,England-Champ,2526,Sheffield United,Hull,2.0,1.0,H,0.0,1.0,A,1.76,3.7,4.1,,,,1.81,3.82,3.94,1.67,2.2,1.63,2.18,-0.5,1.83,2.03,Sheffield United,Hull City,sheffield_united,hull_city
+2026-04-21,E1,England-Champ,2526,Leicester,Hull,2.0,2.0,D,0.0,1.0,A,1.86,3.75,3.6,,,,1.94,3.74,3.54,1.73,2.1,1.73,2.03,-0.5,1.95,1.9,Leicester City,Hull City,leicester_city,hull_city
+2026-04-25,E1,England-Champ,2526,Charlton,Hull,2.0,1.0,H,1.0,1.0,D,2.82,3.2,2.45,,,,2.74,3.29,2.5,2.0,1.85,1.92,1.81,0.0,2.05,1.8,Charlton,Hull City,charlton,hull_city
+2026-08-29,E0,England-PL,2627,Coventry,Hull,0.0,1.0,A,0.0,0.0,D,1.9,3.5,4.2,,,,1.87,3.53,4.19,1.91,1.91,1.84,1.9,-0.5,1.88,1.98,Coventry,Hull City,coventry,hull_city
+2026-09-12,E0,England-PL,2627,Chelsea,Hull,2.0,2.0,D,1.0,2.0,A,1.22,6.5,11.0,,,,1.21,6.5,11.92,1.4,3.0,1.39,2.83,-2.0,2.05,1.8,Chelsea,Hull City,chelsea,hull_city
+2026-09-19,E0,England-PL,2627,Newcastle,Hull,2.0,1.0,H,2.0,0.0,H,1.6,4.33,5.0,,,,1.58,4.26,5.1,1.62,2.3,1.59,2.27,-1.0,2.0,1.85,Newcastle United,Hull City,newcastle_united,hull_city
+2026-10-17,E0,England-PL,2627,Fulham,Hull,1.0,0.0,H,1.0,0.0,H,1.73,3.9,4.5,,,,1.7,3.89,4.51,1.73,2.1,1.71,2.06,-0.75,1.93,1.93,Fulham,Hull City,fulham,hull_city

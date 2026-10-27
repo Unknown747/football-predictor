@@ -1,0 +1,24 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-21,I2,Italy-SB,2122,Cittadella,Vicenza,1.0,0.0,H,0.0,0.0,D,2.3,3.1,3.3,2.51,2.99,3.33,2.41,3.03,3.08,2.1,1.7,2.11,1.72,-0.25,2.05,1.8,Cittadella,Vicenza,cittadella,vicenza
+2021-09-12,I2,Italy-SB,2122,Cosenza,Vicenza,2.0,1.0,H,1.0,0.0,H,3.4,3.5,2.05,3.68,3.36,2.18,3.49,3.21,2.14,2.15,1.66,2.16,1.68,0.25,2.0,1.85,Cosenza,Vicenza,cosenza,vicenza
+2021-09-21,I2,Italy-SB,2122,Spal,Vicenza,3.0,2.0,H,1.0,1.0,D,1.75,3.5,4.75,1.88,3.44,4.81,1.84,3.37,4.42,2.07,1.72,2.1,1.72,-0.5,1.85,2.0,Spal,Vicenza,spal,vicenza
+2021-10-03,I2,Italy-SB,2122,Pordenone,Vicenza,2.0,4.0,A,1.0,2.0,A,2.1,2.9,3.75,2.34,2.93,3.86,2.24,2.93,3.58,2.35,1.57,2.33,1.59,-0.25,1.9,1.95,Pordenone,Vicenza,pordenone,vicenza
+2021-10-23,I2,Italy-SB,2122,Ternana,Vicenza,5.0,0.0,H,2.0,0.0,H,1.85,3.2,4.33,1.89,3.42,4.77,1.88,3.35,4.2,1.95,1.85,1.91,1.88,-0.5,1.88,1.98,Ternana,Vicenza,ternana,vicenza
+2021-11-01,I2,Italy-SB,2122,Parma,Vicenza,1.0,0.0,H,1.0,0.0,H,1.6,3.75,5.75,1.67,3.86,5.55,1.64,3.8,5.06,1.72,2.07,1.72,2.08,-0.75,1.85,2.0,Parma,Vicenza,parma,vicenza
+2021-11-06,I2,Italy-SB,2122,Ascoli,Vicenza,2.0,1.0,H,2.0,0.0,H,2.3,3.25,3.1,2.4,3.22,3.34,2.33,3.15,3.13,2.05,1.75,2.01,1.79,-0.25,2.05,1.8,Ascoli,Vicenza,ascoli,vicenza
+2021-11-26,I2,Italy-SB,2122,Crotone,Vicenza,0.0,1.0,A,0.0,0.0,D,2.1,3.3,3.5,2.17,3.32,3.76,2.1,3.28,3.5,2.0,1.85,1.99,1.81,-0.25,1.83,2.02,Crotone,Vicenza,crotone,vicenza
+2021-12-03,I2,Italy-SB,2122,Perugia,Vicenza,1.0,0.0,H,0.0,0.0,D,1.95,3.1,4.2,2.05,3.09,4.59,2.0,3.04,4.2,2.35,1.57,2.35,1.58,-0.5,2.0,1.85,Perugia,Vicenza,perugia,vicenza
+2022-01-26,I2,Italy-SB,2122,Lecce,Vicenza,2.0,1.0,H,2.0,0.0,H,1.4,4.5,6.5,1.38,4.86,9.73,1.36,4.69,8.17,1.72,2.07,1.72,2.07,-1.25,1.85,2.0,Lecce,Vicenza,lecce,vicenza
+2022-02-05,I2,Italy-SB,2122,Frosinone,Vicenza,2.0,0.0,H,1.0,0.0,H,1.72,3.4,5.0,1.76,3.6,5.44,1.73,3.52,4.85,1.98,1.88,1.95,1.83,-0.75,1.95,1.9,Frosinone,Vicenza,frosinone,vicenza
+2022-02-15,I2,Italy-SB,2122,Pisa,Vicenza,2.0,2.0,D,1.0,2.0,A,1.8,3.3,4.0,1.88,3.37,4.98,1.84,3.28,4.57,2.07,1.72,2.03,1.76,-0.5,1.85,2.0,Pisa,Vicenza,pisa,vicenza
+2022-02-22,I2,Italy-SB,2122,Cremonese,Vicenza,0.0,0.0,D,0.0,0.0,D,1.61,3.5,5.5,1.64,3.71,6.55,1.63,3.65,5.64,1.98,1.88,1.93,1.84,-0.75,1.8,2.05,Cremonese,Vicenza,cremonese,vicenza
+2022-03-02,I2,Italy-SB,2122,Reggina,Vicenza,3.0,1.0,H,2.0,0.0,H,2.25,3.1,3.4,2.43,3.08,3.43,2.3,3.08,3.26,2.2,1.65,2.22,1.63,-0.25,1.98,1.88,Reggina,Vicenza,reggina,vicenza
+2022-03-12,I2,Italy-SB,2122,Monza,Vicenza,4.0,0.0,H,1.0,0.0,H,1.65,3.75,5.25,1.69,3.73,5.87,1.64,3.75,5.24,1.83,2.02,1.85,1.93,-0.75,1.8,2.05,Monza,Vicenza,monza,vicenza
+2022-04-03,I2,Italy-SB,2122,Brescia,Vicenza,2.0,0.0,H,2.0,0.0,H,1.65,3.75,4.75,1.64,4.11,5.67,1.64,3.79,5.15,1.88,1.98,1.85,1.92,-0.75,1.85,2.0,Brescia,Vicenza,brescia,vicenza
+2022-04-10,I2,Italy-SB,2122,Benevento,Vicenza,1.0,0.0,H,0.0,0.0,D,1.57,3.6,5.25,1.67,3.87,5.77,1.63,3.75,5.31,1.9,1.95,1.87,1.89,-0.75,1.8,2.05,Benevento,Vicenza,benevento,vicenza
+2022-04-25,I2,Italy-SB,2122,Como,Vicenza,0.0,2.0,A,0.0,1.0,A,2.87,3.25,2.15,3.43,3.53,2.18,3.19,3.3,2.2,2.0,1.85,2.01,1.77,0.25,1.93,1.93,Como,Vicenza,como,vicenza
+2022-05-06,I2,Italy-SB,2122,Alessandria,Vicenza,0.0,1.0,A,0.0,1.0,A,2.3,3.2,3.0,2.38,3.31,3.27,2.31,3.26,3.08,1.95,1.9,1.91,1.87,-0.25,2.0,1.85,Alessandria,Vicenza,alessandria,vicenza
+2026-08-29,I2,Italy-SB,2627,Avellino,Vicenza,3.0,0.0,H,2.0,0.0,H,2.35,3.1,2.75,,,,2.43,3.06,2.85,2.25,1.62,2.17,1.63,0.0,1.7,2.1,Avellino,Vicenza,avellino,vicenza
+2026-09-06,I2,Italy-SB,2627,Virtus Entella,Vicenza,2.0,2.0,D,1.0,1.0,D,2.1,3.0,3.6,,,,2.11,3.05,3.49,2.4,1.53,2.3,1.55,-0.25,1.83,1.98,Virtus Entella,Vicenza,virtus_entella,vicenza
+2026-09-20,I2,Italy-SB,2627,Verona,Vicenza,2.0,1.0,H,0.0,0.0,D,1.86,3.4,4.2,,,,1.85,3.51,3.75,1.85,1.95,1.8,1.9,-0.5,1.9,1.9,Hellas Verona,Vicenza,hellas_verona,vicenza
+2026-10-17,I2,Italy-SB,2627,Benevento,Vicenza,2.0,2.0,D,2.0,0.0,H,1.96,3.25,3.75,,,,1.98,3.45,3.38,1.8,2.0,1.74,1.98,-0.5,2.0,1.8,Benevento,Vicenza,benevento,vicenza

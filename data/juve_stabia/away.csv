@@ -1,0 +1,43 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2024-08-17,I2,Italy-SB,2425,Bari,Juve Stabia,1.0,3.0,A,0.0,2.0,A,1.85,3.3,4.5,1.85,3.32,4.72,1.88,3.29,4.39,2.35,1.57,2.35,1.57,-0.5,1.88,1.98,Bari,Juve Stabia,bari,juve_stabia
+2024-08-25,I2,Italy-SB,2425,Catanzaro,Juve Stabia,0.0,0.0,D,0.0,0.0,D,2.2,3.2,3.4,2.22,3.19,3.49,2.18,3.24,3.35,2.05,1.75,2.05,1.74,-0.25,1.9,1.95,Catanzaro,Juve Stabia,catanzaro,juve_stabia
+2024-09-01,I2,Italy-SB,2425,Frosinone,Juve Stabia,0.0,0.0,D,0.0,0.0,D,1.91,3.2,4.33,1.91,3.28,4.45,1.91,3.28,4.23,2.15,1.67,2.14,1.68,-0.5,1.93,1.93,Frosinone,Juve Stabia,frosinone,juve_stabia
+2024-09-21,I2,Italy-SB,2425,Modena,Juve Stabia,3.0,0.0,H,2.0,0.0,H,2.0,3.0,4.1,2.03,3.03,4.38,2.02,3.02,4.14,2.5,1.5,2.51,1.5,-0.5,2.03,1.83,Modena,Juve Stabia,modena,juve_stabia
+2024-10-04,I2,Italy-SB,2425,Sampdoria,Juve Stabia,1.0,2.0,A,1.0,0.0,H,1.95,3.2,4.33,1.99,3.16,4.61,1.94,3.17,4.27,2.35,1.57,2.37,1.56,-0.5,1.95,1.9,Sampdoria,Juve Stabia,sampdoria,juve_stabia
+2024-10-26,I2,Italy-SB,2425,Cosenza,Juve Stabia,1.0,1.0,D,1.0,1.0,D,2.15,3.2,3.5,2.25,2.98,3.69,2.19,3.06,3.55,2.25,1.62,2.25,1.61,-0.25,1.88,1.98,Cosenza,Juve Stabia,cosenza,juve_stabia
+2024-11-02,I2,Italy-SB,2425,Carrarese,Juve Stabia,0.0,0.0,D,0.0,0.0,D,2.5,3.1,2.9,2.61,3.0,3.0,2.55,3.02,2.92,2.3,1.6,2.3,1.59,0.0,1.8,2.05,Carrarese,Juve Stabia,carrarese,juve_stabia
+2024-11-30,I2,Italy-SB,2425,Cittadella,Juve Stabia,2.0,2.0,D,2.0,2.0,D,2.38,3.1,3.1,2.48,3.04,3.15,2.41,3.04,3.1,2.35,1.57,2.37,1.55,-0.25,2.05,1.8,Cittadella,Juve Stabia,cittadella,juve_stabia
+2024-12-15,I2,Italy-SB,2425,Salernitana,Juve Stabia,1.0,2.0,A,1.0,1.0,D,2.3,3.2,3.2,2.35,3.09,3.32,2.32,3.11,3.18,2.25,1.62,2.24,1.61,-0.25,2.03,1.83,Salernitana,Juve Stabia,salernitana,juve_stabia
+2024-12-26,I2,Italy-SB,2425,Reggiana,Juve Stabia,2.0,1.0,H,2.0,0.0,H,2.55,3.0,3.0,2.64,2.88,3.09,2.52,2.96,2.94,2.4,1.53,2.43,1.52,0.0,1.78,2.1,Reggiana,Juve Stabia,reggiana,juve_stabia
+2025-01-12,I2,Italy-SB,2425,Spezia,Juve Stabia,1.0,1.0,D,1.0,0.0,H,1.8,3.25,5.0,1.79,3.39,5.03,1.78,3.31,4.82,2.35,1.57,2.33,1.56,-0.75,2.05,1.75,Spezia,Juve Stabia,spezia,juve_stabia
+2025-01-19,I2,Italy-SB,2425,Palermo,Juve Stabia,1.0,0.0,H,0.0,0.0,D,1.95,3.1,4.33,2.0,3.18,4.22,1.96,3.25,3.99,2.15,1.67,2.14,1.67,-0.5,1.98,1.88,Palermo,Juve Stabia,palermo,juve_stabia
+2025-02-01,I2,Italy-SB,2425,Sassuolo,Juve Stabia,2.0,0.0,H,1.0,0.0,H,1.62,3.75,5.75,1.65,3.84,5.7,1.61,3.82,5.37,1.93,1.93,1.88,1.89,-0.75,1.8,2.05,Sassuolo,Juve Stabia,sassuolo,juve_stabia
+2025-02-22,I2,Italy-SB,2425,Pisa,Juve Stabia,3.0,1.0,H,0.0,0.0,D,1.9,3.25,4.33,1.93,3.25,4.69,1.89,3.16,4.44,2.4,1.53,2.46,1.52,-0.5,1.9,1.95,Pisa,Juve Stabia,pisa,juve_stabia
+2025-03-08,I2,Italy-SB,2425,Mantova,Juve Stabia,1.0,1.0,D,0.0,0.0,D,2.7,3.0,2.8,2.74,3.06,2.89,2.67,3.01,2.78,2.35,1.57,2.31,1.58,0.0,1.88,1.98,Mantova,Juve Stabia,mantova,juve_stabia
+2025-03-30,I2,Italy-SB,2425,Cesena,Juve Stabia,1.0,2.0,A,0.0,1.0,A,2.35,2.88,3.4,2.41,3.05,3.26,2.36,3.0,3.21,2.5,1.5,2.47,1.5,-0.25,2.05,1.8,Cesena,Juve Stabia,cesena,juve_stabia
+2025-04-13,I2,Italy-SB,2425,Cremonese,Juve Stabia,1.0,1.0,D,0.0,0.0,D,1.73,3.6,5.25,1.73,3.56,5.11,1.71,3.61,4.85,2.03,1.83,1.99,1.79,-0.75,1.98,1.88,Cremonese,Juve Stabia,cremonese,juve_stabia
+2025-04-27,I2,Italy-SB,2425,Sudtirol,Juve Stabia,2.0,0.0,H,1.0,0.0,H,2.6,3.0,3.0,2.62,2.9,3.09,2.56,2.97,2.95,2.5,1.5,2.49,1.51,0.0,1.78,2.03,Sudtirol,Juve Stabia,sudtirol,juve_stabia
+2025-05-04,I2,Italy-SB,2425,Brescia,Juve Stabia,0.0,0.0,D,0.0,0.0,D,2.65,3.0,2.75,2.82,2.75,3.02,2.72,2.87,2.82,2.35,1.57,2.36,1.56,0.0,1.83,1.98,Brescia,Juve Stabia,brescia,juve_stabia
+2025-08-23,I2,Italy-SB,2526,Virtus Entella,Juve Stabia,1.0,1.0,D,0.0,0.0,D,2.35,3.1,3.2,2.41,3.04,3.28,2.32,3.11,2.98,2.25,1.62,2.22,1.59,-0.25,2.0,1.8,Virtus Entella,Juve Stabia,virtus_entella,juve_stabia
+2025-09-20,I2,Italy-SB,2526,Spezia,Juve Stabia,1.0,3.0,A,0.0,2.0,A,1.91,3.2,4.1,1.98,3.16,4.36,1.92,3.13,4.06,2.5,1.5,2.4,1.51,-0.5,1.98,1.83,Spezia,Juve Stabia,spezia,juve_stabia
+2025-09-26,I2,Italy-SB,2526,Catanzaro,Juve Stabia,2.0,2.0,D,0.0,2.0,A,2.82,3.0,2.57,2.92,3.11,2.71,2.72,3.02,2.57,2.3,1.6,2.3,1.56,0.0,2.0,1.8,Catanzaro,Juve Stabia,catanzaro,juve_stabia
+2025-10-05,I2,Italy-SB,2526,Carrarese,Juve Stabia,3.0,0.0,H,1.0,0.0,H,2.5,3.1,2.82,2.57,3.05,3.02,2.52,3.04,2.76,2.35,1.57,2.27,1.56,0.0,1.78,2.03,Carrarese,Juve Stabia,carrarese,juve_stabia
+2025-10-26,I2,Italy-SB,2526,Padova,Juve Stabia,2.0,2.0,D,1.0,1.0,D,2.57,2.95,2.85,2.76,2.93,2.89,2.6,2.93,2.78,2.5,1.5,2.47,1.49,0.0,1.8,2.0,Padova,Juve Stabia,padova,juve_stabia
+2025-11-02,I2,Italy-SB,2526,Modena,Juve Stabia,3.0,0.0,H,1.0,0.0,H,1.91,3.3,4.0,,,,1.91,3.21,4.0,2.4,1.53,2.37,1.52,-0.5,1.95,1.85,Modena,Juve Stabia,modena,juve_stabia
+2025-11-24,I2,Italy-SB,2526,Sampdoria,Juve Stabia,1.0,0.0,H,0.0,0.0,D,2.57,2.95,2.82,,,,2.58,2.91,2.79,2.5,1.5,2.42,1.5,0.0,1.83,1.98,Sampdoria,Juve Stabia,sampdoria,juve_stabia
+2025-12-08,I2,Italy-SB,2526,Frosinone,Juve Stabia,3.0,0.0,H,1.0,0.0,H,2.01,3.3,3.6,,,,2.06,3.15,3.54,2.08,1.73,2.09,1.68,-0.25,1.8,2.0,Frosinone,Juve Stabia,frosinone,juve_stabia
+2025-12-20,I2,Italy-SB,2526,Cesena,Juve Stabia,1.0,1.0,D,1.0,1.0,D,2.01,3.05,4.1,,,,2.04,3.05,3.71,2.4,1.53,2.39,1.51,-0.5,2.03,1.78,Cesena,Juve Stabia,cesena,juve_stabia
+2026-01-17,I2,Italy-SB,2526,Bari,Juve Stabia,0.0,1.0,A,0.0,1.0,A,3.1,2.85,2.5,,,,2.96,2.93,2.44,2.4,1.53,2.42,1.5,0.0,2.03,1.78,Bari,Juve Stabia,bari,juve_stabia
+2026-02-01,I2,Italy-SB,2526,Reggiana,Juve Stabia,1.0,1.0,D,1.0,1.0,D,3.4,3.1,2.25,,,,3.19,2.96,2.34,2.4,1.53,2.37,1.52,0.25,1.85,1.95,Reggiana,Juve Stabia,reggiana,juve_stabia
+2026-02-11,I2,Italy-SB,2526,Empoli,Juve Stabia,1.0,2.0,A,1.0,0.0,H,2.35,3.0,3.25,,,,2.44,2.94,3.01,2.4,1.53,2.38,1.52,-0.25,2.03,1.78,Empoli,Juve Stabia,empoli,juve_stabia
+2026-02-15,I2,Italy-SB,2526,Monza,Juve Stabia,2.0,1.0,H,0.0,1.0,A,1.62,3.5,5.0,,,,1.67,3.48,5.01,2.15,1.67,2.17,1.62,-0.75,1.9,1.9,Monza,Juve Stabia,monza,juve_stabia
+2026-02-28,I2,Italy-SB,2526,Avellino,Juve Stabia,0.0,0.0,D,0.0,0.0,D,3.0,2.5,3.0,,,,2.78,2.79,2.73,2.4,1.53,2.35,1.53,0.0,1.9,1.9,Avellino,Juve Stabia,avellino,juve_stabia
+2026-03-08,I2,Italy-SB,2526,Mantova,Juve Stabia,2.0,0.0,H,2.0,0.0,H,2.45,3.2,2.82,,,,2.44,3.17,2.77,2.15,1.67,2.1,1.66,0.0,1.78,2.03,Mantova,Juve Stabia,mantova,juve_stabia
+2026-03-17,I2,Italy-SB,2526,Palermo,Juve Stabia,2.0,2.0,D,0.0,1.0,A,1.62,3.3,6.0,,,,1.64,3.48,5.25,2.2,1.65,2.13,1.65,-0.75,1.85,1.95,Palermo,Juve Stabia,palermo,juve_stabia
+2026-04-06,I2,Italy-SB,2526,Venezia,Juve Stabia,3.0,1.0,H,2.0,1.0,H,1.39,4.0,7.0,,,,1.42,4.19,6.62,1.8,2.0,1.76,1.96,-1.25,1.98,1.83,Venezia,Juve Stabia,venezia,juve_stabia
+2026-04-25,I2,Italy-SB,2526,Pescara,Juve Stabia,1.0,1.0,D,0.0,0.0,D,2.05,3.6,3.4,,,,2.06,3.33,3.25,1.9,1.9,1.87,1.83,-0.25,1.8,2.0,Pescara,Juve Stabia,pescara,juve_stabia
+2026-05-08,I2,Italy-SB,2526,Sudtirol,Juve Stabia,1.0,1.0,D,0.0,1.0,A,1.53,4.0,5.75,,,,1.53,3.99,5.33,1.8,2.0,1.73,2.0,-1.0,1.98,1.83,Sudtirol,Juve Stabia,sudtirol,juve_stabia
+2026-08-23,I2,Italy-SB,2627,Palermo,Juve Stabia,1.0,0.0,H,1.0,0.0,H,1.62,3.5,5.5,,,,1.62,3.59,5.31,2.05,1.75,1.98,1.75,-0.75,1.85,1.95,Palermo,Juve Stabia,palermo,juve_stabia
+2026-08-29,I2,Italy-SB,2627,Sampdoria,Juve Stabia,1.0,2.0,A,1.0,0.0,H,1.81,3.1,4.33,,,,1.89,3.15,4.14,2.35,1.57,2.31,1.55,-0.5,1.9,1.9,Sampdoria,Juve Stabia,sampdoria,juve_stabia
+2026-09-12,I2,Italy-SB,2627,Vicenza,Juve Stabia,1.0,1.0,D,0.0,0.0,D,1.96,3.1,4.1,,,,1.97,3.15,3.82,2.15,1.67,2.14,1.64,-0.5,2.0,1.8,Vicenza,Juve Stabia,vicenza,juve_stabia
+2026-10-10,I2,Italy-SB,2627,Virtus Entella,Juve Stabia,1.0,1.0,D,0.0,0.0,D,1.91,3.2,3.75,,,,2.05,3.15,3.55,2.1,1.7,2.07,1.68,-0.5,2.03,1.78,Virtus Entella,Juve Stabia,virtus_entella,juve_stabia

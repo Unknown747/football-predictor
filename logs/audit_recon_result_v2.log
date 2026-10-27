@@ -1,0 +1,70 @@
+======================================================================
+S1_early_season: 2021-08-06 Sp Lisbon vs Vizela
+======================================================================
+  [FORM5     ] PASS (24 cols)
+  [FORM10    ] PASS (24 cols)
+  [VENUE     ] PASS (9 cols)
+  [REST      ] PASS (2 cols)
+  [SEASON    ] PASS (5 cols)
+  [H2H       ] PASS (5 cols)
+  [DERIVED   ] PASS (7 cols)
+  [ODDS      ] PASS (4 cols)
+======================================================================
+S2_mid_h2h_mixed: 2023-01-02 Rangers vs Celtic
+======================================================================
+  [FORM5     ] PASS (24 cols)
+  [FORM10    ] PASS (24 cols)
+  [VENUE     ] PASS (9 cols)
+  [REST      ] PASS (2 cols)
+  [SEASON    ] PASS (5 cols)
+  [H2H       ] PASS (5 cols)
+  [DERIVED   ] PASS (7 cols)
+  [ODDS      ] PASS (4 cols)
+======================================================================
+S3_late_high_h2h: 2026-10-16 Ayr vs Partick
+======================================================================
+  [FORM5     ] PASS (24 cols)
+  [FORM10    ] PASS (24 cols)
+  [VENUE     ] PASS (9 cols)
+  [REST      ] PASS (2 cols)
+  [SEASON    ] PASS (5 cols)
+  [H2H       ] PASS (5 cols)
+  [DERIVED   ] PASS (7 cols)
+  [ODDS      ] PASS (4 cols)
+======================================================================
+S4_h2h_zero: 2024-08-02 FC Koln vs Hamburger SV
+======================================================================
+  [FORM5     ] PASS (24 cols)
+  [FORM10    ] PASS (24 cols)
+  [VENUE     ] PASS (9 cols)
+  [REST      ] PASS (2 cols)
+  [SEASON    ] PASS (5 cols)
+  [H2H       ] PASS (5 cols)
+  [DERIVED   ] PASS (7 cols)
+  [ODDS      ] PASS (4 cols)
+======================================================================
+S5_minimal_history: 2024-08-04 Ulm vs Kaiserslautern
+======================================================================
+  [FORM5     ] PASS (24 cols)
+  [FORM10    ] PASS (24 cols)
+  [VENUE     ] PASS (9 cols)
+  [REST      ] PASS (2 cols)
+  [SEASON    ] PASS (5 cols)
+  [H2H       ] PASS (5 cols)
+  [DERIVED   ] PASS (7 cols)
+  [ODDS      ] PASS (4 cols)
+======================================================================
+S6_rich_mixed_h2h: 2023-08-05 Partick vs Raith Rvs
+======================================================================
+  [FORM5     ] PASS (24 cols)
+  [FORM10    ] PASS (24 cols)
+  [VENUE     ] PASS (9 cols)
+  [REST      ] PASS (2 cols)
+  [SEASON    ] PASS (5 cols)
+  [H2H       ] PASS (5 cols)
+  [DERIVED   ] PASS (7 cols)
+  [ODDS      ] PASS (4 cols)
+
+======================================================================
+OVERALL: PASS ✓
+======================================================================

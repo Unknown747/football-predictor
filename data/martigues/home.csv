@@ -1,0 +1,18 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2024-08-19,F2,France-L2,2425,Martigues,Lorient,0.0,1.0,A,0.0,0.0,D,3.6,3.3,1.95,4.06,3.38,1.94,3.82,3.35,1.95,2.15,1.67,2.07,1.71,0.5,1.83,2.03,Martigues,Lorient,martigues,lorient
+2024-08-30,F2,France-L2,2425,Martigues,Bastia,0.0,1.0,A,0.0,0.0,D,3.3,2.9,2.2,3.56,3.04,2.33,3.36,3.02,2.27,2.35,1.57,2.34,1.58,0.25,1.93,1.93,Martigues,Bastia,martigues,bastia
+2024-09-20,F2,France-L2,2425,Martigues,Grenoble,0.0,4.0,A,0.0,0.0,D,2.88,3.0,2.45,3.17,2.88,2.66,3.01,2.9,2.55,2.7,1.44,2.66,1.45,0.0,2.1,1.78,Martigues,Grenoble,martigues,grenoble
+2024-09-27,F2,France-L2,2425,Martigues,Dunkerque,1.0,1.0,D,1.0,0.0,H,3.25,2.9,2.3,3.33,3.06,2.43,3.22,3.03,2.33,2.25,1.62,2.29,1.6,0.25,1.85,2.0,Martigues,Dunkerque,martigues,dunkerque
+2024-10-18,F2,France-L2,2425,Martigues,Rodez,0.0,2.0,A,0.0,2.0,A,3.2,3.25,2.05,3.75,3.17,2.19,3.57,3.18,2.11,2.03,1.83,2.0,1.78,0.25,2.0,1.85,Martigues,Rodez,martigues,rodez
+2024-10-29,F2,France-L2,2425,Martigues,Caen,0.0,3.0,A,0.0,0.0,D,3.5,3.4,2.05,3.56,3.52,2.11,3.44,3.4,2.07,2.05,1.8,2.01,1.77,0.25,2.05,1.8,Martigues,Caen,martigues,caen
+2024-11-01,F2,France-L2,2425,Martigues,Red Star,0.0,1.0,A,0.0,0.0,D,3.3,3.2,2.2,3.49,3.3,2.22,3.31,3.23,2.19,2.1,1.7,2.12,1.7,0.25,1.93,1.93,Martigues,Red Star,martigues,red_star
+2024-11-22,F2,France-L2,2425,Martigues,Laval,0.0,3.0,A,0.0,1.0,A,3.3,3.2,2.25,3.38,3.2,2.32,3.25,3.13,2.26,2.3,1.6,2.3,1.59,0.25,1.88,1.98,Martigues,Laval,martigues,laval
+2024-12-06,F2,France-L2,2425,Martigues,Guingamp,0.0,1.0,A,0.0,0.0,D,4.75,4.1,1.5,5.51,4.37,1.58,5.28,4.2,1.55,1.65,2.2,1.67,2.17,1.0,1.93,1.93,Martigues,Guingamp,martigues,guingamp
+2025-01-10,F2,France-L2,2425,Martigues,Clermont,0.0,1.0,A,0.0,0.0,D,4.75,3.4,1.73,4.85,3.77,1.75,4.49,3.6,1.75,2.0,1.8,1.97,1.81,0.75,1.85,2.0,Martigues,Clermont Foot,martigues,clermont_foot
+2025-01-24,F2,France-L2,2425,Martigues,Amiens,3.0,0.0,H,3.0,0.0,H,3.9,3.5,1.9,4.27,3.34,1.97,3.83,3.36,1.97,2.0,1.85,1.98,1.81,0.5,1.9,1.95,Martigues,Amiens,martigues,amiens
+2025-02-07,F2,France-L2,2425,Martigues,Troyes,1.0,2.0,A,0.0,2.0,A,3.6,3.4,2.05,3.71,3.59,2.03,3.54,3.42,2.0,2.0,1.85,1.95,1.83,0.5,1.83,2.03,Martigues,Troyes,martigues,troyes
+2025-02-21,F2,France-L2,2425,Martigues,Annecy,2.0,0.0,H,1.0,0.0,H,3.3,3.3,2.05,3.56,3.46,2.13,3.36,3.3,2.12,2.08,1.73,2.08,1.72,0.25,2.03,1.83,Martigues,Annecy,martigues,annecy
+2025-03-14,F2,France-L2,2425,Martigues,Pau FC,2.0,2.0,D,1.0,0.0,H,3.4,3.2,2.05,3.6,3.39,2.14,3.4,3.33,2.11,1.98,1.88,1.92,1.86,0.25,2.0,1.85,Martigues,Pau FC,martigues,pau_fc
+2025-03-28,F2,France-L2,2425,Martigues,Ajaccio,2.0,0.0,H,2.0,0.0,H,3.0,3.0,2.25,3.16,3.11,2.4,3.06,3.09,2.36,2.4,1.53,2.42,1.52,0.25,1.83,2.03,Martigues,Ajaccio,martigues,ajaccio
+2025-04-11,F2,France-L2,2425,Martigues,Metz,1.0,4.0,A,1.0,3.0,A,7.0,5.0,1.4,8.23,4.65,1.41,7.5,4.67,1.39,1.7,2.1,1.69,2.13,1.25,1.92,1.82,Martigues,Metz,martigues,metz
+2025-05-02,F2,France-L2,2425,Martigues,Paris FC,1.0,1.0,D,0.0,0.0,D,5.0,3.75,1.67,5.56,3.7,1.65,5.11,3.66,1.67,1.85,2.0,1.85,1.93,0.75,1.94,1.79,Martigues,Paris FC,martigues,paris_fc

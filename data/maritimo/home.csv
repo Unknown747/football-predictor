@@ -1,0 +1,39 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,P1,Portugal-Liga1,2122,Maritimo,Sp Braga,0.0,2.0,A,0.0,0.0,D,5.0,3.4,1.75,4.53,3.72,1.83,4.3,3.57,1.82,1.93,1.93,1.89,1.92,0.5,2.06,1.84,Maritimo,Sp Braga,maritimo,sp_braga
+2021-08-22,P1,Portugal-Liga1,2122,Maritimo,Porto,1.0,1.0,D,1.0,1.0,D,9.0,4.33,1.33,9.07,4.69,1.4,8.65,4.6,1.37,1.8,2.0,1.81,2.0,1.25,2.0,1.9,Maritimo,FC Porto,maritimo,fc_porto
+2021-09-13,P1,Portugal-Liga1,2122,Maritimo,Arouca,2.0,2.0,D,2.0,1.0,H,2.0,3.25,3.75,2.08,3.32,3.97,2.06,3.24,3.74,2.35,1.57,2.37,1.57,-0.5,2.08,1.82,Maritimo,Arouca,maritimo,arouca
+2021-10-01,P1,Portugal-Liga1,2122,Maritimo,Moreirense,0.0,0.0,D,0.0,0.0,D,2.1,3.2,3.6,2.26,3.25,3.59,2.21,3.22,3.4,2.2,1.65,2.22,1.66,-0.25,1.91,1.99,Maritimo,Moreirense,maritimo,moreirense
+2021-10-31,P1,Portugal-Liga1,2122,Maritimo,Gil Vicente,1.0,2.0,A,1.0,1.0,D,2.75,2.9,2.7,2.94,3.29,2.61,2.79,3.11,2.6,2.3,1.6,2.32,1.58,0.0,2.03,1.87,Maritimo,Gil Vicente,maritimo,gil_vicente
+2021-11-28,P1,Portugal-Liga1,2122,Maritimo,Pacos Ferreira,2.0,0.0,H,0.0,0.0,D,2.5,3.0,2.62,2.71,3.16,2.93,2.63,3.1,2.76,2.25,1.61,2.24,1.63,0.0,1.9,2.0,Maritimo,Pacos Ferreira,maritimo,pacos_ferreira
+2021-12-11,P1,Portugal-Liga1,2122,Maritimo,Santa Clara,4.0,1.0,H,2.0,1.0,H,2.55,3.1,2.87,2.61,3.13,3.08,2.53,3.08,2.94,2.4,1.53,2.48,1.54,0.0,1.79,2.11,Maritimo,Santa Clara,maritimo,santa_clara
+2021-12-28,P1,Portugal-Liga1,2122,Maritimo,Vizela,2.0,0.0,H,0.0,0.0,D,3.0,3.25,2.37,3.24,3.07,2.44,3.06,3.13,2.43,2.15,1.66,2.17,1.68,0.25,1.84,2.06,Maritimo,Vizela,maritimo,vizela
+2022-01-23,P1,Portugal-Liga1,2122,Maritimo,Belenenses,1.0,1.0,D,1.0,1.0,D,1.75,3.4,5.0,1.81,3.69,4.88,1.77,3.5,4.75,2.25,1.61,2.27,1.62,-0.75,2.05,1.85,Maritimo,Belenenses,maritimo,belenenses
+2022-02-05,P1,Portugal-Liga1,2122,Maritimo,Estoril,0.0,0.0,D,0.0,0.0,D,2.62,3.1,2.75,2.69,3.13,2.98,2.62,3.11,2.78,2.25,1.61,2.27,1.62,0.0,1.87,2.03,Maritimo,Estoril,maritimo,estoril
+2022-02-20,P1,Portugal-Liga1,2122,Maritimo,Famalicao,0.0,1.0,A,0.0,1.0,A,2.4,3.3,2.87,2.6,3.36,2.91,2.52,3.22,2.84,2.15,1.66,2.15,1.69,0.0,1.73,2.08,Maritimo,Famalicao,maritimo,famalicao
+2022-02-26,P1,Portugal-Liga1,2122,Maritimo,Sp Lisbon,1.0,1.0,D,1.0,1.0,D,8.0,4.5,1.4,9.18,4.62,1.41,8.07,4.56,1.4,1.85,2.0,1.82,1.98,1.25,1.95,1.95,Maritimo,Sp Lisbon,maritimo,sp_lisbon
+2022-03-13,P1,Portugal-Liga1,2122,Maritimo,Guimaraes,0.0,1.0,A,0.0,0.0,D,2.87,3.2,2.55,2.95,3.27,2.62,2.81,3.26,2.52,1.95,1.9,1.96,1.83,0.0,2.01,1.89,Maritimo,Vitoria Guimaraes,maritimo,vitoria_guimaraes
+2022-04-03,P1,Portugal-Liga1,2122,Maritimo,Tondela,1.0,3.0,A,1.0,1.0,D,2.0,3.4,3.8,2.1,3.48,3.77,2.06,3.39,3.58,2.07,1.72,2.07,1.75,-0.5,2.07,1.83,Maritimo,Tondela,maritimo,tondela
+2022-04-16,P1,Portugal-Liga1,2122,Maritimo,Boavista,4.0,0.0,H,2.0,0.0,H,2.45,3.0,3.0,2.6,3.05,3.18,2.47,3.09,3.0,2.35,1.57,2.33,1.59,-0.25,2.08,1.73,Maritimo,Boavista,maritimo,boavista
+2022-04-30,P1,Portugal-Liga1,2122,Maritimo,Benfica,0.0,1.0,A,0.0,1.0,A,6.0,4.2,1.53,6.57,4.39,1.53,6.12,4.3,1.51,1.7,2.1,1.71,2.13,1.0,2.05,1.85,Maritimo,Benfica,maritimo,benfica
+2022-05-14,P1,Portugal-Liga1,2122,Maritimo,Portimonense,0.0,1.0,A,0.0,0.0,D,2.25,3.4,3.1,2.29,3.47,3.31,2.22,3.5,3.11,1.72,2.07,1.75,2.08,-0.25,1.97,1.93,Maritimo,Portimonense,maritimo,portimonense
+2022-08-15,P1,Portugal-Liga1,2223,Maritimo,Chaves,1.0,2.0,A,1.0,0.0,H,2.25,3.3,3.2,2.37,3.33,3.22,2.32,3.25,3.1,2.1,1.7,2.11,1.72,-0.25,2.0,1.9,Maritimo,Chaves,maritimo,chaves
+2022-08-27,P1,Portugal-Liga1,2223,Maritimo,Portimonense,0.0,1.0,A,0.0,1.0,A,2.75,3.2,2.6,2.89,3.11,2.77,2.79,3.11,2.65,2.07,1.72,2.09,1.73,0.0,2.01,1.89,Maritimo,Portimonense,maritimo,portimonense
+2022-09-11,P1,Portugal-Liga1,2223,Maritimo,Gil Vicente,1.0,2.0,A,1.0,0.0,H,2.75,3.2,2.62,2.94,3.1,2.75,2.8,3.13,2.61,2.15,1.66,2.19,1.66,0.0,2.02,1.88,Maritimo,Gil Vicente,maritimo,gil_vicente
+2022-10-03,P1,Portugal-Liga1,2223,Maritimo,Casa Pia,1.0,2.0,A,1.0,1.0,D,2.75,3.2,2.5,3.02,3.2,2.57,2.86,3.17,2.52,2.3,1.6,2.27,1.62,0.0,2.06,1.84,Maritimo,Casa Pia,maritimo,casa_pia
+2022-10-23,P1,Portugal-Liga1,2223,Maritimo,Arouca,1.0,1.0,D,1.0,1.0,D,2.55,3.1,2.7,2.66,3.3,2.87,2.59,3.2,2.75,2.15,1.66,2.17,1.68,0.0,1.9,2.0,Maritimo,Arouca,maritimo,arouca
+2022-11-06,P1,Portugal-Liga1,2223,Maritimo,Famalicao,0.0,0.0,D,0.0,0.0,D,2.75,3.2,2.55,2.93,3.21,2.67,2.77,3.16,2.6,2.15,1.66,2.17,1.67,0.0,2.03,1.87,Maritimo,Famalicao,maritimo,famalicao
+2023-01-08,P1,Portugal-Liga1,2223,Maritimo,Sp Lisbon,1.0,0.0,H,0.0,0.0,D,9.0,4.5,1.4,8.53,5.11,1.39,7.98,4.85,1.38,1.67,2.15,1.69,2.15,1.25,2.02,1.88,Maritimo,Sp Lisbon,maritimo,sp_lisbon
+2023-01-22,P1,Portugal-Liga1,2223,Maritimo,Estoril,1.0,0.0,H,1.0,0.0,H,2.5,3.1,3.0,2.65,2.99,3.18,2.51,3.05,3.01,2.4,1.53,2.4,1.57,0.0,1.73,2.08,Maritimo,Estoril,maritimo,estoril
+2023-02-01,P1,Portugal-Liga1,2223,Maritimo,Porto,0.0,2.0,A,0.0,0.0,D,11.0,5.5,1.25,12.98,5.56,1.29,11.68,5.62,1.26,1.62,2.25,1.63,2.27,1.75,1.89,2.01,Maritimo,FC Porto,maritimo,fc_porto
+2023-02-12,P1,Portugal-Liga1,2223,Maritimo,Sp Braga,1.0,2.0,A,1.0,2.0,A,5.5,4.0,1.57,5.87,4.09,1.62,5.52,4.01,1.59,1.83,2.02,1.8,2.02,1.0,1.83,2.07,Maritimo,Sp Braga,maritimo,sp_braga
+2023-02-25,P1,Portugal-Liga1,2223,Maritimo,Santa Clara,3.0,1.0,H,0.0,1.0,A,2.1,2.9,3.6,2.19,3.3,3.71,2.14,3.21,3.58,2.35,1.57,2.34,1.59,-0.25,1.84,2.06,Maritimo,Santa Clara,maritimo,santa_clara
+2023-03-12,P1,Portugal-Liga1,2223,Maritimo,Benfica,0.0,3.0,A,0.0,1.0,A,9.0,6.5,1.25,13.44,6.3,1.24,11.65,5.93,1.25,1.65,2.2,1.67,2.18,1.75,1.88,2.02,Maritimo,Benfica,maritimo,benfica
+2023-04-02,P1,Portugal-Liga1,2223,Maritimo,Boavista,4.0,2.0,H,2.0,0.0,H,2.45,3.1,2.9,2.6,3.1,3.11,2.51,3.09,2.96,2.35,1.57,2.34,1.58,0.0,1.78,2.13,Maritimo,Boavista,maritimo,boavista
+2023-04-15,P1,Portugal-Liga1,2223,Maritimo,Pacos Ferreira,3.0,1.0,H,2.0,0.0,H,2.15,3.3,3.3,2.28,3.32,3.47,2.22,3.26,3.37,2.2,1.65,2.21,1.65,-0.25,1.93,1.97,Maritimo,Pacos Ferreira,maritimo,pacos_ferreira
+2023-04-29,P1,Portugal-Liga1,2223,Maritimo,Guimaraes,1.0,2.0,A,0.0,1.0,A,2.55,3.25,2.88,2.56,3.42,2.91,2.51,3.27,2.85,2.1,1.7,2.14,1.7,0.0,1.83,2.07,Maritimo,Vitoria Guimaraes,maritimo,vitoria_guimaraes
+2023-05-07,P1,Portugal-Liga1,2223,Maritimo,Rio Ave,2.0,2.0,D,1.0,2.0,A,2.3,3.1,3.1,2.35,3.23,3.42,2.31,3.18,3.23,2.25,1.62,2.26,1.63,-0.25,1.99,1.91,Maritimo,Rio Ave,maritimo,rio_ave
+2023-05-19,P1,Portugal-Liga1,2223,Maritimo,Vizela,1.0,0.0,H,0.0,0.0,D,1.73,3.75,4.5,1.74,3.95,4.95,1.73,3.8,4.71,1.95,1.9,1.92,1.88,-0.75,1.95,1.95,Maritimo,Vizela,maritimo,vizela
+2026-08-08,P1,Portugal-Liga1,2627,Maritimo,Casa Pia,1.0,0.0,H,0.0,0.0,D,2.32,3.5,2.75,,,,2.41,3.35,2.76,2.0,1.8,1.9,1.81,0.0,1.7,2.1,Maritimo,Casa Pia,maritimo,casa_pia
+2026-08-22,P1,Portugal-Liga1,2627,Maritimo,Academico Viseu,2.0,2.0,D,0.0,2.0,A,1.96,3.25,3.9,,,,2.0,3.28,3.65,2.15,1.67,2.11,1.66,-0.5,2.05,1.8,Maritimo,Academico Viseu,maritimo,academico_viseu
+2026-09-05,P1,Portugal-Liga1,2627,Maritimo,Benfica,0.0,3.0,A,0.0,1.0,A,12.0,5.5,1.22,,,,10.88,5.59,1.24,1.53,2.4,1.53,2.37,1.75,1.88,1.98,Maritimo,Benfica,maritimo,benfica
+2026-10-10,P1,Portugal-Liga1,2627,Maritimo,Porto,1.0,2.0,A,1.0,1.0,D,8.5,5.0,1.3,,,,9.3,4.87,1.31,1.9,1.95,1.84,1.88,1.5,1.8,2.05,Maritimo,FC Porto,maritimo,fc_porto

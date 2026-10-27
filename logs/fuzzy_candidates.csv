@@ -1,0 +1,15 @@
+raw_name,candidate,score,reason
+Queens Park Rangers,Queens Park,90.0,len_diff=8>=3
+Queens Park Rangers,Rangers,90.0,len_diff=12>=3
+Dundee United,Dundee,90.0,len_diff=7>=3
+Cove Rangers,Rangers,90.0,len_diff=5>=3
+Kelty Hearts,Hearts,90.0,len_diff=6>=3
+Villarreal B,Villarreal,95.0,REJECTED: blocklisted
+Queens Park,Queens Park Rangers,90.0,len_diff=8>=3
+Villarreal,Villarreal B,95.0,REJECTED: blocklisted
+Reggiana,Reggina,93.3,blocklisted
+Rangers,Queens Park Rangers,90.0,len_diff=12>=3
+Rangers,Cove Rangers,90.0,len_diff=5>=3
+Reggina,Reggiana,93.3,blocklisted
+Dundee,Dundee United,90.0,len_diff=7>=3
+Hearts,Kelty Hearts,90.0,len_diff=6>=3

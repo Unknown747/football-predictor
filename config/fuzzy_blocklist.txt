@@ -1,0 +1,11 @@
+# Pasangan yang TIDAK BOLEH di-merge via fuzzy, apapun skornya.
+# Format: NameA | NameB  (case-sensitive, harus exact match)
+Reggiana | Reggina
+Man City | Man United
+Man Utd | Man City
+Ath Bilbao | Ath Madrid
+Real Madrid | Real Sociedad
+Inter | Inter Miami
+Sporting CP | Sporting Gijon
+Airdrie Utd | Airdrieonians
+Villarreal B | Villarreal

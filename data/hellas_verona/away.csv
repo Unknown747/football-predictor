@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-09-13,I1,Italy-SA,2122,Bologna,Verona,1.0,0.0,H,0.0,0.0,D,2.1,3.7,3.2,2.19,3.83,3.29,2.14,3.68,3.26,1.66,2.2,1.68,2.21,-0.25,1.87,2.06,Bologna,Hellas Verona,bologna,hellas_verona
+2021-09-22,I1,Italy-SA,2122,Salernitana,Verona,2.0,2.0,D,1.0,2.0,A,3.5,3.4,2.05,3.77,3.56,2.1,3.63,3.42,2.09,2.0,1.8,2.03,1.8,0.25,2.08,1.82,Salernitana,Hellas Verona,salernitana,hellas_verona
+2021-09-25,I1,Italy-SA,2122,Genoa,Verona,3.0,3.0,D,0.0,1.0,A,2.75,3.25,2.62,2.83,3.26,2.77,2.78,3.18,2.7,2.05,1.85,2.01,1.83,0.0,1.97,1.96,Genoa,Hellas Verona,genoa,hellas_verona
+2021-10-16,I1,Italy-SA,2122,Milan,Verona,3.0,2.0,H,0.0,2.0,A,1.55,4.2,5.75,1.56,4.4,6.43,1.54,4.27,6.14,1.61,2.3,1.63,2.31,-1.0,1.93,1.97,AC Milan,Hellas Verona,ac_milan,hellas_verona
+2021-10-27,I1,Italy-SA,2122,Udinese,Verona,1.0,1.0,D,1.0,0.0,H,2.4,3.4,2.9,2.53,3.32,3.08,2.47,3.3,2.93,1.9,1.9,1.91,1.9,-0.25,2.14,1.8,Udinese,Hellas Verona,udinese,hellas_verona
+2021-11-07,I1,Italy-SA,2122,Napoli,Verona,1.0,1.0,D,1.0,1.0,D,1.36,5.0,8.0,1.41,5.14,8.04,1.39,4.95,7.84,1.57,2.37,1.58,2.38,-1.25,1.9,2.0,Napoli,Hellas Verona,napoli,hellas_verona
+2021-11-27,I1,Italy-SA,2122,Sampdoria,Verona,3.0,1.0,H,0.0,1.0,A,2.9,3.5,2.37,2.97,3.4,2.56,2.88,3.36,2.49,1.88,2.02,1.84,1.98,0.0,2.11,1.82,Sampdoria,Hellas Verona,sampdoria,hellas_verona
+2021-12-05,I1,Italy-SA,2122,Venezia,Verona,3.0,4.0,A,3.0,0.0,H,3.6,3.5,2.0,3.97,3.54,2.05,3.66,3.44,2.07,2.0,1.9,1.94,1.88,0.5,1.88,2.05,Venezia,Hellas Verona,venezia,hellas_verona
+2021-12-19,I1,Italy-SA,2122,Torino,Verona,1.0,0.0,H,1.0,0.0,H,2.2,3.4,3.3,2.28,3.35,3.51,2.23,3.37,3.34,1.98,1.92,1.93,1.89,-0.25,1.94,1.99,Torino,Hellas Verona,torino,hellas_verona
+2022-01-06,I1,Italy-SA,2122,Spezia,Verona,1.0,2.0,A,0.0,0.0,D,3.5,3.5,2.05,3.79,3.61,2.07,3.56,3.54,2.07,1.8,2.0,1.79,2.04,0.25,2.08,1.73,Spezia,Hellas Verona,spezia,hellas_verona
+2022-01-16,I1,Italy-SA,2122,Sassuolo,Verona,2.0,4.0,A,0.0,2.0,A,2.2,3.5,3.2,2.25,3.54,3.27,2.23,3.59,3.14,1.57,2.37,1.55,2.44,-0.25,1.94,1.96,Sassuolo,Hellas Verona,sassuolo,hellas_verona
+2022-02-06,I1,Italy-SA,2122,Juventus,Verona,2.0,0.0,H,1.0,0.0,H,1.53,4.33,6.0,1.54,4.41,6.21,1.55,4.29,6.04,1.72,2.1,1.76,2.08,-1.0,1.96,1.94,Juventus,Hellas Verona,juventus,hellas_verona
+2022-02-19,I1,Italy-SA,2122,Roma,Verona,2.0,2.0,D,0.0,2.0,A,1.95,3.75,3.6,2.09,3.55,3.81,1.99,3.67,3.72,1.72,2.1,1.73,2.12,-0.5,2.01,1.89,AS Roma,Hellas Verona,as_roma,hellas_verona
+2022-03-06,I1,Italy-SA,2122,Fiorentina,Verona,1.0,1.0,D,1.0,1.0,D,1.95,3.5,3.6,2.03,3.62,3.93,2.0,3.59,3.76,1.72,2.1,1.73,2.14,-0.5,2.01,1.89,Fiorentina,Hellas Verona,fiorentina,hellas_verona
+2022-03-20,I1,Italy-SA,2122,Empoli,Verona,1.0,1.0,D,1.0,0.0,H,2.62,3.5,2.55,2.7,3.54,2.72,2.69,3.42,2.63,1.72,2.1,1.71,2.16,0.0,1.98,1.92,Empoli,Hellas Verona,empoli,hellas_verona
+2022-04-09,I1,Italy-SA,2122,Inter,Verona,2.0,0.0,H,2.0,0.0,H,1.36,5.25,8.0,1.36,5.42,9.19,1.36,5.19,8.52,1.57,2.37,1.57,2.41,-1.5,2.04,1.86,Inter Milan,Hellas Verona,inter_milan,hellas_verona
+2022-04-18,I1,Italy-SA,2122,Atalanta,Verona,1.0,2.0,A,0.0,1.0,A,1.65,4.1,5.0,1.62,4.48,5.44,1.62,4.22,5.25,1.66,2.2,1.66,2.23,-1.0,2.08,1.73,Atalanta,Hellas Verona,atalanta,hellas_verona
+2022-04-30,I1,Italy-SA,2122,Cagliari,Verona,1.0,2.0,A,0.0,2.0,A,2.45,3.6,2.75,2.57,3.64,2.78,2.54,3.46,2.78,2.02,1.88,1.96,1.86,0.0,1.84,2.06,Cagliari,Hellas Verona,cagliari,hellas_verona
+2022-05-21,I1,Italy-SA,2122,Lazio,Verona,3.0,3.0,D,2.0,2.0,D,1.75,4.0,4.33,1.79,4.15,4.32,1.76,4.11,4.29,1.53,2.5,1.54,2.48,-0.75,2.02,1.88,Lazio,Hellas Verona,lazio,hellas_verona
+2022-08-21,I1,Italy-SA,2223,Bologna,Verona,1.0,1.0,D,1.0,1.0,D,2.15,3.5,3.3,2.25,3.48,3.44,2.2,3.5,3.3,1.85,2.05,1.82,2.01,-0.25,1.9,2.0,Bologna,Hellas Verona,bologna,hellas_verona
+2022-08-31,I1,Italy-SA,2223,Empoli,Verona,1.0,1.0,D,1.0,0.0,H,2.62,3.3,2.7,2.79,3.39,2.71,2.69,3.36,2.66,1.88,2.02,1.83,2.01,0.0,1.97,1.93,Empoli,Hellas Verona,empoli,hellas_verona
+2022-09-11,I1,Italy-SA,2223,Lazio,Verona,2.0,0.0,H,0.0,0.0,D,1.57,4.2,5.5,1.61,4.35,5.74,1.59,4.23,5.51,1.66,2.2,1.67,2.21,-1.0,1.99,1.91,Lazio,Hellas Verona,lazio,hellas_verona
+2022-09-18,I1,Italy-SA,2223,Fiorentina,Verona,2.0,0.0,H,1.0,0.0,H,1.75,3.8,4.5,1.84,3.86,4.53,1.78,3.85,4.48,1.8,2.0,1.79,2.04,-0.75,2.02,1.88,Fiorentina,Hellas Verona,fiorentina,hellas_verona
+2022-10-09,I1,Italy-SA,2223,Salernitana,Verona,2.0,1.0,H,1.0,0.0,H,2.4,3.4,2.87,2.5,3.47,2.99,2.45,3.46,2.88,1.86,2.04,1.82,2.01,0.0,1.75,2.05,Salernitana,Hellas Verona,salernitana,hellas_verona
+2022-10-24,I1,Italy-SA,2223,Sassuolo,Verona,2.0,1.0,H,1.0,1.0,D,1.95,3.5,4.0,1.99,3.75,3.92,1.96,3.61,3.82,1.72,2.1,1.71,2.13,-0.5,1.95,1.95,Sassuolo,Hellas Verona,sassuolo,hellas_verona
+2022-11-06,I1,Italy-SA,2223,Monza,Verona,2.0,0.0,H,0.0,0.0,D,2.2,3.4,3.3,2.25,3.44,3.47,2.2,3.45,3.32,1.92,1.98,1.88,1.93,-0.25,1.91,1.99,Monza,Hellas Verona,monza,hellas_verona
+2023-01-04,I1,Italy-SA,2223,Torino,Verona,1.0,1.0,D,0.0,1.0,A,1.83,3.4,4.5,1.85,3.69,4.68,1.85,3.6,4.42,2.07,1.83,2.0,1.82,-0.5,1.85,2.05,Torino,Hellas Verona,torino,hellas_verona
+2023-01-14,I1,Italy-SA,2223,Inter,Verona,1.0,0.0,H,1.0,0.0,H,1.3,5.5,9.5,1.31,6.24,9.9,1.29,5.93,9.79,1.53,2.5,1.51,2.57,-1.75,2.02,1.77,Inter Milan,Hellas Verona,inter_milan,hellas_verona
+2023-01-30,I1,Italy-SA,2223,Udinese,Verona,1.0,1.0,D,1.0,1.0,D,1.8,3.75,4.33,1.89,3.67,4.49,1.84,3.68,4.35,1.98,1.92,1.94,1.88,-0.5,1.84,2.06,Udinese,Hellas Verona,udinese,hellas_verona
+2023-02-19,I1,Italy-SA,2223,Roma,Verona,1.0,0.0,H,1.0,0.0,H,1.65,3.6,5.75,1.66,3.77,6.32,1.63,3.72,6.02,2.2,1.67,2.23,1.67,-0.75,1.87,2.03,AS Roma,Hellas Verona,as_roma,hellas_verona
+2023-03-05,I1,Italy-SA,2223,Spezia,Verona,0.0,0.0,D,0.0,0.0,D,2.7,3.1,2.8,2.76,3.11,2.92,2.73,3.08,2.82,2.2,1.67,2.25,1.66,0.0,1.89,2.01,Spezia,Hellas Verona,spezia,hellas_verona
+2023-03-19,I1,Italy-SA,2223,Sampdoria,Verona,3.0,1.0,H,2.0,0.0,H,2.88,3.1,2.45,3.09,3.17,2.57,3.01,3.1,2.56,2.38,1.57,2.39,1.58,0.0,2.13,1.78,Sampdoria,Hellas Verona,sampdoria,hellas_verona
+2023-04-01,I1,Italy-SA,2223,Juventus,Verona,1.0,0.0,H,0.0,0.0,D,1.4,4.2,9.0,1.43,4.42,9.42,1.42,4.34,8.79,2.1,1.73,2.14,1.72,-1.25,2.05,1.85,Juventus,Hellas Verona,juventus,hellas_verona
+2023-04-15,I1,Italy-SA,2223,Napoli,Verona,0.0,0.0,D,0.0,0.0,D,1.53,4.0,6.5,1.53,4.22,7.01,1.53,4.09,6.76,2.03,1.87,1.98,1.84,-1.0,1.94,1.96,Napoli,Hellas Verona,napoli,hellas_verona
+2023-04-30,I1,Italy-SA,2223,Cremonese,Verona,1.0,1.0,D,1.0,0.0,H,3.0,3.3,2.45,3.13,3.33,2.45,3.06,3.27,2.42,2.2,1.67,2.23,1.66,0.25,1.79,2.11,Cremonese,Hellas Verona,cremonese,hellas_verona
+2023-05-07,I1,Italy-SA,2223,Lecce,Verona,0.0,1.0,A,0.0,0.0,D,2.2,3.0,3.75,2.27,3.16,3.77,2.2,3.12,3.67,2.5,1.53,2.48,1.55,-0.25,1.88,2.02,Lecce,Hellas Verona,lecce,hellas_verona
+2023-05-20,I1,Italy-SA,2223,Atalanta,Verona,3.0,1.0,H,1.0,1.0,D,1.53,4.2,6.0,1.59,4.26,5.97,1.56,4.2,5.99,1.86,2.04,1.83,2.0,-1.0,1.97,1.93,Atalanta,Hellas Verona,atalanta,hellas_verona
+2023-06-04,I1,Italy-SA,2223,Milan,Verona,3.0,1.0,H,1.0,0.0,H,1.73,4.0,4.5,1.8,3.82,4.58,1.79,3.75,4.5,1.94,1.99,1.91,1.92,-0.75,2.04,1.89,AC Milan,Hellas Verona,ac_milan,hellas_verona
+2023-08-19,I1,Italy-SA,2324,Empoli,Verona,0.0,1.0,A,0.0,0.0,D,2.25,3.2,3.3,2.3,3.3,3.44,2.3,3.28,3.27,2.1,1.73,2.11,1.74,-0.25,1.97,1.93,Empoli,Hellas Verona,empoli,hellas_verona
+2023-09-01,I1,Italy-SA,2324,Sassuolo,Verona,3.0,1.0,H,1.0,0.0,H,2.0,3.6,3.75,2.04,3.66,3.84,2.02,3.59,3.71,1.85,2.05,1.82,2.02,-0.5,2.03,1.9,Sassuolo,Hellas Verona,sassuolo,hellas_verona
+2023-09-23,I1,Italy-SA,2324,Milan,Verona,1.0,0.0,H,1.0,0.0,H,1.36,4.75,9.0,1.39,4.95,9.16,1.38,4.87,8.61,1.73,2.1,1.77,2.08,-1.25,1.89,2.01,AC Milan,Hellas Verona,ac_milan,hellas_verona
+2023-10-02,I1,Italy-SA,2324,Torino,Verona,0.0,0.0,D,0.0,0.0,D,1.85,3.5,4.33,1.83,3.37,4.73,1.89,3.4,4.47,2.3,1.6,2.33,1.61,-0.5,1.89,2.01,Torino,Hellas Verona,torino,hellas_verona
+2023-10-08,I1,Italy-SA,2324,Frosinone,Verona,2.0,1.0,H,1.0,0.0,H,2.35,3.3,3.1,2.45,3.22,3.23,2.38,3.28,3.13,2.1,1.7,2.13,1.73,-0.25,2.06,1.84,Frosinone,Hellas Verona,frosinone,hellas_verona
+2023-10-28,I1,Italy-SA,2324,Juventus,Verona,1.0,0.0,H,0.0,0.0,D,1.36,5.0,8.0,1.36,5.17,9.54,1.37,4.98,9.14,1.85,2.05,1.82,2.02,-1.25,1.85,2.08,Juventus,Hellas Verona,juventus,hellas_verona
+2023-11-10,I1,Italy-SA,2324,Genoa,Verona,1.0,0.0,H,1.0,0.0,H,1.91,3.3,4.33,1.93,3.32,4.74,1.95,3.28,4.49,2.4,1.53,2.47,1.56,-0.5,1.95,1.98,Genoa,Hellas Verona,genoa,hellas_verona
+2023-12-03,I1,Italy-SA,2324,Udinese,Verona,3.0,3.0,D,2.0,1.0,H,1.7,3.6,5.25,1.72,3.69,5.38,1.73,3.67,5.15,2.1,1.7,2.15,1.72,-0.75,1.98,1.95,Udinese,Hellas Verona,udinese,hellas_verona
+2023-12-17,I1,Italy-SA,2324,Fiorentina,Verona,1.0,0.0,H,0.0,0.0,D,1.4,5.0,7.0,1.43,4.83,7.67,1.44,4.68,7.53,1.75,2.05,1.78,2.06,-1.25,1.98,1.95,Fiorentina,Hellas Verona,fiorentina,hellas_verona
+2024-01-06,I1,Italy-SA,2324,Inter,Verona,2.0,1.0,H,1.0,0.0,H,1.17,8.0,13.0,1.17,7.94,16.21,1.17,7.55,16.59,1.5,2.5,1.52,2.53,-2.0,1.92,1.98,Inter Milan,Hellas Verona,inter_milan,hellas_verona
+2024-01-20,I1,Italy-SA,2324,Roma,Verona,2.0,1.0,H,2.0,0.0,H,1.44,4.2,8.5,1.46,4.34,8.03,1.46,4.28,7.94,2.08,1.73,2.11,1.75,-1.0,1.73,2.08,AS Roma,Hellas Verona,as_roma,hellas_verona
+2024-02-04,I1,Italy-SA,2324,Napoli,Verona,2.0,1.0,H,0.0,0.0,D,1.4,4.5,8.5,1.4,4.82,8.48,1.41,4.69,7.94,1.87,2.03,1.82,2.01,-1.25,1.99,1.94,Napoli,Hellas Verona,napoli,hellas_verona
+2024-02-11,I1,Italy-SA,2324,Monza,Verona,0.0,0.0,D,0.0,0.0,D,2.05,3.4,3.75,2.14,3.24,3.88,2.09,3.3,3.77,2.2,1.65,2.19,1.69,-0.25,1.75,2.05,Monza,Hellas Verona,monza,hellas_verona
+2024-02-23,I1,Italy-SA,2324,Bologna,Verona,2.0,0.0,H,1.0,0.0,H,1.55,3.8,7.0,1.59,3.9,6.83,1.57,3.91,6.62,2.1,1.7,2.15,1.72,-1.0,2.06,1.84,Bologna,Hellas Verona,bologna,hellas_verona
+2024-03-10,I1,Italy-SA,2324,Lecce,Verona,0.0,1.0,A,0.0,1.0,A,2.2,3.25,3.4,2.34,3.09,3.55,2.26,3.18,3.47,2.3,1.6,2.36,1.61,-0.25,1.94,1.99,Lecce,Hellas Verona,lecce,hellas_verona
+2024-04-01,I1,Italy-SA,2324,Cagliari,Verona,1.0,1.0,D,0.0,1.0,A,2.15,3.2,3.6,2.2,3.19,3.76,2.18,3.26,3.54,2.1,1.7,2.14,1.72,-0.25,1.88,2.02,Cagliari,Hellas Verona,cagliari,hellas_verona
+2024-04-15,I1,Italy-SA,2324,Atalanta,Verona,2.0,2.0,D,2.0,0.0,H,1.45,4.5,7.0,1.47,4.72,6.93,1.45,4.63,6.98,1.73,2.1,1.73,2.12,-1.25,2.05,1.85,Atalanta,Hellas Verona,atalanta,hellas_verona
+2024-04-27,I1,Italy-SA,2324,Lazio,Verona,1.0,0.0,H,0.0,0.0,D,1.62,3.8,6.0,1.66,3.96,5.53,1.65,3.87,5.59,2.1,1.73,2.06,1.78,-0.75,1.82,2.08,Lazio,Hellas Verona,lazio,hellas_verona
+2024-05-20,I1,Italy-SA,2324,Salernitana,Verona,1.0,2.0,A,0.0,2.0,A,5.0,3.8,1.7,5.1,3.98,1.69,4.96,3.84,1.71,1.91,1.99,1.88,1.94,0.75,1.98,1.92,Salernitana,Hellas Verona,salernitana,hellas_verona
+2024-09-01,I1,Italy-SA,2425,Genoa,Verona,0.0,2.0,A,0.0,0.0,D,2.0,3.3,4.0,2.02,3.29,4.25,2.03,3.26,4.07,2.3,1.62,2.35,1.61,-0.5,2.03,1.87,Genoa,Hellas Verona,genoa,hellas_verona
+2024-09-16,I1,Italy-SA,2425,Lazio,Verona,2.0,1.0,H,2.0,1.0,H,1.62,3.8,6.0,1.62,3.97,5.78,1.62,3.93,5.71,2.06,1.84,2.01,1.82,-0.75,1.82,2.08,Lazio,Hellas Verona,lazio,hellas_verona
+2024-09-29,I1,Italy-SA,2425,Como,Verona,3.0,2.0,H,1.0,0.0,H,2.1,3.4,3.6,2.13,3.39,3.7,2.14,3.38,3.58,2.1,1.73,2.14,1.73,-0.25,1.83,2.07,Como,Hellas Verona,como,hellas_verona
+2024-10-26,I1,Italy-SA,2425,Atalanta,Verona,6.0,1.0,H,5.0,1.0,H,1.38,4.75,8.0,1.4,5.17,7.65,1.4,5.06,7.57,1.53,2.5,1.52,2.52,-1.25,1.87,2.03,Atalanta,Hellas Verona,atalanta,hellas_verona
+2024-10-29,I1,Italy-SA,2425,Lecce,Verona,1.0,0.0,H,0.0,0.0,D,2.25,3.25,3.25,2.34,3.25,3.41,2.32,3.21,3.32,2.2,1.67,2.24,1.67,-0.25,1.99,1.91,Lecce,Hellas Verona,lecce,hellas_verona
+2024-11-10,I1,Italy-SA,2425,Fiorentina,Verona,3.0,1.0,H,1.0,1.0,D,1.44,4.5,7.0,1.46,4.65,7.21,1.45,4.58,7.14,1.8,2.0,1.78,2.05,-1.25,2.03,1.87,Fiorentina,Hellas Verona,fiorentina,hellas_verona
+2024-11-29,I1,Italy-SA,2425,Cagliari,Verona,1.0,0.0,H,0.0,0.0,D,1.91,3.4,4.1,1.96,3.49,4.19,1.96,3.45,4.08,1.89,2.01,1.89,1.93,-0.5,1.99,1.94,Cagliari,Hellas Verona,cagliari,hellas_verona
+2024-12-15,I1,Italy-SA,2425,Parma,Verona,2.0,3.0,A,1.0,1.0,D,1.85,3.75,4.0,1.88,3.56,4.49,1.87,3.64,4.18,1.73,2.1,1.7,2.15,-0.5,1.88,2.02,Parma,Hellas Verona,parma,hellas_verona
+2024-12-30,I1,Italy-SA,2425,Bologna,Verona,2.0,3.0,A,1.0,2.0,A,1.5,4.1,7.0,1.51,4.28,6.99,1.5,4.15,6.73,2.01,1.89,1.97,1.84,-1.0,1.87,2.03,Bologna,Hellas Verona,bologna,hellas_verona
+2025-01-12,I1,Italy-SA,2425,Napoli,Verona,2.0,0.0,H,1.0,0.0,H,1.25,5.5,13.0,1.24,6.38,12.18,1.24,6.06,12.0,1.67,2.2,1.64,2.25,-1.75,1.99,1.91,Napoli,Hellas Verona,napoli,hellas_verona
+2025-01-27,I1,Italy-SA,2425,Venezia,Verona,1.0,1.0,D,1.0,0.0,H,2.15,3.5,3.25,2.22,3.41,3.45,2.19,3.38,3.34,2.0,1.8,2.04,1.78,-0.25,1.92,2.01,Venezia,Hellas Verona,venezia,hellas_verona
+2025-02-01,I1,Italy-SA,2425,Monza,Verona,0.0,1.0,A,0.0,1.0,A,2.3,3.0,3.5,2.38,3.09,3.46,2.31,3.1,3.38,2.2,1.67,2.21,1.67,-0.25,2.0,1.9,Monza,Hellas Verona,monza,hellas_verona
+2025-02-15,I1,Italy-SA,2425,Milan,Verona,1.0,0.0,H,0.0,0.0,D,1.33,4.75,9.5,1.33,5.52,9.32,1.33,5.37,9.17,1.57,2.38,1.58,2.38,-1.5,2.0,1.9,AC Milan,Hellas Verona,ac_milan,hellas_verona
+2025-03-03,I1,Italy-SA,2425,Juventus,Verona,2.0,0.0,H,0.0,0.0,D,1.3,5.0,12.0,1.3,5.57,10.96,1.29,5.37,10.71,1.8,2.0,1.8,2.03,-1.5,1.94,1.99,Juventus,Hellas Verona,juventus,hellas_verona
+2025-03-15,I1,Italy-SA,2425,Udinese,Verona,0.0,1.0,A,0.0,0.0,D,1.73,3.5,5.0,1.76,3.59,5.23,1.76,3.55,4.97,2.1,1.73,2.11,1.74,-0.75,1.99,1.91,Udinese,Hellas Verona,udinese,hellas_verona
+2025-04-06,I1,Italy-SA,2425,Torino,Verona,1.0,1.0,D,0.0,0.0,D,1.8,3.2,5.25,1.82,3.39,5.21,1.81,3.35,4.96,2.38,1.57,2.35,1.59,-0.75,2.03,1.78,Torino,Hellas Verona,torino,hellas_verona
+2025-04-19,I1,Italy-SA,2425,Roma,Verona,1.0,0.0,H,1.0,0.0,H,1.4,4.5,8.5,1.41,4.64,8.71,1.4,4.48,8.8,2.08,1.82,2.02,1.8,-1.25,1.98,1.92,AS Roma,Hellas Verona,as_roma,hellas_verona
+2025-05-03,I1,Italy-SA,2425,Inter,Verona,1.0,0.0,H,1.0,0.0,H,1.3,5.25,10.0,1.37,5.09,8.88,1.33,5.03,9.61,1.85,2.05,1.84,1.98,-1.5,2.03,1.87,Inter Milan,Hellas Verona,inter_milan,hellas_verona
+2025-05-25,I1,Italy-SA,2425,Empoli,Verona,1.0,2.0,A,1.0,1.0,D,1.95,3.2,4.33,2.0,3.29,4.33,1.98,3.24,4.21,2.38,1.57,2.39,1.57,-0.5,1.98,1.88,Empoli,Hellas Verona,empoli,hellas_verona
+2025-08-25,I1,Italy-SA,2526,Udinese,Verona,1.0,1.0,D,0.0,0.0,D,1.95,3.3,4.1,1.98,3.46,4.17,1.95,3.33,3.95,2.2,1.67,2.14,1.67,-0.5,1.98,1.88,Udinese,Hellas Verona,udinese,hellas_verona
+2025-08-31,I1,Italy-SA,2526,Lazio,Verona,4.0,0.0,H,3.0,0.0,H,1.48,4.33,7.0,1.48,4.47,7.12,1.45,4.41,6.9,1.93,1.93,1.84,1.91,-1.25,2.05,1.75,Lazio,Hellas Verona,lazio,hellas_verona
+2025-09-28,I1,Italy-SA,2526,Roma,Verona,2.0,0.0,H,1.0,0.0,H,1.42,4.2,8.5,1.47,4.41,7.5,1.42,4.21,8.09,2.1,1.73,2.08,1.71,-1.25,2.03,1.83,AS Roma,Hellas Verona,as_roma,hellas_verona
+2025-10-18,I1,Italy-SA,2526,Pisa,Verona,0.0,0.0,D,0.0,0.0,D,2.55,3.1,2.9,2.64,3.15,2.97,2.52,3.08,2.94,2.38,1.57,2.33,1.56,0.0,1.8,2.05,Pisa,Hellas Verona,pisa,hellas_verona
+2025-10-29,I1,Italy-SA,2526,Como,Verona,3.0,1.0,H,1.0,1.0,D,1.6,3.6,6.5,1.66,3.59,6.37,1.6,3.7,6.03,2.1,1.73,2.12,1.72,-0.75,1.75,2.05,Como,Hellas Verona,como,hellas_verona
+2025-11-08,I1,Italy-SA,2526,Lecce,Verona,0.0,0.0,D,0.0,0.0,D,2.75,2.9,2.9,2.83,2.88,3.02,2.73,2.86,2.91,2.63,1.5,2.57,1.48,0.0,1.85,2.0,Lecce,Hellas Verona,lecce,hellas_verona
+2025-11-29,I1,Italy-SA,2526,Genoa,Verona,2.0,1.0,H,1.0,1.0,D,2.05,3.0,4.2,2.08,3.08,4.38,2.04,3.01,4.13,2.75,1.44,2.69,1.44,-0.5,2.05,1.8,Genoa,Hellas Verona,genoa,hellas_verona
+2025-12-14,I1,Italy-SA,2526,Fiorentina,Verona,1.0,2.0,A,0.0,1.0,A,1.8,3.4,4.75,1.81,3.62,4.83,1.82,3.42,4.51,2.2,1.67,2.17,1.65,-0.5,1.8,2.05,Fiorentina,Hellas Verona,fiorentina,hellas_verona
+2025-12-28,I1,Italy-SA,2526,Milan,Verona,3.0,0.0,H,1.0,0.0,H,1.38,4.75,8.5,1.38,4.98,8.81,1.37,4.7,8.4,1.8,2.0,1.81,1.94,-1.25,1.88,1.98,AC Milan,Hellas Verona,ac_milan,hellas_verona
+2026-01-07,I1,Italy-SA,2526,Napoli,Verona,2.0,2.0,D,0.0,2.0,A,1.36,5.5,7.5,1.36,5.19,8.85,1.34,4.72,9.56,2.0,1.8,2.01,1.75,-1.25,1.85,2.0,Napoli,Hellas Verona,napoli,hellas_verona
+2026-01-19,I1,Italy-SA,2526,Cremonese,Verona,0.0,0.0,D,0.0,0.0,D,2.63,2.9,3.1,,,,2.49,2.99,3.03,2.38,1.57,2.35,1.55,-0.25,2.15,1.68,Cremonese,Hellas Verona,cremonese,hellas_verona
+2026-01-31,I1,Italy-SA,2526,Cagliari,Verona,4.0,0.0,H,2.0,0.0,H,2.2,3.0,3.8,,,,2.18,2.99,3.71,2.5,1.53,2.49,1.51,-0.25,1.85,2.0,Cagliari,Hellas Verona,cagliari,hellas_verona
+2026-02-15,I1,Italy-SA,2526,Parma,Verona,2.0,1.0,H,1.0,1.0,D,2.3,3.0,3.5,,,,2.33,2.94,3.38,2.5,1.53,2.47,1.52,-0.25,1.98,1.88,Parma,Hellas Verona,parma,hellas_verona
+2026-02-20,I1,Italy-SA,2526,Sassuolo,Verona,3.0,0.0,H,2.0,0.0,H,1.75,3.3,5.25,,,,1.74,3.39,5.12,2.2,1.67,2.22,1.62,-0.75,2.0,1.85,Sassuolo,Hellas Verona,sassuolo,hellas_verona
+2026-03-08,I1,Italy-SA,2526,Bologna,Verona,1.0,2.0,A,0.0,0.0,D,1.55,3.9,6.5,,,,1.54,3.89,6.2,2.0,1.8,1.99,1.77,-1.0,1.98,1.88,Bologna,Hellas Verona,bologna,hellas_verona
+2026-03-22,I1,Italy-SA,2526,Atalanta,Verona,1.0,0.0,H,1.0,0.0,H,1.38,4.75,8.5,,,,1.37,4.56,8.19,1.91,1.91,1.86,1.88,-1.25,1.93,1.93,Atalanta,Hellas Verona,atalanta,hellas_verona
+2026-04-11,I1,Italy-SA,2526,Torino,Verona,2.0,1.0,H,1.0,1.0,D,1.9,3.3,4.33,,,,1.88,3.28,4.38,2.38,1.57,2.37,1.56,-0.5,1.9,1.95,Torino,Hellas Verona,torino,hellas_verona
+2026-05-03,I1,Italy-SA,2526,Juventus,Verona,1.0,1.0,D,0.0,1.0,A,1.22,6.5,12.0,,,,1.21,6.02,12.75,1.67,2.2,1.62,2.21,-1.75,1.88,1.98,Juventus,Hellas Verona,juventus,hellas_verona
+2026-05-17,I1,Italy-SA,2526,Inter,Verona,1.0,1.0,D,0.0,0.0,D,1.2,8.0,9.0,,,,1.18,6.85,12.88,1.5,2.63,1.47,2.57,-2.0,2.0,1.85,Inter Milan,Hellas Verona,inter_milan,hellas_verona
+2026-08-29,I2,Italy-SB,2627,Padova,Verona,1.0,1.0,D,1.0,0.0,H,2.82,3.0,2.4,,,,2.82,3.02,2.46,2.35,1.57,2.31,1.55,0.0,2.03,1.78,Padova,Hellas Verona,padova,hellas_verona
+2026-09-11,I2,Italy-SB,2627,Benevento,Verona,3.0,1.0,H,1.0,1.0,D,2.75,3.2,2.45,,,,2.79,3.13,2.45,2.05,1.75,2.0,1.74,0.0,1.98,1.83,Benevento,Hellas Verona,benevento,hellas_verona
+2026-10-11,I2,Italy-SB,2627,Modena,Verona,3.0,2.0,H,1.0,2.0,A,1.91,3.2,3.8,,,,1.95,3.29,3.63,2.05,1.75,1.97,1.74,-0.5,2.0,1.8,Modena,Hellas Verona,modena,hellas_verona

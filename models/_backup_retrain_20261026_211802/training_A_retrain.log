@@ -1,0 +1,44 @@
+=== START training (mode A, half_life=365.0d) ===
+Loaded: (40064, 172)
+Train: 22945, Val: 7681, Test: 9438
+Mode A: safe features = 74
+  Sample weights: ref=2024-06-02, range [0.1375, 1.0000], mean=0.4459
+
+=== Training 1x2 (multiclass 3) ===
+Training until validation scores don't improve for 100 rounds
+Early stopping, best iteration is:
+[56]	training's multi_logloss: 0.933969	valid_1's multi_logloss: 1.03461
+Best iteration: 56
+
+=== Training OU25 (binary) ===
+Training until validation scores don't improve for 100 rounds
+Early stopping, best iteration is:
+[28]	training's binary_logloss: 0.662373	valid_1's binary_logloss: 0.689644
+Best iteration: 28
+
+=== Training home_ou05 (binary) ===
+Training until validation scores don't improve for 100 rounds
+Early stopping, best iteration is:
+[54]	training's binary_logloss: 0.478158	valid_1's binary_logloss: 0.530804
+Best iteration: 54
+
+=== Training home_ou15 (binary) ===
+Training until validation scores don't improve for 100 rounds
+Early stopping, best iteration is:
+[60]	training's binary_logloss: 0.609155	valid_1's binary_logloss: 0.659911
+Best iteration: 60
+
+=== Training away_ou05 (binary) ===
+Training until validation scores don't improve for 100 rounds
+Early stopping, best iteration is:
+[48]	training's binary_logloss: 0.565737	valid_1's binary_logloss: 0.608899
+Best iteration: 48
+
+=== Training away_ou15 (binary) ===
+Training until validation scores don't improve for 100 rounds
+Early stopping, best iteration is:
+[30]	training's binary_logloss: 0.598775	valid_1's binary_logloss: 0.625103
+Best iteration: 30
+
+=== DONE ===
+Saved: models/evaluation_modeA.md, models/evaluation_modeA.json

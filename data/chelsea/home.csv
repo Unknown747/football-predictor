@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E0,England-PL,2122,Chelsea,Crystal Palace,3.0,0.0,H,2.0,0.0,H,1.25,5.75,13.0,1.26,6.24,12.74,1.26,5.92,12.8,1.8,2.0,1.79,2.06,-1.5,1.84,2.09,Chelsea,Crystal Palace,chelsea,crystal_palace
+2021-09-11,E0,England-PL,2122,Chelsea,Aston Villa,3.0,0.0,H,1.0,0.0,H,1.28,5.5,11.0,1.31,5.51,12.17,1.3,5.46,11.28,1.8,2.0,1.78,2.07,-1.5,1.97,1.96,Chelsea,Aston Villa,chelsea,aston_villa
+2021-09-25,E0,England-PL,2122,Chelsea,Man City,0.0,1.0,A,0.0,0.0,D,2.62,3.2,2.75,2.74,3.3,2.83,2.66,3.26,2.79,2.1,1.72,2.13,1.75,0.0,1.91,2.02,Chelsea,Manchester City,chelsea,manchester_city
+2021-10-02,E0,England-PL,2122,Chelsea,Southampton,3.0,1.0,H,1.0,0.0,H,1.36,4.75,9.0,1.4,4.91,9.22,1.38,4.9,8.92,1.8,2.0,1.79,2.06,-1.25,1.92,2.01,Chelsea,Southampton,chelsea,southampton
+2021-10-23,E0,England-PL,2122,Chelsea,Norwich,7.0,0.0,H,3.0,0.0,H,1.18,7.0,15.0,1.19,7.28,19.32,1.19,7.07,17.21,1.66,2.2,1.66,2.27,-2.0,2.05,1.75,Chelsea,Norwich City,chelsea,norwich_city
+2021-11-06,E0,England-PL,2122,Chelsea,Burnley,1.0,1.0,D,1.0,0.0,H,1.25,6.0,12.0,1.27,6.08,13.48,1.26,5.94,12.51,1.72,2.1,1.7,2.2,-1.75,2.05,1.88,Chelsea,Burnley,chelsea,burnley
+2021-11-28,E0,England-PL,2122,Chelsea,Man United,1.0,1.0,D,0.0,0.0,D,1.57,4.0,6.0,1.63,4.21,5.75,1.61,4.12,5.67,1.8,2.0,1.81,2.03,-1.0,2.08,1.85,Chelsea,Manchester United,chelsea,manchester_united
+2021-12-11,E0,England-PL,2122,Chelsea,Leeds,3.0,2.0,H,1.0,1.0,D,1.25,5.75,12.0,1.28,6.1,11.9,1.28,5.95,11.46,1.57,2.37,1.59,2.4,-1.5,1.75,2.05,Chelsea,Leeds,chelsea,leeds
+2021-12-16,E0,England-PL,2122,Chelsea,Everton,1.0,1.0,D,0.0,0.0,D,1.22,6.5,13.0,1.24,6.36,14.4,1.24,6.17,13.27,1.72,2.1,1.71,2.16,-1.75,2.04,1.86,Chelsea,Everton,chelsea,everton
+2021-12-29,E0,England-PL,2122,Chelsea,Brighton,1.0,1.0,D,1.0,0.0,H,1.4,4.5,7.5,1.42,4.56,8.59,1.43,4.5,8.18,1.93,1.97,1.89,1.94,-1.25,2.05,1.88,Chelsea,Brighton & Hove Albion,chelsea,brighton_hove_albion
+2022-01-02,E0,England-PL,2122,Chelsea,Liverpool,2.0,2.0,D,2.0,2.0,D,3.1,3.5,2.25,3.14,3.6,2.29,3.06,3.54,2.31,1.83,2.07,1.79,2.05,0.25,1.9,2.03,Chelsea,Liverpool,chelsea,liverpool
+2022-01-23,E0,England-PL,2122,Chelsea,Tottenham,2.0,0.0,H,0.0,0.0,D,1.61,4.2,5.0,1.7,4.17,4.82,1.69,3.99,4.96,1.94,1.96,1.91,1.92,-0.75,1.93,2.0,Chelsea,Tottenham Hotspur,chelsea,tottenham_hotspur
+2022-03-13,E0,England-PL,2122,Chelsea,Newcastle,1.0,0.0,H,0.0,0.0,D,1.3,5.25,11.0,1.34,5.17,10.18,1.33,5.3,10.16,1.72,2.1,1.71,2.16,-1.5,2.02,1.91,Chelsea,Newcastle United,chelsea,newcastle_united
+2022-04-02,E0,England-PL,2122,Chelsea,Brentford,1.0,4.0,A,0.0,0.0,D,1.33,5.0,10.0,1.35,5.18,10.7,1.35,4.99,10.04,1.91,1.99,1.89,1.93,-1.25,1.84,2.06,Chelsea,Brentford,chelsea,brentford
+2022-04-20,E0,England-PL,2122,Chelsea,Arsenal,2.0,4.0,A,2.0,2.0,D,1.83,3.6,4.33,1.88,3.77,4.42,1.87,3.64,4.34,2.1,1.8,2.04,1.8,-0.5,1.88,2.05,Chelsea,Arsenal,chelsea,arsenal
+2022-04-24,E0,England-PL,2122,Chelsea,West Ham,1.0,0.0,H,0.0,0.0,D,1.5,4.33,6.5,1.53,4.53,6.68,1.53,4.37,6.4,1.83,2.07,1.81,2.03,-1.0,1.88,2.02,Chelsea,West Ham United,chelsea,west_ham_united
+2022-05-07,E0,England-PL,2122,Chelsea,Wolves,2.0,2.0,D,0.0,0.0,D,1.33,5.0,9.5,1.36,5.1,10.4,1.36,4.95,9.62,1.93,1.97,1.89,1.94,-1.25,1.85,2.05,Chelsea,Wolverhampton,chelsea,wolverhampton
+2022-05-19,E0,England-PL,2122,Chelsea,Leicester,1.0,1.0,D,1.0,1.0,D,1.4,4.75,8.0,1.39,4.97,9.07,1.38,4.91,8.66,1.61,2.3,1.63,2.3,-1.25,1.83,2.07,Chelsea,Leicester City,chelsea,leicester_city
+2022-05-22,E0,England-PL,2122,Chelsea,Watford,2.0,1.0,H,1.0,0.0,H,1.18,7.5,15.0,1.16,8.35,18.77,1.17,7.89,17.63,1.44,2.75,1.44,2.78,-2.0,1.84,2.06,Chelsea,Watford,chelsea,watford
+2022-08-14,E0,England-PL,2223,Chelsea,Tottenham,2.0,2.0,D,1.0,0.0,H,2.25,3.4,3.2,2.28,3.52,3.35,2.29,3.44,3.21,1.98,1.92,1.94,1.89,-0.25,1.95,1.95,Chelsea,Tottenham Hotspur,chelsea,tottenham_hotspur
+2022-08-27,E0,England-PL,2223,Chelsea,Leicester,2.0,1.0,H,0.0,0.0,D,1.4,5.0,7.0,1.45,4.86,7.66,1.42,4.93,7.52,1.61,2.3,1.64,2.28,-1.25,1.96,1.94,Chelsea,Leicester City,chelsea,leicester_city
+2022-09-03,E0,England-PL,2223,Chelsea,West Ham,2.0,1.0,H,0.0,0.0,D,1.55,4.5,5.5,1.58,4.37,6.17,1.55,4.38,6.03,1.72,2.1,1.74,2.12,-1.0,1.93,1.97,Chelsea,West Ham United,chelsea,west_ham_united
+2022-10-08,E0,England-PL,2223,Chelsea,Wolves,3.0,0.0,H,1.0,0.0,H,1.4,4.5,8.0,1.41,4.92,8.68,1.4,4.82,8.5,1.87,2.03,1.84,1.99,-1.25,1.92,1.98,Chelsea,Wolverhampton,chelsea,wolverhampton
+2022-10-22,E0,England-PL,2223,Chelsea,Man United,1.0,1.0,D,0.0,0.0,D,2.05,3.5,3.5,2.15,3.54,3.64,2.14,3.51,3.5,1.91,1.99,1.87,1.96,-0.25,1.82,2.08,Chelsea,Manchester United,chelsea,manchester_united
+2022-11-06,E0,England-PL,2223,Chelsea,Arsenal,0.0,1.0,A,0.0,0.0,D,2.55,3.4,2.7,2.72,3.5,2.71,2.64,3.42,2.7,1.93,1.97,1.89,1.94,0.0,1.93,1.97,Chelsea,Arsenal,chelsea,arsenal
+2022-12-27,E0,England-PL,2223,Chelsea,Bournemouth,2.0,0.0,H,2.0,0.0,H,1.3,5.5,10.0,1.32,5.72,10.69,1.32,5.46,9.72,1.67,2.2,1.66,2.23,-1.5,1.98,1.92,Chelsea,Bournemouth,chelsea,bournemouth
+2023-01-05,E0,England-PL,2223,Chelsea,Man City,0.0,1.0,A,0.0,0.0,D,5.0,4.0,1.67,5.6,4.19,1.65,5.17,4.03,1.66,1.8,2.0,1.79,2.04,0.75,2.02,1.88,Chelsea,Manchester City,chelsea,manchester_city
+2023-01-15,E0,England-PL,2223,Chelsea,Crystal Palace,1.0,0.0,H,0.0,0.0,D,1.62,4.0,5.25,1.68,3.96,5.64,1.66,3.93,5.47,2.02,1.88,1.98,1.85,-0.75,1.86,2.04,Chelsea,Crystal Palace,chelsea,crystal_palace
+2023-02-03,E0,England-PL,2223,Chelsea,Fulham,0.0,0.0,D,0.0,0.0,D,1.62,4.0,5.25,1.65,4.11,5.79,1.64,4.05,5.55,1.91,1.99,1.88,1.95,-1.0,2.11,1.82,Chelsea,Fulham,chelsea,fulham
+2023-02-18,E0,England-PL,2223,Chelsea,Southampton,0.0,1.0,A,0.0,1.0,A,1.4,4.75,8.5,1.4,4.78,9.69,1.38,4.76,9.42,1.98,1.92,1.93,1.9,-1.25,1.9,2.0,Chelsea,Southampton,chelsea,southampton
+2023-03-04,E0,England-PL,2223,Chelsea,Leeds,1.0,0.0,H,0.0,0.0,D,1.62,4.0,5.5,1.65,4.05,5.62,1.64,4.02,5.52,1.95,1.95,1.9,1.93,-0.75,1.8,2.1,Chelsea,Leeds,chelsea,leeds
+2023-03-18,E0,England-PL,2223,Chelsea,Everton,2.0,2.0,D,0.0,0.0,D,1.5,4.2,7.5,1.5,4.19,7.95,1.49,4.18,7.62,2.1,1.73,2.08,1.76,-1.0,1.85,2.05,Chelsea,Everton,chelsea,everton
+2023-04-01,E0,England-PL,2223,Chelsea,Aston Villa,0.0,2.0,A,0.0,1.0,A,1.67,3.8,5.25,1.69,3.83,5.57,1.68,3.83,5.4,1.97,1.93,1.93,1.89,-0.75,1.86,2.04,Chelsea,Aston Villa,chelsea,aston_villa
+2023-04-04,E0,England-PL,2223,Chelsea,Liverpool,0.0,0.0,D,0.0,0.0,D,2.2,3.4,3.25,2.26,3.51,3.4,2.25,3.46,3.28,1.95,1.95,1.91,1.92,-0.25,1.95,1.98,Chelsea,Liverpool,chelsea,liverpool
+2023-04-15,E0,England-PL,2223,Chelsea,Brighton,1.0,2.0,A,1.0,1.0,D,2.63,3.4,2.63,2.67,3.52,2.72,2.67,3.42,2.68,1.94,1.96,1.91,1.91,0.0,1.94,1.96,Chelsea,Brighton & Hove Albion,chelsea,brighton_hove_albion
+2023-04-26,E0,England-PL,2223,Chelsea,Brentford,0.0,2.0,A,0.0,1.0,A,1.7,4.0,4.75,1.73,3.93,5.06,1.71,3.89,5.02,2.0,1.9,1.95,1.87,-0.75,1.92,1.98,Chelsea,Brentford,chelsea,brentford
+2023-05-13,E0,England-PL,2223,Chelsea,Nott'm Forest,2.0,2.0,D,0.0,1.0,A,1.5,4.5,6.0,1.51,4.47,6.88,1.51,4.4,6.68,1.86,2.04,1.84,1.99,-1.0,1.85,2.05,Chelsea,Nottingham Forest,chelsea,nottingham_forest
+2023-05-28,E0,England-PL,2223,Chelsea,Newcastle,1.0,1.0,D,1.0,1.0,D,2.9,3.5,2.38,2.89,3.74,2.38,2.87,3.64,2.38,1.73,2.1,1.7,2.19,0.25,1.83,2.07,Chelsea,Newcastle United,chelsea,newcastle_united
+2023-08-13,E0,England-PL,2324,Chelsea,Liverpool,1.0,1.0,D,1.0,1.0,D,2.9,3.4,2.38,2.97,3.64,2.4,2.87,3.64,2.39,1.67,2.2,1.67,2.24,0.25,1.81,2.09,Chelsea,Liverpool,chelsea,liverpool
+2023-08-25,E0,England-PL,2324,Chelsea,Luton,3.0,0.0,H,1.0,0.0,H,1.29,5.5,11.0,1.3,6.08,10.68,1.29,5.86,10.78,1.67,2.2,1.66,2.27,-1.5,1.95,1.98,Chelsea,Luton,chelsea,luton
+2023-09-02,E0,England-PL,2324,Chelsea,Nott'm Forest,0.0,1.0,A,0.0,0.0,D,1.4,4.5,8.5,1.39,5.1,8.62,1.38,5.03,8.27,1.62,2.3,1.64,2.3,-1.25,1.86,2.07,Chelsea,Nottingham Forest,chelsea,nottingham_forest
+2023-09-24,E0,England-PL,2324,Chelsea,Aston Villa,0.0,1.0,A,0.0,0.0,D,1.91,3.75,3.8,1.93,3.9,3.93,1.91,3.85,3.87,1.73,2.1,1.7,2.2,-0.5,1.91,1.99,Chelsea,Aston Villa,chelsea,aston_villa
+2023-10-21,E0,England-PL,2324,Chelsea,Arsenal,2.0,2.0,D,1.0,0.0,H,3.2,3.4,2.25,3.33,3.5,2.26,3.24,3.47,2.26,1.98,1.92,1.92,1.9,0.25,1.96,1.97,Chelsea,Arsenal,chelsea,arsenal
+2023-10-28,E0,England-PL,2324,Chelsea,Brentford,0.0,2.0,A,0.0,0.0,D,1.65,4.0,5.25,1.66,4.15,5.32,1.65,4.1,5.31,1.8,2.0,1.81,2.04,-0.75,1.86,2.07,Chelsea,Brentford,chelsea,brentford
+2023-11-12,E0,England-PL,2324,Chelsea,Man City,4.0,4.0,D,2.0,2.0,D,5.0,3.7,1.73,4.92,3.8,1.75,4.93,3.83,1.74,1.88,2.02,1.84,2.0,0.75,1.94,1.96,Chelsea,Manchester City,chelsea,manchester_city
+2023-12-03,E0,England-PL,2324,Chelsea,Brighton,3.0,2.0,H,2.0,1.0,H,1.73,4.2,4.2,1.75,4.21,4.4,1.75,4.24,4.37,1.53,2.4,1.53,2.44,-0.75,1.98,1.95,Chelsea,Brighton & Hove Albion,chelsea,brighton_hove_albion
+2023-12-16,E0,England-PL,2324,Chelsea,Sheffield United,2.0,0.0,H,0.0,0.0,D,1.22,6.5,13.0,1.24,6.69,11.68,1.24,6.49,12.28,1.5,2.5,1.52,2.54,-1.75,1.93,2.0,Chelsea,Sheffield United,chelsea,sheffield_united
+2023-12-27,E0,England-PL,2324,Chelsea,Crystal Palace,2.0,1.0,H,1.0,1.0,D,1.67,4.0,5.0,1.72,3.89,5.06,1.7,3.91,5.02,1.91,1.99,1.89,1.94,-0.75,1.86,2.04,Chelsea,Crystal Palace,chelsea,crystal_palace
+2024-01-13,E0,England-PL,2324,Chelsea,Fulham,1.0,0.0,H,1.0,0.0,H,1.6,4.2,5.25,1.65,4.22,5.13,1.64,4.24,5.19,1.62,2.25,1.64,2.3,-1.0,2.08,1.82,Chelsea,Fulham,chelsea,fulham
+2024-02-04,E0,England-PL,2324,Chelsea,Wolves,2.0,4.0,A,1.0,2.0,A,1.62,4.0,5.5,1.63,4.29,5.27,1.63,4.22,5.24,1.7,2.1,1.69,2.19,-1.0,2.09,1.84,Chelsea,Wolverhampton,chelsea,wolverhampton
+2024-03-11,E0,England-PL,2324,Chelsea,Newcastle,3.0,2.0,H,1.0,1.0,D,1.91,4.0,3.6,1.96,4.07,3.59,1.94,4.08,3.54,1.44,2.7,1.46,2.71,-0.5,1.98,1.95,Chelsea,Newcastle United,chelsea,newcastle_united
+2024-03-30,E0,England-PL,2324,Chelsea,Burnley,2.0,2.0,D,1.0,0.0,H,1.29,6.0,9.5,1.3,6.12,9.34,1.3,5.96,9.44,1.48,2.6,1.48,2.67,-1.75,2.03,1.78,Chelsea,Burnley,chelsea,burnley
+2024-04-04,E0,England-PL,2324,Chelsea,Man United,4.0,3.0,H,2.0,2.0,D,2.0,4.0,3.4,2.03,4.03,3.42,2.02,4.05,3.31,1.4,3.0,1.41,2.92,-0.5,2.04,1.86,Chelsea,Manchester United,chelsea,manchester_united
+2024-04-15,E0,England-PL,2324,Chelsea,Everton,6.0,0.0,H,4.0,0.0,H,1.7,4.2,4.5,1.73,4.16,4.57,1.71,4.2,4.53,1.53,2.5,1.54,2.48,-0.75,1.92,1.98,Chelsea,Everton,chelsea,everton
+2024-05-02,E0,England-PL,2324,Chelsea,Tottenham,2.0,0.0,H,1.0,0.0,H,2.15,3.8,3.0,2.22,4.15,2.92,2.2,4.05,2.91,1.3,3.5,1.31,3.44,-0.25,1.95,1.95,Chelsea,Tottenham Hotspur,chelsea,tottenham_hotspur
+2024-05-05,E0,England-PL,2324,Chelsea,West Ham,5.0,0.0,H,3.0,0.0,H,1.65,4.5,4.5,1.66,4.62,4.59,1.65,4.55,4.58,1.4,3.0,1.4,2.93,-1.0,2.09,1.84,Chelsea,West Ham United,chelsea,west_ham_united
+2024-05-19,E0,England-PL,2324,Chelsea,Bournemouth,2.0,1.0,H,1.0,0.0,H,1.45,5.0,6.0,1.45,5.4,5.93,1.45,5.32,5.99,1.29,3.75,1.27,3.71,-1.25,1.91,1.99,Chelsea,Bournemouth,chelsea,bournemouth
+2024-08-18,E0,England-PL,2425,Chelsea,Man City,0.0,2.0,A,0.0,1.0,A,4.1,3.9,1.8,4.19,3.93,1.84,4.05,4.0,1.83,1.5,2.63,1.5,2.59,0.5,2.07,1.86,Chelsea,Manchester City,chelsea,manchester_city
+2024-09-01,E0,England-PL,2425,Chelsea,Crystal Palace,1.0,1.0,D,1.0,0.0,H,1.6,4.33,5.0,1.63,4.4,5.06,1.63,4.4,5.01,1.5,2.63,1.52,2.56,-1.0,2.04,1.86,Chelsea,Crystal Palace,chelsea,crystal_palace
+2024-09-28,E0,England-PL,2425,Chelsea,Brighton,4.0,2.0,H,4.0,2.0,H,1.73,4.2,4.2,1.75,4.3,4.32,1.74,4.23,4.35,1.5,2.63,1.5,2.58,-0.75,1.95,1.95,Chelsea,Brighton & Hove Albion,chelsea,brighton_hove_albion
+2024-10-06,E0,England-PL,2425,Chelsea,Nott'm Forest,1.0,1.0,D,0.0,0.0,D,1.48,4.5,6.5,1.5,4.81,6.2,1.48,4.73,6.32,1.57,2.38,1.55,2.46,-1.25,2.05,1.85,Chelsea,Nottingham Forest,chelsea,nottingham_forest
+2024-10-27,E0,England-PL,2425,Chelsea,Newcastle,2.0,1.0,H,1.0,1.0,D,1.73,4.33,4.2,1.75,4.35,4.28,1.76,4.26,4.15,1.44,2.75,1.44,2.78,-0.75,1.95,1.95,Chelsea,Newcastle United,chelsea,newcastle_united
+2024-11-10,E0,England-PL,2425,Chelsea,Arsenal,1.0,1.0,D,0.0,0.0,D,2.7,3.4,2.55,2.75,3.53,2.59,2.75,3.49,2.53,1.73,2.1,1.71,2.17,0.0,2.02,1.88,Chelsea,Arsenal,chelsea,arsenal
+2024-12-01,E0,England-PL,2425,Chelsea,Aston Villa,3.0,0.0,H,2.0,0.0,H,1.7,4.1,4.5,1.7,4.3,4.6,1.71,4.21,4.51,1.53,2.5,1.53,2.51,-0.75,1.89,2.01,Chelsea,Aston Villa,chelsea,aston_villa
+2024-12-15,E0,England-PL,2425,Chelsea,Brentford,2.0,1.0,H,1.0,0.0,H,1.33,6.0,7.5,1.33,6.05,8.44,1.33,5.89,8.08,1.33,3.4,1.32,3.32,-1.5,1.87,2.03,Chelsea,Brentford,chelsea,brentford
+2024-12-26,E0,England-PL,2425,Chelsea,Fulham,1.0,2.0,A,1.0,0.0,H,1.48,4.75,6.0,1.47,4.98,6.32,1.47,4.88,6.15,1.44,2.75,1.45,2.72,-1.25,2.02,1.88,Chelsea,Fulham,chelsea,fulham
+2025-01-14,E0,England-PL,2425,Chelsea,Bournemouth,2.0,2.0,D,1.0,0.0,H,1.48,4.75,6.0,1.5,4.96,6.17,1.5,4.81,5.92,1.4,3.0,1.42,2.87,-1.25,2.02,1.88,Chelsea,Bournemouth,chelsea,bournemouth
+2025-01-20,E0,England-PL,2425,Chelsea,Wolves,3.0,1.0,H,1.0,1.0,D,1.36,5.75,6.5,1.38,5.69,7.16,1.37,5.51,7.3,1.36,3.2,1.37,3.06,-1.5,1.98,1.92,Chelsea,Wolverhampton,chelsea,wolverhampton
+2025-02-03,E0,England-PL,2425,Chelsea,West Ham,2.0,1.0,H,0.0,1.0,A,1.36,4.75,8.0,1.36,5.92,7.51,1.36,5.54,7.58,1.4,3.0,1.38,2.99,-1.5,1.97,1.93,Chelsea,West Ham United,chelsea,west_ham_united
+2025-02-25,E0,England-PL,2425,Chelsea,Southampton,4.0,0.0,H,3.0,0.0,H,1.17,8.0,13.0,1.17,8.97,14.66,1.17,8.55,14.69,1.29,3.75,1.28,3.72,-2.25,2.0,1.93,Chelsea,Southampton,chelsea,southampton
+2025-03-09,E0,England-PL,2425,Chelsea,Leicester,1.0,0.0,H,0.0,0.0,D,1.18,8.0,12.0,1.2,8.05,11.42,1.2,7.67,12.34,1.33,3.2,1.35,3.22,-2.0,1.95,1.95,Chelsea,Leicester City,chelsea,leicester_city
+2025-04-03,E0,England-PL,2425,Chelsea,Tottenham,1.0,0.0,H,0.0,0.0,D,1.65,4.5,4.5,1.66,4.58,4.59,1.64,4.5,4.57,1.4,3.0,1.39,2.92,-1.0,2.07,1.83,Chelsea,Tottenham Hotspur,chelsea,tottenham_hotspur
+2025-04-13,E0,England-PL,2425,Chelsea,Ipswich,2.0,2.0,D,0.0,2.0,A,1.27,7.0,8.5,1.25,6.84,10.14,1.25,6.57,9.7,1.44,2.75,1.43,2.77,-1.75,1.95,1.95,Chelsea,Ipswich,chelsea,ipswich
+2025-04-26,E0,England-PL,2425,Chelsea,Everton,1.0,0.0,H,1.0,0.0,H,1.55,4.0,6.0,1.58,4.17,6.05,1.58,4.08,5.91,1.88,2.02,1.85,1.97,-1.0,2.01,1.89,Chelsea,Everton,chelsea,everton
+2025-05-04,E0,England-PL,2425,Chelsea,Liverpool,3.0,1.0,H,1.0,0.0,H,2.15,3.7,3.1,2.19,3.78,3.21,2.18,3.71,3.14,1.53,2.5,1.54,2.45,-0.25,1.88,2.02,Chelsea,Liverpool,chelsea,liverpool
+2025-05-16,E0,England-PL,2425,Chelsea,Man United,1.0,0.0,H,0.0,0.0,D,1.44,5.0,6.25,1.47,4.89,6.68,1.46,4.9,6.51,1.5,2.63,1.49,2.6,-1.25,1.99,1.91,Chelsea,Manchester United,chelsea,manchester_united
+2025-08-17,E0,England-PL,2526,Chelsea,Crystal Palace,0.0,0.0,D,0.0,0.0,D,1.62,4.33,4.5,1.66,4.12,5.25,1.61,4.21,5.08,1.67,2.2,1.63,2.22,-0.75,1.8,2.05,Chelsea,Crystal Palace,chelsea,crystal_palace
+2025-08-30,E0,England-PL,2526,Chelsea,Fulham,2.0,0.0,H,1.0,0.0,H,1.55,4.33,5.25,1.57,4.37,5.75,1.55,4.35,5.6,1.67,2.2,1.67,2.16,-1.0,1.95,1.9,Chelsea,Fulham,chelsea,fulham
+2025-09-27,E0,England-PL,2526,Chelsea,Brighton,1.0,3.0,A,1.0,0.0,H,1.85,3.8,3.8,1.9,3.86,3.98,1.86,3.86,3.86,1.62,2.3,1.59,2.29,-0.5,1.88,1.98,Chelsea,Brighton & Hove Albion,chelsea,brighton_hove_albion
+2025-10-04,E0,England-PL,2526,Chelsea,Liverpool,2.0,1.0,H,1.0,0.0,H,2.8,3.75,2.3,2.92,3.89,2.3,2.87,3.7,2.28,1.53,2.5,1.53,2.43,0.25,1.8,2.05,Chelsea,Liverpool,chelsea,liverpool
+2025-10-25,E0,England-PL,2526,Chelsea,Sunderland,1.0,2.0,A,1.0,1.0,D,1.36,4.75,9.0,1.38,5.22,8.0,1.37,4.99,8.31,1.73,2.1,1.69,2.12,-1.5,2.05,1.8,Chelsea,Sunderland,chelsea,sunderland
+2025-11-08,E0,England-PL,2526,Chelsea,Wolves,3.0,0.0,H,0.0,0.0,D,1.36,4.75,8.5,1.37,5.26,8.42,1.36,5.06,8.27,1.62,2.3,1.62,2.23,-1.25,1.83,2.03,Chelsea,Wolverhampton,chelsea,wolverhampton
+2025-11-30,E0,England-PL,2526,Chelsea,Arsenal,1.0,1.0,D,0.0,0.0,D,3.4,3.3,2.2,3.47,3.33,2.25,3.33,3.35,2.18,1.98,1.88,1.92,1.84,0.25,1.95,1.9,Chelsea,Arsenal,chelsea,arsenal
+2025-12-13,E0,England-PL,2526,Chelsea,Everton,2.0,0.0,H,2.0,0.0,H,1.67,3.8,5.25,1.67,4.04,5.3,1.66,3.9,5.09,1.88,1.98,1.84,1.91,-0.75,1.85,2.0,Chelsea,Everton,chelsea,everton
+2025-12-27,E0,England-PL,2526,Chelsea,Aston Villa,1.0,2.0,A,1.0,0.0,H,1.83,3.9,4.0,1.85,3.95,4.1,1.84,3.82,3.97,1.67,2.2,1.68,2.12,-0.5,1.85,2.0,Chelsea,Aston Villa,chelsea,aston_villa
+2025-12-30,E0,England-PL,2526,Chelsea,Bournemouth,2.0,2.0,D,2.0,2.0,D,1.5,4.75,5.75,1.53,4.74,5.95,1.51,4.56,5.81,1.5,2.63,1.49,2.58,-1.0,1.78,2.03,Chelsea,Bournemouth,chelsea,bournemouth
+2026-01-17,E0,England-PL,2526,Chelsea,Brentford,2.0,0.0,H,1.0,0.0,H,1.73,4.0,4.75,,,,1.69,3.97,4.75,1.62,2.3,1.63,2.21,-0.75,1.93,1.93,Chelsea,Brentford,chelsea,brentford
+2026-01-31,E0,England-PL,2526,Chelsea,West Ham,3.0,2.0,H,0.0,2.0,A,1.5,4.5,6.0,,,,1.49,4.53,6.05,1.53,2.5,1.53,2.43,-1.25,2.05,1.8,Chelsea,West Ham United,chelsea,west_ham_united
+2026-02-10,E0,England-PL,2526,Chelsea,Leeds,2.0,2.0,D,1.0,0.0,H,1.55,4.33,5.5,,,,1.55,4.28,5.66,1.62,2.3,1.61,2.24,-1.0,1.9,1.95,Chelsea,Leeds,chelsea,leeds
+2026-02-21,E0,England-PL,2526,Chelsea,Burnley,1.0,1.0,D,1.0,0.0,H,1.22,6.5,12.0,,,,1.2,6.7,12.88,1.44,2.75,1.42,2.73,-2.0,2.03,1.83,Chelsea,Burnley,chelsea,burnley
+2026-03-14,E0,England-PL,2526,Chelsea,Newcastle,0.0,1.0,A,0.0,1.0,A,1.8,4.2,3.8,,,,1.79,4.12,3.86,1.5,2.63,1.47,2.58,-0.75,2.03,1.83,Chelsea,Newcastle United,chelsea,newcastle_united
+2026-04-12,E0,England-PL,2526,Chelsea,Man City,0.0,3.0,A,0.0,0.0,D,3.1,3.8,2.15,,,,3.08,3.8,2.1,1.57,2.38,1.54,2.4,0.25,1.98,1.88,Chelsea,Manchester City,chelsea,manchester_city
+2026-04-18,E0,England-PL,2526,Chelsea,Man United,0.0,1.0,A,0.0,1.0,A,2.2,3.5,3.2,,,,2.21,3.54,3.07,1.57,2.38,1.53,2.4,-0.25,1.93,1.93,Chelsea,Manchester United,chelsea,manchester_united
+2026-05-04,E0,England-PL,2526,Chelsea,Nott'm Forest,1.0,3.0,A,0.0,2.0,A,1.7,4.0,4.75,,,,1.68,3.93,4.65,1.67,2.2,1.67,2.14,-0.75,1.9,1.95,Chelsea,Nottingham Forest,chelsea,nottingham_forest
+2026-05-19,E0,England-PL,2526,Chelsea,Tottenham,2.0,1.0,H,1.0,0.0,H,1.91,3.7,3.9,,,,1.9,3.64,3.76,1.73,2.1,1.69,2.12,-0.5,1.93,1.93,Chelsea,Tottenham Hotspur,chelsea,tottenham_hotspur
+2026-08-30,E0,England-PL,2627,Chelsea,Brighton,4.0,3.0,H,3.0,1.0,H,1.83,4.0,4.0,,,,1.82,3.85,3.93,1.62,2.3,1.64,2.22,-0.5,1.83,2.03,Chelsea,Brighton & Hove Albion,chelsea,brighton_hove_albion
+2026-09-12,E0,England-PL,2627,Chelsea,Hull,2.0,2.0,D,1.0,2.0,A,1.22,6.5,11.0,,,,1.21,6.5,11.92,1.4,3.0,1.39,2.83,-2.0,2.05,1.8,Chelsea,Hull City,chelsea,hull_city
+2026-10-10,E0,England-PL,2627,Chelsea,Bournemouth,5.0,1.0,H,2.0,0.0,H,1.65,4.33,4.5,,,,1.66,4.21,4.53,1.5,2.63,1.47,2.58,-0.75,1.83,2.03,Chelsea,Bournemouth,chelsea,bournemouth

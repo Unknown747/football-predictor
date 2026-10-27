@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E3,England-L2,2122,Leyton Orient,Exeter,3.0,0.0,H,2.0,0.0,H,2.3,3.3,3.2,2.32,3.46,3.14,2.29,3.36,3.04,1.9,1.9,1.91,1.88,-0.25,2.04,1.89,Leyton Orient,Exeter City,leyton_orient,exeter_city
+2021-08-17,E3,England-L2,2122,Barrow,Exeter,0.0,0.0,D,0.0,0.0,D,2.3,3.3,3.0,2.41,3.16,3.32,2.41,3.06,3.09,2.15,1.66,2.15,1.68,-0.25,2.02,1.83,Barrow,Exeter City,barrow,exeter_city
+2021-08-28,E3,England-L2,2122,Harrogate,Exeter,1.0,1.0,D,1.0,0.0,H,2.3,3.4,3.1,2.36,3.41,3.12,2.34,3.36,2.97,1.9,1.9,1.89,1.9,-0.25,2.07,1.86,Harrogate Town,Exeter City,harrogate_town,exeter_city
+2021-09-11,E3,England-L2,2122,Scunthorpe,Exeter,0.0,4.0,A,0.0,1.0,A,2.87,3.2,2.45,2.98,3.22,2.51,2.91,3.16,2.48,2.25,1.61,2.26,1.62,0.0,2.1,1.77,Scunthorpe United,Exeter City,scunthorpe_united,exeter_city
+2021-09-25,E3,England-L2,2122,Hartlepool,Exeter,1.0,1.0,D,1.0,1.0,D,2.4,3.3,3.0,2.47,3.27,3.0,2.42,3.23,2.94,2.15,1.66,2.16,1.67,-0.25,2.1,1.77,Hartlepool United,Exeter City,hartlepool_united,exeter_city
+2021-10-09,E3,England-L2,2122,Stevenage,Exeter,2.0,2.0,D,1.0,1.0,D,2.75,3.25,2.6,2.89,3.06,2.7,2.78,3.05,2.64,2.3,1.6,2.33,1.58,0.0,1.98,1.88,Stevenage,Exeter City,stevenage,exeter_city
+2021-10-19,E3,England-L2,2122,Crawley Town,Exeter,1.0,3.0,A,1.0,0.0,H,3.0,3.3,2.45,3.07,3.41,2.41,2.95,3.27,2.39,2.05,1.75,2.04,1.76,0.25,1.8,2.05,Crawley Town,Exeter City,crawley_town,exeter_city
+2021-10-30,E3,England-L2,2122,Salford,Exeter,1.0,2.0,A,0.0,0.0,D,2.2,3.4,3.3,2.34,3.28,3.21,2.28,3.25,3.12,2.15,1.66,2.14,1.67,-0.25,1.98,1.88,Salford City,Exeter City,salford_city,exeter_city
+2021-11-23,E3,England-L2,2122,Colchester,Exeter,3.0,1.0,H,2.0,0.0,H,3.75,3.4,2.05,3.83,3.33,2.12,3.62,3.29,2.07,2.15,1.66,2.13,1.69,0.25,2.05,1.8,Colchester United,Exeter City,colchester_united,exeter_city
+2021-11-27,E3,England-L2,2122,Rochdale,Exeter,1.0,1.0,D,0.0,0.0,D,2.55,3.3,2.8,2.55,3.39,2.8,2.49,3.32,2.76,1.95,1.9,1.91,1.87,0.0,1.83,2.02,Rochdale,Exeter City,rochdale,exeter_city
+2022-01-01,E3,England-L2,2122,Sutton,Exeter,2.0,1.0,H,1.0,1.0,D,2.6,3.4,2.7,2.66,3.33,2.72,2.59,3.29,2.66,2.05,1.75,2.03,1.75,0.0,1.88,1.98,Sutton United,Exeter City,sutton_united,exeter_city
+2022-01-04,E3,England-L2,2122,Forest Green,Exeter,0.0,0.0,D,0.0,0.0,D,1.6,4.0,5.75,1.61,4.07,5.81,1.6,3.94,5.4,1.75,2.05,1.75,2.04,-1.0,2.05,1.8,Forest Green Rovers,Exeter City,forest_green_rovers,exeter_city
+2022-01-22,E3,England-L2,2122,Walsall,Exeter,0.0,2.0,A,0.0,1.0,A,2.62,3.25,2.75,2.74,3.32,2.65,2.6,3.21,2.69,2.15,1.66,2.11,1.69,0.0,1.88,1.98,Walsall,Exeter City,walsall,exeter_city
+2022-02-05,E3,England-L2,2122,Swindon,Exeter,1.0,2.0,A,0.0,0.0,D,2.3,3.25,3.25,2.45,3.22,3.07,2.35,3.24,2.99,2.05,1.75,1.98,1.79,-0.25,2.02,1.83,Swindon Town,Exeter City,swindon_town,exeter_city
+2022-02-12,E3,England-L2,2122,Bradford,Exeter,0.0,1.0,A,0.0,1.0,A,2.5,3.25,2.87,2.62,3.34,2.75,2.53,3.27,2.72,2.1,1.7,2.1,1.7,0.0,1.8,2.05,Bradford City,Exeter City,bradford_city,exeter_city
+2022-02-26,E3,England-L2,2122,Bristol Rvs,Exeter,1.0,1.0,D,1.0,1.0,D,2.62,3.3,2.7,2.78,3.32,2.61,2.7,3.28,2.56,2.1,1.7,2.1,1.69,0.0,1.9,1.95,Bristol Rvs,Exeter City,bristol_rvs,exeter_city
+2022-03-04,E3,England-L2,2122,Mansfield,Exeter,2.0,1.0,H,1.0,0.0,H,2.45,3.3,2.87,2.58,3.19,3.02,2.48,3.16,2.91,2.2,1.65,2.14,1.67,0.0,1.77,2.1,Mansfield Town,Exeter City,mansfield_town,exeter_city
+2022-03-19,E3,England-L2,2122,Oldham,Exeter,0.0,2.0,A,0.0,0.0,D,4.0,3.6,1.9,3.83,3.67,1.95,3.74,3.54,1.94,1.98,1.88,1.94,1.83,0.5,1.98,1.88,Oldham,Exeter City,oldham,exeter_city
+2022-03-22,E3,England-L2,2122,Port Vale,Exeter,0.0,0.0,D,0.0,0.0,D,2.4,3.25,3.1,2.42,3.23,3.23,2.39,3.15,3.04,2.3,1.6,2.24,1.61,-0.25,2.1,1.77,Port Vale,Exeter City,port_vale,exeter_city
+2022-04-02,E3,England-L2,2122,Newport County,Exeter,0.0,1.0,A,0.0,0.0,D,2.4,3.3,3.0,2.52,3.28,2.92,2.44,3.26,2.86,2.0,1.8,2.0,1.77,0.0,1.73,2.08,Newport County,Exeter City,newport_county,exeter_city
+2022-04-09,E3,England-L2,2122,Carlisle,Exeter,0.0,1.0,A,0.0,0.0,D,4.0,3.4,1.95,4.22,3.54,1.9,3.98,3.38,1.93,2.15,1.66,2.09,1.7,0.5,1.88,1.98,Carlisle United,Exeter City,carlisle_united,exeter_city
+2022-04-18,E3,England-L2,2122,Tranmere,Exeter,2.0,0.0,H,1.0,0.0,H,3.4,3.1,2.3,3.37,3.18,2.31,3.19,3.14,2.3,2.4,1.53,2.37,1.55,0.25,1.88,1.98,Tranmere Rovers,Exeter City,tranmere_rovers,exeter_city
+2022-04-30,E3,England-L2,2122,Northampton,Exeter,1.0,1.0,D,1.0,0.0,H,2.2,3.2,3.5,2.18,3.25,3.58,2.18,3.16,3.41,2.25,1.61,2.29,1.59,-0.25,1.9,1.95,Northampton Town,Exeter City,northampton_town,exeter_city
+2022-07-30,E2,England-L1,2223,Lincoln,Exeter,1.0,1.0,D,0.0,1.0,A,2.37,3.2,3.2,2.37,3.49,3.08,2.32,3.3,3.0,1.98,1.88,1.95,1.82,-0.25,2.0,1.85,Lincoln City,Exeter City,lincoln_city,exeter_city
+2022-08-13,E2,England-L1,2223,Cambridge,Exeter,2.0,1.0,H,0.0,1.0,A,2.87,3.3,2.5,2.89,3.42,2.54,2.78,3.32,2.48,2.02,1.83,1.96,1.81,0.0,2.05,1.8,Cambridge United,Exeter City,cambridge_united,exeter_city
+2022-08-27,E2,England-L1,2223,Accrington,Exeter,0.0,0.0,D,0.0,0.0,D,2.75,3.5,2.5,2.76,3.73,2.49,2.66,3.51,2.47,1.72,2.07,1.71,2.08,0.0,2.02,1.83,Accrington Stanley,Exeter City,accrington_stanley,exeter_city
+2022-09-13,E2,England-L1,2223,Shrewsbury,Exeter,3.0,2.0,H,2.0,2.0,D,3.1,3.1,2.45,3.06,3.23,2.52,2.97,3.13,2.44,2.3,1.6,2.29,1.6,0.25,1.77,2.1,Shrewsbury Town,Exeter City,shrewsbury_town,exeter_city
+2022-09-24,E2,England-L1,2223,Forest Green,Exeter,0.0,4.0,A,0.0,3.0,A,3.4,3.3,2.2,3.26,3.49,2.27,3.15,3.36,2.23,2.0,1.85,2.02,1.76,0.25,1.88,1.98,Forest Green Rovers,Exeter City,forest_green_rovers,exeter_city
+2022-10-08,E2,England-L1,2223,Barnsley,Exeter,0.0,2.0,A,0.0,1.0,A,2.2,3.4,3.25,2.24,3.56,3.27,2.2,3.41,3.16,1.95,1.9,1.9,1.87,-0.25,1.9,1.95,Barnsley,Exeter City,barnsley,exeter_city
+2022-10-11,E2,England-L1,2223,Charlton,Exeter,4.0,2.0,H,2.0,1.0,H,2.4,3.4,2.9,2.41,3.4,3.08,2.37,3.32,2.96,1.85,2.0,1.85,1.93,-0.25,2.05,1.8,Charlton,Exeter City,charlton,exeter_city
+2022-10-25,E2,England-L1,2223,Derby,Exeter,0.0,0.0,D,0.0,0.0,D,1.9,3.6,4.0,1.96,3.7,3.92,1.93,3.54,3.84,1.88,1.98,1.86,1.92,-0.5,1.95,1.9,Derby,Exeter City,derby,exeter_city
+2022-10-31,E2,England-L1,2223,Plymouth,Exeter,4.0,2.0,H,1.0,1.0,D,1.95,3.6,3.8,1.96,3.58,3.91,1.97,3.47,3.61,1.85,2.0,1.81,1.93,-0.5,1.95,1.9,Plymouth Argyle,Exeter City,plymouth_argyle,exeter_city
+2022-12-02,E2,England-L1,2223,Morecambe,Exeter,1.0,1.0,D,1.0,1.0,D,3.5,3.75,2.0,3.57,3.74,2.05,3.46,3.53,2.03,1.9,1.95,1.88,1.89,0.5,1.8,2.05,Morecambe,Exeter City,morecambe,exeter_city
+2022-12-17,E2,England-L1,2223,Bolton,Exeter,2.0,0.0,H,2.0,0.0,H,2.05,3.5,3.6,2.09,3.49,3.57,2.09,3.44,3.4,1.93,1.93,1.89,1.87,-0.25,1.77,2.02,Bolton,Exeter City,bolton,exeter_city
+2022-12-29,E2,England-L1,2223,Bristol Rvs,Exeter,3.0,4.0,A,0.0,2.0,A,2.3,3.3,3.1,2.32,3.52,3.15,2.3,3.33,3.05,2.0,1.85,1.97,1.81,-0.25,2.0,1.85,Bristol Rvs,Exeter City,bristol_rvs,exeter_city
+2023-01-01,E2,England-L1,2223,Oxford,Exeter,0.0,1.0,A,0.0,0.0,D,1.91,3.6,3.8,1.97,3.67,3.91,1.94,3.53,3.73,1.98,1.88,1.94,1.83,-0.5,1.93,1.93,Oxford United,Exeter City,oxford_united,exeter_city
+2023-01-21,E2,England-L1,2223,Portsmouth,Exeter,2.0,0.0,H,0.0,0.0,D,2.15,3.4,3.4,2.19,3.53,3.4,2.12,3.38,3.34,2.02,1.83,2.0,1.78,-0.25,1.77,2.02,Portsmouth,Exeter City,portsmouth,exeter_city
+2023-01-28,E2,England-L1,2223,Milton Keynes Dons,Exeter,0.0,2.0,A,0.0,1.0,A,2.6,3.3,2.75,2.66,3.31,2.74,2.6,3.27,2.65,2.05,1.75,2.02,1.76,0.0,1.9,1.95,MK Dons,Exeter City,mk_dons,exeter_city
+2023-02-11,E2,England-L1,2223,Burton,Exeter,1.0,0.0,H,0.0,0.0,D,2.6,3.4,2.7,2.58,3.53,2.69,2.53,3.41,2.65,1.9,1.95,1.87,1.9,0.0,1.88,1.98,Burton Albion,Exeter City,burton_albion,exeter_city
+2023-02-18,E2,England-L1,2223,Port Vale,Exeter,1.0,0.0,H,0.0,0.0,D,2.38,3.25,3.1,2.49,3.3,3.04,2.4,3.26,2.93,2.1,1.7,2.13,1.69,-0.25,2.05,1.8,Port Vale,Exeter City,port_vale,exeter_city
+2023-03-04,E2,England-L1,2223,Wycombe,Exeter,1.0,1.0,D,1.0,0.0,H,2.0,3.6,3.6,2.01,3.51,3.97,2.01,3.43,3.64,2.05,1.75,2.0,1.77,-0.5,2.02,1.83,Wycombe Wanderers,Exeter City,wycombe_wanderers,exeter_city
+2023-03-18,E2,England-L1,2223,Cheltenham,Exeter,3.0,1.0,H,1.0,0.0,H,2.8,3.2,2.55,2.91,3.24,2.63,2.84,3.13,2.54,2.25,1.62,2.25,1.62,0.0,1.98,1.83,Cheltenham Town,Exeter City,cheltenham_town,exeter_city
+2023-04-01,E2,England-L1,2223,Fleetwood Town,Exeter,2.0,2.0,D,2.0,1.0,H,2.8,3.25,2.63,2.8,3.33,2.61,2.73,3.27,2.56,2.08,1.73,2.01,1.77,0.0,2.0,1.85,Fleetwood Town,Exeter City,fleetwood_town,exeter_city
+2023-04-10,E2,England-L1,2223,Peterboro,Exeter,3.0,1.0,H,2.0,0.0,H,1.8,3.5,4.75,1.81,3.78,4.6,1.76,3.69,4.44,1.9,1.95,1.86,1.91,-0.75,2.0,1.85,Peterborough United,Exeter City,peterborough_united,exeter_city
+2023-04-22,E2,England-L1,2223,Sheffield Weds,Exeter,2.0,1.0,H,0.0,0.0,D,1.36,4.75,9.0,1.36,4.97,9.71,1.36,4.66,8.73,1.9,1.95,1.87,1.9,-1.25,1.85,2.0,Sheffield Wednesday,Exeter City,sheffield_wednesday,exeter_city
+2023-04-29,E2,England-L1,2223,Ipswich,Exeter,6.0,0.0,H,5.0,0.0,H,1.18,6.5,17.0,1.17,7.45,18.66,1.17,6.93,15.79,1.6,2.3,1.59,2.29,-2.0,2.0,1.8,Ipswich,Exeter City,ipswich,exeter_city
+2023-08-05,E2,England-L1,2324,Wycombe,Exeter,0.0,3.0,A,0.0,2.0,A,1.91,3.6,4.0,1.93,3.68,4.07,1.92,3.58,3.8,1.88,1.98,1.85,1.92,-0.5,1.93,1.93,Wycombe Wanderers,Exeter City,wycombe_wanderers,exeter_city
+2023-08-15,E2,England-L1,2324,Portsmouth,Exeter,1.0,0.0,H,0.0,0.0,D,1.91,3.6,4.0,1.89,3.67,4.24,1.9,3.56,3.95,1.9,1.95,1.88,1.89,-0.5,1.95,1.9,Portsmouth,Exeter City,portsmouth,exeter_city
+2023-08-19,E2,England-L1,2324,Carlisle,Exeter,0.0,2.0,A,0.0,0.0,D,2.63,3.3,2.7,2.72,3.31,2.75,2.65,3.21,2.66,2.08,1.73,2.07,1.73,0.0,1.93,1.93,Carlisle United,Exeter City,carlisle_united,exeter_city
+2023-09-02,E2,England-L1,2324,Burton,Exeter,0.0,1.0,A,0.0,0.0,D,2.8,3.4,2.5,2.9,3.43,2.52,2.79,3.35,2.46,1.95,1.9,1.88,1.89,0.0,2.03,1.83,Burton Albion,Exeter City,burton_albion,exeter_city
+2023-09-23,E2,England-L1,2324,Oxford,Exeter,3.0,0.0,H,1.0,0.0,H,1.83,3.8,4.0,1.81,3.83,4.51,1.82,3.69,4.12,1.85,2.0,1.83,1.94,-0.75,2.08,1.73,Oxford United,Exeter City,oxford_united,exeter_city
+2023-10-03,E2,England-L1,2324,Charlton,Exeter,4.0,1.0,H,1.0,1.0,D,2.05,3.6,3.6,2.08,3.65,3.57,2.04,3.56,3.42,1.73,2.08,1.73,2.06,-0.25,1.75,2.05,Charlton,Exeter City,charlton,exeter_city
+2023-10-24,E2,England-L1,2324,Derby,Exeter,2.0,0.0,H,1.0,0.0,H,1.57,4.0,5.75,1.6,4.2,5.74,1.58,4.03,5.46,1.85,2.0,1.82,1.96,-1.0,2.0,1.85,Derby,Exeter City,derby,exeter_city
+2023-11-11,E2,England-L1,2324,Fleetwood Town,Exeter,3.0,0.0,H,3.0,0.0,H,2.2,3.5,3.2,2.28,3.56,3.2,2.2,3.45,3.12,1.85,2.0,1.84,1.93,-0.25,1.95,1.9,Fleetwood Town,Exeter City,fleetwood_town,exeter_city
+2023-11-25,E2,England-L1,2324,Bolton,Exeter,7.0,0.0,H,2.0,0.0,H,1.44,4.75,6.5,1.47,4.55,7.21,1.45,4.52,6.62,1.65,2.2,1.68,2.14,-1.25,1.95,1.85,Bolton,Exeter City,bolton,exeter_city
+2023-12-16,E2,England-L1,2324,Stevenage,Exeter,1.0,1.0,D,1.0,0.0,H,1.6,3.8,6.0,1.57,4.13,6.27,1.57,3.94,5.87,2.0,1.85,1.95,1.83,-1.0,2.03,1.83,Stevenage,Exeter City,stevenage,exeter_city
+2023-12-22,E2,England-L1,2324,Cambridge,Exeter,2.0,0.0,H,1.0,0.0,H,2.05,3.2,4.0,2.08,3.25,4.08,2.04,3.22,3.78,2.3,1.6,2.29,1.6,-0.25,1.73,2.08,Cambridge United,Exeter City,cambridge_united,exeter_city
+2024-01-01,E2,England-L1,2324,Reading,Exeter,3.0,2.0,H,2.0,1.0,H,1.83,3.5,4.5,1.85,3.85,4.28,1.81,3.64,4.16,1.9,1.95,1.84,1.93,-0.75,2.05,1.75,Reading,Exeter City,reading,exeter_city
+2024-01-13,E2,England-L1,2324,Blackpool,Exeter,2.0,0.0,H,1.0,0.0,H,1.53,4.0,6.5,1.59,4.21,5.89,1.55,4.07,5.65,1.85,2.0,1.81,1.96,-1.0,1.98,1.88,Blackpool,Exeter City,blackpool,exeter_city
+2024-01-23,E2,England-L1,2324,Bristol Rvs,Exeter,0.0,1.0,A,0.0,1.0,A,1.73,3.8,4.75,1.72,3.93,4.97,1.71,3.77,4.59,1.9,1.95,1.85,1.91,-0.75,1.93,1.93,Bristol Rvs,Exeter City,bristol_rvs,exeter_city
+2024-01-27,E2,England-L1,2324,Barnsley,Exeter,1.0,2.0,A,0.0,2.0,A,1.57,4.5,5.0,1.59,4.32,5.63,1.55,4.17,5.38,1.7,2.1,1.71,2.07,-1.0,1.98,1.88,Barnsley,Exeter City,barnsley,exeter_city
+2024-02-10,E2,England-L1,2324,Wigan,Exeter,1.0,2.0,A,0.0,1.0,A,2.1,3.5,3.5,2.18,3.32,3.64,2.09,3.32,3.46,2.08,1.73,2.08,1.71,-0.25,1.83,2.03,Wigan Athletic,Exeter City,wigan_athletic,exeter_city
+2024-02-17,E2,England-L1,2324,Lincoln,Exeter,1.0,0.0,H,0.0,0.0,D,2.15,3.25,3.6,2.21,3.22,3.69,2.13,3.18,3.5,2.3,1.6,2.31,1.58,-0.25,1.85,2.0,Lincoln City,Exeter City,lincoln_city,exeter_city
+2024-03-02,E2,England-L1,2324,Peterboro,Exeter,2.0,1.0,H,1.0,1.0,D,1.5,4.33,6.5,1.48,4.87,6.44,1.46,4.53,6.21,1.65,2.2,1.62,2.24,-1.25,2.05,1.8,Peterborough United,Exeter City,peterborough_united,exeter_city
+2024-03-12,E2,England-L1,2324,Shrewsbury,Exeter,0.0,3.0,A,0.0,3.0,A,2.5,3.25,2.88,2.61,3.22,2.95,2.5,3.16,2.86,2.15,1.67,2.18,1.66,0.0,1.78,2.1,Shrewsbury Town,Exeter City,shrewsbury_town,exeter_city
+2024-04-01,E2,England-L1,2324,Cheltenham,Exeter,1.0,2.0,A,0.0,0.0,D,2.15,3.3,3.5,2.19,3.49,3.38,2.16,3.34,3.25,2.08,1.73,2.06,1.73,-0.25,1.88,1.98,Cheltenham Town,Exeter City,cheltenham_town,exeter_city
+2024-04-09,E2,England-L1,2324,Leyton Orient,Exeter,2.0,2.0,D,1.0,0.0,H,1.85,3.6,4.0,1.88,3.59,4.36,1.87,3.49,4.08,2.05,1.75,2.05,1.75,-0.5,1.9,1.95,Leyton Orient,Exeter City,leyton_orient,exeter_city
+2024-04-13,E2,England-L1,2324,Port Vale,Exeter,2.0,4.0,A,2.0,0.0,H,2.15,3.5,3.4,2.17,3.51,3.4,2.13,3.4,3.3,2.08,1.73,2.06,1.73,-0.25,1.88,1.98,Port Vale,Exeter City,port_vale,exeter_city
+2024-04-20,E2,England-L1,2324,Northampton,Exeter,1.0,2.0,A,0.0,1.0,A,2.55,3.4,2.75,2.65,3.25,2.83,2.52,3.28,2.73,2.0,1.85,1.94,1.82,0.0,1.85,2.0,Northampton Town,Exeter City,northampton_town,exeter_city
+2024-08-17,E2,England-L1,2425,Northampton,Exeter,2.0,1.0,H,0.0,1.0,A,2.55,3.3,2.7,2.55,3.27,2.81,2.53,3.23,2.74,2.1,1.7,2.1,1.7,0.0,1.85,2.0,Northampton Town,Exeter City,northampton_town,exeter_city
+2024-08-31,E2,England-L1,2425,Bolton,Exeter,0.0,2.0,A,0.0,1.0,A,1.45,4.33,6.5,1.47,4.66,6.35,1.46,4.39,6.46,1.8,2.05,1.77,2.01,-1.25,2.05,1.8,Bolton,Exeter City,bolton,exeter_city
+2024-09-14,E2,England-L1,2425,Blackpool,Exeter,2.0,1.0,H,1.0,0.0,H,1.65,3.9,5.0,1.65,4.09,4.71,1.64,3.92,4.8,1.73,2.08,1.74,2.05,-0.75,1.83,2.03,Blackpool,Exeter City,blackpool,exeter_city
+2024-09-28,E2,England-L1,2425,Wigan,Exeter,0.0,0.0,D,0.0,0.0,D,2.25,3.25,3.1,2.37,3.18,3.14,2.28,3.22,3.11,2.05,1.75,2.04,1.75,-0.25,2.0,1.85,Wigan Athletic,Exeter City,wigan_athletic,exeter_city
+2024-10-01,E2,England-L1,2425,Leyton Orient,Exeter,0.0,1.0,A,0.0,1.0,A,1.91,3.6,3.7,1.96,3.79,3.76,1.94,3.59,3.66,1.93,1.93,1.91,1.87,-0.5,1.95,1.9,Leyton Orient,Exeter City,leyton_orient,exeter_city
+2024-10-17,E2,England-L1,2425,Shrewsbury,Exeter,0.0,2.0,A,0.0,1.0,A,3.0,3.6,2.3,3.17,3.35,2.35,2.98,3.32,2.32,2.0,1.85,1.98,1.79,0.25,1.83,2.03,Shrewsbury Town,Exeter City,shrewsbury_town,exeter_city
+2024-10-26,E2,England-L1,2425,Huddersfield,Exeter,2.0,0.0,H,1.0,0.0,H,1.62,3.75,4.75,1.68,3.81,4.91,1.67,3.76,4.83,1.93,1.93,1.88,1.88,-0.75,1.88,1.98,Huddersfield,Exeter City,huddersfield,exeter_city
+2024-11-23,E2,England-L1,2425,Wrexham,Exeter,3.0,0.0,H,2.0,0.0,H,1.8,3.75,4.1,1.81,3.74,4.21,1.8,3.63,4.19,1.98,1.88,1.93,1.83,-0.75,2.05,1.75,Wrexham,Exeter City,wrexham,exeter_city
+2024-12-07,E2,England-L1,2425,Stockport,Exeter,2.0,0.0,H,0.0,0.0,D,1.57,4.1,5.5,1.57,4.05,5.62,1.57,3.96,5.44,1.9,1.95,1.86,1.9,-1.0,2.03,1.83,Stockport County,Exeter City,stockport_county,exeter_city
+2024-12-21,E2,England-L1,2425,Burton,Exeter,1.0,2.0,A,1.0,1.0,D,2.88,3.4,2.3,2.97,3.35,2.39,2.89,3.35,2.34,1.98,1.88,1.94,1.83,0.25,1.8,2.05,Burton Albion,Exeter City,burton_albion,exeter_city
+2025-01-01,E2,England-L1,2425,Wycombe,Exeter,2.0,1.0,H,0.0,0.0,D,1.57,4.2,5.0,1.58,4.07,5.41,1.57,3.99,5.27,1.85,2.0,1.83,1.92,-1.0,2.03,1.83,Wycombe Wanderers,Exeter City,wycombe_wanderers,exeter_city
+2025-01-18,E2,England-L1,2425,Birmingham,Exeter,1.0,0.0,H,1.0,0.0,H,1.3,5.0,9.5,1.32,5.21,8.73,1.31,5.13,8.71,1.67,2.15,1.67,2.13,-1.5,1.98,1.88,Birmingham,Exeter City,birmingham,exeter_city
+2025-01-21,E2,England-L1,2425,Peterboro,Exeter,1.0,1.0,D,1.0,0.0,H,1.91,3.5,3.8,1.97,3.81,3.7,1.95,3.68,3.56,1.67,2.1,1.67,2.15,-0.5,1.95,1.9,Peterborough United,Exeter City,peterborough_united,exeter_city
+2025-02-01,E2,England-L1,2425,Stevenage,Exeter,4.0,1.0,H,2.0,1.0,H,1.65,3.6,5.5,1.65,3.85,5.41,1.64,3.66,5.4,2.15,1.67,2.16,1.66,-0.75,1.85,2.0,Stevenage,Exeter City,stevenage,exeter_city
+2025-02-15,E2,England-L1,2425,Cambridge,Exeter,0.0,1.0,A,0.0,0.0,D,2.05,3.4,3.5,2.1,3.36,3.69,2.06,3.31,3.51,2.0,1.85,1.98,1.79,-0.25,1.8,2.05,Cambridge United,Exeter City,cambridge_united,exeter_city
+2025-02-22,E2,England-L1,2425,Charlton,Exeter,3.0,0.0,H,1.0,0.0,H,1.5,4.2,6.0,1.48,4.34,6.48,1.48,4.19,6.22,1.98,1.88,1.9,1.86,-1.0,1.88,1.98,Charlton,Exeter City,charlton,exeter_city
+2025-03-04,E2,England-L1,2425,Reading,Exeter,0.0,0.0,D,0.0,0.0,D,1.73,3.8,4.5,1.76,3.77,4.77,1.75,3.69,4.38,1.9,1.95,1.85,1.93,-0.75,1.98,1.88,Reading,Exeter City,reading,exeter_city
+2025-03-15,E2,England-L1,2425,Rotherham,Exeter,1.0,1.0,D,1.0,0.0,H,1.7,3.75,4.75,1.73,3.63,4.83,1.72,3.59,4.64,2.03,1.83,1.98,1.79,-0.75,1.95,1.9,Rotherham United,Exeter City,rotherham_united,exeter_city
+2025-03-22,E2,England-L1,2425,Lincoln,Exeter,0.0,0.0,D,0.0,0.0,D,1.75,3.5,4.5,1.77,3.59,4.65,1.76,3.47,4.55,2.2,1.65,2.19,1.64,-0.75,2.05,1.8,Lincoln City,Exeter City,lincoln_city,exeter_city
+2025-04-01,E2,England-L1,2425,Barnsley,Exeter,1.0,2.0,A,0.0,1.0,A,1.9,3.5,3.9,1.93,3.76,3.88,1.88,3.67,3.82,1.8,2.0,1.77,2.02,-0.5,1.93,1.93,Barnsley,Exeter City,barnsley,exeter_city
+2025-04-12,E2,England-L1,2425,Bristol Rvs,Exeter,1.0,2.0,A,0.0,2.0,A,2.38,3.3,2.9,2.56,3.12,2.92,2.47,3.17,2.86,2.05,1.75,2.06,1.74,0.0,1.73,2.08,Bristol Rvs,Exeter City,bristol_rvs,exeter_city
+2025-04-21,E2,England-L1,2425,Crawley Town,Exeter,3.0,1.0,H,3.0,1.0,H,2.1,3.75,3.1,2.18,3.6,3.14,2.15,3.53,3.11,1.83,2.03,1.84,1.94,-0.25,1.88,1.98,Crawley Town,Exeter City,crawley_town,exeter_city
+2025-05-03,E2,England-L1,2425,Mansfield,Exeter,3.0,0.0,H,2.0,0.0,H,1.9,3.5,3.9,1.92,3.69,3.63,1.93,3.64,3.61,1.72,2.05,1.74,2.04,-0.5,1.93,1.93,Mansfield Town,Exeter City,mansfield_town,exeter_city
+2025-08-02,E2,England-L1,2526,Doncaster,Exeter,1.0,0.0,H,0.0,0.0,D,1.85,3.5,4.1,1.83,3.57,4.29,1.85,3.57,4.05,2.0,1.85,1.92,1.83,-0.5,1.82,1.92,Doncaster Rovers,Exeter City,doncaster_rovers,exeter_city
+2025-08-19,E2,England-L1,2526,Wycombe,Exeter,0.0,1.0,A,0.0,0.0,D,1.65,4.0,4.75,1.66,4.13,5.05,1.64,3.87,5.03,2.0,1.85,1.92,1.81,-0.75,1.85,2.0,Wycombe Wanderers,Exeter City,wycombe_wanderers,exeter_city
+2025-08-23,E2,England-L1,2526,Northampton,Exeter,2.0,0.0,H,2.0,0.0,H,2.35,3.1,3.1,2.45,3.12,3.07,2.37,3.17,2.99,2.25,1.62,2.26,1.58,-0.25,2.05,1.8,Northampton Town,Exeter City,northampton_town,exeter_city
+2025-09-06,E2,England-L1,2526,Rotherham,Exeter,1.0,0.0,H,1.0,0.0,H,2.1,3.3,3.1,2.22,3.33,3.29,2.25,3.33,3.07,2.05,1.75,2.01,1.75,-0.25,1.98,1.88,Rotherham United,Exeter City,rotherham_united,exeter_city
+2025-09-20,E2,England-L1,2526,Stevenage,Exeter,2.0,1.0,H,1.0,1.0,D,1.76,3.4,4.5,1.83,3.41,4.6,1.79,3.45,4.54,2.25,1.62,2.19,1.63,-0.5,1.83,2.03,Stevenage,Exeter City,stevenage,exeter_city
+2025-10-04,E2,England-L1,2526,Lincoln,Exeter,0.0,1.0,A,0.0,0.0,D,1.57,3.8,5.0,1.61,3.82,5.55,1.64,3.65,5.32,2.1,1.7,2.04,1.73,-0.75,1.83,2.03,Lincoln City,Exeter City,lincoln_city,exeter_city
+2025-10-18,E2,England-L1,2526,Stockport,Exeter,1.0,0.0,H,1.0,0.0,H,1.41,4.2,7.0,1.42,4.84,6.52,1.44,4.41,6.65,1.83,2.03,1.77,1.97,-1.25,2.05,1.8,Stockport County,Exeter City,stockport_county,exeter_city
+2025-11-15,E2,England-L1,2526,Leyton Orient,Exeter,2.0,1.0,H,0.0,1.0,A,1.76,3.75,4.0,,,,1.8,3.7,4.12,1.88,1.98,1.82,1.92,-0.5,1.83,2.03,Leyton Orient,Exeter City,leyton_orient,exeter_city
+2025-11-29,E2,England-L1,2526,Bradford,Exeter,1.0,0.0,H,1.0,0.0,H,1.62,3.7,5.0,,,,1.69,3.74,4.74,1.85,1.95,1.83,1.89,-0.75,1.93,1.93,Bradford City,Exeter City,bradford_city,exeter_city
+2025-12-13,E2,England-L1,2526,Bolton,Exeter,2.0,1.0,H,0.0,1.0,A,1.41,4.5,6.25,,,,1.45,4.49,6.32,1.67,2.15,1.66,2.1,-1.25,2.03,1.83,Bolton,Exeter City,bolton,exeter_city
+2025-12-26,E2,England-L1,2526,Cardiff,Exeter,1.0,0.0,H,0.0,0.0,D,1.51,4.0,5.75,,,,1.55,4.04,5.47,1.73,2.08,1.74,2.0,-1.0,2.0,1.85,Cardiff City,Exeter City,cardiff_city,exeter_city
+2025-12-29,E2,England-L1,2526,AFC Wimbledon,Exeter,0.0,1.0,A,0.0,1.0,A,2.3,3.2,2.95,,,,2.37,3.16,3.0,2.35,1.57,2.28,1.57,-0.25,2.05,1.8,AFC Wimbledon,Exeter City,afc_wimbledon,exeter_city
+2026-01-04,E2,England-L1,2526,Huddersfield,Exeter,2.0,2.0,D,2.0,1.0,H,1.62,3.5,5.25,,,,1.64,3.74,5.04,1.95,1.85,1.87,1.85,-0.75,1.88,1.98,Huddersfield,Exeter City,huddersfield,exeter_city
+2026-01-24,E2,England-L1,2526,Port Vale,Exeter,1.0,3.0,A,0.0,1.0,A,2.35,3.2,3.0,,,,2.38,3.19,2.95,2.15,1.67,2.12,1.66,-0.25,2.1,1.78,Port Vale,Exeter City,port_vale,exeter_city
+2026-01-27,E2,England-L1,2526,Reading,Exeter,2.0,2.0,D,1.0,1.0,D,2.15,3.5,3.0,,,,2.17,3.32,3.25,1.85,1.95,1.9,1.83,-0.25,1.93,1.93,Reading,Exeter City,reading,exeter_city
+2026-02-07,E2,England-L1,2526,Mansfield,Exeter,0.0,0.0,D,0.0,0.0,D,2.1,3.3,3.25,,,,2.18,3.31,3.19,2.0,1.8,1.97,1.77,-0.25,1.9,1.95,Mansfield Town,Exeter City,mansfield_town,exeter_city
+2026-02-21,E2,England-L1,2526,Peterboro,Exeter,3.0,3.0,D,1.0,0.0,H,2.15,3.4,3.0,,,,2.22,3.55,2.94,1.75,2.05,1.72,2.02,-0.25,1.98,1.88,Peterborough United,Exeter City,peterborough_united,exeter_city
+2026-03-07,E2,England-L1,2526,Barnsley,Exeter,2.0,1.0,H,2.0,0.0,H,1.91,3.75,3.5,,,,1.96,3.62,3.45,1.7,2.1,1.68,2.08,-0.5,2.0,1.85,Barnsley,Exeter City,barnsley,exeter_city
+2026-03-17,E2,England-L1,2526,Luton,Exeter,3.0,2.0,H,3.0,1.0,H,1.57,3.8,5.0,,,,1.64,3.83,4.93,1.85,2.0,1.8,1.94,-0.75,1.83,2.03,Luton,Exeter City,luton,exeter_city
+2026-03-21,E2,England-L1,2526,Wigan,Exeter,2.0,0.0,H,1.0,0.0,H,1.96,3.0,4.1,,,,1.98,3.2,3.9,2.1,1.7,2.08,1.68,-0.5,2.03,1.83,Wigan Athletic,Exeter City,wigan_athletic,exeter_city
+2026-04-03,E2,England-L1,2526,Blackpool,Exeter,1.0,0.0,H,1.0,0.0,H,2.1,3.4,3.2,,,,2.13,3.44,3.18,1.85,1.95,1.8,1.93,-0.25,1.9,1.95,Blackpool,Exeter City,blackpool,exeter_city
+2026-04-11,E2,England-L1,2526,Plymouth,Exeter,2.0,2.0,D,0.0,0.0,D,1.53,4.0,5.5,,,,1.56,4.18,5.13,1.62,2.25,1.6,2.22,-1.0,1.98,1.88,Plymouth Argyle,Exeter City,plymouth_argyle,exeter_city
+2026-04-25,E2,England-L1,2526,Burton,Exeter,1.0,1.0,D,0.0,1.0,A,1.91,3.5,3.7,,,,1.94,3.53,3.62,1.8,2.0,1.76,1.96,-0.5,1.98,1.88,Burton Albion,Exeter City,burton_albion,exeter_city
+2026-08-15,E3,England-L2,2627,Grimsby,Exeter,1.0,0.0,H,1.0,0.0,H,1.76,3.6,4.2,,,,1.77,3.68,4.24,1.85,1.95,1.82,1.89,-0.5,1.83,2.03,Grimsby Town,Exeter City,grimsby_town,exeter_city
+2026-08-29,E3,England-L2,2627,York,Exeter,2.0,1.0,H,1.0,0.0,H,1.62,3.75,4.75,,,,1.68,3.83,4.63,1.85,1.95,1.79,1.93,-0.75,1.9,1.95,York,Exeter City,york,exeter_city
+2026-09-12,E3,England-L2,2627,Port Vale,Exeter,1.0,0.0,H,0.0,0.0,D,1.96,3.4,3.6,,,,2.0,3.4,3.58,2.03,1.83,1.97,1.77,-0.5,2.03,1.83,Port Vale,Exeter City,port_vale,exeter_city
+2026-09-26,E3,England-L2,2627,Bristol Rvs,Exeter,1.0,0.0,H,0.0,0.0,D,1.68,3.7,4.5,,,,1.72,3.79,4.41,1.83,2.03,1.78,1.95,-0.75,1.95,1.9,Bristol Rvs,Exeter City,bristol_rvs,exeter_city
+2026-10-10,E3,England-L2,2627,Shrewsbury,Exeter,0.0,1.0,A,0.0,0.0,D,2.2,3.1,3.25,,,,2.27,3.27,3.08,2.1,1.7,2.1,1.67,-0.25,1.98,1.88,Shrewsbury Town,Exeter City,shrewsbury_town,exeter_city
+2026-10-17,E3,England-L2,2627,Colchester,Exeter,0.0,0.0,D,0.0,0.0,D,2.05,3.4,3.4,,,,2.11,3.45,3.26,2.0,1.85,1.9,1.82,-0.25,1.85,2.0,Colchester United,Exeter City,colchester_united,exeter_city

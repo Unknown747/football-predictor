@@ -1,0 +1,39 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2024-08-16,F2,France-L2,2425,Amiens,Red Star,3.0,0.0,H,1.0,0.0,H,2.2,3.0,3.2,2.36,3.09,3.43,2.29,3.09,3.23,2.35,1.57,2.38,1.56,-0.25,1.98,1.88,Amiens,Red Star,amiens,red_star
+2024-08-30,F2,France-L2,2425,Guingamp,Red Star,3.0,4.0,A,2.0,2.0,D,1.85,3.1,4.33,1.93,3.29,4.62,1.89,3.26,4.29,2.25,1.62,2.21,1.64,-0.5,1.93,1.93,Guingamp,Red Star,guingamp,red_star
+2024-09-13,F2,France-L2,2425,Lorient,Red Star,2.0,1.0,H,1.0,0.0,H,1.62,3.8,4.75,1.66,4.41,4.61,1.65,4.18,4.51,1.57,2.35,1.56,2.36,-0.75,1.83,2.03,Lorient,Red Star,lorient,red_star
+2024-09-24,F2,France-L2,2425,Clermont,Red Star,1.0,1.0,D,1.0,0.0,H,2.1,3.2,3.5,2.2,3.17,3.7,2.14,3.16,3.51,2.25,1.62,2.23,1.63,-0.25,1.85,2.0,Clermont Foot,Red Star,clermont_foot,red_star
+2024-10-04,F2,France-L2,2425,Annecy,Red Star,1.0,0.0,H,0.0,0.0,D,2.05,3.4,3.6,2.1,3.51,3.57,2.06,3.42,3.43,1.98,1.88,1.92,1.85,-0.25,1.73,2.08,Annecy,Red Star,annecy,red_star
+2024-10-25,F2,France-L2,2425,Dunkerque,Red Star,2.0,0.0,H,1.0,0.0,H,2.38,3.4,2.88,2.45,3.34,3.03,2.39,3.3,2.88,2.0,1.85,1.97,1.8,-0.25,2.1,1.78,Dunkerque,Red Star,dunkerque,red_star
+2024-11-01,F2,France-L2,2425,Martigues,Red Star,0.0,1.0,A,0.0,0.0,D,3.3,3.2,2.2,3.49,3.3,2.22,3.31,3.23,2.19,2.1,1.7,2.12,1.7,0.25,1.93,1.93,Martigues,Red Star,martigues,red_star
+2024-11-22,F2,France-L2,2425,Pau FC,Red Star,4.0,1.0,H,1.0,1.0,D,1.91,3.4,3.9,1.93,3.66,3.99,1.91,3.5,3.82,1.98,1.88,1.92,1.86,-0.5,1.93,1.93,Pau FC,Red Star,pau_fc,red_star
+2025-01-03,F2,France-L2,2425,Rodez,Red Star,0.0,2.0,A,0.0,1.0,A,1.65,4.1,4.33,1.66,4.2,4.95,1.65,4.03,4.59,1.6,2.3,1.61,2.26,-0.75,1.83,2.03,Rodez,Red Star,rodez,red_star
+2025-01-10,F2,France-L2,2425,Laval,Red Star,1.0,1.0,D,1.0,1.0,D,1.95,3.25,3.6,2.05,3.43,3.85,2.01,3.31,3.69,2.08,1.73,2.05,1.74,-0.5,2.03,1.83,Laval,Red Star,laval,red_star
+2025-01-25,F2,France-L2,2425,Paris FC,Red Star,4.0,1.0,H,1.0,0.0,H,1.55,4.0,5.75,1.56,4.02,5.84,1.55,4.0,5.54,1.88,1.98,1.83,1.94,-1.0,1.98,1.88,Paris FC,Red Star,paris_fc,red_star
+2025-02-07,F2,France-L2,2425,Grenoble,Red Star,0.0,0.0,D,0.0,0.0,D,2.3,3.25,3.0,2.38,3.19,3.28,2.29,3.17,3.12,2.05,1.75,2.01,1.76,-0.25,2.03,1.83,Grenoble,Red Star,grenoble,red_star
+2025-02-21,F2,France-L2,2425,Bastia,Red Star,1.0,0.0,H,0.0,0.0,D,1.73,3.5,4.5,1.76,3.6,5.08,1.74,3.47,4.72,2.1,1.7,2.1,1.71,-0.75,2.03,1.83,Bastia,Red Star,bastia,red_star
+2025-03-14,F2,France-L2,2425,Ajaccio,Red Star,2.0,1.0,H,0.0,1.0,A,2.6,2.88,2.8,2.74,2.95,2.99,2.68,2.89,2.84,2.6,1.48,2.53,1.49,0.0,1.88,1.98,Ajaccio,Red Star,ajaccio,red_star
+2025-04-05,F2,France-L2,2425,Troyes,Red Star,2.0,2.0,D,2.0,2.0,D,1.95,3.4,4.0,1.92,3.37,4.16,1.94,3.32,3.97,2.2,1.65,2.19,1.64,-0.5,1.95,1.9,Troyes,Red Star,troyes,red_star
+2025-04-19,F2,France-L2,2425,Metz,Red Star,2.0,2.0,D,1.0,1.0,D,1.48,4.33,6.5,1.46,4.48,6.4,1.45,4.39,6.47,1.73,2.08,1.7,2.09,-1.25,2.05,1.8,Metz,Red Star,metz,red_star
+2025-05-02,F2,France-L2,2425,Caen,Red Star,1.0,1.0,D,0.0,1.0,A,2.63,3.4,2.55,2.66,3.52,2.57,2.57,3.52,2.53,1.85,2.0,1.75,2.06,0.0,1.92,1.82,Caen,Red Star,caen,red_star
+2025-08-09,F2,France-L2,2526,Montpellier,Red Star,1.0,1.0,D,1.0,1.0,D,1.85,3.3,3.7,1.89,3.51,4.09,1.87,3.43,3.72,1.93,1.88,1.88,1.83,-0.5,1.9,1.9,Montpellier,Red Star,montpellier,red_star
+2025-08-23,F2,France-L2,2526,Guingamp,Red Star,0.0,4.0,A,0.0,1.0,A,1.8,3.5,4.0,1.82,3.7,4.17,1.77,3.57,4.11,1.9,1.9,1.89,1.83,-0.5,1.78,2.03,Guingamp,Red Star,guingamp,red_star
+2025-09-12,F2,France-L2,2526,Pau FC,Red Star,0.0,3.0,A,0.0,2.0,A,2.8,3.0,2.55,2.82,3.32,2.61,2.7,3.15,2.51,2.15,1.67,2.14,1.65,0.0,2.0,1.8,Pau FC,Red Star,pau_fc,red_star
+2025-09-19,F2,France-L2,2526,Nancy,Red Star,0.0,1.0,A,0.0,0.0,D,2.4,3.2,2.9,2.55,3.23,2.96,2.46,3.11,2.82,2.25,1.62,2.21,1.61,0.0,1.73,2.08,Nancy,Red Star,nancy,red_star
+2025-09-29,F2,France-L2,2526,Boulogne,Red Star,1.0,2.0,A,1.0,1.0,D,3.25,3.2,2.2,3.22,3.25,2.29,3.16,3.11,2.21,2.3,1.6,2.23,1.59,0.25,1.9,1.9,Boulogne,Red Star,boulogne,red_star
+2025-10-18,F2,France-L2,2526,Laval,Red Star,0.0,1.0,A,0.0,0.0,D,2.5,3.1,2.75,2.6,3.05,2.93,2.55,3.03,2.74,2.3,1.6,2.25,1.58,0.0,1.8,2.0,Laval,Red Star,laval,red_star
+2025-10-28,F2,France-L2,2526,Dunkerque,Red Star,3.0,0.0,H,1.0,0.0,H,2.55,3.2,2.8,,,,2.44,3.2,2.75,2.05,1.75,2.0,1.74,0.0,1.8,2.0,Dunkerque,Red Star,dunkerque,red_star
+2025-11-08,F2,France-L2,2526,Le Mans,Red Star,0.0,0.0,D,0.0,0.0,D,2.2,3.2,3.4,,,,2.23,3.08,3.21,2.25,1.62,2.21,1.6,-0.25,1.95,1.85,Le Mans,Red Star,le_mans,red_star
+2026-01-03,F2,France-L2,2526,Troyes,Red Star,1.0,0.0,H,1.0,0.0,H,1.8,3.4,4.0,,,,1.81,3.3,4.24,2.1,1.7,2.06,1.68,-0.5,1.83,1.98,Troyes,Red Star,troyes,red_star
+2026-01-17,F2,France-L2,2526,Grenoble,Red Star,0.0,3.0,A,0.0,1.0,A,2.35,3.1,2.75,,,,2.46,3.1,2.78,2.2,1.65,2.2,1.6,-0.25,2.08,1.73,Grenoble,Red Star,grenoble,red_star
+2026-01-30,F2,France-L2,2526,Rodez,Red Star,1.0,1.0,D,1.0,1.0,D,2.63,3.2,2.35,,,,2.69,3.27,2.43,1.95,1.85,1.87,1.84,0.0,2.03,1.78,Rodez,Red Star,rodez,red_star
+2026-02-20,F2,France-L2,2526,Annecy,Red Star,2.0,1.0,H,0.0,0.0,D,2.3,2.9,3.1,,,,2.38,2.96,3.04,2.5,1.5,2.45,1.49,-0.25,1.98,1.83,Annecy,Red Star,annecy,red_star
+2026-03-07,F2,France-L2,2526,St Etienne,Red Star,2.0,0.0,H,0.0,0.0,D,1.7,3.6,4.5,,,,1.73,3.63,4.27,1.85,1.95,1.8,1.91,-0.75,1.95,1.85,Saint-Etienne,Red Star,saint_etienne,red_star
+2026-03-20,F2,France-L2,2526,Clermont,Red Star,0.0,1.0,A,0.0,0.0,D,2.7,3.0,2.45,,,,2.72,3.08,2.53,2.15,1.67,2.1,1.66,0.0,1.98,1.83,Clermont Foot,Red Star,clermont_foot,red_star
+2026-04-18,F2,France-L2,2526,Reims,Red Star,3.0,2.0,H,2.0,0.0,H,1.83,3.3,3.9,,,,1.88,3.35,3.85,2.1,1.7,2.05,1.7,-0.5,1.9,1.9,Stade de Reims,Red Star,stade_de_reims,red_star
+2026-05-02,F2,France-L2,2526,Amiens,Red Star,1.0,3.0,A,0.0,1.0,A,4.2,3.6,1.7,,,,4.08,3.74,1.72,1.75,2.05,1.74,1.99,0.75,1.85,1.95,Amiens,Red Star,amiens,red_star
+2026-08-08,F2,France-L2,2627,Nantes,Red Star,0.0,1.0,A,0.0,0.0,D,1.85,3.3,4.0,,,,1.85,3.35,3.98,2.05,1.75,1.99,1.74,-0.5,1.88,1.93,FC Nantes,Red Star,fc_nantes,red_star
+2026-08-21,F2,France-L2,2627,Boulogne,Red Star,1.0,1.0,D,0.0,1.0,A,3.25,3.25,2.0,,,,3.32,3.24,2.11,2.05,1.75,2.03,1.71,0.5,1.73,2.08,Boulogne,Red Star,boulogne,red_star
+2026-09-04,F2,France-L2,2627,Laval,Red Star,1.0,2.0,A,0.0,2.0,A,3.0,3.1,2.2,,,,3.0,3.2,2.28,2.0,1.8,1.97,1.76,0.25,1.83,1.98,Laval,Red Star,laval,red_star
+2026-09-19,F2,France-L2,2627,Guingamp,Red Star,1.0,3.0,A,0.0,2.0,A,2.38,3.1,2.6,,,,2.41,3.34,2.66,1.75,2.05,1.72,2.02,0.0,1.8,2.0,Guingamp,Red Star,guingamp,red_star
+2026-10-10,F2,France-L2,2627,Clermont,Red Star,2.0,3.0,A,1.0,1.0,D,3.4,3.0,2.0,,,,3.44,3.3,2.0,2.0,1.8,1.94,1.77,0.5,1.73,2.08,Clermont Foot,Red Star,clermont_foot,red_star

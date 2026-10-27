@@ -1,0 +1,90 @@
+{
+  "England-PL": {
+    "id": 47,
+    "slug": "premier-league"
+  },
+  "England-Champ": {
+    "id": 48,
+    "slug": "championship"
+  },
+  "England-L1": {
+    "id": 108,
+    "slug": "league-one"
+  },
+  "England-L2": {
+    "id": 109,
+    "slug": "league-two"
+  },
+  "England-Conference": {
+    "id": 117,
+    "slug": "national-league"
+  },
+  "Scotland-Prem": {
+    "id": 64,
+    "slug": "premiership"
+  },
+  "Scotland-Champ": {
+    "id": 123,
+    "slug": "championship"
+  },
+  "Scotland-L1": {
+    "id": 124,
+    "slug": "league-one"
+  },
+  "Scotland-L2": {
+    "id": 125,
+    "slug": "league-two"
+  },
+  "Germany-BL1": {
+    "id": 54,
+    "slug": "bundesliga"
+  },
+  "Germany-BL2": {
+    "id": 146,
+    "slug": "2-bundesliga"
+  },
+  "Italy-SA": {
+    "id": 55,
+    "slug": "serie"
+  },
+  "Italy-SB": {
+    "id": 86,
+    "slug": "serie-b"
+  },
+  "Spain-LaLiga": {
+    "id": 87,
+    "slug": "laliga"
+  },
+  "Spain-Segunda": {
+    "id": 140,
+    "slug": "laliga-2"
+  },
+  "France-L1": {
+    "id": 53,
+    "slug": "ligue-1"
+  },
+  "France-L2": {
+    "id": 110,
+    "slug": "ligue-2"
+  },
+  "Netherlands-ED": {
+    "id": 57,
+    "slug": "eredivisie"
+  },
+  "Belgium-JPL": {
+    "id": 40,
+    "slug": "pro-league"
+  },
+  "Portugal-Liga1": {
+    "id": 61,
+    "slug": "liga-portugal"
+  },
+  "Turkey-SL": {
+    "id": 71,
+    "slug": "super-lig"
+  },
+  "Greece-SL": {
+    "id": 135,
+    "slug": "super-league-greece"
+  }
+}

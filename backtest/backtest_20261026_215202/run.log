@@ -1,0 +1,46 @@
+=== START backtest 20261026_215202 ===
+Output dir: /root/football-predictor/backtest/backtest_20261026_215202
+
+Loading data...
+  Total rows: 40064
+  Feat cols: 78
+
+Loading models...
+  1x2: lgb_1x2_modeB.txt (0e78456e59e8ff63...)
+  ou25: lgb_ou25_modeB.txt (de65429544bee058...)
+  home_ou05: lgb_home_ou05_modeB.txt (c91dd5bc44f0bdf0...)
+  home_ou15: lgb_home_ou15_modeB.txt (1de2dd1ce6c19932...)
+  away_ou05: lgb_away_ou05_modeB.txt (8ff79bc5716a30a3...)
+  away_ou15: lgb_away_ou15_modeB.txt (7de8119cce018a42...)
+
+Splits:
+  Train: 22945
+  Test:  9438 (2025-07-25 .. 2026-10-21)
+
+Base rates (train): {"ou25": 0.5057, "home_ou05": 0.7655, "home_ou15": 0.4306, "away_ou05": 0.6861, "away_ou15": 0.3366}
+
+Predicting on test...
+  1x2: OK (shape (9438, 3))
+  ou25: OK (shape (9438,))
+  home_ou05: OK (shape (9438,))
+  home_ou15: OK (shape (9438,))
+  away_ou05: OK (shape (9438,))
+  away_ou15: OK (shape (9438,))
+
+Computing metrics...
+
+Computing distributions...
+
+Per-league & per-season analysis...
+
+Saving outputs...
+  predictions.csv: 9438 rows
+  distributions.csv: 160 rows
+  metrics.json
+  bootstrap_ci.json
+  config.json
+  metrics.md
+  limitations.md
+
+=== DONE in 42.0s ===
+Output: /root/football-predictor/backtest/backtest_20261026_215202

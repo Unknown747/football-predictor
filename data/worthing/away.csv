@@ -1,0 +1,7 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2026-08-08,EC,England-Conference,2627,Carlisle,Worthing,2.0,3.0,A,1.0,0.0,H,1.6,4.2,4.33,,,,1.55,4.04,4.73,1.67,2.15,1.6,2.18,-1.0,1.98,1.83,Carlisle United,Worthing,carlisle_united,worthing
+2026-08-28,EC,England-Conference,2627,Tamworth,Worthing,3.0,2.0,H,0.0,1.0,A,2.15,3.5,2.9,,,,2.11,3.59,2.85,1.53,2.4,1.52,2.38,-0.25,1.9,1.9,Tamworth,Worthing,tamworth,worthing
+2026-09-05,EC,England-Conference,2627,Fylde,Worthing,2.0,2.0,D,0.0,1.0,A,1.75,3.75,3.8,,,,1.74,3.82,3.76,1.53,2.4,1.49,2.45,-0.5,1.78,2.03,Fylde,Worthing,fylde,worthing
+2026-09-19,EC,England-Conference,2627,Hartlepool,Worthing,1.0,3.0,A,0.0,1.0,A,2.1,3.6,2.9,,,,2.14,3.58,2.83,1.67,2.15,1.63,2.17,-0.25,1.88,1.93,Hartlepool United,Worthing,hartlepool_united,worthing
+2026-09-29,EC,England-Conference,2627,Yeovil,Worthing,1.0,1.0,D,0.0,1.0,A,2.05,3.75,2.9,,,,2.08,3.7,2.86,1.5,2.5,1.48,2.47,-0.25,1.85,1.95,Yeovil Town,Worthing,yeovil_town,worthing
+2026-10-03,EC,England-Conference,2627,Gateshead,Worthing,1.0,2.0,A,1.0,1.0,D,5.75,4.5,1.42,,,,5.13,4.27,1.48,1.53,2.4,1.49,2.45,1.25,1.85,1.95,Gateshead,Worthing,gateshead,worthing

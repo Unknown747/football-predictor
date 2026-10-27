@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-06,EC,England-Conference,2223,York,Woking,2.0,0.0,H,1.0,0.0,H,2.4,3.3,2.62,2.56,3.42,2.78,2.42,3.32,2.71,1.95,1.85,1.9,1.83,0.0,1.83,1.98,York,Woking,york,woking
+2022-08-20,EC,England-Conference,2223,York,Eastleigh,0.0,1.0,A,0.0,1.0,A,2.15,3.4,3.3,2.13,3.43,3.51,2.07,3.35,3.32,1.85,1.95,1.83,1.9,-0.25,1.85,1.95,York,Eastleigh,york,eastleigh
+2022-08-29,EC,England-Conference,2223,York,Oldham,1.0,1.0,D,0.0,0.0,D,2.6,3.25,2.45,2.63,3.46,2.67,2.57,3.37,2.52,1.98,1.83,1.89,1.85,0.0,1.95,1.85,York,Oldham,york,oldham
+2022-09-13,EC,England-Conference,2223,York,Bromley,2.0,1.0,H,0.0,1.0,A,2.4,3.2,2.6,2.57,3.43,2.75,2.48,3.29,2.65,1.88,1.93,1.85,1.88,0.0,1.85,1.95,York,Bromley,york,bromley
+2022-09-24,EC,England-Conference,2223,York,Notts County,1.0,3.0,A,1.0,2.0,A,4.0,3.6,1.85,4.24,3.69,1.85,3.93,3.54,1.83,1.9,1.9,1.86,1.88,0.5,1.95,1.85,York,Notts County,york,notts_county
+2022-10-08,EC,England-Conference,2223,York,Torquay,1.0,0.0,H,0.0,0.0,D,1.7,3.8,4.0,1.7,3.99,4.74,1.72,3.69,4.32,1.9,1.9,1.88,1.85,-0.75,1.95,1.85,York,Torquay,york,torquay
+2022-10-11,EC,England-Conference,2223,York,Dag and Red,1.0,1.0,D,0.0,1.0,A,2.15,3.5,3.0,2.24,3.59,3.12,2.19,3.43,2.97,1.73,2.08,1.73,2.03,-0.25,1.9,1.9,York,Dag and Red,york,dag_and_red
+2022-10-25,EC,England-Conference,2223,York,Chesterfield,1.0,1.0,D,0.0,1.0,A,3.5,3.5,1.95,3.86,3.6,1.96,3.56,3.45,1.95,1.9,1.9,1.85,1.88,0.5,1.83,1.98,York,Chesterfield,york,chesterfield
+2022-10-29,EC,England-Conference,2223,York,Southend,0.0,2.0,A,0.0,1.0,A,2.9,3.4,2.2,3.24,3.27,2.33,2.98,3.22,2.25,2.1,1.7,2.09,1.67,0.25,1.85,1.95,York,Southend United,york,southend_united
+2022-11-19,EC,England-Conference,2223,York,Wealdstone,1.0,2.0,A,1.0,0.0,H,1.85,3.6,3.75,1.87,3.77,4.06,1.86,3.59,3.73,1.83,1.98,1.79,1.94,-0.5,1.88,1.93,York,Wealdstone,york,wealdstone
+2022-12-03,EC,England-Conference,2223,York,Wrexham,1.0,1.0,D,0.0,0.0,D,5.5,4.2,1.6,5.11,4.07,1.65,5.01,3.95,1.58,1.8,2.0,1.78,1.95,0.75,2.08,1.73,York,Wrexham,york,wrexham
+2022-12-26,EC,England-Conference,2223,York,Gateshead,0.0,3.0,A,0.0,1.0,A,2.0,3.4,3.75,1.89,3.53,4.06,1.95,3.36,3.66,2.0,1.8,1.98,1.78,-0.5,2.0,1.8,York,Gateshead,york,gateshead
+2023-01-07,EC,England-Conference,2223,York,Maidstone,4.0,1.0,H,3.0,1.0,H,1.85,3.5,4.2,1.98,3.78,3.63,1.93,3.53,3.53,1.8,2.0,1.8,1.95,-0.5,1.9,1.9,York,Maidstone,york,maidstone
+2023-01-28,EC,England-Conference,2223,York,Maidenhead,1.0,2.0,A,0.0,1.0,A,2.05,3.6,3.3,2.12,3.51,3.47,2.05,3.38,3.35,1.98,1.83,1.92,1.82,-0.25,1.8,2.0,York,Maidenhead,york,maidenhead
+2023-02-07,EC,England-Conference,2223,York,Solihull,2.0,3.0,A,1.0,0.0,H,2.88,3.25,2.3,2.87,3.56,2.41,2.85,3.36,2.29,1.9,1.9,1.86,1.88,0.25,1.75,2.05,York,Solihull,york,solihull
+2023-02-21,EC,England-Conference,2223,York,Boreham Wood,1.0,1.0,D,1.0,1.0,D,3.3,3.3,2.05,3.44,3.36,2.19,3.31,3.23,2.12,2.2,1.65,2.18,1.63,0.25,2.0,1.8,York,Boreham Wood,york,boreham_wood
+2023-02-25,EC,England-Conference,2223,York,Yeovil,2.0,1.0,H,1.0,0.0,H,2.0,3.2,3.75,2.16,3.18,3.73,2.07,3.13,3.51,2.25,1.62,2.24,1.59,-0.25,1.75,2.05,York,Yeovil Town,york,yeovil_town
+2023-03-14,EC,England-Conference,2223,York,Altrincham,1.0,2.0,A,0.0,1.0,A,2.25,3.2,3.2,2.35,3.33,3.13,2.25,3.21,3.04,1.98,1.83,1.95,1.8,-0.25,1.98,1.83,York,Altrincham,york,altrincham
+2023-03-18,EC,England-Conference,2223,York,Dorking,2.0,1.0,H,1.0,0.0,H,1.8,3.4,4.0,1.92,3.79,3.84,1.88,3.55,3.67,1.73,2.08,1.75,1.99,-0.5,1.83,1.98,York,Dorking,york,dorking
+2023-03-28,EC,England-Conference,2223,York,Scunthorpe,0.0,0.0,D,0.0,0.0,D,2.15,3.3,3.4,2.18,3.32,3.5,2.08,3.3,3.32,1.98,1.83,1.93,1.81,-0.25,1.77,2.02,York,Scunthorpe United,york,scunthorpe_united
+2023-04-03,EC,England-Conference,2223,York,Barnet,1.0,0.0,H,1.0,0.0,H,2.55,3.6,2.55,2.58,3.56,2.59,2.5,3.45,2.51,1.7,2.1,1.68,2.1,0.0,1.9,1.9,York,Barnet,york,barnet
+2023-04-10,EC,England-Conference,2223,York,Halifax,0.0,3.0,A,0.0,1.0,A,2.3,3.3,3.2,2.37,3.21,3.21,2.3,3.14,3.01,2.15,1.67,2.11,1.67,-0.25,2.02,1.77,York,Halifax,york,halifax
+2023-04-22,EC,England-Conference,2223,York,Aldershot,2.0,2.0,D,0.0,1.0,A,2.1,3.0,3.2,2.28,3.1,3.52,2.18,3.14,3.23,1.98,1.82,1.94,1.8,-0.25,1.88,1.93,York,Aldershot,york,aldershot
+2023-08-12,EC,England-Conference,2324,York,Kidderminster,0.0,1.0,A,0.0,0.0,D,1.8,3.6,4.33,1.94,3.57,3.97,1.87,3.44,3.9,1.95,1.85,1.95,1.78,-0.5,1.8,2.0,York,Kidderminster,york,kidderminster
+2023-08-15,EC,England-Conference,2324,York,Altrincham,2.0,2.0,D,2.0,1.0,H,2.15,3.3,3.0,2.16,3.77,3.16,2.16,3.44,3.05,1.85,1.95,1.75,2.0,-0.25,1.95,1.85,York,Altrincham,york,altrincham
+2023-08-28,EC,England-Conference,2324,York,Rochdale,1.0,3.0,A,1.0,1.0,D,2.63,3.4,2.6,2.67,3.41,2.66,2.58,3.31,2.55,1.88,1.93,1.86,1.87,0.0,1.9,1.9,York,Rochdale,york,rochdale
+2023-09-09,EC,England-Conference,2324,York,Boreham Wood,2.0,2.0,D,1.0,0.0,H,2.4,3.25,2.63,2.58,3.34,2.81,2.47,3.23,2.69,1.98,1.83,1.98,1.76,0.0,1.8,2.0,York,Boreham Wood,york,boreham_wood
+2023-09-16,EC,England-Conference,2324,York,Southend,3.0,0.0,H,1.0,0.0,H,3.3,3.5,2.0,3.57,3.69,2.02,3.45,3.48,1.97,1.88,1.93,1.85,1.88,0.25,2.03,1.78,York,Southend United,york,southend_united
+2023-09-26,EC,England-Conference,2324,York,Barnet,2.0,4.0,A,1.0,1.0,D,3.0,3.4,2.15,3.1,3.61,2.25,2.96,3.47,2.18,1.73,2.08,1.71,2.05,0.25,1.88,1.93,York,Barnet,york,barnet
+2023-09-30,EC,England-Conference,2324,York,Solihull,2.0,2.0,D,1.0,0.0,H,2.45,3.4,2.6,2.44,3.69,2.7,2.4,3.51,2.6,1.73,2.08,1.7,2.05,0.0,1.85,1.95,York,Solihull,york,solihull
+2023-10-07,EC,England-Conference,2324,York,Bromley,2.0,2.0,D,1.0,0.0,H,2.2,3.6,2.7,2.34,3.43,3.02,2.27,3.34,2.85,1.9,1.9,1.85,1.87,-0.25,2.0,1.8,York,Bromley,york,bromley
+2023-10-28,EC,England-Conference,2324,York,Halifax,1.0,1.0,D,0.0,0.0,D,3.1,3.4,2.3,2.98,3.65,2.3,2.91,3.41,2.23,1.85,1.95,1.83,1.89,0.25,1.83,1.98,York,Halifax,york,halifax
+2023-11-18,EC,England-Conference,2324,York,Hartlepool,1.0,3.0,A,0.0,2.0,A,2.7,3.5,2.45,2.75,3.68,2.44,2.67,3.5,2.34,1.67,2.15,1.64,2.13,0.0,2.0,1.8,York,Hartlepool United,york,hartlepool_united
+2023-11-21,EC,England-Conference,2324,York,Oxford City,2.0,0.0,H,2.0,0.0,H,1.7,3.8,4.0,1.78,4.03,4.23,1.72,3.83,4.07,1.65,2.2,1.61,2.21,-0.75,1.95,1.85,York,Oxford City,york,oxford_city
+2023-12-23,EC,England-Conference,2324,York,Ebbsfleet,1.0,1.0,D,1.0,0.0,H,2.15,3.6,2.88,2.27,3.59,3.08,2.16,3.57,2.89,1.57,2.35,1.57,2.29,-0.25,1.93,1.88,York,Ebbsfleet,york,ebbsfleet
+2024-01-01,EC,England-Conference,2324,York,Gateshead,2.0,0.0,H,1.0,0.0,H,4.75,4.0,1.62,4.81,4.48,1.62,4.69,4.16,1.58,1.57,2.35,1.55,2.32,1.0,1.8,2.0,York,Gateshead,york,gateshead
+2024-02-03,EC,England-Conference,2324,York,Maidenhead,1.0,1.0,D,1.0,1.0,D,2.15,3.4,2.88,2.33,3.27,3.23,2.21,3.27,3.01,2.0,1.8,1.97,1.77,-0.25,2.0,1.8,York,Maidenhead,york,maidenhead
+2024-02-13,EC,England-Conference,2324,York,Dorking,0.0,1.0,A,0.0,0.0,D,1.83,3.3,4.0,1.94,3.75,3.77,1.88,3.57,3.66,1.75,2.05,1.7,2.07,-0.5,1.88,1.93,York,Dorking,york,dorking
+2024-02-17,EC,England-Conference,2324,York,Dag and Red,1.0,1.0,D,1.0,1.0,D,2.63,3.1,2.7,2.56,3.43,2.76,2.5,3.24,2.64,1.9,1.9,1.85,1.88,0.0,1.85,1.95,York,Dag and Red,york,dag_and_red
+2024-02-20,EC,England-Conference,2324,York,Oldham,1.0,1.0,D,0.0,0.0,D,2.7,3.2,2.6,2.79,3.32,2.6,2.7,3.18,2.5,2.15,1.67,2.1,1.68,0.0,1.93,1.88,York,Oldham,york,oldham
+2024-03-02,EC,England-Conference,2324,York,Wealdstone,2.0,3.0,A,1.0,1.0,D,2.0,3.6,3.1,1.94,3.73,3.79,1.94,3.55,3.44,1.75,2.05,1.74,2.01,-0.5,1.98,1.83,York,Wealdstone,york,wealdstone
+2024-03-05,EC,England-Conference,2324,York,Fylde,1.0,3.0,A,1.0,1.0,D,2.25,3.4,2.75,2.26,3.65,3.04,2.23,3.48,2.84,1.7,2.1,1.67,2.11,-0.25,1.98,1.83,York,Fylde,york,fylde
+2024-03-16,EC,England-Conference,2324,York,Aldershot,1.0,0.0,H,0.0,0.0,D,2.2,3.4,2.9,2.27,3.85,2.9,2.2,3.56,2.84,1.73,2.08,1.71,2.06,-0.25,1.95,1.85,York,Aldershot,york,aldershot
+2024-03-29,EC,England-Conference,2324,York,Chesterfield,2.0,1.0,H,0.0,1.0,A,2.8,3.6,2.3,2.96,3.57,2.31,2.85,3.47,2.25,1.73,2.08,1.71,2.06,0.25,1.8,2.0,York,Chesterfield,york,chesterfield
+2024-04-06,EC,England-Conference,2324,York,Eastleigh,0.0,1.0,A,0.0,0.0,D,1.85,3.6,3.6,1.95,3.54,3.89,1.88,3.54,3.69,1.8,2.0,1.78,1.96,-0.5,1.9,1.9,York,Eastleigh,york,eastleigh
+2024-04-13,EC,England-Conference,2324,York,Woking,2.0,0.0,H,0.0,0.0,D,2.55,3.3,2.55,2.7,3.37,2.61,2.56,3.26,2.57,2.05,1.75,2.02,1.74,0.0,1.9,1.9,York,Woking,york,woking
+2024-08-17,EC,England-Conference,2425,York,Tamworth,2.0,0.0,H,0.0,0.0,D,1.83,3.6,4.1,1.87,3.43,4.11,1.84,3.39,4.04,2.03,1.78,2.07,1.7,-0.5,1.83,1.98,York,Tamworth,york,tamworth
+2024-08-20,EC,England-Conference,2425,York,Rochdale,1.0,0.0,H,1.0,0.0,H,2.5,3.2,2.75,2.52,3.29,2.87,2.43,3.23,2.74,2.03,1.78,1.98,1.76,0.0,1.8,2.0,York,Rochdale,york,rochdale
+2024-08-26,EC,England-Conference,2425,York,Boston Utd,0.0,2.0,A,0.0,0.0,D,1.53,3.9,5.25,1.54,4.11,6.08,1.53,3.91,5.57,1.83,1.98,1.81,1.94,-1.0,1.95,1.85,York,Boston Utd,york,boston_utd
+2024-09-10,EC,England-Conference,2425,York,Braintree Town,2.0,1.0,H,2.0,1.0,H,1.67,3.75,4.75,1.72,3.76,4.84,1.67,3.66,4.66,1.95,1.85,1.9,1.84,-0.75,1.9,1.9,York,Braintree Town,york,braintree_town
+2024-09-14,EC,England-Conference,2425,York,Fylde,3.0,0.0,H,0.0,0.0,D,1.57,3.9,5.75,1.52,4.11,5.72,1.52,4.06,5.47,1.73,2.08,1.71,2.05,-1.0,1.98,1.83,York,Fylde,york,fylde
+2024-09-28,EC,England-Conference,2425,York,Eastleigh,0.0,0.0,D,0.0,0.0,D,1.62,3.9,4.33,1.63,3.91,4.88,1.61,3.84,4.71,1.75,2.05,1.74,2.0,-0.75,1.8,2.0,York,Eastleigh,york,eastleigh
+2024-10-19,EC,England-Conference,2425,York,Ebbsfleet,4.0,0.0,H,1.0,0.0,H,1.42,4.33,7.5,1.43,4.41,6.76,1.42,4.36,6.54,1.73,2.08,1.71,2.04,-1.25,1.98,1.83,York,Ebbsfleet,york,ebbsfleet
+2024-10-22,EC,England-Conference,2425,York,Barnet,3.0,1.0,H,1.0,1.0,D,2.55,3.6,2.55,2.64,3.41,2.65,2.54,3.37,2.54,1.7,2.1,1.74,2.01,0.0,1.9,1.9,York,Barnet,york,barnet
+2024-11-09,EC,England-Conference,2425,York,Hartlepool,5.0,3.0,H,2.0,0.0,H,1.7,3.6,4.5,1.69,4.15,4.37,1.69,3.8,4.42,1.95,1.85,1.92,1.82,-0.75,1.95,1.85,York,Hartlepool United,york,hartlepool_united
+2024-11-23,EC,England-Conference,2425,York,Yeovil,4.0,0.0,H,2.0,0.0,H,1.6,3.9,4.75,1.61,3.85,5.19,1.61,3.81,4.93,1.88,1.93,1.86,1.88,-0.75,1.8,2.0,York,Yeovil Town,york,yeovil_town
+2024-11-30,EC,England-Conference,2425,York,Maidenhead,6.0,2.0,H,4.0,1.0,H,1.48,4.75,4.5,1.5,4.2,5.9,1.5,4.21,5.55,1.73,2.08,1.73,2.01,-1.0,1.85,1.95,York,Maidenhead,york,maidenhead
+2024-12-21,EC,England-Conference,2425,York,Southend,3.0,0.0,H,0.0,0.0,D,1.75,3.6,4.33,1.78,3.6,4.36,1.77,3.51,4.21,1.95,1.85,1.91,1.83,-0.5,1.78,2.03,York,Southend United,york,southend_united
+2025-01-01,EC,England-Conference,2425,York,Gateshead,1.0,0.0,H,1.0,0.0,H,1.95,3.75,3.3,2.03,3.66,3.31,1.96,3.65,3.29,1.6,2.3,1.59,2.24,-0.5,1.98,1.83,York,Gateshead,york,gateshead
+2025-01-18,EC,England-Conference,2425,York,Sutton,1.0,2.0,A,0.0,2.0,A,1.55,4.0,5.25,1.53,4.21,5.4,1.56,4.03,5.06,1.75,2.05,1.73,2.02,-1.0,1.98,1.83,York,Sutton United,york,sutton_united
+2025-02-01,EC,England-Conference,2425,York,Dag and Red,2.0,1.0,H,1.0,0.0,H,1.6,4.0,5.25,1.62,3.96,4.93,1.6,3.9,4.93,1.73,2.08,1.74,2.03,-0.75,1.78,2.03,York,Dag and Red,york,dag_and_red
+2025-02-08,EC,England-Conference,2425,York,Woking,3.0,0.0,H,1.0,0.0,H,1.55,3.9,6.0,1.56,4.09,5.36,1.54,3.99,5.23,1.75,2.05,1.74,2.0,-1.0,1.93,1.88,York,Woking,york,woking
+2025-02-22,EC,England-Conference,2425,York,Halifax,2.0,2.0,D,1.0,2.0,A,1.62,3.7,5.25,1.62,3.8,5.24,1.61,3.67,5.03,1.98,1.83,1.95,1.79,-0.75,1.8,2.0,York,Halifax,york,halifax
+2025-03-04,EC,England-Conference,2425,York,Altrincham,1.0,2.0,A,0.0,1.0,A,1.75,3.4,4.33,1.76,3.85,4.41,1.76,3.62,4.14,1.8,2.0,1.78,1.97,-0.5,1.75,2.05,York,Altrincham,york,altrincham
+2025-03-08,EC,England-Conference,2425,York,Forest Green,1.0,1.0,D,0.0,0.0,D,2.1,3.2,3.5,2.13,3.29,3.41,2.08,3.26,3.34,2.05,1.75,2.01,1.73,-0.25,1.83,1.98,York,Forest Green Rovers,york,forest_green_rovers
+2025-03-29,EC,England-Conference,2425,York,Wealdstone,3.0,0.0,H,1.0,0.0,H,1.5,4.2,5.5,1.49,4.31,6.35,1.48,4.2,5.93,1.73,2.08,1.74,2.01,-1.0,1.83,1.98,York,Wealdstone,york,wealdstone
+2025-04-12,EC,England-Conference,2425,York,Aldershot,7.0,2.0,H,4.0,2.0,H,1.57,4.2,4.5,1.57,4.06,5.21,1.58,3.97,4.93,1.8,2.0,1.76,1.98,-1.0,2.03,1.78,York,Aldershot,york,aldershot
+2025-04-21,EC,England-Conference,2425,York,Oldham,1.0,1.0,D,1.0,0.0,H,1.8,3.6,3.8,1.81,3.55,4.21,1.82,3.52,3.95,1.95,1.85,1.88,1.85,-0.5,1.8,2.0,York,Oldham,york,oldham
+2025-04-26,EC,England-Conference,2425,York,Solihull,2.0,0.0,H,1.0,0.0,H,1.4,4.75,5.75,1.4,4.69,6.87,1.4,4.58,6.38,1.62,2.25,1.61,2.21,-1.25,1.9,1.9,York,Solihull,york,solihull
+2025-08-09,EC,England-Conference,2526,York,Sutton,2.0,2.0,D,1.0,1.0,D,1.55,4.2,5.75,1.52,4.29,5.45,1.49,4.19,5.34,1.7,2.1,1.64,2.11,-1.0,1.9,1.9,York,Sutton United,york,sutton_united
+2025-09-09,EC,England-Conference,2526,York,Tamworth,4.0,0.0,H,0.0,0.0,D,1.48,4.33,5.25,1.5,4.53,5.99,1.47,4.23,5.53,1.6,2.3,1.58,2.24,-1.0,1.8,2.0,York,Tamworth,york,tamworth
+2025-09-20,EC,England-Conference,2526,York,Solihull,0.0,1.0,A,0.0,0.0,D,1.33,5.0,8.0,1.29,5.2,8.98,1.31,4.86,7.82,1.6,2.3,1.56,2.27,-1.5,1.95,1.85,York,Solihull,york,solihull
+2025-09-23,EC,England-Conference,2526,York,Carlisle,5.0,0.0,H,3.0,0.0,H,1.91,3.6,3.3,2.01,3.57,3.67,1.91,3.47,3.47,1.73,2.08,1.7,2.04,-0.5,1.95,1.85,York,Carlisle United,york,carlisle_united
+2025-10-01,EC,England-Conference,2526,York,Scunthorpe,1.0,3.0,A,0.0,1.0,A,1.55,4.1,5.0,1.57,4.14,5.09,1.51,4.06,5.22,1.7,2.1,1.63,2.14,-1.0,1.98,1.83,York,Scunthorpe United,york,scunthorpe_united
+2025-10-18,EC,England-Conference,2526,York,Wealdstone,4.0,0.0,H,2.0,0.0,H,1.36,5.0,6.5,1.33,5.23,7.45,1.33,4.91,7.06,1.5,2.5,1.46,2.51,-1.5,2.0,1.8,York,Wealdstone,york,wealdstone
+2025-10-21,EC,England-Conference,2526,York,Boreham Wood,2.0,2.0,D,1.0,1.0,D,1.8,3.8,3.6,1.85,3.94,3.78,1.78,3.71,3.76,1.6,2.3,1.6,2.2,-0.5,1.8,2.0,York,Boreham Wood,york,boreham_wood
+2025-11-05,EC,England-Conference,2526,York,Gateshead,4.0,0.0,H,3.0,0.0,H,1.27,6.0,7.0,,,,1.26,5.69,8.05,1.29,3.6,1.28,3.35,-1.75,1.9,1.9,York,Gateshead,york,gateshead
+2025-11-11,EC,England-Conference,2526,York,Rochdale,4.0,1.0,H,1.0,1.0,D,1.91,3.6,3.5,,,,1.93,3.59,3.35,1.65,2.2,1.63,2.16,-0.5,1.98,1.83,York,Rochdale,york,rochdale
+2025-11-15,EC,England-Conference,2526,York,Morecambe,4.0,2.0,H,1.0,1.0,D,1.18,6.5,11.0,,,,1.18,6.81,10.29,1.22,4.2,1.23,3.75,-2.25,2.0,1.8,York,Morecambe,york,morecambe
+2025-11-29,EC,England-Conference,2526,York,Aldershot,5.0,1.0,H,1.0,1.0,D,1.25,5.5,9.0,,,,1.22,6.0,8.98,1.29,3.6,1.27,3.45,-2.0,2.03,1.78,York,Aldershot,york,aldershot
+2025-12-20,EC,England-Conference,2526,York,Truro,4.0,0.0,H,3.0,0.0,H,1.2,5.5,12.0,,,,1.18,6.22,10.97,1.44,2.7,1.39,2.76,-2.0,2.0,1.8,York,Truro,york,truro
+2025-12-26,EC,England-Conference,2526,York,Boston Utd,2.0,2.0,D,1.0,0.0,H,1.25,5.25,9.0,,,,1.26,5.4,8.34,1.4,2.88,1.39,2.75,-1.75,1.95,1.85,York,Boston Utd,york,boston_utd
+2026-01-17,EC,England-Conference,2526,York,Southend,1.0,1.0,D,0.0,1.0,A,1.67,3.8,4.33,,,,1.72,3.72,4.04,1.57,2.35,1.6,2.2,-0.75,1.93,1.88,York,Southend United,york,southend_united
+2026-01-24,EC,England-Conference,2526,York,Braintree Town,5.0,0.0,H,4.0,0.0,H,1.17,6.0,12.0,,,,1.17,6.59,11.63,1.33,3.4,1.3,3.24,-2.0,1.8,2.0,York,Braintree Town,york,braintree_town
+2026-02-07,EC,England-Conference,2526,York,Forest Green,2.0,1.0,H,2.0,0.0,H,1.75,3.8,3.8,,,,1.75,3.75,3.84,1.53,2.4,1.52,2.35,-0.5,1.75,2.05,York,Forest Green Rovers,york,forest_green_rovers
+2026-02-11,EC,England-Conference,2526,York,Hartlepool,3.0,2.0,H,1.0,1.0,D,1.3,4.75,8.5,,,,1.29,5.13,8.1,1.5,2.5,1.45,2.53,-1.5,1.85,1.95,York,Hartlepool United,york,hartlepool_united
+2026-02-21,EC,England-Conference,2526,York,Halifax,4.0,1.0,H,3.0,0.0,H,1.33,4.75,7.5,,,,1.31,4.99,7.56,1.48,2.6,1.44,2.58,-1.5,1.95,1.85,York,Halifax,york,halifax
+2026-03-07,EC,England-Conference,2526,York,Eastleigh,3.0,1.0,H,2.0,1.0,H,1.17,6.5,12.0,,,,1.15,6.72,12.27,1.33,3.4,1.31,3.18,-2.25,1.98,1.83,York,Eastleigh,york,eastleigh
+2026-03-21,EC,England-Conference,2526,York,Brackley Town,4.0,0.0,H,2.0,0.0,H,1.14,6.5,15.0,,,,1.16,6.69,12.16,1.36,3.1,1.33,3.04,-2.25,1.95,1.85,York,Brackley Town,york,brackley_town
+2026-03-28,EC,England-Conference,2526,York,Woking,1.0,0.0,H,0.0,0.0,D,1.3,4.75,8.0,,,,1.29,5.03,7.56,1.48,2.6,1.43,2.61,-1.5,1.93,1.88,York,Woking,york,woking
+2026-04-06,EC,England-Conference,2526,York,Altrincham,2.0,1.0,H,1.0,1.0,D,1.17,7.0,12.0,,,,1.16,6.92,11.82,1.29,3.6,1.26,3.54,-2.25,1.98,1.83,York,Altrincham,york,altrincham
+2026-04-18,EC,England-Conference,2526,York,Yeovil,3.0,0.0,H,2.0,0.0,H,1.13,7.0,17.0,,,,1.11,7.67,15.67,1.36,3.1,1.33,3.06,-2.5,2.03,1.78,York,Yeovil Town,york,yeovil_town
+2026-08-15,E3,England-L2,2627,York,Bristol Rvs,3.0,2.0,H,0.0,1.0,A,2.15,3.2,3.3,,,,2.19,3.23,3.19,2.08,1.73,2.03,1.71,-0.25,1.95,1.9,York,Bristol Rvs,york,bristol_rvs
+2026-08-29,E3,England-L2,2627,York,Exeter,2.0,1.0,H,1.0,0.0,H,1.62,3.75,4.75,,,,1.68,3.83,4.63,1.85,1.95,1.79,1.93,-0.75,1.9,1.95,York,Exeter City,york,exeter_city
+2026-09-12,E3,England-L2,2627,York,Swindon,4.0,0.0,H,2.0,0.0,H,1.57,3.9,5.0,,,,1.6,4.07,4.82,1.57,2.35,1.56,2.31,-0.75,1.8,2.05,York,Swindon Town,york,swindon_town
+2026-09-26,E3,England-L2,2627,York,Gillingham,3.0,0.0,H,1.0,0.0,H,1.49,4.2,5.5,,,,1.51,4.41,5.49,1.57,2.35,1.57,2.28,-1.0,1.88,1.98,York,Gillingham,york,gillingham
+2026-10-10,E3,England-L2,2627,York,Northampton,1.0,1.0,D,0.0,1.0,A,1.62,3.75,5.0,,,,1.64,3.89,4.89,1.83,2.03,1.78,1.96,-0.75,1.85,2.0,York,Northampton Town,york,northampton_town
+2026-10-20,E3,England-L2,2627,York,Accrington,1.0,1.0,D,0.0,0.0,D,1.66,3.9,4.33,,,,1.71,3.86,4.37,1.7,2.1,1.67,2.12,-0.75,1.95,1.9,York,Accrington Stanley,york,accrington_stanley

@@ -1,0 +1,107 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-20,SP2,Spain-Segunda,2122,Valladolid,Zaragoza,2.0,0.0,H,1.0,0.0,H,1.66,3.6,5.5,1.74,3.49,5.88,1.7,3.38,5.41,2.4,1.53,2.46,1.52,-0.75,1.95,1.9,Real Valladolid,Zaragoza,real_valladolid,zaragoza
+2021-09-12,SP2,Spain-Segunda,2122,Valladolid,Tenerife,0.0,2.0,A,0.0,2.0,A,2.05,3.1,3.8,2.17,2.95,4.18,2.12,2.95,3.89,2.7,1.44,2.65,1.46,-0.25,1.8,2.05,Real Valladolid,Tenerife,real_valladolid,tenerife
+2021-09-26,SP2,Spain-Segunda,2122,Valladolid,Alcorcon,2.0,0.0,H,1.0,0.0,H,1.72,3.4,5.0,1.76,3.43,5.47,1.75,3.37,5.05,2.35,1.57,2.34,1.58,-0.75,2.02,1.83,Real Valladolid,Alcorcon,real_valladolid,alcorcon
+2021-10-08,SP2,Spain-Segunda,2122,Valladolid,Malaga,1.0,1.0,D,0.0,1.0,A,1.66,3.5,5.75,1.75,3.5,5.8,1.72,3.39,5.22,2.25,1.61,2.3,1.61,-0.75,1.95,1.9,Real Valladolid,Malaga,real_valladolid,malaga
+2021-10-20,SP2,Spain-Segunda,2122,Valladolid,Ibiza,1.0,1.0,D,0.0,0.0,D,1.75,3.4,5.25,1.76,3.49,5.32,1.75,3.39,4.86,2.15,1.66,2.18,1.66,-0.75,2.02,1.83,Real Valladolid,Ibiza,real_valladolid,ibiza
+2021-10-31,SP2,Spain-Segunda,2122,Valladolid,Eibar,2.0,0.0,H,0.0,0.0,D,2.35,3.1,3.2,2.38,3.38,3.1,2.32,3.17,3.03,2.25,1.61,2.23,1.63,-0.25,2.02,1.83,Real Valladolid,Eibar,real_valladolid,eibar
+2021-11-06,SP2,Spain-Segunda,2122,Valladolid,Mirandes,3.0,1.0,H,2.0,0.0,H,1.6,3.6,6.5,1.6,4.03,5.82,1.6,3.83,5.46,2.0,1.8,2.02,1.78,-1.0,2.05,1.8,Real Valladolid,Mirandes,real_valladolid,mirandes
+2021-11-13,SP2,Spain-Segunda,2122,Valladolid,Fuenlabrada,3.0,0.0,H,1.0,0.0,H,1.57,3.8,6.5,1.58,3.73,6.93,1.58,3.72,6.09,2.07,1.72,2.11,1.72,-1.0,2.05,1.8,Real Valladolid,Fuenlabrada,real_valladolid,fuenlabrada
+2021-11-27,SP2,Spain-Segunda,2122,Valladolid,Cartagena,2.0,0.0,H,2.0,0.0,H,1.66,3.5,6.0,1.75,3.42,5.61,1.69,3.49,5.26,2.05,1.75,2.02,1.78,-0.75,1.95,1.9,Real Valladolid,Cartagena,real_valladolid,cartagena
+2021-12-12,SP2,Spain-Segunda,2122,Valladolid,Oviedo,2.0,1.0,H,2.0,1.0,H,1.85,3.4,4.5,1.88,3.67,4.21,1.88,3.41,4.11,2.2,1.65,2.18,1.66,-0.5,1.88,1.98,Real Valladolid,Real Oviedo,real_valladolid,real_oviedo
+2022-01-02,SP2,Spain-Segunda,2122,Valladolid,Leganes,1.0,0.0,H,1.0,0.0,H,1.95,3.3,4.33,2.04,3.36,3.98,2.01,3.23,3.83,2.3,1.6,2.31,1.6,-0.5,1.98,1.88,Real Valladolid,Leganes,real_valladolid,leganes
+2022-01-08,SP2,Spain-Segunda,2122,Valladolid,Burgos,1.0,0.0,H,0.0,0.0,D,1.44,4.5,7.0,1.48,4.06,8.21,1.45,4.13,7.15,1.95,1.9,1.95,1.84,-1.0,1.7,2.1,Real Valladolid,Burgos,real_valladolid,burgos
+2022-01-28,SP2,Spain-Segunda,2122,Valladolid,Sp Gijon,1.0,0.0,H,0.0,0.0,D,1.6,4.0,5.75,1.62,4.03,6.08,1.59,3.83,5.68,1.98,1.88,2.0,1.8,-1.0,2.05,1.8,Real Valladolid,Sp Gijon,real_valladolid,sp_gijon
+2022-02-12,SP2,Spain-Segunda,2122,Valladolid,Girona,2.0,2.0,D,0.0,1.0,A,1.8,3.5,5.0,1.76,3.6,5.06,1.8,3.45,4.55,2.1,1.7,2.1,1.71,-0.75,,,Real Valladolid,Girona,real_valladolid,girona
+2022-02-27,SP2,Spain-Segunda,2122,Valladolid,Amorebieta,5.0,1.0,H,2.0,0.0,H,1.44,4.2,8.0,1.43,4.52,8.15,1.43,4.28,7.26,1.95,1.9,1.88,1.89,-1.25,2.02,1.83,Real Valladolid,Amorebieta,real_valladolid,amorebieta
+2022-03-19,SP2,Spain-Segunda,2122,Valladolid,Las Palmas,0.0,1.0,A,0.0,0.0,D,1.6,3.8,6.5,1.6,4.07,5.78,1.59,3.91,5.46,1.83,2.02,1.8,1.98,-1.0,2.02,1.83,Real Valladolid,Las Palmas,real_valladolid,las_palmas
+2022-04-02,SP2,Spain-Segunda,2122,Valladolid,Lugo,4.0,1.0,H,1.0,0.0,H,1.36,4.75,9.5,1.38,4.69,9.35,1.35,4.71,8.82,1.83,2.02,1.81,1.98,-1.5,2.05,1.75,Real Valladolid,Lugo,real_valladolid,lugo
+2022-04-16,SP2,Spain-Segunda,2122,Valladolid,Almeria,2.0,2.0,D,1.0,1.0,D,2.1,3.5,3.4,2.16,3.62,3.34,2.13,3.44,3.21,1.9,1.95,1.86,1.91,-0.25,1.8,2.05,Real Valladolid,Almeria,real_valladolid,almeria
+2022-05-02,SP2,Spain-Segunda,2122,Valladolid,Sociedad B,1.0,2.0,A,0.0,0.0,D,1.36,4.75,8.5,1.38,5.0,8.51,1.36,4.79,8.0,1.61,2.25,1.63,2.22,-1.5,2.02,1.77,Real Valladolid,Sociedad B,real_valladolid,sociedad_b
+2022-05-14,SP2,Spain-Segunda,2122,Valladolid,Ponferradina,2.0,0.0,H,1.0,0.0,H,1.6,4.33,5.0,1.56,4.43,5.72,1.57,4.13,5.23,1.65,2.2,1.66,2.17,-1.0,2.0,1.85,Real Valladolid,Ponferradina,real_valladolid,ponferradina
+2022-05-29,SP2,Spain-Segunda,2122,Valladolid,Huesca,3.0,0.0,H,0.0,0.0,D,1.36,5.5,7.0,1.34,5.49,8.41,1.34,5.14,7.92,1.53,2.4,1.54,2.42,-1.5,2.0,1.85,Real Valladolid,Huesca,real_valladolid,huesca
+2022-08-13,SP1,Spain-LaLiga,2223,Valladolid,Villarreal,0.0,3.0,A,0.0,0.0,D,3.9,3.6,1.9,4.05,3.78,1.95,3.93,3.66,1.94,1.99,1.91,1.95,1.87,0.5,1.95,1.95,Real Valladolid,Villarreal,real_valladolid,villarreal
+2022-09-05,SP1,Spain-LaLiga,2223,Valladolid,Almeria,1.0,0.0,H,0.0,0.0,D,2.3,3.3,3.1,2.38,3.32,3.31,2.34,3.3,3.19,2.1,1.72,2.09,1.76,-0.25,2.02,1.88,Real Valladolid,Almeria,real_valladolid,almeria
+2022-09-16,SP1,Spain-LaLiga,2223,Valladolid,Cadiz,0.0,1.0,A,0.0,0.0,D,2.0,3.25,4.0,2.05,3.24,4.42,2.04,3.22,4.13,2.37,1.57,2.41,1.58,-0.5,2.04,1.86,Real Valladolid,Cadiz,real_valladolid,cadiz
+2022-10-09,SP1,Spain-LaLiga,2223,Valladolid,Betis,0.0,0.0,D,0.0,0.0,D,2.8,3.4,2.4,2.99,3.46,2.51,2.88,3.42,2.48,2.01,1.89,1.97,1.86,0.0,2.13,1.78,Real Valladolid,Real Betis,real_valladolid,real_betis
+2022-10-19,SP1,Spain-LaLiga,2223,Valladolid,Celta,4.0,1.0,H,1.0,1.0,D,2.9,3.3,2.45,3.01,3.35,2.56,2.89,3.28,2.55,2.1,1.72,2.14,1.73,0.0,2.11,1.79,Real Valladolid,Celta Vigo,real_valladolid,celta_vigo
+2022-10-22,SP1,Spain-LaLiga,2223,Valladolid,Sociedad,1.0,0.0,H,1.0,0.0,H,3.6,3.4,2.05,3.76,3.46,2.14,3.62,3.42,2.11,2.1,1.72,2.1,1.76,0.25,2.06,1.84,Real Valladolid,Real Sociedad,real_valladolid,real_sociedad
+2022-11-05,SP1,Spain-LaLiga,2223,Valladolid,Elche,2.0,1.0,H,1.0,0.0,H,1.83,3.6,4.33,1.83,3.85,4.62,1.82,3.72,4.42,1.96,1.94,1.94,1.87,-0.5,1.82,2.08,Real Valladolid,Elche,real_valladolid,elche
+2022-12-30,SP1,Spain-LaLiga,2223,Valladolid,Real Madrid,0.0,2.0,A,0.0,0.0,D,6.5,4.75,1.45,6.56,4.71,1.51,6.39,4.68,1.48,1.57,2.38,1.58,2.4,1.0,2.08,1.73,Real Valladolid,Real Madrid,real_valladolid,real_madrid
+2023-01-14,SP1,Spain-LaLiga,2223,Valladolid,Vallecano,0.0,1.0,A,0.0,0.0,D,2.75,3.25,2.63,2.86,3.3,2.72,2.78,3.25,2.66,2.2,1.67,2.17,1.71,0.0,2.01,1.89,Real Valladolid,Rayo Vallecano,real_valladolid,rayo_vallecano
+2023-01-29,SP1,Spain-LaLiga,2223,Valladolid,Valencia,1.0,0.0,H,0.0,0.0,D,3.25,3.1,2.4,3.24,3.28,2.45,3.16,3.26,2.38,2.1,1.73,2.13,1.74,0.25,1.85,2.05,Real Valladolid,Valencia,real_valladolid,valencia
+2023-02-12,SP1,Spain-LaLiga,2223,Valladolid,Osasuna,0.0,0.0,D,0.0,0.0,D,2.75,3.1,2.7,2.86,3.09,2.87,2.8,3.06,2.76,2.5,1.53,2.5,1.54,0.0,1.97,1.96,Real Valladolid,Osasuna,real_valladolid,osasuna
+2023-03-05,SP1,Spain-LaLiga,2223,Valladolid,Espanol,2.0,1.0,H,1.0,0.0,H,2.5,3.2,2.88,2.59,3.24,3.0,2.55,3.21,2.93,2.2,1.67,2.27,1.65,0.0,1.81,2.09,Real Valladolid,Espanyol,real_valladolid,espanyol
+2023-03-17,SP1,Spain-LaLiga,2223,Valladolid,Ath Bilbao,1.0,3.0,A,0.0,1.0,A,4.2,3.6,1.83,4.46,3.76,1.87,4.27,3.69,1.86,1.97,1.93,1.94,1.89,0.5,2.07,1.86,Real Valladolid,Athletic Bilbao,real_valladolid,athletic_bilbao
+2023-04-09,SP1,Spain-LaLiga,2223,Valladolid,Mallorca,3.0,3.0,D,1.0,0.0,H,2.5,2.9,3.2,2.66,2.83,3.36,2.57,2.91,3.2,3.0,1.4,2.91,1.41,-0.25,2.08,1.73,Real Valladolid,Mallorca,real_valladolid,mallorca
+2023-04-22,SP1,Spain-LaLiga,2223,Valladolid,Girona,1.0,0.0,H,1.0,0.0,H,2.5,3.4,2.8,2.49,3.52,2.93,2.47,3.42,2.87,1.99,1.91,1.93,1.89,0.0,1.8,2.1,Real Valladolid,Girona,real_valladolid,girona
+2023-04-30,SP1,Spain-LaLiga,2223,Valladolid,Ath Madrid,2.0,5.0,A,1.0,3.0,A,5.5,3.8,1.65,5.41,4.12,1.66,5.21,4.01,1.66,1.88,2.02,1.84,1.99,0.75,2.1,1.83,Real Valladolid,Atletico Madrid,real_valladolid,atletico_madrid
+2023-05-14,SP1,Spain-LaLiga,2223,Valladolid,Sevilla,0.0,3.0,A,0.0,0.0,D,2.25,3.5,3.1,2.25,3.63,3.25,2.24,3.52,3.16,1.96,1.94,1.91,1.9,-0.25,1.95,1.95,Real Valladolid,Sevilla,real_valladolid,sevilla
+2023-05-23,SP1,Spain-LaLiga,2223,Valladolid,Barcelona,3.0,1.0,H,2.0,0.0,H,3.6,3.8,1.91,3.62,3.94,2.0,3.59,3.83,1.99,1.57,2.38,1.6,2.36,0.5,1.9,2.03,Real Valladolid,Barcelona,real_valladolid,barcelona
+2023-06-04,SP1,Spain-LaLiga,2223,Valladolid,Getafe,0.0,0.0,D,0.0,0.0,D,2.2,3.3,3.4,2.28,3.32,3.39,2.22,3.31,3.4,2.2,1.67,2.23,1.66,-0.25,1.94,1.96,Real Valladolid,Getafe,real_valladolid,getafe
+2023-08-11,SP2,Spain-Segunda,2324,Valladolid,Sp Gijon,2.0,0.0,H,1.0,0.0,H,1.91,3.4,4.2,1.93,3.36,4.67,1.88,3.3,4.32,2.2,1.65,2.22,1.64,-0.5,1.9,1.95,Real Valladolid,Sp Gijon,real_valladolid,sp_gijon
+2023-08-26,SP2,Spain-Segunda,2324,Valladolid,Alcorcon,0.0,2.0,A,0.0,1.0,A,1.75,3.4,5.5,1.79,3.44,5.49,1.74,3.37,5.19,2.35,1.57,2.42,1.55,-0.75,2.03,1.83,Real Valladolid,Alcorcon,real_valladolid,alcorcon
+2023-09-10,SP2,Spain-Segunda,2324,Valladolid,Elche,1.0,1.0,D,1.0,0.0,H,2.2,3.3,3.4,2.33,3.03,3.71,2.22,3.08,3.45,2.35,1.57,2.34,1.58,-0.25,1.93,1.93,Real Valladolid,Elche,real_valladolid,elche
+2023-09-16,SP2,Spain-Segunda,2324,Valladolid,Cartagena,1.0,0.0,H,0.0,0.0,D,1.83,3.6,4.33,1.87,3.62,4.58,1.84,3.48,4.26,2.08,1.73,2.08,1.73,-0.5,1.85,2.0,Real Valladolid,Cartagena,real_valladolid,cartagena
+2023-10-01,SP2,Spain-Segunda,2324,Valladolid,Burgos,3.0,0.0,H,2.0,0.0,H,1.75,3.5,5.0,1.79,3.6,5.2,1.75,3.48,4.83,2.15,1.67,2.19,1.65,-0.75,2.03,1.83,Real Valladolid,Burgos,real_valladolid,burgos
+2023-10-08,SP2,Spain-Segunda,2324,Valladolid,Mirandes,3.0,2.0,H,0.0,0.0,D,1.65,3.6,6.0,1.65,3.83,6.14,1.61,3.72,5.64,2.03,1.83,1.99,1.79,-0.75,1.8,2.05,Real Valladolid,Mirandes,real_valladolid,mirandes
+2023-10-22,SP2,Spain-Segunda,2324,Valladolid,Andorra,2.0,0.0,H,2.0,0.0,H,1.75,3.4,5.5,1.77,3.73,5.11,1.75,3.51,4.74,2.08,1.73,2.07,1.73,-0.75,2.0,1.85,Real Valladolid,Andorra,real_valladolid,andorra
+2023-11-04,SP2,Spain-Segunda,2324,Valladolid,Tenerife,2.0,0.0,H,0.0,0.0,D,1.91,3.4,4.2,1.99,3.27,4.53,1.94,3.19,4.24,2.4,1.53,2.43,1.53,-0.5,1.95,1.9,Real Valladolid,Tenerife,real_valladolid,tenerife
+2023-11-17,SP2,Spain-Segunda,2324,Valladolid,Leganes,1.0,1.0,D,1.0,0.0,H,2.1,2.9,4.0,2.25,2.95,4.09,2.16,2.95,3.83,2.5,1.5,2.49,1.51,-0.25,1.85,2.0,Real Valladolid,Leganes,real_valladolid,leganes
+2023-12-09,SP2,Spain-Segunda,2324,Valladolid,Amorebieta,2.0,1.0,H,0.0,1.0,A,1.44,4.33,8.0,1.41,4.75,8.89,1.4,4.4,7.94,1.95,1.9,1.92,1.87,-1.25,1.98,1.88,Real Valladolid,Amorebieta,real_valladolid,amorebieta
+2023-12-21,SP2,Spain-Segunda,2324,Valladolid,Ferrol,0.0,1.0,A,0.0,1.0,A,2.0,3.25,4.0,2.06,3.33,4.11,2.03,3.18,3.83,2.4,1.53,2.41,1.55,-0.5,2.03,1.83,Real Valladolid,Ferrol,real_valladolid,ferrol
+2024-01-29,SP2,Spain-Segunda,2324,Valladolid,Santander,3.0,1.0,H,1.0,0.0,H,1.85,3.6,4.2,1.89,3.47,4.58,1.86,3.46,4.13,2.05,1.8,1.99,1.8,-0.5,1.88,1.98,Real Valladolid,Santander,real_valladolid,santander
+2024-02-12,SP2,Spain-Segunda,2324,Valladolid,Albacete,0.0,0.0,D,0.0,0.0,D,2.0,3.4,3.8,2.08,3.34,3.93,2.01,3.28,3.76,2.2,1.65,2.17,1.66,-0.5,2.03,1.83,Real Valladolid,Albacete,real_valladolid,albacete
+2024-02-23,SP2,Spain-Segunda,2324,Valladolid,Oviedo,3.0,0.0,H,1.0,0.0,H,2.15,3.0,3.75,2.27,3.01,3.93,2.19,2.97,3.64,2.6,1.48,2.64,1.46,-0.25,1.85,2.0,Real Valladolid,Real Oviedo,real_valladolid,real_oviedo
+2024-03-09,SP2,Spain-Segunda,2324,Valladolid,Zaragoza,2.0,0.0,H,1.0,0.0,H,1.95,3.1,4.5,1.99,3.18,4.71,1.97,3.06,4.31,2.6,1.48,2.6,1.47,-0.5,1.98,1.88,Real Valladolid,Zaragoza,real_valladolid,zaragoza
+2024-03-24,SP2,Spain-Segunda,2324,Valladolid,Eibar,3.0,1.0,H,0.0,1.0,A,2.05,3.0,3.4,2.18,3.12,3.55,2.13,3.11,3.52,2.35,1.57,2.37,1.56,-0.25,1.85,2.0,Real Valladolid,Eibar,real_valladolid,eibar
+2024-03-30,SP2,Spain-Segunda,2324,Valladolid,Levante,0.0,0.0,D,0.0,0.0,D,1.85,3.4,4.75,1.87,3.48,4.7,1.85,3.35,4.35,2.15,1.67,2.17,1.66,-0.5,1.85,2.0,Real Valladolid,Levante,real_valladolid,levante
+2024-04-13,SP2,Spain-Segunda,2324,Valladolid,Eldense,1.0,0.0,H,0.0,0.0,D,1.7,3.6,5.25,1.75,3.57,5.45,1.71,3.48,5.12,2.35,1.57,2.34,1.58,-0.75,1.98,1.88,Real Valladolid,Eldense,real_valladolid,eldense
+2024-04-28,SP2,Spain-Segunda,2324,Valladolid,Huesca,1.0,0.0,H,1.0,0.0,H,1.67,3.3,6.5,1.61,3.46,6.42,1.63,3.39,6.02,2.6,1.48,2.57,1.47,-0.75,1.85,2.0,Real Valladolid,Huesca,real_valladolid,huesca
+2024-05-11,SP2,Spain-Segunda,2324,Valladolid,Espanol,0.0,0.0,D,0.0,0.0,D,2.1,3.1,3.75,2.17,3.09,3.63,2.14,3.1,3.56,2.35,1.57,2.35,1.57,-0.25,1.85,2.0,Real Valladolid,Espanyol,real_valladolid,espanyol
+2024-05-26,SP2,Spain-Segunda,2324,Valladolid,Villarreal B,3.0,2.0,H,0.0,0.0,D,1.38,5.0,7.5,1.32,4.92,8.41,1.34,4.85,8.03,1.7,2.1,1.69,2.11,-1.25,1.83,2.03,Real Valladolid,Villarreal B,real_valladolid,villarreal_b
+2024-08-19,SP1,Spain-LaLiga,2425,Valladolid,Espanol,1.0,0.0,H,1.0,0.0,H,2.38,3.0,3.4,2.39,3.07,3.47,2.36,3.1,3.34,2.3,1.62,2.33,1.61,-0.25,2.05,1.88,Real Valladolid,Espanyol,real_valladolid,espanyol
+2024-08-28,SP1,Spain-LaLiga,2425,Valladolid,Leganes,0.0,0.0,D,0.0,0.0,D,2.3,3.0,3.6,2.34,3.02,3.64,2.32,3.01,3.58,2.63,1.5,2.65,1.49,-0.25,1.97,1.96,Real Valladolid,Leganes,real_valladolid,leganes
+2024-09-21,SP1,Spain-LaLiga,2425,Valladolid,Sociedad,0.0,0.0,D,0.0,0.0,D,3.9,3.0,2.2,3.87,3.03,2.24,3.79,3.07,2.19,2.63,1.5,2.57,1.52,0.25,2.02,1.88,Real Valladolid,Real Sociedad,real_valladolid,real_sociedad
+2024-09-27,SP1,Spain-LaLiga,2425,Valladolid,Mallorca,1.0,2.0,A,0.0,0.0,D,3.0,2.9,2.63,3.11,2.9,2.77,3.03,2.9,2.72,3.0,1.4,2.9,1.41,0.0,2.06,1.84,Real Valladolid,Mallorca,real_valladolid,mallorca
+2024-10-05,SP1,Spain-LaLiga,2425,Valladolid,Vallecano,1.0,2.0,A,0.0,0.0,D,3.1,3.0,2.5,3.19,3.01,2.58,3.13,3.01,2.56,2.63,1.5,2.58,1.51,0.25,1.78,2.13,Real Valladolid,Rayo Vallecano,real_valladolid,rayo_vallecano
+2024-10-26,SP1,Spain-LaLiga,2425,Valladolid,Villarreal,1.0,2.0,A,0.0,1.0,A,3.5,3.75,2.0,3.69,3.67,2.04,3.61,3.68,2.02,1.73,2.1,1.72,2.16,0.5,1.86,2.04,Real Valladolid,Villarreal,real_valladolid,villarreal
+2024-11-10,SP1,Spain-LaLiga,2425,Valladolid,Ath Bilbao,1.0,1.0,D,0.0,0.0,D,4.5,3.4,1.85,4.84,3.4,1.87,4.53,3.42,1.87,2.2,1.67,2.22,1.68,0.5,2.01,1.89,Real Valladolid,Athletic Bilbao,real_valladolid,athletic_bilbao
+2024-11-30,SP1,Spain-LaLiga,2425,Valladolid,Ath Madrid,0.0,5.0,A,0.0,3.0,A,6.0,4.2,1.53,6.47,4.14,1.56,6.33,4.07,1.56,2.06,1.84,2.03,1.81,1.0,1.93,1.97,Real Valladolid,Atletico Madrid,real_valladolid,atletico_madrid
+2024-12-13,SP1,Spain-LaLiga,2425,Valladolid,Valencia,1.0,0.0,H,1.0,0.0,H,3.1,3.1,2.38,3.3,3.09,2.5,3.23,3.05,2.44,2.5,1.53,2.54,1.52,0.25,1.81,2.09,Real Valladolid,Valencia,real_valladolid,valencia
+2025-01-11,SP1,Spain-LaLiga,2425,Valladolid,Betis,1.0,0.0,H,0.0,0.0,D,4.5,3.5,1.83,4.69,3.51,1.86,4.48,3.47,1.85,2.1,1.73,2.12,1.72,0.5,2.02,1.88,Real Valladolid,Real Betis,real_valladolid,real_betis
+2025-01-25,SP1,Spain-LaLiga,2425,Valladolid,Real Madrid,0.0,3.0,A,0.0,1.0,A,10.0,6.0,1.27,10.86,6.46,1.25,10.64,6.31,1.25,1.44,2.75,1.43,2.77,1.75,1.95,1.95,Real Valladolid,Real Madrid,real_valladolid,real_madrid
+2025-02-16,SP1,Spain-LaLiga,2425,Valladolid,Sevilla,0.0,4.0,A,0.0,2.0,A,4.0,3.4,1.95,4.14,3.4,2.0,4.01,3.38,1.99,2.2,1.67,2.19,1.69,0.5,1.89,2.01,Real Valladolid,Sevilla,real_valladolid,sevilla
+2025-02-28,SP1,Spain-LaLiga,2425,Valladolid,Las Palmas,1.0,1.0,D,0.0,1.0,A,3.1,3.2,2.4,3.24,3.24,2.44,3.14,3.21,2.43,2.2,1.67,2.22,1.68,0.25,1.85,2.08,Real Valladolid,Las Palmas,real_valladolid,las_palmas
+2025-03-15,SP1,Spain-LaLiga,2425,Valladolid,Celta,0.0,1.0,A,0.0,0.0,D,5.0,3.8,1.63,5.3,3.94,1.68,5.07,3.88,1.69,1.99,1.91,1.93,1.89,0.75,2.0,1.9,Real Valladolid,Celta Vigo,real_valladolid,celta_vigo
+2025-04-06,SP1,Spain-LaLiga,2425,Valladolid,Getafe,0.0,4.0,A,0.0,3.0,A,4.75,3.1,1.9,4.77,3.21,1.94,4.62,3.18,1.93,2.75,1.44,2.76,1.43,0.5,1.89,1.89,Real Valladolid,Getafe,real_valladolid,getafe
+2025-04-20,SP1,Spain-LaLiga,2425,Valladolid,Osasuna,2.0,3.0,A,0.0,2.0,A,4.5,3.4,1.83,4.91,3.4,1.85,4.5,3.49,1.84,2.0,1.8,2.05,1.77,0.5,2.03,1.87,Real Valladolid,Osasuna,real_valladolid,osasuna
+2025-05-03,SP1,Spain-LaLiga,2425,Valladolid,Barcelona,1.0,2.0,A,1.0,0.0,H,15.0,8.0,1.14,13.19,8.75,1.17,14.72,8.53,1.15,1.25,4.0,1.23,4.02,2.25,2.04,1.86,Real Valladolid,Barcelona,real_valladolid,barcelona
+2025-05-13,SP1,Spain-LaLiga,2425,Valladolid,Girona,0.0,1.0,A,0.0,0.0,D,4.75,3.9,1.73,4.7,3.94,1.76,4.59,3.88,1.75,1.8,2.0,1.81,2.02,0.75,1.92,1.98,Real Valladolid,Girona,real_valladolid,girona
+2025-05-18,SP1,Spain-LaLiga,2425,Valladolid,Alaves,0.0,1.0,A,0.0,1.0,A,6.0,3.75,1.6,6.01,3.82,1.6,5.73,3.84,1.62,2.03,1.83,2.0,1.82,0.75,2.1,1.78,Real Valladolid,Deportivo Alaves,real_valladolid,deportivo_alaves
+2025-08-15,SP2,Spain-Segunda,2526,Valladolid,Ceuta,3.0,0.0,H,2.0,0.0,H,1.9,3.4,4.1,1.96,3.5,4.18,1.87,3.43,3.82,1.98,1.83,1.88,1.83,-0.5,1.93,1.88,Real Valladolid,Ceuta,real_valladolid,ceuta
+2025-08-30,SP2,Spain-Segunda,2526,Valladolid,Cordoba,0.0,0.0,D,0.0,0.0,D,1.86,3.5,4.0,1.88,3.41,4.36,1.83,3.45,3.94,1.95,1.85,1.92,1.79,-0.5,1.9,1.9,Real Valladolid,Cordoba,real_valladolid,cordoba
+2025-09-13,SP2,Spain-Segunda,2526,Valladolid,Almeria,3.0,1.0,H,1.0,0.0,H,2.5,3.3,2.65,2.35,3.48,2.97,2.39,3.32,2.7,1.9,1.9,1.84,1.86,0.0,1.85,1.95,Real Valladolid,Almeria,real_valladolid,almeria
+2025-09-28,SP2,Spain-Segunda,2526,Valladolid,Cultural Leonesa,0.0,1.0,A,0.0,1.0,A,1.42,4.5,6.25,1.45,4.42,6.99,1.44,4.21,6.28,1.9,1.9,1.83,1.87,-1.0,1.75,2.05,Real Valladolid,Cultural Leonesa,real_valladolid,cultural_leonesa
+2025-10-05,SP2,Spain-Segunda,2526,Valladolid,Mirandes,1.0,1.0,D,0.0,1.0,A,1.53,3.9,5.75,1.55,3.92,6.41,1.56,3.63,5.67,2.2,1.65,2.16,1.63,-1.0,2.03,1.78,Real Valladolid,Mirandes,real_valladolid,mirandes
+2025-10-19,SP2,Spain-Segunda,2526,Valladolid,Sp Gijon,2.0,3.0,A,1.0,1.0,D,1.91,3.2,4.2,1.91,3.27,4.51,1.89,3.28,3.93,2.15,1.67,2.1,1.66,-0.5,1.95,1.85,Real Valladolid,Sp Gijon,real_valladolid,sp_gijon
+2025-11-03,SP2,Spain-Segunda,2526,Valladolid,Granada,2.0,1.0,H,0.0,1.0,A,1.81,3.5,4.2,,,,1.86,3.3,4.04,2.15,1.67,2.12,1.65,-0.5,1.85,1.95,Real Valladolid,Granada,real_valladolid,granada
+2025-11-14,SP2,Spain-Segunda,2526,Valladolid,Las Palmas,0.0,1.0,A,0.0,1.0,A,2.4,2.85,3.2,,,,2.36,2.94,3.09,2.5,1.5,2.43,1.5,-0.25,2.05,1.75,Real Valladolid,Las Palmas,real_valladolid,las_palmas
+2025-11-29,SP2,Spain-Segunda,2526,Valladolid,Malaga,1.0,1.0,D,1.0,0.0,H,1.71,3.4,5.0,1.76,3.53,4.95,1.69,3.49,4.77,2.05,1.75,2.03,1.71,-0.75,1.98,1.83,Real Valladolid,Malaga,real_valladolid,malaga
+2025-12-13,SP2,Spain-Segunda,2526,Valladolid,Andorra,0.0,1.0,A,0.0,0.0,D,1.61,4.0,4.75,1.63,4.05,5.12,1.64,3.72,4.73,1.85,1.95,1.83,1.87,-0.75,1.83,1.98,Real Valladolid,Andorra,real_valladolid,andorra
+2026-01-03,SP2,Spain-Segunda,2526,Valladolid,Santander,1.0,1.0,D,0.0,0.0,D,2.2,3.25,3.2,2.28,3.12,3.44,2.18,3.2,3.12,1.75,2.05,1.72,2.0,-0.25,1.95,1.85,Real Valladolid,Santander,real_valladolid,santander
+2026-01-24,SP2,Spain-Segunda,2526,Valladolid,Albacete,0.0,1.0,A,0.0,0.0,D,1.91,3.4,3.9,,,,1.91,3.31,3.77,2.0,1.8,1.91,1.79,-0.5,1.98,1.83,Real Valladolid,Albacete,real_valladolid,albacete
+2026-02-08,SP2,Spain-Segunda,2526,Valladolid,Castellon,0.0,4.0,A,0.0,3.0,A,3.1,3.3,2.2,,,,3.01,3.24,2.24,2.0,1.8,1.92,1.79,0.25,1.85,1.95,Real Valladolid,Castellon,real_valladolid,castellon
+2026-02-28,SP2,Spain-Segunda,2526,Valladolid,Huesca,1.0,0.0,H,0.0,0.0,D,1.68,3.4,5.0,,,,1.76,3.27,4.59,2.4,1.53,2.34,1.54,-0.5,1.78,2.03,Real Valladolid,Huesca,real_valladolid,huesca
+2026-03-14,SP2,Spain-Segunda,2526,Valladolid,Leganes,3.0,2.0,H,1.0,0.0,H,1.96,3.4,3.9,,,,1.98,3.22,3.64,2.25,1.62,2.16,1.63,-0.5,1.98,1.83,Real Valladolid,Leganes,real_valladolid,leganes
+2026-03-28,SP2,Spain-Segunda,2526,Valladolid,Burgos,0.0,1.0,A,0.0,0.0,D,2.1,3.1,3.5,,,,2.15,3.01,3.35,2.5,1.5,2.41,1.5,-0.25,1.85,1.95,Real Valladolid,Burgos,real_valladolid,burgos
+2026-03-31,SP2,Spain-Segunda,2526,Valladolid,Cadiz,3.0,0.0,H,2.0,0.0,H,1.51,4.1,5.75,,,,1.53,3.89,5.57,1.85,1.95,1.84,1.88,-1.0,1.93,1.88,Real Valladolid,Cadiz,real_valladolid,cadiz
+2026-04-13,SP2,Spain-Segunda,2526,Valladolid,Eibar,0.0,0.0,D,0.0,0.0,D,2.35,3.1,3.2,,,,2.29,3.1,3.0,2.2,1.65,2.19,1.61,-0.25,2.03,1.78,Real Valladolid,Eibar,real_valladolid,eibar
+2026-04-25,SP2,Spain-Segunda,2526,Valladolid,Sociedad B,1.0,0.0,H,0.0,0.0,D,1.53,3.9,5.75,,,,1.54,3.83,5.35,1.85,1.95,1.79,1.92,-1.0,2.0,1.8,Real Valladolid,Sociedad B,real_valladolid,sociedad_b
+2026-05-09,SP2,Spain-Segunda,2526,Valladolid,Zaragoza,2.0,0.0,H,1.0,0.0,H,2.05,3.3,3.5,,,,2.03,3.21,3.43,2.05,1.75,2.0,1.73,-0.25,1.8,2.0,Real Valladolid,Zaragoza,real_valladolid,zaragoza
+2026-05-24,SP2,Spain-Segunda,2526,Valladolid,La Coruna,0.0,2.0,A,0.0,2.0,A,5.25,3.9,1.57,,,,5.03,3.78,1.57,1.83,1.98,1.79,1.93,0.75,2.03,1.78,Real Valladolid,La Coruna,real_valladolid,la_coruna
+2026-09-05,SP2,Spain-Segunda,2627,Valladolid,Andorra,1.0,0.0,H,1.0,0.0,H,2.4,3.25,2.82,,,,2.37,3.23,2.79,1.95,1.85,1.92,1.8,-0.25,2.05,1.75,Real Valladolid,Andorra,real_valladolid,andorra
+2026-09-13,SP2,Spain-Segunda,2627,Valladolid,Oviedo,0.0,3.0,A,0.0,1.0,A,2.35,3.0,3.2,,,,2.34,2.93,3.13,2.7,1.44,2.54,1.47,-0.25,2.03,1.78,Real Valladolid,Real Oviedo,real_valladolid,real_oviedo
+2026-09-27,SP2,Spain-Segunda,2627,Valladolid,Cordoba,3.0,1.0,H,1.0,1.0,D,2.2,3.5,3.0,,,,2.18,3.35,2.99,1.85,1.95,1.81,1.91,-0.25,1.95,1.85,Real Valladolid,Cordoba,real_valladolid,cordoba
+2026-10-12,SP2,Spain-Segunda,2627,Valladolid,Albacete,5.0,0.0,H,4.0,0.0,H,1.91,3.3,4.0,,,,1.94,3.27,3.64,1.95,1.85,1.88,1.82,-0.5,1.98,1.83,Real Valladolid,Albacete,real_valladolid,albacete
+2026-10-18,SP2,Spain-Segunda,2627,Valladolid,Eldense,2.0,3.0,A,1.0,2.0,A,1.86,3.3,4.2,,,,1.86,3.29,3.89,2.05,1.75,1.99,1.74,-0.5,1.9,1.9,Real Valladolid,Eldense,real_valladolid,eldense

@@ -1,0 +1,39 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-01,D2,Germany-BL2,2122,Hamburg,Dresden,1.0,1.0,D,1.0,0.0,H,1.61,3.8,5.5,1.69,3.97,5.31,1.66,3.83,5.05,1.65,2.2,1.63,2.24,-0.75,1.85,2.0,Hamburger SV,Dresden,hamburger_sv,dresden
+2021-08-21,D2,Germany-BL2,2122,Hansa Rostock,Dresden,1.0,3.0,A,1.0,1.0,D,2.45,3.3,2.87,2.62,3.32,2.86,2.54,3.26,2.75,1.9,1.9,1.91,1.89,0.0,1.85,2.0,Hansa Rostock,Dresden,hansa_rostock,dresden
+2021-09-12,D2,Germany-BL2,2122,Heidenheim,Dresden,2.0,1.0,H,1.0,0.0,H,2.1,3.4,3.4,2.15,3.61,3.43,2.12,3.44,3.31,1.85,1.95,1.85,1.95,-0.25,1.85,2.0,1. FC Heidenheim,Dresden,1_fc_heidenheim,dresden
+2021-09-19,D2,Germany-BL2,2122,Darmstadt,Dresden,1.0,0.0,H,1.0,0.0,H,2.05,3.6,3.25,2.1,3.68,3.57,2.07,3.55,3.36,1.66,2.15,1.68,2.18,-0.25,1.77,2.02,Darmstadt 98,Dresden,darmstadt_98,dresden
+2021-10-03,D2,Germany-BL2,2122,St Pauli,Dresden,3.0,0.0,H,1.0,0.0,H,1.7,4.0,4.75,1.74,4.13,4.7,1.73,3.91,4.39,1.66,2.15,1.69,2.16,-0.75,1.95,1.9,FC St Pauli,Dresden,fc_st_pauli,dresden
+2021-10-23,D2,Germany-BL2,2122,Schalke 04,Dresden,3.0,0.0,H,1.0,0.0,H,1.53,4.0,7.0,1.56,4.19,6.49,1.54,4.04,5.93,1.8,2.0,1.77,2.05,-1.0,1.93,1.93,Schalke 04,Dresden,schalke_04,dresden
+2021-11-05,D2,Germany-BL2,2122,Holstein Kiel,Dresden,2.0,1.0,H,0.0,1.0,A,1.85,3.5,4.2,1.92,3.78,4.11,1.89,3.58,3.92,1.85,1.95,1.85,1.95,-0.5,1.88,1.98,Holstein Kiel,Dresden,holstein_kiel,dresden
+2021-11-26,D2,Germany-BL2,2122,Regensburg,Dresden,3.0,1.0,H,1.0,0.0,H,2.15,3.4,3.4,2.24,3.37,3.52,2.18,3.31,3.36,1.93,1.93,1.92,1.88,-0.25,1.9,1.95,Regensburg,Dresden,regensburg,dresden
+2021-12-12,D2,Germany-BL2,2122,Erzgebirge Aue,Dresden,0.0,1.0,A,0.0,0.0,D,2.7,3.4,2.6,2.75,3.43,2.69,2.65,3.32,2.61,1.98,1.88,1.94,1.86,0.0,1.93,1.93,Erzgebirge Aue,Dresden,erzgebirge_aue,dresden
+2021-12-18,D2,Germany-BL2,2122,Ingolstadt,Dresden,3.0,0.0,H,2.0,0.0,H,2.87,3.4,2.45,2.96,3.27,2.6,2.86,3.25,2.48,2.05,1.75,2.05,1.76,0.0,2.05,1.8,Ingolstadt,Dresden,ingolstadt,dresden
+2022-01-23,D2,Germany-BL2,2122,Hannover,Dresden,0.0,0.0,D,0.0,0.0,D,2.15,3.25,3.6,2.15,3.42,3.68,2.14,3.3,3.41,2.02,1.83,1.99,1.8,-0.25,1.85,2.0,Hannover,Dresden,hannover,dresden
+2022-02-12,D2,Germany-BL2,2122,Paderborn,Dresden,0.0,0.0,D,0.0,0.0,D,1.9,3.5,4.0,1.87,3.69,4.49,1.84,3.6,4.13,1.83,2.02,1.79,2.01,-0.5,1.85,2.0,Paderborn,Dresden,paderborn,dresden
+2022-03-06,D2,Germany-BL2,2122,Werder Bremen,Dresden,2.0,1.0,H,2.0,1.0,H,1.36,5.0,8.5,1.38,5.19,8.82,1.36,4.95,8.07,1.61,2.25,1.63,2.25,-1.5,2.02,1.83,Werder Bremen,Dresden,werder_bremen,dresden
+2022-03-20,D2,Germany-BL2,2122,Nurnberg,Dresden,1.0,1.0,D,1.0,1.0,D,1.9,3.6,4.0,1.89,3.76,4.25,1.88,3.59,3.96,1.88,1.98,1.84,1.94,-0.5,1.9,1.95,Nurnberg,Dresden,nurnberg,dresden
+2022-04-10,D2,Germany-BL2,2122,Sandhausen,Dresden,2.0,1.0,H,1.0,0.0,H,2.3,3.3,3.2,2.37,3.29,3.32,2.34,3.19,3.14,2.1,1.7,2.13,1.69,-0.25,2.02,1.83,Sandhausen,Dresden,sandhausen,dresden
+2022-04-22,D2,Germany-BL2,2122,Fortuna Dusseldorf,Dresden,2.0,2.0,D,2.0,0.0,H,1.6,3.8,6.0,1.61,3.98,6.25,1.6,3.82,5.92,2.05,1.75,2.05,1.76,-1.0,2.05,1.8,Fortuna Dusseldorf,Dresden,fortuna_dusseldorf,dresden
+2022-05-08,D2,Germany-BL2,2122,Karlsruhe,Dresden,2.0,2.0,D,0.0,1.0,A,2.05,3.5,3.6,2.09,3.74,3.55,2.06,3.6,3.37,1.7,2.1,1.69,2.16,-0.5,2.02,1.77,Karlsruhe,Dresden,karlsruhe,dresden
+2025-08-03,D2,Germany-BL2,2526,Greuther Furth,Dresden,3.0,2.0,H,2.0,1.0,H,2.2,3.7,2.9,2.27,3.49,3.11,2.17,3.63,2.89,1.6,2.3,1.57,2.27,-0.25,1.95,1.85,Greuther Furth,Dresden,greuther_furth,dresden
+2025-08-24,D2,Germany-BL2,2526,Bielefeld,Dresden,1.0,2.0,A,0.0,1.0,A,1.9,3.3,4.2,1.94,3.3,4.29,1.87,3.47,3.88,1.73,2.08,1.72,2.02,-0.5,1.9,1.9,Arminia Bielefeld,Dresden,arminia_bielefeld,dresden
+2025-09-14,D2,Germany-BL2,2526,Elversberg,Dresden,2.0,2.0,D,1.0,2.0,A,2.0,3.7,3.4,1.99,3.85,3.47,1.97,3.63,3.4,1.7,2.1,1.65,2.12,-0.5,1.98,1.83,Elversberg,Dresden,elversberg,dresden
+2025-09-26,D2,Germany-BL2,2526,Darmstadt,Dresden,2.0,0.0,H,1.0,0.0,H,1.62,4.1,4.0,1.71,4.47,4.4,1.66,4.11,4.24,1.48,2.6,1.46,2.56,-0.75,1.83,1.98,Darmstadt 98,Dresden,darmstadt_98,dresden
+2025-10-18,D2,Germany-BL2,2526,Preußen Münster,Dresden,2.0,2.0,D,0.0,1.0,A,2.3,3.7,2.8,2.33,3.79,2.81,2.27,3.56,2.78,1.67,2.15,1.67,2.09,-0.25,2.03,1.78,Preußen Münster,Dresden,preuen_munster,dresden
+2025-11-01,D2,Germany-BL2,2526,Hertha,Dresden,2.0,0.0,H,2.0,0.0,H,1.95,3.4,3.9,,,,1.91,3.6,3.57,1.57,2.35,1.53,2.36,-0.5,1.95,1.85,Hertha Berlin,Dresden,hertha_berlin,dresden
+2025-11-21,D2,Germany-BL2,2526,Bochum,Dresden,1.0,2.0,A,0.0,2.0,A,1.95,3.75,3.6,,,,1.91,3.66,3.56,1.65,2.2,1.62,2.17,-0.5,1.93,1.88,VfL Bochum,Dresden,vfl_bochum,dresden
+2025-12-06,D2,Germany-BL2,2526,Kaiserslautern,Dresden,3.0,1.0,H,1.0,0.0,H,1.9,3.9,3.5,,,,1.86,3.76,3.61,1.62,2.25,1.59,2.22,-0.5,1.9,1.9,Kaiserslautern,Dresden,kaiserslautern,dresden
+2025-12-20,D2,Germany-BL2,2526,Holstein Kiel,Dresden,2.0,1.0,H,1.0,1.0,D,1.91,3.75,3.75,,,,1.89,3.61,3.61,1.67,2.15,1.63,2.13,-0.5,1.9,1.9,Holstein Kiel,Dresden,holstein_kiel,dresden
+2026-01-24,D2,Germany-BL2,2526,Magdeburg,Dresden,1.0,2.0,A,1.0,2.0,A,1.8,4.0,4.0,,,,1.75,3.9,3.97,1.53,2.4,1.49,2.45,-0.75,2.0,1.8,Magdeburg,Dresden,magdeburg,dresden
+2026-02-07,D2,Germany-BL2,2526,Schalke 04,Dresden,2.0,2.0,D,0.0,0.0,D,1.73,3.75,4.5,,,,1.7,3.6,4.68,1.98,1.83,1.92,1.8,-0.75,1.95,1.85,Schalke 04,Dresden,schalke_04,dresden
+2026-02-22,D2,Germany-BL2,2526,Hannover,Dresden,0.0,0.0,D,0.0,0.0,D,1.53,4.1,6.0,,,,1.53,4.13,5.3,1.62,2.25,1.6,2.19,-1.0,1.85,1.95,Hannover,Dresden,hannover,dresden
+2026-03-08,D2,Germany-BL2,2526,Karlsruhe,Dresden,3.0,3.0,D,1.0,3.0,A,2.5,3.4,2.63,,,,2.48,3.44,2.57,1.73,2.08,1.67,2.1,0.0,1.85,1.95,Karlsruhe,Dresden,karlsruhe,dresden
+2026-03-21,D2,Germany-BL2,2526,Paderborn,Dresden,2.0,1.0,H,0.0,1.0,A,1.75,3.75,4.33,,,,1.73,3.79,4.17,1.62,2.25,1.6,2.21,-0.75,1.98,1.83,Paderborn,Dresden,paderborn,dresden
+2026-04-11,D2,Germany-BL2,2526,Nurnberg,Dresden,0.0,2.0,A,0.0,0.0,D,2.1,3.6,3.25,,,,2.06,3.57,3.15,1.7,2.1,1.69,2.06,-0.25,1.83,1.98,Nurnberg,Dresden,nurnberg,dresden
+2026-04-24,D2,Germany-BL2,2526,Fortuna Dusseldorf,Dresden,3.0,1.0,H,2.0,0.0,H,2.15,3.4,2.8,,,,2.21,3.47,2.85,1.7,2.1,1.65,2.12,-0.25,1.95,1.85,Fortuna Dusseldorf,Dresden,fortuna_dusseldorf,dresden
+2026-05-09,D2,Germany-BL2,2526,Braunschweig,Dresden,2.0,1.0,H,1.0,0.0,H,2.63,3.4,2.63,,,,2.54,3.39,2.55,1.75,2.05,1.72,2.01,0.0,1.9,1.9,Braunschweig,Dresden,braunschweig,dresden
+2026-08-09,D2,Germany-BL2,2627,Nurnberg,Dresden,3.0,0.0,H,2.0,0.0,H,2.25,3.3,3.1,,,,2.16,3.49,2.93,1.7,2.1,1.64,2.13,-0.25,1.95,1.85,Nurnberg,Dresden,nurnberg,dresden
+2026-08-29,D2,Germany-BL2,2627,Heidenheim,Dresden,5.0,3.0,H,0.0,1.0,A,2.5,3.5,2.7,,,,2.29,3.6,2.71,1.53,2.4,1.52,2.39,-0.25,2.1,1.7,1. FC Heidenheim,Dresden,1_fc_heidenheim,dresden
+2026-09-12,D2,Germany-BL2,2627,Braunschweig,Dresden,2.0,2.0,D,1.0,1.0,D,2.75,3.3,2.5,,,,2.65,3.53,2.36,1.6,2.3,1.56,2.31,0.25,1.7,2.1,Braunschweig,Dresden,braunschweig,dresden
+2026-10-10,D2,Germany-BL2,2627,Osnabruck,Dresden,1.0,1.0,D,0.0,1.0,A,2.55,3.6,2.4,,,,2.56,3.61,2.37,1.53,2.4,1.51,2.4,0.0,1.98,1.83,Osnabruck,Dresden,osnabruck,dresden

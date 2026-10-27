@@ -1,0 +1,90 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,P1,Portugal-Liga1,2122,Maritimo,Sp Braga,0.0,2.0,A,0.0,0.0,D,5.0,3.4,1.75,4.53,3.72,1.83,4.3,3.57,1.82,1.93,1.93,1.89,1.92,0.5,2.06,1.84,Maritimo,Sp Braga,maritimo,sp_braga
+2021-08-20,P1,Portugal-Liga1,2122,Moreirense,Sp Braga,2.0,3.0,A,0.0,2.0,A,4.75,3.8,1.66,5.53,3.68,1.73,5.06,3.61,1.7,2.0,1.8,1.97,1.83,0.75,1.95,1.95,Moreirense,Sp Braga,moreirense,sp_braga
+2021-09-11,P1,Portugal-Liga1,2122,Pacos Ferreira,Sp Braga,0.0,0.0,D,0.0,0.0,D,4.33,3.4,1.83,4.41,3.63,1.9,4.19,3.45,1.88,2.1,1.7,2.14,1.71,0.5,1.98,1.92,Pacos Ferreira,Sp Braga,pacos_ferreira,sp_braga
+2021-09-26,P1,Portugal-Liga1,2122,Santa Clara,Sp Braga,1.0,1.0,D,0.0,0.0,D,4.0,3.4,1.9,4.06,3.47,2.02,3.86,3.39,1.98,2.0,1.8,2.03,1.79,0.5,1.89,2.01,Santa Clara,Sp Braga,santa_clara,sp_braga
+2021-10-25,P1,Portugal-Liga1,2122,Gil Vicente,Sp Braga,0.0,1.0,A,0.0,1.0,A,4.0,3.4,1.9,4.08,3.47,1.99,3.84,3.37,1.96,2.0,1.8,2.01,1.78,0.5,1.91,1.99,Gil Vicente,Sp Braga,gil_vicente,sp_braga
+2021-11-07,P1,Portugal-Liga1,2122,Benfica,Sp Braga,6.0,1.0,H,4.0,1.0,H,1.57,4.0,5.75,1.59,4.44,5.67,1.58,4.13,5.33,1.72,2.07,1.73,2.09,-1.0,2.04,1.86,Benfica,Sp Braga,benfica,sp_braga
+2021-12-12,P1,Portugal-Liga1,2122,Porto,Sp Braga,1.0,0.0,H,1.0,0.0,H,1.5,4.33,6.5,1.49,4.86,6.49,1.49,4.44,6.1,1.72,2.07,1.72,2.13,-1.0,1.84,2.06,FC Porto,Sp Braga,fc_porto,sp_braga
+2021-12-30,P1,Portugal-Liga1,2122,Arouca,Sp Braga,0.0,6.0,A,0.0,3.0,A,5.0,3.8,1.7,5.48,3.67,1.74,4.96,3.69,1.7,1.98,1.88,1.93,1.87,0.75,1.99,1.91,Arouca,Sp Braga,arouca,sp_braga
+2022-01-22,P1,Portugal-Liga1,2122,Sp Lisbon,Sp Braga,1.0,2.0,A,1.0,0.0,H,1.6,4.0,5.5,1.6,4.19,5.99,1.59,3.98,5.6,1.8,2.0,1.82,1.98,-1.0,2.06,1.84,Sp Lisbon,Sp Braga,sp_lisbon,sp_braga
+2022-02-05,P1,Portugal-Liga1,2122,Guimaraes,Sp Braga,2.0,1.0,H,1.0,0.0,H,3.5,3.5,2.05,3.48,3.65,2.14,3.4,3.55,2.06,1.85,2.0,1.82,1.99,0.5,1.82,2.08,Vitoria Guimaraes,Sp Braga,vitoria_guimaraes,sp_braga
+2022-02-20,P1,Portugal-Liga1,2122,Tondela,Sp Braga,0.0,1.0,A,0.0,0.0,D,5.5,4.0,1.57,5.57,4.1,1.65,5.3,4.02,1.6,1.8,2.0,1.77,2.04,1.0,1.86,2.04,Tondela,Sp Braga,tondela,sp_braga
+2022-03-05,P1,Portugal-Liga1,2122,Boavista,Sp Braga,1.0,1.0,D,0.0,1.0,A,4.75,3.4,1.8,4.34,3.61,1.92,4.2,3.54,1.85,2.0,1.85,1.94,1.86,0.5,2.02,1.88,Boavista,Sp Braga,boavista,sp_braga
+2022-03-20,P1,Portugal-Liga1,2122,Portimonense,Sp Braga,1.0,2.0,A,0.0,2.0,A,4.2,3.3,1.9,4.45,3.37,1.94,4.13,3.39,1.91,2.1,1.7,2.12,1.71,0.5,1.95,1.95,Portimonense,Sp Braga,portimonense,sp_braga
+2022-04-10,P1,Portugal-Liga1,2122,Vizela,Sp Braga,0.0,1.0,A,0.0,1.0,A,3.75,3.4,1.85,4.09,3.56,1.98,3.87,3.53,1.93,1.85,1.95,1.86,1.94,0.5,1.95,1.95,Vizela,Sp Braga,vizela,sp_braga
+2022-04-18,P1,Portugal-Liga1,2122,Estoril,Sp Braga,0.0,0.0,D,0.0,0.0,D,3.75,3.3,1.95,3.98,3.32,2.08,3.71,3.34,2.02,2.05,1.75,2.03,1.76,0.5,1.86,2.04,Estoril,Sp Braga,estoril,sp_braga
+2022-04-30,P1,Portugal-Liga1,2122,Belenenses,Sp Braga,0.0,1.0,A,0.0,0.0,D,5.0,3.75,1.7,4.85,3.94,1.75,4.76,3.77,1.71,1.95,1.9,1.95,1.85,0.75,1.93,1.97,Belenenses,Sp Braga,belenenses,sp_braga
+2022-05-15,P1,Portugal-Liga1,2122,Famalicao,Sp Braga,3.0,2.0,H,1.0,2.0,A,3.1,3.5,2.2,3.09,3.86,2.25,2.98,3.64,2.23,1.65,2.2,1.66,2.2,0.25,1.9,2.0,Famalicao,Sp Braga,famalicao,sp_braga
+2022-08-12,P1,Portugal-Liga1,2223,Famalicao,Sp Braga,0.0,3.0,A,0.0,2.0,A,3.6,3.4,2.0,3.7,3.7,2.05,3.56,3.53,2.02,1.88,1.98,1.84,1.97,0.5,1.87,2.03,Famalicao,Sp Braga,famalicao,sp_braga
+2022-08-28,P1,Portugal-Liga1,2223,Arouca,Sp Braga,0.0,6.0,A,0.0,4.0,A,5.0,3.75,1.66,5.18,4.12,1.68,4.83,3.85,1.69,1.72,2.07,1.78,2.04,0.75,2.01,1.89,Arouca,Sp Braga,arouca,sp_braga
+2022-09-11,P1,Portugal-Liga1,2223,Rio Ave,Sp Braga,2.0,3.0,A,0.0,2.0,A,5.75,4.0,1.57,5.94,4.03,1.63,5.39,3.94,1.61,1.72,2.07,1.8,2.0,1.0,1.8,2.1,Rio Ave,Sp Braga,rio_ave,sp_braga
+2022-09-30,P1,Portugal-Liga1,2223,Porto,Sp Braga,4.0,1.0,H,2.0,0.0,H,1.75,3.8,4.0,1.82,3.88,4.49,1.78,3.78,4.26,1.75,2.05,1.75,2.07,-0.75,2.05,1.85,FC Porto,Sp Braga,fc_porto,sp_braga
+2022-10-22,P1,Portugal-Liga1,2223,Estoril,Sp Braga,0.0,2.0,A,0.0,2.0,A,4.5,3.75,1.66,4.97,4.09,1.71,4.66,3.87,1.7,1.72,2.07,1.75,2.06,0.75,1.99,1.91,Estoril,Sp Braga,estoril,sp_braga
+2022-10-30,P1,Portugal-Liga1,2223,Gil Vicente,Sp Braga,0.0,1.0,A,0.0,0.0,D,4.5,3.8,1.72,4.76,3.87,1.78,4.4,3.73,1.75,1.75,2.05,1.78,2.01,0.75,1.9,2.0,Gil Vicente,Sp Braga,gil_vicente,sp_braga
+2022-11-13,P1,Portugal-Liga1,2223,Portimonense,Sp Braga,1.0,2.0,A,1.0,0.0,H,5.0,3.75,1.66,5.03,4.21,1.68,4.83,3.92,1.67,1.72,2.07,1.74,2.07,0.75,2.01,1.89,Portimonense,Sp Braga,portimonense,sp_braga
+2023-01-05,P1,Portugal-Liga1,2223,Santa Clara,Sp Braga,0.0,4.0,A,0.0,2.0,A,5.0,3.6,1.65,5.25,3.94,1.68,4.98,3.79,1.68,1.95,1.9,1.91,1.88,0.75,1.99,1.91,Santa Clara,Sp Braga,santa_clara,sp_braga
+2023-01-21,P1,Portugal-Liga1,2223,Pacos Ferreira,Sp Braga,1.0,2.0,A,0.0,0.0,D,6.0,4.5,1.44,7.74,4.73,1.45,6.91,4.51,1.44,1.75,2.05,1.78,2.04,1.25,1.85,2.05,Pacos Ferreira,Sp Braga,pacos_ferreira,sp_braga
+2023-02-01,P1,Portugal-Liga1,2223,Sp Lisbon,Sp Braga,5.0,0.0,H,1.0,0.0,H,1.91,3.6,3.75,2.0,3.75,3.82,1.94,3.63,3.72,1.83,2.02,1.81,2.0,-0.5,1.97,1.93,Sp Lisbon,Sp Braga,sp_lisbon,sp_braga
+2023-02-12,P1,Portugal-Liga1,2223,Maritimo,Sp Braga,1.0,2.0,A,1.0,2.0,A,5.5,4.0,1.57,5.87,4.09,1.62,5.52,4.01,1.59,1.83,2.02,1.8,2.02,1.0,1.83,2.07,Maritimo,Sp Braga,maritimo,sp_braga
+2023-02-27,P1,Portugal-Liga1,2223,Guimaraes,Sp Braga,2.0,1.0,H,2.0,0.0,H,3.75,3.5,1.91,4.02,3.53,1.99,3.8,3.49,1.96,2.0,1.85,2.01,1.8,0.5,1.91,1.99,Vitoria Guimaraes,Sp Braga,vitoria_guimaraes,sp_braga
+2023-03-11,P1,Portugal-Liga1,2223,Vizela,Sp Braga,0.0,4.0,A,0.0,1.0,A,3.8,3.6,1.95,3.96,3.64,1.99,3.8,3.53,1.96,1.95,1.9,1.94,1.86,0.5,1.91,1.99,Vizela,Sp Braga,vizela,sp_braga
+2023-04-02,P1,Portugal-Liga1,2223,Chaves,Sp Braga,1.0,2.0,A,1.0,1.0,D,4.75,3.8,1.67,5.17,3.93,1.72,4.91,3.78,1.69,1.9,1.95,1.88,1.91,0.75,1.99,1.91,Chaves,Sp Braga,chaves,sp_braga
+2023-04-21,P1,Portugal-Liga1,2223,Casa Pia,Sp Braga,0.0,1.0,A,0.0,0.0,D,5.25,3.6,1.6,6.15,3.83,1.65,5.62,3.75,1.64,2.05,1.8,2.04,1.77,0.75,2.05,1.85,Casa Pia,Sp Braga,casa_pia,sp_braga
+2023-05-06,P1,Portugal-Liga1,2223,Benfica,Sp Braga,1.0,0.0,H,0.0,0.0,D,1.55,4.2,5.5,1.57,4.52,5.77,1.56,4.3,5.59,1.65,2.2,1.64,2.23,-1.0,1.96,1.94,Benfica,Sp Braga,benfica,sp_braga
+2023-05-20,P1,Portugal-Liga1,2223,Boavista,Sp Braga,1.0,1.0,D,0.0,0.0,D,5.5,4.0,1.53,5.73,4.49,1.58,5.48,4.31,1.56,1.7,2.1,1.68,2.16,1.0,1.93,1.97,Boavista,Sp Braga,boavista,sp_braga
+2023-08-19,P1,Portugal-Liga1,2324,Chaves,Sp Braga,2.0,4.0,A,1.0,1.0,D,4.5,4.0,1.7,4.98,4.2,1.69,4.79,3.99,1.67,1.73,2.08,1.74,2.07,0.75,2.0,1.9,Chaves,Sp Braga,chaves,sp_braga
+2023-09-09,P1,Portugal-Liga1,2324,Moreirense,Sp Braga,2.0,3.0,A,2.0,1.0,H,4.2,3.75,1.8,4.28,3.97,1.84,4.11,3.84,1.81,1.7,2.1,1.71,2.12,0.5,2.03,1.78,Moreirense,Sp Braga,moreirense,sp_braga
+2023-09-16,P1,Portugal-Liga1,2324,Farense,Sp Braga,3.0,1.0,H,2.0,0.0,H,4.75,3.8,1.7,4.72,4.26,1.71,4.58,4.03,1.7,1.67,2.15,1.67,2.2,0.75,2.01,1.89,Farense,Sp Braga,farense,sp_braga
+2023-09-28,P1,Portugal-Liga1,2324,Estrela,Sp Braga,2.0,4.0,A,0.0,1.0,A,4.5,3.8,1.7,4.72,4.16,1.71,4.63,3.95,1.7,1.7,2.1,1.71,2.12,0.75,1.93,1.97,Estrela Amadora,Sp Braga,estrela_amadora,sp_braga
+2023-10-28,P1,Portugal-Liga1,2324,Gil Vicente,Sp Braga,3.0,3.0,D,1.0,0.0,H,4.0,3.8,1.8,4.16,4.28,1.8,4.07,4.04,1.79,1.57,2.35,1.58,2.36,0.75,1.88,2.02,Gil Vicente,Sp Braga,gil_vicente,sp_braga
+2023-11-12,P1,Portugal-Liga1,2324,Arouca,Sp Braga,0.0,1.0,A,0.0,1.0,A,5.0,4.2,1.6,5.32,4.36,1.63,5.14,4.27,1.6,1.6,2.3,1.63,2.27,1.0,1.82,2.08,Arouca,Sp Braga,arouca,sp_braga
+2023-12-08,P1,Portugal-Liga1,2324,Vizela,Sp Braga,1.0,3.0,A,0.0,1.0,A,5.25,4.33,1.57,5.87,4.32,1.59,5.32,4.34,1.58,1.57,2.35,1.58,2.38,1.0,1.9,2.0,Vizela,Sp Braga,vizela,sp_braga
+2023-12-30,P1,Portugal-Liga1,2324,Casa Pia,Sp Braga,1.0,3.0,A,0.0,0.0,D,5.25,4.0,1.62,5.49,4.25,1.63,5.22,4.06,1.62,1.8,2.0,1.79,2.03,1.0,1.75,2.05,Casa Pia,Sp Braga,casa_pia,sp_braga
+2024-01-14,P1,Portugal-Liga1,2324,Porto,Sp Braga,2.0,0.0,H,1.0,0.0,H,1.73,3.75,4.5,1.82,3.99,4.37,1.79,3.85,4.2,1.67,2.15,1.69,2.15,-0.75,2.03,1.87,FC Porto,Sp Braga,fc_porto,sp_braga
+2024-01-18,P1,Portugal-Liga1,2324,Famalicao,Sp Braga,1.0,2.0,A,0.0,0.0,D,4.33,3.6,1.8,4.31,3.96,1.83,4.24,3.81,1.79,1.73,2.08,1.75,2.07,0.75,1.85,2.05,Famalicao,Sp Braga,famalicao,sp_braga
+2024-02-11,P1,Portugal-Liga1,2324,Sp Lisbon,Sp Braga,5.0,0.0,H,2.0,0.0,H,1.5,4.5,6.0,1.51,4.75,6.22,1.5,4.56,5.83,1.53,2.4,1.54,2.43,-1.0,1.83,2.07,Sp Lisbon,Sp Braga,sp_lisbon,sp_braga
+2024-02-26,P1,Portugal-Liga1,2324,Boavista,Sp Braga,0.0,4.0,A,0.0,2.0,A,4.5,3.5,1.83,4.27,3.89,1.83,4.22,3.8,1.79,1.73,2.08,1.73,2.09,0.75,1.78,2.03,Boavista,Sp Braga,boavista,sp_braga
+2024-03-09,P1,Portugal-Liga1,2324,Rio Ave,Sp Braga,0.0,0.0,D,0.0,0.0,D,4.2,3.8,1.8,4.81,3.93,1.76,4.46,3.79,1.77,1.83,2.03,1.81,2.0,0.75,1.9,2.0,Rio Ave,Sp Braga,rio_ave,sp_braga
+2024-04-01,P1,Portugal-Liga1,2324,Portimonense,Sp Braga,3.0,5.0,A,1.0,2.0,A,7.0,4.5,1.45,6.87,4.62,1.47,6.6,4.58,1.46,1.62,2.25,1.61,2.31,1.25,1.87,2.03,Portimonense,Sp Braga,portimonense,sp_braga
+2024-04-13,P1,Portugal-Liga1,2324,Estoril,Sp Braga,0.0,1.0,A,0.0,0.0,D,4.5,4.0,1.73,4.59,4.0,1.76,4.29,3.99,1.76,1.57,2.35,1.57,2.39,0.75,1.93,1.97,Estoril,Sp Braga,estoril,sp_braga
+2024-04-27,P1,Portugal-Liga1,2324,Benfica,Sp Braga,3.0,1.0,H,0.0,1.0,A,1.55,4.33,5.75,1.57,4.52,5.59,1.56,4.4,5.29,1.5,2.5,1.5,2.54,-1.0,1.92,1.98,Benfica,Sp Braga,benfica,sp_braga
+2024-05-11,P1,Portugal-Liga1,2324,Guimaraes,Sp Braga,2.0,3.0,A,1.0,1.0,D,3.25,3.5,2.1,3.28,3.7,2.18,3.23,3.63,2.12,1.67,2.15,1.64,2.22,0.25,2.01,1.89,Vitoria Guimaraes,Sp Braga,vitoria_guimaraes,sp_braga
+2024-08-18,P1,Portugal-Liga1,2425,Boavista,Sp Braga,0.0,1.0,A,0.0,1.0,A,5.5,3.9,1.6,5.22,4.23,1.59,5.2,4.16,1.6,1.73,2.08,1.74,2.09,1.0,1.83,2.07,Boavista,Sp Braga,boavista,sp_braga
+2024-09-01,P1,Portugal-Liga1,2425,Gil Vicente,Sp Braga,0.0,0.0,D,0.0,0.0,D,4.5,3.8,1.73,4.64,3.9,1.72,4.49,3.85,1.74,1.73,2.08,1.75,2.07,0.75,1.91,1.99,Gil Vicente,Sp Braga,gil_vicente,sp_braga
+2024-09-20,P1,Portugal-Liga1,2425,Nacional,Sp Braga,0.0,3.0,A,0.0,0.0,D,5.25,3.8,1.65,5.23,4.19,1.65,5.04,3.98,1.65,1.62,2.25,1.65,2.24,0.75,1.95,1.71,Nacional,Sp Braga,nacional,sp_braga
+2024-10-06,P1,Portugal-Liga1,2425,Porto,Sp Braga,2.0,1.0,H,1.0,0.0,H,1.6,3.75,6.0,1.57,4.25,5.43,1.59,4.16,5.32,1.67,2.15,1.66,2.22,-1.0,2.02,1.88,FC Porto,Sp Braga,fc_porto,sp_braga
+2024-11-03,P1,Portugal-Liga1,2425,Arouca,Sp Braga,1.0,2.0,A,0.0,1.0,A,4.33,3.9,1.73,4.51,3.89,1.74,4.36,3.87,1.75,1.73,2.08,1.73,2.1,0.75,1.9,2.0,Arouca,Sp Braga,arouca,sp_braga
+2024-12-01,P1,Portugal-Liga1,2425,AVS,Sp Braga,0.0,1.0,A,0.0,0.0,D,5.5,3.9,1.6,5.54,4.03,1.6,5.37,3.97,1.6,1.85,2.0,1.85,1.95,1.0,1.82,2.08,AVS,Sp Braga,avs,sp_braga
+2024-12-22,P1,Portugal-Liga1,2425,Santa Clara,Sp Braga,0.0,2.0,A,0.0,0.0,D,3.1,3.2,2.3,3.2,3.2,2.35,3.14,3.18,2.3,2.25,1.62,2.22,1.64,0.25,1.87,2.03,Santa Clara,Sp Braga,santa_clara,sp_braga
+2025-01-04,P1,Portugal-Liga1,2425,Benfica,Sp Braga,1.0,2.0,A,0.0,2.0,A,1.42,4.5,7.0,1.42,4.84,6.75,1.42,4.69,6.67,1.57,2.35,1.57,2.35,-1.25,1.98,1.92,Benfica,Sp Braga,benfica,sp_braga
+2025-01-19,P1,Portugal-Liga1,2425,Estrela,Sp Braga,0.0,1.0,A,0.0,0.0,D,5.0,3.8,1.67,4.83,3.93,1.68,4.76,3.82,1.68,1.85,2.0,1.83,1.95,0.75,2.0,1.9,Estrela Amadora,Sp Braga,estrela_amadora,sp_braga
+2025-02-03,P1,Portugal-Liga1,2425,Moreirense,Sp Braga,1.0,2.0,A,1.0,0.0,H,4.2,3.5,1.9,4.08,3.49,1.93,3.95,3.46,1.92,2.05,1.75,2.04,1.76,0.5,1.95,1.95,Moreirense,Sp Braga,moreirense,sp_braga
+2025-02-16,P1,Portugal-Liga1,2425,Guimaraes,Sp Braga,0.0,0.0,D,0.0,0.0,D,2.55,3.25,2.75,2.46,3.51,2.8,2.47,3.4,2.76,2.05,1.8,2.04,1.78,0.0,1.85,2.05,Vitoria Guimaraes,Sp Braga,vitoria_guimaraes,sp_braga
+2025-03-02,P1,Portugal-Liga1,2425,Rio Ave,Sp Braga,2.0,1.0,H,1.0,1.0,D,4.2,3.6,1.83,4.14,3.85,1.81,4.07,3.78,1.82,1.85,2.0,1.82,1.99,0.5,2.05,1.85,Rio Ave,Sp Braga,rio_ave,sp_braga
+2025-03-15,P1,Portugal-Liga1,2425,Farense,Sp Braga,0.0,1.0,A,0.0,0.0,D,4.33,3.4,1.85,4.5,3.36,1.88,4.37,3.38,1.87,2.25,1.62,2.21,1.65,0.5,2.02,1.88,Farense,Sp Braga,farense,sp_braga
+2025-04-07,P1,Portugal-Liga1,2425,Sp Lisbon,Sp Braga,1.0,1.0,D,1.0,0.0,H,1.53,4.0,6.25,1.53,4.29,5.82,1.52,4.22,5.87,1.73,2.08,1.72,2.09,-1.0,1.92,1.98,Sp Lisbon,Sp Braga,sp_lisbon,sp_braga
+2025-04-19,P1,Portugal-Liga1,2425,Estoril,Sp Braga,0.0,2.0,A,0.0,2.0,A,3.8,3.4,1.95,3.79,3.44,2.01,3.78,3.41,1.97,2.03,1.83,2.0,1.8,0.5,1.87,2.03,Estoril,Sp Braga,estoril,sp_braga
+2025-04-25,P1,Portugal-Liga1,2425,Famalicao,Sp Braga,1.0,1.0,D,1.0,0.0,H,3.25,3.3,2.2,3.34,3.36,2.29,3.26,3.29,2.24,2.15,1.67,2.21,1.66,0.25,1.92,1.98,Famalicao,Sp Braga,famalicao,sp_braga
+2025-05-10,P1,Portugal-Liga1,2425,Casa Pia,Sp Braga,2.0,1.0,H,1.0,1.0,D,5.75,3.8,1.57,6.01,3.93,1.57,5.64,3.85,1.59,2.05,1.75,2.01,1.79,1.0,1.8,2.1,Casa Pia,Sp Braga,casa_pia,sp_braga
+2025-08-17,P1,Portugal-Liga1,2526,Alverca,Sp Braga,0.0,3.0,A,0.0,3.0,A,5.25,3.9,1.62,5.31,3.82,1.65,5.01,3.72,1.64,2.03,1.83,1.94,1.79,0.75,2.0,1.85,Alverca,Sp Braga,alverca,sp_braga
+2025-08-31,P1,Portugal-Liga1,2526,Rio Ave,Sp Braga,2.0,2.0,D,2.0,1.0,H,4.75,3.6,1.68,4.49,3.92,1.74,4.44,3.8,1.7,1.85,2.0,1.8,1.93,0.75,1.9,1.95,Rio Ave,Sp Braga,rio_ave,sp_braga
+2025-09-20,P1,Portugal-Liga1,2526,Guimaraes,Sp Braga,1.0,1.0,D,1.0,1.0,D,2.85,3.3,2.35,2.98,3.31,2.43,2.91,3.24,2.34,2.05,1.8,1.98,1.75,0.25,1.78,2.1,Vitoria Guimaraes,Sp Braga,vitoria_guimaraes,sp_braga
+2025-10-05,P1,Portugal-Liga1,2526,Sp Lisbon,Sp Braga,1.0,1.0,D,1.0,0.0,H,1.41,4.33,7.0,1.47,4.59,6.25,1.45,4.4,6.26,1.67,2.15,1.64,2.13,-1.25,2.0,1.85,Sp Lisbon,Sp Braga,sp_lisbon,sp_braga
+2025-11-02,P1,Portugal-Liga1,2526,Porto,Sp Braga,2.0,1.0,H,1.0,0.0,H,1.49,4.0,6.25,1.53,4.14,6.24,1.5,4.09,6.18,1.98,1.88,1.86,1.85,-1.0,1.93,1.93,FC Porto,Sp Braga,fc_porto,sp_braga
+2025-12-01,P1,Portugal-Liga1,2526,Arouca,Sp Braga,0.0,4.0,A,0.0,3.0,A,6.5,3.9,1.49,6.35,4.28,1.5,5.89,4.06,1.51,1.8,2.0,1.76,1.95,1.0,1.98,1.88,Arouca,Sp Braga,arouca,sp_braga
+2025-12-06,P1,Portugal-Liga1,2526,Famalicao,Sp Braga,1.0,2.0,A,1.0,1.0,D,3.3,3.5,2.05,3.39,3.52,2.12,3.28,3.34,2.11,2.03,1.83,1.95,1.77,0.25,2.0,1.85,Famalicao,Sp Braga,famalicao,sp_braga
+2025-12-19,P1,Portugal-Liga1,2526,Estoril,Sp Braga,1.0,0.0,H,1.0,0.0,H,5.25,4.0,1.53,5.97,4.28,1.57,5.34,3.92,1.57,1.83,2.03,1.8,1.91,1.0,1.85,2.0,Estoril,Sp Braga,estoril,sp_braga
+2026-01-03,P1,Portugal-Liga1,2526,Estrela,Sp Braga,3.0,3.0,D,1.0,1.0,D,6.5,4.33,1.45,6.6,4.27,1.49,6.55,4.13,1.47,1.85,2.0,1.83,1.87,1.0,2.03,1.83,Estrela Amadora,Sp Braga,estrela_amadora,sp_braga
+2026-01-18,P1,Portugal-Liga1,2526,Tondela,Sp Braga,0.0,1.0,A,0.0,0.0,D,5.75,3.75,1.56,,,,5.69,3.67,1.58,2.1,1.7,2.06,1.69,0.75,2.1,1.78,Tondela,Sp Braga,tondela,sp_braga
+2026-02-02,P1,Portugal-Liga1,2526,AVS,Sp Braga,0.0,4.0,A,0.0,2.0,A,8.5,4.5,1.35,,,,8.08,4.56,1.36,1.85,1.95,1.8,1.91,1.25,1.98,1.88,AVS,Sp Braga,avs,sp_braga
+2026-02-14,P1,Portugal-Liga1,2526,Gil Vicente,Sp Braga,2.0,1.0,H,0.0,1.0,A,3.6,3.25,2.05,,,,3.51,3.21,2.06,2.2,1.65,2.16,1.63,0.25,2.03,1.83,Gil Vicente,Sp Braga,gil_vicente,sp_braga
+2026-02-28,P1,Portugal-Liga1,2526,Nacional,Sp Braga,1.0,2.0,A,0.0,1.0,A,5.5,4.2,1.51,,,,5.47,4.0,1.54,1.75,2.05,1.75,1.98,1.0,1.9,1.95,Nacional,Sp Braga,nacional,sp_braga
+2026-04-04,P1,Portugal-Liga1,2526,Moreirense,Sp Braga,0.0,1.0,A,0.0,1.0,A,6.25,3.9,1.51,,,,5.98,3.85,1.52,1.95,1.85,1.9,1.81,1.0,1.9,1.95,Moreirense,Sp Braga,moreirense,sp_braga
+2026-04-23,P1,Portugal-Liga1,2526,Casa Pia,Sp Braga,0.0,1.0,A,0.0,1.0,A,5.5,4.2,1.53,,,,5.69,3.92,1.53,1.95,1.85,1.89,1.82,1.0,1.83,2.03,Casa Pia,Sp Braga,casa_pia,sp_braga
+2026-04-26,P1,Portugal-Liga1,2526,Santa Clara,Sp Braga,2.0,1.0,H,0.0,1.0,A,3.25,3.25,2.15,,,,3.35,3.14,2.13,2.25,1.62,2.23,1.58,0.25,1.93,1.93,Santa Clara,Sp Braga,santa_clara,sp_braga
+2026-05-11,P1,Portugal-Liga1,2526,Benfica,Sp Braga,2.0,2.0,D,0.0,0.0,D,1.39,4.33,7.0,,,,1.4,4.45,6.61,1.65,2.2,1.62,2.15,-1.25,1.98,1.88,Benfica,Sp Braga,benfica,sp_braga
+2026-08-09,P1,Portugal-Liga1,2627,Moreirense,Sp Braga,2.0,2.0,D,1.0,1.0,D,5.0,3.6,1.66,,,,4.68,3.64,1.7,2.0,1.85,1.92,1.8,0.75,1.9,1.95,Moreirense,Sp Braga,moreirense,sp_braga
+2026-09-05,P1,Portugal-Liga1,2627,Alverca,Sp Braga,1.0,2.0,A,1.0,0.0,H,4.75,3.5,1.71,,,,4.46,3.48,1.76,2.08,1.73,2.01,1.74,0.5,2.05,1.75,Alverca,Sp Braga,alverca,sp_braga
+2026-09-10,P1,Portugal-Liga1,2627,Estrela,Sp Braga,2.0,1.0,H,1.0,1.0,D,4.75,3.6,1.71,,,,4.57,3.58,1.72,2.0,1.8,1.94,1.79,0.5,2.08,1.73,Estrela Amadora,Sp Braga,estrela_amadora,sp_braga
+2026-09-20,P1,Portugal-Liga1,2627,Santa Clara,Sp Braga,0.0,0.0,D,0.0,0.0,D,3.5,3.3,2.05,,,,3.66,3.11,2.05,2.4,1.53,2.42,1.51,0.25,2.05,1.8,Santa Clara,Sp Braga,santa_clara,sp_braga

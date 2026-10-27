@@ -1,0 +1,69 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-15,SP2,Spain-Segunda,2223,Oviedo,Andorra,0.0,1.0,A,0.0,0.0,D,1.66,3.5,5.75,1.68,3.61,5.85,1.68,3.51,5.37,2.15,1.66,2.19,1.66,-0.75,1.9,1.95,Real Oviedo,Andorra,real_oviedo,andorra
+2022-08-20,SP2,Spain-Segunda,2223,Sp Gijon,Andorra,4.0,1.0,H,1.0,0.0,H,1.72,3.6,5.0,1.74,3.66,5.48,1.74,3.46,4.96,2.2,1.65,2.26,1.62,-0.75,1.98,1.88,Sp Gijon,Andorra,sp_gijon,andorra
+2022-08-29,SP2,Spain-Segunda,2223,Las Palmas,Andorra,2.0,0.0,H,1.0,0.0,H,1.7,3.6,5.5,1.7,3.62,5.54,1.7,3.55,5.02,2.07,1.72,2.1,1.71,-0.75,1.93,1.93,Las Palmas,Andorra,las_palmas,andorra
+2022-09-11,SP2,Spain-Segunda,2223,Mirandes,Andorra,1.0,1.0,D,1.0,0.0,H,2.25,3.3,3.3,2.25,3.39,3.34,2.25,3.26,3.15,2.05,1.75,2.05,1.75,-0.25,1.93,1.93,Mirandes,Andorra,mirandes,andorra
+2022-09-25,SP2,Spain-Segunda,2223,Albacete,Andorra,1.0,1.0,D,0.0,0.0,D,1.9,3.6,4.0,1.91,3.52,4.28,1.94,3.34,4.0,2.2,1.65,2.24,1.63,-0.5,1.93,1.93,Albacete,Andorra,albacete,andorra
+2022-10-09,SP2,Spain-Segunda,2223,Malaga,Andorra,0.0,0.0,D,0.0,0.0,D,2.0,3.5,3.75,2.06,3.36,3.8,2.01,3.3,3.77,2.2,1.65,2.23,1.64,-0.5,2.05,1.8,Malaga,Andorra,malaga,andorra
+2022-10-22,SP2,Spain-Segunda,2223,Villarreal B,Andorra,1.0,0.0,H,0.0,0.0,D,2.3,3.25,3.2,2.39,3.45,3.08,2.26,3.27,3.16,2.07,1.72,2.1,1.72,-0.25,1.98,1.88,Villarreal B,Andorra,villarreal_b,andorra
+2022-11-01,SP2,Spain-Segunda,2223,Zaragoza,Andorra,0.0,2.0,A,0.0,1.0,A,2.2,3.0,3.75,2.27,3.04,3.8,2.2,3.0,3.57,2.6,1.47,2.53,1.51,-0.25,1.88,1.98,Zaragoza,Andorra,zaragoza,andorra
+2022-11-28,SP2,Spain-Segunda,2223,Ibiza,Andorra,0.0,1.0,A,0.0,1.0,A,2.7,3.0,2.8,2.72,3.16,2.78,2.68,3.05,2.72,2.4,1.53,2.4,1.55,0.0,1.9,1.95,Ibiza,Andorra,ibiza,andorra
+2022-12-07,SP2,Spain-Segunda,2223,Huesca,Andorra,1.0,0.0,H,0.0,0.0,D,2.62,3.0,3.1,2.75,2.89,3.1,2.63,2.84,2.99,2.7,1.44,2.69,1.44,0.0,1.8,2.05,Huesca,Andorra,huesca,andorra
+2022-12-16,SP2,Spain-Segunda,2223,Tenerife,Andorra,1.0,1.0,D,1.0,1.0,D,2.05,3.0,4.2,2.15,3.06,4.14,2.1,2.95,3.97,2.88,1.4,2.83,1.41,-0.5,2.1,1.77,Tenerife,Andorra,tenerife,andorra
+2023-01-15,SP2,Spain-Segunda,2223,Burgos,Andorra,2.0,1.0,H,0.0,1.0,A,3.0,2.9,2.7,3.03,2.75,2.86,2.92,2.78,2.72,3.1,1.36,2.92,1.38,0.0,2.0,1.85,Burgos,Andorra,burgos,andorra
+2023-01-28,SP2,Spain-Segunda,2223,Granada,Andorra,2.0,0.0,H,2.0,0.0,H,1.8,3.4,5.0,1.91,3.19,5.04,1.89,3.14,4.61,2.5,1.5,2.58,1.48,-0.5,1.8,2.05,Granada,Andorra,granada,andorra
+2023-02-11,SP2,Spain-Segunda,2223,Levante,Andorra,1.0,0.0,H,1.0,0.0,H,1.73,3.6,5.5,1.75,3.48,5.69,1.73,3.41,5.23,2.3,1.6,2.34,1.57,-0.75,1.98,1.88,Levante,Andorra,levante,andorra
+2023-02-25,SP2,Spain-Segunda,2223,Santander,Andorra,2.0,1.0,H,2.0,0.0,H,2.7,3.0,2.88,2.77,2.9,3.06,2.67,2.89,2.92,2.7,1.44,2.73,1.44,0.0,1.83,2.02,Santander,Andorra,santander,andorra
+2023-03-12,SP2,Spain-Segunda,2223,Cartagena,Andorra,0.0,3.0,A,0.0,0.0,D,2.55,3.0,3.2,2.61,2.87,3.2,2.51,2.9,3.06,2.6,1.48,2.58,1.47,0.0,1.75,2.13,Cartagena,Andorra,cartagena,andorra
+2023-03-26,SP2,Spain-Segunda,2223,Eibar,Andorra,0.0,0.0,D,0.0,0.0,D,1.91,3.3,4.33,1.93,3.12,4.96,1.91,3.12,4.51,2.6,1.48,2.6,1.46,-0.5,1.93,1.93,Eibar,Andorra,eibar,andorra
+2023-04-10,SP2,Spain-Segunda,2223,Alaves,Andorra,0.0,0.0,D,0.0,0.0,D,1.73,3.3,6.0,1.69,3.45,5.95,1.7,3.41,5.35,2.4,1.53,2.38,1.55,-0.75,1.93,1.93,Deportivo Alaves,Andorra,deportivo_alaves,andorra
+2023-04-22,SP2,Spain-Segunda,2223,Ponferradina,Andorra,1.0,4.0,A,0.0,2.0,A,2.8,3.0,2.75,2.87,2.94,2.9,2.74,2.95,2.76,2.5,1.5,2.48,1.52,0.0,1.93,1.93,Ponferradina,Andorra,ponferradina,andorra
+2023-05-07,SP2,Spain-Segunda,2223,Lugo,Andorra,2.0,2.0,D,1.0,1.0,D,5.25,3.5,1.75,5.15,3.4,1.79,5.02,3.36,1.75,2.5,1.5,2.49,1.49,0.75,1.8,2.05,Lugo,Andorra,lugo,andorra
+2023-05-21,SP2,Spain-Segunda,2223,Leganes,Andorra,1.0,1.0,D,1.0,1.0,D,2.0,3.0,4.5,2.09,2.96,4.34,2.03,3.01,4.18,2.6,1.48,2.65,1.47,-0.5,2.02,1.82,Leganes,Andorra,leganes,andorra
+2023-08-13,SP2,Spain-Segunda,2324,Leganes,Andorra,0.0,1.0,A,0.0,1.0,A,2.3,3.1,3.5,2.38,2.97,3.69,2.3,3.0,3.31,2.5,1.5,2.52,1.49,-0.25,1.95,1.9,Leganes,Andorra,leganes,andorra
+2023-08-27,SP2,Spain-Segunda,2324,Amorebieta,Andorra,3.0,0.0,H,1.0,0.0,H,3.3,3.0,2.4,3.35,3.1,2.46,3.22,3.01,2.37,2.5,1.5,2.52,1.5,0.25,1.83,2.03,Amorebieta,Andorra,amorebieta,andorra
+2023-09-10,SP2,Spain-Segunda,2324,Mirandes,Andorra,4.0,3.0,H,2.0,0.0,H,3.25,3.1,2.38,3.24,3.21,2.46,3.07,3.12,2.37,2.15,1.67,2.17,1.65,0.25,1.8,2.05,Mirandes,Andorra,mirandes,andorra
+2023-09-30,SP2,Spain-Segunda,2324,Albacete,Andorra,3.0,1.0,H,2.0,0.0,H,2.15,3.3,3.5,2.25,3.27,3.62,2.16,3.24,3.42,2.15,1.67,2.15,1.67,-0.25,1.9,1.95,Albacete,Andorra,albacete,andorra
+2023-10-09,SP2,Spain-Segunda,2324,Elche,Andorra,2.0,1.0,H,1.0,0.0,H,1.91,3.4,4.2,1.94,3.54,4.22,1.92,3.4,3.99,2.1,1.7,2.11,1.7,-0.5,1.93,1.93,Elche,Andorra,elche,andorra
+2023-10-22,SP2,Spain-Segunda,2324,Valladolid,Andorra,2.0,0.0,H,2.0,0.0,H,1.75,3.4,5.5,1.77,3.73,5.11,1.75,3.51,4.74,2.08,1.73,2.07,1.73,-0.75,2.0,1.85,Real Valladolid,Andorra,real_valladolid,andorra
+2023-11-05,SP2,Spain-Segunda,2324,Ferrol,Andorra,1.0,0.0,H,1.0,0.0,H,2.38,3.1,3.25,2.37,3.2,3.42,2.31,3.08,3.25,2.35,1.57,2.35,1.57,-0.25,2.0,1.85,Ferrol,Andorra,ferrol,andorra
+2023-11-19,SP2,Spain-Segunda,2324,Villarreal B,Andorra,0.0,0.0,D,0.0,0.0,D,2.5,3.3,2.88,2.54,3.46,2.9,2.48,3.28,2.8,1.8,2.05,1.92,1.86,0.0,1.8,2.05,Villarreal B,Andorra,villarreal_b,andorra
+2023-11-25,SP2,Spain-Segunda,2324,Burgos,Andorra,0.0,0.0,D,0.0,0.0,D,2.2,3.1,3.5,2.21,3.29,3.68,2.19,3.15,3.45,2.25,1.62,2.28,1.61,-0.25,1.85,2.0,Burgos,Andorra,burgos,andorra
+2023-12-10,SP2,Spain-Segunda,2324,Eibar,Andorra,2.0,2.0,D,2.0,1.0,H,1.73,3.6,5.25,1.75,3.69,5.34,1.73,3.55,4.89,2.1,1.7,2.11,1.71,-0.75,1.98,1.88,Eibar,Andorra,eibar,andorra
+2023-12-19,SP2,Spain-Segunda,2324,Santander,Andorra,2.0,0.0,H,1.0,0.0,H,2.25,3.3,3.2,2.44,3.21,3.27,2.32,3.21,3.1,2.08,1.73,2.07,1.73,-0.25,2.03,1.83,Santander,Andorra,santander,andorra
+2024-01-20,SP2,Spain-Segunda,2324,Zaragoza,Andorra,2.0,0.0,H,1.0,0.0,H,2.1,3.0,4.0,2.26,2.93,4.1,2.17,2.95,3.79,2.6,1.48,2.58,1.48,-0.25,1.85,2.0,Zaragoza,Andorra,zaragoza,andorra
+2024-02-03,SP2,Spain-Segunda,2324,Tenerife,Andorra,0.0,0.0,D,0.0,0.0,D,1.91,3.4,4.33,1.96,3.28,4.69,1.93,3.2,4.29,2.5,1.5,2.54,1.49,-0.5,1.93,1.93,Tenerife,Andorra,tenerife,andorra
+2024-02-11,SP2,Spain-Segunda,2324,Alcorcon,Andorra,1.0,0.0,H,1.0,0.0,H,2.55,3.1,3.1,2.6,3.0,3.23,2.5,2.95,3.03,2.6,1.48,2.55,1.49,-0.25,2.08,1.73,Alcorcon,Andorra,alcorcon,andorra
+2024-03-08,SP2,Spain-Segunda,2324,Huesca,Andorra,2.0,0.0,H,1.0,0.0,H,2.3,2.8,3.6,2.45,2.8,3.8,2.35,2.75,3.57,3.4,1.33,3.13,1.34,-0.25,1.98,1.88,Huesca,Andorra,huesca,andorra
+2024-03-13,SP2,Spain-Segunda,2324,Levante,Andorra,0.0,0.0,D,0.0,0.0,D,1.91,3.4,4.33,1.96,3.29,4.65,1.92,3.24,4.21,2.15,1.67,2.18,1.66,-0.5,1.93,1.93,Levante,Andorra,levante,andorra
+2024-03-23,SP2,Spain-Segunda,2324,Cartagena,Andorra,1.0,0.0,H,1.0,0.0,H,2.3,3.0,3.4,2.34,3.07,3.24,2.31,3.01,3.27,2.6,1.48,2.54,1.49,-0.25,1.98,1.88,Cartagena,Andorra,cartagena,andorra
+2024-04-06,SP2,Spain-Segunda,2324,Eldense,Andorra,0.0,2.0,A,0.0,1.0,A,2.3,3.0,3.6,2.28,3.0,3.47,2.24,3.01,3.45,2.6,1.48,2.52,1.5,-0.25,1.98,1.88,Eldense,Andorra,eldense,andorra
+2024-04-21,SP2,Spain-Segunda,2324,Espanol,Andorra,1.0,1.0,D,0.0,1.0,A,1.65,3.75,5.5,1.67,3.67,5.17,1.69,3.58,4.99,2.1,1.7,2.1,1.7,-0.75,1.85,2.0,Espanyol,Andorra,espanyol,andorra
+2024-05-11,SP2,Spain-Segunda,2324,Sp Gijon,Andorra,5.0,2.0,H,2.0,1.0,H,2.0,3.3,3.9,1.98,3.34,3.86,2.03,3.28,3.68,2.15,1.67,2.18,1.66,-0.5,2.03,1.83,Sp Gijon,Andorra,sp_gijon,andorra
+2024-05-26,SP2,Spain-Segunda,2324,Oviedo,Andorra,3.0,0.0,H,0.0,0.0,D,1.45,4.75,6.5,1.41,4.62,6.43,1.42,4.58,6.49,1.65,2.2,1.62,2.23,-1.25,1.98,1.88,Real Oviedo,Andorra,real_oviedo,andorra
+2025-08-17,SP2,Spain-Segunda,2526,Las Palmas,Andorra,1.0,1.0,D,1.0,0.0,H,1.6,3.75,5.75,1.61,3.91,5.57,1.58,3.84,5.21,1.95,1.85,1.86,1.85,-1.0,2.05,1.75,Las Palmas,Andorra,las_palmas,andorra
+2025-08-23,SP2,Spain-Segunda,2526,Zaragoza,Andorra,1.0,3.0,A,0.0,1.0,A,1.83,3.5,4.33,1.9,3.43,4.27,1.78,3.48,4.22,2.1,1.7,2.01,1.71,-0.5,1.85,1.95,Zaragoza,Andorra,zaragoza,andorra
+2025-09-08,SP2,Spain-Segunda,2526,Eibar,Andorra,2.0,0.0,H,0.0,0.0,D,1.76,3.5,4.5,1.84,3.37,4.7,1.78,3.28,4.54,2.3,1.6,2.26,1.57,-0.5,1.8,2.0,Eibar,Andorra,eibar,andorra
+2025-09-27,SP2,Spain-Segunda,2526,Santander,Andorra,1.0,2.0,A,0.0,0.0,D,1.76,4.0,3.8,1.8,4.01,4.03,1.77,3.79,3.81,1.6,2.3,1.59,2.22,-0.75,2.03,1.78,Santander,Andorra,santander,andorra
+2025-10-11,SP2,Spain-Segunda,2526,Sociedad B,Andorra,3.0,0.0,H,1.0,0.0,H,2.85,3.3,2.35,3.05,3.24,2.42,2.86,3.18,2.33,2.1,1.7,2.04,1.7,0.25,1.78,2.03,Sociedad B,Andorra,sociedad_b,andorra
+2025-10-26,SP2,Spain-Segunda,2526,Malaga,Andorra,4.0,1.0,H,1.0,0.0,H,2.3,3.2,3.05,2.11,3.27,3.71,2.2,3.21,3.13,2.05,1.75,2.03,1.71,-0.25,1.98,1.83,Malaga,Andorra,malaga,andorra
+2025-11-08,SP2,Spain-Segunda,2526,Huesca,Andorra,2.0,2.0,D,0.0,2.0,A,2.3,3.05,3.2,,,,2.25,3.1,3.09,2.3,1.6,2.24,1.59,-0.25,2.0,1.8,Huesca,Andorra,huesca,andorra
+2025-11-15,SP2,Spain-Segunda,2526,Albacete,Andorra,1.0,0.0,H,0.0,0.0,D,1.96,3.6,3.5,,,,1.98,3.49,3.36,1.75,2.05,1.74,1.99,-0.5,2.0,1.8,Albacete,Andorra,albacete,andorra
+2025-11-28,SP2,Spain-Segunda,2526,Sp Gijon,Andorra,1.0,1.0,D,0.0,0.0,D,2.01,3.3,3.6,2.1,3.34,3.89,2.04,3.2,3.53,2.1,1.7,2.06,1.69,-0.5,2.05,1.75,Sp Gijon,Andorra,sp_gijon,andorra
+2025-12-13,SP2,Spain-Segunda,2526,Valladolid,Andorra,0.0,1.0,A,0.0,0.0,D,1.61,4.0,4.75,1.63,4.05,5.12,1.64,3.72,4.73,1.85,1.95,1.83,1.87,-0.75,1.83,1.98,Real Valladolid,Andorra,real_valladolid,andorra
+2026-01-04,SP2,Spain-Segunda,2526,Ceuta,Andorra,2.0,1.0,H,1.0,0.0,H,1.86,3.5,4.0,1.95,3.46,3.98,1.93,3.29,3.73,1.95,1.85,1.95,1.76,-0.5,1.93,1.88,Ceuta,Andorra,ceuta,andorra
+2026-01-18,SP2,Spain-Segunda,2526,Mirandes,Andorra,1.0,2.0,A,0.0,1.0,A,2.45,3.25,2.7,,,,2.47,3.12,2.73,2.03,1.78,2.0,1.72,0.0,1.8,2.0,Mirandes,Andorra,mirandes,andorra
+2026-02-01,SP2,Spain-Segunda,2526,Castellon,Andorra,2.0,0.0,H,2.0,0.0,H,1.41,4.5,6.5,,,,1.46,4.32,5.77,1.57,2.35,1.57,2.25,-1.0,1.73,2.08,Castellon,Andorra,castellon,andorra
+2026-02-13,SP2,Spain-Segunda,2526,Almeria,Andorra,3.0,2.0,H,1.0,1.0,D,1.68,3.8,4.5,,,,1.69,3.78,4.31,1.67,2.15,1.63,2.16,-0.75,1.95,1.85,Almeria,Andorra,almeria,andorra
+2026-03-02,SP2,Spain-Segunda,2526,Cordoba,Andorra,1.0,4.0,A,0.0,3.0,A,1.71,3.9,4.2,,,,1.71,3.79,4.11,1.62,2.25,1.61,2.2,-0.75,1.93,1.88,Cordoba,Andorra,cordoba,andorra
+2026-03-15,SP2,Spain-Segunda,2526,Granada,Andorra,1.0,1.0,D,1.0,1.0,D,1.86,3.5,3.9,,,,1.86,3.37,3.81,2.0,1.8,1.93,1.78,-0.5,1.9,1.9,Granada,Andorra,granada,andorra
+2026-03-29,SP2,Spain-Segunda,2526,Cultural Leonesa,Andorra,0.0,4.0,A,0.0,2.0,A,2.4,3.3,2.7,,,,2.38,3.24,2.73,2.0,1.8,1.94,1.77,0.0,1.78,2.03,Cultural Leonesa,Andorra,cultural_leonesa,andorra
+2026-04-12,SP2,Spain-Segunda,2526,Cadiz,Andorra,0.0,1.0,A,0.0,1.0,A,3.25,3.3,2.15,,,,3.06,3.25,2.19,2.0,1.8,1.93,1.79,0.25,1.9,1.9,Cadiz,Andorra,cadiz,andorra
+2026-04-26,SP2,Spain-Segunda,2526,Leganes,Andorra,0.0,4.0,A,0.0,1.0,A,2.55,3.3,2.65,,,,2.46,3.21,2.66,1.9,1.9,1.88,1.83,0.0,1.83,1.98,Leganes,Andorra,leganes,andorra
+2026-05-17,SP2,Spain-Segunda,2526,La Coruna,Andorra,2.0,1.0,H,0.0,1.0,A,1.62,4.33,4.33,,,,1.56,3.94,5.01,1.53,2.4,1.63,2.15,-1.0,2.05,1.75,La Coruna,Andorra,la_coruna,andorra
+2026-05-31,SP2,Spain-Segunda,2526,Burgos,Andorra,1.0,0.0,H,1.0,0.0,H,1.49,4.2,5.75,,,,1.48,3.91,5.98,1.95,1.85,1.89,1.82,-1.0,1.9,1.9,Burgos,Andorra,burgos,andorra
+2026-08-24,SP2,Spain-Segunda,2627,Celta B,Andorra,4.0,2.0,H,0.0,0.0,D,3.3,3.25,2.15,,,,3.12,3.29,2.15,1.88,1.93,1.81,1.91,0.25,1.9,1.9,Celta B,Andorra,celta_b,andorra
+2026-09-05,SP2,Spain-Segunda,2627,Valladolid,Andorra,1.0,0.0,H,1.0,0.0,H,2.4,3.25,2.82,,,,2.37,3.23,2.79,1.95,1.85,1.92,1.8,-0.25,2.05,1.75,Real Valladolid,Andorra,real_valladolid,andorra
+2026-09-26,SP2,Spain-Segunda,2627,Granada,Andorra,2.0,3.0,A,0.0,2.0,A,2.15,3.4,3.25,,,,2.16,3.26,3.14,2.0,1.8,1.96,1.76,-0.25,1.85,1.95,Granada,Andorra,granada,andorra
+2026-10-04,SP2,Spain-Segunda,2627,Sabadell,Andorra,0.0,0.0,D,0.0,0.0,D,2.01,3.4,3.6,,,,2.04,3.18,3.48,2.1,1.7,2.04,1.7,-0.5,2.05,1.75,Sabadell,Andorra,sabadell,andorra
+2026-10-18,SP2,Spain-Segunda,2627,Girona,Andorra,2.0,0.0,H,2.0,0.0,H,1.79,3.7,4.1,,,,1.79,3.61,3.86,1.7,2.1,1.65,2.11,-0.75,2.05,1.75,Girona,Andorra,girona,andorra

@@ -1,0 +1,100 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-29,I1,Italy-SA,2122,Milan,Cagliari,4.0,1.0,H,4.0,1.0,H,1.44,4.5,7.0,1.43,4.99,7.94,1.44,4.74,7.29,1.57,2.37,1.59,2.36,-1.25,2.02,1.91,AC Milan,Cagliari,ac_milan,cagliari
+2021-09-19,I1,Italy-SA,2122,Lazio,Cagliari,2.0,2.0,D,1.0,0.0,H,1.44,4.75,7.0,1.46,4.97,7.24,1.45,4.72,6.9,1.57,2.37,1.55,2.45,-1.25,2.01,1.92,Lazio,Cagliari,lazio,cagliari
+2021-09-26,I1,Italy-SA,2122,Napoli,Cagliari,2.0,0.0,H,1.0,0.0,H,1.25,6.0,11.0,1.27,6.47,11.91,1.26,6.1,11.56,1.53,2.5,1.51,2.57,-1.75,1.97,1.96,Napoli,Cagliari,napoli,cagliari
+2021-10-24,I1,Italy-SA,2122,Fiorentina,Cagliari,3.0,0.0,H,2.0,0.0,H,1.65,4.0,5.25,1.68,4.12,5.29,1.68,3.99,4.93,1.72,2.1,1.73,2.13,-0.75,1.89,2.04,Fiorentina,Cagliari,fiorentina,cagliari
+2021-11-01,I1,Italy-SA,2122,Bologna,Cagliari,2.0,0.0,H,0.0,0.0,D,1.8,3.6,4.5,1.81,3.84,4.75,1.83,3.69,4.36,1.66,2.2,1.67,2.2,-0.5,1.75,2.05,Bologna,Cagliari,bologna,cagliari
+2021-11-21,I1,Italy-SA,2122,Sassuolo,Cagliari,2.0,2.0,D,1.0,1.0,D,1.6,4.2,5.25,1.69,4.27,5.03,1.65,4.23,4.95,1.57,2.37,1.59,2.35,-0.75,1.84,2.06,Sassuolo,Cagliari,sassuolo,cagliari
+2021-11-30,I1,Italy-SA,2122,Verona,Cagliari,0.0,0.0,D,0.0,0.0,D,1.61,4.0,5.25,1.69,4.19,5.15,1.66,4.08,5.01,1.61,2.3,1.63,2.28,-0.75,1.88,2.05,Hellas Verona,Cagliari,hellas_verona,cagliari
+2021-12-12,I1,Italy-SA,2122,Inter,Cagliari,4.0,0.0,H,1.0,0.0,H,1.16,8.0,15.0,1.18,7.82,18.32,1.18,7.45,15.53,1.36,3.2,1.35,3.2,-2.0,1.89,2.04,Inter Milan,Cagliari,inter_milan,cagliari
+2021-12-21,I1,Italy-SA,2122,Juventus,Cagliari,2.0,0.0,H,1.0,0.0,H,1.18,6.5,17.0,1.19,7.0,20.0,1.2,6.61,17.1,1.72,2.1,1.7,2.17,-1.75,1.89,2.01,Juventus,Cagliari,juventus,cagliari
+2022-01-06,I1,Italy-SA,2122,Sampdoria,Cagliari,1.0,2.0,A,1.0,0.0,H,1.85,3.75,4.0,1.89,3.65,4.53,1.84,3.72,4.24,1.8,2.0,1.8,2.04,-0.5,1.84,2.06,Sampdoria,Cagliari,sampdoria,cagliari
+2022-01-16,I1,Italy-SA,2122,Roma,Cagliari,1.0,0.0,H,1.0,0.0,H,1.36,5.0,8.5,1.37,5.04,8.91,1.38,4.98,8.32,1.61,2.3,1.63,2.28,-1.25,1.87,2.03,AS Roma,Cagliari,as_roma,cagliari
+2022-02-06,I1,Italy-SA,2122,Atalanta,Cagliari,1.0,2.0,A,0.0,0.0,D,1.25,6.5,11.0,1.22,6.65,13.47,1.23,6.55,12.32,1.44,2.75,1.41,2.85,-1.75,1.84,2.06,Atalanta,Cagliari,atalanta,cagliari
+2022-02-13,I1,Italy-SA,2122,Empoli,Cagliari,1.0,1.0,D,1.0,0.0,H,1.95,3.8,3.6,2.04,3.84,3.67,2.0,3.77,3.57,1.61,2.3,1.61,2.32,-0.5,2.02,1.91,Empoli,Cagliari,empoli,cagliari
+2022-02-27,I1,Italy-SA,2122,Torino,Cagliari,1.0,2.0,A,0.0,1.0,A,1.65,3.8,5.5,1.68,3.62,6.48,1.67,3.68,5.79,2.01,1.89,1.96,1.87,-0.75,1.86,2.04,Torino,Cagliari,torino,cagliari
+2022-03-12,I1,Italy-SA,2122,Spezia,Cagliari,2.0,0.0,H,0.0,0.0,D,2.62,3.3,2.62,2.9,3.19,2.75,2.76,3.2,2.71,2.0,1.8,2.02,1.81,0.0,1.97,1.93,Spezia,Cagliari,spezia,cagliari
+2022-04-03,I1,Italy-SA,2122,Udinese,Cagliari,5.0,1.0,H,2.0,1.0,H,1.8,3.5,4.75,1.87,3.57,4.81,1.85,3.51,4.6,2.0,1.8,2.06,1.78,-0.5,1.84,2.06,Udinese,Cagliari,udinese,cagliari
+2022-04-24,I1,Italy-SA,2122,Genoa,Cagliari,1.0,0.0,H,0.0,0.0,D,2.2,3.25,3.5,2.27,3.22,3.69,2.23,3.23,3.51,2.2,1.66,2.25,1.65,-0.25,1.94,1.96,Genoa,Cagliari,genoa,cagliari
+2022-05-08,I1,Italy-SA,2122,Salernitana,Cagliari,1.0,1.0,D,0.0,0.0,D,2.37,3.4,3.0,2.48,3.4,3.08,2.42,3.34,3.03,2.04,1.86,2.02,1.81,-0.25,2.06,1.84,Salernitana,Cagliari,salernitana,cagliari
+2022-05-22,I1,Italy-SA,2122,Venezia,Cagliari,0.0,0.0,D,0.0,0.0,D,4.5,3.8,1.72,4.83,4.25,1.7,4.68,4.05,1.72,1.72,2.1,1.73,2.12,0.75,1.96,1.94,Venezia,Cagliari,venezia,cagliari
+2022-08-13,I2,Italy-SB,2223,Como,Cagliari,1.0,1.0,D,1.0,0.0,H,3.2,3.3,1.95,3.87,3.36,2.11,3.59,3.23,2.09,2.2,1.65,2.14,1.69,0.25,2.05,1.8,Como,Cagliari,como,cagliari
+2022-08-27,I2,Italy-SB,2223,Spal,Cagliari,1.0,0.0,H,1.0,0.0,H,2.8,3.25,2.5,2.9,3.42,2.56,2.8,3.26,2.49,2.0,1.85,1.97,1.81,0.0,2.05,1.8,Spal,Cagliari,spal,cagliari
+2022-09-10,I2,Italy-SB,2223,Benevento,Cagliari,0.0,2.0,A,0.0,0.0,D,2.5,3.2,2.6,2.79,3.13,2.86,2.6,3.16,2.75,2.07,1.72,2.08,1.73,0.0,1.88,1.98,Benevento,Cagliari,benevento,cagliari
+2022-10-07,I2,Italy-SB,2223,Genoa,Cagliari,0.0,0.0,D,0.0,0.0,D,1.75,3.6,4.75,1.79,3.63,5.16,1.76,3.58,4.63,1.93,1.93,1.9,1.89,-0.75,2.0,1.85,Genoa,Cagliari,genoa,cagliari
+2022-10-24,I2,Italy-SB,2223,Ascoli,Cagliari,2.0,1.0,H,1.0,0.0,H,2.7,3.25,2.62,2.92,3.05,2.75,2.8,3.07,2.6,2.15,1.66,2.15,1.67,0.0,1.98,1.88,Ascoli,Cagliari,ascoli,cagliari
+2022-11-05,I2,Italy-SB,2223,Sudtirol,Cagliari,2.0,2.0,D,1.0,1.0,D,2.75,3.1,2.7,2.93,3.04,2.8,2.81,3.03,2.66,2.25,1.61,2.28,1.6,0.0,1.98,1.88,Sudtirol,Cagliari,sudtirol,cagliari
+2022-11-27,I2,Italy-SB,2223,Frosinone,Cagliari,2.0,2.0,D,1.0,1.0,D,1.9,3.25,3.8,2.02,3.19,4.56,1.97,3.2,4.1,2.15,1.66,2.15,1.68,-0.5,1.98,1.88,Frosinone,Cagliari,frosinone,cagliari
+2022-12-07,I2,Italy-SB,2223,Ternana,Cagliari,1.0,0.0,H,1.0,0.0,H,2.37,3.2,2.8,2.63,3.14,3.05,2.51,3.11,2.88,2.0,1.85,1.96,1.82,0.0,1.77,2.1,Ternana,Cagliari,ternana,cagliari
+2022-12-18,I2,Italy-SB,2223,Palermo,Cagliari,2.0,1.0,H,1.0,0.0,H,2.6,3.1,2.6,2.97,3.07,2.74,2.75,3.05,2.65,2.1,1.7,2.14,1.68,0.0,1.98,1.88,Palermo,Cagliari,palermo,cagliari
+2023-01-21,I2,Italy-SB,2223,Cittadella,Cagliari,0.0,0.0,D,0.0,0.0,D,2.7,3.0,2.63,3.05,2.91,2.81,2.87,2.93,2.68,2.4,1.53,2.44,1.54,0.0,1.98,1.88,Cittadella,Cagliari,cittadella,cagliari
+2023-02-03,I2,Italy-SB,2223,Modena,Cagliari,2.0,0.0,H,1.0,0.0,H,2.7,3.1,2.8,2.77,3.14,2.88,2.66,3.08,2.78,2.15,1.67,2.17,1.68,0.0,1.9,1.95,Modena,Cagliari,modena,cagliari
+2023-02-18,I2,Italy-SB,2223,Bari,Cagliari,1.0,1.0,D,0.0,1.0,A,2.2,3.25,3.4,2.35,3.11,3.57,2.25,3.14,3.33,2.15,1.67,2.16,1.67,-0.25,1.93,1.93,Bari,Cagliari,bari,cagliari
+2023-02-25,I2,Italy-SB,2223,Venezia,Cagliari,0.0,0.0,D,0.0,0.0,D,2.38,3.25,3.0,2.46,3.24,3.19,2.38,3.22,3.02,2.05,1.8,2.02,1.78,-0.25,2.05,1.8,Venezia,Cagliari,venezia,cagliari
+2023-03-05,I2,Italy-SB,2223,Brescia,Cagliari,1.0,1.0,D,0.0,0.0,D,2.9,3.1,2.55,3.05,3.18,2.59,2.93,3.06,2.52,2.25,1.62,2.32,1.58,0.0,2.05,1.8,Brescia,Cagliari,brescia,cagliari
+2023-03-18,I2,Italy-SB,2223,Reggina,Cagliari,0.0,4.0,A,0.0,2.0,A,2.3,3.25,3.2,2.43,3.15,3.36,2.34,3.11,3.17,2.3,1.6,2.32,1.58,-0.25,2.0,1.85,Reggina,Cagliari,reggina,cagliari
+2023-04-10,I2,Italy-SB,2223,Pisa,Cagliari,0.0,0.0,D,0.0,0.0,D,2.4,3.1,3.1,2.54,3.03,3.23,2.43,3.08,3.03,2.15,1.67,2.17,1.66,-0.25,2.1,1.77,Pisa,Cagliari,pisa,cagliari
+2023-04-22,I2,Italy-SB,2223,Parma,Cagliari,2.0,1.0,H,0.0,1.0,A,2.3,3.1,3.4,2.44,3.13,3.36,2.35,3.07,3.18,2.3,1.6,2.28,1.6,-0.25,2.02,1.82,Parma,Cagliari,parma,cagliari
+2023-05-05,I2,Italy-SB,2223,Perugia,Cagliari,0.0,5.0,A,0.0,3.0,A,3.1,3.1,2.38,3.26,3.14,2.48,3.08,3.07,2.41,2.15,1.67,2.19,1.65,0.25,1.8,2.05,Perugia,Cagliari,perugia,cagliari
+2023-05-19,I2,Italy-SB,2223,Cosenza,Cagliari,0.0,1.0,A,0.0,1.0,A,3.8,3.6,1.95,3.8,3.81,1.99,3.67,3.61,1.95,1.82,2.02,1.81,1.98,0.5,1.9,1.95,Cosenza,Cagliari,cosenza,cagliari
+2023-08-21,I1,Italy-SA,2324,Torino,Cagliari,0.0,0.0,D,0.0,0.0,D,1.67,3.75,5.25,1.67,3.86,5.78,1.68,3.73,5.47,2.1,1.73,2.16,1.7,-0.75,1.88,2.02,Torino,Cagliari,torino,cagliari
+2023-09-02,I1,Italy-SA,2324,Bologna,Cagliari,2.0,1.0,H,0.0,1.0,A,1.7,3.75,5.0,1.75,3.63,5.47,1.72,3.72,5.17,2.0,1.9,1.95,1.88,-0.75,1.95,1.98,Bologna,Cagliari,bologna,cagliari
+2023-09-24,I1,Italy-SA,2324,Atalanta,Cagliari,2.0,0.0,H,1.0,0.0,H,1.4,5.0,8.0,1.41,5.11,7.79,1.39,4.94,7.85,1.67,2.2,1.68,2.22,-1.25,1.9,2.0,Atalanta,Cagliari,atalanta,cagliari
+2023-10-02,I1,Italy-SA,2324,Fiorentina,Cagliari,3.0,0.0,H,2.0,0.0,H,1.5,4.2,7.0,1.48,4.17,6.98,1.49,4.36,6.96,1.88,2.02,1.83,2.0,-1.0,1.75,2.05,Fiorentina,Cagliari,fiorentina,cagliari
+2023-10-22,I1,Italy-SA,2324,Salernitana,Cagliari,2.0,2.0,D,0.0,0.0,D,2.2,3.2,3.5,2.35,3.18,3.46,2.32,3.19,3.31,2.15,1.67,2.17,1.7,-0.25,1.9,2.0,Salernitana,Cagliari,salernitana,cagliari
+2023-11-11,I1,Italy-SA,2324,Juventus,Cagliari,2.0,1.0,H,0.0,0.0,D,1.36,5.0,8.0,1.38,5.01,8.82,1.38,4.91,8.69,1.75,2.05,1.78,2.06,-1.25,1.89,2.01,Juventus,Cagliari,juventus,cagliari
+2023-12-02,I1,Italy-SA,2324,Lazio,Cagliari,1.0,0.0,H,1.0,0.0,H,1.62,4.0,5.25,1.65,4.02,5.56,1.63,4.03,5.55,1.98,1.92,1.94,1.88,-0.75,1.83,2.1,Lazio,Cagliari,lazio,cagliari
+2023-12-16,I1,Italy-SA,2324,Napoli,Cagliari,2.0,1.0,H,0.0,0.0,D,1.33,5.0,9.5,1.33,5.63,9.17,1.33,5.51,9.2,1.57,2.35,1.58,2.4,-1.5,2.0,1.93,Napoli,Cagliari,napoli,cagliari
+2023-12-23,I1,Italy-SA,2324,Verona,Cagliari,2.0,0.0,H,0.0,0.0,D,2.38,3.25,3.1,2.4,3.29,3.2,2.39,3.29,3.1,2.08,1.73,2.07,1.77,-0.25,2.06,1.84,Hellas Verona,Cagliari,hellas_verona,cagliari
+2024-01-06,I1,Italy-SA,2324,Lecce,Cagliari,1.0,1.0,D,1.0,0.0,H,2.2,3.25,3.4,2.24,3.31,3.51,2.22,3.32,3.42,2.2,1.65,2.2,1.69,-0.25,1.92,1.98,Lecce,Cagliari,lecce,cagliari
+2024-01-21,I1,Italy-SA,2324,Frosinone,Cagliari,3.0,1.0,H,0.0,1.0,A,2.4,3.4,2.9,2.38,3.5,3.05,2.38,3.45,2.98,2.01,1.89,1.94,1.88,-0.25,2.06,1.84,Frosinone,Cagliari,frosinone,cagliari
+2024-02-05,I1,Italy-SA,2324,Roma,Cagliari,4.0,0.0,H,2.0,0.0,H,1.44,4.33,7.5,1.48,4.54,7.13,1.47,4.45,7.05,1.87,2.03,1.84,1.98,-1.0,1.73,2.08,AS Roma,Cagliari,as_roma,cagliari
+2024-02-18,I1,Italy-SA,2324,Udinese,Cagliari,1.0,1.0,D,1.0,1.0,D,1.91,3.6,4.0,1.85,3.65,4.48,1.89,3.57,4.24,2.05,1.75,2.04,1.79,-0.5,1.88,2.02,Udinese,Cagliari,udinese,cagliari
+2024-03-03,I1,Italy-SA,2324,Empoli,Cagliari,0.0,1.0,A,0.0,0.0,D,2.15,3.25,3.6,2.16,3.34,3.69,2.15,3.34,3.56,2.1,1.7,2.11,1.74,-0.25,1.82,2.08,Empoli,Cagliari,empoli,cagliari
+2024-03-16,I1,Italy-SA,2324,Monza,Cagliari,1.0,0.0,H,1.0,0.0,H,2.05,3.5,3.6,2.09,3.46,3.75,2.07,3.46,3.66,2.0,1.9,1.95,1.88,-0.5,2.1,1.83,Monza,Cagliari,monza,cagliari
+2024-04-14,I1,Italy-SA,2324,Inter,Cagliari,2.0,2.0,D,1.0,0.0,H,1.18,8.0,12.0,1.18,8.14,14.02,1.18,7.64,14.43,1.44,2.75,1.42,2.83,-2.0,1.91,1.99,Inter Milan,Cagliari,inter_milan,cagliari
+2024-04-29,I1,Italy-SA,2324,Genoa,Cagliari,3.0,0.0,H,2.0,0.0,H,2.25,3.1,3.5,2.33,3.11,3.53,2.28,3.16,3.42,2.3,1.62,2.3,1.62,-0.25,1.95,1.95,Genoa,Cagliari,genoa,cagliari
+2024-05-11,I1,Italy-SA,2324,Milan,Cagliari,5.0,1.0,H,1.0,0.0,H,1.4,5.25,6.5,1.41,4.95,6.91,1.42,4.97,7.17,1.57,2.38,1.57,2.42,-1.25,1.95,1.95,AC Milan,Cagliari,ac_milan,cagliari
+2024-05-19,I1,Italy-SA,2324,Sassuolo,Cagliari,0.0,2.0,A,0.0,0.0,D,2.35,3.3,3.1,2.38,3.47,3.07,2.37,3.42,3.02,1.84,2.06,1.83,2.0,-0.25,2.05,1.85,Sassuolo,Cagliari,sassuolo,cagliari
+2024-08-31,I1,Italy-SA,2425,Lecce,Cagliari,1.0,0.0,H,1.0,0.0,H,2.25,3.2,3.4,2.33,3.18,3.45,2.28,3.2,3.4,2.3,1.62,2.35,1.61,-0.25,1.95,1.95,Lecce,Cagliari,lecce,cagliari
+2024-09-30,I1,Italy-SA,2425,Parma,Cagliari,2.0,3.0,A,0.0,1.0,A,2.1,3.6,3.4,2.13,3.62,3.45,2.11,3.64,3.38,1.73,2.1,1.76,2.09,-0.25,1.86,2.04,Parma,Cagliari,parma,cagliari
+2024-10-06,I1,Italy-SA,2425,Juventus,Cagliari,1.0,1.0,D,1.0,0.0,H,1.38,5.0,8.0,1.38,4.94,9.15,1.38,4.82,9.07,1.99,1.91,1.95,1.88,-1.25,1.9,2.0,Juventus,Cagliari,juventus,cagliari
+2024-10-25,I1,Italy-SA,2425,Udinese,Cagliari,2.0,0.0,H,1.0,0.0,H,2.2,3.3,3.3,2.29,3.21,3.58,2.26,3.19,3.49,2.1,1.73,2.1,1.76,-0.25,1.95,1.98,Udinese,Cagliari,udinese,cagliari
+2024-11-04,I1,Italy-SA,2425,Lazio,Cagliari,2.0,1.0,H,1.0,1.0,D,1.5,3.75,7.5,1.51,4.14,6.57,1.51,4.23,6.56,1.84,2.06,1.81,2.01,-1.0,1.88,2.02,Lazio,Cagliari,lazio,cagliari
+2024-11-24,I1,Italy-SA,2425,Genoa,Cagliari,2.0,2.0,D,1.0,1.0,D,2.63,3.1,2.9,2.68,3.15,2.92,2.63,3.17,2.87,2.2,1.67,2.2,1.69,0.0,1.85,2.05,Genoa,Cagliari,genoa,cagliari
+2024-12-08,I1,Italy-SA,2425,Fiorentina,Cagliari,1.0,0.0,H,1.0,0.0,H,1.5,4.5,6.0,1.53,4.54,6.18,1.51,4.45,6.03,1.67,2.2,1.66,2.24,-1.0,1.86,2.04,Fiorentina,Cagliari,fiorentina,cagliari
+2024-12-22,I1,Italy-SA,2425,Venezia,Cagliari,2.0,1.0,H,1.0,0.0,H,2.5,3.3,2.88,2.57,3.24,2.98,2.5,3.31,2.9,1.92,1.98,1.88,1.93,0.0,1.82,2.08,Venezia,Cagliari,venezia,cagliari
+2025-01-05,I1,Italy-SA,2425,Monza,Cagliari,1.0,2.0,A,1.0,1.0,D,2.4,3.25,3.0,2.49,3.26,3.08,2.44,3.22,3.01,2.03,1.87,2.0,1.82,-0.25,2.1,1.8,Monza,Cagliari,monza,cagliari
+2025-01-11,I1,Italy-SA,2425,Milan,Cagliari,1.0,1.0,D,0.0,0.0,D,1.33,5.0,9.5,1.32,5.67,9.6,1.33,5.31,8.99,1.62,2.3,1.6,2.34,-1.5,1.98,1.92,AC Milan,Cagliari,ac_milan,cagliari
+2025-01-24,I1,Italy-SA,2425,Torino,Cagliari,2.0,0.0,H,1.0,0.0,H,2.2,3.2,3.6,2.25,3.21,3.69,2.25,3.13,3.53,2.3,1.62,2.29,1.63,-0.25,1.91,2.02,Torino,Cagliari,torino,cagliari
+2025-02-15,I1,Italy-SA,2425,Atalanta,Cagliari,0.0,0.0,D,0.0,0.0,D,1.44,4.75,6.5,1.44,4.9,7.12,1.44,4.82,6.89,1.62,2.3,1.62,2.33,-1.25,2.0,1.9,Atalanta,Cagliari,atalanta,cagliari
+2025-03-02,I1,Italy-SA,2425,Bologna,Cagliari,2.0,1.0,H,0.0,1.0,A,1.57,3.75,6.5,1.56,4.07,6.55,1.57,3.98,6.16,2.0,1.8,2.04,1.8,-1.0,2.05,1.88,Bologna,Cagliari,bologna,cagliari
+2025-03-16,I1,Italy-SA,2425,Roma,Cagliari,1.0,0.0,H,0.0,0.0,D,1.55,4.2,5.75,1.56,4.19,6.39,1.55,4.11,6.18,2.0,1.9,1.94,1.88,-1.0,1.98,1.92,AS Roma,Cagliari,as_roma,cagliari
+2025-04-06,I1,Italy-SA,2425,Empoli,Cagliari,0.0,0.0,D,0.0,0.0,D,2.45,3.0,3.1,2.6,3.09,3.08,2.54,3.07,3.01,2.2,1.67,2.16,1.69,0.0,1.7,2.1,Empoli,Cagliari,empoli,cagliari
+2025-04-12,I1,Italy-SA,2425,Inter,Cagliari,3.0,1.0,H,2.0,0.0,H,1.33,5.25,8.0,1.35,5.42,8.93,1.33,5.28,9.06,1.73,2.1,1.72,2.13,-1.5,2.04,1.86,Inter Milan,Cagliari,inter_milan,cagliari
+2025-04-28,I1,Italy-SA,2425,Verona,Cagliari,0.0,2.0,A,0.0,1.0,A,2.5,2.75,3.5,2.7,2.76,3.33,2.6,2.79,3.24,2.63,1.5,2.52,1.51,-0.25,2.1,1.8,Hellas Verona,Cagliari,hellas_verona,cagliari
+2025-05-10,I1,Italy-SA,2425,Como,Cagliari,3.0,1.0,H,2.0,1.0,H,1.73,3.8,4.75,1.77,3.83,4.78,1.75,3.76,4.66,1.97,1.93,1.9,1.92,-0.75,1.99,1.91,Como,Cagliari,como,cagliari
+2025-05-23,I1,Italy-SA,2425,Napoli,Cagliari,2.0,0.0,H,1.0,0.0,H,1.2,7.0,12.0,1.2,7.2,15.68,1.19,6.94,14.74,1.53,2.5,1.52,2.5,-2.0,2.05,1.8,Napoli,Cagliari,napoli,cagliari
+2025-08-30,I1,Italy-SA,2526,Napoli,Cagliari,1.0,0.0,H,0.0,0.0,D,1.3,5.0,11.0,1.32,5.39,10.32,1.3,5.23,10.34,1.85,2.0,1.78,1.98,-1.5,1.98,1.88,Napoli,Cagliari,napoli,cagliari
+2025-09-19,I1,Italy-SA,2526,Lecce,Cagliari,1.0,2.0,A,1.0,1.0,D,2.88,2.9,2.75,2.91,2.96,2.85,2.8,2.9,2.78,2.5,1.53,2.55,1.49,0.0,1.98,1.88,Lecce,Cagliari,lecce,cagliari
+2025-10-05,I1,Italy-SA,2526,Udinese,Cagliari,1.0,1.0,D,0.0,1.0,A,2.15,3.2,3.6,2.19,3.16,3.83,2.17,3.19,3.51,2.3,1.62,2.26,1.6,-0.25,1.83,2.03,Udinese,Cagliari,udinese,cagliari
+2025-10-26,I1,Italy-SA,2526,Verona,Cagliari,2.0,2.0,D,1.0,0.0,H,2.25,3.0,3.6,2.24,3.1,3.76,2.24,3.06,3.47,2.5,1.53,2.45,1.51,-0.25,1.9,1.95,Hellas Verona,Cagliari,hellas_verona,cagliari
+2025-11-03,I1,Italy-SA,2526,Lazio,Cagliari,2.0,0.0,H,0.0,0.0,D,1.53,3.8,7.0,1.58,4.15,6.08,1.55,3.95,6.05,1.98,1.88,1.93,1.83,-1.0,2.0,1.85,Lazio,Cagliari,lazio,cagliari
+2025-11-08,I1,Italy-SA,2526,Como,Cagliari,0.0,0.0,D,0.0,0.0,D,1.48,4.5,6.5,1.5,4.51,6.65,1.48,4.27,6.69,1.9,1.95,1.86,1.9,-1.0,1.83,2.03,Como,Cagliari,como,cagliari
+2025-11-29,I1,Italy-SA,2526,Juventus,Cagliari,2.0,1.0,H,2.0,1.0,H,1.3,5.5,10.0,1.33,5.44,9.97,1.31,4.92,10.14,1.93,1.93,1.91,1.85,-1.5,2.03,1.83,Juventus,Cagliari,juventus,cagliari
+2025-12-13,I1,Italy-SA,2526,Atalanta,Cagliari,2.0,1.0,H,1.0,0.0,H,1.33,5.0,9.5,1.35,5.48,8.72,1.32,5.14,9.23,1.73,2.1,1.67,2.13,-1.5,2.0,1.85,Atalanta,Cagliari,atalanta,cagliari
+2025-12-27,I1,Italy-SA,2526,Torino,Cagliari,1.0,2.0,A,1.0,1.0,D,1.91,3.2,4.2,1.99,3.36,4.26,1.94,3.28,4.09,2.2,1.67,2.14,1.66,-0.5,1.98,1.88,Torino,Cagliari,torino,cagliari
+2026-01-08,I1,Italy-SA,2526,Cremonese,Cagliari,2.0,2.0,D,2.0,0.0,H,2.4,3.1,3.2,2.48,3.1,3.26,2.35,3.12,3.12,2.3,1.62,2.24,1.61,-0.25,2.05,1.8,Cremonese,Cagliari,cremonese,cagliari
+2026-01-12,I1,Italy-SA,2526,Genoa,Cagliari,3.0,0.0,H,1.0,0.0,H,2.1,3.0,4.2,2.12,2.97,4.44,2.09,2.98,3.96,2.63,1.5,2.57,1.47,-0.5,2.08,1.73,Genoa,Cagliari,genoa,cagliari
+2026-01-24,I1,Italy-SA,2526,Fiorentina,Cagliari,1.0,2.0,A,0.0,1.0,A,1.62,3.8,5.75,,,,1.62,3.81,5.44,2.0,1.8,1.96,1.79,-0.75,1.8,2.05,Fiorentina,Cagliari,fiorentina,cagliari
+2026-02-09,I1,Italy-SA,2526,Roma,Cagliari,2.0,0.0,H,1.0,0.0,H,1.48,4.1,7.5,,,,1.45,4.08,7.68,2.1,1.73,2.01,1.75,-1.0,1.83,2.03,AS Roma,Cagliari,as_roma,cagliari
+2026-02-27,I1,Italy-SA,2526,Parma,Cagliari,1.0,1.0,D,0.0,0.0,D,2.25,3.0,3.7,,,,2.28,2.92,3.52,2.38,1.57,2.43,1.53,-0.25,1.93,1.93,Parma,Cagliari,parma,cagliari
+2026-03-15,I1,Italy-SA,2526,Pisa,Cagliari,3.0,1.0,H,1.0,0.0,H,2.55,3.0,3.1,,,,2.49,2.96,3.04,2.5,1.53,2.44,1.52,-0.25,2.1,1.7,Pisa,Cagliari,pisa,cagliari
+2026-04-04,I1,Italy-SA,2526,Sassuolo,Cagliari,2.0,1.0,H,0.0,1.0,A,1.95,3.1,4.5,,,,1.97,3.12,4.24,2.1,1.73,2.12,1.68,-0.5,2.0,1.85,Sassuolo,Cagliari,sassuolo,cagliari
+2026-04-17,I1,Italy-SA,2526,Inter,Cagliari,3.0,0.0,H,0.0,0.0,D,1.25,6.0,12.0,,,,1.23,6.04,11.88,1.57,2.38,1.56,2.35,-1.75,1.93,1.93,Inter Milan,Cagliari,inter_milan,cagliari
+2026-05-03,I1,Italy-SA,2526,Bologna,Cagliari,0.0,0.0,D,0.0,0.0,D,1.8,3.5,4.75,,,,1.78,3.43,4.55,2.1,1.73,2.09,1.69,-0.75,2.05,1.75,Bologna,Cagliari,bologna,cagliari
+2026-05-24,I1,Italy-SA,2526,Milan,Cagliari,1.0,2.0,A,1.0,1.0,D,1.29,5.5,11.0,,,,1.26,5.3,10.35,1.67,2.2,1.66,2.14,-1.5,1.85,2.0,AC Milan,Cagliari,ac_milan,cagliari
+2026-08-22,I1,Italy-SA,2627,Parma,Cagliari,0.0,1.0,A,0.0,0.0,D,2.5,3.0,3.1,,,,2.5,3.0,3.01,2.5,1.53,2.41,1.54,0.0,1.78,2.1,Parma,Cagliari,parma,cagliari
+2026-09-12,I1,Italy-SA,2627,Atalanta,Cagliari,1.0,2.0,A,1.0,1.0,D,1.57,4.0,6.0,,,,1.57,3.97,5.79,1.95,1.9,1.9,1.85,-1.0,2.03,1.83,Atalanta,Cagliari,atalanta,cagliari
+2026-09-19,I1,Italy-SA,2627,Udinese,Cagliari,0.0,1.0,A,0.0,0.0,D,2.25,3.3,3.3,,,,2.25,3.22,3.28,2.1,1.73,2.11,1.69,-0.25,1.93,1.93,Udinese,Cagliari,udinese,cagliari
+2026-10-19,I1,Italy-SA,2627,Monza,Cagliari,4.0,0.0,H,1.0,0.0,H,2.38,3.1,3.1,,,,2.36,3.16,3.04,2.1,1.73,2.04,1.72,-0.25,2.05,1.8,Monza,Cagliari,monza,cagliari

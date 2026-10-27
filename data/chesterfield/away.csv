@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-06,EC,England-Conference,2223,Dorking,Chesterfield,2.0,2.0,D,0.0,2.0,A,3.0,3.6,2.05,3.1,3.75,2.19,2.96,3.51,2.17,1.66,2.15,1.68,2.1,0.25,1.95,1.85,Dorking,Chesterfield,dorking,chesterfield
+2022-08-20,EC,England-Conference,2223,Notts County,Chesterfield,2.0,2.0,D,0.0,1.0,A,2.25,3.5,3.0,2.4,3.63,2.84,2.31,3.44,2.79,1.75,2.05,1.73,2.02,-0.25,1.9,1.9,Notts County,Chesterfield,notts_county,chesterfield
+2022-08-29,EC,England-Conference,2223,Altrincham,Chesterfield,1.0,2.0,A,1.0,0.0,H,4.0,3.5,1.85,4.19,3.75,1.85,3.93,3.57,1.83,1.83,1.98,1.81,1.93,0.5,2.0,1.8,Altrincham,Chesterfield,altrincham,chesterfield
+2022-09-03,EC,England-Conference,2223,Oldham,Chesterfield,0.0,2.0,A,0.0,2.0,A,2.87,3.5,2.15,3.43,3.71,2.06,3.24,3.47,2.07,1.88,1.93,1.86,1.87,0.25,1.85,1.95,Oldham,Chesterfield,oldham,chesterfield
+2022-09-17,EC,England-Conference,2223,Yeovil,Chesterfield,2.0,2.0,D,1.0,1.0,D,4.75,3.5,1.66,5.27,3.89,1.66,4.64,3.75,1.66,1.85,1.95,1.81,1.92,0.75,1.95,1.85,Yeovil Town,Chesterfield,yeovil_town,chesterfield
+2022-09-24,EC,England-Conference,2223,Maidstone,Chesterfield,1.0,2.0,A,0.0,0.0,D,3.4,3.8,1.85,3.91,3.97,1.85,3.71,3.69,1.84,1.8,2.0,1.74,2.01,0.5,1.95,1.85,Maidstone,Chesterfield,maidstone,chesterfield
+2022-10-08,EC,England-Conference,2223,Eastleigh,Chesterfield,2.0,1.0,H,1.0,0.0,H,3.6,3.6,1.85,3.89,3.76,1.91,3.78,3.61,1.84,1.8,2.0,1.77,1.97,0.5,1.98,1.83,Eastleigh,Chesterfield,eastleigh,chesterfield
+2022-10-25,EC,England-Conference,2223,York,Chesterfield,1.0,1.0,D,0.0,1.0,A,3.5,3.5,1.95,3.86,3.6,1.96,3.56,3.45,1.95,1.9,1.9,1.85,1.88,0.5,1.83,1.98,York,Chesterfield,york,chesterfield
+2022-11-12,EC,England-Conference,2223,Torquay,Chesterfield,1.0,5.0,A,1.0,1.0,D,5.25,4.0,1.55,6.28,4.6,1.48,5.79,4.39,1.46,1.6,2.3,1.53,2.36,1.0,1.88,1.93,Torquay,Chesterfield,torquay,chesterfield
+2022-12-03,EC,England-Conference,2223,Halifax,Chesterfield,1.0,0.0,H,0.0,0.0,D,3.4,3.8,2.0,3.83,3.62,1.96,3.54,3.47,1.95,1.95,1.85,1.9,1.82,0.5,1.8,2.0,Halifax,Chesterfield,halifax,chesterfield
+2022-12-26,EC,England-Conference,2223,Scunthorpe,Chesterfield,1.0,2.0,A,1.0,1.0,D,6.5,4.33,1.5,6.06,4.43,1.49,5.76,4.16,1.49,1.77,2.02,1.75,2.03,1.0,2.0,1.8,Scunthorpe United,Chesterfield,scunthorpe_united,chesterfield
+2023-01-28,EC,England-Conference,2223,Barnet,Chesterfield,3.0,0.0,H,1.0,0.0,H,3.6,3.75,1.91,3.85,4.11,1.84,3.62,3.76,1.85,1.67,2.15,1.65,2.15,0.5,1.9,1.9,Barnet,Chesterfield,barnet,chesterfield
+2023-02-04,EC,England-Conference,2223,Boreham Wood,Chesterfield,1.0,0.0,H,0.0,0.0,D,3.2,3.2,2.15,2.91,3.44,2.44,2.9,3.25,2.3,2.05,1.75,2.0,1.75,0.25,1.9,1.9,Boreham Wood,Chesterfield,boreham_wood,chesterfield
+2023-02-14,EC,England-Conference,2223,Aldershot,Chesterfield,1.0,1.0,D,1.0,0.0,H,3.75,3.5,1.85,3.84,3.79,1.92,3.74,3.65,1.83,1.7,2.1,1.73,2.02,0.5,1.93,1.88,Aldershot,Chesterfield,aldershot,chesterfield
+2023-02-18,EC,England-Conference,2223,Solihull,Chesterfield,0.0,0.0,D,0.0,0.0,D,3.75,3.5,1.85,3.78,3.76,1.93,3.66,3.68,1.85,1.65,2.2,1.64,2.16,0.5,1.9,1.9,Solihull,Chesterfield,solihull,chesterfield
+2023-02-28,EC,England-Conference,2223,Wrexham,Chesterfield,2.0,1.0,H,2.0,0.0,H,1.73,3.5,4.0,1.79,3.74,4.52,1.72,3.69,4.32,1.83,1.98,1.81,1.93,-0.75,1.98,1.83,Wrexham,Chesterfield,wrexham,chesterfield
+2023-03-04,EC,England-Conference,2223,Gateshead,Chesterfield,1.0,2.0,A,1.0,1.0,D,3.2,3.2,2.05,3.11,3.59,2.25,3.11,3.4,2.12,1.85,1.95,1.79,1.95,0.25,1.95,1.85,Gateshead,Chesterfield,gateshead,chesterfield
+2023-03-07,EC,England-Conference,2223,Southend,Chesterfield,1.0,2.0,A,0.0,1.0,A,2.9,3.3,2.2,3.11,3.48,2.3,2.94,3.28,2.27,1.98,1.83,1.94,1.81,0.25,1.85,1.95,Southend United,Chesterfield,southend_united,chesterfield
+2023-03-14,EC,England-Conference,2223,Wealdstone,Chesterfield,0.0,4.0,A,0.0,2.0,A,4.75,3.6,1.73,4.42,3.89,1.77,4.22,3.69,1.73,1.73,2.08,1.72,2.04,0.75,1.85,1.95,Wealdstone,Chesterfield,wealdstone,chesterfield
+2023-03-18,EC,England-Conference,2223,Woking,Chesterfield,0.0,1.0,A,0.0,1.0,A,2.5,3.0,2.8,2.58,3.32,2.81,2.44,3.23,2.74,2.0,1.8,1.93,1.8,-0.25,2.15,1.68,Woking,Chesterfield,woking,chesterfield
+2023-04-01,EC,England-Conference,2223,Maidenhead,Chesterfield,0.0,0.0,D,0.0,0.0,D,5.0,3.8,1.65,4.88,3.98,1.69,4.63,3.79,1.65,1.8,2.0,1.77,1.97,0.75,1.95,1.85,Maidenhead,Chesterfield,maidenhead,chesterfield
+2023-04-10,EC,England-Conference,2223,Dag and Red,Chesterfield,0.0,1.0,A,0.0,0.0,D,5.25,4.2,1.53,5.88,4.3,1.54,5.34,4.06,1.54,1.75,2.05,1.72,2.02,1.0,1.88,1.93,Dag and Red,Chesterfield,dag_and_red,chesterfield
+2023-04-22,EC,England-Conference,2223,Bromley,Chesterfield,2.0,0.0,H,1.0,0.0,H,3.0,3.3,2.05,3.26,3.53,2.17,3.11,3.38,2.12,1.82,1.98,1.81,1.92,0.25,1.93,1.88,Bromley,Chesterfield,bromley,chesterfield
+2023-08-12,EC,England-Conference,2324,Fylde,Chesterfield,2.0,4.0,A,0.0,3.0,A,4.33,3.5,1.83,3.94,3.92,1.86,3.83,3.78,1.8,1.6,2.3,1.58,2.26,0.5,2.0,1.8,Fylde,Chesterfield,fylde,chesterfield
+2023-08-15,EC,England-Conference,2324,Oxford City,Chesterfield,1.0,2.0,A,0.0,1.0,A,6.0,4.75,1.4,6.35,5.09,1.43,6.34,4.77,1.4,1.48,2.6,1.48,2.48,1.25,1.98,1.83,Oxford City,Chesterfield,oxford_city,chesterfield
+2023-08-26,EC,England-Conference,2324,Altrincham,Chesterfield,2.0,1.0,H,0.0,1.0,A,4.5,3.5,1.75,4.03,4.25,1.78,4.0,3.94,1.74,1.6,2.3,1.58,2.27,0.75,1.8,2.0,Altrincham,Chesterfield,altrincham,chesterfield
+2023-09-02,EC,England-Conference,2324,Aldershot,Chesterfield,3.0,4.0,A,1.0,1.0,D,4.0,3.75,1.67,4.25,3.97,1.79,4.07,3.84,1.73,1.6,2.3,1.61,2.22,0.75,1.9,1.9,Aldershot,Chesterfield,aldershot,chesterfield
+2023-09-16,EC,England-Conference,2324,Ebbsfleet,Chesterfield,0.0,1.0,A,0.0,0.0,D,3.6,3.5,1.91,3.26,4.09,2.02,3.28,3.85,1.94,1.53,2.4,1.5,2.44,0.5,1.85,1.95,Ebbsfleet,Chesterfield,ebbsfleet,chesterfield
+2023-09-26,EC,England-Conference,2324,Rochdale,Chesterfield,1.0,2.0,A,1.0,2.0,A,3.3,3.4,2.0,3.46,3.73,2.05,3.22,3.56,2.03,1.67,2.15,1.64,2.16,0.25,2.03,1.78,Rochdale,Chesterfield,rochdale,chesterfield
+2023-09-30,EC,England-Conference,2324,Maidenhead,Chesterfield,1.0,1.0,D,1.0,0.0,H,5.5,4.0,1.5,6.46,4.21,1.52,5.59,4.06,1.51,1.7,2.1,1.68,2.08,1.0,1.9,1.9,Maidenhead,Chesterfield,maidenhead,chesterfield
+2023-10-07,EC,England-Conference,2324,Boreham Wood,Chesterfield,0.0,2.0,A,0.0,1.0,A,3.6,3.6,1.85,3.87,3.67,1.93,3.62,3.56,1.87,1.75,2.05,1.74,1.99,0.5,1.93,1.88,Boreham Wood,Chesterfield,boreham_wood,chesterfield
+2023-10-28,EC,England-Conference,2324,Kidderminster,Chesterfield,1.0,3.0,A,1.0,1.0,D,4.75,4.0,1.67,4.53,3.83,1.77,4.32,3.74,1.71,1.75,2.05,1.74,2.0,0.75,1.85,1.95,Kidderminster,Chesterfield,kidderminster,chesterfield
+2023-11-18,EC,England-Conference,2324,Southend,Chesterfield,2.0,1.0,H,0.0,1.0,A,3.75,4.0,1.85,4.1,4.24,1.76,3.9,3.81,1.77,1.67,2.15,1.66,2.12,0.5,2.0,1.8,Southend United,Chesterfield,southend_united,chesterfield
+2023-11-21,EC,England-Conference,2324,Woking,Chesterfield,0.0,2.0,A,0.0,1.0,A,5.25,3.8,1.55,5.57,4.34,1.56,5.07,4.14,1.54,1.6,2.3,1.57,2.28,1.0,1.85,1.95,Woking,Chesterfield,woking,chesterfield
+2023-12-16,EC,England-Conference,2324,Hartlepool,Chesterfield,0.0,1.0,A,0.0,1.0,A,5.0,4.0,1.55,5.42,4.31,1.58,5.05,4.26,1.53,1.5,2.5,1.49,2.49,1.0,1.9,1.9,Hartlepool United,Chesterfield,hartlepool_united,chesterfield
+2023-12-26,EC,England-Conference,2324,Solihull,Chesterfield,2.0,0.0,H,2.0,0.0,H,5.75,4.5,1.53,5.8,4.5,1.53,5.65,4.32,1.48,1.62,2.25,1.6,2.24,1.0,2.03,1.78,Solihull,Chesterfield,solihull,chesterfield
+2024-02-03,EC,England-Conference,2324,Eastleigh,Chesterfield,1.0,3.0,A,0.0,1.0,A,8.5,4.0,1.36,8.02,5.25,1.36,7.49,4.84,1.33,1.57,2.35,1.51,2.44,1.5,1.8,2.0,Eastleigh,Chesterfield,eastleigh,chesterfield
+2024-02-06,EC,England-Conference,2324,Dag and Red,Chesterfield,1.0,2.0,A,0.0,1.0,A,4.5,4.0,1.67,4.81,4.02,1.69,4.65,3.89,1.63,1.75,2.05,1.74,2.02,0.75,1.93,1.88,Dag and Red,Chesterfield,dag_and_red,chesterfield
+2024-02-17,EC,England-Conference,2324,Bromley,Chesterfield,4.0,3.0,H,0.0,1.0,A,3.6,4.0,1.91,3.74,3.78,1.94,3.47,3.67,1.91,1.67,2.15,1.65,2.14,0.5,1.9,1.9,Bromley,Chesterfield,bromley,chesterfield
+2024-02-27,EC,England-Conference,2324,Barnet,Chesterfield,0.0,2.0,A,0.0,1.0,A,3.1,3.6,2.0,3.42,3.77,2.05,3.2,3.63,2.01,1.6,2.3,1.57,2.29,0.25,2.03,1.78,Barnet,Chesterfield,barnet,chesterfield
+2024-03-02,EC,England-Conference,2324,Dorking,Chesterfield,4.0,1.0,H,2.0,1.0,H,7.0,5.0,1.3,7.75,5.9,1.33,7.69,5.34,1.3,1.48,2.6,1.45,2.59,1.5,1.95,1.85,Dorking,Chesterfield,dorking,chesterfield
+2024-03-16,EC,England-Conference,2324,Oldham,Chesterfield,2.0,2.0,D,2.0,1.0,H,4.0,3.75,1.75,4.16,3.73,1.85,4.02,3.63,1.78,1.8,2.0,1.79,1.95,0.5,2.03,1.78,Oldham,Chesterfield,oldham,chesterfield
+2024-03-20,EC,England-Conference,2324,Halifax,Chesterfield,4.0,2.0,H,3.0,1.0,H,3.4,3.5,1.95,3.78,3.58,1.99,3.56,3.46,1.93,1.88,1.93,1.84,1.9,0.5,1.83,1.98,Halifax,Chesterfield,halifax,chesterfield
+2024-03-29,EC,England-Conference,2324,York,Chesterfield,2.0,1.0,H,0.0,1.0,A,2.8,3.6,2.3,2.96,3.57,2.31,2.85,3.47,2.25,1.73,2.08,1.71,2.06,0.25,1.8,2.0,York,Chesterfield,york,chesterfield
+2024-04-13,EC,England-Conference,2324,Wealdstone,Chesterfield,1.0,0.0,H,0.0,0.0,D,3.4,3.6,1.8,3.8,3.83,1.89,3.59,3.8,1.83,1.5,2.5,1.47,2.53,0.5,1.95,1.85,Wealdstone,Chesterfield,wealdstone,chesterfield
+2024-04-15,EC,England-Conference,2324,Gateshead,Chesterfield,2.0,1.0,H,2.0,0.0,H,,,,,,,,,,,,,,,,,Gateshead,Chesterfield,gateshead,chesterfield
+2024-08-17,E3,England-L2,2425,Crewe,Chesterfield,0.0,5.0,A,0.0,4.0,A,3.0,3.5,2.25,2.95,3.61,2.28,2.93,3.52,2.26,1.75,2.05,1.72,2.06,0.25,1.88,1.98,Crewe Alexandra,Chesterfield,crewe_alexandra,chesterfield
+2024-08-31,E3,England-L2,2425,Gillingham,Chesterfield,1.0,0.0,H,1.0,0.0,H,2.55,3.3,2.75,2.66,3.34,2.72,2.59,3.31,2.65,1.9,1.95,1.88,1.88,0.0,1.9,1.95,Gillingham,Chesterfield,gillingham,chesterfield
+2024-09-14,E3,England-L2,2425,Port Vale,Chesterfield,1.0,0.0,H,1.0,0.0,H,2.38,3.5,2.75,2.45,3.45,2.75,2.42,3.42,2.74,1.88,1.98,1.84,1.91,0.0,1.8,2.05,Port Vale,Chesterfield,port_vale,chesterfield
+2024-09-28,E3,England-L2,2425,Doncaster,Chesterfield,0.0,3.0,A,0.0,1.0,A,2.05,3.5,3.3,2.06,3.45,3.45,2.06,3.46,3.37,1.88,1.98,1.83,1.92,-0.25,1.83,2.03,Doncaster Rovers,Chesterfield,doncaster_rovers,chesterfield
+2024-10-01,E3,England-L2,2425,Bromley,Chesterfield,2.0,2.0,D,1.0,2.0,A,3.4,3.5,2.05,3.48,3.5,2.1,3.37,3.46,2.08,1.93,1.93,1.86,1.91,0.25,2.05,1.8,Bromley,Chesterfield,bromley,chesterfield
+2024-10-18,E3,England-L2,2425,Newport County,Chesterfield,0.0,3.0,A,0.0,1.0,A,4.33,3.8,1.73,4.34,4.03,1.75,4.27,3.93,1.73,1.62,2.25,1.61,2.26,0.75,1.85,1.95,Newport County,Chesterfield,newport_county,chesterfield
+2024-10-26,E3,England-L2,2425,Morecambe,Chesterfield,2.0,5.0,A,1.0,1.0,D,3.9,3.75,1.76,3.96,3.89,1.83,3.9,3.76,1.82,1.7,2.1,1.68,2.11,0.5,2.03,1.83,Morecambe,Chesterfield,morecambe,chesterfield
+2024-11-16,E3,England-L2,2425,Harrogate,Chesterfield,2.0,1.0,H,0.0,0.0,D,4.33,3.8,1.73,4.64,3.91,1.7,4.46,3.79,1.73,1.73,2.08,1.76,2.02,0.75,1.9,1.95,Harrogate Town,Chesterfield,harrogate_town,chesterfield
+2024-12-03,E3,England-L2,2425,Milton Keynes Dons,Chesterfield,3.0,0.0,H,2.0,0.0,H,2.2,3.4,3.0,2.19,3.73,3.1,2.2,3.56,3.01,1.73,2.08,1.75,2.03,-0.25,1.95,1.9,MK Dons,Chesterfield,mk_dons,chesterfield
+2024-12-14,E3,England-L2,2425,Carlisle,Chesterfield,0.0,2.0,A,0.0,1.0,A,3.1,3.4,2.25,3.09,3.34,2.28,3.09,3.37,2.23,1.93,1.93,1.89,1.88,0.25,1.88,1.98,Carlisle United,Chesterfield,carlisle_united,chesterfield
+2024-12-26,E3,England-L2,2425,Fleetwood Town,Chesterfield,2.0,0.0,H,1.0,0.0,H,2.5,3.4,2.63,2.62,3.43,2.58,2.53,3.44,2.57,1.8,2.0,1.77,1.99,0.0,1.93,1.93,Fleetwood Town,Chesterfield,fleetwood_town,chesterfield
+2024-12-29,E3,England-L2,2425,Bradford,Chesterfield,2.0,1.0,H,1.0,1.0,D,2.2,3.4,2.9,2.2,3.41,3.18,2.24,3.38,3.01,1.93,1.93,1.86,1.89,-0.25,1.98,1.88,Bradford City,Chesterfield,bradford_city,chesterfield
+2025-01-18,E3,England-L2,2425,Grimsby,Chesterfield,1.0,1.0,D,1.0,1.0,D,2.6,3.4,2.55,2.58,3.3,2.69,2.61,3.34,2.57,1.93,1.93,1.87,1.89,0.0,1.93,1.93,Grimsby Town,Chesterfield,grimsby_town,chesterfield
+2025-02-01,E3,England-L2,2425,Cheltenham,Chesterfield,1.0,0.0,H,0.0,0.0,D,3.1,3.25,2.25,3.11,3.41,2.28,3.03,3.34,2.26,1.95,1.9,1.87,1.9,0.25,1.85,2.0,Cheltenham Town,Chesterfield,cheltenham_town,chesterfield
+2025-02-15,E3,England-L2,2425,Walsall,Chesterfield,3.0,1.0,H,0.0,1.0,A,1.91,3.4,3.8,1.96,3.42,3.8,1.94,3.42,3.71,1.98,1.88,1.92,1.84,-0.5,1.98,1.88,Walsall,Chesterfield,walsall,chesterfield
+2025-02-22,E3,England-L2,2425,Swindon,Chesterfield,1.0,0.0,H,0.0,0.0,D,2.75,3.2,2.5,2.71,3.42,2.5,2.69,3.36,2.46,1.88,1.98,1.84,1.91,0.0,2.03,1.83,Swindon Town,Chesterfield,swindon_town,chesterfield
+2025-03-04,E3,England-L2,2425,Colchester,Chesterfield,1.0,0.0,H,0.0,0.0,D,1.95,3.4,3.7,2.04,3.34,3.86,2.02,3.29,3.69,2.15,1.67,2.15,1.67,-0.5,2.03,1.83,Colchester United,Chesterfield,colchester_united,chesterfield
+2025-03-11,E3,England-L2,2425,Salford,Chesterfield,0.0,4.0,A,0.0,2.0,A,2.45,3.3,2.8,2.51,3.28,2.86,2.48,3.23,2.78,2.03,1.83,1.97,1.8,0.0,1.77,2.05,Salford City,Chesterfield,salford_city,chesterfield
+2025-03-15,E3,England-L2,2425,Notts County,Chesterfield,1.0,2.0,A,0.0,0.0,D,1.9,3.7,3.75,1.95,3.57,3.69,1.92,3.61,3.62,1.8,2.0,1.76,2.0,-0.5,1.95,1.9,Notts County,Chesterfield,notts_county,chesterfield
+2025-03-29,E3,England-L2,2425,Barrow,Chesterfield,0.0,1.0,A,0.0,0.0,D,2.5,3.2,2.88,2.51,3.35,2.8,2.46,3.27,2.78,2.05,1.75,2.01,1.77,0.0,1.8,2.05,Barrow,Chesterfield,barrow,chesterfield
+2025-04-05,E3,England-L2,2425,Tranmere,Chesterfield,4.0,0.0,H,0.0,0.0,D,2.9,3.3,2.35,3.08,3.12,2.39,2.96,3.16,2.38,2.05,1.75,2.01,1.75,0.25,1.8,2.05,Tranmere Rovers,Chesterfield,tranmere_rovers,chesterfield
+2025-04-18,E3,England-L2,2425,AFC Wimbledon,Chesterfield,0.0,0.0,D,0.0,0.0,D,2.25,3.4,3.0,2.28,3.34,3.08,2.22,3.33,3.12,2.1,1.7,2.07,1.72,-0.25,1.98,1.88,AFC Wimbledon,Chesterfield,afc_wimbledon,chesterfield
+2025-05-03,E3,England-L2,2425,Accrington,Chesterfield,0.0,1.0,A,0.0,1.0,A,4.75,3.8,1.7,4.86,3.74,1.65,4.78,3.74,1.67,1.93,1.93,1.88,1.89,0.75,1.93,1.93,Accrington Stanley,Chesterfield,accrington_stanley,chesterfield
+2025-08-09,E3,England-L2,2526,Cheltenham,Chesterfield,0.0,2.0,A,0.0,0.0,D,3.4,3.6,2.0,3.37,3.65,2.03,3.44,3.6,1.97,1.83,2.03,1.75,1.99,0.5,1.83,2.03,Cheltenham Town,Chesterfield,cheltenham_town,chesterfield
+2025-08-19,E3,England-L2,2526,Gillingham,Chesterfield,4.0,1.0,H,1.0,0.0,H,3.0,3.2,2.35,3.19,3.19,2.38,3.02,3.22,2.32,2.3,1.6,2.2,1.61,0.25,1.83,2.03,Gillingham,Chesterfield,gillingham,chesterfield
+2025-08-23,E3,England-L2,2526,Harrogate,Chesterfield,1.0,2.0,A,0.0,1.0,A,4.33,3.7,1.75,4.42,3.57,1.78,4.16,3.57,1.81,2.03,1.83,1.97,1.76,0.5,2.05,1.8,Harrogate Town,Chesterfield,harrogate_town,chesterfield
+2025-09-06,E3,England-L2,2526,Walsall,Chesterfield,1.0,0.0,H,1.0,0.0,H,2.75,3.2,2.45,2.84,3.15,2.55,2.76,3.26,2.48,2.1,1.7,2.01,1.73,0.0,2.05,1.8,Walsall,Chesterfield,walsall,chesterfield
+2025-09-20,E3,England-L2,2526,Bromley,Chesterfield,2.0,2.0,D,1.0,1.0,D,2.75,3.4,2.3,2.79,3.39,2.45,2.88,3.4,2.33,1.98,1.88,1.87,1.85,0.0,2.08,1.73,Bromley,Chesterfield,bromley,chesterfield
+2025-10-04,E3,England-L2,2526,Colchester,Chesterfield,6.0,2.0,H,4.0,1.0,H,3.0,3.3,2.25,3.08,3.39,2.25,3.09,3.32,2.22,2.0,1.85,1.97,1.76,0.25,1.85,2.0,Colchester United,Chesterfield,colchester_united,chesterfield
+2025-10-25,E3,England-L2,2526,Tranmere,Chesterfield,1.0,1.0,D,0.0,1.0,A,2.95,3.25,2.25,2.77,3.45,2.43,2.88,3.43,2.3,1.88,1.98,1.8,1.93,0.25,1.8,2.05,Tranmere Rovers,Chesterfield,tranmere_rovers,chesterfield
+2025-11-15,E3,England-L2,2526,Grimsby,Chesterfield,0.0,1.0,A,0.0,0.0,D,2.05,3.5,3.2,,,,2.07,3.53,3.27,1.75,2.05,1.74,2.0,-0.25,1.83,2.03,Grimsby Town,Chesterfield,grimsby_town,chesterfield
+2025-11-22,E3,England-L2,2526,Crewe,Chesterfield,3.0,3.0,D,1.0,2.0,A,2.2,3.4,2.95,,,,2.33,3.36,2.89,1.9,1.95,1.88,1.84,-0.25,2.0,1.85,Crewe Alexandra,Chesterfield,crewe_alexandra,chesterfield
+2025-12-09,E3,England-L2,2526,Cambridge,Chesterfield,1.0,1.0,D,1.0,0.0,H,1.96,3.2,3.75,,,,2.04,3.21,3.67,2.25,1.62,2.18,1.62,-0.5,2.05,1.8,Cambridge United,Chesterfield,cambridge_united,chesterfield
+2025-12-20,E3,England-L2,2526,Shrewsbury,Chesterfield,0.0,1.0,A,0.0,0.0,D,2.82,3.4,2.25,,,,2.88,3.37,2.32,1.9,1.9,1.85,1.87,0.25,1.8,2.05,Shrewsbury Town,Chesterfield,shrewsbury_town,chesterfield
+2026-01-01,E3,England-L2,2526,Oldham,Chesterfield,1.0,1.0,D,0.0,1.0,A,2.25,3.25,2.95,,,,2.37,3.29,2.87,1.98,1.88,1.91,1.8,-0.25,2.03,1.83,Oldham,Chesterfield,oldham,chesterfield
+2026-01-04,E3,England-L2,2526,Milton Keynes Dons,Chesterfield,2.0,2.0,D,2.0,0.0,H,1.81,3.4,4.2,,,,1.83,3.56,4.02,1.93,1.93,1.85,1.86,-0.5,1.85,2.0,MK Dons,Chesterfield,mk_dons,chesterfield
+2026-01-24,E3,England-L2,2526,Newport County,Chesterfield,2.0,1.0,H,0.0,0.0,D,3.9,3.6,1.81,,,,3.81,3.54,1.88,1.85,2.0,1.78,1.95,0.5,1.95,1.9,Newport County,Chesterfield,newport_county,chesterfield
+2026-01-27,E3,England-L2,2526,Salford,Chesterfield,0.0,1.0,A,0.0,0.0,D,1.81,3.5,4.1,,,,1.87,3.57,3.87,1.93,1.93,1.82,1.88,-0.5,1.88,1.98,Salford City,Chesterfield,salford_city,chesterfield
+2026-02-07,E3,England-L2,2526,Bristol Rvs,Chesterfield,2.0,3.0,A,1.0,1.0,D,2.35,3.5,2.65,,,,2.47,3.34,2.67,1.95,1.85,1.89,1.83,0.0,1.8,2.05,Bristol Rvs,Chesterfield,bristol_rvs,chesterfield
+2026-02-21,E3,England-L2,2526,Crawley Town,Chesterfield,1.0,1.0,D,0.0,1.0,A,2.82,3.5,2.25,,,,2.83,3.48,2.3,1.8,2.0,1.72,2.02,0.25,1.8,2.05,Crawley Town,Chesterfield,crawley_town,chesterfield
+2026-02-28,E3,England-L2,2526,Barnet,Chesterfield,1.0,0.0,H,0.0,0.0,D,1.86,3.8,3.6,,,,1.88,3.68,3.65,1.7,2.1,1.7,2.05,-0.5,1.93,1.93,Barnet,Chesterfield,barnet,chesterfield
+2026-03-14,E3,England-L2,2526,Notts County,Chesterfield,2.0,3.0,A,2.0,2.0,D,2.01,3.4,3.4,,,,2.04,3.41,3.4,1.98,1.88,1.88,1.84,-0.25,1.8,2.05,Notts County,Chesterfield,notts_county,chesterfield
+2026-03-21,E3,England-L2,2526,Accrington,Chesterfield,0.0,1.0,A,0.0,0.0,D,4.1,3.6,1.76,,,,3.84,3.6,1.85,1.85,1.95,1.81,1.9,0.5,2.0,1.85,Accrington Stanley,Chesterfield,accrington_stanley,chesterfield
+2026-04-06,E3,England-L2,2526,Barrow,Chesterfield,0.0,1.0,A,0.0,0.0,D,3.4,3.3,2.05,,,,3.28,3.29,2.11,2.05,1.75,2.0,1.74,0.25,2.0,1.85,Barrow,Chesterfield,barrow,chesterfield
+2026-04-18,E3,England-L2,2526,Fleetwood Town,Chesterfield,1.0,1.0,D,0.0,0.0,D,3.2,3.25,2.15,,,,2.99,3.37,2.24,1.9,1.9,1.82,1.9,0.25,1.93,1.93,Fleetwood Town,Chesterfield,fleetwood_town,chesterfield
+2026-05-02,E3,England-L2,2526,Swindon,Chesterfield,1.0,2.0,A,1.0,1.0,D,2.75,3.6,2.25,,,,2.77,3.55,2.29,1.7,2.1,1.69,2.05,0.25,1.8,2.05,Swindon Town,Chesterfield,swindon_town,chesterfield
+2026-08-22,E3,England-L2,2627,Salford,Chesterfield,0.0,1.0,A,0.0,1.0,A,1.96,3.1,3.8,,,,2.03,3.31,3.55,2.1,1.7,2.01,1.73,-0.5,2.05,1.8,Salford City,Chesterfield,salford_city,chesterfield
+2026-08-29,E3,England-L2,2627,Rotherham,Chesterfield,2.0,1.0,H,1.0,0.0,H,3.0,3.3,2.25,,,,2.88,3.36,2.32,1.95,1.85,1.91,1.81,0.25,1.8,2.05,Rotherham United,Chesterfield,rotherham_united,chesterfield
+2026-09-12,E3,England-L2,2627,Oldham,Chesterfield,1.0,2.0,A,0.0,1.0,A,2.1,3.3,3.2,,,,2.17,3.37,3.15,1.95,1.85,1.87,1.84,-0.25,1.9,1.95,Oldham,Chesterfield,oldham,chesterfield
+2026-09-26,E3,England-L2,2627,Cheltenham,Chesterfield,2.0,1.0,H,2.0,0.0,H,3.0,3.6,2.1,,,,3.03,3.65,2.13,1.67,2.15,1.66,2.11,0.25,1.93,1.93,Cheltenham Town,Chesterfield,cheltenham_town,chesterfield
+2026-10-10,E3,England-L2,2627,Crawley Town,Chesterfield,2.0,2.0,D,0.0,1.0,A,4.75,3.9,1.61,,,,4.64,4.12,1.64,1.57,2.35,1.54,2.35,0.75,2.03,1.83,Crawley Town,Chesterfield,crawley_town,chesterfield
+2026-10-17,E3,England-L2,2627,Port Vale,Chesterfield,1.0,0.0,H,1.0,0.0,H,2.57,3.4,2.45,,,,2.63,3.45,2.48,1.85,2.0,1.8,1.92,0.25,1.7,2.1,Port Vale,Chesterfield,port_vale,chesterfield

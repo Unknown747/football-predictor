@@ -1,0 +1,96 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,SC3,Scotland-L2,2122,Forfar,Edinburgh City,2.0,0.0,H,1.0,0.0,H,2.2,3.5,2.62,2.25,3.77,2.94,2.23,3.55,2.8,1.65,2.2,1.62,2.2,-0.25,2.02,1.83,Forfar,Edinburgh City,forfar,edinburgh_city
+2021-08-14,SC3,Scotland-L2,2122,Forfar,Kelty Hearts,2.0,2.0,D,2.0,1.0,H,4.5,3.75,1.65,3.73,4.33,1.77,3.85,4.01,1.74,1.7,2.1,1.69,2.09,0.75,1.88,1.98,Forfar,Kelty Hearts,forfar,kelty_hearts
+2021-08-28,SC3,Scotland-L2,2122,Forfar,Stranraer,1.0,1.0,D,0.0,0.0,D,1.83,3.5,4.0,1.84,3.9,3.78,1.85,3.63,3.7,1.8,2.0,1.78,1.96,-0.5,1.9,1.95,Forfar,Stranraer,forfar,stranraer
+2021-09-25,SC3,Scotland-L2,2122,Forfar,Albion Rvs,3.0,1.0,H,1.0,0.0,H,1.6,3.75,5.0,1.6,3.87,4.51,1.61,3.94,4.64,1.7,2.1,1.66,2.13,-1.0,2.05,1.8,Forfar,Albion Rvs,forfar,albion_rvs
+2021-10-16,SC3,Scotland-L2,2122,Forfar,Annan Athletic,2.0,0.0,H,1.0,0.0,H,1.75,3.6,3.75,1.77,3.57,3.83,1.8,3.55,3.85,1.85,1.95,1.81,1.93,-0.5,1.83,2.02,Forfar,Annan Athletic,forfar,annan_athletic
+2021-11-06,SC3,Scotland-L2,2122,Forfar,Elgin,2.0,1.0,H,1.0,1.0,D,1.6,3.6,5.25,1.7,3.72,4.02,1.7,3.7,4.35,1.8,2.0,1.72,2.03,-0.75,1.9,1.95,Forfar,Elgin,forfar,elgin
+2021-11-20,SC3,Scotland-L2,2122,Forfar,Cowdenbeath,3.0,0.0,H,0.0,0.0,D,1.53,4.0,5.25,1.52,4.14,5.62,1.54,3.94,5.36,1.9,1.95,1.79,1.94,-1.0,2.0,1.85,Forfar,Cowdenbeath,forfar,cowdenbeath
+2021-12-11,SC3,Scotland-L2,2122,Forfar,Stirling,2.0,0.0,H,0.0,0.0,D,1.83,3.5,3.5,1.92,3.61,3.58,1.89,3.52,3.6,1.85,2.0,1.81,1.92,-0.5,1.9,1.95,Forfar,Stirling,forfar,stirling
+2021-12-26,SC3,Scotland-L2,2122,Forfar,Stenhousemuir,3.0,4.0,A,1.0,4.0,A,1.75,3.6,4.0,1.7,3.63,4.13,1.74,3.62,4.11,1.93,1.93,1.85,1.88,-0.75,2.02,1.77,Forfar,Stenhousemuir,forfar,stenhousemuir
+2022-01-08,SC3,Scotland-L2,2122,Forfar,Stranraer,3.0,2.0,H,1.0,1.0,D,1.75,3.5,4.2,1.77,3.81,4.22,1.77,3.6,4.05,1.83,2.02,1.78,1.96,-0.75,2.02,1.83,Forfar,Stranraer,forfar,stranraer
+2022-01-31,SC3,Scotland-L2,2122,Forfar,Edinburgh City,2.0,3.0,A,0.0,2.0,A,1.61,3.8,4.75,1.5,4.06,5.64,1.57,3.92,5.12,1.75,2.05,1.74,2.0,-1.0,2.08,1.73,Forfar,Edinburgh City,forfar,edinburgh_city
+2022-02-05,SC3,Scotland-L2,2122,Forfar,Albion Rvs,2.0,0.0,H,1.0,0.0,H,1.6,3.75,5.0,1.55,4.04,5.05,1.57,3.93,4.99,1.72,2.07,1.7,2.05,-1.0,2.02,1.83,Forfar,Albion Rvs,forfar,albion_rvs
+2022-02-19,SC3,Scotland-L2,2122,Forfar,Kelty Hearts,1.0,0.0,H,0.0,0.0,D,3.4,3.4,1.9,3.34,3.59,2.05,3.31,3.48,2.0,1.66,2.15,1.71,2.05,0.5,1.93,1.93,Forfar,Kelty Hearts,forfar,kelty_hearts
+2022-03-05,SC3,Scotland-L2,2122,Forfar,Elgin,0.0,0.0,D,0.0,0.0,D,1.8,3.6,3.75,1.92,3.77,3.61,1.9,3.57,3.55,1.75,2.05,1.77,1.96,-0.5,1.88,1.98,Forfar,Elgin,forfar,elgin
+2022-03-12,SC3,Scotland-L2,2122,Forfar,Stirling,0.0,1.0,A,0.0,1.0,A,1.8,3.5,4.0,1.94,3.59,3.68,1.89,3.49,3.67,1.83,2.02,1.78,1.96,-0.5,1.85,2.0,Forfar,Stirling,forfar,stirling
+2022-03-26,SC3,Scotland-L2,2122,Forfar,Cowdenbeath,1.0,1.0,D,0.0,1.0,A,1.53,3.8,5.25,1.6,4.02,5.22,1.56,3.87,5.29,1.95,1.9,1.9,1.83,-1.0,2.02,1.83,Forfar,Cowdenbeath,forfar,cowdenbeath
+2022-04-16,SC3,Scotland-L2,2122,Forfar,Annan Athletic,5.0,1.0,H,5.0,0.0,H,2.2,3.3,3.0,2.29,3.12,2.89,2.25,3.28,2.94,1.93,1.93,1.85,1.88,-0.25,1.98,1.88,Forfar,Annan Athletic,forfar,annan_athletic
+2022-04-30,SC3,Scotland-L2,2122,Forfar,Stenhousemuir,0.0,0.0,D,0.0,0.0,D,1.9,3.25,3.5,2.06,3.74,3.22,2.02,3.47,3.28,1.88,1.98,1.78,1.96,-0.5,2.0,1.85,Forfar,Stenhousemuir,forfar,stenhousemuir
+2022-08-06,SC3,Scotland-L2,2223,Forfar,Stranraer,2.0,0.0,H,0.0,0.0,D,1.85,3.4,3.6,2.05,3.24,3.25,1.99,3.38,3.44,1.98,1.88,1.87,1.86,-0.5,1.95,1.9,Forfar,Stranraer,forfar,stranraer
+2022-08-13,SC3,Scotland-L2,2223,Forfar,Elgin,2.0,2.0,D,1.0,1.0,D,1.72,3.6,3.8,1.92,3.65,3.71,1.84,3.57,3.77,1.88,1.98,1.84,1.9,-0.5,1.75,2.05,Forfar,Elgin,forfar,elgin
+2022-08-27,SC3,Scotland-L2,2223,Forfar,Stenhousemuir,1.0,2.0,A,0.0,2.0,A,2.1,3.4,3.1,2.12,3.19,3.13,2.1,3.34,3.17,1.8,2.0,1.83,1.9,-0.25,1.88,1.98,Forfar,Stenhousemuir,forfar,stenhousemuir
+2022-09-24,SC3,Scotland-L2,2223,Forfar,Stirling,1.0,4.0,A,0.0,3.0,A,2.2,3.2,3.2,2.29,3.3,3.08,2.22,3.25,3.01,1.95,1.9,1.88,1.85,-0.25,1.98,1.88,Forfar,Stirling,forfar,stirling
+2022-10-01,SC3,Scotland-L2,2223,Forfar,Dumbarton,0.0,0.0,D,0.0,0.0,D,3.1,3.5,2.2,2.8,3.59,2.34,2.91,3.42,2.21,1.8,2.0,1.78,1.95,0.25,1.88,1.98,Forfar,Dumbarton,forfar,dumbarton
+2022-10-08,SC3,Scotland-L2,2223,Forfar,East Fife,1.0,3.0,A,0.0,2.0,A,2.05,3.3,3.1,2.06,3.45,3.46,2.07,3.37,3.24,1.88,1.98,1.83,1.9,-0.25,1.88,1.98,Forfar,East Fife,forfar,east_fife
+2022-11-05,SC3,Scotland-L2,2223,Forfar,Annan Athletic,1.0,4.0,A,0.0,2.0,A,2.1,3.3,3.0,2.11,3.37,2.98,2.15,3.39,3.0,1.75,2.05,1.74,2.0,-0.25,1.95,1.9,Forfar,Annan Athletic,forfar,annan_athletic
+2022-11-12,SC3,Scotland-L2,2223,Forfar,Bonnyrigg Rose,1.0,1.0,D,0.0,0.0,D,2.1,3.4,2.9,2.03,3.54,3.47,2.07,3.37,3.21,1.9,1.95,1.81,1.92,-0.25,1.9,1.95,Forfar,Bonnyrigg Rose,forfar,bonnyrigg_rose
+2022-12-03,SC3,Scotland-L2,2223,Forfar,Albion Rvs,1.0,0.0,H,1.0,0.0,H,1.85,3.6,3.25,2.03,3.54,3.47,1.97,3.44,3.4,1.8,2.0,1.81,1.91,-0.5,1.98,1.88,Forfar,Albion Rvs,forfar,albion_rvs
+2023-01-02,SC3,Scotland-L2,2223,Forfar,Elgin,0.0,1.0,A,0.0,0.0,D,2.25,3.5,2.63,2.22,3.72,2.89,2.23,3.52,2.78,1.62,2.25,1.64,2.14,-0.25,2.0,1.8,Forfar,Elgin,forfar,elgin
+2023-01-14,SC3,Scotland-L2,2223,Forfar,Dumbarton,2.0,1.0,H,0.0,0.0,D,2.8,3.4,2.3,2.82,3.37,2.42,2.8,3.33,2.32,1.8,2.0,1.85,1.89,0.25,1.8,2.05,Forfar,Dumbarton,forfar,dumbarton
+2023-02-04,SC3,Scotland-L2,2223,Forfar,Stranraer,2.0,1.0,H,1.0,0.0,H,1.73,3.6,3.75,1.94,3.79,3.51,1.84,3.55,3.74,1.98,1.88,1.85,1.89,-0.5,1.8,2.05,Forfar,Stranraer,forfar,stranraer
+2023-02-11,SC3,Scotland-L2,2223,Forfar,Stenhousemuir,1.0,1.0,D,1.0,1.0,D,1.95,4.0,3.4,1.95,3.71,3.53,1.94,3.54,3.44,1.8,2.0,1.79,1.95,-0.5,1.98,1.88,Forfar,Stenhousemuir,forfar,stenhousemuir
+2023-02-25,SC3,Scotland-L2,2223,Forfar,Stirling,0.0,0.0,D,0.0,0.0,D,3.25,3.2,2.15,3.05,3.36,2.27,2.96,3.3,2.23,1.83,2.02,1.83,1.91,0.25,1.95,1.9,Forfar,Stirling,forfar,stirling
+2023-03-18,SC3,Scotland-L2,2223,Forfar,Annan Athletic,2.0,1.0,H,1.0,1.0,D,2.1,3.6,2.8,2.4,3.46,2.79,2.27,3.4,2.8,1.65,2.2,1.68,2.09,-0.25,1.93,1.93,Forfar,Annan Athletic,forfar,annan_athletic
+2023-04-01,SC3,Scotland-L2,2223,Forfar,Albion Rvs,2.0,1.0,H,0.0,1.0,A,1.91,3.2,3.75,2.12,3.31,3.43,2.04,3.26,3.39,2.02,1.83,2.0,1.76,-0.25,1.7,2.1,Forfar,Albion Rvs,forfar,albion_rvs
+2023-04-22,SC3,Scotland-L2,2223,Forfar,Bonnyrigg Rose,0.0,1.0,A,0.0,1.0,A,1.95,3.6,3.0,2.11,3.41,3.37,2.04,3.35,3.31,2.0,1.85,1.92,1.82,-0.5,2.05,1.75,Forfar,Bonnyrigg Rose,forfar,bonnyrigg_rose
+2023-05-06,SC3,Scotland-L2,2223,Forfar,East Fife,1.0,0.0,H,0.0,0.0,D,2.15,3.4,2.88,2.29,3.43,2.97,2.22,3.39,2.91,1.75,2.05,1.7,2.07,-0.25,1.98,1.88,Forfar,East Fife,forfar,east_fife
+2023-08-12,SC3,Scotland-L2,2324,Forfar,Elgin,0.0,0.0,D,0.0,0.0,D,1.75,3.6,3.75,1.79,3.58,4.44,1.79,3.56,4.03,1.95,1.85,1.91,1.82,,,,Forfar,Elgin,forfar,elgin
+2023-08-26,SC3,Scotland-L2,2324,Forfar,Bonnyrigg Rose,1.0,2.0,A,0.0,1.0,A,2.05,3.3,3.0,2.21,3.19,3.34,2.14,3.22,3.23,2.03,1.83,2.05,1.73,-0.25,1.9,1.95,Forfar,Bonnyrigg Rose,forfar,bonnyrigg_rose
+2023-09-16,SC3,Scotland-L2,2324,Forfar,Spartans,2.0,2.0,D,1.0,2.0,A,2.5,3.5,2.63,2.42,3.2,2.73,2.43,3.29,2.68,1.95,1.9,1.92,1.84,0.0,1.83,2.03,Forfar,Spartans,forfar,spartans
+2023-10-07,SC3,Scotland-L2,2324,Forfar,Peterhead,1.0,3.0,A,0.0,2.0,A,2.45,3.2,2.88,2.52,3.2,2.82,2.43,3.16,2.76,2.05,1.75,2.0,1.73,0.0,1.8,2.05,Forfar,Peterhead,forfar,peterhead
+2023-11-04,SC3,Scotland-L2,2324,Forfar,Stenhousemuir,1.0,3.0,A,1.0,1.0,D,2.9,3.5,2.1,3.25,3.39,2.17,3.09,3.4,2.12,1.88,1.98,1.81,1.91,0.25,1.95,1.9,Forfar,Stenhousemuir,forfar,stenhousemuir
+2023-11-11,SC3,Scotland-L2,2324,Forfar,Clyde,1.0,1.0,D,0.0,0.0,D,1.73,3.5,4.33,1.81,3.74,4.11,1.74,3.62,4.16,1.85,2.0,1.79,1.94,-0.75,2.0,1.85,Forfar,Clyde,forfar,clyde
+2023-12-02,SC3,Scotland-L2,2324,Forfar,Stranraer,1.0,1.0,D,1.0,0.0,H,2.05,3.4,3.5,2.11,3.54,3.26,2.06,3.4,3.28,1.9,1.95,1.82,1.91,-0.25,1.85,2.0,Forfar,Stranraer,forfar,stranraer
+2023-12-16,SC3,Scotland-L2,2324,Forfar,Dumbarton,2.0,4.0,A,2.0,3.0,A,3.0,3.4,2.15,3.06,3.27,2.32,2.99,3.32,2.2,2.0,1.85,1.92,1.81,0.25,1.88,1.98,Forfar,Dumbarton,forfar,dumbarton
+2023-12-30,SC3,Scotland-L2,2324,Forfar,East Fife,0.0,0.0,D,0.0,0.0,D,2.15,3.1,3.1,2.31,3.22,3.06,2.2,3.22,3.05,2.0,1.85,1.92,1.81,-0.25,1.95,1.9,Forfar,East Fife,forfar,east_fife
+2024-01-13,SC3,Scotland-L2,2324,Forfar,Elgin,2.0,1.0,H,0.0,1.0,A,1.67,3.5,4.75,1.76,3.61,4.54,1.71,3.57,4.44,1.95,1.9,1.89,1.84,-0.75,1.98,1.88,Forfar,Elgin,forfar,elgin
+2024-01-27,SC3,Scotland-L2,2324,Forfar,Bonnyrigg Rose,0.0,0.0,D,0.0,0.0,D,2.25,3.3,2.88,2.38,3.17,3.05,2.26,3.19,2.96,2.08,1.73,2.01,1.73,-0.25,2.0,1.85,Forfar,Bonnyrigg Rose,forfar,bonnyrigg_rose
+2024-02-03,SC3,Scotland-L2,2324,Forfar,Spartans,1.0,0.0,H,1.0,0.0,H,2.75,3.6,2.1,3.17,3.2,2.29,3.01,3.31,2.17,1.98,1.88,1.97,1.77,0.25,1.88,1.98,Forfar,Spartans,forfar,spartans
+2024-02-17,SC3,Scotland-L2,2324,Forfar,Peterhead,3.0,3.0,D,3.0,0.0,H,2.5,3.4,2.5,2.59,3.36,2.67,2.52,3.31,2.54,1.98,1.88,1.91,1.82,0.0,1.93,1.93,Forfar,Peterhead,forfar,peterhead
+2024-03-09,SC3,Scotland-L2,2324,Forfar,Clyde,2.0,1.0,H,0.0,1.0,A,2.25,3.5,2.63,2.25,3.47,3.07,2.18,3.46,2.94,1.7,2.1,1.78,1.97,-0.25,2.05,1.8,Forfar,Clyde,forfar,clyde
+2024-03-16,SC3,Scotland-L2,2324,Forfar,Stenhousemuir,1.0,1.0,D,0.0,1.0,A,3.2,3.1,2.25,3.04,3.36,2.31,3.0,3.28,2.23,1.95,1.9,1.86,1.88,0.25,1.88,1.98,Forfar,Stenhousemuir,forfar,stenhousemuir
+2024-04-06,SC3,Scotland-L2,2324,Forfar,Dumbarton,0.0,2.0,A,0.0,0.0,D,2.38,3.4,2.7,2.46,3.35,2.78,2.38,3.37,2.71,1.75,2.05,1.75,2.0,-0.25,2.08,1.73,Forfar,Dumbarton,forfar,dumbarton
+2024-04-20,SC3,Scotland-L2,2324,Forfar,East Fife,2.0,1.0,H,0.0,1.0,A,2.45,3.4,2.6,2.53,3.11,2.88,2.49,3.17,2.71,2.05,1.75,2.05,1.71,0.0,1.78,2.1,Forfar,East Fife,forfar,east_fife
+2024-04-27,SC3,Scotland-L2,2324,Forfar,Stranraer,2.0,0.0,H,2.0,0.0,H,2.7,3.3,2.3,2.71,3.52,2.43,2.71,3.28,2.42,2.35,1.57,2.36,1.55,0.0,2.1,1.78,Forfar,Stranraer,forfar,stranraer
+2024-08-03,SC3,Scotland-L2,2425,Forfar,Clyde,0.0,0.0,D,0.0,0.0,D,2.8,3.4,2.15,2.99,3.19,2.33,2.9,3.25,2.28,1.95,1.9,1.95,1.79,0.25,1.88,1.98,Forfar,Clyde,forfar,clyde
+2024-08-24,SC3,Scotland-L2,2425,Forfar,Edinburgh City,0.0,3.0,A,0.0,2.0,A,1.38,5.25,5.25,1.38,4.83,6.87,1.37,4.83,6.53,1.53,2.38,1.53,2.37,-1.25,1.83,2.03,Forfar,Edinburgh City,forfar,edinburgh_city
+2024-08-31,SC3,Scotland-L2,2425,Forfar,Elgin,1.0,1.0,D,0.0,0.0,D,2.6,3.3,2.3,2.67,3.43,2.43,2.67,3.34,2.38,2.0,1.85,1.95,1.79,0.0,2.05,1.8,Forfar,Elgin,forfar,elgin
+2024-09-21,SC3,Scotland-L2,2425,Forfar,Stranraer,2.0,1.0,H,1.0,1.0,D,2.2,3.25,3.1,2.25,3.13,3.17,2.21,3.16,3.12,2.1,1.7,2.09,1.68,-0.25,1.98,1.88,Forfar,Stranraer,forfar,stranraer
+2024-10-19,SC3,Scotland-L2,2425,Forfar,East Fife,0.0,0.0,D,0.0,0.0,D,3.8,3.7,1.75,3.72,3.58,1.88,3.82,3.58,1.83,1.98,1.88,1.94,1.8,0.5,2.05,1.8,Forfar,East Fife,forfar,east_fife
+2024-11-09,SC3,Scotland-L2,2425,Forfar,Spartans,0.0,3.0,A,0.0,2.0,A,2.45,3.0,2.8,2.36,3.22,2.91,2.41,3.12,2.85,2.35,1.57,2.35,1.55,-0.25,2.1,1.7,Forfar,Spartans,forfar,spartans
+2024-12-14,SC3,Scotland-L2,2425,Forfar,Bonnyrigg Rose,5.0,1.0,H,2.0,0.0,H,2.55,3.1,2.63,2.69,2.92,2.75,2.62,3.08,2.64,2.2,1.65,2.17,1.64,0.0,1.88,1.98,Forfar,Bonnyrigg Rose,forfar,bonnyrigg_rose
+2024-12-17,SC3,Scotland-L2,2425,Forfar,Peterhead,1.0,1.0,D,0.0,1.0,A,2.8,3.25,2.2,3.04,3.1,2.34,2.95,3.16,2.29,2.03,1.83,2.07,1.7,0.25,1.85,2.0,Forfar,Peterhead,forfar,peterhead
+2024-12-28,SC3,Scotland-L2,2425,Forfar,Stirling,2.0,2.0,D,1.0,0.0,H,1.95,3.5,3.25,1.9,3.42,3.84,1.96,3.44,3.48,1.98,1.88,1.9,1.84,-0.5,2.0,1.85,Forfar,Stirling,forfar,stirling
+2025-01-11,SC3,Scotland-L2,2425,Forfar,Elgin,1.0,1.0,D,0.0,0.0,D,2.45,3.2,2.7,2.45,3.25,2.77,2.42,3.13,2.71,2.0,1.85,1.92,1.82,0.0,1.8,2.05,Forfar,Elgin,forfar,elgin
+2025-01-25,SC3,Scotland-L2,2425,Forfar,Stranraer,0.0,1.0,A,0.0,0.0,D,2.05,3.25,3.4,2.03,3.15,3.71,2.03,3.15,3.47,2.15,1.67,2.13,1.66,-0.5,2.05,1.75,Forfar,Stranraer,forfar,stranraer
+2025-02-08,SC3,Scotland-L2,2425,Forfar,Edinburgh City,0.0,1.0,A,0.0,1.0,A,1.7,3.7,4.1,1.78,3.51,4.34,1.75,3.54,4.2,2.0,1.85,1.92,1.82,-0.75,2.0,1.85,Forfar,Edinburgh City,forfar,edinburgh_city
+2025-03-01,SC3,Scotland-L2,2425,Forfar,Clyde,0.0,1.0,A,0.0,0.0,D,2.15,2.88,3.3,2.25,3.17,3.15,2.22,3.07,3.17,2.05,1.75,1.99,1.75,-0.25,1.93,1.93,Forfar,Clyde,forfar,clyde
+2025-03-15,SC3,Scotland-L2,2425,Forfar,Spartans,0.0,2.0,A,0.0,0.0,D,2.45,3.1,2.55,2.62,3.06,2.7,2.57,3.06,2.68,2.25,1.62,2.25,1.58,0.0,1.9,1.95,Forfar,Spartans,forfar,spartans
+2025-03-29,SC3,Scotland-L2,2425,Forfar,Peterhead,0.0,0.0,D,0.0,0.0,D,2.9,3.25,2.15,2.99,3.22,2.31,3.0,3.24,2.23,2.15,1.67,2.12,1.67,0.25,1.88,1.98,Forfar,Peterhead,forfar,peterhead
+2025-04-05,SC3,Scotland-L2,2425,Forfar,East Fife,1.0,0.0,H,1.0,0.0,H,2.9,3.3,2.15,3.14,3.32,2.18,3.11,3.31,2.16,2.05,1.8,2.0,1.75,0.25,1.9,1.95,Forfar,East Fife,forfar,east_fife
+2025-04-19,SC3,Scotland-L2,2425,Forfar,Bonnyrigg Rose,0.0,2.0,A,0.0,1.0,A,1.83,3.6,3.8,1.78,3.47,4.36,1.8,3.47,4.14,2.08,1.73,2.02,1.73,-0.5,1.85,2.0,Forfar,Bonnyrigg Rose,forfar,bonnyrigg_rose
+2025-05-03,SC3,Scotland-L2,2425,Forfar,Stirling,0.0,0.0,D,0.0,0.0,D,1.53,3.9,5.75,1.5,4.26,5.73,1.5,4.08,5.73,1.75,2.05,1.73,2.03,-1.0,1.93,1.93,Forfar,Stirling,forfar,stirling
+2025-08-02,SC3,Scotland-L2,2526,Forfar,Stranraer,1.0,0.0,H,1.0,0.0,H,1.57,3.7,5.25,1.63,3.65,5.09,1.59,3.56,5.1,2.08,1.73,2.02,1.7,-0.75,1.75,2.05,Forfar,Stranraer,forfar,stranraer
+2025-08-16,SC3,Scotland-L2,2526,Forfar,Stirling,4.0,2.0,H,2.0,1.0,H,1.8,3.4,4.2,1.79,3.39,4.28,1.77,3.28,4.11,2.15,1.67,2.11,1.63,-0.5,1.8,2.0,Forfar,Stirling,forfar,stirling
+2025-09-13,SC3,Scotland-L2,2526,Forfar,Dumbarton,2.0,3.0,A,2.0,1.0,H,1.95,3.7,3.5,1.93,3.38,3.66,1.93,3.37,3.45,1.9,1.9,1.84,1.83,-0.5,1.98,1.83,Forfar,Dumbarton,forfar,dumbarton
+2025-09-20,SC3,Scotland-L2,2526,Forfar,Annan Athletic,1.0,0.0,H,1.0,0.0,H,1.83,3.5,3.6,1.93,3.54,3.51,1.83,3.44,3.6,1.85,1.95,1.78,1.89,-0.5,1.88,1.93,Forfar,Annan Athletic,forfar,annan_athletic
+2025-10-18,SC3,Scotland-L2,2526,Forfar,Clyde,0.0,0.0,D,0.0,0.0,D,2.55,3.25,2.55,2.6,3.16,2.6,2.48,3.21,2.51,1.83,1.98,1.82,1.86,0.0,1.9,1.9,Forfar,Clyde,forfar,clyde
+2025-11-08,SC3,Scotland-L2,2526,Forfar,Spartans,1.0,1.0,D,1.0,0.0,H,3.5,3.3,2.0,,,,3.46,3.22,1.96,2.05,1.75,1.99,1.71,0.5,1.78,2.03,Forfar,Spartans,forfar,spartans
+2025-12-06,SC3,Scotland-L2,2526,Forfar,East Kilbride,0.0,3.0,A,0.0,3.0,A,3.6,3.5,1.85,,,,3.57,3.48,1.85,1.75,2.05,1.72,1.98,0.5,1.88,1.93,Forfar,East Kilbride,forfar,east_kilbride
+2025-12-20,SC3,Scotland-L2,2526,Forfar,Edinburgh City,2.0,3.0,A,1.0,1.0,D,2.38,3.4,2.55,,,,2.4,3.24,2.56,1.8,2.0,1.76,1.89,0.0,1.83,1.98,Forfar,Edinburgh City,forfar,edinburgh_city
+2025-12-27,SC3,Scotland-L2,2526,Forfar,Elgin,4.0,2.0,H,2.0,1.0,H,2.45,3.25,2.5,,,,2.44,3.21,2.54,1.9,1.9,1.84,1.83,0.0,1.85,1.95,Forfar,Elgin,forfar,elgin
+2026-01-10,SC3,Scotland-L2,2526,Forfar,Stranraer,2.0,2.0,D,1.0,1.0,D,2.63,3.2,2.4,,,,2.6,3.15,2.44,1.95,1.85,1.87,1.8,0.0,2.0,1.8,Forfar,Stranraer,forfar,stranraer
+2026-01-24,SC3,Scotland-L2,2526,Forfar,Stirling,0.0,1.0,A,0.0,0.0,D,1.75,3.4,4.0,,,,1.81,3.4,3.77,1.83,1.98,1.79,1.87,-0.5,1.8,2.0,Forfar,Stirling,forfar,stirling
+2026-02-07,SC3,Scotland-L2,2526,Forfar,Dumbarton,2.0,0.0,H,0.0,0.0,D,1.95,3.5,3.2,,,,1.99,3.46,3.1,1.6,2.3,1.59,2.16,-0.5,2.0,1.8,Forfar,Dumbarton,forfar,dumbarton
+2026-02-21,SC3,Scotland-L2,2526,Forfar,Annan Athletic,2.0,1.0,H,1.0,0.0,H,2.1,3.6,2.8,,,,2.14,3.42,2.83,1.67,2.15,1.61,2.14,-0.25,1.9,1.9,Forfar,Annan Athletic,forfar,annan_athletic
+2026-03-07,SC3,Scotland-L2,2526,Forfar,Clyde,1.0,1.0,D,0.0,0.0,D,2.88,3.25,2.2,,,,2.87,3.26,2.17,1.95,1.85,1.89,1.79,0.25,1.85,1.95,Forfar,Clyde,forfar,clyde
+2026-03-21,SC3,Scotland-L2,2526,Forfar,Spartans,1.0,1.0,D,1.0,1.0,D,3.1,3.25,2.05,,,,3.13,3.17,2.08,2.05,1.75,2.01,1.69,0.25,1.95,1.85,Forfar,Spartans,forfar,spartans
+2026-04-04,SC3,Scotland-L2,2526,Forfar,Elgin,2.0,1.0,H,2.0,1.0,H,2.25,3.3,2.7,,,,2.26,3.22,2.74,1.9,1.9,1.86,1.81,-0.25,2.03,1.78,Forfar,Elgin,forfar,elgin
+2026-04-11,SC3,Scotland-L2,2526,Forfar,East Kilbride,1.0,0.0,H,1.0,0.0,H,2.9,3.4,2.1,,,,2.94,3.32,2.11,1.73,2.08,1.69,2.02,0.25,1.9,1.9,Forfar,East Kilbride,forfar,east_kilbride
+2026-04-25,SC3,Scotland-L2,2526,Forfar,Edinburgh City,4.0,0.0,H,2.0,0.0,H,1.22,4.75,11.0,,,,1.2,5.46,10.5,1.73,2.08,1.64,2.08,-1.75,1.95,1.85,Forfar,Edinburgh City,forfar,edinburgh_city
+2026-08-01,SC3,Scotland-L2,2627,Forfar,Kelty Hearts,1.0,0.0,H,1.0,0.0,H,3.0,3.6,2.0,,,,3.15,3.54,1.95,1.7,2.1,1.67,2.08,0.5,1.8,2.0,Forfar,Kelty Hearts,forfar,kelty_hearts
+2026-08-15,SC3,Scotland-L2,2627,Forfar,Stirling,3.0,0.0,H,2.0,0.0,H,2.25,3.4,2.63,,,,2.33,3.28,2.65,1.9,1.9,1.85,1.84,-0.25,2.05,1.75,Forfar,Stirling,forfar,stirling
+2026-09-05,SC3,Scotland-L2,2627,Forfar,Stranraer,0.0,3.0,A,0.0,1.0,A,2.7,3.3,2.3,,,,2.73,3.23,2.31,1.98,1.83,1.92,1.79,0.0,2.05,1.75,Forfar,Stranraer,forfar,stranraer
+2026-09-19,SC3,Scotland-L2,2627,Forfar,Annan Athletic,1.0,0.0,H,1.0,0.0,H,2.6,3.3,2.35,,,,2.64,3.26,2.38,1.88,1.93,1.81,1.9,0.0,2.0,1.8,Forfar,Annan Athletic,forfar,annan_athletic
+2026-10-10,SC3,Scotland-L2,2627,Forfar,Elgin,1.0,2.0,A,0.0,1.0,A,3.2,3.5,1.91,,,,3.23,3.5,1.95,1.7,2.1,1.69,2.05,0.5,1.83,1.98,Forfar,Elgin,forfar,elgin

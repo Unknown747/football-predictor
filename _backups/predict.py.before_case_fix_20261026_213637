@@ -1,0 +1,532 @@
+#!/usr/bin/env python3
+"""
+predict.py — Mode B prediction pipeline (production candidate).
+
+Prinsip:
+- Cutoff ketat: hanya pakai data master_canon dengan Date < target_date.
+- Model: 6 model Mode B (78 fitur) yang sudah diverifikasi.
+- Odds: opsional (hybrid). Jika lengkap per grup, hitung implied + value.
+- Fail closed: UNKNOWN_TEAM / UNKNOWN_LEAGUE / DATE_NOT_IN_FUTURE → NaN, tidak predict.
+- Deterministik: match_id dari sha256 jika tidak disupply user.
+
+Tidak mengubah file produksi apapun. Hanya membaca + menulis ke output CSV.
+"""
+import argparse
+import hashlib
+import json
+import math
+import sys
+from datetime import datetime
+from pathlib import Path
+
+import numpy as np
+import pandas as pd
+import lightgbm as lgb
+
+# Path setup
+BASE = Path(__file__).resolve().parent
+DATA = BASE / "data"
+MODELS = BASE / "models"
+LOGS = BASE / "logs"
+PREDICTIONS = BASE / "predictions"
+PREDICTIONS.mkdir(exist_ok=True)
+
+# Import reconstruct_pit (read-only, no side effects)
+sys.path.insert(0, str(LOGS))
+try:
+    from reconstruct_pit import reconstruct, MASTER
+except Exception as e:
+    print(f"FATAL: gagal import reconstruct_pit: {e}", file=sys.stderr)
+    sys.exit(1)
+
+# Konstanta
+CUTOFF_DATE = pd.Timestamp("2026-10-21")
+FUZZY_THRESHOLD = 95.0
+
+MODEL_MAP = {
+    "1x2":      "lgb_1x2_modeB.txt",
+    "ou25":     "lgb_ou25_modeB.txt",
+    "home_ou05": "lgb_home_ou05_modeB.txt",
+    "home_ou15": "lgb_home_ou15_modeB.txt",
+    "away_ou05": "lgb_away_ou05_modeB.txt",
+    "away_ou15": "lgb_away_ou15_modeB.txt",
+}
+
+# Final schema (39 columns)
+SCHEMA = [
+    "match_id", "date", "home_team", "away_team", "league_name",
+    "data_status", "notes", "warning_insufficient_history",
+    "p_H", "p_D", "p_A", "pred_1x2",
+    "p_over25", "p_under25", "pred_ou25",
+    "p_home_over05", "pred_home_ou05",
+    "p_home_over15", "pred_home_ou15",
+    "p_away_over05", "pred_away_ou05",
+    "p_away_over15", "pred_away_ou15",
+    "odds_home", "odds_draw", "odds_away",
+    "implied_H", "implied_D", "implied_A",
+    "value_1x2_H", "value_1x2_D", "value_1x2_A",
+    "odds_over25", "odds_under25",
+    "implied_over25", "implied_under25",
+    "value_ou25_over", "value_ou25_under",
+    "used_odds_input",
+]
+
+
+# ============================================================
+# Loaders
+# ============================================================
+
+def load_models():
+    """Load 6 model Mode B. Raise jika ada yang missing."""
+    models = {}
+    for name, fname in MODEL_MAP.items():
+        path = MODELS / fname
+        if not path.exists():
+            raise FileNotFoundError(f"Model Mode B tidak ditemukan: {path}")
+        models[name] = lgb.Booster(model_file=str(path))
+    return models
+
+
+def load_team_map():
+    """Return dict raw_name -> canonical + set of canonical names."""
+    path = BASE / "team_map.csv"
+    if not path.exists():
+        raise FileNotFoundError(f"team_map.csv tidak ada: {path}")
+    tm = pd.read_csv(path)
+    raw_to_canon = dict(zip(tm["raw_name"], tm["canonical_name"]))
+    canon_set = set(tm["canonical_name"])
+    return raw_to_canon, canon_set
+
+
+def load_league_set():
+    """Daftar league_name yang valid dari master_canon."""
+    return set(MASTER["league_name"].dropna().unique())
+
+
+def load_feat_cols():
+    path = LOGS / "feat_cols_modeB_ordered.json"
+    if not path.exists():
+        raise FileNotFoundError(f"feat_cols tidak ada: {path}")
+    with open(path) as f:
+        return json.load(f)
+
+
+# ============================================================
+# Validation helpers
+# ============================================================
+
+def resolve_team(name, raw_to_canon, canon_set):
+    """Return canonical name atau None.
+
+    Order:
+    1. Exact match (raw_to_canon)
+    2. Exact match (canon_set)
+    3. Case-insensitive exact match (raw + canon)  <-- tambahan
+    4. Fuzzy WRatio, case-insensitive, threshold 95 + unik (delta >= 5)
+    """
+    if not isinstance(name, str):
+        return None
+    name = name.strip()
+    if not name:
+        return None
+    # 1. Exact raw
+    if name in raw_to_canon:
+        return raw_to_canon[name]
+    # 2. Exact canon
+    if name in canon_set:
+        return name
+    # 3. Case-insensitive exact
+    name_lower = name.lower()
+    for raw, canon in raw_to_canon.items():
+        if raw.lower() == name_lower:
+            return canon
+    for canon in canon_set:
+        if canon.lower() == name_lower:
+            return canon
+    # 4. Fuzzy WRatio, case-insensitive compare
+    try:
+        from rapidfuzz import fuzz, process
+        # Build lower-case canon list, but keep mapping to original
+        canon_list = list(canon_set)
+        canon_lower_map = {c.lower(): c for c in canon_list}
+        matches = process.extract(name_lower, list(canon_lower_map.keys()),
+                                  scorer=fuzz.WRatio,
+                                  limit=2, score_cutoff=FUZZY_THRESHOLD)
+        if len(matches) == 1:
+            return canon_lower_map[matches[0][0]]
+        if len(matches) >= 2:
+            if matches[0][1] - matches[1][1] >= 5:
+                return canon_lower_map[matches[0][0]]
+            return None
+        return None
+    except Exception:
+        return None
+
+
+def parse_date(s):
+    if pd.isna(s):
+        return None
+    try:
+        return pd.Timestamp(s)
+    except Exception:
+        return None
+
+
+def validate_odds_value(v):
+    """Return float atau None. Nilai harus numerik, finite, > 1."""
+    if v is None or pd.isna(v):
+        return None
+    try:
+        f = float(v)
+    except (ValueError, TypeError):
+        return None
+    if not math.isfinite(f):
+        return None
+    if f <= 1.0:
+        return None
+    return f
+
+
+def validate_odds_group_1x2(h, d, a):
+    """Return (valid, h, d, a). Semua atau tidak sama sekali."""
+    hh = validate_odds_value(h)
+    dd = validate_odds_value(d)
+    aa = validate_odds_value(a)
+    if hh is None or dd is None or aa is None:
+        return False, None, None, None
+    return True, hh, dd, aa
+
+
+def validate_odds_group_ou(over, under):
+    o = validate_odds_value(over)
+    u = validate_odds_value(under)
+    if o is None or u is None:
+        return False, None, None
+    return True, o, u
+
+
+def implied_1x2(h, d, a):
+    """Normalized implied probabilities. Sum == 1."""
+    ph = 1.0 / h; pd_ = 1.0 / d; pa = 1.0 / a
+    s = ph + pd_ + pa
+    return ph / s, pd_ / s, pa / s
+
+
+def implied_ou(over, under):
+    po = 1.0 / over; pu = 1.0 / under
+    s = po + pu
+    return po / s, pu / s
+
+
+def check_history_status(recon):
+    """Return (insufficient: bool, notes_list)."""
+    notes = []
+    insuff = False
+    h5 = recon.get("home_form5_n_played")
+    a5 = recon.get("away_form5_n_played")
+    h10 = recon.get("home_form10_n_played")
+    a10 = recon.get("away_form10_n_played")
+    try:
+        if h5 is not None and not pd.isna(h5) and h5 < 5:
+            insuff = True; notes.append(f"home_form5_n_played={int(h5)}<5")
+        if a5 is not None and not pd.isna(a5) and a5 < 5:
+            insuff = True; notes.append(f"away_form5_n_played={int(a5)}<5")
+        if h10 is not None and not pd.isna(h10) and h10 < 10:
+            insuff = True; notes.append(f"home_form10_n_played={int(h10)}<10")
+        if a10 is not None and not pd.isna(a10) and a10 < 10:
+            insuff = True; notes.append(f"away_form10_n_played={int(a10)}<10")
+        # Semua form NaN
+        if (pd.isna(h5) or h5 == 0) and (pd.isna(a5) or a5 == 0):
+            insuff = True; notes.append("both_teams_no_history")
+    except Exception as e:
+        notes.append(f"history_check_error:{e}")
+        insuff = True
+    return insuff, notes
+
+
+# ============================================================
+# Predict one match
+# ============================================================
+
+def empty_output(row, status, notes):
+    """Return full schema row dengan NaN / None."""
+    out = {c: None for c in SCHEMA}
+    out["match_id"] = row.get("match_id", "")
+    out["date"] = row.get("date", "")
+    out["home_team"] = row.get("home_team", "")
+    out["away_team"] = row.get("away_team", "")
+    out["league_name"] = row.get("league_name", "")
+    out["data_status"] = status
+    out["notes"] = "; ".join(notes) if notes else ""
+    out["warning_insufficient_history"] = False
+    out["used_odds_input"] = "none"
+    return out
+
+
+def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set):
+    """Predict satu match. Return dict matching SCHEMA."""
+    # Extract input
+    raw_home = row.get("home_team", "")
+    raw_away = row.get("away_team", "")
+    league = row.get("league_name", "")
+    date_s = row.get("date", "")
+
+    # 1) Date validation
+    md = parse_date(date_s)
+    if md is None:
+        return empty_output(row, "INVALID_DATE", [f"date tidak valid: {date_s!r}"])
+    if md <= CUTOFF_DATE:
+        return empty_output(row, "DATE_NOT_IN_FUTURE",
+                            [f"date {md.date()} <= cutoff {CUTOFF_DATE.date()}"])
+    if md > CUTOFF_DATE + pd.Timedelta(days=365 * 2):
+        # sanity: not more than 2 years ahead
+        return empty_output(row, "DATE_TOO_FAR",
+                            [f"date {md.date()} > cutoff + 2y"])
+
+    # 2) League validation
+    if not isinstance(league, str) or league not in league_set:
+        return empty_output(row, "UNKNOWN_LEAGUE", [f"league {league!r} tidak dikenal"])
+
+    # 3) Team resolution
+    home_c = resolve_team(raw_home, raw_to_canon, canon_set)
+    away_c = resolve_team(raw_away, raw_to_canon, canon_set)
+    if home_c is None:
+        return empty_output(row, "UNKNOWN_TEAM",
+                            [f"home_team {raw_home!r} tidak resolve"])
+    if away_c is None:
+        return empty_output(row, "UNKNOWN_TEAM",
+                            [f"away_team {raw_away!r} tidak resolve"])
+    if home_c == away_c:
+        return empty_output(row, "INVALID_MATCH",
+                            [f"home==away: {home_c}"])
+
+    # 4) Reconstruct features (point-in-time, cutoff ketat)
+    try:
+        recon = reconstruct(md, home_c, away_c, league)
+    except Exception as e:
+        return empty_output(row, "RECONSTRUCT_FAILED", [f"reconstruct: {e}"])
+
+    # 5) History sufficiency (warning, tapi tetap predict)
+    insuff, hist_notes = check_history_status(recon)
+
+    # 6) Odds: hybrid
+    odds_1x2_ok, oh, od, oa = validate_odds_group_1x2(
+        row.get("odds_home"), row.get("odds_draw"), row.get("odds_away"))
+    odds_ou_ok, oo, ou_ = validate_odds_group_ou(
+        row.get("odds_over25"), row.get("odds_under25"))
+
+    odds_notes = []
+    if odds_1x2_ok:
+        impl_h, impl_d, impl_a = implied_1x2(oh, od, oa)
+        recon["odds_pH"] = impl_h
+        recon["odds_pD"] = impl_d
+        recon["odds_pA"] = impl_a
+    else:
+        recon["odds_pH"] = np.nan
+        recon["odds_pD"] = np.nan
+        recon["odds_pA"] = np.nan
+        has_any = any(not pd.isna(row.get(k)) for k in ["odds_home", "odds_draw", "odds_away"])
+        if has_any:
+            odds_notes.append("1x2 odds incomplete/invalid → NaN")
+
+    if odds_ou_ok:
+        impl_over, impl_under = implied_ou(oo, ou_)
+        recon["odds_pOver25"] = impl_over
+    else:
+        recon["odds_pOver25"] = np.nan
+        has_any = any(not pd.isna(row.get(k)) for k in ["odds_over25", "odds_under25"])
+        if has_any:
+            odds_notes.append("ou25 odds incomplete/invalid → NaN")
+
+    # used_odds_input
+    if odds_1x2_ok and odds_ou_ok:
+        used = "both"
+    elif odds_1x2_ok:
+        used = "1x2"
+    elif odds_ou_ok:
+        used = "ou25"
+    else:
+        used = "none"
+
+    # 7) Build X in correct order
+    try:
+        X = np.array([[recon[c] for c in feat_cols]], dtype=float)
+    except Exception as e:
+        return empty_output(row, "FEATURE_BUILD_FAILED", [f"X build: {e}"])
+    if X.shape != (1, len(feat_cols)):
+        return empty_output(row, "FEATURE_BUILD_FAILED",
+                            [f"X shape {X.shape} != (1,{len(feat_cols)})"])
+
+    # 8) Predict
+    try:
+        p_1x2 = models["1x2"].predict(X)[0]  # (3,)
+        p_ou25_over = float(models["ou25"].predict(X)[0])
+        p_home_ou05 = float(models["home_ou05"].predict(X)[0])
+        p_home_ou15 = float(models["home_ou15"].predict(X)[0])
+        p_away_ou05 = float(models["away_ou05"].predict(X)[0])
+        p_away_ou15 = float(models["away_ou15"].predict(X)[0])
+    except Exception as e:
+        return empty_output(row, "MODEL_PREDICT_FAILED", [f"predict: {e}"])
+
+    # 9) Validate output
+    p_1x2 = np.clip(p_1x2, 0.0, 1.0)
+    p_1x2 = p_1x2 / p_1x2.sum() if p_1x2.sum() > 0 else np.array([1/3, 1/3, 1/3])
+    probs_list = [p_ou25_over, p_home_ou05, p_home_ou15, p_away_ou05, p_away_ou15]
+    probs_list = [min(max(p, 0.0), 1.0) for p in probs_list]
+    p_ou25_over, p_home_ou05, p_home_ou15, p_away_ou05, p_away_ou15 = probs_list
+
+    # Status final
+    all_notes = hist_notes + odds_notes
+    status = "OK_WITH_WARNING" if insuff else "OK"
+
+    # Predicted labels
+    pred_1x2 = ["H", "D", "A"][int(np.argmax(p_1x2))]
+    pred_ou25 = "Over" if p_ou25_over >= 0.5 else "Under"
+    pred_home_ou05 = "Over" if p_home_ou05 >= 0.5 else "Under"
+    pred_home_ou15 = "Over" if p_home_ou15 >= 0.5 else "Under"
+    pred_away_ou05 = "Over" if p_away_ou05 >= 0.5 else "Under"
+    pred_away_ou15 = "Over" if p_away_ou15 >= 0.5 else "Under"
+
+    # Value metrics (null jika odds tidak lengkap untuk grupnya)
+    value_1x2_H = value_1x2_D = value_1x2_A = None
+    impl_h = impl_d = impl_a = None
+    if odds_1x2_ok:
+        impl_h, impl_d, impl_a = implied_1x2(oh, od, oa)
+        value_1x2_H = float(p_1x2[0]) * oh
+        value_1x2_D = float(p_1x2[1]) * od
+        value_1x2_A = float(p_1x2[2]) * oa
+
+    value_ou25_over = value_ou25_under = None
+    impl_over = impl_under = None
+    if odds_ou_ok:
+        impl_over, impl_under = implied_ou(oo, ou_)
+        value_ou25_over = p_ou25_over * oo
+        value_ou25_under = (1 - p_ou25_over) * ou_
+
+    # match_id
+    mid = row.get("match_id")
+    if mid is None or (isinstance(mid, float) and pd.isna(mid)) or str(mid).strip() == "":
+        s = f"{md.date()}|{home_c}|{away_c}|{league}"
+        mid = hashlib.sha256(s.encode()).hexdigest()[:12]
+
+    return {
+        "match_id": mid,
+        "date": str(md.date()),
+        "home_team": raw_home,
+        "away_team": raw_away,
+        "league_name": league,
+        "data_status": status,
+        "notes": "; ".join(all_notes),
+        "warning_insufficient_history": bool(insuff),
+        "p_H": float(p_1x2[0]),
+        "p_D": float(p_1x2[1]),
+        "p_A": float(p_1x2[2]),
+        "pred_1x2": pred_1x2,
+        "p_over25": p_ou25_over,
+        "p_under25": 1.0 - p_ou25_over,
+        "pred_ou25": pred_ou25,
+        "p_home_over05": p_home_ou05,
+        "pred_home_ou05": pred_home_ou05,
+        "p_home_over15": p_home_ou15,
+        "pred_home_ou15": pred_home_ou15,
+        "p_away_over05": p_away_ou05,
+        "pred_away_ou05": pred_away_ou05,
+        "p_away_over15": p_away_ou15,
+        "pred_away_ou15": pred_away_ou15,
+        "odds_home": oh if odds_1x2_ok else None,
+        "odds_draw": od if odds_1x2_ok else None,
+        "odds_away": oa if odds_1x2_ok else None,
+        "implied_H": impl_h,
+        "implied_D": impl_d,
+        "implied_A": impl_a,
+        "value_1x2_H": value_1x2_H,
+        "value_1x2_D": value_1x2_D,
+        "value_1x2_A": value_1x2_A,
+        "odds_over25": oo if odds_ou_ok else None,
+        "odds_under25": ou_ if odds_ou_ok else None,
+        "implied_over25": impl_over,
+        "implied_under25": impl_under,
+        "value_ou25_over": value_ou25_over,
+        "value_ou25_under": value_ou25_under,
+        "used_odds_input": used,
+    }
+
+
+# ============================================================
+# Main
+# ============================================================
+
+def main():
+    parser = argparse.ArgumentParser(description="Predict football matches (Mode B)")
+    parser.add_argument("--input", required=True, help="Input CSV (date, home_team, away_team, league_name, [odds_*])")
+    parser.add_argument("--output-dir", default=str(PREDICTIONS), help="Output directory")
+    args = parser.parse_args()
+
+    out_dir = Path(args.output_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    print(f"=== START predict ===")
+    print(f"Input: {args.input}")
+    print(f"Output dir: {out_dir}")
+
+    # Load resources
+    print("Loading models...")
+    models = load_models()
+    print(f"  {len(models)} models loaded")
+    print("Loading team map & league set...")
+    raw_to_canon, canon_set = load_team_map()
+    league_set = load_league_set()
+    feat_cols = load_feat_cols()
+    print(f"  Teams: {len(canon_set)}, Leagues: {len(league_set)}, Feat cols: {len(feat_cols)}")
+
+    # Read input
+    if not Path(args.input).exists():
+        print(f"FATAL: input tidak ada: {args.input}")
+        sys.exit(1)
+    df_in = pd.read_csv(args.input)
+    print(f"Input rows: {len(df_in)}")
+
+    # Validate required columns
+    required = {"date", "home_team", "away_team", "league_name"}
+    if not required.issubset(df_in.columns):
+        missing = required - set(df_in.columns)
+        print(f"FATAL: kolom wajib missing: {missing}")
+        sys.exit(1)
+
+    # Dedupe by (date, home_team, away_team, league_name)
+    keys = ["date", "home_team", "away_team", "league_name"]
+    dup_mask = df_in.duplicated(subset=keys, keep="first")
+    n_dup = int(dup_mask.sum())
+    if n_dup > 0:
+        print(f"WARNING: {n_dup} duplicate rows, keeping first")
+    df_in = df_in[~dup_mask].reset_index(drop=True)
+    print(f"After dedupe: {len(df_in)} rows")
+
+    # Predict
+    results = []
+    for i, row in df_in.iterrows():
+        try:
+            r = predict_one(row.to_dict(), models, feat_cols,
+                            raw_to_canon, canon_set, league_set)
+        except Exception as e:
+            r = empty_output(row.to_dict(), "UNEXPECTED_ERROR", [str(e)])
+        results.append(r)
+
+    # Write output
+    df_out = pd.DataFrame(results, columns=SCHEMA)
+    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+    out_path = out_dir / f"predictions_{ts}.csv"
+    df_out.to_csv(out_path, index=False)
+    print(f"\nSaved: {out_path}")
+    print(f"Rows: {len(df_out)}, Columns: {len(df_out.columns)}")
+
+    # Summary
+    print("\n=== STATUS SUMMARY ===")
+    print(df_out["data_status"].value_counts().to_string())
+    print("\n=== used_odds_input SUMMARY ===")
+    print(df_out["used_odds_input"].value_counts().to_string())
+    print("\n=== DONE ===")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,19 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2023-08-05,B1,Belgium-JPL,2324,Oud-Heverlee Leuven,RWD Molenbeek,1.0,2.0,A,1.0,1.0,D,1.75,4.0,4.2,1.82,4.01,4.23,1.78,3.87,4.1,1.67,2.15,1.66,2.18,-0.75,2.0,1.85,Oud-Heverlee Leuven,RWD Molenbeek,oud_heverlee_leuven,rwd_molenbeek
+2023-08-20,B1,Belgium-JPL,2324,Club Brugge,RWD Molenbeek,7.0,1.0,H,2.0,1.0,H,1.29,5.75,9.5,1.29,5.77,9.29,1.28,5.78,9.33,1.44,2.7,1.44,2.69,-1.5,1.8,2.05,Club Brugge,RWD Molenbeek,club_brugge,rwd_molenbeek
+2023-09-02,B1,Belgium-JPL,2324,Standard,RWD Molenbeek,1.0,1.0,D,1.0,1.0,D,1.95,3.6,3.6,2.07,3.56,3.7,2.01,3.63,3.51,1.7,2.1,1.71,2.12,-0.5,2.03,1.83,Standard Liege,RWD Molenbeek,standard_liege,rwd_molenbeek
+2023-09-23,B1,Belgium-JPL,2324,Antwerp,RWD Molenbeek,0.0,0.0,D,0.0,0.0,D,1.3,5.0,9.0,1.33,5.63,8.62,1.32,5.33,8.56,1.53,2.4,1.56,2.4,-1.5,1.95,1.9,Royal Antwerp,RWD Molenbeek,royal_antwerp,rwd_molenbeek
+2023-10-06,B1,Belgium-JPL,2324,Charleroi,RWD Molenbeek,2.0,1.0,H,0.0,0.0,D,1.91,3.75,3.75,1.91,3.88,3.95,1.89,3.76,3.75,1.62,2.25,1.64,2.23,-0.5,1.9,1.95,Sporting Charleroi,RWD Molenbeek,sporting_charleroi,rwd_molenbeek
+2023-10-27,B1,Belgium-JPL,2324,St Truiden,RWD Molenbeek,2.0,1.0,H,0.0,0.0,D,1.85,3.6,4.0,1.87,3.78,4.25,1.86,3.7,3.99,1.73,2.08,1.73,2.09,-0.5,1.83,2.03,Sint-Truiden,RWD Molenbeek,sint_truiden,rwd_molenbeek
+2023-11-11,B1,Belgium-JPL,2324,Eupen,RWD Molenbeek,1.0,3.0,A,1.0,1.0,D,2.63,3.4,2.55,2.6,3.62,2.68,2.58,3.5,2.59,1.67,2.15,1.68,2.16,0.0,1.93,1.93,KAS Eupen,RWD Molenbeek,kas_eupen,rwd_molenbeek
+2023-11-26,B1,Belgium-JPL,2324,Anderlecht,RWD Molenbeek,2.0,1.0,H,0.0,1.0,A,1.4,5.0,7.0,1.39,4.87,7.22,1.38,4.89,7.37,1.6,2.3,1.6,2.31,-1.25,1.85,2.0,Anderlecht,RWD Molenbeek,anderlecht,rwd_molenbeek
+2023-12-09,B1,Belgium-JPL,2324,Gent,RWD Molenbeek,4.0,0.0,H,2.0,0.0,H,1.33,5.5,7.0,1.33,6.02,8.28,1.33,5.55,7.76,1.44,2.7,1.42,2.8,-1.5,1.93,1.93,KAA Gent,RWD Molenbeek,kaa_gent,rwd_molenbeek
+2023-12-26,B1,Belgium-JPL,2324,Westerlo,RWD Molenbeek,3.0,0.0,H,1.0,0.0,H,1.85,3.6,4.0,1.88,3.83,4.15,1.87,3.63,3.96,1.75,2.05,1.76,2.04,-0.5,1.85,2.0,KVC Westerlo,RWD Molenbeek,kvc_westerlo,rwd_molenbeek
+2024-01-28,B1,Belgium-JPL,2324,Mechelen,RWD Molenbeek,3.0,1.0,H,0.0,0.0,D,1.67,3.75,5.0,1.72,3.84,4.8,1.69,3.77,4.83,1.93,1.93,1.88,1.91,-0.75,1.93,1.93,KV Mechelen,RWD Molenbeek,kv_mechelen,rwd_molenbeek
+2024-01-31,B1,Belgium-JPL,2324,St. Gilloise,RWD Molenbeek,3.0,2.0,H,2.0,0.0,H,1.2,7.0,12.0,1.19,7.65,13.86,1.18,6.96,13.28,1.44,2.7,1.42,2.78,-2.0,1.95,1.9,St. Gilloise,RWD Molenbeek,st_gilloise,rwd_molenbeek
+2024-02-17,B1,Belgium-JPL,2324,Genk,RWD Molenbeek,3.0,1.0,H,2.0,1.0,H,1.29,6.0,9.5,1.26,6.23,10.85,1.27,5.71,10.09,1.53,2.4,1.53,2.44,-1.75,2.03,1.83,Genk,RWD Molenbeek,genk,rwd_molenbeek
+2024-03-03,B1,Belgium-JPL,2324,Kortrijk,RWD Molenbeek,3.0,2.0,H,1.0,1.0,D,2.4,3.5,2.75,2.48,3.39,2.89,2.44,3.39,2.77,1.95,1.9,1.91,1.88,0.0,1.8,2.05,KV Kortrijk,RWD Molenbeek,kv_kortrijk,rwd_molenbeek
+2024-03-17,B1,Belgium-JPL,2324,Cercle Brugge,RWD Molenbeek,4.0,0.0,H,2.0,0.0,H,1.36,5.25,7.5,1.36,5.3,7.85,1.35,5.16,7.73,1.57,2.35,1.55,2.4,-1.5,2.03,1.83,Cercle Brugge,RWD Molenbeek,cercle_brugge,rwd_molenbeek
+2024-04-06,B1,Belgium-JPL,2324,Charleroi,RWD Molenbeek,0.0,0.0,D,0.0,0.0,D,1.67,3.75,5.0,1.72,3.82,4.99,1.69,3.84,4.79,1.88,1.98,1.84,1.96,-0.75,1.9,1.95,Sporting Charleroi,RWD Molenbeek,sporting_charleroi,rwd_molenbeek
+2024-04-21,B1,Belgium-JPL,2324,Kortrijk,RWD Molenbeek,2.0,4.0,A,1.0,3.0,A,2.1,3.4,3.4,2.08,3.36,3.67,2.07,3.41,3.46,2.0,1.85,1.95,1.83,-0.25,1.8,2.05,KV Kortrijk,RWD Molenbeek,kv_kortrijk,rwd_molenbeek
+2024-05-11,B1,Belgium-JPL,2324,Eupen,RWD Molenbeek,2.0,0.0,H,0.0,0.0,D,3.3,3.8,1.95,3.62,3.71,2.02,3.46,3.68,1.98,1.7,2.1,1.71,2.1,0.5,1.85,2.0,KAS Eupen,RWD Molenbeek,kas_eupen,rwd_molenbeek

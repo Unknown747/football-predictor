@@ -1,0 +1,90 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-09,P1,Portugal-Liga1,2122,Gil Vicente,Boavista,3.0,0.0,H,2.0,0.0,H,2.1,3.1,3.8,2.17,3.2,3.82,2.12,3.14,3.68,2.35,1.57,2.4,1.56,-0.25,1.83,2.07,Gil Vicente,Boavista,gil_vicente,boavista
+2021-08-21,P1,Portugal-Liga1,2122,Gil Vicente,Benfica,0.0,2.0,A,0.0,0.0,D,5.5,4.0,1.55,5.69,4.22,1.6,5.59,4.09,1.56,1.88,1.98,1.85,1.96,1.0,1.86,2.04,Gil Vicente,Benfica,gil_vicente,benfica
+2021-09-12,P1,Portugal-Liga1,2122,Gil Vicente,Vizela,2.0,2.0,D,0.0,1.0,A,1.95,3.3,3.6,2.05,3.53,3.91,2.02,3.37,3.72,2.1,1.7,2.12,1.72,-0.5,2.05,1.85,Gil Vicente,Vizela,gil_vicente,vizela
+2021-09-24,P1,Portugal-Liga1,2122,Gil Vicente,Porto,1.0,2.0,A,1.0,1.0,D,7.5,4.5,1.4,8.47,4.58,1.44,7.88,4.48,1.42,1.85,1.95,1.85,1.95,1.25,1.84,2.06,Gil Vicente,FC Porto,gil_vicente,fc_porto
+2021-10-25,P1,Portugal-Liga1,2122,Gil Vicente,Sp Braga,0.0,1.0,A,0.0,1.0,A,4.0,3.4,1.9,4.08,3.47,1.99,3.84,3.37,1.96,2.0,1.8,2.01,1.78,0.5,1.91,1.99,Gil Vicente,Sp Braga,gil_vicente,sp_braga
+2021-11-05,P1,Portugal-Liga1,2122,Gil Vicente,Arouca,1.0,1.0,D,0.0,1.0,A,1.85,3.4,4.33,1.89,3.58,4.49,1.89,3.42,4.25,2.15,1.66,2.15,1.69,-0.5,1.88,2.02,Gil Vicente,Arouca,gil_vicente,arouca
+2021-12-05,P1,Portugal-Liga1,2122,Gil Vicente,Famalicao,4.0,0.0,H,3.0,0.0,H,2.87,3.0,2.62,2.94,3.1,2.74,2.82,3.11,2.6,2.15,1.66,2.19,1.67,0.0,2.01,1.89,Gil Vicente,Famalicao,gil_vicente,famalicao
+2021-12-18,P1,Portugal-Liga1,2122,Gil Vicente,Sp Lisbon,0.0,3.0,A,0.0,0.0,D,6.0,4.0,1.53,7.2,4.12,1.54,6.4,4.07,1.52,1.95,1.9,1.94,1.87,1.0,1.96,1.94,Gil Vicente,Sp Lisbon,gil_vicente,sp_lisbon
+2022-01-10,P1,Portugal-Liga1,2122,Gil Vicente,Guimaraes,3.0,2.0,H,1.0,0.0,H,2.6,3.1,2.87,2.54,3.38,2.91,2.51,3.22,2.84,2.1,1.7,2.08,1.73,0.0,1.85,2.05,Gil Vicente,Vitoria Guimaraes,gil_vicente,vitoria_guimaraes
+2022-01-23,P1,Portugal-Liga1,2122,Gil Vicente,Portimonense,1.0,0.0,H,0.0,0.0,D,2.0,3.25,3.8,2.01,3.35,4.31,2.03,3.25,3.84,2.35,1.57,2.35,1.58,-0.5,2.03,1.87,Gil Vicente,Portimonense,gil_vicente,portimonense
+2022-02-06,P1,Portugal-Liga1,2122,Gil Vicente,Santa Clara,2.0,2.0,D,1.0,1.0,D,2.0,3.25,3.8,2.03,3.48,4.03,2.0,3.36,3.79,2.15,1.66,2.18,1.68,-0.5,2.01,1.89,Gil Vicente,Santa Clara,gil_vicente,santa_clara
+2022-02-19,P1,Portugal-Liga1,2122,Gil Vicente,Belenenses,2.0,0.0,H,0.0,0.0,D,1.55,3.75,6.5,1.57,4.12,6.63,1.55,3.91,6.24,2.07,1.72,2.08,1.75,-1.0,2.01,1.89,Gil Vicente,Belenenses,gil_vicente,belenenses
+2022-03-04,P1,Portugal-Liga1,2122,Gil Vicente,Estoril,0.0,0.0,D,0.0,0.0,D,1.9,3.5,4.2,1.93,3.5,4.48,1.92,3.41,4.13,2.1,1.7,2.1,1.73,-0.5,1.94,1.96,Gil Vicente,Estoril,gil_vicente,estoril
+2022-03-20,P1,Portugal-Liga1,2122,Gil Vicente,Maritimo,1.0,1.0,D,1.0,1.0,D,1.75,3.4,5.0,1.81,3.68,4.71,1.8,3.51,4.52,2.2,1.65,2.16,1.69,-0.75,2.05,1.85,Gil Vicente,Maritimo,gil_vicente,maritimo
+2022-04-08,P1,Portugal-Liga1,2122,Gil Vicente,Moreirense,1.0,2.0,A,0.0,0.0,D,1.66,3.6,4.5,1.7,3.86,5.41,1.71,3.68,5.0,2.0,1.8,2.03,1.78,-0.75,1.93,1.97,Gil Vicente,Moreirense,gil_vicente,moreirense
+2022-04-23,P1,Portugal-Liga1,2122,Gil Vicente,Pacos Ferreira,1.0,1.0,D,0.0,0.0,D,1.7,3.6,5.0,1.74,3.76,5.31,1.72,3.63,4.96,2.07,1.72,2.04,1.76,-0.75,1.94,1.96,Gil Vicente,Pacos Ferreira,gil_vicente,pacos_ferreira
+2022-05-08,P1,Portugal-Liga1,2122,Gil Vicente,Tondela,3.0,0.0,H,0.0,0.0,D,1.83,3.5,4.33,1.85,3.69,4.61,1.82,3.6,4.29,1.88,1.98,1.86,1.94,-0.5,1.87,2.03,Gil Vicente,Tondela,gil_vicente,tondela
+2022-08-08,P1,Portugal-Liga1,2223,Gil Vicente,Pacos Ferreira,1.0,0.0,H,0.0,0.0,D,1.72,3.4,4.5,1.79,3.52,5.14,1.76,3.5,4.76,2.05,1.75,2.11,1.71,-0.75,1.99,1.91,Gil Vicente,Pacos Ferreira,gil_vicente,pacos_ferreira
+2022-08-22,P1,Portugal-Liga1,2223,Gil Vicente,Famalicao,0.0,0.0,D,0.0,0.0,D,2.2,3.5,3.2,2.27,3.38,3.36,2.21,3.35,3.22,1.98,1.88,1.99,1.81,-0.25,1.96,1.94,Gil Vicente,Famalicao,gil_vicente,famalicao
+2022-09-03,P1,Portugal-Liga1,2223,Gil Vicente,Porto,0.0,2.0,A,0.0,2.0,A,7.0,4.33,1.44,8.1,4.65,1.44,7.1,4.52,1.44,1.7,2.1,1.71,2.13,1.25,1.92,1.98,Gil Vicente,FC Porto,gil_vicente,fc_porto
+2022-09-17,P1,Portugal-Liga1,2223,Gil Vicente,Rio Ave,2.0,2.0,D,0.0,1.0,A,1.95,3.3,3.8,2.03,3.45,4.07,2.01,3.36,3.79,2.1,1.7,2.13,1.7,-0.5,2.03,1.87,Gil Vicente,Rio Ave,gil_vicente,rio_ave
+2022-10-07,P1,Portugal-Liga1,2223,Gil Vicente,Estoril,0.0,1.0,A,0.0,0.0,D,2.1,3.4,3.25,2.25,3.46,3.41,2.17,3.39,3.29,1.98,1.88,1.95,1.85,-0.25,1.93,1.97,Gil Vicente,Estoril,gil_vicente,estoril
+2022-10-30,P1,Portugal-Liga1,2223,Gil Vicente,Sp Braga,0.0,1.0,A,0.0,0.0,D,4.5,3.8,1.72,4.76,3.87,1.78,4.4,3.73,1.75,1.75,2.05,1.78,2.01,0.75,1.9,2.0,Gil Vicente,Sp Braga,gil_vicente,sp_braga
+2022-11-04,P1,Portugal-Liga1,2223,Gil Vicente,Portimonense,1.0,2.0,A,1.0,1.0,D,2.2,3.25,3.2,2.34,3.49,3.19,2.26,3.39,3.11,2.0,1.85,1.98,1.82,-0.25,2.0,1.9,Gil Vicente,Portimonense,gil_vicente,portimonense
+2022-12-29,P1,Portugal-Liga1,2223,Gil Vicente,Santa Clara,1.0,0.0,H,1.0,0.0,H,2.15,3.2,3.5,2.25,3.33,3.54,2.17,3.25,3.45,2.15,1.67,2.17,1.68,-0.25,1.88,2.02,Gil Vicente,Santa Clara,gil_vicente,santa_clara
+2023-01-16,P1,Portugal-Liga1,2223,Gil Vicente,Guimaraes,2.0,1.0,H,1.0,1.0,D,2.4,3.1,2.9,2.53,3.24,3.04,2.46,3.22,2.91,2.05,1.75,2.05,1.76,0.0,1.77,2.14,Gil Vicente,Vitoria Guimaraes,gil_vicente,vitoria_guimaraes
+2023-02-05,P1,Portugal-Liga1,2223,Gil Vicente,Arouca,1.0,1.0,D,1.0,1.0,D,2.2,3.1,3.3,2.31,3.32,3.4,2.25,3.28,3.21,2.08,1.73,2.08,1.75,-0.25,1.93,1.97,Gil Vicente,Arouca,gil_vicente,arouca
+2023-02-17,P1,Portugal-Liga1,2223,Gil Vicente,Vizela,1.0,1.0,D,0.0,0.0,D,2.38,3.4,2.8,2.51,3.44,2.95,2.45,3.4,2.83,1.88,1.98,1.87,1.94,0.0,1.8,2.1,Gil Vicente,Vizela,gil_vicente,vizela
+2023-03-05,P1,Portugal-Liga1,2223,Gil Vicente,Maritimo,2.0,0.0,H,1.0,0.0,H,1.85,3.6,4.0,1.91,3.64,4.33,1.88,3.54,4.08,2.02,1.83,2.01,1.8,-0.5,1.88,2.02,Gil Vicente,Maritimo,gil_vicente,maritimo
+2023-04-05,P1,Portugal-Liga1,2223,Gil Vicente,Sp Lisbon,0.0,0.0,D,0.0,0.0,D,6.0,4.33,1.45,7.53,4.55,1.47,6.85,4.45,1.46,1.73,2.08,1.73,2.1,1.25,1.85,2.05,Gil Vicente,Sp Lisbon,gil_vicente,sp_lisbon
+2023-04-10,P1,Portugal-Liga1,2223,Gil Vicente,Chaves,0.0,0.0,D,0.0,0.0,D,2.0,3.3,4.0,2.04,3.4,4.0,2.02,3.33,3.78,2.1,1.7,2.1,1.71,-0.5,2.03,1.87,Gil Vicente,Chaves,gil_vicente,chaves
+2023-04-29,P1,Portugal-Liga1,2223,Gil Vicente,Benfica,0.0,2.0,A,0.0,0.0,D,8.0,5.5,1.33,9.82,5.63,1.33,9.14,5.46,1.31,1.5,2.5,1.51,2.52,1.5,1.98,1.92,Gil Vicente,Benfica,gil_vicente,benfica
+2023-05-12,P1,Portugal-Liga1,2223,Gil Vicente,Boavista,3.0,1.0,H,1.0,0.0,H,2.3,3.3,2.8,2.43,3.44,3.08,2.37,3.38,2.96,1.98,1.88,1.93,1.86,-0.25,2.09,1.81,Gil Vicente,Boavista,gil_vicente,boavista
+2023-05-27,P1,Portugal-Liga1,2223,Gil Vicente,Casa Pia,1.0,0.0,H,0.0,0.0,D,2.2,3.4,3.2,2.26,3.66,3.2,2.22,3.49,3.13,1.82,2.02,1.83,1.97,-0.25,1.95,1.95,Gil Vicente,Casa Pia,gil_vicente,casa_pia
+2023-08-12,P1,Portugal-Liga1,2324,Gil Vicente,Portimonense,5.0,0.0,H,2.0,0.0,H,1.91,3.2,4.0,2.05,3.38,4.07,2.01,3.35,3.83,2.1,1.7,2.15,1.69,-0.5,2.03,1.87,Gil Vicente,Portimonense,gil_vicente,portimonense
+2023-08-26,P1,Portugal-Liga1,2324,Gil Vicente,Benfica,2.0,3.0,A,0.0,1.0,A,8.0,6.0,1.29,9.93,6.01,1.31,9.69,5.77,1.29,1.53,2.4,1.53,2.49,1.5,2.05,1.85,Gil Vicente,Benfica,gil_vicente,benfica
+2023-09-17,P1,Portugal-Liga1,2324,Gil Vicente,Estoril,5.0,3.0,H,3.0,0.0,H,2.15,3.5,3.2,2.18,3.55,3.49,2.13,3.51,3.31,1.93,1.93,1.89,1.9,-0.25,1.87,2.03,Gil Vicente,Estoril,gil_vicente,estoril
+2023-10-02,P1,Portugal-Liga1,2324,Gil Vicente,Casa Pia,2.0,0.0,H,0.0,0.0,D,2.25,3.2,3.2,2.41,3.34,3.14,2.32,3.32,3.08,2.05,1.8,2.04,1.77,-0.25,2.05,1.85,Gil Vicente,Casa Pia,gil_vicente,casa_pia
+2023-10-28,P1,Portugal-Liga1,2324,Gil Vicente,Sp Braga,3.0,3.0,D,1.0,0.0,H,4.0,3.8,1.8,4.16,4.28,1.8,4.07,4.04,1.79,1.57,2.35,1.58,2.36,0.75,1.88,2.02,Gil Vicente,Sp Braga,gil_vicente,sp_braga
+2023-11-12,P1,Portugal-Liga1,2324,Gil Vicente,Rio Ave,1.0,1.0,D,0.0,0.0,D,2.0,3.6,3.6,2.02,3.64,3.8,2.01,3.53,3.64,1.88,1.98,1.88,1.92,-0.5,2.03,1.87,Gil Vicente,Rio Ave,gil_vicente,rio_ave
+2023-12-11,P1,Portugal-Liga1,2324,Gil Vicente,Moreirense,1.0,1.0,D,1.0,0.0,H,2.88,3.25,2.45,2.87,3.54,2.49,2.83,3.42,2.44,1.98,1.88,1.93,1.86,0.0,2.09,1.81,Gil Vicente,Moreirense,gil_vicente,moreirense
+2023-12-30,P1,Portugal-Liga1,2324,Gil Vicente,Boavista,1.0,0.0,H,0.0,0.0,D,2.2,3.4,3.1,2.29,3.46,3.32,2.24,3.43,3.17,1.95,1.9,1.91,1.9,-0.25,1.99,1.91,Gil Vicente,Boavista,gil_vicente,boavista
+2024-01-14,P1,Portugal-Liga1,2324,Gil Vicente,Estrela,1.0,1.0,D,1.0,0.0,H,2.1,3.3,3.5,2.18,3.57,3.45,2.12,3.49,3.36,1.93,1.93,1.88,1.92,-0.25,1.86,2.04,Gil Vicente,Estrela Amadora,gil_vicente,estrela_amadora
+2024-01-28,P1,Portugal-Liga1,2324,Gil Vicente,Guimaraes,1.0,0.0,H,0.0,0.0,D,3.4,3.4,2.15,3.53,3.37,2.23,3.34,3.37,2.17,2.05,1.75,2.03,1.78,0.25,2.01,1.89,Gil Vicente,Vitoria Guimaraes,gil_vicente,vitoria_guimaraes
+2024-02-13,P1,Portugal-Liga1,2324,Gil Vicente,Vizela,0.0,1.0,A,0.0,1.0,A,2.05,3.5,3.5,2.06,3.52,3.84,2.04,3.47,3.59,1.98,1.88,1.96,1.84,-0.5,2.06,1.84,Gil Vicente,Vizela,gil_vicente,vizela
+2024-02-25,P1,Portugal-Liga1,2324,Gil Vicente,Porto,1.0,1.0,D,0.0,0.0,D,7.5,4.75,1.4,8.22,4.94,1.41,7.7,4.79,1.39,1.7,2.1,1.72,2.11,1.25,1.98,1.92,Gil Vicente,FC Porto,gil_vicente,fc_porto
+2024-03-11,P1,Portugal-Liga1,2324,Gil Vicente,Chaves,0.0,0.0,D,0.0,0.0,D,1.83,3.75,4.2,1.85,3.63,4.6,1.84,3.59,4.26,2.0,1.85,1.94,1.84,-0.5,1.86,2.04,Gil Vicente,Chaves,gil_vicente,chaves
+2024-03-29,P1,Portugal-Liga1,2324,Gil Vicente,Famalicao,1.0,2.0,A,0.0,1.0,A,2.45,3.1,3.2,2.46,3.06,3.33,2.43,3.06,3.17,2.4,1.53,2.4,1.56,-0.25,2.07,1.83,Gil Vicente,Famalicao,gil_vicente,famalicao
+2024-04-12,P1,Portugal-Liga1,2324,Gil Vicente,Sp Lisbon,0.0,4.0,A,0.0,4.0,A,11.0,6.0,1.25,12.04,5.99,1.27,11.23,5.81,1.26,1.6,2.3,1.61,2.3,1.5,2.05,1.85,Gil Vicente,Sp Lisbon,gil_vicente,sp_lisbon
+2024-04-26,P1,Portugal-Liga1,2324,Gil Vicente,Arouca,2.0,2.0,D,0.0,0.0,D,2.5,3.5,2.6,2.62,3.49,2.74,2.55,3.45,2.69,1.8,2.0,1.82,1.99,0.0,1.9,2.0,Gil Vicente,Arouca,gil_vicente,arouca
+2024-05-12,P1,Portugal-Liga1,2324,Gil Vicente,Farense,2.0,0.0,H,2.0,0.0,H,2.0,3.5,3.6,2.09,3.31,3.94,2.06,3.41,3.58,1.83,2.03,1.83,1.97,-0.5,2.07,1.83,Gil Vicente,Farense,gil_vicente,farense
+2024-08-16,P1,Portugal-Liga1,2425,Gil Vicente,AVS,4.0,2.0,H,2.0,2.0,D,2.2,3.25,3.3,2.31,3.35,3.32,2.28,3.3,3.19,2.08,1.73,2.05,1.77,-0.25,1.97,1.93,Gil Vicente,AVS,gil_vicente,avs
+2024-09-01,P1,Portugal-Liga1,2425,Gil Vicente,Sp Braga,0.0,0.0,D,0.0,0.0,D,4.5,3.8,1.73,4.64,3.9,1.72,4.49,3.85,1.74,1.73,2.08,1.75,2.07,0.75,1.91,1.99,Gil Vicente,Sp Braga,gil_vicente,sp_braga
+2024-09-22,P1,Portugal-Liga1,2425,Gil Vicente,Casa Pia,1.0,1.0,D,1.0,0.0,H,2.1,3.1,3.8,2.09,3.19,3.85,2.1,3.18,3.74,2.35,1.57,2.37,1.57,-0.25,1.82,2.08,Gil Vicente,Casa Pia,gil_vicente,casa_pia
+2024-10-05,P1,Portugal-Liga1,2425,Gil Vicente,Estrela,3.0,0.0,H,2.0,0.0,H,1.85,3.5,4.2,1.86,3.48,4.4,1.88,3.48,4.23,2.08,1.73,2.08,1.75,-0.5,1.89,2.01,Gil Vicente,Estrela Amadora,gil_vicente,estrela_amadora
+2024-11-02,P1,Portugal-Liga1,2425,Gil Vicente,Boavista,1.0,2.0,A,0.0,0.0,D,1.67,3.6,5.5,1.65,3.76,5.5,1.67,3.72,5.32,2.1,1.7,2.12,1.72,-0.75,1.91,1.99,Gil Vicente,Boavista,gil_vicente,boavista
+2024-12-07,P1,Portugal-Liga1,2425,Gil Vicente,Nacional,2.0,1.0,H,1.0,0.0,H,2.0,3.3,3.8,2.04,3.4,3.75,2.03,3.4,3.7,2.08,1.73,2.07,1.75,-0.5,2.06,1.84,Gil Vicente,Nacional,gil_vicente,nacional
+2024-12-22,P1,Portugal-Liga1,2425,Gil Vicente,Sp Lisbon,0.0,0.0,D,0.0,0.0,D,7.0,5.25,1.38,7.75,5.41,1.34,7.66,5.1,1.35,1.53,2.4,1.51,2.45,1.5,1.85,2.05,Gil Vicente,Sp Lisbon,gil_vicente,sp_lisbon
+2025-01-06,P1,Portugal-Liga1,2425,Gil Vicente,Rio Ave,1.0,1.0,D,1.0,0.0,H,2.2,3.2,3.4,2.23,3.06,3.63,2.15,3.17,3.47,2.15,1.67,2.15,1.67,-0.25,1.92,1.98,Gil Vicente,Rio Ave,gil_vicente,rio_ave
+2025-01-19,P1,Portugal-Liga1,2425,Gil Vicente,Porto,3.0,1.0,H,1.0,0.0,H,7.5,4.5,1.4,8.19,4.62,1.39,7.93,4.51,1.39,2.0,1.85,1.94,1.84,1.25,1.91,1.99,Gil Vicente,FC Porto,gil_vicente,fc_porto
+2025-02-01,P1,Portugal-Liga1,2425,Gil Vicente,Estoril,1.0,2.0,A,1.0,1.0,D,2.15,3.25,3.4,2.18,3.1,3.71,2.14,3.18,3.55,2.25,1.62,2.21,1.65,-0.25,1.88,2.02,Gil Vicente,Estoril,gil_vicente,estoril
+2025-02-17,P1,Portugal-Liga1,2425,Gil Vicente,Famalicao,0.0,2.0,A,0.0,1.0,A,2.5,3.0,3.0,2.59,2.93,3.11,2.53,2.97,3.02,2.5,1.5,2.53,1.5,0.0,1.79,2.11,Gil Vicente,Famalicao,gil_vicente,famalicao
+2025-03-15,P1,Portugal-Liga1,2425,Gil Vicente,Santa Clara,0.0,1.0,A,0.0,1.0,A,3.0,3.0,2.55,3.05,2.97,2.6,3.01,2.95,2.57,2.88,1.4,2.83,1.41,0.0,2.11,1.79,Gil Vicente,Santa Clara,gil_vicente,santa_clara
+2025-03-28,P1,Portugal-Liga1,2425,Gil Vicente,Benfica,0.0,3.0,A,0.0,1.0,A,7.0,4.75,1.4,8.55,4.78,1.37,7.83,4.74,1.38,1.85,2.0,1.8,2.0,1.25,1.89,1.89,Gil Vicente,Benfica,gil_vicente,benfica
+2025-04-06,P1,Portugal-Liga1,2425,Gil Vicente,Moreirense,0.0,1.0,A,0.0,0.0,D,2.5,3.1,2.9,2.55,3.0,3.08,2.52,3.04,2.96,2.5,1.5,2.51,1.5,0.0,1.8,2.1,Gil Vicente,Moreirense,gil_vicente,moreirense
+2025-04-11,P1,Portugal-Liga1,2425,Gil Vicente,Guimaraes,0.0,1.0,A,0.0,0.0,D,4.2,3.2,1.95,4.42,3.2,2.02,4.12,3.16,2.0,2.35,1.57,2.39,1.57,0.5,1.89,2.01,Gil Vicente,Vitoria Guimaraes,gil_vicente,vitoria_guimaraes
+2025-04-26,P1,Portugal-Liga1,2425,Gil Vicente,Farense,1.0,0.0,H,0.0,0.0,D,2.3,3.1,3.3,2.33,3.1,3.36,2.31,3.12,3.25,2.3,1.6,2.3,1.6,-0.25,1.99,1.91,Gil Vicente,Farense,gil_vicente,farense
+2025-05-10,P1,Portugal-Liga1,2425,Gil Vicente,Arouca,1.0,1.0,D,0.0,0.0,D,2.35,3.25,3.0,2.43,3.14,3.13,2.38,3.21,3.03,2.1,1.7,2.13,1.69,-0.25,2.08,1.82,Gil Vicente,Arouca,gil_vicente,arouca
+2025-08-18,P1,Portugal-Liga1,2526,Gil Vicente,Porto,0.0,2.0,A,0.0,1.0,A,6.0,4.33,1.5,5.96,4.5,1.5,6.33,4.24,1.47,1.93,1.93,1.86,1.86,1.0,1.98,1.88,Gil Vicente,FC Porto,gil_vicente,fc_porto
+2025-08-29,P1,Portugal-Liga1,2526,Gil Vicente,Moreirense,2.0,0.0,H,0.0,0.0,D,2.55,2.82,3.1,2.64,2.92,3.22,2.51,2.79,3.13,3.1,1.36,2.99,1.35,-0.25,2.1,1.7,Gil Vicente,Moreirense,gil_vicente,moreirense
+2025-09-21,P1,Portugal-Liga1,2526,Gil Vicente,Estoril,2.0,0.0,H,1.0,0.0,H,2.2,3.2,3.3,2.27,3.15,3.44,2.27,3.16,3.13,2.3,1.6,2.22,1.59,-0.25,1.93,1.93,Gil Vicente,Estoril,gil_vicente,estoril
+2025-10-04,P1,Portugal-Liga1,2526,Gil Vicente,Estrela,2.0,0.0,H,2.0,0.0,H,1.61,3.75,5.25,1.64,3.78,5.52,1.65,3.54,5.38,2.2,1.65,2.23,1.59,-0.75,1.85,2.0,Gil Vicente,Estrela Amadora,gil_vicente,estrela_amadora
+2025-11-03,P1,Portugal-Liga1,2526,Gil Vicente,Santa Clara,1.0,0.0,H,1.0,0.0,H,2.25,2.95,3.4,2.36,3.0,3.41,2.32,3.0,3.23,2.7,1.44,2.62,1.44,-0.25,2.0,1.85,Gil Vicente,Santa Clara,gil_vicente,santa_clara
+2025-11-29,P1,Portugal-Liga1,2526,Gil Vicente,Tondela,0.0,1.0,A,0.0,1.0,A,1.61,3.5,5.75,1.62,3.76,5.85,1.61,3.65,5.57,2.15,1.67,2.08,1.67,-0.75,1.85,2.0,Gil Vicente,Tondela,gil_vicente,tondela
+2025-12-20,P1,Portugal-Liga1,2526,Gil Vicente,Rio Ave,2.0,2.0,D,1.0,1.0,D,1.68,3.5,5.0,1.73,3.6,5.03,1.71,3.53,4.8,2.1,1.7,2.07,1.67,-0.75,1.98,1.88,Gil Vicente,Rio Ave,gil_vicente,rio_ave
+2026-01-02,P1,Portugal-Liga1,2526,Gil Vicente,Sp Lisbon,1.0,1.0,D,0.0,1.0,A,7.0,4.1,1.42,7.3,4.62,1.46,7.03,4.25,1.43,1.85,1.95,1.84,1.86,1.25,1.8,2.05,Gil Vicente,Sp Lisbon,gil_vicente,sp_lisbon
+2026-01-17,P1,Portugal-Liga1,2526,Gil Vicente,Nacional,2.0,1.0,H,1.0,1.0,D,1.61,3.6,5.5,,,,1.62,3.68,5.3,2.0,1.8,2.0,1.73,-0.75,1.85,2.0,Gil Vicente,Nacional,gil_vicente,nacional
+2026-02-01,P1,Portugal-Liga1,2526,Gil Vicente,Famalicao,5.0,0.0,H,1.0,0.0,H,2.65,3.1,2.65,,,,2.64,3.06,2.69,2.3,1.6,2.21,1.6,0.0,1.93,1.93,Gil Vicente,Famalicao,gil_vicente,famalicao
+2026-02-14,P1,Portugal-Liga1,2526,Gil Vicente,Sp Braga,2.0,1.0,H,0.0,1.0,A,3.6,3.25,2.05,,,,3.51,3.21,2.06,2.2,1.65,2.16,1.63,0.25,2.03,1.83,Gil Vicente,Sp Braga,gil_vicente,sp_braga
+2026-03-02,P1,Portugal-Liga1,2526,Gil Vicente,Benfica,1.0,2.0,A,0.0,1.0,A,6.0,3.6,1.56,,,,5.66,3.69,1.56,2.05,1.75,2.0,1.73,1.0,1.78,2.1,Gil Vicente,Benfica,gil_vicente,benfica
+2026-03-14,P1,Portugal-Liga1,2526,Gil Vicente,Alverca,2.0,2.0,D,1.0,0.0,H,1.66,3.7,5.25,,,,1.65,3.6,5.05,2.1,1.7,2.01,1.72,-0.75,1.93,1.93,Gil Vicente,Alverca,gil_vicente,alverca
+2026-04-03,P1,Portugal-Liga1,2526,Gil Vicente,AVS,3.0,0.0,H,2.0,0.0,H,1.3,4.5,10.0,,,,1.33,4.62,8.66,1.85,1.95,1.78,1.96,-1.25,1.8,2.05,Gil Vicente,AVS,gil_vicente,avs
+2026-04-18,P1,Portugal-Liga1,2526,Gil Vicente,Guimaraes,0.0,1.0,A,0.0,0.0,D,2.1,3.2,3.5,,,,2.11,3.22,3.34,2.1,1.7,2.06,1.69,-0.25,1.85,2.0,Gil Vicente,Vitoria Guimaraes,gil_vicente,vitoria_guimaraes
+2026-04-27,P1,Portugal-Liga1,2526,Gil Vicente,Casa Pia,2.0,1.0,H,1.0,1.0,D,1.51,3.9,5.75,,,,1.54,3.75,5.72,2.05,1.8,1.96,1.75,-1.0,2.0,1.85,Gil Vicente,Casa Pia,gil_vicente,casa_pia
+2026-05-11,P1,Portugal-Liga1,2526,Gil Vicente,Arouca,1.0,3.0,A,0.0,0.0,D,1.66,3.8,4.75,,,,1.69,3.67,4.55,1.83,2.03,1.8,1.91,-0.75,1.93,1.93,Gil Vicente,Arouca,gil_vicente,arouca
+2026-08-09,P1,Portugal-Liga1,2627,Gil Vicente,Rio Ave,1.0,0.0,H,0.0,0.0,D,1.91,3.5,3.8,,,,1.93,3.43,3.74,1.98,1.88,1.92,1.81,-0.5,1.98,1.88,Gil Vicente,Rio Ave,gil_vicente,rio_ave
+2026-08-24,P1,Portugal-Liga1,2627,Gil Vicente,Casa Pia,2.0,0.0,H,2.0,0.0,H,1.66,3.5,5.25,,,,1.68,3.43,5.08,2.3,1.6,2.25,1.58,-0.75,1.95,1.9,Gil Vicente,Casa Pia,gil_vicente,casa_pia
+2026-09-06,P1,Portugal-Liga1,2627,Gil Vicente,Academico Viseu,0.0,1.0,A,0.0,1.0,A,1.86,3.3,4.2,,,,1.88,3.39,3.94,2.08,1.73,2.04,1.71,-0.5,1.93,1.93,Gil Vicente,Academico Viseu,gil_vicente,academico_viseu
+2026-09-19,P1,Portugal-Liga1,2627,Gil Vicente,Maritimo,1.0,1.0,D,1.0,0.0,H,1.86,3.4,4.0,,,,1.95,3.27,3.84,2.25,1.62,2.23,1.6,-0.5,1.95,1.9,Gil Vicente,Maritimo,gil_vicente,maritimo

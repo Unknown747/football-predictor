@@ -1,0 +1,6 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2026-08-16,T1,Turkey-SL,2627,Amedspor,Erzurumspor,3.0,0.0,H,0.0,0.0,D,2.2,3.4,3.1,,,,2.26,3.41,2.86,1.8,2.0,1.78,1.95,-0.25,1.98,1.83,Amedspor,Erzurumspor,amedspor,erzurumspor
+2026-08-31,T1,Turkey-SL,2627,Amedspor,Trabzonspor,2.0,1.0,H,1.0,1.0,D,3.6,3.8,1.86,,,,3.39,3.58,1.93,1.7,2.1,1.67,2.1,0.5,1.85,1.95,Amedspor,Trabzonspor,amedspor,trabzonspor
+2026-09-13,T1,Turkey-SL,2627,Amedspor,Buyuksehyr,5.0,0.0,H,1.0,0.0,H,2.45,3.4,2.55,,,,2.49,3.38,2.55,1.8,2.0,1.78,1.95,0.0,1.85,1.95,Amedspor,Buyuksehyr,amedspor,buyuksehyr
+2026-09-20,T1,Turkey-SL,2627,Amedspor,Besiktas,3.0,2.0,H,2.0,0.0,H,3.9,3.6,1.79,,,,3.82,3.71,1.79,1.67,2.15,1.63,2.18,0.5,1.98,1.83,Amedspor,Besiktas,amedspor,besiktas
+2026-10-17,T1,Turkey-SL,2627,Amedspor,Konyaspor,1.0,0.0,H,0.0,0.0,D,1.76,3.4,4.1,,,,1.89,3.44,3.77,1.93,1.88,1.86,1.84,-0.5,1.9,1.9,Amedspor,Konyaspor,amedspor,konyaspor

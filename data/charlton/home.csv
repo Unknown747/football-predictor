@@ -1,0 +1,121 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E2,England-L1,2122,Charlton,Sheffield Weds,0.0,0.0,D,0.0,0.0,D,2.5,3.25,2.8,2.58,3.25,2.92,2.52,3.18,2.81,2.15,1.66,2.17,1.67,0.0,1.83,2.02,Charlton,Sheffield Wednesday,charlton,sheffield_wednesday
+2021-08-21,E2,England-L1,2122,Charlton,Wigan,0.0,2.0,A,0.0,0.0,D,2.3,3.4,3.1,2.35,3.42,3.12,2.3,3.35,3.03,2.0,1.8,1.99,1.81,-0.25,2.05,1.88,Charlton,Wigan Athletic,charlton,wigan_athletic
+2021-08-28,E2,England-L1,2122,Charlton,Crewe,2.0,0.0,H,2.0,0.0,H,1.8,3.75,4.33,1.83,3.72,4.46,1.82,3.6,4.29,2.0,1.8,1.97,1.83,-0.5,1.8,2.14,Charlton,Crewe Alexandra,charlton,crewe_alexandra
+2021-09-11,E2,England-L1,2122,Charlton,Cheltenham,1.0,2.0,A,0.0,2.0,A,1.95,3.5,3.8,2.01,3.45,3.87,2.01,3.42,3.69,2.0,1.8,2.01,1.8,-0.5,2.02,1.83,Charlton,Cheltenham Town,charlton,cheltenham_town
+2021-09-25,E2,England-L1,2122,Charlton,Portsmouth,2.0,2.0,D,0.0,1.0,A,2.6,3.3,2.75,2.62,3.3,2.79,2.57,3.25,2.74,2.1,1.7,2.12,1.7,0.0,1.88,1.98,Charlton,Portsmouth,charlton,portsmouth
+2021-09-28,E2,England-L1,2122,Charlton,Bolton,1.0,4.0,A,1.0,1.0,D,2.7,3.2,2.7,2.73,3.35,2.72,2.65,3.26,2.64,1.98,1.88,1.94,1.84,0.0,1.93,1.93,Charlton,Bolton,charlton,bolton
+2021-10-19,E2,England-L1,2122,Charlton,Accrington,2.0,3.0,A,1.0,1.0,D,2.2,3.4,3.3,2.28,3.26,3.47,2.22,3.26,3.28,2.0,1.8,1.97,1.83,-0.25,1.93,1.93,Charlton,Accrington Stanley,charlton,accrington_stanley
+2021-10-30,E2,England-L1,2122,Charlton,Doncaster,4.0,0.0,H,2.0,0.0,H,1.75,3.75,4.75,1.75,3.74,4.76,1.78,3.59,4.39,2.05,1.75,2.02,1.76,-0.75,2.02,1.83,Charlton,Doncaster Rovers,charlton,doncaster_rovers
+2021-11-02,E2,England-L1,2122,Charlton,Rotherham,1.0,1.0,D,0.0,1.0,A,4.0,3.6,1.95,3.98,3.57,1.99,3.73,3.49,1.97,1.95,1.9,1.95,1.84,0.5,1.9,1.95,Charlton,Rotherham United,charlton,rotherham_united
+2021-11-20,E2,England-L1,2122,Charlton,Plymouth,2.0,0.0,H,0.0,0.0,D,2.5,3.4,2.8,2.5,3.44,2.83,2.46,3.39,2.76,1.88,1.98,1.85,1.94,0.0,1.83,2.02,Charlton,Plymouth Argyle,charlton,plymouth_argyle
+2021-12-07,E2,England-L1,2122,Charlton,Ipswich,2.0,0.0,H,1.0,0.0,H,2.5,3.4,2.75,2.43,3.43,3.04,2.45,3.35,2.81,1.85,2.0,1.84,1.95,0.0,1.77,2.1,Charlton,Ipswich,charlton,ipswich
+2021-12-11,E2,England-L1,2122,Charlton,Cambridge,2.0,0.0,H,1.0,0.0,H,1.66,3.75,5.25,1.68,4.02,4.86,1.66,3.9,4.9,1.83,2.02,1.79,2.0,-0.75,1.83,1.98,Charlton,Cambridge United,charlton,cambridge_united
+2022-01-01,E2,England-L1,2122,Charlton,Wycombe,0.0,1.0,A,0.0,1.0,A,2.25,3.4,3.2,2.18,3.56,3.27,2.2,3.39,3.16,1.93,1.93,1.98,1.81,-0.25,1.95,1.9,Charlton,Wycombe Wanderers,charlton,wycombe_wanderers
+2022-01-22,E2,England-L1,2122,Charlton,Fleetwood Town,2.0,0.0,H,0.0,0.0,D,1.75,3.75,4.75,1.74,3.84,4.73,1.76,3.74,4.38,1.85,2.0,1.83,1.95,-0.75,2.0,1.85,Charlton,Fleetwood Town,charlton,fleetwood_town
+2022-02-05,E2,England-L1,2122,Charlton,AFC Wimbledon,3.0,2.0,H,2.0,2.0,D,1.9,3.4,4.2,1.97,3.45,4.04,1.92,3.44,3.97,2.07,1.72,2.04,1.75,-0.5,1.9,1.95,Charlton,AFC Wimbledon,charlton,afc_wimbledon
+2022-02-19,E2,England-L1,2122,Charlton,Oxford,0.0,4.0,A,0.0,2.0,A,2.55,3.25,2.8,2.6,3.5,2.67,2.54,3.37,2.69,1.9,1.95,1.87,1.91,0.0,1.85,2.0,Charlton,Oxford United,charlton,oxford_united
+2022-02-22,E2,England-L1,2122,Charlton,Milton Keynes Dons,0.0,2.0,A,0.0,1.0,A,2.87,3.1,2.55,2.92,3.34,2.56,2.84,3.24,2.48,2.0,1.85,1.96,1.83,0.0,2.05,1.8,Charlton,MK Dons,charlton,mk_dons
+2022-03-05,E2,England-L1,2122,Charlton,Sunderland,0.0,0.0,D,0.0,0.0,D,3.2,3.3,2.3,3.19,3.25,2.37,3.06,3.35,2.29,1.93,1.93,1.9,1.88,0.25,1.85,2.0,Charlton,Sunderland,charlton,sunderland
+2022-03-15,E2,England-L1,2122,Charlton,Gillingham,1.0,0.0,H,1.0,0.0,H,1.75,3.6,4.75,1.8,3.6,4.92,1.78,3.53,4.59,2.07,1.72,2.07,1.73,-0.75,2.02,1.83,Charlton,Gillingham,charlton,gillingham
+2022-03-19,E2,England-L1,2122,Charlton,Burton,2.0,0.0,H,2.0,0.0,H,2.2,3.4,3.3,2.24,3.32,3.38,2.18,3.3,3.31,2.1,1.7,2.07,1.73,-0.25,1.88,1.98,Charlton,Burton Albion,charlton,burton_albion
+2022-04-02,E2,England-L1,2122,Charlton,Lincoln,1.0,2.0,A,0.0,1.0,A,2.1,3.5,3.4,2.1,3.47,3.56,2.07,3.45,3.44,2.05,1.8,1.94,1.83,-0.5,2.05,1.75,Charlton,Lincoln City,charlton,lincoln_city
+2022-04-15,E2,England-L1,2122,Charlton,Morecambe,2.0,3.0,A,0.0,2.0,A,1.8,3.8,4.5,1.81,3.89,4.4,1.81,3.69,4.21,1.93,1.93,1.89,1.89,-0.75,2.02,1.83,Charlton,Morecambe,charlton,morecambe
+2022-04-23,E2,England-L1,2122,Charlton,Shrewsbury,2.0,0.0,H,0.0,0.0,D,2.25,3.3,3.3,2.15,3.32,3.59,2.17,3.23,3.42,2.3,1.6,2.28,1.61,-0.25,1.88,1.98,Charlton,Shrewsbury Town,charlton,shrewsbury_town
+2022-08-06,E2,England-L1,2223,Charlton,Derby,1.0,0.0,H,0.0,0.0,D,2.75,3.2,2.62,2.72,3.27,2.78,2.69,3.19,2.64,2.1,1.7,2.12,1.69,0.0,1.95,1.9,Charlton,Derby,charlton,derby
+2022-08-16,E2,England-L1,2223,Charlton,Plymouth,5.0,1.0,H,3.0,0.0,H,2.3,3.4,3.1,2.34,3.56,3.07,2.29,3.39,3.01,1.95,1.9,1.93,1.85,-0.25,2.0,1.85,Charlton,Plymouth Argyle,charlton,plymouth_argyle
+2022-08-20,E2,England-L1,2223,Charlton,Cambridge,1.0,1.0,D,1.0,0.0,H,1.66,4.0,5.0,1.72,3.88,5.06,1.73,3.73,4.68,2.0,1.85,1.97,1.81,-0.75,1.98,1.88,Charlton,Cambridge United,charlton,cambridge_united
+2022-09-13,E2,England-L1,2223,Charlton,Forest Green,1.0,1.0,D,1.0,1.0,D,1.7,4.0,4.75,1.74,3.93,4.86,1.72,3.8,4.53,1.88,1.98,1.84,1.93,-0.75,1.93,1.93,Charlton,Forest Green Rovers,charlton,forest_green_rovers
+2022-10-01,E2,England-L1,2223,Charlton,Oxford,1.0,1.0,D,0.0,1.0,A,2.2,3.4,3.3,2.2,3.55,3.42,2.16,3.43,3.22,1.98,1.88,1.92,1.85,-0.25,1.88,1.98,Charlton,Oxford United,charlton,oxford_united
+2022-10-11,E2,England-L1,2223,Charlton,Exeter,4.0,2.0,H,2.0,1.0,H,2.4,3.4,2.9,2.41,3.4,3.08,2.37,3.32,2.96,1.85,2.0,1.85,1.93,-0.25,2.05,1.8,Charlton,Exeter City,charlton,exeter_city
+2022-10-17,E2,England-L1,2223,Charlton,Portsmouth,3.0,0.0,H,2.0,0.0,H,2.6,3.4,2.7,2.52,3.48,2.78,2.54,3.32,2.72,1.98,1.88,1.95,1.82,0.0,1.88,1.98,Charlton,Portsmouth,charlton,portsmouth
+2022-10-25,E2,England-L1,2223,Charlton,Milton Keynes Dons,0.0,2.0,A,0.0,0.0,D,1.66,3.8,4.75,1.67,3.95,5.47,1.69,3.75,4.89,1.95,1.9,1.93,1.85,-0.75,1.88,1.98,Charlton,MK Dons,charlton,mk_dons
+2022-10-29,E2,England-L1,2223,Charlton,Ipswich,4.0,4.0,D,0.0,1.0,A,3.8,3.5,1.95,4.23,3.52,1.94,3.78,3.45,1.95,2.0,1.85,1.93,1.84,0.5,1.9,1.95,Charlton,Ipswich,charlton,ipswich
+2022-12-02,E2,England-L1,2223,Charlton,Cheltenham,0.0,1.0,A,0.0,0.0,D,1.7,3.6,5.25,1.75,3.81,4.91,1.72,3.7,4.68,1.9,1.95,1.86,1.9,-0.75,1.95,1.9,Charlton,Cheltenham Town,charlton,cheltenham_town
+2022-12-17,E2,England-L1,2223,Charlton,Bristol Rvs,1.0,2.0,A,1.0,0.0,H,2.2,3.5,3.25,2.25,3.44,3.34,2.2,3.42,3.16,1.88,1.98,1.84,1.93,-0.25,1.93,1.93,Charlton,Bristol Rvs,charlton,bristol_rvs
+2022-12-26,E2,England-L1,2223,Charlton,Peterboro,1.0,1.0,D,0.0,0.0,D,2.63,3.4,2.63,2.63,3.39,2.71,2.57,3.34,2.63,1.95,1.9,1.9,1.86,0.0,1.93,1.93,Charlton,Peterborough United,charlton,peterborough_united
+2023-01-07,E2,England-L1,2223,Charlton,Lincoln,2.0,1.0,H,2.0,0.0,H,1.95,3.4,4.0,1.92,3.39,4.35,1.93,3.38,3.97,2.05,1.75,2.05,1.74,-0.5,1.95,1.9,Charlton,Lincoln City,charlton,lincoln_city
+2023-01-14,E2,England-L1,2223,Charlton,Barnsley,2.0,0.0,H,1.0,0.0,H,2.7,3.4,2.6,2.7,3.4,2.64,2.67,3.35,2.55,1.93,1.93,1.91,1.86,0.0,1.98,1.88,Charlton,Barnsley,charlton,barnsley
+2023-01-28,E2,England-L1,2223,Charlton,Bolton,1.0,2.0,A,0.0,1.0,A,2.7,3.2,2.75,2.72,3.33,2.74,2.62,3.26,2.64,2.02,1.83,1.98,1.8,0.0,1.93,1.93,Charlton,Bolton,charlton,bolton
+2023-02-11,E2,England-L1,2223,Charlton,Fleetwood Town,1.0,2.0,A,1.0,1.0,D,1.91,3.5,4.2,1.89,3.78,4.13,1.92,3.61,3.78,1.83,2.02,1.82,1.95,-0.5,1.9,1.95,Charlton,Fleetwood Town,charlton,fleetwood_town
+2023-02-25,E2,England-L1,2223,Charlton,Sheffield Weds,0.0,1.0,A,0.0,1.0,A,3.8,3.5,1.95,3.95,3.64,1.97,3.74,3.5,1.96,1.98,1.88,1.92,1.86,0.5,1.9,1.95,Charlton,Sheffield Wednesday,charlton,sheffield_wednesday
+2023-03-11,E2,England-L1,2223,Charlton,Accrington,1.0,1.0,D,1.0,1.0,D,1.7,3.6,5.25,1.79,3.81,4.64,1.73,3.7,4.61,1.93,1.93,1.89,1.87,-0.75,1.95,1.9,Charlton,Accrington Stanley,charlton,accrington_stanley
+2023-03-25,E2,England-L1,2223,Charlton,Wycombe,1.0,1.0,D,1.0,0.0,H,2.6,3.25,2.7,2.67,3.36,2.77,2.56,3.3,2.7,2.0,1.85,1.99,1.79,0.0,1.77,2.02,Charlton,Wycombe Wanderers,charlton,wycombe_wanderers
+2023-04-01,E2,England-L1,2223,Charlton,Shrewsbury,6.0,0.0,H,3.0,0.0,H,2.25,3.2,3.4,2.29,3.27,3.43,2.21,3.23,3.33,2.15,1.67,2.17,1.66,-0.25,1.9,1.95,Charlton,Shrewsbury Town,charlton,shrewsbury_town
+2023-04-10,E2,England-L1,2223,Charlton,Burton,3.0,2.0,H,2.0,1.0,H,1.91,3.5,4.2,1.96,3.65,3.96,1.93,3.55,3.81,1.9,1.95,1.85,1.92,-0.5,1.93,1.93,Charlton,Burton Albion,charlton,burton_albion
+2023-04-22,E2,England-L1,2223,Charlton,Morecambe,2.0,3.0,A,1.0,1.0,D,1.7,3.8,4.75,1.74,4.01,4.76,1.72,3.79,4.6,1.82,2.02,1.82,1.95,-0.75,1.93,1.93,Charlton,Morecambe,charlton,morecambe
+2023-04-29,E2,England-L1,2223,Charlton,Port Vale,3.0,2.0,H,1.0,0.0,H,2.25,3.3,3.3,2.25,3.3,3.49,2.2,3.25,3.34,2.05,1.75,2.05,1.74,-0.25,1.9,1.95,Charlton,Port Vale,charlton,port_vale
+2023-08-05,E2,England-L1,2324,Charlton,Leyton Orient,1.0,0.0,H,1.0,0.0,H,2.2,3.4,3.3,2.18,3.48,3.49,2.16,3.39,3.28,2.0,1.85,1.95,1.83,-0.25,1.88,1.98,Charlton,Leyton Orient,charlton,leyton_orient
+2023-08-15,E2,England-L1,2324,Charlton,Bristol Rvs,1.0,2.0,A,0.0,0.0,D,2.25,3.4,3.2,2.29,3.46,3.24,2.23,3.42,3.08,1.75,2.05,1.79,2.0,-0.25,1.98,1.88,Charlton,Bristol Rvs,charlton,bristol_rvs
+2023-08-19,E2,England-L1,2324,Charlton,Port Vale,2.0,3.0,A,1.0,0.0,H,1.95,3.6,3.8,1.98,3.71,3.86,1.97,3.5,3.68,1.93,1.93,1.88,1.89,-0.5,1.95,1.9,Charlton,Port Vale,charlton,port_vale
+2023-09-02,E2,England-L1,2324,Charlton,Fleetwood Town,2.0,1.0,H,1.0,1.0,D,2.15,3.4,3.4,2.12,3.8,3.35,2.12,3.59,3.2,1.83,2.03,1.75,2.04,-0.25,1.83,1.98,Charlton,Fleetwood Town,charlton,fleetwood_town
+2023-09-23,E2,England-L1,2324,Charlton,Wycombe,3.0,1.0,H,1.0,0.0,H,2.2,3.4,3.25,2.23,3.6,3.24,2.16,3.51,3.16,1.75,2.05,1.74,2.05,-0.25,1.88,1.98,Charlton,Wycombe Wanderers,charlton,wycombe_wanderers
+2023-10-03,E2,England-L1,2324,Charlton,Exeter,4.0,1.0,H,1.0,1.0,D,2.05,3.6,3.6,2.08,3.65,3.57,2.04,3.56,3.42,1.73,2.08,1.73,2.06,-0.25,1.75,2.05,Charlton,Exeter City,charlton,exeter_city
+2023-10-07,E2,England-L1,2324,Charlton,Blackpool,2.0,2.0,D,0.0,1.0,A,2.38,3.5,2.88,2.38,3.57,3.0,2.33,3.41,2.91,1.9,1.95,1.87,1.89,-0.25,2.03,1.83,Charlton,Blackpool,charlton,blackpool
+2023-10-21,E2,England-L1,2324,Charlton,Reading,4.0,0.0,H,0.0,0.0,D,1.73,4.0,4.5,1.77,4.11,4.38,1.74,3.86,4.26,1.7,2.1,1.7,2.1,-0.75,1.95,1.9,Charlton,Reading,charlton,reading
+2023-10-28,E2,England-L1,2324,Charlton,Bolton,0.0,2.0,A,0.0,2.0,A,2.45,3.5,2.88,2.47,3.61,2.84,2.38,3.5,2.78,1.65,2.2,1.66,2.17,0.0,1.78,2.1,Charlton,Bolton,charlton,bolton
+2023-11-28,E2,England-L1,2324,Charlton,Cheltenham,2.0,1.0,H,1.0,1.0,D,1.53,4.2,6.0,1.53,4.46,6.3,1.51,4.31,5.9,1.7,2.1,1.69,2.12,-1.0,1.85,2.0,Charlton,Cheltenham Town,charlton,cheltenham_town
+2023-12-09,E2,England-L1,2324,Charlton,Cambridge,2.0,2.0,D,0.0,0.0,D,1.62,3.75,5.5,1.64,4.29,5.13,1.63,3.96,4.94,1.83,2.03,1.78,1.99,-0.75,1.8,2.05,Charlton,Cambridge United,charlton,cambridge_united
+2023-12-23,E2,England-L1,2324,Charlton,Burton,1.0,1.0,D,1.0,0.0,H,1.57,4.0,6.0,1.56,4.47,5.82,1.56,4.16,5.44,1.73,2.08,1.71,2.09,-1.0,1.98,1.88,Charlton,Burton Albion,charlton,burton_albion
+2024-01-01,E2,England-L1,2324,Charlton,Oxford,1.0,2.0,A,1.0,1.0,D,2.75,3.4,2.55,2.69,3.62,2.59,2.65,3.48,2.47,1.75,2.05,1.71,2.09,0.0,1.98,1.88,Charlton,Oxford United,charlton,oxford_united
+2024-01-13,E2,England-L1,2324,Charlton,Peterboro,1.0,2.0,A,0.0,1.0,A,3.1,4.0,2.1,3.16,4.24,2.07,3.08,3.92,2.05,1.5,2.5,1.5,2.5,0.25,2.03,1.83,Charlton,Peterborough United,charlton,peterborough_united
+2024-01-23,E2,England-L1,2324,Charlton,Northampton,2.0,3.0,A,2.0,2.0,D,1.91,3.6,4.0,1.91,3.8,4.02,1.88,3.67,3.8,1.75,2.05,1.72,2.07,-0.5,1.88,1.98,Charlton,Northampton Town,charlton,northampton_town
+2024-02-03,E2,England-L1,2324,Charlton,Derby,0.0,1.0,A,0.0,1.0,A,3.75,3.6,1.95,3.73,3.8,1.99,3.52,3.65,1.96,1.7,2.1,1.67,2.15,0.5,1.88,1.98,Charlton,Derby,charlton,derby
+2024-02-13,E2,England-L1,2324,Charlton,Lincoln,1.0,1.0,D,0.0,1.0,A,2.15,3.4,3.3,2.21,3.48,3.4,2.16,3.34,3.26,2.05,1.75,2.05,1.74,-0.25,1.88,1.98,Charlton,Lincoln City,charlton,lincoln_city
+2024-02-24,E2,England-L1,2324,Charlton,Portsmouth,0.0,0.0,D,0.0,0.0,D,4.0,3.6,1.91,4.23,3.96,1.83,3.91,3.7,1.85,1.75,2.05,1.73,2.04,0.5,1.98,1.88,Charlton,Portsmouth,charlton,portsmouth
+2024-03-09,E2,England-L1,2324,Charlton,Carlisle,3.0,2.0,H,1.0,1.0,D,1.55,4.2,5.75,1.56,4.3,6.12,1.54,4.1,5.79,1.85,2.0,1.83,1.94,-1.0,1.93,1.93,Charlton,Carlisle United,charlton,carlisle_united
+2024-04-01,E2,England-L1,2324,Charlton,Stevenage,0.0,0.0,D,0.0,0.0,D,2.75,3.25,2.6,2.83,3.19,2.7,2.72,3.19,2.59,2.15,1.67,2.13,1.68,0.0,1.98,1.88,Charlton,Stevenage,charlton,stevenage
+2024-04-06,E2,England-L1,2324,Charlton,Barnsley,2.0,1.0,H,2.0,1.0,H,2.8,3.4,2.5,2.79,3.51,2.53,2.72,3.51,2.43,1.67,2.15,1.66,2.17,0.0,2.03,1.83,Charlton,Barnsley,charlton,barnsley
+2024-04-09,E2,England-L1,2324,Charlton,Wigan,2.0,2.0,D,1.0,0.0,H,1.91,3.6,4.2,1.91,3.56,4.24,1.91,3.51,3.92,1.88,1.98,1.85,1.92,-0.5,1.93,1.93,Charlton,Wigan Athletic,charlton,wigan_athletic
+2024-04-20,E2,England-L1,2324,Charlton,Shrewsbury,1.0,1.0,D,0.0,1.0,A,1.8,3.6,4.5,1.83,3.5,4.81,1.8,3.54,4.36,2.03,1.83,1.99,1.79,-0.75,2.05,1.8,Charlton,Shrewsbury Town,charlton,shrewsbury_town
+2024-08-17,E2,England-L1,2425,Charlton,Leyton Orient,1.0,0.0,H,0.0,0.0,D,2.1,3.4,3.4,2.08,3.42,3.54,2.05,3.39,3.5,2.03,1.83,1.99,1.79,-0.25,1.83,2.03,Charlton,Leyton Orient,charlton,leyton_orient
+2024-08-24,E2,England-L1,2425,Charlton,Bolton,2.0,0.0,H,1.0,0.0,H,3.0,3.3,2.3,3.05,3.27,2.37,2.96,3.3,2.34,2.08,1.73,2.05,1.74,0.25,1.83,2.03,Charlton,Bolton,charlton,bolton
+2024-09-07,E2,England-L1,2425,Charlton,Rotherham,1.0,1.0,D,0.0,0.0,D,2.25,3.3,3.1,2.29,3.2,3.27,2.26,3.24,3.13,2.05,1.75,2.06,1.73,-0.25,1.98,1.88,Charlton,Rotherham United,charlton,rotherham_united
+2024-09-21,E2,England-L1,2425,Charlton,Blackpool,1.0,2.0,A,0.0,2.0,A,2.3,3.3,3.0,2.34,3.31,3.07,2.32,3.28,2.98,1.95,1.9,1.92,1.85,-0.25,2.05,1.8,Charlton,Blackpool,charlton,blackpool
+2024-10-05,E2,England-L1,2425,Charlton,Birmingham,1.0,0.0,H,0.0,0.0,D,4.0,3.75,1.8,4.44,3.63,1.79,4.16,3.65,1.79,1.83,2.03,1.81,1.96,0.5,2.03,1.83,Charlton,Birmingham,charlton,birmingham
+2024-10-19,E2,England-L1,2425,Charlton,Stockport,1.0,1.0,D,0.0,1.0,A,2.4,3.5,2.7,2.51,3.21,2.89,2.44,3.28,2.8,2.05,1.75,2.04,1.74,0.0,1.74,1.99,Charlton,Stockport County,charlton,stockport_county
+2024-10-26,E2,England-L1,2425,Charlton,Wrexham,2.0,2.0,D,1.0,1.0,D,2.38,3.25,2.88,2.41,3.11,3.15,2.38,3.15,3.02,2.25,1.62,2.27,1.6,-0.25,2.05,1.8,Charlton,Wrexham,charlton,wrexham
+2024-12-03,E2,England-L1,2425,Charlton,Crawley Town,1.0,2.0,A,0.0,1.0,A,1.48,4.33,6.0,1.5,4.47,6.45,1.48,4.34,6.17,1.75,2.05,1.74,2.05,-1.0,1.83,2.03,Charlton,Crawley Town,charlton,crawley_town
+2024-12-14,E2,England-L1,2425,Charlton,Mansfield,0.0,0.0,D,0.0,0.0,D,1.95,3.5,3.6,2.0,3.49,3.68,1.99,3.47,3.58,1.95,1.9,1.94,1.84,-0.5,2.0,1.85,Charlton,Mansfield Town,charlton,mansfield_town
+2024-12-26,E2,England-L1,2425,Charlton,Cambridge,2.0,1.0,H,2.0,0.0,H,1.57,4.0,5.5,1.56,3.94,5.93,1.57,3.88,5.59,2.03,1.83,1.98,1.78,-1.0,2.05,1.8,Charlton,Cambridge United,charlton,cambridge_united
+2024-12-29,E2,England-L1,2425,Charlton,Wycombe,2.0,1.0,H,0.0,0.0,D,2.8,3.4,2.45,2.79,3.21,2.6,2.79,3.27,2.46,2.05,1.75,2.02,1.75,0.0,2.05,1.8,Charlton,Wycombe Wanderers,charlton,wycombe_wanderers
+2025-01-04,E2,England-L1,2425,Charlton,Reading,0.0,0.0,D,0.0,0.0,D,1.73,3.7,4.5,1.74,3.87,4.4,1.75,3.74,4.3,1.88,1.98,1.8,1.95,-0.75,1.98,1.88,Charlton,Reading,charlton,reading
+2025-01-25,E2,England-L1,2425,Charlton,Shrewsbury,1.0,0.0,H,0.0,0.0,D,1.51,3.75,6.25,1.56,4.05,5.69,1.55,3.88,5.86,2.05,1.75,2.06,1.72,-1.0,2.0,1.85,Charlton,Shrewsbury Town,charlton,shrewsbury_town
+2025-01-28,E2,England-L1,2425,Charlton,Bristol Rvs,2.0,0.0,H,2.0,0.0,H,1.5,4.0,6.0,1.53,4.24,6.43,1.52,4.12,5.94,1.88,1.98,1.84,1.95,-1.0,1.9,1.95,Charlton,Bristol Rvs,charlton,bristol_rvs
+2025-02-08,E2,England-L1,2425,Charlton,Stevenage,2.0,0.0,H,1.0,0.0,H,2.05,3.1,3.75,2.14,3.12,3.74,2.09,3.1,3.68,2.5,1.5,2.47,1.5,-0.25,1.78,2.1,Charlton,Stevenage,charlton,stevenage
+2025-02-11,E2,England-L1,2425,Charlton,Peterboro,2.0,1.0,H,0.0,0.0,D,1.62,4.33,4.33,1.65,4.28,4.91,1.63,4.14,4.67,1.6,2.3,1.6,2.29,-0.75,1.83,2.03,Charlton,Peterborough United,charlton,peterborough_united
+2025-02-22,E2,England-L1,2425,Charlton,Exeter,3.0,0.0,H,1.0,0.0,H,1.5,4.2,6.0,1.48,4.34,6.48,1.48,4.19,6.22,1.98,1.88,1.9,1.86,-1.0,1.88,1.98,Charlton,Exeter City,charlton,exeter_city
+2025-03-04,E2,England-L1,2425,Charlton,Barnsley,1.0,0.0,H,1.0,0.0,H,1.75,3.5,4.75,1.81,3.73,4.55,1.78,3.59,4.36,1.98,1.88,1.92,1.85,-0.75,2.03,1.83,Charlton,Barnsley,charlton,barnsley
+2025-03-15,E2,England-L1,2425,Charlton,Wigan,2.0,1.0,H,2.0,0.0,H,1.6,4.0,5.0,1.59,3.71,6.09,1.59,3.68,5.7,2.25,1.62,2.22,1.61,-0.75,1.8,2.05,Charlton,Wigan Athletic,charlton,wigan_athletic
+2025-03-29,E2,England-L1,2425,Charlton,Huddersfield,4.0,0.0,H,2.0,0.0,H,2.1,3.5,3.4,2.21,3.22,3.56,2.12,3.27,3.41,2.08,1.73,2.06,1.73,-0.25,1.83,2.03,Charlton,Huddersfield,charlton,huddersfield
+2025-04-05,E2,England-L1,2425,Charlton,Lincoln,2.0,2.0,D,0.0,1.0,A,1.8,3.5,4.75,1.75,3.49,4.93,1.77,3.45,4.65,2.25,1.62,2.26,1.61,-0.75,2.05,1.8,Charlton,Lincoln City,charlton,lincoln_city
+2025-04-18,E2,England-L1,2425,Charlton,Northampton,2.0,1.0,H,1.0,1.0,D,1.6,3.9,5.5,1.58,3.79,5.97,1.59,3.83,5.57,2.03,1.83,1.95,1.83,-0.75,1.78,2.1,Charlton,Northampton Town,charlton,northampton_town
+2025-05-03,E2,England-L1,2425,Charlton,Burton,3.0,1.0,H,2.0,1.0,H,1.6,3.9,5.25,1.6,3.89,5.25,1.59,3.91,5.28,1.93,1.93,1.89,1.88,-0.75,1.75,2.05,Charlton,Burton Albion,charlton,burton_albion
+2025-08-09,E1,England-Champ,2526,Charlton,Watford,1.0,0.0,H,0.0,0.0,D,2.45,3.3,2.88,2.54,3.15,2.95,2.47,3.24,2.88,2.2,1.67,2.12,1.67,0.0,1.8,2.05,Charlton,Watford,charlton,watford
+2025-08-23,E1,England-Champ,2526,Charlton,Leicester,0.0,1.0,A,0.0,0.0,D,3.3,3.3,2.2,3.39,3.21,2.25,3.35,3.3,2.17,2.1,1.73,2.11,1.68,0.25,1.93,1.93,Charlton,Leicester City,charlton,leicester_city
+2025-09-13,E1,England-Champ,2526,Charlton,Millwall,1.0,1.0,D,1.0,0.0,H,2.4,3.1,3.1,2.49,2.95,3.24,2.41,3.11,3.08,2.5,1.53,2.36,1.55,-0.25,2.1,1.78,Charlton,Millwall,charlton,millwall
+2025-09-27,E1,England-Champ,2526,Charlton,Blackburn,3.0,0.0,H,1.0,0.0,H,2.25,3.25,3.1,2.35,3.17,3.24,2.35,3.19,3.11,2.3,1.62,2.28,1.58,-0.25,2.0,1.85,Charlton,Blackburn,charlton,blackburn
+2025-10-18,E1,England-Champ,2526,Charlton,Sheffield Weds,2.0,1.0,H,2.0,0.0,H,1.62,3.6,5.25,1.63,3.84,5.55,1.66,3.64,5.42,2.1,1.73,2.11,1.68,-0.75,1.9,1.95,Charlton,Sheffield Wednesday,charlton,sheffield_wednesday
+2025-11-01,E1,England-Champ,2526,Charlton,Swansea,1.0,1.0,D,0.0,0.0,D,2.01,3.5,3.5,,,,2.09,3.27,3.61,2.3,1.62,2.22,1.61,-0.25,1.8,2.05,Charlton,Swansea City,charlton,swansea_city
+2025-11-04,E1,England-Champ,2526,Charlton,West Brom,1.0,0.0,H,0.0,0.0,D,2.5,2.95,2.85,,,,2.54,3.08,2.9,2.63,1.5,2.42,1.53,0.0,1.8,2.05,Charlton,West Bromwich Albion,charlton,west_bromwich_albion
+2025-11-22,E1,England-Champ,2526,Charlton,Southampton,1.0,5.0,A,1.0,5.0,A,2.65,3.05,2.65,,,,2.7,3.18,2.65,2.1,1.73,2.12,1.68,0.0,1.93,1.93,Charlton,Southampton,charlton,southampton
+2025-12-09,E1,England-Champ,2526,Charlton,Middlesbrough,1.0,2.0,A,0.0,2.0,A,3.3,3.25,2.1,3.45,3.43,2.21,3.34,3.29,2.17,2.1,1.73,2.06,1.72,0.25,1.98,1.88,Charlton,Middlesbrough,charlton,middlesbrough
+2025-12-20,E1,England-Champ,2526,Charlton,Oxford,1.0,0.0,H,0.0,0.0,D,2.05,3.4,3.5,2.15,3.25,3.6,2.1,3.26,3.53,2.2,1.67,2.17,1.64,-0.25,1.83,2.03,Charlton,Oxford United,charlton,oxford_united
+2026-01-01,E1,England-Champ,2526,Charlton,Coventry,1.0,1.0,D,0.0,1.0,A,3.9,3.5,1.86,3.82,3.68,1.93,3.81,3.52,1.93,1.93,1.93,1.86,1.88,0.5,1.93,1.93,Charlton,Coventry,charlton,coventry
+2026-01-17,E1,England-Champ,2526,Charlton,Sheffield United,1.0,0.0,H,0.0,0.0,D,3.25,3.4,2.1,,,,3.33,3.38,2.13,1.98,1.88,1.92,1.82,0.25,2.0,1.85,Charlton,Sheffield United,charlton,sheffield_united
+2026-01-20,E1,England-Champ,2526,Charlton,Derby,1.0,2.0,A,0.0,1.0,A,2.65,3.0,2.75,,,,2.68,3.01,2.8,2.5,1.53,2.46,1.51,0.0,1.9,1.95,Charlton,Derby,charlton,derby
+2026-02-06,E1,England-Champ,2526,Charlton,QPR,0.0,0.0,D,0.0,0.0,D,2.85,3.0,2.57,,,,2.83,3.04,2.63,2.3,1.62,2.26,1.6,0.0,2.03,1.83,Charlton,Queens Park Rangers,charlton,queens_park_rangers
+2026-02-11,E1,England-Champ,2526,Charlton,Stoke,1.0,0.0,H,0.0,0.0,D,2.57,3.1,2.7,,,,2.69,3.11,2.7,2.3,1.62,2.25,1.6,0.0,1.88,1.98,Charlton,Stoke City,charlton,stoke_city
+2026-02-17,E1,England-Champ,2526,Charlton,Portsmouth,1.0,3.0,A,0.0,2.0,A,2.45,3.1,2.85,,,,2.45,3.1,3.01,2.2,1.67,2.24,1.61,-0.25,2.1,1.78,Charlton,Portsmouth,charlton,portsmouth
+2026-02-28,E1,England-Champ,2526,Charlton,Wrexham,0.0,1.0,A,0.0,1.0,A,3.1,3.3,2.25,,,,3.06,3.23,2.31,2.1,1.73,2.09,1.68,0.25,1.85,2.0,Charlton,Wrexham,charlton,wrexham
+2026-03-07,E1,England-Champ,2526,Charlton,Birmingham,1.0,0.0,H,0.0,0.0,D,3.5,3.3,2.05,,,,3.41,3.35,2.1,2.1,1.73,2.08,1.7,0.25,2.03,1.83,Charlton,Birmingham,charlton,birmingham
+2026-03-21,E1,England-Champ,2526,Charlton,Norwich,0.0,1.0,A,0.0,1.0,A,3.4,3.3,2.1,,,,3.26,3.35,2.16,2.0,1.8,1.94,1.79,0.25,1.98,1.88,Charlton,Norwich City,charlton,norwich_city
+2026-04-03,E1,England-Champ,2526,Charlton,Bristol City,1.0,2.0,A,1.0,1.0,D,2.45,3.2,2.82,,,,2.51,3.2,2.81,2.2,1.67,2.14,1.66,0.0,1.8,2.05,Charlton,Bristol City,charlton,bristol_city
+2026-04-11,E1,England-Champ,2526,Charlton,Preston,1.0,2.0,A,1.0,1.0,D,2.05,3.3,3.5,,,,2.12,3.33,3.38,2.1,1.73,2.05,1.71,-0.25,1.83,2.03,Charlton,Preston,charlton,preston
+2026-04-22,E1,England-Champ,2526,Charlton,Ipswich,1.0,2.0,A,1.0,1.0,D,4.75,3.6,1.71,,,,4.74,3.61,1.73,2.03,1.83,1.92,1.81,0.75,1.85,2.0,Charlton,Ipswich,charlton,ipswich
+2026-04-25,E1,England-Champ,2526,Charlton,Hull,2.0,1.0,H,1.0,1.0,D,2.82,3.2,2.45,,,,2.74,3.29,2.5,2.0,1.85,1.92,1.81,0.0,2.05,1.8,Charlton,Hull City,charlton,hull_city
+2026-08-15,E1,England-Champ,2627,Charlton,Derby,2.0,1.0,H,0.0,1.0,A,2.65,3.2,2.65,,,,2.66,3.23,2.66,2.2,1.67,2.12,1.67,0.0,1.93,1.93,Charlton,Derby,charlton,derby
+2026-08-29,E1,England-Champ,2627,Charlton,Preston,1.0,0.0,H,0.0,0.0,D,2.05,3.3,3.6,,,,2.09,3.28,3.55,2.1,1.73,2.09,1.69,-0.5,2.08,1.73,Charlton,Preston,charlton,preston
+2026-09-09,E1,England-Champ,2627,Charlton,QPR,0.0,0.0,D,0.0,0.0,D,3.2,3.25,2.2,,,,3.09,3.35,2.26,1.98,1.88,1.91,1.82,0.25,1.88,1.98,Charlton,Queens Park Rangers,charlton,queens_park_rangers
+2026-09-12,E1,England-Champ,2627,Charlton,Portsmouth,0.0,0.0,D,0.0,0.0,D,2.7,3.1,2.57,,,,2.72,3.19,2.6,2.2,1.67,2.13,1.66,0.0,2.0,1.85,Charlton,Portsmouth,charlton,portsmouth
+2026-10-10,E1,England-Champ,2627,Charlton,Bristol City,1.0,1.0,D,1.0,1.0,D,3.2,3.2,2.2,,,,3.13,3.29,2.27,2.1,1.73,2.04,1.73,0.25,1.85,2.0,Charlton,Bristol City,charlton,bristol_city

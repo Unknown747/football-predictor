@@ -1,0 +1,103 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,SP1,Spain-LaLiga,2122,Alaves,Real Madrid,1.0,4.0,A,0.0,0.0,D,7.0,4.75,1.44,7.48,4.64,1.48,7.08,4.57,1.46,1.8,2.0,1.76,2.09,1.25,1.85,2.08,Deportivo Alaves,Real Madrid,deportivo_alaves,real_madrid
+2021-08-21,SP1,Spain-LaLiga,2122,Alaves,Mallorca,0.0,1.0,A,0.0,0.0,D,2.25,3.2,3.4,2.32,3.26,3.51,2.3,3.19,3.36,2.5,1.53,2.44,1.56,-0.25,1.99,1.94,Deportivo Alaves,Mallorca,deportivo_alaves,mallorca
+2021-09-18,SP1,Spain-LaLiga,2122,Alaves,Osasuna,0.0,2.0,A,0.0,2.0,A,3.1,3.0,2.55,3.1,3.13,2.63,3.05,3.07,2.57,2.5,1.53,2.53,1.53,0.0,2.13,1.81,Deportivo Alaves,Osasuna,deportivo_alaves,osasuna
+2021-09-25,SP1,Spain-LaLiga,2122,Alaves,Ath Madrid,1.0,0.0,H,1.0,0.0,H,7.5,4.0,1.5,7.51,3.99,1.56,7.13,3.91,1.55,2.2,1.66,2.25,1.67,1.0,1.92,2.01,Deportivo Alaves,Atletico Madrid,deportivo_alaves,atletico_madrid
+2021-10-18,SP1,Spain-LaLiga,2122,Alaves,Betis,0.0,1.0,A,0.0,0.0,D,3.5,3.3,2.15,3.62,3.46,2.19,3.49,3.34,2.17,2.1,1.72,2.13,1.73,0.25,2.04,1.89,Deportivo Alaves,Real Betis,deportivo_alaves,real_betis
+2021-10-26,SP1,Spain-LaLiga,2122,Alaves,Elche,1.0,0.0,H,0.0,0.0,D,2.3,3.0,3.5,2.4,3.04,3.61,2.35,2.99,3.49,2.75,1.44,2.69,1.47,-0.25,2.01,1.92,Deportivo Alaves,Elche,deportivo_alaves,elche
+2021-11-06,SP1,Spain-LaLiga,2122,Alaves,Levante,2.0,1.0,H,0.0,1.0,A,2.5,3.0,3.2,2.51,3.09,3.33,2.49,3.07,3.15,2.37,1.57,2.41,1.58,-0.25,2.11,1.82,Deportivo Alaves,Levante,deportivo_alaves,levante
+2021-11-27,SP1,Spain-LaLiga,2122,Alaves,Celta,1.0,2.0,A,1.0,1.0,D,2.9,3.1,2.55,3.09,3.19,2.6,2.97,3.15,2.56,2.37,1.57,2.34,1.6,0.0,2.13,1.81,Deportivo Alaves,Celta Vigo,deportivo_alaves,celta_vigo
+2021-12-11,SP1,Spain-LaLiga,2122,Alaves,Getafe,1.0,1.0,D,0.0,1.0,A,2.45,2.9,3.2,2.61,2.88,3.43,2.53,2.91,3.28,3.0,1.4,2.88,1.41,-0.25,2.15,1.79,Deportivo Alaves,Getafe,deportivo_alaves,getafe
+2022-01-02,SP1,Spain-LaLiga,2122,Alaves,Sociedad,1.0,1.0,D,0.0,1.0,A,3.5,3.1,2.25,3.58,3.15,2.29,3.42,3.14,2.28,2.5,1.53,2.41,1.58,0.25,1.95,1.95,Deportivo Alaves,Real Sociedad,deportivo_alaves,real_sociedad
+2022-01-09,SP1,Spain-LaLiga,2122,Alaves,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,4.0,3.3,1.95,3.96,3.42,2.04,3.88,3.33,2.03,2.3,1.61,2.3,1.62,0.5,1.88,2.05,Deportivo Alaves,Athletic Bilbao,deportivo_alaves,athletic_bilbao
+2022-01-23,SP1,Spain-LaLiga,2122,Alaves,Barcelona,0.0,1.0,A,0.0,0.0,D,6.0,4.0,1.57,5.85,4.46,1.56,5.83,4.25,1.56,1.8,2.0,1.75,2.09,1.0,1.89,2.01,Deportivo Alaves,Barcelona,deportivo_alaves,barcelona
+2022-02-13,SP1,Spain-LaLiga,2122,Alaves,Valencia,2.0,1.0,H,1.0,0.0,H,2.8,3.2,2.6,2.92,3.33,2.64,2.87,3.26,2.56,2.2,1.66,2.17,1.7,0.0,2.02,1.88,Deportivo Alaves,Valencia,deportivo_alaves,valencia
+2022-03-04,SP1,Spain-LaLiga,2122,Alaves,Sevilla,0.0,0.0,D,0.0,0.0,D,4.5,3.1,1.95,4.74,3.14,2.02,4.48,3.13,2.01,2.62,1.5,2.62,1.49,0.5,1.9,2.0,Deportivo Alaves,Sevilla,deportivo_alaves,sevilla
+2022-03-19,SP1,Spain-LaLiga,2122,Alaves,Granada,2.0,3.0,A,0.0,0.0,D,2.0,3.3,4.0,2.06,3.32,4.22,2.06,3.31,3.92,2.2,1.66,2.23,1.67,-0.5,2.06,1.84,Deportivo Alaves,Granada,deportivo_alaves,granada
+2022-04-16,SP1,Spain-LaLiga,2122,Alaves,Vallecano,1.0,0.0,H,0.0,0.0,D,2.7,3.1,2.8,2.78,3.21,2.85,2.71,3.13,2.81,2.3,1.61,2.32,1.62,0.0,1.9,2.0,Deportivo Alaves,Rayo Vallecano,deportivo_alaves,rayo_vallecano
+2022-04-30,SP1,Spain-LaLiga,2122,Alaves,Villarreal,2.0,1.0,H,2.0,0.0,H,3.4,3.5,2.1,3.56,3.45,2.21,3.47,3.41,2.16,2.02,1.88,1.98,1.84,0.25,2.03,1.87,Deportivo Alaves,Villarreal,deportivo_alaves,villarreal
+2022-05-11,SP1,Spain-LaLiga,2122,Alaves,Espanol,2.0,1.0,H,1.0,1.0,D,2.1,3.4,3.5,2.16,3.6,3.55,2.15,3.49,3.45,2.0,1.8,2.01,1.81,-0.25,1.84,2.06,Deportivo Alaves,Espanyol,deportivo_alaves,espanyol
+2022-05-22,SP1,Spain-LaLiga,2122,Alaves,Cadiz,0.0,1.0,A,0.0,0.0,D,4.2,3.7,1.83,4.25,3.72,1.91,4.2,3.71,1.87,1.93,1.97,1.9,1.91,0.5,2.04,1.86,Deportivo Alaves,Cadiz,deportivo_alaves,cadiz
+2022-08-19,SP2,Spain-Segunda,2223,Alaves,Mirandes,1.0,0.0,H,1.0,0.0,H,1.66,3.75,5.25,1.7,3.74,5.65,1.67,3.64,5.18,2.0,1.85,1.96,1.83,-0.75,1.88,1.98,Deportivo Alaves,Mirandes,deportivo_alaves,mirandes
+2022-09-03,SP2,Spain-Segunda,2223,Alaves,Las Palmas,1.0,1.0,D,1.0,0.0,H,2.2,3.2,3.4,2.24,3.25,3.64,2.21,3.16,3.36,2.1,1.7,2.13,1.7,-0.25,1.9,1.95,Deportivo Alaves,Las Palmas,deportivo_alaves,las_palmas
+2022-09-18,SP2,Spain-Segunda,2223,Alaves,Huesca,2.0,1.0,H,1.0,0.0,H,2.0,3.25,4.2,1.97,3.35,4.25,1.96,3.33,3.9,2.1,1.7,2.16,1.67,-0.5,2.0,1.85,Deportivo Alaves,Huesca,deportivo_alaves,huesca
+2022-10-02,SP2,Spain-Segunda,2223,Alaves,Ponferradina,3.0,1.0,H,2.0,1.0,H,1.9,3.4,4.2,1.94,3.44,4.25,1.95,3.35,3.92,2.1,1.7,2.13,1.69,-0.5,1.95,1.9,Deportivo Alaves,Ponferradina,deportivo_alaves,ponferradina
+2022-10-12,SP2,Spain-Segunda,2223,Alaves,Albacete,0.0,0.0,D,0.0,0.0,D,2.1,3.3,3.6,2.1,3.25,4.0,2.1,3.21,3.62,2.1,1.7,2.17,1.67,-0.25,1.8,2.05,Deportivo Alaves,Albacete,deportivo_alaves,albacete
+2022-10-22,SP2,Spain-Segunda,2223,Alaves,Sp Gijon,0.0,0.0,D,0.0,0.0,D,2.2,3.1,3.75,2.3,3.1,3.64,2.23,3.09,3.43,2.25,1.61,2.27,1.61,-0.25,1.9,1.95,Deportivo Alaves,Sp Gijon,deportivo_alaves,sp_gijon
+2022-10-29,SP2,Spain-Segunda,2223,Alaves,Oviedo,2.0,1.0,H,1.0,0.0,H,2.2,2.9,4.0,2.22,2.93,4.13,2.15,2.95,3.76,2.87,1.4,2.72,1.43,-0.25,1.85,2.0,Deportivo Alaves,Real Oviedo,deportivo_alaves,real_oviedo
+2022-11-04,SP2,Spain-Segunda,2223,Alaves,Zaragoza,1.0,0.0,H,0.0,0.0,D,2.1,3.1,4.0,2.18,2.94,4.27,2.12,2.93,3.97,2.87,1.4,2.78,1.42,-0.25,1.8,2.05,Deportivo Alaves,Zaragoza,deportivo_alaves,zaragoza
+2022-11-26,SP2,Spain-Segunda,2223,Alaves,Villarreal B,2.0,0.0,H,1.0,0.0,H,1.66,3.8,5.25,1.7,3.61,5.82,1.69,3.55,5.2,2.1,1.7,2.13,1.69,-0.75,1.9,1.95,Deportivo Alaves,Villarreal B,deportivo_alaves,villarreal_b
+2022-12-12,SP2,Spain-Segunda,2223,Alaves,Levante,0.0,2.0,A,0.0,2.0,A,2.38,3.0,3.25,2.37,3.08,3.36,2.37,2.99,3.18,2.5,1.5,2.46,1.52,-0.25,2.02,1.83,Deportivo Alaves,Levante,deportivo_alaves,levante
+2023-01-07,SP2,Spain-Segunda,2223,Alaves,Burgos,1.0,0.0,H,0.0,0.0,D,1.83,3.2,4.75,1.87,3.22,5.24,1.85,3.18,4.71,2.6,1.48,2.66,1.47,-0.5,1.85,2.0,Deportivo Alaves,Burgos,deportivo_alaves,burgos
+2023-01-21,SP2,Spain-Segunda,2223,Alaves,Santander,3.0,0.0,H,1.0,0.0,H,2.0,3.1,4.33,2.06,2.97,4.72,2.02,2.97,4.28,2.88,1.4,2.87,1.39,-0.5,2.02,1.83,Deportivo Alaves,Santander,deportivo_alaves,santander
+2023-02-04,SP2,Spain-Segunda,2223,Alaves,Eibar,2.0,0.0,H,0.0,0.0,D,2.38,3.1,3.3,2.48,2.88,3.54,2.38,2.89,3.36,2.88,1.4,2.77,1.42,-0.25,2.0,1.85,Deportivo Alaves,Eibar,deportivo_alaves,eibar
+2023-02-19,SP2,Spain-Segunda,2223,Alaves,Ibiza,4.0,2.0,H,3.0,1.0,H,1.5,3.8,7.5,1.47,3.95,8.46,1.48,3.89,7.48,2.3,1.6,2.32,1.58,-1.0,1.88,1.98,Deportivo Alaves,Ibiza,deportivo_alaves,ibiza
+2023-02-25,SP2,Spain-Segunda,2223,Alaves,Cartagena,0.0,0.0,D,0.0,0.0,D,1.73,3.2,6.0,1.74,3.47,5.84,1.74,3.35,5.25,2.35,1.57,2.4,1.55,-0.75,1.98,1.88,Deportivo Alaves,Cartagena,deportivo_alaves,cartagena
+2023-03-11,SP2,Spain-Segunda,2223,Alaves,Lugo,0.0,0.0,D,0.0,0.0,D,1.44,4.2,8.5,1.38,4.5,10.78,1.39,4.22,9.05,2.25,1.62,2.25,1.62,-1.25,2.0,1.85,Deportivo Alaves,Lugo,deportivo_alaves,lugo
+2023-03-25,SP2,Spain-Segunda,2223,Alaves,Tenerife,1.0,0.0,H,0.0,0.0,D,1.91,3.1,4.5,1.96,2.99,5.2,1.92,2.99,4.73,3.1,1.36,2.96,1.37,-0.5,1.9,1.95,Deportivo Alaves,Tenerife,deportivo_alaves,tenerife
+2023-04-10,SP2,Spain-Segunda,2223,Alaves,Andorra,0.0,0.0,D,0.0,0.0,D,1.73,3.3,6.0,1.69,3.45,5.95,1.7,3.41,5.35,2.4,1.53,2.38,1.55,-0.75,1.93,1.93,Deportivo Alaves,Andorra,deportivo_alaves,andorra
+2023-04-23,SP2,Spain-Segunda,2223,Alaves,Leganes,2.0,1.0,H,1.0,0.0,H,1.73,3.4,5.5,1.71,3.32,6.09,1.71,3.29,5.51,2.7,1.44,2.7,1.44,-0.75,1.98,1.88,Deportivo Alaves,Leganes,deportivo_alaves,leganes
+2023-05-05,SP2,Spain-Segunda,2223,Alaves,Granada,1.0,1.0,D,0.0,1.0,A,2.15,3.0,3.8,2.18,3.17,3.86,2.15,3.06,3.68,2.5,1.5,2.47,1.52,-0.25,1.82,2.02,Deportivo Alaves,Granada,deportivo_alaves,granada
+2023-05-20,SP2,Spain-Segunda,2223,Alaves,Malaga,2.0,1.0,H,0.0,0.0,D,1.67,3.5,6.0,1.71,3.56,5.83,1.67,3.48,5.58,2.4,1.53,2.41,1.55,-0.75,1.9,1.95,Deportivo Alaves,Malaga,deportivo_alaves,malaga
+2023-08-21,SP1,Spain-LaLiga,2324,Alaves,Sevilla,4.0,3.0,H,2.0,2.0,D,3.3,3.1,2.35,3.45,3.1,2.41,3.32,3.06,2.4,2.63,1.5,2.61,1.49,0.25,1.86,2.04,Deportivo Alaves,Sevilla,deportivo_alaves,sevilla
+2023-09-02,SP1,Spain-LaLiga,2324,Alaves,Valencia,1.0,0.0,H,1.0,0.0,H,2.9,2.88,2.75,2.96,2.99,2.82,2.93,2.94,2.77,2.75,1.44,2.76,1.45,0.0,2.02,1.91,Deportivo Alaves,Valencia,deportivo_alaves,valencia
+2023-09-22,SP1,Spain-LaLiga,2324,Alaves,Ath Bilbao,0.0,2.0,A,0.0,1.0,A,4.2,3.0,2.05,4.27,3.16,2.12,4.07,3.14,2.09,2.63,1.5,2.57,1.52,0.5,1.82,2.11,Deportivo Alaves,Athletic Bilbao,deportivo_alaves,athletic_bilbao
+2023-10-01,SP1,Spain-LaLiga,2324,Alaves,Osasuna,0.0,2.0,A,0.0,1.0,A,2.75,3.0,2.8,2.76,2.99,2.89,2.71,3.06,2.87,2.5,1.5,2.56,1.52,0.0,1.88,2.02,Deportivo Alaves,Osasuna,deportivo_alaves,osasuna
+2023-10-08,SP1,Spain-LaLiga,2324,Alaves,Betis,1.0,1.0,D,1.0,1.0,D,2.8,3.25,2.6,2.93,3.2,2.68,2.86,3.18,2.65,2.35,1.57,2.38,1.59,0.0,2.03,1.87,Deportivo Alaves,Real Betis,deportivo_alaves,real_betis
+2023-11-05,SP1,Spain-LaLiga,2324,Alaves,Almeria,1.0,0.0,H,0.0,0.0,D,1.75,3.75,4.75,1.78,3.8,4.75,1.79,3.76,4.63,2.01,1.89,1.96,1.87,-0.75,2.05,1.88,Deportivo Alaves,Almeria,deportivo_alaves,almeria
+2023-11-24,SP1,Spain-LaLiga,2324,Alaves,Granada,3.0,1.0,H,2.0,0.0,H,1.7,3.6,5.0,1.76,3.74,5.15,1.74,3.74,5.05,2.1,1.7,2.05,1.79,-0.75,2.0,1.93,Deportivo Alaves,Granada,deportivo_alaves,granada
+2023-12-09,SP1,Spain-LaLiga,2324,Alaves,Las Palmas,0.0,1.0,A,0.0,1.0,A,2.1,3.0,4.2,2.08,3.16,4.2,2.06,3.17,4.1,2.6,1.48,2.59,1.51,-0.5,2.07,1.83,Deportivo Alaves,Las Palmas,deportivo_alaves,las_palmas
+2023-12-21,SP1,Spain-LaLiga,2324,Alaves,Real Madrid,0.0,1.0,A,0.0,0.0,D,5.75,4.0,1.53,5.93,4.26,1.58,5.78,4.27,1.57,1.75,2.05,1.78,2.07,1.0,1.92,1.98,Deportivo Alaves,Real Madrid,deportivo_alaves,real_madrid
+2024-01-19,SP1,Spain-LaLiga,2324,Alaves,Cadiz,1.0,0.0,H,0.0,0.0,D,1.7,3.5,5.75,1.73,3.51,6.0,1.73,3.45,5.83,2.6,1.48,2.61,1.51,-0.75,1.95,1.95,Deportivo Alaves,Cadiz,deportivo_alaves,cadiz
+2024-02-03,SP1,Spain-LaLiga,2324,Alaves,Barcelona,1.0,3.0,A,0.0,1.0,A,4.33,3.6,1.85,4.31,3.71,1.87,4.18,3.71,1.87,1.89,2.01,1.87,1.97,0.5,2.01,1.89,Deportivo Alaves,Barcelona,deportivo_alaves,barcelona
+2024-02-10,SP1,Spain-LaLiga,2324,Alaves,Villarreal,1.0,1.0,D,1.0,1.0,D,2.2,3.4,3.3,2.24,3.42,3.4,2.21,3.41,3.35,2.06,1.84,2.01,1.82,-0.25,1.93,2.0,Deportivo Alaves,Villarreal,deportivo_alaves,villarreal
+2024-02-24,SP1,Spain-LaLiga,2324,Alaves,Mallorca,1.0,1.0,D,0.0,0.0,D,1.91,3.0,5.0,1.96,3.09,4.98,1.94,3.11,4.8,3.1,1.36,2.93,1.41,-0.5,1.95,1.95,Deportivo Alaves,Mallorca,deportivo_alaves,mallorca
+2024-03-10,SP1,Spain-LaLiga,2324,Alaves,Vallecano,1.0,0.0,H,1.0,0.0,H,2.15,3.1,3.75,2.2,3.1,3.89,2.17,3.15,3.77,2.5,1.5,2.57,1.52,-0.25,1.86,2.07,Deportivo Alaves,Rayo Vallecano,deportivo_alaves,rayo_vallecano
+2024-03-31,SP1,Spain-LaLiga,2324,Alaves,Sociedad,0.0,1.0,A,0.0,0.0,D,3.5,2.9,2.38,3.48,2.98,2.44,3.41,2.96,2.42,2.88,1.4,2.75,1.45,0.25,1.86,2.04,Deportivo Alaves,Real Sociedad,deportivo_alaves,real_sociedad
+2024-04-21,SP1,Spain-LaLiga,2324,Alaves,Ath Madrid,2.0,0.0,H,1.0,0.0,H,4.0,3.5,1.95,4.21,3.4,1.99,4.08,3.43,1.97,2.2,1.67,2.2,1.69,0.5,1.91,1.99,Deportivo Alaves,Atletico Madrid,deportivo_alaves,atletico_madrid
+2024-04-27,SP1,Spain-LaLiga,2324,Alaves,Celta,3.0,0.0,H,0.0,0.0,D,2.75,3.1,2.7,2.7,3.09,2.95,2.66,3.1,2.9,2.38,1.57,2.41,1.59,0.0,1.96,1.94,Deportivo Alaves,Celta Vigo,deportivo_alaves,celta_vigo
+2024-05-10,SP1,Spain-LaLiga,2324,Alaves,Girona,2.0,2.0,D,1.0,2.0,A,3.5,3.6,2.05,3.57,3.63,2.12,3.48,3.57,2.11,1.8,2.0,1.8,2.04,0.25,2.05,1.75,Deportivo Alaves,Girona,deportivo_alaves,girona
+2024-05-18,SP1,Spain-LaLiga,2324,Alaves,Getafe,1.0,0.0,H,1.0,0.0,H,2.0,3.2,4.1,2.07,3.18,4.21,2.07,3.19,4.04,2.5,1.53,2.51,1.54,-0.5,2.07,1.83,Deportivo Alaves,Getafe,deportivo_alaves,getafe
+2024-08-25,SP1,Spain-LaLiga,2425,Alaves,Betis,0.0,0.0,D,0.0,0.0,D,2.38,3.1,3.25,2.44,3.14,3.28,2.4,3.12,3.21,2.38,1.57,2.39,1.59,-0.25,2.05,1.85,Deportivo Alaves,Real Betis,deportivo_alaves,real_betis
+2024-09-01,SP1,Spain-LaLiga,2425,Alaves,Las Palmas,2.0,0.0,H,1.0,0.0,H,1.95,3.4,4.0,1.94,3.38,4.45,1.96,3.35,4.25,2.3,1.62,2.34,1.62,-0.5,1.98,1.92,Deportivo Alaves,Las Palmas,deportivo_alaves,las_palmas
+2024-09-20,SP1,Spain-LaLiga,2425,Alaves,Sevilla,2.0,1.0,H,1.0,0.0,H,2.15,3.1,3.7,2.2,3.3,3.7,2.18,3.26,3.63,2.2,1.67,2.23,1.68,-0.25,1.88,2.05,Deportivo Alaves,Sevilla,deportivo_alaves,sevilla
+2024-10-06,SP1,Spain-LaLiga,2425,Alaves,Barcelona,0.0,3.0,A,0.0,3.0,A,5.25,4.5,1.57,5.69,4.39,1.58,5.5,4.4,1.57,1.62,2.3,1.64,2.29,1.0,1.93,1.97,Deportivo Alaves,Barcelona,deportivo_alaves,barcelona
+2024-10-18,SP1,Spain-LaLiga,2425,Alaves,Valladolid,2.0,3.0,A,1.0,1.0,D,1.62,3.9,5.75,1.65,3.91,5.96,1.65,3.82,5.82,2.1,1.73,2.15,1.72,-0.75,1.75,2.03,Deportivo Alaves,Real Valladolid,deportivo_alaves,real_valladolid
+2024-11-01,SP1,Spain-LaLiga,2425,Alaves,Mallorca,1.0,0.0,H,0.0,0.0,D,2.25,3.0,3.4,2.41,2.97,3.62,2.38,2.97,3.5,2.63,1.5,2.65,1.47,-0.25,2.01,1.89,Deportivo Alaves,Mallorca,deportivo_alaves,mallorca
+2024-11-30,SP1,Spain-LaLiga,2425,Alaves,Leganes,1.0,1.0,D,0.0,0.0,D,1.8,3.4,5.0,1.82,3.3,5.44,1.83,3.27,5.19,2.75,1.44,2.73,1.46,-0.5,1.84,2.06,Deportivo Alaves,Leganes,deportivo_alaves,leganes
+2024-12-15,SP1,Spain-LaLiga,2425,Alaves,Ath Bilbao,1.0,1.0,D,0.0,1.0,A,3.6,3.1,2.15,3.82,3.17,2.19,3.66,3.15,2.17,2.5,1.53,2.47,1.54,0.25,2.04,1.86,Deportivo Alaves,Athletic Bilbao,deportivo_alaves,athletic_bilbao
+2025-01-11,SP1,Spain-LaLiga,2425,Alaves,Girona,0.0,1.0,A,0.0,0.0,D,2.75,3.1,2.75,2.79,3.2,2.76,2.77,3.13,2.7,2.2,1.67,2.18,1.68,0.0,1.95,1.95,Deportivo Alaves,Girona,deportivo_alaves,girona
+2025-01-27,SP1,Spain-LaLiga,2425,Alaves,Celta,1.0,1.0,D,1.0,0.0,H,2.63,3.0,3.0,2.69,3.15,2.91,2.66,3.1,2.85,2.2,1.67,2.2,1.67,0.0,1.89,2.01,Deportivo Alaves,Celta Vigo,deportivo_alaves,celta_vigo
+2025-02-09,SP1,Spain-LaLiga,2425,Alaves,Getafe,0.0,1.0,A,0.0,1.0,A,2.3,2.9,3.6,2.37,2.9,3.76,2.32,2.9,3.63,3.2,1.36,3.04,1.37,-0.25,1.98,1.92,Deportivo Alaves,Getafe,deportivo_alaves,getafe
+2025-02-22,SP1,Spain-LaLiga,2425,Alaves,Espanol,0.0,1.0,A,0.0,0.0,D,1.8,3.25,5.25,1.79,3.45,5.33,1.8,3.38,5.22,2.63,1.5,2.62,1.5,-0.75,2.08,1.82,Deportivo Alaves,Espanyol,deportivo_alaves,espanyol
+2025-03-08,SP1,Spain-LaLiga,2425,Alaves,Villarreal,1.0,0.0,H,1.0,0.0,H,3.1,3.25,2.38,3.14,3.38,2.39,3.07,3.32,2.4,2.0,1.8,2.05,1.79,0.25,1.84,2.06,Deportivo Alaves,Villarreal,deportivo_alaves,villarreal
+2025-03-29,SP1,Spain-LaLiga,2425,Alaves,Vallecano,0.0,2.0,A,0.0,1.0,A,2.15,2.9,4.1,2.18,3.02,4.09,2.19,2.99,3.89,2.75,1.44,2.73,1.45,-0.25,1.78,2.0,Deportivo Alaves,Rayo Vallecano,deportivo_alaves,rayo_vallecano
+2025-04-13,SP1,Spain-LaLiga,2425,Alaves,Real Madrid,0.0,1.0,A,0.0,1.0,A,5.25,4.1,1.62,5.38,4.23,1.63,5.23,4.13,1.62,1.73,2.1,1.71,2.14,0.75,2.08,1.82,Deportivo Alaves,Real Madrid,deportivo_alaves,real_madrid
+2025-04-23,SP1,Spain-LaLiga,2425,Alaves,Sociedad,1.0,0.0,H,0.0,0.0,D,2.35,3.0,3.4,2.41,3.13,3.34,2.37,3.04,3.32,2.63,1.5,2.62,1.48,-0.25,2.02,1.88,Deportivo Alaves,Real Sociedad,deportivo_alaves,real_sociedad
+2025-05-03,SP1,Spain-LaLiga,2425,Alaves,Ath Madrid,0.0,0.0,D,0.0,0.0,D,3.7,3.1,2.15,3.92,3.16,2.16,3.76,3.15,2.14,2.5,1.53,2.52,1.52,0.25,2.06,1.84,Deportivo Alaves,Atletico Madrid,deportivo_alaves,atletico_madrid
+2025-05-14,SP1,Spain-LaLiga,2425,Alaves,Valencia,1.0,0.0,H,0.0,0.0,D,2.1,3.1,3.7,2.2,3.22,3.73,2.16,3.17,3.69,2.38,1.57,2.38,1.58,-0.25,1.86,2.04,Deportivo Alaves,Valencia,deportivo_alaves,valencia
+2025-05-24,SP1,Spain-LaLiga,2425,Alaves,Osasuna,1.0,1.0,D,0.0,0.0,D,3.2,3.2,2.35,3.24,3.3,2.38,3.2,3.2,2.36,2.3,1.62,2.35,1.6,0.25,1.83,2.03,Deportivo Alaves,Osasuna,deportivo_alaves,osasuna
+2025-08-16,SP1,Spain-LaLiga,2526,Alaves,Levante,2.0,1.0,H,1.0,0.0,H,2.15,3.0,3.8,2.18,3.18,3.84,2.19,3.04,3.64,2.63,1.5,2.58,1.47,-0.25,1.83,2.03,Deportivo Alaves,Levante,deportivo_alaves,levante
+2025-08-30,SP1,Spain-LaLiga,2526,Alaves,Ath Madrid,1.0,1.0,D,1.0,1.0,D,4.75,3.5,1.8,4.77,3.61,1.82,4.64,3.55,1.78,2.2,1.67,2.12,1.67,0.75,1.78,2.03,Deportivo Alaves,Atletico Madrid,deportivo_alaves,atletico_madrid
+2025-09-20,SP1,Spain-LaLiga,2526,Alaves,Sevilla,1.0,2.0,A,1.0,1.0,D,2.25,3.1,3.5,2.31,3.23,3.44,2.3,3.11,3.29,2.5,1.53,2.38,1.54,-0.25,1.95,1.9,Deportivo Alaves,Sevilla,deportivo_alaves,sevilla
+2025-10-05,SP1,Spain-LaLiga,2526,Alaves,Elche,3.0,1.0,H,0.0,0.0,D,2.3,3.1,3.3,2.42,3.09,3.37,2.34,3.01,3.26,2.63,1.5,2.61,1.46,-0.25,1.98,1.88,Deportivo Alaves,Elche,deportivo_alaves,elche
+2025-10-20,SP1,Spain-LaLiga,2526,Alaves,Valencia,0.0,0.0,D,0.0,0.0,D,2.25,3.0,3.6,2.28,3.16,3.58,2.25,3.06,3.4,2.5,1.53,2.39,1.54,-0.25,1.93,1.93,Deportivo Alaves,Valencia,deportivo_alaves,valencia
+2025-11-02,SP1,Spain-LaLiga,2526,Alaves,Espanol,2.0,1.0,H,2.0,0.0,H,2.38,3.0,3.3,2.44,3.06,3.38,2.38,3.01,3.24,2.63,1.5,2.48,1.5,-0.25,2.0,1.85,Deportivo Alaves,Espanyol,deportivo_alaves,espanyol
+2025-11-22,SP1,Spain-LaLiga,2526,Alaves,Celta,0.0,1.0,A,0.0,0.0,D,2.6,3.0,2.9,2.58,3.12,3.08,2.56,3.04,2.94,2.3,1.62,2.29,1.58,0.0,1.8,2.05,Deportivo Alaves,Celta Vigo,deportivo_alaves,celta_vigo
+2025-12-06,SP1,Spain-LaLiga,2526,Alaves,Sociedad,1.0,0.0,H,1.0,0.0,H,2.8,2.9,2.8,2.8,3.05,2.88,2.75,2.98,2.77,2.63,1.5,2.5,1.49,0.0,1.93,1.93,Deportivo Alaves,Real Sociedad,deportivo_alaves,real_sociedad
+2025-12-14,SP1,Spain-LaLiga,2526,Alaves,Real Madrid,1.0,2.0,A,0.0,1.0,A,5.5,4.0,1.6,6.0,3.88,1.63,5.4,3.94,1.6,1.73,2.1,1.71,2.05,1.0,1.8,2.05,Deportivo Alaves,Real Madrid,deportivo_alaves,real_madrid
+2026-01-04,SP1,Spain-LaLiga,2526,Alaves,Oviedo,1.0,1.0,D,0.0,0.0,D,1.9,3.0,5.25,1.92,3.12,5.17,1.84,3.08,5.02,3.0,1.4,2.77,1.4,-0.5,1.88,1.98,Deportivo Alaves,Real Oviedo,deportivo_alaves,real_oviedo
+2026-01-25,SP1,Spain-LaLiga,2526,Alaves,Betis,2.0,1.0,H,1.0,0.0,H,2.75,3.0,2.7,,,,2.8,3.05,2.61,2.3,1.62,2.24,1.6,0.0,1.98,1.88,Deportivo Alaves,Real Betis,deportivo_alaves,real_betis
+2026-02-08,SP1,Spain-LaLiga,2526,Alaves,Getafe,0.0,2.0,A,0.0,0.0,D,2.3,2.8,3.9,,,,2.3,2.78,3.69,3.5,1.3,3.34,1.3,-0.25,1.93,1.93,Deportivo Alaves,Getafe,deportivo_alaves,getafe
+2026-02-23,SP1,Spain-LaLiga,2526,Alaves,Girona,2.0,2.0,D,1.0,1.0,D,2.3,3.0,3.5,,,,2.29,2.96,3.4,2.5,1.53,2.41,1.53,-0.25,1.95,1.9,Deportivo Alaves,Girona,deportivo_alaves,girona
+2026-03-13,SP1,Spain-LaLiga,2526,Alaves,Villarreal,1.0,1.0,D,1.0,0.0,H,3.25,3.4,2.2,,,,3.25,3.35,2.19,1.91,1.91,1.93,1.82,0.25,1.93,1.93,Deportivo Alaves,Villarreal,deportivo_alaves,villarreal
+2026-04-05,SP1,Spain-LaLiga,2526,Alaves,Osasuna,2.0,2.0,D,1.0,1.0,D,2.5,3.2,2.9,,,,2.43,3.11,2.97,2.3,1.62,2.25,1.59,-0.25,2.1,1.7,Deportivo Alaves,Osasuna,deportivo_alaves,osasuna
+2026-04-25,SP1,Spain-LaLiga,2526,Alaves,Mallorca,2.0,1.0,H,0.0,1.0,A,2.2,3.0,3.8,,,,2.13,3.13,3.61,2.1,1.73,2.09,1.68,-0.25,1.83,2.03,Deportivo Alaves,Mallorca,deportivo_alaves,mallorca
+2026-05-02,SP1,Spain-LaLiga,2526,Alaves,Ath Bilbao,2.0,4.0,A,1.0,0.0,H,2.7,3.4,2.55,,,,2.65,3.35,2.55,2.0,1.8,1.97,1.76,0.0,2.0,1.85,Deportivo Alaves,Athletic Bilbao,deportivo_alaves,athletic_bilbao
+2026-05-13,SP1,Spain-LaLiga,2526,Alaves,Barcelona,1.0,0.0,H,1.0,0.0,H,3.1,3.75,2.15,,,,3.09,3.75,2.1,1.5,2.63,1.46,2.57,0.25,1.98,1.88,Deportivo Alaves,Barcelona,deportivo_alaves,barcelona
+2026-05-23,SP1,Spain-LaLiga,2526,Alaves,Vallecano,1.0,2.0,A,1.0,0.0,H,2.45,3.4,2.8,,,,2.41,3.31,2.82,1.98,1.88,1.94,1.79,0.0,1.8,2.05,Deportivo Alaves,Rayo Vallecano,deportivo_alaves,rayo_vallecano
+2026-08-15,SP1,Spain-LaLiga,2627,Alaves,Getafe,3.0,0.0,H,0.0,0.0,D,2.35,2.8,3.75,,,,2.33,2.82,3.62,3.2,1.36,3.08,1.35,-0.25,1.98,1.88,Deportivo Alaves,Getafe,deportivo_alaves,getafe
+2026-08-28,SP1,Spain-LaLiga,2627,Alaves,Villarreal,1.0,0.0,H,1.0,0.0,H,3.2,3.5,2.2,,,,3.1,3.49,2.23,1.8,2.0,1.78,1.97,0.25,1.93,1.93,Deportivo Alaves,Villarreal,deportivo_alaves,villarreal
+2026-09-06,SP1,Spain-LaLiga,2627,Alaves,Osasuna,5.0,2.0,H,2.0,0.0,H,2.25,3.1,3.5,,,,2.23,3.04,3.43,2.5,1.53,2.43,1.52,-0.25,1.93,1.93,Deportivo Alaves,Osasuna,deportivo_alaves,osasuna
+2026-09-15,SP1,Spain-LaLiga,2627,Alaves,Valencia,0.0,1.0,A,0.0,0.0,D,1.7,3.5,5.5,,,,1.73,3.49,5.16,2.1,1.73,2.05,1.72,-0.75,1.93,1.93,Deportivo Alaves,Valencia,deportivo_alaves,valencia
+2026-10-10,SP1,Spain-LaLiga,2627,Alaves,Ath Madrid,1.0,2.0,A,1.0,1.0,D,4.1,3.8,1.8,,,,4.23,3.69,1.8,1.91,1.91,1.8,1.94,0.5,2.05,1.8,Deportivo Alaves,Atletico Madrid,deportivo_alaves,atletico_madrid

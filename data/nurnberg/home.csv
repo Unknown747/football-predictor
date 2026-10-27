@@ -1,0 +1,90 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-25,D2,Germany-BL2,2122,Nurnberg,Erzgebirge Aue,0.0,0.0,D,0.0,0.0,D,1.65,3.8,5.0,1.7,3.91,5.39,1.68,3.81,4.95,1.66,2.15,1.69,2.15,-0.75,1.85,2.0,Nurnberg,Erzgebirge Aue,nurnberg,erzgebirge_aue
+2021-08-14,D2,Germany-BL2,2122,Nurnberg,Fortuna Dusseldorf,2.0,0.0,H,0.0,0.0,D,2.3,3.5,2.9,2.53,3.4,2.92,2.46,3.3,2.84,1.85,2.0,1.83,1.97,0.0,1.77,2.1,Nurnberg,Fortuna Dusseldorf,nurnberg,fortuna_dusseldorf
+2021-08-27,D2,Germany-BL2,2122,Nurnberg,Karlsruhe,2.0,1.0,H,0.0,0.0,D,2.05,3.4,3.5,2.14,3.55,3.58,2.11,3.39,3.48,2.0,1.8,1.97,1.83,-0.25,1.8,2.05,Nurnberg,Karlsruhe,nurnberg,karlsruhe
+2021-09-17,D2,Germany-BL2,2122,Nurnberg,Hansa Rostock,1.0,0.0,H,0.0,0.0,D,1.8,3.6,4.2,1.94,3.45,4.45,1.91,3.4,4.16,2.0,1.8,1.99,1.81,-0.5,1.9,1.95,Nurnberg,Hansa Rostock,nurnberg,hansa_rostock
+2021-10-02,D2,Germany-BL2,2122,Nurnberg,Hannover,0.0,0.0,D,0.0,0.0,D,2.1,3.4,3.6,2.08,3.61,3.68,2.05,3.48,3.5,1.8,2.0,1.83,1.98,-0.5,2.02,1.83,Nurnberg,Hannover,nurnberg,hannover
+2021-10-23,D2,Germany-BL2,2122,Nurnberg,Heidenheim,4.0,0.0,H,1.0,0.0,H,2.25,3.25,3.4,2.38,3.32,3.27,2.29,3.23,3.13,2.0,1.8,1.96,1.84,-0.25,1.98,1.88,Nurnberg,1. FC Heidenheim,nurnberg,1_fc_heidenheim
+2021-11-05,D2,Germany-BL2,2122,Nurnberg,Werder Bremen,1.0,2.0,A,1.0,0.0,H,2.8,3.3,2.5,2.86,3.55,2.52,2.78,3.36,2.5,1.9,1.9,1.91,1.89,0.0,2.05,1.8,Nurnberg,Werder Bremen,nurnberg,werder_bremen
+2021-11-28,D2,Germany-BL2,2122,Nurnberg,St Pauli,2.0,3.0,A,1.0,2.0,A,2.9,3.4,2.4,3.0,3.52,2.44,2.84,3.43,2.38,1.7,2.1,1.71,2.13,0.25,1.8,2.05,Nurnberg,FC St Pauli,nurnberg,fc_st_pauli
+2021-12-04,D2,Germany-BL2,2122,Nurnberg,Holstein Kiel,2.0,1.0,H,1.0,0.0,H,2.3,3.4,3.1,2.43,3.36,3.14,2.33,3.36,2.99,1.75,2.05,1.78,2.04,-0.25,2.0,1.85,Nurnberg,Holstein Kiel,nurnberg,holstein_kiel
+2022-01-15,D2,Germany-BL2,2122,Nurnberg,Paderborn,1.0,2.0,A,0.0,2.0,A,2.3,3.5,3.0,2.4,3.47,3.11,2.3,3.44,2.97,1.7,2.1,1.7,2.13,-0.25,2.0,1.85,Nurnberg,Paderborn,nurnberg,paderborn
+2022-02-04,D2,Germany-BL2,2122,Nurnberg,Ingolstadt,0.0,5.0,A,0.0,3.0,A,1.65,4.0,5.25,1.68,3.87,5.6,1.66,3.8,5.2,1.88,1.98,1.85,1.95,-0.75,1.85,2.0,Nurnberg,Ingolstadt,nurnberg,ingolstadt
+2022-02-19,D2,Germany-BL2,2122,Nurnberg,Regensburg,2.0,0.0,H,1.0,0.0,H,2.37,3.5,2.9,2.5,3.38,3.01,2.37,3.39,2.91,1.75,2.05,1.76,2.04,-0.25,2.05,1.8,Nurnberg,Regensburg,nurnberg,regensburg
+2022-03-05,D2,Germany-BL2,2122,Nurnberg,Hamburg,2.0,1.0,H,1.0,1.0,D,3.25,3.5,2.2,3.36,3.66,2.19,3.2,3.53,2.15,1.75,2.05,1.75,2.06,0.25,1.98,1.88,Nurnberg,Hamburger SV,nurnberg,hamburger_sv
+2022-03-20,D2,Germany-BL2,2122,Nurnberg,Dresden,1.0,1.0,D,1.0,1.0,D,1.9,3.6,4.0,1.89,3.76,4.25,1.88,3.59,3.96,1.88,1.98,1.84,1.94,-0.5,1.9,1.95,Nurnberg,Dresden,nurnberg,dresden
+2022-04-09,D2,Germany-BL2,2122,Nurnberg,Darmstadt,3.0,1.0,H,1.0,0.0,H,3.0,3.4,2.37,2.97,3.77,2.35,2.85,3.58,2.32,1.66,2.15,1.63,2.26,0.25,1.83,2.02,Nurnberg,Darmstadt 98,nurnberg,darmstadt_98
+2022-04-24,D2,Germany-BL2,2122,Nurnberg,Sandhausen,2.0,4.0,A,1.0,1.0,D,1.83,3.8,4.2,1.87,3.68,4.51,1.81,3.69,4.24,1.75,2.05,1.77,2.02,-0.5,1.77,2.02,Nurnberg,Sandhausen,nurnberg,sandhausen
+2022-05-15,D2,Germany-BL2,2122,Nurnberg,Schalke 04,1.0,2.0,A,0.0,1.0,A,3.2,3.75,2.1,3.23,3.9,2.17,3.13,3.81,2.09,1.44,2.7,1.44,2.7,0.25,2.02,1.83,Nurnberg,Schalke 04,nurnberg,schalke_04
+2022-07-23,D2,Germany-BL2,2223,Nurnberg,Greuther Furth,2.0,0.0,H,1.0,0.0,H,2.37,3.5,2.9,2.39,3.64,2.98,2.35,3.51,2.85,1.66,2.15,1.68,2.17,-0.25,2.02,1.83,Nurnberg,Greuther Furth,nurnberg,greuther_furth
+2022-08-12,D2,Germany-BL2,2223,Nurnberg,Heidenheim,0.0,3.0,A,0.0,1.0,A,2.15,3.75,3.2,2.2,3.52,3.46,2.11,3.49,3.34,1.8,2.0,1.8,2.0,-0.25,1.85,2.0,Nurnberg,1. FC Heidenheim,nurnberg,1_fc_heidenheim
+2022-08-27,D2,Germany-BL2,2223,Nurnberg,Hamburg,0.0,2.0,A,0.0,1.0,A,3.1,3.5,2.25,3.1,3.63,2.33,2.98,3.57,2.25,1.61,2.25,1.61,2.29,0.25,1.88,1.98,Nurnberg,Hamburger SV,nurnberg,hamburger_sv
+2022-09-09,D2,Germany-BL2,2223,Nurnberg,Bielefeld,1.0,0.0,H,0.0,0.0,D,2.2,3.5,3.2,2.3,3.6,3.18,2.23,3.49,3.09,1.7,2.1,1.73,2.09,-0.25,1.95,1.9,Nurnberg,Arminia Bielefeld,nurnberg,arminia_bielefeld
+2022-10-09,D2,Germany-BL2,2223,Nurnberg,Holstein Kiel,2.0,3.0,A,1.0,0.0,H,2.2,3.75,3.0,2.26,3.86,3.07,2.21,3.66,2.99,1.61,2.25,1.65,2.23,-0.25,1.95,1.9,Nurnberg,Holstein Kiel,nurnberg,holstein_kiel
+2022-10-22,D2,Germany-BL2,2223,Nurnberg,Hannover,0.0,0.0,D,0.0,0.0,D,2.0,3.6,3.75,2.11,3.67,3.56,2.05,3.55,3.46,1.7,2.1,1.73,2.11,-0.5,2.05,1.8,Nurnberg,Hannover,nurnberg,hannover
+2022-11-06,D2,Germany-BL2,2223,Nurnberg,Magdeburg,1.0,2.0,A,0.0,0.0,D,1.9,3.5,4.2,1.92,3.75,4.14,1.88,3.67,3.88,1.61,2.25,1.63,2.25,-0.5,1.88,1.98,Nurnberg,Magdeburg,nurnberg,magdeburg
+2022-11-13,D2,Germany-BL2,2223,Nurnberg,Paderborn,2.0,1.0,H,1.0,0.0,H,3.0,3.5,2.3,3.22,3.57,2.29,3.02,3.45,2.26,1.7,2.1,1.72,2.11,0.25,1.88,1.98,Nurnberg,Paderborn,nurnberg,paderborn
+2023-01-29,D2,Germany-BL2,2223,Nurnberg,St Pauli,0.0,1.0,A,0.0,1.0,A,2.75,3.4,2.55,2.77,3.57,2.59,2.71,3.4,2.51,1.95,1.9,1.92,1.88,0.0,2.0,1.85,Nurnberg,FC St Pauli,nurnberg,fc_st_pauli
+2023-02-11,D2,Germany-BL2,2223,Nurnberg,Regensburg,1.0,0.0,H,0.0,0.0,D,2.0,3.4,3.8,2.11,3.44,3.8,2.06,3.35,3.64,2.05,1.8,2.04,1.77,-0.5,2.05,1.8,Nurnberg,Regensburg,nurnberg,regensburg
+2023-02-25,D2,Germany-BL2,2223,Nurnberg,Sandhausen,1.0,0.0,H,0.0,0.0,D,1.95,3.5,4.0,1.93,3.57,4.29,1.92,3.45,4.01,2.1,1.7,2.09,1.73,-0.5,1.9,1.95,Nurnberg,Sandhausen,nurnberg,sandhausen
+2023-03-10,D2,Germany-BL2,2223,Nurnberg,Braunschweig,2.0,0.0,H,0.0,0.0,D,2.4,3.3,3.0,2.44,3.38,3.1,2.37,3.28,2.98,2.05,1.8,2.0,1.79,-0.25,2.05,1.8,Nurnberg,Braunschweig,nurnberg,braunschweig
+2023-03-31,D2,Germany-BL2,2223,Nurnberg,Darmstadt,0.0,1.0,A,0.0,1.0,A,3.5,3.3,2.2,3.61,3.35,2.21,3.44,3.3,2.14,2.1,1.7,2.11,1.71,0.25,2.0,1.85,Nurnberg,Darmstadt 98,nurnberg,darmstadt_98
+2023-04-08,D2,Germany-BL2,2223,Nurnberg,Karlsruhe,1.0,1.0,D,0.0,1.0,A,2.8,3.3,2.5,2.87,3.34,2.63,2.76,3.29,2.52,1.95,1.9,1.92,1.86,0.0,2.05,1.8,Nurnberg,Karlsruhe,nurnberg,karlsruhe
+2023-04-22,D2,Germany-BL2,2223,Nurnberg,Fortuna Dusseldorf,2.0,0.0,H,1.0,0.0,H,3.3,3.4,2.2,3.33,3.45,2.28,3.19,3.35,2.21,2.0,1.85,1.96,1.82,0.25,1.93,1.93,Nurnberg,Fortuna Dusseldorf,nurnberg,fortuna_dusseldorf
+2023-05-07,D2,Germany-BL2,2223,Nurnberg,Kaiserslautern,3.0,3.0,D,2.0,1.0,H,2.0,3.4,3.8,2.19,3.43,3.57,2.13,3.31,3.42,2.02,1.82,1.99,1.79,-0.25,1.8,2.05,Nurnberg,Kaiserslautern,nurnberg,kaiserslautern
+2023-05-21,D2,Germany-BL2,2223,Nurnberg,Hansa Rostock,0.0,0.0,D,0.0,0.0,D,2.0,3.5,3.75,2.11,3.32,3.94,2.05,3.36,3.67,2.05,1.75,2.04,1.76,-0.5,2.05,1.8,Nurnberg,Hansa Rostock,nurnberg,hansa_rostock
+2023-08-06,D2,Germany-BL2,2324,Nurnberg,Hannover,2.0,2.0,D,0.0,2.0,A,2.3,3.6,2.88,2.39,3.64,2.99,2.31,3.5,2.87,1.73,2.08,1.73,2.07,-0.25,2.03,1.83,Nurnberg,Hannover,nurnberg,hannover
+2023-08-27,D2,Germany-BL2,2324,Nurnberg,Wehen,2.0,1.0,H,0.0,0.0,D,2.0,3.6,3.5,2.09,3.68,3.59,2.02,3.6,3.44,1.75,2.05,1.76,2.04,-0.5,2.05,1.8,Nurnberg,Wehen,nurnberg,wehen
+2023-09-15,D2,Germany-BL2,2324,Nurnberg,Greuther Furth,1.0,1.0,D,1.0,1.0,D,2.63,3.6,2.55,2.7,3.62,2.62,2.62,3.53,2.53,1.8,2.0,1.75,2.04,0.0,1.95,1.9,Nurnberg,Greuther Furth,nurnberg,greuther_furth
+2023-10-01,D2,Germany-BL2,2324,Nurnberg,Magdeburg,1.0,0.0,H,0.0,0.0,D,2.6,3.75,2.5,2.67,3.78,2.57,2.57,3.66,2.51,1.57,2.35,1.58,2.31,0.0,1.95,1.9,Nurnberg,Magdeburg,nurnberg,magdeburg
+2023-10-22,D2,Germany-BL2,2324,Nurnberg,Hertha,3.0,1.0,H,0.0,1.0,A,2.8,3.6,2.38,2.77,3.77,2.49,2.72,3.65,2.39,1.6,2.3,1.58,2.33,0.0,2.1,1.78,Nurnberg,Hertha Berlin,nurnberg,hertha_berlin
+2023-11-04,D2,Germany-BL2,2324,Nurnberg,Schalke 04,1.0,2.0,A,0.0,1.0,A,2.25,3.6,3.0,2.25,3.84,3.09,2.21,3.75,2.93,1.57,2.35,1.54,2.42,-0.25,1.93,1.93,Nurnberg,Schalke 04,nurnberg,schalke_04
+2023-12-02,D2,Germany-BL2,2324,Nurnberg,Fortuna Dusseldorf,0.0,5.0,A,0.0,3.0,A,2.8,3.5,2.4,2.81,3.7,2.49,2.73,3.6,2.42,1.65,2.2,1.64,2.22,0.0,2.1,1.78,Nurnberg,Fortuna Dusseldorf,nurnberg,fortuna_dusseldorf
+2023-12-16,D2,Germany-BL2,2324,Nurnberg,Hamburg,0.0,2.0,A,0.0,0.0,D,3.2,3.8,2.1,3.14,4.29,2.09,3.06,4.0,2.07,1.48,2.6,1.45,2.66,0.25,2.03,1.83,Nurnberg,Hamburger SV,nurnberg,hamburger_sv
+2024-01-20,D2,Germany-BL2,2324,Nurnberg,Hansa Rostock,3.0,0.0,H,2.0,0.0,H,1.95,3.6,3.8,1.96,3.78,3.94,1.92,3.7,3.7,1.73,2.08,1.72,2.09,-0.5,1.93,1.93,Nurnberg,Hansa Rostock,nurnberg,hansa_rostock
+2024-02-03,D2,Germany-BL2,2324,Nurnberg,Osnabruck,2.0,2.0,D,1.0,1.0,D,1.8,4.0,4.2,1.83,3.91,4.37,1.8,3.86,4.06,1.65,2.2,1.64,2.23,-0.75,2.03,1.83,Nurnberg,Osnabruck,nurnberg,osnabruck
+2024-02-18,D2,Germany-BL2,2324,Nurnberg,Kaiserslautern,1.0,1.0,D,0.0,1.0,A,2.45,3.6,2.7,2.53,3.84,2.69,2.46,3.65,2.62,1.65,2.2,1.64,2.23,0.0,1.85,2.0,Nurnberg,Kaiserslautern,nurnberg,kaiserslautern
+2024-03-02,D2,Germany-BL2,2324,Nurnberg,Braunschweig,2.0,1.0,H,2.0,0.0,H,2.4,3.5,2.88,2.46,3.52,2.96,2.39,3.48,2.81,1.73,2.08,1.72,2.1,-0.25,2.1,1.78,Nurnberg,Braunschweig,nurnberg,braunschweig
+2024-03-16,D2,Germany-BL2,2324,Nurnberg,St Pauli,0.0,2.0,A,0.0,1.0,A,5.0,3.75,1.73,4.84,4.06,1.73,4.73,3.9,1.69,1.73,2.08,1.73,2.08,0.75,1.93,1.93,Nurnberg,FC St Pauli,nurnberg,fc_st_pauli
+2024-04-06,D2,Germany-BL2,2324,Nurnberg,Holstein Kiel,0.0,4.0,A,0.0,3.0,A,3.3,3.6,2.15,3.39,3.6,2.17,3.22,3.61,2.12,1.6,2.3,1.6,2.3,0.25,2.0,1.85,Nurnberg,Holstein Kiel,nurnberg,holstein_kiel
+2024-04-19,D2,Germany-BL2,2324,Nurnberg,Paderborn,0.0,2.0,A,0.0,1.0,A,3.0,3.75,2.2,3.18,3.71,2.22,2.99,3.67,2.21,1.53,2.4,1.53,2.48,0.25,1.93,1.93,Nurnberg,Paderborn,nurnberg,paderborn
+2024-04-28,D2,Germany-BL2,2324,Nurnberg,Karlsruhe,0.0,1.0,A,0.0,1.0,A,3.3,3.75,2.1,3.27,3.83,2.14,3.17,3.79,2.07,1.5,2.5,1.5,2.52,0.25,2.0,1.85,Nurnberg,Karlsruhe,nurnberg,karlsruhe
+2024-05-11,D2,Germany-BL2,2324,Nurnberg,Elversberg,3.0,0.0,H,1.0,0.0,H,2.6,3.6,2.5,2.73,3.62,2.56,2.61,3.67,2.45,1.48,2.6,1.46,2.64,0.0,1.98,1.88,Nurnberg,Elversberg,nurnberg,elversberg
+2024-08-10,D2,Germany-BL2,2425,Nurnberg,Schalke 04,3.0,1.0,H,0.0,1.0,A,3.1,3.4,2.25,3.04,3.67,2.28,2.98,3.62,2.24,1.57,2.35,1.57,2.35,0.25,1.88,1.98,Nurnberg,Schalke 04,nurnberg,schalke_04
+2024-08-31,D2,Germany-BL2,2425,Nurnberg,Magdeburg,0.0,4.0,A,0.0,1.0,A,2.63,3.4,2.55,2.68,3.6,2.58,2.61,3.59,2.51,1.6,2.3,1.58,2.32,0.0,1.95,1.9,Nurnberg,Magdeburg,nurnberg,magdeburg
+2024-09-21,D2,Germany-BL2,2425,Nurnberg,Hertha,0.0,2.0,A,0.0,1.0,A,3.2,3.7,2.1,3.21,3.77,2.17,3.11,3.72,2.13,1.53,2.4,1.53,2.41,0.25,1.98,1.88,Nurnberg,Hertha Berlin,nurnberg,hertha_berlin
+2024-10-05,D2,Germany-BL2,2425,Nurnberg,Preußen Münster,3.0,2.0,H,1.0,2.0,A,2.45,3.6,2.7,2.49,3.6,2.79,2.46,3.56,2.7,1.62,2.25,1.62,2.27,0.0,1.85,2.0,Nurnberg,Preußen Münster,nurnberg,preuen_munster
+2024-10-25,D2,Germany-BL2,2425,Nurnberg,Regensburg,8.0,3.0,H,3.0,2.0,H,1.67,4.0,4.5,1.71,4.05,4.92,1.71,3.89,4.63,1.73,2.08,1.73,2.07,-0.75,1.88,1.98,Nurnberg,Regensburg,nurnberg,regensburg
+2024-11-08,D2,Germany-BL2,2425,Nurnberg,Kaiserslautern,0.0,0.0,D,0.0,0.0,D,2.1,3.6,3.3,2.11,3.8,3.38,2.08,3.65,3.3,1.53,2.4,1.53,2.43,-0.25,1.83,2.03,Nurnberg,Kaiserslautern,nurnberg,kaiserslautern
+2024-12-01,D2,Germany-BL2,2425,Nurnberg,Fortuna Dusseldorf,2.0,2.0,D,1.0,0.0,H,2.6,3.4,2.6,2.63,3.51,2.61,2.58,3.47,2.56,1.73,2.08,1.73,2.09,0.0,1.93,1.93,Nurnberg,Fortuna Dusseldorf,nurnberg,fortuna_dusseldorf
+2024-12-21,D2,Germany-BL2,2425,Nurnberg,Braunschweig,1.0,0.0,H,0.0,0.0,D,1.8,3.8,4.2,1.79,3.93,4.19,1.79,3.83,4.08,1.67,2.15,1.66,2.18,-0.75,2.03,1.78,Nurnberg,Braunschweig,nurnberg,braunschweig
+2025-01-19,D2,Germany-BL2,2425,Nurnberg,Karlsruhe,2.0,1.0,H,1.0,1.0,D,2.2,3.75,2.9,2.24,3.48,3.19,2.22,3.58,2.97,1.53,2.4,1.52,2.41,-0.25,1.93,1.93,Nurnberg,Karlsruhe,nurnberg,karlsruhe
+2025-01-31,D2,Germany-BL2,2425,Nurnberg,Darmstadt,1.0,0.0,H,0.0,0.0,D,2.3,3.6,2.88,2.44,3.53,2.95,2.36,3.53,2.83,1.6,2.3,1.6,2.3,-0.25,2.05,1.8,Nurnberg,Darmstadt 98,nurnberg,darmstadt_98
+2025-02-16,D2,Germany-BL2,2425,Nurnberg,Ulm,2.0,0.0,H,0.0,0.0,D,1.75,4.1,4.0,1.79,4.04,4.09,1.77,3.91,4.02,1.7,2.1,1.7,2.12,-0.75,2.0,1.85,Nurnberg,Ulm,nurnberg,ulm
+2025-03-01,D2,Germany-BL2,2425,Nurnberg,Hannover,1.0,2.0,A,1.0,1.0,D,2.6,3.3,2.63,2.63,3.35,2.71,2.57,3.36,2.63,1.75,2.05,1.77,2.03,0.0,1.88,1.98,Nurnberg,Hannover,nurnberg,hannover
+2025-03-16,D2,Germany-BL2,2425,Nurnberg,Greuther Furth,3.0,0.0,H,3.0,0.0,H,2.1,3.5,3.25,2.19,3.5,3.27,2.12,3.51,3.27,1.69,2.07,1.7,2.1,-0.25,1.88,1.98,Nurnberg,Greuther Furth,nurnberg,greuther_furth
+2025-04-05,D2,Germany-BL2,2425,Nurnberg,Hamburg,0.0,3.0,A,0.0,2.0,A,3.1,3.75,2.1,3.24,3.71,2.13,3.16,3.69,2.1,1.62,2.25,1.59,2.27,0.25,2.0,1.85,Nurnberg,Hamburger SV,nurnberg,hamburger_sv
+2025-04-19,D2,Germany-BL2,2425,Nurnberg,Paderborn,2.0,3.0,A,1.0,1.0,D,3.6,3.6,1.95,3.63,3.72,1.98,3.46,3.67,1.99,1.62,2.25,1.63,2.23,0.5,1.85,2.0,Nurnberg,Paderborn,nurnberg,paderborn
+2025-05-04,D2,Germany-BL2,2425,Nurnberg,Elversberg,1.0,3.0,A,1.0,0.0,H,3.9,3.6,1.85,3.77,3.96,1.88,3.71,3.81,1.87,1.62,2.25,1.6,2.28,0.5,1.98,1.88,Nurnberg,Elversberg,nurnberg,elversberg
+2025-05-09,D2,Germany-BL2,2425,Nurnberg,FC Koln,1.0,2.0,A,0.0,0.0,D,5.25,4.33,1.54,5.55,4.45,1.58,5.17,4.33,1.57,1.5,2.5,1.49,2.51,1.0,1.87,1.87,Nurnberg,FC Koln,nurnberg,fc_koln
+2025-08-08,D2,Germany-BL2,2526,Nurnberg,Darmstadt,0.0,1.0,A,0.0,0.0,D,2.88,3.7,2.25,2.87,3.45,2.14,2.77,3.62,2.24,1.62,2.25,1.59,2.23,0.25,1.83,1.98,Nurnberg,Darmstadt 98,nurnberg,darmstadt_98
+2025-08-29,D2,Germany-BL2,2526,Nurnberg,Paderborn,0.0,0.0,D,0.0,0.0,D,3.0,3.75,2.15,3.11,3.72,2.26,3.05,3.59,2.11,1.67,2.15,1.68,2.07,0.25,1.93,1.88,Nurnberg,Paderborn,nurnberg,paderborn
+2025-09-20,D2,Germany-BL2,2526,Nurnberg,Bochum,2.0,1.0,H,0.0,0.0,D,2.3,3.8,2.63,2.37,3.79,2.75,2.32,3.56,2.7,1.67,2.15,1.66,2.1,0.0,1.78,2.03,Nurnberg,VfL Bochum,nurnberg,vfl_bochum
+2025-09-28,D2,Germany-BL2,2526,Nurnberg,Hertha,0.0,3.0,A,0.0,2.0,A,2.25,3.5,3.0,2.28,3.64,2.99,2.22,3.51,2.88,1.67,2.15,1.65,2.12,-0.25,1.95,1.85,Nurnberg,Hertha Berlin,nurnberg,hertha_berlin
+2025-10-19,D2,Germany-BL2,2526,Nurnberg,Holstein Kiel,1.0,1.0,D,1.0,0.0,H,2.6,3.25,2.7,2.52,3.6,2.68,2.49,3.42,2.58,1.73,2.08,1.73,2.01,0.0,1.85,1.95,Nurnberg,Holstein Kiel,nurnberg,holstein_kiel
+2025-11-01,D2,Germany-BL2,2526,Nurnberg,Braunschweig,2.0,1.0,H,2.0,1.0,H,1.73,3.8,4.5,,,,1.75,3.74,4.11,1.7,2.1,1.68,2.08,-0.75,1.98,1.83,Nurnberg,Braunschweig,nurnberg,braunschweig
+2025-11-23,D2,Germany-BL2,2526,Nurnberg,Bielefeld,2.0,0.0,H,0.0,0.0,D,2.3,3.6,2.88,,,,2.29,3.52,2.77,1.62,2.25,1.62,2.18,-0.25,2.03,1.78,Nurnberg,Arminia Bielefeld,nurnberg,arminia_bielefeld
+2025-12-07,D2,Germany-BL2,2526,Nurnberg,Greuther Furth,2.0,2.0,D,0.0,0.0,D,1.75,4.0,4.1,,,,1.75,3.93,3.93,1.5,2.5,1.51,2.42,-0.75,1.98,1.83,Nurnberg,Greuther Furth,nurnberg,greuther_furth
+2025-12-21,D2,Germany-BL2,2526,Nurnberg,Hannover,2.0,1.0,H,1.0,1.0,D,3.25,3.6,2.05,,,,3.2,3.59,2.04,1.62,2.25,1.62,2.15,0.25,2.0,1.8,Nurnberg,Hannover,nurnberg,hannover
+2026-01-17,D2,Germany-BL2,2526,Nurnberg,Elversberg,3.0,2.0,H,0.0,1.0,A,2.9,3.6,2.25,,,,2.94,3.43,2.22,1.75,2.05,1.7,2.03,0.25,1.83,1.98,Nurnberg,Elversberg,nurnberg,elversberg
+2026-01-30,D2,Germany-BL2,2526,Nurnberg,Preußen Münster,1.0,1.0,D,0.0,0.0,D,1.91,3.4,4.0,,,,1.95,3.42,3.65,1.85,1.95,1.81,1.88,-0.5,1.9,1.9,Nurnberg,Preußen Münster,nurnberg,preuen_munster
+2026-02-13,D2,Germany-BL2,2526,Nurnberg,Karlsruhe,5.0,1.0,H,3.0,0.0,H,1.73,4.0,4.2,,,,1.74,3.89,4.03,1.65,2.2,1.58,2.24,-0.75,1.98,1.83,Nurnberg,Karlsruhe,nurnberg,karlsruhe
+2026-03-07,D2,Germany-BL2,2526,Nurnberg,Fortuna Dusseldorf,0.0,1.0,A,0.0,0.0,D,2.2,3.5,3.0,,,,2.23,3.47,2.88,1.8,2.0,1.72,2.01,-0.25,1.95,1.85,Nurnberg,Fortuna Dusseldorf,nurnberg,fortuna_dusseldorf
+2026-03-21,D2,Germany-BL2,2526,Nurnberg,Kaiserslautern,3.0,0.0,H,1.0,0.0,H,2.15,3.6,3.1,,,,2.13,3.57,3.01,1.62,2.25,1.59,2.22,-0.25,1.85,1.95,Nurnberg,Kaiserslautern,nurnberg,kaiserslautern
+2026-04-11,D2,Germany-BL2,2526,Nurnberg,Dresden,0.0,2.0,A,0.0,0.0,D,2.1,3.6,3.25,,,,2.06,3.57,3.15,1.7,2.1,1.69,2.06,-0.25,1.83,1.98,Nurnberg,Dresden,nurnberg,dresden
+2026-04-26,D2,Germany-BL2,2526,Nurnberg,Magdeburg,1.0,0.0,H,1.0,0.0,H,2.45,3.6,2.7,,,,2.33,3.59,2.6,1.53,2.4,1.49,2.45,0.0,1.8,2.0,Nurnberg,Magdeburg,nurnberg,magdeburg
+2026-05-09,D2,Germany-BL2,2526,Nurnberg,Schalke 04,3.0,0.0,H,2.0,0.0,H,1.91,3.8,3.5,,,,1.92,3.66,3.35,1.57,2.35,1.56,2.27,-0.5,1.9,1.9,Nurnberg,Schalke 04,nurnberg,schalke_04
+2026-08-09,D2,Germany-BL2,2627,Nurnberg,Dresden,3.0,0.0,H,2.0,0.0,H,2.25,3.3,3.1,,,,2.16,3.49,2.93,1.7,2.1,1.64,2.13,-0.25,1.95,1.85,Nurnberg,Dresden,nurnberg,dresden
+2026-08-29,D2,Germany-BL2,2627,Nurnberg,Bielefeld,4.0,1.0,H,3.0,0.0,H,2.15,3.6,3.1,,,,2.13,3.59,2.98,1.67,2.15,1.62,2.17,-0.25,1.9,1.9,Nurnberg,Arminia Bielefeld,nurnberg,arminia_bielefeld
+2026-09-11,D2,Germany-BL2,2627,Nurnberg,Hannover,2.0,1.0,H,1.0,1.0,D,2.63,3.6,2.45,,,,2.51,3.72,2.43,1.4,2.88,1.41,2.72,0.0,1.95,1.85,Nurnberg,Hannover,nurnberg,hannover
+2026-10-10,D2,Germany-BL2,2627,Nurnberg,Wolfsburg,4.0,4.0,D,0.0,2.0,A,2.45,3.8,2.45,,,,2.43,3.77,2.44,1.4,2.88,1.37,2.86,0.0,1.9,1.9,Nurnberg,VfL Wolfsburg,nurnberg,vfl_wolfsburg

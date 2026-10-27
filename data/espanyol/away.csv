@@ -1,0 +1,102 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,SP1,Spain-LaLiga,2122,Osasuna,Espanol,0.0,0.0,D,0.0,0.0,D,2.25,3.2,3.4,2.34,3.35,3.37,2.29,3.26,3.31,2.3,1.61,2.33,1.62,-0.25,1.99,1.94,Osasuna,Espanyol,osasuna,espanyol
+2021-08-27,SP1,Spain-LaLiga,2122,Mallorca,Espanol,1.0,0.0,H,1.0,0.0,H,2.6,2.9,3.1,2.69,2.99,3.17,2.64,2.95,3.08,2.75,1.44,2.69,1.47,0.0,1.81,2.13,Mallorca,Espanyol,mallorca,espanyol
+2021-09-19,SP1,Spain-LaLiga,2122,Betis,Espanol,2.0,2.0,D,2.0,1.0,H,2.0,3.2,4.2,2.06,3.43,4.06,2.02,3.33,3.98,2.3,1.61,2.31,1.63,-0.5,2.04,1.89,Real Betis,Espanyol,real_betis,espanyol
+2021-09-25,SP1,Spain-LaLiga,2122,Sevilla,Espanol,2.0,0.0,H,1.0,0.0,H,1.57,3.8,6.5,1.63,3.9,6.38,1.63,3.82,5.99,2.2,1.66,2.23,1.68,-0.75,1.84,2.09,Sevilla,Espanyol,sevilla,espanyol
+2021-10-23,SP1,Spain-LaLiga,2122,Elche,Espanol,2.0,2.0,D,1.0,0.0,H,2.7,3.0,2.87,2.82,3.0,2.99,2.73,3.0,2.87,2.5,1.53,2.59,1.5,0.0,1.92,2.01,Elche,Espanyol,elche,espanyol
+2021-10-31,SP1,Spain-LaLiga,2122,Getafe,Espanol,2.0,1.0,H,1.0,1.0,D,2.45,3.0,3.2,2.44,3.13,3.41,2.37,3.06,3.31,2.75,1.44,2.72,1.45,-0.25,2.06,1.87,Getafe,Espanyol,getafe,espanyol
+2021-11-20,SP1,Spain-LaLiga,2122,Barcelona,Espanol,1.0,0.0,H,0.0,0.0,D,1.36,5.25,7.5,1.39,5.19,8.96,1.37,5.08,8.42,1.57,2.37,1.6,2.36,-1.5,2.02,1.77,Barcelona,Espanyol,barcelona,espanyol
+2021-12-05,SP1,Spain-LaLiga,2122,Vallecano,Espanol,1.0,0.0,H,0.0,0.0,D,2.15,3.1,3.8,2.16,3.31,3.87,2.15,3.25,3.66,2.2,1.66,2.23,1.67,-0.25,1.85,2.08,Rayo Vallecano,Espanyol,rayo_vallecano,espanyol
+2021-12-17,SP1,Spain-LaLiga,2122,Celta,Espanol,3.0,1.0,H,1.0,0.0,H,1.95,3.4,4.0,1.99,3.52,4.23,1.99,3.4,4.04,2.1,1.72,2.14,1.73,-0.5,1.98,1.92,Celta Vigo,Espanyol,celta_vigo,espanyol
+2021-12-31,SP1,Spain-LaLiga,2122,Valencia,Espanol,1.0,2.0,A,0.0,0.0,D,1.8,3.8,4.2,1.81,3.83,4.71,1.81,3.76,4.46,1.72,2.1,1.77,2.07,-0.75,2.06,1.87,Valencia,Espanyol,valencia,espanyol
+2022-01-18,SP1,Spain-LaLiga,2122,Cadiz,Espanol,2.0,2.0,D,0.0,1.0,A,3.25,3.1,2.37,3.27,3.13,2.45,3.24,3.09,2.42,2.37,1.57,2.45,1.55,0.25,1.84,2.06,Cadiz,Espanyol,cadiz,espanyol
+2022-02-07,SP1,Spain-LaLiga,2122,Ath Bilbao,Espanol,2.0,1.0,H,2.0,1.0,H,1.6,3.8,6.0,1.64,3.73,6.28,1.62,3.83,5.8,2.0,1.8,2.06,1.76,-0.75,1.78,2.13,Athletic Bilbao,Espanyol,athletic_bilbao,espanyol
+2022-02-27,SP1,Spain-LaLiga,2122,Villarreal,Espanol,5.0,1.0,H,3.0,0.0,H,1.5,4.2,7.0,1.5,4.4,7.65,1.49,4.4,6.91,1.8,2.0,1.78,2.06,-1.0,1.85,2.05,Villarreal,Espanyol,villarreal,espanyol
+2022-03-12,SP1,Spain-LaLiga,2122,Levante,Espanol,1.0,1.0,D,0.0,0.0,D,2.3,3.3,3.2,2.36,3.5,3.2,2.31,3.45,3.13,1.95,1.95,1.9,1.92,-0.25,2.0,1.9,Levante,Espanyol,levante,espanyol
+2022-04-04,SP1,Spain-LaLiga,2122,Sociedad,Espanol,1.0,0.0,H,0.0,0.0,D,1.6,4.0,5.75,1.58,4.32,6.16,1.61,4.04,5.83,2.1,1.72,2.04,1.8,-0.75,1.76,2.15,Real Sociedad,Espanyol,real_sociedad,espanyol
+2022-04-17,SP1,Spain-LaLiga,2122,Ath Madrid,Espanol,2.0,1.0,H,0.0,0.0,D,1.4,4.5,8.5,1.44,4.68,8.65,1.43,4.5,8.03,1.95,1.95,1.9,1.89,-1.25,2.03,1.87,Atletico Madrid,Espanyol,atletico_madrid,espanyol
+2022-04-30,SP1,Spain-LaLiga,2122,Real Madrid,Espanol,4.0,0.0,H,2.0,0.0,H,1.5,4.5,6.0,1.51,4.58,6.99,1.51,4.45,6.53,1.66,2.2,1.66,2.22,-1.0,1.82,2.08,Real Madrid,Espanyol,real_madrid,espanyol
+2022-05-11,SP1,Spain-LaLiga,2122,Alaves,Espanol,2.0,1.0,H,1.0,1.0,D,2.1,3.4,3.5,2.16,3.6,3.55,2.15,3.49,3.45,2.0,1.8,2.01,1.81,-0.25,1.84,2.06,Deportivo Alaves,Espanyol,deportivo_alaves,espanyol
+2022-05-22,SP1,Spain-LaLiga,2122,Granada,Espanol,0.0,0.0,D,0.0,0.0,D,1.44,4.33,7.5,1.45,4.76,7.65,1.45,4.66,7.08,1.66,2.2,1.66,2.25,-1.25,2.01,1.89,Granada,Espanyol,granada,espanyol
+2022-08-13,SP1,Spain-LaLiga,2223,Celta,Espanol,2.0,2.0,D,1.0,0.0,H,1.8,3.75,4.75,1.81,3.75,4.87,1.83,3.68,4.5,2.0,1.8,2.04,1.8,-0.5,1.77,2.02,Celta Vigo,Espanyol,celta_vigo,espanyol
+2022-09-04,SP1,Spain-LaLiga,2223,Ath Bilbao,Espanol,0.0,1.0,A,0.0,0.0,D,1.53,4.0,6.5,1.58,4.07,6.75,1.57,3.98,6.46,2.06,1.84,2.06,1.78,-1.0,1.99,1.91,Athletic Bilbao,Espanyol,athletic_bilbao,espanyol
+2022-09-18,SP1,Spain-LaLiga,2223,Sociedad,Espanol,2.0,1.0,H,2.0,1.0,H,1.7,3.6,5.0,1.76,3.87,5.11,1.73,3.77,4.93,2.03,1.87,1.99,1.83,-0.75,1.95,1.95,Real Sociedad,Espanyol,real_sociedad,espanyol
+2022-10-09,SP1,Spain-LaLiga,2223,Cadiz,Espanol,2.0,2.0,D,1.0,0.0,H,2.87,3.2,2.55,3.02,3.12,2.7,2.93,3.1,2.64,2.37,1.57,2.4,1.58,0.0,2.02,1.88,Cadiz,Espanyol,cadiz,espanyol
+2022-10-20,SP1,Spain-LaLiga,2223,Osasuna,Espanol,1.0,0.0,H,0.0,0.0,D,2.05,3.6,3.5,2.1,3.51,3.82,2.11,3.41,3.61,2.1,1.72,2.14,1.72,-0.25,1.81,2.09,Osasuna,Espanyol,osasuna,espanyol
+2022-10-28,SP1,Spain-LaLiga,2223,Mallorca,Espanol,1.0,1.0,D,0.0,0.0,D,2.25,3.1,3.4,2.34,3.09,3.69,2.3,3.08,3.49,2.62,1.5,2.58,1.5,-0.25,1.95,1.95,Mallorca,Espanyol,mallorca,espanyol
+2022-11-06,SP1,Spain-LaLiga,2223,Ath Madrid,Espanol,1.0,1.0,D,0.0,0.0,D,1.44,4.5,8.0,1.45,4.49,8.64,1.45,4.36,7.91,2.0,1.8,2.04,1.79,-1.25,2.1,1.8,Atletico Madrid,Espanyol,atletico_madrid,espanyol
+2022-12-31,SP1,Spain-LaLiga,2223,Barcelona,Espanol,1.0,1.0,D,1.0,0.0,H,1.25,6.5,10.0,1.26,6.57,11.89,1.25,6.43,11.21,1.44,2.75,1.43,2.82,-1.75,1.9,2.0,Barcelona,Espanyol,barcelona,espanyol
+2023-01-15,SP1,Spain-LaLiga,2223,Getafe,Espanol,1.0,2.0,A,1.0,1.0,D,2.5,3.0,3.1,2.59,3.02,3.29,2.54,3.02,3.14,2.75,1.44,2.75,1.45,-0.25,2.13,1.78,Getafe,Espanyol,getafe,espanyol
+2023-01-27,SP1,Spain-LaLiga,2223,Almeria,Espanol,3.0,1.0,H,1.0,0.0,H,2.38,3.1,3.2,2.44,3.22,3.32,2.4,3.18,3.23,2.1,1.73,2.16,1.72,-0.25,2.06,1.84,Almeria,Espanyol,almeria,espanyol
+2023-02-19,SP1,Spain-LaLiga,2223,Elche,Espanol,0.0,1.0,A,0.0,0.0,D,2.9,3.1,2.63,2.97,3.19,2.69,2.89,3.14,2.63,2.3,1.62,2.31,1.63,0.0,2.06,1.84,Elche,Espanyol,elche,espanyol
+2023-03-05,SP1,Spain-LaLiga,2223,Valladolid,Espanol,2.0,1.0,H,1.0,0.0,H,2.5,3.2,2.88,2.59,3.24,3.0,2.55,3.21,2.93,2.2,1.67,2.27,1.65,0.0,1.81,2.09,Real Valladolid,Espanyol,real_valladolid,espanyol
+2023-03-11,SP1,Spain-LaLiga,2223,Real Madrid,Espanol,3.0,1.0,H,2.0,1.0,H,1.25,6.5,9.5,1.27,6.17,11.72,1.26,6.0,11.6,1.62,2.3,1.62,2.31,-1.75,2.05,1.88,Real Madrid,Espanyol,real_madrid,espanyol
+2023-04-01,SP1,Spain-LaLiga,2223,Girona,Espanol,2.0,1.0,H,0.0,0.0,D,1.91,3.3,4.33,1.94,3.5,4.38,1.94,3.46,4.15,2.05,1.85,2.03,1.8,-0.5,1.92,1.98,Girona,Espanyol,girona,espanyol
+2023-04-15,SP1,Spain-LaLiga,2223,Betis,Espanol,3.0,1.0,H,2.0,0.0,H,1.83,3.5,4.5,1.85,3.6,4.74,1.85,3.54,4.56,2.1,1.73,2.14,1.73,-0.5,1.85,2.05,Real Betis,Espanyol,real_betis,espanyol
+2023-04-27,SP1,Spain-LaLiga,2223,Villarreal,Espanol,4.0,2.0,H,0.0,1.0,A,1.57,4.0,6.0,1.6,4.17,6.01,1.6,4.05,5.75,1.87,2.03,1.84,1.99,-1.0,2.03,1.87,Villarreal,Espanyol,villarreal,espanyol
+2023-05-04,SP1,Spain-LaLiga,2223,Sevilla,Espanol,3.0,2.0,H,1.0,2.0,A,1.83,3.6,4.2,1.85,3.65,4.66,1.86,3.58,4.36,2.0,1.8,2.05,1.79,-0.5,1.87,2.03,Sevilla,Espanyol,sevilla,espanyol
+2023-05-21,SP1,Spain-LaLiga,2223,Vallecano,Espanol,1.0,2.0,A,1.0,1.0,D,2.15,3.4,3.4,2.17,3.53,3.51,2.17,3.46,3.42,2.03,1.87,2.0,1.83,-0.25,1.87,2.03,Rayo Vallecano,Espanyol,rayo_vallecano,espanyol
+2023-05-28,SP1,Spain-LaLiga,2223,Valencia,Espanol,2.0,2.0,D,1.0,1.0,D,2.0,3.75,3.4,2.02,3.78,3.71,2.01,3.62,3.64,1.88,2.02,1.87,1.95,-0.5,1.99,1.91,Valencia,Espanyol,valencia,espanyol
+2023-08-13,SP2,Spain-Segunda,2324,Albacete,Espanol,1.0,1.0,D,0.0,1.0,A,3.3,3.3,2.25,3.09,3.26,2.52,2.98,3.15,2.4,2.15,1.67,2.16,1.67,0.25,1.85,2.0,Albacete,Espanyol,albacete,espanyol
+2023-08-27,SP2,Spain-Segunda,2324,Mirandes,Espanol,0.0,1.0,A,0.0,0.0,D,3.6,3.1,2.25,3.58,3.22,2.28,3.39,3.18,2.2,2.25,1.62,2.28,1.61,0.25,1.98,1.88,Mirandes,Espanyol,mirandes,espanyol
+2023-09-08,SP2,Spain-Segunda,2324,Levante,Espanol,1.0,4.0,A,1.0,2.0,A,2.55,3.25,2.88,2.67,3.19,2.95,2.56,3.15,2.81,2.1,1.7,2.14,1.68,0.0,1.85,2.0,Levante,Espanyol,levante,espanyol
+2023-09-25,SP2,Spain-Segunda,2324,Tenerife,Espanol,1.0,0.0,H,1.0,0.0,H,,,,,,,2.61,3.0,2.82,,,2.49,1.51,,,,Tenerife,Espanyol,tenerife,espanyol
+2023-10-05,SP2,Spain-Segunda,2324,Cartagena,Espanol,0.0,2.0,A,0.0,1.0,A,3.75,3.6,1.95,3.81,3.63,2.04,3.73,3.46,1.96,2.03,1.83,2.0,1.79,0.5,1.88,1.98,Cartagena,Espanyol,cartagena,espanyol
+2023-10-09,SP2,Spain-Segunda,2324,Villarreal B,Espanol,3.0,1.0,H,2.0,1.0,H,4.33,3.5,1.85,4.38,3.84,1.83,4.17,3.67,1.8,1.8,2.0,1.79,1.99,0.75,1.8,2.0,Villarreal B,Espanyol,villarreal_b,espanyol
+2023-10-28,SP2,Spain-Segunda,2324,Sp Gijon,Espanol,2.0,0.0,H,1.0,0.0,H,2.6,3.1,2.88,2.56,3.29,3.0,2.48,3.21,2.86,2.05,1.75,2.05,1.75,0.0,1.8,2.05,Sp Gijon,Espanyol,sp_gijon,espanyol
+2023-11-12,SP2,Spain-Segunda,2324,Huesca,Espanol,1.0,1.0,D,0.0,0.0,D,3.8,3.2,2.1,3.88,3.21,2.18,3.7,3.13,2.11,2.35,1.57,2.32,1.59,0.25,2.03,1.83,Huesca,Espanyol,huesca,espanyol
+2023-12-01,SP2,Spain-Segunda,2324,Oviedo,Espanol,2.0,0.0,H,1.0,0.0,H,2.75,3.0,2.88,2.83,2.84,3.11,2.71,2.81,2.95,2.88,1.4,2.81,1.41,0.0,1.83,2.03,Real Oviedo,Espanyol,real_oviedo,espanyol
+2023-12-16,SP2,Spain-Segunda,2324,Andorra,Espanol,1.0,1.0,D,0.0,0.0,D,3.1,3.1,2.45,3.21,3.13,2.52,3.07,3.12,2.4,2.25,1.62,2.25,1.63,0.25,1.78,2.1,Andorra,Espanyol,andorra,espanyol
+2024-01-13,SP2,Spain-Segunda,2324,Ferrol,Espanol,0.0,0.0,D,0.0,0.0,D,2.4,3.2,3.0,2.55,3.22,3.08,2.46,3.16,2.93,2.2,1.65,2.18,1.66,-0.25,2.1,1.78,Ferrol,Espanyol,ferrol,espanyol
+2024-01-28,SP2,Spain-Segunda,2324,Eldense,Espanol,3.0,2.0,H,2.0,2.0,D,3.0,3.1,2.5,3.11,3.11,2.6,3.01,3.03,2.46,2.35,1.57,2.38,1.56,0.25,1.73,2.08,Eldense,Espanyol,eldense,espanyol
+2024-02-10,SP2,Spain-Segunda,2324,Santander,Espanol,2.0,0.0,H,2.0,0.0,H,2.6,3.0,3.0,2.64,3.17,3.0,2.55,3.09,2.86,2.08,1.73,2.08,1.73,0.0,1.8,2.05,Santander,Espanyol,santander,espanyol
+2024-02-24,SP2,Spain-Segunda,2324,Eibar,Espanol,2.0,3.0,A,1.0,0.0,H,2.05,3.3,3.8,2.08,3.2,4.25,2.04,3.17,3.81,2.15,1.67,2.17,1.67,-0.5,2.05,1.8,Eibar,Espanyol,eibar,espanyol
+2024-03-10,SP2,Spain-Segunda,2324,Alcorcon,Espanol,1.0,1.0,D,0.0,0.0,D,3.6,3.2,2.15,3.91,3.06,2.12,3.66,3.05,2.12,2.5,1.5,2.54,1.49,0.25,2.0,1.85,Alcorcon,Espanyol,alcorcon,espanyol
+2024-03-17,SP2,Spain-Segunda,2324,Zaragoza,Espanol,0.0,1.0,A,0.0,1.0,A,2.63,2.9,2.9,2.73,2.88,2.93,2.64,2.86,2.9,2.7,1.44,2.73,1.43,0.0,1.83,2.03,Zaragoza,Espanyol,zaragoza,espanyol
+2024-03-29,SP2,Spain-Segunda,2324,Burgos,Espanol,0.0,0.0,D,0.0,0.0,D,2.55,3.1,3.0,2.62,2.96,3.19,2.52,2.94,3.03,2.5,1.5,2.52,1.5,-0.25,2.08,1.73,Burgos,Espanyol,burgos,espanyol
+2024-04-12,SP2,Spain-Segunda,2324,Leganes,Espanol,0.0,0.0,D,0.0,0.0,D,2.38,2.88,3.4,2.48,2.85,3.58,2.41,2.83,3.35,2.88,1.4,2.72,1.43,-0.25,2.03,1.83,Leganes,Espanyol,leganes,espanyol
+2024-04-27,SP2,Spain-Segunda,2324,Elche,Espanol,2.0,2.0,D,1.0,1.0,D,2.2,3.25,3.4,2.1,3.26,3.99,2.08,3.18,3.66,2.25,1.62,2.28,1.6,-0.25,1.85,1.95,Elche,Espanyol,elche,espanyol
+2024-05-11,SP2,Spain-Segunda,2324,Valladolid,Espanol,0.0,0.0,D,0.0,0.0,D,2.1,3.1,3.75,2.17,3.09,3.63,2.14,3.1,3.56,2.35,1.57,2.35,1.57,-0.25,1.85,2.0,Real Valladolid,Espanyol,real_valladolid,espanyol
+2024-05-26,SP2,Spain-Segunda,2324,Amorebieta,Espanol,0.0,0.0,D,0.0,0.0,D,3.6,3.2,2.15,3.49,3.21,2.11,3.47,3.21,2.1,2.1,1.7,2.11,1.69,0.25,2.0,1.85,Amorebieta,Espanyol,amorebieta,espanyol
+2024-08-19,SP1,Spain-LaLiga,2425,Valladolid,Espanol,1.0,0.0,H,1.0,0.0,H,2.38,3.0,3.4,2.39,3.07,3.47,2.36,3.1,3.34,2.3,1.62,2.33,1.61,-0.25,2.05,1.88,Real Valladolid,Espanyol,real_valladolid,espanyol
+2024-08-28,SP1,Spain-LaLiga,2425,Ath Madrid,Espanol,0.0,0.0,D,0.0,0.0,D,1.3,5.25,11.0,1.29,5.48,12.02,1.3,5.42,11.24,1.8,2.0,1.8,2.02,-1.5,1.95,1.98,Atletico Madrid,Espanyol,atletico_madrid,espanyol
+2024-09-21,SP1,Spain-LaLiga,2425,Real Madrid,Espanol,4.0,1.0,H,0.0,0.0,D,1.17,7.0,19.0,1.17,8.33,15.46,1.16,8.07,16.79,1.4,3.0,1.4,2.94,-2.25,2.04,1.86,Real Madrid,Espanyol,real_madrid,espanyol
+2024-09-29,SP1,Spain-LaLiga,2425,Betis,Espanol,1.0,0.0,H,0.0,0.0,D,1.65,3.4,5.75,1.64,3.87,5.91,1.67,3.77,5.58,2.0,1.8,2.07,1.78,-0.75,1.84,2.06,Real Betis,Espanyol,real_betis,espanyol
+2024-10-19,SP1,Spain-LaLiga,2425,Ath Bilbao,Espanol,4.0,1.0,H,3.0,0.0,H,1.45,4.2,7.5,1.44,4.3,8.97,1.46,4.32,7.98,1.95,1.95,1.93,1.9,-1.25,2.08,1.82,Athletic Bilbao,Espanyol,athletic_bilbao,espanyol
+2024-11-03,SP1,Spain-LaLiga,2425,Barcelona,Espanol,3.0,1.0,H,3.0,0.0,H,1.13,9.0,19.0,1.11,11.88,18.23,1.12,10.76,17.94,1.2,4.5,1.19,4.44,-2.5,1.87,2.03,Barcelona,Espanyol,barcelona,espanyol
+2024-11-23,SP1,Spain-LaLiga,2425,Girona,Espanol,4.0,1.0,H,4.0,0.0,H,1.67,3.9,5.25,1.66,4.01,5.39,1.67,3.91,5.3,1.95,1.95,1.93,1.9,-0.75,1.85,2.05,Girona,Espanyol,girona,espanyol
+2024-12-09,SP1,Spain-LaLiga,2425,Getafe,Espanol,1.0,0.0,H,1.0,0.0,H,1.8,3.1,5.75,1.8,3.23,5.85,1.8,3.17,5.61,3.0,1.4,2.93,1.41,-0.75,2.05,1.75,Getafe,Espanyol,getafe,espanyol
+2024-12-22,SP1,Spain-LaLiga,2425,Las Palmas,Espanol,1.0,0.0,H,0.0,0.0,D,1.85,3.6,4.33,1.87,3.57,4.53,1.84,3.54,4.45,2.1,1.73,2.09,1.74,-0.5,1.87,2.03,Las Palmas,Espanyol,las_palmas,espanyol
+2025-01-25,SP1,Spain-LaLiga,2425,Sevilla,Espanol,1.0,1.0,D,0.0,1.0,A,1.7,3.8,4.75,1.71,3.85,5.21,1.71,3.75,5.06,2.2,1.67,2.16,1.7,-0.75,1.95,1.95,Sevilla,Espanyol,sevilla,espanyol
+2025-02-09,SP1,Spain-LaLiga,2425,Sociedad,Espanol,2.0,1.0,H,1.0,0.0,H,1.6,3.9,5.75,1.61,3.85,6.33,1.59,3.81,6.29,2.2,1.67,2.25,1.65,-1.0,2.05,1.75,Real Sociedad,Espanyol,real_sociedad,espanyol
+2025-02-22,SP1,Spain-LaLiga,2425,Alaves,Espanol,0.0,1.0,A,0.0,0.0,D,1.8,3.25,5.25,1.79,3.45,5.33,1.8,3.38,5.22,2.63,1.5,2.62,1.5,-0.75,2.08,1.82,Deportivo Alaves,Espanyol,deportivo_alaves,espanyol
+2025-03-15,SP1,Spain-LaLiga,2425,Mallorca,Espanol,2.0,1.0,H,0.0,0.0,D,1.77,3.3,5.0,1.83,3.4,5.1,1.82,3.37,4.91,2.5,1.53,2.54,1.53,-0.5,1.84,2.06,Mallorca,Espanyol,mallorca,espanyol
+2025-04-04,SP1,Spain-LaLiga,2425,Vallecano,Espanol,0.0,4.0,A,0.0,2.0,A,1.65,3.5,6.0,1.69,3.64,6.13,1.69,3.55,5.88,2.38,1.57,2.45,1.55,-0.75,1.94,1.99,Rayo Vallecano,Espanyol,rayo_vallecano,espanyol
+2025-04-12,SP1,Spain-LaLiga,2425,Celta,Espanol,0.0,2.0,A,0.0,1.0,A,1.62,3.7,6.0,1.64,3.88,5.89,1.64,3.81,5.69,2.07,1.83,2.01,1.82,-0.75,1.82,2.08,Celta Vigo,Espanyol,celta_vigo,espanyol
+2025-04-22,SP1,Spain-LaLiga,2425,Valencia,Espanol,1.0,1.0,D,0.0,1.0,A,1.95,3.3,4.1,2.01,3.37,4.28,1.98,3.34,4.13,2.2,1.67,2.18,1.69,-0.5,2.0,1.9,Valencia,Espanyol,valencia,espanyol
+2025-04-27,SP1,Spain-LaLiga,2425,Villarreal,Espanol,1.0,0.0,H,0.0,0.0,D,1.44,5.0,6.25,1.45,5.3,6.19,1.44,4.85,6.28,1.73,2.1,1.72,2.11,-1.25,2.0,1.9,Villarreal,Espanyol,villarreal,espanyol
+2025-05-11,SP1,Spain-LaLiga,2425,Leganes,Espanol,3.0,2.0,H,2.0,0.0,H,2.4,3.0,3.2,2.45,3.13,3.28,2.41,3.07,3.22,2.63,1.5,2.54,1.51,-0.25,2.07,1.83,Leganes,Espanyol,leganes,espanyol
+2025-05-18,SP1,Spain-LaLiga,2425,Osasuna,Espanol,2.0,0.0,H,1.0,0.0,H,1.8,3.3,4.75,1.83,3.6,4.68,1.83,3.48,4.59,2.1,1.73,2.09,1.75,-0.5,1.83,2.03,Osasuna,Espanyol,osasuna,espanyol
+2025-08-24,SP1,Spain-LaLiga,2526,Sociedad,Espanol,2.0,2.0,D,0.0,2.0,A,1.8,3.4,5.0,1.83,3.49,4.91,1.81,3.39,4.6,2.2,1.67,2.26,1.59,-0.5,1.74,1.99,Real Sociedad,Espanyol,real_sociedad,espanyol
+2025-09-20,SP1,Spain-LaLiga,2526,Real Madrid,Espanol,2.0,0.0,H,1.0,0.0,H,1.2,7.0,13.0,1.22,6.36,15.46,1.2,6.67,13.36,1.4,3.0,1.38,2.91,-2.0,1.98,1.88,Real Madrid,Espanyol,real_madrid,espanyol
+2025-09-26,SP1,Spain-LaLiga,2526,Girona,Espanol,0.0,0.0,D,0.0,0.0,D,2.45,3.3,2.88,2.53,3.36,2.98,2.44,3.31,2.87,2.03,1.83,1.96,1.81,-0.25,2.08,1.73,Girona,Espanyol,girona,espanyol
+2025-10-17,SP1,Spain-LaLiga,2526,Oviedo,Espanol,0.0,2.0,A,0.0,0.0,D,3.0,3.1,2.5,3.09,3.04,2.62,2.98,3.02,2.53,2.63,1.5,2.51,1.5,0.0,2.1,1.78,Real Oviedo,Espanyol,real_oviedo,espanyol
+2025-11-02,SP1,Spain-LaLiga,2526,Alaves,Espanol,2.0,1.0,H,2.0,0.0,H,2.38,3.0,3.3,2.44,3.06,3.38,2.38,3.01,3.24,2.63,1.5,2.48,1.5,-0.25,2.0,1.85,Deportivo Alaves,Espanyol,deportivo_alaves,espanyol
+2025-11-30,SP1,Spain-LaLiga,2526,Celta,Espanol,0.0,1.0,A,0.0,0.0,D,2.05,3.5,3.5,2.05,3.42,3.95,1.98,3.42,3.73,1.8,2.0,1.85,1.89,-0.5,2.05,1.75,Celta Vigo,Espanyol,celta_vigo,espanyol
+2025-12-13,SP1,Spain-LaLiga,2526,Getafe,Espanol,0.0,1.0,A,0.0,0.0,D,2.5,2.8,3.25,2.61,2.89,3.29,2.52,2.85,3.18,3.2,1.36,3.01,1.36,-0.25,2.13,1.75,Getafe,Espanyol,getafe,espanyol
+2025-12-22,SP1,Spain-LaLiga,2526,Ath Bilbao,Espanol,1.0,2.0,A,1.0,1.0,D,1.75,3.6,5.0,1.8,3.51,5.1,1.74,3.46,4.92,2.3,1.62,2.22,1.61,-0.75,2.03,1.83,Athletic Bilbao,Espanyol,athletic_bilbao,espanyol
+2026-01-11,SP1,Spain-LaLiga,2526,Levante,Espanol,1.0,1.0,D,0.0,0.0,D,3.1,3.3,2.35,3.16,3.29,2.42,3.05,3.28,2.31,2.0,1.8,2.04,1.73,0.25,1.83,2.03,Levante,Espanyol,levante,espanyol
+2026-01-24,SP1,Spain-LaLiga,2526,Valencia,Espanol,3.0,2.0,H,1.0,0.0,H,2.45,3.1,3.1,,,,2.39,3.17,3.07,2.3,1.62,2.23,1.61,-0.25,2.1,1.78,Valencia,Espanyol,valencia,espanyol
+2026-02-09,SP1,Spain-LaLiga,2526,Villarreal,Espanol,4.0,1.0,H,2.0,0.0,H,1.7,4.33,4.33,,,,1.67,3.99,4.53,1.73,2.1,1.72,2.04,-0.75,1.88,1.98,Villarreal,Espanyol,villarreal,espanyol
+2026-02-21,SP1,Spain-LaLiga,2526,Ath Madrid,Espanol,4.0,2.0,H,1.0,1.0,D,1.5,4.1,7.0,,,,1.47,4.25,6.87,1.91,1.91,1.83,1.91,-1.0,1.85,2.0,Atletico Madrid,Espanyol,atletico_madrid,espanyol
+2026-03-01,SP1,Spain-LaLiga,2526,Elche,Espanol,2.0,2.0,D,1.0,1.0,D,2.38,3.3,3.0,,,,2.38,3.17,3.0,2.03,1.83,1.99,1.76,-0.25,2.05,1.8,Elche,Espanyol,elche,espanyol
+2026-03-15,SP1,Spain-LaLiga,2526,Mallorca,Espanol,2.0,1.0,H,0.0,1.0,A,2.3,3.2,3.3,,,,2.3,3.09,3.19,2.3,1.62,2.31,1.57,-0.25,1.98,1.88,Mallorca,Espanyol,mallorca,espanyol
+2026-04-04,SP1,Spain-LaLiga,2526,Betis,Espanol,0.0,0.0,D,0.0,0.0,D,1.73,4.0,4.75,,,,1.71,3.88,4.59,1.85,2.0,1.81,1.93,-0.75,1.93,1.93,Real Betis,Espanyol,real_betis,espanyol
+2026-04-11,SP1,Spain-LaLiga,2526,Barcelona,Espanol,4.0,1.0,H,2.0,0.0,H,1.29,6.0,9.0,,,,1.26,6.26,9.39,1.33,3.4,1.3,3.34,-1.75,1.93,1.93,Barcelona,Espanyol,barcelona,espanyol
+2026-04-23,SP1,Spain-LaLiga,2526,Vallecano,Espanol,1.0,0.0,H,0.0,0.0,D,2.1,3.25,3.75,,,,2.08,3.2,3.65,2.1,1.73,2.11,1.67,-0.5,2.08,1.73,Rayo Vallecano,Espanyol,rayo_vallecano,espanyol
+2026-05-09,SP1,Spain-LaLiga,2526,Sevilla,Espanol,2.0,1.0,H,0.0,0.0,D,2.05,3.4,3.7,,,,2.02,3.34,3.66,2.1,1.73,2.08,1.7,-0.5,2.03,1.83,Sevilla,Espanyol,sevilla,espanyol
+2026-05-17,SP1,Spain-LaLiga,2526,Osasuna,Espanol,1.0,2.0,A,0.0,1.0,A,2.05,3.1,3.8,,,,2.05,3.11,3.7,2.1,1.73,2.17,1.64,-0.5,2.05,1.8,Osasuna,Espanyol,osasuna,espanyol
+2026-08-29,SP1,Spain-LaLiga,2627,Sociedad,Espanol,2.0,1.0,H,1.0,1.0,D,1.91,3.6,4.0,,,,1.88,3.64,3.92,1.88,1.98,1.8,1.94,-0.5,1.9,1.95,Real Sociedad,Espanyol,real_sociedad,espanyol
+2026-09-12,SP1,Spain-LaLiga,2627,Osasuna,Espanol,0.0,2.0,A,0.0,2.0,A,2.15,3.1,3.75,,,,2.11,3.25,3.58,2.2,1.67,2.16,1.65,-0.25,1.83,2.03,Osasuna,Espanyol,osasuna,espanyol
+2026-09-15,SP1,Spain-LaLiga,2627,Vallecano,Espanol,2.0,1.0,H,2.0,0.0,H,2.3,3.3,3.1,,,,2.3,3.37,3.03,1.95,1.9,1.87,1.87,-0.25,2.03,1.83,Rayo Vallecano,Espanyol,rayo_vallecano,espanyol
+2026-10-09,SP1,Spain-LaLiga,2627,Malaga,Espanol,1.0,1.0,D,0.0,1.0,A,2.9,3.2,2.55,,,,2.8,3.18,2.57,2.0,1.8,2.0,1.76,0.0,2.05,1.8,Malaga,Espanyol,malaga,espanyol

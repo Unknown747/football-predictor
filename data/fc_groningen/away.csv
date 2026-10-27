@@ -1,0 +1,73 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,N1,Netherlands-ED,2122,Cambuur,Groningen,1.0,2.0,A,0.0,1.0,A,2.4,3.4,2.87,2.49,3.62,2.82,2.46,3.51,2.72,1.75,2.05,1.77,2.05,0.0,1.8,2.1,SC Cambuur,FC Groningen,sc_cambuur,fc_groningen
+2021-08-28,N1,Netherlands-ED,2122,PSV Eindhoven,Groningen,5.0,2.0,H,3.0,2.0,H,1.33,5.25,8.0,1.33,5.4,9.87,1.33,5.19,8.92,1.57,2.35,1.59,2.33,-1.5,2.05,1.85,PSV Eindhoven,FC Groningen,psv_eindhoven,fc_groningen
+2021-09-18,N1,Netherlands-ED,2122,Willem II,Groningen,2.0,1.0,H,2.0,0.0,H,2.3,3.4,2.9,2.48,3.44,3.0,2.42,3.34,2.89,1.9,1.9,1.9,1.91,0.0,1.77,2.14,Willem II,FC Groningen,willem_ii,fc_groningen
+2021-09-25,N1,Netherlands-ED,2122,Ajax,Groningen,3.0,0.0,H,1.0,0.0,H,1.06,10.0,19.0,1.06,15.2,47.04,1.05,14.34,40.64,1.25,4.0,1.23,3.94,-3.25,2.02,1.77,Ajax,FC Groningen,ajax,fc_groningen
+2021-10-17,N1,Netherlands-ED,2122,Sparta Rotterdam,Groningen,1.0,1.0,D,1.0,1.0,D,2.2,3.2,2.87,2.4,3.35,3.21,2.34,3.32,2.99,1.93,1.93,1.91,1.9,-0.25,2.05,1.85,Sparta Rotterdam,FC Groningen,sparta_rotterdam,fc_groningen
+2021-10-31,N1,Netherlands-ED,2122,Nijmegen,Groningen,3.0,0.0,H,1.0,0.0,H,2.5,3.4,2.7,2.63,3.35,2.87,2.53,3.28,2.76,1.95,1.85,1.95,1.85,0.0,1.86,2.04,NEC Nijmegen,FC Groningen,nec_nijmegen,fc_groningen
+2021-11-21,N1,Netherlands-ED,2122,Go Ahead Eagles,Groningen,0.0,1.0,A,0.0,0.0,D,2.3,3.4,3.1,2.43,3.31,3.17,2.35,3.33,3.02,1.95,1.9,1.93,1.87,-0.25,2.07,1.83,Go Ahead Eagles,FC Groningen,go_ahead_eagles,fc_groningen
+2021-11-27,N1,Netherlands-ED,2122,For Sittard,Groningen,1.0,4.0,A,1.0,2.0,A,3.0,3.3,2.3,3.16,3.43,2.39,2.97,3.34,2.38,1.95,1.9,1.92,1.88,0.25,1.83,2.07,For Sittard,FC Groningen,for_sittard,fc_groningen
+2021-12-18,N1,Netherlands-ED,2122,Heracles,Groningen,4.0,2.0,H,2.0,1.0,H,2.1,3.4,3.5,2.1,3.43,3.85,2.1,3.38,3.56,2.15,1.66,2.11,1.73,-0.25,1.83,2.07,Heracles Almelo,FC Groningen,heracles_almelo,fc_groningen
+2021-12-21,N1,Netherlands-ED,2122,AZ Alkmaar,Groningen,1.0,0.0,H,0.0,0.0,D,1.33,5.25,9.5,1.37,5.12,9.32,1.36,4.98,8.74,1.65,2.2,1.68,2.19,-1.5,2.02,1.77,AZ Alkmaar,FC Groningen,az_alkmaar,fc_groningen
+2022-01-22,N1,Netherlands-ED,2122,Vitesse,Groningen,1.0,3.0,A,0.0,1.0,A,1.7,3.6,5.0,1.73,3.78,5.3,1.69,3.74,5.0,1.93,1.93,1.89,1.91,-0.75,1.92,1.98,Vitesse,FC Groningen,vitesse,fc_groningen
+2022-02-20,N1,Netherlands-ED,2122,Zwolle,Groningen,1.0,1.0,D,0.0,1.0,A,2.25,3.4,3.2,2.24,3.49,3.39,2.24,3.36,3.21,2.05,1.75,2.0,1.8,-0.25,1.97,1.93,PEC Zwolle,FC Groningen,pec_zwolle,fc_groningen
+2022-03-05,N1,Netherlands-ED,2122,Feyenoord,Groningen,1.0,1.0,D,0.0,1.0,A,1.28,5.25,12.0,1.29,5.51,13.16,1.27,5.59,11.34,1.65,2.2,1.64,2.24,-1.5,1.83,2.07,Feyenoord,FC Groningen,feyenoord,fc_groningen
+2022-03-20,N1,Netherlands-ED,2122,Utrecht,Groningen,1.0,3.0,A,0.0,2.0,A,1.7,3.75,5.0,1.73,3.62,5.68,1.7,3.72,5.06,1.95,1.9,1.92,1.88,-0.75,1.92,1.98,FC Utrecht,FC Groningen,fc_utrecht,fc_groningen
+2022-04-10,N1,Netherlands-ED,2122,Heerenveen,Groningen,3.0,1.0,H,1.0,1.0,D,2.37,3.4,3.0,2.46,3.22,3.22,2.4,3.24,3.04,2.1,1.7,2.15,1.7,-0.25,2.08,1.82,SC Heerenveen,FC Groningen,sc_heerenveen,fc_groningen
+2022-05-01,N1,Netherlands-ED,2122,Waalwijk,Groningen,3.0,1.0,H,3.0,0.0,H,2.75,3.4,2.55,2.87,3.36,2.62,2.79,3.28,2.55,2.05,1.75,2.06,1.76,0.0,2.03,1.87,RKC Waalwijk,FC Groningen,rkc_waalwijk,fc_groningen
+2022-05-11,N1,Netherlands-ED,2122,Twente,Groningen,3.0,0.0,H,1.0,0.0,H,1.55,4.2,6.0,1.57,4.32,6.06,1.58,4.12,5.61,1.83,2.02,1.81,2.0,-1.0,2.05,1.85,FC Twente,FC Groningen,fc_twente,fc_groningen
+2022-08-14,N1,Netherlands-ED,2223,Ajax,Groningen,6.0,1.0,H,3.0,1.0,H,1.16,8.5,13.0,1.18,8.37,14.21,1.16,7.97,14.63,1.3,3.5,1.32,3.32,-2.25,1.98,1.92,Ajax,FC Groningen,ajax,fc_groningen
+2022-08-26,N1,Netherlands-ED,2223,Nijmegen,Groningen,1.0,1.0,D,0.0,0.0,D,2.1,3.5,3.6,2.1,3.53,3.71,2.07,3.46,3.53,1.95,1.9,1.92,1.87,-0.5,2.05,1.75,NEC Nijmegen,FC Groningen,nec_nijmegen,fc_groningen
+2022-09-11,N1,Netherlands-ED,2223,Cambuur,Groningen,0.0,1.0,A,0.0,0.0,D,2.15,3.5,3.3,2.18,3.75,3.31,2.15,3.61,3.16,1.7,2.1,1.71,2.12,-0.25,1.89,2.01,SC Cambuur,FC Groningen,sc_cambuur,fc_groningen
+2022-09-17,N1,Netherlands-ED,2223,Sparta Rotterdam,Groningen,2.0,1.0,H,0.0,0.0,D,2.2,3.25,3.6,2.17,3.44,3.62,2.18,3.35,3.35,2.05,1.75,2.04,1.76,-0.25,1.9,2.0,Sparta Rotterdam,FC Groningen,sparta_rotterdam,fc_groningen
+2022-10-16,N1,Netherlands-ED,2223,Twente,Groningen,3.0,0.0,H,0.0,0.0,D,1.4,4.75,7.0,1.41,4.94,8.31,1.4,4.7,7.53,1.7,2.1,1.69,2.15,-1.25,1.93,1.97,FC Twente,FC Groningen,fc_twente,fc_groningen
+2022-10-30,N1,Netherlands-ED,2223,FC Emmen,Groningen,0.0,0.0,D,0.0,0.0,D,2.25,3.5,3.1,2.29,3.37,3.39,2.25,3.34,3.15,1.98,1.88,1.93,1.85,-0.25,1.97,1.93,FC Emmen,FC Groningen,fc_emmen,fc_groningen
+2022-11-06,N1,Netherlands-ED,2223,Utrecht,Groningen,2.0,1.0,H,0.0,1.0,A,1.66,4.0,5.0,1.71,4.21,4.82,1.68,3.98,4.69,1.7,2.1,1.71,2.11,-0.75,1.88,2.02,FC Utrecht,FC Groningen,fc_utrecht,fc_groningen
+2023-01-08,N1,Netherlands-ED,2223,Excelsior,Groningen,1.0,0.0,H,0.0,0.0,D,2.7,3.4,2.6,2.68,3.79,2.56,2.64,3.65,2.48,1.6,2.3,1.61,2.3,0.0,1.99,1.91,Excelsior,FC Groningen,excelsior,fc_groningen
+2023-01-22,N1,Netherlands-ED,2223,Heerenveen,Groningen,3.0,1.0,H,1.0,1.0,D,1.73,3.75,5.0,1.74,4.0,4.9,1.72,3.79,4.69,1.88,1.98,1.85,1.96,-0.75,1.95,1.95,SC Heerenveen,FC Groningen,sc_heerenveen,fc_groningen
+2023-01-29,N1,Netherlands-ED,2223,Volendam,Groningen,3.0,2.0,H,1.0,0.0,H,2.3,3.5,3.0,2.32,3.63,3.11,2.3,3.47,2.98,1.88,1.98,1.85,1.95,-0.25,2.03,1.87,FC Volendam,FC Groningen,fc_volendam,fc_groningen
+2023-02-11,N1,Netherlands-ED,2223,PSV Eindhoven,Groningen,6.0,0.0,H,1.0,0.0,H,1.14,7.5,15.0,1.17,7.89,19.0,1.15,7.72,17.07,1.44,2.7,1.44,2.75,-2.25,2.05,1.85,PSV Eindhoven,FC Groningen,psv_eindhoven,fc_groningen
+2023-03-04,N1,Netherlands-ED,2223,Feyenoord,Groningen,1.0,0.0,H,0.0,0.0,D,1.2,7.0,13.0,1.22,7.32,12.92,1.2,6.96,12.56,1.4,2.88,1.41,2.85,-2.0,2.01,1.89,Feyenoord,FC Groningen,feyenoord,fc_groningen
+2023-03-11,N1,Netherlands-ED,2223,AZ Alkmaar,Groningen,1.0,0.0,H,1.0,0.0,H,1.33,5.0,9.5,1.33,5.56,10.06,1.32,5.24,9.23,1.6,2.3,1.63,2.27,-1.5,1.99,1.91,AZ Alkmaar,FC Groningen,az_alkmaar,fc_groningen
+2023-04-02,N1,Netherlands-ED,2223,For Sittard,Groningen,3.0,1.0,H,2.0,0.0,H,2.1,3.4,3.3,2.17,3.62,3.39,2.12,3.49,3.31,1.88,1.98,1.85,1.95,-0.25,1.86,2.04,For Sittard,FC Groningen,for_sittard,fc_groningen
+2023-04-15,N1,Netherlands-ED,2223,Waalwijk,Groningen,2.0,1.0,H,0.0,0.0,D,1.91,3.5,4.2,1.94,3.73,4.05,1.92,3.63,3.86,1.75,2.05,1.77,2.04,-0.5,1.94,1.96,RKC Waalwijk,FC Groningen,rkc_waalwijk,fc_groningen
+2023-05-07,N1,Netherlands-ED,2223,Go Ahead Eagles,Groningen,1.0,1.0,D,1.0,1.0,D,1.7,3.8,5.0,1.75,4.15,4.59,1.71,3.97,4.59,1.75,2.05,1.79,2.01,-0.75,1.94,1.96,Go Ahead Eagles,FC Groningen,go_ahead_eagles,fc_groningen
+2023-05-21,N1,Netherlands-ED,2223,Vitesse,Groningen,6.0,0.0,H,2.0,0.0,H,1.44,4.5,7.5,1.45,5.13,6.72,1.43,4.79,6.67,1.6,2.3,1.61,2.29,-1.25,2.03,1.87,Vitesse,FC Groningen,vitesse,fc_groningen
+2024-08-17,N1,Netherlands-ED,2425,Waalwijk,Groningen,1.0,2.0,A,0.0,1.0,A,2.35,3.6,2.88,2.4,3.74,2.73,2.37,3.71,2.75,1.53,2.4,1.53,2.46,-0.25,2.08,1.82,RKC Waalwijk,FC Groningen,rkc_waalwijk,fc_groningen
+2024-08-31,N1,Netherlands-ED,2425,Almere City,Groningen,1.0,1.0,D,1.0,0.0,H,3.4,3.4,2.15,3.43,3.47,2.12,3.35,3.47,2.13,1.93,1.93,1.9,1.9,0.25,2.04,1.86,Almere City,FC Groningen,almere_city,fc_groningen
+2024-09-22,N1,Netherlands-ED,2425,Heerenveen,Groningen,2.0,1.0,H,1.0,1.0,D,2.5,3.6,2.7,2.56,3.59,2.63,2.51,3.53,2.65,1.73,2.08,1.76,2.05,0.0,1.9,2.0,SC Heerenveen,FC Groningen,sc_heerenveen,fc_groningen
+2024-10-06,N1,Netherlands-ED,2425,Ajax,Groningen,3.0,1.0,H,1.0,0.0,H,1.36,5.25,8.0,1.35,5.15,8.06,1.36,5.13,7.95,1.57,2.35,1.56,2.39,-1.25,1.75,2.05,Ajax,FC Groningen,ajax,fc_groningen
+2024-10-26,N1,Netherlands-ED,2425,For Sittard,Groningen,1.0,0.0,H,0.0,0.0,D,2.05,3.5,3.5,2.1,3.32,3.65,2.1,3.38,3.5,2.05,1.8,2.02,1.79,-0.25,1.82,2.08,For Sittard,FC Groningen,for_sittard,fc_groningen
+2024-11-03,N1,Netherlands-ED,2425,Nijmegen,Groningen,6.0,0.0,H,3.0,0.0,H,1.85,3.3,4.75,1.87,3.51,4.32,1.87,3.49,4.2,1.93,1.93,1.89,1.9,-0.5,1.88,2.02,NEC Nijmegen,FC Groningen,nec_nijmegen,fc_groningen
+2024-11-23,N1,Netherlands-ED,2425,PSV Eindhoven,Groningen,5.0,0.0,H,2.0,0.0,H,1.14,8.5,15.0,1.11,10.15,16.9,1.13,9.04,17.5,1.36,3.1,1.37,2.98,-2.25,1.92,1.98,PSV Eindhoven,FC Groningen,psv_eindhoven,fc_groningen
+2024-12-15,N1,Netherlands-ED,2425,Twente,Groningen,2.0,0.0,H,1.0,0.0,H,1.42,4.33,8.0,1.38,4.81,7.89,1.39,4.65,7.69,1.7,2.1,1.69,2.12,-1.25,1.97,1.93,FC Twente,FC Groningen,fc_twente,fc_groningen
+2025-01-18,N1,Netherlands-ED,2425,Go Ahead Eagles,Groningen,2.0,1.0,H,1.0,1.0,D,1.57,4.0,6.0,1.57,3.95,5.96,1.58,4.02,5.58,1.8,2.0,1.77,2.02,-1.0,2.03,1.87,Go Ahead Eagles,FC Groningen,go_ahead_eagles,fc_groningen
+2025-01-28,N1,Netherlands-ED,2425,Heracles,Groningen,1.0,1.0,D,1.0,0.0,H,2.2,3.5,3.1,2.24,3.3,3.32,2.23,3.35,3.17,2.0,1.85,1.96,1.83,-0.25,1.95,1.95,Heracles Almelo,FC Groningen,heracles_almelo,fc_groningen
+2025-02-02,N1,Netherlands-ED,2425,Sparta Rotterdam,Groningen,1.0,0.0,H,0.0,0.0,D,1.8,3.6,4.75,1.79,3.5,4.81,1.78,3.53,4.59,2.03,1.83,1.98,1.81,-0.75,2.06,1.84,Sparta Rotterdam,FC Groningen,sparta_rotterdam,fc_groningen
+2025-02-15,N1,Netherlands-ED,2425,Willem II,Groningen,1.0,3.0,A,0.0,3.0,A,2.5,3.1,3.0,2.5,3.02,3.14,2.48,3.05,3.05,2.35,1.57,2.38,1.57,-0.25,2.08,1.73,Willem II,FC Groningen,willem_ii,fc_groningen
+2025-03-29,N1,Netherlands-ED,2425,NAC Breda,Groningen,1.0,1.0,D,0.0,0.0,D,2.45,3.2,2.9,2.53,3.19,3.03,2.45,3.21,2.96,2.1,1.7,2.13,1.69,0.0,1.81,2.09,NAC Breda,FC Groningen,nac_breda,fc_groningen
+2025-04-02,N1,Netherlands-ED,2425,Feyenoord,Groningen,4.0,1.0,H,2.0,1.0,H,1.38,5.0,7.0,1.36,5.0,8.28,1.36,4.87,8.04,1.65,2.2,1.65,2.16,-1.25,1.86,2.04,Feyenoord,FC Groningen,feyenoord,fc_groningen
+2025-04-13,N1,Netherlands-ED,2425,Utrecht,Groningen,3.0,1.0,H,3.0,1.0,H,1.7,3.7,5.0,1.72,3.81,4.71,1.72,3.75,4.74,1.98,1.88,1.94,1.85,-0.75,1.95,1.95,FC Utrecht,FC Groningen,fc_utrecht,fc_groningen
+2025-05-11,N1,Netherlands-ED,2425,AZ Alkmaar,Groningen,3.0,0.0,H,2.0,0.0,H,1.62,4.2,5.0,1.62,4.08,5.2,1.61,4.04,5.19,1.75,2.05,1.78,2.01,-0.75,1.83,2.07,AZ Alkmaar,FC Groningen,az_alkmaar,fc_groningen
+2025-05-18,N1,Netherlands-ED,2425,Zwolle,Groningen,2.0,0.0,H,1.0,0.0,H,2.35,3.6,2.8,2.32,3.61,2.89,2.31,3.65,2.82,1.62,2.25,1.6,2.27,-0.25,2.0,1.8,PEC Zwolle,FC Groningen,pec_zwolle,fc_groningen
+2025-08-10,N1,Netherlands-ED,2526,AZ Alkmaar,Groningen,4.0,1.0,H,3.0,1.0,H,1.53,4.33,6.0,1.51,4.37,6.0,1.5,4.32,5.91,1.73,2.08,1.69,2.07,-1.0,1.85,1.95,AZ Alkmaar,FC Groningen,az_alkmaar,fc_groningen
+2025-08-23,N1,Netherlands-ED,2526,PSV Eindhoven,Groningen,4.0,2.0,H,1.0,1.0,D,1.18,8.0,12.0,1.16,8.36,12.45,1.16,7.84,13.97,1.3,3.5,1.29,3.35,-2.25,1.98,1.83,PSV Eindhoven,FC Groningen,psv_eindhoven,fc_groningen
+2025-09-14,N1,Netherlands-ED,2526,Utrecht,Groningen,0.0,1.0,A,0.0,0.0,D,1.75,4.0,4.33,1.78,3.88,4.26,1.75,3.8,4.16,1.67,2.15,1.66,2.13,-0.75,1.98,1.83,FC Utrecht,FC Groningen,fc_utrecht,fc_groningen
+2025-10-03,N1,Netherlands-ED,2526,NAC Breda,Groningen,1.0,2.0,A,0.0,1.0,A,2.6,3.3,2.63,2.68,3.45,2.7,2.63,3.3,2.6,1.93,1.88,1.93,1.81,0.0,1.88,1.93,NAC Breda,FC Groningen,nac_breda,fc_groningen
+2025-10-25,N1,Netherlands-ED,2526,For Sittard,Groningen,1.0,2.0,A,0.0,1.0,A,2.88,3.25,2.55,2.87,3.19,2.58,2.78,3.24,2.49,2.0,1.8,1.97,1.76,0.0,2.0,1.8,For Sittard,FC Groningen,for_sittard,fc_groningen
+2025-11-09,N1,Netherlands-ED,2526,Nijmegen,Groningen,2.0,0.0,H,0.0,0.0,D,1.95,3.8,3.6,,,,1.94,3.65,3.57,1.67,2.15,1.66,2.12,-0.5,1.95,1.85,NEC Nijmegen,FC Groningen,nec_nijmegen,fc_groningen
+2025-12-02,N1,Netherlands-ED,2526,Ajax,Groningen,2.0,0.0,H,1.0,0.0,H,1.67,4.2,4.33,1.74,4.07,4.32,1.69,3.91,4.49,1.67,2.15,1.65,2.13,-0.75,1.88,1.93,Ajax,FC Groningen,ajax,fc_groningen
+2025-12-05,N1,Netherlands-ED,2526,Excelsior,Groningen,0.0,2.0,A,0.0,0.0,D,3.4,3.5,2.1,3.44,3.58,2.16,3.36,3.49,2.06,1.85,1.95,1.8,1.93,0.25,2.0,1.8,Excelsior,FC Groningen,excelsior,fc_groningen
+2025-12-21,N1,Netherlands-ED,2526,Go Ahead Eagles,Groningen,1.0,1.0,D,1.0,0.0,H,3.3,3.5,2.15,3.34,3.44,2.17,3.14,3.47,2.15,1.73,2.08,1.68,2.07,0.25,1.95,1.85,Go Ahead Eagles,FC Groningen,go_ahead_eagles,fc_groningen
+2026-01-18,N1,Netherlands-ED,2526,Heerenveen,Groningen,0.0,2.0,A,0.0,0.0,D,2.2,3.3,3.3,,,,2.21,3.38,3.11,1.7,2.1,1.69,2.06,-0.25,1.9,1.9,SC Heerenveen,FC Groningen,sc_heerenveen,fc_groningen
+2026-01-31,N1,Netherlands-ED,2526,Sparta Rotterdam,Groningen,2.0,0.0,H,0.0,0.0,D,2.63,3.5,2.55,,,,2.64,3.37,2.53,1.8,2.0,1.74,1.99,0.0,1.95,1.85,Sparta Rotterdam,FC Groningen,sparta_rotterdam,fc_groningen
+2026-02-22,N1,Netherlands-ED,2526,Twente,Groningen,2.0,1.0,H,1.0,1.0,D,1.53,4.2,6.0,,,,1.53,4.16,5.65,1.67,2.15,1.65,2.12,-1.0,1.9,1.9,FC Twente,FC Groningen,fc_twente,fc_groningen
+2026-03-01,N1,Netherlands-ED,2526,Volendam,Groningen,3.0,2.0,H,1.0,1.0,D,3.75,3.6,1.95,,,,3.61,3.6,1.92,1.7,2.1,1.66,2.11,0.5,1.85,1.95,FC Volendam,FC Groningen,fc_volendam,fc_groningen
+2026-03-13,N1,Netherlands-ED,2526,Zwolle,Groningen,1.0,1.0,D,0.0,0.0,D,2.7,3.6,2.5,,,,2.65,3.52,2.44,1.62,2.25,1.61,2.2,0.0,1.95,1.85,PEC Zwolle,FC Groningen,pec_zwolle,fc_groningen
+2026-04-04,N1,Netherlands-ED,2526,Telstar,Groningen,0.0,2.0,A,0.0,1.0,A,2.63,3.6,2.55,,,,2.59,3.6,2.44,1.57,2.35,1.54,2.34,0.0,1.95,1.85,Telstar,FC Groningen,telstar,fc_groningen
+2026-04-25,N1,Netherlands-ED,2526,Feyenoord,Groningen,3.0,1.0,H,2.0,0.0,H,1.62,4.5,4.33,,,,1.6,4.22,4.63,1.48,2.6,1.48,2.49,-1.0,2.0,1.8,Feyenoord,FC Groningen,feyenoord,fc_groningen
+2026-05-17,N1,Netherlands-ED,2526,Heracles,Groningen,1.0,2.0,A,1.0,1.0,D,4.75,4.2,1.6,,,,4.63,4.43,1.57,1.4,2.88,1.37,2.89,1.0,1.83,1.98,Heracles Almelo,FC Groningen,heracles_almelo,fc_groningen
+2026-08-16,N1,Netherlands-ED,2627,Den Haag,Groningen,1.0,4.0,A,0.0,3.0,A,2.75,3.75,2.38,,,,2.7,3.59,2.34,1.65,2.2,1.6,2.21,0.0,2.03,1.78,Den Haag,FC Groningen,den_haag,fc_groningen
+2026-08-23,N1,Netherlands-ED,2627,PSV Eindhoven,Groningen,5.0,1.0,H,3.0,1.0,H,1.36,5.0,8.5,,,,1.33,5.41,7.24,1.33,3.4,1.31,3.25,-1.5,1.85,1.95,PSV Eindhoven,FC Groningen,psv_eindhoven,fc_groningen
+2026-09-12,N1,Netherlands-ED,2627,Go Ahead Eagles,Groningen,1.0,1.0,D,0.0,1.0,A,2.3,4.0,2.7,,,,2.25,3.83,2.69,1.44,2.7,1.43,2.67,-0.25,2.03,1.78,Go Ahead Eagles,FC Groningen,go_ahead_eagles,fc_groningen
+2026-10-11,N1,Netherlands-ED,2627,Excelsior,Groningen,1.0,5.0,A,1.0,2.0,A,2.55,3.6,2.55,,,,2.51,3.62,2.48,1.53,2.4,1.53,2.38,0.0,1.9,1.9,Excelsior,FC Groningen,excelsior,fc_groningen

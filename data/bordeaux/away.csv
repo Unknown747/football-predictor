@@ -1,0 +1,58 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,F1,France-L1,2122,Marseille,Bordeaux,2.0,2.0,D,2.0,0.0,H,1.53,4.2,6.0,1.55,4.47,6.39,1.54,4.3,6.02,1.9,1.9,1.87,1.96,-1.0,1.98,1.95,Olympique Marseille,Bordeaux,olympique_marseille,bordeaux
+2021-08-28,F1,France-L1,2122,Nice,Bordeaux,4.0,0.0,H,3.0,0.0,H,1.6,4.2,5.25,1.68,4.0,5.54,1.65,3.98,5.26,1.9,1.9,1.87,1.96,-0.75,1.86,2.07,OGC Nice,Bordeaux,ogc_nice,bordeaux
+2021-09-18,F1,France-L1,2122,St Etienne,Bordeaux,1.0,2.0,A,0.0,1.0,A,1.95,3.25,4.2,1.97,3.53,4.32,1.96,3.46,4.04,2.0,1.8,2.05,1.79,-0.5,1.98,1.95,Saint-Etienne,Bordeaux,saint_etienne,bordeaux
+2021-09-22,F1,France-L1,2122,Montpellier,Bordeaux,3.0,3.0,D,1.0,2.0,A,1.9,3.6,3.8,2.02,3.82,3.77,1.98,3.69,3.67,1.72,2.1,1.74,2.1,-0.5,2.01,1.89,Montpellier,Bordeaux,montpellier,bordeaux
+2021-10-03,F1,France-L1,2122,Monaco,Bordeaux,3.0,0.0,H,1.0,0.0,H,1.36,5.0,8.0,1.4,5.2,8.58,1.39,4.96,8.02,1.66,2.2,1.65,2.27,-1.25,1.87,2.06,AS Monaco,Bordeaux,as_monaco,bordeaux
+2021-10-24,F1,France-L1,2122,Lorient,Bordeaux,1.0,1.0,D,0.0,0.0,D,2.0,3.5,3.8,2.08,3.5,3.89,2.06,3.45,3.62,2.0,1.8,1.99,1.83,-0.5,2.06,1.87,Lorient,Bordeaux,lorient,bordeaux
+2021-11-21,F1,France-L1,2122,Metz,Bordeaux,3.0,3.0,D,1.0,2.0,A,2.37,3.4,2.9,2.46,3.31,3.18,2.42,3.29,3.02,2.02,1.83,2.03,1.8,-0.25,2.09,1.84,Metz,Bordeaux,metz,bordeaux
+2021-12-01,F1,France-L1,2122,Strasbourg,Bordeaux,5.0,2.0,H,3.0,1.0,H,1.7,3.8,4.75,1.74,4.15,4.78,1.73,3.94,4.59,1.8,2.0,1.82,2.0,-0.75,1.95,1.98,RC Strasbourg,Bordeaux,rc_strasbourg,bordeaux
+2021-12-12,F1,France-L1,2122,Troyes,Bordeaux,1.0,2.0,A,1.0,1.0,D,2.2,3.5,3.2,2.29,3.52,3.32,2.25,3.47,3.16,1.86,2.07,1.82,2.01,-0.25,1.98,1.95,Troyes,Bordeaux,troyes,bordeaux
+2022-01-16,F1,France-L1,2122,Rennes,Bordeaux,6.0,0.0,H,2.0,0.0,H,1.4,5.0,7.0,1.41,4.93,8.04,1.41,4.88,7.29,1.53,2.5,1.54,2.45,-1.25,1.93,1.97,Stade Rennais,Bordeaux,stade_rennais,bordeaux
+2022-02-06,F1,France-L1,2122,Reims,Bordeaux,5.0,0.0,H,1.0,0.0,H,2.05,3.6,3.5,2.17,3.45,3.55,2.13,3.44,3.48,2.09,1.81,2.04,1.79,-0.25,1.83,2.07,Stade de Reims,Bordeaux,stade_de_reims,bordeaux
+2022-02-13,F1,France-L1,2122,Lens,Bordeaux,3.0,2.0,H,3.0,1.0,H,1.45,4.75,6.5,1.5,4.79,6.74,1.48,4.69,6.26,1.57,2.37,1.57,2.42,-1.25,2.08,1.85,RC Lens,Bordeaux,rc_lens,bordeaux
+2022-02-27,F1,France-L1,2122,Clermont,Bordeaux,1.0,1.0,D,1.0,1.0,D,1.9,3.5,4.0,1.96,3.75,4.07,1.94,3.65,3.88,1.9,2.0,1.85,1.97,-0.5,1.96,1.94,Clermont Foot,Bordeaux,clermont_foot,bordeaux
+2022-03-13,F1,France-L1,2122,Paris SG,Bordeaux,3.0,0.0,H,1.0,0.0,H,1.14,8.5,17.0,1.17,8.34,19.32,1.15,8.28,18.64,1.36,3.2,1.36,3.14,-2.25,1.93,1.97,Paris Saint-Germain,Bordeaux,paris_saint_germain,bordeaux
+2022-04-02,F1,France-L1,2122,Lille,Bordeaux,0.0,0.0,D,0.0,0.0,D,1.5,4.2,7.0,1.52,4.6,6.76,1.5,4.44,6.43,1.8,2.0,1.76,2.08,-1.0,1.86,2.04,Lille,Bordeaux,lille,bordeaux
+2022-04-17,F1,France-L1,2122,Lyon,Bordeaux,6.0,1.0,H,3.0,0.0,H,1.28,6.0,9.5,1.32,5.92,10.01,1.3,5.85,9.72,1.44,2.75,1.47,2.68,-1.75,2.04,1.86,Olympique Lyonnais,Bordeaux,olympique_lyonnais,bordeaux
+2022-04-24,F1,France-L1,2122,Nantes,Bordeaux,5.0,3.0,H,0.0,2.0,A,1.75,3.75,4.75,1.83,3.8,4.68,1.8,3.76,4.46,1.96,1.94,1.89,1.92,-0.75,2.05,1.85,FC Nantes,Bordeaux,fc_nantes,bordeaux
+2022-05-08,F1,France-L1,2122,Angers,Bordeaux,4.0,1.0,H,2.0,0.0,H,2.1,3.5,3.4,2.13,3.61,3.61,2.13,3.48,3.46,2.01,1.89,1.97,1.85,-0.25,1.86,2.04,Angers,Bordeaux,angers,bordeaux
+2022-05-21,F1,France-L1,2122,Brest,Bordeaux,2.0,4.0,A,2.0,2.0,D,1.9,4.0,3.5,1.94,4.26,3.58,1.95,4.05,3.47,1.5,2.62,1.5,2.59,-0.5,1.96,1.94,Stade Brestois,Bordeaux,stade_brestois,bordeaux
+2022-08-06,F2,France-L2,2223,Rodez,Bordeaux,0.0,3.0,A,0.0,2.0,A,2.1,3.0,3.6,2.14,3.32,3.75,2.11,3.17,3.55,2.2,1.65,2.16,1.66,-0.25,1.83,2.02,Rodez,Bordeaux,rodez,bordeaux
+2022-08-22,F2,France-L2,2223,Grenoble,Bordeaux,0.0,0.0,D,0.0,0.0,D,3.2,2.9,2.37,3.07,3.06,2.55,3.03,3.01,2.42,2.5,1.5,2.35,1.56,0.25,1.8,2.05,Grenoble,Bordeaux,grenoble,bordeaux
+2022-09-03,F2,France-L2,2223,Paris FC,Bordeaux,1.0,3.0,A,0.0,2.0,A,1.9,3.2,4.0,2.17,3.32,3.67,2.1,3.22,3.58,2.25,1.61,2.19,1.65,-0.5,1.98,1.88,Paris FC,Bordeaux,paris_fc,bordeaux
+2022-09-10,F2,France-L2,2223,St Etienne,Bordeaux,2.0,0.0,H,1.0,0.0,H,2.05,3.4,3.3,2.19,3.35,3.6,2.16,3.27,3.37,2.1,1.7,2.13,1.69,-0.25,1.83,2.02,Saint-Etienne,Bordeaux,saint_etienne,bordeaux
+2022-10-03,F2,France-L2,2223,Laval,Bordeaux,1.0,2.0,A,0.0,1.0,A,3.3,3.25,2.2,3.19,3.35,2.34,3.09,3.22,2.29,2.1,1.7,2.09,1.7,0.25,1.93,1.93,Laval,Bordeaux,laval,bordeaux
+2022-10-17,F2,France-L2,2223,Bastia,Bordeaux,1.0,1.0,D,0.0,0.0,D,2.87,3.2,2.5,3.06,3.06,2.56,2.89,3.02,2.54,2.4,1.53,2.29,1.59,0.0,2.05,1.8,Bastia,Bordeaux,bastia,bordeaux
+2022-11-05,F2,France-L2,2223,Nimes,Bordeaux,1.0,0.0,H,1.0,0.0,H,3.4,3.4,2.1,3.75,3.22,2.19,3.55,3.28,2.09,2.05,1.75,2.02,1.77,0.25,1.98,1.83,Nimes,Bordeaux,nimes,bordeaux
+2022-12-26,F2,France-L2,2223,Le Havre,Bordeaux,1.0,0.0,H,1.0,0.0,H,2.2,3.1,3.3,2.23,3.03,3.75,2.2,3.07,3.42,2.35,1.57,2.39,1.55,-0.25,1.9,1.95,Le Havre,Bordeaux,le_havre,bordeaux
+2023-01-10,F2,France-L2,2223,Caen,Bordeaux,2.0,2.0,D,0.0,2.0,A,2.45,2.9,3.25,2.58,2.92,3.3,2.45,2.97,3.1,2.4,1.53,2.38,1.56,-0.25,2.1,1.77,Caen,Bordeaux,caen,bordeaux
+2023-01-28,F2,France-L2,2223,Dijon,Bordeaux,0.0,3.0,A,0.0,1.0,A,3.0,3.2,2.38,3.18,3.2,2.4,3.03,3.16,2.37,2.2,1.65,2.25,1.62,0.25,1.8,2.05,Dijon,Bordeaux,dijon,bordeaux
+2023-02-03,F2,France-L2,2223,Pau FC,Bordeaux,0.0,2.0,A,0.0,1.0,A,4.5,3.1,1.85,4.63,3.35,1.92,4.25,3.36,1.88,2.1,1.7,2.12,1.7,0.5,1.98,1.88,Pau FC,Bordeaux,pau_fc,bordeaux
+2023-02-11,F2,France-L2,2223,Niort,Bordeaux,3.0,1.0,H,2.0,1.0,H,4.5,3.3,1.8,4.61,3.52,1.87,4.37,3.39,1.84,2.15,1.67,2.12,1.69,0.5,2.02,1.83,Niort,Bordeaux,niort,bordeaux
+2023-02-27,F2,France-L2,2223,Amiens,Bordeaux,1.0,2.0,A,1.0,0.0,H,2.7,3.5,2.38,2.94,3.12,2.61,2.84,3.13,2.5,2.15,1.67,2.18,1.65,0.0,2.1,1.77,Amiens,Bordeaux,amiens,bordeaux
+2023-03-11,F2,France-L2,2223,Sochaux,Bordeaux,1.0,1.0,D,1.0,1.0,D,2.5,3.2,2.9,2.53,3.08,3.2,2.46,3.06,2.97,2.15,1.67,2.18,1.65,0.0,1.8,2.05,Sochaux,Bordeaux,sochaux,bordeaux
+2023-04-03,F2,France-L2,2223,Guingamp,Bordeaux,0.0,1.0,A,0.0,1.0,A,3.1,3.3,2.25,3.4,3.17,2.3,3.23,3.17,2.24,2.15,1.67,2.15,1.66,0.25,1.9,1.95,Guingamp,Bordeaux,guingamp,bordeaux
+2023-04-15,F2,France-L2,2223,Metz,Bordeaux,3.0,0.0,H,0.0,0.0,D,2.3,3.2,3.1,2.35,3.31,3.28,2.29,3.21,3.13,2.15,1.67,2.14,1.67,-0.25,2.0,1.85,Metz,Bordeaux,metz,bordeaux
+2023-04-29,F2,France-L2,2223,Valenciennes,Bordeaux,0.0,2.0,A,0.0,0.0,D,4.75,3.4,1.8,5.16,3.5,1.8,4.67,3.4,1.79,2.08,1.73,2.1,1.7,0.5,2.1,1.77,Valenciennes,Bordeaux,valenciennes,bordeaux
+2023-05-13,F2,France-L2,2223,Quevilly Rouen,Bordeaux,0.0,0.0,D,0.0,0.0,D,4.5,3.3,1.8,4.64,3.53,1.86,4.34,3.42,1.83,2.08,1.73,2.09,1.71,0.5,2.02,1.82,Quevilly Rouen,Bordeaux,quevilly_rouen,bordeaux
+2023-05-26,F2,France-L2,2223,Annecy,Bordeaux,1.0,0.0,H,1.0,0.0,H,4.33,3.3,1.75,4.61,3.62,1.84,4.36,3.58,1.78,1.93,1.93,1.87,1.89,0.5,2.02,1.82,Annecy,Bordeaux,annecy,bordeaux
+2023-08-07,F2,France-L2,2324,Pau FC,Bordeaux,3.0,0.0,H,2.0,0.0,H,3.8,3.25,1.95,3.83,3.51,2.0,3.63,3.4,1.97,2.0,1.85,1.94,1.81,0.5,1.85,2.0,Pau FC,Bordeaux,pau_fc,bordeaux
+2023-08-21,F2,France-L2,2324,Ajaccio,Bordeaux,0.0,0.0,D,0.0,0.0,D,2.7,3.0,2.8,2.8,3.11,2.74,2.69,2.99,2.71,2.4,1.53,2.43,1.53,0.0,1.93,1.93,Ajaccio,Bordeaux,ajaccio,bordeaux
+2023-09-16,F2,France-L2,2324,Valenciennes,Bordeaux,1.0,2.0,A,0.0,1.0,A,4.2,3.4,1.91,4.26,3.66,1.89,4.04,3.48,1.88,2.0,1.8,1.98,1.79,0.5,1.98,1.88,Valenciennes,Bordeaux,valenciennes,bordeaux
+2023-09-26,F2,France-L2,2324,Guingamp,Bordeaux,0.0,0.0,D,0.0,0.0,D,2.75,3.2,2.63,2.91,3.19,2.66,2.78,3.13,2.57,2.15,1.67,2.16,1.67,0.0,2.03,1.83,Guingamp,Bordeaux,guingamp,bordeaux
+2023-09-30,F2,France-L2,2324,Grenoble,Bordeaux,2.0,0.0,H,1.0,0.0,H,2.63,3.2,2.7,2.73,3.17,2.84,2.67,3.15,2.68,2.2,1.65,2.2,1.64,0.0,1.9,1.95,Grenoble,Bordeaux,grenoble,bordeaux
+2023-10-21,F2,France-L2,2324,Angers,Bordeaux,2.0,0.0,H,1.0,0.0,H,2.38,3.3,2.9,2.56,3.32,2.93,2.47,3.23,2.82,2.05,1.75,2.05,1.74,0.0,1.75,2.05,Angers,Bordeaux,angers,bordeaux
+2023-11-04,F2,France-L2,2324,Bastia,Bordeaux,3.0,1.0,H,2.0,0.0,H,3.5,3.3,2.05,3.61,3.47,2.14,3.45,3.34,2.1,2.05,1.75,2.05,1.74,0.25,2.05,1.8,Bastia,Bordeaux,bastia,bordeaux
+2023-11-25,F2,France-L2,2324,Paris FC,Bordeaux,1.0,2.0,A,1.0,1.0,D,3.0,3.4,2.2,3.21,3.49,2.24,3.07,3.38,2.25,1.98,1.88,1.93,1.83,0.25,1.9,1.95,Paris FC,Bordeaux,paris_fc,bordeaux
+2023-12-05,F2,France-L2,2324,Quevilly Rouen,Bordeaux,3.0,2.0,H,2.0,0.0,H,2.45,3.3,2.8,2.61,3.28,2.89,2.51,3.19,2.81,2.1,1.7,2.08,1.72,0.0,1.8,2.05,Quevilly Rouen,Bordeaux,quevilly_rouen,bordeaux
+2023-12-19,F2,France-L2,2324,Dunkerque,Bordeaux,0.0,2.0,A,0.0,1.0,A,3.5,3.5,2.05,3.53,3.53,2.14,3.38,3.46,2.07,1.83,2.03,1.82,1.95,0.25,2.0,1.85,Dunkerque,Bordeaux,dunkerque,bordeaux
+2024-01-15,F2,France-L2,2324,Auxerre,Bordeaux,3.0,1.0,H,1.0,1.0,D,1.7,3.75,4.33,1.72,3.97,4.6,1.74,3.82,4.28,1.73,2.08,1.72,2.08,-0.75,1.98,1.88,AJ Auxerre,Bordeaux,aj_auxerre,bordeaux
+2024-02-03,F2,France-L2,2324,Troyes,Bordeaux,2.0,1.0,H,0.0,0.0,D,3.6,3.5,1.95,3.77,3.64,2.02,3.59,3.49,1.98,1.9,1.95,1.85,1.93,0.5,1.85,2.0,Troyes,Bordeaux,troyes,bordeaux
+2024-02-19,F2,France-L2,2324,Amiens,Bordeaux,1.0,1.0,D,1.0,0.0,H,2.8,3.0,2.5,2.91,3.2,2.58,2.82,3.1,2.51,,,2.22,1.63,0.0,,,Amiens,Bordeaux,amiens,bordeaux
+2024-03-02,F2,France-L2,2324,Rodez,Bordeaux,2.0,2.0,D,2.0,1.0,H,2.55,3.4,2.63,2.67,3.44,2.72,2.57,3.36,2.6,1.88,1.98,1.83,1.95,0.0,1.93,1.93,Rodez,Bordeaux,rodez,bordeaux
+2024-03-16,F2,France-L2,2324,Annecy,Bordeaux,3.0,1.0,H,2.0,1.0,H,3.2,3.3,2.25,3.16,3.41,2.36,3.12,3.29,2.25,2.05,1.75,2.03,1.76,0.25,1.88,1.98,Annecy,Bordeaux,annecy,bordeaux
+2024-04-06,F2,France-L2,2324,Caen,Bordeaux,0.0,1.0,A,0.0,1.0,A,2.3,3.25,3.1,2.4,3.24,3.18,2.32,3.25,3.01,2.03,1.83,1.99,1.79,-0.25,2.03,1.83,Caen,Bordeaux,caen,bordeaux
+2024-04-20,F2,France-L2,2324,St Etienne,Bordeaux,2.0,1.0,H,0.0,1.0,A,1.67,3.8,4.33,1.75,3.87,4.77,1.7,3.84,4.44,1.7,2.1,1.68,2.13,-0.75,1.93,1.93,Saint-Etienne,Bordeaux,saint_etienne,bordeaux
+2024-04-27,F2,France-L2,2324,Laval,Bordeaux,1.0,0.0,H,0.0,0.0,D,2.75,3.3,2.5,2.91,3.29,2.56,2.78,3.23,2.48,2.05,1.75,2.01,1.77,0.0,2.03,1.83,Laval,Bordeaux,laval,bordeaux
+2024-05-10,F2,France-L2,2324,Concarneau,Bordeaux,4.0,2.0,H,1.0,1.0,D,2.9,3.4,2.3,2.98,3.62,2.34,2.9,3.47,2.28,1.73,2.08,1.72,2.08,0.25,1.83,2.03,Concarneau,Bordeaux,concarneau,bordeaux

@@ -1,0 +1,507 @@
+raw_name,canonical_name,folder_name,manual_override,is_self_canonical
+AEK,AEK Athens,aek_athens,True,False
+AFC Wimbledon,AFC Wimbledon,afc_wimbledon,False,True
+AVS,AVS,avs,False,True
+AZ Alkmaar,AZ Alkmaar,az_alkmaar,False,True
+Aberdeen,Aberdeen,aberdeen,False,True
+Academico Viseu,Academico Viseu,academico_viseu,False,True
+Accrington,Accrington Stanley,accrington_stanley,True,False
+Ad. Demirspor,Ad. Demirspor,ad_demirspor,False,True
+Airdrie Utd,Airdrie Utd,airdrie_utd,False,True
+Ajaccio,Ajaccio,ajaccio,False,True
+Ajax,Ajax,ajax,False,True
+Alanyaspor,Alanyaspor,alanyaspor,False,True
+Alaves,Deportivo Alaves,deportivo_alaves,True,False
+Albacete,Albacete,albacete,False,True
+Albion Rvs,Albion Rvs,albion_rvs,False,True
+Alcorcon,Alcorcon,alcorcon,False,True
+Aldershot,Aldershot,aldershot,False,True
+Alessandria,Alessandria,alessandria,False,True
+Alloa,Alloa,alloa,False,True
+Almere City,Almere City,almere_city,False,True
+Almeria,Almeria,almeria,False,True
+Altay,Altay,altay,False,True
+Altrincham,Altrincham,altrincham,False,True
+Alverca,Alverca,alverca,False,True
+Amedspor,Amedspor,amedspor,False,True
+Amiens,Amiens,amiens,False,True
+Amorebieta,Amorebieta,amorebieta,False,True
+Anderlecht,Anderlecht,anderlecht,False,True
+Andorra,Andorra,andorra,False,True
+Angers,Angers,angers,False,True
+Ankaragucu,Ankaragucu,ankaragucu,False,True
+Annan Athletic,Annan Athletic,annan_athletic,False,True
+Annecy,Annecy,annecy,False,True
+Antalyaspor,Antalyaspor,antalyaspor,False,True
+Antwerp,Royal Antwerp,royal_antwerp,True,False
+Apollon,Apollon,apollon,False,True
+Arbroath,Arbroath,arbroath,False,True
+Arezzo,Arezzo,arezzo,False,True
+Aris,Aris Thessaloniki,aris_thessaloniki,True,False
+Arouca,Arouca,arouca,False,True
+Arsenal,Arsenal,arsenal,False,True
+Ascoli,Ascoli,ascoli,False,True
+Asteras Tripolis,Asteras Tripolis,asteras_tripolis,False,True
+Aston Villa,Aston Villa,aston_villa,False,True
+Atalanta,Atalanta,atalanta,False,True
+Ath Bilbao,Athletic Bilbao,athletic_bilbao,True,False
+Ath Madrid,Atletico Madrid,atletico_madrid,True,False
+Athens Kallithea,Athens Kallithea,athens_kallithea,False,True
+Atromitos,Atromitos,atromitos,False,True
+Augsburg,FC Augsburg,fc_augsburg,True,False
+Auxerre,AJ Auxerre,aj_auxerre,True,False
+Avellino,Avellino,avellino,False,True
+Ayr,Ayr,ayr,False,True
+Barcelona,Barcelona,barcelona,False,True
+Bari,Bari,bari,False,True
+Barnet,Barnet,barnet,False,True
+Barnsley,Barnsley,barnsley,False,True
+Barrow,Barrow,barrow,False,True
+Bastia,Bastia,bastia,False,True
+Bayern Munich,Bayern Munich,bayern_munich,False,True
+Beerschot VA,Beerschot VA,beerschot_va,False,True
+Belenenses,Belenenses,belenenses,False,True
+Benevento,Benevento,benevento,False,True
+Benfica,Benfica,benfica,False,True
+Besiktas,Besiktas,besiktas,False,True
+Betis,Real Betis,real_betis,True,False
+Beveren,Beveren,beveren,False,True
+Bielefeld,Arminia Bielefeld,arminia_bielefeld,True,False
+Birmingham,Birmingham,birmingham,False,True
+Blackburn,Blackburn,blackburn,False,True
+Blackpool,Blackpool,blackpool,False,True
+Boavista,Boavista,boavista,False,True
+Bochum,VfL Bochum,vfl_bochum,True,False
+Bodrumspor,Bodrumspor,bodrumspor,False,True
+Bologna,Bologna,bologna,False,True
+Bolton,Bolton,bolton,False,True
+Bonnyrigg Rose,Bonnyrigg Rose,bonnyrigg_rose,False,True
+Bordeaux,Bordeaux,bordeaux,False,True
+Boreham Wood,Boreham Wood,boreham_wood,False,True
+Boston Utd,Boston Utd,boston_utd,False,True
+Boulogne,Boulogne,boulogne,False,True
+Bournemouth,Bournemouth,bournemouth,True,True
+Brackley Town,Brackley Town,brackley_town,False,True
+Bradford,Bradford City,bradford_city,True,False
+Braintree Town,Braintree Town,braintree_town,False,True
+Braunschweig,Braunschweig,braunschweig,False,True
+Brentford,Brentford,brentford,False,True
+Brescia,Brescia,brescia,False,True
+Brest,Stade Brestois,stade_brestois,True,False
+Brighton,Brighton & Hove Albion,brighton_hove_albion,True,False
+Bristol City,Bristol City,bristol_city,False,True
+Bristol Rvs,Bristol Rvs,bristol_rvs,False,True
+Bromley,Bromley,bromley,False,True
+Burgos,Burgos,burgos,False,True
+Burnley,Burnley,burnley,False,True
+Burton,Burton Albion,burton_albion,True,False
+Buyuksehyr,Buyuksehyr,buyuksehyr,False,True
+Cadiz,Cadiz,cadiz,False,True
+Caen,Caen,caen,False,True
+Cagliari,Cagliari,cagliari,False,True
+Cambridge,Cambridge United,cambridge_united,True,False
+Cambuur,SC Cambuur,sc_cambuur,True,False
+Cardiff,Cardiff City,cardiff_city,True,False
+Carlisle,Carlisle United,carlisle_united,True,False
+Carrarese,Carrarese,carrarese,False,True
+Cartagena,Cartagena,cartagena,False,True
+Casa Pia,Casa Pia,casa_pia,False,True
+Castellon,Castellon,castellon,False,True
+Catanzaro,Catanzaro,catanzaro,False,True
+Celta,Celta Vigo,celta_vigo,True,False
+Celta B,Celta B,celta_b,False,True
+Celtic,Celtic,celtic,False,True
+Cercle Brugge,Cercle Brugge,cercle_brugge,False,True
+Cesena,Cesena,cesena,False,True
+Ceuta,Ceuta,ceuta,False,True
+Charleroi,Sporting Charleroi,sporting_charleroi,True,False
+Charlton,Charlton,charlton,False,True
+Chaves,Chaves,chaves,False,True
+Chelsea,Chelsea,chelsea,False,True
+Cheltenham,Cheltenham Town,cheltenham_town,True,False
+Chesterfield,Chesterfield,chesterfield,False,True
+Cittadella,Cittadella,cittadella,False,True
+Clermont,Clermont Foot,clermont_foot,True,False
+Club Brugge,Club Brugge,club_brugge,False,True
+Clyde,Clyde,clyde,False,True
+Colchester,Colchester United,colchester_united,True,False
+Como,Como,como,False,True
+Concarneau,Concarneau,concarneau,False,True
+Cordoba,Cordoba,cordoba,False,True
+Corum,Corum,corum,False,True
+Cosenza,Cosenza,cosenza,False,True
+Cottbus,Cottbus,cottbus,False,True
+Cove Rangers,Cove Rangers,cove_rangers,False,True
+Coventry,Coventry,coventry,False,True
+Cowdenbeath,Cowdenbeath,cowdenbeath,False,True
+Crawley Town,Crawley Town,crawley_town,False,True
+Cremonese,Cremonese,cremonese,False,True
+Crewe,Crewe Alexandra,crewe_alexandra,True,False
+Crotone,Crotone,crotone,False,True
+Crystal Palace,Crystal Palace,crystal_palace,False,True
+Cultural Leonesa,Cultural Leonesa,cultural_leonesa,False,True
+Dag and Red,Dag and Red,dag_and_red,False,True
+Darmstadt,Darmstadt 98,darmstadt_98,True,False
+Den Haag,Den Haag,den_haag,False,True
+Dender,Dender,dender,False,True
+Derby,Derby,derby,False,True
+Dijon,Dijon,dijon,False,True
+Doncaster,Doncaster Rovers,doncaster_rovers,True,False
+Dorking,Dorking,dorking,False,True
+Dortmund,Borussia Dortmund,borussia_dortmund,True,False
+Dresden,Dresden,dresden,False,True
+Dumbarton,Dumbarton,dumbarton,False,True
+Dundee,Dundee,dundee,False,True
+Dundee United,Dundee United,dundee_united,False,True
+Dunfermline,Dunfermline,dunfermline,False,True
+Dunkerque,Dunkerque,dunkerque,False,True
+East Fife,East Fife,east_fife,False,True
+East Kilbride,East Kilbride,east_kilbride,False,True
+Eastleigh,Eastleigh,eastleigh,False,True
+Ebbsfleet,Ebbsfleet,ebbsfleet,False,True
+Edinburgh City,Edinburgh City,edinburgh_city,False,True
+Eibar,Eibar,eibar,False,True
+Ein Frankfurt,Eintracht Frankfurt,eintracht_frankfurt,True,False
+Elche,Elche,elche,False,True
+Eldense,Eldense,eldense,False,True
+Elgin,Elgin,elgin,False,True
+Elversberg,Elversberg,elversberg,False,True
+Empoli,Empoli,empoli,False,True
+Erzgebirge Aue,Erzgebirge Aue,erzgebirge_aue,False,True
+Erzurumspor,Erzurumspor,erzurumspor,False,True
+Espanol,Espanyol,espanyol,True,False
+Estoril,Estoril,estoril,False,True
+Estrela,Estrela Amadora,estrela_amadora,True,False
+Eupen,KAS Eupen,kas_eupen,True,False
+Everton,Everton,everton,False,True
+Excelsior,Excelsior,excelsior,False,True
+Exeter,Exeter City,exeter_city,True,False
+Eyupspor,Eyupspor,eyupspor,False,True
+FC Edinburgh,FC Edinburgh,fc_edinburgh,False,True
+FC Emmen,FC Emmen,fc_emmen,False,True
+FC Koln,FC Koln,fc_koln,False,True
+Falkirk,Falkirk,falkirk,False,True
+Famalicao,Famalicao,famalicao,False,True
+Farense,Farense,farense,False,True
+Fenerbahce,Fenerbahce,fenerbahce,False,True
+FeralpiSalo,FeralpiSalo,feralpisalo,False,True
+Ferrol,Ferrol,ferrol,False,True
+Feyenoord,Feyenoord,feyenoord,False,True
+Fiorentina,Fiorentina,fiorentina,False,True
+Fleetwood Town,Fleetwood Town,fleetwood_town,False,True
+For Sittard,For Sittard,for_sittard,False,True
+Forest Green,Forest Green Rovers,forest_green_rovers,True,False
+Forfar,Forfar,forfar,False,True
+Fortuna Dusseldorf,Fortuna Dusseldorf,fortuna_dusseldorf,False,True
+Freiburg,SC Freiburg,sc_freiburg,True,False
+Frosinone,Frosinone,frosinone,False,True
+Fuenlabrada,Fuenlabrada,fuenlabrada,False,True
+Fulham,Fulham,fulham,False,True
+Fylde,Fylde,fylde,False,True
+Galatasaray,Galatasaray,galatasaray,False,True
+Gateshead,Gateshead,gateshead,False,True
+Gaziantep,Gaziantep,gaziantep,False,True
+Genclerbirligi,Genclerbirligi,genclerbirligi,False,True
+Genk,Genk,genk,False,True
+Genoa,Genoa,genoa,False,True
+Gent,KAA Gent,kaa_gent,True,False
+Getafe,Getafe,getafe,False,True
+Giannina,PAS Giannina,pas_giannina,True,False
+Gil Vicente,Gil Vicente,gil_vicente,False,True
+Gillingham,Gillingham,gillingham,False,True
+Giresunspor,Giresunspor,giresunspor,False,True
+Girona,Girona,girona,False,True
+Go Ahead Eagles,Go Ahead Eagles,go_ahead_eagles,False,True
+Goztep,Goztep,goztep,False,True
+Granada,Granada,granada,False,True
+Grenoble,Grenoble,grenoble,False,True
+Greuther Furth,Greuther Furth,greuther_furth,False,True
+Grimsby,Grimsby Town,grimsby_town,True,False
+Groningen,FC Groningen,fc_groningen,True,False
+Guimaraes,Vitoria Guimaraes,vitoria_guimaraes,True,False
+Guingamp,Guingamp,guingamp,False,True
+Halifax,Halifax,halifax,False,True
+Hamburg,Hamburger SV,hamburger_sv,True,False
+Hamilton,Hamilton Academical,hamilton_academical,True,False
+Hannover,Hannover,hannover,False,True
+Hansa Rostock,Hansa Rostock,hansa_rostock,False,True
+Harrogate,Harrogate Town,harrogate_town,True,False
+Hartlepool,Hartlepool United,hartlepool_united,True,False
+Hatayspor,Hatayspor,hatayspor,False,True
+Hearts,Hearts,hearts,False,True
+Heerenveen,SC Heerenveen,sc_heerenveen,True,False
+Heidenheim,1. FC Heidenheim,1_fc_heidenheim,True,False
+Heracles,Heracles Almelo,heracles_almelo,True,False
+Hertha,Hertha Berlin,hertha_berlin,True,False
+Hibernian,Hibernian,hibernian,False,True
+Hoffenheim,TSG Hoffenheim,tsg_hoffenheim,True,False
+Holstein Kiel,Holstein Kiel,holstein_kiel,True,True
+Hornchurch,Hornchurch,hornchurch,False,True
+Huddersfield,Huddersfield,huddersfield,False,True
+Huesca,Huesca,huesca,False,True
+Hull,Hull City,hull_city,True,False
+Ibiza,Ibiza,ibiza,False,True
+Ingolstadt,Ingolstadt,ingolstadt,False,True
+Inter,Inter Milan,inter_milan,True,False
+Inverness C,Inverness Caledonian Thistle,inverness_caledonian_thistle,True,False
+Ionikos,Ionikos,ionikos,False,True
+Ipswich,Ipswich,ipswich,False,True
+Iraklis,Iraklis,iraklis,False,True
+Istanbulspor,Istanbulspor,istanbulspor,False,True
+Juve Stabia,Juve Stabia,juve_stabia,False,True
+Juventus,Juventus,juventus,False,True
+Kaiserslautern,Kaiserslautern,kaiserslautern,False,True
+Kalamata,Kalamata,kalamata,False,True
+Karagumruk,Karagumruk,karagumruk,False,True
+Karlsruhe,Karlsruhe,karlsruhe,False,True
+Kasimpasa,Kasimpasa,kasimpasa,False,True
+Kayserispor,Kayserispor,kayserispor,False,True
+Kelty Hearts,Kelty Hearts,kelty_hearts,False,True
+Kidderminster,Kidderminster,kidderminster,False,True
+Kifisia,Kifisia,kifisia,False,True
+Kilmarnock,Kilmarnock,kilmarnock,False,True
+Kocaelispor,Kocaelispor,kocaelispor,False,True
+Konyaspor,Konyaspor,konyaspor,False,True
+Kortrijk,KV Kortrijk,kv_kortrijk,True,False
+La Coruna,La Coruna,la_coruna,False,True
+Lamia,Lamia,lamia,True,True
+Larisa,Larisa,larisa,False,True
+Las Palmas,Las Palmas,las_palmas,False,True
+Laval,Laval,laval,False,True
+Lazio,Lazio,lazio,False,True
+Le Havre,Le Havre,le_havre,False,True
+Le Mans,Le Mans,le_mans,False,True
+Lecce,Lecce,lecce,False,True
+Lecco,Lecco,lecco,False,True
+Leeds,Leeds,leeds,False,True
+Leganes,Leganes,leganes,True,True
+Leicester,Leicester City,leicester_city,True,False
+Lens,RC Lens,rc_lens,True,False
+Levadeiakos,Levadeiakos,levadeiakos,False,True
+Levante,Levante,levante,False,True
+Leverkusen,Bayer Leverkusen,bayer_leverkusen,True,False
+Leyton Orient,Leyton Orient,leyton_orient,False,True
+Lille,Lille,lille,False,True
+Lincoln,Lincoln City,lincoln_city,True,False
+Liverpool,Liverpool,liverpool,False,True
+Livingston,Livingston,livingston,False,True
+Lommel SK,Lommel SK,lommel_sk,False,True
+Lorient,Lorient,lorient,False,True
+Lugo,Lugo,lugo,False,True
+Luton,Luton,luton,False,True
+Lyon,Olympique Lyonnais,olympique_lyonnais,True,False
+M'gladbach,Borussia Monchengladbach,borussia_monchengladbach,True,False
+Magdeburg,Magdeburg,magdeburg,False,True
+Maidenhead,Maidenhead,maidenhead,False,True
+Maidstone,Maidstone,maidstone,False,True
+Mainz,Mainz 05,mainz_05,True,False
+Malaga,Malaga,malaga,False,True
+Mallorca,Mallorca,mallorca,False,True
+Man City,Manchester City,manchester_city,True,False
+Man United,Manchester United,manchester_united,True,False
+Mansfield,Mansfield Town,mansfield_town,True,False
+Mantova,Mantova,mantova,False,True
+Maritimo,Maritimo,maritimo,False,True
+Marseille,Olympique Marseille,olympique_marseille,True,False
+Martigues,Martigues,martigues,False,True
+Mechelen,KV Mechelen,kv_mechelen,True,False
+Metz,Metz,metz,False,True
+Middlesbrough,Middlesbrough,middlesbrough,False,True
+Milan,AC Milan,ac_milan,True,False
+Millwall,Millwall,millwall,False,True
+Milton Keynes Dons,MK Dons,mk_dons,True,False
+Mirandes,Mirandes,mirandes,False,True
+Modena,Modena,modena,False,True
+Monaco,AS Monaco,as_monaco,True,False
+Montpellier,Montpellier,montpellier,False,True
+Montrose,Montrose,montrose,False,True
+Monza,Monza,monza,False,True
+Morecambe,Morecambe,morecambe,True,True
+Moreirense,Moreirense,moreirense,False,True
+Morton,Morton,morton,False,True
+Motherwell,Motherwell,motherwell,False,True
+NAC Breda,NAC Breda,nac_breda,False,True
+Nacional,Nacional,nacional,False,True
+Nancy,Nancy,nancy,False,True
+Nantes,FC Nantes,fc_nantes,True,False
+Napoli,Napoli,napoli,False,True
+Newcastle,Newcastle United,newcastle_united,True,False
+Newport County,Newport County,newport_county,False,True
+Nice,OGC Nice,ogc_nice,True,False
+Nijmegen,NEC Nijmegen,nec_nijmegen,True,False
+Nimes,Nimes,nimes,False,True
+Niort,Niort,niort,False,True
+Northampton,Northampton Town,northampton_town,True,False
+Norwich,Norwich City,norwich_city,True,False
+Nott'm Forest,Nottingham Forest,nottingham_forest,True,False
+Notts County,Notts County,notts_county,True,True
+Nurnberg,Nurnberg,nurnberg,False,True
+OFI Crete,OFI Crete,ofi_crete,True,True
+Oldham,Oldham,oldham,False,True
+Olympiakos,Olympiacos,olympiacos,True,False
+Oostende,KV Oostende,kv_oostende,True,False
+Osasuna,Osasuna,osasuna,False,True
+Osnabruck,Osnabruck,osnabruck,False,True
+Oud-Heverlee Leuven,Oud-Heverlee Leuven,oud_heverlee_leuven,False,True
+Oviedo,Real Oviedo,real_oviedo,True,False
+Oxford,Oxford United,oxford_united,True,False
+Oxford City,Oxford City,oxford_city,False,True
+PAOK,PAOK,paok,False,True
+PSV Eindhoven,PSV Eindhoven,psv_eindhoven,False,True
+Pacos Ferreira,Pacos Ferreira,pacos_ferreira,False,True
+Paderborn,Paderborn,paderborn,False,True
+Padova,Padova,padova,False,True
+Palermo,Palermo,palermo,False,True
+Panathinaikos,Panathinaikos,panathinaikos,False,True
+Panetolikos,Panetolikos,panetolikos,False,True
+Panserraikos,Panserraikos,panserraikos,False,True
+Paris FC,Paris FC,paris_fc,False,True
+Paris SG,Paris Saint-Germain,paris_saint_germain,True,False
+Parma,Parma,parma,False,True
+Partick,Partick,partick,False,True
+Pau FC,Pau FC,pau_fc,False,True
+Pendikspor,Pendikspor,pendikspor,False,True
+Perugia,Perugia,perugia,False,True
+Pescara,Pescara,pescara,False,True
+Peterboro,Peterborough United,peterborough_united,True,False
+Peterhead,Peterhead,peterhead,False,True
+Pisa,Pisa,pisa,False,True
+Plymouth,Plymouth Argyle,plymouth_argyle,True,False
+Ponferradina,Ponferradina,ponferradina,False,True
+Pordenone,Pordenone,pordenone,False,True
+Port Vale,Port Vale,port_vale,True,True
+Portimonense,Portimonense,portimonense,False,True
+Porto,FC Porto,fc_porto,True,False
+Portsmouth,Portsmouth,portsmouth,True,True
+Preston,Preston,preston,False,True
+Preußen Münster,Preußen Münster,preuen_munster,False,True
+QPR,Queens Park Rangers,queens_park_rangers,True,False
+Queen of Sth,Queen of Sth,queen_of_sth,False,True
+Queens Park,Queens Park,queens_park,False,True
+Quevilly Rouen,Quevilly Rouen,quevilly_rouen,False,True
+RAAL La Louviere,RAAL La Louviere,raal_la_louviere,False,True
+RB Leipzig,RB Leipzig,rb_leipzig,False,True
+RWD Molenbeek,RWD Molenbeek,rwd_molenbeek,False,True
+Raith Rvs,Raith Rvs,raith_rvs,False,True
+Rangers,Rangers,rangers,False,True
+Reading,Reading,reading,False,True
+Real Madrid,Real Madrid,real_madrid,False,True
+Red Star,Red Star,red_star,False,True
+Regensburg,Regensburg,regensburg,False,True
+Reggiana,Reggiana,reggiana,False,True
+Reggina,Reggina,reggina,False,True
+Reims,Stade de Reims,stade_de_reims,True,False
+Rennes,Stade Rennais,stade_rennais,True,False
+Rio Ave,Rio Ave,rio_ave,False,True
+Rizespor,Caykur Rizespor,caykur_rizespor,True,False
+Rochdale,Rochdale,rochdale,False,True
+Rodez,Rodez,rodez,False,True
+Roma,AS Roma,as_roma,True,False
+Ross County,Ross County,ross_county,False,True
+Rotherham,Rotherham United,rotherham_united,True,False
+Sabadell,Sabadell,sabadell,False,True
+Salernitana,Salernitana,salernitana,False,True
+Salford,Salford City,salford_city,True,False
+Sampdoria,Sampdoria,sampdoria,False,True
+Samsunspor,Samsunspor,samsunspor,False,True
+Sandhausen,Sandhausen,sandhausen,False,True
+Santa Clara,Santa Clara,santa_clara,False,True
+Santander,Santander,santander,False,True
+Sassuolo,Sassuolo,sassuolo,False,True
+Schalke 04,Schalke 04,schalke_04,False,True
+Scunthorpe,Scunthorpe United,scunthorpe_united,True,False
+Seraing,RFC Seraing,rfc_seraing,True,False
+Sevilla,Sevilla,sevilla,False,True
+Sheffield United,Sheffield United,sheffield_united,False,True
+Sheffield Weds,Sheffield Wednesday,sheffield_wednesday,True,False
+Shrewsbury,Shrewsbury Town,shrewsbury_town,True,False
+Sivasspor,Sivasspor,sivasspor,False,True
+Sochaux,Sochaux,sochaux,False,True
+Sociedad,Real Sociedad,real_sociedad,True,False
+Sociedad B,Sociedad B,sociedad_b,False,True
+Solihull,Solihull,solihull,False,True
+Southampton,Southampton,southampton,False,True
+Southend,Southend United,southend_united,True,False
+Sp Braga,Sp Braga,sp_braga,False,True
+Sp Gijon,Sp Gijon,sp_gijon,False,True
+Sp Lisbon,Sp Lisbon,sp_lisbon,False,True
+Spal,Spal,spal,False,True
+Sparta Rotterdam,Sparta Rotterdam,sparta_rotterdam,False,True
+Spartans,Spartans,spartans,False,True
+Spezia,Spezia,spezia,False,True
+St Etienne,Saint-Etienne,saint_etienne,True,False
+St Johnstone,St Johnstone,st_johnstone,False,True
+St Mirren,St Mirren,st_mirren,False,True
+St Pauli,FC St Pauli,fc_st_pauli,True,False
+St Truiden,Sint-Truiden,sint_truiden,True,False
+St. Gilloise,St. Gilloise,st_gilloise,False,True
+Standard,Standard Liege,standard_liege,True,False
+Stenhousemuir,Stenhousemuir,stenhousemuir,False,True
+Stevenage,Stevenage,stevenage,False,True
+Stirling,Stirling,stirling,False,True
+Stockport,Stockport County,stockport_county,True,False
+Stoke,Stoke City,stoke_city,True,False
+Stranraer,Stranraer,stranraer,False,True
+Strasbourg,RC Strasbourg,rc_strasbourg,True,False
+Stuttgart,VfB Stuttgart,vfb_stuttgart,True,False
+Sudtirol,Sudtirol,sudtirol,False,True
+Sunderland,Sunderland,sunderland,False,True
+Sutton,Sutton United,sutton_united,True,False
+Swansea,Swansea City,swansea_city,True,False
+Swindon,Swindon Town,swindon_town,True,False
+Tamworth,Tamworth,tamworth,False,True
+Telstar,Telstar,telstar,False,True
+Tenerife,Tenerife,tenerife,False,True
+Ternana,Ternana,ternana,False,True
+Tondela,Tondela,tondela,False,True
+Torino,Torino,torino,False,True
+Torquay,Torquay,torquay,False,True
+Tottenham,Tottenham Hotspur,tottenham_hotspur,True,False
+Toulouse,Toulouse,toulouse,False,True
+Trabzonspor,Trabzonspor,trabzonspor,False,True
+Tranmere,Tranmere Rovers,tranmere_rovers,True,False
+Troyes,Troyes,troyes,False,True
+Truro,Truro,truro,False,True
+Twente,FC Twente,fc_twente,True,False
+Udinese,Udinese,udinese,False,True
+Ulm,Ulm,ulm,False,True
+Umraniyespor,Umraniyespor,umraniyespor,False,True
+Union Berlin,Union Berlin,union_berlin,True,True
+Utrecht,FC Utrecht,fc_utrecht,True,False
+Valencia,Valencia,valencia,False,True
+Valenciennes,Valenciennes,valenciennes,False,True
+Valladolid,Real Valladolid,real_valladolid,True,False
+Vallecano,Rayo Vallecano,rayo_vallecano,True,False
+Venezia,Venezia,venezia,False,True
+Verona,Hellas Verona,hellas_verona,True,False
+Vicenza,Vicenza,vicenza,False,True
+Villarreal,Villarreal,villarreal,False,True
+Villarreal B,Villarreal B,villarreal_b,False,True
+Virtus Entella,Virtus Entella,virtus_entella,False,True
+Vitesse,Vitesse,vitesse,False,True
+Vizela,Vizela,vizela,False,True
+Volendam,FC Volendam,fc_volendam,True,False
+Volos NFC,Volos NFC,volos_nfc,True,True
+Waalwijk,RKC Waalwijk,rkc_waalwijk,True,False
+Walsall,Walsall,walsall,False,True
+Waregem,Zulte Waregem,zulte_waregem,True,False
+Watford,Watford,watford,False,True
+Wealdstone,Wealdstone,wealdstone,False,True
+Wehen,Wehen,wehen,False,True
+Werder Bremen,Werder Bremen,werder_bremen,False,True
+West Brom,West Bromwich Albion,west_bromwich_albion,True,False
+West Ham,West Ham United,west_ham_united,True,False
+Westerlo,KVC Westerlo,kvc_westerlo,True,False
+Wigan,Wigan Athletic,wigan_athletic,True,False
+Willem II,Willem II,willem_ii,False,True
+Woking,Woking,woking,False,True
+Wolfsburg,VfL Wolfsburg,vfl_wolfsburg,True,False
+Wolves,Wolverhampton,wolverhampton,True,False
+Worthing,Worthing,worthing,False,True
+Wrexham,Wrexham,wrexham,False,True
+Wycombe,Wycombe Wanderers,wycombe_wanderers,True,False
+Yeni Malatyaspor,Yeni Malatyaspor,yeni_malatyaspor,False,True
+Yeovil,Yeovil Town,yeovil_town,True,False
+York,York,york,False,True
+Zaragoza,Zaragoza,zaragoza,False,True
+Zwolle,PEC Zwolle,pec_zwolle,True,False

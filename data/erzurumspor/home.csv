@@ -1,0 +1,5 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2026-08-21,T1,Turkey-SL,2627,Erzurumspor,Galatasaray,0.0,4.0,A,0.0,3.0,A,6.25,4.1,1.46,,,,5.95,4.19,1.46,1.67,2.15,1.66,2.13,1.0,1.98,1.83,Erzurumspor,Galatasaray,erzurumspor,galatasaray
+2026-09-05,T1,Turkey-SL,2627,Erzurumspor,Konyaspor,1.0,0.0,H,1.0,0.0,H,2.2,3.4,2.85,,,,2.26,3.29,2.91,2.08,1.73,2.0,1.74,-0.25,2.0,1.8,Erzurumspor,Konyaspor,erzurumspor,konyaspor
+2026-09-20,T1,Turkey-SL,2627,Erzurumspor,Samsunspor,1.0,0.0,H,1.0,0.0,H,2.57,3.2,2.57,,,,2.58,3.21,2.57,2.05,1.75,1.99,1.74,0.0,1.9,1.9,Erzurumspor,Samsunspor,erzurumspor,samsunspor
+2026-10-17,T1,Turkey-SL,2627,Erzurumspor,Eyupspor,2.0,0.0,H,1.0,0.0,H,1.56,3.6,5.5,,,,1.58,3.7,5.4,2.05,1.75,2.0,1.73,-0.75,1.78,2.03,Erzurumspor,Eyupspor,erzurumspor,eyupspor

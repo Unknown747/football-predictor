@@ -1,0 +1,111 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-13,SP2,Spain-Segunda,2122,Huesca,Eibar,2.0,0.0,H,1.0,0.0,H,2.15,3.0,3.8,2.3,3.08,3.73,2.23,3.01,3.54,2.4,1.53,2.45,1.53,-0.25,1.93,1.93,Huesca,Eibar,huesca,eibar
+2021-08-29,SP2,Spain-Segunda,2122,Burgos,Eibar,0.0,1.0,A,0.0,0.0,D,3.4,3.0,2.3,3.58,3.18,2.27,3.42,2.98,2.27,2.7,1.44,2.7,1.44,0.25,1.9,1.95,Burgos,Eibar,burgos,eibar
+2021-09-11,SP2,Spain-Segunda,2122,Sociedad B,Eibar,2.0,3.0,A,0.0,1.0,A,3.0,3.0,2.45,3.12,2.94,2.64,2.98,2.9,2.57,2.6,1.47,2.62,1.46,0.0,2.1,1.77,Sociedad B,Eibar,sociedad_b,eibar
+2021-09-25,SP2,Spain-Segunda,2122,Amorebieta,Eibar,1.0,1.0,D,1.0,1.0,D,4.5,3.0,1.85,4.67,3.1,1.99,4.26,3.1,1.96,2.4,1.53,2.4,1.54,0.5,1.88,1.98,Amorebieta,Eibar,amorebieta,eibar
+2021-10-09,SP2,Spain-Segunda,2122,Mirandes,Eibar,3.0,3.0,D,1.0,2.0,A,4.0,3.1,2.0,3.86,3.29,2.1,3.57,3.16,2.09,2.1,1.7,2.1,1.71,0.25,2.05,1.8,Mirandes,Eibar,mirandes,eibar
+2021-10-19,SP2,Spain-Segunda,2122,Tenerife,Eibar,0.0,1.0,A,0.0,0.0,D,2.37,3.0,3.3,2.51,3.01,3.38,2.45,2.94,3.11,2.4,1.53,2.43,1.53,-0.25,2.05,1.8,Tenerife,Eibar,tenerife,eibar
+2021-10-31,SP2,Spain-Segunda,2122,Valladolid,Eibar,2.0,0.0,H,0.0,0.0,D,2.35,3.1,3.2,2.38,3.38,3.1,2.32,3.17,3.03,2.25,1.61,2.23,1.63,-0.25,2.02,1.83,Real Valladolid,Eibar,real_valladolid,eibar
+2021-11-06,SP2,Spain-Segunda,2122,Fuenlabrada,Eibar,0.0,0.0,D,0.0,0.0,D,3.0,3.0,2.5,3.27,2.89,2.59,3.12,2.92,2.47,2.4,1.53,2.47,1.53,0.25,1.75,2.13,Fuenlabrada,Eibar,fuenlabrada,eibar
+2021-11-21,SP2,Spain-Segunda,2122,Lugo,Eibar,2.0,2.0,D,2.0,1.0,H,3.6,3.1,2.15,3.73,3.04,2.26,3.53,3.02,2.2,2.4,1.53,2.4,1.55,0.25,1.93,1.93,Lugo,Eibar,lugo,eibar
+2021-12-06,SP2,Spain-Segunda,2122,Zaragoza,Eibar,1.0,0.0,H,0.0,0.0,D,2.6,3.1,2.9,2.81,2.93,2.94,2.69,2.92,2.81,2.5,1.5,2.49,1.51,0.0,1.85,2.0,Zaragoza,Eibar,zaragoza,eibar
+2021-12-18,SP2,Spain-Segunda,2122,Las Palmas,Eibar,0.0,1.0,A,0.0,1.0,A,2.15,3.2,3.6,2.15,3.12,3.95,2.11,3.13,3.65,2.3,1.6,2.26,1.61,-0.25,1.83,2.02,Las Palmas,Eibar,las_palmas,eibar
+2022-01-10,SP2,Spain-Segunda,2122,Oviedo,Eibar,1.0,1.0,D,1.0,0.0,H,2.4,3.2,3.1,2.44,3.1,3.26,2.4,3.03,3.07,2.25,1.61,2.31,1.58,-0.25,2.05,1.8,Real Oviedo,Eibar,real_oviedo,eibar
+2022-01-24,SP2,Spain-Segunda,2122,Almeria,Eibar,0.0,2.0,A,0.0,1.0,A,2.0,3.3,4.0,2.05,3.43,3.83,2.01,3.27,3.72,2.1,1.7,2.15,1.67,-0.5,2.0,1.85,Almeria,Eibar,almeria,eibar
+2022-02-05,SP2,Spain-Segunda,2122,Sp Gijon,Eibar,0.0,1.0,A,0.0,1.0,A,2.55,3.0,3.1,2.61,2.97,3.14,2.5,3.02,2.93,2.25,1.61,2.21,1.64,0.0,1.73,2.08,Sp Gijon,Eibar,sp_gijon,eibar
+2022-02-19,SP2,Spain-Segunda,2122,Girona,Eibar,0.0,1.0,A,0.0,1.0,A,2.2,3.3,3.4,2.27,3.02,3.73,2.19,3.12,3.43,2.25,1.61,2.24,1.62,-0.25,1.88,1.98,Girona,Eibar,girona,eibar
+2022-03-06,SP2,Spain-Segunda,2122,Cartagena,Eibar,4.0,1.0,H,1.0,1.0,D,2.62,3.2,2.8,2.62,3.29,2.84,2.58,3.16,2.72,2.25,1.61,2.18,1.65,0.0,1.88,1.98,Cartagena,Eibar,cartagena,eibar
+2022-03-20,SP2,Spain-Segunda,2122,Ponferradina,Eibar,2.0,2.0,D,2.0,0.0,H,2.62,3.1,2.87,2.8,3.0,2.87,2.62,3.02,2.8,2.4,1.53,2.31,1.58,0.0,1.83,2.02,Ponferradina,Eibar,ponferradina,eibar
+2022-04-10,SP2,Spain-Segunda,2122,Ibiza,Eibar,2.0,0.0,H,0.0,0.0,D,2.75,3.1,2.75,2.81,3.16,2.74,2.67,3.11,2.68,2.15,1.66,2.16,1.67,0.0,1.93,1.93,Ibiza,Eibar,ibiza,eibar
+2022-04-23,SP2,Spain-Segunda,2122,Malaga,Eibar,1.0,3.0,A,1.0,1.0,D,3.1,3.2,2.45,3.22,3.19,2.41,3.01,3.09,2.42,2.25,1.61,2.31,1.58,0.25,1.8,2.05,Malaga,Eibar,malaga,eibar
+2022-05-14,SP2,Spain-Segunda,2122,Leganes,Eibar,2.0,3.0,A,1.0,2.0,A,3.8,3.5,2.0,3.92,3.5,2.0,3.74,3.35,1.99,2.1,1.7,2.1,1.71,0.5,1.83,2.02,Leganes,Eibar,leganes,eibar
+2022-05-29,SP2,Spain-Segunda,2122,Alcorcon,Eibar,1.0,0.0,H,0.0,0.0,D,8.5,4.5,1.4,9.8,4.66,1.37,8.56,4.6,1.36,1.83,2.02,1.78,2.01,1.25,1.95,1.9,Alcorcon,Eibar,alcorcon,eibar
+2022-08-19,SP2,Spain-Segunda,2223,Villarreal B,Eibar,2.0,2.0,D,2.0,1.0,H,3.0,3.2,2.45,3.22,3.08,2.55,2.98,3.06,2.49,2.25,1.61,2.25,1.63,0.0,2.15,1.73,Villarreal B,Eibar,villarreal_b,eibar
+2022-09-02,SP2,Spain-Segunda,2223,Leganes,Eibar,2.0,1.0,H,1.0,0.0,H,2.45,3.0,3.25,2.59,3.03,3.22,2.52,2.92,3.07,2.6,1.47,2.61,1.48,0.0,1.7,2.1,Leganes,Eibar,leganes,eibar
+2022-09-17,SP2,Spain-Segunda,2223,Andorra,Eibar,2.0,0.0,H,1.0,0.0,H,3.25,3.2,2.3,3.44,3.1,2.41,3.18,3.08,2.34,2.25,1.61,2.27,1.61,0.25,1.85,2.0,Andorra,Eibar,andorra,eibar
+2022-10-03,SP2,Spain-Segunda,2223,Zaragoza,Eibar,0.0,0.0,D,0.0,0.0,D,2.75,3.1,2.7,2.78,3.13,2.79,2.72,3.02,2.71,2.4,1.53,2.4,1.55,0.0,1.93,1.93,Zaragoza,Eibar,zaragoza,eibar
+2022-10-13,SP2,Spain-Segunda,2223,Ibiza,Eibar,1.0,2.0,A,1.0,0.0,H,3.2,3.3,2.2,3.16,3.31,2.35,3.18,3.23,2.25,2.2,1.65,2.19,1.66,0.25,1.88,1.98,Ibiza,Eibar,ibiza,eibar
+2022-10-17,SP2,Spain-Segunda,2223,Sp Gijon,Eibar,2.0,0.0,H,1.0,0.0,H,2.8,3.1,2.55,2.86,3.13,2.67,2.85,3.02,2.57,2.4,1.53,2.37,1.55,0.0,2.02,1.83,Sp Gijon,Eibar,sp_gijon,eibar
+2022-10-30,SP2,Spain-Segunda,2223,Malaga,Eibar,0.0,1.0,A,0.0,1.0,A,3.25,3.2,2.3,3.35,3.13,2.34,3.22,3.1,2.27,2.4,1.53,2.41,1.54,0.25,1.88,1.98,Malaga,Eibar,malaga,eibar
+2022-11-06,SP2,Spain-Segunda,2223,Las Palmas,Eibar,1.0,1.0,D,1.0,1.0,D,2.1,3.4,3.6,2.06,3.21,4.02,2.07,3.19,3.7,2.3,1.6,2.32,1.59,-0.25,1.77,2.1,Las Palmas,Eibar,las_palmas,eibar
+2022-11-27,SP2,Spain-Segunda,2223,Cartagena,Eibar,2.0,1.0,H,0.0,1.0,A,2.62,3.0,2.9,2.67,3.06,2.91,2.59,3.02,2.84,2.4,1.53,2.38,1.56,0.0,1.8,2.05,Cartagena,Eibar,cartagena,eibar
+2022-12-08,SP2,Spain-Segunda,2223,Burgos,Eibar,1.0,2.0,A,1.0,0.0,H,3.1,3.0,2.5,3.3,2.79,2.62,3.1,2.86,2.52,2.7,1.44,2.69,1.45,0.0,2.08,1.73,Burgos,Eibar,burgos,eibar
+2022-12-18,SP2,Spain-Segunda,2223,Levante,Eibar,0.0,0.0,D,0.0,0.0,D,2.1,3.2,3.8,2.11,3.21,3.87,2.08,3.16,3.69,2.35,1.57,2.37,1.56,-0.25,1.77,2.1,Levante,Eibar,levante,eibar
+2023-01-21,SP2,Spain-Segunda,2223,Ponferradina,Eibar,0.0,1.0,A,0.0,0.0,D,3.75,3.2,2.15,3.88,3.18,2.17,3.61,3.12,2.14,2.5,1.5,2.45,1.54,0.25,2.0,1.85,Ponferradina,Eibar,ponferradina,eibar
+2023-02-04,SP2,Spain-Segunda,2223,Alaves,Eibar,2.0,0.0,H,0.0,0.0,D,2.38,3.1,3.3,2.48,2.88,3.54,2.38,2.89,3.36,2.88,1.4,2.77,1.42,-0.25,2.0,1.85,Deportivo Alaves,Eibar,deportivo_alaves,eibar
+2023-02-18,SP2,Spain-Segunda,2223,Lugo,Eibar,0.0,2.0,A,0.0,1.0,A,4.2,3.1,2.05,4.52,3.03,2.07,4.2,2.96,2.05,3.1,1.36,2.95,1.38,0.5,1.8,2.05,Lugo,Eibar,lugo,eibar
+2023-03-04,SP2,Spain-Segunda,2223,Tenerife,Eibar,0.0,1.0,A,0.0,1.0,A,2.5,2.8,3.25,2.57,2.86,3.39,2.5,2.77,3.26,3.4,1.33,3.1,1.35,-0.25,2.1,1.77,Tenerife,Eibar,tenerife,eibar
+2023-03-20,SP2,Spain-Segunda,2223,Mirandes,Eibar,2.0,3.0,A,2.0,0.0,H,3.4,3.1,2.3,3.43,2.94,2.43,3.26,2.95,2.35,2.5,1.5,2.51,1.5,0.25,1.85,2.0,Mirandes,Eibar,mirandes,eibar
+2023-04-01,SP2,Spain-Segunda,2223,Oviedo,Eibar,1.0,1.0,D,0.0,0.0,D,3.25,2.7,2.7,3.34,2.72,2.73,3.23,2.66,2.62,3.6,1.29,3.39,1.3,0.0,2.13,1.75,Real Oviedo,Eibar,real_oviedo,eibar
+2023-04-14,SP2,Spain-Segunda,2223,Albacete,Eibar,3.0,1.0,H,2.0,0.0,H,2.7,3.0,2.8,2.87,2.89,2.95,2.72,2.87,2.85,2.7,1.44,2.71,1.44,0.0,1.93,1.93,Albacete,Eibar,albacete,eibar
+2023-04-30,SP2,Spain-Segunda,2223,Granada,Eibar,1.0,1.0,D,0.0,0.0,D,2.1,3.1,4.0,2.15,3.16,3.8,2.11,3.11,3.66,2.5,1.5,2.49,1.5,-0.25,1.82,2.02,Granada,Eibar,granada,eibar
+2023-05-14,SP2,Spain-Segunda,2223,Santander,Eibar,1.0,0.0,H,1.0,0.0,H,4.0,3.1,2.1,3.97,3.13,2.13,3.71,3.08,2.11,2.4,1.53,2.44,1.53,0.25,2.05,1.8,Santander,Eibar,santander,eibar
+2023-05-27,SP2,Spain-Segunda,2223,Huesca,Eibar,0.0,1.0,A,0.0,0.0,D,2.88,3.4,2.4,2.91,3.5,2.48,2.86,3.22,2.46,2.2,1.65,2.27,1.61,0.0,2.1,1.77,Huesca,Eibar,huesca,eibar
+2023-08-12,SP2,Spain-Segunda,2324,Santander,Eibar,4.0,0.0,H,3.0,0.0,H,2.9,3.1,2.6,3.05,2.98,2.74,2.9,3.02,2.56,2.35,1.57,2.36,1.57,0.0,2.03,1.83,Santander,Eibar,santander,eibar
+2023-08-28,SP2,Spain-Segunda,2324,Eldense,Eibar,2.0,1.0,H,2.0,0.0,H,2.9,3.0,2.7,2.96,3.04,2.73,2.88,3.0,2.59,2.5,1.5,2.5,1.51,0.0,2.03,1.83,Eldense,Eibar,eldense,eibar
+2023-09-09,SP2,Spain-Segunda,2324,Burgos,Eibar,1.0,0.0,H,0.0,0.0,D,3.0,3.0,2.63,3.13,2.99,2.68,2.99,2.93,2.58,2.6,1.48,2.64,1.46,0.0,2.1,1.78,Burgos,Eibar,burgos,eibar
+2023-09-22,SP2,Spain-Segunda,2324,Cartagena,Eibar,1.0,2.0,A,0.0,1.0,A,3.4,3.0,2.25,3.53,3.19,2.32,3.36,3.06,2.27,2.3,1.6,2.36,1.57,0.25,1.9,1.95,Cartagena,Eibar,cartagena,eibar
+2023-10-05,SP2,Spain-Segunda,2324,Mirandes,Eibar,1.0,3.0,A,1.0,1.0,D,3.4,3.1,2.25,3.59,3.1,2.35,3.33,3.08,2.26,2.35,1.57,2.38,1.56,0.25,1.93,1.93,Mirandes,Eibar,mirandes,eibar
+2023-10-08,SP2,Spain-Segunda,2324,Amorebieta,Eibar,1.0,2.0,A,1.0,1.0,D,4.0,3.1,2.05,4.27,3.27,2.05,3.9,3.21,2.01,2.25,1.62,2.23,1.63,0.5,1.83,2.03,Amorebieta,Eibar,amorebieta,eibar
+2023-10-21,SP2,Spain-Segunda,2324,Zaragoza,Eibar,2.0,3.0,A,2.0,0.0,H,2.8,2.88,2.88,2.82,3.02,2.92,2.74,2.94,2.78,2.5,1.5,2.52,1.49,0.0,1.9,1.95,Zaragoza,Eibar,zaragoza,eibar
+2023-11-03,SP2,Spain-Segunda,2324,Espanol,Eibar,2.0,2.0,D,1.0,1.0,D,2.4,3.2,3.1,2.42,3.26,3.25,2.33,3.2,3.1,2.15,1.67,2.14,1.69,-0.25,2.03,1.83,Espanyol,Eibar,espanyol,eibar
+2023-11-19,SP2,Spain-Segunda,2324,Oviedo,Eibar,2.0,1.0,H,0.0,1.0,A,3.1,3.0,2.55,3.17,2.84,2.58,3.08,2.91,2.51,2.7,1.44,2.67,1.45,0.25,1.73,2.08,Real Oviedo,Eibar,real_oviedo,eibar
+2023-12-04,SP2,Spain-Segunda,2324,Villarreal B,Eibar,1.0,0.0,H,0.0,0.0,D,4.0,3.5,1.95,3.86,3.69,1.98,3.71,3.51,1.96,1.93,1.93,1.89,1.88,0.5,1.88,1.98,Villarreal B,Eibar,villarreal_b,eibar
+2023-12-17,SP2,Spain-Segunda,2324,Alcorcon,Eibar,1.0,0.0,H,1.0,0.0,H,4.0,3.4,2.0,4.04,3.35,2.07,3.81,3.33,1.99,2.15,1.67,2.16,1.68,0.5,1.83,2.03,Alcorcon,Eibar,alcorcon,eibar
+2024-01-21,SP2,Spain-Segunda,2324,Huesca,Eibar,2.0,3.0,A,0.0,2.0,A,3.1,3.0,2.6,3.24,2.92,2.66,3.04,2.91,2.52,2.7,1.44,2.71,1.44,0.25,1.7,2.1,Huesca,Eibar,huesca,eibar
+2024-02-04,SP2,Spain-Segunda,2324,Ferrol,Eibar,1.0,1.0,D,0.0,0.0,D,3.1,3.0,2.55,3.19,2.93,2.69,2.97,2.96,2.54,2.4,1.53,2.37,1.56,0.0,2.15,1.73,Ferrol,Eibar,ferrol,eibar
+2024-02-18,SP2,Spain-Segunda,2324,Elche,Eibar,0.0,0.0,D,0.0,0.0,D,2.3,3.1,3.4,2.43,3.12,3.38,2.3,3.05,3.26,2.5,1.5,2.48,1.51,-0.25,1.98,1.88,Elche,Eibar,elche,eibar
+2024-03-03,SP2,Spain-Segunda,2324,Leganes,Eibar,0.0,2.0,A,0.0,2.0,A,2.63,3.0,3.0,2.78,2.83,3.18,2.59,2.83,3.01,2.7,1.44,2.66,1.45,0.0,1.78,2.1,Leganes,Eibar,leganes,eibar
+2024-03-24,SP2,Spain-Segunda,2324,Valladolid,Eibar,3.0,1.0,H,0.0,1.0,A,2.05,3.0,3.4,2.18,3.12,3.55,2.13,3.11,3.52,2.35,1.57,2.37,1.56,-0.25,1.85,2.0,Real Valladolid,Eibar,real_valladolid,eibar
+2024-04-07,SP2,Spain-Segunda,2324,Tenerife,Eibar,2.0,1.0,H,1.0,1.0,D,2.6,2.9,3.2,2.67,2.93,3.15,2.54,2.9,3.05,2.6,1.48,2.6,1.47,0.0,1.78,2.1,Tenerife,Eibar,tenerife,eibar
+2024-04-14,SP2,Spain-Segunda,2324,Andorra,Eibar,0.0,2.0,A,0.0,0.0,D,2.8,3.1,2.7,3.0,3.13,2.63,2.85,3.04,2.56,2.25,1.62,2.28,1.61,0.0,2.05,1.8,Andorra,Eibar,andorra,eibar
+2024-04-28,SP2,Spain-Segunda,2324,Albacete,Eibar,2.0,1.0,H,1.0,1.0,D,2.6,3.1,2.88,2.55,3.12,2.88,2.52,3.1,2.8,2.1,1.7,2.12,1.69,0.0,1.8,2.05,Albacete,Eibar,albacete,eibar
+2024-05-11,SP2,Spain-Segunda,2324,Levante,Eibar,2.0,2.0,D,1.0,1.0,D,2.6,3.2,2.75,2.71,2.96,2.84,2.61,3.07,2.77,2.0,1.85,1.96,1.82,0.0,1.88,1.98,Levante,Eibar,levante,eibar
+2024-05-26,SP2,Spain-Segunda,2324,Sp Gijon,Eibar,1.0,0.0,H,0.0,0.0,D,2.7,3.25,2.63,2.59,3.45,2.53,2.57,3.43,2.54,1.7,2.1,1.68,2.12,0.0,1.93,1.93,Sp Gijon,Eibar,sp_gijon,eibar
+2024-08-23,SP2,Spain-Segunda,2425,Santander,Eibar,2.0,2.0,D,0.0,1.0,A,2.25,3.3,3.2,2.37,3.09,3.49,2.27,3.17,3.21,2.03,1.83,1.99,1.79,-0.25,1.95,1.9,Santander,Eibar,santander,eibar
+2024-09-09,SP2,Spain-Segunda,2425,Albacete,Eibar,0.0,1.0,A,0.0,1.0,A,2.25,3.2,3.3,2.32,3.24,3.22,2.25,3.22,3.18,2.08,1.73,2.08,1.72,-0.25,1.98,1.88,Albacete,Eibar,albacete,eibar
+2024-09-22,SP2,Spain-Segunda,2425,Almeria,Eibar,2.0,2.0,D,0.0,1.0,A,1.91,3.4,4.1,1.95,3.48,3.98,1.93,3.42,3.82,1.95,1.9,1.92,1.85,-0.5,1.95,1.9,Almeria,Eibar,almeria,eibar
+2024-09-29,SP2,Spain-Segunda,2425,Oviedo,Eibar,1.0,0.0,H,0.0,0.0,D,2.25,2.9,3.7,2.27,3.01,3.61,2.22,2.97,3.52,2.5,1.5,2.48,1.52,-0.25,1.93,1.93,Real Oviedo,Eibar,real_oviedo,eibar
+2024-10-19,SP2,Spain-Segunda,2425,Mirandes,Eibar,1.0,0.0,H,1.0,0.0,H,3.0,2.88,2.63,3.04,2.78,2.77,2.94,2.84,2.66,2.7,1.44,2.68,1.43,0.0,2.03,1.83,Mirandes,Eibar,mirandes,eibar
+2024-10-27,SP2,Spain-Segunda,2425,Malaga,Eibar,1.0,0.0,H,1.0,0.0,H,2.6,2.9,2.9,2.66,2.85,3.1,2.58,2.92,2.94,2.6,1.48,2.56,1.48,0.0,1.83,2.03,Malaga,Eibar,malaga,eibar
+2024-11-11,SP2,Spain-Segunda,2425,La Coruna,Eibar,1.0,0.0,H,0.0,0.0,D,1.95,3.2,4.0,2.03,3.34,3.85,1.99,3.28,3.74,2.15,1.67,2.14,1.67,-0.5,2.03,1.83,La Coruna,Eibar,la_coruna,eibar
+2024-11-23,SP2,Spain-Segunda,2425,Burgos,Eibar,1.0,0.0,H,0.0,0.0,D,2.38,3.0,3.2,2.48,2.82,3.43,2.37,2.95,3.25,2.4,1.53,2.45,1.53,-0.25,2.03,1.83,Burgos,Eibar,burgos,eibar
+2024-12-07,SP2,Spain-Segunda,2425,Huesca,Eibar,2.0,1.0,H,1.0,1.0,D,2.55,2.7,3.4,2.6,2.63,3.53,2.53,2.72,3.31,2.88,1.4,2.77,1.42,-0.25,2.13,1.75,Huesca,Eibar,huesca,eibar
+2024-12-17,SP2,Spain-Segunda,2425,Cordoba,Eibar,2.0,1.0,H,1.0,1.0,D,2.1,3.0,3.7,2.17,3.08,4.03,2.15,3.01,3.64,2.25,1.62,2.23,1.63,-0.25,1.83,2.03,Cordoba,Eibar,cordoba,eibar
+2025-01-13,SP2,Spain-Segunda,2425,Eldense,Eibar,1.0,3.0,A,1.0,0.0,H,2.55,3.0,3.0,2.56,2.92,3.16,2.51,2.91,2.99,2.7,1.44,2.66,1.43,0.0,1.78,2.1,Eldense,Eibar,eldense,eibar
+2025-01-24,SP2,Spain-Segunda,2425,Elche,Eibar,2.0,0.0,H,1.0,0.0,H,1.8,3.2,5.25,1.86,3.16,5.5,1.81,3.1,5.16,2.5,1.5,2.49,1.51,-0.5,1.83,2.03,Elche,Eibar,elche,eibar
+2025-02-08,SP2,Spain-Segunda,2425,Sp Gijon,Eibar,0.0,0.0,D,0.0,0.0,D,1.95,3.2,4.2,1.97,3.19,4.32,1.96,3.14,4.09,2.5,1.5,2.46,1.51,-0.5,1.98,1.88,Sp Gijon,Eibar,sp_gijon,eibar
+2025-02-15,SP2,Spain-Segunda,2425,Castellon,Eibar,2.0,0.0,H,1.0,0.0,H,1.96,3.3,3.8,2.05,3.27,4.07,2.0,3.25,3.79,2.03,1.83,1.99,1.79,-0.5,2.03,1.83,Castellon,Eibar,castellon,eibar
+2025-02-28,SP2,Spain-Segunda,2425,Cartagena,Eibar,0.0,2.0,A,0.0,2.0,A,4.33,3.1,1.95,4.75,3.11,1.99,4.35,3.02,1.96,2.6,1.48,2.62,1.47,0.5,1.88,1.98,Cartagena,Eibar,cartagena,eibar
+2025-03-15,SP2,Spain-Segunda,2425,Ferrol,Eibar,0.0,0.0,D,0.0,0.0,D,3.6,2.9,2.2,3.78,2.9,2.27,3.6,2.88,2.25,2.88,1.4,2.82,1.39,0.25,1.98,1.88,Ferrol,Eibar,ferrol,eibar
+2025-03-31,SP2,Spain-Segunda,2425,Cadiz,Eibar,0.0,0.0,D,0.0,0.0,D,2.2,2.75,3.5,2.32,2.99,3.51,2.25,2.9,3.49,2.7,1.44,2.72,1.43,-0.25,1.95,1.9,Cadiz,Eibar,cadiz,eibar
+2025-04-12,SP2,Spain-Segunda,2425,Zaragoza,Eibar,2.0,2.0,D,0.0,2.0,A,2.55,3.0,3.0,2.59,2.96,3.08,2.53,2.94,2.97,2.6,1.48,2.57,1.48,-0.25,2.1,1.7,Zaragoza,Eibar,zaragoza,eibar
+2025-04-27,SP2,Spain-Segunda,2425,Tenerife,Eibar,1.0,1.0,D,0.0,1.0,A,2.38,3.0,3.2,2.45,2.9,3.37,2.4,2.89,3.23,2.88,1.4,2.78,1.4,-0.25,2.05,1.8,Tenerife,Eibar,tenerife,eibar
+2025-05-12,SP2,Spain-Segunda,2425,Granada,Eibar,0.0,2.0,A,0.0,0.0,D,1.8,3.4,4.75,1.79,3.44,4.89,1.78,3.39,4.61,2.2,1.65,2.21,1.63,-0.5,1.8,2.05,Granada,Eibar,granada,eibar
+2025-06-01,SP2,Spain-Segunda,2425,Levante,Eibar,1.0,0.0,H,0.0,0.0,D,1.53,4.33,5.5,1.57,4.13,5.16,1.54,4.27,5.15,1.6,2.3,1.6,2.24,-1.0,1.88,1.93,Levante,Eibar,levante,eibar
+2025-08-16,SP2,Spain-Segunda,2526,Malaga,Eibar,1.0,1.0,D,0.0,0.0,D,2.38,3.0,3.3,2.41,2.95,3.37,2.28,2.99,3.2,2.6,1.48,2.49,1.48,-0.25,2.0,1.8,Malaga,Eibar,malaga,eibar
+2025-09-01,SP2,Spain-Segunda,2526,Huesca,Eibar,2.0,1.0,H,1.0,1.0,D,2.55,3.0,2.85,2.59,3.0,3.04,2.52,2.92,2.86,2.6,1.48,2.58,1.44,0.0,1.78,2.03,Huesca,Eibar,huesca,eibar
+2025-09-13,SP2,Spain-Segunda,2526,Cadiz,Eibar,1.0,0.0,H,0.0,0.0,D,2.1,3.0,3.7,2.26,3.06,3.56,2.09,3.02,3.56,2.5,1.5,2.47,1.49,-0.25,1.8,2.0,Cadiz,Eibar,cadiz,eibar
+2025-10-03,SP2,Spain-Segunda,2526,Ceuta,Eibar,1.0,0.0,H,1.0,0.0,H,2.75,3.1,2.5,2.89,3.14,2.71,2.77,3.03,2.51,2.35,1.57,2.35,1.53,0.0,2.0,1.8,Ceuta,Eibar,ceuta,eibar
+2025-10-19,SP2,Spain-Segunda,2526,Las Palmas,Eibar,3.0,1.0,H,1.0,0.0,H,1.91,2.95,4.5,2.02,2.92,4.65,1.96,2.94,4.19,2.6,1.48,2.55,1.47,-0.5,2.0,1.8,Las Palmas,Eibar,las_palmas,eibar
+2025-11-01,SP2,Spain-Segunda,2526,Almeria,Eibar,3.0,1.0,H,3.0,0.0,H,1.68,3.6,4.75,,,,1.71,3.6,4.38,1.98,1.83,1.9,1.82,-0.75,1.98,1.83,Almeria,Eibar,almeria,eibar
+2025-11-16,SP2,Spain-Segunda,2526,Sp Gijon,Eibar,1.0,1.0,D,0.0,1.0,A,2.15,3.05,3.5,,,,2.17,3.03,3.34,2.3,1.6,2.31,1.55,-0.25,1.9,1.9,Sp Gijon,Eibar,sp_gijon,eibar
+2025-11-30,SP2,Spain-Segunda,2526,Santander,Eibar,4.0,0.0,H,2.0,0.0,H,1.96,3.5,3.6,2.07,3.62,3.42,2.0,3.45,3.32,1.85,1.95,1.79,1.91,-0.5,2.0,1.8,Santander,Eibar,santander,eibar
+2025-12-13,SP2,Spain-Segunda,2526,Cordoba,Eibar,0.0,0.0,D,0.0,0.0,D,1.96,3.25,3.9,2.0,3.31,4.02,1.97,3.24,3.63,2.1,1.7,2.05,1.68,-0.5,2.0,1.8,Cordoba,Eibar,cordoba,eibar
+2026-01-10,SP2,Spain-Segunda,2526,Burgos,Eibar,1.0,0.0,H,0.0,0.0,D,2.55,2.82,3.1,2.68,2.84,3.1,2.5,2.79,3.01,3.1,1.36,2.88,1.37,0.0,1.75,2.05,Burgos,Eibar,burgos,eibar
+2026-01-19,SP2,Spain-Segunda,2526,Granada,Eibar,0.0,0.0,D,0.0,0.0,D,2.25,3.0,3.4,,,,2.25,2.97,3.22,2.5,1.5,2.39,1.51,-0.25,1.95,1.85,Granada,Eibar,granada,eibar
+2026-02-07,SP2,Spain-Segunda,2526,Zaragoza,Eibar,1.0,1.0,D,1.0,0.0,H,2.7,3.1,2.57,,,,2.68,2.98,2.63,2.5,1.5,2.46,1.49,0.0,1.95,1.85,Zaragoza,Eibar,zaragoza,eibar
+2026-02-21,SP2,Spain-Segunda,2526,La Coruna,Eibar,1.0,0.0,H,1.0,0.0,H,1.86,3.25,4.33,,,,1.9,3.1,4.14,2.4,1.53,2.39,1.51,-0.5,1.9,1.9,La Coruna,Eibar,la_coruna,eibar
+2026-03-08,SP2,Spain-Segunda,2526,Leganes,Eibar,0.0,1.0,A,0.0,1.0,A,2.32,3.0,3.2,,,,2.32,2.97,3.07,2.5,1.5,2.43,1.5,-0.25,2.03,1.78,Leganes,Eibar,leganes,eibar
+2026-03-21,SP2,Spain-Segunda,2526,Andorra,Eibar,0.0,1.0,A,0.0,1.0,A,2.3,3.1,3.2,,,,2.34,3.09,2.95,2.25,1.62,2.18,1.62,-0.25,2.03,1.78,Andorra,Eibar,andorra,eibar
+2026-04-02,SP2,Spain-Segunda,2526,Sociedad B,Eibar,0.0,1.0,A,0.0,1.0,A,2.82,3.1,2.55,,,,2.72,3.08,2.51,2.2,1.65,2.18,1.62,0.0,2.0,1.8,Sociedad B,Eibar,sociedad_b,eibar
+2026-04-13,SP2,Spain-Segunda,2526,Valladolid,Eibar,0.0,0.0,D,0.0,0.0,D,2.35,3.1,3.2,,,,2.29,3.1,3.0,2.2,1.65,2.19,1.61,-0.25,2.03,1.78,Real Valladolid,Eibar,real_valladolid,eibar
+2026-04-24,SP2,Spain-Segunda,2526,Albacete,Eibar,0.0,3.0,A,0.0,2.0,A,3.0,3.0,2.45,,,,2.81,3.01,2.44,2.3,1.6,2.2,1.6,0.0,2.05,1.75,Albacete,Eibar,albacete,eibar
+2026-05-10,SP2,Spain-Segunda,2526,Mirandes,Eibar,0.0,1.0,A,0.0,1.0,A,2.65,3.4,2.45,,,,2.72,3.19,2.4,2.05,1.75,2.01,1.73,0.0,1.98,1.83,Mirandes,Eibar,mirandes,eibar
+2026-05-16,SP2,Spain-Segunda,2526,Cultural Leonesa,Eibar,2.0,1.0,H,0.0,0.0,D,2.82,3.4,2.35,,,,2.83,3.18,2.33,2.08,1.73,2.04,1.7,0.25,1.75,2.05,Cultural Leonesa,Eibar,cultural_leonesa,eibar
+2026-05-31,SP2,Spain-Segunda,2526,Castellon,Eibar,2.0,1.0,H,1.0,0.0,H,1.51,4.33,5.25,,,,1.51,4.17,5.08,1.57,2.35,1.54,2.33,-1.0,1.9,1.9,Castellon,Eibar,castellon,eibar
+2026-08-30,SP2,Spain-Segunda,2627,Andorra,Eibar,0.0,1.0,A,0.0,0.0,D,2.05,3.1,3.6,,,,2.05,3.19,3.47,2.15,1.67,2.1,1.67,-0.5,2.1,1.7,Andorra,Eibar,andorra,eibar
+2026-09-14,SP2,Spain-Segunda,2627,Celta B,Eibar,0.0,4.0,A,0.0,4.0,A,3.4,3.2,2.15,,,,3.22,3.06,2.2,2.15,1.67,2.1,1.67,0.25,1.9,1.9,Celta B,Eibar,celta_b,eibar
+2026-09-19,SP2,Spain-Segunda,2627,Eldense,Eibar,1.0,2.0,A,0.0,1.0,A,3.0,3.2,2.32,,,,2.89,3.1,2.38,2.15,1.67,2.11,1.66,0.25,1.7,2.1,Eldense,Eibar,eldense,eibar
+2026-10-03,SP2,Spain-Segunda,2627,Albacete,Eibar,1.0,3.0,A,1.0,0.0,H,2.57,3.4,2.5,,,,2.65,3.28,2.44,1.93,1.88,1.87,1.83,0.0,1.95,1.85,Albacete,Eibar,albacete,eibar
+2026-10-12,SP2,Spain-Segunda,2627,Oviedo,Eibar,3.0,1.0,H,2.0,0.0,H,2.2,3.1,3.3,,,,2.2,3.08,3.14,2.15,1.67,2.15,1.64,-0.25,1.95,1.85,Real Oviedo,Eibar,real_oviedo,eibar

@@ -1,0 +1,121 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E1,England-Champ,2122,Stoke,Reading,3.0,2.0,H,2.0,1.0,H,2.05,3.25,3.8,2.1,3.36,3.94,2.09,3.25,3.75,2.5,1.53,2.43,1.56,-0.25,1.81,2.09,Stoke City,Reading,stoke_city,reading
+2021-08-21,E1,England-Champ,2122,Stoke,Nott'm Forest,1.0,0.0,H,0.0,0.0,D,1.83,3.5,4.5,1.89,3.42,4.68,1.89,3.38,4.39,2.3,1.61,2.28,1.63,-0.5,1.89,2.01,Stoke City,Nottingham Forest,stoke_city,nottingham_forest
+2021-09-11,E1,England-Champ,2122,Stoke,Huddersfield,2.0,1.0,H,0.0,0.0,D,1.75,3.6,5.0,1.79,3.57,5.25,1.76,3.55,5.02,2.1,1.72,2.14,1.72,-0.75,2.03,1.87,Stoke City,Huddersfield,stoke_city,huddersfield
+2021-09-15,E1,England-Champ,2122,Stoke,Barnsley,1.0,1.0,D,1.0,1.0,D,1.75,3.5,5.0,1.81,3.55,5.11,1.8,3.49,4.79,2.2,1.66,2.23,1.66,-0.5,1.75,2.05,Stoke City,Barnsley,stoke_city,barnsley
+2021-09-25,E1,England-Champ,2122,Stoke,Hull,2.0,0.0,H,1.0,0.0,H,1.57,3.8,6.5,1.62,3.86,6.51,1.6,3.82,6.09,2.2,1.66,2.15,1.71,-1.0,2.1,1.8,Stoke City,Hull City,stoke_city,hull_city
+2021-10-01,E1,England-Champ,2122,Stoke,West Brom,1.0,0.0,H,0.0,0.0,D,3.5,3.2,2.2,3.61,3.21,2.28,3.49,3.19,2.23,2.1,1.72,2.15,1.71,0.25,1.96,1.94,Stoke City,West Bromwich Albion,stoke_city,west_bromwich_albion
+2021-10-19,E1,England-Champ,2122,Stoke,Bournemouth,0.0,1.0,A,0.0,0.0,D,2.7,3.2,2.8,2.58,3.21,3.05,2.67,3.16,2.78,2.0,1.8,2.1,1.74,0.0,1.82,2.08,Stoke City,Bournemouth,stoke_city,bournemouth
+2021-10-30,E1,England-Champ,2122,Stoke,Cardiff,3.0,3.0,D,2.0,0.0,H,1.95,3.4,4.0,1.95,3.56,4.25,1.95,3.41,4.07,2.0,1.8,2.05,1.77,-0.5,1.93,1.97,Stoke City,Cardiff City,stoke_city,cardiff_city
+2021-11-20,E1,England-Champ,2122,Stoke,Peterboro,2.0,0.0,H,1.0,0.0,H,1.55,4.0,6.5,1.53,4.25,6.9,1.53,4.18,6.36,1.83,2.02,1.82,2.0,-1.0,1.91,1.99,Stoke City,Peterborough United,stoke_city,peterborough_united
+2021-11-27,E1,England-Champ,2122,Stoke,Blackburn,0.0,1.0,A,0.0,0.0,D,2.1,3.4,3.5,2.14,3.36,3.78,2.11,3.36,3.59,2.02,1.83,2.01,1.81,-0.25,1.82,2.08,Stoke City,Blackburn,stoke_city,blackburn
+2021-12-11,E1,England-Champ,2122,Stoke,Middlesbrough,0.0,0.0,D,0.0,0.0,D,2.4,3.1,3.2,2.5,3.16,3.22,2.42,3.18,3.08,2.2,1.66,2.27,1.63,-0.25,2.06,1.84,Stoke City,Middlesbrough,stoke_city,middlesbrough
+2021-12-30,E1,England-Champ,2122,Stoke,Derby,1.0,2.0,A,0.0,1.0,A,1.66,3.75,5.5,1.75,3.62,5.52,1.72,3.54,5.22,2.2,1.66,2.23,1.65,-0.75,1.96,1.94,Stoke City,Derby,stoke_city,derby
+2022-01-03,E1,England-Champ,2122,Stoke,Preston,1.0,2.0,A,0.0,0.0,D,2.0,3.3,4.0,2.02,3.46,4.01,2.02,3.37,3.8,2.3,1.61,2.26,1.64,-0.5,2.05,1.85,Stoke City,Preston,stoke_city,preston
+2022-01-22,E1,England-Champ,2122,Stoke,Fulham,2.0,3.0,A,1.0,2.0,A,4.33,3.4,1.9,4.2,3.53,1.97,3.91,3.52,1.94,2.1,1.72,1.98,1.83,0.5,2.0,1.9,Stoke City,Fulham,stoke_city,fulham
+2022-02-08,E1,England-Champ,2122,Stoke,Swansea,3.0,0.0,H,0.0,0.0,D,2.25,3.25,3.4,2.3,3.24,3.52,2.26,3.18,3.41,2.37,1.57,2.36,1.59,-0.25,1.97,1.93,Stoke City,Swansea City,stoke_city,swansea_city
+2022-02-19,E1,England-Champ,2122,Stoke,Birmingham,2.0,2.0,D,1.0,1.0,D,1.8,3.6,4.75,1.82,3.74,4.71,1.8,3.65,4.52,2.1,1.77,2.07,1.76,-0.75,2.0,1.8,Stoke City,Birmingham,stoke_city,birmingham
+2022-02-23,E1,England-Champ,2122,Stoke,Luton,1.0,2.0,A,0.0,0.0,D,2.1,3.3,3.6,2.19,3.15,3.95,2.13,3.26,3.64,2.2,1.66,2.2,1.67,-0.25,1.82,2.08,Stoke City,Luton,stoke_city,luton
+2022-03-05,E1,England-Champ,2122,Stoke,Blackpool,0.0,1.0,A,0.0,0.0,D,1.9,3.4,4.33,1.93,3.42,4.54,1.92,3.41,4.24,2.1,1.72,2.12,1.72,-0.5,1.9,2.0,Stoke City,Blackpool,stoke_city,blackpool
+2022-03-19,E1,England-Champ,2122,Stoke,Millwall,2.0,0.0,H,1.0,0.0,H,2.3,3.3,3.2,2.42,3.17,3.34,2.35,3.13,3.25,2.37,1.57,2.41,1.57,-0.25,2.0,1.9,Stoke City,Millwall,stoke_city,millwall
+2022-04-02,E1,England-Champ,2122,Stoke,Sheffield United,1.0,0.0,H,0.0,0.0,D,3.0,3.2,2.5,3.04,3.29,2.54,2.96,3.25,2.47,2.1,1.72,2.1,1.73,0.25,1.73,2.08,Stoke City,Sheffield United,stoke_city,sheffield_united
+2022-04-15,E1,England-Champ,2122,Stoke,Bristol City,0.0,1.0,A,0.0,0.0,D,1.75,3.8,4.75,1.78,3.79,4.94,1.76,3.72,4.7,1.95,1.9,1.92,1.88,-0.75,1.99,1.91,Stoke City,Bristol City,stoke_city,bristol_city
+2022-04-23,E1,England-Champ,2122,Stoke,QPR,1.0,0.0,H,1.0,0.0,H,2.05,3.4,3.75,2.08,3.55,3.77,2.04,3.48,3.68,2.0,1.8,2.02,1.79,-0.5,2.02,1.77,Stoke City,Queens Park Rangers,stoke_city,queens_park_rangers
+2022-05-07,E1,England-Champ,2122,Stoke,Coventry,1.0,1.0,D,1.0,1.0,D,2.3,3.8,2.8,2.44,3.64,2.91,2.39,3.57,2.84,1.66,2.2,1.66,2.21,-0.25,2.08,1.82,Stoke City,Coventry,stoke_city,coventry
+2022-08-06,E1,England-Champ,2223,Stoke,Blackpool,2.0,0.0,H,1.0,0.0,H,2.05,3.4,3.75,2.12,3.36,3.85,2.07,3.35,3.71,2.1,1.72,2.12,1.72,-0.5,2.06,1.84,Stoke City,Blackpool,stoke_city,blackpool
+2022-08-17,E1,England-Champ,2223,Stoke,Middlesbrough,2.0,2.0,D,1.0,1.0,D,2.7,3.2,2.75,2.7,3.33,2.8,2.64,3.24,2.75,2.2,1.66,2.18,1.69,0.0,1.9,2.0,Stoke City,Middlesbrough,stoke_city,middlesbrough
+2022-08-20,E1,England-Champ,2223,Stoke,Sunderland,0.0,1.0,A,0.0,1.0,A,2.1,3.4,3.5,2.15,3.41,3.7,2.13,3.35,3.51,2.02,1.83,2.04,1.78,-0.25,1.85,2.05,Stoke City,Sunderland,stoke_city,sunderland
+2022-08-31,E1,England-Champ,2223,Stoke,Swansea,1.0,1.0,D,0.0,1.0,A,2.1,3.5,3.6,2.08,3.52,3.78,2.06,3.47,3.58,1.98,1.88,1.95,1.86,-0.5,2.06,1.84,Stoke City,Swansea City,stoke_city,swansea_city
+2022-10-02,E1,England-Champ,2223,Stoke,Watford,0.0,4.0,A,0.0,1.0,A,2.5,3.25,2.9,2.54,3.34,2.99,2.47,3.25,2.93,2.1,1.72,2.15,1.69,-0.25,2.08,1.73,Stoke City,Watford,stoke_city,watford
+2022-10-08,E1,England-Champ,2223,Stoke,Sheffield United,3.0,1.0,H,2.0,1.0,H,2.9,3.4,2.4,3.1,3.35,2.46,2.98,3.31,2.4,2.1,1.72,2.06,1.76,0.25,1.83,2.07,Stoke City,Sheffield United,stoke_city,sheffield_united
+2022-10-18,E1,England-Champ,2223,Stoke,Rotherham,0.0,1.0,A,0.0,1.0,A,1.9,3.5,4.2,1.93,3.59,4.26,1.9,3.55,4.08,2.05,1.8,2.02,1.79,-0.5,1.94,1.96,Stoke City,Rotherham United,stoke_city,rotherham_united
+2022-10-22,E1,England-Champ,2223,Stoke,Coventry,0.0,2.0,A,0.0,0.0,D,2.15,3.3,3.5,2.18,3.45,3.58,2.15,3.4,3.38,2.0,1.85,1.98,1.83,-0.25,1.88,2.02,Stoke City,Coventry,stoke_city,coventry
+2022-11-05,E1,England-Champ,2223,Stoke,Birmingham,1.0,2.0,A,0.0,1.0,A,2.05,3.5,3.6,2.09,3.49,3.8,2.07,3.42,3.6,2.2,1.66,2.12,1.72,-0.5,2.02,1.77,Stoke City,Birmingham,stoke_city,birmingham
+2022-11-08,E1,England-Champ,2223,Stoke,Luton,2.0,0.0,H,2.0,0.0,H,1.95,3.4,4.0,2.06,3.4,4.01,2.03,3.37,3.77,2.2,1.66,2.17,1.68,-0.5,2.04,1.86,Stoke City,Luton,stoke_city,luton
+2022-12-10,E1,England-Champ,2223,Stoke,Cardiff,2.0,2.0,D,2.0,1.0,H,2.05,3.3,3.8,2.12,3.45,3.74,2.1,3.36,3.58,2.1,1.73,2.08,1.74,-0.25,1.75,2.05,Stoke City,Cardiff City,stoke_city,cardiff_city
+2022-12-30,E1,England-Champ,2223,Stoke,Burnley,0.0,1.0,A,0.0,0.0,D,3.2,3.25,2.3,3.27,3.48,2.3,3.14,3.37,2.27,2.0,1.8,2.05,1.77,0.25,1.9,2.0,Stoke City,Burnley,stoke_city,burnley
+2023-01-02,E1,England-Champ,2223,Stoke,Preston,0.0,1.0,A,0.0,0.0,D,2.1,3.4,3.6,2.16,3.38,3.69,2.14,3.32,3.5,2.2,1.67,2.18,1.68,-0.25,1.84,2.06,Stoke City,Preston,stoke_city,preston
+2023-01-21,E1,England-Champ,2223,Stoke,Reading,4.0,0.0,H,1.0,0.0,H,1.85,3.5,4.33,1.96,3.5,4.3,1.9,3.47,4.16,2.2,1.67,2.17,1.69,-0.5,1.93,1.97,Stoke City,Reading,stoke_city,reading
+2023-02-11,E1,England-Champ,2223,Stoke,Hull,0.0,0.0,D,0.0,0.0,D,2.05,3.3,3.8,2.09,3.38,3.94,2.05,3.34,3.72,2.2,1.67,2.22,1.66,-0.5,2.07,1.83,Stoke City,Hull City,stoke_city,hull_city
+2023-02-15,E1,England-Champ,2223,Stoke,Huddersfield,3.0,0.0,H,1.0,0.0,H,1.83,3.4,4.75,1.88,3.4,4.94,1.87,3.38,4.53,2.3,1.62,2.34,1.6,-0.5,1.85,2.05,Stoke City,Huddersfield,stoke_city,huddersfield
+2023-02-25,E1,England-Champ,2223,Stoke,Millwall,0.0,1.0,A,0.0,1.0,A,2.4,3.2,3.0,2.46,3.2,3.24,2.42,3.12,3.1,2.38,1.57,2.36,1.58,-0.25,2.09,1.81,Stoke City,Millwall,stoke_city,millwall
+2023-03-10,E1,England-Champ,2223,Stoke,Blackburn,3.0,2.0,H,2.0,0.0,H,2.0,3.4,3.8,2.04,3.39,4.08,2.02,3.31,3.89,2.3,1.62,2.27,1.63,-0.5,2.04,1.86,Stoke City,Blackburn,stoke_city,blackburn
+2023-03-18,E1,England-Champ,2223,Stoke,Norwich,0.0,0.0,D,0.0,0.0,D,2.45,3.3,2.9,2.58,3.31,2.96,2.49,3.3,2.85,2.0,1.8,2.03,1.78,0.0,1.78,2.13,Stoke City,Norwich City,stoke_city,norwich_city
+2023-04-07,E1,England-Champ,2223,Stoke,Bristol City,1.0,2.0,A,1.0,0.0,H,1.8,3.6,4.5,1.85,3.62,4.71,1.81,3.59,4.48,2.05,1.8,2.07,1.76,-0.5,1.82,2.08,Stoke City,Bristol City,stoke_city,bristol_city
+2023-04-15,E1,England-Champ,2223,Stoke,West Brom,1.0,2.0,A,1.0,0.0,H,2.3,3.2,3.3,2.37,3.33,3.27,2.32,3.24,3.18,2.1,1.73,2.14,1.7,-0.25,2.0,1.9,Stoke City,West Bromwich Albion,stoke_city,west_bromwich_albion
+2023-04-18,E1,England-Champ,2223,Stoke,Wigan,0.0,1.0,A,0.0,0.0,D,1.55,3.8,6.5,1.57,4.17,6.45,1.56,3.99,6.27,2.02,1.83,2.03,1.79,-1.0,2.01,1.89,Stoke City,Wigan Athletic,stoke_city,wigan_athletic
+2023-04-29,E1,England-Champ,2223,Stoke,QPR,0.0,1.0,A,0.0,0.0,D,1.91,3.6,4.0,2.03,3.51,3.99,1.98,3.48,3.83,2.02,1.82,2.01,1.8,-0.5,2.01,1.89,Stoke City,Queens Park Rangers,stoke_city,queens_park_rangers
+2023-08-05,E1,England-Champ,2324,Stoke,Rotherham,4.0,1.0,H,3.0,0.0,H,1.62,3.8,5.75,1.65,4.0,5.74,1.64,3.86,5.45,2.0,1.85,1.97,1.83,-0.75,1.81,2.09,Stoke City,Rotherham United,stoke_city,rotherham_united
+2023-08-19,E1,England-Champ,2324,Stoke,Watford,1.0,0.0,H,0.0,0.0,D,2.25,3.3,3.25,2.25,3.53,3.34,2.23,3.38,3.23,2.03,1.83,2.0,1.8,-0.25,1.93,1.97,Stoke City,Watford,stoke_city,watford
+2023-09-02,E1,England-Champ,2324,Stoke,Preston,0.0,2.0,A,0.0,0.0,D,1.95,3.5,4.0,1.96,3.5,4.28,1.93,3.47,4.05,2.1,1.73,2.11,1.73,-0.5,1.98,1.92,Stoke City,Preston,stoke_city,preston
+2023-09-24,E1,England-Champ,2324,Stoke,Hull,1.0,3.0,A,0.0,2.0,A,1.91,3.75,3.8,1.95,3.78,3.97,1.91,3.7,3.82,1.9,1.95,1.86,1.94,-0.5,1.94,1.96,Stoke City,Hull City,stoke_city,hull_city
+2023-10-03,E1,England-Champ,2324,Stoke,Southampton,0.0,1.0,A,0.0,1.0,A,2.7,3.4,2.6,2.78,3.46,2.64,2.68,3.43,2.58,1.8,2.0,1.8,2.01,0.0,2.02,1.88,Stoke City,Southampton,stoke_city,southampton
+2023-10-21,E1,England-Champ,2324,Stoke,Sunderland,2.0,1.0,H,1.0,1.0,D,2.5,3.3,2.75,2.55,3.56,2.82,2.44,3.47,2.78,1.75,2.05,1.78,2.03,0.0,1.85,2.05,Stoke City,Sunderland,stoke_city,sunderland
+2023-10-25,E1,England-Champ,2324,Stoke,Leeds,1.0,0.0,H,0.0,0.0,D,3.75,3.6,1.95,3.96,3.73,1.97,3.7,3.65,1.97,1.8,2.0,1.78,2.04,0.5,1.93,1.97,Stoke City,Leeds,stoke_city,leeds
+2023-11-04,E1,England-Champ,2324,Stoke,Cardiff,0.0,0.0,D,0.0,0.0,D,2.15,3.3,3.5,2.18,3.42,3.61,2.17,3.32,3.43,2.1,1.7,2.16,1.69,-0.25,1.9,2.0,Stoke City,Cardiff City,stoke_city,cardiff_city
+2023-11-25,E1,England-Champ,2324,Stoke,Blackburn,0.0,3.0,A,0.0,1.0,A,2.2,3.5,3.2,2.22,3.72,3.24,2.2,3.57,3.15,1.75,2.05,1.76,2.07,-0.25,1.94,1.96,Stoke City,Blackburn,stoke_city,blackburn
+2023-12-09,E1,England-Champ,2324,Stoke,Sheffield Weds,0.0,1.0,A,0.0,0.0,D,2.0,3.25,4.0,2.04,3.42,4.08,2.03,3.31,3.85,2.25,1.62,2.21,1.66,-0.5,2.05,1.85,Stoke City,Sheffield Wednesday,stoke_city,sheffield_wednesday
+2023-12-12,E1,England-Champ,2324,Stoke,Swansea,1.0,1.0,D,0.0,0.0,D,2.05,3.5,3.6,2.12,3.63,3.56,2.09,3.51,3.46,1.93,1.93,1.89,1.91,-0.25,1.84,2.06,Stoke City,Swansea City,stoke_city,swansea_city
+2023-12-23,E1,England-Champ,2324,Stoke,Millwall,0.0,0.0,D,0.0,0.0,D,2.05,3.6,3.4,2.15,3.47,3.63,2.11,3.4,3.51,2.1,1.7,2.13,1.72,-0.25,1.84,2.06,Stoke City,Millwall,stoke_city,millwall
+2024-01-01,E1,England-Champ,2324,Stoke,Ipswich,0.0,0.0,D,0.0,0.0,D,2.9,3.3,2.4,2.98,3.48,2.47,2.87,3.44,2.4,1.93,1.93,1.87,1.93,0.25,1.79,2.11,Stoke City,Ipswich,stoke_city,ipswich
+2024-01-20,E1,England-Champ,2324,Stoke,Birmingham,1.0,2.0,A,0.0,1.0,A,1.91,3.6,4.0,1.95,3.61,4.2,1.94,3.52,3.95,2.05,1.8,2.03,1.78,-0.5,1.95,1.95,Stoke City,Birmingham,stoke_city,birmingham
+2024-02-03,E1,England-Champ,2324,Stoke,Leicester,0.0,5.0,A,0.0,2.0,A,4.2,3.75,1.83,4.3,3.89,1.85,4.1,3.7,1.85,1.9,1.95,1.89,1.91,0.5,2.05,1.85,Stoke City,Leicester City,stoke_city,leicester_city
+2024-02-14,E1,England-Champ,2324,Stoke,QPR,1.0,0.0,H,1.0,0.0,H,2.05,3.4,3.5,2.13,3.39,3.8,2.09,3.34,3.61,2.1,1.7,2.15,1.7,-0.25,1.82,2.08,Stoke City,Queens Park Rangers,stoke_city,queens_park_rangers
+2024-02-17,E1,England-Champ,2324,Stoke,Coventry,0.0,1.0,A,0.0,0.0,D,2.8,3.4,2.5,2.9,3.51,2.51,2.76,3.49,2.47,1.83,2.03,1.8,2.02,0.0,2.07,1.83,Stoke City,Coventry,stoke_city,coventry
+2024-03-02,E1,England-Champ,2324,Stoke,Middlesbrough,2.0,0.0,H,1.0,0.0,H,2.75,3.3,2.6,2.72,3.48,2.69,2.68,3.39,2.59,1.95,1.9,1.9,1.9,0.0,1.98,1.92,Stoke City,Middlesbrough,stoke_city,middlesbrough
+2024-03-16,E1,England-Champ,2324,Stoke,Norwich,0.0,3.0,A,0.0,2.0,A,2.55,3.25,2.8,2.65,3.47,2.76,2.56,3.36,2.74,2.0,1.85,1.91,1.85,0.0,1.88,2.02,Stoke City,Norwich City,stoke_city,norwich_city
+2024-04-01,E1,England-Champ,2324,Stoke,Huddersfield,1.0,1.0,D,0.0,1.0,A,2.05,3.4,3.75,2.11,3.44,3.7,2.1,3.39,3.52,2.05,1.75,2.04,1.78,-0.25,1.83,2.07,Stoke City,Huddersfield,stoke_city,huddersfield
+2024-04-06,E1,England-Champ,2324,Stoke,West Brom,2.0,2.0,D,0.0,1.0,A,2.6,3.2,2.8,2.79,3.14,2.81,2.67,3.16,2.76,2.2,1.67,2.24,1.65,0.0,1.92,1.98,Stoke City,West Bromwich Albion,stoke_city,west_bromwich_albion
+2024-04-20,E1,England-Champ,2324,Stoke,Plymouth,3.0,0.0,H,2.0,0.0,H,1.8,3.5,4.75,1.85,3.29,5.26,1.84,3.41,4.62,1.93,1.93,1.91,1.89,-0.5,1.84,2.06,Stoke City,Plymouth Argyle,stoke_city,plymouth_argyle
+2024-05-04,E1,England-Champ,2324,Stoke,Bristol City,4.0,0.0,H,3.0,0.0,H,2.05,3.4,3.75,2.08,3.61,3.55,2.05,3.52,3.51,1.9,1.95,1.87,1.92,-0.5,2.07,1.83,Stoke City,Bristol City,stoke_city,bristol_city
+2024-08-10,E1,England-Champ,2425,Stoke,Coventry,1.0,0.0,H,0.0,0.0,D,2.45,3.6,2.7,2.53,3.51,2.79,2.47,3.51,2.75,1.83,2.03,1.8,2.01,0.0,1.86,2.04,Stoke City,Coventry,stoke_city,coventry
+2024-08-24,E1,England-Champ,2425,Stoke,West Brom,1.0,2.0,A,1.0,2.0,A,2.55,3.2,2.8,2.63,3.17,2.83,2.55,3.18,2.84,2.3,1.62,2.24,1.64,0.0,1.85,2.05,Stoke City,West Bromwich Albion,stoke_city,west_bromwich_albion
+2024-09-20,E1,England-Champ,2425,Stoke,Hull,1.0,3.0,A,1.0,0.0,H,2.1,3.3,3.5,2.13,3.52,3.57,2.1,3.47,3.46,1.93,1.93,1.91,1.9,-0.25,1.83,2.07,Stoke City,Hull City,stoke_city,hull_city
+2024-10-02,E1,England-Champ,2425,Stoke,Portsmouth,6.0,1.0,H,3.0,1.0,H,1.8,3.6,4.33,1.83,3.7,4.21,1.84,3.7,4.16,1.85,2.0,1.83,1.98,-0.5,1.86,2.04,Stoke City,Portsmouth,stoke_city,portsmouth
+2024-10-19,E1,England-Champ,2425,Stoke,Norwich,1.0,1.0,D,1.0,1.0,D,2.55,3.4,2.63,2.6,3.43,2.68,2.57,3.47,2.65,1.8,2.0,1.79,1.99,0.0,1.86,1.92,Stoke City,Norwich City,stoke_city,norwich_city
+2024-10-22,E1,England-Champ,2425,Stoke,Bristol City,2.0,2.0,D,2.0,0.0,H,2.38,3.4,2.9,2.46,3.43,2.99,2.41,3.35,2.94,1.98,1.88,1.97,1.84,-0.25,2.1,1.8,Stoke City,Bristol City,stoke_city,bristol_city
+2024-11-02,E1,England-Champ,2425,Stoke,Derby,2.0,1.0,H,1.0,0.0,H,2.2,3.4,3.25,2.24,3.36,3.26,2.22,3.38,3.25,2.03,1.83,1.99,1.82,-0.25,1.95,1.95,Stoke City,Derby,stoke_city,derby
+2024-11-09,E1,England-Champ,2425,Stoke,Millwall,1.0,1.0,D,0.0,1.0,A,2.5,3.25,2.8,2.67,3.14,2.89,2.59,3.16,2.85,2.2,1.67,2.28,1.63,0.0,1.84,2.06,Stoke City,Millwall,stoke_city,millwall
+2024-11-26,E1,England-Champ,2425,Stoke,Preston,0.0,0.0,D,0.0,0.0,D,2.0,3.5,3.6,2.08,3.49,3.76,2.06,3.42,3.61,2.1,1.73,2.07,1.75,-0.5,2.06,1.84,Stoke City,Preston,stoke_city,preston
+2024-11-30,E1,England-Champ,2425,Stoke,Burnley,0.0,2.0,A,0.0,0.0,D,3.0,3.4,2.3,3.15,3.25,2.36,3.1,3.29,2.33,2.2,1.67,2.19,1.67,0.25,1.84,2.06,Stoke City,Burnley,stoke_city,burnley
+2024-12-14,E1,England-Champ,2425,Stoke,Cardiff,2.0,2.0,D,1.0,1.0,D,2.25,3.3,3.25,2.19,3.45,3.29,2.22,3.42,3.17,1.9,1.95,1.88,1.91,-0.25,1.95,1.95,Stoke City,Cardiff City,stoke_city,cardiff_city
+2024-12-26,E1,England-Champ,2425,Stoke,Leeds,0.0,2.0,A,0.0,1.0,A,6.25,4.2,1.5,6.24,4.19,1.52,6.04,4.17,1.52,1.9,1.95,1.85,1.94,1.0,1.98,1.92,Stoke City,Leeds,stoke_city,leeds
+2024-12-29,E1,England-Champ,2425,Stoke,Sunderland,1.0,0.0,H,0.0,0.0,D,3.0,3.6,2.2,3.2,3.36,2.27,3.1,3.39,2.24,2.03,1.83,2.01,1.78,0.25,1.92,1.98,Stoke City,Sunderland,stoke_city,sunderland
+2025-01-04,E1,England-Champ,2425,Stoke,Plymouth,0.0,0.0,D,0.0,0.0,D,1.65,4.33,4.33,1.66,4.23,4.93,1.65,4.14,4.7,1.67,2.2,1.64,2.22,-0.75,1.84,2.06,Stoke City,Plymouth Argyle,stoke_city,plymouth_argyle
+2025-01-25,E1,England-Champ,2425,Stoke,Oxford,0.0,0.0,D,0.0,0.0,D,2.0,3.3,3.8,2.01,3.4,3.86,2.0,3.4,3.75,2.1,1.73,2.04,1.76,-0.5,2.04,1.86,Stoke City,Oxford United,stoke_city,oxford_united
+2025-02-15,E1,England-Champ,2425,Stoke,Swansea,3.0,1.0,H,0.0,0.0,D,2.45,3.4,2.88,2.57,3.12,2.95,2.51,3.23,2.88,2.1,1.73,2.05,1.77,0.0,1.8,2.1,Stoke City,Swansea City,stoke_city,swansea_city
+2025-02-25,E1,England-Champ,2425,Stoke,Middlesbrough,1.0,3.0,A,1.0,1.0,D,2.9,3.4,2.35,3.07,3.43,2.41,3.0,3.41,2.35,1.93,1.93,1.9,1.91,0.25,1.85,2.05,Stoke City,Middlesbrough,stoke_city,middlesbrough
+2025-03-01,E1,England-Champ,2425,Stoke,Watford,0.0,0.0,D,0.0,0.0,D,2.45,3.3,2.88,2.48,3.33,2.89,2.44,3.36,2.88,1.95,1.9,1.94,1.87,0.0,1.81,2.09,Stoke City,Watford,stoke_city,watford
+2025-03-12,E1,England-Champ,2425,Stoke,Blackburn,1.0,0.0,H,1.0,0.0,H,2.6,3.3,2.7,2.68,3.17,2.77,2.64,3.2,2.72,2.05,1.68,2.11,1.72,0.0,1.9,2.0,Stoke City,Blackburn,stoke_city,blackburn
+2025-03-29,E1,England-Champ,2425,Stoke,QPR,3.0,1.0,H,2.0,0.0,H,2.25,3.1,3.4,2.26,3.23,3.48,2.27,3.19,3.29,2.2,1.67,2.21,1.66,-0.25,1.97,1.93,Stoke City,Queens Park Rangers,stoke_city,queens_park_rangers
+2025-04-08,E1,England-Champ,2425,Stoke,Luton,1.0,1.0,D,0.0,0.0,D,2.4,3.25,2.9,2.51,3.12,3.18,2.44,3.15,3.01,2.38,1.57,2.36,1.58,-0.25,2.11,1.79,Stoke City,Luton,stoke_city,luton
+2025-04-18,E1,England-Champ,2425,Stoke,Sheffield Weds,2.0,0.0,H,1.0,0.0,H,2.3,3.3,3.1,2.29,3.47,3.08,2.27,3.4,3.07,2.1,1.73,2.03,1.77,-0.25,2.03,1.87,Stoke City,Sheffield Wednesday,stoke_city,sheffield_wednesday
+2025-04-25,E1,England-Champ,2425,Stoke,Sheffield United,0.0,2.0,A,0.0,1.0,A,2.35,3.3,3.0,2.45,3.35,3.06,2.44,3.27,2.93,2.1,1.73,2.14,1.7,-0.25,2.08,1.82,Stoke City,Sheffield United,stoke_city,sheffield_united
+2025-08-09,E1,England-Champ,2526,Stoke,Derby,3.0,1.0,H,0.0,0.0,D,2.3,3.2,3.2,2.36,3.1,3.29,2.27,3.13,3.28,2.5,1.53,2.43,1.52,-0.25,2.0,1.85,Stoke City,Derby,stoke_city,derby
+2025-08-30,E1,England-Champ,2526,Stoke,West Brom,0.0,1.0,A,0.0,1.0,A,2.65,3.2,2.65,2.68,3.35,2.73,2.57,3.26,2.72,2.1,1.73,2.09,1.69,0.0,1.9,1.95,Stoke City,West Bromwich Albion,stoke_city,west_bromwich_albion
+2025-09-13,E1,England-Champ,2526,Stoke,Birmingham,1.0,0.0,H,1.0,0.0,H,3.0,3.2,2.35,3.14,3.16,2.41,3.05,3.18,2.38,2.3,1.62,2.19,1.63,0.25,1.78,2.1,Stoke City,Birmingham,stoke_city,birmingham
+2025-09-27,E1,England-Champ,2526,Stoke,Norwich,1.0,1.0,D,0.0,1.0,A,1.96,3.6,3.5,2.02,3.66,3.53,2.02,3.51,3.53,1.93,1.93,1.89,1.86,-0.5,2.05,1.8,Stoke City,Norwich City,stoke_city,norwich_city
+2025-10-18,E1,England-Champ,2526,Stoke,Wrexham,1.0,0.0,H,1.0,0.0,H,1.91,3.5,3.75,1.94,3.62,3.82,1.95,3.46,3.87,2.0,1.85,1.95,1.8,-0.5,1.95,1.9,Stoke City,Wrexham,stoke_city,wrexham
+2025-11-01,E1,England-Champ,2526,Stoke,Bristol City,5.0,1.0,H,3.0,0.0,H,2.32,3.3,2.85,,,,2.4,3.26,2.94,2.1,1.73,2.08,1.71,-0.25,2.1,1.78,Stoke City,Bristol City,stoke_city,bristol_city
+2025-11-08,E1,England-Champ,2526,Stoke,Coventry,0.0,1.0,A,0.0,0.0,D,2.82,3.6,2.25,,,,2.88,3.5,2.33,1.8,2.0,1.79,1.95,0.25,1.8,2.05,Stoke City,Coventry,stoke_city,coventry
+2025-11-25,E1,England-Champ,2526,Stoke,Charlton,3.0,0.0,H,3.0,0.0,H,1.68,3.7,4.75,1.77,3.82,4.79,1.76,3.61,4.58,2.0,1.8,2.03,1.73,-0.75,1.98,1.88,Stoke City,Charlton,stoke_city,charlton
+2025-11-29,E1,England-Champ,2526,Stoke,Hull,1.0,2.0,A,1.0,0.0,H,1.62,3.8,5.0,1.69,3.78,5.0,1.68,3.88,4.82,1.8,2.0,1.77,1.98,-0.75,1.9,1.95,Stoke City,Hull City,stoke_city,hull_city
+2025-12-13,E1,England-Champ,2526,Stoke,Swansea,2.0,1.0,H,1.0,0.0,H,1.81,3.5,4.2,1.89,3.49,4.22,1.86,3.47,4.21,2.1,1.73,2.02,1.74,-0.5,1.88,1.98,Stoke City,Swansea City,stoke_city,swansea_city
+2025-12-26,E1,England-Champ,2526,Stoke,Preston,0.0,0.0,D,0.0,0.0,D,2.05,3.25,3.4,2.17,3.22,3.6,2.11,3.22,3.5,2.1,1.73,2.13,1.67,-0.25,1.85,2.0,Stoke City,Preston,stoke_city,preston
+2025-12-29,E1,England-Champ,2526,Stoke,Sheffield United,1.0,2.0,A,0.0,0.0,D,2.75,3.25,2.5,2.81,3.33,2.54,2.81,3.27,2.49,2.05,1.8,2.03,1.74,0.0,2.03,1.83,Stoke City,Sheffield United,stoke_city,sheffield_united
+2026-01-17,E1,England-Champ,2526,Stoke,QPR,0.0,0.0,D,0.0,0.0,D,2.1,3.2,3.5,,,,2.11,3.29,3.48,2.1,1.73,2.09,1.69,-0.25,1.85,2.0,Stoke City,Queens Park Rangers,stoke_city,queens_park_rangers
+2026-01-21,E1,England-Champ,2526,Stoke,Middlesbrough,1.0,2.0,A,1.0,0.0,H,3.0,3.3,2.3,,,,2.98,3.23,2.38,2.05,1.8,2.03,1.73,0.25,1.8,2.05,Stoke City,Middlesbrough,stoke_city,middlesbrough
+2026-01-31,E1,England-Champ,2526,Stoke,Southampton,0.0,2.0,A,0.0,1.0,A,2.85,3.4,2.3,,,,2.82,3.37,2.42,1.9,1.95,1.86,1.88,0.0,2.1,1.7,Stoke City,Southampton,stoke_city,southampton
+2026-02-21,E1,England-Champ,2526,Stoke,Leicester,2.0,2.0,D,1.0,0.0,H,2.15,3.3,3.3,,,,2.14,3.33,3.39,2.1,1.73,2.01,1.75,-0.25,1.9,1.95,Stoke City,Leicester City,stoke_city,leicester_city
+2026-02-25,E1,England-Champ,2526,Stoke,Oxford,2.0,1.0,H,1.0,1.0,D,1.79,3.5,4.5,,,,1.81,3.41,4.56,2.2,1.67,2.22,1.62,-0.5,1.83,2.03,Stoke City,Oxford United,stoke_city,oxford_united
+2026-03-10,E1,England-Champ,2526,Stoke,Ipswich,3.0,3.0,D,2.0,0.0,H,4.5,3.75,1.66,,,,4.74,3.64,1.72,2.05,1.8,1.99,1.77,0.75,1.9,1.95,Stoke City,Ipswich,stoke_city,ipswich
+2026-03-14,E1,England-Champ,2526,Stoke,Watford,3.0,1.0,H,1.0,0.0,H,2.57,3.3,2.55,,,,2.61,3.25,2.65,2.1,1.73,2.06,1.71,0.0,1.93,1.93,Stoke City,Watford,stoke_city,watford
+2026-04-03,E1,England-Champ,2526,Stoke,Sheffield Weds,2.0,0.0,H,1.0,0.0,H,1.3,4.75,10.0,,,,1.31,5.03,9.56,1.8,2.0,1.72,2.04,-1.5,2.03,1.83,Stoke City,Sheffield Wednesday,stoke_city,sheffield_wednesday
+2026-04-11,E1,England-Champ,2526,Stoke,Blackburn,1.0,1.0,D,0.0,1.0,A,2.57,3.25,2.65,,,,2.55,3.22,2.75,2.2,1.67,2.1,1.67,0.0,1.9,1.95,Stoke City,Blackburn,stoke_city,blackburn
+2026-04-21,E1,England-Champ,2526,Stoke,Millwall,1.0,3.0,A,0.0,1.0,A,3.7,3.7,1.86,,,,3.7,3.67,1.92,1.67,2.2,1.67,2.12,0.5,1.93,1.93,Stoke City,Millwall,stoke_city,millwall
+2026-04-25,E1,England-Champ,2526,Stoke,Portsmouth,1.0,3.0,A,0.0,1.0,A,2.7,3.2,2.55,,,,2.67,3.28,2.56,2.03,1.83,1.96,1.78,0.0,2.0,1.85,Stoke City,Portsmouth,stoke_city,portsmouth
+2026-08-15,E1,England-Champ,2627,Stoke,Swansea,1.0,2.0,A,1.0,1.0,D,2.32,3.2,3.1,,,,2.41,3.3,2.92,2.1,1.73,2.07,1.7,-0.25,2.05,1.8,Stoke City,Swansea City,stoke_city,swansea_city
+2026-09-01,E1,England-Champ,2627,Stoke,Norwich,1.0,0.0,H,1.0,0.0,H,3.4,3.6,2.01,,,,3.31,3.53,2.1,1.8,2.0,1.77,1.97,0.25,2.05,1.8,Stoke City,Norwich City,stoke_city,norwich_city
+2026-09-05,E1,England-Champ,2627,Stoke,Charlton,4.0,0.0,H,4.0,0.0,H,2.05,3.25,3.5,,,,2.11,3.29,3.49,2.1,1.73,2.08,1.7,-0.25,1.83,2.03,Stoke City,Charlton,stoke_city,charlton
+2026-09-19,E1,England-Champ,2627,Stoke,Sheffield United,2.0,1.0,H,0.0,0.0,D,2.3,3.4,2.85,,,,2.39,3.39,2.84,1.91,1.91,1.84,1.89,-0.25,2.05,1.8,Stoke City,Sheffield United,stoke_city,sheffield_united
+2026-10-13,E1,England-Champ,2627,Stoke,Middlesbrough,2.0,3.0,A,0.0,0.0,D,3.5,3.5,1.96,,,,3.43,3.64,2.01,1.73,2.1,1.68,2.11,0.5,1.83,2.03,Stoke City,Middlesbrough,stoke_city,middlesbrough

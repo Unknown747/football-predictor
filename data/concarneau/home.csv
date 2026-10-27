@@ -1,0 +1,20 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2023-08-05,F2,France-L2,2324,Concarneau,Bastia,0.0,0.0,D,0.0,0.0,D,2.88,3.2,2.4,3.11,3.22,2.49,2.98,3.14,2.39,2.15,1.67,2.14,1.66,0.25,1.78,2.1,Concarneau,Bastia,concarneau,bastia
+2023-08-19,F2,France-L2,2324,Concarneau,Caen,0.0,2.0,A,0.0,0.0,D,3.2,3.3,2.2,3.4,3.45,2.23,3.21,3.28,2.21,2.05,1.75,2.06,1.73,0.25,1.93,1.93,Concarneau,Caen,concarneau,caen
+2023-09-02,F2,France-L2,2324,Concarneau,Annecy,1.0,1.0,D,0.0,1.0,A,2.15,3.3,3.4,2.26,3.36,3.33,2.2,3.23,3.26,2.15,1.67,2.15,1.67,-0.25,1.9,1.95,Concarneau,Annecy,concarneau,annecy
+2023-09-23,F2,France-L2,2324,Concarneau,St Etienne,0.0,1.0,A,0.0,0.0,D,3.2,3.2,2.25,3.2,3.47,2.31,3.14,3.34,2.23,2.0,1.8,1.9,1.87,0.25,1.88,1.98,Concarneau,Saint-Etienne,concarneau,saint_etienne
+2023-10-07,F2,France-L2,2324,Concarneau,Dunkerque,4.0,3.0,H,1.0,2.0,A,2.3,3.25,3.0,2.4,3.33,3.16,2.32,3.22,3.06,2.1,1.7,2.13,1.68,-0.25,2.03,1.83,Concarneau,Dunkerque,concarneau,dunkerque
+2023-10-28,F2,France-L2,2324,Concarneau,Ajaccio,2.0,1.0,H,0.0,0.0,D,2.9,3.1,2.5,3.02,3.06,2.62,2.93,3.02,2.53,2.35,1.57,2.37,1.56,0.0,2.1,1.78,Concarneau,Ajaccio,concarneau,ajaccio
+2023-11-28,F2,France-L2,2324,Concarneau,Pau FC,1.0,2.0,A,0.0,1.0,A,2.15,3.25,3.4,2.23,3.37,3.47,2.16,3.28,3.36,2.0,1.8,2.01,1.77,-0.25,1.9,1.95,Concarneau,Pau FC,concarneau,pau_fc
+2023-12-05,F2,France-L2,2324,Concarneau,Auxerre,1.0,2.0,A,0.0,2.0,A,5.0,3.6,1.67,4.97,4.14,1.68,4.77,3.87,1.67,1.75,2.05,1.74,2.06,0.75,1.98,1.88,Concarneau,AJ Auxerre,concarneau,aj_auxerre
+2023-12-19,F2,France-L2,2324,Concarneau,Grenoble,0.0,3.0,A,0.0,1.0,A,3.2,3.2,2.25,3.44,3.14,2.35,3.19,3.16,2.28,2.25,1.62,2.21,1.64,0.25,1.88,1.98,Concarneau,Grenoble,concarneau,grenoble
+2024-01-23,F2,France-L2,2324,Concarneau,Troyes,1.0,0.0,H,0.0,0.0,D,2.3,3.1,2.9,2.44,3.27,3.15,2.36,3.26,2.95,2.0,1.85,1.92,1.84,-0.25,2.05,1.8,Concarneau,Troyes,concarneau,troyes
+2024-02-03,F2,France-L2,2324,Concarneau,Valenciennes,1.0,0.0,H,0.0,0.0,D,2.3,3.2,3.2,2.36,3.12,3.45,2.28,3.12,3.2,2.3,1.6,2.3,1.59,-0.25,1.98,1.88,Concarneau,Valenciennes,concarneau,valenciennes
+2024-02-17,F2,France-L2,2324,Concarneau,Paris FC,2.0,2.0,D,1.0,0.0,H,3.1,2.9,2.38,3.17,3.21,2.47,3.02,3.1,2.4,2.3,1.6,2.25,1.62,0.25,1.8,2.05,Concarneau,Paris FC,concarneau,paris_fc
+2024-02-24,F2,France-L2,2324,Concarneau,Laval,1.0,3.0,A,0.0,1.0,A,2.88,3.0,2.5,2.97,3.02,2.74,2.84,2.98,2.6,2.5,1.5,2.5,1.51,0.0,2.0,1.85,Concarneau,Laval,concarneau,laval
+2024-03-09,F2,France-L2,2324,Concarneau,Guingamp,2.0,3.0,A,0.0,1.0,A,3.4,3.1,2.2,3.62,3.19,2.25,3.35,3.12,2.21,2.35,1.57,2.35,1.57,0.25,1.95,1.9,Concarneau,Guingamp,concarneau,guingamp
+2024-03-30,F2,France-L2,2324,Concarneau,Angers,2.0,4.0,A,2.0,0.0,H,2.88,3.2,2.45,2.92,3.22,2.52,2.91,3.17,2.42,2.2,1.65,2.21,1.64,0.25,1.73,2.08,Concarneau,Angers,concarneau,angers
+2024-04-13,F2,France-L2,2324,Concarneau,Amiens,0.0,0.0,D,0.0,0.0,D,2.8,3.0,2.63,2.93,2.99,2.75,2.82,2.98,2.62,2.4,1.53,2.44,1.53,0.0,1.98,1.88,Concarneau,Amiens,concarneau,amiens
+2024-04-20,F2,France-L2,2324,Concarneau,Quevilly Rouen,0.0,0.0,D,0.0,0.0,D,3.4,3.1,2.15,3.4,3.21,2.3,3.31,3.16,2.2,2.25,1.62,2.24,1.62,0.25,1.95,1.9,Concarneau,Quevilly Rouen,concarneau,quevilly_rouen
+2024-04-27,F2,France-L2,2324,Concarneau,Rodez,1.0,2.0,A,0.0,0.0,D,2.7,3.25,2.55,2.78,3.28,2.68,2.73,3.24,2.51,2.0,1.85,1.94,1.83,0.0,1.98,1.88,Concarneau,Rodez,concarneau,rodez
+2024-05-10,F2,France-L2,2324,Concarneau,Bordeaux,4.0,2.0,H,1.0,1.0,D,2.9,3.4,2.3,2.98,3.62,2.34,2.9,3.47,2.28,1.73,2.08,1.72,2.08,0.25,1.83,2.03,Concarneau,Bordeaux,concarneau,bordeaux

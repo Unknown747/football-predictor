@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E2,England-L1,2122,Fleetwood Town,Portsmouth,0.0,1.0,A,0.0,0.0,D,3.1,3.3,2.3,3.23,3.15,2.43,3.08,3.12,2.37,2.25,1.61,2.26,1.63,0.25,1.8,2.05,Fleetwood Town,Portsmouth,fleetwood_town,portsmouth
+2021-08-21,E2,England-L1,2122,Doncaster,Portsmouth,0.0,0.0,D,0.0,0.0,D,3.6,3.25,2.2,3.44,3.38,2.21,3.32,3.29,2.18,2.07,1.72,2.06,1.75,0.25,1.99,1.94,Doncaster Rovers,Portsmouth,doncaster_rovers,portsmouth
+2021-08-28,E2,England-L1,2122,Wigan,Portsmouth,1.0,0.0,H,0.0,0.0,D,2.75,3.3,2.62,2.78,3.29,2.67,2.71,3.17,2.66,2.15,1.66,2.15,1.69,0.0,2.0,1.93,Wigan Athletic,Portsmouth,wigan_athletic,portsmouth
+2021-09-11,E2,England-L1,2122,Milton Keynes Dons,Portsmouth,1.0,0.0,H,0.0,0.0,D,2.3,3.3,3.0,2.37,3.31,3.12,2.38,3.27,2.98,2.0,1.8,2.02,1.79,-0.25,2.05,1.8,MK Dons,Portsmouth,mk_dons,portsmouth
+2021-09-25,E2,England-L1,2122,Charlton,Portsmouth,2.0,2.0,D,0.0,1.0,A,2.6,3.3,2.75,2.62,3.3,2.79,2.57,3.25,2.74,2.1,1.7,2.12,1.7,0.0,1.88,1.98,Charlton,Portsmouth,charlton,portsmouth
+2021-09-28,E2,England-L1,2122,Burton,Portsmouth,2.0,1.0,H,1.0,0.0,H,2.55,3.2,2.87,2.68,3.19,2.89,2.59,3.12,2.82,2.15,1.66,2.13,1.7,0.0,1.85,2.0,Burton Albion,Portsmouth,burton_albion,portsmouth
+2021-10-16,E2,England-L1,2122,Rotherham,Portsmouth,4.0,1.0,H,1.0,0.0,H,1.83,3.6,4.33,1.86,3.75,4.13,1.85,3.6,4.09,2.07,1.72,2.07,1.74,-0.5,1.85,2.0,Rotherham United,Portsmouth,rotherham_united,portsmouth
+2021-10-23,E2,England-L1,2122,Accrington,Portsmouth,2.0,2.0,D,0.0,1.0,A,2.87,3.3,2.45,2.85,3.32,2.55,2.78,3.22,2.54,2.05,1.75,2.03,1.77,0.0,2.02,1.83,Accrington Stanley,Portsmouth,accrington_stanley,portsmouth
+2021-11-13,E2,England-L1,2122,Wycombe,Portsmouth,0.0,1.0,A,0.0,0.0,D,2.05,3.6,3.6,2.04,3.57,3.63,2.05,3.45,3.51,1.98,1.88,1.95,1.84,-0.5,2.05,1.75,Wycombe Wanderers,Portsmouth,wycombe_wanderers,portsmouth
+2021-11-23,E2,England-L1,2122,Lincoln,Portsmouth,0.0,3.0,A,0.0,1.0,A,2.6,3.4,2.7,2.66,3.48,2.71,2.62,3.35,2.62,1.98,1.88,1.95,1.84,0.0,1.9,1.95,Lincoln City,Portsmouth,lincoln_city,portsmouth
+2021-11-27,E2,England-L1,2122,Gillingham,Portsmouth,0.0,1.0,A,0.0,0.0,D,4.5,3.6,1.8,4.12,3.66,1.88,4.08,3.56,1.86,2.0,1.85,1.98,1.81,0.5,1.98,1.88,Gillingham,Portsmouth,gillingham,portsmouth
+2022-01-03,E2,England-L1,2122,Cambridge,Portsmouth,0.0,0.0,D,0.0,0.0,D,4.0,3.3,2.0,3.92,3.24,2.08,3.63,3.28,2.06,2.0,1.85,2.09,1.72,0.25,2.1,1.7,Cambridge United,Portsmouth,cambridge_united,portsmouth
+2022-01-18,E2,England-L1,2122,AFC Wimbledon,Portsmouth,0.0,0.0,D,0.0,0.0,D,3.25,3.4,2.2,3.41,3.54,2.18,3.23,3.41,2.17,1.95,1.9,1.91,1.87,0.25,1.98,1.88,AFC Wimbledon,Portsmouth,afc_wimbledon,portsmouth
+2022-01-22,E2,England-L1,2122,Sunderland,Portsmouth,1.0,0.0,H,1.0,0.0,H,1.85,3.6,4.33,1.85,3.64,4.3,1.86,3.53,4.08,1.83,2.02,1.87,1.91,-0.5,1.88,1.98,Sunderland,Portsmouth,sunderland,portsmouth
+2022-02-05,E2,England-L1,2122,Oxford,Portsmouth,3.0,2.0,H,1.0,1.0,D,2.2,3.3,3.4,2.19,3.34,3.48,2.2,3.26,3.31,2.05,1.75,2.06,1.75,-0.25,1.88,1.98,Oxford United,Portsmouth,oxford_united,portsmouth
+2022-02-22,E2,England-L1,2122,Shrewsbury,Portsmouth,1.0,2.0,A,1.0,1.0,D,3.1,3.1,2.45,3.19,3.16,2.48,3.08,3.07,2.43,2.5,1.5,2.5,1.51,0.25,1.77,2.1,Shrewsbury Town,Portsmouth,shrewsbury_town,portsmouth
+2022-03-08,E2,England-L1,2122,Crewe,Portsmouth,1.0,3.0,A,0.0,2.0,A,5.25,3.75,1.65,5.05,3.97,1.7,4.81,3.82,1.69,1.95,1.9,1.89,1.89,0.75,1.95,1.9,Crewe Alexandra,Portsmouth,crewe_alexandra,portsmouth
+2022-03-12,E2,England-L1,2122,Ipswich,Portsmouth,0.0,0.0,D,0.0,0.0,D,2.2,3.25,3.5,2.21,3.33,3.43,2.17,3.32,3.33,2.1,1.7,2.1,1.71,-0.25,1.9,1.95,Ipswich,Portsmouth,ipswich,portsmouth
+2022-03-15,E2,England-L1,2122,Plymouth,Portsmouth,1.0,0.0,H,0.0,0.0,D,2.55,3.2,2.9,2.64,3.12,3.01,2.54,3.14,2.84,2.15,1.66,2.1,1.71,0.0,1.83,2.02,Plymouth Argyle,Portsmouth,plymouth_argyle,portsmouth
+2022-04-05,E2,England-L1,2122,Bolton,Portsmouth,1.0,1.0,D,0.0,0.0,D,2.37,3.3,3.1,2.43,3.26,3.18,2.39,3.19,3.04,2.1,1.7,2.09,1.72,-0.25,2.05,1.8,Bolton,Portsmouth,bolton,portsmouth
+2022-04-09,E2,England-L1,2122,Cheltenham,Portsmouth,1.0,0.0,H,0.0,0.0,D,3.0,3.5,2.3,3.14,3.59,2.23,2.99,3.41,2.3,2.02,1.83,1.95,1.82,0.25,1.83,2.02,Cheltenham Town,Portsmouth,cheltenham_town,portsmouth
+2022-04-18,E2,England-L1,2122,Morecambe,Portsmouth,1.0,1.0,D,0.0,1.0,A,3.25,3.6,2.15,3.22,3.6,2.19,3.22,3.49,2.15,1.9,1.95,1.89,1.89,0.25,2.0,1.85,Morecambe,Portsmouth,morecambe,portsmouth
+2022-04-30,E2,England-L1,2122,Sheffield Weds,Portsmouth,4.0,1.0,H,3.0,1.0,H,1.61,4.0,5.5,1.57,4.26,5.53,1.58,4.07,5.37,1.8,2.0,1.81,1.97,-1.0,2.05,1.8,Sheffield Wednesday,Portsmouth,sheffield_wednesday,portsmouth
+2022-07-30,E2,England-L1,2223,Sheffield Weds,Portsmouth,3.0,3.0,D,1.0,0.0,H,1.66,4.0,5.0,1.73,3.86,5.02,1.72,3.72,4.66,1.95,1.9,1.91,1.86,-0.75,1.95,1.9,Sheffield Wednesday,Portsmouth,sheffield_wednesday,portsmouth
+2022-08-13,E2,England-L1,2223,Cheltenham,Portsmouth,0.0,2.0,A,0.0,1.0,A,3.2,3.5,2.2,3.43,3.65,2.14,3.25,3.47,2.14,1.95,1.85,1.85,1.92,0.25,1.95,1.9,Cheltenham Town,Portsmouth,cheltenham_town,portsmouth
+2022-08-27,E2,England-L1,2223,Port Vale,Portsmouth,0.0,1.0,A,0.0,1.0,A,2.87,3.4,2.45,3.03,3.38,2.45,2.87,3.34,2.4,1.98,1.88,1.97,1.81,0.0,2.1,1.77,Port Vale,Portsmouth,port_vale,portsmouth
+2022-09-13,E2,England-L1,2223,Burton,Portsmouth,0.0,2.0,A,0.0,0.0,D,4.0,3.6,1.9,4.16,3.79,1.88,3.89,3.68,1.87,1.75,2.05,1.78,2.01,0.5,1.95,1.9,Burton Albion,Portsmouth,burton_albion,portsmouth
+2022-10-01,E2,England-L1,2223,Ipswich,Portsmouth,3.0,2.0,H,1.0,1.0,D,1.8,3.5,4.75,1.85,3.73,4.56,1.82,3.59,4.22,1.95,1.9,1.9,1.87,-0.5,1.83,2.02,Ipswich,Portsmouth,ipswich,portsmouth
+2022-10-17,E2,England-L1,2223,Charlton,Portsmouth,3.0,0.0,H,2.0,0.0,H,2.6,3.4,2.7,2.52,3.48,2.78,2.54,3.32,2.72,1.98,1.88,1.95,1.82,0.0,1.88,1.98,Charlton,Portsmouth,charlton,portsmouth
+2022-10-22,E2,England-L1,2223,Forest Green,Portsmouth,0.0,1.0,A,0.0,1.0,A,4.33,3.6,1.85,4.47,3.82,1.82,4.14,3.68,1.81,1.88,1.98,1.84,1.94,0.5,2.0,1.85,Forest Green Rovers,Portsmouth,forest_green_rovers,portsmouth
+2022-11-12,E2,England-L1,2223,Morecambe,Portsmouth,1.0,1.0,D,1.0,0.0,H,5.0,3.6,1.75,5.21,3.82,1.71,4.85,3.7,1.71,1.95,1.9,1.89,1.87,0.75,1.98,1.88,Morecambe,Portsmouth,morecambe,portsmouth
+2022-12-04,E2,England-L1,2223,Wycombe,Portsmouth,2.0,0.0,H,1.0,0.0,H,2.45,3.5,2.8,2.56,3.44,2.76,2.46,3.37,2.73,1.9,1.95,1.86,1.9,0.0,1.83,2.02,Wycombe Wanderers,Portsmouth,wycombe_wanderers,portsmouth
+2022-12-26,E2,England-L1,2223,Exeter,Portsmouth,0.0,0.0,D,0.0,0.0,D,2.7,3.4,2.63,2.64,3.34,2.73,2.62,3.32,2.6,1.98,1.88,1.94,1.83,0.0,1.95,1.9,Exeter City,Portsmouth,exeter_city,portsmouth
+2023-01-14,E2,England-L1,2223,Bolton,Portsmouth,3.0,0.0,H,1.0,0.0,H,2.05,3.6,3.5,2.03,3.5,3.75,2.04,3.41,3.53,2.02,1.83,2.0,1.78,-0.5,2.05,1.75,Bolton,Portsmouth,bolton,portsmouth
+2023-01-24,E2,England-L1,2223,Fleetwood Town,Portsmouth,0.0,2.0,A,0.0,1.0,A,3.0,3.2,2.45,3.06,3.36,2.45,2.95,3.29,2.38,2.05,1.75,2.07,1.74,0.25,1.77,2.1,Fleetwood Town,Portsmouth,fleetwood_town,portsmouth
+2023-01-28,E2,England-L1,2223,Peterboro,Portsmouth,2.0,1.0,H,2.0,0.0,H,2.05,3.5,3.6,2.03,3.67,3.71,2.01,3.49,3.53,1.88,1.98,1.86,1.91,-0.5,2.02,1.83,Peterborough United,Portsmouth,peterborough_united,portsmouth
+2023-02-11,E2,England-L1,2223,Plymouth,Portsmouth,3.0,1.0,H,1.0,0.0,H,2.05,3.6,3.5,2.1,3.65,3.51,2.06,3.48,3.43,1.9,1.95,1.86,1.91,-0.5,2.05,1.75,Plymouth Argyle,Portsmouth,plymouth_argyle,portsmouth
+2023-02-18,E2,England-L1,2223,Lincoln,Portsmouth,0.0,0.0,D,0.0,0.0,D,2.8,3.25,2.6,2.82,3.32,2.66,2.73,3.23,2.57,2.1,1.7,2.15,1.68,0.25,1.68,2.15,Lincoln City,Portsmouth,lincoln_city,portsmouth
+2023-03-04,E2,England-L1,2223,Cambridge,Portsmouth,0.0,1.0,A,0.0,0.0,D,3.6,3.5,2.0,3.67,3.48,2.11,3.53,3.43,2.04,2.0,1.85,1.99,1.79,0.25,2.13,1.75,Cambridge United,Portsmouth,cambridge_united,portsmouth
+2023-03-07,E2,England-L1,2223,Barnsley,Portsmouth,3.0,1.0,H,2.0,0.0,H,1.95,3.4,4.0,1.98,3.43,4.19,1.97,3.34,3.95,2.2,1.65,2.21,1.64,-0.5,1.93,1.93,Barnsley,Portsmouth,barnsley,portsmouth
+2023-03-14,E2,England-L1,2223,Accrington,Portsmouth,1.0,3.0,A,0.0,1.0,A,3.5,3.2,2.25,3.58,3.21,2.26,3.41,3.15,2.2,2.35,1.57,2.36,1.56,0.25,1.95,1.9,Accrington Stanley,Portsmouth,accrington_stanley,portsmouth
+2023-03-18,E2,England-L1,2223,Bristol Rvs,Portsmouth,0.0,2.0,A,0.0,1.0,A,3.0,3.5,2.3,3.02,3.42,2.44,2.92,3.36,2.36,1.95,1.9,1.91,1.85,0.25,1.83,2.02,Bristol Rvs,Portsmouth,bristol_rvs,portsmouth
+2023-04-07,E2,England-L1,2223,Milton Keynes Dons,Portsmouth,1.0,1.0,D,0.0,1.0,A,2.6,3.4,2.63,2.76,3.2,2.8,2.66,3.17,2.69,2.2,1.65,2.24,1.63,0.0,1.9,1.95,MK Dons,Portsmouth,mk_dons,portsmouth
+2023-04-15,E2,England-L1,2223,Shrewsbury,Portsmouth,1.0,1.0,D,0.0,0.0,D,3.1,3.2,2.45,3.08,3.28,2.48,2.96,3.19,2.43,2.25,1.62,2.25,1.62,0.0,2.15,1.68,Shrewsbury Town,Portsmouth,shrewsbury_town,portsmouth
+2023-04-18,E2,England-L1,2223,Oxford,Portsmouth,1.0,1.0,D,1.0,1.0,D,2.2,3.3,3.4,2.23,3.46,3.37,2.22,3.34,3.22,2.02,1.83,2.01,1.78,-0.25,1.88,1.98,Oxford United,Portsmouth,oxford_united,portsmouth
+2023-04-29,E2,England-L1,2223,Derby,Portsmouth,1.0,1.0,D,0.0,1.0,A,1.53,4.2,6.5,1.5,4.34,7.02,1.51,4.11,6.44,1.88,1.98,1.88,1.88,-1.0,1.88,1.98,Derby,Portsmouth,derby,portsmouth
+2023-08-12,E2,England-L1,2324,Leyton Orient,Portsmouth,0.0,4.0,A,0.0,2.0,A,2.88,3.3,2.5,2.77,3.51,2.53,2.71,3.35,2.5,1.95,1.9,1.92,1.85,0.0,2.05,1.8,Leyton Orient,Portsmouth,leyton_orient,portsmouth
+2023-08-26,E2,England-L1,2324,Stevenage,Portsmouth,0.0,0.0,D,0.0,0.0,D,2.7,3.3,2.7,2.75,3.36,2.69,2.62,3.28,2.67,2.08,1.73,2.06,1.74,0.0,1.9,1.95,Stevenage,Portsmouth,stevenage,portsmouth
+2023-09-16,E2,England-L1,2324,Derby,Portsmouth,1.0,1.0,D,0.0,0.0,D,2.2,3.4,3.3,2.16,3.54,3.47,2.12,3.42,3.32,1.95,1.9,1.91,1.86,-0.25,1.85,2.0,Derby,Portsmouth,derby,portsmouth
+2023-09-19,E2,England-L1,2324,Barnsley,Portsmouth,2.0,3.0,A,0.0,3.0,A,2.4,3.4,2.8,2.49,3.47,2.91,2.41,3.39,2.85,1.88,1.98,1.86,1.92,-0.25,2.08,1.73,Barnsley,Portsmouth,barnsley,portsmouth
+2023-09-30,E2,England-L1,2324,Wigan,Portsmouth,1.0,2.0,A,1.0,2.0,A,3.0,3.7,2.25,3.15,3.52,2.31,3.09,3.42,2.22,1.98,1.88,1.96,1.81,0.25,1.93,1.93,Wigan Athletic,Portsmouth,wigan_athletic,portsmouth
+2023-10-24,E2,England-L1,2324,Cambridge,Portsmouth,0.0,0.0,D,0.0,0.0,D,4.75,3.75,1.75,4.95,3.83,1.75,4.57,3.65,1.75,2.0,1.85,1.95,1.82,0.75,1.9,1.95,Cambridge United,Portsmouth,cambridge_united,portsmouth
+2023-10-28,E2,England-L1,2324,Reading,Portsmouth,2.0,3.0,A,2.0,2.0,D,3.4,3.5,2.1,3.52,3.56,2.13,3.41,3.48,2.07,1.85,2.0,1.83,1.94,0.25,2.05,1.8,Reading,Portsmouth,reading,portsmouth
+2023-11-28,E2,England-L1,2324,Burton,Portsmouth,0.0,2.0,A,0.0,1.0,A,4.5,3.6,1.83,4.32,3.68,1.88,4.04,3.57,1.86,1.93,1.93,1.88,1.89,0.5,2.0,1.85,Burton Albion,Portsmouth,burton_albion,portsmouth
+2023-12-02,E2,England-L1,2324,Northampton,Portsmouth,0.0,3.0,A,0.0,2.0,A,3.4,3.6,2.1,3.66,3.4,2.14,3.46,3.39,2.09,2.05,1.75,2.02,1.76,0.25,2.03,1.83,Northampton Town,Portsmouth,northampton_town,portsmouth
+2023-12-16,E2,England-L1,2324,Shrewsbury,Portsmouth,0.0,3.0,A,0.0,1.0,A,5.0,3.3,1.8,4.67,3.61,1.83,4.5,3.51,1.8,2.08,1.73,2.06,1.73,0.5,2.03,1.78,Shrewsbury Town,Portsmouth,shrewsbury_town,portsmouth
+2023-12-26,E2,England-L1,2324,Bristol Rvs,Portsmouth,2.0,1.0,H,0.0,0.0,D,3.25,3.5,2.15,3.42,3.49,2.21,3.2,3.4,2.16,1.98,1.88,1.93,1.84,0.25,1.98,1.88,Bristol Rvs,Portsmouth,bristol_rvs,portsmouth
+2023-12-29,E2,England-L1,2324,Exeter,Portsmouth,0.0,0.0,D,0.0,0.0,D,4.75,3.75,1.73,5.09,3.75,1.75,4.85,3.71,1.7,1.95,1.9,1.91,1.86,0.75,1.93,1.93,Exeter City,Portsmouth,exeter_city,portsmouth
+2024-01-06,E2,England-L1,2324,Cheltenham,Portsmouth,2.0,1.0,H,0.0,0.0,D,4.2,3.8,1.8,4.43,3.88,1.81,4.05,3.77,1.8,1.83,2.03,1.81,1.96,0.75,1.8,2.05,Cheltenham Town,Portsmouth,cheltenham_town,portsmouth
+2024-01-20,E2,England-L1,2324,Fleetwood Town,Portsmouth,0.0,1.0,A,0.0,1.0,A,4.5,3.9,1.75,4.22,4.14,1.79,4.15,3.84,1.76,1.65,2.2,1.65,2.17,0.75,1.85,2.0,Fleetwood Town,Portsmouth,fleetwood_town,portsmouth
+2024-01-27,E2,England-L1,2324,Port Vale,Portsmouth,0.0,1.0,A,0.0,0.0,D,3.75,3.5,2.0,3.67,3.57,2.08,3.53,3.45,2.01,1.98,1.88,1.94,1.82,0.5,1.83,2.03,Port Vale,Portsmouth,port_vale,portsmouth
+2024-01-30,E2,England-L1,2324,Oxford,Portsmouth,2.0,2.0,D,1.0,0.0,H,3.2,3.4,2.25,3.25,3.35,2.34,3.08,3.33,2.26,2.03,1.83,1.94,1.83,0.25,1.88,1.98,Oxford United,Portsmouth,oxford_united,portsmouth
+2024-02-10,E2,England-L1,2324,Carlisle,Portsmouth,0.0,1.0,A,0.0,0.0,D,5.75,3.75,1.62,5.74,4.09,1.62,5.26,3.89,1.6,1.93,1.93,1.87,1.88,0.75,2.1,1.78,Carlisle United,Portsmouth,carlisle_united,portsmouth
+2024-02-24,E2,England-L1,2324,Charlton,Portsmouth,0.0,0.0,D,0.0,0.0,D,4.0,3.6,1.91,4.23,3.96,1.83,3.91,3.7,1.85,1.75,2.05,1.73,2.04,0.5,1.98,1.88,Charlton,Portsmouth,charlton,portsmouth
+2024-03-09,E2,England-L1,2324,Blackpool,Portsmouth,0.0,0.0,D,0.0,0.0,D,2.5,3.4,2.75,2.62,3.31,2.87,2.5,3.29,2.75,2.0,1.85,1.94,1.82,0.0,1.83,2.03,Blackpool,Portsmouth,blackpool,portsmouth
+2024-03-16,E2,England-L1,2324,Peterboro,Portsmouth,0.0,1.0,A,0.0,0.0,D,2.25,3.4,3.25,2.24,3.62,3.22,2.19,3.52,3.07,1.7,2.1,1.7,2.09,-0.25,1.93,1.93,Peterborough United,Portsmouth,peterborough_united,portsmouth
+2024-03-29,E2,England-L1,2324,Wycombe,Portsmouth,1.0,3.0,A,1.0,2.0,A,3.5,3.5,2.05,3.37,3.54,2.17,3.37,3.44,2.09,2.0,1.85,1.98,1.8,0.25,2.03,1.83,Wycombe Wanderers,Portsmouth,wycombe_wanderers,portsmouth
+2024-04-13,E2,England-L1,2324,Bolton,Portsmouth,1.0,1.0,D,1.0,1.0,D,2.25,3.4,3.2,2.21,3.51,3.31,2.19,3.43,3.14,1.88,1.98,1.85,1.92,-0.25,1.93,1.93,Bolton,Portsmouth,bolton,portsmouth
+2024-04-27,E2,England-L1,2324,Lincoln,Portsmouth,0.0,2.0,A,0.0,0.0,D,2.05,3.6,3.5,2.06,3.57,3.51,2.04,3.5,3.45,1.93,1.93,1.88,1.89,-0.25,1.8,2.05,Lincoln City,Portsmouth,lincoln_city,portsmouth
+2024-08-10,E1,England-Champ,2425,Leeds,Portsmouth,3.0,3.0,D,1.0,2.0,A,1.36,5.0,8.0,1.38,5.14,7.88,1.37,5.01,7.81,1.6,2.3,1.59,2.32,-1.25,1.84,2.06,Leeds,Portsmouth,leeds,portsmouth
+2024-08-24,E1,England-Champ,2425,Middlesbrough,Portsmouth,2.0,2.0,D,1.0,2.0,A,1.45,4.33,7.0,1.45,4.45,6.91,1.47,4.45,6.62,1.73,2.1,1.7,2.14,-1.25,2.08,1.82,Middlesbrough,Portsmouth,middlesbrough,portsmouth
+2024-09-21,E1,England-Champ,2425,Burnley,Portsmouth,2.0,1.0,H,0.0,1.0,A,1.48,4.2,7.0,1.47,4.49,6.51,1.48,4.42,6.65,1.73,2.1,1.74,2.09,-1.25,2.09,1.81,Burnley,Portsmouth,burnley,portsmouth
+2024-10-02,E1,England-Champ,2425,Stoke,Portsmouth,6.0,1.0,H,3.0,1.0,H,1.8,3.6,4.33,1.83,3.7,4.21,1.84,3.7,4.16,1.85,2.0,1.83,1.98,-0.5,1.86,2.04,Stoke City,Portsmouth,stoke_city,portsmouth
+2024-10-19,E1,England-Champ,2425,QPR,Portsmouth,1.0,2.0,A,1.0,1.0,D,1.85,3.6,4.2,1.86,3.65,4.15,1.87,3.65,4.1,1.9,1.95,1.89,1.91,-0.5,1.89,2.01,Queens Park Rangers,Portsmouth,queens_park_rangers,portsmouth
+2024-10-22,E1,England-Champ,2425,Cardiff,Portsmouth,2.0,0.0,H,2.0,0.0,H,1.91,3.4,4.2,1.93,3.63,4.14,1.92,3.58,3.97,1.98,1.88,1.93,1.87,-0.5,1.93,1.97,Cardiff City,Portsmouth,cardiff_city,portsmouth
+2024-11-02,E1,England-Champ,2425,Hull,Portsmouth,1.0,1.0,D,1.0,0.0,H,1.67,4.0,5.0,1.64,4.15,4.87,1.68,4.08,4.74,1.67,2.2,1.66,2.22,-0.75,1.86,2.04,Hull City,Portsmouth,hull_city,portsmouth
+2024-11-05,E1,England-Champ,2425,Plymouth,Portsmouth,1.0,0.0,H,0.0,0.0,D,2.2,3.6,3.0,2.3,3.56,3.15,2.26,3.54,3.05,1.73,2.1,1.73,2.11,-0.25,2.0,1.9,Plymouth Argyle,Portsmouth,plymouth_argyle,portsmouth
+2024-11-30,E1,England-Champ,2425,Swansea,Portsmouth,2.0,2.0,D,1.0,2.0,A,1.7,4.1,4.33,1.69,3.9,4.87,1.7,3.9,4.73,1.85,2.0,1.85,1.96,-0.75,1.95,1.95,Swansea City,Portsmouth,swansea_city,portsmouth
+2024-12-13,E1,England-Champ,2425,Derby,Portsmouth,4.0,0.0,H,3.0,0.0,H,2.05,3.2,3.75,2.13,3.2,3.97,2.1,3.19,3.74,2.3,1.62,2.27,1.63,-0.25,1.81,2.09,Derby,Portsmouth,derby,portsmouth
+2024-12-26,E1,England-Champ,2425,Watford,Portsmouth,2.0,1.0,H,0.0,1.0,A,1.8,3.6,4.33,1.81,3.71,4.3,1.83,3.65,4.1,1.85,2.0,1.82,1.97,-0.5,1.85,2.05,Watford,Portsmouth,watford,portsmouth
+2024-12-29,E1,England-Champ,2425,Bristol City,Portsmouth,3.0,0.0,H,3.0,0.0,H,1.67,3.75,4.75,1.7,3.87,4.82,1.7,3.79,4.69,1.95,1.9,1.89,1.88,-0.75,1.95,1.95,Bristol City,Portsmouth,bristol_city,portsmouth
+2025-01-05,E1,England-Champ,2425,Sunderland,Portsmouth,1.0,0.0,H,1.0,0.0,H,1.48,4.5,6.0,1.46,4.49,6.66,1.47,4.36,6.48,1.8,2.0,1.76,2.01,-1.0,1.81,2.09,Sunderland,Portsmouth,sunderland,portsmouth
+2025-01-15,E1,England-Champ,2425,Blackburn,Portsmouth,3.0,0.0,H,0.0,0.0,D,1.73,3.8,4.75,1.72,3.76,4.81,1.74,3.69,4.65,1.98,1.88,1.92,1.86,-0.75,2.0,1.9,Blackburn,Portsmouth,blackburn,portsmouth
+2025-01-25,E1,England-Champ,2425,West Brom,Portsmouth,5.0,1.0,H,4.0,0.0,H,1.62,3.9,5.0,1.65,3.7,5.67,1.65,3.75,5.32,1.98,1.88,1.96,1.83,-0.75,1.87,2.03,West Bromwich Albion,Portsmouth,west_bromwich_albion,portsmouth
+2025-02-08,E1,England-Champ,2425,Sheffield United,Portsmouth,2.0,1.0,H,1.0,1.0,D,1.5,4.5,5.75,1.5,4.28,6.42,1.5,4.29,6.34,1.88,1.98,1.85,1.95,-1.0,1.86,2.04,Sheffield United,Portsmouth,sheffield_united,portsmouth
+2025-02-15,E1,England-Champ,2425,Oxford,Portsmouth,0.0,2.0,A,0.0,0.0,D,2.35,3.2,3.1,2.39,3.23,3.22,2.38,3.2,3.11,2.2,1.67,2.22,1.67,-0.25,2.06,1.84,Oxford United,Portsmouth,oxford_united,portsmouth
+2025-03-01,E1,England-Champ,2425,Luton,Portsmouth,1.0,0.0,H,1.0,0.0,H,2.15,3.3,3.4,2.21,3.34,3.35,2.18,3.34,3.35,2.05,1.8,2.02,1.79,-0.25,1.92,1.98,Luton,Portsmouth,luton,portsmouth
+2025-03-15,E1,England-Champ,2425,Preston,Portsmouth,2.0,1.0,H,0.0,0.0,D,2.15,3.1,3.6,2.19,3.21,3.55,2.18,3.24,3.45,2.2,1.67,2.19,1.67,-0.25,1.88,2.02,Preston,Portsmouth,preston,portsmouth
+2025-04-05,E1,England-Champ,2425,Millwall,Portsmouth,2.0,1.0,H,0.0,0.0,D,2.35,3.0,3.3,2.39,3.0,3.35,2.33,3.03,3.31,2.63,1.5,2.6,1.47,-0.25,2.05,1.85,Millwall,Portsmouth,millwall,portsmouth
+2025-04-09,E1,England-Champ,2425,Coventry,Portsmouth,1.0,0.0,H,0.0,0.0,D,1.62,4.1,4.75,1.65,3.95,5.07,1.65,3.92,4.9,1.88,1.98,1.83,1.97,-0.75,1.85,2.05,Coventry,Portsmouth,coventry,portsmouth
+2025-04-18,E1,England-Champ,2425,Norwich,Portsmouth,3.0,5.0,A,1.0,3.0,A,1.8,3.8,4.2,1.79,3.75,4.39,1.8,3.73,4.2,1.85,2.0,1.8,2.01,-0.75,2.06,1.84,Norwich City,Portsmouth,norwich_city,portsmouth
+2025-04-26,E1,England-Champ,2425,Sheffield Weds,Portsmouth,1.0,1.0,D,1.0,1.0,D,2.05,3.9,3.25,2.04,3.62,3.52,2.04,3.61,3.4,1.88,1.98,1.84,1.96,-0.25,1.78,2.03,Sheffield Wednesday,Portsmouth,sheffield_wednesday,portsmouth
+2025-08-09,E1,England-Champ,2526,Oxford,Portsmouth,0.0,1.0,A,0.0,1.0,A,2.55,3.4,2.7,2.63,3.21,2.79,2.53,3.28,2.74,2.1,1.73,2.04,1.73,0.0,1.88,1.98,Oxford United,Portsmouth,oxford_united,portsmouth
+2025-08-23,E1,England-Champ,2526,West Brom,Portsmouth,1.0,1.0,D,1.0,0.0,H,1.75,3.6,4.5,1.74,3.71,4.75,1.78,3.64,4.43,2.03,1.83,1.97,1.77,-0.75,2.0,1.85,West Bromwich Albion,Portsmouth,west_bromwich_albion,portsmouth
+2025-09-14,E1,England-Champ,2526,Southampton,Portsmouth,0.0,0.0,D,0.0,0.0,D,1.66,3.9,4.5,1.75,3.87,4.47,1.72,3.84,4.57,1.85,2.0,1.79,1.97,-0.75,1.98,1.88,Southampton,Portsmouth,southampton,portsmouth
+2025-09-27,E1,England-Champ,2526,Ipswich,Portsmouth,2.0,1.0,H,2.0,0.0,H,1.49,3.9,6.25,1.52,4.36,5.94,1.52,4.23,5.9,1.8,2.0,1.74,2.03,-1.0,1.88,1.98,Ipswich,Portsmouth,ipswich,portsmouth
+2025-10-18,E1,England-Champ,2526,Leicester,Portsmouth,1.0,1.0,D,1.0,0.0,H,1.62,3.75,5.0,1.72,3.75,4.83,1.68,3.74,5.0,1.98,1.88,1.91,1.84,-0.75,1.93,1.93,Leicester City,Portsmouth,leicester_city,portsmouth
+2025-11-01,E1,England-Champ,2526,Birmingham,Portsmouth,4.0,0.0,H,1.0,0.0,H,1.76,3.6,4.5,,,,1.79,3.53,4.57,2.1,1.73,2.08,1.7,-0.75,2.05,1.8,Birmingham,Portsmouth,birmingham,portsmouth
+2025-11-08,E1,England-Champ,2526,Hull,Portsmouth,3.0,2.0,H,2.0,2.0,D,2.05,3.5,3.25,,,,2.1,3.49,3.34,1.9,1.95,1.84,1.91,-0.25,1.83,2.03,Hull City,Portsmouth,hull_city,portsmouth
+2025-11-26,E1,England-Champ,2526,Sheffield United,Portsmouth,3.0,0.0,H,1.0,0.0,H,1.76,3.6,4.5,1.79,3.61,4.56,1.77,3.59,4.55,2.0,1.85,1.96,1.8,-0.75,2.03,1.83,Sheffield United,Portsmouth,sheffield_united,portsmouth
+2025-12-09,E1,England-Champ,2526,Swansea,Portsmouth,1.0,0.0,H,0.0,0.0,D,2.05,3.3,3.5,2.14,3.49,3.57,2.11,3.35,3.46,2.0,1.8,2.03,1.74,-0.25,1.83,2.03,Swansea City,Portsmouth,swansea_city,portsmouth
+2025-12-20,E1,England-Champ,2526,Derby,Portsmouth,1.0,1.0,D,1.0,1.0,D,1.96,3.2,4.0,2.08,3.23,3.85,2.02,3.23,3.87,2.2,1.67,2.21,1.62,-0.5,2.05,1.8,Derby,Portsmouth,derby,portsmouth
+2026-01-01,E1,England-Champ,2526,Bristol City,Portsmouth,5.0,0.0,H,2.0,0.0,H,1.66,3.7,4.75,1.69,3.93,4.81,1.71,3.78,4.65,1.88,1.98,1.84,1.9,-0.75,1.93,1.93,Bristol City,Portsmouth,bristol_city,portsmouth
+2026-01-17,E1,England-Champ,2526,Sheffield Weds,Portsmouth,0.0,1.0,A,0.0,0.0,D,3.4,3.25,2.1,,,,3.4,3.26,2.16,2.2,1.67,2.16,1.65,0.25,2.0,1.85,Sheffield Wednesday,Portsmouth,sheffield_wednesday,portsmouth
+2026-01-21,E1,England-Champ,2526,Watford,Portsmouth,1.0,1.0,D,0.0,0.0,D,1.68,3.75,4.75,,,,1.71,3.68,4.84,2.0,1.8,1.98,1.77,-0.75,1.98,1.88,Watford,Portsmouth,watford,portsmouth
+2026-02-07,E1,England-Champ,2526,Preston,Portsmouth,1.0,0.0,H,1.0,0.0,H,2.32,3.2,3.1,,,,2.38,3.15,3.06,2.3,1.62,2.23,1.62,-0.25,2.05,1.8,Preston,Portsmouth,preston,portsmouth
+2026-02-17,E1,England-Champ,2526,Charlton,Portsmouth,1.0,3.0,A,0.0,2.0,A,2.45,3.1,2.85,,,,2.45,3.1,3.01,2.2,1.67,2.24,1.61,-0.25,2.1,1.78,Charlton,Portsmouth,charlton,portsmouth
+2026-02-21,E1,England-Champ,2526,Millwall,Portsmouth,1.0,3.0,A,0.0,0.0,D,1.81,3.5,4.2,,,,1.86,3.5,4.15,2.1,1.73,2.03,1.72,-0.5,1.88,1.98,Millwall,Portsmouth,millwall,portsmouth
+2026-02-24,E1,England-Champ,2526,Wrexham,Portsmouth,2.0,1.0,H,2.0,0.0,H,2.01,3.4,3.5,,,,2.04,3.37,3.58,2.0,1.8,1.98,1.77,-0.25,1.8,2.05,Wrexham,Portsmouth,wrexham,portsmouth
+2026-03-07,E1,England-Champ,2526,Blackburn,Portsmouth,1.0,1.0,D,0.0,0.0,D,2.35,3.2,3.0,,,,2.49,3.14,2.9,2.38,1.57,2.33,1.56,0.0,1.7,2.1,Blackburn,Portsmouth,blackburn,portsmouth
+2026-03-21,E1,England-Champ,2526,QPR,Portsmouth,6.0,1.0,H,3.0,1.0,H,2.75,3.1,2.5,,,,2.74,3.14,2.59,2.3,1.62,2.22,1.61,0.0,2.03,1.83,Queens Park Rangers,Portsmouth,queens_park_rangers,portsmouth
+2026-04-03,E1,England-Champ,2526,Norwich,Portsmouth,1.0,1.0,D,1.0,0.0,H,1.91,3.6,3.75,,,,1.94,3.47,3.8,2.1,1.73,2.01,1.75,-0.5,1.98,1.88,Norwich City,Portsmouth,norwich_city,portsmouth
+2026-04-11,E1,England-Champ,2526,Middlesbrough,Portsmouth,0.0,1.0,A,0.0,0.0,D,1.49,4.0,6.25,,,,1.53,4.15,5.77,1.73,2.1,1.73,2.02,-1.0,1.9,1.95,Middlesbrough,Portsmouth,middlesbrough,portsmouth
+2026-04-21,E1,England-Champ,2526,Coventry,Portsmouth,5.0,1.0,H,1.0,0.0,H,1.61,3.8,5.0,,,,1.64,3.93,4.99,1.73,2.1,1.74,2.02,-0.75,1.85,2.0,Coventry,Portsmouth,coventry,portsmouth
+2026-04-25,E1,England-Champ,2526,Stoke,Portsmouth,1.0,3.0,A,0.0,1.0,A,2.7,3.2,2.55,,,,2.67,3.28,2.56,2.03,1.83,1.96,1.78,0.0,2.0,1.85,Stoke City,Portsmouth,stoke_city,portsmouth
+2026-08-22,E1,England-Champ,2627,Lincoln,Portsmouth,1.0,3.0,A,1.0,2.0,A,2.35,3.4,2.75,,,,2.38,3.38,2.87,2.0,1.85,1.92,1.82,-0.25,2.05,1.8,Lincoln City,Portsmouth,lincoln_city,portsmouth
+2026-08-29,E1,England-Champ,2627,Bristol City,Portsmouth,2.0,1.0,H,1.0,0.0,H,2.1,3.4,3.3,,,,2.15,3.34,3.3,2.1,1.73,2.03,1.73,-0.25,1.88,1.98,Bristol City,Portsmouth,bristol_city,portsmouth
+2026-09-12,E1,England-Champ,2627,Charlton,Portsmouth,0.0,0.0,D,0.0,0.0,D,2.7,3.1,2.57,,,,2.72,3.19,2.6,2.2,1.67,2.13,1.66,0.0,2.0,1.85,Charlton,Portsmouth,charlton,portsmouth
+2026-10-11,E1,England-Champ,2627,Southampton,Portsmouth,1.0,0.0,H,1.0,0.0,H,1.53,4.0,5.5,,,,1.57,4.13,5.23,1.67,2.2,1.63,2.19,-1.0,2.0,1.85,Southampton,Portsmouth,southampton,portsmouth
+2026-10-17,E1,England-Champ,2627,Norwich,Portsmouth,0.0,1.0,A,0.0,0.0,D,1.71,3.9,4.33,,,,1.75,3.82,4.3,1.73,2.1,1.7,2.08,-0.5,1.75,2.05,Norwich City,Portsmouth,norwich_city,portsmouth
+2026-10-20,E1,England-Champ,2627,Wolves,Portsmouth,1.0,1.0,D,0.0,0.0,D,1.53,4.1,5.25,,,,1.58,4.07,5.36,1.8,2.0,1.74,2.01,-1.0,2.0,1.85,Wolverhampton,Portsmouth,wolverhampton,portsmouth

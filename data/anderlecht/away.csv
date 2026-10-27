@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,B1,Belgium-JPL,2122,Eupen,Anderlecht,1.0,1.0,D,1.0,1.0,D,3.25,3.75,2.0,3.58,3.47,2.12,3.47,3.44,2.07,1.83,2.02,1.81,1.99,0.25,2.02,1.83,KAS Eupen,Anderlecht,kas_eupen,anderlecht
+2021-08-15,B1,Belgium-JPL,2122,Cercle Brugge,Anderlecht,1.0,2.0,A,1.0,2.0,A,4.0,3.6,1.85,3.99,3.55,1.97,3.86,3.52,1.94,1.95,1.85,1.95,1.86,0.5,1.88,1.98,Cercle Brugge,Anderlecht,cercle_brugge,anderlecht
+2021-08-29,B1,Belgium-JPL,2122,Genk,Anderlecht,1.0,0.0,H,0.0,0.0,D,2.15,3.4,3.25,2.26,3.28,3.43,2.25,3.22,3.26,1.7,2.1,1.74,2.08,-0.25,1.93,1.93,Genk,Anderlecht,genk,anderlecht
+2021-09-19,B1,Belgium-JPL,2122,Standard,Anderlecht,0.0,1.0,A,0.0,1.0,A,3.4,3.3,2.05,3.2,3.6,2.2,3.12,3.49,2.18,1.8,2.0,1.84,1.96,0.25,1.95,1.9,Standard Liege,Anderlecht,standard_liege,anderlecht
+2021-09-26,B1,Belgium-JPL,2122,Oostende,Anderlecht,2.0,2.0,D,2.0,0.0,H,4.33,3.75,1.66,4.0,4.03,1.82,3.92,3.92,1.8,1.6,2.3,1.61,2.28,0.75,1.77,2.02,KV Oostende,Anderlecht,kv_oostende,anderlecht
+2021-10-17,B1,Belgium-JPL,2122,St Truiden,Anderlecht,2.0,2.0,D,0.0,0.0,D,4.75,3.6,1.66,4.43,3.67,1.82,4.28,3.66,1.79,1.85,2.0,1.81,1.99,0.75,1.88,1.98,Sint-Truiden,Anderlecht,sint_truiden,anderlecht
+2021-11-07,B1,Belgium-JPL,2122,Antwerp,Anderlecht,2.0,0.0,H,0.0,0.0,D,3.6,3.6,1.95,3.24,3.75,2.13,3.23,3.63,2.08,1.7,2.1,1.69,2.14,0.25,2.0,1.85,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2021-11-27,B1,Belgium-JPL,2122,Charleroi,Anderlecht,1.0,3.0,A,0.0,1.0,A,3.6,3.4,2.05,3.43,3.65,2.08,3.36,3.6,2.06,1.72,2.07,1.73,2.1,0.5,1.77,2.1,Sporting Charleroi,Anderlecht,sporting_charleroi,anderlecht
+2021-12-11,B1,Belgium-JPL,2122,Seraing,Anderlecht,0.0,5.0,A,0.0,3.0,A,5.75,4.2,1.53,5.35,4.35,1.58,5.42,4.31,1.55,1.61,2.25,1.61,2.29,1.0,1.98,1.88,RFC Seraing,Anderlecht,rfc_seraing,anderlecht
+2021-12-19,B1,Belgium-JPL,2122,Club Brugge,Anderlecht,2.0,2.0,D,1.0,0.0,H,1.85,3.75,3.8,2.02,3.68,3.6,1.92,3.68,3.71,1.72,2.07,1.75,2.07,-0.5,2.0,1.85,Club Brugge,Anderlecht,club_brugge,anderlecht
+2021-12-27,B1,Belgium-JPL,2122,Beerschot VA,Anderlecht,0.0,7.0,A,0.0,3.0,A,5.25,4.2,1.57,5.31,4.36,1.58,5.12,4.19,1.59,1.66,2.15,1.65,2.21,1.0,1.8,2.05,Beerschot VA,Anderlecht,beerschot_va,anderlecht
+2022-01-23,B1,Belgium-JPL,2122,Mechelen,Anderlecht,0.0,1.0,A,0.0,1.0,A,4.5,3.8,1.72,4.33,4.06,1.75,4.18,3.94,1.74,1.57,2.35,1.57,2.35,0.75,,,KV Mechelen,Anderlecht,kv_mechelen,anderlecht
+2022-01-30,B1,Belgium-JPL,2122,St. Gilloise,Anderlecht,1.0,0.0,H,1.0,0.0,H,2.3,3.5,2.9,2.31,3.72,2.92,2.29,3.56,2.89,1.83,2.02,1.77,2.02,-0.25,2.0,1.85,St. Gilloise,Anderlecht,st_gilloise,anderlecht
+2022-02-12,B1,Belgium-JPL,2122,Waregem,Anderlecht,1.0,2.0,A,0.0,2.0,A,6.5,4.5,1.45,5.84,4.58,1.51,6.06,4.55,1.48,1.53,2.4,1.55,2.39,1.25,1.83,2.02,Zulte Waregem,Anderlecht,zulte_waregem,anderlecht
+2022-02-26,B1,Belgium-JPL,2122,Oud-Heverlee Leuven,Anderlecht,0.0,0.0,D,0.0,0.0,D,4.5,3.75,1.65,4.59,4.08,1.71,4.4,4.02,1.71,1.57,2.35,1.58,2.34,0.75,1.95,1.9,Oud-Heverlee Leuven,Anderlecht,oud_heverlee_leuven,anderlecht
+2022-03-20,B1,Belgium-JPL,2122,Gent,Anderlecht,1.0,0.0,H,0.0,0.0,D,2.3,3.4,3.0,2.32,3.26,3.26,2.31,3.29,3.06,2.02,1.83,1.96,1.82,-0.25,2.0,1.85,KAA Gent,Anderlecht,kaa_gent,anderlecht
+2022-04-10,B1,Belgium-JPL,2122,Kortrijk,Anderlecht,2.0,3.0,A,1.0,1.0,D,7.0,4.75,1.33,7.85,4.61,1.41,7.4,4.76,1.39,1.53,2.4,1.56,2.39,1.25,2.0,1.85,KV Kortrijk,Anderlecht,kv_kortrijk,anderlecht
+2022-07-30,B1,Belgium-JPL,2223,Cercle Brugge,Anderlecht,1.0,0.0,H,0.0,0.0,D,3.6,3.4,1.9,3.81,3.68,2.0,3.62,3.53,1.99,1.8,2.0,1.78,2.02,0.5,1.88,1.98,Cercle Brugge,Anderlecht,cercle_brugge,anderlecht
+2022-08-14,B1,Belgium-JPL,2223,St Truiden,Anderlecht,0.0,3.0,A,0.0,2.0,A,3.6,3.5,2.0,3.59,3.5,2.08,3.53,3.46,2.04,1.98,1.88,1.92,1.86,0.5,1.83,2.02,Sint-Truiden,Anderlecht,sint_truiden,anderlecht
+2022-08-28,B1,Belgium-JPL,2223,St. Gilloise,Anderlecht,2.0,1.0,H,2.0,1.0,H,2.25,3.3,3.2,2.17,3.55,3.3,2.19,3.5,3.13,1.88,1.98,1.84,1.95,-0.25,1.93,1.93,St. Gilloise,Anderlecht,st_gilloise,anderlecht
+2022-09-11,B1,Belgium-JPL,2223,Westerlo,Anderlecht,2.0,1.0,H,1.0,0.0,H,2.8,3.3,2.45,2.94,3.58,2.35,2.84,3.47,2.36,1.83,2.02,1.79,2.0,0.25,1.7,2.1,KVC Westerlo,Anderlecht,kvc_westerlo,anderlecht
+2022-10-09,B1,Belgium-JPL,2223,Mechelen,Anderlecht,1.0,3.0,A,1.0,0.0,H,3.75,3.75,1.85,3.85,3.84,1.9,3.75,3.77,1.89,1.66,2.15,1.69,2.16,0.5,1.95,1.9,KV Mechelen,Anderlecht,kv_mechelen,anderlecht
+2022-10-20,B1,Belgium-JPL,2223,Waregem,Anderlecht,3.0,2.0,H,1.0,1.0,D,5.25,4.2,1.57,4.85,4.4,1.62,4.93,4.24,1.6,1.57,2.35,1.57,2.37,1.0,1.83,2.02,Zulte Waregem,Anderlecht,zulte_waregem,anderlecht
+2022-10-23,B1,Belgium-JPL,2223,Standard,Anderlecht,5.0,0.0,H,,,,3.0,3.5,2.2,2.99,3.74,2.26,2.98,3.55,2.24,1.72,2.07,1.75,2.06,0.25,1.9,1.95,Standard Liege,Anderlecht,standard_liege,anderlecht
+2022-11-06,B1,Belgium-JPL,2223,Antwerp,Anderlecht,0.0,0.0,D,0.0,0.0,D,2.15,3.4,3.3,2.2,3.53,3.25,2.19,3.41,3.2,1.88,1.98,1.81,1.98,-0.25,1.88,1.98,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2022-12-26,B1,Belgium-JPL,2223,Charleroi,Anderlecht,0.0,1.0,A,0.0,0.0,D,2.9,3.4,2.15,3.07,3.84,2.18,3.01,3.59,2.18,1.75,2.05,1.75,2.04,0.25,1.9,1.95,Sporting Charleroi,Anderlecht,sporting_charleroi,anderlecht
+2023-01-15,B1,Belgium-JPL,2223,Club Brugge,Anderlecht,1.0,1.0,D,0.0,0.0,D,1.91,3.75,3.6,1.93,3.78,3.8,1.95,3.68,3.63,1.73,2.08,1.75,2.06,-0.5,1.93,1.93,Club Brugge,Anderlecht,club_brugge,anderlecht
+2023-01-22,B1,Belgium-JPL,2223,Seraing,Anderlecht,0.0,1.0,A,0.0,0.0,D,5.25,4.0,1.55,5.86,4.12,1.57,5.5,4.01,1.58,1.9,1.95,1.88,1.9,1.0,1.83,2.02,RFC Seraing,Anderlecht,rfc_seraing,anderlecht
+2023-02-03,B1,Belgium-JPL,2223,Oostende,Anderlecht,0.0,2.0,A,0.0,1.0,A,3.4,3.6,1.91,3.65,4.0,1.96,3.52,3.75,1.96,1.7,2.1,1.72,2.12,0.5,1.88,1.98,KV Oostende,Anderlecht,kv_oostende,anderlecht
+2023-02-19,B1,Belgium-JPL,2223,Kortrijk,Anderlecht,2.0,2.0,D,0.0,1.0,A,4.0,3.6,1.85,3.7,3.94,1.92,3.65,3.75,1.92,1.7,2.1,1.7,2.13,0.5,1.9,1.95,KV Kortrijk,Anderlecht,kv_kortrijk,anderlecht
+2023-03-05,B1,Belgium-JPL,2223,Gent,Anderlecht,1.0,0.0,H,0.0,0.0,D,2.05,3.4,3.5,2.1,3.64,3.4,2.08,3.52,3.38,1.93,1.93,1.9,1.89,-0.25,1.83,2.02,KAA Gent,Anderlecht,kaa_gent,anderlecht
+2023-03-19,B1,Belgium-JPL,2223,Oud-Heverlee Leuven,Anderlecht,0.0,2.0,A,0.0,1.0,A,3.0,3.4,2.15,3.12,3.57,2.25,3.04,3.47,2.22,1.75,2.05,1.76,2.04,0.25,1.9,1.95,Oud-Heverlee Leuven,Anderlecht,oud_heverlee_leuven,anderlecht
+2023-04-02,B1,Belgium-JPL,2223,Eupen,Anderlecht,0.0,1.0,A,0.0,0.0,D,3.8,3.6,1.8,4.33,3.9,1.79,4.05,3.77,1.81,1.7,2.1,1.7,2.11,0.5,2.02,1.83,KAS Eupen,Anderlecht,kas_eupen,anderlecht
+2023-04-16,B1,Belgium-JPL,2223,Genk,Anderlecht,5.0,2.0,H,2.0,1.0,H,1.85,3.6,4.0,1.83,4.08,3.91,1.83,3.92,3.83,1.53,2.4,1.52,2.48,-0.5,1.9,1.95,Genk,Anderlecht,genk,anderlecht
+2023-07-28,B1,Belgium-JPL,2324,St. Gilloise,Anderlecht,2.0,0.0,H,1.0,0.0,H,2.1,3.3,3.2,2.22,3.63,3.24,2.21,3.46,3.1,1.88,1.98,1.84,1.96,-0.25,1.88,1.98,St. Gilloise,Anderlecht,st_gilloise,anderlecht
+2023-08-13,B1,Belgium-JPL,2324,St Truiden,Anderlecht,0.0,1.0,A,0.0,0.0,D,3.2,3.4,2.05,3.46,3.45,2.15,3.26,3.41,2.15,2.0,1.85,1.94,1.83,0.25,1.98,1.88,Sint-Truiden,Anderlecht,sint_truiden,anderlecht
+2023-09-03,B1,Belgium-JPL,2324,Genk,Anderlecht,1.0,1.0,D,0.0,0.0,D,1.91,3.6,3.8,1.97,3.56,3.87,1.93,3.68,3.69,1.65,2.2,1.63,2.22,-0.5,1.93,1.93,Genk,Anderlecht,genk,anderlecht
+2023-09-17,B1,Belgium-JPL,2324,Kortrijk,Anderlecht,2.0,2.0,D,1.0,1.0,D,4.5,4.0,1.7,4.66,4.22,1.68,4.52,4.09,1.68,1.6,2.3,1.6,2.31,0.75,1.98,1.88,KV Kortrijk,Anderlecht,kv_kortrijk,anderlecht
+2023-09-30,B1,Belgium-JPL,2324,Eupen,Anderlecht,1.0,3.0,A,1.0,1.0,D,4.2,4.0,1.73,4.48,3.99,1.78,4.3,3.92,1.75,1.67,2.15,1.65,2.2,0.75,1.9,1.95,KAS Eupen,Anderlecht,kas_eupen,anderlecht
+2023-10-22,B1,Belgium-JPL,2324,Standard,Anderlecht,3.0,2.0,H,0.0,2.0,A,3.0,3.4,2.25,3.14,3.47,2.29,3.01,3.47,2.26,1.85,2.0,1.84,1.94,0.25,1.85,2.0,Standard Liege,Anderlecht,standard_liege,anderlecht
+2023-11-05,B1,Belgium-JPL,2324,Cercle Brugge,Anderlecht,0.0,3.0,A,0.0,2.0,A,2.4,3.5,2.75,2.52,3.63,2.77,2.39,3.55,2.76,1.73,2.08,1.73,2.08,0.0,1.83,2.03,Cercle Brugge,Anderlecht,cercle_brugge,anderlecht
+2023-11-12,B1,Belgium-JPL,2324,Gent,Anderlecht,1.0,1.0,D,1.0,1.0,D,2.15,3.6,3.2,2.19,3.63,3.2,2.15,3.6,3.14,1.67,2.15,1.68,2.16,-0.25,1.9,1.95,KAA Gent,Anderlecht,kaa_gent,anderlecht
+2023-12-01,B1,Belgium-JPL,2324,Westerlo,Anderlecht,1.0,3.0,A,0.0,1.0,A,4.75,4.0,1.7,5.13,3.88,1.71,4.69,3.9,1.7,1.73,2.08,1.71,2.11,0.75,1.95,1.9,KVC Westerlo,Anderlecht,kvc_westerlo,anderlecht
+2023-12-17,B1,Belgium-JPL,2324,Antwerp,Anderlecht,1.0,1.0,D,0.0,1.0,A,1.91,3.5,3.8,1.99,3.57,3.8,1.96,3.57,3.71,1.9,1.95,1.85,1.94,-0.5,1.95,1.9,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2024-01-21,B1,Belgium-JPL,2324,Oud-Heverlee Leuven,Anderlecht,1.0,1.0,D,1.0,0.0,H,4.75,3.6,1.7,4.69,4.15,1.68,4.54,4.02,1.68,1.6,2.3,1.57,2.35,0.75,1.98,1.88,Oud-Heverlee Leuven,Anderlecht,oud_heverlee_leuven,anderlecht
+2024-02-01,B1,Belgium-JPL,2324,Mechelen,Anderlecht,2.0,2.0,D,0.0,1.0,A,3.25,3.5,2.15,3.28,3.48,2.21,3.24,3.44,2.15,1.98,1.88,1.93,1.86,0.25,1.98,1.88,KV Mechelen,Anderlecht,kv_mechelen,anderlecht
+2024-02-11,B1,Belgium-JPL,2324,Charleroi,Anderlecht,1.0,3.0,A,1.0,2.0,A,3.75,3.4,2.0,3.73,3.53,2.02,3.53,3.47,2.03,1.9,1.95,1.85,1.93,0.25,2.05,1.75,Sporting Charleroi,Anderlecht,sporting_charleroi,anderlecht
+2024-02-25,B1,Belgium-JPL,2324,Club Brugge,Anderlecht,1.0,2.0,A,1.0,0.0,H,1.67,3.75,5.0,1.76,3.93,4.7,1.71,3.88,4.57,1.67,2.15,1.68,2.16,-0.75,1.93,1.93,Club Brugge,Anderlecht,club_brugge,anderlecht
+2024-03-09,B1,Belgium-JPL,2324,RWD Molenbeek,Anderlecht,0.0,3.0,A,0.0,3.0,A,5.75,4.2,1.53,6.15,4.49,1.53,5.8,4.32,1.52,1.7,2.1,1.69,2.16,1.0,1.98,1.88,RWD Molenbeek,Anderlecht,rwd_molenbeek,anderlecht
+2024-04-07,B1,Belgium-JPL,2324,Club Brugge,Anderlecht,3.0,1.0,H,1.0,0.0,H,1.91,3.6,4.0,1.88,3.74,3.92,1.9,3.66,3.85,1.8,2.0,1.78,2.03,-0.5,1.93,1.93,Club Brugge,Anderlecht,club_brugge,anderlecht
+2024-04-20,B1,Belgium-JPL,2324,Genk,Anderlecht,2.0,1.0,H,1.0,0.0,H,2.15,3.6,3.2,2.18,3.52,3.37,2.13,3.53,3.23,1.73,2.08,1.73,2.08,-0.25,1.88,1.98,Genk,Anderlecht,genk,anderlecht
+2024-04-28,B1,Belgium-JPL,2324,Cercle Brugge,Anderlecht,1.0,1.0,D,0.0,1.0,A,2.8,3.5,2.38,2.91,3.47,2.4,2.8,3.43,2.37,1.7,2.1,1.71,2.12,0.25,1.78,2.1,Cercle Brugge,Anderlecht,cercle_brugge,anderlecht
+2024-05-05,B1,Belgium-JPL,2324,St. Gilloise,Anderlecht,0.0,0.0,D,0.0,0.0,D,1.7,3.8,4.5,1.7,3.96,4.66,1.71,3.84,4.47,1.75,2.05,1.74,2.05,-0.75,1.93,1.93,St. Gilloise,Anderlecht,st_gilloise,anderlecht
+2024-05-26,B1,Belgium-JPL,2324,Antwerp,Anderlecht,3.0,1.0,H,0.0,1.0,A,3.75,3.5,1.75,3.94,4.0,1.82,3.88,3.81,1.82,1.73,2.08,1.73,2.07,0.5,2.0,1.85,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2024-08-04,B1,Belgium-JPL,2425,Antwerp,Anderlecht,1.0,2.0,A,1.0,1.0,D,2.63,3.3,2.5,2.78,3.44,2.47,2.73,3.45,2.46,1.75,2.05,1.76,2.04,0.0,2.03,1.83,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2024-08-17,B1,Belgium-JPL,2425,Mechelen,Anderlecht,1.0,3.0,A,1.0,2.0,A,3.4,3.5,2.1,3.28,3.61,2.11,3.28,3.61,2.1,1.67,2.15,1.68,2.16,0.25,2.03,1.83,KV Mechelen,Anderlecht,kv_mechelen,anderlecht
+2024-09-01,B1,Belgium-JPL,2425,St. Gilloise,Anderlecht,0.0,0.0,D,0.0,0.0,D,2.05,3.7,3.3,2.07,3.71,3.3,2.05,3.67,3.3,1.73,2.08,1.73,2.07,-0.5,2.05,1.75,St. Gilloise,Anderlecht,st_gilloise,anderlecht
+2024-09-28,B1,Belgium-JPL,2425,Dender,Anderlecht,1.0,1.0,D,0.0,1.0,A,3.2,3.4,2.15,3.25,3.7,2.09,3.2,3.62,2.12,1.7,2.1,1.71,2.12,0.25,2.0,1.85,Dender,Anderlecht,dender,anderlecht
+2024-10-18,B1,Belgium-JPL,2425,Beerschot VA,Anderlecht,2.0,1.0,H,1.0,0.0,H,5.25,4.33,1.48,6.15,4.52,1.51,5.78,4.49,1.5,1.53,2.4,1.53,2.42,1.0,2.03,1.83,Beerschot VA,Anderlecht,beerschot_va,anderlecht
+2024-10-27,B1,Belgium-JPL,2425,Club Brugge,Anderlecht,2.0,1.0,H,1.0,0.0,H,1.62,4.2,4.75,1.65,3.94,4.97,1.64,4.07,4.77,1.6,2.3,1.59,2.31,-0.75,1.83,2.03,Club Brugge,Anderlecht,club_brugge,anderlecht
+2024-11-10,B1,Belgium-JPL,2425,Cercle Brugge,Anderlecht,0.0,5.0,A,0.0,1.0,A,2.7,3.6,2.45,2.72,3.58,2.45,2.7,3.57,2.41,1.62,2.25,1.63,2.24,0.0,2.0,1.85,Cercle Brugge,Anderlecht,cercle_brugge,anderlecht
+2024-12-01,B1,Belgium-JPL,2425,Oud-Heverlee Leuven,Anderlecht,0.0,0.0,D,0.0,0.0,D,3.1,3.4,2.2,3.24,3.46,2.18,3.14,3.42,2.2,1.88,1.98,1.86,1.92,0.25,1.93,1.93,Oud-Heverlee Leuven,Anderlecht,oud_heverlee_leuven,anderlecht
+2024-12-15,B1,Belgium-JPL,2425,St Truiden,Anderlecht,0.0,2.0,A,0.0,1.0,A,3.6,3.6,1.95,3.47,3.69,2.01,3.46,3.66,1.99,1.67,2.15,1.67,2.15,0.5,1.83,2.03,Sint-Truiden,Anderlecht,sint_truiden,anderlecht
+2024-12-22,B1,Belgium-JPL,2425,Genk,Anderlecht,2.0,0.0,H,1.0,0.0,H,2.2,3.5,3.1,2.2,3.57,3.12,2.16,3.59,3.11,1.67,2.15,1.65,2.18,-0.25,1.93,1.93,Genk,Anderlecht,genk,anderlecht
+2025-01-19,B1,Belgium-JPL,2425,Kortrijk,Anderlecht,0.0,2.0,A,0.0,0.0,D,3.9,3.75,1.85,3.88,3.77,1.87,3.87,3.72,1.86,1.83,2.03,1.78,2.0,0.5,1.98,1.88,KV Kortrijk,Anderlecht,kv_kortrijk,anderlecht
+2025-02-02,B1,Belgium-JPL,2425,Gent,Anderlecht,1.0,0.0,H,1.0,0.0,H,2.3,3.4,2.88,2.4,3.25,3.03,2.36,3.33,2.94,1.83,2.03,1.82,1.97,-0.25,2.03,1.83,KAA Gent,Anderlecht,kaa_gent,anderlecht
+2025-02-16,B1,Belgium-JPL,2425,Charleroi,Anderlecht,0.0,1.0,A,0.0,0.0,D,2.55,3.4,2.62,2.64,3.3,2.72,2.58,3.3,2.67,1.98,1.88,1.94,1.85,0.0,1.85,2.0,Sporting Charleroi,Anderlecht,sporting_charleroi,anderlecht
+2025-03-02,B1,Belgium-JPL,2425,Standard,Anderlecht,0.0,2.0,A,0.0,0.0,D,3.5,3.4,2.05,3.6,3.33,2.12,3.53,3.31,2.09,2.08,1.73,2.08,1.72,0.25,2.03,1.83,Standard Liege,Anderlecht,standard_liege,anderlecht
+2025-03-09,B1,Belgium-JPL,2425,Westerlo,Anderlecht,2.0,0.0,H,2.0,0.0,H,3.0,3.5,2.25,3.06,3.49,2.29,2.99,3.47,2.25,1.7,2.1,1.69,2.12,0.25,1.88,1.98,KVC Westerlo,Anderlecht,kvc_westerlo,anderlecht
+2025-03-30,B1,Belgium-JPL,2425,Club Brugge,Anderlecht,2.0,0.0,H,1.0,0.0,H,1.52,3.9,6.25,1.54,3.94,6.59,1.54,4.03,6.02,1.73,2.08,1.73,2.07,-1.0,1.87,1.87,Club Brugge,Anderlecht,club_brugge,anderlecht
+2025-04-12,B1,Belgium-JPL,2425,St. Gilloise,Anderlecht,2.0,0.0,H,1.0,0.0,H,1.6,3.8,5.5,1.61,4.02,5.43,1.6,3.97,5.33,1.8,2.0,1.77,2.03,-1.0,2.05,1.8,St. Gilloise,Anderlecht,st_gilloise,anderlecht
+2025-04-27,B1,Belgium-JPL,2425,Gent,Anderlecht,0.0,1.0,A,0.0,0.0,D,3.0,3.1,2.4,3.07,2.95,2.6,2.95,3.1,2.49,1.88,1.98,1.87,1.92,0.0,2.1,1.7,KAA Gent,Anderlecht,kaa_gent,anderlecht
+2025-05-01,B1,Belgium-JPL,2425,Antwerp,Anderlecht,1.0,3.0,A,0.0,0.0,D,2.7,3.4,2.45,2.73,3.48,2.52,2.68,3.46,2.48,1.8,2.0,1.78,2.02,0.0,1.98,1.83,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2025-05-25,B1,Belgium-JPL,2425,Genk,Anderlecht,2.0,1.0,H,1.0,1.0,D,1.95,3.6,3.6,1.95,3.64,3.59,1.97,3.64,3.53,1.7,2.1,1.71,2.1,-0.5,1.98,1.83,Genk,Anderlecht,genk,anderlecht
+2025-08-03,B1,Belgium-JPL,2526,Cercle Brugge,Anderlecht,0.0,2.0,A,0.0,1.0,A,3.0,3.25,2.3,3.08,3.46,2.29,2.94,3.33,2.32,1.9,1.9,1.87,1.85,0.25,1.78,2.03,Cercle Brugge,Anderlecht,cercle_brugge,anderlecht
+2025-08-17,B1,Belgium-JPL,2526,Dender,Anderlecht,0.0,2.0,A,0.0,0.0,D,3.8,3.7,1.95,3.75,3.68,1.94,3.67,3.61,1.91,1.8,2.0,1.74,2.0,0.5,1.88,1.93,Dender,Anderlecht,dender,anderlecht
+2025-08-31,B1,Belgium-JPL,2526,St. Gilloise,Anderlecht,2.0,0.0,H,1.0,0.0,H,1.6,4.0,5.25,1.58,3.95,5.92,1.6,3.88,5.27,1.8,2.0,1.76,1.97,-1.0,2.03,1.78,St. Gilloise,Anderlecht,st_gilloise,anderlecht
+2025-09-26,B1,Belgium-JPL,2526,Oud-Heverlee Leuven,Anderlecht,1.0,1.0,D,0.0,0.0,D,3.5,3.6,2.0,3.84,3.52,2.04,3.63,3.39,2.0,1.98,1.83,1.96,1.76,0.5,1.8,2.0,Oud-Heverlee Leuven,Anderlecht,oud_heverlee_leuven,anderlecht
+2025-10-19,B1,Belgium-JPL,2526,St Truiden,Anderlecht,2.0,2.0,D,1.0,2.0,A,2.9,3.5,2.3,3.02,3.47,2.32,2.96,3.47,2.24,1.75,2.05,1.73,2.0,0.25,1.8,2.0,Sint-Truiden,Anderlecht,sint_truiden,anderlecht
+2025-10-24,B1,Belgium-JPL,2526,Charleroi,Anderlecht,1.0,0.0,H,0.0,0.0,D,2.55,3.2,2.8,3.13,3.5,2.25,2.6,3.28,2.64,2.03,1.78,1.97,1.76,0.0,1.8,2.0,Sporting Charleroi,Anderlecht,sporting_charleroi,anderlecht
+2025-11-23,B1,Belgium-JPL,2526,RAAL La Louviere,Anderlecht,0.0,1.0,A,0.0,0.0,D,3.8,3.1,1.91,,,,3.96,3.34,1.91,2.15,1.67,2.08,1.67,0.5,1.85,1.95,RAAL La Louviere,Anderlecht,raal_la_louviere,anderlecht
+2025-12-07,B1,Belgium-JPL,2526,Westerlo,Anderlecht,4.0,0.0,H,3.0,0.0,H,3.0,3.6,2.25,,,,2.97,3.61,2.19,1.6,2.3,1.59,2.22,0.25,1.83,1.98,KVC Westerlo,Anderlecht,kvc_westerlo,anderlecht
+2025-12-21,B1,Belgium-JPL,2526,Antwerp,Anderlecht,2.0,2.0,D,2.0,0.0,H,3.0,3.3,2.2,,,,3.13,3.33,2.2,1.93,1.88,1.9,1.81,0.25,1.88,1.93,Royal Antwerp,Anderlecht,royal_antwerp,anderlecht
+2026-01-18,B1,Belgium-JPL,2526,Gent,Anderlecht,4.0,2.0,H,1.0,2.0,A,3.1,3.3,2.15,,,,3.1,3.41,2.17,1.85,1.95,1.78,1.93,0.25,1.9,1.9,KAA Gent,Anderlecht,kaa_gent,anderlecht
+2026-02-01,B1,Belgium-JPL,2526,Standard,Anderlecht,2.0,0.0,H,1.0,0.0,H,3.4,3.2,2.1,,,,3.43,3.28,2.09,2.1,1.7,2.03,1.7,0.25,1.98,1.83,Standard Liege,Anderlecht,standard_liege,anderlecht
+2026-02-08,B1,Belgium-JPL,2526,Genk,Anderlecht,2.0,0.0,H,0.0,0.0,D,2.0,3.4,3.5,,,,2.03,3.41,3.42,1.83,1.98,1.79,1.92,-0.25,1.75,2.05,Genk,Anderlecht,genk,anderlecht
+2026-02-22,B1,Belgium-JPL,2526,Waregem,Anderlecht,2.0,4.0,A,0.0,3.0,A,3.0,3.3,2.15,,,,3.12,3.37,2.16,1.85,1.95,1.83,1.87,0.25,1.88,1.93,Zulte Waregem,Anderlecht,zulte_waregem,anderlecht
+2026-03-08,B1,Belgium-JPL,2526,Club Brugge,Anderlecht,2.0,2.0,D,1.0,1.0,D,1.6,4.0,5.0,,,,1.57,4.12,4.98,1.57,2.35,1.56,2.29,-1.0,2.0,1.8,Club Brugge,Anderlecht,club_brugge,anderlecht
+2026-03-15,B1,Belgium-JPL,2526,Mechelen,Anderlecht,1.0,0.0,H,0.0,0.0,D,3.3,3.5,2.0,,,,3.33,3.54,2.01,1.8,2.0,1.74,1.98,0.25,2.03,1.78,KV Mechelen,Anderlecht,kv_mechelen,anderlecht
+2026-04-06,B1,Belgium-JPL,2526,Club Brugge,Anderlecht,4.0,2.0,H,3.0,0.0,H,1.48,4.2,5.75,,,,1.47,4.43,5.72,1.48,2.6,1.46,2.57,-1.0,1.78,2.03,Club Brugge,Anderlecht,club_brugge,anderlecht
+2026-04-18,B1,Belgium-JPL,2526,Mechelen,Anderlecht,1.0,2.0,A,1.0,0.0,H,2.75,3.4,2.35,,,,2.76,3.42,2.34,1.73,2.08,1.69,2.06,0.0,2.05,1.75,KV Mechelen,Anderlecht,kv_mechelen,anderlecht
+2026-04-23,B1,Belgium-JPL,2526,St Truiden,Anderlecht,2.0,0.0,H,0.0,0.0,D,2.1,3.5,3.0,,,,2.09,3.58,3.09,1.62,2.25,1.58,2.24,-0.25,1.85,1.95,Sint-Truiden,Anderlecht,sint_truiden,anderlecht
+2026-05-10,B1,Belgium-JPL,2526,Gent,Anderlecht,1.0,1.0,D,1.0,1.0,D,2.3,3.4,2.75,,,,2.34,3.43,2.75,1.75,2.05,1.71,2.02,0.0,1.73,2.08,KAA Gent,Anderlecht,kaa_gent,anderlecht
+2026-05-24,B1,Belgium-JPL,2526,St. Gilloise,Anderlecht,5.0,1.0,H,4.0,0.0,H,,,,,,,1.44,4.2,6.26,,,1.7,2.01,-1.5,,,St. Gilloise,Anderlecht,st_gilloise,anderlecht
+2026-08-16,B1,Belgium-JPL,2627,Beveren,Anderlecht,1.0,0.0,H,1.0,0.0,H,3.3,3.5,2.1,,,,3.28,3.44,2.05,1.8,2.0,1.76,1.96,0.5,1.78,2.03,Beveren,Anderlecht,beveren,anderlecht
+2026-08-30,B1,Belgium-JPL,2627,St. Gilloise,Anderlecht,3.0,0.0,H,2.0,0.0,H,1.67,3.7,4.75,,,,1.67,3.76,4.54,1.75,2.05,1.74,2.01,-0.75,1.88,1.93,St. Gilloise,Anderlecht,st_gilloise,anderlecht
+2026-09-11,B1,Belgium-JPL,2627,Mechelen,Anderlecht,0.0,1.0,A,0.0,1.0,A,3.9,3.7,1.8,,,,3.87,3.66,1.81,1.67,2.15,1.68,2.09,0.5,2.03,1.78,KV Mechelen,Anderlecht,kv_mechelen,anderlecht
+2026-10-10,B1,Belgium-JPL,2627,Cercle Brugge,Anderlecht,1.0,2.0,A,1.0,0.0,H,3.5,3.6,1.91,,,,3.41,3.65,1.95,1.65,2.2,1.62,2.19,0.5,1.83,1.98,Cercle Brugge,Anderlecht,cercle_brugge,anderlecht

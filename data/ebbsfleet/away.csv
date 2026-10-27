@@ -1,0 +1,47 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2023-08-05,EC,England-Conference,2324,Rochdale,Ebbsfleet,0.0,1.0,A,0.0,1.0,A,1.65,3.75,4.5,1.69,4.25,4.37,1.68,3.93,4.28,1.7,2.1,1.67,2.12,-0.75,1.85,1.95,Rochdale,Ebbsfleet,rochdale,ebbsfleet
+2023-08-19,EC,England-Conference,2324,Gateshead,Ebbsfleet,4.0,1.0,H,1.0,1.0,D,1.85,3.6,3.4,1.9,3.91,3.78,1.87,3.69,3.57,1.67,2.15,1.64,2.15,-0.5,1.88,1.93,Gateshead,Ebbsfleet,gateshead,ebbsfleet
+2023-08-28,EC,England-Conference,2324,Barnet,Ebbsfleet,3.0,2.0,H,1.0,1.0,D,1.95,3.6,3.6,2.01,3.81,3.5,1.95,3.61,3.43,1.73,2.08,1.7,2.06,-0.5,1.95,1.85,Barnet,Ebbsfleet,barnet,ebbsfleet
+2023-09-09,EC,England-Conference,2324,Wealdstone,Ebbsfleet,2.0,1.0,H,0.0,0.0,D,2.7,3.25,2.3,2.79,3.89,2.29,2.72,3.58,2.28,1.65,2.2,1.62,2.2,0.25,1.75,2.05,Wealdstone,Ebbsfleet,wealdstone,ebbsfleet
+2023-09-19,EC,England-Conference,2324,Woking,Ebbsfleet,1.0,1.0,D,1.0,0.0,H,1.73,3.75,4.5,1.72,3.89,4.76,1.73,3.69,4.27,1.7,2.1,1.69,2.09,-0.75,1.9,1.9,Woking,Ebbsfleet,woking,ebbsfleet
+2023-09-23,EC,England-Conference,2324,Altrincham,Ebbsfleet,6.0,1.0,H,4.0,1.0,H,1.95,3.4,3.75,2.1,3.49,3.55,2.0,3.44,3.44,1.83,1.98,1.81,1.93,-0.25,1.7,2.1,Altrincham,Ebbsfleet,altrincham,ebbsfleet
+2023-10-03,EC,England-Conference,2324,Eastleigh,Ebbsfleet,5.0,2.0,H,2.0,1.0,H,2.0,3.75,3.1,2.1,3.88,3.21,2.05,3.63,3.09,1.53,2.4,1.59,2.25,-0.25,1.8,2.0,Eastleigh,Ebbsfleet,eastleigh,ebbsfleet
+2023-10-21,EC,England-Conference,2324,Fylde,Ebbsfleet,1.0,1.0,D,0.0,1.0,A,2.05,3.6,3.0,2.1,4.02,3.12,2.04,3.72,3.0,1.57,2.35,1.55,2.32,-0.25,1.83,1.98,Fylde,Ebbsfleet,fylde,ebbsfleet
+2023-10-24,EC,England-Conference,2324,Southend,Ebbsfleet,3.0,0.0,H,1.0,0.0,H,1.5,4.33,6.5,1.47,4.72,6.27,1.46,4.41,5.84,1.6,2.3,1.56,2.3,-1.0,1.8,2.0,Southend United,Ebbsfleet,southend_united,ebbsfleet
+2023-11-11,EC,England-Conference,2324,Hartlepool,Ebbsfleet,2.0,2.0,D,1.0,1.0,D,1.7,3.75,4.5,1.71,4.45,4.15,1.7,4.04,3.99,1.5,2.5,1.46,2.55,-0.75,1.9,1.9,Hartlepool United,Ebbsfleet,hartlepool_united,ebbsfleet
+2023-11-25,EC,England-Conference,2324,Oldham,Ebbsfleet,1.0,4.0,A,0.0,1.0,A,1.65,3.8,4.5,1.68,4.22,4.63,1.65,3.98,4.38,1.57,2.35,1.54,2.37,-0.75,1.8,2.0,Oldham,Ebbsfleet,oldham,ebbsfleet
+2023-12-02,EC,England-Conference,2324,Kidderminster,Ebbsfleet,2.0,0.0,H,2.0,0.0,H,2.05,3.3,3.3,2.11,3.52,3.49,2.04,3.42,3.32,1.83,1.98,1.8,1.93,-0.25,1.78,2.03,Kidderminster,Ebbsfleet,kidderminster,ebbsfleet
+2023-12-23,EC,England-Conference,2324,York,Ebbsfleet,1.0,1.0,D,1.0,0.0,H,2.15,3.6,2.88,2.27,3.59,3.08,2.16,3.57,2.89,1.57,2.35,1.57,2.29,-0.25,1.93,1.88,York,Ebbsfleet,york,ebbsfleet
+2023-12-30,EC,England-Conference,2324,Bromley,Ebbsfleet,5.0,1.0,H,2.0,1.0,H,1.55,4.2,4.75,1.56,4.4,5.49,1.53,4.22,5.05,1.57,2.35,1.54,2.36,-1.0,1.9,1.9,Bromley,Ebbsfleet,bromley,ebbsfleet
+2024-01-23,EC,England-Conference,2324,Maidenhead,Ebbsfleet,0.0,1.0,A,0.0,0.0,D,2.05,3.4,3.5,2.18,3.5,3.33,2.05,3.4,3.26,1.83,1.98,1.81,1.91,-0.25,1.83,1.98,Maidenhead,Ebbsfleet,maidenhead,ebbsfleet
+2024-01-27,EC,England-Conference,2324,Oxford City,Ebbsfleet,1.0,0.0,H,1.0,0.0,H,3.0,3.75,2.05,3.25,3.88,2.08,3.04,3.73,2.04,1.48,2.6,1.46,2.57,0.25,2.0,1.8,Oxford City,Ebbsfleet,oxford_city,ebbsfleet
+2024-02-10,EC,England-Conference,2324,Chesterfield,Ebbsfleet,2.0,2.0,D,2.0,1.0,H,1.18,6.5,10.0,1.21,7.45,10.8,1.18,6.82,10.99,1.36,3.1,1.35,3.0,-2.0,1.9,1.9,Chesterfield,Ebbsfleet,chesterfield,ebbsfleet
+2024-02-24,EC,England-Conference,2324,Dorking,Ebbsfleet,1.0,4.0,A,1.0,2.0,A,2.63,3.5,2.45,2.69,3.5,2.58,2.55,3.48,2.45,1.65,2.2,1.64,2.16,0.0,1.95,1.85,Dorking,Ebbsfleet,dorking,ebbsfleet
+2024-03-12,EC,England-Conference,2324,Aldershot,Ebbsfleet,4.0,1.0,H,2.0,1.0,H,2.1,3.4,3.1,2.18,3.69,3.18,2.11,3.58,3.02,1.62,2.25,1.58,2.28,-0.25,1.88,1.93,Aldershot,Ebbsfleet,aldershot,ebbsfleet
+2024-04-01,EC,England-Conference,2324,Dag and Red,Ebbsfleet,1.0,1.0,D,0.0,0.0,D,2.0,3.4,3.2,2.16,3.57,3.25,2.05,3.46,3.22,1.73,2.08,1.72,2.05,-0.25,1.83,1.98,Dag and Red,Ebbsfleet,dag_and_red,ebbsfleet
+2024-04-09,EC,England-Conference,2324,Solihull,Ebbsfleet,3.0,0.0,H,1.0,0.0,H,2.4,3.5,2.6,2.45,3.79,2.64,2.41,3.57,2.57,1.62,2.25,1.61,2.23,0.0,1.83,1.98,Solihull,Ebbsfleet,solihull,ebbsfleet
+2024-04-16,EC,England-Conference,2324,Halifax,Ebbsfleet,0.0,0.0,D,0.0,0.0,D,2.1,3.4,2.9,2.23,3.49,3.18,2.16,3.4,3.06,1.8,2.0,1.77,1.97,-0.25,1.9,1.9,Halifax,Ebbsfleet,halifax,ebbsfleet
+2024-04-20,EC,England-Conference,2324,Boreham Wood,Ebbsfleet,0.0,0.0,D,0.0,0.0,D,2.1,3.5,3.0,2.32,3.53,2.99,2.23,3.46,2.89,1.7,2.1,1.68,2.1,-0.25,1.88,1.93,Boreham Wood,Ebbsfleet,boreham_wood,ebbsfleet
+2024-08-10,EC,England-Conference,2425,Gateshead,Ebbsfleet,5.0,1.0,H,3.0,0.0,H,1.9,3.4,4.0,1.88,3.78,3.66,1.88,3.61,3.61,1.7,2.1,1.69,2.07,-0.5,1.9,1.9,Gateshead,Ebbsfleet,gateshead,ebbsfleet
+2024-08-20,EC,England-Conference,2425,Yeovil,Ebbsfleet,3.0,2.0,H,2.0,0.0,H,1.7,3.7,4.2,1.74,3.77,4.69,1.72,3.65,4.4,2.05,1.75,2.01,1.74,-0.75,1.98,1.83,Yeovil Town,Ebbsfleet,yeovil_town,ebbsfleet
+2024-08-26,EC,England-Conference,2425,Braintree Town,Ebbsfleet,0.0,0.0,D,0.0,0.0,D,2.25,3.3,2.88,2.24,3.65,3.04,2.22,3.44,2.9,1.8,2.0,1.77,1.97,-0.25,1.98,1.83,Braintree Town,Ebbsfleet,braintree_town,ebbsfleet
+2024-09-07,EC,England-Conference,2425,Altrincham,Ebbsfleet,4.0,0.0,H,2.0,0.0,H,1.85,3.7,3.5,1.83,3.65,4.0,1.82,3.62,3.81,1.83,1.98,1.79,1.94,-0.5,1.85,1.95,Altrincham,Ebbsfleet,altrincham,ebbsfleet
+2024-09-21,EC,England-Conference,2425,Sutton,Ebbsfleet,3.0,2.0,H,1.0,0.0,H,1.75,3.75,4.0,1.74,3.79,4.29,1.75,3.71,4.09,1.73,2.08,1.72,2.04,-0.75,1.98,1.83,Sutton United,Ebbsfleet,sutton_united,ebbsfleet
+2024-09-24,EC,England-Conference,2425,Maidenhead,Ebbsfleet,2.0,1.0,H,1.0,0.0,H,2.1,3.4,3.0,2.22,3.48,3.2,2.15,3.39,3.04,1.75,2.05,1.75,2.0,-0.25,1.9,1.9,Maidenhead,Ebbsfleet,maidenhead,ebbsfleet
+2024-10-19,EC,England-Conference,2425,York,Ebbsfleet,4.0,0.0,H,1.0,0.0,H,1.42,4.33,7.5,1.43,4.41,6.76,1.42,4.36,6.54,1.73,2.08,1.71,2.04,-1.25,1.98,1.83,York,Ebbsfleet,york,ebbsfleet
+2024-10-22,EC,England-Conference,2425,Forest Green,Ebbsfleet,3.0,1.0,H,1.0,0.0,H,1.3,5.0,9.5,1.28,5.83,9.77,1.28,5.31,8.91,1.57,2.35,1.55,2.34,-1.5,1.83,1.98,Forest Green Rovers,Ebbsfleet,forest_green_rovers,ebbsfleet
+2024-11-09,EC,England-Conference,2425,Tamworth,Ebbsfleet,1.0,1.0,D,0.0,1.0,A,1.8,3.7,3.8,1.8,3.73,4.07,1.82,3.67,3.84,1.73,2.08,1.72,2.04,-0.5,1.83,1.98,Tamworth,Ebbsfleet,tamworth,ebbsfleet
+2024-12-10,EC,England-Conference,2425,Fylde,Ebbsfleet,2.0,0.0,H,0.0,0.0,D,1.8,3.8,4.2,1.78,3.98,4.16,1.76,3.76,4.07,1.65,2.2,1.61,2.22,-0.75,2.0,1.8,Fylde,Ebbsfleet,fylde,ebbsfleet
+2024-12-14,EC,England-Conference,2425,Barnet,Ebbsfleet,4.0,1.0,H,4.0,0.0,H,1.18,6.5,15.0,1.16,7.23,12.4,1.17,6.87,12.42,1.36,3.1,1.35,2.98,-2.0,1.8,2.0,Barnet,Ebbsfleet,barnet,ebbsfleet
+2024-12-26,EC,England-Conference,2425,Southend,Ebbsfleet,4.0,0.0,H,2.0,0.0,H,1.42,4.2,7.0,1.38,4.54,7.63,1.4,4.35,6.94,1.75,2.05,1.74,2.0,-1.25,1.95,1.85,Southend United,Ebbsfleet,southend_united,ebbsfleet
+2025-01-11,EC,England-Conference,2425,Boston Utd,Ebbsfleet,2.0,2.0,D,1.0,1.0,D,1.7,3.5,4.75,1.69,3.75,4.66,1.7,3.66,4.49,1.85,1.95,1.83,1.89,-0.75,1.9,1.9,Boston Utd,Ebbsfleet,boston_utd,ebbsfleet
+2025-01-18,EC,England-Conference,2425,Woking,Ebbsfleet,1.0,1.0,D,0.0,0.0,D,1.48,4.0,6.5,1.45,4.37,6.41,1.47,4.16,6.11,1.8,2.0,1.8,1.93,-1.25,2.03,1.78,Woking,Ebbsfleet,woking,ebbsfleet
+2025-02-01,EC,England-Conference,2425,Halifax,Ebbsfleet,2.0,0.0,H,1.0,0.0,H,1.33,4.75,8.5,1.33,4.88,8.21,1.33,4.82,8.3,1.7,2.1,1.68,2.09,-1.5,2.0,1.8,Halifax,Ebbsfleet,halifax,ebbsfleet
+2025-02-08,EC,England-Conference,2425,Rochdale,Ebbsfleet,0.0,0.0,D,0.0,0.0,D,1.22,5.5,15.0,1.2,6.28,11.64,1.2,6.04,11.43,1.48,2.6,1.46,2.55,-1.75,1.83,1.98,Rochdale,Ebbsfleet,rochdale,ebbsfleet
+2025-02-22,EC,England-Conference,2425,Wealdstone,Ebbsfleet,4.0,2.0,H,2.0,2.0,D,1.62,3.8,5.25,1.6,4.02,5.01,1.57,3.94,5.03,1.7,2.1,1.69,2.08,-1.0,2.05,1.75,Wealdstone,Ebbsfleet,wealdstone,ebbsfleet
+2025-03-04,EC,England-Conference,2425,Eastleigh,Ebbsfleet,2.0,0.0,H,1.0,0.0,H,1.55,4.0,5.5,1.57,4.02,5.91,1.56,3.85,5.48,1.9,1.9,1.89,1.86,-1.0,1.98,1.83,Eastleigh,Ebbsfleet,eastleigh,ebbsfleet
+2025-03-08,EC,England-Conference,2425,Solihull,Ebbsfleet,2.0,1.0,H,1.0,1.0,D,1.57,4.33,5.0,1.59,4.36,4.95,1.56,4.11,5.0,1.75,2.05,1.73,2.01,-1.0,1.98,1.83,Solihull,Ebbsfleet,solihull,ebbsfleet
+2025-03-22,EC,England-Conference,2425,Aldershot,Ebbsfleet,3.0,3.0,D,2.0,3.0,A,1.45,4.33,6.25,1.46,4.37,6.2,1.45,4.32,6.08,1.67,2.15,1.67,2.11,-1.25,2.03,1.78,Aldershot,Ebbsfleet,aldershot,ebbsfleet
+2025-04-05,EC,England-Conference,2425,Hartlepool,Ebbsfleet,3.0,2.0,H,1.0,0.0,H,1.3,5.0,8.5,1.32,5.08,8.35,1.3,4.99,8.35,1.65,2.2,1.61,2.2,-1.5,1.95,1.85,Hartlepool United,Ebbsfleet,hartlepool_united,ebbsfleet
+2025-04-18,EC,England-Conference,2425,Dag and Red,Ebbsfleet,1.0,0.0,H,0.0,0.0,D,1.53,4.0,5.5,1.51,4.1,5.99,1.53,3.95,5.52,1.83,1.98,1.8,1.94,-1.0,1.95,1.85,Dag and Red,Ebbsfleet,dag_and_red,ebbsfleet
+2025-05-05,EC,England-Conference,2425,Oldham,Ebbsfleet,2.0,0.0,H,1.0,0.0,H,1.33,4.1,10.0,1.33,4.61,8.06,1.34,4.49,8.38,1.93,1.88,1.89,1.83,-1.25,1.8,2.0,Oldham,Ebbsfleet,oldham,ebbsfleet

@@ -1,0 +1,90 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-22,N1,Netherlands-ED,2122,Feyenoord,Go Ahead Eagles,2.0,0.0,H,0.0,0.0,D,1.25,6.5,11.0,1.25,6.26,11.86,1.24,6.12,10.83,1.44,2.7,1.44,2.71,-1.75,1.91,1.99,Feyenoord,Go Ahead Eagles,feyenoord,go_ahead_eagles
+2021-09-22,N1,Netherlands-ED,2122,Feyenoord,Heerenveen,3.0,1.0,H,1.0,0.0,H,1.33,4.5,7.5,1.42,5.22,7.22,1.4,5.01,7.05,1.5,2.5,1.51,2.51,-1.25,1.86,2.04,Feyenoord,SC Heerenveen,feyenoord,sc_heerenveen
+2021-09-25,N1,Netherlands-ED,2122,Feyenoord,Nijmegen,5.0,3.0,H,2.0,2.0,D,1.2,6.5,11.0,1.22,6.93,13.42,1.22,6.66,12.31,1.4,2.87,1.41,2.84,-2.0,2.02,1.88,Feyenoord,NEC Nijmegen,feyenoord,nec_nijmegen
+2021-10-16,N1,Netherlands-ED,2122,Feyenoord,Waalwijk,2.0,2.0,D,1.0,2.0,A,1.22,5.75,11.0,1.21,7.04,14.98,1.19,6.96,12.96,1.33,3.4,1.34,3.2,-2.0,1.92,1.98,Feyenoord,RKC Waalwijk,feyenoord,rkc_waalwijk
+2021-11-07,N1,Netherlands-ED,2122,Feyenoord,AZ Alkmaar,1.0,0.0,H,0.0,0.0,D,1.9,3.75,3.8,1.93,3.94,3.87,1.92,3.83,3.65,1.57,2.35,1.59,2.32,-0.5,1.94,1.96,Feyenoord,AZ Alkmaar,feyenoord,az_alkmaar
+2021-11-21,N1,Netherlands-ED,2122,Feyenoord,Zwolle,4.0,0.0,H,4.0,0.0,H,1.16,7.0,13.0,1.21,7.07,14.77,1.2,6.67,13.12,1.47,2.6,1.47,2.61,-2.0,2.05,1.85,Feyenoord,PEC Zwolle,feyenoord,pec_zwolle
+2021-12-01,N1,Netherlands-ED,2122,Feyenoord,Heracles,2.0,1.0,H,1.0,1.0,D,1.33,5.0,10.0,1.33,5.57,9.86,1.32,5.3,8.92,1.57,2.35,1.56,2.37,-1.5,1.94,1.96,Feyenoord,Heracles Almelo,feyenoord,heracles_almelo
+2021-12-05,N1,Netherlands-ED,2122,Feyenoord,For Sittard,5.0,0.0,H,2.0,0.0,H,1.2,7.0,13.0,1.22,6.63,15.65,1.2,6.7,13.46,1.5,2.5,1.43,2.79,-2.0,2.1,1.7,Feyenoord,For Sittard,feyenoord,for_sittard
+2021-12-19,N1,Netherlands-ED,2122,Feyenoord,Ajax,0.0,2.0,A,0.0,1.0,A,4.33,3.8,1.75,4.41,4.33,1.75,4.2,4.11,1.75,1.53,2.4,1.53,2.46,0.75,1.93,1.97,Feyenoord,Ajax,feyenoord,ajax
+2022-01-15,N1,Netherlands-ED,2122,Feyenoord,Vitesse,0.0,1.0,A,0.0,0.0,D,1.44,4.75,6.5,1.44,4.85,7.62,1.43,4.74,6.9,1.6,2.3,1.61,2.31,-1.25,1.95,1.95,Feyenoord,Vitesse,feyenoord,vitesse
+2022-02-06,N1,Netherlands-ED,2122,Feyenoord,Sparta Rotterdam,4.0,0.0,H,2.0,0.0,H,1.25,6.0,11.0,1.26,6.06,13.19,1.26,5.82,11.38,1.6,2.3,1.62,2.29,-1.75,2.03,1.87,Feyenoord,Sparta Rotterdam,feyenoord,sparta_rotterdam
+2022-02-20,N1,Netherlands-ED,2122,Feyenoord,Cambuur,3.0,1.0,H,2.0,1.0,H,1.14,8.0,17.0,1.16,8.48,19.15,1.14,8.51,17.45,1.33,3.4,1.31,3.36,-2.25,1.86,2.04,Feyenoord,SC Cambuur,feyenoord,sc_cambuur
+2022-03-05,N1,Netherlands-ED,2122,Feyenoord,Groningen,1.0,1.0,D,0.0,1.0,A,1.28,5.25,12.0,1.29,5.51,13.16,1.27,5.59,11.34,1.65,2.2,1.64,2.24,-1.5,1.83,2.07,Feyenoord,FC Groningen,feyenoord,fc_groningen
+2022-04-02,N1,Netherlands-ED,2122,Feyenoord,Willem II,2.0,0.0,H,0.0,0.0,D,1.16,7.0,19.0,1.15,8.51,21.09,1.15,7.97,17.54,1.4,2.87,1.42,2.84,-2.25,2.03,1.87,Feyenoord,Willem II,feyenoord,willem_ii
+2022-04-24,N1,Netherlands-ED,2122,Feyenoord,Utrecht,2.0,1.0,H,0.0,0.0,D,1.36,5.5,7.0,1.37,5.49,8.2,1.37,5.21,7.57,1.47,2.6,1.45,2.7,-1.5,2.04,1.86,Feyenoord,FC Utrecht,feyenoord,fc_utrecht
+2022-05-08,N1,Netherlands-ED,2122,Feyenoord,PSV Eindhoven,2.0,2.0,D,0.0,2.0,A,2.37,3.6,2.8,2.44,4.0,2.72,2.37,3.76,2.72,1.53,2.4,1.52,2.48,-0.25,2.09,1.81,Feyenoord,PSV Eindhoven,feyenoord,psv_eindhoven
+2022-05-15,N1,Netherlands-ED,2122,Feyenoord,Twente,1.0,2.0,A,0.0,2.0,A,1.5,4.2,5.5,1.52,5.04,5.76,1.5,4.72,5.69,1.44,2.7,1.46,2.68,-1.25,2.02,1.77,Feyenoord,FC Twente,feyenoord,fc_twente
+2022-08-13,N1,Netherlands-ED,2223,Feyenoord,Heerenveen,0.0,0.0,D,0.0,0.0,D,1.3,5.5,8.0,1.31,6.13,9.49,1.29,5.79,8.97,1.44,2.7,1.45,2.67,-1.75,2.02,1.77,Feyenoord,SC Heerenveen,feyenoord,sc_heerenveen
+2022-08-27,N1,Netherlands-ED,2223,Feyenoord,FC Emmen,4.0,0.0,H,0.0,0.0,D,1.25,6.0,11.0,1.28,6.32,10.36,1.26,6.04,10.26,1.47,2.6,1.47,2.63,-1.75,1.94,1.96,Feyenoord,FC Emmen,feyenoord,fc_emmen
+2022-09-11,N1,Netherlands-ED,2223,Feyenoord,Sparta Rotterdam,3.0,0.0,H,2.0,0.0,H,1.28,6.0,9.0,1.28,6.11,10.99,1.27,5.85,10.13,1.44,2.7,1.46,2.66,-1.75,2.02,1.88,Feyenoord,Sparta Rotterdam,feyenoord,sparta_rotterdam
+2022-10-09,N1,Netherlands-ED,2223,Feyenoord,Twente,2.0,0.0,H,1.0,0.0,H,1.66,3.8,5.0,1.72,4.05,4.95,1.67,4.02,4.71,1.61,2.25,1.62,2.25,-0.75,1.87,2.03,Feyenoord,FC Twente,feyenoord,fc_twente
+2022-10-22,N1,Netherlands-ED,2223,Feyenoord,For Sittard,1.0,1.0,D,0.0,1.0,A,1.2,8.0,10.0,1.23,7.4,10.94,1.2,7.15,11.45,1.3,3.5,1.33,3.26,-2.0,1.91,1.99,Feyenoord,For Sittard,feyenoord,for_sittard
+2022-11-10,N1,Netherlands-ED,2223,Feyenoord,Cambuur,1.0,0.0,H,1.0,0.0,H,1.2,7.0,12.0,1.21,7.41,13.83,1.2,6.84,12.96,1.4,2.87,1.41,2.84,-2.0,2.01,1.89,Feyenoord,SC Cambuur,feyenoord,sc_cambuur
+2022-11-13,N1,Netherlands-ED,2223,Feyenoord,Excelsior,5.0,1.0,H,2.0,1.0,H,1.12,9.5,15.0,1.15,8.53,20.05,1.13,8.59,16.55,1.28,3.6,1.29,3.44,-2.25,1.77,2.02,Feyenoord,Excelsior,feyenoord,excelsior
+2023-01-22,N1,Netherlands-ED,2223,Feyenoord,Ajax,1.0,1.0,D,1.0,0.0,H,2.7,3.5,2.6,2.67,3.71,2.6,2.61,3.57,2.53,1.6,2.3,1.59,2.32,0.0,1.97,1.93,Feyenoord,Ajax,feyenoord,ajax
+2023-01-25,N1,Netherlands-ED,2223,Feyenoord,Nijmegen,2.0,0.0,H,2.0,0.0,H,1.3,5.5,10.0,1.32,5.53,10.6,1.3,5.5,9.86,1.57,2.35,1.56,2.38,-1.5,1.88,2.02,Feyenoord,NEC Nijmegen,feyenoord,nec_nijmegen
+2023-02-05,N1,Netherlands-ED,2223,Feyenoord,PSV Eindhoven,2.0,2.0,D,0.0,1.0,A,2.1,3.6,3.1,2.25,3.54,3.31,2.18,3.53,3.16,1.73,2.08,1.74,2.1,-0.25,1.93,1.97,Feyenoord,PSV Eindhoven,feyenoord,psv_eindhoven
+2023-02-18,N1,Netherlands-ED,2223,Feyenoord,AZ Alkmaar,2.0,1.0,H,1.0,1.0,D,1.7,3.8,5.0,1.74,4.07,4.77,1.73,3.93,4.52,1.65,2.2,1.67,2.2,-0.75,1.92,1.98,Feyenoord,AZ Alkmaar,feyenoord,az_alkmaar
+2023-03-04,N1,Netherlands-ED,2223,Feyenoord,Groningen,1.0,0.0,H,0.0,0.0,D,1.2,7.0,13.0,1.22,7.32,12.92,1.2,6.96,12.56,1.4,2.88,1.41,2.85,-2.0,2.01,1.89,Feyenoord,FC Groningen,feyenoord,fc_groningen
+2023-03-12,N1,Netherlands-ED,2223,Feyenoord,Volendam,2.0,1.0,H,0.0,1.0,A,1.13,8.0,21.0,1.13,10.63,19.22,1.12,9.4,18.19,1.29,3.6,1.27,3.68,-2.5,2.0,1.9,Feyenoord,FC Volendam,feyenoord,fc_volendam
+2023-04-09,N1,Netherlands-ED,2223,Feyenoord,Waalwijk,5.0,1.0,H,3.0,0.0,H,1.18,7.5,13.0,1.17,8.69,14.84,1.17,7.89,14.08,1.3,3.5,1.31,3.36,-2.25,2.05,1.85,Feyenoord,RKC Waalwijk,feyenoord,rkc_waalwijk
+2023-04-23,N1,Netherlands-ED,2223,Feyenoord,Utrecht,3.0,1.0,H,1.0,0.0,H,1.36,5.0,9.0,1.38,5.55,7.86,1.35,5.25,7.98,1.5,2.5,1.49,2.57,-1.5,2.0,1.9,Feyenoord,FC Utrecht,feyenoord,fc_utrecht
+2023-05-14,N1,Netherlands-ED,2223,Feyenoord,Go Ahead Eagles,3.0,0.0,H,2.0,0.0,H,1.18,8.0,12.0,1.18,8.31,14.93,1.17,7.78,14.1,1.33,3.4,1.33,3.24,-2.25,2.06,1.84,Feyenoord,Go Ahead Eagles,feyenoord,go_ahead_eagles
+2023-05-28,N1,Netherlands-ED,2223,Feyenoord,Vitesse,0.0,1.0,A,0.0,1.0,A,1.29,6.0,9.0,1.3,6.5,8.73,1.28,6.13,8.85,1.33,3.4,1.33,3.22,-1.75,1.99,1.91,Feyenoord,Vitesse,feyenoord,vitesse
+2023-08-13,N1,Netherlands-ED,2324,Feyenoord,For Sittard,0.0,0.0,D,0.0,0.0,D,1.17,7.5,17.0,1.17,8.25,16.82,1.15,8.2,16.29,1.33,3.4,1.31,3.36,-2.25,1.94,1.96,Feyenoord,For Sittard,feyenoord,for_sittard
+2023-08-27,N1,Netherlands-ED,2324,Feyenoord,Almere City,6.0,1.0,H,3.0,0.0,H,1.17,9.0,12.0,1.16,9.16,16.46,1.15,8.25,15.35,1.3,3.5,1.32,3.3,-2.25,1.99,1.91,Feyenoord,Almere City,feyenoord,almere_city
+2023-09-16,N1,Netherlands-ED,2324,Feyenoord,Heerenveen,6.0,1.0,H,3.0,1.0,H,1.25,6.0,13.0,1.24,6.83,12.31,1.22,6.63,11.54,1.36,3.1,1.37,3.05,-2.0,2.07,1.83,Feyenoord,SC Heerenveen,feyenoord,sc_heerenveen
+2023-09-30,N1,Netherlands-ED,2324,Feyenoord,Go Ahead Eagles,3.0,1.0,H,1.0,0.0,H,1.14,8.0,17.0,1.16,9.16,15.85,1.14,8.58,16.1,1.29,3.6,1.28,3.61,-2.25,1.89,2.01,Feyenoord,Go Ahead Eagles,feyenoord,go_ahead_eagles
+2023-10-21,N1,Netherlands-ED,2324,Feyenoord,Vitesse,4.0,0.0,H,2.0,0.0,H,1.14,8.5,15.0,1.15,9.03,17.56,1.14,8.37,17.27,1.36,3.1,1.36,3.08,-2.25,1.94,1.96,Feyenoord,Vitesse,feyenoord,vitesse
+2023-11-12,N1,Netherlands-ED,2324,Feyenoord,AZ Alkmaar,1.0,0.0,H,1.0,0.0,H,1.55,4.5,5.25,1.57,4.62,5.58,1.55,4.41,5.36,1.57,2.35,1.58,2.34,-1.0,1.93,1.97,Feyenoord,AZ Alkmaar,feyenoord,az_alkmaar
+2023-12-03,N1,Netherlands-ED,2324,Feyenoord,PSV Eindhoven,1.0,2.0,A,0.0,0.0,D,2.2,3.6,3.0,2.22,3.93,3.1,2.21,3.77,2.96,1.57,2.35,1.55,2.4,-0.25,1.97,1.93,Feyenoord,PSV Eindhoven,feyenoord,psv_eindhoven
+2023-12-07,N1,Netherlands-ED,2324,Feyenoord,Volendam,3.0,1.0,H,1.0,1.0,D,1.06,12.0,26.0,1.06,17.73,29.18,1.06,13.87,28.04,1.14,5.5,1.13,5.33,-3.25,2.01,1.89,Feyenoord,FC Volendam,feyenoord,fc_volendam
+2024-01-14,N1,Netherlands-ED,2324,Feyenoord,Nijmegen,2.0,2.0,D,2.0,1.0,H,1.17,7.5,17.0,1.15,9.41,16.2,1.14,8.28,15.92,1.33,3.4,1.33,3.24,-2.25,1.95,1.95,Feyenoord,NEC Nijmegen,feyenoord,nec_nijmegen
+2024-01-28,N1,Netherlands-ED,2324,Feyenoord,Twente,0.0,0.0,D,0.0,0.0,D,1.4,4.75,7.0,1.46,4.94,6.97,1.41,4.82,6.9,1.53,2.4,1.55,2.4,-1.25,1.92,1.98,Feyenoord,FC Twente,feyenoord,fc_twente
+2024-02-11,N1,Netherlands-ED,2324,Feyenoord,Sparta Rotterdam,2.0,0.0,H,0.0,0.0,D,1.14,8.5,17.0,1.15,8.99,17.83,1.14,8.27,17.93,1.44,2.7,1.43,2.75,-2.25,1.99,1.91,Feyenoord,Sparta Rotterdam,feyenoord,sparta_rotterdam
+2024-02-18,N1,Netherlands-ED,2324,Feyenoord,Waalwijk,1.0,0.0,H,0.0,0.0,D,1.13,10.0,17.0,1.1,12.37,22.99,1.1,9.98,20.48,1.3,3.5,1.3,3.45,-2.5,1.95,1.95,Feyenoord,RKC Waalwijk,feyenoord,rkc_waalwijk
+2024-03-10,N1,Netherlands-ED,2324,Feyenoord,Heracles,3.0,0.0,H,2.0,0.0,H,1.08,12.0,23.0,1.08,15.09,25.91,1.07,12.15,25.88,1.25,4.0,1.23,3.95,-2.75,1.89,2.01,Feyenoord,Heracles Almelo,feyenoord,heracles_almelo
+2024-03-31,N1,Netherlands-ED,2324,Feyenoord,Utrecht,4.0,2.0,H,1.0,2.0,A,1.3,6.0,8.0,1.36,5.59,8.11,1.32,5.42,8.77,1.57,2.35,1.58,2.35,-1.5,1.95,1.95,Feyenoord,FC Utrecht,feyenoord,fc_utrecht
+2024-04-07,N1,Netherlands-ED,2324,Feyenoord,Ajax,6.0,0.0,H,3.0,0.0,H,1.44,4.5,7.5,1.44,5.1,6.65,1.44,4.86,6.41,1.5,2.5,1.49,2.58,-1.25,1.95,1.95,Feyenoord,Ajax,feyenoord,ajax
+2024-05-05,N1,Netherlands-ED,2324,Feyenoord,Zwolle,5.0,0.0,H,2.0,0.0,H,1.1,10.0,21.0,1.08,14.38,23.53,1.08,10.87,22.66,1.3,3.5,1.31,3.31,-2.5,1.91,1.99,Feyenoord,PEC Zwolle,feyenoord,pec_zwolle
+2024-05-19,N1,Netherlands-ED,2324,Feyenoord,Excelsior,4.0,0.0,H,0.0,0.0,D,1.25,7.0,9.0,1.23,6.79,8.62,1.24,6.8,9.06,1.22,4.2,1.21,3.93,-2.0,2.03,1.87,Feyenoord,Excelsior,feyenoord,excelsior
+2024-08-10,N1,Netherlands-ED,2425,Feyenoord,Willem II,1.0,1.0,D,1.0,0.0,H,1.13,8.0,21.0,1.11,10.39,16.88,1.12,9.35,18.53,1.36,3.1,1.37,2.98,-2.25,1.88,2.02,Feyenoord,Willem II,feyenoord,willem_ii
+2024-09-22,N1,Netherlands-ED,2425,Feyenoord,NAC Breda,2.0,0.0,H,1.0,0.0,H,1.14,8.5,17.0,1.12,9.8,17.05,1.12,8.97,17.82,1.36,3.1,1.35,3.08,-2.25,1.9,2.0,Feyenoord,NAC Breda,feyenoord,nac_breda
+2024-10-06,N1,Netherlands-ED,2425,Feyenoord,Twente,2.0,1.0,H,2.0,0.0,H,1.6,4.33,5.25,1.6,4.24,5.17,1.61,4.25,5.01,1.65,2.2,1.63,2.26,-1.0,2.04,1.86,Feyenoord,FC Twente,feyenoord,fc_twente
+2024-10-30,N1,Netherlands-ED,2425,Feyenoord,Ajax,0.0,2.0,A,0.0,2.0,A,1.95,3.5,3.9,1.98,3.69,3.64,1.98,3.68,3.58,1.62,2.25,1.6,2.29,-0.5,2.01,1.89,Feyenoord,Ajax,feyenoord,ajax
+2024-11-02,N1,Netherlands-ED,2425,Feyenoord,AZ Alkmaar,3.0,2.0,H,0.0,1.0,A,1.67,3.8,5.25,1.65,4.0,5.04,1.66,3.87,5.03,1.7,2.1,1.72,2.1,-0.75,1.87,2.03,Feyenoord,AZ Alkmaar,feyenoord,az_alkmaar
+2024-11-23,N1,Netherlands-ED,2425,Feyenoord,Heerenveen,3.0,0.0,H,2.0,0.0,H,1.27,5.5,11.0,1.28,6.12,8.58,1.26,5.97,10.0,1.5,2.5,1.49,2.56,-1.75,1.99,1.91,Feyenoord,SC Heerenveen,feyenoord,sc_heerenveen
+2024-11-30,N1,Netherlands-ED,2425,Feyenoord,For Sittard,1.0,1.0,D,0.0,1.0,A,1.25,6.5,9.5,1.24,6.15,10.82,1.24,6.05,11.41,1.65,2.2,1.64,2.23,-1.75,2.01,1.89,Feyenoord,For Sittard,feyenoord,for_sittard
+2024-12-14,N1,Netherlands-ED,2425,Feyenoord,Heracles,5.0,2.0,H,3.0,1.0,H,1.2,6.5,15.0,1.19,7.09,12.9,1.18,6.9,13.77,1.44,2.7,1.43,2.73,-2.0,1.99,1.91,Feyenoord,Heracles Almelo,feyenoord,heracles_almelo
+2025-01-12,N1,Netherlands-ED,2425,Feyenoord,Utrecht,1.0,2.0,A,0.0,0.0,D,1.42,5.0,6.25,1.47,4.79,6.0,1.43,4.74,6.32,1.53,2.4,1.5,2.48,-1.25,1.93,1.97,Feyenoord,FC Utrecht,feyenoord,fc_utrecht
+2025-02-08,N1,Netherlands-ED,2425,Feyenoord,Sparta Rotterdam,3.0,0.0,H,1.0,0.0,H,1.4,5.0,7.0,1.41,4.94,6.9,1.4,4.89,7.07,1.57,2.35,1.57,2.33,-1.25,1.91,1.99,Feyenoord,Sparta Rotterdam,feyenoord,sparta_rotterdam
+2025-02-22,N1,Netherlands-ED,2425,Feyenoord,Almere City,2.0,1.0,H,1.0,1.0,D,1.22,6.5,13.0,1.2,7.34,11.01,1.2,6.98,11.81,1.44,2.7,1.43,2.73,-2.0,2.06,1.84,Feyenoord,Almere City,feyenoord,almere_city
+2025-03-01,N1,Netherlands-ED,2425,Feyenoord,Nijmegen,0.0,0.0,D,0.0,0.0,D,1.44,5.0,6.0,1.46,4.74,6.22,1.46,4.68,6.21,1.57,2.35,1.56,2.37,-1.25,2.06,1.84,Feyenoord,NEC Nijmegen,feyenoord,nec_nijmegen
+2025-03-30,N1,Netherlands-ED,2425,Feyenoord,Go Ahead Eagles,3.0,2.0,H,1.0,1.0,D,1.44,4.75,6.0,1.44,4.9,6.31,1.44,4.78,6.31,1.48,2.6,1.48,2.53,-1.25,2.0,1.9,Feyenoord,Go Ahead Eagles,feyenoord,go_ahead_eagles
+2025-04-02,N1,Netherlands-ED,2425,Feyenoord,Groningen,4.0,1.0,H,2.0,1.0,H,1.38,5.0,7.0,1.36,5.0,8.28,1.36,4.87,8.04,1.65,2.2,1.65,2.16,-1.25,1.86,2.04,Feyenoord,FC Groningen,feyenoord,fc_groningen
+2025-04-25,N1,Netherlands-ED,2425,Feyenoord,Zwolle,4.0,0.0,H,3.0,0.0,H,1.25,5.75,12.0,1.23,6.86,12.15,1.22,6.42,12.07,1.48,2.6,1.46,2.62,-1.75,1.88,2.02,Feyenoord,PEC Zwolle,feyenoord,pec_zwolle
+2025-05-11,N1,Netherlands-ED,2425,Feyenoord,PSV Eindhoven,2.0,3.0,A,2.0,0.0,H,2.55,3.9,2.4,2.6,3.63,2.41,2.6,3.76,2.41,1.4,2.88,1.39,2.8,0.0,2.04,1.86,Feyenoord,PSV Eindhoven,feyenoord,psv_eindhoven
+2025-05-14,N1,Netherlands-ED,2425,Feyenoord,Waalwijk,2.0,0.0,H,1.0,0.0,H,1.14,9.5,15.0,1.12,9.21,15.83,1.12,9.07,17.62,1.29,3.6,1.28,3.48,-2.5,2.03,1.78,Feyenoord,RKC Waalwijk,feyenoord,rkc_waalwijk
+2025-08-09,N1,Netherlands-ED,2526,Feyenoord,NAC Breda,2.0,0.0,H,1.0,0.0,H,1.18,8.5,11.0,1.16,7.99,13.87,1.16,7.56,13.94,1.4,2.88,1.39,2.82,-2.0,1.83,1.98,Feyenoord,NAC Breda,feyenoord,nac_breda
+2025-09-13,N1,Netherlands-ED,2526,Feyenoord,Heerenveen,1.0,0.0,H,1.0,0.0,H,1.38,5.0,7.5,1.39,5.13,7.09,1.36,5.01,7.56,1.57,2.35,1.52,2.41,-1.5,2.05,1.75,Feyenoord,SC Heerenveen,feyenoord,sc_heerenveen
+2025-09-17,N1,Netherlands-ED,2526,Feyenoord,For Sittard,2.0,0.0,H,1.0,0.0,H,1.29,5.5,10.0,1.31,5.18,10.05,1.28,5.7,9.23,1.48,2.6,1.45,2.6,-1.75,2.0,1.8,Feyenoord,For Sittard,feyenoord,for_sittard
+2025-10-05,N1,Netherlands-ED,2526,Feyenoord,Utrecht,3.0,2.0,H,1.0,0.0,H,1.48,4.5,6.0,1.46,4.57,6.53,1.46,4.56,6.26,1.62,2.25,1.59,2.25,-1.25,2.03,1.78,Feyenoord,FC Utrecht,feyenoord,fc_utrecht
+2025-10-26,N1,Netherlands-ED,2526,Feyenoord,PSV Eindhoven,2.0,3.0,A,0.0,1.0,A,2.45,3.8,2.6,2.41,3.93,2.63,2.4,3.82,2.57,1.44,2.7,1.4,2.75,0.0,1.85,1.95,Feyenoord,PSV Eindhoven,feyenoord,psv_eindhoven
+2025-11-01,N1,Netherlands-ED,2526,Feyenoord,Volendam,3.0,1.0,H,2.0,0.0,H,1.11,9.0,21.0,,,,1.1,9.64,18.63,1.25,4.0,1.23,3.87,-2.75,2.05,1.75,Feyenoord,FC Volendam,feyenoord,fc_volendam
+2025-11-23,N1,Netherlands-ED,2526,Feyenoord,Nijmegen,2.0,4.0,A,1.0,1.0,D,1.4,5.0,7.0,1.41,5.11,6.53,1.38,5.14,6.57,1.36,3.1,1.34,3.04,-1.5,2.05,1.75,Feyenoord,NEC Nijmegen,feyenoord,nec_nijmegen
+2025-12-06,N1,Netherlands-ED,2526,Feyenoord,Zwolle,6.0,1.0,H,4.0,0.0,H,1.18,8.0,13.0,1.16,8.52,12.32,1.16,7.72,13.72,1.3,3.5,1.28,3.43,-2.25,1.98,1.83,Feyenoord,PEC Zwolle,feyenoord,pec_zwolle
+2025-12-21,N1,Netherlands-ED,2526,Feyenoord,Twente,1.0,1.0,D,0.0,1.0,A,1.7,4.2,4.5,1.71,4.08,4.47,1.68,4.01,4.48,1.57,2.35,1.54,2.33,-0.75,1.85,1.95,Feyenoord,FC Twente,feyenoord,fc_twente
+2026-01-18,N1,Netherlands-ED,2526,Feyenoord,Sparta Rotterdam,3.0,4.0,A,0.0,1.0,A,1.38,4.2,6.5,,,,1.4,4.81,6.69,1.44,2.7,1.42,2.67,-1.5,2.05,1.75,Feyenoord,Sparta Rotterdam,feyenoord,sparta_rotterdam
+2026-01-25,N1,Netherlands-ED,2526,Feyenoord,Heracles,4.0,2.0,H,2.0,1.0,H,1.25,6.0,11.0,,,,1.23,6.27,9.8,1.33,3.4,1.32,3.15,-1.75,1.8,2.0,Feyenoord,Heracles Almelo,feyenoord,heracles_almelo
+2026-02-15,N1,Netherlands-ED,2526,Feyenoord,Go Ahead Eagles,1.0,0.0,H,0.0,0.0,D,1.4,5.0,7.0,,,,1.37,4.99,6.89,1.44,2.7,1.43,2.64,-1.5,2.03,1.78,Feyenoord,Go Ahead Eagles,feyenoord,go_ahead_eagles
+2026-02-22,N1,Netherlands-ED,2526,Feyenoord,Telstar,2.0,1.0,H,2.0,1.0,H,1.25,5.75,11.0,,,,1.23,5.98,10.33,1.44,2.7,1.39,2.79,-1.75,1.88,1.93,Feyenoord,Telstar,feyenoord,telstar
+2026-03-15,N1,Netherlands-ED,2526,Feyenoord,Excelsior,2.0,1.0,H,0.0,1.0,A,1.3,6.0,8.0,,,,1.29,5.59,8.61,1.4,2.88,1.4,2.75,-1.5,1.8,2.0,Feyenoord,Excelsior,feyenoord,excelsior
+2026-03-22,N1,Netherlands-ED,2526,Feyenoord,Ajax,1.0,1.0,D,0.0,0.0,D,2.05,3.8,3.3,,,,2.01,3.79,3.17,1.5,2.5,1.48,2.5,-0.25,1.78,2.03,Feyenoord,Ajax,feyenoord,ajax
+2026-04-25,N1,Netherlands-ED,2526,Feyenoord,Groningen,3.0,1.0,H,2.0,0.0,H,1.62,4.5,4.33,,,,1.6,4.22,4.63,1.48,2.6,1.48,2.49,-1.0,2.0,1.8,Feyenoord,FC Groningen,feyenoord,fc_groningen
+2026-05-10,N1,Netherlands-ED,2526,Feyenoord,AZ Alkmaar,1.0,1.0,D,0.0,1.0,A,1.83,4.0,3.9,,,,1.79,4.01,3.7,1.4,2.88,1.38,2.84,-0.5,1.8,2.0,Feyenoord,AZ Alkmaar,feyenoord,az_alkmaar
+2026-08-16,N1,Netherlands-ED,2627,Feyenoord,Go Ahead Eagles,2.0,2.0,D,2.0,0.0,H,1.36,5.5,7.5,,,,1.35,5.31,6.72,1.36,3.1,1.33,3.14,-1.5,1.95,1.85,Feyenoord,Go Ahead Eagles,feyenoord,go_ahead_eagles
+2026-08-30,N1,Netherlands-ED,2627,Feyenoord,Den Haag,2.0,2.0,D,0.0,1.0,A,1.17,8.0,15.0,,,,1.15,7.8,13.58,1.29,3.6,1.27,3.52,-2.25,1.9,1.9,Feyenoord,Den Haag,feyenoord,den_haag
+2026-09-20,N1,Netherlands-ED,2627,Feyenoord,Utrecht,5.0,0.0,H,3.0,0.0,H,1.29,5.75,9.5,,,,1.25,5.9,8.88,1.33,3.4,1.3,3.33,-1.75,1.9,1.9,Feyenoord,FC Utrecht,feyenoord,fc_utrecht
+2026-10-10,N1,Netherlands-ED,2627,Feyenoord,AZ Alkmaar,2.0,0.0,H,1.0,0.0,H,1.8,4.2,3.75,,,,1.8,3.96,3.76,1.4,2.88,1.39,2.82,-0.5,1.78,2.03,Feyenoord,AZ Alkmaar,feyenoord,az_alkmaar

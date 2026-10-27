@@ -1,0 +1,74 @@
+match_id,date,home_team,away_team,league_name,data_status,notes,warning_insufficient_history,p_H,p_D,p_A,pred_1x2,p_over25,p_under25,pred_ou25,p_home_over05,pred_home_ou05,p_home_over15,pred_home_ou15,p_away_over05,pred_away_ou05,p_away_over15,pred_away_ou15,odds_home,odds_draw,odds_away,implied_H,implied_D,implied_A,value_1x2_H,value_1x2_D,value_1x2_A,odds_over25,odds_under25,implied_over25,implied_under25,value_ou25_over,value_ou25_under,used_odds_input
+,2026-10-27,AS Roma,Cagliari Calcio,Italy-SA,UNKNOWN_TEAM,away_team 'Cagliari Calcio' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-27,Torino FC,Como 1907,Italy-SA,UNKNOWN_TEAM,home_team 'Torino FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-27,US Sassuolo Calcio,Lazio,Italy-SA,UNKNOWN_TEAM,home_team 'US Sassuolo Calcio' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-28,AC Milan,Bologna FC 1909,Italy-SA,UNKNOWN_TEAM,away_team 'Bologna FC 1909' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-28,AC Monza,Napoli,Italy-SA,UNKNOWN_TEAM,home_team 'AC Monza' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-28,Fluminense FC,SC Internacional,Belgium-JPL,UNKNOWN_TEAM,home_team 'Fluminense FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-28,Genoa CFC,Juventus FC,Italy-SA,UNKNOWN_TEAM,home_team 'Genoa CFC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-28,Parma Calcio 1913,Udinese Calcio,Italy-SA,UNKNOWN_TEAM,home_team 'Parma Calcio 1913' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+b9bb4b6bffbd,2026-10-28,Venezia FC,Inter Milan,Italy-SA,OK,,False,0.3586318154707632,0.08228329702667417,0.5590848875025627,A,0.7091894326720254,0.2908105673279746,Over,0.5057077503194939,Over,0.326335874410689,Under,0.6589036158729312,Over,0.5349269391110749,Over,,,,,,,,,,,,,,,,none
+5b0578c8a338,2026-10-29,Fiorentina,Atalanta BC,Italy-SA,OK,,False,0.37305098527343294,0.09798214100222755,0.5289668737243396,A,0.7539391680674007,0.2460608319325993,Over,0.7589463334444323,Over,0.3843020681120409,Under,0.6031338527709622,Over,0.5816877151654657,Over,,,,,,,,,,,,,,,,none
+,2026-10-29,Frosinone Calcio,US Lecce,Italy-SA,UNKNOWN_TEAM,home_team 'Frosinone Calcio' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-30,Lille OSC,Racing Club de Lens,France-L1,UNKNOWN_TEAM,home_team 'Lille OSC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-30,SC Corinthians Paulista,Mirassol FC,Belgium-JPL,UNKNOWN_TEAM,home_team 'SC Corinthians Paulista' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-30,SV 07 Elversberg,1. FSV Mainz 05,Germany-BL1,UNKNOWN_TEAM,home_team 'SV 07 Elversberg' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-30,Sheffield United FC,Wrexham AFC,England-Champ,UNKNOWN_TEAM,away_team 'Wrexham AFC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+bbb842a94f35,2026-10-31,AC Milan,Inter Milan,Italy-SA,OK,,False,0.42309566299883583,0.09171896994013622,0.48518536706102794,A,0.7035429102671863,0.2964570897328137,Over,0.6986490170969484,Over,0.4988263055043219,Under,0.6760782496633515,Over,0.5605611941280148,Over,,,,,,,,,,,,,,,,none
+2fa28c1799e6,2026-10-31,Ajax,AZ Alkmaar,Netherlands-ED,OK,,False,0.4086877716685102,0.10995335846971341,0.4813588698617764,A,0.7070122655958513,0.2929877344041487,Over,0.7388594936328654,Over,0.498070576760821,Under,0.676869987848854,Over,0.569671163473244,Over,,,,,,,,,,,,,,,,none
+,2026-10-31,Aston Villa FC,Fulham FC,England-PL,UNKNOWN_TEAM,away_team 'Fulham FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Barcelona,Deportivo Alavés,Spain-LaLiga,UNKNOWN_TEAM,away_team 'Deportivo Alavés' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+edd82bf7e598,2026-10-31,Bayern Munich,Borussia Dortmund,Germany-BL1,OK,,False,0.40905911427260755,0.1241164226976563,0.4668244630297362,A,0.6950048720084746,0.3049951279915254,Over,0.7181213137235734,Over,0.5519013615159664,Over,0.6914074733569671,Over,0.5162503768839506,Over,,,,,,,,,,,,,,,,none
+,2026-10-31,Bologna FC 1909,AC Monza,Italy-SA,UNKNOWN_TEAM,home_team 'Bologna FC 1909' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Bolton Wanderers FC,Bristol City FC,England-Champ,UNKNOWN_TEAM,home_team 'Bolton Wanderers FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Borussia Mönchengladbach,SC Paderborn 07,Germany-BL1,UNKNOWN_TEAM,away_team 'SC Paderborn 07' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Coventry City FC,Sunderland AFC,England-PL,UNKNOWN_TEAM,home_team 'Coventry City FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,ES Troyes AC,Le Mans FC,France-L1,UNKNOWN_TEAM,home_team 'ES Troyes AC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+9b4424c1e1d3,2026-10-31,FC Augsburg,SC Freiburg,Germany-BL1,OK,,False,0.3041536632807052,0.129528076703624,0.5663182600156709,A,0.7267002922384554,0.27329970776154455,Over,0.7744635877474496,Over,0.45055079342213583,Under,0.6753336033073487,Over,0.5980271233884682,Over,,,,,,,,,,,,,,,,none
+05773366ee74,2026-10-31,FC Porto,Estoril,Portugal-Liga1,OK,,False,0.39919951758895234,0.10206469104417101,0.49873579136687674,A,0.7285616250976197,0.2714383749023803,Over,0.706847069020153,Over,0.6100892315630718,Over,0.6083983490704636,Over,0.5006244187170686,Over,,,,,,,,,,,,,,,,none
+22b6dd7810e0,2026-10-31,FC Schalke 04,RB Leipzig,Germany-BL1,OK,,False,0.3729752582265161,0.07878285409420044,0.5482418876792834,A,0.6937671526987781,0.3062328473012219,Over,0.6034504019409821,Over,0.4234206418634091,Under,0.6382712735277356,Over,0.5571263601484309,Over,,,,,,,,,,,,,,,,none
+,2026-10-31,Feyenoord,Fortuna Sittard,Netherlands-ED,UNKNOWN_TEAM,away_team 'Fortuna Sittard' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Lincoln City FC,Birmingham City FC,England-Champ,UNKNOWN_TEAM,away_team 'Birmingham City FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Middlesbrough FC,Charlton Athletic FC,England-Champ,UNKNOWN_TEAM,away_team 'Charlton Athletic FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Millwall FC,Derby County FC,England-Champ,UNKNOWN_TEAM,away_team 'Derby County FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+7785d7bb85e0,2026-10-31,OGC Nice,Stade Rennais,France-L1,OK,,False,0.38802741518814443,0.0873884784174815,0.524584106394374,A,0.7407843158843319,0.2592156841156681,Over,0.6202574831374443,Over,0.43586741166222953,Under,0.629365086021215,Over,0.557809412704154,Over,,,,,,,,,,,,,,,,none
+,2026-10-31,Olympique Lyonnais,Angers SCO,France-L1,UNKNOWN_TEAM,away_team 'Angers SCO' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,PSV Eindhoven,Willem II Tilburg,Netherlands-ED,UNKNOWN_TEAM,away_team 'Willem II Tilburg' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Rayo Vallecano de Madrid,Celta Vigo,Spain-LaLiga,UNKNOWN_TEAM,home_team 'Rayo Vallecano de Madrid' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Real Betis,Málaga CF,Spain-LaLiga,UNKNOWN_TEAM,away_team 'Málaga CF' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,SC Cambuur-Leeuwarden,Go Ahead Eagles,Netherlands-ED,UNKNOWN_TEAM,home_team 'SC Cambuur-Leeuwarden' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+8a5d1fd3bd38,2026-10-31,SC Heerenveen,NEC Nijmegen,Netherlands-ED,OK,,False,0.38776641603681655,0.10199492042465255,0.5102386635385309,A,0.7507321296220767,0.2492678703779233,Over,0.6979956829692118,Over,0.44504615533636704,Under,0.5582654040718427,Over,0.4980937436639161,Under,,,,,,,,,,,,,,,,none
+,2026-10-31,Stoke City FC,Preston North End FC,England-Champ,UNKNOWN_TEAM,away_team 'Preston North End FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Swansea City AFC,Blackburn Rovers FC,England-Champ,UNKNOWN_TEAM,away_team 'Blackburn Rovers FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Udinese Calcio,AS Roma,Italy-SA,UNKNOWN_TEAM,home_team 'Udinese Calcio' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-10-31,Wolverhampton Wanderers FC,Cardiff City FC,England-Champ,UNKNOWN_TEAM,home_team 'Wolverhampton Wanderers FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-01,Académico de Viseu FC,Rio Ave FC,Portugal-Liga1,UNKNOWN_TEAM,home_team 'Académico de Viseu FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-01,Athletic Bilbao,Real Sociedad de Fútbol,Spain-LaLiga,UNKNOWN_TEAM,away_team 'Real Sociedad de Fútbol' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-01,CS Marítimo,CD Santa Clara,Portugal-Liga1,UNKNOWN_TEAM,home_team 'CS Marítimo' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-01,Como 1907,Venezia FC,Italy-SA,UNKNOWN_TEAM,home_team 'Como 1907' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+309d0a107b40,2026-11-01,Eintracht Frankfurt,Hamburger SV,Germany-BL1,OK,,False,0.36602099893169154,0.08284429757024694,0.5511347034980615,A,0.7171035759311435,0.2828964240688565,Over,0.624717523979745,Over,0.36015917190137053,Under,0.6847416380431167,Over,0.5420986425822696,Over,,,,,,,,,,,,,,,,none
+,2026-11-01,Elche CF,Valencia CF,Spain-LaLiga,UNKNOWN_TEAM,home_team 'Elche CF' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-01,FC Arouca,CD Nacional,Portugal-Liga1,UNKNOWN_TEAM,home_team 'FC Arouca' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+71bdaeecff75,2026-11-01,FC Groningen,Sparta Rotterdam,Netherlands-ED,OK,,False,0.44998303572958576,0.10330393839988157,0.4467130258705327,H,0.7489127708862657,0.25108722911373427,Over,0.7285680848876142,Over,0.532493290302221,Over,0.602482662846389,Over,0.5062084200306378,Over,,,,,,,,,,,,,,,,none
+,2026-11-01,Frosinone Calcio,Torino FC,Italy-SA,UNKNOWN_TEAM,home_team 'Frosinone Calcio' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-01,Getafe CF,Sevilla FC,Spain-LaLiga,UNKNOWN_TEAM,home_team 'Getafe CF' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+abf7757916f3,2026-11-01,Juventus FC,Napoli,Italy-SA,OK,,False,0.3495925968910722,0.09229254910353105,0.5581148540053968,A,0.7506892561736891,0.2493107438263109,Over,0.7105321941434039,Over,0.4333903690293515,Under,0.6280604981195671,Over,0.5567267343371346,Over,,,,,,,,,,,,,,,,none
+,2026-11-01,Lazio,Cagliari Calcio,Italy-SA,UNKNOWN_TEAM,away_team 'Cagliari Calcio' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-01,PEC Zwolle,ADO Den Haag,Netherlands-ED,UNKNOWN_TEAM,away_team 'ADO Den Haag' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+9c7df74986b7,2026-11-01,Paris FC,AS Monaco,France-L1,OK,,False,0.4159422248535787,0.09870094940242832,0.4853568257439929,A,0.7348981893232424,0.26510181067675764,Over,0.6934451403277645,Over,0.4891787045509004,Under,0.6232455448800477,Over,0.5422426596662394,Over,,,,,,,,,,,,,,,,none
+,2026-11-01,RC Strasbourg Alsace,AJ Auxerre,France-L1,UNKNOWN_TEAM,home_team 'RC Strasbourg Alsace' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-01,Real Racing Club de Santander,Real Madrid CF,Spain-LaLiga,UNKNOWN_TEAM,home_team 'Real Racing Club de Santander' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+54d4eccfd089,2026-11-01,SBV Excelsior,FC Twente '65,Netherlands-ED,OK,,False,0.3254339308363536,0.10549968340461481,0.5690663857590317,A,0.73945482254041,0.26054517745959005,Over,0.7610882661852992,Over,0.3754852534816108,Under,0.6638190690761439,Over,0.564850240279402,Over,,,,,,,,,,,,,,,,none
+8c86e7fc02fa,2026-11-01,Sp Braga,Famalicao,Portugal-Liga1,OK,,False,0.37456591271665307,0.08430324368087032,0.5411308436024767,A,0.7413787198803903,0.2586212801196097,Over,0.6746707516478595,Over,0.4327686410577697,Under,0.6102513434839981,Over,0.5409689407412963,Over,,,,,,,,,,,,,,,,none
+,2026-11-01,Telstar 1963,FC Utrecht,Netherlands-ED,UNKNOWN_TEAM,home_team 'Telstar 1963' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-01,US Lecce,Genoa CFC,Italy-SA,UNKNOWN_TEAM,home_team 'US Lecce' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+6d3a6581177e,2026-11-01,Union Berlin,FC Koln,Germany-BL1,OK,,False,0.35972867931211766,0.09748713734176083,0.5427841833461216,A,0.7501621430633972,0.24983785693660276,Over,0.6775543474340988,Over,0.3899153622331184,Under,0.6414697795388173,Over,0.5186468923030252,Over,,,,,,,,,,,,,,,,none
+,2026-11-02,Atalanta BC,Parma Calcio 1913,Italy-SA,UNKNOWN_TEAM,away_team 'Parma Calcio 1913' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+82ecf65c24f4,2026-11-02,Benfica,Alverca,Portugal-Liga1,OK,,False,0.5074583989296148,0.10224914083586435,0.3902924602345209,H,0.7254150634087079,0.27458493659129213,Over,0.6818713077142737,Over,0.6060230268273964,Over,0.5704836361729825,Over,0.5172608201130755,Over,,,,,,,,,,,,,,,,none
+,2026-11-02,RC Deportivo La Coruña,CA Osasuna,Spain-LaLiga,UNKNOWN_TEAM,home_team 'RC Deportivo La Coruña' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-02,US Sassuolo Calcio,Fiorentina,Italy-SA,UNKNOWN_TEAM,home_team 'US Sassuolo Calcio' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-03,Birmingham City FC,Millwall FC,England-Champ,UNKNOWN_TEAM,home_team 'Birmingham City FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-03,Blackburn Rovers FC,Stoke City FC,England-Champ,UNKNOWN_TEAM,home_team 'Blackburn Rovers FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-03,Charlton Athletic FC,Bolton Wanderers FC,England-Champ,UNKNOWN_TEAM,home_team 'Charlton Athletic FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-03,Derby County FC,Norwich City FC,England-Champ,UNKNOWN_TEAM,home_team 'Derby County FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none
+,2026-11-03,Preston North End FC,Sheffield United FC,England-Champ,UNKNOWN_TEAM,home_team 'Preston North End FC' tidak resolve,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none

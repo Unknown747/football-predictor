@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-09-12,I1,Italy-SA,2122,Spezia,Udinese,0.0,1.0,A,0.0,0.0,D,3.2,3.4,2.3,3.23,3.59,2.3,3.12,3.45,2.31,1.9,1.9,1.91,1.91,0.25,1.93,2.0,Spezia,Udinese,spezia,udinese
+2021-09-23,I1,Italy-SA,2122,Roma,Udinese,1.0,0.0,H,1.0,0.0,H,1.55,4.2,5.5,1.55,4.53,6.37,1.54,4.36,6.05,1.66,2.2,1.63,2.31,-1.0,1.91,1.99,AS Roma,Udinese,as_roma,udinese
+2021-10-03,I1,Italy-SA,2122,Sampdoria,Udinese,3.0,3.0,D,1.0,2.0,A,2.1,3.5,3.5,2.22,3.37,3.62,2.18,3.36,3.49,1.9,1.9,1.87,1.95,-0.25,1.87,2.06,Sampdoria,Udinese,sampdoria,udinese
+2021-10-24,I1,Italy-SA,2122,Atalanta,Udinese,1.0,1.0,D,0.0,0.0,D,1.4,5.0,7.5,1.4,5.24,8.48,1.4,4.99,7.57,1.53,2.5,1.54,2.48,-1.25,1.9,2.03,Atalanta,Udinese,atalanta,udinese
+2021-10-31,I1,Italy-SA,2122,Inter,Udinese,2.0,0.0,H,0.0,0.0,D,1.36,5.0,8.5,1.35,5.29,10.46,1.34,5.06,9.38,1.57,2.37,1.6,2.34,-1.5,2.04,1.89,Inter Milan,Udinese,inter_milan,udinese
+2021-11-22,I1,Italy-SA,2122,Torino,Udinese,2.0,1.0,H,1.0,0.0,H,2.05,3.4,3.7,2.11,3.45,3.88,2.09,3.32,3.74,2.2,1.66,2.16,1.7,-0.25,1.75,2.05,Torino,Udinese,torino,udinese
+2021-12-02,I1,Italy-SA,2122,Lazio,Udinese,4.0,4.0,D,1.0,3.0,A,1.66,3.8,5.25,1.7,4.06,5.28,1.67,3.96,5.05,1.72,2.1,1.76,2.08,-0.75,1.89,2.04,Lazio,Udinese,lazio,udinese
+2021-12-06,I1,Italy-SA,2122,Empoli,Udinese,3.0,1.0,H,0.0,1.0,A,2.6,3.25,2.8,2.67,3.45,2.79,2.59,3.39,2.72,1.88,2.02,1.87,1.95,0.0,1.9,2.03,Empoli,Udinese,empoli,udinese
+2021-12-18,I1,Italy-SA,2122,Cagliari,Udinese,0.0,4.0,A,0.0,2.0,A,3.0,3.25,2.4,3.14,3.24,2.53,3.01,3.3,2.45,1.98,1.92,1.95,1.87,0.25,1.81,2.13,Cagliari,Udinese,cagliari,udinese
+2022-01-15,I1,Italy-SA,2122,Juventus,Udinese,2.0,0.0,H,1.0,0.0,H,1.4,4.75,7.5,1.39,4.71,9.26,1.39,4.71,8.94,1.92,1.98,1.87,1.95,-1.25,1.97,1.93,Juventus,Udinese,juventus,udinese
+2022-01-22,I1,Italy-SA,2122,Genoa,Udinese,0.0,0.0,D,0.0,0.0,D,3.5,3.3,2.15,3.5,3.33,2.24,3.42,3.32,2.21,2.1,1.72,2.1,1.75,0.25,2.0,1.9,Genoa,Udinese,genoa,udinese
+2022-02-13,I1,Italy-SA,2122,Verona,Udinese,4.0,0.0,H,2.0,0.0,H,1.83,3.6,4.2,1.91,3.61,4.48,1.88,3.57,4.29,1.97,1.93,1.93,1.89,-0.5,1.89,2.04,Hellas Verona,Udinese,hellas_verona,udinese
+2022-02-25,I1,Italy-SA,2122,Milan,Udinese,1.0,1.0,D,1.0,0.0,H,1.5,4.0,7.0,1.49,4.36,8.03,1.5,4.26,7.19,1.94,1.96,1.9,1.93,-1.0,1.82,2.08,AC Milan,Udinese,ac_milan,udinese
+2022-03-19,I1,Italy-SA,2122,Napoli,Udinese,2.0,1.0,H,0.0,1.0,A,1.44,4.5,7.0,1.47,4.68,7.6,1.47,4.49,7.1,1.8,2.0,1.8,2.03,-1.25,2.02,1.77,Napoli,Udinese,napoli,udinese
+2022-04-10,I1,Italy-SA,2122,Venezia,Udinese,1.0,2.0,A,0.0,1.0,A,3.5,3.3,2.15,3.6,3.4,2.22,3.48,3.37,2.19,2.1,1.72,2.05,1.78,0.25,2.01,1.89,Venezia,Udinese,venezia,udinese
+2022-04-24,I1,Italy-SA,2122,Bologna,Udinese,2.0,2.0,D,1.0,1.0,D,2.8,3.25,2.6,2.99,3.35,2.57,2.87,3.33,2.54,1.98,1.92,1.94,1.88,0.0,2.07,1.83,Bologna,Udinese,bologna,udinese
+2022-04-27,I1,Italy-SA,2122,Fiorentina,Udinese,0.0,4.0,A,0.0,2.0,A,1.7,4.0,4.75,1.72,4.12,4.97,1.71,3.97,4.84,1.72,2.1,1.77,2.07,-0.75,1.91,1.99,Fiorentina,Udinese,fiorentina,udinese
+2022-05-07,I1,Italy-SA,2122,Sassuolo,Udinese,1.0,1.0,D,1.0,0.0,H,2.3,3.6,2.87,2.38,3.83,2.94,2.35,3.74,2.87,1.5,2.62,1.47,2.67,-0.25,2.07,1.83,Sassuolo,Udinese,sassuolo,udinese
+2022-05-22,I1,Italy-SA,2122,Salernitana,Udinese,0.0,4.0,A,0.0,3.0,A,1.7,4.0,4.75,1.69,4.34,4.79,1.7,4.17,4.6,1.61,2.3,1.61,2.34,-0.75,1.93,1.97,Salernitana,Udinese,salernitana,udinese
+2022-08-13,I1,Italy-SA,2223,Milan,Udinese,4.0,2.0,H,2.0,2.0,D,1.44,4.75,7.0,1.43,4.66,8.84,1.41,4.75,8.14,1.72,2.1,1.73,2.14,-1.25,1.94,1.96,AC Milan,Udinese,ac_milan,udinese
+2022-08-26,I1,Italy-SA,2223,Monza,Udinese,1.0,2.0,A,1.0,1.0,D,3.1,3.4,2.3,3.28,3.45,2.34,3.15,3.43,2.3,1.88,2.02,1.86,1.97,0.25,1.91,1.99,Monza,Udinese,monza,udinese
+2022-09-11,I1,Italy-SA,2223,Sassuolo,Udinese,1.0,3.0,A,1.0,0.0,H,2.7,3.5,2.55,2.73,3.59,2.65,2.69,3.51,2.58,1.66,2.2,1.67,2.21,0.0,2.0,1.9,Sassuolo,Udinese,sassuolo,udinese
+2022-10-03,I1,Italy-SA,2223,Verona,Udinese,1.0,2.0,A,1.0,0.0,H,3.25,3.4,2.2,3.26,3.59,2.29,3.1,3.51,2.27,1.8,2.0,1.81,2.01,0.25,1.95,1.95,Hellas Verona,Udinese,hellas_verona,udinese
+2022-10-16,I1,Italy-SA,2223,Lazio,Udinese,0.0,0.0,D,0.0,0.0,D,2.2,3.5,3.25,2.19,3.72,3.36,2.19,3.61,3.23,1.66,2.2,1.68,2.21,-0.25,1.89,2.01,Lazio,Udinese,lazio,udinese
+2022-10-30,I1,Italy-SA,2223,Cremonese,Udinese,0.0,0.0,D,0.0,0.0,D,4.0,3.8,1.85,4.27,3.81,1.9,4.01,3.76,1.87,1.72,2.1,1.73,2.1,0.5,2.01,1.89,Cremonese,Udinese,cremonese,udinese
+2022-11-08,I1,Italy-SA,2223,Spezia,Udinese,1.0,1.0,D,1.0,1.0,D,4.0,3.5,1.9,4.13,3.6,1.99,4.01,3.56,1.94,1.99,1.91,1.93,1.89,0.5,1.92,1.98,Spezia,Udinese,spezia,udinese
+2022-11-12,I1,Italy-SA,2223,Napoli,Udinese,3.0,2.0,H,2.0,0.0,H,1.5,4.75,5.75,1.49,4.86,6.78,1.48,4.7,6.23,1.57,2.37,1.57,2.41,-1.25,2.07,1.83,Napoli,Udinese,napoli,udinese
+2023-01-07,I1,Italy-SA,2223,Juventus,Udinese,1.0,0.0,H,0.0,0.0,D,1.75,3.8,4.5,1.78,3.84,4.99,1.78,3.75,4.66,2.01,1.89,1.95,1.88,-0.75,2.01,1.89,Juventus,Udinese,juventus,udinese
+2023-01-22,I1,Italy-SA,2223,Sampdoria,Udinese,0.0,1.0,A,0.0,0.0,D,3.6,3.25,2.15,3.74,3.4,2.17,3.58,3.33,2.15,2.1,1.73,2.15,1.72,0.25,2.04,1.86,Sampdoria,Udinese,sampdoria,udinese
+2023-02-05,I1,Italy-SA,2223,Torino,Udinese,1.0,0.0,H,0.0,0.0,D,2.25,3.25,3.3,2.39,3.14,3.51,2.32,3.18,3.34,2.2,1.67,2.18,1.7,-0.25,2.01,1.92,Torino,Udinese,torino,udinese
+2023-02-18,I1,Italy-SA,2223,Inter,Udinese,3.0,1.0,H,1.0,1.0,D,1.53,4.2,6.0,1.54,4.49,6.46,1.52,4.38,6.3,1.73,2.1,1.76,2.1,-1.0,1.89,2.01,Inter Milan,Udinese,inter_milan,udinese
+2023-03-04,I1,Italy-SA,2223,Atalanta,Udinese,0.0,0.0,D,0.0,0.0,D,1.62,4.0,5.5,1.68,4.16,5.12,1.66,4.08,5.01,1.73,2.1,1.75,2.1,-0.75,1.85,2.05,Atalanta,Udinese,atalanta,udinese
+2023-03-11,I1,Italy-SA,2223,Empoli,Udinese,0.0,1.0,A,0.0,0.0,D,3.0,3.25,2.4,3.13,3.28,2.48,3.02,3.27,2.45,2.03,1.9,1.97,1.85,0.25,1.81,2.13,Empoli,Udinese,empoli,udinese
+2023-04-02,I1,Italy-SA,2223,Bologna,Udinese,3.0,0.0,H,2.0,0.0,H,2.2,3.3,3.4,2.29,3.41,3.35,2.27,3.33,3.28,2.0,1.8,2.09,1.76,-0.25,1.96,1.94,Bologna,Udinese,bologna,udinese
+2023-04-16,I1,Italy-SA,2223,Roma,Udinese,3.0,0.0,H,1.0,0.0,H,1.85,3.4,4.5,1.91,3.37,4.77,1.88,3.36,4.56,2.3,1.62,2.29,1.63,-0.5,1.89,2.01,AS Roma,Udinese,as_roma,udinese
+2023-04-28,I1,Italy-SA,2223,Lecce,Udinese,1.0,0.0,H,0.0,0.0,D,2.45,3.0,3.2,2.52,3.13,3.27,2.49,3.08,3.16,2.5,1.53,2.43,1.57,-0.25,2.1,1.8,Lecce,Udinese,lecce,udinese
+2023-05-14,I1,Italy-SA,2223,Fiorentina,Udinese,2.0,0.0,H,1.0,0.0,H,1.95,3.6,3.8,2.05,3.64,3.77,1.99,3.57,3.78,1.92,1.98,1.87,1.95,-0.5,2.0,1.9,Fiorentina,Udinese,fiorentina,udinese
+2023-05-27,I1,Italy-SA,2223,Salernitana,Udinese,3.0,2.0,H,1.0,2.0,A,2.7,3.5,2.55,2.78,3.55,2.59,2.72,3.46,2.54,1.84,2.06,1.82,2.01,0.0,2.01,1.89,Salernitana,Udinese,salernitana,udinese
+2023-08-28,I1,Italy-SA,2324,Salernitana,Udinese,1.0,1.0,D,0.0,0.0,D,2.7,3.2,2.63,2.8,3.34,2.69,2.75,3.32,2.62,2.03,1.87,2.01,1.82,0.0,2.0,1.9,Salernitana,Udinese,salernitana,udinese
+2023-09-17,I1,Italy-SA,2324,Cagliari,Udinese,0.0,0.0,D,0.0,0.0,D,2.88,3.3,2.5,2.9,3.27,2.65,2.88,3.26,2.55,2.1,1.73,2.1,1.75,0.0,2.06,1.84,Cagliari,Udinese,cagliari,udinese
+2023-09-27,I1,Italy-SA,2324,Napoli,Udinese,4.0,1.0,H,2.0,0.0,H,1.36,5.0,8.5,1.39,5.16,8.46,1.38,5.08,8.39,1.67,2.2,1.67,2.24,-1.25,1.86,2.04,Napoli,Udinese,napoli,udinese
+2023-10-06,I1,Italy-SA,2324,Empoli,Udinese,0.0,0.0,D,0.0,0.0,D,3.1,3.25,2.38,3.24,3.31,2.43,3.12,3.34,2.38,2.0,1.9,1.97,1.87,0.25,1.85,2.05,Empoli,Udinese,empoli,udinese
+2023-10-29,I1,Italy-SA,2324,Monza,Udinese,1.0,1.0,D,1.0,0.0,H,2.0,3.6,3.6,2.14,3.54,3.58,2.1,3.52,3.54,1.92,1.98,1.88,1.94,-0.25,1.75,2.05,Monza,Udinese,monza,udinese
+2023-11-04,I1,Italy-SA,2324,Milan,Udinese,0.0,1.0,A,0.0,0.0,D,1.45,4.5,7.0,1.46,4.66,7.3,1.46,4.56,7.22,1.75,2.05,1.78,2.06,-1.25,2.07,1.86,AC Milan,Udinese,ac_milan,udinese
+2023-11-26,I1,Italy-SA,2324,Roma,Udinese,3.0,1.0,H,1.0,0.0,H,1.62,3.8,5.75,1.63,3.89,5.99,1.64,3.88,5.76,2.05,1.75,2.06,1.78,-0.75,1.83,2.1,AS Roma,Udinese,as_roma,udinese
+2023-12-09,I1,Italy-SA,2324,Inter,Udinese,4.0,0.0,H,3.0,0.0,H,1.29,6.5,9.0,1.27,6.14,10.46,1.27,6.04,10.9,1.57,2.35,1.59,2.37,-1.75,2.03,1.78,Inter Milan,Udinese,inter_milan,udinese
+2023-12-23,I1,Italy-SA,2324,Torino,Udinese,1.0,1.0,D,0.0,0.0,D,1.75,3.5,5.0,1.78,3.57,5.16,1.78,3.52,5.01,2.25,1.62,2.24,1.65,-0.75,2.04,1.86,Torino,Udinese,torino,udinese
+2024-01-14,I1,Italy-SA,2324,Fiorentina,Udinese,2.0,2.0,D,0.0,1.0,A,1.67,3.75,5.5,1.67,3.89,5.57,1.67,3.85,5.36,2.06,1.84,2.01,1.82,-0.75,1.88,2.02,Fiorentina,Udinese,fiorentina,udinese
+2024-01-27,I1,Italy-SA,2324,Atalanta,Udinese,2.0,0.0,H,2.0,0.0,H,1.5,4.5,6.0,1.51,4.52,6.55,1.5,4.45,6.44,1.73,2.08,1.75,2.1,-1.0,1.85,2.05,Atalanta,Udinese,atalanta,udinese
+2024-02-12,I1,Italy-SA,2324,Juventus,Udinese,0.0,1.0,A,0.0,1.0,A,1.44,4.5,8.0,1.43,4.54,8.56,1.42,4.51,8.25,2.04,1.86,1.99,1.83,-1.25,2.05,1.88,Juventus,Udinese,juventus,udinese
+2024-02-24,I1,Italy-SA,2324,Genoa,Udinese,2.0,0.0,H,2.0,0.0,H,2.25,3.0,3.6,2.38,2.92,3.69,2.31,3.0,3.57,2.6,1.48,2.57,1.51,-0.25,1.95,1.95,Genoa,Udinese,genoa,udinese
+2024-03-11,I1,Italy-SA,2324,Lazio,Udinese,1.0,2.0,A,0.0,0.0,D,1.91,3.5,4.0,1.95,3.38,4.42,1.94,3.4,4.19,2.15,1.67,2.2,1.68,-0.5,1.94,1.99,Lazio,Udinese,lazio,udinese
+2024-04-01,I1,Italy-SA,2324,Sassuolo,Udinese,1.0,1.0,D,1.0,1.0,D,2.75,3.25,2.6,2.93,3.24,2.61,2.87,3.27,2.54,2.07,1.83,2.03,1.8,0.0,2.07,1.83,Sassuolo,Udinese,sassuolo,udinese
+2024-04-20,I1,Italy-SA,2324,Verona,Udinese,1.0,0.0,H,0.0,0.0,D,2.55,3.1,3.0,2.63,3.05,3.08,2.58,3.13,2.97,2.2,1.67,2.22,1.66,0.0,1.81,2.09,Hellas Verona,Udinese,hellas_verona,udinese
+2024-04-28,I1,Italy-SA,2324,Bologna,Udinese,1.0,1.0,D,0.0,1.0,A,1.6,3.8,6.0,1.62,3.85,6.27,1.61,3.83,5.95,2.1,1.73,2.09,1.75,-0.75,1.75,2.05,Bologna,Udinese,bologna,udinese
+2024-05-13,I1,Italy-SA,2324,Lecce,Udinese,0.0,2.0,A,0.0,1.0,A,2.63,3.1,2.8,2.65,2.93,2.93,2.64,3.08,2.89,2.3,1.62,2.29,1.63,0.0,1.86,2.04,Lecce,Udinese,lecce,udinese
+2024-05-26,I1,Italy-SA,2324,Frosinone,Udinese,0.0,1.0,A,0.0,0.0,D,2.38,3.25,3.0,2.46,3.11,3.22,2.42,3.17,3.13,1.99,1.91,1.96,1.86,-0.25,2.08,1.82,Frosinone,Udinese,frosinone,udinese
+2024-08-18,I1,Italy-SA,2425,Bologna,Udinese,1.0,1.0,D,0.0,0.0,D,1.91,3.4,4.33,1.95,3.29,4.57,1.93,3.32,4.37,2.3,1.62,2.34,1.61,-0.5,1.95,1.95,Bologna,Udinese,bologna,udinese
+2024-09-16,I1,Italy-SA,2425,Parma,Udinese,2.0,3.0,A,2.0,0.0,H,2.25,3.4,3.2,2.29,3.36,3.29,2.28,3.38,3.22,2.04,1.86,2.0,1.83,-0.25,1.99,1.91,Parma,Udinese,parma,udinese
+2024-09-22,I1,Italy-SA,2425,Roma,Udinese,3.0,0.0,H,1.0,0.0,H,1.62,4.2,5.25,1.63,4.07,5.59,1.63,3.99,5.45,2.05,1.85,2.01,1.83,-0.75,1.83,2.1,AS Roma,Udinese,as_roma,udinese
+2024-10-19,I1,Italy-SA,2425,Milan,Udinese,1.0,0.0,H,1.0,0.0,H,1.38,4.75,8.5,1.38,5.23,8.24,1.39,5.07,8.0,1.57,2.38,1.59,2.39,-1.25,1.85,2.05,AC Milan,Udinese,ac_milan,udinese
+2024-10-30,I1,Italy-SA,2425,Venezia,Udinese,3.0,2.0,H,1.0,2.0,A,2.7,3.25,2.65,2.82,3.16,2.77,2.76,3.18,2.73,2.2,1.67,2.17,1.71,0.0,1.95,1.95,Venezia,Udinese,venezia,udinese
+2024-11-10,I1,Italy-SA,2425,Atalanta,Udinese,2.0,1.0,H,0.0,1.0,A,1.38,5.0,7.5,1.37,5.13,8.64,1.38,4.99,8.11,1.62,2.3,1.64,2.27,-1.25,1.85,2.05,Atalanta,Udinese,atalanta,udinese
+2024-11-25,I1,Italy-SA,2425,Empoli,Udinese,1.0,1.0,D,1.0,0.0,H,2.8,2.9,2.8,2.94,2.85,2.92,2.85,2.86,2.87,2.75,1.44,2.74,1.45,0.0,1.95,1.95,Empoli,Udinese,empoli,udinese
+2024-12-09,I1,Italy-SA,2425,Monza,Udinese,1.0,2.0,A,0.0,1.0,A,2.7,3.0,2.88,2.74,3.07,2.92,2.7,3.04,2.85,2.38,1.57,2.42,1.57,0.0,1.89,2.01,Monza,Udinese,monza,udinese
+2024-12-23,I1,Italy-SA,2425,Fiorentina,Udinese,1.0,2.0,A,1.0,0.0,H,1.6,3.8,6.0,1.62,4.04,5.83,1.6,3.98,5.64,1.91,1.99,1.87,1.94,-1.0,2.06,1.84,Fiorentina,Udinese,fiorentina,udinese
+2025-01-04,I1,Italy-SA,2425,Verona,Udinese,0.0,0.0,D,0.0,0.0,D,3.0,3.0,2.55,3.21,3.06,2.53,3.08,3.02,2.52,2.1,1.73,2.1,1.74,0.25,1.7,2.1,Hellas Verona,Udinese,hellas_verona,udinese
+2025-01-20,I1,Italy-SA,2425,Como,Udinese,4.0,1.0,H,2.0,0.0,H,2.15,3.4,3.4,2.16,3.44,3.58,2.14,3.36,3.49,2.0,1.8,2.03,1.78,-0.25,1.87,2.03,Como,Udinese,como,udinese
+2025-02-09,I1,Italy-SA,2425,Napoli,Udinese,1.0,1.0,D,1.0,1.0,D,1.44,4.5,7.5,1.44,4.51,8.04,1.43,4.45,7.76,2.01,1.89,1.95,1.88,-1.25,2.04,1.86,Napoli,Udinese,napoli,udinese
+2025-02-21,I1,Italy-SA,2425,Lecce,Udinese,0.0,1.0,A,0.0,1.0,A,3.0,3.0,2.6,3.03,3.1,2.67,2.99,3.05,2.61,2.3,1.62,2.3,1.64,0.0,2.11,1.82,Lecce,Udinese,lecce,udinese
+2025-03-10,I1,Italy-SA,2425,Lazio,Udinese,1.0,1.0,D,1.0,1.0,D,1.73,3.5,5.25,1.77,3.73,4.93,1.74,3.69,4.88,1.95,1.95,1.9,1.92,-0.75,2.0,1.9,Lazio,Udinese,lazio,udinese
+2025-03-30,I1,Italy-SA,2425,Inter,Udinese,2.0,1.0,H,2.0,0.0,H,1.4,4.33,8.5,1.4,4.86,8.55,1.38,4.76,8.37,1.8,2.0,1.8,2.02,-1.25,1.91,1.99,Inter Milan,Udinese,inter_milan,udinese
+2025-04-04,I1,Italy-SA,2425,Genoa,Udinese,1.0,0.0,H,0.0,0.0,D,2.45,2.88,3.4,2.52,3.01,3.35,2.49,2.96,3.26,2.75,1.44,2.66,1.47,-0.25,2.1,1.83,Genoa,Udinese,genoa,udinese
+2025-04-23,I1,Italy-SA,2425,Torino,Udinese,2.0,0.0,H,1.0,0.0,H,2.4,2.9,3.3,2.43,3.08,3.38,2.42,3.01,3.26,2.5,1.53,2.47,1.54,-0.25,2.1,1.83,Torino,Udinese,torino,udinese
+2025-05-03,I1,Italy-SA,2425,Cagliari,Udinese,1.0,2.0,A,1.0,1.0,D,2.2,3.2,3.5,2.25,3.18,3.64,2.21,3.16,3.53,2.3,1.62,2.34,1.6,-0.25,1.9,2.0,Cagliari,Udinese,cagliari,udinese
+2025-05-18,I1,Italy-SA,2425,Juventus,Udinese,2.0,0.0,H,0.0,0.0,D,1.38,4.75,8.5,1.36,5.03,9.57,1.36,4.82,9.02,1.95,1.95,1.9,1.92,-1.25,1.89,2.01,Juventus,Udinese,juventus,udinese
+2025-08-31,I1,Italy-SA,2526,Inter,Udinese,1.0,2.0,A,1.0,2.0,A,1.3,5.25,9.5,1.32,5.63,9.47,1.31,5.31,9.22,1.62,2.3,1.61,2.24,-1.5,1.93,1.93,Inter Milan,Udinese,inter_milan,udinese
+2025-09-14,I1,Italy-SA,2526,Pisa,Udinese,0.0,1.0,A,0.0,1.0,A,2.75,3.1,2.75,2.85,3.11,2.77,2.78,3.08,2.64,2.3,1.62,2.28,1.59,0.0,1.93,1.93,Pisa,Udinese,pisa,udinese
+2025-09-28,I1,Italy-SA,2526,Sassuolo,Udinese,3.0,1.0,H,2.0,0.0,H,2.3,3.2,3.3,2.37,3.33,3.22,2.27,3.25,3.15,2.1,1.73,2.07,1.71,-0.25,1.98,1.88,Sassuolo,Udinese,sassuolo,udinese
+2025-10-20,I1,Italy-SA,2526,Cremonese,Udinese,1.0,1.0,D,1.0,0.0,H,3.0,3.25,2.4,3.08,3.23,2.51,2.96,3.15,2.44,2.2,1.67,2.18,1.65,0.25,1.78,2.1,Cremonese,Udinese,cremonese,udinese
+2025-10-29,I1,Italy-SA,2526,Juventus,Udinese,3.0,1.0,H,1.0,1.0,D,1.44,4.1,8.5,1.47,4.5,7.44,1.44,4.32,7.42,1.98,1.88,1.91,1.86,-1.25,2.05,1.8,Juventus,Udinese,juventus,udinese
+2025-11-09,I1,Italy-SA,2526,Roma,Udinese,2.0,0.0,H,1.0,0.0,H,1.55,4.0,6.25,1.57,4.08,6.47,1.55,3.94,6.05,2.03,1.83,1.99,1.77,-1.0,1.98,1.88,AS Roma,Udinese,as_roma,udinese
+2025-11-29,I1,Italy-SA,2526,Parma,Udinese,0.0,2.0,A,0.0,1.0,A,2.7,3.0,2.8,2.77,3.12,2.85,2.64,3.09,2.8,2.3,1.62,2.25,1.6,0.0,1.88,1.98,Parma,Udinese,parma,udinese
+2025-12-21,I1,Italy-SA,2526,Fiorentina,Udinese,5.0,1.0,H,3.0,0.0,H,2.2,3.3,3.4,2.27,3.31,3.42,2.16,3.26,3.4,2.1,1.73,2.1,1.69,-0.25,1.9,1.95,Fiorentina,Udinese,fiorentina,udinese
+2026-01-03,I1,Italy-SA,2526,Como,Udinese,1.0,0.0,H,1.0,0.0,H,1.73,3.8,4.75,1.75,3.62,5.26,1.71,3.65,4.94,2.0,1.8,1.98,1.78,-0.75,1.95,1.9,Como,Udinese,como,udinese
+2026-01-07,I1,Italy-SA,2526,Torino,Udinese,1.0,2.0,A,0.0,0.0,D,2.3,3.0,3.4,2.39,2.95,3.61,2.3,3.04,3.36,2.3,1.62,2.28,1.59,-0.25,1.98,1.88,Torino,Udinese,torino,udinese
+2026-01-26,I1,Italy-SA,2526,Verona,Udinese,1.0,3.0,A,1.0,1.0,D,2.8,3.0,2.8,,,,2.72,2.99,2.75,2.63,1.5,2.49,1.51,0.0,1.93,1.93,Hellas Verona,Udinese,hellas_verona,udinese
+2026-02-08,I1,Italy-SA,2526,Lecce,Udinese,2.0,1.0,H,1.0,1.0,D,3.1,2.88,2.63,,,,3.04,2.86,2.59,2.75,1.44,2.75,1.42,0.0,2.1,1.78,Lecce,Udinese,lecce,udinese
+2026-02-23,I1,Italy-SA,2526,Bologna,Udinese,1.0,0.0,H,0.0,0.0,D,1.85,3.5,4.5,,,,1.85,3.46,4.23,2.1,1.73,2.1,1.7,-0.5,1.85,2.0,Bologna,Udinese,bologna,udinese
+2026-03-07,I1,Italy-SA,2526,Atalanta,Udinese,2.0,2.0,D,0.0,1.0,A,1.67,3.7,5.5,,,,1.65,3.7,5.28,1.91,1.91,1.88,1.87,-0.75,1.88,1.98,Atalanta,Udinese,atalanta,udinese
+2026-03-20,I1,Italy-SA,2526,Genoa,Udinese,0.0,2.0,A,0.0,0.0,D,2.15,3.1,3.75,,,,2.14,3.1,3.65,2.5,1.53,2.45,1.52,-0.25,1.83,2.03,Genoa,Udinese,genoa,udinese
+2026-04-11,I1,Italy-SA,2526,Milan,Udinese,0.0,3.0,A,0.0,2.0,A,1.42,4.5,8.0,,,,1.41,4.43,7.77,1.83,2.03,1.79,1.97,-1.25,1.98,1.88,AC Milan,Udinese,ac_milan,udinese
+2026-04-27,I1,Italy-SA,2526,Lazio,Udinese,3.0,3.0,D,0.0,1.0,A,1.95,3.3,4.2,,,,1.97,3.26,3.87,2.2,1.67,2.18,1.64,-0.5,2.0,1.85,Lazio,Udinese,lazio,udinese
+2026-05-09,I1,Italy-SA,2526,Cagliari,Udinese,0.0,2.0,A,0.0,0.0,D,2.5,3.2,2.9,,,,2.5,3.12,2.89,2.2,1.67,2.2,1.64,0.0,1.78,2.1,Cagliari,Udinese,cagliari,udinese
+2026-05-24,I1,Italy-SA,2526,Napoli,Udinese,1.0,0.0,H,1.0,0.0,H,1.48,4.0,8.0,,,,1.47,4.07,6.72,1.9,1.95,1.87,1.86,-1.0,1.8,2.05,Napoli,Udinese,napoli,udinese
+2026-08-29,I1,Italy-SA,2627,Monza,Udinese,2.0,3.0,A,1.0,3.0,A,3.1,3.2,2.4,,,,3.12,3.12,2.38,2.2,1.67,2.21,1.64,0.25,1.8,2.05,Monza,Udinese,monza,udinese
+2026-09-14,I1,Italy-SA,2627,Inter,Udinese,5.0,3.0,H,2.0,2.0,D,1.27,5.75,12.0,,,,1.25,5.85,11.15,1.53,2.5,1.53,2.42,-1.75,1.95,1.9,Inter Milan,Udinese,inter_milan,udinese
+2026-10-12,I1,Italy-SA,2627,Torino,Udinese,2.0,1.0,H,1.0,1.0,D,2.3,3.2,3.3,,,,2.31,3.19,3.12,2.1,1.73,2.09,1.7,-0.25,2.0,1.85,Torino,Udinese,torino,udinese

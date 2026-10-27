@@ -1,0 +1,85 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder,opponent,venue,team_goals,opp_goals,h2h_match_no,h2h_total_vs_opp
+2021-08-13,SP2,Spain-Segunda,2122,Zaragoza,Ibiza,0.0,0.0,D,0.0,0.0,D,2.25,3.1,3.5,2.36,2.95,3.77,2.28,2.87,3.59,2.7,1.44,2.68,1.46,-0.25,1.95,1.9,Zaragoza,Ibiza,zaragoza,ibiza,Zaragoza,A,0.0,0.0,1,4
+2021-08-22,SP2,Spain-Segunda,2122,Ibiza,Malaga,2.0,2.0,D,1.0,0.0,H,2.5,2.9,3.1,2.6,2.93,3.26,2.5,2.84,3.11,2.87,1.4,2.87,1.39,0.0,1.75,2.13,Ibiza,Malaga,ibiza,malaga,Malaga,H,2.0,2.0,1,4
+2021-08-28,SP2,Spain-Segunda,2122,Leganes,Ibiza,1.0,2.0,A,0.0,0.0,D,1.8,3.4,4.75,1.86,3.35,4.99,1.84,3.23,4.68,2.5,1.5,2.49,1.52,-0.5,1.83,2.02,Leganes,Ibiza,leganes,ibiza,Leganes,A,2.0,1.0,1,4
+2021-09-05,SP2,Spain-Segunda,2122,Ibiza,Amorebieta,1.0,1.0,D,0.0,1.0,A,2.05,3.0,4.2,2.23,2.98,4.01,2.13,2.96,3.85,2.6,1.47,2.61,1.46,-0.25,1.83,2.02,Ibiza,Amorebieta,ibiza,amorebieta,Amorebieta,H,1.0,1.0,1,2
+2021-09-11,SP2,Spain-Segunda,2122,Las Palmas,Ibiza,1.0,1.0,D,0.0,1.0,A,2.1,3.2,3.5,,,,2.16,3.19,3.37,2.2,1.65,2.22,1.64,-0.25,1.85,2.0,Las Palmas,Ibiza,las_palmas,ibiza,Las Palmas,A,1.0,1.0,1,4
+2021-09-18,SP2,Spain-Segunda,2122,Ibiza,Oviedo,1.0,1.0,D,1.0,0.0,H,2.6,2.8,3.0,2.63,2.93,3.16,2.57,2.88,3.01,2.7,1.44,2.66,1.45,0.0,1.75,2.13,Ibiza,Real Oviedo,ibiza,real_oviedo,Real Oviedo,H,1.0,1.0,1,4
+2021-09-25,SP2,Spain-Segunda,2122,Ibiza,Burgos,2.0,0.0,H,1.0,0.0,H,2.1,2.9,3.8,2.2,2.99,3.98,2.19,2.96,3.65,2.5,1.5,2.56,1.49,-0.25,1.83,2.02,Ibiza,Burgos,ibiza,burgos,Burgos,H,2.0,0.0,1,4
+2021-10-03,SP2,Spain-Segunda,2122,Eibar,Ibiza,3.0,1.0,H,1.0,1.0,D,1.72,3.4,5.5,1.75,3.52,5.37,1.74,3.44,4.95,2.25,1.61,2.22,1.64,-0.75,2.0,1.85,Eibar,Ibiza,eibar,ibiza,Eibar,A,1.0,3.0,1,4
+2021-10-10,SP2,Spain-Segunda,2122,Cartagena,Ibiza,5.0,1.0,H,3.0,0.0,H,2.37,3.2,3.2,2.57,3.0,3.16,2.41,2.98,3.1,2.4,1.53,2.41,1.54,-0.25,2.1,1.77,Cartagena,Ibiza,cartagena,ibiza,Cartagena,A,1.0,5.0,1,4
+2021-10-17,SP2,Spain-Segunda,2122,Ibiza,Mirandes,0.0,2.0,A,0.0,1.0,A,1.95,3.2,4.2,2.02,3.27,4.16,1.99,3.19,3.9,2.25,1.61,2.27,1.61,-0.5,1.98,1.88,Ibiza,Mirandes,ibiza,mirandes,Mirandes,H,0.0,2.0,1,4
+2021-10-20,SP2,Spain-Segunda,2122,Valladolid,Ibiza,1.0,1.0,D,0.0,0.0,D,1.75,3.4,5.25,1.76,3.49,5.32,1.75,3.39,4.86,2.15,1.66,2.18,1.66,-0.75,2.02,1.83,Real Valladolid,Ibiza,real_valladolid,ibiza,Real Valladolid,A,1.0,1.0,1,2
+2021-10-23,SP2,Spain-Segunda,2122,Ibiza,Fuenlabrada,3.0,1.0,H,1.0,1.0,D,2.0,3.2,4.0,2.16,3.13,4.06,2.07,3.11,3.78,2.4,1.53,2.4,1.55,-0.5,2.05,1.8,Ibiza,Fuenlabrada,ibiza,fuenlabrada,Fuenlabrada,H,3.0,1.0,1,2
+2021-11-01,SP2,Spain-Segunda,2122,Alcorcon,Ibiza,0.0,2.0,A,0.0,0.0,D,3.0,3.2,2.37,3.15,3.29,2.4,3.0,3.08,2.39,2.4,1.53,2.37,1.55,0.25,1.8,2.05,Alcorcon,Ibiza,alcorcon,ibiza,Alcorcon,A,2.0,0.0,1,2
+2021-11-04,SP2,Spain-Segunda,2122,Ibiza,Tenerife,0.0,0.0,D,0.0,0.0,D,2.45,3.1,3.1,2.42,3.08,3.33,2.4,3.03,3.06,2.4,1.53,2.47,1.52,-0.25,2.05,1.8,Ibiza,Tenerife,ibiza,tenerife,Tenerife,H,0.0,0.0,1,4
+2021-11-07,SP2,Spain-Segunda,2122,Sociedad B,Ibiza,0.0,1.0,A,0.0,0.0,D,2.62,3.1,2.9,2.68,3.06,2.95,2.61,3.0,2.83,2.35,1.57,2.4,1.55,0.0,1.83,2.02,Sociedad B,Ibiza,sociedad_b,ibiza,Sociedad B,A,1.0,0.0,1,2
+2021-11-14,SP2,Spain-Segunda,2122,Ibiza,Almeria,0.0,1.0,A,0.0,1.0,A,3.5,3.3,2.1,3.56,3.21,2.24,3.36,3.21,2.17,2.05,1.75,2.05,1.75,0.25,1.95,1.9,Ibiza,Almeria,ibiza,almeria,Almeria,H,0.0,1.0,1,2
+2021-11-21,SP2,Spain-Segunda,2122,Huesca,Ibiza,0.0,0.0,D,0.0,0.0,D,2.0,3.2,4.0,2.08,3.15,4.13,2.04,3.13,3.84,2.35,1.57,2.33,1.58,-0.5,2.02,1.83,Huesca,Ibiza,huesca,ibiza,Huesca,A,0.0,0.0,1,4
+2021-11-28,SP2,Spain-Segunda,2122,Ibiza,Ponferradina,0.0,1.0,A,0.0,1.0,A,2.4,3.1,3.25,2.49,3.05,3.24,2.42,2.97,3.09,2.7,1.44,2.65,1.45,-0.25,2.1,1.77,Ibiza,Ponferradina,ibiza,ponferradina,Ponferradina,H,0.0,1.0,1,4
+2021-12-05,SP2,Spain-Segunda,2122,Lugo,Ibiza,0.0,0.0,D,0.0,0.0,D,2.6,3.1,2.87,2.72,2.99,2.97,2.66,2.92,2.84,2.6,1.47,2.57,1.48,0.0,1.85,2.0,Lugo,Ibiza,lugo,ibiza,Lugo,A,0.0,0.0,1,4
+2021-12-11,SP2,Spain-Segunda,2122,Ibiza,Girona,1.0,1.0,D,0.0,1.0,A,2.5,3.2,3.0,2.63,3.09,3.0,2.47,3.09,2.96,2.3,1.6,2.32,1.59,0.0,1.77,2.1,Ibiza,Girona,ibiza,girona,Girona,H,1.0,1.0,1,2
+2021-12-18,SP2,Spain-Segunda,2122,Ibiza,Sp Gijon,0.0,2.0,A,0.0,1.0,A,2.4,3.1,3.2,2.43,2.91,3.53,2.39,2.92,3.26,2.5,1.5,2.49,1.52,-0.25,2.05,1.8,Ibiza,Sp Gijon,ibiza,sp_gijon,Sp Gijon,H,0.0,2.0,1,4
+2022-01-02,SP2,Spain-Segunda,2122,Fuenlabrada,Ibiza,1.0,2.0,A,1.0,1.0,D,2.2,3.0,3.2,2.27,2.98,3.8,2.25,2.95,3.52,2.6,1.47,2.65,1.46,-0.25,1.98,1.88,Fuenlabrada,Ibiza,fuenlabrada,ibiza,Fuenlabrada,A,2.0,1.0,2,2
+2022-01-08,SP2,Spain-Segunda,2122,Ibiza,Alcorcon,6.0,2.0,H,2.0,2.0,D,1.72,3.8,4.75,1.75,3.44,5.5,1.75,3.37,4.98,2.35,1.57,2.38,1.56,-0.75,1.98,1.88,Ibiza,Alcorcon,ibiza,alcorcon,Alcorcon,H,6.0,2.0,2,2
+2022-01-22,SP2,Spain-Segunda,2122,Malaga,Ibiza,0.0,5.0,A,0.0,1.0,A,2.4,3.2,3.2,2.55,3.04,3.15,2.41,3.06,3.03,2.3,1.6,2.28,1.6,-0.25,2.05,1.8,Malaga,Ibiza,malaga,ibiza,Malaga,A,5.0,0.0,2,4
+2022-01-31,SP2,Spain-Segunda,2122,Ibiza,Zaragoza,2.0,2.0,D,0.0,2.0,A,2.15,3.1,3.75,2.05,3.24,4.1,2.08,3.14,3.69,2.4,1.53,2.35,1.56,-0.25,1.8,2.05,Ibiza,Zaragoza,ibiza,zaragoza,Zaragoza,H,2.0,2.0,2,4
+2022-02-04,SP2,Spain-Segunda,2122,Almeria,Ibiza,2.0,0.0,H,0.0,0.0,D,1.72,3.8,4.75,1.75,3.85,5.06,1.72,3.7,4.61,1.83,2.02,1.83,1.96,-0.75,1.98,1.88,Almeria,Ibiza,almeria,ibiza,Almeria,A,0.0,2.0,2,2
+2022-02-12,SP2,Spain-Segunda,2122,Ibiza,Cartagena,2.0,1.0,H,1.0,1.0,D,2.2,3.5,3.2,2.24,3.43,3.33,2.19,3.32,3.2,2.07,1.72,2.06,1.74,-0.25,1.9,1.95,Ibiza,Cartagena,ibiza,cartagena,Cartagena,H,2.0,1.0,2,4
+2022-02-19,SP2,Spain-Segunda,2122,Tenerife,Ibiza,2.0,0.0,H,2.0,0.0,H,1.8,3.5,4.75,1.78,3.54,5.08,1.79,3.37,4.71,2.4,1.53,2.36,1.56,-0.5,1.75,2.05,Tenerife,Ibiza,tenerife,ibiza,Tenerife,A,0.0,2.0,2,4
+2022-02-26,SP2,Spain-Segunda,2122,Ibiza,Huesca,2.0,1.0,H,1.0,1.0,D,2.3,3.1,3.3,2.58,3.05,3.1,2.41,3.04,3.07,2.35,1.57,2.37,1.56,-0.25,2.1,1.77,Ibiza,Huesca,ibiza,huesca,Huesca,H,2.0,1.0,2,4
+2022-03-06,SP2,Spain-Segunda,2122,Ponferradina,Ibiza,1.0,1.0,D,1.0,0.0,H,2.3,3.2,3.3,2.24,3.14,3.65,2.2,3.09,3.43,2.15,1.66,2.16,1.67,-0.25,1.88,1.98,Ponferradina,Ibiza,ponferradina,ibiza,Ponferradina,A,1.0,1.0,2,4
+2022-03-12,SP2,Spain-Segunda,2122,Ibiza,Leganes,1.0,1.0,D,0.0,0.0,D,2.1,3.3,3.6,2.19,3.2,3.69,2.15,3.18,3.48,2.25,1.61,2.23,1.63,-0.25,1.8,2.05,Ibiza,Leganes,ibiza,leganes,Leganes,H,1.0,1.0,2,4
+2022-03-19,SP2,Spain-Segunda,2122,Girona,Ibiza,5.0,1.0,H,3.0,0.0,H,1.9,3.3,4.33,1.94,3.44,4.26,1.89,3.38,4.09,2.07,1.72,2.07,1.73,-0.5,1.93,1.93,Girona,Ibiza,girona,ibiza,Girona,A,1.0,5.0,2,2
+2022-03-26,SP2,Spain-Segunda,2122,Ibiza,Sociedad B,2.0,2.0,D,1.0,1.0,D,1.75,3.5,5.25,1.78,3.63,5.22,1.75,3.53,4.76,2.1,1.7,2.09,1.72,-0.75,1.98,1.88,Ibiza,Sociedad B,ibiza,sociedad_b,Sociedad B,H,2.0,2.0,2,2
+2022-04-02,SP2,Spain-Segunda,2122,Amorebieta,Ibiza,3.0,1.0,H,0.0,0.0,D,2.55,3.25,2.87,2.59,3.06,3.07,2.56,3.03,2.89,2.35,1.57,2.3,1.58,0.0,1.8,2.05,Amorebieta,Ibiza,amorebieta,ibiza,Amorebieta,A,1.0,3.0,2,2
+2022-04-10,SP2,Spain-Segunda,2122,Ibiza,Eibar,2.0,0.0,H,0.0,0.0,D,2.75,3.1,2.75,2.81,3.16,2.74,2.67,3.11,2.68,2.15,1.66,2.16,1.67,0.0,1.93,1.93,Ibiza,Eibar,ibiza,eibar,Eibar,H,2.0,0.0,2,4
+2022-04-17,SP2,Spain-Segunda,2122,Burgos,Ibiza,2.0,1.0,H,1.0,0.0,H,2.3,3.1,3.3,2.46,2.96,3.41,2.35,3.03,3.16,2.25,1.61,2.31,1.58,-0.25,1.98,1.88,Burgos,Ibiza,burgos,ibiza,Burgos,A,1.0,2.0,2,4
+2022-04-24,SP2,Spain-Segunda,2122,Ibiza,Las Palmas,1.0,1.0,D,0.0,1.0,A,3.25,3.3,2.3,3.33,3.24,2.32,3.14,3.22,2.27,2.0,1.85,1.95,1.82,0.25,1.88,1.98,Ibiza,Las Palmas,ibiza,las_palmas,Las Palmas,H,1.0,1.0,2,4
+2022-05-01,SP2,Spain-Segunda,2122,Sp Gijon,Ibiza,0.0,1.0,A,0.0,1.0,A,2.2,3.2,3.5,2.16,3.21,3.77,2.15,3.16,3.48,2.3,1.6,2.23,1.62,-0.25,1.88,1.98,Sp Gijon,Ibiza,sp_gijon,ibiza,Sp Gijon,A,1.0,0.0,2,4
+2022-05-08,SP2,Spain-Segunda,2122,Ibiza,Lugo,1.0,1.0,D,0.0,1.0,A,2.0,3.4,3.8,1.98,3.27,4.35,1.97,3.25,3.95,2.07,1.72,2.16,1.66,-0.5,2.0,1.85,Ibiza,Lugo,ibiza,lugo,Lugo,H,1.0,1.0,2,4
+2022-05-15,SP2,Spain-Segunda,2122,Mirandes,Ibiza,4.0,0.0,H,2.0,0.0,H,2.05,3.5,3.6,2.01,3.73,3.64,2.02,3.56,3.42,1.8,2.0,1.79,1.99,-0.5,2.0,1.85,Mirandes,Ibiza,mirandes,ibiza,Mirandes,A,0.0,4.0,2,4
+2022-05-21,SP2,Spain-Segunda,2122,Ibiza,Valladolid,1.0,2.0,A,0.0,1.0,A,4.75,4.0,1.7,4.48,4.13,1.74,4.59,4.01,1.67,1.65,2.2,1.6,2.29,0.75,1.98,1.88,Ibiza,Real Valladolid,ibiza,real_valladolid,Real Valladolid,H,1.0,2.0,2,2
+2022-05-29,SP2,Spain-Segunda,2122,Oviedo,Ibiza,3.0,2.0,H,1.0,0.0,H,1.6,4.0,5.75,1.56,4.33,5.83,1.56,4.08,5.48,1.75,2.05,1.76,2.03,-1.0,2.02,1.83,Real Oviedo,Ibiza,real_oviedo,ibiza,Real Oviedo,A,2.0,3.0,2,4
+2022-08-14,SP2,Spain-Segunda,2223,Ibiza,Granada,0.0,2.0,A,0.0,0.0,D,3.1,3.2,2.45,3.27,3.13,2.42,3.04,3.14,2.38,2.07,1.72,2.08,1.73,0.25,1.8,2.05,Ibiza,Granada,ibiza,granada,Granada,H,0.0,2.0,1,2
+2022-08-22,SP2,Spain-Segunda,2223,Ponferradina,Ibiza,2.0,1.0,H,1.0,1.0,D,2.1,3.3,3.6,2.11,3.3,3.81,2.09,3.21,3.58,2.25,1.61,2.23,1.63,-0.25,1.8,2.05,Ponferradina,Ibiza,ponferradina,ibiza,Ponferradina,A,1.0,2.0,3,4
+2022-08-28,SP2,Spain-Segunda,2223,Ibiza,Alaves,1.0,1.0,D,1.0,0.0,H,3.0,3.3,2.4,3.25,3.24,2.36,3.06,3.16,2.35,2.2,1.65,2.21,1.64,0.25,1.8,2.05,Ibiza,Deportivo Alaves,ibiza,deportivo_alaves,Deportivo Alaves,H,1.0,1.0,1,2
+2022-09-04,SP2,Spain-Segunda,2223,Huesca,Ibiza,3.0,0.0,H,1.0,0.0,H,1.95,3.4,4.0,1.98,3.48,4.04,1.99,3.33,3.77,2.1,1.7,2.12,1.7,-0.5,2.0,1.85,Huesca,Ibiza,huesca,ibiza,Huesca,A,0.0,3.0,3,4
+2022-09-11,SP2,Spain-Segunda,2223,Ibiza,Tenerife,1.0,0.0,H,0.0,0.0,D,2.9,3.2,2.5,3.01,2.94,2.73,2.93,2.96,2.56,2.35,1.57,2.39,1.56,0.0,2.1,1.77,Ibiza,Tenerife,ibiza,tenerife,Tenerife,H,1.0,0.0,3,4
+2022-09-17,SP2,Spain-Segunda,2223,Oviedo,Ibiza,0.0,1.0,A,0.0,0.0,D,1.8,3.4,5.25,1.82,3.37,5.45,1.79,3.32,4.83,2.35,1.57,2.31,1.59,-0.5,1.77,2.02,Real Oviedo,Ibiza,real_oviedo,ibiza,Real Oviedo,A,1.0,0.0,3,4
+2022-09-23,SP2,Spain-Segunda,2223,Sp Gijon,Ibiza,2.0,1.0,H,1.0,1.0,D,1.9,3.3,4.33,1.93,3.42,4.61,1.9,3.3,4.21,2.3,1.6,2.28,1.61,-0.5,1.9,1.95,Sp Gijon,Ibiza,sp_gijon,ibiza,Sp Gijon,A,1.0,2.0,3,4
+2022-10-02,SP2,Spain-Segunda,2223,Ibiza,Lugo,3.0,2.0,H,2.0,1.0,H,1.9,3.4,4.2,1.9,3.39,4.55,1.9,3.33,4.18,2.25,1.61,2.25,1.62,-0.5,1.9,1.95,Ibiza,Lugo,ibiza,lugo,Lugo,H,3.0,2.0,3,4
+2022-10-08,SP2,Spain-Segunda,2223,Las Palmas,Ibiza,0.0,0.0,D,0.0,0.0,D,1.61,4.0,5.5,1.63,3.85,6.06,1.62,3.73,5.56,2.05,1.75,2.05,1.76,-0.75,1.8,2.05,Las Palmas,Ibiza,las_palmas,ibiza,Las Palmas,A,0.0,0.0,3,4
+2022-10-13,SP2,Spain-Segunda,2223,Ibiza,Eibar,1.0,2.0,A,1.0,0.0,H,3.2,3.3,2.2,3.16,3.31,2.35,3.18,3.23,2.25,2.2,1.65,2.19,1.66,0.25,1.88,1.98,Ibiza,Eibar,ibiza,eibar,Eibar,H,1.0,2.0,3,4
+2022-10-16,SP2,Spain-Segunda,2223,Cartagena,Ibiza,2.0,0.0,H,0.0,0.0,D,1.75,3.75,4.75,1.75,3.86,4.58,1.75,3.65,4.47,1.95,1.9,1.9,1.87,-0.75,2.0,1.85,Cartagena,Ibiza,cartagena,ibiza,Cartagena,A,0.0,2.0,3,4
+2022-10-22,SP2,Spain-Segunda,2223,Ibiza,Levante,1.0,2.0,A,1.0,1.0,D,3.5,3.3,2.15,3.4,3.5,2.2,3.23,3.32,2.2,2.05,1.75,2.02,1.77,0.25,2.0,1.85,Ibiza,Levante,ibiza,levante,Levante,H,1.0,2.0,1,2
+2022-10-29,SP2,Spain-Segunda,2223,Burgos,Ibiza,2.0,0.0,H,1.0,0.0,H,2.15,3.2,3.75,2.21,3.06,3.93,2.17,3.0,3.63,2.6,1.47,2.61,1.47,-0.25,1.85,2.0,Burgos,Ibiza,burgos,ibiza,Burgos,A,0.0,2.0,3,4
+2022-11-01,SP2,Spain-Segunda,2223,Ibiza,Leganes,0.0,2.0,A,0.0,1.0,A,2.75,3.0,2.8,2.73,3.03,2.97,2.67,2.93,2.85,2.6,1.47,2.62,1.48,0.0,1.85,2.0,Ibiza,Leganes,ibiza,leganes,Leganes,H,0.0,2.0,3,4
+2022-11-06,SP2,Spain-Segunda,2223,Ibiza,Mirandes,1.0,1.0,D,1.0,0.0,H,2.4,3.1,3.1,2.45,3.17,3.23,2.35,3.14,3.1,2.2,1.65,2.23,1.62,-0.25,2.0,1.85,Ibiza,Mirandes,ibiza,mirandes,Mirandes,H,1.0,1.0,3,4
+2022-11-20,SP2,Spain-Segunda,2223,Villarreal B,Ibiza,1.0,0.0,H,0.0,0.0,D,2.0,3.4,3.8,2.06,3.34,3.99,2.04,3.34,3.62,2.02,1.83,2.02,1.77,-0.5,2.02,1.83,Villarreal B,Ibiza,villarreal_b,ibiza,Villarreal B,A,0.0,1.0,1,2
+2022-11-28,SP2,Spain-Segunda,2223,Ibiza,Andorra,0.0,1.0,A,0.0,1.0,A,2.7,3.0,2.8,2.72,3.16,2.78,2.68,3.05,2.72,2.4,1.53,2.4,1.55,0.0,1.9,1.95,Ibiza,Andorra,ibiza,andorra,Andorra,H,0.0,1.0,1,2
+2022-12-03,SP2,Spain-Segunda,2223,Zaragoza,Ibiza,2.0,1.0,H,0.0,1.0,A,1.72,3.4,5.75,1.71,3.53,5.86,1.74,3.36,5.13,2.5,1.5,2.44,1.53,-0.75,1.98,1.88,Zaragoza,Ibiza,zaragoza,ibiza,Zaragoza,A,1.0,2.0,3,4
+2022-12-08,SP2,Spain-Segunda,2223,Ibiza,Santander,1.0,0.0,H,0.0,0.0,D,2.7,3.1,2.75,2.72,2.86,3.05,2.68,2.9,2.85,2.5,1.5,2.57,1.48,0.0,1.88,1.98,Ibiza,Santander,ibiza,santander,Santander,H,1.0,0.0,1,2
+2022-12-11,SP2,Spain-Segunda,2223,Ibiza,Malaga,1.0,1.0,D,0.0,1.0,A,2.3,3.0,3.4,2.34,3.05,3.46,2.29,2.99,3.35,2.6,1.48,2.56,1.49,-0.25,1.95,1.9,Ibiza,Malaga,ibiza,malaga,Malaga,H,1.0,1.0,3,4
+2022-12-18,SP2,Spain-Segunda,2223,Albacete,Ibiza,4.0,0.0,H,3.0,0.0,H,1.83,3.5,4.5,1.85,3.37,4.78,1.82,3.32,4.57,2.35,1.57,2.37,1.56,-0.5,1.83,2.02,Albacete,Ibiza,albacete,ibiza,Albacete,A,0.0,4.0,1,2
+2023-01-08,SP2,Spain-Segunda,2223,Eibar,Ibiza,1.0,0.0,H,1.0,0.0,H,1.53,4.0,6.5,1.5,3.89,7.87,1.49,3.87,7.17,2.25,1.62,2.27,1.61,-1.0,1.9,1.95,Eibar,Ibiza,eibar,ibiza,Eibar,A,0.0,1.0,4,4
+2023-01-14,SP2,Spain-Segunda,2223,Ibiza,Las Palmas,1.0,2.0,A,1.0,0.0,H,4.33,3.1,2.0,4.41,3.04,2.04,4.03,3.02,2.05,2.5,1.5,2.42,1.54,0.5,1.8,2.05,Ibiza,Las Palmas,ibiza,las_palmas,Las Palmas,H,1.0,2.0,4,4
+2023-01-21,SP2,Spain-Segunda,2223,Granada,Ibiza,2.0,0.0,H,1.0,0.0,H,1.44,4.2,9.0,1.43,4.24,9.55,1.43,4.07,8.19,2.15,1.67,2.15,1.68,-1.0,1.75,2.13,Granada,Ibiza,granada,ibiza,Granada,A,0.0,2.0,2,2
+2023-01-29,SP2,Spain-Segunda,2223,Ibiza,Cartagena,2.0,2.0,D,1.0,2.0,A,2.75,2.9,2.9,2.77,3.03,2.83,2.66,2.96,2.82,2.5,1.5,2.48,1.52,0.0,1.85,2.0,Ibiza,Cartagena,ibiza,cartagena,Cartagena,H,2.0,2.0,4,4
+2023-02-05,SP2,Spain-Segunda,2223,Lugo,Ibiza,0.0,0.0,D,0.0,0.0,D,2.45,3.0,3.1,2.47,3.03,3.23,2.43,2.95,3.12,2.6,1.48,2.59,1.47,-0.25,2.1,1.77,Lugo,Ibiza,lugo,ibiza,Lugo,A,0.0,0.0,4,4
+2023-02-12,SP2,Spain-Segunda,2223,Ibiza,Ponferradina,1.0,1.0,D,1.0,0.0,H,2.4,3.0,3.2,2.46,3.03,3.25,2.39,2.99,3.17,2.5,1.5,2.49,1.52,-0.25,2.1,1.77,Ibiza,Ponferradina,ibiza,ponferradina,Ponferradina,H,1.0,1.0,4,4
+2023-02-19,SP2,Spain-Segunda,2223,Alaves,Ibiza,4.0,2.0,H,3.0,1.0,H,1.5,3.8,7.5,1.47,3.95,8.46,1.48,3.89,7.48,2.3,1.6,2.32,1.58,-1.0,1.88,1.98,Deportivo Alaves,Ibiza,deportivo_alaves,ibiza,Deportivo Alaves,A,2.0,4.0,2,2
+2023-02-26,SP2,Spain-Segunda,2223,Ibiza,Huesca,2.0,2.0,D,1.0,2.0,A,2.3,3.0,3.4,2.46,2.81,3.55,2.36,2.86,3.39,2.7,1.44,2.72,1.44,-0.25,2.02,1.83,Ibiza,Huesca,ibiza,huesca,Huesca,H,2.0,2.0,4,4
+2023-03-05,SP2,Spain-Segunda,2223,Leganes,Ibiza,0.0,1.0,A,0.0,0.0,D,1.73,3.1,6.5,1.74,3.34,6.1,1.73,3.24,5.61,2.7,1.44,2.69,1.44,-0.75,1.98,1.88,Leganes,Ibiza,leganes,ibiza,Leganes,A,1.0,0.0,4,4
+2023-03-11,SP2,Spain-Segunda,2223,Ibiza,Villarreal B,0.0,0.0,D,0.0,0.0,D,2.55,3.1,2.9,2.68,2.97,3.09,2.58,2.97,2.9,2.4,1.53,2.4,1.55,0.0,1.83,2.02,Ibiza,Villarreal B,ibiza,villarreal_b,Villarreal B,H,0.0,0.0,2,2
+2023-03-18,SP2,Spain-Segunda,2223,Andorra,Ibiza,2.0,2.0,D,0.0,2.0,A,1.7,3.5,5.75,1.72,3.41,6.15,1.69,3.44,5.42,2.4,1.53,2.33,1.57,-0.75,1.93,1.93,Andorra,Ibiza,andorra,ibiza,Andorra,A,2.0,2.0,2,2
+2023-03-25,SP2,Spain-Segunda,2223,Ibiza,Burgos,2.0,0.0,H,0.0,0.0,D,2.3,2.88,3.3,2.45,2.99,3.45,2.39,2.88,3.32,3.1,1.36,2.9,1.39,-0.25,1.98,1.88,Ibiza,Burgos,ibiza,burgos,Burgos,H,2.0,0.0,4,4
+2023-04-02,SP2,Spain-Segunda,2223,Mirandes,Ibiza,2.0,2.0,D,1.0,1.0,D,2.15,3.1,3.5,2.33,3.23,3.28,2.25,3.15,3.23,2.2,1.65,2.23,1.63,-0.25,1.85,2.0,Mirandes,Ibiza,mirandes,ibiza,Mirandes,A,2.0,2.0,4,4
+2023-04-08,SP2,Spain-Segunda,2223,Ibiza,Sp Gijon,1.0,3.0,A,0.0,2.0,A,2.7,3.0,2.9,2.74,2.98,3.01,2.68,2.91,2.85,2.5,1.5,2.54,1.49,0.0,1.85,2.0,Ibiza,Sp Gijon,ibiza,sp_gijon,Sp Gijon,H,1.0,3.0,4,4
+2023-04-16,SP2,Spain-Segunda,2223,Tenerife,Ibiza,4.0,0.0,H,2.0,0.0,H,1.75,3.25,6.0,1.74,3.24,6.1,1.75,3.22,5.43,2.7,1.44,2.64,1.46,-0.75,2.0,1.85,Tenerife,Ibiza,tenerife,ibiza,Tenerife,A,0.0,4.0,4,4
+2023-04-22,SP2,Spain-Segunda,2223,Ibiza,Oviedo,1.0,2.0,A,1.0,1.0,D,3.0,2.8,2.75,3.14,2.75,2.85,3.0,2.75,2.7,3.1,1.36,2.99,1.37,0.0,2.02,1.82,Ibiza,Real Oviedo,ibiza,real_oviedo,Real Oviedo,H,1.0,2.0,4,4
+2023-04-28,SP2,Spain-Segunda,2223,Santander,Ibiza,1.0,0.0,H,1.0,0.0,H,1.67,3.5,5.75,1.69,3.49,6.25,1.69,3.42,5.55,2.35,1.57,2.38,1.56,-0.75,1.93,1.93,Santander,Ibiza,santander,ibiza,Santander,A,0.0,1.0,2,2
+2023-05-07,SP2,Spain-Segunda,2223,Ibiza,Albacete,0.0,5.0,A,0.0,2.0,A,4.75,3.4,1.8,4.69,3.55,1.81,4.57,3.45,1.79,2.25,1.62,2.26,1.61,0.75,1.8,2.05,Ibiza,Albacete,ibiza,albacete,Albacete,H,0.0,5.0,2,2
+2023-05-15,SP2,Spain-Segunda,2223,Levante,Ibiza,0.0,0.0,D,0.0,0.0,D,1.33,5.0,9.5,1.31,5.05,11.18,1.33,4.77,9.43,1.93,1.93,1.87,1.9,-1.5,2.02,1.77,Levante,Ibiza,levante,ibiza,Levante,A,0.0,0.0,2,2
+2023-05-20,SP2,Spain-Segunda,2223,Ibiza,Zaragoza,1.0,0.0,H,0.0,0.0,D,3.8,3.3,2.05,3.91,3.32,2.1,3.78,3.23,2.04,2.3,1.6,2.26,1.62,0.5,1.8,2.05,Ibiza,Zaragoza,ibiza,zaragoza,Zaragoza,H,1.0,0.0,4,4
+2023-05-27,SP2,Spain-Segunda,2223,Malaga,Ibiza,1.0,1.0,D,0.0,0.0,D,1.6,3.75,6.0,1.63,3.99,5.77,1.6,3.88,5.5,1.98,1.88,1.93,1.84,-1.0,2.1,1.77,Malaga,Ibiza,malaga,ibiza,Malaga,A,1.0,1.0,4,4

@@ -1,0 +1,5 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2026-08-22,I2,Italy-SB,2627,Avellino,Arezzo,1.0,2.0,A,1.0,0.0,H,2.15,3.25,3.25,,,,2.16,3.18,3.25,2.2,1.65,2.17,1.63,-0.25,1.88,1.93,Avellino,Arezzo,avellino,arezzo
+2026-09-06,I2,Italy-SB,2627,Verona,Arezzo,5.0,0.0,H,0.0,0.0,D,1.62,3.6,4.75,,,,1.65,3.64,4.83,1.93,1.88,1.87,1.83,-0.75,1.9,1.9,Hellas Verona,Arezzo,hellas_verona,arezzo
+2026-09-11,I2,Italy-SB,2627,Empoli,Arezzo,0.0,1.0,A,0.0,0.0,D,1.96,3.25,3.9,,,,2.0,3.23,3.67,2.05,1.75,2.04,1.71,-0.5,2.03,1.78,Empoli,Arezzo,empoli,arezzo
+2026-10-18,I2,Italy-SB,2627,Sampdoria,Arezzo,1.0,2.0,A,1.0,1.0,D,1.71,3.4,4.75,,,,1.79,3.43,4.13,2.0,1.8,1.96,1.76,-0.5,1.83,1.98,Sampdoria,Arezzo,sampdoria,arezzo

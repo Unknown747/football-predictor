@@ -1,0 +1,95 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,F1,France-L1,2122,Nantes,Metz,2.0,0.0,H,1.0,0.0,H,2.3,3.2,3.25,2.36,3.27,3.43,2.33,3.21,3.27,2.3,1.61,2.3,1.63,-0.25,2.02,1.91,FC Nantes,Metz,fc_nantes,metz
+2021-08-27,F1,France-L1,2122,Nantes,Lyon,0.0,1.0,A,0.0,1.0,A,4.5,4.0,1.66,4.84,4.1,1.74,4.68,3.98,1.73,1.72,2.1,1.71,2.16,0.75,1.99,1.94,FC Nantes,Olympique Lyonnais,fc_nantes,olympique_lyonnais
+2021-09-12,F1,France-L1,2122,Nantes,Nice,0.0,2.0,A,0.0,0.0,D,3.3,3.4,2.2,3.48,3.39,2.27,3.31,3.33,2.25,2.1,1.72,2.09,1.76,0.25,1.98,1.95,FC Nantes,OGC Nice,fc_nantes,ogc_nice
+2021-09-22,F1,France-L1,2122,Nantes,Brest,3.0,1.0,H,1.0,0.0,H,2.05,3.5,3.4,2.18,3.45,3.65,2.14,3.39,3.5,2.0,1.8,1.97,1.85,-0.25,1.85,2.05,FC Nantes,Stade Brestois,fc_nantes,stade_brestois
+2021-10-03,F1,France-L1,2122,Nantes,Troyes,2.0,0.0,H,0.0,0.0,D,1.75,3.5,5.0,1.79,3.76,5.05,1.79,3.61,4.72,2.1,1.72,2.09,1.76,-0.75,2.07,1.86,FC Nantes,Troyes,fc_nantes,troyes
+2021-10-23,F1,France-L1,2122,Nantes,Clermont,2.0,1.0,H,1.0,0.0,H,2.2,3.5,3.2,2.28,3.47,3.38,2.22,3.4,3.24,2.0,1.8,1.98,1.84,-0.25,1.98,1.95,FC Nantes,Clermont Foot,fc_nantes,clermont_foot
+2021-11-07,F1,France-L1,2122,Nantes,Strasbourg,2.0,2.0,D,1.0,1.0,D,2.37,3.4,3.0,2.42,3.39,3.19,2.38,3.3,3.07,2.1,1.72,2.15,1.72,-0.25,2.06,1.87,FC Nantes,RC Strasbourg,fc_nantes,rc_strasbourg
+2021-12-01,F1,France-L1,2122,Nantes,Marseille,0.0,1.0,A,0.0,1.0,A,3.25,3.25,2.3,3.29,3.46,2.33,3.16,3.41,2.27,1.95,1.9,1.93,1.9,0.25,1.92,2.01,FC Nantes,Olympique Marseille,fc_nantes,olympique_marseille
+2021-12-10,F1,France-L1,2122,Nantes,Lens,3.0,2.0,H,0.0,2.0,A,2.7,3.4,2.6,2.81,3.3,2.76,2.75,3.23,2.69,2.2,1.66,2.17,1.7,0.0,1.97,1.96,FC Nantes,RC Lens,fc_nantes,rc_lens
+2022-01-09,F1,France-L1,2122,Nantes,Monaco,0.0,0.0,D,0.0,0.0,D,3.4,3.3,2.2,3.72,3.27,2.24,3.42,3.28,2.21,2.1,1.72,2.12,1.73,0.25,1.99,1.91,FC Nantes,AS Monaco,fc_nantes,as_monaco
+2022-01-23,F1,France-L1,2122,Nantes,Lorient,4.0,2.0,H,1.0,0.0,H,2.15,3.1,3.8,2.14,3.13,4.03,2.14,3.12,3.83,2.3,1.61,2.32,1.61,-0.25,1.82,2.08,FC Nantes,Lorient,fc_nantes,lorient
+2022-02-13,F1,France-L1,2122,Nantes,Reims,1.0,0.0,H,1.0,0.0,H,2.15,3.25,3.6,2.24,3.14,3.87,2.19,3.12,3.66,2.5,1.53,2.44,1.56,-0.25,1.87,2.06,FC Nantes,Stade de Reims,fc_nantes,stade_de_reims
+2022-02-19,F1,France-L1,2122,Nantes,Paris SG,3.0,1.0,H,3.0,0.0,H,6.5,4.33,1.5,6.5,4.75,1.51,6.35,4.61,1.49,1.61,2.3,1.63,2.3,1.25,1.75,2.05,FC Nantes,Paris Saint-Germain,fc_nantes,paris_saint_germain
+2022-03-06,F1,France-L1,2122,Nantes,Montpellier,2.0,0.0,H,0.0,0.0,D,2.1,3.1,3.75,2.14,3.32,3.94,2.11,3.3,3.71,2.1,1.72,2.1,1.75,-0.25,1.82,2.08,FC Nantes,Montpellier,fc_nantes,montpellier
+2022-03-19,F1,France-L1,2122,Nantes,Lille,0.0,1.0,A,0.0,1.0,A,3.0,2.8,2.75,3.02,3.01,2.79,2.93,2.98,2.71,2.37,1.57,2.35,1.6,0.0,2.03,1.87,FC Nantes,Lille,fc_nantes,lille
+2022-04-17,F1,France-L1,2122,Nantes,Angers,1.0,1.0,D,0.0,1.0,A,1.95,3.4,4.2,1.99,3.57,4.17,1.96,3.44,4.06,2.2,1.66,2.21,1.67,-0.5,1.95,1.95,FC Nantes,Angers,fc_nantes,angers
+2022-04-24,F1,France-L1,2122,Nantes,Bordeaux,5.0,3.0,H,0.0,2.0,A,1.75,3.75,4.75,1.83,3.8,4.68,1.8,3.76,4.46,1.96,1.94,1.89,1.92,-0.75,2.05,1.85,FC Nantes,Bordeaux,fc_nantes,bordeaux
+2022-05-11,F1,France-L1,2122,Nantes,Rennes,2.0,1.0,H,1.0,1.0,D,4.75,4.0,1.66,4.92,4.15,1.64,4.78,4.08,1.69,1.72,2.1,1.73,2.12,0.75,1.99,1.91,FC Nantes,Stade Rennais,fc_nantes,stade_rennais
+2022-05-21,F1,France-L1,2122,Nantes,St Etienne,1.0,1.0,D,1.0,0.0,H,2.6,3.5,2.62,2.63,3.63,2.69,2.58,3.6,2.62,1.61,2.3,1.6,2.35,0.0,1.91,1.99,FC Nantes,Saint-Etienne,fc_nantes,saint_etienne
+2022-08-12,F1,France-L1,2223,Nantes,Lille,1.0,1.0,D,1.0,0.0,H,3.0,3.4,2.4,3.12,3.42,2.44,3.02,3.37,2.4,1.98,1.92,1.95,1.87,0.25,1.85,2.05,FC Nantes,Lille,fc_nantes,lille
+2022-08-28,F1,France-L1,2223,Nantes,Toulouse,3.0,1.0,H,0.0,1.0,A,2.37,3.3,3.0,2.44,3.38,3.16,2.4,3.35,3.02,1.94,1.96,1.91,1.91,-0.25,2.07,1.83,FC Nantes,Toulouse,fc_nantes,toulouse
+2022-09-03,F1,France-L1,2223,Nantes,Paris SG,0.0,3.0,A,0.0,1.0,A,9.5,6.5,1.28,9.2,6.2,1.31,9.6,6.27,1.28,1.36,3.2,1.38,3.05,1.75,1.95,1.95,FC Nantes,Paris Saint-Germain,fc_nantes,paris_saint_germain
+2022-09-18,F1,France-L1,2223,Nantes,Lens,0.0,0.0,D,0.0,0.0,D,3.1,3.5,2.2,3.29,3.62,2.26,3.13,3.53,2.25,1.85,2.05,1.79,2.03,0.25,1.94,1.96,FC Nantes,RC Lens,fc_nantes,rc_lens
+2022-10-16,F1,France-L1,2223,Nantes,Brest,4.0,1.0,H,2.0,1.0,H,2.2,3.3,3.4,2.26,3.27,3.64,2.19,3.34,3.44,2.0,1.8,2.05,1.78,-0.25,1.84,2.06,FC Nantes,Stade Brestois,fc_nantes,stade_brestois
+2022-10-30,F1,France-L1,2223,Nantes,Clermont,1.0,1.0,D,0.0,0.0,D,2.0,3.75,3.6,2.05,3.71,3.77,2.02,3.61,3.56,1.91,1.99,1.85,1.96,-0.5,2.03,1.87,FC Nantes,Clermont Foot,fc_nantes,clermont_foot
+2022-11-13,F1,France-L1,2223,Nantes,Ajaccio,2.0,2.0,D,0.0,0.0,D,2.0,3.3,4.0,2.03,3.39,4.25,2.0,3.33,4.0,2.2,1.66,2.26,1.65,-0.5,2.02,1.88,FC Nantes,Ajaccio,fc_nantes,ajaccio
+2023-01-01,F1,France-L1,2223,Nantes,Auxerre,1.0,0.0,H,0.0,0.0,D,1.85,3.4,4.33,1.9,3.55,4.65,1.92,3.46,4.23,1.97,1.93,1.93,1.89,-0.5,1.9,2.0,FC Nantes,AJ Auxerre,fc_nantes,aj_auxerre
+2023-01-11,F1,France-L1,2223,Nantes,Lyon,0.0,0.0,D,0.0,0.0,D,3.3,3.4,2.2,3.39,3.43,2.29,3.31,3.37,2.24,1.88,2.02,1.86,1.96,0.25,1.94,1.96,FC Nantes,Olympique Lyonnais,fc_nantes,olympique_lyonnais
+2023-02-01,F1,France-L1,2223,Nantes,Marseille,0.0,2.0,A,0.0,0.0,D,4.5,3.8,1.75,4.72,3.88,1.81,4.53,3.76,1.78,1.94,1.96,1.9,1.92,0.75,1.88,2.02,FC Nantes,Olympique Marseille,fc_nantes,olympique_marseille
+2023-02-12,F1,France-L1,2223,Nantes,Lorient,1.0,0.0,H,0.0,0.0,D,2.0,3.5,3.75,2.05,3.56,3.93,2.01,3.49,3.78,2.0,1.8,2.03,1.8,-0.5,2.03,1.9,FC Nantes,Lorient,fc_nantes,lorient
+2023-02-26,F1,France-L1,2223,Nantes,Rennes,0.0,1.0,A,0.0,1.0,A,3.5,3.3,2.15,3.56,3.41,2.23,3.44,3.36,2.18,2.1,1.73,2.09,1.76,0.25,2.02,1.88,FC Nantes,Stade Rennais,fc_nantes,stade_rennais
+2023-03-12,F1,France-L1,2223,Nantes,Nice,2.0,2.0,D,1.0,1.0,D,3.0,3.2,2.5,3.02,3.21,2.6,2.98,3.18,2.5,2.3,1.62,2.28,1.63,0.25,1.77,2.17,FC Nantes,OGC Nice,fc_nantes,ogc_nice
+2023-04-02,F1,France-L1,2223,Nantes,Reims,0.0,3.0,A,0.0,2.0,A,3.1,3.3,2.38,3.13,3.42,2.41,3.05,3.3,2.39,2.1,1.73,2.07,1.76,0.25,1.82,2.08,FC Nantes,Stade de Reims,fc_nantes,stade_de_reims
+2023-04-09,F1,France-L1,2223,Nantes,Monaco,2.0,2.0,D,0.0,2.0,A,4.0,3.6,1.91,3.85,3.79,1.98,3.79,3.69,1.94,1.85,2.05,1.82,1.99,0.5,1.94,1.96,FC Nantes,AS Monaco,fc_nantes,as_monaco
+2023-04-23,F1,France-L1,2223,Nantes,Troyes,2.0,2.0,D,1.0,0.0,H,1.62,4.0,5.25,1.68,3.99,5.46,1.65,3.96,5.23,1.9,2.0,1.85,1.97,-0.75,1.83,2.07,FC Nantes,Troyes,fc_nantes,troyes
+2023-05-07,F1,France-L1,2223,Nantes,Strasbourg,0.0,2.0,A,0.0,1.0,A,2.75,3.4,2.55,2.88,3.35,2.62,2.78,3.34,2.56,2.05,1.85,2.01,1.81,0.0,2.04,1.86,FC Nantes,RC Strasbourg,fc_nantes,rc_strasbourg
+2023-05-20,F1,France-L1,2223,Nantes,Montpellier,0.0,3.0,A,0.0,1.0,A,2.1,3.5,3.4,2.21,3.59,3.37,2.17,3.53,3.3,1.91,1.99,1.88,1.93,-0.25,1.88,2.02,FC Nantes,Montpellier,fc_nantes,montpellier
+2023-06-03,F1,France-L1,2223,Nantes,Angers,1.0,0.0,H,1.0,0.0,H,1.36,5.25,8.0,1.39,5.33,7.71,1.36,5.28,7.95,1.57,2.38,1.57,2.41,-1.5,2.05,1.85,FC Nantes,Angers,fc_nantes,angers
+2023-08-13,F1,France-L1,2324,Nantes,Toulouse,1.0,2.0,A,1.0,0.0,H,2.5,3.4,2.75,2.66,3.36,2.82,2.57,3.38,2.74,2.03,1.87,1.98,1.85,0.0,1.88,2.02,FC Nantes,Toulouse,fc_nantes,toulouse
+2023-08-25,F1,France-L1,2324,Nantes,Monaco,3.0,3.0,D,2.0,1.0,H,4.75,3.8,1.73,4.87,3.81,1.79,4.59,3.82,1.77,1.73,2.1,1.76,2.11,0.75,1.92,2.01,FC Nantes,AS Monaco,fc_nantes,as_monaco
+2023-09-01,F1,France-L1,2324,Nantes,Marseille,1.0,1.0,D,1.0,1.0,D,5.0,3.8,1.7,4.97,4.02,1.73,4.76,3.94,1.72,1.73,2.1,1.74,2.13,0.75,2.0,1.93,FC Nantes,Olympique Marseille,fc_nantes,olympique_marseille
+2023-09-23,F1,France-L1,2324,Nantes,Lorient,5.0,3.0,H,1.0,1.0,D,2.38,3.4,3.0,2.46,3.45,3.02,2.41,3.39,2.94,2.0,1.9,1.95,1.88,-0.25,2.1,1.8,FC Nantes,Lorient,fc_nantes,lorient
+2023-10-22,F1,France-L1,2324,Nantes,Montpellier,2.0,0.0,H,1.0,0.0,H,2.88,3.5,2.4,3.03,3.62,2.37,2.9,3.54,2.38,1.75,2.05,1.76,2.08,0.25,1.83,2.07,FC Nantes,Montpellier,fc_nantes,montpellier
+2023-11-05,F1,France-L1,2324,Nantes,Reims,0.0,1.0,A,0.0,0.0,D,2.88,3.2,2.55,2.99,3.2,2.59,2.92,3.24,2.53,2.08,1.73,2.11,1.74,0.0,2.09,1.84,FC Nantes,Stade de Reims,fc_nantes,stade_de_reims
+2023-11-26,F1,France-L1,2324,Nantes,Le Havre,0.0,0.0,D,0.0,0.0,D,2.1,3.5,3.6,2.07,3.47,3.8,2.08,3.42,3.68,2.08,1.73,2.09,1.75,-0.25,1.83,2.1,FC Nantes,Le Havre,fc_nantes,le_havre
+2023-12-02,F1,France-L1,2324,Nantes,Nice,1.0,0.0,H,1.0,0.0,H,3.75,3.5,2.0,4.03,3.38,2.04,3.87,3.42,2.03,2.15,1.67,2.19,1.69,0.5,1.87,2.06,FC Nantes,OGC Nice,fc_nantes,ogc_nice
+2023-12-17,F1,France-L1,2324,Nantes,Brest,0.0,2.0,A,0.0,0.0,D,2.63,3.2,2.8,2.67,3.29,2.81,2.63,3.27,2.79,2.15,1.67,2.15,1.72,0.0,1.89,2.04,FC Nantes,Stade Brestois,fc_nantes,stade_brestois
+2024-01-14,F1,France-L1,2324,Nantes,Clermont,1.0,2.0,A,0.0,1.0,A,1.95,3.5,3.8,2.0,3.44,4.11,1.98,3.45,3.96,2.15,1.67,2.15,1.72,-0.5,1.99,1.91,FC Nantes,Clermont Foot,fc_nantes,clermont_foot
+2024-02-03,F1,France-L1,2324,Nantes,Lens,0.0,1.0,A,0.0,0.0,D,3.4,3.3,2.2,3.47,3.36,2.23,3.36,3.38,2.2,2.05,1.75,2.04,1.8,0.25,2.01,1.92,FC Nantes,RC Lens,fc_nantes,rc_lens
+2024-02-17,F1,France-L1,2324,Nantes,Paris SG,0.0,2.0,A,0.0,0.0,D,6.0,4.5,1.5,6.4,4.77,1.49,6.2,4.66,1.49,1.57,2.35,1.59,2.38,1.25,1.83,2.07,FC Nantes,Paris Saint-Germain,fc_nantes,paris_saint_germain
+2024-03-03,F1,France-L1,2324,Nantes,Metz,0.0,2.0,A,0.0,0.0,D,1.8,3.5,4.75,1.78,3.58,5.15,1.8,3.48,4.83,2.25,1.62,2.32,1.62,-0.75,2.07,1.83,FC Nantes,Metz,fc_nantes,metz
+2024-03-16,F1,France-L1,2324,Nantes,Strasbourg,1.0,3.0,A,1.0,1.0,D,2.25,3.25,3.3,2.27,3.35,3.41,2.28,3.32,3.28,2.1,1.7,2.13,1.73,-0.25,1.94,1.99,FC Nantes,RC Strasbourg,fc_nantes,rc_strasbourg
+2024-04-07,F1,France-L1,2324,Nantes,Lyon,1.0,3.0,A,1.0,0.0,H,3.3,3.25,2.25,3.3,3.3,2.34,3.21,3.32,2.3,2.08,1.73,2.08,1.76,0.25,1.92,2.01,FC Nantes,Olympique Lyonnais,fc_nantes,olympique_lyonnais
+2024-04-20,F1,France-L1,2324,Nantes,Rennes,0.0,3.0,A,0.0,0.0,D,3.0,3.3,2.4,3.11,3.3,2.45,3.03,3.31,2.41,2.1,1.73,2.09,1.76,0.25,1.82,2.08,FC Nantes,Stade Rennais,fc_nantes,stade_rennais
+2024-05-12,F1,France-L1,2324,Nantes,Lille,1.0,2.0,A,0.0,2.0,A,4.0,3.5,1.91,4.03,3.53,1.99,3.94,3.49,1.97,2.1,1.73,2.08,1.76,0.5,1.91,1.99,FC Nantes,Lille,fc_nantes,lille
+2024-08-25,F1,France-L1,2425,Nantes,Auxerre,2.0,0.0,H,1.0,0.0,H,2.25,3.3,3.25,2.25,3.22,3.22,2.28,3.33,3.19,2.1,1.73,2.05,1.78,-0.25,1.99,1.91,FC Nantes,AJ Auxerre,fc_nantes,aj_auxerre
+2024-09-15,F1,France-L1,2425,Nantes,Reims,1.0,2.0,A,1.0,1.0,D,2.38,3.4,3.0,2.43,3.37,3.03,2.39,3.38,3.0,1.99,1.91,1.95,1.88,-0.25,2.09,1.81,FC Nantes,Stade de Reims,fc_nantes,stade_de_reims
+2024-09-29,F1,France-L1,2425,Nantes,St Etienne,2.0,2.0,D,1.0,0.0,H,1.73,3.8,4.75,1.78,3.71,4.92,1.76,3.73,4.71,2.02,1.88,1.97,1.86,-0.75,1.99,1.91,FC Nantes,Saint-Etienne,fc_nantes,saint_etienne
+2024-10-20,F1,France-L1,2425,Nantes,Nice,1.0,1.0,D,0.0,0.0,D,3.25,3.1,2.38,3.26,3.16,2.44,3.16,3.17,2.4,2.2,1.67,2.24,1.67,0.25,1.85,2.05,FC Nantes,OGC Nice,fc_nantes,ogc_nice
+2024-11-03,F1,France-L1,2425,Nantes,Marseille,1.0,2.0,A,1.0,1.0,D,3.7,3.5,2.05,3.74,3.5,2.08,3.74,3.52,2.01,1.97,1.93,1.93,1.9,0.5,1.87,2.03,FC Nantes,Olympique Marseille,fc_nantes,olympique_marseille
+2024-11-24,F1,France-L1,2425,Nantes,Le Havre,0.0,2.0,A,0.0,1.0,A,1.85,3.4,4.5,1.91,3.26,4.88,1.9,3.31,4.54,2.3,1.62,2.35,1.6,-0.5,1.9,2.0,FC Nantes,Le Havre,fc_nantes,le_havre
+2024-12-08,F1,France-L1,2425,Nantes,Rennes,1.0,0.0,H,0.0,0.0,D,3.0,3.25,2.4,3.16,3.15,2.51,3.04,3.16,2.47,2.2,1.67,2.19,1.68,0.25,1.74,2.04,FC Nantes,Stade Rennais,fc_nantes,stade_rennais
+2025-01-10,F1,France-L1,2425,Nantes,Monaco,2.0,2.0,D,1.0,0.0,H,5.0,3.75,1.73,4.95,3.87,1.74,4.76,3.75,1.74,1.89,2.01,1.87,1.95,0.75,1.95,1.98,FC Nantes,AS Monaco,fc_nantes,as_monaco
+2025-01-26,F1,France-L1,2425,Nantes,Lyon,1.0,1.0,D,0.0,1.0,A,3.3,3.5,2.1,3.41,3.55,2.18,3.34,3.51,2.13,1.8,2.0,1.81,2.01,0.25,2.03,1.87,FC Nantes,Olympique Lyonnais,fc_nantes,olympique_lyonnais
+2025-02-07,F1,France-L1,2425,Nantes,Brest,0.0,2.0,A,0.0,1.0,A,2.45,3.1,3.1,2.49,3.18,3.15,2.44,3.19,3.09,2.2,1.67,2.22,1.68,-0.25,2.11,1.82,FC Nantes,Stade Brestois,fc_nantes,stade_brestois
+2025-02-23,F1,France-L1,2425,Nantes,Lens,3.0,1.0,H,1.0,0.0,H,3.7,3.4,2.05,3.69,3.47,2.11,3.6,3.41,2.08,2.08,1.82,2.02,1.81,0.25,2.08,1.82,FC Nantes,RC Lens,fc_nantes,rc_lens
+2025-03-09,F1,France-L1,2425,Nantes,Strasbourg,0.0,1.0,A,0.0,0.0,D,2.6,3.25,2.75,2.65,3.32,2.82,2.58,3.3,2.75,2.07,1.83,2.02,1.8,0.0,1.88,2.02,FC Nantes,RC Strasbourg,fc_nantes,rc_strasbourg
+2025-03-15,F1,France-L1,2425,Nantes,Lille,1.0,0.0,H,0.0,0.0,D,3.6,3.2,2.15,3.64,3.38,2.16,3.54,3.34,2.14,2.1,1.73,2.08,1.76,0.25,2.04,1.86,FC Nantes,Lille,fc_nantes,lille
+2025-04-22,F1,France-L1,2425,Nantes,Paris SG,1.0,1.0,D,0.0,1.0,A,6.25,5.5,1.4,7.03,5.42,1.42,6.94,5.15,1.4,1.44,2.75,1.46,2.65,1.25,2.05,1.88,FC Nantes,Paris Saint-Germain,fc_nantes,paris_saint_germain
+2025-04-27,F1,France-L1,2425,Nantes,Toulouse,0.0,0.0,D,0.0,0.0,D,2.88,3.25,2.45,2.97,3.29,2.55,2.94,3.27,2.45,2.05,1.85,2.0,1.82,0.0,2.09,1.81,FC Nantes,Toulouse,fc_nantes,toulouse
+2025-05-04,F1,France-L1,2425,Nantes,Angers,0.0,1.0,A,0.0,0.0,D,1.9,3.2,4.75,1.92,3.4,4.57,1.9,3.39,4.28,2.1,1.73,2.11,1.73,-0.5,1.92,1.98,FC Nantes,Angers,fc_nantes,angers
+2025-05-17,F1,France-L1,2425,Nantes,Montpellier,3.0,0.0,H,2.0,0.0,H,1.53,4.5,5.5,1.52,4.34,6.01,1.52,4.36,5.85,1.73,2.1,1.72,2.12,-1.0,1.88,1.98,FC Nantes,Montpellier,fc_nantes,montpellier
+2025-08-17,F1,France-L1,2526,Nantes,Paris SG,0.0,1.0,A,0.0,0.0,D,7.5,5.5,1.36,8.26,5.72,1.35,7.97,5.43,1.32,1.44,2.75,1.44,2.66,1.5,1.88,1.98,FC Nantes,Paris Saint-Germain,fc_nantes,paris_saint_germain
+2025-08-30,F1,France-L1,2526,Nantes,Auxerre,1.0,0.0,H,1.0,0.0,H,2.2,3.4,3.25,2.33,3.27,3.34,2.26,3.2,3.24,2.2,1.67,2.14,1.66,-0.25,1.93,1.93,FC Nantes,AJ Auxerre,fc_nantes,aj_auxerre
+2025-09-20,F1,France-L1,2526,Nantes,Rennes,2.0,2.0,D,0.0,2.0,A,3.5,3.4,2.1,3.69,3.47,2.11,3.39,3.35,2.11,2.05,1.8,1.98,1.78,0.25,2.05,1.8,FC Nantes,Stade Rennais,fc_nantes,stade_rennais
+2025-10-19,F1,France-L1,2526,Nantes,Lille,0.0,2.0,A,0.0,1.0,A,4.5,3.6,1.8,4.54,3.86,1.79,4.26,3.64,1.79,1.9,1.95,1.86,1.88,0.75,1.83,2.03,FC Nantes,Lille,fc_nantes,lille
+2025-10-29,F1,France-L1,2526,Nantes,Monaco,3.0,5.0,A,2.0,2.0,D,4.75,4.0,1.7,4.97,4.0,1.71,4.78,3.98,1.66,1.67,2.2,1.64,2.17,0.75,1.98,1.88,FC Nantes,AS Monaco,fc_nantes,as_monaco
+2025-11-02,F1,France-L1,2526,Nantes,Metz,0.0,2.0,A,0.0,0.0,D,1.91,3.6,4.0,1.92,3.73,4.07,1.89,3.52,4.0,1.95,1.9,1.91,1.84,-0.5,1.9,1.95,FC Nantes,Metz,fc_nantes,metz
+2025-11-23,F1,France-L1,2526,Nantes,Lorient,1.0,1.0,D,0.0,1.0,A,2.63,3.3,2.7,2.65,3.49,2.71,2.56,3.3,2.7,2.03,1.83,1.97,1.78,0.0,1.9,1.95,FC Nantes,Lorient,fc_nantes,lorient
+2025-12-06,F1,France-L1,2526,Nantes,Lens,1.0,2.0,A,1.0,1.0,D,4.75,3.9,1.7,4.98,4.09,1.69,4.84,3.95,1.66,1.73,2.1,1.68,2.1,0.75,1.98,1.88,FC Nantes,RC Lens,fc_nantes,rc_lens
+2026-01-18,F1,France-L1,2526,Nantes,Paris FC,1.0,2.0,A,0.0,1.0,A,3.0,3.2,2.45,,,,2.98,3.21,2.38,2.03,1.83,1.98,1.77,0.25,1.78,2.1,FC Nantes,Paris FC,fc_nantes,paris_fc
+2026-01-25,F1,France-L1,2526,Nantes,Nice,1.0,4.0,A,1.0,3.0,A,2.9,3.5,2.38,,,,2.88,3.4,2.34,1.8,2.0,1.75,2.0,0.25,1.8,2.05,FC Nantes,OGC Nice,fc_nantes,ogc_nice
+2026-02-07,F1,France-L1,2526,Nantes,Lyon,0.0,1.0,A,0.0,1.0,A,4.75,3.75,1.73,,,,4.87,3.72,1.69,1.91,1.91,1.87,1.86,0.75,1.93,1.93,FC Nantes,Olympique Lyonnais,fc_nantes,olympique_lyonnais
+2026-02-22,F1,France-L1,2526,Nantes,Le Havre,2.0,0.0,H,2.0,0.0,H,2.4,3.3,2.9,,,,2.4,3.2,2.95,2.1,1.73,2.08,1.7,-0.25,2.1,1.78,FC Nantes,Le Havre,fc_nantes,le_havre
+2026-03-07,F1,France-L1,2526,Nantes,Angers,0.0,1.0,A,0.0,0.0,D,2.2,3.0,3.6,,,,2.17,3.15,3.42,2.38,1.57,2.27,1.58,-0.25,1.88,1.98,FC Nantes,Angers,fc_nantes,angers
+2026-03-22,F1,France-L1,2526,Nantes,Strasbourg,2.0,3.0,A,1.0,1.0,D,3.6,3.6,2.0,,,,3.48,3.51,2.01,2.0,1.8,1.9,1.84,0.5,1.83,2.03,FC Nantes,RC Strasbourg,fc_nantes,rc_strasbourg
+2026-04-19,F1,France-L1,2526,Nantes,Brest,1.0,1.0,D,1.0,0.0,H,2.35,3.3,3.1,,,,2.34,3.23,3.01,2.1,1.73,2.09,1.69,-0.25,2.03,1.83,FC Nantes,Stade Brestois,fc_nantes,stade_brestois
+2026-05-02,F1,France-L1,2526,Nantes,Marseille,3.0,0.0,H,0.0,0.0,D,4.33,4.1,1.73,,,,4.45,3.95,1.68,1.67,2.2,1.62,2.19,0.75,1.93,1.93,FC Nantes,Olympique Marseille,fc_nantes,olympique_marseille
+2026-05-17,F1,France-L1,2526,Nantes,Toulouse,0.0,0.0,D,0.0,0.0,D,2.5,3.5,2.5,,,,2.52,3.51,2.55,1.73,2.1,1.72,2.03,0.0,1.93,1.93,FC Nantes,Toulouse,fc_nantes,toulouse
+2026-08-08,F2,France-L2,2627,Nantes,Red Star,0.0,1.0,A,0.0,0.0,D,1.85,3.3,4.0,,,,1.85,3.35,3.98,2.05,1.75,1.99,1.74,-0.5,1.88,1.93,FC Nantes,Red Star,fc_nantes,red_star
+2026-08-22,F2,France-L2,2627,Nantes,Rodez,2.0,5.0,A,2.0,1.0,H,1.67,3.5,4.2,,,,1.7,3.71,4.33,1.83,1.98,1.79,1.93,-0.75,1.95,1.85,FC Nantes,Rodez,fc_nantes,rodez
+2026-09-07,F2,France-L2,2627,Nantes,Nancy,1.0,0.0,H,0.0,0.0,D,1.91,3.2,3.6,,,,1.89,3.41,3.75,1.9,1.9,1.85,1.86,-0.5,1.9,1.9,FC Nantes,Nancy,fc_nantes,nancy
+2026-10-10,F2,France-L2,2627,Nantes,Reims,0.0,0.0,D,0.0,0.0,D,2.05,3.2,3.3,,,,2.06,3.37,3.22,1.9,1.9,1.83,1.89,-0.25,1.83,1.98,FC Nantes,Stade de Reims,fc_nantes,stade_de_reims
+2026-10-17,F2,France-L2,2627,Nantes,Dunkerque,2.0,3.0,A,1.0,2.0,A,1.6,3.5,5.0,,,,1.63,3.76,4.68,1.75,2.05,1.72,2.0,-0.75,1.85,1.95,FC Nantes,Dunkerque,fc_nantes,dunkerque

@@ -1,0 +1,57 @@
+======================================================================
+PRE-FLIGHT BACKTEST CHECK
+======================================================================
+
+[1] Target columns:
+  target_1x2: values=[0, 1, 2], n_nan=0
+  target_ou25: values=[0, 1], n_nan=0
+  target_home_ou05: values=[0, 1], n_nan=0
+  target_home_ou15: values=[0, 1], n_nan=0
+  target_away_ou05: values=[0, 1], n_nan=0
+  target_away_ou15: values=[0, 1], n_nan=0
+
+[2] Source labels:
+  FTR values: ['A', 'D', 'H']
+  FTHG range: 0.0 .. 9.0
+  FTAG range: 0.0 .. 9.0
+
+[3] Model → target column mapping:
+  1x2        → target_1x2           (multiclass, 3) | vals=[0, 1, 2]
+  ou25       → target_ou25          (binary, 1) | vals=[0, 1]
+  home_ou05  → target_home_ou05     (binary, 1) | vals=[0, 1]
+  home_ou15  → target_home_ou15     (binary, 1) | vals=[0, 1]
+  away_ou05  → target_away_ou05     (binary, 1) | vals=[0, 1]
+  away_ou15  → target_away_ou15     (binary, 1) | vals=[0, 1]
+
+[4] Test split (Date > 2025-06-30):
+  N test: 9438
+  Period: 2025-07-25 .. 2026-10-21
+
+[5] Test split target NaN check:
+  target_1x2: 0 NaN
+  target_ou25: 0 NaN
+  target_home_ou05: 0 NaN
+  target_home_ou15: 0 NaN
+  target_away_ou05: 0 NaN
+  target_away_ou15: 0 NaN
+
+[6] Baseline base rate (from TRAIN split only):
+  N train: 22945
+  ou25       base_rate(train) = 0.5057
+  home_ou05  base_rate(train) = 0.7655
+  home_ou15  base_rate(train) = 0.4306
+  away_ou05  base_rate(train) = 0.6861
+  away_ou15  base_rate(train) = 0.3366
+
+[7] feat_cols:
+  Count: 78
+  First 3: ['odds_pH', 'odds_pD', 'odds_pA']
+  Last 3: ['diff_season_ppg', 'sum_expected_goals', 'diff_venue_ppg']
+
+[8] Odds coverage on test split:
+  odds_pH: 9426/9438 = 99.87%
+  odds_pD: 9426/9438 = 99.87%
+  odds_pA: 9426/9438 = 99.87%
+  odds_pOver25: 9414/9438 = 99.75%
+
+=== PRE-FLIGHT COMPLETE ===

@@ -1,0 +1,6 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2026-08-22,G1,Greece-SL,2627,AEK,Iraklis,4.0,0.0,H,2.0,0.0,H,1.17,6.5,13.0,,,,1.17,6.26,12.77,1.53,2.4,1.48,2.49,-2.0,1.98,1.83,AEK Athens,Iraklis,aek_athens,iraklis
+2026-08-29,G1,Greece-SL,2627,Volos NFC,Iraklis,1.0,1.0,D,0.0,1.0,A,1.86,3.5,4.1,,,,1.85,3.29,3.96,2.1,1.7,2.1,1.67,-0.5,1.9,1.9,Volos NFC,Iraklis,volos_nfc,iraklis
+2026-09-07,G1,Greece-SL,2627,Asteras Tripolis,Iraklis,0.0,2.0,A,0.0,1.0,A,1.96,3.4,3.75,,,,1.99,3.33,3.45,2.1,1.7,2.03,1.72,-0.5,2.0,1.8,Asteras Tripolis,Iraklis,asteras_tripolis,iraklis
+2026-09-19,G1,Greece-SL,2627,Aris,Iraklis,0.0,0.0,D,0.0,0.0,D,1.57,3.75,5.5,,,,1.61,3.65,5.11,2.0,1.8,1.98,1.76,-0.75,1.8,2.0,Aris Thessaloniki,Iraklis,aris_thessaloniki,iraklis
+2026-10-18,G1,Greece-SL,2627,PAOK,Iraklis,2.0,1.0,H,0.0,0.0,D,1.22,6.0,10.0,,,,1.22,5.53,10.1,1.57,2.35,1.57,2.27,-1.75,1.98,1.83,PAOK,Iraklis,paok,iraklis

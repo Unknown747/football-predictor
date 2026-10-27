@@ -1,0 +1,103 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E1,England-Champ,2122,Nott'm Forest,Bournemouth,1.0,2.0,A,0.0,1.0,A,3.5,3.3,2.15,3.53,3.33,2.22,3.44,3.29,2.19,2.2,1.66,2.18,1.69,0.25,2.0,1.93,Nottingham Forest,Bournemouth,nottingham_forest,bournemouth
+2021-08-18,E1,England-Champ,2122,Birmingham,Bournemouth,0.0,2.0,A,0.0,0.0,D,3.1,3.25,2.4,3.23,3.19,2.44,3.08,3.2,2.41,2.1,1.72,2.12,1.72,0.25,1.81,2.13,Birmingham,Bournemouth,birmingham,bournemouth
+2021-08-28,E1,England-Champ,2122,Hull,Bournemouth,0.0,0.0,D,0.0,0.0,D,3.6,3.4,2.1,3.49,3.32,2.24,3.42,3.3,2.2,2.1,1.72,2.13,1.72,0.25,1.99,1.94,Hull City,Bournemouth,hull_city,bournemouth
+2021-09-18,E1,England-Champ,2122,Cardiff,Bournemouth,0.0,1.0,A,0.0,0.0,D,2.9,3.2,2.55,2.95,3.34,2.57,2.85,3.27,2.54,2.0,1.8,2.06,1.77,0.0,2.07,1.86,Cardiff City,Bournemouth,cardiff_city,bournemouth
+2021-09-29,E1,England-Champ,2122,Peterboro,Bournemouth,0.0,0.0,D,0.0,0.0,D,5.25,3.75,1.66,5.17,3.76,1.75,4.9,3.7,1.73,1.9,1.9,1.87,1.95,0.75,1.94,1.96,Peterborough United,Bournemouth,peterborough_united,bournemouth
+2021-10-16,E1,England-Champ,2122,Bristol City,Bournemouth,0.0,2.0,A,0.0,2.0,A,4.5,3.4,1.85,4.44,3.55,1.92,4.2,3.5,1.89,2.0,1.8,2.03,1.79,0.5,2.0,1.9,Bristol City,Bournemouth,bristol_city,bournemouth
+2021-10-19,E1,England-Champ,2122,Stoke,Bournemouth,0.0,1.0,A,0.0,0.0,D,2.7,3.2,2.8,2.58,3.21,3.05,2.67,3.16,2.78,2.0,1.8,2.1,1.74,0.0,1.82,2.08,Stoke City,Bournemouth,stoke_city,bournemouth
+2021-10-30,E1,England-Champ,2122,Reading,Bournemouth,0.0,2.0,A,0.0,1.0,A,5.0,3.6,1.72,5.09,3.68,1.78,4.73,3.65,1.76,1.9,1.9,1.92,1.89,0.75,1.9,2.0,Reading,Bournemouth,reading,bournemouth
+2021-11-21,E1,England-Champ,2122,Derby,Bournemouth,3.0,2.0,H,1.0,2.0,A,4.5,3.5,1.8,4.89,3.41,1.88,4.64,3.41,1.84,2.3,1.61,2.25,1.65,0.5,2.04,1.86,Derby,Bournemouth,derby,bournemouth
+2021-11-24,E1,England-Champ,2122,Millwall,Bournemouth,1.0,1.0,D,0.0,1.0,A,3.6,3.3,2.15,3.51,3.39,2.23,3.43,3.34,2.17,2.2,1.66,2.18,1.68,0.25,2.02,1.88,Millwall,Bournemouth,millwall,bournemouth
+2021-12-03,E1,England-Champ,2122,Fulham,Bournemouth,1.0,1.0,D,0.0,0.0,D,1.8,3.75,4.33,1.84,3.67,4.65,1.83,3.68,4.33,1.83,2.02,1.83,1.98,-0.5,1.83,2.07,Fulham,Bournemouth,fulham,bournemouth
+2021-12-18,E1,England-Champ,2122,Middlesbrough,Bournemouth,1.0,0.0,H,0.0,0.0,D,2.6,3.25,2.8,2.7,3.3,2.82,2.61,3.26,2.78,2.1,1.72,2.14,1.72,0.0,1.87,2.03,Middlesbrough,Bournemouth,middlesbrough,bournemouth
+2021-12-27,E1,England-Champ,2122,QPR,Bournemouth,0.0,1.0,A,0.0,1.0,A,2.8,3.4,2.45,2.61,3.66,2.51,2.75,3.47,2.47,1.9,1.95,1.88,1.92,0.0,2.07,1.83,Queens Park Rangers,Bournemouth,queens_park_rangers,bournemouth
+2022-01-15,E1,England-Champ,2122,Luton,Bournemouth,3.0,2.0,H,2.0,0.0,H,2.8,3.4,2.45,3.1,3.32,2.48,2.91,3.3,2.45,2.02,1.83,2.02,1.79,0.0,2.1,1.8,Luton,Bournemouth,luton,bournemouth
+2022-01-29,E1,England-Champ,2122,Barnsley,Bournemouth,0.0,1.0,A,0.0,1.0,A,5.5,3.6,1.7,5.72,3.67,1.71,5.28,3.63,1.7,2.05,1.8,2.05,1.77,0.75,1.97,1.93,Barnsley,Bournemouth,barnsley,bournemouth
+2022-02-12,E1,England-Champ,2122,Blackpool,Bournemouth,1.0,2.0,A,1.0,0.0,H,4.0,3.5,1.95,4.27,3.55,1.94,4.02,3.47,1.94,2.1,1.72,2.11,1.73,0.5,1.94,1.96,Blackpool,Bournemouth,blackpool,bournemouth
+2022-03-05,E1,England-Champ,2122,Preston,Bournemouth,2.0,1.0,H,0.0,0.0,D,3.4,3.25,2.25,3.51,3.28,2.28,3.31,3.27,2.25,2.1,1.72,2.12,1.72,0.25,1.9,2.0,Preston,Bournemouth,preston,bournemouth
+2022-03-19,E1,England-Champ,2122,Huddersfield,Bournemouth,0.0,3.0,A,0.0,2.0,A,3.0,3.3,2.4,3.14,3.45,2.38,3.02,3.34,2.38,2.1,1.72,2.03,1.78,0.25,1.82,2.08,Huddersfield,Bournemouth,huddersfield,bournemouth
+2022-04-06,E1,England-Champ,2122,West Brom,Bournemouth,2.0,0.0,H,2.0,0.0,H,2.6,3.25,2.8,2.69,3.32,2.82,2.6,3.29,2.77,2.1,1.72,2.07,1.75,0.0,1.87,2.03,West Bromwich Albion,Bournemouth,west_bromwich_albion,bournemouth
+2022-04-09,E1,England-Champ,2122,Sheffield United,Bournemouth,0.0,0.0,D,0.0,0.0,D,2.3,3.3,3.1,2.51,3.28,3.09,2.4,3.3,3.02,2.1,1.77,2.03,1.79,-0.25,2.07,1.83,Sheffield United,Bournemouth,sheffield_united,bournemouth
+2022-04-18,E1,England-Champ,2122,Coventry,Bournemouth,0.0,3.0,A,0.0,2.0,A,3.0,3.25,2.45,3.01,3.38,2.5,2.9,3.36,2.44,1.98,1.88,1.95,1.86,0.25,1.79,2.11,Coventry,Bournemouth,coventry,bournemouth
+2022-04-26,E1,England-Champ,2122,Swansea,Bournemouth,3.0,3.0,D,2.0,0.0,H,4.0,3.5,1.9,4.07,3.66,1.96,3.92,3.52,1.96,1.95,1.9,1.94,1.87,0.5,1.98,1.92,Swansea City,Bournemouth,swansea_city,bournemouth
+2022-04-30,E1,England-Champ,2122,Blackburn,Bournemouth,0.0,3.0,A,0.0,1.0,A,2.87,3.3,2.5,2.94,3.58,2.45,2.88,3.44,2.42,1.95,1.9,1.92,1.89,0.25,1.79,2.11,Blackburn,Bournemouth,blackburn,bournemouth
+2022-08-13,E0,England-PL,2223,Man City,Bournemouth,4.0,0.0,H,3.0,0.0,H,1.06,13.0,29.0,1.07,13.82,41.0,1.07,12.72,37.57,1.33,3.4,1.33,3.35,-2.75,1.88,2.02,Manchester City,Bournemouth,manchester_city,bournemouth
+2022-08-27,E0,England-PL,2223,Liverpool,Bournemouth,9.0,0.0,H,5.0,0.0,H,1.1,10.0,26.0,1.13,10.48,23.11,1.11,10.17,25.51,1.36,3.2,1.36,3.16,-2.5,1.86,2.04,Liverpool,Bournemouth,liverpool,bournemouth
+2022-09-03,E0,England-PL,2223,Nott'm Forest,Bournemouth,2.0,3.0,A,2.0,0.0,H,1.95,3.5,3.8,2.05,3.51,4.0,2.02,3.47,3.89,2.1,1.72,2.1,1.75,-0.5,2.02,1.88,Nottingham Forest,Bournemouth,nottingham_forest,bournemouth
+2022-09-17,E0,England-PL,2223,Newcastle,Bournemouth,1.0,1.0,D,0.0,0.0,D,1.44,4.4,7.5,1.49,4.56,7.5,1.47,4.47,7.39,1.87,2.03,1.82,2.01,-1.25,2.07,1.83,Newcastle United,Bournemouth,newcastle_united,bournemouth
+2022-10-15,E0,England-PL,2223,Fulham,Bournemouth,2.0,2.0,D,1.0,2.0,A,1.85,3.75,4.0,1.92,3.77,4.23,1.89,3.72,4.13,1.96,1.94,1.9,1.92,-0.5,1.88,2.02,Fulham,Bournemouth,fulham,bournemouth
+2022-10-24,E0,England-PL,2223,West Ham,Bournemouth,2.0,0.0,H,1.0,0.0,H,1.55,4.0,6.0,1.59,4.12,6.53,1.55,4.16,6.2,2.01,1.89,1.93,1.89,-1.0,2.01,1.89,West Ham United,Bournemouth,west_ham_united,bournemouth
+2022-11-05,E0,England-PL,2223,Leeds,Bournemouth,4.0,3.0,H,1.0,2.0,A,1.72,3.8,4.75,1.74,3.99,5.08,1.74,3.93,4.73,1.8,2.0,1.79,2.05,-0.75,1.95,1.95,Leeds,Bournemouth,leeds,bournemouth
+2022-12-27,E0,England-PL,2223,Chelsea,Bournemouth,2.0,0.0,H,2.0,0.0,H,1.3,5.5,10.0,1.32,5.72,10.69,1.32,5.46,9.72,1.67,2.2,1.66,2.23,-1.5,1.98,1.92,Chelsea,Bournemouth,chelsea,bournemouth
+2023-01-03,E0,England-PL,2223,Man United,Bournemouth,3.0,0.0,H,1.0,0.0,H,1.29,5.5,11.0,1.29,6.02,10.83,1.29,5.94,10.56,1.53,2.5,1.54,2.48,-1.75,2.03,1.87,Manchester United,Bournemouth,manchester_united,bournemouth
+2023-01-14,E0,England-PL,2223,Brentford,Bournemouth,2.0,0.0,H,1.0,0.0,H,1.65,4.0,5.25,1.69,4.14,5.23,1.66,4.09,5.2,1.8,2.0,1.81,2.02,-0.75,1.84,2.09,Brentford,Bournemouth,brentford,bournemouth
+2023-02-04,E0,England-PL,2223,Brighton,Bournemouth,1.0,0.0,H,0.0,0.0,D,1.33,5.25,8.5,1.35,5.42,9.88,1.35,5.22,9.18,1.73,2.1,1.71,2.18,-1.5,2.05,1.88,Brighton & Hove Albion,Bournemouth,brighton_hove_albion,bournemouth
+2023-02-18,E0,England-PL,2223,Wolves,Bournemouth,0.0,1.0,A,0.0,0.0,D,1.67,3.6,6.0,1.69,3.86,5.78,1.68,3.81,5.53,2.1,1.73,2.08,1.76,-0.75,1.88,2.02,Wolverhampton,Bournemouth,wolverhampton,bournemouth
+2023-03-04,E0,England-PL,2223,Arsenal,Bournemouth,3.0,2.0,H,0.0,1.0,A,1.22,7.0,12.0,1.22,6.83,13.69,1.22,6.82,13.83,1.57,2.38,1.58,2.41,-1.75,1.75,2.05,Arsenal,Bournemouth,arsenal,bournemouth
+2023-03-18,E0,England-PL,2223,Aston Villa,Bournemouth,3.0,0.0,H,1.0,0.0,H,1.7,3.8,5.0,1.74,3.88,5.11,1.72,3.85,4.99,1.97,1.93,1.92,1.9,-0.75,1.94,1.96,Aston Villa,Bournemouth,aston_villa,bournemouth
+2023-04-08,E0,England-PL,2223,Leicester,Bournemouth,0.0,1.0,A,0.0,1.0,A,1.83,3.75,4.2,1.91,3.76,4.18,1.88,3.72,4.11,1.88,2.02,1.85,1.97,-0.5,1.9,2.0,Leicester City,Bournemouth,leicester_city,bournemouth
+2023-04-15,E0,England-PL,2223,Tottenham,Bournemouth,2.0,3.0,A,1.0,1.0,D,1.45,4.5,7.0,1.49,4.68,6.8,1.47,4.6,6.83,1.67,2.2,1.69,2.2,-1.25,2.06,1.84,Tottenham Hotspur,Bournemouth,tottenham_hotspur,bournemouth
+2023-04-27,E0,England-PL,2223,Southampton,Bournemouth,0.0,1.0,A,0.0,0.0,D,2.25,3.4,3.2,2.34,3.49,3.19,2.3,3.43,3.15,2.03,1.87,2.01,1.82,-0.25,2.0,1.9,Southampton,Bournemouth,southampton,bournemouth
+2023-05-13,E0,England-PL,2223,Crystal Palace,Bournemouth,2.0,0.0,H,1.0,0.0,H,1.83,3.6,4.2,1.88,3.82,4.24,1.88,3.7,4.18,1.94,1.96,1.9,1.92,-0.5,1.87,2.03,Crystal Palace,Bournemouth,crystal_palace,bournemouth
+2023-05-28,E0,England-PL,2223,Everton,Bournemouth,1.0,0.0,H,0.0,0.0,D,1.5,4.5,6.5,1.5,4.63,6.54,1.49,4.61,6.58,1.67,2.2,1.68,2.22,-1.25,2.09,1.81,Everton,Bournemouth,everton,bournemouth
+2023-08-19,E0,England-PL,2324,Liverpool,Bournemouth,3.0,1.0,H,2.0,1.0,H,1.2,7.0,13.0,1.23,7.14,11.46,1.23,6.86,11.82,1.33,3.4,1.35,3.21,-2.0,2.04,1.86,Liverpool,Bournemouth,liverpool,bournemouth
+2023-09-02,E0,England-PL,2324,Brentford,Bournemouth,2.0,2.0,D,1.0,1.0,D,1.73,3.8,4.75,1.75,4.14,4.62,1.72,4.06,4.67,1.73,2.1,1.74,2.12,-0.75,1.95,1.98,Brentford,Bournemouth,brentford,bournemouth
+2023-09-24,E0,England-PL,2324,Brighton,Bournemouth,3.0,1.0,H,1.0,1.0,D,1.36,5.25,7.5,1.41,5.08,7.9,1.38,5.31,7.58,1.36,3.2,1.37,3.11,-1.5,2.01,1.89,Brighton & Hove Albion,Bournemouth,brighton_hove_albion,bournemouth
+2023-10-07,E0,England-PL,2324,Everton,Bournemouth,3.0,0.0,H,2.0,0.0,H,1.91,3.6,3.8,1.99,3.71,3.88,1.97,3.7,3.81,1.85,2.05,1.83,2.01,-0.5,1.98,1.92,Everton,Bournemouth,everton,bournemouth
+2023-11-04,E0,England-PL,2324,Man City,Bournemouth,6.0,1.0,H,3.0,0.0,H,1.1,11.0,19.0,1.08,12.84,29.22,1.1,11.39,26.19,1.29,3.6,1.3,3.53,-2.5,1.89,2.04,Manchester City,Bournemouth,manchester_city,bournemouth
+2023-11-25,E0,England-PL,2324,Sheffield United,Bournemouth,1.0,3.0,A,0.0,2.0,A,3.2,3.5,2.2,3.36,3.54,2.2,3.29,3.53,2.21,1.85,2.05,1.83,2.02,0.25,1.99,1.94,Sheffield United,Bournemouth,sheffield_united,bournemouth
+2023-12-06,E0,England-PL,2324,Crystal Palace,Bournemouth,0.0,2.0,A,0.0,1.0,A,2.25,3.5,3.1,2.3,3.45,3.23,2.27,3.45,3.25,2.01,1.89,1.98,1.86,-0.25,1.98,1.92,Crystal Palace,Bournemouth,crystal_palace,bournemouth
+2023-12-09,E0,England-PL,2324,Man United,Bournemouth,0.0,3.0,A,0.0,1.0,A,1.55,4.33,5.75,1.55,4.7,5.52,1.55,4.65,5.54,1.5,2.5,1.51,2.56,-1.0,1.91,1.99,Manchester United,Bournemouth,manchester_united,bournemouth
+2023-12-23,E0,England-PL,2324,Nott'm Forest,Bournemouth,2.0,3.0,A,0.0,0.0,D,2.75,3.4,2.55,2.74,3.52,2.61,2.76,3.49,2.54,1.95,1.95,1.89,1.95,0.0,2.02,1.88,Nottingham Forest,Bournemouth,nottingham_forest,bournemouth
+2023-12-31,E0,England-PL,2324,Tottenham,Bournemouth,3.0,1.0,H,1.0,0.0,H,1.75,4.2,4.0,1.77,4.42,4.08,1.78,4.33,4.04,1.4,2.88,1.4,2.96,-0.75,2.0,1.9,Tottenham Hotspur,Bournemouth,tottenham_hotspur,bournemouth
+2024-02-01,E0,England-PL,2324,West Ham,Bournemouth,1.0,1.0,D,0.0,1.0,A,2.4,3.75,2.75,2.45,3.71,2.8,2.43,3.73,2.75,1.62,2.25,1.65,2.27,-0.25,2.08,1.73,West Ham United,Bournemouth,west_ham_united,bournemouth
+2024-02-10,E0,England-PL,2324,Fulham,Bournemouth,3.0,1.0,H,2.0,0.0,H,2.38,3.5,2.8,2.46,3.6,2.87,2.4,3.58,2.88,1.73,2.08,1.74,2.12,-0.25,2.13,1.81,Fulham,Bournemouth,fulham,bournemouth
+2024-02-17,E0,England-PL,2324,Newcastle,Bournemouth,2.0,2.0,D,0.0,0.0,D,1.83,4.2,3.75,1.87,4.15,3.84,1.85,4.16,3.83,1.48,2.6,1.47,2.68,-0.5,1.85,2.05,Newcastle United,Bournemouth,newcastle_united,bournemouth
+2024-03-03,E0,England-PL,2324,Burnley,Bournemouth,0.0,2.0,A,0.0,1.0,A,3.75,3.6,1.95,3.79,3.83,1.96,3.72,3.78,1.96,1.7,2.1,1.71,2.18,0.5,1.93,1.97,Burnley,Bournemouth,burnley,bournemouth
+2024-04-06,E0,England-PL,2324,Luton,Bournemouth,2.0,1.0,H,0.0,0.0,D,3.75,3.8,1.91,3.65,4.11,1.93,3.68,4.04,1.91,1.5,2.63,1.49,2.62,0.5,1.99,1.91,Luton,Bournemouth,luton,bournemouth
+2024-04-21,E0,England-PL,2324,Aston Villa,Bournemouth,3.0,1.0,H,1.0,1.0,D,1.85,4.0,3.6,1.87,4.17,3.83,1.87,4.11,3.76,1.44,2.75,1.44,2.77,-0.5,1.87,2.03,Aston Villa,Bournemouth,aston_villa,bournemouth
+2024-04-24,E0,England-PL,2324,Wolves,Bournemouth,0.0,1.0,A,0.0,1.0,A,2.7,3.6,2.5,2.74,3.53,2.6,2.72,3.6,2.52,1.67,2.2,1.66,2.24,0.0,2.0,1.9,Wolverhampton,Bournemouth,wolverhampton,bournemouth
+2024-05-04,E0,England-PL,2324,Arsenal,Bournemouth,3.0,0.0,H,1.0,0.0,H,1.22,7.5,11.0,1.2,7.76,12.56,1.2,7.59,12.74,1.33,3.4,1.34,3.23,-2.0,1.95,1.98,Arsenal,Bournemouth,arsenal,bournemouth
+2024-05-19,E0,England-PL,2324,Chelsea,Bournemouth,2.0,1.0,H,1.0,0.0,H,1.45,5.0,6.0,1.45,5.4,5.93,1.45,5.32,5.99,1.29,3.75,1.27,3.71,-1.25,1.91,1.99,Chelsea,Bournemouth,chelsea,bournemouth
+2024-08-17,E0,England-PL,2425,Nott'm Forest,Bournemouth,1.0,1.0,D,1.0,0.0,H,2.45,3.5,2.8,2.47,3.42,2.97,2.45,3.49,2.89,1.73,2.1,1.77,2.08,0.0,1.82,2.11,Nottingham Forest,Bournemouth,nottingham_forest,bournemouth
+2024-08-31,E0,England-PL,2425,Everton,Bournemouth,2.0,3.0,A,0.0,0.0,D,2.75,3.4,2.55,2.82,3.38,2.62,2.78,3.4,2.59,1.92,1.98,1.87,1.95,0.0,2.01,1.89,Everton,Bournemouth,everton,bournemouth
+2024-09-21,E0,England-PL,2425,Liverpool,Bournemouth,3.0,0.0,H,3.0,0.0,H,1.3,6.25,9.0,1.28,6.36,9.45,1.29,6.31,9.35,1.36,3.2,1.36,3.12,-1.75,2.0,1.9,Liverpool,Bournemouth,liverpool,bournemouth
+2024-10-05,E0,England-PL,2425,Leicester,Bournemouth,1.0,0.0,H,1.0,0.0,H,3.1,3.75,2.15,3.35,3.63,2.17,3.24,3.66,2.17,1.67,2.2,1.69,2.21,0.25,1.99,1.91,Leicester City,Bournemouth,leicester_city,bournemouth
+2024-10-26,E0,England-PL,2425,Aston Villa,Bournemouth,1.0,1.0,D,0.0,0.0,D,1.85,3.9,3.8,1.86,4.0,4.03,1.86,3.97,3.97,1.57,2.38,1.6,2.39,-0.5,1.86,2.04,Aston Villa,Bournemouth,aston_villa,bournemouth
+2024-11-09,E0,England-PL,2425,Brentford,Bournemouth,3.0,2.0,H,1.0,1.0,D,2.5,3.5,2.7,2.59,3.56,2.73,2.53,3.59,2.72,1.62,2.3,1.6,2.39,0.0,1.89,2.01,Brentford,Bournemouth,brentford,bournemouth
+2024-11-30,E0,England-PL,2425,Wolves,Bournemouth,2.0,4.0,A,1.0,3.0,A,2.8,3.6,2.4,2.86,3.6,2.46,2.81,3.61,2.44,1.67,2.2,1.65,2.27,0.0,2.09,1.81,Wolverhampton,Bournemouth,wolverhampton,bournemouth
+2024-12-08,E0,England-PL,2425,Ipswich,Bournemouth,1.0,2.0,A,1.0,0.0,H,3.5,3.75,2.0,3.68,3.76,2.01,3.57,3.73,2.02,1.73,2.1,1.72,2.16,0.5,1.87,2.03,Ipswich,Bournemouth,ipswich,bournemouth
+2024-12-22,E0,England-PL,2425,Man United,Bournemouth,0.0,3.0,A,0.0,1.0,A,1.8,3.8,4.2,1.86,3.87,4.16,1.85,3.88,4.07,1.57,2.38,1.6,2.36,-0.5,1.85,2.05,Manchester United,Bournemouth,manchester_united,bournemouth
+2024-12-29,E0,England-PL,2425,Fulham,Bournemouth,2.0,2.0,D,1.0,0.0,H,2.3,3.6,2.88,2.37,3.59,3.0,2.35,3.58,2.91,1.67,2.2,1.67,2.21,-0.25,2.05,1.85,Fulham,Bournemouth,fulham,bournemouth
+2025-01-14,E0,England-PL,2425,Chelsea,Bournemouth,2.0,2.0,D,1.0,0.0,H,1.48,4.75,6.0,1.5,4.96,6.17,1.5,4.81,5.92,1.4,3.0,1.42,2.87,-1.25,2.02,1.88,Chelsea,Bournemouth,chelsea,bournemouth
+2025-01-18,E0,England-PL,2425,Newcastle,Bournemouth,1.0,4.0,A,1.0,2.0,A,1.62,4.2,5.0,1.65,4.33,4.99,1.64,4.3,4.93,1.53,2.5,1.54,2.47,-0.75,1.78,2.03,Newcastle United,Bournemouth,newcastle_united,bournemouth
+2025-02-15,E0,England-PL,2425,Southampton,Bournemouth,1.0,3.0,A,0.0,2.0,A,6.0,4.5,1.5,6.01,4.65,1.52,5.83,4.64,1.52,1.5,2.63,1.49,2.62,1.0,2.06,1.84,Southampton,Bournemouth,southampton,bournemouth
+2025-02-25,E0,England-PL,2425,Brighton,Bournemouth,2.0,1.0,H,1.0,0.0,H,2.0,3.8,3.3,2.06,3.84,3.53,2.06,3.81,3.43,1.62,2.3,1.62,2.35,-0.25,1.78,2.03,Brighton & Hove Albion,Bournemouth,brighton_hove_albion,bournemouth
+2025-03-09,E0,England-PL,2425,Tottenham,Bournemouth,2.0,2.0,D,0.0,1.0,A,2.7,3.9,2.35,2.73,3.95,2.42,2.71,3.88,2.4,1.37,3.0,1.39,3.02,0.0,2.08,1.82,Tottenham Hotspur,Bournemouth,tottenham_hotspur,bournemouth
+2025-04-05,E0,England-PL,2425,West Ham,Bournemouth,2.0,2.0,D,0.0,1.0,A,3.0,3.5,2.3,3.03,3.53,2.38,3.04,3.47,2.34,1.8,2.0,1.8,2.02,0.25,1.85,2.05,West Ham United,Bournemouth,west_ham_united,bournemouth
+2025-04-19,E0,England-PL,2425,Crystal Palace,Bournemouth,0.0,0.0,D,0.0,0.0,D,2.45,3.6,2.63,2.59,3.61,2.71,2.54,3.54,2.69,1.8,2.0,1.78,2.04,0.0,1.88,2.02,Crystal Palace,Bournemouth,crystal_palace,bournemouth
+2025-05-03,E0,England-PL,2425,Arsenal,Bournemouth,1.0,2.0,A,1.0,0.0,H,2.05,3.7,3.4,2.07,3.63,3.62,2.08,3.6,3.47,1.87,2.03,1.84,1.99,-0.25,1.82,2.08,Arsenal,Bournemouth,arsenal,bournemouth
+2025-05-20,E0,England-PL,2425,Man City,Bournemouth,3.0,1.0,H,2.0,0.0,H,1.55,4.33,5.75,1.57,4.52,5.6,1.55,4.51,5.49,1.53,2.5,1.51,2.52,-1.0,1.91,1.99,Manchester City,Bournemouth,manchester_city,bournemouth
+2025-08-15,E0,England-PL,2526,Liverpool,Bournemouth,4.0,2.0,H,1.0,0.0,H,1.3,6.0,8.5,1.28,6.56,9.07,1.31,5.96,8.31,1.36,3.2,1.35,3.13,-1.5,1.83,2.03,Liverpool,Bournemouth,liverpool,bournemouth
+2025-08-30,E0,England-PL,2526,Tottenham,Bournemouth,0.0,1.0,A,0.0,1.0,A,1.73,4.2,4.2,1.76,4.14,4.39,1.73,4.06,4.29,1.57,2.38,1.54,2.38,-0.75,1.95,1.9,Tottenham Hotspur,Bournemouth,tottenham_hotspur,bournemouth
+2025-09-27,E0,England-PL,2526,Leeds,Bournemouth,2.0,2.0,D,1.0,1.0,D,3.1,3.25,2.38,2.99,3.32,2.51,2.98,3.29,2.41,2.03,1.83,1.96,1.81,0.25,1.8,2.05,Leeds,Bournemouth,leeds,bournemouth
+2025-10-18,E0,England-PL,2526,Crystal Palace,Bournemouth,3.0,3.0,D,0.0,2.0,A,2.2,3.4,3.25,2.23,3.4,3.43,2.25,3.35,3.22,1.95,1.9,1.92,1.85,-0.25,1.95,1.9,Crystal Palace,Bournemouth,crystal_palace,bournemouth
+2025-11-02,E0,England-PL,2526,Man City,Bournemouth,3.0,1.0,H,2.0,1.0,H,1.5,4.75,5.75,1.51,4.75,6.02,1.49,4.64,5.9,1.53,2.5,1.52,2.45,-1.25,2.05,1.75,Manchester City,Bournemouth,manchester_city,bournemouth
+2025-11-09,E0,England-PL,2526,Aston Villa,Bournemouth,4.0,0.0,H,2.0,0.0,H,2.2,3.4,3.25,2.25,3.49,3.29,2.19,3.45,3.25,1.88,1.98,1.82,1.95,-0.25,1.9,1.95,Aston Villa,Bournemouth,aston_villa,bournemouth
+2025-11-29,E0,England-PL,2526,Sunderland,Bournemouth,3.0,2.0,H,1.0,2.0,A,3.2,3.3,2.3,3.14,3.4,2.38,3.04,3.3,2.35,2.0,1.85,1.96,1.81,0.25,1.85,2.0,Sunderland,Bournemouth,sunderland,bournemouth
+2025-12-15,E0,England-PL,2526,Man United,Bournemouth,4.0,4.0,D,2.0,1.0,H,1.83,4.0,3.8,1.84,4.21,3.93,1.82,3.98,3.84,1.57,2.38,1.55,2.36,-0.5,1.83,2.03,Manchester United,Bournemouth,manchester_united,bournemouth
+2025-12-27,E0,England-PL,2526,Brentford,Bournemouth,4.0,1.0,H,2.0,0.0,H,2.25,3.6,3.0,2.31,3.67,3.05,2.25,3.57,2.98,1.67,2.2,1.69,2.11,-0.25,1.98,1.88,Brentford,Bournemouth,brentford,bournemouth
+2025-12-30,E0,England-PL,2526,Chelsea,Bournemouth,2.0,2.0,D,2.0,2.0,D,1.5,4.75,5.75,1.53,4.74,5.95,1.51,4.56,5.81,1.5,2.63,1.49,2.58,-1.0,1.78,2.03,Chelsea,Bournemouth,chelsea,bournemouth
+2026-01-19,E0,England-PL,2526,Brighton,Bournemouth,1.0,1.0,D,0.0,1.0,A,1.85,3.9,3.8,,,,1.85,3.92,3.75,1.5,2.63,1.5,2.53,-0.5,1.88,1.98,Brighton & Hove Albion,Bournemouth,brighton_hove_albion,bournemouth
+2026-01-31,E0,England-PL,2526,Wolves,Bournemouth,0.0,2.0,A,0.0,1.0,A,2.9,3.5,2.3,,,,2.95,3.5,2.31,1.73,2.1,1.73,2.06,0.25,1.8,2.05,Wolverhampton,Bournemouth,wolverhampton,bournemouth
+2026-02-10,E0,England-PL,2526,Everton,Bournemouth,1.0,2.0,A,1.0,0.0,H,2.38,3.4,3.0,,,,2.41,3.35,2.91,1.88,1.98,1.82,1.93,0.0,1.7,2.1,Everton,Bournemouth,everton,bournemouth
+2026-02-21,E0,England-PL,2526,West Ham,Bournemouth,0.0,0.0,D,0.0,0.0,D,2.5,3.7,2.63,,,,2.41,3.65,2.71,1.57,2.38,1.54,2.38,0.0,1.85,2.0,West Ham United,Bournemouth,west_ham_united,bournemouth
+2026-03-14,E0,England-PL,2526,Burnley,Bournemouth,0.0,0.0,D,0.0,0.0,D,4.1,3.8,1.83,,,,4.02,3.83,1.82,1.73,2.1,1.68,2.1,0.5,2.03,1.83,Burnley,Bournemouth,burnley,bournemouth
+2026-04-11,E0,England-PL,2526,Arsenal,Bournemouth,1.0,2.0,A,1.0,1.0,D,1.44,4.5,7.5,,,,1.43,4.55,7.06,1.62,2.3,1.62,2.24,-1.25,1.98,1.88,Arsenal,Bournemouth,arsenal,bournemouth
+2026-04-18,E0,England-PL,2526,Newcastle,Bournemouth,1.0,2.0,A,0.0,1.0,A,2.0,3.75,3.5,,,,1.96,3.81,3.48,1.5,2.63,1.47,2.58,-0.5,2.03,1.83,Newcastle United,Bournemouth,newcastle_united,bournemouth
+2026-05-09,E0,England-PL,2526,Fulham,Bournemouth,0.0,1.0,A,0.0,0.0,D,2.75,3.6,2.4,,,,2.68,3.66,2.39,1.57,2.38,1.54,2.39,0.0,2.05,1.8,Fulham,Bournemouth,fulham,bournemouth
+2026-05-24,E0,England-PL,2526,Nott'm Forest,Bournemouth,1.0,1.0,D,1.0,0.0,H,3.3,3.75,2.05,,,,3.19,3.72,2.05,1.57,2.38,1.56,2.34,0.25,2.03,1.83,Nottingham Forest,Bournemouth,nottingham_forest,bournemouth
+2026-08-23,E0,England-PL,2627,Man City,Bournemouth,2.0,1.0,H,0.0,1.0,A,1.48,4.5,6.25,,,,1.45,4.72,5.93,1.44,2.75,1.41,2.78,-1.25,1.98,1.88,Manchester City,Bournemouth,manchester_city,bournemouth
+2026-09-05,E0,England-PL,2627,Newcastle,Bournemouth,2.0,2.0,D,1.0,2.0,A,2.1,3.6,3.3,,,,2.1,3.64,3.19,1.57,2.38,1.55,2.37,-0.25,1.83,2.03,Newcastle United,Bournemouth,newcastle_united,bournemouth
+2026-10-10,E0,England-PL,2627,Chelsea,Bournemouth,5.0,1.0,H,2.0,0.0,H,1.65,4.33,4.5,,,,1.66,4.21,4.53,1.5,2.63,1.47,2.58,-0.75,1.83,2.03,Chelsea,Bournemouth,chelsea,bournemouth

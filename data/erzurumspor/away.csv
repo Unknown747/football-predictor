@@ -1,0 +1,5 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2026-08-16,T1,Turkey-SL,2627,Amedspor,Erzurumspor,3.0,0.0,H,0.0,0.0,D,2.2,3.4,3.1,,,,2.26,3.41,2.86,1.8,2.0,1.78,1.95,-0.25,1.98,1.83,Amedspor,Erzurumspor,amedspor,erzurumspor
+2026-08-28,T1,Turkey-SL,2627,Genclerbirligi,Erzurumspor,1.0,1.0,D,0.0,0.0,D,1.96,3.25,3.9,,,,2.0,3.14,3.78,2.3,1.6,2.22,1.61,-0.5,2.0,1.8,Genclerbirligi,Erzurumspor,genclerbirligi,erzurumspor
+2026-09-11,T1,Turkey-SL,2627,Besiktas,Erzurumspor,3.0,0.0,H,2.0,0.0,H,1.24,5.25,9.5,,,,1.23,5.67,9.92,1.5,2.5,1.48,2.51,-1.5,1.78,2.03,Besiktas,Erzurumspor,besiktas,erzurumspor
+2026-10-10,T1,Turkey-SL,2627,Alanyaspor,Erzurumspor,0.0,0.0,D,0.0,0.0,D,1.91,3.25,3.8,,,,1.96,3.24,3.76,2.25,1.62,2.2,1.61,-0.5,1.95,1.85,Alanyaspor,Erzurumspor,alanyaspor,erzurumspor

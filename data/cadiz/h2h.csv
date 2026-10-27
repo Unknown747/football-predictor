@@ -1,0 +1,209 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder,opponent,venue,team_goals,opp_goals,h2h_match_no,h2h_total_vs_opp
+2021-08-14,SP1,Spain-LaLiga,2122,Cadiz,Levante,1.0,1.0,D,0.0,1.0,A,2.8,3.25,2.6,2.86,3.28,2.73,2.78,3.23,2.66,2.1,1.72,2.07,1.78,0.0,2.01,1.92,Cadiz,Levante,cadiz,levante,Levante,H,1.0,1.0,1,4
+2021-08-20,SP1,Spain-LaLiga,2122,Betis,Cadiz,1.0,1.0,D,1.0,1.0,D,1.5,4.2,7.0,1.52,4.4,7.09,1.52,4.3,6.69,1.9,1.9,1.89,1.94,-1.0,1.89,2.04,Real Betis,Cadiz,real_betis,cadiz,Real Betis,A,1.0,1.0,1,6
+2021-08-29,SP1,Spain-LaLiga,2122,Cadiz,Osasuna,2.0,3.0,A,1.0,0.0,H,3.2,3.0,2.45,3.3,3.15,2.49,3.15,3.07,2.5,2.5,1.53,2.55,1.53,0.25,1.8,2.14,Cadiz,Osasuna,cadiz,osasuna,Osasuna,H,2.0,3.0,1,6
+2021-09-12,SP1,Spain-LaLiga,2122,Cadiz,Sociedad,0.0,2.0,A,0.0,0.0,D,5.0,3.6,1.75,5.67,3.5,1.78,5.25,3.52,1.75,2.1,1.72,2.15,1.72,0.75,1.91,2.02,Cadiz,Real Sociedad,cadiz,real_sociedad,Real Sociedad,H,0.0,2.0,1,6
+2021-09-17,SP1,Spain-LaLiga,2122,Celta,Cadiz,1.0,2.0,A,0.0,2.0,A,1.45,4.33,7.0,1.52,4.32,7.42,1.51,4.28,6.99,1.9,1.9,1.92,1.91,-1.0,1.87,2.06,Celta Vigo,Cadiz,celta_vigo,cadiz,Celta Vigo,A,2.0,1.0,1,6
+2021-09-23,SP1,Spain-LaLiga,2122,Cadiz,Barcelona,0.0,0.0,D,0.0,0.0,D,6.0,4.33,1.5,6.38,4.48,1.55,6.18,4.43,1.52,1.61,2.3,1.63,2.29,1.0,2.03,1.87,Cadiz,Barcelona,cadiz,barcelona,Barcelona,H,0.0,0.0,1,6
+2021-09-26,SP1,Spain-LaLiga,2122,Vallecano,Cadiz,3.0,1.0,H,2.0,1.0,H,1.6,3.8,6.0,1.68,3.82,6.02,1.64,3.82,5.78,2.0,1.8,2.04,1.8,-0.75,1.85,2.08,Rayo Vallecano,Cadiz,rayo_vallecano,cadiz,Rayo Vallecano,A,1.0,3.0,1,6
+2021-10-02,SP1,Spain-LaLiga,2122,Cadiz,Valencia,0.0,0.0,D,0.0,0.0,D,3.4,3.0,2.3,3.45,3.08,2.46,3.31,3.08,2.4,2.5,1.53,2.41,1.58,0.25,1.86,2.07,Cadiz,Valencia,cadiz,valencia,Valencia,H,0.0,0.0,1,6
+2021-10-18,SP1,Spain-LaLiga,2122,Espanol,Cadiz,2.0,0.0,H,1.0,0.0,H,1.66,3.6,5.75,1.68,3.88,5.84,1.68,3.69,5.54,2.3,1.61,2.29,1.64,-0.75,1.94,1.99,Espanyol,Cadiz,espanyol,cadiz,Espanyol,A,0.0,2.0,1,4
+2021-10-23,SP1,Spain-LaLiga,2122,Cadiz,Alaves,0.0,2.0,A,0.0,1.0,A,2.5,2.9,3.2,2.7,2.97,3.18,2.59,2.96,3.13,2.75,1.44,2.7,1.46,-0.25,2.15,1.68,Cadiz,Deportivo Alaves,cadiz,deportivo_alaves,Deportivo Alaves,H,0.0,2.0,1,4
+2021-10-26,SP1,Spain-LaLiga,2122,Villarreal,Cadiz,3.0,3.0,D,1.0,2.0,A,1.3,5.5,9.5,1.33,5.59,10.83,1.32,5.34,10.03,1.72,2.1,1.72,2.15,-1.5,1.99,1.94,Villarreal,Cadiz,villarreal,cadiz,Villarreal,A,3.0,3.0,1,6
+2021-10-31,SP1,Spain-LaLiga,2122,Cadiz,Mallorca,1.0,1.0,D,0.0,1.0,A,2.5,3.0,3.2,2.68,2.99,3.18,2.56,2.97,3.1,2.62,1.5,2.68,1.47,0.0,1.68,2.15,Cadiz,Mallorca,cadiz,mallorca,Mallorca,H,1.0,1.0,1,6
+2021-11-05,SP1,Spain-LaLiga,2122,Ath Bilbao,Cadiz,0.0,1.0,A,0.0,1.0,A,1.36,4.75,9.0,1.38,4.97,10.07,1.37,4.81,9.42,1.9,1.9,1.93,1.9,-1.25,1.92,2.01,Athletic Bilbao,Cadiz,athletic_bilbao,cadiz,Athletic Bilbao,A,1.0,0.0,1,6
+2021-11-21,SP1,Spain-LaLiga,2122,Getafe,Cadiz,4.0,0.0,H,1.0,0.0,H,2.0,3.1,4.33,2.04,3.19,4.55,2.0,3.14,4.39,3.0,1.4,2.82,1.42,-0.5,2.02,1.88,Getafe,Cadiz,getafe,cadiz,Getafe,A,0.0,4.0,1,6
+2021-11-28,SP1,Spain-LaLiga,2122,Cadiz,Ath Madrid,1.0,4.0,A,0.0,0.0,D,8.0,3.8,1.5,8.13,4.1,1.52,7.58,3.98,1.5,2.2,1.66,2.16,1.7,1.0,2.0,1.93,Cadiz,Atletico Madrid,cadiz,atletico_madrid,Atletico Madrid,H,1.0,4.0,1,6
+2021-12-05,SP1,Spain-LaLiga,2122,Elche,Cadiz,3.0,1.0,H,1.0,0.0,H,2.05,3.1,4.2,2.02,3.36,4.36,2.03,3.2,4.15,2.62,1.5,2.63,1.48,-0.5,2.05,1.88,Elche,Cadiz,elche,cadiz,Elche,A,1.0,3.0,1,6
+2021-12-13,SP1,Spain-LaLiga,2122,Cadiz,Granada,1.0,1.0,D,1.0,0.0,H,2.6,3.1,2.9,2.68,3.13,3.04,2.58,3.11,2.96,2.3,1.61,2.3,1.63,0.0,1.81,2.13,Cadiz,Granada,cadiz,granada,Granada,H,1.0,1.0,1,9
+2021-12-19,SP1,Spain-LaLiga,2122,Real Madrid,Cadiz,0.0,0.0,D,0.0,0.0,D,1.2,7.5,11.0,1.24,6.82,12.54,1.24,6.51,11.43,1.44,2.75,1.45,2.76,-1.75,1.86,2.04,Real Madrid,Cadiz,real_madrid,cadiz,Real Madrid,A,0.0,0.0,1,6
+2022-01-03,SP1,Spain-LaLiga,2122,Cadiz,Sevilla,0.0,1.0,A,0.0,0.0,D,4.75,3.3,1.85,5.06,3.32,1.86,4.89,3.37,1.83,2.5,1.53,2.44,1.56,0.5,2.04,1.86,Cadiz,Sevilla,cadiz,sevilla,Sevilla,H,0.0,1.0,1,6
+2022-01-09,SP1,Spain-LaLiga,2122,Osasuna,Cadiz,2.0,0.0,H,1.0,0.0,H,1.75,3.3,5.75,1.75,3.3,6.13,1.77,3.36,5.5,2.5,1.53,2.43,1.56,-0.75,2.06,1.87,Osasuna,Cadiz,osasuna,cadiz,Osasuna,A,0.0,2.0,2,6
+2022-01-18,SP1,Spain-LaLiga,2122,Cadiz,Espanol,2.0,2.0,D,0.0,1.0,A,3.25,3.1,2.37,3.27,3.13,2.45,3.24,3.09,2.42,2.37,1.57,2.45,1.55,0.25,1.84,2.06,Cadiz,Espanyol,cadiz,espanyol,Espanyol,H,2.0,2.0,2,4
+2022-01-22,SP1,Spain-LaLiga,2122,Levante,Cadiz,0.0,2.0,A,0.0,1.0,A,1.8,3.5,5.0,1.76,3.77,4.93,1.77,3.68,4.74,2.1,1.72,2.1,1.75,-0.75,2.05,1.85,Levante,Cadiz,levante,cadiz,Levante,A,2.0,0.0,2,4
+2022-02-05,SP1,Spain-LaLiga,2122,Mallorca,Cadiz,2.0,1.0,H,1.0,1.0,D,1.83,3.4,4.6,1.81,3.4,5.28,1.83,3.39,4.93,2.3,1.61,2.36,1.6,-0.75,2.02,1.77,Mallorca,Cadiz,mallorca,cadiz,Mallorca,A,1.0,2.0,2,6
+2022-02-12,SP1,Spain-LaLiga,2122,Cadiz,Celta,0.0,0.0,D,0.0,0.0,D,3.8,3.4,2.05,4.12,3.35,2.08,3.88,3.33,2.06,2.2,1.66,2.19,1.69,0.5,1.85,2.05,Cadiz,Celta Vigo,cadiz,celta_vigo,Celta Vigo,H,0.0,0.0,2,6
+2022-02-19,SP1,Spain-LaLiga,2122,Cadiz,Getafe,1.0,1.0,D,1.0,1.0,D,3.2,2.9,2.55,3.32,2.95,2.62,3.19,2.94,2.56,3.0,1.4,2.86,1.42,0.0,2.1,1.7,Cadiz,Getafe,cadiz,getafe,Getafe,H,1.0,1.0,2,6
+2022-02-28,SP1,Spain-LaLiga,2122,Granada,Cadiz,0.0,0.0,D,0.0,0.0,D,2.0,3.3,4.0,2.02,3.4,4.27,2.01,3.33,4.04,2.3,1.61,2.25,1.65,-0.5,2.04,1.86,Granada,Cadiz,granada,cadiz,Granada,A,0.0,0.0,2,9
+2022-03-06,SP1,Spain-LaLiga,2122,Cadiz,Vallecano,2.0,0.0,H,0.0,0.0,D,2.7,3.1,2.7,2.93,3.06,2.82,2.81,3.03,2.79,2.5,1.53,2.47,1.54,0.0,1.96,1.94,Cadiz,Rayo Vallecano,cadiz,rayo_vallecano,Rayo Vallecano,H,2.0,0.0,2,6
+2022-03-11,SP1,Spain-LaLiga,2122,Ath Madrid,Cadiz,2.0,1.0,H,1.0,1.0,D,1.36,4.6,9.5,1.39,4.62,11.13,1.39,4.6,10.05,2.06,1.84,1.95,1.88,-1.25,1.96,1.94,Atletico Madrid,Cadiz,atletico_madrid,cadiz,Atletico Madrid,A,1.0,2.0,2,6
+2022-03-20,SP1,Spain-LaLiga,2122,Cadiz,Villarreal,1.0,0.0,H,0.0,0.0,D,4.75,3.5,1.83,4.94,3.58,1.85,4.7,3.6,1.81,2.06,1.84,2.01,1.82,0.5,2.02,1.77,Cadiz,Villarreal,cadiz,villarreal,Villarreal,H,1.0,0.0,2,6
+2022-04-03,SP1,Spain-LaLiga,2122,Valencia,Cadiz,0.0,0.0,D,0.0,0.0,D,1.85,3.3,4.75,1.92,3.36,4.88,1.9,3.36,4.59,2.3,1.61,2.29,1.63,-0.5,1.89,2.01,Valencia,Cadiz,valencia,cadiz,Valencia,A,0.0,0.0,2,6
+2022-04-09,SP1,Spain-LaLiga,2122,Cadiz,Betis,1.0,2.0,A,0.0,0.0,D,3.4,3.2,2.25,3.58,3.25,2.3,3.38,3.23,2.29,2.2,1.66,2.21,1.68,0.25,1.92,1.98,Cadiz,Real Betis,cadiz,real_betis,Real Betis,H,1.0,2.0,2,6
+2022-04-18,SP1,Spain-LaLiga,2122,Barcelona,Cadiz,0.0,1.0,A,0.0,0.0,D,1.2,6.5,15.0,1.23,6.78,14.85,1.22,6.63,13.92,1.57,2.37,1.56,2.43,-1.75,1.84,2.06,Barcelona,Cadiz,barcelona,cadiz,Barcelona,A,1.0,0.0,2,6
+2022-04-21,SP1,Spain-LaLiga,2122,Cadiz,Ath Bilbao,2.0,3.0,A,0.0,3.0,A,3.4,3.0,2.3,3.57,3.13,2.37,3.44,3.13,2.3,2.5,1.53,2.43,1.57,0.25,1.94,1.99,Cadiz,Athletic Bilbao,cadiz,athletic_bilbao,Athletic Bilbao,H,2.0,3.0,2,6
+2022-04-29,SP1,Spain-LaLiga,2122,Sevilla,Cadiz,1.0,1.0,D,1.0,0.0,H,1.65,3.5,6.0,1.65,3.77,6.57,1.65,3.71,6.11,2.2,1.66,2.22,1.67,-0.75,1.84,2.06,Sevilla,Cadiz,sevilla,cadiz,Sevilla,A,1.0,1.0,2,6
+2022-05-07,SP1,Spain-LaLiga,2122,Cadiz,Elche,3.0,0.0,H,0.0,0.0,D,1.7,3.75,5.0,1.75,3.75,5.38,1.75,3.66,5.03,2.3,1.61,2.29,1.63,-0.75,2.0,1.9,Cadiz,Elche,cadiz,elche,Elche,H,3.0,0.0,2,6
+2022-05-12,SP1,Spain-LaLiga,2122,Sociedad,Cadiz,3.0,0.0,H,1.0,0.0,H,1.66,3.6,5.5,1.7,3.71,6.0,1.67,3.7,5.69,2.2,1.66,2.17,1.7,-0.75,1.9,2.0,Real Sociedad,Cadiz,real_sociedad,cadiz,Real Sociedad,A,0.0,3.0,2,6
+2022-05-15,SP1,Spain-LaLiga,2122,Cadiz,Real Madrid,1.0,1.0,D,1.0,1.0,D,3.3,3.3,2.2,3.37,3.46,2.26,3.3,3.39,2.24,1.93,1.97,1.93,1.9,0.25,1.97,1.93,Cadiz,Real Madrid,cadiz,real_madrid,Real Madrid,H,1.0,1.0,2,6
+2022-05-22,SP1,Spain-LaLiga,2122,Alaves,Cadiz,0.0,1.0,A,0.0,0.0,D,4.2,3.7,1.83,4.25,3.72,1.91,4.2,3.71,1.87,1.93,1.97,1.9,1.91,0.5,2.04,1.86,Deportivo Alaves,Cadiz,deportivo_alaves,cadiz,Deportivo Alaves,A,1.0,0.0,2,4
+2022-08-14,SP1,Spain-LaLiga,2223,Cadiz,Sociedad,0.0,1.0,A,0.0,1.0,A,3.6,3.2,2.2,3.62,3.29,2.26,3.55,3.24,2.2,2.37,1.57,2.38,1.59,0.25,1.99,1.91,Cadiz,Real Sociedad,cadiz,real_sociedad,Real Sociedad,H,0.0,1.0,3,6
+2022-08-20,SP1,Spain-LaLiga,2223,Osasuna,Cadiz,2.0,0.0,H,1.0,0.0,H,1.9,3.25,4.5,1.97,3.27,4.76,1.95,3.26,4.44,2.37,1.57,2.42,1.57,-0.5,1.95,1.95,Osasuna,Cadiz,osasuna,cadiz,Osasuna,A,0.0,2.0,3,6
+2022-08-29,SP1,Spain-LaLiga,2223,Cadiz,Ath Bilbao,0.0,4.0,A,0.0,1.0,A,3.6,3.2,2.15,3.99,3.15,2.2,3.78,3.11,2.18,2.5,1.53,2.52,1.53,0.25,2.05,1.85,Cadiz,Athletic Bilbao,cadiz,athletic_bilbao,Athletic Bilbao,H,0.0,4.0,3,6
+2022-09-02,SP1,Spain-LaLiga,2223,Celta,Cadiz,3.0,0.0,H,0.0,0.0,D,1.66,3.6,5.5,1.67,3.74,6.33,1.67,3.65,5.93,2.3,1.61,2.32,1.62,-0.75,1.86,2.04,Celta Vigo,Cadiz,celta_vigo,cadiz,Celta Vigo,A,0.0,3.0,3,6
+2022-09-10,SP1,Spain-LaLiga,2223,Cadiz,Barcelona,0.0,4.0,A,0.0,0.0,D,13.0,6.5,1.22,14.0,6.18,1.25,13.05,6.27,1.24,1.61,2.3,1.59,2.35,1.75,1.97,1.93,Cadiz,Barcelona,cadiz,barcelona,Barcelona,H,0.0,4.0,3,6
+2022-09-16,SP1,Spain-LaLiga,2223,Valladolid,Cadiz,0.0,1.0,A,0.0,0.0,D,2.0,3.25,4.0,2.05,3.24,4.42,2.04,3.22,4.13,2.37,1.57,2.41,1.58,-0.5,2.04,1.86,Real Valladolid,Cadiz,real_valladolid,cadiz,Real Valladolid,A,1.0,0.0,1,5
+2022-10-01,SP1,Spain-LaLiga,2223,Cadiz,Villarreal,0.0,0.0,D,0.0,0.0,D,6.0,4.0,1.57,5.82,4.1,1.64,5.68,3.97,1.62,2.05,1.85,1.98,1.84,1.0,1.8,2.0,Cadiz,Villarreal,cadiz,villarreal,Villarreal,H,0.0,0.0,3,6
+2022-10-09,SP1,Spain-LaLiga,2223,Cadiz,Espanol,2.0,2.0,D,1.0,0.0,H,2.87,3.2,2.55,3.02,3.12,2.7,2.93,3.1,2.64,2.37,1.57,2.4,1.58,0.0,2.02,1.88,Cadiz,Espanyol,cadiz,espanyol,Espanyol,H,2.0,2.0,3,4
+2022-10-15,SP1,Spain-LaLiga,2223,Girona,Cadiz,1.0,1.0,D,0.0,0.0,D,1.9,3.3,4.5,1.97,3.22,4.9,1.91,3.32,4.58,2.5,1.53,2.46,1.56,-0.5,1.93,1.97,Girona,Cadiz,girona,cadiz,Girona,A,1.0,1.0,1,5
+2022-10-19,SP1,Spain-LaLiga,2223,Cadiz,Betis,0.0,0.0,D,0.0,0.0,D,4.0,3.3,2.0,3.84,3.33,2.16,3.73,3.28,2.13,2.3,1.61,2.32,1.62,0.25,2.07,1.83,Cadiz,Real Betis,cadiz,real_betis,Real Betis,H,0.0,0.0,3,6
+2022-10-22,SP1,Spain-LaLiga,2223,Vallecano,Cadiz,5.0,1.0,H,2.0,0.0,H,1.72,3.5,5.25,1.76,3.64,5.52,1.75,3.58,5.17,2.2,1.66,2.24,1.67,-0.75,1.98,1.92,Rayo Vallecano,Cadiz,rayo_vallecano,cadiz,Rayo Vallecano,A,1.0,5.0,3,6
+2022-10-29,SP1,Spain-LaLiga,2223,Cadiz,Ath Madrid,3.0,2.0,H,1.0,0.0,H,7.0,3.6,1.6,7.07,3.8,1.61,6.47,3.76,1.6,2.3,1.61,2.26,1.64,1.0,1.79,2.11,Cadiz,Atletico Madrid,cadiz,atletico_madrid,Atletico Madrid,H,3.0,2.0,3,6
+2022-11-05,SP1,Spain-LaLiga,2223,Getafe,Cadiz,0.0,0.0,D,0.0,0.0,D,2.2,3.1,3.75,2.24,3.1,3.94,2.2,3.09,3.77,2.75,1.44,2.7,1.47,-0.25,1.88,2.02,Getafe,Cadiz,getafe,cadiz,Getafe,A,0.0,0.0,3,6
+2022-11-10,SP1,Spain-LaLiga,2223,Real Madrid,Cadiz,2.0,1.0,H,1.0,0.0,H,1.14,8.5,15.0,1.15,9.0,22.56,1.15,8.36,19.48,1.44,2.75,1.43,2.81,-2.25,2.01,1.89,Real Madrid,Cadiz,real_madrid,cadiz,Real Madrid,A,1.0,2.0,3,6
+2022-12-30,SP1,Spain-LaLiga,2223,Cadiz,Almeria,1.0,1.0,D,0.0,1.0,A,2.38,3.1,3.25,2.39,3.23,3.39,2.37,3.18,3.27,2.2,1.67,2.25,1.66,-0.25,2.02,1.88,Cadiz,Almeria,cadiz,almeria,Almeria,H,1.0,1.0,1,9
+2023-01-06,SP1,Spain-LaLiga,2223,Valencia,Cadiz,0.0,1.0,A,0.0,1.0,A,1.57,4.0,5.75,1.61,4.15,6.2,1.59,4.08,5.94,1.93,1.97,1.9,1.93,-1.0,2.03,1.9,Valencia,Cadiz,valencia,cadiz,Valencia,A,1.0,0.0,3,6
+2023-01-16,SP1,Spain-LaLiga,2223,Cadiz,Elche,1.0,1.0,D,1.0,0.0,H,1.91,3.4,4.33,1.97,3.43,4.44,1.94,3.38,4.29,2.2,1.67,2.26,1.65,-0.5,1.94,1.96,Cadiz,Elche,cadiz,elche,Elche,H,1.0,1.0,3,6
+2023-01-21,SP1,Spain-LaLiga,2223,Sevilla,Cadiz,1.0,0.0,H,0.0,0.0,D,1.7,3.75,5.0,1.71,3.78,5.65,1.7,3.73,5.3,2.1,1.73,2.14,1.73,-0.75,1.91,1.99,Sevilla,Cadiz,sevilla,cadiz,Sevilla,A,0.0,1.0,3,6
+2023-01-28,SP1,Spain-LaLiga,2223,Cadiz,Mallorca,2.0,0.0,H,2.0,0.0,H,2.88,2.8,2.9,2.98,2.82,3.02,2.89,2.8,2.94,3.2,1.36,3.08,1.38,0.0,1.93,1.97,Cadiz,Mallorca,cadiz,mallorca,Mallorca,H,2.0,0.0,3,6
+2023-02-03,SP1,Spain-LaLiga,2223,Ath Bilbao,Cadiz,4.0,1.0,H,3.0,1.0,H,1.36,4.5,9.5,1.39,4.75,10.29,1.37,4.69,9.68,2.0,1.8,2.06,1.78,-1.25,1.91,2.02,Athletic Bilbao,Cadiz,athletic_bilbao,cadiz,Athletic Bilbao,A,1.0,4.0,4,6
+2023-02-10,SP1,Spain-LaLiga,2223,Cadiz,Girona,2.0,0.0,H,2.0,0.0,H,3.0,3.2,2.45,3.19,3.2,2.53,3.06,3.18,2.5,2.38,1.57,2.37,1.6,0.25,1.8,2.14,Cadiz,Girona,cadiz,girona,Girona,H,2.0,0.0,2,5
+2023-02-19,SP1,Spain-LaLiga,2223,Barcelona,Cadiz,2.0,0.0,H,2.0,0.0,H,1.18,7.0,13.0,1.22,7.16,14.53,1.19,7.09,14.96,1.53,2.5,1.53,2.52,-2.0,1.99,1.91,Barcelona,Cadiz,barcelona,cadiz,Barcelona,A,0.0,2.0,4,6
+2023-02-25,SP1,Spain-LaLiga,2223,Cadiz,Vallecano,1.0,0.0,H,0.0,0.0,D,2.9,3.0,2.7,3.09,2.98,2.76,2.99,2.96,2.7,2.63,1.5,2.71,1.47,0.0,2.04,1.86,Cadiz,Rayo Vallecano,cadiz,rayo_vallecano,Rayo Vallecano,H,1.0,0.0,4,6
+2023-03-03,SP1,Spain-LaLiga,2223,Sociedad,Cadiz,0.0,0.0,D,0.0,0.0,D,1.5,3.9,7.5,1.55,3.98,7.79,1.53,3.93,7.47,2.38,1.57,2.39,1.59,-1.0,1.97,1.96,Real Sociedad,Cadiz,real_sociedad,cadiz,Real Sociedad,A,0.0,0.0,4,6
+2023-03-10,SP1,Spain-LaLiga,2223,Cadiz,Getafe,2.0,2.0,D,1.0,0.0,H,2.5,2.88,3.3,2.57,2.87,3.51,2.52,2.85,3.38,3.2,1.36,3.13,1.36,-0.25,2.13,1.81,Cadiz,Getafe,cadiz,getafe,Getafe,H,2.0,2.0,4,6
+2023-03-18,SP1,Spain-LaLiga,2223,Almeria,Cadiz,1.0,1.0,D,0.0,0.0,D,2.0,3.5,3.6,2.1,3.43,3.85,2.08,3.4,3.71,2.1,1.73,2.12,1.74,-0.25,1.75,2.05,Almeria,Cadiz,almeria,cadiz,Almeria,A,1.0,1.0,2,9
+2023-04-01,SP1,Spain-LaLiga,2223,Cadiz,Sevilla,0.0,2.0,A,0.0,0.0,D,3.4,3.1,2.3,3.4,3.14,2.41,3.37,3.13,2.34,2.38,1.57,2.41,1.58,0.25,1.93,1.97,Cadiz,Sevilla,cadiz,sevilla,Sevilla,H,0.0,2.0,4,6
+2023-04-09,SP1,Spain-LaLiga,2223,Betis,Cadiz,0.0,2.0,A,0.0,0.0,D,1.62,3.75,5.75,1.68,3.76,5.96,1.67,3.74,5.64,2.1,1.73,2.14,1.72,-0.75,1.83,2.07,Real Betis,Cadiz,real_betis,cadiz,Real Betis,A,2.0,0.0,4,6
+2023-04-15,SP1,Spain-LaLiga,2223,Cadiz,Real Madrid,0.0,2.0,A,0.0,0.0,D,5.75,4.2,1.55,5.79,4.3,1.6,5.78,4.26,1.57,1.8,2.0,1.78,2.06,1.0,1.91,1.99,Cadiz,Real Madrid,cadiz,real_madrid,Real Madrid,H,0.0,2.0,4,6
+2023-04-21,SP1,Spain-LaLiga,2223,Espanol,Cadiz,0.0,0.0,D,0.0,0.0,D,2.05,3.25,3.8,2.1,3.37,4.0,2.08,3.32,3.84,2.38,1.57,2.36,1.6,-0.5,2.11,1.82,Espanyol,Cadiz,espanyol,cadiz,Espanyol,A,0.0,0.0,4,4
+2023-04-25,SP1,Spain-LaLiga,2223,Cadiz,Osasuna,0.0,1.0,A,0.0,0.0,D,2.3,3.1,3.4,2.4,3.22,3.39,2.37,3.14,3.33,2.38,1.57,2.46,1.56,-0.25,2.05,1.88,Cadiz,Osasuna,cadiz,osasuna,Osasuna,H,0.0,1.0,4,6
+2023-04-30,SP1,Spain-LaLiga,2223,Cadiz,Valencia,2.0,1.0,H,1.0,0.0,H,3.1,3.1,2.45,3.04,3.25,2.56,3.02,3.19,2.49,2.3,1.62,2.3,1.62,0.25,1.79,2.15,Cadiz,Valencia,cadiz,valencia,Valencia,H,2.0,1.0,4,6
+2023-05-03,SP1,Spain-LaLiga,2223,Ath Madrid,Cadiz,5.0,1.0,H,2.0,0.0,H,1.29,5.5,12.0,1.28,5.86,12.9,1.28,5.69,12.11,1.73,2.1,1.75,2.11,-1.5,1.86,2.04,Atletico Madrid,Cadiz,atletico_madrid,cadiz,Atletico Madrid,A,1.0,5.0,4,6
+2023-05-12,SP1,Spain-LaLiga,2223,Mallorca,Cadiz,1.0,0.0,H,1.0,0.0,H,2.15,2.9,4.0,2.25,3.02,4.05,2.19,2.99,3.95,2.75,1.44,2.74,1.46,-0.25,1.86,2.04,Mallorca,Cadiz,mallorca,cadiz,Mallorca,A,0.0,1.0,4,6
+2023-05-19,SP1,Spain-LaLiga,2223,Cadiz,Valladolid,2.0,0.0,H,0.0,0.0,D,2.2,3.4,3.3,2.28,3.43,3.35,2.22,3.41,3.36,2.0,1.9,1.97,1.87,-0.25,1.95,1.95,Cadiz,Real Valladolid,cadiz,real_valladolid,Real Valladolid,H,2.0,0.0,2,5
+2023-05-24,SP1,Spain-LaLiga,2223,Villarreal,Cadiz,2.0,0.0,H,2.0,0.0,H,1.44,4.5,7.0,1.49,4.59,7.06,1.49,4.5,6.6,1.67,2.2,1.64,2.29,-1.0,1.8,2.1,Villarreal,Cadiz,villarreal,cadiz,Villarreal,A,0.0,2.0,4,6
+2023-05-28,SP1,Spain-LaLiga,2223,Cadiz,Celta,1.0,0.0,H,0.0,0.0,D,2.6,3.1,2.75,2.72,3.23,2.86,2.63,3.22,2.81,2.1,1.73,2.11,1.75,0.0,1.89,2.01,Cadiz,Celta Vigo,cadiz,celta_vigo,Celta Vigo,H,1.0,0.0,4,6
+2023-06-04,SP1,Spain-LaLiga,2223,Elche,Cadiz,1.0,1.0,D,0.0,1.0,A,2.63,3.4,2.63,2.72,3.34,2.73,2.67,3.4,2.65,1.9,2.0,1.9,1.92,0.0,1.95,1.95,Elche,Cadiz,elche,cadiz,Elche,A,1.0,1.0,4,6
+2023-08-14,SP1,Spain-LaLiga,2324,Cadiz,Alaves,1.0,0.0,H,1.0,0.0,H,2.2,3.0,3.75,2.25,3.08,3.86,2.19,3.06,3.79,2.75,1.44,2.63,1.48,-0.25,1.88,2.02,Cadiz,Deportivo Alaves,cadiz,deportivo_alaves,Deportivo Alaves,H,1.0,0.0,3,4
+2023-08-20,SP1,Spain-LaLiga,2324,Barcelona,Cadiz,2.0,0.0,H,0.0,0.0,D,1.2,7.0,13.0,1.21,6.9,14.96,1.21,6.7,14.64,1.57,2.38,1.59,2.39,-1.75,1.84,2.06,Barcelona,Cadiz,barcelona,cadiz,Barcelona,A,0.0,2.0,5,6
+2023-08-26,SP1,Spain-LaLiga,2324,Cadiz,Almeria,1.0,1.0,D,0.0,0.0,D,2.25,3.2,3.3,2.24,3.44,3.44,2.25,3.36,3.34,2.1,1.73,2.1,1.76,-0.25,1.93,1.97,Cadiz,Almeria,cadiz,almeria,Almeria,H,1.0,1.0,3,9
+2023-09-01,SP1,Spain-LaLiga,2324,Cadiz,Villarreal,3.0,1.0,H,2.0,1.0,H,3.4,3.4,2.15,3.43,3.59,2.21,3.36,3.53,2.18,1.89,2.01,1.87,1.97,0.25,2.02,1.91,Cadiz,Villarreal,cadiz,villarreal,Villarreal,H,3.0,1.0,5,6
+2023-09-16,SP1,Spain-LaLiga,2324,Ath Bilbao,Cadiz,3.0,0.0,H,0.0,0.0,D,1.53,4.0,7.0,1.56,4.17,6.66,1.55,4.08,6.56,2.0,1.8,2.05,1.79,-1.0,1.97,1.93,Athletic Bilbao,Cadiz,athletic_bilbao,cadiz,Athletic Bilbao,A,0.0,3.0,5,6
+2023-09-24,SP1,Spain-LaLiga,2324,Betis,Cadiz,1.0,1.0,D,0.0,1.0,A,1.8,3.5,4.5,1.86,3.62,4.64,1.85,3.56,4.49,2.1,1.73,2.14,1.73,-0.5,1.85,2.05,Real Betis,Cadiz,real_betis,cadiz,Real Betis,A,1.0,1.0,5,6
+2023-09-27,SP1,Spain-LaLiga,2324,Cadiz,Vallecano,0.0,0.0,D,0.0,0.0,D,2.5,3.2,2.88,2.64,3.17,3.0,2.58,3.17,2.95,2.38,1.57,2.36,1.6,0.0,1.81,2.09,Cadiz,Rayo Vallecano,cadiz,rayo_vallecano,Rayo Vallecano,H,0.0,0.0,5,6
+2023-10-01,SP1,Spain-LaLiga,2324,Ath Madrid,Cadiz,3.0,2.0,H,1.0,2.0,A,1.33,5.0,10.0,1.35,4.99,8.91,1.36,5.08,9.18,1.73,2.08,1.75,2.11,-1.5,2.06,1.84,Atletico Madrid,Cadiz,atletico_madrid,cadiz,Atletico Madrid,A,2.0,3.0,5,6
+2023-10-07,SP1,Spain-LaLiga,2324,Cadiz,Girona,0.0,1.0,A,0.0,0.0,D,3.25,3.4,2.25,3.28,3.4,2.33,3.25,3.41,2.28,1.98,1.92,1.95,1.87,0.25,1.93,1.97,Cadiz,Girona,cadiz,girona,Girona,H,0.0,1.0,3,5
+2023-10-23,SP1,Spain-LaLiga,2324,Valencia,Cadiz,2.0,0.0,H,2.0,0.0,H,1.75,3.6,5.0,1.78,3.6,5.29,1.77,3.57,5.03,2.2,1.65,2.26,1.65,-0.75,2.02,1.88,Valencia,Cadiz,valencia,cadiz,Valencia,A,0.0,2.0,5,6
+2023-10-28,SP1,Spain-LaLiga,2324,Cadiz,Sevilla,2.0,2.0,D,2.0,1.0,H,3.3,3.25,2.25,3.39,3.37,2.29,3.29,3.34,2.29,2.05,1.75,2.09,1.77,0.25,1.96,1.97,Cadiz,Sevilla,cadiz,sevilla,Sevilla,H,2.0,2.0,5,6
+2023-11-06,SP1,Spain-LaLiga,2324,Getafe,Cadiz,1.0,0.0,H,0.0,0.0,D,1.91,3.1,4.75,1.93,3.19,4.88,1.93,3.21,4.67,2.7,1.44,2.73,1.46,-0.5,1.95,1.98,Getafe,Cadiz,getafe,cadiz,Getafe,A,0.0,1.0,5,6
+2023-11-26,SP1,Spain-LaLiga,2324,Cadiz,Real Madrid,0.0,3.0,A,0.0,1.0,A,6.0,4.5,1.5,6.67,4.68,1.48,6.48,4.54,1.5,1.73,2.08,1.74,2.12,1.0,2.1,1.83,Cadiz,Real Madrid,cadiz,real_madrid,Real Madrid,H,0.0,3.0,5,6
+2023-11-29,SP1,Spain-LaLiga,2324,Mallorca,Cadiz,1.0,1.0,D,1.0,1.0,D,1.95,3.2,4.33,1.99,3.21,4.56,1.98,3.24,4.38,2.5,1.5,2.57,1.52,-0.5,2.0,1.9,Mallorca,Cadiz,mallorca,cadiz,Mallorca,A,1.0,1.0,5,6
+2023-12-04,SP1,Spain-LaLiga,2324,Celta,Cadiz,1.0,1.0,D,0.0,1.0,A,1.57,3.8,6.5,1.61,4.13,5.8,1.6,4.02,5.85,2.05,1.85,2.0,1.84,-1.0,2.08,1.85,Celta Vigo,Cadiz,celta_vigo,cadiz,Celta Vigo,A,1.0,1.0,5,6
+2023-12-10,SP1,Spain-LaLiga,2324,Cadiz,Osasuna,1.0,1.0,D,1.0,0.0,H,2.9,3.1,2.55,2.99,3.14,2.63,2.95,3.14,2.58,2.4,1.53,2.43,1.57,0.0,2.08,1.82,Cadiz,Osasuna,cadiz,osasuna,Osasuna,H,1.0,1.0,5,6
+2023-12-17,SP1,Spain-LaLiga,2324,Las Palmas,Cadiz,1.0,1.0,D,1.0,0.0,H,1.91,3.3,4.33,1.96,3.31,4.49,1.95,3.35,4.35,2.4,1.53,2.41,1.59,-0.5,1.95,1.98,Las Palmas,Cadiz,las_palmas,cadiz,Las Palmas,A,1.0,1.0,1,5
+2023-12-21,SP1,Spain-LaLiga,2324,Cadiz,Sociedad,0.0,0.0,D,0.0,0.0,D,4.75,3.1,1.75,4.8,3.42,1.87,4.61,3.46,1.85,2.3,1.6,2.27,1.65,0.5,2.04,1.86,Cadiz,Real Sociedad,cadiz,real_sociedad,Real Sociedad,H,0.0,0.0,5,6
+2024-01-03,SP1,Spain-LaLiga,2324,Granada,Cadiz,2.0,0.0,H,1.0,0.0,H,2.25,3.1,3.5,2.26,3.19,3.59,2.26,3.19,3.49,2.35,1.57,2.33,1.61,-0.25,1.94,1.99,Granada,Cadiz,granada,cadiz,Granada,A,0.0,2.0,3,9
+2024-01-14,SP1,Spain-LaLiga,2324,Cadiz,Valencia,1.0,4.0,A,1.0,1.0,D,2.88,3.0,2.7,3.02,2.96,2.75,2.93,3.02,2.7,2.5,1.5,2.5,1.55,0.0,2.02,1.88,Cadiz,Valencia,cadiz,valencia,Valencia,H,1.0,4.0,6,6
+2024-01-19,SP1,Spain-LaLiga,2324,Alaves,Cadiz,1.0,0.0,H,0.0,0.0,D,1.7,3.5,5.75,1.73,3.51,6.0,1.73,3.45,5.83,2.6,1.48,2.61,1.51,-0.75,1.95,1.95,Deportivo Alaves,Cadiz,deportivo_alaves,cadiz,Deportivo Alaves,A,0.0,1.0,4,4
+2024-01-28,SP1,Spain-LaLiga,2324,Cadiz,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,5.5,3.4,1.73,5.11,3.68,1.76,5.14,3.62,1.74,2.2,1.65,2.21,1.68,0.75,1.9,2.0,Cadiz,Athletic Bilbao,cadiz,athletic_bilbao,Athletic Bilbao,H,0.0,0.0,6,6
+2024-02-04,SP1,Spain-LaLiga,2324,Villarreal,Cadiz,0.0,0.0,D,0.0,0.0,D,1.62,4.0,5.5,1.66,4.02,5.4,1.65,4.04,5.23,1.89,2.01,1.86,1.98,-0.75,1.84,2.06,Villarreal,Cadiz,villarreal,cadiz,Villarreal,A,0.0,0.0,6,6
+2024-02-09,SP1,Spain-LaLiga,2324,Cadiz,Betis,0.0,2.0,A,0.0,1.0,A,3.0,3.0,2.6,3.12,2.97,2.7,3.03,2.99,2.65,2.7,1.44,2.67,1.49,0.0,2.11,1.82,Cadiz,Real Betis,cadiz,real_betis,Real Betis,H,0.0,2.0,6,6
+2024-02-17,SP1,Spain-LaLiga,2324,Osasuna,Cadiz,2.0,0.0,H,0.0,0.0,D,1.75,3.3,5.5,1.8,3.41,5.36,1.79,3.41,5.27,2.5,1.5,2.55,1.52,-0.75,2.07,1.83,Osasuna,Cadiz,osasuna,cadiz,Osasuna,A,0.0,2.0,6,6
+2024-02-25,SP1,Spain-LaLiga,2324,Cadiz,Celta,2.0,2.0,D,0.0,1.0,A,3.1,3.0,2.5,3.15,3.04,2.58,3.08,3.03,2.57,2.6,1.48,2.62,1.5,0.25,1.78,2.13,Cadiz,Celta Vigo,cadiz,celta_vigo,Celta Vigo,H,2.0,2.0,6,6
+2024-03-02,SP1,Spain-LaLiga,2324,Vallecano,Cadiz,1.0,1.0,D,0.0,0.0,D,1.8,3.3,5.25,1.84,3.32,5.25,1.83,3.34,5.09,2.6,1.48,2.6,1.5,-0.75,2.05,1.75,Rayo Vallecano,Cadiz,rayo_vallecano,cadiz,Rayo Vallecano,A,1.0,1.0,6,6
+2024-03-09,SP1,Spain-LaLiga,2324,Cadiz,Ath Madrid,2.0,0.0,H,1.0,0.0,H,4.75,3.6,1.73,4.96,3.76,1.76,4.93,3.71,1.75,2.1,1.7,2.13,1.74,0.75,1.9,2.03,Cadiz,Atletico Madrid,cadiz,atletico_madrid,Atletico Madrid,H,2.0,0.0,6,6
+2024-03-15,SP1,Spain-LaLiga,2324,Sociedad,Cadiz,2.0,0.0,H,1.0,0.0,H,1.5,4.0,8.5,1.48,4.15,8.55,1.48,4.03,8.4,2.35,1.57,2.43,1.58,-1.0,1.85,2.08,Real Sociedad,Cadiz,real_sociedad,cadiz,Real Sociedad,A,0.0,2.0,6,6
+2024-03-29,SP1,Spain-LaLiga,2324,Cadiz,Granada,1.0,0.0,H,0.0,0.0,D,2.0,3.3,4.2,2.02,3.37,4.23,2.02,3.34,4.1,2.3,1.6,2.33,1.61,-0.5,2.02,1.91,Cadiz,Granada,cadiz,granada,Granada,H,1.0,0.0,4,9
+2024-04-13,SP1,Spain-LaLiga,2324,Cadiz,Barcelona,0.0,1.0,A,0.0,1.0,A,4.33,3.6,1.83,4.43,3.5,1.91,4.33,3.57,1.88,2.01,1.89,1.97,1.86,0.5,2.0,1.9,Cadiz,Barcelona,cadiz,barcelona,Barcelona,H,0.0,1.0,6,6
+2024-04-20,SP1,Spain-LaLiga,2324,Girona,Cadiz,4.0,1.0,H,2.0,0.0,H,1.4,4.75,8.0,1.43,4.89,7.51,1.42,4.81,7.59,1.73,2.1,1.71,2.17,-1.25,1.95,1.95,Girona,Cadiz,girona,cadiz,Girona,A,1.0,4.0,4,5
+2024-04-28,SP1,Spain-LaLiga,2324,Cadiz,Mallorca,1.0,1.0,D,0.0,1.0,A,2.5,2.9,3.2,2.69,2.85,3.23,2.6,2.86,3.22,3.0,1.4,3.04,1.38,-0.25,2.14,1.77,Cadiz,Mallorca,cadiz,mallorca,Mallorca,H,1.0,1.0,6,6
+2024-05-04,SP1,Spain-LaLiga,2324,Real Madrid,Cadiz,3.0,0.0,H,0.0,0.0,D,1.33,5.25,8.5,1.35,5.53,8.54,1.34,5.33,8.92,1.67,2.2,1.67,2.22,-1.5,2.04,1.89,Real Madrid,Cadiz,real_madrid,cadiz,Real Madrid,A,0.0,3.0,6,6
+2024-05-12,SP1,Spain-LaLiga,2324,Cadiz,Getafe,1.0,0.0,H,1.0,0.0,H,2.1,3.2,3.8,2.1,3.28,3.71,2.11,3.21,3.86,2.5,1.53,2.56,1.52,-0.25,1.81,2.09,Cadiz,Getafe,cadiz,getafe,Getafe,H,1.0,0.0,6,6
+2024-05-15,SP1,Spain-LaLiga,2324,Sevilla,Cadiz,0.0,1.0,A,0.0,0.0,D,1.9,3.6,4.0,1.92,3.69,4.13,1.91,3.61,4.12,2.0,1.8,2.05,1.8,-0.5,1.92,1.98,Sevilla,Cadiz,sevilla,cadiz,Sevilla,A,1.0,0.0,6,6
+2024-05-19,SP1,Spain-LaLiga,2324,Cadiz,Las Palmas,0.0,0.0,D,0.0,0.0,D,1.8,3.5,4.75,1.85,3.43,4.55,1.84,3.47,4.64,2.38,1.57,2.37,1.6,-0.5,1.86,2.04,Cadiz,Las Palmas,cadiz,las_palmas,Las Palmas,H,0.0,0.0,2,5
+2024-05-25,SP1,Spain-LaLiga,2324,Almeria,Cadiz,6.0,1.0,H,0.0,1.0,A,2.05,3.6,3.5,2.08,3.63,3.52,2.1,3.59,3.43,1.86,2.04,1.84,1.99,-0.25,1.83,2.07,Almeria,Cadiz,almeria,cadiz,Almeria,A,1.0,6.0,4,9
+2024-08-16,SP2,Spain-Segunda,2425,Cadiz,Zaragoza,0.0,4.0,A,0.0,2.0,A,1.95,3.0,4.33,2.05,3.05,4.57,2.0,2.94,4.34,3.1,1.36,2.96,1.37,-0.5,2.03,1.83,Cadiz,Zaragoza,cadiz,zaragoza,Zaragoza,H,0.0,4.0,1,4
+2024-08-24,SP2,Spain-Segunda,2425,Levante,Cadiz,1.0,1.0,D,0.0,0.0,D,2.05,3.3,3.75,2.12,3.18,3.8,2.09,3.19,3.63,2.25,1.62,2.27,1.61,-0.25,1.75,2.05,Levante,Cadiz,levante,cadiz,Levante,A,1.0,1.0,3,4
+2024-08-31,SP2,Spain-Segunda,2425,Cadiz,Tenerife,2.0,2.0,D,0.0,1.0,A,1.83,3.2,4.75,1.85,3.28,4.85,1.84,3.25,4.61,2.5,1.5,2.49,1.5,-0.5,1.83,2.03,Cadiz,Tenerife,cadiz,tenerife,Tenerife,H,2.0,2.0,1,3
+2024-09-09,SP2,Spain-Segunda,2425,Castellon,Cadiz,1.0,3.0,A,0.0,0.0,D,2.2,3.3,3.25,2.23,3.36,3.28,2.21,3.3,3.15,2.1,1.78,1.96,1.81,-0.25,1.93,1.93,Castellon,Cadiz,castellon,cadiz,Castellon,A,3.0,1.0,1,4
+2024-09-15,SP2,Spain-Segunda,2425,Cadiz,Ferrol,0.0,0.0,D,0.0,0.0,D,1.67,3.6,5.5,1.65,3.85,5.22,1.65,3.69,5.18,2.2,1.65,2.18,1.65,-0.75,1.88,1.98,Cadiz,Ferrol,cadiz,ferrol,Ferrol,H,0.0,0.0,1,2
+2024-09-22,SP2,Spain-Segunda,2425,Cartagena,Cadiz,1.0,2.0,A,0.0,1.0,A,3.2,3.3,2.25,3.39,3.15,2.29,3.23,3.1,2.27,2.4,1.53,2.4,1.54,0.25,1.88,1.98,Cartagena,Cadiz,cartagena,cadiz,Cartagena,A,2.0,1.0,1,2
+2024-09-28,SP2,Spain-Segunda,2425,Cadiz,Eldense,1.0,2.0,A,0.0,1.0,A,1.75,3.6,4.5,1.78,3.47,4.94,1.76,3.43,4.8,2.35,1.57,2.37,1.56,-0.75,2.05,1.8,Cadiz,Eldense,cadiz,eldense,Eldense,H,1.0,2.0,1,3
+2024-10-04,SP2,Spain-Segunda,2425,Huesca,Cadiz,3.0,1.0,H,1.0,0.0,H,3.1,2.8,2.7,3.2,2.72,2.84,3.05,2.7,2.71,3.1,1.36,2.93,1.37,0.0,2.05,1.8,Huesca,Cadiz,huesca,cadiz,Huesca,A,1.0,3.0,1,4
+2024-10-12,SP2,Spain-Segunda,2425,Cadiz,Malaga,2.0,2.0,D,2.0,0.0,H,1.75,3.4,5.0,1.75,3.51,5.11,1.74,3.45,4.91,2.35,1.57,2.35,1.57,-0.75,2.0,1.85,Cadiz,Malaga,cadiz,malaga,Malaga,H,2.0,2.0,1,4
+2024-10-20,SP2,Spain-Segunda,2425,Cadiz,Santander,0.0,1.0,A,0.0,0.0,D,2.15,3.4,3.3,2.15,3.49,3.36,2.13,3.4,3.23,1.83,2.03,1.81,1.97,-0.25,1.88,1.98,Cadiz,Santander,cadiz,santander,Santander,H,0.0,1.0,1,4
+2024-10-23,SP2,Spain-Segunda,2425,Eibar,Cadiz,1.0,0.0,H,1.0,0.0,H,2.3,3.1,3.3,2.37,2.98,3.42,2.32,3.0,3.3,2.35,1.57,2.34,1.56,-0.25,2.0,1.85,Eibar,Cadiz,eibar,cadiz,Eibar,A,0.0,1.0,1,4
+2024-10-26,SP2,Spain-Segunda,2425,Cadiz,Oviedo,2.0,0.0,H,1.0,0.0,H,2.35,3.2,3.1,2.38,3.16,3.2,2.36,3.1,3.1,2.35,1.57,2.38,1.55,-0.25,2.03,1.83,Cadiz,Real Oviedo,cadiz,real_oviedo,Real Oviedo,H,2.0,0.0,1,2
+2024-11-02,SP2,Spain-Segunda,2425,Sp Gijon,Cadiz,2.0,0.0,H,1.0,0.0,H,2.38,3.0,3.3,2.39,3.0,3.36,2.34,3.02,3.24,2.3,1.6,2.32,1.58,-0.25,2.03,1.83,Sp Gijon,Cadiz,sp_gijon,cadiz,Sp Gijon,A,0.0,2.0,1,5
+2024-11-09,SP2,Spain-Segunda,2425,Mirandes,Cadiz,2.0,2.0,D,1.0,1.0,D,3.1,2.55,2.9,3.11,2.56,2.97,3.01,2.62,2.83,3.1,1.36,2.84,1.39,0.0,1.98,1.88,Mirandes,Cadiz,mirandes,cadiz,Mirandes,A,2.0,2.0,1,4
+2024-11-17,SP2,Spain-Segunda,2425,Cadiz,Cordoba,2.0,0.0,H,2.0,0.0,H,1.95,3.3,4.0,1.95,3.34,4.16,1.94,3.34,3.95,2.08,1.73,2.06,1.73,-0.5,1.98,1.88,Cadiz,Cordoba,cadiz,cordoba,Cordoba,H,2.0,0.0,1,4
+2024-11-23,SP2,Spain-Segunda,2425,Granada,Cadiz,0.0,0.0,D,0.0,0.0,D,2.1,3.25,3.5,2.12,3.3,3.62,2.09,3.28,3.51,2.05,1.75,2.06,1.73,-0.25,1.83,2.03,Granada,Cadiz,granada,cadiz,Granada,A,0.0,0.0,5,9
+2024-11-30,SP2,Spain-Segunda,2425,Cadiz,La Coruna,2.0,4.0,A,1.0,1.0,D,2.1,3.2,3.7,2.16,3.34,3.48,2.1,3.28,3.47,2.05,1.75,2.03,1.75,-0.25,1.83,2.03,Cadiz,La Coruna,cadiz,la_coruna,La Coruna,H,2.0,4.0,1,4
+2024-12-07,SP2,Spain-Segunda,2425,Elche,Cadiz,2.0,1.0,H,0.0,1.0,A,1.8,3.5,4.5,1.8,3.53,4.93,1.79,3.42,4.58,2.25,1.62,2.26,1.61,-0.5,1.83,2.03,Elche,Cadiz,elche,cadiz,Elche,A,1.0,2.0,5,6
+2024-12-14,SP2,Spain-Segunda,2425,Cadiz,Albacete,1.0,0.0,H,0.0,0.0,D,1.95,3.4,3.75,1.96,3.51,3.89,1.96,3.42,3.72,2.05,1.8,2.04,1.76,-0.5,2.0,1.85,Cadiz,Albacete,cadiz,albacete,Albacete,H,1.0,0.0,1,4
+2024-12-19,SP2,Spain-Segunda,2425,Cadiz,Burgos,1.0,1.0,D,0.0,0.0,D,1.91,3.3,4.2,1.9,3.37,4.34,1.92,3.3,4.1,2.25,1.62,2.23,1.62,-0.5,1.93,1.93,Cadiz,Burgos,cadiz,burgos,Burgos,H,1.0,1.0,1,4
+2024-12-22,SP2,Spain-Segunda,2425,Almeria,Cadiz,1.0,1.0,D,0.0,1.0,A,1.62,3.9,5.25,1.62,4.0,5.34,1.62,3.83,5.13,1.93,1.93,1.88,1.89,-0.75,1.8,2.05,Almeria,Cadiz,almeria,cadiz,Almeria,A,1.0,1.0,5,9
+2025-01-12,SP2,Spain-Segunda,2425,Cadiz,Levante,0.0,0.0,D,0.0,0.0,D,2.45,3.1,3.1,2.47,3.13,3.08,2.41,3.09,2.96,2.15,1.67,2.17,1.65,-0.25,2.1,1.78,Cadiz,Levante,cadiz,levante,Levante,H,0.0,0.0,4,4
+2025-01-18,SP2,Spain-Segunda,2425,Eldense,Cadiz,1.0,4.0,A,0.0,3.0,A,2.45,3.0,3.0,2.57,2.96,3.1,2.48,2.95,2.99,2.6,1.48,2.57,1.46,-0.25,2.13,1.75,Eldense,Cadiz,eldense,cadiz,Eldense,A,4.0,1.0,2,3
+2025-01-27,SP2,Spain-Segunda,2425,Cadiz,Mirandes,3.0,1.0,H,2.0,1.0,H,2.0,3.1,4.2,2.1,3.15,3.91,2.06,3.11,3.81,2.5,1.5,2.53,1.48,-0.25,1.73,2.08,Cadiz,Mirandes,cadiz,mirandes,Mirandes,H,3.0,1.0,2,4
+2025-02-02,SP2,Spain-Segunda,2425,Zaragoza,Cadiz,0.0,0.0,D,0.0,0.0,D,2.1,3.1,3.75,2.09,3.15,3.93,2.1,3.08,3.71,2.35,1.57,2.39,1.55,-0.25,1.8,2.05,Zaragoza,Cadiz,zaragoza,cadiz,Zaragoza,A,0.0,0.0,2,4
+2025-02-09,SP2,Spain-Segunda,2425,Cadiz,Cartagena,5.0,2.0,H,3.0,1.0,H,1.42,4.2,7.5,1.41,4.33,8.45,1.4,4.22,7.84,2.1,1.7,2.12,1.69,-1.25,2.05,1.8,Cadiz,Cartagena,cadiz,cartagena,Cartagena,H,5.0,2.0,2,2
+2025-02-15,SP2,Spain-Segunda,2425,Santander,Cadiz,2.0,3.0,A,0.0,1.0,A,1.96,3.5,3.6,2.02,3.46,3.76,2.0,3.34,3.66,2.05,1.72,2.05,1.74,-0.5,2.05,1.8,Santander,Cadiz,santander,cadiz,Santander,A,3.0,2.0,2,4
+2025-02-23,SP2,Spain-Segunda,2425,Cadiz,Castellon,0.0,0.0,D,0.0,0.0,D,2.0,3.3,3.8,2.04,3.32,3.84,2.02,3.24,3.67,2.05,1.8,1.98,1.8,-0.5,2.05,1.8,Cadiz,Castellon,cadiz,castellon,Castellon,H,0.0,0.0,2,4
+2025-03-02,SP2,Spain-Segunda,2425,Albacete,Cadiz,3.0,0.0,H,0.0,0.0,D,2.7,2.9,2.88,2.79,2.9,2.9,2.64,2.9,2.83,2.3,1.6,2.29,1.6,0.0,1.88,1.98,Albacete,Cadiz,albacete,cadiz,Albacete,A,0.0,3.0,2,4
+2025-03-09,SP2,Spain-Segunda,2425,Malaga,Cadiz,0.0,2.0,A,0.0,0.0,D,2.63,3.0,2.88,2.72,2.94,2.93,2.64,2.94,2.85,2.5,1.5,2.54,1.49,0.0,1.85,2.0,Malaga,Cadiz,malaga,cadiz,Malaga,A,2.0,0.0,2,4
+2025-03-16,SP2,Spain-Segunda,2425,Cadiz,Granada,1.0,0.0,H,1.0,0.0,H,2.25,3.1,3.4,2.26,3.15,3.44,2.25,3.07,3.33,2.4,1.53,2.45,1.52,-0.25,1.87,1.87,Cadiz,Granada,cadiz,granada,Granada,H,1.0,0.0,6,9
+2025-03-23,SP2,Spain-Segunda,2425,Tenerife,Cadiz,2.0,1.0,H,1.0,0.0,H,2.5,2.9,3.0,2.55,2.94,3.16,2.46,2.91,3.08,2.7,1.44,2.67,1.44,-0.25,2.1,1.7,Tenerife,Cadiz,tenerife,cadiz,Tenerife,A,1.0,2.0,2,3
+2025-03-31,SP2,Spain-Segunda,2425,Cadiz,Eibar,0.0,0.0,D,0.0,0.0,D,2.2,2.75,3.5,2.32,2.99,3.51,2.25,2.9,3.49,2.7,1.44,2.72,1.43,-0.25,1.95,1.9,Cadiz,Eibar,cadiz,eibar,Eibar,H,0.0,0.0,2,4
+2025-04-06,SP2,Spain-Segunda,2425,La Coruna,Cadiz,1.0,0.0,H,0.0,0.0,D,2.15,3.1,3.4,2.2,3.18,3.57,2.15,3.15,3.47,2.35,1.57,2.36,1.56,-0.25,1.88,1.98,La Coruna,Cadiz,la_coruna,cadiz,La Coruna,A,0.0,1.0,2,4
+2025-04-12,SP2,Spain-Segunda,2425,Cadiz,Elche,0.0,1.0,A,0.0,0.0,D,2.63,2.9,3.0,2.62,2.99,3.0,2.59,2.91,2.94,2.7,1.44,2.65,1.45,0.0,1.8,2.05,Cadiz,Elche,cadiz,elche,Elche,H,0.0,1.0,6,6
+2025-04-19,SP2,Spain-Segunda,2425,Burgos,Cadiz,2.0,2.0,D,1.0,1.0,D,2.6,2.75,3.1,2.62,2.85,3.17,2.55,2.83,3.07,3.1,1.36,2.95,1.36,0.0,1.75,2.13,Burgos,Cadiz,burgos,cadiz,Burgos,A,2.0,2.0,2,4
+2025-04-25,SP2,Spain-Segunda,2425,Cadiz,Sp Gijon,1.0,0.0,H,1.0,0.0,H,2.0,3.25,3.9,2.09,3.17,4.18,2.02,3.21,3.81,2.2,1.65,2.25,1.62,-0.5,2.05,1.8,Cadiz,Sp Gijon,cadiz,sp_gijon,Sp Gijon,H,1.0,0.0,2,5
+2025-05-02,SP2,Spain-Segunda,2425,Cordoba,Cadiz,4.0,2.0,H,2.0,0.0,H,1.9,3.3,4.2,1.98,3.5,4.1,1.93,3.39,3.94,2.05,1.75,2.03,1.76,-0.5,1.95,1.9,Cordoba,Cadiz,cordoba,cadiz,Cordoba,A,2.0,4.0,2,4
+2025-05-09,SP2,Spain-Segunda,2425,Cadiz,Almeria,2.0,1.0,H,0.0,1.0,A,3.4,3.5,2.01,3.61,3.44,2.15,3.3,3.43,2.12,1.75,2.05,1.75,2.06,0.25,2.03,1.83,Cadiz,Almeria,cadiz,almeria,Almeria,H,2.0,1.0,6,9
+2025-05-18,SP2,Spain-Segunda,2425,Ferrol,Cadiz,1.0,0.0,H,0.0,0.0,D,3.9,3.2,2.05,3.76,3.13,2.03,3.77,3.12,2.05,2.6,1.48,2.52,1.47,0.5,1.78,2.03,Ferrol,Cadiz,ferrol,cadiz,Ferrol,A,0.0,1.0,2,2
+2025-05-25,SP2,Spain-Segunda,2425,Cadiz,Huesca,4.0,0.0,H,4.0,0.0,H,2.2,3.0,3.6,2.19,2.95,3.7,2.23,2.96,3.5,2.35,1.57,2.4,1.54,-0.25,1.85,1.95,Cadiz,Huesca,cadiz,huesca,Huesca,H,4.0,0.0,2,4
+2025-06-01,SP2,Spain-Segunda,2425,Oviedo,Cadiz,2.0,1.0,H,2.0,1.0,H,1.7,3.2,6.0,1.63,3.1,7.2,1.68,3.14,6.31,2.6,1.48,2.53,1.47,-0.75,1.95,1.85,Real Oviedo,Cadiz,real_oviedo,cadiz,Real Oviedo,A,1.0,2.0,2,2
+2025-08-17,SP2,Spain-Segunda,2526,Cadiz,Mirandes,1.0,0.0,H,1.0,0.0,H,1.7,3.5,5.25,1.69,3.73,5.16,1.64,3.69,4.93,2.0,1.8,1.92,1.79,-0.75,1.9,1.9,Cadiz,Mirandes,cadiz,mirandes,Mirandes,H,1.0,0.0,3,4
+2025-08-22,SP2,Spain-Segunda,2526,Leganes,Cadiz,1.0,1.0,D,1.0,0.0,H,2.2,3.0,3.7,2.37,3.0,3.59,2.19,2.92,3.45,2.5,1.5,2.49,1.48,-0.25,1.9,1.9,Leganes,Cadiz,leganes,cadiz,Leganes,A,1.0,1.0,1,3
+2025-08-31,SP2,Spain-Segunda,2526,Cadiz,Albacete,2.0,1.0,H,1.0,0.0,H,1.72,3.6,4.5,1.76,3.57,4.83,1.69,3.59,4.71,2.05,1.75,2.0,1.72,-0.75,2.03,1.78,Cadiz,Albacete,cadiz,albacete,Albacete,H,2.0,1.0,3,4
+2025-09-07,SP2,Spain-Segunda,2526,Sociedad B,Cadiz,3.0,3.0,D,1.0,1.0,D,3.6,3.1,2.1,3.61,3.21,2.16,3.51,3.12,2.07,2.35,1.57,2.29,1.56,0.25,1.98,1.83,Sociedad B,Cadiz,sociedad_b,cadiz,Sociedad B,A,3.0,3.0,1,2
+2025-09-13,SP2,Spain-Segunda,2526,Cadiz,Eibar,1.0,0.0,H,0.0,0.0,D,2.1,3.0,3.7,2.26,3.06,3.56,2.09,3.02,3.56,2.5,1.5,2.47,1.49,-0.25,1.8,2.0,Cadiz,Eibar,cadiz,eibar,Eibar,H,1.0,0.0,3,4
+2025-09-21,SP2,Spain-Segunda,2526,Malaga,Cadiz,0.0,1.0,A,0.0,1.0,A,2.5,3.2,2.75,2.71,2.8,3.1,2.55,2.88,2.83,2.5,1.5,2.54,1.47,0.0,1.78,2.03,Malaga,Cadiz,malaga,cadiz,Malaga,A,1.0,0.0,3,4
+2025-09-28,SP2,Spain-Segunda,2526,Cadiz,Ceuta,0.0,0.0,D,0.0,0.0,D,1.68,3.3,5.25,1.75,3.35,5.44,1.67,3.39,5.03,2.25,1.62,2.23,1.59,-0.75,1.95,1.85,Cadiz,Ceuta,cadiz,ceuta,Ceuta,H,0.0,0.0,1,2
+2025-10-05,SP2,Spain-Segunda,2526,Las Palmas,Cadiz,1.0,0.0,H,0.0,0.0,D,1.76,3.3,4.75,1.79,3.42,4.95,1.78,3.3,4.42,2.25,1.62,2.25,1.57,-0.5,1.78,2.03,Las Palmas,Cadiz,las_palmas,cadiz,Las Palmas,A,0.0,1.0,3,5
+2025-10-12,SP2,Spain-Segunda,2526,Cadiz,Huesca,1.0,0.0,H,0.0,0.0,D,1.96,3.1,4.2,2.01,2.98,4.6,1.99,2.98,3.97,2.6,1.48,2.6,1.44,-0.5,2.0,1.8,Cadiz,Huesca,cadiz,huesca,Huesca,H,1.0,0.0,3,4
+2025-10-20,SP2,Spain-Segunda,2526,Cadiz,Burgos,1.0,3.0,A,1.0,2.0,A,2.1,2.95,3.8,2.18,2.97,3.91,2.12,2.93,3.61,2.7,1.44,2.62,1.43,-0.25,1.83,1.98,Cadiz,Burgos,cadiz,burgos,Burgos,H,1.0,3.0,3,4
+2025-10-25,SP2,Spain-Segunda,2526,Granada,Cadiz,0.0,0.0,D,0.0,0.0,D,2.25,3.05,3.3,2.28,3.12,3.44,2.28,3.03,3.14,2.35,1.57,2.32,1.55,-0.25,1.95,1.85,Granada,Cadiz,granada,cadiz,Granada,A,0.0,0.0,7,9
+2025-11-02,SP2,Spain-Segunda,2526,Andorra,Cadiz,0.0,0.0,D,0.0,0.0,D,2.2,3.2,3.25,,,,2.26,3.2,3.02,2.15,1.67,2.14,1.64,-0.25,1.98,1.83,Andorra,Cadiz,andorra,cadiz,Andorra,A,0.0,0.0,1,2
+2025-11-09,SP2,Spain-Segunda,2526,Cadiz,Valladolid,0.0,0.0,D,0.0,0.0,D,2.7,3.2,2.5,,,,2.71,3.05,2.55,2.25,1.62,2.25,1.58,0.0,1.98,1.83,Cadiz,Real Valladolid,cadiz,real_valladolid,Real Valladolid,H,0.0,0.0,3,5
+2025-11-16,SP2,Spain-Segunda,2526,Almeria,Cadiz,3.0,0.0,H,1.0,0.0,H,1.57,3.9,5.25,,,,1.6,3.81,4.96,1.83,1.98,1.81,1.89,-0.75,1.78,2.03,Almeria,Cadiz,almeria,cadiz,Almeria,A,0.0,3.0,7,9
+2025-11-23,SP2,Spain-Segunda,2526,Cadiz,Cultural Leonesa,1.0,2.0,A,1.0,2.0,A,1.91,3.05,4.33,1.94,3.08,4.71,1.91,3.13,4.09,2.4,1.53,2.29,1.56,-0.5,1.98,1.83,Cadiz,Cultural Leonesa,cadiz,cultural_leonesa,Cultural Leonesa,H,1.0,2.0,1,2
+2025-11-30,SP2,Spain-Segunda,2526,Cordoba,Cadiz,1.0,2.0,A,0.0,0.0,D,1.96,3.25,3.9,2.06,2.99,4.34,2.02,3.13,3.67,2.1,1.7,2.09,1.66,-0.5,2.0,1.8,Cordoba,Cadiz,cordoba,cadiz,Cordoba,A,2.0,1.0,3,4
+2025-12-07,SP2,Spain-Segunda,2526,Cadiz,Santander,2.0,3.0,A,2.0,1.0,H,2.82,3.4,2.3,2.87,3.43,2.44,2.77,3.27,2.37,1.9,1.9,1.86,1.83,0.0,2.08,1.73,Cadiz,Santander,cadiz,santander,Santander,H,2.0,3.0,3,4
+2025-12-13,SP2,Spain-Segunda,2526,Zaragoza,Cadiz,1.0,2.0,A,0.0,0.0,D,2.05,3.05,3.7,2.11,3.18,3.82,2.09,3.06,3.45,2.25,1.62,2.24,1.58,-0.25,1.8,2.0,Zaragoza,Cadiz,zaragoza,cadiz,Zaragoza,A,2.0,1.0,3,4
+2025-12-21,SP2,Spain-Segunda,2526,Cadiz,Castellon,2.0,0.0,H,0.0,0.0,D,3.25,3.3,2.15,3.38,3.31,2.21,3.1,3.22,2.17,1.98,1.83,1.93,1.78,0.25,1.95,1.85,Cadiz,Castellon,cadiz,castellon,Castellon,H,2.0,0.0,3,4
+2026-01-04,SP2,Spain-Segunda,2526,La Coruna,Cadiz,2.0,2.0,D,2.0,1.0,H,1.66,3.6,5.0,1.68,3.56,5.66,1.68,3.44,4.83,2.08,1.73,2.05,1.68,-0.75,1.93,1.88,La Coruna,Cadiz,la_coruna,cadiz,La Coruna,A,2.0,2.0,3,4
+2026-01-09,SP2,Spain-Segunda,2526,Cadiz,Sp Gijon,3.0,2.0,H,1.0,0.0,H,2.57,3.0,2.75,2.76,3.04,2.93,2.57,2.95,2.76,2.4,1.53,2.37,1.51,0.0,1.85,1.95,Cadiz,Sp Gijon,cadiz,sp_gijon,Sp Gijon,H,3.0,2.0,3,5
+2026-01-18,SP2,Spain-Segunda,2526,Albacete,Cadiz,1.0,0.0,H,0.0,0.0,D,2.15,3.4,3.2,,,,2.15,3.29,3.12,1.95,1.85,1.89,1.81,-0.25,1.93,1.88,Albacete,Cadiz,albacete,cadiz,Albacete,A,0.0,1.0,4,4
+2026-01-24,SP2,Spain-Segunda,2526,Cadiz,Granada,1.0,2.0,A,0.0,1.0,A,2.65,3.2,2.7,,,,2.6,3.02,2.7,2.3,1.6,2.27,1.57,0.0,1.88,1.93,Cadiz,Granada,cadiz,granada,Granada,H,1.0,2.0,8,9
+2026-02-01,SP2,Spain-Segunda,2526,Huesca,Cadiz,1.0,0.0,H,1.0,0.0,H,2.25,3.1,3.25,,,,2.25,2.95,3.24,2.5,1.5,2.46,1.49,-0.25,1.98,1.83,Huesca,Cadiz,huesca,cadiz,Huesca,A,0.0,1.0,4,4
+2026-02-08,SP2,Spain-Segunda,2526,Cadiz,Almeria,1.0,2.0,A,1.0,2.0,A,2.57,3.5,2.5,,,,2.61,3.32,2.48,1.85,1.95,1.81,1.91,0.0,1.95,1.85,Cadiz,Almeria,cadiz,almeria,Almeria,H,1.0,2.0,8,9
+2026-02-14,SP2,Spain-Segunda,2526,Burgos,Cadiz,1.0,1.0,D,1.0,1.0,D,2.05,3.1,3.7,,,,2.1,2.96,3.61,2.7,1.44,2.57,1.45,-0.25,1.8,2.0,Burgos,Cadiz,burgos,cadiz,Burgos,A,1.0,1.0,4,4
+2026-02-23,SP2,Spain-Segunda,2526,Cadiz,Sociedad B,0.0,2.0,A,0.0,0.0,D,2.01,3.25,3.6,,,,1.98,3.25,3.67,2.15,1.67,2.07,1.68,-0.5,2.08,1.73,Cadiz,Sociedad B,cadiz,sociedad_b,Sociedad B,H,0.0,2.0,2,2
+2026-03-01,SP2,Spain-Segunda,2526,Eibar,Cadiz,3.0,1.0,H,2.0,0.0,H,1.71,3.4,5.0,,,,1.74,3.3,4.66,2.25,1.62,2.23,1.58,-0.75,2.0,1.8,Eibar,Cadiz,eibar,cadiz,Eibar,A,1.0,3.0,4,4
+2026-03-06,SP2,Spain-Segunda,2526,Cadiz,Zaragoza,0.0,1.0,A,0.0,1.0,A,2.2,3.25,3.2,,,,2.21,3.12,3.15,2.1,1.7,2.11,1.65,-0.25,1.95,1.85,Cadiz,Zaragoza,cadiz,zaragoza,Zaragoza,H,0.0,1.0,4,4
+2026-03-13,SP2,Spain-Segunda,2526,Mirandes,Cadiz,0.0,2.0,A,0.0,2.0,A,2.15,3.3,3.3,,,,2.19,3.2,3.11,2.05,1.75,2.01,1.71,-0.25,1.9,1.9,Mirandes,Cadiz,mirandes,cadiz,Mirandes,A,2.0,0.0,4,4
+2026-03-21,SP2,Spain-Segunda,2526,Cadiz,Malaga,0.0,3.0,A,0.0,2.0,A,2.75,3.1,2.55,,,,2.63,3.18,2.52,2.05,1.75,1.98,1.74,0.0,1.98,1.83,Cadiz,Malaga,cadiz,malaga,Malaga,H,0.0,3.0,4,4
+2026-03-28,SP2,Spain-Segunda,2526,Ceuta,Cadiz,2.0,1.0,H,1.0,0.0,H,2.2,3.2,3.2,,,,2.18,3.22,3.11,2.05,1.75,2.0,1.73,-0.25,1.9,1.9,Ceuta,Cadiz,ceuta,cadiz,Ceuta,A,1.0,2.0,2,2
+2026-03-31,SP2,Spain-Segunda,2526,Valladolid,Cadiz,3.0,0.0,H,2.0,0.0,H,1.51,4.1,5.75,,,,1.53,3.89,5.57,1.85,1.95,1.84,1.88,-1.0,1.93,1.88,Real Valladolid,Cadiz,real_valladolid,cadiz,Real Valladolid,A,0.0,3.0,4,5
+2026-04-04,SP2,Spain-Segunda,2526,Cadiz,Cordoba,1.0,3.0,A,0.0,1.0,A,3.0,3.5,2.2,,,,2.81,3.39,2.29,1.83,1.98,1.78,1.95,0.25,1.8,2.0,Cadiz,Cordoba,cadiz,cordoba,Cordoba,H,1.0,3.0,4,4
+2026-04-12,SP2,Spain-Segunda,2526,Cadiz,Andorra,0.0,1.0,A,0.0,1.0,A,3.25,3.3,2.15,,,,3.06,3.25,2.19,2.0,1.8,1.93,1.79,0.25,1.9,1.9,Cadiz,Andorra,cadiz,andorra,Andorra,H,0.0,1.0,2,2
+2026-04-19,SP2,Spain-Segunda,2526,Sp Gijon,Cadiz,3.0,0.0,H,1.0,0.0,H,1.53,3.75,6.0,,,,1.56,3.77,5.34,1.9,1.9,1.85,1.86,-1.0,2.03,1.78,Sp Gijon,Cadiz,sp_gijon,cadiz,Sp Gijon,A,0.0,3.0,4,5
+2026-04-27,SP2,Spain-Segunda,2526,Cadiz,Las Palmas,1.0,2.0,A,1.0,1.0,D,3.1,3.0,2.1,,,,3.3,3.07,2.11,2.1,1.7,2.08,1.68,0.25,1.9,1.9,Cadiz,Las Palmas,cadiz,las_palmas,Las Palmas,H,1.0,2.0,4,5
+2026-05-02,SP2,Spain-Segunda,2526,Cultural Leonesa,Cadiz,2.0,2.0,D,1.0,1.0,D,2.05,3.25,3.6,,,,2.09,3.18,3.27,2.08,1.73,2.03,1.71,-0.25,1.83,1.98,Cultural Leonesa,Cadiz,cultural_leonesa,cadiz,Cultural Leonesa,A,2.0,2.0,2,2
+2026-05-08,SP2,Spain-Segunda,2526,Cadiz,La Coruna,0.0,1.0,A,0.0,0.0,D,3.75,3.6,1.91,,,,3.53,3.34,1.95,1.9,1.9,1.87,1.83,0.5,1.85,1.95,Cadiz,La Coruna,cadiz,la_coruna,La Coruna,H,0.0,1.0,4,4
+2026-05-15,SP2,Spain-Segunda,2526,Castellon,Cadiz,1.0,1.0,D,0.0,0.0,D,1.24,6.0,9.0,,,,1.27,5.42,8.59,1.48,2.6,1.45,2.6,-1.5,1.75,2.05,Castellon,Cadiz,castellon,cadiz,Castellon,A,1.0,1.0,4,4
+2026-05-24,SP2,Spain-Segunda,2526,Cadiz,Leganes,3.0,0.0,H,1.0,0.0,H,2.3,3.25,3.1,,,,2.22,3.24,2.96,1.9,1.9,1.85,1.85,-0.25,2.0,1.8,Cadiz,Leganes,cadiz,leganes,Leganes,H,3.0,0.0,2,3
+2026-05-31,SP2,Spain-Segunda,2526,Santander,Cadiz,4.0,1.0,H,3.0,0.0,H,1.3,4.75,9.0,,,,1.33,4.65,7.9,1.53,2.4,1.53,2.35,-1.5,1.98,1.83,Santander,Cadiz,santander,cadiz,Santander,A,1.0,4.0,4,4
+2026-08-15,SP2,Spain-Segunda,2627,Cadiz,Celta B,0.0,0.0,D,0.0,0.0,D,1.96,3.5,3.6,,,,1.96,3.32,3.55,1.98,1.83,1.92,1.8,-0.5,2.0,1.8,Cadiz,Celta B,cadiz,celta_b,Celta B,H,0.0,0.0,1,1
+2026-08-22,SP2,Spain-Segunda,2627,Eldense,Cadiz,2.0,2.0,D,0.0,0.0,D,2.25,3.0,3.4,,,,2.26,3.09,3.11,2.15,1.67,2.11,1.66,-0.25,1.98,1.83,Eldense,Cadiz,eldense,cadiz,Eldense,A,2.0,2.0,3,3
+2026-08-30,SP2,Spain-Segunda,2627,Cadiz,Valladolid,1.0,1.0,D,1.0,1.0,D,2.5,3.0,3.0,,,,2.45,3.01,2.86,2.4,1.53,2.28,1.57,0.0,1.75,2.05,Cadiz,Real Valladolid,cadiz,real_valladolid,Real Valladolid,H,1.0,1.0,5,5
+2026-09-06,SP2,Spain-Segunda,2627,Almeria,Cadiz,3.0,2.0,H,3.0,1.0,H,1.46,4.2,6.0,,,,1.49,4.12,5.73,1.75,2.05,1.71,2.03,-1.0,1.9,1.9,Almeria,Cadiz,almeria,cadiz,Almeria,A,2.0,3.0,9,9
+2026-09-12,SP2,Spain-Segunda,2627,Cadiz,Las Palmas,0.0,1.0,A,0.0,0.0,D,2.65,3.25,2.55,,,,2.63,3.23,2.52,2.05,1.75,2.0,1.74,0.0,1.98,1.83,Cadiz,Las Palmas,cadiz,las_palmas,Las Palmas,H,0.0,1.0,5,5
+2026-09-19,SP2,Spain-Segunda,2627,Cadiz,Girona,1.0,2.0,A,0.0,2.0,A,3.75,3.5,1.91,,,,3.61,3.43,1.93,1.93,1.88,1.87,1.84,0.5,1.83,1.98,Cadiz,Girona,cadiz,girona,Girona,H,1.0,2.0,5,5
+2026-09-26,SP2,Spain-Segunda,2627,Tenerife,Cadiz,1.0,1.0,D,1.0,0.0,H,1.91,3.2,4.1,,,,1.9,3.14,4.02,2.4,1.53,2.33,1.54,-0.5,1.95,1.85,Tenerife,Cadiz,tenerife,cadiz,Tenerife,A,1.0,1.0,3,3
+2026-10-03,SP2,Spain-Segunda,2627,Cadiz,Leganes,4.0,0.0,H,1.0,0.0,H,2.75,3.2,2.5,,,,2.78,3.1,2.44,2.25,1.62,2.2,1.61,0.0,2.03,1.78,Cadiz,Leganes,cadiz,leganes,Leganes,H,4.0,0.0,3,3
+2026-10-11,SP2,Spain-Segunda,2627,Cadiz,Sp Gijon,0.0,1.0,A,0.0,0.0,D,2.5,3.1,2.82,,,,2.43,3.15,2.74,2.1,1.7,2.05,1.69,0.0,1.78,2.03,Cadiz,Sp Gijon,cadiz,sp_gijon,Sp Gijon,H,0.0,1.0,5,5
+2026-10-18,SP2,Spain-Segunda,2627,Granada,Cadiz,2.0,0.0,H,0.0,0.0,D,1.81,3.5,4.2,,,,1.82,3.36,4.01,2.08,1.73,2.0,1.72,-0.5,1.85,1.95,Granada,Cadiz,granada,cadiz,Granada,A,0.0,2.0,9,9

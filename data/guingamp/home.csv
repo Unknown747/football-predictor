@@ -1,0 +1,97 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,F2,France-L2,2122,Guingamp,Valenciennes,1.0,1.0,D,0.0,0.0,D,1.85,3.4,4.5,1.89,3.41,4.56,1.89,3.29,4.28,2.2,1.65,2.24,1.63,-0.5,1.9,1.95,Guingamp,Valenciennes,guingamp,valenciennes
+2021-08-14,F2,France-L2,2122,Guingamp,Amiens,0.0,2.0,A,0.0,1.0,A,1.85,3.3,4.33,1.94,3.25,4.57,1.93,3.23,4.18,2.4,1.53,2.37,1.57,-0.5,1.98,1.88,Guingamp,Amiens,guingamp,amiens
+2021-08-28,F2,France-L2,2122,Guingamp,Ajaccio,1.0,1.0,D,0.0,1.0,A,2.37,3.1,3.1,2.45,3.03,3.33,2.39,3.02,3.14,2.35,1.57,2.37,1.57,-0.25,2.05,1.8,Guingamp,Ajaccio,guingamp,ajaccio
+2021-09-21,F2,France-L2,2122,Guingamp,Sochaux,1.0,2.0,A,1.0,0.0,H,3.1,3.1,2.3,3.44,2.88,2.46,3.32,2.87,2.41,2.7,1.44,2.72,1.44,0.25,1.83,2.02,Guingamp,Sochaux,guingamp,sochaux
+2021-10-02,F2,France-L2,2122,Guingamp,Rodez,2.0,1.0,H,1.0,1.0,D,2.3,3.0,3.0,2.43,2.99,3.35,2.42,2.94,3.18,2.5,1.5,2.47,1.52,-0.25,2.02,1.83,Guingamp,Rodez,guingamp,rodez
+2021-10-23,F2,France-L2,2122,Guingamp,Nimes,3.0,1.0,H,1.0,0.0,H,2.55,3.0,2.8,2.64,2.96,3.05,2.59,2.95,2.89,2.5,1.5,2.53,1.5,0.0,1.8,2.05,Guingamp,Nimes,guingamp,nimes
+2021-11-06,F2,France-L2,2122,Guingamp,Bastia,2.0,3.0,A,0.0,1.0,A,2.25,3.1,3.25,2.38,2.99,3.46,2.33,3.02,3.25,2.25,1.61,2.25,1.61,-0.25,2.0,1.85,Guingamp,Bastia,guingamp,bastia
+2021-12-03,F2,France-L2,2122,Guingamp,Dijon,3.0,2.0,H,0.0,1.0,A,2.37,3.2,3.0,2.38,3.17,3.37,2.36,3.1,3.17,2.25,1.61,2.23,1.63,-0.25,2.0,1.85,Guingamp,Dijon,guingamp,dijon
+2021-12-21,F2,France-L2,2122,Guingamp,Dunkerque,2.0,1.0,H,0.0,0.0,D,1.75,3.3,4.0,1.81,3.47,5.14,1.79,3.41,4.7,2.2,1.65,2.2,1.66,-0.75,2.05,1.75,Guingamp,Dunkerque,guingamp,dunkerque
+2022-01-15,F2,France-L2,2122,Guingamp,Grenoble,0.0,0.0,D,0.0,0.0,D,1.85,3.3,4.0,1.93,3.14,4.7,1.89,3.28,4.27,2.25,1.61,2.25,1.61,-0.5,1.9,1.95,Guingamp,Grenoble,guingamp,grenoble
+2022-02-05,F2,France-L2,2122,Guingamp,Auxerre,1.0,1.0,D,0.0,0.0,D,2.6,3.3,2.62,2.73,3.14,2.78,2.63,3.2,2.67,1.98,1.88,1.97,1.81,0.0,1.9,1.95,Guingamp,AJ Auxerre,guingamp,aj_auxerre
+2022-02-19,F2,France-L2,2122,Guingamp,Paris FC,1.0,1.0,D,0.0,0.0,D,2.8,3.1,2.4,3.03,2.96,2.66,2.91,3.05,2.53,2.25,1.61,2.31,1.59,0.0,2.05,1.8,Guingamp,Paris FC,guingamp,paris_fc
+2022-02-26,F2,France-L2,2122,Guingamp,Niort,1.0,0.0,H,0.0,0.0,D,2.0,3.1,3.6,2.14,3.0,4.08,2.1,3.11,3.72,2.35,1.57,2.34,1.58,-0.25,1.75,2.05,Guingamp,Niort,guingamp,niort
+2022-03-12,F2,France-L2,2122,Guingamp,Quevilly Rouen,1.0,1.0,D,1.0,1.0,D,1.83,3.5,4.2,1.86,3.37,4.69,1.86,3.34,4.37,2.25,1.61,2.25,1.61,-0.5,1.85,2.0,Guingamp,Quevilly Rouen,guingamp,quevilly_rouen
+2022-03-19,F2,France-L2,2122,Guingamp,Nancy,3.0,1.0,H,2.0,0.0,H,1.85,3.2,4.0,1.95,3.26,4.42,1.94,3.24,4.14,2.4,1.53,2.41,1.54,-0.5,1.98,1.88,Guingamp,Nancy,guingamp,nancy
+2022-04-09,F2,France-L2,2122,Guingamp,Toulouse,2.0,4.0,A,2.0,2.0,D,3.6,3.3,1.95,4.2,3.28,1.99,3.8,3.33,1.99,2.02,1.83,2.06,1.74,0.5,1.83,2.02,Guingamp,Toulouse,guingamp,toulouse
+2022-04-19,F2,France-L2,2122,Guingamp,Pau FC,3.0,0.0,H,2.0,0.0,H,1.85,3.3,4.0,1.95,3.44,4.31,1.93,3.38,4.02,2.05,1.75,2.11,1.72,-0.5,1.93,1.93,Guingamp,Pau FC,guingamp,pau_fc
+2022-04-30,F2,France-L2,2122,Guingamp,Caen,2.0,1.0,H,0.0,1.0,A,2.25,3.1,2.9,2.43,3.07,3.26,2.37,3.06,3.13,2.25,1.61,2.23,1.63,-0.25,2.02,1.83,Guingamp,Caen,guingamp,caen
+2022-05-14,F2,France-L2,2122,Guingamp,Le Havre,2.0,1.0,H,1.0,1.0,D,1.95,3.75,3.2,2.02,3.9,3.41,2.02,3.74,3.29,1.57,2.35,1.59,2.32,-0.5,2.02,1.83,Guingamp,Le Havre,guingamp,le_havre
+2022-07-30,F2,France-L2,2223,Guingamp,Pau FC,4.0,0.0,H,3.0,0.0,H,1.65,3.5,5.0,1.68,3.81,5.53,1.69,3.62,5.06,2.05,1.75,2.06,1.73,-0.75,1.9,1.95,Guingamp,Pau FC,guingamp,pau_fc
+2022-08-13,F2,France-L2,2223,Guingamp,Paris FC,0.0,0.0,D,0.0,0.0,D,2.4,3.1,3.0,2.63,3.14,3.0,2.47,3.13,2.92,2.1,1.7,2.09,1.7,0.0,1.73,2.08,Guingamp,Paris FC,guingamp,paris_fc
+2022-08-30,F2,France-L2,2223,Guingamp,Sochaux,1.0,2.0,A,1.0,1.0,D,2.45,3.2,2.87,2.69,2.97,3.09,2.57,2.97,2.93,2.3,1.6,2.32,1.58,0.0,1.77,2.1,Guingamp,Sochaux,guingamp,sochaux
+2022-09-17,F2,France-L2,2223,Guingamp,St Etienne,2.0,1.0,H,1.0,0.0,H,2.2,3.2,3.0,2.38,3.27,3.26,2.28,3.25,3.09,2.1,1.7,2.1,1.7,-0.25,1.98,1.88,Guingamp,Saint-Etienne,guingamp,saint_etienne
+2022-10-04,F2,France-L2,2223,Guingamp,Rodez,0.0,0.0,D,0.0,0.0,D,1.8,3.6,4.2,1.84,3.45,4.94,1.84,3.36,4.43,2.2,1.65,2.24,1.63,-0.5,1.83,2.02,Guingamp,Rodez,guingamp,rodez
+2022-10-08,F2,France-L2,2223,Guingamp,Annecy,0.0,4.0,A,0.0,1.0,A,1.8,3.5,4.5,1.85,3.42,4.89,1.83,3.42,4.37,2.15,1.66,2.14,1.68,-0.5,1.83,2.02,Guingamp,Annecy,guingamp,annecy
+2022-10-22,F2,France-L2,2223,Guingamp,Bastia,1.0,1.0,D,0.0,0.0,D,2.25,3.1,3.4,2.26,3.14,3.65,2.22,3.09,3.41,2.4,1.53,2.39,1.56,-0.25,1.93,1.93,Guingamp,Bastia,guingamp,bastia
+2022-11-12,F2,France-L2,2223,Guingamp,Le Havre,0.0,1.0,A,0.0,0.0,D,2.8,3.1,2.5,2.98,3.01,2.74,2.85,3.02,2.57,2.3,1.6,2.32,1.58,0.0,2.05,1.8,Guingamp,Le Havre,guingamp,le_havre
+2022-12-30,F2,France-L2,2223,Guingamp,Quevilly Rouen,0.0,2.0,A,0.0,1.0,A,1.91,3.4,3.6,2.02,3.31,4.21,1.99,3.28,3.87,2.25,1.62,2.24,1.62,-0.5,1.95,1.85,Guingamp,Quevilly Rouen,guingamp,quevilly_rouen
+2023-01-13,F2,France-L2,2223,Guingamp,Grenoble,2.0,4.0,A,1.0,1.0,D,2.15,3.25,3.4,2.18,3.11,3.93,2.16,3.07,3.61,2.5,1.5,2.56,1.48,-0.25,1.88,1.98,Guingamp,Grenoble,guingamp,grenoble
+2023-01-31,F2,France-L2,2223,Guingamp,Nimes,1.0,2.0,A,1.0,0.0,H,1.91,3.5,3.8,2.0,3.4,4.15,1.95,3.31,3.92,2.1,1.7,2.12,1.7,-0.5,1.95,1.9,Guingamp,Nimes,guingamp,nimes
+2023-02-11,F2,France-L2,2223,Guingamp,Valenciennes,3.0,1.0,H,1.0,0.0,H,1.91,3.2,4.0,1.93,3.4,4.47,1.92,3.26,4.15,2.3,1.6,2.31,1.59,-0.5,1.93,1.93,Guingamp,Valenciennes,guingamp,valenciennes
+2023-02-25,F2,France-L2,2223,Guingamp,Caen,1.0,2.0,A,0.0,2.0,A,2.6,3.1,2.88,2.68,3.06,3.0,2.59,3.03,2.84,2.3,1.6,2.33,1.58,0.0,1.8,2.05,Guingamp,Caen,guingamp,caen
+2023-03-11,F2,France-L2,2223,Guingamp,Dijon,2.0,0.0,H,1.0,0.0,H,2.25,3.2,3.3,2.34,3.04,3.59,2.25,3.06,3.35,2.3,1.6,2.32,1.58,-0.25,1.95,1.9,Guingamp,Dijon,guingamp,dijon
+2023-04-03,F2,France-L2,2223,Guingamp,Bordeaux,0.0,1.0,A,0.0,1.0,A,3.1,3.3,2.25,3.4,3.17,2.3,3.23,3.17,2.24,2.15,1.67,2.15,1.66,0.25,1.9,1.95,Guingamp,Bordeaux,guingamp,bordeaux
+2023-04-15,F2,France-L2,2223,Guingamp,Amiens,3.0,1.0,H,1.0,0.0,H,2.25,3.2,3.4,2.31,3.25,3.42,2.23,3.23,3.25,2.08,1.73,2.07,1.72,-0.25,1.93,1.93,Guingamp,Amiens,guingamp,amiens
+2023-04-29,F2,France-L2,2223,Guingamp,Laval,3.0,1.0,H,1.0,1.0,D,2.2,3.2,3.2,2.33,3.16,3.48,2.25,3.13,3.28,2.3,1.6,2.31,1.58,-0.25,1.98,1.88,Guingamp,Laval,guingamp,laval
+2023-05-20,F2,France-L2,2223,Guingamp,Metz,1.0,1.0,D,0.0,1.0,A,4.75,3.5,1.75,4.84,3.73,1.78,4.47,3.57,1.78,1.98,1.88,1.94,1.83,0.75,1.8,2.0,Guingamp,Metz,guingamp,metz
+2023-05-26,F2,France-L2,2223,Guingamp,Niort,2.0,0.0,H,1.0,0.0,H,1.5,4.2,5.25,1.55,4.68,5.59,1.51,4.38,5.57,1.6,2.3,1.6,2.27,-1.0,1.88,1.98,Guingamp,Niort,guingamp,niort
+2023-08-12,F2,France-L2,2324,Guingamp,Dunkerque,0.0,1.0,A,0.0,0.0,D,1.75,3.5,4.33,1.93,3.56,4.21,1.86,3.46,4.08,2.05,1.8,2.01,1.77,-0.5,1.78,2.03,Guingamp,Dunkerque,guingamp,dunkerque
+2023-08-26,F2,France-L2,2324,Guingamp,Pau FC,4.0,0.0,H,2.0,0.0,H,1.85,3.4,4.33,1.93,3.46,4.42,1.89,3.38,4.12,2.1,1.7,2.08,1.72,-0.5,1.93,1.93,Guingamp,Pau FC,guingamp,pau_fc
+2023-09-18,F2,France-L2,2324,Guingamp,Ajaccio,3.0,0.0,H,2.0,0.0,H,2.3,3.1,3.3,2.27,3.19,3.45,2.24,3.16,3.23,2.25,1.62,2.21,1.63,-0.25,1.93,1.93,Guingamp,Ajaccio,guingamp,ajaccio
+2023-09-26,F2,France-L2,2324,Guingamp,Bordeaux,0.0,0.0,D,0.0,0.0,D,2.75,3.2,2.63,2.91,3.19,2.66,2.78,3.13,2.57,2.15,1.67,2.16,1.67,0.0,2.03,1.83,Guingamp,Bordeaux,guingamp,bordeaux
+2023-10-07,F2,France-L2,2324,Guingamp,Grenoble,2.0,2.0,D,2.0,1.0,H,2.2,3.2,3.3,2.29,3.35,3.36,2.21,3.22,3.27,2.2,1.65,2.2,1.63,-0.25,1.93,1.93,Guingamp,Grenoble,guingamp,grenoble
+2023-10-21,F2,France-L2,2324,Guingamp,Quevilly Rouen,2.0,2.0,D,1.0,1.0,D,1.91,3.5,3.8,1.94,3.53,4.23,1.9,3.4,3.99,2.15,1.67,2.15,1.66,-0.5,1.93,1.93,Guingamp,Quevilly Rouen,guingamp,quevilly_rouen
+2023-11-06,F2,France-L2,2324,Guingamp,Auxerre,2.0,1.0,H,0.0,0.0,D,3.25,3.25,2.25,3.33,3.39,2.22,3.14,3.31,2.22,1.98,1.88,1.91,1.86,0.25,1.93,1.93,Guingamp,AJ Auxerre,guingamp,aj_auxerre
+2023-12-02,F2,France-L2,2324,Guingamp,Paris FC,0.0,1.0,A,0.0,0.0,D,2.15,3.2,3.4,2.19,3.31,3.63,2.15,3.25,3.42,2.15,1.67,2.16,1.67,-0.25,1.88,1.98,Guingamp,Paris FC,guingamp,paris_fc
+2023-12-16,F2,France-L2,2324,Guingamp,Concarneau,0.0,1.0,A,0.0,0.0,D,1.62,3.6,5.25,1.62,3.97,5.95,1.6,3.79,5.56,2.08,1.73,2.08,1.72,-0.75,1.8,2.05,Guingamp,Concarneau,guingamp,concarneau
+2024-01-23,F2,France-L2,2324,Guingamp,Rodez,3.0,3.0,D,3.0,3.0,D,1.91,3.0,4.0,2.01,3.45,4.06,1.97,3.29,3.86,2.2,1.65,2.16,1.67,-0.5,2.0,1.85,Guingamp,Rodez,guingamp,rodez
+2024-02-03,F2,France-L2,2324,Guingamp,Annecy,1.0,4.0,A,1.0,2.0,A,1.55,3.8,6.0,1.61,3.84,6.47,1.57,3.74,5.97,2.15,1.67,2.15,1.67,-1.0,2.03,1.83,Guingamp,Annecy,guingamp,annecy
+2024-02-17,F2,France-L2,2324,Guingamp,Caen,1.0,0.0,H,1.0,0.0,H,1.8,3.4,4.0,1.91,3.59,4.29,1.86,3.42,4.13,2.15,1.67,2.17,1.66,-0.5,1.88,1.98,Guingamp,Caen,guingamp,caen
+2024-03-02,F2,France-L2,2324,Guingamp,Troyes,0.0,0.0,D,0.0,0.0,D,1.8,3.4,4.75,1.75,3.67,5.17,1.75,3.5,4.65,2.08,1.73,2.05,1.74,-0.75,2.0,1.85,Guingamp,Troyes,guingamp,troyes
+2024-03-16,F2,France-L2,2324,Guingamp,Valenciennes,3.0,0.0,H,2.0,0.0,H,1.55,3.8,6.5,1.54,3.96,7.38,1.52,3.77,6.75,2.2,1.65,2.23,1.63,-1.0,1.98,1.88,Guingamp,Valenciennes,guingamp,valenciennes
+2024-04-06,F2,France-L2,2324,Guingamp,Amiens,0.0,0.0,D,0.0,0.0,D,1.91,3.3,4.2,1.98,3.1,4.73,1.94,3.13,4.28,2.5,1.5,2.49,1.51,-0.5,1.98,1.88,Guingamp,Amiens,guingamp,amiens
+2024-04-20,F2,France-L2,2324,Guingamp,Bastia,0.0,1.0,A,0.0,1.0,A,1.7,3.4,5.0,1.78,3.39,5.41,1.75,3.33,4.92,2.35,1.57,2.37,1.56,-0.75,2.03,1.83,Guingamp,Bastia,guingamp,bastia
+2024-04-23,F2,France-L2,2324,Guingamp,Angers,1.0,2.0,A,1.0,1.0,D,2.25,3.1,3.4,2.33,3.04,3.56,2.25,3.02,3.4,2.4,1.53,2.45,1.53,-0.25,1.95,1.9,Guingamp,Angers,guingamp,angers
+2024-05-04,F2,France-L2,2324,Guingamp,St Etienne,2.0,2.0,D,0.0,2.0,A,2.8,3.2,2.6,2.82,3.21,2.68,2.73,3.14,2.57,2.15,1.67,2.18,1.65,0.0,2.0,1.85,Guingamp,Saint-Etienne,guingamp,saint_etienne
+2024-05-17,F2,France-L2,2324,Guingamp,Laval,0.0,1.0,A,0.0,1.0,A,1.75,3.6,4.1,1.81,3.44,4.74,1.8,3.55,4.31,1.88,1.98,1.85,1.93,-0.5,1.8,2.05,Guingamp,Laval,guingamp,laval
+2024-08-16,F2,France-L2,2425,Guingamp,Troyes,4.0,0.0,H,2.0,0.0,H,1.75,3.4,4.33,1.78,3.48,5.17,1.77,3.42,4.68,2.2,1.65,2.22,1.64,-0.5,1.78,2.03,Guingamp,Troyes,guingamp,troyes
+2024-08-30,F2,France-L2,2425,Guingamp,Red Star,3.0,4.0,A,2.0,2.0,D,1.85,3.1,4.33,1.93,3.29,4.62,1.89,3.26,4.29,2.25,1.62,2.21,1.64,-0.5,1.93,1.93,Guingamp,Red Star,guingamp,red_star
+2024-09-20,F2,France-L2,2425,Guingamp,Annecy,2.0,2.0,D,1.0,1.0,D,1.7,3.5,4.5,1.75,3.69,5.03,1.73,3.6,4.7,2.08,1.73,2.06,1.74,-0.75,1.98,1.88,Guingamp,Annecy,guingamp,annecy
+2024-09-30,F2,France-L2,2425,Guingamp,Caen,3.0,1.0,H,1.0,0.0,H,2.0,3.3,3.6,2.06,3.35,3.68,2.05,3.32,3.54,2.05,1.75,2.05,1.75,-0.25,1.75,2.05,Guingamp,Caen,guingamp,caen
+2024-10-18,F2,France-L2,2425,Guingamp,Pau FC,0.0,1.0,A,0.0,0.0,D,1.8,3.4,3.75,1.89,3.56,4.34,1.86,3.52,4.03,1.93,1.93,1.88,1.89,-0.5,1.88,1.98,Guingamp,Pau FC,guingamp,pau_fc
+2024-10-29,F2,France-L2,2425,Guingamp,Ajaccio,1.0,0.0,H,0.0,0.0,D,1.7,3.4,5.5,1.74,3.63,5.22,1.72,3.47,5.0,2.25,1.62,2.28,1.61,-0.75,1.98,1.88,Guingamp,Ajaccio,guingamp,ajaccio
+2024-11-02,F2,France-L2,2425,Guingamp,Grenoble,3.0,0.0,H,1.0,0.0,H,1.8,3.6,4.33,1.8,3.56,4.51,1.79,3.56,4.32,2.05,1.75,2.06,1.73,-0.5,1.83,2.03,Guingamp,Grenoble,guingamp,grenoble
+2024-11-22,F2,France-L2,2425,Guingamp,Amiens,3.0,0.0,H,2.0,0.0,H,1.8,3.6,4.5,1.81,3.69,4.58,1.79,3.56,4.32,2.0,1.85,1.98,1.8,-0.75,2.05,1.8,Guingamp,Amiens,guingamp,amiens
+2025-01-04,F2,France-L2,2425,Guingamp,Dunkerque,1.0,1.0,D,0.0,0.0,D,2.0,3.5,3.4,2.08,3.41,3.69,2.03,3.41,3.48,2.0,1.85,1.95,1.82,-0.25,1.75,2.05,Guingamp,Dunkerque,guingamp,dunkerque
+2025-01-17,F2,France-L2,2425,Guingamp,Rodez,3.0,0.0,H,1.0,0.0,H,2.25,3.4,3.0,2.31,3.54,3.09,2.25,3.41,3.0,1.88,1.98,1.85,1.93,-0.25,2.0,1.85,Guingamp,Rodez,guingamp,rodez
+2025-02-01,F2,France-L2,2425,Guingamp,Paris FC,0.0,1.0,A,0.0,1.0,A,2.6,3.2,2.5,2.88,2.99,2.68,2.78,3.06,2.6,2.1,1.7,2.11,1.7,0.0,1.98,1.88,Guingamp,Paris FC,guingamp,paris_fc
+2025-02-15,F2,France-L2,2425,Guingamp,Metz,0.0,3.0,A,0.0,1.0,A,3.2,3.1,2.4,3.17,3.05,2.43,3.09,3.06,2.36,2.15,1.67,2.11,1.68,0.25,1.8,2.05,Guingamp,Metz,guingamp,metz
+2025-03-07,F2,France-L2,2425,Guingamp,Clermont,3.0,1.0,H,0.0,1.0,A,1.8,3.6,4.0,1.83,3.52,4.59,1.82,3.46,4.29,2.05,1.75,2.02,1.76,-0.5,1.83,2.03,Guingamp,Clermont Foot,guingamp,clermont_foot
+2025-03-29,F2,France-L2,2425,Guingamp,Laval,2.0,0.0,H,2.0,0.0,H,1.7,3.4,4.5,1.72,3.82,4.6,1.75,3.55,4.58,2.1,1.7,2.09,1.7,-0.75,2.0,1.85,Guingamp,Laval,guingamp,laval
+2025-04-12,F2,France-L2,2425,Guingamp,Lorient,1.0,2.0,A,0.0,0.0,D,3.25,3.5,2.0,3.69,3.45,2.01,3.5,3.48,2.01,1.93,1.93,1.9,1.88,0.5,1.83,2.03,Guingamp,Lorient,guingamp,lorient
+2025-04-25,F2,France-L2,2425,Guingamp,Martigues,2.0,1.0,H,1.0,0.0,H,1.44,4.33,7.5,1.44,4.97,6.74,1.42,4.7,6.82,1.6,2.3,1.58,2.31,-1.25,1.95,1.9,Guingamp,Martigues,guingamp,martigues
+2025-05-02,F2,France-L2,2425,Guingamp,Bastia,2.0,2.0,D,1.0,1.0,D,2.1,3.2,3.7,2.11,3.07,3.97,2.08,3.11,3.77,2.08,1.73,2.07,1.73,-0.25,1.74,1.99,Guingamp,Bastia,guingamp,bastia
+2025-08-09,F2,France-L2,2526,Guingamp,Le Mans,3.0,3.0,D,0.0,2.0,A,1.67,3.5,4.5,1.69,3.78,4.86,1.65,3.63,4.73,1.95,1.85,1.92,1.8,-0.75,1.93,1.88,Guingamp,Le Mans,guingamp,le_mans
+2025-08-23,F2,France-L2,2526,Guingamp,Red Star,0.0,4.0,A,0.0,1.0,A,1.8,3.5,4.0,1.82,3.7,4.17,1.77,3.57,4.11,1.9,1.9,1.89,1.83,-0.5,1.78,2.03,Guingamp,Red Star,guingamp,red_star
+2025-09-15,F2,France-L2,2526,Guingamp,Montpellier,1.0,0.0,H,1.0,0.0,H,2.38,3.25,2.75,2.43,3.34,2.9,2.39,3.27,2.75,2.03,1.78,1.95,1.77,-0.25,2.08,1.73,Guingamp,Montpellier,guingamp,montpellier
+2025-09-23,F2,France-L2,2526,Guingamp,Dunkerque,2.0,1.0,H,2.0,1.0,H,2.45,3.4,2.6,2.57,3.42,2.79,2.43,3.34,2.69,1.9,1.9,1.84,1.87,0.0,1.83,1.98,Guingamp,Dunkerque,guingamp,dunkerque
+2025-10-03,F2,France-L2,2526,Guingamp,Nancy,2.0,2.0,D,0.0,0.0,D,2.45,3.3,2.7,2.18,3.35,3.55,2.41,3.28,2.73,1.9,1.9,1.89,1.83,0.0,1.78,2.03,Guingamp,Nancy,guingamp,nancy
+2025-10-24,F2,France-L2,2526,Guingamp,Clermont,0.0,1.0,A,0.0,0.0,D,1.7,3.7,4.75,1.68,3.8,4.91,1.7,3.59,4.69,1.98,1.83,1.92,1.8,-0.75,1.9,1.9,Guingamp,Clermont Foot,guingamp,clermont_foot
+2025-10-31,F2,France-L2,2526,Guingamp,Laval,2.0,0.0,H,2.0,0.0,H,1.85,3.4,4.2,,,,1.9,3.27,3.98,2.15,1.67,2.12,1.65,-0.5,1.85,1.95,Guingamp,Laval,guingamp,laval
+2025-11-08,F2,France-L2,2526,Guingamp,Pau FC,2.0,2.0,D,2.0,1.0,H,2.1,3.4,3.3,,,,2.07,3.34,3.28,1.95,1.85,1.91,1.8,-0.25,1.8,2.0,Guingamp,Pau FC,guingamp,pau_fc
+2025-12-05,F2,France-L2,2526,Guingamp,Annecy,0.0,3.0,A,0.0,1.0,A,1.95,3.5,3.8,,,,1.98,3.18,3.84,2.05,1.75,2.21,1.6,-0.5,1.95,1.85,Guingamp,Annecy,guingamp,annecy
+2026-01-03,F2,France-L2,2526,Guingamp,Boulogne,3.0,0.0,H,2.0,0.0,H,1.85,3.25,4.1,,,,1.88,3.32,3.9,2.05,1.75,1.98,1.74,-0.5,1.88,1.93,Guingamp,Boulogne,guingamp,boulogne
+2026-01-24,F2,France-L2,2526,Guingamp,Troyes,1.0,0.0,H,0.0,0.0,D,2.55,3.1,2.55,,,,2.65,3.08,2.59,2.08,1.73,1.99,1.73,0.0,1.9,1.9,Guingamp,Troyes,guingamp,troyes
+2026-02-14,F2,France-L2,2526,Guingamp,St Etienne,1.0,2.0,A,0.0,2.0,A,2.5,3.6,2.55,,,,2.53,3.33,2.56,1.8,2.0,1.76,1.96,0.0,1.88,1.93,Guingamp,Saint-Etienne,guingamp,saint_etienne
+2026-02-28,F2,France-L2,2526,Guingamp,Rodez,0.0,0.0,D,0.0,0.0,D,1.7,3.5,4.1,,,,1.74,3.64,4.14,1.8,2.0,1.73,2.01,-0.75,2.0,1.8,Guingamp,Rodez,guingamp,rodez
+2026-03-13,F2,France-L2,2526,Guingamp,Amiens,1.0,0.0,H,1.0,0.0,H,1.5,3.75,5.25,,,,1.55,4.0,5.06,1.7,2.1,1.68,2.05,-1.0,1.9,1.9,Guingamp,Amiens,guingamp,amiens
+2026-03-21,F2,France-L2,2526,Guingamp,Reims,0.0,2.0,A,0.0,1.0,A,2.63,3.2,2.38,,,,2.71,3.22,2.44,1.98,1.83,1.91,1.8,0.0,2.0,1.8,Guingamp,Stade de Reims,guingamp,stade_de_reims
+2026-04-10,F2,France-L2,2526,Guingamp,Grenoble,1.0,1.0,D,0.0,1.0,A,1.65,3.5,4.5,,,,1.68,3.64,4.59,1.8,2.0,1.79,1.93,-0.75,1.88,1.93,Guingamp,Grenoble,guingamp,grenoble
+2026-05-02,F2,France-L2,2526,Guingamp,Bastia,0.0,1.0,A,0.0,0.0,D,2.2,3.0,3.0,,,,2.26,3.25,2.91,1.98,1.83,1.97,1.76,-0.25,1.98,1.83,Guingamp,Bastia,guingamp,bastia
+2026-08-14,F2,France-L2,2627,Guingamp,Boulogne,1.0,0.0,H,0.0,0.0,D,1.75,3.5,4.75,,,,1.74,3.49,4.45,2.08,1.73,2.0,1.73,-0.5,1.75,2.05,Guingamp,Boulogne,guingamp,boulogne
+2026-08-29,F2,France-L2,2627,Guingamp,Nantes,3.0,3.0,D,2.0,1.0,H,3.0,3.1,2.2,,,,2.9,3.35,2.26,1.88,1.93,1.83,1.89,0.25,1.83,1.98,Guingamp,FC Nantes,guingamp,fc_nantes
+2026-09-12,F2,France-L2,2627,Guingamp,Annecy,2.0,1.0,H,0.0,1.0,A,2.1,3.0,3.25,,,,2.17,3.23,3.17,1.98,1.83,1.92,1.8,-0.25,1.9,1.9,Guingamp,Annecy,guingamp,annecy
+2026-09-19,F2,France-L2,2627,Guingamp,Red Star,1.0,3.0,A,0.0,2.0,A,2.38,3.1,2.6,,,,2.41,3.34,2.66,1.75,2.05,1.72,2.02,0.0,1.8,2.0,Guingamp,Red Star,guingamp,red_star
+2026-10-16,F2,France-L2,2627,Guingamp,Pau FC,1.0,2.0,A,0.0,2.0,A,2.1,3.1,3.1,,,,2.16,3.31,3.04,1.85,1.95,1.79,1.92,-0.25,1.88,1.93,Guingamp,Pau FC,guingamp,pau_fc

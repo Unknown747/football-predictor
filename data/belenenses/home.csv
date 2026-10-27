@@ -1,0 +1,18 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-16,P1,Portugal-Liga1,2122,Belenenses,Maritimo,1.0,2.0,A,1.0,2.0,A,2.37,3.1,3.1,2.59,2.93,3.27,2.51,2.91,3.13,2.7,1.44,2.68,1.46,-0.25,2.14,1.77,Belenenses,Maritimo,belenenses,maritimo
+2021-08-27,P1,Portugal-Liga1,2122,Belenenses,Moreirense,1.0,1.0,D,1.0,0.0,H,3.5,3.0,2.2,3.4,3.37,2.29,3.32,3.15,2.28,2.3,1.6,2.34,1.6,0.25,1.95,1.95,Belenenses,Moreirense,belenenses,moreirense
+2021-09-18,P1,Portugal-Liga1,2122,Belenenses,Gil Vicente,1.0,1.0,D,0.0,0.0,D,3.3,3.2,2.1,3.69,3.2,2.25,3.47,3.1,2.23,2.3,1.6,2.33,1.6,0.25,1.99,1.91,Belenenses,Gil Vicente,belenenses,gil_vicente
+2021-10-03,P1,Portugal-Liga1,2122,Belenenses,Tondela,0.0,2.0,A,0.0,1.0,A,2.4,3.2,2.9,2.53,3.47,2.9,2.46,3.31,2.85,2.1,1.7,2.11,1.72,-0.25,2.08,1.82,Belenenses,Tondela,belenenses,tondela
+2021-10-31,P1,Portugal-Liga1,2122,Belenenses,Santa Clara,2.0,1.0,H,1.0,0.0,H,3.0,2.9,2.5,3.18,3.31,2.44,3.03,3.11,2.4,2.35,1.57,2.35,1.57,0.25,1.81,2.09,Belenenses,Santa Clara,belenenses,santa_clara
+2021-11-27,P1,Portugal-Liga1,2122,Belenenses,Benfica,0.0,7.0,A,0.0,7.0,A,15.0,5.75,1.2,15.16,5.97,1.24,13.75,5.99,1.22,1.65,2.2,1.67,2.18,1.75,1.99,1.91,Belenenses,Benfica,belenenses,benfica
+2021-12-12,P1,Portugal-Liga1,2122,Belenenses,Estoril,0.0,1.0,A,0.0,1.0,A,4.5,3.4,1.85,4.71,3.46,1.79,4.44,3.43,1.84,2.2,1.65,2.19,1.66,0.5,2.02,1.88,Belenenses,Estoril,belenenses,estoril
+2022-01-09,P1,Portugal-Liga1,2122,Belenenses,Arouca,2.0,1.0,H,0.0,1.0,A,2.75,3.1,2.7,2.87,3.32,2.65,2.76,3.14,2.63,2.25,1.61,2.24,1.64,0.0,2.0,1.9,Belenenses,Arouca,belenenses,arouca
+2022-01-16,P1,Portugal-Liga1,2122,Belenenses,Porto,1.0,4.0,A,1.0,1.0,D,13.0,7.0,1.18,16.76,7.04,1.2,15.58,6.93,1.18,1.53,2.4,1.51,2.51,2.0,1.95,1.95,Belenenses,FC Porto,belenenses,fc_porto
+2022-02-02,P1,Portugal-Liga1,2122,Belenenses,Sp Lisbon,1.0,4.0,A,1.0,3.0,A,10.0,5.5,1.25,13.3,5.69,1.27,11.95,5.64,1.25,1.66,2.15,1.7,2.15,1.75,1.88,2.02,Belenenses,Sp Lisbon,belenenses,sp_lisbon
+2022-02-13,P1,Portugal-Liga1,2122,Belenenses,Guimaraes,1.0,0.0,H,0.0,0.0,D,4.5,3.6,1.8,4.51,3.73,1.85,4.29,3.56,1.83,2.05,1.75,2.02,1.79,0.5,2.07,1.83,Belenenses,Vitoria Guimaraes,belenenses,vitoria_guimaraes
+2022-02-25,P1,Portugal-Liga1,2122,Belenenses,Pacos Ferreira,0.0,2.0,A,0.0,1.0,A,3.25,3.0,2.37,3.46,2.97,2.49,3.19,2.99,2.44,2.5,1.5,2.55,1.5,0.25,1.86,2.04,Belenenses,Pacos Ferreira,belenenses,pacos_ferreira
+2022-03-12,P1,Portugal-Liga1,2122,Belenenses,Boavista,0.0,0.0,D,0.0,0.0,D,3.5,3.25,2.1,3.64,3.35,2.2,3.46,3.23,2.18,2.25,1.61,2.27,1.63,0.25,1.99,1.91,Belenenses,Boavista,belenenses,boavista
+2022-04-02,P1,Portugal-Liga1,2122,Belenenses,Portimonense,2.0,0.0,H,1.0,0.0,H,3.4,3.1,2.3,3.52,3.03,2.42,3.35,3.02,2.34,2.6,1.47,2.62,1.49,0.25,1.9,2.0,Belenenses,Portimonense,belenenses,portimonense
+2022-04-16,P1,Portugal-Liga1,2122,Belenenses,Vizela,1.0,0.0,H,1.0,0.0,H,2.9,3.2,2.4,3.04,3.28,2.54,2.95,3.19,2.44,2.15,1.66,2.19,1.67,0.0,2.1,1.7,Belenenses,Vizela,belenenses,vizela
+2022-04-30,P1,Portugal-Liga1,2122,Belenenses,Sp Braga,0.0,1.0,A,0.0,0.0,D,5.0,3.75,1.7,4.85,3.94,1.75,4.76,3.77,1.71,1.95,1.9,1.95,1.85,0.75,1.93,1.97,Belenenses,Sp Braga,belenenses,sp_braga
+2022-05-09,P1,Portugal-Liga1,2122,Belenenses,Famalicao,2.0,3.0,A,1.0,0.0,H,2.8,3.1,2.62,2.78,3.28,2.72,2.74,3.17,2.63,2.13,1.75,2.13,1.71,0.0,2.03,1.87,Belenenses,Famalicao,belenenses,famalicao

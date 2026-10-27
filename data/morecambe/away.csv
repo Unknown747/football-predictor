@@ -1,0 +1,116 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E2,England-L1,2122,Ipswich,Morecambe,2.0,2.0,D,0.0,1.0,A,1.61,4.0,5.0,1.66,3.98,5.26,1.65,3.83,5.01,1.8,2.0,1.81,1.99,-0.75,1.83,2.02,Ipswich,Morecambe,ipswich,morecambe
+2021-08-21,E2,England-L1,2122,Gillingham,Morecambe,2.0,1.0,H,1.0,1.0,D,2.1,3.4,3.6,2.19,3.33,3.53,2.13,3.32,3.41,2.0,1.8,2.01,1.79,-0.25,1.89,2.04,Gillingham,Morecambe,gillingham,morecambe
+2021-09-18,E2,England-L1,2122,Doncaster,Morecambe,1.0,0.0,H,0.0,0.0,D,2.6,3.3,2.75,2.6,3.32,2.79,2.56,3.25,2.74,2.05,1.75,2.06,1.75,0.0,1.89,2.04,Doncaster Rovers,Morecambe,doncaster_rovers,morecambe
+2021-09-21,E2,England-L1,2122,Crewe,Morecambe,1.0,3.0,A,0.0,2.0,A,2.15,3.3,3.5,2.22,3.25,3.63,2.19,3.21,3.42,2.1,1.7,2.13,1.7,-0.25,1.88,1.98,Crewe Alexandra,Morecambe,crewe_alexandra,morecambe
+2021-10-02,E2,England-L1,2122,Wycombe,Morecambe,4.0,3.0,H,0.0,2.0,A,1.61,4.0,5.5,1.65,3.97,5.29,1.65,3.88,5.05,1.85,1.95,1.87,1.92,-0.75,1.83,2.02,Wycombe Wanderers,Morecambe,wycombe_wanderers,morecambe
+2021-10-15,E2,England-L1,2122,Burton,Morecambe,3.0,2.0,H,2.0,1.0,H,1.9,3.6,4.0,1.97,3.57,4.06,1.92,3.52,3.9,1.95,1.85,1.94,1.86,-0.5,1.93,1.93,Burton Albion,Morecambe,burton_albion,morecambe
+2021-10-19,E2,England-L1,2122,Cheltenham,Morecambe,3.0,1.0,H,1.0,1.0,D,2.05,3.5,3.6,2.08,3.46,3.79,2.04,3.39,3.59,1.95,1.85,1.95,1.84,-0.5,2.02,1.83,Cheltenham Town,Morecambe,cheltenham_town,morecambe
+2021-10-30,E2,England-L1,2122,Oxford,Morecambe,3.0,1.0,H,1.0,0.0,H,1.57,4.0,6.0,1.52,4.41,5.98,1.55,4.16,5.59,1.72,2.07,1.72,2.07,-1.0,1.98,1.88,Oxford United,Morecambe,oxford_united,morecambe
+2021-11-20,E2,England-L1,2122,Fleetwood Town,Morecambe,1.0,2.0,A,0.0,1.0,A,2.0,3.5,3.6,2.07,3.58,3.54,2.06,3.49,3.45,1.93,1.93,1.9,1.89,-0.5,2.05,1.75,Fleetwood Town,Morecambe,fleetwood_town,morecambe
+2021-12-07,E2,England-L1,2122,Sunderland,Morecambe,5.0,0.0,H,2.0,0.0,H,1.5,4.75,5.75,1.51,4.61,6.24,1.49,4.49,6.05,1.61,2.25,1.64,2.23,-1.0,1.77,2.1,Sunderland,Morecambe,sunderland,morecambe
+2021-12-11,E2,England-L1,2122,Portsmouth,Morecambe,2.0,0.0,H,1.0,0.0,H,1.5,4.33,6.5,1.51,4.47,6.15,1.5,4.3,6.08,1.8,2.0,1.75,2.04,-1.0,1.83,2.02,Portsmouth,Morecambe,portsmouth,morecambe
+2022-01-15,E2,England-L1,2122,AFC Wimbledon,Morecambe,0.0,0.0,D,0.0,0.0,D,1.9,3.8,3.75,1.88,3.85,3.94,1.88,3.66,3.85,1.72,2.07,1.78,2.01,-0.5,1.93,1.93,AFC Wimbledon,Morecambe,afc_wimbledon,morecambe
+2022-01-29,E2,England-L1,2122,Accrington,Morecambe,2.0,2.0,D,2.0,2.0,D,1.95,3.4,4.0,1.98,3.56,3.86,1.96,3.5,3.74,1.95,1.9,1.91,1.87,-0.5,1.95,1.9,Accrington Stanley,Morecambe,accrington_stanley,morecambe
+2022-02-01,E2,England-L1,2122,Sheffield Weds,Morecambe,2.0,0.0,H,0.0,0.0,D,1.57,4.0,6.0,1.55,4.04,6.82,1.54,4.02,5.98,1.83,2.02,1.84,1.95,-1.0,1.98,1.88,Sheffield Wednesday,Morecambe,sheffield_wednesday,morecambe
+2022-02-08,E2,England-L1,2122,Lincoln,Morecambe,2.0,1.0,H,2.0,0.0,H,1.72,3.8,4.75,1.76,3.93,4.66,1.76,3.73,4.41,1.83,2.02,1.82,1.97,-0.75,1.95,1.9,Lincoln City,Morecambe,lincoln_city,morecambe
+2022-02-22,E2,England-L1,2122,Rotherham,Morecambe,2.0,0.0,H,2.0,0.0,H,1.3,5.75,9.5,1.32,5.42,10.55,1.3,5.29,9.86,1.72,2.07,1.76,2.03,-1.5,1.95,1.9,Rotherham United,Morecambe,rotherham_united,morecambe
+2022-03-05,E2,England-L1,2122,Plymouth,Morecambe,2.0,0.0,H,2.0,0.0,H,1.61,3.9,5.75,1.68,3.79,5.33,1.65,3.88,5.05,1.66,2.15,1.68,2.15,-0.75,1.83,1.98,Plymouth Argyle,Morecambe,plymouth_argyle,morecambe
+2022-03-08,E2,England-L1,2122,Bolton,Morecambe,1.0,1.0,D,0.0,1.0,A,1.66,4.0,4.75,1.68,3.89,5.35,1.66,3.88,5.01,1.85,2.0,1.82,1.96,-0.75,1.85,2.0,Bolton,Morecambe,bolton,morecambe
+2022-03-15,E2,England-L1,2122,Shrewsbury,Morecambe,5.0,0.0,H,1.0,0.0,H,1.85,3.3,4.5,1.83,3.46,5.03,1.82,3.34,4.66,2.4,1.53,2.43,1.53,-0.5,1.83,2.02,Shrewsbury Town,Morecambe,shrewsbury_town,morecambe
+2022-03-19,E2,England-L1,2122,Wigan,Morecambe,4.0,1.0,H,2.0,0.0,H,1.4,4.75,8.0,1.4,4.45,8.77,1.43,4.36,7.62,1.95,1.9,1.91,1.86,-1.25,2.05,1.8,Wigan Athletic,Morecambe,wigan_athletic,morecambe
+2022-04-09,E2,England-L1,2122,Cambridge,Morecambe,2.0,1.0,H,1.0,0.0,H,2.37,3.4,3.0,2.46,3.43,2.89,2.39,3.32,2.89,2.05,1.8,2.03,1.76,-0.25,2.1,1.77,Cambridge United,Morecambe,cambridge_united,morecambe
+2022-04-15,E2,England-L1,2122,Charlton,Morecambe,2.0,3.0,A,0.0,2.0,A,1.8,3.8,4.5,1.81,3.89,4.4,1.81,3.69,4.21,1.93,1.93,1.89,1.89,-0.75,2.02,1.83,Charlton,Morecambe,charlton,morecambe
+2022-04-23,E2,England-L1,2122,Milton Keynes Dons,Morecambe,2.0,0.0,H,1.0,0.0,H,1.6,4.2,5.25,1.53,4.3,6.14,1.54,4.16,5.78,1.95,1.9,1.82,1.95,-1.0,2.05,1.8,MK Dons,Morecambe,mk_dons,morecambe
+2022-08-06,E2,England-L1,2223,Peterboro,Morecambe,3.0,0.0,H,2.0,0.0,H,1.44,4.33,7.5,1.49,4.64,6.64,1.49,4.34,6.23,1.85,2.0,1.78,2.0,-1.0,1.77,2.1,Peterborough United,Morecambe,peterborough_united,morecambe
+2022-08-16,E2,England-L1,2223,Bolton,Morecambe,1.0,0.0,H,1.0,0.0,H,1.55,4.33,5.75,1.56,4.32,6.01,1.54,4.2,5.71,1.75,2.05,1.78,2.02,-1.0,1.95,1.9,Bolton,Morecambe,bolton,morecambe
+2022-08-20,E2,England-L1,2223,Oxford,Morecambe,1.0,1.0,D,0.0,0.0,D,1.5,4.5,6.0,1.54,4.33,6.35,1.51,4.29,5.95,1.66,2.15,1.68,2.14,-1.0,1.85,2.0,Oxford United,Morecambe,oxford_united,morecambe
+2022-09-03,E2,England-L1,2223,Bristol Rvs,Morecambe,2.0,2.0,D,1.0,1.0,D,2.0,3.6,3.6,1.99,3.65,3.89,1.97,3.51,3.69,1.95,1.9,1.92,1.86,-0.5,2.0,1.85,Bristol Rvs,Morecambe,bristol_rvs,morecambe
+2022-09-17,E2,England-L1,2223,Forest Green,Morecambe,1.0,2.0,A,1.0,1.0,D,1.9,3.5,4.0,1.88,3.66,4.36,1.88,3.54,4.03,1.98,1.88,1.95,1.82,-0.5,1.85,2.0,Forest Green Rovers,Morecambe,forest_green_rovers,morecambe
+2022-10-01,E2,England-L1,2223,Accrington,Morecambe,3.0,1.0,H,0.0,0.0,D,1.66,3.6,5.25,1.7,4.02,5.16,1.69,3.79,4.83,1.88,1.98,1.84,1.93,-0.75,1.9,1.95,Accrington Stanley,Morecambe,accrington_stanley,morecambe
+2022-10-15,E2,England-L1,2223,Burton,Morecambe,1.0,1.0,D,1.0,0.0,H,1.7,3.75,5.0,1.72,3.98,4.87,1.72,3.77,4.62,1.8,2.0,1.8,1.97,-0.75,1.93,1.93,Burton Albion,Morecambe,burton_albion,morecambe
+2022-10-25,E2,England-L1,2223,Cheltenham,Morecambe,1.0,0.0,H,1.0,0.0,H,2.1,3.4,3.4,2.07,3.54,3.73,2.09,3.36,3.51,2.07,1.72,2.06,1.74,-0.25,1.8,2.05,Cheltenham Town,Morecambe,cheltenham_town,morecambe
+2022-10-29,E2,England-L1,2223,Wycombe,Morecambe,1.0,1.0,D,1.0,0.0,H,1.5,4.33,6.5,1.47,4.82,6.67,1.48,4.44,6.03,1.65,2.2,1.63,2.21,-1.0,1.77,2.1,Wycombe Wanderers,Morecambe,wycombe_wanderers,morecambe
+2022-11-19,E2,England-L1,2223,Lincoln,Morecambe,2.0,1.0,H,1.0,0.0,H,1.85,3.6,4.33,1.83,3.73,4.56,1.82,3.56,4.24,2.02,1.83,1.98,1.79,-0.5,1.8,2.05,Lincoln City,Morecambe,lincoln_city,morecambe
+2022-12-17,E2,England-L1,2223,Plymouth,Morecambe,2.0,1.0,H,0.0,0.0,D,1.53,4.33,6.0,1.52,4.45,6.41,1.5,4.34,5.94,1.67,2.15,1.65,2.18,-1.0,1.85,2.0,Plymouth Argyle,Morecambe,plymouth_argyle,morecambe
+2022-12-26,E2,England-L1,2223,Port Vale,Morecambe,1.0,0.0,H,1.0,0.0,H,1.57,4.0,6.0,1.62,3.91,5.7,1.59,3.83,5.63,2.08,1.73,2.01,1.76,-1.0,2.02,1.77,Port Vale,Morecambe,port_vale,morecambe
+2023-01-24,E2,England-L1,2223,Ipswich,Morecambe,4.0,0.0,H,4.0,0.0,H,1.2,7.0,12.0,1.22,6.57,14.69,1.21,6.33,13.44,1.6,2.3,1.62,2.26,-1.75,1.83,2.02,Ipswich,Morecambe,ipswich,morecambe
+2023-02-04,E2,England-L1,2223,Derby,Morecambe,5.0,0.0,H,1.0,0.0,H,1.33,5.0,10.0,1.31,5.59,10.62,1.32,5.09,9.27,1.7,2.1,1.69,2.13,-1.5,2.0,1.85,Derby,Morecambe,derby,morecambe
+2023-02-14,E2,England-L1,2223,Sheffield Weds,Morecambe,3.0,0.0,H,2.0,0.0,H,1.25,6.5,10.0,1.24,6.23,12.73,1.25,5.8,11.28,1.65,2.2,1.65,2.19,-1.75,2.0,1.85,Sheffield Wednesday,Morecambe,sheffield_wednesday,morecambe
+2023-02-25,E2,England-L1,2223,Fleetwood Town,Morecambe,1.0,0.0,H,1.0,0.0,H,1.75,3.6,4.75,1.83,3.63,4.71,1.79,3.56,4.44,2.02,1.83,2.02,1.76,-0.75,2.0,1.8,Fleetwood Town,Morecambe,fleetwood_town,morecambe
+2023-03-07,E2,England-L1,2223,Cambridge,Morecambe,1.0,1.0,D,1.0,1.0,D,2.0,3.4,4.0,2.0,3.33,4.26,1.97,3.26,4.01,2.4,1.53,2.35,1.57,-0.5,1.98,1.88,Cambridge United,Morecambe,cambridge_united,morecambe
+2023-03-11,E2,England-L1,2223,Shrewsbury,Morecambe,3.0,1.0,H,2.0,1.0,H,1.65,3.6,6.0,1.65,3.77,6.02,1.66,3.63,5.39,2.15,1.67,2.16,1.66,-0.75,1.85,2.0,Shrewsbury Town,Morecambe,shrewsbury_town,morecambe
+2023-03-25,E2,England-L1,2223,Milton Keynes Dons,Morecambe,1.0,0.0,H,0.0,0.0,D,1.75,3.5,5.0,1.83,3.59,4.77,1.77,3.54,4.6,2.05,1.75,2.06,1.73,-0.75,2.02,1.83,MK Dons,Morecambe,mk_dons,morecambe
+2023-04-01,E2,England-L1,2223,Barnsley,Morecambe,5.0,0.0,H,3.0,0.0,H,1.36,4.5,10.0,1.34,5.03,10.79,1.34,4.83,9.3,1.85,2.0,1.83,1.94,-1.25,1.8,2.05,Barnsley,Morecambe,barnsley,morecambe
+2023-04-10,E2,England-L1,2223,Portsmouth,Morecambe,0.0,0.0,D,0.0,0.0,D,1.4,4.33,8.5,1.46,4.63,7.32,1.43,4.5,7.12,1.83,2.02,1.77,2.0,-1.25,1.98,1.88,Portsmouth,Morecambe,portsmouth,morecambe
+2023-04-22,E2,England-L1,2223,Charlton,Morecambe,2.0,3.0,A,1.0,1.0,D,1.7,3.8,4.75,1.74,4.01,4.76,1.72,3.79,4.6,1.82,2.02,1.82,1.95,-0.75,1.93,1.93,Charlton,Morecambe,charlton,morecambe
+2023-05-07,E2,England-L1,2223,Exeter,Morecambe,3.0,2.0,H,0.0,0.0,D,2.45,3.6,2.7,2.38,3.73,2.72,2.35,3.6,2.76,1.67,2.15,1.72,2.09,-0.25,2.1,1.7,Exeter City,Morecambe,exeter_city,morecambe
+2023-08-12,E3,England-L2,2324,Mansfield,Morecambe,3.0,0.0,H,1.0,0.0,H,1.55,4.2,6.0,1.56,4.48,5.82,1.53,4.2,5.64,1.73,2.08,1.72,2.06,-1.0,1.9,1.95,Mansfield Town,Morecambe,mansfield_town,morecambe
+2023-08-26,E3,England-L2,2324,Harrogate,Morecambe,2.0,0.0,H,1.0,0.0,H,2.38,3.5,2.9,2.39,3.51,3.03,2.34,3.39,2.92,1.98,1.88,1.94,1.82,-0.25,2.05,1.8,Harrogate Town,Morecambe,harrogate_town,morecambe
+2023-09-16,E3,England-L2,2324,Gillingham,Morecambe,2.0,1.0,H,2.0,1.0,H,1.8,3.5,5.0,1.79,3.7,4.81,1.79,3.52,4.47,2.1,1.7,2.12,1.68,-0.75,2.0,1.8,Gillingham,Morecambe,gillingham,morecambe
+2023-09-30,E3,England-L2,2324,Forest Green,Morecambe,1.0,2.0,A,0.0,1.0,A,2.0,3.5,3.75,1.98,3.69,3.88,1.98,3.49,3.62,1.93,1.93,1.87,1.88,-0.5,2.0,1.85,Forest Green Rovers,Morecambe,forest_green_rovers,morecambe
+2023-10-07,E3,England-L2,2324,Colchester,Morecambe,1.0,3.0,A,0.0,1.0,A,1.91,3.75,3.8,1.92,3.8,3.99,1.9,3.62,3.76,1.75,2.05,1.77,1.98,-0.5,1.93,1.93,Colchester United,Morecambe,colchester_united,morecambe
+2023-10-21,E3,England-L2,2324,Sutton,Morecambe,2.0,3.0,A,1.0,2.0,A,2.45,3.4,2.8,2.44,3.58,2.91,2.33,3.41,2.87,1.88,1.98,1.81,1.94,-0.25,2.05,1.8,Sutton United,Morecambe,sutton_united,morecambe
+2023-10-31,E3,England-L2,2324,Barrow,Morecambe,1.0,0.0,H,1.0,0.0,H,1.8,3.6,4.5,1.81,3.74,4.61,1.8,3.6,4.33,1.93,1.93,1.88,1.86,-0.75,2.05,1.8,Barrow,Morecambe,barrow,morecambe
+2023-11-11,E3,England-L2,2324,Grimsby,Morecambe,3.0,2.0,H,0.0,1.0,A,2.15,3.5,3.25,2.25,3.44,3.35,2.15,3.43,3.21,1.93,1.93,1.85,1.89,-0.25,1.88,1.98,Grimsby Town,Morecambe,grimsby_town,morecambe
+2023-11-25,E3,England-L2,2324,Wrexham,Morecambe,6.0,0.0,H,3.0,0.0,H,1.4,4.75,8.0,1.41,5.16,7.35,1.39,4.91,7.15,1.53,2.4,1.52,2.44,-1.25,1.85,2.0,Wrexham,Morecambe,wrexham,morecambe
+2023-12-16,E3,England-L2,2324,Doncaster,Morecambe,0.0,5.0,A,0.0,2.0,A,2.1,3.5,3.5,2.1,3.74,3.44,2.06,3.54,3.34,1.9,1.95,1.84,1.91,-0.25,1.8,2.05,Doncaster Rovers,Morecambe,doncaster_rovers,morecambe
+2023-12-26,E3,England-L2,2324,Bradford,Morecambe,2.0,2.0,D,0.0,2.0,A,1.75,3.75,4.75,1.7,3.88,5.25,1.7,3.72,4.76,1.98,1.88,1.91,1.84,-0.75,1.93,1.93,Bradford City,Morecambe,bradford_city,morecambe
+2023-12-29,E3,England-L2,2324,Notts County,Morecambe,5.0,0.0,H,4.0,0.0,H,1.57,4.0,5.75,1.59,4.36,5.61,1.57,4.23,5.21,1.6,2.3,1.56,2.34,-1.0,1.95,1.9,Notts County,Morecambe,notts_county,morecambe
+2024-01-20,E3,England-L2,2324,Milton Keynes Dons,Morecambe,1.0,2.0,A,1.0,0.0,H,1.5,4.33,6.5,1.5,4.82,6.09,1.48,4.47,5.9,1.6,2.3,1.57,2.3,-1.0,1.8,2.05,MK Dons,Morecambe,mk_dons,morecambe
+2024-02-03,E3,England-L2,2324,Crawley Town,Morecambe,1.0,2.0,A,1.0,1.0,D,2.05,3.75,3.3,2.11,3.77,3.38,2.05,3.63,3.27,1.7,2.1,1.69,2.11,-0.25,1.78,2.03,Crawley Town,Morecambe,crawley_town,morecambe
+2024-02-13,E3,England-L2,2324,Tranmere,Morecambe,2.0,3.0,A,2.0,1.0,H,1.95,3.6,3.75,2.02,3.65,3.77,1.99,3.53,3.54,1.83,2.03,1.81,1.96,-0.5,2.0,1.85,Tranmere Rovers,Morecambe,tranmere_rovers,morecambe
+2024-02-17,E3,England-L2,2324,AFC Wimbledon,Morecambe,1.0,1.0,D,0.0,0.0,D,1.6,4.5,5.0,1.61,4.18,5.66,1.57,4.1,5.25,1.75,2.05,1.77,1.99,-1.0,2.03,1.83,AFC Wimbledon,Morecambe,afc_wimbledon,morecambe
+2024-02-20,E3,England-L2,2324,Walsall,Morecambe,3.0,0.0,H,2.0,0.0,H,1.95,3.4,4.0,1.99,3.54,4.0,1.94,3.49,3.77,1.95,1.9,1.88,1.87,-0.5,1.98,1.88,Walsall,Morecambe,walsall,morecambe
+2024-03-02,E3,England-L2,2324,Crewe,Morecambe,2.0,3.0,A,1.0,0.0,H,1.85,3.75,4.0,1.88,3.76,4.21,1.87,3.62,3.89,1.83,2.03,1.79,1.97,-0.5,1.88,1.98,Crewe Alexandra,Morecambe,crewe_alexandra,morecambe
+2024-03-12,E3,England-L2,2324,Newport County,Morecambe,5.0,3.0,H,2.0,1.0,H,2.25,3.5,3.1,2.27,3.45,3.31,2.2,3.38,3.18,1.98,1.88,1.91,1.86,-0.25,1.95,1.9,Newport County,Morecambe,newport_county,morecambe
+2024-03-17,E3,England-L2,2324,Salford,Morecambe,3.0,1.0,H,1.0,0.0,H,1.83,3.6,4.5,1.87,4.0,3.99,1.82,3.8,3.96,1.67,2.15,1.65,2.16,-0.5,1.85,2.0,Salford City,Morecambe,salford_city,morecambe
+2024-03-29,E3,England-L2,2324,Accrington,Morecambe,1.0,2.0,A,0.0,0.0,D,2.1,3.5,3.1,2.14,3.66,3.34,2.11,3.59,3.2,1.7,2.1,1.7,2.09,-0.25,1.85,2.0,Accrington Stanley,Morecambe,accrington_stanley,morecambe
+2024-04-13,E3,England-L2,2324,Stockport,Morecambe,2.0,0.0,H,2.0,0.0,H,1.3,5.5,9.5,1.29,5.72,10.9,1.28,5.49,9.78,1.62,2.25,1.62,2.24,-1.5,1.88,1.98,Stockport County,Morecambe,stockport_county,morecambe
+2024-04-27,E3,England-L2,2324,Swindon,Morecambe,3.0,3.0,D,2.0,2.0,D,1.8,4.2,3.8,1.86,4.13,3.83,1.82,4.02,3.73,1.5,2.5,1.48,2.55,-0.5,1.78,2.03,Swindon Town,Morecambe,swindon_town,morecambe
+2024-08-10,E3,England-L2,2425,Walsall,Morecambe,1.0,0.0,H,1.0,0.0,H,1.62,3.9,5.0,1.63,4.06,4.98,1.62,3.97,4.92,1.7,2.1,1.7,2.08,-0.75,1.83,2.03,Walsall,Morecambe,walsall,morecambe
+2024-08-24,E3,England-L2,2425,Doncaster,Morecambe,1.0,0.0,H,1.0,0.0,H,1.48,4.0,7.0,1.46,4.41,6.53,1.47,4.32,6.37,1.7,2.1,1.71,2.07,-1.0,1.78,2.03,Doncaster Rovers,Morecambe,doncaster_rovers,morecambe
+2024-09-07,E3,England-L2,2425,Crewe,Morecambe,1.0,0.0,H,1.0,0.0,H,1.9,3.5,3.8,1.93,3.49,3.85,1.92,3.47,3.84,2.05,1.75,2.03,1.74,-0.5,1.93,1.93,Crewe Alexandra,Morecambe,crewe_alexandra,morecambe
+2024-09-23,E3,England-L2,2425,Fleetwood Town,Morecambe,2.0,2.0,D,2.0,0.0,H,1.57,3.75,6.0,1.57,4.02,5.44,1.57,3.94,5.47,1.88,1.98,1.83,1.92,-1.0,2.0,1.82,Fleetwood Town,Morecambe,fleetwood_town,morecambe
+2024-10-05,E3,England-L2,2425,Accrington,Morecambe,2.0,1.0,H,2.0,0.0,H,2.0,3.5,3.5,2.03,3.55,3.48,2.04,3.5,3.42,1.83,2.03,1.79,1.97,-0.25,1.75,2.05,Accrington Stanley,Morecambe,accrington_stanley,morecambe
+2024-10-12,E3,England-L2,2425,Barrow,Morecambe,0.0,1.0,A,0.0,0.0,D,1.57,3.9,5.5,1.59,4.07,5.43,1.58,3.98,5.41,1.93,1.93,1.88,1.88,-1.0,2.05,1.8,Barrow,Morecambe,barrow,morecambe
+2024-10-22,E3,England-L2,2425,AFC Wimbledon,Morecambe,3.0,0.0,H,0.0,0.0,D,1.45,4.75,6.5,1.44,4.52,7.31,1.43,4.43,6.94,1.83,2.03,1.79,1.98,-1.25,2.03,1.83,AFC Wimbledon,Morecambe,afc_wimbledon,morecambe
+2024-11-09,E3,England-L2,2425,Harrogate,Morecambe,1.0,2.0,A,0.0,1.0,A,2.25,3.5,2.9,2.34,3.38,3.03,2.27,3.38,3.0,1.98,1.88,1.91,1.85,-0.25,2.03,1.83,Harrogate Town,Morecambe,harrogate_town,morecambe
+2024-11-23,E3,England-L2,2425,Swindon,Morecambe,2.0,3.0,A,1.0,2.0,A,1.8,3.5,4.33,1.83,3.67,4.07,1.83,3.61,4.09,1.85,2.0,1.8,1.96,-0.5,1.83,2.03,Swindon Town,Morecambe,swindon_town,morecambe
+2024-12-03,E3,England-L2,2425,Tranmere,Morecambe,2.0,2.0,D,0.0,1.0,A,1.85,3.5,4.0,1.9,3.61,4.06,1.88,3.54,3.94,1.95,1.9,1.91,1.86,-0.5,1.9,1.95,Tranmere Rovers,Morecambe,tranmere_rovers,morecambe
+2024-12-14,E3,England-L2,2425,Cheltenham,Morecambe,2.0,0.0,H,1.0,0.0,H,1.83,3.6,4.0,1.79,3.64,4.26,1.84,3.58,4.02,1.93,1.93,1.89,1.88,-0.5,1.85,2.0,Cheltenham Town,Morecambe,cheltenham_town,morecambe
+2024-12-26,E3,England-L2,2425,Carlisle,Morecambe,0.0,1.0,A,0.0,0.0,D,1.85,3.5,4.1,1.86,3.53,4.09,1.85,3.54,3.97,1.93,1.93,1.89,1.87,-0.5,1.88,1.98,Carlisle United,Morecambe,carlisle_united,morecambe
+2024-12-29,E3,England-L2,2425,Salford,Morecambe,1.0,0.0,H,0.0,0.0,D,1.7,3.7,4.2,1.69,3.8,4.7,1.71,3.72,4.5,1.93,1.93,1.87,1.89,-0.75,1.93,1.93,Salford City,Morecambe,salford_city,morecambe
+2025-01-25,E3,England-L2,2425,Colchester,Morecambe,1.0,0.0,H,0.0,0.0,D,1.62,3.7,5.5,1.63,3.98,4.96,1.62,3.84,5.08,2.0,1.82,1.95,1.81,-0.75,1.83,2.03,Colchester United,Morecambe,colchester_united,morecambe
+2025-01-28,E3,England-L2,2425,Bradford,Morecambe,1.0,0.0,H,1.0,0.0,H,1.48,4.2,6.25,1.5,4.22,6.79,1.48,4.2,6.65,1.98,1.88,1.91,1.88,-1.0,1.85,2.0,Bradford City,Morecambe,bradford_city,morecambe
+2025-02-04,E3,England-L2,2425,Newport County,Morecambe,2.0,1.0,H,1.0,0.0,H,2.55,3.3,2.6,2.64,3.44,2.65,2.62,3.37,2.56,1.88,1.98,1.84,1.94,0.0,1.9,1.95,Newport County,Morecambe,newport_county,morecambe
+2025-02-08,E3,England-L2,2425,Notts County,Morecambe,2.0,0.0,H,0.0,0.0,D,1.38,4.5,8.0,1.38,4.87,7.25,1.38,4.75,7.21,1.67,2.15,1.63,2.21,-1.25,1.88,1.98,Notts County,Morecambe,notts_county,morecambe
+2025-03-01,E3,England-L2,2425,Gillingham,Morecambe,1.0,0.0,H,0.0,0.0,D,2.0,3.4,3.7,2.04,3.27,3.71,2.03,3.27,3.62,2.15,1.67,2.12,1.67,-0.25,1.75,2.05,Gillingham,Morecambe,gillingham,morecambe
+2025-03-08,E3,England-L2,2425,Milton Keynes Dons,Morecambe,2.0,1.0,H,1.0,1.0,D,1.91,3.5,3.8,1.98,3.58,3.68,1.92,3.5,3.72,1.93,1.93,1.87,1.88,-0.5,1.98,1.88,MK Dons,Morecambe,mk_dons,morecambe
+2025-03-22,E3,England-L2,2425,Port Vale,Morecambe,1.0,0.0,H,0.0,0.0,D,1.55,4.2,5.25,1.53,4.02,5.93,1.55,3.9,5.87,2.08,1.73,2.11,1.68,-1.0,2.03,1.83,Port Vale,Morecambe,port_vale,morecambe
+2025-04-05,E3,England-L2,2425,Grimsby,Morecambe,3.0,1.0,H,1.0,1.0,D,1.65,3.8,5.0,1.65,3.9,4.91,1.64,3.83,5.02,2.0,1.85,1.94,1.83,-0.75,1.85,2.0,Grimsby Town,Morecambe,grimsby_town,morecambe
+2025-04-18,E3,England-L2,2425,Bromley,Morecambe,1.0,0.0,H,0.0,0.0,D,1.9,3.5,3.8,1.88,3.71,3.77,1.91,3.63,3.67,1.85,2.0,1.8,1.98,-0.5,1.93,1.93,Bromley,Morecambe,bromley,morecambe
+2025-04-26,E3,England-L2,2425,Chesterfield,Morecambe,4.0,1.0,H,1.0,0.0,H,1.33,5.0,8.0,1.33,5.06,8.38,1.33,4.96,8.16,1.65,2.2,1.61,2.25,-1.5,2.03,1.83,Chesterfield,Morecambe,chesterfield,morecambe
+2025-08-25,EC,England-Conference,2526,Aldershot,Morecambe,4.0,0.0,H,0.0,0.0,D,,,,,,,,,,,,,,,,,Aldershot,Morecambe,aldershot,morecambe
+2025-09-06,EC,England-Conference,2526,Boreham Wood,Morecambe,3.0,0.0,H,2.0,0.0,H,1.5,3.8,5.75,1.51,4.36,5.51,1.51,4.04,5.29,1.67,2.15,1.63,2.15,-1.0,1.83,1.98,Boreham Wood,Morecambe,boreham_wood,morecambe
+2025-09-13,EC,England-Conference,2526,Solihull,Morecambe,4.0,4.0,D,2.0,1.0,H,1.53,4.1,5.0,1.54,4.64,4.78,1.52,4.09,5.09,1.67,2.15,1.63,2.14,-1.0,1.9,1.9,Solihull,Morecambe,solihull,morecambe
+2025-09-27,EC,England-Conference,2526,Truro,Morecambe,5.0,0.0,H,1.0,0.0,H,2.3,3.25,2.9,2.25,3.73,2.83,2.23,3.45,2.78,1.7,2.1,1.65,2.1,-0.25,2.0,1.8,Truro,Morecambe,truro,morecambe
+2025-10-04,EC,England-Conference,2526,Tamworth,Morecambe,1.0,1.0,D,0.0,0.0,D,1.48,4.5,5.25,1.48,4.5,5.59,1.5,4.22,5.08,1.53,2.4,1.5,2.41,-1.0,1.83,1.98,Tamworth,Morecambe,tamworth,morecambe
+2025-10-07,EC,England-Conference,2526,Scunthorpe,Morecambe,3.0,1.0,H,2.0,0.0,H,1.3,5.25,7.0,1.34,5.3,7.98,1.31,5.07,7.47,1.44,2.7,1.43,2.6,-1.5,1.9,1.9,Scunthorpe United,Morecambe,scunthorpe_united,morecambe
+2025-10-21,EC,England-Conference,2526,Boston Utd,Morecambe,0.0,4.0,A,0.0,2.0,A,1.85,3.8,3.4,1.9,3.85,3.68,1.85,3.64,3.54,1.53,2.4,1.59,2.21,-0.5,1.88,1.93,Boston Utd,Morecambe,boston_utd,morecambe
+2025-10-25,EC,England-Conference,2526,Eastleigh,Morecambe,2.0,1.0,H,0.0,0.0,D,1.85,3.7,3.5,1.89,4.02,3.43,1.83,3.71,3.53,1.62,2.25,1.57,2.24,-0.5,1.9,1.9,Eastleigh,Morecambe,eastleigh,morecambe
+2025-11-04,EC,England-Conference,2526,Hartlepool,Morecambe,1.0,1.0,D,1.0,0.0,H,1.75,3.9,3.7,,,,1.74,3.92,3.69,1.48,2.6,1.45,2.56,-0.75,2.0,1.8,Hartlepool United,Morecambe,hartlepool_united,morecambe
+2025-11-15,EC,England-Conference,2526,York,Morecambe,4.0,2.0,H,1.0,1.0,D,1.18,6.5,11.0,,,,1.18,6.81,10.29,1.22,4.2,1.23,3.75,-2.25,2.0,1.8,York,Morecambe,york,morecambe
+2025-11-29,EC,England-Conference,2526,Braintree Town,Morecambe,1.0,0.0,H,1.0,0.0,H,2.15,3.7,2.8,,,,2.18,3.55,2.81,1.53,2.4,1.53,2.35,-0.25,1.95,1.85,Braintree Town,Morecambe,braintree_town,morecambe
+2025-12-21,EC,England-Conference,2526,Brackley Town,Morecambe,0.0,2.0,A,0.0,1.0,A,2.05,3.3,3.2,,,,2.05,3.37,3.15,1.73,2.08,1.72,2.0,-0.25,1.83,1.98,Brackley Town,Morecambe,brackley_town,morecambe
+2025-12-30,EC,England-Conference,2526,Carlisle,Morecambe,1.0,0.0,H,1.0,0.0,H,1.42,4.75,6.0,,,,1.36,4.79,6.38,1.44,2.7,1.42,2.64,-1.25,1.83,1.98,Carlisle United,Morecambe,carlisle_united,morecambe
+2026-01-21,EC,England-Conference,2526,Halifax,Morecambe,1.0,0.0,H,1.0,0.0,H,1.83,3.5,3.8,,,,1.85,3.54,3.62,1.7,2.1,1.69,2.04,-0.5,1.83,1.98,Halifax,Morecambe,halifax,morecambe
+2026-02-03,EC,England-Conference,2526,Altrincham,Morecambe,1.0,1.0,D,0.0,0.0,D,2.15,3.4,3.0,,,,2.06,3.39,3.13,1.73,2.08,1.65,2.09,-0.25,1.88,1.93,Altrincham,Morecambe,altrincham,morecambe
+2026-02-14,EC,England-Conference,2526,Southend,Morecambe,5.0,1.0,H,2.0,0.0,H,1.36,4.75,6.5,,,,1.36,4.78,6.58,1.5,2.5,1.48,2.45,-1.5,2.03,1.78,Southend United,Morecambe,southend_united,morecambe
+2026-02-25,EC,England-Conference,2526,Gateshead,Morecambe,4.0,4.0,D,2.0,3.0,A,2.3,3.6,2.63,,,,2.39,3.43,2.58,1.57,2.35,1.54,2.3,0.0,1.8,2.0,Gateshead,Morecambe,gateshead,morecambe
+2026-03-03,EC,England-Conference,2526,Wealdstone,Morecambe,2.0,3.0,A,1.0,2.0,A,1.95,3.5,3.4,,,,1.95,3.53,3.28,1.67,2.15,1.64,2.12,-0.5,2.0,1.8,Wealdstone,Morecambe,wealdstone,morecambe
+2026-03-07,EC,England-Conference,2526,Sutton,Morecambe,0.0,5.0,A,0.0,4.0,A,1.8,3.7,3.8,,,,1.8,3.67,3.64,1.6,2.3,1.56,2.26,-0.5,1.83,1.98,Sutton United,Morecambe,sutton_united,morecambe
+2026-03-21,EC,England-Conference,2526,Yeovil,Morecambe,3.0,2.0,H,1.0,1.0,D,2.1,3.5,2.9,,,,2.11,3.42,2.96,1.73,2.08,1.69,2.03,-0.25,1.9,1.9,Yeovil Town,Morecambe,yeovil_town,morecambe
+2026-04-03,EC,England-Conference,2526,Rochdale,Morecambe,2.0,4.0,A,1.0,1.0,D,1.29,5.25,8.0,,,,1.27,5.27,8.54,1.44,2.7,1.43,2.62,-1.5,1.8,2.0,Rochdale,Morecambe,rochdale,morecambe
+2026-04-11,EC,England-Conference,2526,Woking,Morecambe,5.0,1.0,H,2.0,1.0,H,1.75,3.8,3.75,,,,1.74,3.77,3.85,1.6,2.3,1.57,2.26,-0.75,1.98,1.83,Woking,Morecambe,woking,morecambe
+2026-04-25,EC,England-Conference,2526,Forest Green,Morecambe,5.0,0.0,H,2.0,0.0,H,1.33,5.0,7.0,,,,1.34,5.01,6.56,1.33,3.4,1.33,3.11,-1.5,1.85,1.95,Forest Green Rovers,Morecambe,forest_green_rovers,morecambe

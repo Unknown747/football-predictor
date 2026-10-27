@@ -1,0 +1,35 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,B1,Belgium-JPL,2122,Seraing,Mechelen,1.0,0.0,H,1.0,0.0,H,3.4,3.5,1.95,3.57,4.02,1.95,3.48,3.85,1.94,1.72,2.07,1.72,2.11,0.5,1.93,1.93,RFC Seraing,KV Mechelen,rfc_seraing,kv_mechelen
+2021-08-14,B1,Belgium-JPL,2122,Seraing,Oostende,2.0,3.0,A,1.0,0.0,H,3.5,3.6,2.0,3.5,3.92,2.0,3.41,3.72,2.0,1.7,2.1,1.69,2.16,0.5,1.8,2.05,RFC Seraing,KV Oostende,rfc_seraing,kv_oostende
+2021-08-21,B1,Belgium-JPL,2122,Seraing,Cercle Brugge,2.0,1.0,H,0.0,1.0,A,2.8,3.5,2.37,2.92,3.48,2.45,2.83,3.4,2.4,1.85,1.95,1.87,1.92,0.0,2.05,1.8,RFC Seraing,Cercle Brugge,rfc_seraing,cercle_brugge
+2021-09-12,B1,Belgium-JPL,2122,Seraing,Standard,0.0,1.0,A,0.0,1.0,A,3.6,3.5,2.0,3.53,3.59,2.0,3.46,3.61,2.0,1.75,2.05,1.76,2.05,0.5,1.83,2.02,RFC Seraing,Standard Liege,rfc_seraing,standard_liege
+2021-10-03,B1,Belgium-JPL,2122,Seraing,Waregem,5.0,1.0,H,2.0,0.0,H,2.0,4.0,3.3,2.03,3.95,3.33,2.03,3.83,3.27,1.57,2.35,1.59,2.34,-0.25,1.75,2.05,RFC Seraing,Zulte Waregem,rfc_seraing,zulte_waregem
+2021-10-22,B1,Belgium-JPL,2122,Seraing,Charleroi,1.0,3.0,A,0.0,2.0,A,3.2,3.5,2.15,3.06,3.86,2.23,2.97,3.65,2.22,1.6,2.3,1.63,2.27,0.25,1.9,1.95,RFC Seraing,Sporting Charleroi,rfc_seraing,sporting_charleroi
+2021-11-07,B1,Belgium-JPL,2122,Seraing,Gent,0.0,0.0,D,0.0,0.0,D,5.0,4.0,1.6,5.54,4.38,1.56,5.31,4.23,1.56,1.6,2.3,1.61,2.28,1.0,1.9,1.95,RFC Seraing,KAA Gent,rfc_seraing,kaa_gent
+2021-11-27,B1,Belgium-JPL,2122,Seraing,St Truiden,2.0,0.0,H,1.0,0.0,H,2.8,3.5,2.37,2.99,3.39,2.42,2.88,3.36,2.4,1.9,1.95,1.88,1.91,0.25,1.77,2.1,RFC Seraing,Sint-Truiden,rfc_seraing,sint_truiden
+2021-12-11,B1,Belgium-JPL,2122,Seraing,Anderlecht,0.0,5.0,A,0.0,3.0,A,5.75,4.2,1.53,5.35,4.35,1.58,5.42,4.31,1.55,1.61,2.25,1.61,2.29,1.0,1.98,1.88,RFC Seraing,Anderlecht,rfc_seraing,anderlecht
+2021-12-17,B1,Belgium-JPL,2122,Seraing,Kortrijk,0.0,2.0,A,0.0,0.0,D,2.5,3.4,2.55,2.63,3.6,2.67,2.57,3.47,2.61,1.72,2.07,1.75,2.07,0.0,1.9,1.95,RFC Seraing,KV Kortrijk,rfc_seraing,kv_kortrijk
+2022-01-18,B1,Belgium-JPL,2122,Seraing,St. Gilloise,0.0,4.0,A,0.0,2.0,A,8.0,4.5,1.4,7.79,4.75,1.4,7.56,4.81,1.38,1.57,2.35,1.57,2.35,1.25,2.0,1.85,RFC Seraing,St. Gilloise,rfc_seraing,st_gilloise
+2022-01-26,B1,Belgium-JPL,2122,Seraing,Beerschot VA,2.0,1.0,H,1.0,0.0,H,1.95,3.6,3.6,2.06,3.69,3.46,2.01,3.63,3.42,1.8,2.0,1.79,2.0,-0.5,2.0,1.85,RFC Seraing,Beerschot VA,rfc_seraing,beerschot_va
+2022-01-29,B1,Belgium-JPL,2122,Seraing,Eupen,0.0,0.0,D,0.0,0.0,D,2.4,3.4,2.8,2.49,3.47,2.82,2.43,3.38,2.79,1.9,1.95,1.87,1.91,0.0,1.77,2.1,RFC Seraing,KAS Eupen,rfc_seraing,kas_eupen
+2022-02-11,B1,Belgium-JPL,2122,Seraing,Antwerp,0.0,1.0,A,0.0,0.0,D,3.6,3.5,2.0,3.71,3.61,2.05,3.57,3.55,1.99,1.85,2.0,1.83,1.96,0.5,1.83,2.02,RFC Seraing,Royal Antwerp,rfc_seraing,royal_antwerp
+2022-03-05,B1,Belgium-JPL,2122,Seraing,Club Brugge,0.0,5.0,A,0.0,3.0,A,6.5,4.33,1.4,7.27,4.56,1.44,6.66,4.66,1.43,1.6,2.3,1.57,2.35,1.25,1.9,1.95,RFC Seraing,Club Brugge,rfc_seraing,club_brugge
+2022-03-19,B1,Belgium-JPL,2122,Seraing,Oud-Heverlee Leuven,1.0,1.0,D,0.0,0.0,D,2.9,3.4,2.37,2.78,3.59,2.46,2.79,3.5,2.39,1.75,2.05,1.75,2.05,0.0,2.1,1.7,RFC Seraing,Oud-Heverlee Leuven,rfc_seraing,oud_heverlee_leuven
+2022-04-10,B1,Belgium-JPL,2122,Seraing,Genk,0.0,2.0,A,0.0,1.0,A,5.75,4.2,1.5,6.67,4.55,1.47,6.25,4.54,1.46,1.57,2.35,1.56,2.37,1.25,1.77,2.1,RFC Seraing,Genk,rfc_seraing,genk
+2022-07-31,B1,Belgium-JPL,2223,Seraing,Kortrijk,0.0,1.0,A,0.0,0.0,D,2.87,3.4,2.25,2.92,3.45,2.43,2.86,3.34,2.4,1.9,1.95,1.88,1.9,0.25,1.83,2.02,RFC Seraing,KV Kortrijk,rfc_seraing,kv_kortrijk
+2022-08-13,B1,Belgium-JPL,2223,Seraing,Charleroi,0.0,1.0,A,0.0,0.0,D,4.33,3.5,1.8,4.22,3.83,1.82,4.07,3.72,1.83,1.85,2.0,1.81,1.99,0.5,2.02,1.83,RFC Seraing,Sporting Charleroi,rfc_seraing,sporting_charleroi
+2022-08-27,B1,Belgium-JPL,2223,Seraing,Genk,0.0,4.0,A,0.0,1.0,A,5.75,4.5,1.5,6.01,4.54,1.54,5.73,4.5,1.5,1.53,2.4,1.54,2.42,1.0,2.05,1.8,RFC Seraing,Genk,rfc_seraing,genk
+2022-09-10,B1,Belgium-JPL,2223,Seraing,Club Brugge,0.0,2.0,A,0.0,0.0,D,7.5,4.75,1.4,7.6,4.73,1.44,6.87,4.66,1.43,1.57,2.35,1.58,2.35,1.25,1.9,1.95,RFC Seraing,Club Brugge,rfc_seraing,club_brugge
+2022-10-08,B1,Belgium-JPL,2223,Seraing,Oostende,1.0,1.0,D,0.0,0.0,D,2.75,3.4,2.4,2.83,3.5,2.53,2.81,3.4,2.44,1.93,1.93,1.9,1.9,0.0,2.05,1.8,RFC Seraing,KV Oostende,rfc_seraing,kv_oostende
+2022-10-18,B1,Belgium-JPL,2223,Seraing,Cercle Brugge,0.0,1.0,A,0.0,1.0,A,3.8,3.6,1.9,4.03,3.68,1.94,3.83,3.56,1.93,2.02,1.83,1.96,1.83,0.5,1.93,1.93,RFC Seraing,Cercle Brugge,rfc_seraing,cercle_brugge
+2022-10-30,B1,Belgium-JPL,2223,Seraing,St. Gilloise,1.0,2.0,A,0.0,0.0,D,6.0,4.2,1.53,5.92,4.23,1.55,5.68,4.11,1.54,1.85,2.0,1.8,1.98,1.0,1.9,1.95,RFC Seraing,St. Gilloise,rfc_seraing,st_gilloise
+2022-11-05,B1,Belgium-JPL,2223,Seraing,St Truiden,1.0,2.0,A,1.0,0.0,H,3.6,3.2,2.1,3.73,3.4,2.12,3.6,3.32,2.07,2.15,1.66,2.16,1.68,0.25,2.1,1.77,RFC Seraing,Sint-Truiden,rfc_seraing,sint_truiden
+2022-12-23,B1,Belgium-JPL,2223,Seraing,Eupen,0.0,1.0,A,0.0,0.0,D,2.7,3.25,2.45,2.79,3.57,2.53,2.74,3.43,2.47,1.85,2.0,1.83,1.95,0.0,2.02,1.83,RFC Seraing,KAS Eupen,rfc_seraing,kas_eupen
+2023-01-14,B1,Belgium-JPL,2223,Seraing,Standard,1.0,1.0,D,1.0,1.0,D,3.8,3.6,1.91,4.07,3.6,1.92,3.91,3.55,1.91,1.98,1.88,1.95,1.85,0.5,1.93,1.93,RFC Seraing,Standard Liege,rfc_seraing,standard_liege
+2023-01-22,B1,Belgium-JPL,2223,Seraing,Anderlecht,0.0,1.0,A,0.0,0.0,D,5.25,4.0,1.55,5.86,4.12,1.57,5.5,4.01,1.58,1.9,1.95,1.88,1.9,1.0,1.83,2.02,RFC Seraing,Anderlecht,rfc_seraing,anderlecht
+2023-02-04,B1,Belgium-JPL,2223,Seraing,Oud-Heverlee Leuven,2.0,1.0,H,1.0,1.0,D,4.0,3.6,1.85,4.32,3.79,1.85,4.07,3.63,1.86,1.88,1.98,1.86,1.94,0.5,1.98,1.88,RFC Seraing,Oud-Heverlee Leuven,rfc_seraing,oud_heverlee_leuven
+2023-02-18,B1,Belgium-JPL,2223,Seraing,Waregem,1.0,1.0,D,0.0,1.0,A,3.1,3.4,2.2,3.23,3.74,2.19,3.12,3.58,2.18,1.8,2.0,1.79,2.02,0.25,1.93,1.93,RFC Seraing,Zulte Waregem,rfc_seraing,zulte_waregem
+2023-02-25,B1,Belgium-JPL,2223,Seraing,Mechelen,0.0,2.0,A,0.0,1.0,A,3.75,3.6,1.95,3.7,3.73,2.02,3.59,3.64,1.98,1.8,2.0,1.79,2.02,0.5,1.88,1.98,RFC Seraing,KV Mechelen,rfc_seraing,kv_mechelen
+2023-03-11,B1,Belgium-JPL,2223,Seraing,Antwerp,0.0,2.0,A,0.0,2.0,A,7.5,4.33,1.4,8.31,4.63,1.42,7.7,4.42,1.41,1.93,1.93,1.89,1.89,1.25,1.88,1.98,RFC Seraing,Royal Antwerp,rfc_seraing,royal_antwerp
+2023-04-01,B1,Belgium-JPL,2223,Seraing,Gent,0.0,5.0,A,0.0,1.0,A,8.0,4.33,1.33,8.99,4.73,1.4,8.31,4.67,1.37,1.73,2.08,1.75,2.05,1.25,2.0,1.85,RFC Seraing,KAA Gent,rfc_seraing,kaa_gent
+2023-04-22,B1,Belgium-JPL,2223,Seraing,Westerlo,1.0,1.0,D,1.0,1.0,D,5.5,4.0,1.55,5.5,4.36,1.6,5.33,4.2,1.57,1.6,2.3,1.59,2.3,1.0,1.9,1.95,RFC Seraing,KVC Westerlo,rfc_seraing,kvc_westerlo

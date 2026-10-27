@@ -1,0 +1,198 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder,opponent,venue,team_goals,opp_goals,h2h_match_no,h2h_total_vs_opp
+2021-08-21,I1,Italy-SA,2122,Torino,Atalanta,1.0,2.0,A,0.0,1.0,A,5.5,4.33,1.55,5.5,4.25,1.65,5.43,4.23,1.6,1.57,2.37,1.57,2.43,1.0,1.89,2.04,Torino,Atalanta,torino,atalanta,Torino,A,2.0,1.0,1,10
+2021-08-28,I1,Italy-SA,2122,Atalanta,Bologna,0.0,0.0,D,0.0,0.0,D,1.33,5.5,8.0,1.34,5.86,9.29,1.33,5.59,8.73,1.36,3.2,1.39,2.99,-1.5,1.92,2.01,Atalanta,Bologna,atalanta,bologna,Bologna,H,0.0,0.0,1,11
+2021-09-11,I1,Italy-SA,2122,Atalanta,Fiorentina,1.0,2.0,A,0.0,1.0,A,1.55,4.33,5.5,1.6,4.25,6.05,1.58,4.21,5.69,1.53,2.5,1.52,2.54,-1.0,2.0,1.93,Atalanta,Fiorentina,atalanta,fiorentina,Fiorentina,H,1.0,2.0,1,10
+2021-09-18,I1,Italy-SA,2122,Salernitana,Atalanta,0.0,1.0,A,0.0,0.0,D,10.0,5.5,1.3,9.79,5.69,1.34,10.01,5.56,1.31,1.53,2.5,1.53,2.51,1.5,2.05,1.88,Salernitana,Atalanta,salernitana,atalanta,Salernitana,A,1.0,0.0,1,6
+2021-09-21,I1,Italy-SA,2122,Atalanta,Sassuolo,2.0,1.0,H,2.0,1.0,H,1.5,4.75,6.0,1.56,4.56,6.16,1.53,4.5,6.0,1.53,2.5,1.52,2.54,-1.0,1.88,2.02,Atalanta,Sassuolo,atalanta,sassuolo,Sassuolo,H,2.0,1.0,1,9
+2021-09-25,I1,Italy-SA,2122,Inter,Atalanta,2.0,2.0,D,1.0,2.0,A,1.9,3.75,3.8,2.02,3.77,3.8,1.99,3.69,3.71,1.72,2.1,1.72,2.15,-0.5,2.0,1.93,Inter Milan,Atalanta,inter_milan,atalanta,Inter Milan,A,2.0,2.0,1,10
+2021-10-03,I1,Italy-SA,2122,Atalanta,Milan,2.0,3.0,A,0.0,2.0,A,2.05,3.75,3.4,2.19,3.72,3.36,2.13,3.64,3.34,1.66,2.2,1.67,2.23,-0.25,1.87,2.06,Atalanta,AC Milan,atalanta,ac_milan,AC Milan,H,2.0,3.0,1,11
+2021-10-17,I1,Italy-SA,2122,Empoli,Atalanta,1.0,4.0,A,1.0,2.0,A,5.75,4.33,1.55,5.49,4.28,1.64,5.31,4.24,1.61,1.5,2.62,1.5,2.56,1.0,1.9,2.0,Empoli,Atalanta,empoli,atalanta,Empoli,A,4.0,1.0,1,8
+2021-10-24,I1,Italy-SA,2122,Atalanta,Udinese,1.0,1.0,D,0.0,0.0,D,1.4,5.0,7.5,1.4,5.24,8.48,1.4,4.99,7.57,1.53,2.5,1.54,2.48,-1.25,1.9,2.03,Atalanta,Udinese,atalanta,udinese,Udinese,H,1.0,1.0,1,10
+2021-10-27,I1,Italy-SA,2122,Sampdoria,Atalanta,1.0,3.0,A,1.0,2.0,A,4.33,4.2,1.72,4.52,4.37,1.74,4.36,4.1,1.74,1.53,2.5,1.52,2.51,0.75,1.96,1.97,Sampdoria,Atalanta,sampdoria,atalanta,Sampdoria,A,3.0,1.0,1,4
+2021-10-30,I1,Italy-SA,2122,Atalanta,Lazio,2.0,2.0,D,1.0,1.0,D,1.9,3.8,3.8,1.91,4.15,3.85,1.93,3.89,3.68,1.57,2.37,1.57,2.42,-0.5,1.92,2.01,Atalanta,Lazio,atalanta,lazio,Lazio,H,2.0,2.0,1,10
+2021-11-06,I1,Italy-SA,2122,Cagliari,Atalanta,1.0,2.0,A,1.0,2.0,A,6.0,4.5,1.5,6.1,4.65,1.55,6.09,4.53,1.51,1.53,2.5,1.5,2.57,1.0,2.08,1.73,Cagliari,Atalanta,cagliari,atalanta,Cagliari,A,2.0,1.0,1,9
+2021-11-20,I1,Italy-SA,2122,Atalanta,Spezia,5.0,2.0,H,3.0,1.0,H,1.25,6.5,9.5,1.27,6.64,10.89,1.26,6.48,10.39,1.36,3.2,1.37,3.08,-1.75,1.88,2.02,Atalanta,Spezia,atalanta,spezia,Spezia,H,5.0,2.0,1,4
+2021-11-27,I1,Italy-SA,2122,Juventus,Atalanta,0.0,1.0,A,0.0,1.0,A,2.2,3.5,3.25,2.24,3.55,3.41,2.18,3.49,3.33,1.72,2.1,1.71,2.13,-0.25,1.91,2.02,Juventus,Atalanta,juventus,atalanta,Juventus,A,1.0,0.0,1,11
+2021-11-30,I1,Italy-SA,2122,Atalanta,Venezia,4.0,0.0,H,2.0,0.0,H,1.22,6.0,12.0,1.24,6.43,14.96,1.24,6.25,12.62,1.53,2.5,1.5,2.57,-1.75,1.94,1.99,Atalanta,Venezia,atalanta,venezia,Venezia,H,4.0,0.0,1,5
+2021-12-04,I1,Italy-SA,2122,Napoli,Atalanta,2.0,3.0,A,1.0,1.0,D,2.45,3.5,2.8,2.52,3.59,2.88,2.48,3.52,2.8,1.66,2.2,1.65,2.27,0.0,1.84,2.09,Napoli,Atalanta,napoli,atalanta,Napoli,A,3.0,2.0,1,10
+2021-12-12,I1,Italy-SA,2122,Verona,Atalanta,1.0,2.0,A,1.0,1.0,D,3.8,3.8,1.9,3.83,4.09,1.93,3.74,3.9,1.92,1.53,2.5,1.55,2.46,0.5,1.97,1.96,Hellas Verona,Atalanta,hellas_verona,atalanta,Hellas Verona,A,2.0,1.0,1,10
+2021-12-18,I1,Italy-SA,2122,Atalanta,Roma,1.0,4.0,A,1.0,2.0,A,1.7,4.33,4.33,1.72,4.32,4.7,1.69,4.25,4.58,1.57,2.37,1.56,2.42,-0.75,1.92,2.01,Atalanta,AS Roma,atalanta,as_roma,AS Roma,H,1.0,4.0,1,11
+2021-12-21,I1,Italy-SA,2122,Genoa,Atalanta,0.0,0.0,D,0.0,0.0,D,7.5,5.25,1.36,8.14,4.95,1.43,7.66,5.03,1.41,1.53,2.5,1.54,2.48,1.25,1.98,1.92,Genoa,Atalanta,genoa,atalanta,Genoa,A,0.0,0.0,1,8
+2022-01-09,I1,Italy-SA,2122,Udinese,Atalanta,2.0,6.0,A,0.0,3.0,A,3.5,3.6,2.05,3.62,3.55,2.15,3.49,3.52,2.09,1.66,2.2,1.66,2.22,0.25,2.08,1.85,Udinese,Atalanta,udinese,atalanta,Udinese,A,6.0,2.0,2,10
+2022-01-16,I1,Italy-SA,2122,Atalanta,Inter,0.0,0.0,D,0.0,0.0,D,2.87,3.75,2.3,2.89,3.85,2.34,2.89,3.75,2.3,1.61,2.3,1.6,2.36,0.25,1.86,2.04,Atalanta,Inter Milan,atalanta,inter_milan,Inter Milan,H,0.0,0.0,2,10
+2022-01-22,I1,Italy-SA,2122,Lazio,Atalanta,0.0,0.0,D,0.0,0.0,D,3.2,3.5,2.2,3.19,3.86,2.17,3.15,3.72,2.17,1.57,2.37,1.57,2.39,0.25,1.98,1.92,Lazio,Atalanta,lazio,atalanta,Lazio,A,0.0,0.0,2,10
+2022-02-06,I1,Italy-SA,2122,Atalanta,Cagliari,1.0,2.0,A,0.0,0.0,D,1.25,6.5,11.0,1.22,6.65,13.47,1.23,6.55,12.32,1.44,2.75,1.41,2.85,-1.75,1.84,2.06,Atalanta,Cagliari,atalanta,cagliari,Cagliari,H,1.0,2.0,2,9
+2022-02-13,I1,Italy-SA,2122,Atalanta,Juventus,1.0,1.0,D,0.0,0.0,D,2.8,3.5,2.37,3.0,3.54,2.47,2.88,3.42,2.47,1.92,1.98,1.87,1.96,0.25,1.75,2.05,Atalanta,Juventus,atalanta,juventus,Juventus,H,1.0,1.0,2,11
+2022-02-20,I1,Italy-SA,2122,Fiorentina,Atalanta,1.0,0.0,H,0.0,0.0,D,2.6,3.3,2.7,2.59,3.56,2.82,2.58,3.48,2.71,1.72,2.1,1.71,2.15,0.0,1.9,2.0,Fiorentina,Atalanta,fiorentina,atalanta,Fiorentina,A,0.0,1.0,2,10
+2022-02-28,I1,Italy-SA,2122,Atalanta,Sampdoria,4.0,0.0,H,2.0,0.0,H,1.44,5.0,6.5,1.48,4.66,7.47,1.45,4.61,7.0,1.66,2.2,1.64,2.27,-1.25,2.04,1.86,Atalanta,Sampdoria,atalanta,sampdoria,Sampdoria,H,4.0,0.0,2,4
+2022-03-05,I1,Italy-SA,2122,Roma,Atalanta,1.0,0.0,H,1.0,0.0,H,2.55,3.4,2.7,2.69,3.45,2.78,2.61,3.47,2.71,1.72,2.1,1.75,2.1,0.0,1.9,2.0,AS Roma,Atalanta,as_roma,atalanta,AS Roma,A,0.0,1.0,2,11
+2022-03-13,I1,Italy-SA,2122,Atalanta,Genoa,0.0,0.0,D,0.0,0.0,D,1.33,5.25,9.0,1.36,5.18,10.18,1.34,5.09,9.81,1.8,2.0,1.76,2.08,-1.5,2.05,1.85,Atalanta,Genoa,atalanta,genoa,Genoa,H,0.0,0.0,2,8
+2022-03-20,I1,Italy-SA,2122,Bologna,Atalanta,0.0,1.0,A,0.0,0.0,D,4.5,3.6,1.8,4.53,3.71,1.88,4.34,3.73,1.83,1.86,2.04,1.82,2.0,0.75,1.77,2.02,Bologna,Atalanta,bologna,atalanta,Bologna,A,1.0,0.0,2,11
+2022-04-03,I1,Italy-SA,2122,Atalanta,Napoli,1.0,3.0,A,0.0,2.0,A,2.4,3.3,3.0,2.43,3.4,3.16,2.41,3.34,3.05,1.94,1.96,1.89,1.94,-0.25,2.07,1.83,Atalanta,Napoli,atalanta,napoli,Napoli,H,1.0,3.0,2,10
+2022-04-10,I1,Italy-SA,2122,Sassuolo,Atalanta,2.0,1.0,H,1.0,0.0,H,3.3,3.75,2.1,3.48,3.81,2.11,3.37,3.75,2.09,1.53,2.5,1.53,2.52,0.25,2.06,1.84,Sassuolo,Atalanta,sassuolo,atalanta,Sassuolo,A,1.0,2.0,2,9
+2022-04-18,I1,Italy-SA,2122,Atalanta,Verona,1.0,2.0,A,0.0,1.0,A,1.65,4.1,5.0,1.62,4.48,5.44,1.62,4.22,5.25,1.66,2.2,1.66,2.23,-1.0,2.08,1.73,Atalanta,Hellas Verona,atalanta,hellas_verona,Hellas Verona,H,1.0,2.0,2,10
+2022-04-23,I1,Italy-SA,2122,Venezia,Atalanta,1.0,3.0,A,0.0,1.0,A,6.5,4.33,1.5,6.97,4.61,1.51,6.62,4.54,1.49,1.66,2.2,1.64,2.27,1.0,2.08,1.82,Venezia,Atalanta,venezia,atalanta,Venezia,A,3.0,1.0,2,5
+2022-04-27,I1,Italy-SA,2122,Atalanta,Torino,4.0,4.0,D,2.0,2.0,D,1.6,4.0,5.75,1.61,4.22,5.94,1.6,4.17,5.66,1.8,2.0,1.78,2.06,-1.0,2.04,1.86,Atalanta,Torino,atalanta,torino,Torino,H,4.0,4.0,2,10
+2022-05-02,I1,Italy-SA,2122,Atalanta,Salernitana,1.0,1.0,D,0.0,1.0,A,1.25,6.5,9.5,1.27,6.16,12.06,1.27,6.01,11.1,1.5,2.62,1.5,2.58,-1.75,2.0,1.9,Atalanta,Salernitana,atalanta,salernitana,Salernitana,H,1.0,1.0,2,6
+2022-05-08,I1,Italy-SA,2122,Spezia,Atalanta,1.0,3.0,A,1.0,1.0,D,6.5,4.75,1.45,6.45,4.92,1.5,6.33,4.78,1.48,1.53,2.5,1.51,2.55,1.25,1.86,2.04,Spezia,Atalanta,spezia,atalanta,Spezia,A,3.0,1.0,2,4
+2022-05-15,I1,Italy-SA,2122,Milan,Atalanta,2.0,0.0,H,0.0,0.0,D,1.75,4.2,4.2,1.79,4.3,4.15,1.79,4.14,4.14,1.57,2.37,1.54,2.47,-0.75,2.03,1.87,AC Milan,Atalanta,ac_milan,atalanta,AC Milan,A,0.0,2.0,2,11
+2022-05-21,I1,Italy-SA,2122,Atalanta,Empoli,0.0,1.0,A,0.0,0.0,D,1.22,7.0,11.0,1.22,7.65,11.26,1.22,7.22,11.29,1.25,4.0,1.26,3.79,-2.0,1.93,1.97,Atalanta,Empoli,atalanta,empoli,Empoli,H,0.0,1.0,2,8
+2022-08-13,I1,Italy-SA,2223,Sampdoria,Atalanta,0.0,2.0,A,0.0,1.0,A,4.33,3.9,1.75,4.72,3.98,1.78,4.45,3.91,1.77,1.72,2.1,1.69,2.18,0.75,1.9,2.0,Sampdoria,Atalanta,sampdoria,atalanta,Sampdoria,A,2.0,0.0,3,4
+2022-08-21,I1,Italy-SA,2223,Atalanta,Milan,1.0,1.0,D,1.0,0.0,H,2.75,3.5,2.5,2.87,3.61,2.52,2.79,3.49,2.5,1.72,2.1,1.74,2.11,0.25,1.7,2.1,Atalanta,AC Milan,atalanta,ac_milan,AC Milan,H,1.0,1.0,3,11
+2022-08-28,I1,Italy-SA,2223,Verona,Atalanta,0.0,1.0,A,0.0,0.0,D,4.2,4.0,1.75,4.49,4.08,1.8,4.3,3.94,1.8,1.66,2.2,1.65,2.25,0.75,1.9,2.0,Hellas Verona,Atalanta,hellas_verona,atalanta,Hellas Verona,A,1.0,0.0,3,10
+2022-09-01,I1,Italy-SA,2223,Atalanta,Torino,3.0,1.0,H,1.0,0.0,H,1.72,3.75,5.25,1.73,3.86,5.36,1.71,3.94,4.95,1.72,2.1,1.7,2.17,-0.75,1.88,2.02,Atalanta,Torino,atalanta,torino,Torino,H,3.0,1.0,3,10
+2022-09-05,I1,Italy-SA,2223,Monza,Atalanta,0.0,2.0,A,0.0,0.0,D,5.75,4.2,1.57,5.51,4.39,1.63,5.64,4.3,1.58,1.66,2.2,1.65,2.26,1.0,1.9,2.0,Monza,Atalanta,monza,atalanta,Monza,A,2.0,0.0,1,6
+2022-09-11,I1,Italy-SA,2223,Atalanta,Cremonese,1.0,1.0,D,0.0,0.0,D,1.3,5.5,9.5,1.35,5.68,9.41,1.33,5.44,9.28,1.57,2.37,1.58,2.39,-1.5,1.95,1.95,Atalanta,Cremonese,atalanta,cremonese,Cremonese,H,1.0,1.0,1,4
+2022-09-18,I1,Italy-SA,2223,Roma,Atalanta,0.0,1.0,A,0.0,1.0,A,2.05,3.5,3.5,2.12,3.56,3.71,2.07,3.57,3.55,1.87,2.03,1.83,2.0,-0.5,2.06,1.84,AS Roma,Atalanta,as_roma,atalanta,AS Roma,A,1.0,0.0,3,11
+2022-10-02,I1,Italy-SA,2223,Atalanta,Fiorentina,1.0,0.0,H,0.0,0.0,D,1.95,3.5,4.0,1.99,3.64,4.05,1.97,3.56,3.88,1.92,1.98,1.89,1.93,-0.5,1.97,1.93,Atalanta,Fiorentina,atalanta,fiorentina,Fiorentina,H,1.0,0.0,3,10
+2022-10-09,I1,Italy-SA,2223,Udinese,Atalanta,2.0,2.0,D,0.0,1.0,A,2.5,3.4,2.75,2.61,3.47,2.85,2.56,3.41,2.76,1.88,2.02,1.85,1.98,0.0,1.86,2.04,Udinese,Atalanta,udinese,atalanta,Udinese,A,2.0,2.0,3,10
+2022-10-15,I1,Italy-SA,2223,Atalanta,Sassuolo,2.0,1.0,H,1.0,1.0,D,1.65,4.0,5.0,1.69,4.2,5.08,1.66,4.15,4.94,1.66,2.2,1.67,2.22,-0.75,1.85,2.05,Atalanta,Sassuolo,atalanta,sassuolo,Sassuolo,H,2.0,1.0,3,9
+2022-10-23,I1,Italy-SA,2223,Atalanta,Lazio,0.0,2.0,A,0.0,1.0,A,1.95,3.5,4.0,2.0,3.68,3.96,1.98,3.69,3.75,1.72,2.1,1.71,2.16,-0.5,1.99,1.91,Atalanta,Lazio,atalanta,lazio,Lazio,H,0.0,2.0,3,10
+2022-10-30,I1,Italy-SA,2223,Empoli,Atalanta,0.0,2.0,A,0.0,1.0,A,4.33,3.8,1.8,4.63,3.86,1.82,4.35,3.79,1.8,1.8,2.0,1.76,2.06,0.75,1.83,2.07,Empoli,Atalanta,empoli,atalanta,Empoli,A,2.0,0.0,3,8
+2022-11-05,I1,Italy-SA,2223,Atalanta,Napoli,1.0,2.0,A,1.0,2.0,A,3.3,3.6,2.15,3.48,3.81,2.11,3.39,3.69,2.1,1.66,2.2,1.68,2.21,0.25,2.06,1.84,Atalanta,Napoli,atalanta,napoli,Napoli,H,1.0,2.0,3,10
+2022-11-09,I1,Italy-SA,2223,Lecce,Atalanta,2.0,1.0,H,2.0,1.0,H,4.75,3.5,1.8,5.03,3.63,1.82,4.7,3.6,1.8,2.06,1.84,2.02,1.81,0.75,1.85,2.05,Lecce,Atalanta,lecce,atalanta,Lecce,A,1.0,2.0,1,8
+2022-11-13,I1,Italy-SA,2223,Atalanta,Inter,2.0,3.0,A,1.0,1.0,D,3.1,3.75,2.2,3.2,3.69,2.28,3.07,3.59,2.27,1.72,2.1,1.7,2.17,0.25,1.91,1.99,Atalanta,Inter Milan,atalanta,inter_milan,Inter Milan,H,2.0,3.0,3,10
+2023-01-04,I1,Italy-SA,2223,Spezia,Atalanta,2.0,2.0,D,2.0,0.0,H,4.75,3.8,1.67,4.84,4.15,1.74,4.74,4.0,1.71,1.73,2.1,1.73,2.13,0.75,2.0,1.9,Spezia,Atalanta,spezia,atalanta,Spezia,A,2.0,2.0,3,4
+2023-01-09,I1,Italy-SA,2223,Bologna,Atalanta,1.0,2.0,A,1.0,0.0,H,3.4,3.4,2.15,3.48,3.51,2.22,3.42,3.44,2.16,1.92,1.98,1.88,1.94,0.25,2.01,1.89,Bologna,Atalanta,bologna,atalanta,Bologna,A,2.0,1.0,3,11
+2023-01-15,I1,Italy-SA,2223,Atalanta,Salernitana,8.0,2.0,H,5.0,1.0,H,1.4,5.0,7.0,1.41,5.26,8.04,1.39,5.1,7.81,1.57,2.38,1.59,2.37,-1.25,1.84,2.09,Atalanta,Salernitana,atalanta,salernitana,Salernitana,H,8.0,2.0,3,6
+2023-01-22,I1,Italy-SA,2223,Juventus,Atalanta,3.0,3.0,D,2.0,1.0,H,2.1,3.4,3.5,2.2,3.47,3.57,2.13,3.44,3.51,2.05,1.85,2.0,1.83,-0.25,1.85,2.05,Juventus,Atalanta,juventus,atalanta,Juventus,A,3.0,3.0,3,11
+2023-01-28,I1,Italy-SA,2223,Atalanta,Sampdoria,2.0,0.0,H,1.0,0.0,H,1.33,5.25,9.0,1.37,5.37,9.21,1.34,5.25,9.22,1.67,2.2,1.7,2.18,-1.5,2.01,1.89,Atalanta,Sampdoria,atalanta,sampdoria,Sampdoria,H,2.0,0.0,4,4
+2023-02-04,I1,Italy-SA,2223,Sassuolo,Atalanta,1.0,0.0,H,0.0,0.0,D,3.75,3.6,1.91,3.84,3.95,1.96,3.71,3.82,1.95,1.57,2.38,1.59,2.39,0.5,1.95,1.98,Sassuolo,Atalanta,sassuolo,atalanta,Sassuolo,A,0.0,1.0,4,9
+2023-02-11,I1,Italy-SA,2223,Lazio,Atalanta,0.0,2.0,A,0.0,1.0,A,2.38,3.4,3.0,2.45,3.49,3.06,2.4,3.43,2.98,1.9,2.0,1.86,1.98,-0.25,2.09,1.84,Lazio,Atalanta,lazio,atalanta,Lazio,A,2.0,0.0,4,10
+2023-02-19,I1,Italy-SA,2223,Atalanta,Lecce,1.0,2.0,A,0.0,1.0,A,1.5,4.0,7.0,1.53,4.49,6.78,1.5,4.32,6.67,1.88,2.02,1.83,2.0,-1.0,1.86,2.04,Atalanta,Lecce,atalanta,lecce,Lecce,H,1.0,2.0,2,8
+2023-02-26,I1,Italy-SA,2223,Milan,Atalanta,2.0,0.0,H,1.0,0.0,H,2.15,3.4,3.4,2.19,3.3,3.51,2.19,3.38,3.42,1.94,1.96,1.89,1.94,-0.25,1.9,2.0,AC Milan,Atalanta,ac_milan,atalanta,AC Milan,A,0.0,2.0,4,11
+2023-03-04,I1,Italy-SA,2223,Atalanta,Udinese,0.0,0.0,D,0.0,0.0,D,1.62,4.0,5.5,1.68,4.16,5.12,1.66,4.08,5.01,1.73,2.1,1.75,2.1,-0.75,1.85,2.05,Atalanta,Udinese,atalanta,udinese,Udinese,H,0.0,0.0,4,10
+2023-03-11,I1,Italy-SA,2223,Napoli,Atalanta,2.0,0.0,H,0.0,0.0,D,1.67,4.0,5.0,1.7,4.05,5.13,1.67,4.04,5.05,1.8,2.0,1.78,2.06,-0.75,1.87,2.06,Napoli,Atalanta,napoli,atalanta,Napoli,A,0.0,2.0,4,10
+2023-03-17,I1,Italy-SA,2223,Atalanta,Empoli,2.0,1.0,H,0.0,1.0,A,1.4,4.5,7.5,1.44,5.01,7.71,1.42,4.82,7.47,1.67,2.2,1.68,2.21,-1.25,1.97,1.96,Atalanta,Empoli,atalanta,empoli,Empoli,H,2.0,1.0,4,8
+2023-04-01,I1,Italy-SA,2223,Cremonese,Atalanta,1.0,3.0,A,0.0,1.0,A,5.5,3.8,1.67,5.19,4.11,1.68,5.19,3.99,1.67,1.84,2.06,1.81,2.02,0.75,2.04,1.86,Cremonese,Atalanta,cremonese,atalanta,Cremonese,A,3.0,1.0,2,4
+2023-04-08,I1,Italy-SA,2223,Atalanta,Bologna,0.0,2.0,A,0.0,0.0,D,1.65,3.8,5.5,1.7,3.92,5.33,1.66,3.87,5.44,2.02,1.88,1.97,1.86,-0.75,1.88,2.02,Atalanta,Bologna,atalanta,bologna,Bologna,H,0.0,2.0,4,11
+2023-04-17,I1,Italy-SA,2223,Fiorentina,Atalanta,1.0,1.0,D,0.0,1.0,A,2.4,3.4,2.9,2.41,3.62,2.97,2.39,3.47,2.93,1.89,2.01,1.84,1.98,-0.25,2.09,1.81,Fiorentina,Atalanta,fiorentina,atalanta,Fiorentina,A,1.0,1.0,4,10
+2023-04-24,I1,Italy-SA,2223,Atalanta,Roma,3.0,1.0,H,1.0,0.0,H,2.3,3.25,3.2,2.37,3.34,3.26,2.33,3.27,3.21,2.2,1.67,2.19,1.68,-0.25,2.02,1.88,Atalanta,AS Roma,atalanta,as_roma,AS Roma,H,3.0,1.0,4,11
+2023-04-29,I1,Italy-SA,2223,Torino,Atalanta,1.0,2.0,A,0.0,1.0,A,2.88,3.3,2.45,3.03,3.35,2.51,2.95,3.3,2.48,2.0,1.8,2.07,1.77,0.25,1.73,2.08,Torino,Atalanta,torino,atalanta,Torino,A,2.0,1.0,4,10
+2023-05-03,I1,Italy-SA,2223,Atalanta,Spezia,3.0,2.0,H,1.0,1.0,D,1.36,5.0,8.0,1.4,5.18,7.98,1.39,4.99,8.11,1.67,2.2,1.66,2.25,-1.25,1.87,2.03,Atalanta,Spezia,atalanta,spezia,Spezia,H,3.0,2.0,4,4
+2023-05-07,I1,Italy-SA,2223,Atalanta,Juventus,0.0,2.0,A,0.0,0.0,D,2.3,3.4,3.1,2.43,3.39,3.17,2.4,3.32,3.05,2.1,1.73,2.08,1.76,-0.25,2.08,1.82,Atalanta,Juventus,atalanta,juventus,Juventus,H,0.0,2.0,4,11
+2023-05-13,I1,Italy-SA,2223,Salernitana,Atalanta,1.0,0.0,H,0.0,0.0,D,4.75,4.2,1.65,4.89,4.24,1.69,4.9,4.12,1.67,1.67,2.2,1.7,2.18,0.75,2.03,1.87,Salernitana,Atalanta,salernitana,atalanta,Salernitana,A,0.0,1.0,4,6
+2023-05-20,I1,Italy-SA,2223,Atalanta,Verona,3.0,1.0,H,1.0,1.0,D,1.53,4.2,6.0,1.59,4.26,5.97,1.56,4.2,5.99,1.86,2.04,1.83,2.0,-1.0,1.97,1.93,Atalanta,Hellas Verona,atalanta,hellas_verona,Hellas Verona,H,3.0,1.0,4,10
+2023-05-27,I1,Italy-SA,2223,Inter,Atalanta,3.0,2.0,H,2.0,1.0,H,1.83,3.8,4.0,1.86,3.91,4.24,1.85,3.81,4.08,1.73,2.1,1.72,2.14,-0.75,2.02,1.77,Inter Milan,Atalanta,inter_milan,atalanta,Inter Milan,A,2.0,3.0,4,10
+2023-06-04,I1,Italy-SA,2223,Atalanta,Monza,5.0,2.0,H,2.0,0.0,H,1.57,4.5,5.0,1.6,4.49,5.24,1.59,4.39,5.19,1.53,2.5,1.54,2.48,-1.0,1.99,1.94,Atalanta,Monza,atalanta,monza,Monza,H,5.0,2.0,2,6
+2023-08-20,I1,Italy-SA,2324,Sassuolo,Atalanta,0.0,2.0,A,0.0,0.0,D,3.5,3.4,2.1,3.39,3.63,2.18,3.35,3.62,2.12,1.62,2.3,1.62,2.33,0.25,2.03,1.87,Sassuolo,Atalanta,sassuolo,atalanta,Sassuolo,A,2.0,0.0,5,9
+2023-08-26,I1,Italy-SA,2324,Frosinone,Atalanta,2.0,1.0,H,2.0,0.0,H,5.0,4.0,1.67,5.04,4.16,1.69,4.92,4.09,1.68,1.67,2.2,1.7,2.19,0.75,2.04,1.86,Frosinone,Atalanta,frosinone,atalanta,Frosinone,A,1.0,2.0,1,2
+2023-09-02,I1,Italy-SA,2324,Atalanta,Monza,3.0,0.0,H,2.0,0.0,H,1.62,4.0,5.25,1.64,4.27,5.32,1.63,4.17,5.2,1.73,2.1,1.72,2.14,-1.0,2.05,1.75,Atalanta,Monza,atalanta,monza,Monza,H,3.0,0.0,3,6
+2023-09-17,I1,Italy-SA,2324,Fiorentina,Atalanta,3.0,2.0,H,2.0,1.0,H,2.38,3.5,2.88,2.54,3.55,2.84,2.46,3.52,2.81,1.8,2.0,1.79,2.05,0.0,1.83,2.07,Fiorentina,Atalanta,fiorentina,atalanta,Fiorentina,A,2.0,3.0,5,10
+2023-09-24,I1,Italy-SA,2324,Atalanta,Cagliari,2.0,0.0,H,1.0,0.0,H,1.4,5.0,8.0,1.41,5.11,7.79,1.39,4.94,7.85,1.67,2.2,1.68,2.22,-1.25,1.9,2.0,Atalanta,Cagliari,atalanta,cagliari,Cagliari,H,2.0,0.0,3,9
+2023-09-27,I1,Italy-SA,2324,Verona,Atalanta,0.0,1.0,A,0.0,1.0,A,4.2,3.75,1.83,4.63,3.78,1.82,4.43,3.73,1.82,1.96,1.94,1.92,1.91,0.5,2.07,1.83,Hellas Verona,Atalanta,hellas_verona,atalanta,Hellas Verona,A,1.0,0.0,5,10
+2023-10-01,I1,Italy-SA,2324,Atalanta,Juventus,0.0,0.0,D,0.0,0.0,D,2.5,3.4,2.8,2.53,3.48,2.77,2.51,3.45,2.82,1.93,1.97,1.89,1.94,0.0,1.84,2.06,Atalanta,Juventus,atalanta,juventus,Juventus,H,0.0,0.0,5,11
+2023-10-08,I1,Italy-SA,2324,Lazio,Atalanta,3.0,2.0,H,2.0,1.0,H,2.7,3.3,2.63,2.93,3.26,2.63,2.81,3.3,2.61,2.03,1.87,1.99,1.85,0.0,2.03,1.87,Lazio,Atalanta,lazio,atalanta,Lazio,A,2.0,3.0,5,10
+2023-10-22,I1,Italy-SA,2324,Atalanta,Genoa,2.0,0.0,H,0.0,0.0,D,1.55,3.8,6.5,1.56,4.19,6.61,1.55,4.07,6.51,2.03,1.87,1.98,1.85,-1.0,1.95,1.95,Atalanta,Genoa,atalanta,genoa,Genoa,H,2.0,0.0,3,8
+2023-10-30,I1,Italy-SA,2324,Empoli,Atalanta,0.0,3.0,A,0.0,2.0,A,5.25,3.75,1.67,5.03,4.08,1.7,4.92,3.96,1.7,1.75,2.05,1.79,2.05,0.75,2.02,1.91,Empoli,Atalanta,empoli,atalanta,Empoli,A,3.0,0.0,5,8
+2023-11-04,I1,Italy-SA,2324,Atalanta,Inter,1.0,2.0,A,0.0,1.0,A,3.3,3.5,2.15,3.46,3.47,2.19,3.35,3.5,2.17,1.83,2.07,1.81,2.03,0.25,2.04,1.89,Atalanta,Inter Milan,atalanta,inter_milan,Inter Milan,H,1.0,2.0,5,10
+2023-11-12,I1,Italy-SA,2324,Udinese,Atalanta,1.0,1.0,D,1.0,0.0,H,3.75,3.5,2.0,3.8,3.53,2.05,3.73,3.49,2.03,1.99,1.91,1.94,1.88,0.5,1.86,2.04,Udinese,Atalanta,udinese,atalanta,Udinese,A,1.0,1.0,5,10
+2023-11-25,I1,Italy-SA,2324,Atalanta,Napoli,1.0,2.0,A,0.0,1.0,A,2.7,3.4,2.63,2.72,3.42,2.68,2.68,3.43,2.66,1.88,2.02,1.81,2.02,0.0,1.99,1.94,Atalanta,Napoli,atalanta,napoli,Napoli,H,1.0,2.0,5,10
+2023-12-04,I1,Italy-SA,2324,Torino,Atalanta,3.0,0.0,H,1.0,0.0,H,2.9,3.2,2.45,3.14,3.18,2.5,3.03,3.2,2.49,2.2,1.65,2.24,1.67,0.25,1.73,2.08,Torino,Atalanta,torino,atalanta,Torino,A,0.0,3.0,5,10
+2023-12-09,I1,Italy-SA,2324,Atalanta,Milan,3.0,2.0,H,1.0,1.0,D,2.5,3.2,3.0,2.61,3.29,2.89,2.53,3.29,2.91,2.05,1.75,2.05,1.8,0.0,1.83,2.07,Atalanta,AC Milan,atalanta,ac_milan,AC Milan,H,3.0,2.0,5,11
+2023-12-18,I1,Italy-SA,2324,Atalanta,Salernitana,4.0,1.0,H,0.0,1.0,A,1.3,5.5,10.0,1.3,5.82,9.99,1.31,5.61,9.8,1.57,2.35,1.6,2.35,-1.5,1.93,2.0,Atalanta,Salernitana,atalanta,salernitana,Salernitana,H,4.0,1.0,5,6
+2023-12-23,I1,Italy-SA,2324,Bologna,Atalanta,1.0,0.0,H,0.0,0.0,D,2.7,3.2,2.75,2.78,3.1,2.85,2.73,3.17,2.77,2.1,1.7,2.12,1.74,0.0,1.95,1.95,Bologna,Atalanta,bologna,atalanta,Bologna,A,0.0,1.0,5,11
+2023-12-30,I1,Italy-SA,2324,Atalanta,Lecce,1.0,0.0,H,0.0,0.0,D,1.4,4.6,8.0,1.44,4.61,7.93,1.44,4.56,7.76,1.92,1.98,1.89,1.95,-1.25,2.07,1.86,Atalanta,Lecce,atalanta,lecce,Lecce,H,1.0,0.0,3,8
+2024-01-07,I1,Italy-SA,2324,Roma,Atalanta,1.0,1.0,D,1.0,1.0,D,2.4,3.2,3.1,2.42,3.18,3.27,2.38,3.23,3.16,2.15,1.67,2.16,1.71,-0.25,2.05,1.85,AS Roma,Atalanta,as_roma,atalanta,AS Roma,A,1.0,1.0,5,11
+2024-01-15,I1,Italy-SA,2324,Atalanta,Frosinone,5.0,0.0,H,3.0,0.0,H,1.44,4.5,7.5,1.45,4.86,7.03,1.43,4.74,7.13,1.62,2.25,1.64,2.28,-1.25,1.98,1.92,Atalanta,Frosinone,atalanta,frosinone,Frosinone,H,5.0,0.0,2,2
+2024-01-27,I1,Italy-SA,2324,Atalanta,Udinese,2.0,0.0,H,2.0,0.0,H,1.5,4.5,6.0,1.51,4.52,6.55,1.5,4.45,6.44,1.73,2.08,1.75,2.1,-1.0,1.85,2.05,Atalanta,Udinese,atalanta,udinese,Udinese,H,2.0,0.0,6,10
+2024-02-04,I1,Italy-SA,2324,Atalanta,Lazio,3.0,1.0,H,2.0,0.0,H,2.05,3.4,3.75,2.12,3.32,3.83,2.07,3.36,3.74,2.15,1.67,2.18,1.69,-0.5,2.11,1.82,Atalanta,Lazio,atalanta,lazio,Lazio,H,3.0,1.0,6,10
+2024-02-11,I1,Italy-SA,2324,Genoa,Atalanta,1.0,4.0,A,0.0,1.0,A,3.75,3.3,2.05,3.93,3.29,2.1,3.78,3.3,2.09,2.2,1.65,2.23,1.66,0.5,1.82,2.11,Genoa,Atalanta,genoa,atalanta,Genoa,A,4.0,1.0,4,8
+2024-02-17,I1,Italy-SA,2324,Atalanta,Sassuolo,3.0,0.0,H,1.0,0.0,H,1.36,5.5,8.0,1.36,5.58,8.03,1.36,5.44,8.04,1.48,2.6,1.49,2.61,-1.5,1.99,1.91,Atalanta,Sassuolo,atalanta,sassuolo,Sassuolo,H,3.0,0.0,6,9
+2024-02-25,I1,Italy-SA,2324,Milan,Atalanta,1.0,1.0,D,1.0,1.0,D,2.38,3.4,3.0,2.41,3.51,3.01,2.36,3.5,2.95,1.75,2.05,1.77,2.07,-0.25,2.06,1.84,AC Milan,Atalanta,ac_milan,atalanta,AC Milan,A,1.0,1.0,6,11
+2024-02-28,I1,Italy-SA,2324,Inter,Atalanta,4.0,0.0,H,2.0,0.0,H,1.62,4.0,5.5,1.63,4.14,5.47,1.63,4.09,5.35,1.75,2.05,1.78,2.07,-0.75,1.81,2.09,Inter Milan,Atalanta,inter_milan,atalanta,Inter Milan,A,0.0,4.0,6,10
+2024-03-03,I1,Italy-SA,2324,Atalanta,Bologna,1.0,2.0,A,1.0,0.0,H,1.91,3.4,4.2,1.98,3.51,4.09,1.95,3.48,4.04,2.08,1.73,2.07,1.77,-0.5,1.99,1.91,Atalanta,Bologna,atalanta,bologna,Bologna,H,1.0,2.0,6,11
+2024-03-10,I1,Italy-SA,2324,Juventus,Atalanta,2.0,2.0,D,0.0,1.0,A,2.2,3.3,3.3,2.32,3.27,3.37,2.25,3.31,3.31,2.1,1.7,2.13,1.72,-0.25,1.98,1.95,Juventus,Atalanta,juventus,atalanta,Juventus,A,2.0,2.0,6,11
+2024-03-30,I1,Italy-SA,2324,Napoli,Atalanta,0.0,3.0,A,0.0,2.0,A,2.1,3.6,3.4,2.13,3.61,3.48,2.11,3.59,3.43,1.8,2.0,1.8,2.04,-0.25,1.85,2.05,Napoli,Atalanta,napoli,atalanta,Napoli,A,3.0,0.0,6,10
+2024-04-07,I1,Italy-SA,2324,Cagliari,Atalanta,2.0,1.0,H,1.0,1.0,D,4.75,3.8,1.73,4.86,3.98,1.72,4.72,3.93,1.72,1.75,2.05,1.76,2.09,0.75,1.99,1.94,Cagliari,Atalanta,cagliari,atalanta,Cagliari,A,1.0,2.0,4,9
+2024-04-15,I1,Italy-SA,2324,Atalanta,Verona,2.0,2.0,D,2.0,0.0,H,1.45,4.5,7.0,1.47,4.72,6.93,1.45,4.63,6.98,1.73,2.1,1.73,2.12,-1.25,2.05,1.85,Atalanta,Hellas Verona,atalanta,hellas_verona,Hellas Verona,H,2.0,2.0,6,10
+2024-04-21,I1,Italy-SA,2324,Monza,Atalanta,1.0,2.0,A,0.0,1.0,A,4.0,3.8,1.85,4.09,3.68,1.93,4.03,3.69,1.89,1.89,2.01,1.85,1.97,0.5,1.99,1.91,Monza,Atalanta,monza,atalanta,Monza,A,2.0,1.0,4,6
+2024-04-28,I1,Italy-SA,2324,Atalanta,Empoli,2.0,0.0,H,1.0,0.0,H,1.44,4.5,7.5,1.45,4.77,7.14,1.44,4.64,7.06,1.73,2.1,1.69,2.18,-1.25,2.03,1.9,Atalanta,Empoli,atalanta,empoli,Empoli,H,2.0,0.0,6,8
+2024-05-06,I1,Italy-SA,2324,Salernitana,Atalanta,1.0,2.0,A,1.0,0.0,H,7.5,5.5,1.36,8.73,5.45,1.35,8.17,5.33,1.35,1.53,2.5,1.51,2.53,1.5,1.9,2.03,Salernitana,Atalanta,salernitana,atalanta,Salernitana,A,2.0,1.0,6,6
+2024-05-12,I1,Italy-SA,2324,Atalanta,Roma,2.0,1.0,H,2.0,0.0,H,2.0,3.6,3.6,1.97,3.56,3.8,2.01,3.57,3.71,1.88,2.02,1.85,1.97,-0.5,2.02,1.88,Atalanta,AS Roma,atalanta,as_roma,AS Roma,H,2.0,1.0,6,11
+2024-05-18,I1,Italy-SA,2324,Lecce,Atalanta,0.0,2.0,A,0.0,0.0,D,4.5,3.8,1.75,4.68,3.83,1.76,4.56,3.8,1.78,1.91,1.99,1.88,1.95,0.75,1.88,2.02,Lecce,Atalanta,lecce,atalanta,Lecce,A,2.0,0.0,4,8
+2024-05-26,I1,Italy-SA,2324,Atalanta,Torino,3.0,0.0,H,2.0,0.0,H,3.3,3.5,2.1,3.54,3.44,2.14,3.42,3.46,2.14,1.95,1.95,1.92,1.9,0.25,2.04,1.86,Atalanta,Torino,atalanta,torino,Torino,H,3.0,0.0,6,10
+2024-06-02,I1,Italy-SA,2324,Atalanta,Fiorentina,2.0,3.0,A,2.0,3.0,A,1.48,4.75,6.0,1.47,4.86,6.26,1.47,4.8,6.21,1.53,2.5,1.54,2.48,-1.25,2.05,1.85,Atalanta,Fiorentina,atalanta,fiorentina,Fiorentina,H,2.0,3.0,6,10
+2024-08-19,I1,Italy-SA,2425,Lecce,Atalanta,0.0,4.0,A,0.0,2.0,A,4.2,3.7,1.85,4.44,3.62,1.88,4.23,3.64,1.87,1.98,1.92,1.93,1.9,0.5,2.01,1.89,Lecce,Atalanta,lecce,atalanta,Lecce,A,4.0,0.0,5,8
+2024-08-25,I1,Italy-SA,2425,Torino,Atalanta,2.0,1.0,H,1.0,1.0,D,3.2,3.1,2.38,3.32,3.26,2.35,3.17,3.23,2.37,2.1,1.73,2.08,1.77,0.25,1.87,2.03,Torino,Atalanta,torino,atalanta,Torino,A,1.0,2.0,7,10
+2024-08-30,I1,Italy-SA,2425,Inter,Atalanta,4.0,0.0,H,2.0,0.0,H,1.57,4.33,5.5,1.58,4.43,5.79,1.58,4.35,5.54,1.62,2.3,1.62,2.34,-1.0,1.95,1.98,Inter Milan,Atalanta,inter_milan,atalanta,Inter Milan,A,0.0,4.0,7,10
+2024-09-15,I1,Italy-SA,2425,Atalanta,Fiorentina,3.0,2.0,H,3.0,2.0,H,1.8,3.6,4.5,1.83,3.85,4.29,1.83,3.81,4.24,1.73,2.1,1.74,2.12,-0.75,2.07,1.83,Atalanta,Fiorentina,atalanta,fiorentina,Fiorentina,H,3.0,2.0,7,10
+2024-09-24,I1,Italy-SA,2425,Atalanta,Como,2.0,3.0,A,1.0,0.0,H,1.44,4.5,7.0,1.5,4.69,6.4,1.47,4.64,6.6,1.67,2.2,1.64,2.27,-1.25,2.0,1.81,Atalanta,Como,atalanta,como,Como,H,2.0,3.0,1,4
+2024-09-28,I1,Italy-SA,2425,Bologna,Atalanta,1.0,1.0,D,0.0,0.0,D,3.0,3.3,2.4,3.03,3.28,2.52,2.97,3.33,2.46,2.02,1.88,1.99,1.85,0.25,1.81,2.09,Bologna,Atalanta,bologna,atalanta,Bologna,A,1.0,1.0,7,11
+2024-10-05,I1,Italy-SA,2425,Atalanta,Genoa,5.0,1.0,H,1.0,0.0,H,1.45,4.75,6.5,1.47,4.63,7.16,1.47,4.53,6.9,1.8,2.0,1.8,2.04,-1.25,2.07,1.83,Atalanta,Genoa,atalanta,genoa,Genoa,H,5.0,1.0,5,8
+2024-10-20,I1,Italy-SA,2425,Venezia,Atalanta,0.0,2.0,A,0.0,1.0,A,5.5,4.0,1.62,5.4,4.18,1.63,5.22,4.11,1.63,1.73,2.1,1.74,2.12,0.75,2.01,1.77,Venezia,Atalanta,venezia,atalanta,Venezia,A,2.0,0.0,3,5
+2024-10-26,I1,Italy-SA,2425,Atalanta,Verona,6.0,1.0,H,5.0,1.0,H,1.38,4.75,8.0,1.4,5.17,7.65,1.4,5.06,7.57,1.53,2.5,1.52,2.52,-1.25,1.87,2.03,Atalanta,Hellas Verona,atalanta,hellas_verona,Hellas Verona,H,6.0,1.0,7,10
+2024-10-30,I1,Italy-SA,2425,Atalanta,Monza,2.0,0.0,H,0.0,0.0,D,1.3,5.0,10.0,1.31,5.69,10.11,1.31,5.53,9.78,1.62,2.3,1.61,2.35,-1.5,1.92,1.98,Atalanta,Monza,atalanta,monza,Monza,H,2.0,0.0,5,6
+2024-11-03,I1,Italy-SA,2425,Napoli,Atalanta,0.0,3.0,A,0.0,2.0,A,2.05,3.4,3.7,2.11,3.31,3.64,2.09,3.44,3.6,1.92,1.98,1.89,1.94,-0.25,1.75,2.05,Napoli,Atalanta,napoli,atalanta,Napoli,A,3.0,0.0,7,10
+2024-11-10,I1,Italy-SA,2425,Atalanta,Udinese,2.0,1.0,H,0.0,1.0,A,1.38,5.0,7.5,1.37,5.13,8.64,1.38,4.99,8.11,1.62,2.3,1.64,2.27,-1.25,1.85,2.05,Atalanta,Udinese,atalanta,udinese,Udinese,H,2.0,1.0,7,10
+2024-11-23,I1,Italy-SA,2425,Parma,Atalanta,1.0,3.0,A,0.0,2.0,A,5.0,4.2,1.62,5.17,4.27,1.64,4.95,4.27,1.64,1.57,2.38,1.54,2.46,1.0,1.83,2.07,Parma,Atalanta,parma,atalanta,Parma,A,3.0,1.0,1,4
+2024-12-02,I1,Italy-SA,2425,Roma,Atalanta,0.0,2.0,A,0.0,0.0,D,3.2,3.5,2.2,3.33,3.51,2.23,3.19,3.46,2.24,1.87,2.03,1.84,1.99,0.25,1.95,1.95,AS Roma,Atalanta,as_roma,atalanta,AS Roma,A,2.0,0.0,7,11
+2024-12-06,I1,Italy-SA,2425,Atalanta,Milan,2.0,1.0,H,1.0,1.0,D,2.15,3.4,3.3,2.21,3.53,3.43,2.16,3.48,3.39,1.73,2.1,1.75,2.12,-0.25,1.91,2.02,Atalanta,AC Milan,atalanta,ac_milan,AC Milan,H,2.0,1.0,7,11
+2024-12-14,I1,Italy-SA,2425,Cagliari,Atalanta,0.0,1.0,A,0.0,0.0,D,5.5,4.33,1.55,6.01,4.43,1.55,5.63,4.36,1.55,1.62,2.3,1.62,2.32,1.0,1.98,1.92,Cagliari,Atalanta,cagliari,atalanta,Cagliari,A,1.0,0.0,5,9
+2024-12-22,I1,Italy-SA,2425,Atalanta,Empoli,3.0,2.0,H,2.0,1.0,H,1.29,5.5,11.0,1.28,5.97,11.28,1.28,5.62,10.84,1.67,2.2,1.67,2.2,-1.5,1.86,2.04,Atalanta,Empoli,atalanta,empoli,Empoli,H,3.0,2.0,7,8
+2024-12-28,I1,Italy-SA,2425,Lazio,Atalanta,1.0,1.0,D,1.0,0.0,H,3.0,3.3,2.4,2.99,3.39,2.48,2.93,3.37,2.43,1.8,2.0,1.83,1.99,0.25,1.81,2.09,Lazio,Atalanta,lazio,atalanta,Lazio,A,1.0,1.0,7,10
+2025-01-11,I1,Italy-SA,2425,Udinese,Atalanta,0.0,0.0,D,0.0,0.0,D,5.25,3.8,1.65,5.24,4.1,1.66,5.03,4.0,1.65,1.85,2.05,1.79,2.03,0.75,2.06,1.84,Udinese,Atalanta,udinese,atalanta,Udinese,A,0.0,0.0,8,10
+2025-01-14,I1,Italy-SA,2425,Atalanta,Juventus,1.0,1.0,D,0.0,0.0,D,2.1,3.25,3.7,2.15,3.22,3.98,2.11,3.2,3.81,2.3,1.62,2.29,1.63,-0.25,1.82,2.08,Atalanta,Juventus,atalanta,juventus,Juventus,H,1.0,1.0,7,11
+2025-01-18,I1,Italy-SA,2425,Atalanta,Napoli,2.0,3.0,A,1.0,2.0,A,2.25,3.25,3.25,2.37,3.26,3.28,2.32,3.24,3.21,2.1,1.73,2.1,1.73,-0.25,2.01,1.89,Atalanta,Napoli,atalanta,napoli,Napoli,H,2.0,3.0,8,10
+2025-01-25,I1,Italy-SA,2425,Como,Atalanta,1.0,2.0,A,1.0,0.0,H,4.2,3.6,1.85,4.31,3.7,1.88,4.13,3.67,1.87,1.8,2.0,1.78,2.04,0.5,1.98,1.83,Como,Atalanta,como,atalanta,Como,A,2.0,1.0,2,4
+2025-02-01,I1,Italy-SA,2425,Atalanta,Torino,1.0,1.0,D,1.0,1.0,D,1.42,4.5,7.5,1.45,4.57,7.66,1.43,4.51,7.73,1.95,1.95,1.9,1.92,-1.25,2.03,1.87,Atalanta,Torino,atalanta,torino,Torino,H,1.0,1.0,8,10
+2025-02-08,I1,Italy-SA,2425,Verona,Atalanta,0.0,5.0,A,0.0,4.0,A,6.25,4.1,1.53,6.08,4.38,1.55,6.01,4.3,1.54,1.73,2.1,1.75,2.1,1.0,1.97,1.93,Hellas Verona,Atalanta,hellas_verona,atalanta,Hellas Verona,A,5.0,0.0,8,10
+2025-02-15,I1,Italy-SA,2425,Atalanta,Cagliari,0.0,0.0,D,0.0,0.0,D,1.44,4.75,6.5,1.44,4.9,7.12,1.44,4.82,6.89,1.62,2.3,1.62,2.33,-1.25,2.0,1.9,Atalanta,Cagliari,atalanta,cagliari,Cagliari,H,0.0,0.0,6,9
+2025-02-23,I1,Italy-SA,2425,Empoli,Atalanta,0.0,5.0,A,0.0,3.0,A,6.25,3.9,1.57,5.89,4.27,1.58,5.82,4.16,1.56,1.8,2.0,1.79,2.05,1.0,1.91,1.99,Empoli,Atalanta,empoli,atalanta,Empoli,A,5.0,0.0,8,8
+2025-03-01,I1,Italy-SA,2425,Atalanta,Venezia,0.0,0.0,D,0.0,0.0,D,1.2,6.5,15.0,1.2,7.1,14.07,1.2,6.85,13.99,1.53,2.5,1.52,2.51,-1.75,1.84,2.09,Atalanta,Venezia,atalanta,venezia,Venezia,H,0.0,0.0,4,5
+2025-03-09,I1,Italy-SA,2425,Juventus,Atalanta,0.0,4.0,A,0.0,1.0,A,2.5,3.25,2.88,2.57,3.31,2.92,2.52,3.25,2.88,2.04,1.86,1.99,1.84,0.0,1.84,2.06,Juventus,Atalanta,juventus,atalanta,Juventus,A,4.0,0.0,8,11
+2025-03-16,I1,Italy-SA,2425,Atalanta,Inter,0.0,2.0,A,0.0,0.0,D,2.55,3.3,2.8,2.57,3.38,2.87,2.55,3.34,2.79,1.95,1.95,1.91,1.92,0.0,1.87,2.03,Atalanta,Inter Milan,atalanta,inter_milan,Inter Milan,H,0.0,2.0,8,10
+2025-03-30,I1,Italy-SA,2425,Fiorentina,Atalanta,1.0,0.0,H,1.0,0.0,H,3.75,3.3,2.05,3.68,3.54,2.08,3.61,3.5,2.05,1.95,1.95,1.9,1.92,0.5,1.82,2.08,Fiorentina,Atalanta,fiorentina,atalanta,Fiorentina,A,0.0,1.0,8,10
+2025-04-06,I1,Italy-SA,2425,Atalanta,Lazio,0.0,1.0,A,0.0,0.0,D,1.7,3.8,5.0,1.72,4.04,4.81,1.71,3.94,4.78,1.8,2.0,1.79,2.03,-0.75,1.93,1.97,Atalanta,Lazio,atalanta,lazio,Lazio,H,0.0,1.0,8,10
+2025-04-13,I1,Italy-SA,2425,Atalanta,Bologna,2.0,0.0,H,2.0,0.0,H,1.95,3.5,3.9,2.04,3.59,3.77,1.99,3.52,3.78,2.05,1.85,2.0,1.82,-0.5,2.04,1.86,Atalanta,Bologna,atalanta,bologna,Bologna,H,2.0,0.0,8,11
+2025-04-20,I1,Italy-SA,2425,Milan,Atalanta,0.0,1.0,A,0.0,0.0,D,2.5,3.4,2.75,2.58,3.55,2.75,2.53,3.47,2.7,1.67,2.2,1.67,2.2,0.0,1.89,2.01,AC Milan,Atalanta,ac_milan,atalanta,AC Milan,A,1.0,0.0,8,11
+2025-04-27,I1,Italy-SA,2425,Atalanta,Lecce,1.0,1.0,D,0.0,1.0,A,1.25,6.0,11.0,1.23,6.63,12.53,1.23,6.32,12.23,1.57,2.38,1.56,2.41,-1.75,1.95,1.95,Atalanta,Lecce,atalanta,lecce,Lecce,H,1.0,1.0,6,8
+2025-05-04,I1,Italy-SA,2425,Monza,Atalanta,0.0,4.0,A,0.0,2.0,A,13.0,6.0,1.22,13.54,6.69,1.22,12.68,6.51,1.22,1.5,2.63,1.47,2.59,1.75,2.03,1.87,Monza,Atalanta,monza,atalanta,Monza,A,4.0,0.0,6,6
+2025-05-12,I1,Italy-SA,2425,Atalanta,Roma,2.0,1.0,H,1.0,1.0,D,1.95,3.6,3.75,2.01,3.56,3.91,1.99,3.54,3.71,1.8,2.0,1.81,2.01,-0.5,2.0,1.9,Atalanta,AS Roma,atalanta,as_roma,AS Roma,H,2.0,1.0,8,11
+2025-05-17,I1,Italy-SA,2425,Genoa,Atalanta,2.0,3.0,A,1.0,0.0,H,4.5,3.9,1.75,4.68,3.81,1.79,4.54,3.79,1.76,1.87,2.03,1.84,1.98,0.75,1.82,1.96,Genoa,Atalanta,genoa,atalanta,Genoa,A,3.0,2.0,6,8
+2025-05-25,I1,Italy-SA,2425,Atalanta,Parma,2.0,3.0,A,2.0,0.0,H,1.75,3.5,5.0,1.78,3.6,5.1,1.76,3.63,4.84,1.73,2.1,1.69,2.17,-0.75,1.98,1.88,Atalanta,Parma,atalanta,parma,Parma,H,2.0,3.0,2,4
+2025-08-24,I1,Italy-SA,2526,Atalanta,Pisa,1.0,1.0,D,0.0,1.0,A,1.4,5.0,7.0,1.42,4.94,7.54,1.38,4.86,7.63,1.67,2.2,1.61,2.24,-1.5,2.08,1.73,Atalanta,Pisa,atalanta,pisa,Pisa,H,1.0,1.0,1,2
+2025-08-30,I1,Italy-SA,2526,Parma,Atalanta,1.0,1.0,D,0.0,0.0,D,4.1,3.5,1.91,3.99,3.57,1.98,3.82,3.49,1.96,1.93,1.93,1.86,1.89,0.5,1.9,1.95,Parma,Atalanta,parma,atalanta,Parma,A,1.0,1.0,3,4
+2025-09-14,I1,Italy-SA,2526,Atalanta,Lecce,4.0,1.0,H,1.0,0.0,H,1.4,4.5,8.5,1.41,5.07,7.5,1.4,4.56,7.85,1.8,2.0,1.75,2.02,-1.25,1.9,1.95,Atalanta,Lecce,atalanta,lecce,Lecce,H,4.0,1.0,7,8
+2025-09-21,I1,Italy-SA,2526,Torino,Atalanta,0.0,3.0,A,0.0,3.0,A,3.25,3.4,2.2,3.38,3.36,2.27,3.39,3.28,2.14,2.2,1.67,2.15,1.66,0.25,1.95,1.9,Torino,Atalanta,torino,atalanta,Torino,A,3.0,0.0,9,10
+2025-09-27,I1,Italy-SA,2526,Juventus,Atalanta,1.0,1.0,D,0.0,1.0,A,1.85,3.6,4.2,1.88,3.71,4.28,1.86,3.55,4.16,2.03,1.83,1.97,1.79,-0.5,1.85,2.0,Juventus,Atalanta,juventus,atalanta,Juventus,A,1.0,1.0,9,11
+2025-10-04,I1,Italy-SA,2526,Atalanta,Como,1.0,1.0,D,1.0,1.0,D,2.2,3.4,3.25,2.27,3.4,3.35,2.18,3.43,3.21,1.73,2.1,1.74,2.03,-0.25,1.93,1.93,Atalanta,Como,atalanta,como,Como,H,1.0,1.0,3,4
+2025-10-19,I1,Italy-SA,2526,Atalanta,Lazio,0.0,0.0,D,0.0,0.0,D,1.73,4.0,4.5,1.71,4.2,4.67,1.7,3.88,4.59,1.8,2.0,1.78,1.99,-0.75,1.93,1.93,Atalanta,Lazio,atalanta,lazio,Lazio,H,0.0,0.0,9,10
+2025-10-25,I1,Italy-SA,2526,Cremonese,Atalanta,1.0,1.0,D,0.0,0.0,D,5.0,4.2,1.62,5.41,4.18,1.63,5.24,4.01,1.62,1.88,1.98,1.81,1.94,0.75,2.05,1.75,Cremonese,Atalanta,cremonese,atalanta,Cremonese,A,1.0,1.0,3,4
+2025-10-28,I1,Italy-SA,2526,Atalanta,Milan,1.0,1.0,D,1.0,1.0,D,2.63,3.2,2.75,2.71,3.3,2.81,2.61,3.26,2.68,2.0,1.85,1.91,1.85,0.0,1.9,1.95,Atalanta,AC Milan,atalanta,ac_milan,AC Milan,H,1.0,1.0,9,11
+2025-11-01,I1,Italy-SA,2526,Udinese,Atalanta,1.0,0.0,H,1.0,0.0,H,4.5,3.6,1.8,4.45,3.87,1.81,4.3,3.69,1.8,1.85,2.0,1.82,1.93,0.75,1.78,2.03,Udinese,Atalanta,udinese,atalanta,Udinese,A,0.0,1.0,9,10
+2025-11-09,I1,Italy-SA,2526,Atalanta,Sassuolo,0.0,3.0,A,0.0,1.0,A,1.44,4.5,7.0,1.44,4.89,7.09,1.43,4.61,6.8,1.67,2.2,1.65,2.17,-1.25,2.0,1.85,Atalanta,Sassuolo,atalanta,sassuolo,Sassuolo,H,0.0,3.0,7,9
+2025-11-22,I1,Italy-SA,2526,Napoli,Atalanta,3.0,1.0,H,3.0,0.0,H,2.25,3.25,3.4,2.27,3.22,3.54,2.19,3.25,3.4,2.1,1.73,2.05,1.73,-0.25,1.9,1.95,Napoli,Atalanta,napoli,atalanta,Napoli,A,1.0,3.0,9,10
+2025-11-30,I1,Italy-SA,2526,Atalanta,Fiorentina,2.0,0.0,H,1.0,0.0,H,1.73,3.75,4.75,1.74,3.9,4.91,1.71,3.78,4.65,1.91,1.91,1.85,1.9,-0.75,1.93,1.93,Atalanta,Fiorentina,atalanta,fiorentina,Fiorentina,H,2.0,0.0,9,10
+2025-12-06,I1,Italy-SA,2526,Verona,Atalanta,3.0,1.0,H,2.0,0.0,H,5.0,4.0,1.67,5.3,4.18,1.64,5.08,3.85,1.66,1.93,1.93,1.91,1.85,0.75,2.03,1.83,Hellas Verona,Atalanta,hellas_verona,atalanta,Hellas Verona,A,1.0,3.0,9,10
+2025-12-13,I1,Italy-SA,2526,Atalanta,Cagliari,2.0,1.0,H,1.0,0.0,H,1.33,5.0,9.5,1.35,5.48,8.72,1.32,5.14,9.23,1.73,2.1,1.67,2.13,-1.5,2.0,1.85,Atalanta,Cagliari,atalanta,cagliari,Cagliari,H,2.0,1.0,7,9
+2025-12-21,I1,Italy-SA,2526,Genoa,Atalanta,0.0,1.0,A,0.0,0.0,D,4.0,3.4,1.95,4.12,3.48,1.98,3.99,3.35,1.94,2.1,1.73,2.07,1.71,0.5,1.9,1.95,Genoa,Atalanta,genoa,atalanta,Genoa,A,1.0,0.0,7,8
+2025-12-28,I1,Italy-SA,2526,Atalanta,Inter,0.0,1.0,A,0.0,0.0,D,3.5,3.5,2.0,3.64,3.64,2.07,3.39,3.52,2.05,1.73,2.1,1.74,2.02,0.5,1.8,2.05,Atalanta,Inter Milan,atalanta,inter_milan,Inter Milan,H,0.0,1.0,9,10
+2026-01-03,I1,Italy-SA,2526,Atalanta,Roma,1.0,0.0,H,1.0,0.0,H,2.3,3.2,3.3,2.32,3.17,3.48,2.23,3.22,3.28,2.1,1.73,2.04,1.72,-0.25,1.95,1.9,Atalanta,AS Roma,atalanta,as_roma,AS Roma,H,1.0,0.0,9,11
+2026-01-07,I1,Italy-SA,2526,Bologna,Atalanta,0.0,2.0,A,0.0,1.0,A,2.75,3.3,2.6,2.84,3.25,2.68,2.71,3.3,2.57,2.0,1.85,1.92,1.83,0.0,1.98,1.88,Bologna,Atalanta,bologna,atalanta,Bologna,A,2.0,0.0,9,11
+2026-01-10,I1,Italy-SA,2526,Atalanta,Torino,2.0,0.0,H,1.0,0.0,H,1.6,3.9,6.0,1.61,4.13,5.7,1.6,3.9,5.54,1.8,2.0,1.81,1.94,-1.0,2.03,1.83,Atalanta,Torino,atalanta,torino,Torino,H,2.0,0.0,10,10
+2026-01-16,I1,Italy-SA,2526,Pisa,Atalanta,1.0,1.0,D,0.0,0.0,D,6.5,3.9,1.55,,,,6.08,3.98,1.55,1.85,2.0,1.86,1.89,1.0,1.93,1.93,Pisa,Atalanta,pisa,atalanta,Pisa,A,1.0,1.0,2,2
+2026-01-25,I1,Italy-SA,2526,Atalanta,Parma,4.0,0.0,H,2.0,0.0,H,1.42,4.5,7.5,,,,1.4,4.54,7.65,1.73,2.1,1.71,2.08,-1.25,1.95,1.9,Atalanta,Parma,atalanta,parma,Parma,H,4.0,0.0,4,4
+2026-02-01,I1,Italy-SA,2526,Como,Atalanta,0.0,0.0,D,0.0,0.0,D,2.35,3.25,3.2,,,,2.32,3.27,3.06,1.91,1.91,1.91,1.85,-0.25,2.03,1.83,Como,Atalanta,como,atalanta,Como,A,0.0,0.0,4,4
+2026-02-09,I1,Italy-SA,2526,Atalanta,Cremonese,2.0,1.0,H,2.0,0.0,H,1.36,5.0,8.5,,,,1.34,4.88,8.42,1.73,2.1,1.68,2.13,-1.25,1.83,2.03,Atalanta,Cremonese,atalanta,cremonese,Cremonese,H,2.0,1.0,4,4
+2026-02-14,I1,Italy-SA,2526,Lazio,Atalanta,0.0,2.0,A,0.0,1.0,A,3.5,3.25,2.15,,,,3.46,3.26,2.13,2.1,1.73,2.05,1.72,0.25,2.0,1.85,Lazio,Atalanta,lazio,atalanta,Lazio,A,2.0,0.0,10,10
+2026-02-22,I1,Italy-SA,2526,Atalanta,Napoli,2.0,1.0,H,0.0,1.0,A,2.45,3.2,3.0,,,,2.42,3.16,2.98,2.1,1.73,2.07,1.71,-0.25,2.1,1.78,Atalanta,Napoli,atalanta,napoli,Napoli,H,2.0,1.0,10,10
+2026-03-01,I1,Italy-SA,2526,Sassuolo,Atalanta,2.0,1.0,H,1.0,0.0,H,3.8,3.6,1.95,,,,3.7,3.51,1.95,1.88,1.98,1.82,1.93,0.5,1.88,1.98,Sassuolo,Atalanta,sassuolo,atalanta,Sassuolo,A,1.0,2.0,8,9
+2026-03-07,I1,Italy-SA,2526,Atalanta,Udinese,2.0,2.0,D,0.0,1.0,A,1.67,3.7,5.5,,,,1.65,3.7,5.28,1.91,1.91,1.88,1.87,-0.75,1.88,1.98,Atalanta,Udinese,atalanta,udinese,Udinese,H,2.0,2.0,10,10
+2026-03-14,I1,Italy-SA,2526,Inter,Atalanta,1.0,1.0,D,1.0,0.0,H,1.55,4.33,5.75,,,,1.53,4.23,5.79,1.73,2.1,1.7,2.09,-1.0,1.93,1.93,Inter Milan,Atalanta,inter_milan,atalanta,Inter Milan,A,1.0,1.0,10,10
+2026-03-22,I1,Italy-SA,2526,Atalanta,Verona,1.0,0.0,H,1.0,0.0,H,1.38,4.75,8.5,,,,1.37,4.56,8.19,1.91,1.91,1.86,1.88,-1.25,1.93,1.93,Atalanta,Hellas Verona,atalanta,hellas_verona,Hellas Verona,H,1.0,0.0,10,10
+2026-04-06,I1,Italy-SA,2526,Lecce,Atalanta,0.0,3.0,A,0.0,1.0,A,5.0,3.75,1.75,,,,4.73,3.64,1.72,2.03,1.83,1.97,1.78,0.75,1.88,1.98,Lecce,Atalanta,lecce,atalanta,Lecce,A,3.0,0.0,8,8
+2026-04-11,I1,Italy-SA,2526,Atalanta,Juventus,0.0,1.0,A,0.0,0.0,D,3.1,3.3,2.35,,,,3.04,3.34,2.29,1.8,2.0,1.8,1.95,0.25,1.85,2.0,Atalanta,Juventus,atalanta,juventus,Juventus,H,0.0,1.0,10,11
+2026-04-18,I1,Italy-SA,2526,Roma,Atalanta,1.0,1.0,D,1.0,1.0,D,2.45,3.25,2.9,,,,2.4,3.25,2.94,2.0,1.8,1.98,1.78,0.0,1.8,2.05,AS Roma,Atalanta,as_roma,atalanta,AS Roma,A,1.0,1.0,10,11
+2026-04-27,I1,Italy-SA,2526,Cagliari,Atalanta,3.0,2.0,H,2.0,2.0,D,4.5,3.6,1.8,,,,4.51,3.64,1.74,1.91,1.91,1.9,1.84,0.75,1.83,2.03,Cagliari,Atalanta,cagliari,atalanta,Cagliari,A,2.0,3.0,8,9
+2026-05-02,I1,Italy-SA,2526,Atalanta,Genoa,0.0,0.0,D,0.0,0.0,D,1.57,4.1,5.75,,,,1.57,3.99,5.54,1.8,2.0,1.79,1.95,-1.0,2.0,1.85,Atalanta,Genoa,atalanta,genoa,Genoa,H,0.0,0.0,8,8
+2026-05-10,I1,Italy-SA,2526,Milan,Atalanta,2.0,3.0,A,0.0,2.0,A,2.1,3.3,3.5,,,,2.05,3.42,3.47,1.85,2.0,1.78,1.97,-0.5,2.05,1.75,AC Milan,Atalanta,ac_milan,atalanta,AC Milan,A,3.0,2.0,10,11
+2026-05-17,I1,Italy-SA,2526,Atalanta,Bologna,0.0,1.0,A,0.0,0.0,D,1.62,4.2,4.75,,,,1.64,4.06,4.65,1.67,2.2,1.62,2.22,-0.75,1.83,2.03,Atalanta,Bologna,atalanta,bologna,Bologna,H,0.0,1.0,10,11
+2026-05-22,I1,Italy-SA,2526,Fiorentina,Atalanta,1.0,1.0,D,1.0,0.0,H,2.7,3.5,2.55,,,,2.65,3.43,2.49,1.67,2.2,1.65,2.19,0.0,2.0,1.85,Fiorentina,Atalanta,fiorentina,atalanta,Fiorentina,A,1.0,1.0,10,10
+2026-08-23,I1,Italy-SA,2627,Atalanta,Sassuolo,2.0,1.0,H,1.0,0.0,H,1.53,4.1,6.5,,,,1.51,4.23,5.94,1.67,2.2,1.66,2.15,-1.0,1.88,1.98,Atalanta,Sassuolo,atalanta,sassuolo,Sassuolo,H,2.0,1.0,9,9
+2026-08-31,I1,Italy-SA,2627,Atalanta,Bologna,1.0,0.0,H,0.0,0.0,D,1.85,3.75,4.0,,,,1.88,3.55,3.95,1.95,1.9,1.87,1.86,-0.5,1.9,1.95,Atalanta,Bologna,atalanta,bologna,Bologna,H,1.0,0.0,11,11
+2026-09-05,I1,Italy-SA,2627,Roma,Atalanta,2.0,1.0,H,0.0,0.0,D,1.73,3.6,5.0,,,,1.71,3.72,4.77,1.93,1.93,1.88,1.86,-0.75,1.93,1.93,AS Roma,Atalanta,as_roma,atalanta,AS Roma,A,1.0,2.0,11,11
+2026-09-12,I1,Italy-SA,2627,Atalanta,Cagliari,1.0,2.0,A,1.0,1.0,D,1.57,4.0,6.0,,,,1.57,3.97,5.79,1.95,1.9,1.9,1.85,-1.0,2.03,1.83,Atalanta,Cagliari,atalanta,cagliari,Cagliari,H,1.0,2.0,9,9
+2026-09-20,I1,Italy-SA,2627,Juventus,Atalanta,2.0,0.0,H,1.0,0.0,H,1.7,3.9,4.75,,,,1.69,3.77,4.84,1.91,1.91,1.82,1.92,-0.75,1.88,1.98,Juventus,Atalanta,juventus,atalanta,Juventus,A,0.0,2.0,11,11
+2026-10-12,I1,Italy-SA,2627,Atalanta,Venezia,3.0,1.0,H,3.0,1.0,H,1.57,4.2,5.75,,,,1.55,4.18,5.52,1.57,2.38,1.54,2.38,-1.0,1.93,1.93,Atalanta,Venezia,atalanta,venezia,Venezia,H,3.0,1.0,5,5
+2026-10-18,I1,Italy-SA,2627,Milan,Atalanta,3.0,2.0,H,2.0,0.0,H,1.8,3.75,4.33,,,,1.81,3.7,4.12,1.73,2.1,1.71,2.06,-0.5,1.8,2.05,AC Milan,Atalanta,ac_milan,atalanta,AC Milan,A,2.0,3.0,11,11

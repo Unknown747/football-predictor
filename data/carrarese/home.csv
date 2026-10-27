@@ -1,0 +1,43 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2024-08-27,I2,Italy-SB,2425,Carrarese,Sudtirol,2.0,0.0,H,1.0,0.0,H,3.0,3.0,2.55,3.18,2.9,2.68,3.02,2.9,2.57,2.6,1.48,2.64,1.46,0.0,2.1,1.78,Carrarese,Sudtirol,carrarese,sudtirol
+2024-09-15,I2,Italy-SB,2425,Carrarese,Sassuolo,0.0,2.0,A,0.0,0.0,D,3.3,3.3,2.2,3.48,3.16,2.22,3.32,3.23,2.19,2.03,1.83,2.0,1.79,0.25,1.93,1.93,Carrarese,Sassuolo,carrarese,sassuolo
+2024-09-28,I2,Italy-SB,2425,Carrarese,Reggiana,0.0,0.0,D,0.0,0.0,D,2.6,3.2,2.7,2.83,2.97,2.87,2.69,3.03,2.75,2.25,1.62,2.28,1.61,0.0,1.88,1.98,Carrarese,Reggiana,carrarese,reggiana
+2024-10-20,I2,Italy-SB,2425,Carrarese,Mantova,1.0,1.0,D,0.0,0.0,D,2.2,3.2,3.4,2.23,3.24,3.42,2.19,3.24,3.3,1.98,1.88,1.93,1.84,-0.25,1.9,1.95,Carrarese,Mantova,carrarese,mantova
+2024-10-26,I2,Italy-SB,2425,Carrarese,Cittadella,3.0,0.0,H,3.0,0.0,H,2.4,3.1,3.1,2.52,3.04,3.09,2.46,3.05,3.01,2.35,1.57,2.33,1.57,-0.25,2.1,1.78,Carrarese,Cittadella,carrarese,cittadella
+2024-11-02,I2,Italy-SB,2425,Carrarese,Juve Stabia,0.0,0.0,D,0.0,0.0,D,2.5,3.1,2.9,2.61,3.0,3.0,2.55,3.02,2.92,2.3,1.6,2.3,1.59,0.0,1.8,2.05,Carrarese,Juve Stabia,carrarese,juve_stabia
+2024-11-23,I2,Italy-SB,2425,Carrarese,Pisa,1.0,0.0,H,0.0,0.0,D,3.5,3.1,2.2,3.67,3.09,2.25,3.48,3.07,2.2,2.4,1.53,2.4,1.54,0.25,1.98,1.88,Carrarese,Pisa,carrarese,pisa
+2024-12-07,I2,Italy-SB,2425,Carrarese,Palermo,1.0,0.0,H,0.0,0.0,D,3.3,3.2,2.25,3.48,3.14,2.31,3.3,3.12,2.26,2.15,1.63,2.15,1.67,0.25,1.9,1.95,Carrarese,Palermo,carrarese,palermo
+2024-12-21,I2,Italy-SB,2425,Carrarese,Cosenza,1.0,0.0,H,0.0,0.0,D,2.55,3.1,2.9,2.66,3.0,3.04,2.54,3.0,2.95,2.35,1.57,2.36,1.56,0.0,1.8,2.05,Carrarese,Cosenza,carrarese,cosenza
+2024-12-29,I2,Italy-SB,2425,Carrarese,Cesena,2.0,0.0,H,0.0,0.0,D,2.7,3.0,2.8,2.76,2.93,2.9,2.7,2.92,2.78,2.4,1.53,2.36,1.55,0.0,1.88,1.98,Carrarese,Cesena,carrarese,cesena
+2025-01-19,I2,Italy-SB,2425,Carrarese,Spezia,0.0,4.0,A,0.0,2.0,A,2.9,3.1,2.5,3.07,2.95,2.6,2.96,2.99,2.52,2.5,1.5,2.44,1.51,0.0,2.1,1.78,Carrarese,Spezia,carrarese,spezia
+2025-02-02,I2,Italy-SB,2425,Carrarese,Brescia,1.0,2.0,A,0.0,2.0,A,2.25,3.1,3.4,2.31,3.07,3.44,2.27,3.07,3.33,2.25,1.62,2.26,1.6,-0.25,1.98,1.88,Carrarese,Brescia,carrarese,brescia
+2025-02-15,I2,Italy-SB,2425,Carrarese,Salernitana,3.0,2.0,H,2.0,0.0,H,2.45,2.88,3.25,2.58,2.99,3.16,2.46,2.98,3.05,2.3,1.6,2.27,1.61,-0.25,2.1,1.78,Carrarese,Salernitana,carrarese,salernitana
+2025-03-01,I2,Italy-SB,2425,Carrarese,Cremonese,2.0,2.0,D,2.0,1.0,H,3.75,3.1,2.1,3.84,3.21,2.09,3.66,3.14,2.09,2.15,1.67,2.15,1.67,0.25,2.05,1.8,Carrarese,Cremonese,carrarese,cremonese
+2025-03-08,I2,Italy-SB,2425,Carrarese,Frosinone,0.0,1.0,A,0.0,0.0,D,2.4,3.0,3.2,2.5,2.96,3.32,2.42,2.95,3.19,2.5,1.5,2.5,1.5,-0.25,2.05,1.8,Carrarese,Frosinone,carrarese,frosinone
+2025-03-30,I2,Italy-SB,2425,Carrarese,Bari,2.0,1.0,H,1.0,1.0,D,2.35,3.25,3.0,2.46,3.15,3.08,2.38,3.14,3.02,2.25,1.62,2.23,1.62,-0.25,2.05,1.8,Carrarese,Bari,carrarese,bari
+2025-04-12,I2,Italy-SB,2425,Carrarese,Catanzaro,2.0,2.0,D,1.0,0.0,H,2.4,3.2,3.0,2.49,2.99,3.2,2.43,3.08,3.02,2.05,1.75,2.04,1.74,-0.25,2.1,1.78,Carrarese,Catanzaro,carrarese,catanzaro
+2025-04-25,I2,Italy-SB,2425,Carrarese,Sampdoria,1.0,0.0,H,1.0,0.0,H,2.8,2.9,2.75,2.92,2.97,2.82,2.76,2.99,2.7,2.25,1.62,2.26,1.61,0.0,1.98,1.88,Carrarese,Sampdoria,carrarese,sampdoria
+2025-05-04,I2,Italy-SB,2425,Carrarese,Modena,2.0,1.0,H,1.0,0.0,H,2.2,3.1,3.4,2.28,3.04,3.53,2.26,3.06,3.31,2.07,1.69,2.05,1.73,-0.25,1.93,1.93,Carrarese,Modena,carrarese,modena
+2025-08-31,I2,Italy-SB,2526,Carrarese,Padova,0.0,0.0,D,0.0,0.0,D,2.15,3.1,3.5,2.24,3.27,3.36,2.14,3.12,3.35,2.3,1.6,2.25,1.57,-0.25,1.9,1.9,Carrarese,Padova,carrarese,padova
+2025-09-21,I2,Italy-SB,2526,Carrarese,Avellino,3.0,4.0,A,2.0,2.0,D,2.1,3.0,3.75,2.13,3.01,4.01,2.11,3.09,3.45,2.25,1.62,2.2,1.6,-0.25,1.8,2.0,Carrarese,Avellino,carrarese,avellino
+2025-10-01,I2,Italy-SB,2526,Carrarese,Modena,0.0,0.0,D,0.0,0.0,D,2.82,3.1,2.55,2.92,3.01,2.67,2.76,3.03,2.54,2.3,1.6,2.22,1.59,0.0,2.03,1.78,Carrarese,Modena,carrarese,modena
+2025-10-05,I2,Italy-SB,2526,Carrarese,Juve Stabia,3.0,0.0,H,1.0,0.0,H,2.5,3.1,2.82,2.57,3.05,3.02,2.52,3.04,2.76,2.35,1.57,2.27,1.56,0.0,1.78,2.03,Carrarese,Juve Stabia,carrarese,juve_stabia
+2025-10-25,I2,Italy-SB,2526,Carrarese,Venezia,3.0,2.0,H,1.0,1.0,D,2.95,3.2,2.35,2.96,3.08,2.59,2.96,3.13,2.33,2.1,1.7,2.06,1.69,0.25,1.75,2.05,Carrarese,Venezia,carrarese,venezia
+2025-11-01,I2,Italy-SB,2526,Carrarese,Frosinone,0.0,2.0,A,0.0,1.0,A,2.45,3.25,2.75,,,,2.44,3.2,2.73,1.98,1.83,1.94,1.77,0.0,1.75,2.05,Carrarese,Frosinone,carrarese,frosinone
+2025-11-22,I2,Italy-SB,2526,Carrarese,Reggiana,0.0,0.0,D,0.0,0.0,D,1.86,3.4,4.1,,,,1.85,3.33,4.1,2.05,1.75,1.99,1.73,-0.5,1.88,1.93,Carrarese,Reggiana,carrarese,reggiana
+2025-12-14,I2,Italy-SB,2526,Carrarese,Virtus Entella,3.0,1.0,H,0.0,0.0,D,2.55,3.05,2.82,,,,2.53,3.04,2.74,2.2,1.65,2.14,1.63,0.0,1.8,2.0,Carrarese,Virtus Entella,carrarese,virtus_entella
+2025-12-27,I2,Italy-SB,2526,Carrarese,Mantova,0.0,0.0,D,0.0,0.0,D,2.05,3.3,3.3,,,,2.13,3.18,3.29,1.93,1.88,1.91,1.79,-0.25,1.85,1.95,Carrarese,Mantova,carrarese,mantova
+2026-01-10,I2,Italy-SB,2526,Carrarese,Bari,1.0,0.0,H,0.0,0.0,D,1.96,3.0,4.33,,,,1.98,3.1,3.84,2.15,1.67,2.12,1.64,-0.5,2.0,1.8,Carrarese,Bari,carrarese,bari
+2026-01-23,I2,Italy-SB,2526,Carrarese,Empoli,3.0,0.0,H,1.0,0.0,H,2.3,3.0,3.25,,,,2.3,3.01,3.13,2.1,1.7,2.14,1.63,-0.25,1.98,1.83,Carrarese,Empoli,carrarese,empoli
+2026-02-07,I2,Italy-SB,2526,Carrarese,Sudtirol,0.0,0.0,D,0.0,0.0,D,2.4,2.82,3.3,,,,2.41,2.9,3.09,2.15,1.67,2.09,1.67,-0.25,2.05,1.75,Carrarese,Sudtirol,carrarese,sudtirol
+2026-02-21,I2,Italy-SB,2526,Carrarese,Monza,0.0,1.0,A,0.0,0.0,D,3.6,3.3,2.01,,,,3.6,3.26,1.98,2.05,1.75,2.05,1.69,0.5,1.78,2.03,Carrarese,Monza,carrarese,monza
+2026-03-04,I2,Italy-SB,2526,Carrarese,Catanzaro,3.0,3.0,D,1.0,2.0,A,2.32,3.25,3.0,,,,2.43,3.02,2.9,2.08,1.73,2.07,1.68,-0.25,2.03,1.78,Carrarese,Catanzaro,carrarese,catanzaro
+2026-03-08,I2,Italy-SB,2526,Carrarese,Palermo,0.0,1.0,A,0.0,1.0,A,3.25,3.25,2.2,,,,3.1,3.24,2.17,2.0,1.8,1.95,1.75,0.25,1.88,1.93,Carrarese,Palermo,carrarese,palermo
+2026-03-18,I2,Italy-SB,2526,Carrarese,Sampdoria,2.0,0.0,H,0.0,0.0,D,2.35,2.82,3.2,,,,2.46,2.79,3.08,2.25,1.62,2.28,1.56,-0.25,2.05,1.75,Carrarese,Sampdoria,carrarese,sampdoria
+2026-04-06,I2,Italy-SB,2526,Carrarese,Spezia,3.0,1.0,H,2.0,0.0,H,1.96,3.1,3.9,,,,1.98,3.11,3.79,2.05,1.75,2.0,1.73,-0.5,2.0,1.8,Carrarese,Spezia,carrarese,spezia
+2026-04-19,I2,Italy-SB,2526,Carrarese,Pescara,2.0,2.0,D,1.0,1.0,D,2.2,3.4,3.1,,,,2.18,3.39,3.02,1.8,2.0,1.77,1.96,-0.25,1.98,1.83,Carrarese,Pescara,carrarese,pescara
+2026-05-01,I2,Italy-SB,2526,Carrarese,Cesena,0.0,0.0,D,0.0,0.0,D,2.2,3.4,3.2,,,,2.25,3.31,2.92,1.75,2.05,1.72,2.0,-0.25,1.93,1.88,Carrarese,Cesena,carrarese,cesena
+2026-08-22,I2,Italy-SB,2627,Carrarese,Mantova,1.0,2.0,A,0.0,1.0,A,2.25,3.25,3.1,,,,2.29,3.16,3.01,2.0,1.8,1.95,1.77,-0.25,2.0,1.8,Carrarese,Mantova,carrarese,mantova
+2026-09-05,I2,Italy-SB,2627,Carrarese,Empoli,0.0,1.0,A,0.0,0.0,D,2.25,3.1,2.85,,,,2.32,3.19,2.91,2.15,1.67,2.11,1.66,-0.25,2.05,1.75,Carrarese,Empoli,carrarese,empoli
+2026-09-19,I2,Italy-SB,2627,Carrarese,Benevento,0.0,1.0,A,0.0,0.0,D,2.85,3.3,2.35,,,,2.82,3.33,2.32,1.9,1.9,1.84,1.88,0.0,2.05,1.75,Carrarese,Benevento,carrarese,benevento
+2026-10-17,I2,Italy-SB,2627,Carrarese,Modena,2.0,1.0,H,1.0,0.0,H,4.5,3.4,1.76,,,,4.08,3.51,1.78,1.85,1.95,1.8,1.91,0.5,2.03,1.78,Carrarese,Modena,carrarese,modena

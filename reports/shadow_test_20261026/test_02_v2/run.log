@@ -1,0 +1,11 @@
+[2026-10-26T15:52:16.892407+00:00] === START shadow_capture ===
+[2026-10-26T15:52:16.892443+00:00] Input: /root/football-predictor/reports/shadow_test_20261026/fixtures/missing_columns.csv
+[2026-10-26T15:52:16.892450+00:00] Output dir: /root/football-predictor/reports/shadow_test_20261026/test_02_v2
+[2026-10-26T15:52:16.892457+00:00] Label: SYNTHETIC_TEST_ONLY
+[2026-10-26T15:52:16.892462+00:00] Source: manual
+[2026-10-26T15:52:16.892468+00:00] Odds source: unknown
+[2026-10-26T15:52:16.892473+00:00] Checking production integrity...
+[2026-10-26T15:52:16.925790+00:00] Production integrity OK
+[2026-10-26T15:52:16.928127+00:00] Input rows: 1
+[2026-10-26T15:52:16.928145+00:00] Validating input...
+[2026-10-26T15:52:16.928192+00:00] FATAL: input validation failed: ["missing_required_columns: ['league_name']"]

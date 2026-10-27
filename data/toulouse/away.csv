@@ -1,0 +1,94 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,F2,France-L2,2122,Nancy,Toulouse,0.0,4.0,A,0.0,3.0,A,3.6,3.4,2.05,3.73,3.21,2.17,3.5,3.2,2.13,1.95,1.85,1.94,1.85,0.25,2.02,1.83,Nancy,Toulouse,nancy,toulouse
+2021-08-07,F2,France-L2,2122,Pau FC,Toulouse,0.0,1.0,A,0.0,1.0,A,4.2,3.1,2.0,4.14,3.13,2.09,3.82,3.09,2.07,2.0,1.85,1.97,1.82,0.25,2.1,1.77,Pau FC,Toulouse,pau_fc,toulouse
+2021-08-21,F2,France-L2,2122,Dijon,Toulouse,2.0,4.0,A,1.0,1.0,D,4.0,3.5,1.9,4.09,3.6,1.93,3.85,3.43,1.93,2.05,1.75,2.02,1.78,0.5,1.9,1.95,Dijon,Toulouse,dijon,toulouse
+2021-09-13,F2,France-L2,2122,Le Havre,Toulouse,1.0,1.0,D,0.0,1.0,A,3.8,3.2,2.05,4.39,3.05,2.06,3.93,3.08,2.06,2.2,1.65,2.22,1.64,0.5,1.77,2.1,Le Havre,Toulouse,le_havre,toulouse
+2021-09-21,F2,France-L2,2122,Dunkerque,Toulouse,0.0,2.0,A,0.0,1.0,A,5.25,3.75,1.66,5.61,3.54,1.74,5.19,3.53,1.7,2.05,1.75,2.04,1.76,0.75,1.9,1.95,Dunkerque,Toulouse,dunkerque,toulouse
+2021-10-02,F2,France-L2,2122,Amiens,Toulouse,0.0,0.0,D,0.0,0.0,D,4.5,3.5,1.8,4.76,3.48,1.82,4.71,3.4,1.79,2.15,1.66,2.18,1.66,0.75,1.77,2.02,Amiens,Toulouse,amiens,toulouse
+2021-10-23,F2,France-L2,2122,Paris FC,Toulouse,2.0,2.0,D,2.0,0.0,H,3.25,3.2,2.3,3.23,3.1,2.43,3.11,3.17,2.32,2.05,1.75,2.03,1.76,0.25,1.83,2.02,Paris FC,Toulouse,paris_fc,toulouse
+2021-11-06,F2,France-L2,2122,Quevilly Rouen,Toulouse,0.0,0.0,D,0.0,0.0,D,5.5,3.6,1.65,6.25,3.58,1.64,5.52,3.57,1.66,2.05,1.75,2.09,1.72,0.75,1.98,1.88,Quevilly Rouen,Toulouse,quevilly_rouen,toulouse
+2021-12-06,F2,France-L2,2122,Niort,Toulouse,2.0,1.0,H,0.0,0.0,D,4.75,3.5,1.72,5.14,3.51,1.76,4.69,3.43,1.77,2.15,1.66,2.13,1.69,0.75,1.85,2.0,Niort,Toulouse,niort,toulouse
+2021-12-21,F2,France-L2,2122,Nimes,Toulouse,1.0,2.0,A,0.0,1.0,A,4.0,3.5,1.75,4.65,3.8,1.79,4.35,3.59,1.8,1.9,1.95,1.88,1.9,0.5,2.05,1.8,Nimes,Toulouse,nimes,toulouse
+2022-01-22,F2,France-L2,2122,Bastia,Toulouse,0.0,0.0,D,0.0,0.0,D,3.5,3.1,2.05,3.74,3.36,2.08,3.55,3.29,2.07,2.05,1.75,2.03,1.76,0.25,2.1,1.77,Bastia,Toulouse,bastia,toulouse
+2022-02-12,F2,France-L2,2122,Valenciennes,Toulouse,1.0,3.0,A,0.0,1.0,A,4.33,3.5,1.75,4.7,3.56,1.81,4.35,3.54,1.81,1.88,1.98,1.86,1.92,0.5,2.05,1.75,Valenciennes,Toulouse,valenciennes,toulouse
+2022-02-28,F2,France-L2,2122,Grenoble,Toulouse,0.0,2.0,A,0.0,0.0,D,3.8,3.4,1.85,4.88,3.36,1.83,4.35,3.37,1.85,2.1,1.7,2.13,1.69,0.5,1.95,1.9,Grenoble,Toulouse,grenoble,toulouse
+2022-03-12,F2,France-L2,2122,Caen,Toulouse,4.0,1.0,H,2.0,0.0,H,4.0,3.25,1.95,4.29,3.09,2.04,3.88,3.19,2.02,2.2,1.65,2.22,1.64,0.5,1.8,2.05,Caen,Toulouse,caen,toulouse
+2022-03-19,F2,France-L2,2122,Auxerre,Toulouse,1.0,2.0,A,0.0,2.0,A,2.8,3.1,2.4,3.1,3.5,2.29,2.98,3.32,2.33,1.95,1.9,1.86,1.92,0.25,1.75,2.05,AJ Auxerre,Toulouse,aj_auxerre,toulouse
+2022-04-09,F2,France-L2,2122,Guingamp,Toulouse,2.0,4.0,A,2.0,2.0,D,3.6,3.3,1.95,4.2,3.28,1.99,3.8,3.33,1.99,2.02,1.83,2.06,1.74,0.5,1.83,2.02,Guingamp,Toulouse,guingamp,toulouse
+2022-04-19,F2,France-L2,2122,Sochaux,Toulouse,1.0,1.0,D,1.0,0.0,H,3.3,3.1,2.15,3.65,3.2,2.23,3.44,3.17,2.18,2.1,1.7,2.09,1.72,0.25,1.98,1.88,Sochaux,Toulouse,sochaux,toulouse
+2022-05-02,F2,France-L2,2122,Rodez,Toulouse,1.0,0.0,H,0.0,0.0,D,4.75,3.3,1.66,4.69,3.54,1.81,4.82,3.47,1.75,2.1,1.7,2.09,1.7,0.75,1.88,1.98,Rodez,Toulouse,rodez,toulouse
+2022-05-14,F2,France-L2,2122,Ajaccio,Toulouse,1.0,0.0,H,1.0,0.0,H,1.57,4.0,5.5,1.57,4.21,5.65,1.59,4.0,5.35,1.85,2.0,1.81,1.98,-1.0,2.05,1.8,Ajaccio,Toulouse,ajaccio,toulouse
+2022-08-14,F1,France-L1,2223,Troyes,Toulouse,0.0,3.0,A,0.0,1.0,A,2.7,3.2,2.7,2.75,3.42,2.73,2.67,3.3,2.7,2.1,1.72,2.1,1.74,0.0,1.95,1.95,Troyes,Toulouse,troyes,toulouse
+2022-08-28,F1,France-L1,2223,Nantes,Toulouse,3.0,1.0,H,0.0,1.0,A,2.37,3.3,3.0,2.44,3.38,3.16,2.4,3.35,3.02,1.94,1.96,1.91,1.91,-0.25,2.07,1.83,FC Nantes,Toulouse,fc_nantes,toulouse
+2022-09-04,F1,France-L1,2223,Clermont,Toulouse,2.0,0.0,H,0.0,0.0,D,2.8,3.5,2.4,3.12,3.3,2.51,2.94,3.33,2.45,1.95,1.95,1.92,1.89,0.25,1.79,2.11,Clermont Foot,Toulouse,clermont_foot,toulouse
+2022-09-17,F1,France-L1,2223,Lille,Toulouse,2.0,1.0,H,1.0,0.0,H,1.75,3.9,4.5,1.79,4.13,4.49,1.77,4.02,4.28,1.66,2.2,1.65,2.24,-0.75,1.99,1.91,Lille,Toulouse,lille,toulouse
+2022-10-07,F1,France-L1,2223,Lyon,Toulouse,1.0,1.0,D,1.0,0.0,H,1.45,5.0,6.0,1.51,4.96,6.13,1.49,4.83,5.96,1.4,3.0,1.43,2.84,-1.25,2.0,1.9,Olympique Lyonnais,Toulouse,olympique_lyonnais,toulouse
+2022-10-28,F1,France-L1,2223,Lens,Toulouse,3.0,0.0,H,0.0,0.0,D,1.55,4.5,5.5,1.58,4.6,5.73,1.57,4.39,5.44,1.57,2.37,1.61,2.33,-1.0,1.95,1.95,RC Lens,Toulouse,rc_lens,toulouse
+2022-11-12,F1,France-L1,2223,Rennes,Toulouse,2.0,1.0,H,1.0,0.0,H,1.5,4.5,6.0,1.54,4.73,6.1,1.52,4.56,5.9,1.61,2.3,1.6,2.33,-1.0,1.88,2.02,Stade Rennais,Toulouse,stade_rennais,toulouse
+2022-12-29,F1,France-L1,2223,Marseille,Toulouse,6.0,1.0,H,2.0,0.0,H,1.5,4.5,6.0,1.54,4.65,6.19,1.51,4.57,6.1,1.62,2.3,1.65,2.27,-1.0,1.84,2.06,Olympique Marseille,Toulouse,olympique_marseille,toulouse
+2023-01-11,F1,France-L1,2223,Auxerre,Toulouse,0.0,5.0,A,0.0,3.0,A,2.75,3.3,2.6,2.83,3.41,2.66,2.73,3.4,2.6,1.9,2.0,1.87,1.95,0.0,2.0,1.9,AJ Auxerre,Toulouse,aj_auxerre,toulouse
+2023-01-29,F1,France-L1,2223,Strasbourg,Toulouse,1.0,2.0,A,1.0,1.0,D,2.3,3.5,3.1,2.39,3.49,3.17,2.34,3.46,3.04,1.73,2.1,1.77,2.06,-0.25,2.05,1.85,RC Strasbourg,Toulouse,rc_strasbourg,toulouse
+2023-02-04,F1,France-L1,2223,Paris SG,Toulouse,2.0,1.0,H,1.0,1.0,D,1.36,5.25,7.5,1.38,5.63,7.98,1.37,5.41,7.45,1.44,2.75,1.45,2.75,-1.5,2.05,1.88,Paris Saint-Germain,Toulouse,paris_saint_germain,toulouse
+2023-02-26,F1,France-L1,2223,Reims,Toulouse,3.0,0.0,H,2.0,0.0,H,2.1,3.5,3.5,2.16,3.53,3.62,2.12,3.52,3.44,1.73,2.1,1.72,2.14,-0.25,1.75,2.05,Stade de Reims,Toulouse,stade_de_reims,toulouse
+2023-03-12,F1,France-L1,2223,Angers,Toulouse,0.0,2.0,A,0.0,1.0,A,3.8,3.6,1.95,3.8,3.75,2.01,3.61,3.68,1.99,1.73,2.1,1.74,2.11,0.5,1.92,2.01,Angers,Toulouse,angers,toulouse
+2023-04-02,F1,France-L1,2223,Brest,Toulouse,3.0,1.0,H,1.0,1.0,D,2.9,3.4,2.4,2.85,3.53,2.54,2.81,3.45,2.48,1.88,2.02,1.85,1.97,0.0,2.13,1.78,Stade Brestois,Toulouse,stade_brestois,toulouse
+2023-04-09,F1,France-L1,2223,Montpellier,Toulouse,1.0,2.0,A,0.0,1.0,A,2.05,3.6,3.5,2.07,3.86,3.48,2.06,3.69,3.39,1.8,2.0,1.77,2.05,-0.5,2.06,1.84,Montpellier,Toulouse,montpellier,toulouse
+2023-04-23,F1,France-L1,2223,Lorient,Toulouse,0.0,1.0,A,0.0,0.0,D,2.38,3.75,2.88,2.39,3.71,2.93,2.33,3.62,2.88,1.73,2.1,1.74,2.1,-0.25,2.06,1.84,Lorient,Toulouse,lorient,toulouse
+2023-05-07,F1,France-L1,2223,Ajaccio,Toulouse,0.0,0.0,D,0.0,0.0,D,3.4,3.5,2.1,3.55,3.45,2.19,3.43,3.37,2.17,2.1,1.73,2.14,1.72,0.25,2.01,1.89,Ajaccio,Toulouse,ajaccio,toulouse
+2023-05-21,F1,France-L1,2223,Nice,Toulouse,0.0,0.0,D,0.0,0.0,D,1.85,3.75,3.8,1.9,3.94,4.03,1.88,3.84,3.91,1.73,2.1,1.74,2.12,-0.5,1.89,2.01,OGC Nice,Toulouse,ogc_nice,toulouse
+2023-06-03,F1,France-L1,2223,Monaco,Toulouse,1.0,2.0,A,0.0,0.0,D,1.45,5.25,5.5,1.47,5.27,5.95,1.46,5.04,6.09,1.44,2.75,1.45,2.74,-1.25,1.99,1.91,AS Monaco,Toulouse,as_monaco,toulouse
+2023-08-13,F1,France-L1,2324,Nantes,Toulouse,1.0,2.0,A,1.0,0.0,H,2.5,3.4,2.75,2.66,3.36,2.82,2.57,3.38,2.74,2.03,1.87,1.98,1.85,0.0,1.88,2.02,FC Nantes,Toulouse,fc_nantes,toulouse
+2023-08-27,F1,France-L1,2324,Strasbourg,Toulouse,2.0,0.0,H,0.0,0.0,D,2.15,3.5,3.3,2.17,3.75,3.32,2.13,3.65,3.28,1.8,2.0,1.79,2.05,-0.25,1.9,2.0,RC Strasbourg,Toulouse,rc_strasbourg,toulouse
+2023-09-17,F1,France-L1,2324,Marseille,Toulouse,0.0,0.0,D,0.0,0.0,D,1.5,4.75,6.0,1.5,4.87,6.33,1.48,4.72,6.24,1.57,2.38,1.55,2.46,-1.25,2.04,1.86,Olympique Marseille,Toulouse,olympique_marseille,toulouse
+2023-09-24,F1,France-L1,2324,Lens,Toulouse,2.0,1.0,H,1.0,1.0,D,1.73,3.8,5.0,1.72,4.05,4.93,1.7,3.97,4.75,1.73,2.1,1.75,2.1,-0.75,1.92,1.98,RC Lens,Toulouse,rc_lens,toulouse
+2023-10-08,F1,France-L1,2324,Brest,Toulouse,1.0,1.0,D,0.0,1.0,A,1.8,3.8,4.33,1.85,3.74,4.54,1.82,3.71,4.39,2.01,1.89,1.94,1.87,-0.75,2.06,1.84,Stade Brestois,Toulouse,stade_brestois,toulouse
+2023-10-29,F1,France-L1,2324,Montpellier,Toulouse,3.0,0.0,H,1.0,0.0,H,1.75,4.0,4.5,1.8,3.95,4.53,1.77,3.92,4.47,1.73,2.08,1.75,2.1,-0.75,2.02,1.91,Montpellier,Toulouse,montpellier,toulouse
+2023-11-12,F1,France-L1,2324,Lille,Toulouse,1.0,1.0,D,1.0,0.0,H,1.55,4.2,6.0,1.59,4.33,5.62,1.57,4.31,5.67,1.75,2.05,1.76,2.08,-1.0,2.02,1.88,Lille,Toulouse,lille,toulouse
+2023-11-26,F1,France-L1,2324,Nice,Toulouse,1.0,0.0,H,0.0,0.0,D,1.5,4.0,7.5,1.52,4.18,7.02,1.51,4.15,6.93,2.08,1.82,2.02,1.82,-1.0,1.92,2.01,OGC Nice,Toulouse,ogc_nice,toulouse
+2023-12-10,F1,France-L1,2324,Lyon,Toulouse,3.0,0.0,H,2.0,0.0,H,2.0,3.5,3.8,2.0,3.7,3.81,1.98,3.67,3.69,1.75,2.05,1.77,2.07,-0.5,2.02,1.88,Olympique Lyonnais,Toulouse,olympique_lyonnais,toulouse
+2024-01-14,F1,France-L1,2324,Metz,Toulouse,0.0,1.0,A,0.0,1.0,A,2.9,3.2,2.45,3.16,3.02,2.59,3.04,3.14,2.51,2.3,1.6,2.28,1.64,0.25,1.73,2.08,Metz,Toulouse,metz,toulouse
+2024-02-04,F1,France-L1,2324,Reims,Toulouse,2.0,3.0,A,0.0,3.0,A,1.75,3.5,4.75,1.8,3.73,4.69,1.78,3.72,4.55,1.98,1.92,1.92,1.9,-0.75,2.06,1.87,Stade de Reims,Toulouse,stade_de_reims,toulouse
+2024-02-18,F1,France-L1,2324,Monaco,Toulouse,1.0,2.0,A,0.0,1.0,A,1.5,4.33,6.5,1.52,4.67,6.01,1.51,4.55,5.93,1.6,2.3,1.59,2.37,-1.0,1.86,2.04,AS Monaco,Toulouse,as_monaco,toulouse
+2024-03-10,F1,France-L1,2324,Le Havre,Toulouse,1.0,0.0,H,0.0,0.0,D,2.8,3.1,2.63,2.8,3.21,2.74,2.77,3.22,2.65,2.15,1.67,2.18,1.69,0.0,2.01,1.92,Le Havre,Toulouse,le_havre,toulouse
+2024-03-31,F1,France-L1,2324,Clermont,Toulouse,0.0,3.0,A,0.0,1.0,A,3.1,3.4,2.3,3.22,3.33,2.37,3.11,3.32,2.34,2.07,1.83,2.01,1.82,0.25,1.88,2.02,Clermont Foot,Toulouse,clermont_foot,toulouse
+2024-04-13,F1,France-L1,2324,Rennes,Toulouse,1.0,2.0,A,1.0,2.0,A,1.8,3.6,4.33,1.81,3.79,4.59,1.83,3.73,4.35,1.92,1.98,1.88,1.95,-0.5,1.83,2.07,Stade Rennais,Toulouse,stade_rennais,toulouse
+2024-04-28,F1,France-L1,2324,Lorient,Toulouse,1.0,2.0,A,1.0,0.0,H,2.6,3.4,2.63,2.69,3.41,2.72,2.66,3.36,2.67,2.04,1.86,2.0,1.83,0.0,1.92,1.98,Lorient,Toulouse,lorient,toulouse
+2024-05-12,F1,France-L1,2324,Paris SG,Toulouse,1.0,3.0,A,1.0,1.0,D,1.4,6.0,5.75,1.38,5.96,6.92,1.39,5.52,6.8,1.4,3.0,1.4,2.96,-1.5,2.03,1.87,Paris Saint-Germain,Toulouse,paris_saint_germain,toulouse
+2024-08-25,F1,France-L1,2425,Nice,Toulouse,1.0,1.0,D,0.0,0.0,D,1.85,3.4,4.5,1.88,3.53,4.57,1.85,3.56,4.37,2.05,1.85,2.01,1.82,-0.5,1.87,2.03,OGC Nice,Toulouse,ogc_nice,toulouse
+2024-09-22,F1,France-L1,2425,Brest,Toulouse,2.0,0.0,H,1.0,0.0,H,2.15,3.5,3.4,2.16,3.57,3.44,2.14,3.51,3.38,2.0,1.9,1.96,1.87,-0.25,1.87,2.06,Stade Brestois,Toulouse,stade_brestois,toulouse
+2024-10-05,F1,France-L1,2425,Lille,Toulouse,2.0,1.0,H,0.0,1.0,A,1.73,4.1,4.5,1.75,4.02,4.64,1.75,3.96,4.55,1.84,2.06,1.83,2.02,-0.75,1.97,1.93,Lille,Toulouse,lille,toulouse
+2024-10-27,F1,France-L1,2425,Montpellier,Toulouse,0.0,3.0,A,0.0,3.0,A,3.1,3.6,2.2,3.23,3.68,2.21,3.15,3.61,2.2,1.73,2.1,1.74,2.12,0.25,1.95,1.95,Montpellier,Toulouse,montpellier,toulouse
+2024-11-10,F1,France-L1,2425,Rennes,Toulouse,0.0,2.0,A,0.0,2.0,A,2.15,3.4,3.4,2.24,3.37,3.44,2.18,3.38,3.4,2.0,1.8,2.05,1.79,-0.25,1.9,2.0,Stade Rennais,Toulouse,stade_rennais,toulouse
+2024-11-22,F1,France-L1,2425,Paris SG,Toulouse,3.0,0.0,H,1.0,0.0,H,1.36,5.5,7.0,1.37,5.48,8.39,1.36,5.4,7.89,1.5,2.63,1.48,2.63,-1.5,2.03,1.87,Paris Saint-Germain,Toulouse,paris_saint_germain,toulouse
+2024-12-07,F1,France-L1,2425,Monaco,Toulouse,2.0,0.0,H,0.0,0.0,D,1.7,3.8,5.0,1.71,4.05,4.84,1.71,3.97,4.76,1.73,2.1,1.7,2.17,-0.75,1.92,1.98,AS Monaco,Toulouse,as_monaco,toulouse
+2025-01-05,F1,France-L1,2425,Lens,Toulouse,0.0,1.0,A,0.0,0.0,D,1.91,3.4,4.33,1.98,3.59,3.99,1.94,3.48,4.0,2.06,1.84,2.01,1.8,-0.5,1.98,1.92,RC Lens,Toulouse,rc_lens,toulouse
+2025-01-18,F1,France-L1,2425,Lyon,Toulouse,0.0,0.0,D,0.0,0.0,D,1.85,3.9,4.0,1.88,3.93,4.02,1.85,3.85,3.96,1.73,2.1,1.69,2.15,-0.5,1.87,2.03,Olympique Lyonnais,Toulouse,olympique_lyonnais,toulouse
+2025-02-09,F1,France-L1,2425,Auxerre,Toulouse,2.0,2.0,D,0.0,0.0,D,3.0,3.4,2.35,3.09,3.42,2.4,3.04,3.38,2.33,2.01,1.89,1.97,1.85,0.25,1.83,2.07,AJ Auxerre,Toulouse,aj_auxerre,toulouse
+2025-02-23,F1,France-L1,2425,Le Havre,Toulouse,1.0,4.0,A,0.0,1.0,A,4.0,3.4,1.95,4.02,3.49,2.0,3.91,3.46,1.97,2.1,1.73,2.08,1.77,0.5,1.91,1.99,Le Havre,Toulouse,le_havre,toulouse
+2025-03-02,F1,France-L1,2425,Angers,Toulouse,0.0,4.0,A,0.0,0.0,D,3.3,3.1,2.35,3.3,3.28,2.35,3.24,3.21,2.32,2.3,1.62,2.3,1.63,0.25,1.9,2.03,Angers,Toulouse,angers,toulouse
+2025-03-16,F1,France-L1,2425,Strasbourg,Toulouse,2.0,1.0,H,0.0,1.0,A,2.25,3.25,3.25,2.34,3.43,3.17,2.31,3.34,3.14,2.05,1.68,2.08,1.76,-0.25,2.0,1.9,RC Strasbourg,Toulouse,rc_strasbourg,toulouse
+2025-04-06,F1,France-L1,2425,Marseille,Toulouse,3.0,2.0,H,1.0,1.0,D,1.75,3.8,4.5,1.77,3.91,4.65,1.76,3.82,4.47,1.85,2.05,1.82,2.01,-0.75,2.01,1.89,Olympique Marseille,Toulouse,olympique_marseille,toulouse
+2025-04-20,F1,France-L1,2425,Reims,Toulouse,1.0,0.0,H,1.0,0.0,H,3.3,3.25,2.25,3.35,3.32,2.3,3.24,3.3,2.25,2.06,1.84,2.02,1.81,0.25,1.91,1.99,Stade de Reims,Toulouse,stade_de_reims,toulouse
+2025-04-27,F1,France-L1,2425,Nantes,Toulouse,0.0,0.0,D,0.0,0.0,D,2.88,3.25,2.45,2.97,3.29,2.55,2.94,3.27,2.45,2.05,1.85,2.0,1.82,0.0,2.09,1.81,FC Nantes,Toulouse,fc_nantes,toulouse
+2025-05-17,F1,France-L1,2425,St Etienne,Toulouse,2.0,3.0,A,1.0,2.0,A,1.95,4.2,3.25,1.99,4.09,3.28,2.03,4.06,3.18,1.53,2.5,1.5,2.51,-0.5,2.0,1.85,Saint-Etienne,Toulouse,saint_etienne,toulouse
+2025-08-16,F1,France-L1,2526,Nice,Toulouse,0.0,1.0,A,0.0,0.0,D,2.1,3.3,3.6,2.12,3.45,3.69,2.08,3.34,3.47,2.0,1.85,1.98,1.78,-0.25,1.8,2.05,OGC Nice,Toulouse,ogc_nice,toulouse
+2025-09-14,F1,France-L1,2526,Lille,Toulouse,2.0,1.0,H,0.0,0.0,D,1.75,3.8,4.5,1.78,4.01,4.43,1.76,3.81,4.25,1.8,2.0,1.78,1.98,-0.75,2.0,1.85,Lille,Toulouse,lille,toulouse
+2025-09-21,F1,France-L1,2526,Auxerre,Toulouse,1.0,0.0,H,1.0,0.0,H,2.75,3.2,2.7,2.79,3.27,2.72,2.63,3.26,2.63,2.05,1.8,1.98,1.77,0.0,1.98,1.88,AJ Auxerre,Toulouse,aj_auxerre,toulouse
+2025-10-05,F1,France-L1,2526,Lyon,Toulouse,1.0,2.0,A,1.0,0.0,H,1.9,3.7,4.0,1.95,3.81,3.83,1.89,3.63,3.86,1.8,2.0,1.77,1.99,-0.5,1.93,1.93,Olympique Lyonnais,Toulouse,olympique_lyonnais,toulouse
+2025-10-25,F1,France-L1,2526,Monaco,Toulouse,1.0,0.0,H,1.0,0.0,H,1.83,3.9,4.0,1.87,4.03,3.96,1.8,3.86,3.91,1.62,2.3,1.6,2.26,-0.5,1.83,2.03,AS Monaco,Toulouse,as_monaco,toulouse
+2025-11-09,F1,France-L1,2526,Lorient,Toulouse,1.0,1.0,D,1.0,0.0,H,3.0,3.3,2.4,2.99,3.32,2.51,2.96,3.26,2.38,2.1,1.73,2.04,1.73,0.25,1.78,2.1,Lorient,Toulouse,lorient,toulouse
+2025-11-29,F1,France-L1,2526,Marseille,Toulouse,2.0,2.0,D,0.0,1.0,A,1.6,3.9,6.0,1.62,4.17,5.51,1.59,4.01,5.38,1.8,2.0,1.78,1.96,-1.0,2.03,1.83,Olympique Marseille,Toulouse,olympique_marseille,toulouse
+2025-12-13,F1,France-L1,2526,Paris FC,Toulouse,0.0,3.0,A,0.0,2.0,A,2.4,3.4,2.88,2.48,3.31,3.05,2.39,3.3,2.91,2.03,1.83,1.94,1.8,-0.25,2.1,1.78,Paris FC,Toulouse,paris_fc,toulouse
+2026-01-25,F1,France-L1,2526,Brest,Toulouse,0.0,2.0,A,0.0,2.0,A,2.8,3.1,2.7,,,,2.73,3.03,2.69,2.1,1.73,2.09,1.69,0.0,1.95,1.9,Stade Brestois,Toulouse,stade_brestois,toulouse
+2026-02-08,F1,France-L1,2526,Angers,Toulouse,1.0,0.0,H,0.0,0.0,D,3.4,3.2,2.25,,,,3.43,3.1,2.21,2.38,1.57,2.34,1.55,0.25,1.93,1.93,Angers,Toulouse,angers,toulouse
+2026-02-15,F1,France-L1,2526,Le Havre,Toulouse,2.0,1.0,H,1.0,1.0,D,3.4,3.1,2.3,,,,3.28,3.15,2.25,2.2,1.67,2.19,1.64,0.25,1.88,1.98,Le Havre,Toulouse,le_havre,toulouse
+2026-02-28,F1,France-L1,2526,Rennes,Toulouse,1.0,0.0,H,1.0,0.0,H,1.95,3.5,3.7,,,,1.98,3.45,3.64,1.88,1.98,1.83,1.9,-0.5,1.98,1.88,Stade Rennais,Toulouse,stade_rennais,toulouse
+2026-03-15,F1,France-L1,2526,Metz,Toulouse,3.0,4.0,A,2.0,3.0,A,4.0,3.4,1.95,,,,3.84,3.3,1.97,2.2,1.67,2.13,1.66,0.5,1.88,1.98,Metz,Toulouse,metz,toulouse
+2026-04-03,F1,France-L1,2526,Paris SG,Toulouse,3.0,1.0,H,2.0,1.0,H,1.25,6.25,11.0,,,,1.24,6.17,10.65,1.44,2.75,1.42,2.74,-1.75,1.88,1.98,Paris Saint-Germain,Toulouse,paris_saint_germain,toulouse
+2026-04-17,F1,France-L1,2526,Lens,Toulouse,3.0,2.0,H,0.0,2.0,A,1.5,4.5,5.75,,,,1.48,4.4,6.18,1.67,2.2,1.65,2.17,-1.0,1.8,2.05,RC Lens,Toulouse,rc_lens,toulouse
+2026-05-03,F1,France-L1,2526,Strasbourg,Toulouse,1.0,2.0,A,1.0,1.0,D,2.63,3.5,2.6,,,,2.56,3.48,2.54,1.83,2.03,1.78,1.96,0.0,1.95,1.9,RC Strasbourg,Toulouse,rc_strasbourg,toulouse
+2026-05-17,F1,France-L1,2526,Nantes,Toulouse,0.0,0.0,D,0.0,0.0,D,2.5,3.5,2.5,,,,2.52,3.51,2.55,1.73,2.1,1.72,2.03,0.0,1.93,1.93,FC Nantes,Toulouse,fc_nantes,toulouse
+2026-08-29,F1,France-L1,2627,Brest,Toulouse,2.0,2.0,D,1.0,1.0,D,2.63,3.4,2.63,,,,2.62,3.32,2.61,2.0,1.85,1.94,1.8,0.0,1.93,1.93,Stade Brestois,Toulouse,stade_brestois,toulouse
+2026-09-12,F1,France-L1,2627,Lorient,Toulouse,2.0,2.0,D,2.0,0.0,H,2.63,3.25,2.75,,,,2.56,3.3,2.68,1.98,1.88,1.9,1.84,0.0,1.88,1.98,Lorient,Toulouse,lorient,toulouse
+2026-10-10,F1,France-L1,2627,Monaco,Toulouse,2.0,2.0,D,2.0,0.0,H,1.6,4.1,5.5,,,,1.59,4.22,5.03,1.57,2.38,1.55,2.34,-1.0,2.0,1.85,AS Monaco,Toulouse,as_monaco,toulouse
+2026-10-16,F1,France-L1,2627,Le Mans,Toulouse,0.0,3.0,A,0.0,0.0,D,3.0,3.5,2.3,,,,2.9,3.51,2.31,1.67,2.2,1.64,2.17,0.25,1.83,2.03,Le Mans,Toulouse,le_mans,toulouse

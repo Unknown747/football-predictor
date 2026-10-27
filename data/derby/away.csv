@@ -1,0 +1,121 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E1,England-Champ,2122,Peterboro,Derby,2.0,1.0,H,0.0,0.0,D,2.15,3.3,3.5,2.23,3.35,3.48,2.21,3.28,3.41,2.2,1.66,2.18,1.69,-0.25,1.94,1.99,Peterborough United,Derby,peterborough_united,derby
+2021-08-18,E1,England-Champ,2122,Hull,Derby,0.0,1.0,A,0.0,0.0,D,1.8,3.75,4.5,1.87,3.63,4.46,1.87,3.55,4.23,2.1,1.72,2.08,1.74,-0.5,1.87,2.06,Hull City,Derby,hull_city,derby
+2021-09-10,E1,England-Champ,2122,Birmingham,Derby,2.0,0.0,H,1.0,0.0,H,1.85,3.3,4.75,1.91,3.27,4.99,1.89,3.29,4.63,2.37,1.57,2.36,1.59,-0.5,1.89,2.01,Birmingham,Derby,birmingham,derby
+2021-09-14,E1,England-Champ,2122,West Brom,Derby,0.0,0.0,D,0.0,0.0,D,1.53,3.9,6.5,1.55,4.15,6.85,1.54,4.08,6.41,1.9,1.9,1.87,1.94,-1.0,1.94,1.96,West Bromwich Albion,Derby,west_bromwich_albion,derby
+2021-09-25,E1,England-Champ,2122,Sheffield United,Derby,1.0,0.0,H,0.0,0.0,D,1.61,3.75,6.0,1.65,3.73,6.43,1.64,3.72,5.94,2.1,1.72,2.1,1.75,-0.75,1.83,2.07,Sheffield United,Derby,sheffield_united,derby
+2021-10-16,E1,England-Champ,2122,Preston,Derby,0.0,0.0,D,0.0,0.0,D,2.0,3.2,4.2,2.07,3.19,4.28,2.06,3.18,3.97,2.3,1.61,2.34,1.59,-0.5,2.07,1.83,Preston,Derby,preston,derby
+2021-10-23,E1,England-Champ,2122,Coventry,Derby,1.0,1.0,D,1.0,0.0,H,1.85,3.4,4.33,1.95,3.36,4.58,1.94,3.31,4.27,2.1,1.72,2.14,1.7,-0.5,1.97,1.93,Coventry,Derby,coventry,derby
+2021-11-03,E1,England-Champ,2122,Barnsley,Derby,2.0,1.0,H,1.0,1.0,D,2.2,3.2,3.5,2.33,3.24,3.46,2.27,3.17,3.35,2.3,1.61,2.32,1.61,-0.25,1.96,1.94,Barnsley,Derby,barnsley,derby
+2021-11-06,E1,England-Champ,2122,Millwall,Derby,1.0,1.0,D,1.0,1.0,D,1.83,3.4,4.75,1.9,3.43,4.74,1.87,3.34,4.61,2.37,1.57,2.36,1.59,-0.5,1.89,2.01,Millwall,Derby,millwall,derby
+2021-11-24,E1,England-Champ,2122,Fulham,Derby,0.0,0.0,D,0.0,0.0,D,1.28,5.5,10.0,1.32,5.44,11.14,1.3,5.36,10.29,1.72,2.1,1.7,2.16,-1.5,1.95,1.95,Fulham,Derby,fulham,derby
+2021-12-04,E1,England-Champ,2122,Bristol City,Derby,1.0,0.0,H,1.0,0.0,H,2.5,3.2,2.9,2.57,3.23,3.03,2.5,3.19,2.97,2.2,1.66,2.22,1.66,-0.25,2.1,1.7,Bristol City,Derby,bristol_city,derby
+2021-12-30,E1,England-Champ,2122,Stoke,Derby,1.0,2.0,A,0.0,1.0,A,1.66,3.75,5.5,1.75,3.62,5.52,1.72,3.54,5.22,2.2,1.66,2.23,1.65,-0.75,1.96,1.94,Stoke City,Derby,stoke_city,derby
+2022-01-03,E1,England-Champ,2122,Reading,Derby,2.0,2.0,D,1.0,0.0,H,2.2,3.4,3.25,2.29,3.24,3.48,2.24,3.23,3.34,2.3,1.61,2.24,1.65,-0.25,1.95,1.95,Reading,Derby,reading,derby
+2022-01-22,E1,England-Champ,2122,Nott'm Forest,Derby,2.0,1.0,H,0.0,0.0,D,1.95,3.2,4.5,2.0,3.36,4.35,1.98,3.29,4.04,2.37,1.57,2.38,1.57,-0.5,1.99,1.91,Nottingham Forest,Derby,nottingham_forest,derby
+2022-02-02,E1,England-Champ,2122,Huddersfield,Derby,2.0,0.0,H,0.0,0.0,D,2.05,3.3,3.8,2.11,3.29,4.0,2.07,3.28,3.77,2.3,1.61,2.26,1.64,-0.5,2.09,1.81,Huddersfield,Derby,huddersfield,derby
+2022-02-12,E1,England-Champ,2122,Middlesbrough,Derby,4.0,1.0,H,3.0,1.0,H,1.61,3.8,5.75,1.63,3.89,6.3,1.64,3.76,5.68,2.1,1.72,2.15,1.7,-0.75,1.83,2.07,Middlesbrough,Derby,middlesbrough,derby
+2022-02-26,E1,England-Champ,2122,Luton,Derby,1.0,0.0,H,0.0,0.0,D,1.83,3.5,4.5,1.88,3.46,4.77,1.87,3.36,4.55,2.2,1.66,2.38,1.58,-0.5,1.9,2.0,Luton,Derby,luton,derby
+2022-03-01,E1,England-Champ,2122,Cardiff,Derby,1.0,0.0,H,0.0,0.0,D,2.0,3.3,4.0,2.03,3.24,4.42,2.01,3.19,4.21,2.37,1.57,2.52,1.52,-0.5,2.06,1.84,Cardiff City,Derby,cardiff_city,derby
+2022-03-12,E1,England-Champ,2122,Bournemouth,Derby,2.0,0.0,H,1.0,0.0,H,1.6,3.8,6.0,1.6,3.87,6.76,1.58,3.84,6.24,2.1,1.72,2.12,1.72,-1.0,2.04,1.86,Bournemouth,Derby,bournemouth,derby
+2022-03-15,E1,England-Champ,2122,Blackburn,Derby,3.0,1.0,H,0.0,1.0,A,1.83,3.3,4.75,1.83,3.34,5.45,1.83,3.25,5.07,2.5,1.53,2.5,1.53,-0.75,2.02,1.77,Blackburn,Derby,blackburn,derby
+2022-04-09,E1,England-Champ,2122,Swansea,Derby,2.0,1.0,H,2.0,1.0,H,2.1,3.3,3.75,2.13,3.39,3.78,2.1,3.35,3.6,2.2,1.66,2.28,1.62,-0.5,2.05,1.75,Swansea City,Derby,swansea_city,derby
+2022-04-18,E1,England-Champ,2122,QPR,Derby,1.0,0.0,H,0.0,0.0,D,2.2,3.25,3.4,2.32,3.33,3.38,2.25,3.3,3.28,2.1,1.72,2.12,1.72,-0.25,1.93,1.97,Queens Park Rangers,Derby,queens_park_rangers,derby
+2022-04-30,E1,England-Champ,2122,Blackpool,Derby,0.0,2.0,A,0.0,0.0,D,1.9,3.6,4.0,1.87,3.81,4.3,1.88,3.62,4.11,1.98,1.88,1.95,1.86,-0.5,1.88,2.02,Blackpool,Derby,blackpool,derby
+2022-08-06,E2,England-L1,2223,Charlton,Derby,1.0,0.0,H,0.0,0.0,D,2.75,3.2,2.62,2.72,3.27,2.78,2.69,3.19,2.64,2.1,1.7,2.12,1.69,0.0,1.95,1.9,Charlton,Derby,charlton,derby
+2022-08-16,E2,England-L1,2223,Shrewsbury,Derby,0.0,0.0,D,0.0,0.0,D,3.3,3.2,2.25,3.47,3.19,2.32,3.33,3.12,2.27,2.35,1.57,2.33,1.58,0.25,1.88,1.98,Shrewsbury Town,Derby,shrewsbury_town,derby
+2022-08-20,E2,England-L1,2223,Fleetwood Town,Derby,0.0,0.0,D,0.0,0.0,D,3.6,3.3,2.1,3.88,3.45,2.05,3.65,3.36,2.03,2.07,1.72,2.07,1.73,0.25,2.05,1.8,Fleetwood Town,Derby,fleetwood_town,derby
+2022-09-13,E2,England-L1,2223,Lincoln,Derby,2.0,0.0,H,1.0,0.0,H,4.5,3.5,1.83,4.71,3.5,1.86,4.2,3.43,1.87,2.15,1.66,2.15,1.68,0.5,2.02,1.83,Lincoln City,Derby,lincoln_city,derby
+2022-10-01,E2,England-L1,2223,Cambridge,Derby,0.0,2.0,A,0.0,1.0,A,3.5,3.4,2.15,3.46,3.55,2.19,3.34,3.39,2.12,2.02,1.83,1.99,1.79,0.25,2.0,1.85,Cambridge United,Derby,cambridge_united,derby
+2022-10-15,E2,England-L1,2223,Accrington,Derby,0.0,3.0,A,0.0,2.0,A,3.1,3.5,2.25,3.23,3.57,2.25,3.14,3.47,2.19,1.9,1.95,1.87,1.91,0.25,1.9,1.95,Accrington Stanley,Derby,accrington_stanley,derby
+2022-10-21,E2,England-L1,2223,Ipswich,Derby,1.0,0.0,H,0.0,0.0,D,1.75,3.75,4.5,1.76,3.7,5.04,1.75,3.6,4.66,2.05,1.75,2.04,1.76,-0.75,1.98,1.88,Ipswich,Derby,ipswich,derby
+2022-11-01,E2,England-L1,2223,Morecambe,Derby,1.0,1.0,D,1.0,0.0,H,4.5,3.4,1.8,4.45,3.64,1.87,4.29,3.56,1.82,1.98,1.88,1.93,1.84,0.5,2.0,1.85,Morecambe,Derby,morecambe,derby
+2022-11-12,E2,England-L1,2223,Milton Keynes Dons,Derby,1.0,3.0,A,1.0,1.0,D,3.8,3.5,2.0,3.66,3.66,2.05,3.56,3.47,2.02,1.98,1.88,1.93,1.83,0.5,1.85,2.0,MK Dons,Derby,mk_dons,derby
+2022-11-18,E2,England-L1,2223,Portsmouth,Derby,0.0,0.0,D,0.0,0.0,D,2.37,3.4,2.9,2.42,3.49,3.0,2.37,3.36,2.91,1.95,1.9,1.92,1.85,-0.25,2.1,1.77,Portsmouth,Derby,portsmouth,derby
+2022-12-10,E2,England-L1,2223,Burton,Derby,1.0,1.0,D,0.0,1.0,A,3.3,3.3,2.25,3.28,3.53,2.24,3.15,3.39,2.2,2.0,1.85,1.92,1.84,0.25,1.93,1.93,Burton Albion,Derby,burton_albion,derby
+2022-12-27,E2,England-L1,2223,Bolton,Derby,0.0,0.0,D,0.0,0.0,D,2.4,3.4,2.9,2.41,3.38,3.0,2.36,3.31,2.91,2.02,1.83,1.99,1.78,-0.25,2.1,1.77,Bolton,Derby,bolton,derby
+2023-01-14,E2,England-L1,2223,Cheltenham,Derby,2.0,3.0,A,1.0,2.0,A,4.75,3.75,1.75,4.71,3.58,1.8,4.48,3.57,1.78,2.05,1.8,2.01,1.78,0.75,1.8,2.0,Cheltenham Town,Derby,cheltenham_town,derby
+2023-01-24,E2,England-L1,2223,Port Vale,Derby,1.0,2.0,A,0.0,0.0,D,3.8,3.4,2.0,3.95,3.31,2.09,3.73,3.25,2.05,2.25,1.62,2.25,1.62,0.5,1.8,2.05,Port Vale,Derby,port_vale,derby
+2023-02-11,E2,England-L1,2223,Wycombe,Derby,3.0,2.0,H,1.0,0.0,H,3.3,3.5,2.15,3.51,3.51,2.15,3.33,3.43,2.11,1.98,1.88,1.95,1.83,0.25,2.0,1.85,Wycombe Wanderers,Derby,wycombe_wanderers,derby
+2023-02-25,E2,England-L1,2223,Barnsley,Derby,4.0,1.0,H,3.0,1.0,H,3.0,3.3,2.4,2.94,3.36,2.53,2.84,3.27,2.46,2.08,1.73,2.1,1.7,0.0,2.08,1.73,Barnsley,Derby,barnsley,derby
+2023-03-07,E2,England-L1,2223,Plymouth,Derby,2.0,1.0,H,0.0,1.0,A,2.6,3.6,2.55,2.7,3.49,2.66,2.6,3.42,2.58,1.95,1.9,1.91,1.87,0.0,1.93,1.93,Plymouth Argyle,Derby,plymouth_argyle,derby
+2023-03-11,E2,England-L1,2223,Oxford,Derby,2.0,3.0,A,1.0,2.0,A,3.6,3.5,2.0,3.72,3.6,2.05,3.57,3.48,2.01,1.98,1.88,1.93,1.83,0.5,1.83,2.02,Oxford United,Derby,oxford_united,derby
+2023-03-25,E2,England-L1,2223,Peterboro,Derby,2.0,0.0,H,0.0,0.0,D,2.55,3.5,2.63,2.65,3.38,2.78,2.59,3.36,2.64,1.93,1.93,1.89,1.88,0.0,1.93,1.93,Peterborough United,Derby,peterborough_united,derby
+2023-04-07,E2,England-L1,2223,Forest Green,Derby,0.0,2.0,A,0.0,1.0,A,5.75,4.0,1.6,5.99,3.97,1.62,5.7,3.86,1.59,2.05,1.75,2.0,1.78,1.0,1.77,2.02,Forest Green Rovers,Derby,forest_green_rovers,derby
+2023-04-15,E2,England-L1,2223,Bristol Rvs,Derby,1.0,1.0,D,0.0,1.0,A,4.33,3.6,1.83,4.4,3.68,1.86,4.15,3.6,1.84,1.95,1.9,1.89,1.87,0.5,2.0,1.8,Bristol Rvs,Derby,bristol_rvs,derby
+2023-04-18,E2,England-L1,2223,Exeter,Derby,1.0,2.0,A,0.0,0.0,D,3.4,3.3,2.2,3.39,3.4,2.25,3.29,3.31,2.2,2.05,1.8,2.02,1.77,0.25,1.95,1.9,Exeter City,Derby,exeter_city,derby
+2023-05-07,E2,England-L1,2223,Sheffield Weds,Derby,1.0,0.0,H,1.0,0.0,H,2.55,3.5,2.6,2.62,3.43,2.61,2.57,3.4,2.6,1.95,1.9,1.91,1.85,0.0,1.9,1.95,Sheffield Wednesday,Derby,sheffield_wednesday,derby
+2023-08-12,E2,England-L1,2324,Burton,Derby,0.0,3.0,A,0.0,1.0,A,4.33,3.6,1.85,4.22,3.84,1.85,4.02,3.63,1.85,1.93,1.93,1.89,1.88,0.5,2.0,1.85,Burton Albion,Derby,burton_albion,derby
+2023-08-26,E2,England-L1,2324,Peterboro,Derby,2.0,4.0,A,1.0,4.0,A,2.5,3.4,2.8,2.47,3.41,2.92,2.47,3.35,2.78,1.93,1.93,1.88,1.9,0.0,1.8,2.05,Peterborough United,Derby,peterborough_united,derby
+2023-09-02,E2,England-L1,2324,Bolton,Derby,2.0,1.0,H,1.0,1.0,D,2.2,3.4,3.3,2.2,3.49,3.42,2.15,3.38,3.31,2.0,1.85,1.96,1.81,-0.25,1.88,1.98,Bolton,Derby,bolton,derby
+2023-09-23,E2,England-L1,2324,Carlisle,Derby,0.0,2.0,A,0.0,1.0,A,3.4,3.6,2.1,3.43,3.54,2.14,3.31,3.5,2.09,1.93,1.93,1.84,1.91,0.25,2.0,1.85,Carlisle United,Derby,carlisle_united,derby
+2023-10-03,E2,England-L1,2324,Blackpool,Derby,1.0,3.0,A,0.0,0.0,D,2.3,3.25,3.2,2.35,3.38,3.2,2.28,3.31,3.09,2.05,1.8,1.99,1.79,-0.25,2.0,1.85,Blackpool,Derby,blackpool,derby
+2023-10-07,E2,England-L1,2324,Cheltenham,Derby,1.0,1.0,D,1.0,1.0,D,7.0,4.0,1.5,6.65,4.35,1.52,6.34,4.19,1.49,1.88,1.98,1.83,1.93,1.0,1.98,1.88,Cheltenham Town,Derby,cheltenham_town,derby
+2023-10-21,E2,England-L1,2324,Shrewsbury,Derby,1.0,0.0,H,0.0,0.0,D,4.33,3.4,1.85,4.44,3.6,1.88,4.07,3.47,1.87,2.05,1.8,1.99,1.77,0.5,1.98,1.88,Shrewsbury Town,Derby,shrewsbury_town,derby
+2023-10-28,E2,England-L1,2324,Stevenage,Derby,3.0,1.0,H,2.0,1.0,H,2.5,3.3,2.8,2.66,3.25,2.87,2.54,3.24,2.76,2.08,1.73,2.03,1.75,0.0,1.85,2.0,Stevenage,Derby,stevenage,derby
+2023-11-28,E2,England-L1,2324,Port Vale,Derby,0.0,1.0,A,0.0,0.0,D,3.75,3.6,1.95,3.81,3.58,2.03,3.56,3.46,2.02,2.0,1.85,1.95,1.82,0.25,2.05,1.75,Port Vale,Derby,port_vale,derby
+2023-12-09,E2,England-L1,2324,Leyton Orient,Derby,0.0,3.0,A,0.0,1.0,A,3.6,3.5,2.05,3.92,3.39,2.07,3.62,3.33,2.02,2.1,1.7,2.11,1.7,0.5,1.83,2.03,Leyton Orient,Derby,leyton_orient,derby
+2023-12-26,E2,England-L1,2324,Wigan,Derby,0.0,1.0,A,0.0,1.0,A,4.75,3.75,1.75,4.69,3.88,1.78,4.39,3.73,1.75,1.93,1.93,1.85,1.92,0.75,1.88,1.98,Wigan Athletic,Derby,wigan_athletic,derby
+2023-12-29,E2,England-L1,2324,Oxford,Derby,2.0,3.0,A,2.0,1.0,H,3.25,3.4,2.2,3.3,3.39,2.29,3.17,3.28,2.24,2.05,1.8,1.99,1.79,0.25,1.9,1.95,Oxford United,Derby,oxford_united,derby
+2024-01-06,E2,England-L1,2324,Fleetwood Town,Derby,1.0,3.0,A,0.0,2.0,A,5.5,4.0,1.6,5.58,4.24,1.61,5.33,4.03,1.58,1.8,2.0,1.78,1.99,1.0,1.83,2.03,Fleetwood Town,Derby,fleetwood_town,derby
+2024-01-20,E2,England-L1,2324,Lincoln,Derby,0.0,0.0,D,0.0,0.0,D,4.75,3.75,1.75,4.98,3.74,1.76,4.59,3.57,1.76,2.08,1.73,2.04,1.74,0.75,1.85,2.0,Lincoln City,Derby,lincoln_city,derby
+2024-01-23,E2,England-L1,2324,Reading,Derby,1.0,0.0,H,0.0,0.0,D,4.0,3.8,1.85,4.2,3.93,1.84,3.98,3.71,1.82,1.73,2.08,1.72,2.07,0.5,2.0,1.85,Reading,Derby,reading,derby
+2024-02-03,E2,England-L1,2324,Charlton,Derby,0.0,1.0,A,0.0,1.0,A,3.75,3.6,1.95,3.73,3.8,1.99,3.52,3.65,1.96,1.7,2.1,1.67,2.15,0.5,1.88,1.98,Charlton,Derby,charlton,derby
+2024-02-13,E2,England-L1,2324,Exeter,Derby,0.0,3.0,A,0.0,1.0,A,3.5,3.6,2.05,3.65,3.5,2.11,3.49,3.45,2.03,1.98,1.88,1.93,1.84,0.5,1.8,2.05,Exeter City,Derby,exeter_city,derby
+2024-02-24,E2,England-L1,2324,Barnsley,Derby,2.0,1.0,H,1.0,1.0,D,2.8,3.4,2.5,2.78,3.46,2.61,2.68,3.38,2.48,1.93,1.93,1.86,1.9,0.0,2.05,1.8,Barnsley,Derby,barnsley,derby
+2024-03-09,E2,England-L1,2324,Bristol Rvs,Derby,0.0,3.0,A,0.0,0.0,D,3.6,3.5,2.0,3.8,3.52,2.05,3.57,3.44,2.02,1.95,1.9,1.9,1.87,0.5,1.83,2.03,Bristol Rvs,Derby,bristol_rvs,derby
+2024-03-23,E2,England-L1,2324,Northampton,Derby,1.0,0.0,H,1.0,0.0,H,5.75,3.6,1.65,5.69,3.8,1.67,5.23,3.68,1.66,2.08,1.73,2.09,1.72,0.75,2.0,1.85,Northampton Town,Derby,northampton_town,derby
+2024-04-02,E2,England-L1,2324,Portsmouth,Derby,2.0,2.0,D,1.0,2.0,A,2.25,3.3,3.3,2.31,3.26,3.23,2.27,3.24,3.07,2.08,1.73,2.05,1.74,-0.25,1.98,1.88,Portsmouth,Derby,portsmouth,derby
+2024-04-10,E2,England-L1,2324,Wycombe,Derby,0.0,0.0,D,0.0,0.0,D,4.2,3.75,1.83,4.51,3.64,1.83,4.16,3.52,1.84,1.98,1.88,1.96,1.81,0.5,2.0,1.85,Wycombe Wanderers,Derby,wycombe_wanderers,derby
+2024-04-20,E2,England-L1,2324,Cambridge,Derby,0.0,1.0,A,0.0,1.0,A,5.5,4.0,1.55,5.88,3.99,1.61,5.58,3.97,1.57,1.9,1.95,1.86,1.9,1.0,1.83,2.03,Cambridge United,Derby,cambridge_united,derby
+2024-08-09,E1,England-Champ,2425,Blackburn,Derby,4.0,2.0,H,1.0,0.0,H,2.2,3.5,3.1,2.32,3.39,3.25,2.28,3.36,3.17,2.03,1.83,1.99,1.82,-0.25,2.01,1.89,Blackburn,Derby,blackburn,derby
+2024-08-24,E1,England-Champ,2425,Watford,Derby,2.0,1.0,H,1.0,1.0,D,1.85,3.5,4.1,1.87,3.7,4.06,1.87,3.61,4.03,1.88,1.98,1.86,1.93,-0.5,1.88,2.02,Watford,Derby,watford,derby
+2024-09-21,E1,England-Champ,2425,Sheffield United,Derby,1.0,0.0,H,0.0,0.0,D,1.57,4.1,5.5,1.58,4.34,5.12,1.58,4.26,5.4,1.8,2.0,1.79,2.03,-1.0,2.03,1.87,Sheffield United,Derby,sheffield_united,derby
+2024-10-01,E1,England-Champ,2425,Sunderland,Derby,2.0,0.0,H,1.0,0.0,H,1.67,3.9,4.75,1.7,3.85,5.32,1.69,3.81,5.03,2.03,1.83,2.0,1.81,-0.75,1.9,2.0,Sunderland,Derby,sunderland,derby
+2024-10-19,E1,England-Champ,2425,Millwall,Derby,1.0,1.0,D,0.0,0.0,D,1.95,3.2,4.1,2.05,3.36,3.76,2.03,3.32,3.84,2.3,1.62,2.28,1.62,-0.5,2.06,1.84,Millwall,Derby,millwall,derby
+2024-10-22,E1,England-Champ,2425,Oxford,Derby,1.0,1.0,D,1.0,0.0,H,2.55,3.25,2.75,2.61,3.3,2.88,2.58,3.25,2.8,2.1,1.73,2.12,1.72,0.0,1.85,2.05,Oxford United,Derby,oxford_united,derby
+2024-11-02,E1,England-Champ,2425,Stoke,Derby,2.0,1.0,H,1.0,0.0,H,2.2,3.4,3.25,2.24,3.36,3.26,2.22,3.38,3.25,2.03,1.83,1.99,1.82,-0.25,1.95,1.95,Stoke City,Derby,stoke_city,derby
+2024-11-06,E1,England-Champ,2425,Coventry,Derby,1.0,2.0,A,0.0,1.0,A,1.75,3.7,4.5,1.77,3.75,4.5,1.78,3.7,4.41,1.9,1.95,1.88,1.92,-0.75,2.03,1.87,Coventry,Derby,coventry,derby
+2024-11-23,E1,England-Champ,2425,Preston,Derby,1.0,1.0,D,1.0,1.0,D,2.2,3.2,3.4,2.18,3.36,3.41,2.21,3.27,3.36,2.2,1.67,2.18,1.68,-0.25,1.93,1.97,Preston,Derby,preston,derby
+2024-12-07,E1,England-Champ,2425,Leeds,Derby,2.0,0.0,H,2.0,0.0,H,1.36,4.75,8.5,1.34,5.09,10.04,1.35,4.91,9.36,1.88,1.98,1.87,1.94,-1.25,1.86,2.04,Leeds,Derby,leeds,derby
+2024-12-10,E1,England-Champ,2425,Burnley,Derby,0.0,0.0,D,0.0,0.0,D,1.7,3.5,5.25,1.71,3.54,5.95,1.7,3.45,5.49,2.63,1.5,2.52,1.51,-0.75,1.95,1.95,Burnley,Derby,burnley,derby
+2024-12-20,E1,England-Champ,2425,Luton,Derby,2.0,1.0,H,0.0,0.0,D,2.15,3.2,3.5,2.24,3.19,3.66,2.2,3.16,3.5,2.3,1.62,2.29,1.61,-0.25,1.9,2.0,Luton,Derby,luton,derby
+2025-01-01,E1,England-Champ,2425,Sheffield Weds,Derby,4.0,2.0,H,1.0,0.0,H,2.0,3.4,3.8,2.01,3.46,3.8,2.0,3.39,3.69,2.1,1.73,2.08,1.72,-0.5,2.03,1.87,Sheffield Wednesday,Derby,sheffield_wednesday,derby
+2025-01-04,E1,England-Champ,2425,Bristol City,Derby,1.0,0.0,H,1.0,0.0,H,1.9,3.3,4.2,1.93,3.33,4.31,1.93,3.3,4.16,2.3,1.62,2.29,1.6,-0.5,1.97,1.93,Bristol City,Derby,bristol_city,derby
+2025-01-25,E1,England-Champ,2425,Cardiff,Derby,2.0,1.0,H,0.0,0.0,D,2.2,3.1,3.4,2.19,3.1,3.69,2.19,3.1,3.54,2.5,1.53,2.45,1.53,-0.25,1.9,2.0,Cardiff City,Derby,cardiff_city,derby
+2025-02-08,E1,England-Champ,2425,Norwich,Derby,1.0,1.0,D,0.0,0.0,D,1.7,3.9,4.75,1.68,3.87,4.92,1.7,3.82,4.85,1.98,1.88,1.97,1.84,-0.75,1.93,1.97,Norwich City,Derby,norwich_city,derby
+2025-02-14,E1,England-Champ,2425,QPR,Derby,4.0,0.0,H,2.0,0.0,H,2.05,3.2,4.0,2.1,3.19,4.07,2.08,3.14,3.97,2.63,1.5,2.65,1.48,-0.5,2.09,1.81,Queens Park Rangers,Derby,queens_park_rangers,derby
+2025-03-01,E1,England-Champ,2425,Middlesbrough,Derby,1.0,0.0,H,0.0,0.0,D,1.65,3.6,5.5,1.67,3.99,4.91,1.66,3.93,5.0,1.9,1.95,1.88,1.93,-0.75,1.88,2.02,Middlesbrough,Derby,middlesbrough,derby
+2025-03-15,E1,England-Champ,2425,Plymouth,Derby,2.0,3.0,A,1.0,2.0,A,2.8,3.2,2.55,2.9,3.05,2.66,2.9,3.04,2.6,2.5,1.53,2.48,1.53,0.0,2.04,1.86,Plymouth Argyle,Derby,plymouth_argyle,derby
+2025-04-05,E1,England-Champ,2425,Swansea,Derby,1.0,0.0,H,0.0,0.0,D,2.05,3.3,3.75,2.05,3.11,4.12,2.05,3.19,3.86,2.38,1.57,2.38,1.56,-0.5,2.08,1.82,Swansea City,Derby,swansea_city,derby
+2025-04-12,E1,England-Champ,2425,Portsmouth,Derby,2.0,2.0,D,0.0,0.0,D,2.3,3.25,3.2,2.4,2.95,3.41,2.35,3.01,3.29,2.63,1.5,2.53,1.5,-0.25,2.04,1.86,Portsmouth,Derby,portsmouth,derby
+2025-04-21,E1,England-Champ,2425,West Brom,Derby,1.0,3.0,A,0.0,2.0,A,1.91,3.5,3.8,1.93,3.27,4.38,1.93,3.33,4.11,2.38,1.57,2.37,1.57,-0.5,1.98,1.92,West Bromwich Albion,Derby,west_bromwich_albion,derby
+2025-04-26,E1,England-Champ,2425,Hull,Derby,0.0,1.0,A,0.0,0.0,D,2.4,3.0,3.25,2.42,3.1,3.2,2.4,3.05,3.16,2.63,1.5,2.59,1.49,-0.25,2.05,1.85,Hull City,Derby,hull_city,derby
+2025-08-09,E1,England-Champ,2526,Stoke,Derby,3.0,1.0,H,0.0,0.0,D,2.3,3.2,3.2,2.36,3.1,3.29,2.27,3.13,3.28,2.5,1.53,2.43,1.52,-0.25,2.0,1.85,Stoke City,Derby,stoke_city,derby
+2025-08-30,E1,England-Champ,2526,Ipswich,Derby,2.0,2.0,D,1.0,0.0,H,1.49,3.9,6.5,1.52,4.04,6.66,1.53,3.97,6.29,2.0,1.8,2.0,1.75,-1.0,1.95,1.9,Ipswich,Derby,ipswich,derby
+2025-09-13,E1,England-Champ,2526,West Brom,Derby,0.0,1.0,A,0.0,0.0,D,1.71,3.5,4.75,1.78,3.43,5.02,1.76,3.4,4.98,2.3,1.62,2.29,1.58,-0.75,2.0,1.85,West Bromwich Albion,Derby,west_bromwich_albion,derby
+2025-09-27,E1,England-Champ,2526,Wrexham,Derby,1.0,1.0,D,0.0,0.0,D,2.05,3.3,3.5,2.18,3.33,3.58,2.12,3.22,3.59,2.38,1.57,2.32,1.57,-0.25,1.83,2.03,Wrexham,Derby,wrexham,derby
+2025-10-18,E1,England-Champ,2526,Oxford,Derby,1.0,0.0,H,1.0,0.0,H,2.4,3.05,2.95,2.57,2.97,3.08,2.51,3.07,2.96,2.5,1.53,2.45,1.51,-0.25,2.1,1.7,Oxford United,Derby,oxford_united,derby
+2025-11-01,E1,England-Champ,2526,Sheffield United,Derby,1.0,3.0,A,0.0,1.0,A,1.76,3.5,4.33,,,,1.83,3.47,4.44,2.2,1.67,2.16,1.65,-0.5,1.83,2.03,Sheffield United,Derby,sheffield_united,derby
+2025-11-08,E1,England-Champ,2526,Blackburn,Derby,1.0,2.0,A,0.0,2.0,A,1.91,3.3,3.9,,,,1.97,3.29,3.99,2.38,1.57,2.27,1.59,-0.5,2.0,1.85,Blackburn,Derby,blackburn,derby
+2025-11-25,E1,England-Champ,2526,Swansea,Derby,1.0,2.0,A,0.0,1.0,A,2.1,3.05,3.6,2.19,3.24,3.73,2.16,3.12,3.56,2.5,1.53,2.38,1.54,-0.25,1.85,2.0,Swansea City,Derby,swansea_city,derby
+2025-11-29,E1,England-Champ,2526,Middlesbrough,Derby,2.0,1.0,H,0.0,1.0,A,1.71,3.6,5.0,1.75,3.58,4.93,1.74,3.55,4.93,2.2,1.67,2.13,1.67,-0.75,2.0,1.85,Middlesbrough,Derby,middlesbrough,derby
+2025-12-15,E1,England-Champ,2526,Sheffield Weds,Derby,0.0,3.0,A,0.0,1.0,A,3.2,3.2,2.2,3.28,3.25,2.28,3.16,3.21,2.27,2.1,1.73,2.1,1.68,0.25,1.88,1.98,Sheffield Wednesday,Derby,sheffield_wednesday,derby
+2025-12-26,E1,England-Champ,2526,Birmingham,Derby,1.0,1.0,D,0.0,1.0,A,1.86,3.4,4.2,1.92,3.44,4.17,1.87,3.41,4.24,2.1,1.73,2.12,1.68,-0.5,1.9,1.95,Birmingham,Derby,birmingham,derby
+2025-12-29,E1,England-Champ,2526,Leicester,Derby,2.0,1.0,H,2.0,1.0,H,2.05,3.25,3.5,2.06,3.42,3.65,2.07,3.32,3.54,2.2,1.67,2.12,1.67,-0.5,2.05,1.75,Leicester City,Derby,leicester_city,derby
+2026-01-17,E1,England-Champ,2526,Preston,Derby,0.0,1.0,A,0.0,0.0,D,2.2,3.1,3.4,,,,2.28,3.12,3.29,2.38,1.57,2.35,1.55,-0.25,1.93,1.93,Preston,Derby,preston,derby
+2026-01-20,E1,England-Champ,2526,Charlton,Derby,1.0,2.0,A,0.0,1.0,A,2.65,3.0,2.75,,,,2.68,3.01,2.8,2.5,1.53,2.46,1.51,0.0,1.9,1.95,Charlton,Derby,charlton,derby
+2026-01-30,E1,England-Champ,2526,Bristol City,Derby,0.0,5.0,A,0.0,3.0,A,2.15,3.3,3.3,,,,2.14,3.28,3.44,2.1,1.73,2.09,1.7,-0.25,1.88,1.98,Bristol City,Derby,bristol_city,derby
+2026-02-21,E1,England-Champ,2526,Watford,Derby,2.0,0.0,H,1.0,0.0,H,2.1,3.3,3.4,,,,2.16,3.29,3.35,2.2,1.67,2.1,1.68,-0.25,1.88,1.98,Watford,Derby,watford,derby
+2026-02-24,E1,England-Champ,2526,Hull,Derby,4.0,2.0,H,2.0,2.0,D,2.55,3.2,2.7,,,,2.51,3.24,2.78,2.1,1.73,2.02,1.75,0.0,1.88,1.98,Hull City,Derby,hull_city,derby
+2026-03-10,E1,England-Champ,2526,Millwall,Derby,1.0,0.0,H,1.0,0.0,H,2.05,3.4,3.5,,,,2.04,3.31,3.63,2.05,1.8,2.03,1.75,-0.5,2.05,1.75,Millwall,Derby,millwall,derby
+2026-03-16,E1,England-Champ,2526,Portsmouth,Derby,0.0,1.0,A,0.0,1.0,A,2.15,3.2,3.4,,,,2.18,3.22,3.31,2.2,1.67,2.16,1.65,-0.25,1.93,1.93,Portsmouth,Derby,portsmouth,derby
+2026-04-03,E1,England-Champ,2526,Coventry,Derby,3.0,2.0,H,1.0,1.0,D,1.53,4.0,6.0,,,,1.57,4.1,5.39,1.73,2.1,1.68,2.11,-1.0,2.0,1.85,Coventry,Derby,coventry,derby
+2026-04-11,E1,England-Champ,2526,Southampton,Derby,2.0,1.0,H,0.0,1.0,A,1.71,3.8,4.2,,,,1.77,3.74,4.22,1.8,2.0,1.73,2.01,-0.75,2.03,1.83,Southampton,Derby,southampton,derby
+2026-04-21,E1,England-Champ,2526,Norwich,Derby,2.0,1.0,H,1.0,0.0,H,1.96,3.5,3.6,,,,2.0,3.54,3.56,1.83,2.03,1.78,1.96,-0.5,2.0,1.85,Norwich City,Derby,norwich_city,derby
+2026-04-25,E1,England-Champ,2526,QPR,Derby,2.0,3.0,A,1.0,1.0,D,2.85,3.5,2.2,,,,2.92,3.49,2.26,1.8,2.0,1.77,1.97,0.25,1.88,1.98,Queens Park Rangers,Derby,queens_park_rangers,derby
+2026-08-15,E1,England-Champ,2627,Charlton,Derby,2.0,1.0,H,0.0,1.0,A,2.65,3.2,2.65,,,,2.66,3.23,2.66,2.2,1.67,2.12,1.67,0.0,1.93,1.93,Charlton,Derby,charlton,derby
+2026-09-01,E1,England-Champ,2627,Portsmouth,Derby,0.0,2.0,A,0.0,1.0,A,1.86,3.4,4.0,,,,1.96,3.48,3.79,2.0,1.85,1.96,1.78,-0.5,1.93,1.93,Portsmouth,Derby,portsmouth,derby
+2026-09-05,E1,England-Champ,2627,West Ham,Derby,3.0,0.0,H,1.0,0.0,H,1.33,5.0,7.5,,,,1.36,4.85,8.01,1.67,2.2,1.67,2.12,-1.25,1.88,1.98,West Ham United,Derby,west_ham_united,derby
+2026-09-19,E1,England-Champ,2627,Burnley,Derby,1.0,1.0,D,1.0,0.0,H,1.76,3.6,4.33,,,,1.79,3.68,4.21,1.88,1.98,1.82,1.92,-0.5,1.78,2.03,Burnley,Derby,burnley,derby
+2026-10-14,E1,England-Champ,2627,QPR,Derby,4.0,1.0,H,3.0,0.0,H,1.66,3.8,4.5,,,,1.71,3.81,4.57,1.8,2.0,1.76,1.98,-0.75,1.9,1.95,Queens Park Rangers,Derby,queens_park_rangers,derby

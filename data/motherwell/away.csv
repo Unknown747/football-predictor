@@ -1,0 +1,102 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-08,SC0,Scotland-Prem,2122,St Johnstone,Motherwell,1.0,1.0,D,1.0,0.0,H,1.95,3.1,3.8,2.04,3.43,3.96,2.01,3.31,3.79,2.3,1.61,2.27,1.62,-0.5,2.02,1.83,St Johnstone,Motherwell,st_johnstone,motherwell
+2021-08-21,SC0,Scotland-Prem,2122,Livingston,Motherwell,1.0,2.0,A,1.0,0.0,H,2.25,3.3,3.2,2.35,3.25,3.33,2.27,3.2,3.24,2.3,1.61,2.24,1.64,-0.25,2.0,1.85,Livingston,Motherwell,livingston,motherwell
+2021-09-19,SC0,Scotland-Prem,2122,Rangers,Motherwell,1.0,1.0,D,1.0,0.0,H,1.28,5.25,10.0,1.28,5.86,13.06,1.27,5.52,10.98,1.72,2.1,1.71,2.14,-1.5,1.88,1.98,Rangers,Motherwell,rangers,motherwell
+2021-10-02,SC0,Scotland-Prem,2122,Hearts,Motherwell,2.0,0.0,H,2.0,0.0,H,1.57,3.8,6.0,1.62,4.14,5.86,1.6,3.89,5.62,2.0,1.8,2.05,1.77,-1.0,2.05,1.75,Hearts,Motherwell,hearts,motherwell
+2021-10-23,SC0,Scotland-Prem,2122,Dundee United,Motherwell,2.0,1.0,H,1.0,0.0,H,2.3,3.2,3.3,2.31,3.4,3.33,2.28,3.26,3.14,2.2,1.66,2.2,1.66,-0.25,1.98,1.88,Dundee United,Motherwell,dundee_united,motherwell
+2021-11-06,SC0,Scotland-Prem,2122,Aberdeen,Motherwell,0.0,2.0,A,0.0,0.0,D,1.75,3.5,5.25,1.79,3.68,5.05,1.76,3.53,4.8,2.2,1.66,2.22,1.65,-0.75,2.02,1.83,Aberdeen,Motherwell,aberdeen,motherwell
+2021-11-27,SC0,Scotland-Prem,2122,Dundee,Motherwell,3.0,0.0,H,2.0,0.0,H,2.5,3.3,2.8,2.6,3.39,2.87,2.48,3.29,2.83,2.0,1.8,2.02,1.78,0.0,1.8,2.05,Dundee,Motherwell,dundee,motherwell
+2021-12-04,SC0,Scotland-Prem,2122,Hibernian,Motherwell,1.0,1.0,D,1.0,0.0,H,1.75,3.8,4.33,1.79,3.94,4.61,1.81,3.65,4.3,1.95,1.9,1.93,1.86,-0.5,1.75,2.05,Hibernian,Motherwell,hibernian,motherwell
+2021-12-12,SC0,Scotland-Prem,2122,Celtic,Motherwell,1.0,0.0,H,1.0,0.0,H,1.16,7.0,19.0,1.18,7.32,19.54,1.17,7.05,16.41,1.5,2.62,1.5,2.54,-2.0,1.85,2.0,Celtic,Motherwell,celtic,motherwell
+2022-01-18,SC0,Scotland-Prem,2122,Ross County,Motherwell,3.0,1.0,H,1.0,0.0,H,2.5,3.25,2.9,2.53,3.43,2.93,2.48,3.25,2.85,2.2,1.66,2.14,1.69,0.0,1.77,2.1,Ross County,Motherwell,ross_county,motherwell
+2022-01-29,SC0,Scotland-Prem,2122,Hearts,Motherwell,2.0,0.0,H,1.0,0.0,H,1.66,3.8,5.25,1.7,3.96,5.22,1.69,3.73,4.95,2.1,1.72,2.05,1.75,-0.75,1.88,1.98,Hearts,Motherwell,hearts,motherwell
+2022-02-01,SC0,Scotland-Prem,2122,St Mirren,Motherwell,1.0,1.0,D,0.0,0.0,D,2.4,2.9,3.4,2.4,3.15,3.39,2.37,3.12,3.15,2.37,1.57,2.32,1.59,-0.25,2.0,1.85,St Mirren,Motherwell,st_mirren,motherwell
+2022-02-09,SC0,Scotland-Prem,2122,Dundee United,Motherwell,2.0,0.0,H,1.0,0.0,H,2.4,3.2,3.1,2.42,3.24,3.26,2.38,3.15,3.08,2.37,1.57,2.37,1.57,-0.25,2.05,1.8,Dundee United,Motherwell,dundee_united,motherwell
+2022-02-27,SC0,Scotland-Prem,2122,Rangers,Motherwell,2.0,2.0,D,2.0,0.0,H,1.22,6.0,13.0,1.22,6.57,15.94,1.22,6.08,13.58,1.72,2.1,1.67,2.17,-1.75,1.93,1.93,Rangers,Motherwell,rangers,motherwell
+2022-03-19,SC0,Scotland-Prem,2122,St Johnstone,Motherwell,2.0,1.0,H,1.0,1.0,D,2.6,2.9,3.0,2.63,3.05,3.13,2.51,3.0,3.04,2.62,1.5,2.63,1.47,0.0,1.77,2.1,St Johnstone,Motherwell,st_johnstone,motherwell
+2022-04-09,SC0,Scotland-Prem,2122,Livingston,Motherwell,2.0,2.0,D,1.0,0.0,H,2.1,3.2,3.75,2.15,3.3,3.86,2.13,3.18,3.65,2.3,1.61,2.31,1.6,-0.25,1.8,2.05,Livingston,Motherwell,livingston,motherwell
+2022-04-30,SC0,Scotland-Prem,2122,Dundee United,Motherwell,1.0,0.0,H,1.0,0.0,H,2.62,3.1,2.9,2.64,3.25,2.93,2.57,3.14,2.86,2.2,1.66,2.23,1.64,0.0,1.83,2.02,Dundee United,Motherwell,dundee_united,motherwell
+2022-05-07,SC0,Scotland-Prem,2122,Ross County,Motherwell,0.0,1.0,A,0.0,0.0,D,2.3,3.3,3.2,2.38,3.36,3.23,2.35,3.23,3.1,2.2,1.66,2.16,1.68,-0.25,2.0,1.85,Ross County,Motherwell,ross_county,motherwell
+2022-05-14,SC0,Scotland-Prem,2122,Celtic,Motherwell,6.0,0.0,H,3.0,0.0,H,1.16,7.5,17.0,1.16,8.37,18.16,1.16,7.62,15.68,1.4,3.0,1.4,2.87,-2.0,1.8,2.05,Celtic,Motherwell,celtic,motherwell
+2022-07-31,SC0,Scotland-Prem,2223,St Mirren,Motherwell,0.0,1.0,A,0.0,1.0,A,2.55,3.3,2.8,2.65,3.21,2.95,2.57,3.14,2.81,2.2,1.66,2.24,1.62,0.0,1.85,2.0,St Mirren,Motherwell,st_mirren,motherwell
+2022-08-13,SC0,Scotland-Prem,2223,Aberdeen,Motherwell,2.0,3.0,A,1.0,1.0,D,1.8,3.5,4.75,1.8,3.63,5.02,1.79,3.49,4.66,2.1,1.72,2.14,1.68,-0.75,2.05,1.8,Aberdeen,Motherwell,aberdeen,motherwell
+2022-08-27,SC0,Scotland-Prem,2223,Kilmarnock,Motherwell,2.0,1.0,H,0.0,1.0,A,2.62,3.25,2.75,2.77,3.26,2.78,2.62,3.2,2.72,2.2,1.66,2.15,1.68,0.0,1.9,1.95,Kilmarnock,Motherwell,kilmarnock,motherwell
+2022-10-01,SC0,Scotland-Prem,2223,Celtic,Motherwell,2.0,1.0,H,1.0,1.0,D,1.11,10.0,17.0,1.14,9.75,19.24,1.11,9.08,19.06,1.33,3.4,1.31,3.34,-2.5,1.95,1.9,Celtic,Motherwell,celtic,motherwell
+2022-10-04,SC0,Scotland-Prem,2223,Ross County,Motherwell,0.0,5.0,A,0.0,1.0,A,2.87,3.3,2.45,3.08,3.35,2.47,2.95,3.21,2.43,2.1,1.72,2.12,1.7,0.25,1.77,2.1,Ross County,Motherwell,ross_county,motherwell
+2022-10-08,SC0,Scotland-Prem,2223,Hibernian,Motherwell,1.0,0.0,H,0.0,0.0,D,1.75,3.6,4.75,1.82,3.61,4.89,1.79,3.54,4.57,2.1,1.72,2.09,1.72,-0.75,2.05,1.8,Hibernian,Motherwell,hibernian,motherwell
+2022-10-29,SC0,Scotland-Prem,2223,Dundee United,Motherwell,0.0,1.0,A,0.0,1.0,A,2.62,3.2,2.8,2.72,3.29,2.81,2.62,3.21,2.7,2.1,1.72,2.12,1.69,0.0,1.88,1.98,Dundee United,Motherwell,dundee_united,motherwell
+2022-11-06,SC0,Scotland-Prem,2223,Hearts,Motherwell,3.0,2.0,H,1.0,0.0,H,1.95,3.6,3.8,1.95,3.76,3.98,1.93,3.62,3.72,1.8,2.0,1.78,2.01,-0.5,1.93,1.93,Hearts,Motherwell,hearts,motherwell
+2022-11-12,SC0,Scotland-Prem,2223,St Johnstone,Motherwell,1.0,1.0,D,1.0,1.0,D,2.55,3.2,2.9,2.7,3.18,2.92,2.55,3.17,2.83,2.2,1.66,2.24,1.62,0.0,1.83,2.02,St Johnstone,Motherwell,st_johnstone,motherwell
+2022-12-28,SC0,Scotland-Prem,2223,Rangers,Motherwell,3.0,0.0,H,2.0,0.0,H,1.22,6.5,13.0,1.23,6.91,13.16,1.22,6.39,11.92,1.53,2.5,1.51,2.48,-1.75,1.88,1.98,Rangers,Motherwell,rangers,motherwell
+2023-01-02,SC0,Scotland-Prem,2223,Livingston,Motherwell,1.0,1.0,D,1.0,1.0,D,2.63,3.4,2.63,2.74,3.34,2.75,2.61,3.26,2.68,2.1,1.73,2.1,1.71,0.0,1.9,1.95,Livingston,Motherwell,livingston,motherwell
+2023-01-28,SC0,Scotland-Prem,2223,St Mirren,Motherwell,1.0,0.0,H,1.0,0.0,H,2.4,3.2,3.1,2.44,3.27,3.2,2.39,3.21,3.02,2.2,1.67,2.22,1.64,-0.25,2.05,1.8,St Mirren,Motherwell,st_mirren,motherwell
+2023-02-04,SC0,Scotland-Prem,2223,Aberdeen,Motherwell,3.0,1.0,H,1.0,0.0,H,2.0,3.3,3.6,2.11,3.55,3.66,2.05,3.44,3.52,1.95,1.9,1.92,1.87,-0.5,2.05,1.8,Aberdeen,Motherwell,aberdeen,motherwell
+2023-02-25,SC0,Scotland-Prem,2223,Kilmarnock,Motherwell,1.0,1.0,D,1.0,0.0,H,2.4,3.3,2.9,2.57,3.26,3.02,2.46,3.18,2.93,2.2,1.67,2.19,1.66,0.0,1.75,2.13,Kilmarnock,Motherwell,kilmarnock,motherwell
+2023-03-04,SC0,Scotland-Prem,2223,Ross County,Motherwell,0.0,2.0,A,0.0,0.0,D,2.55,3.3,2.8,2.6,3.27,2.98,2.53,3.19,2.84,2.2,1.67,2.17,1.67,0.0,1.8,2.05,Ross County,Motherwell,ross_county,motherwell
+2023-04-01,SC0,Scotland-Prem,2223,Hibernian,Motherwell,1.0,3.0,A,0.0,1.0,A,1.8,3.6,4.5,1.83,3.67,4.7,1.8,3.57,4.38,1.98,1.88,1.95,1.83,-0.5,1.77,2.02,Hibernian,Motherwell,hibernian,motherwell
+2023-04-22,SC0,Scotland-Prem,2223,Celtic,Motherwell,1.0,1.0,D,1.0,0.0,H,1.09,10.0,26.0,1.1,11.06,26.75,1.09,10.19,23.64,1.29,3.75,1.26,3.71,-2.75,2.0,1.85,Celtic,Motherwell,celtic,motherwell
+2023-05-13,SC0,Scotland-Prem,2223,St Johnstone,Motherwell,0.0,2.0,A,0.0,0.0,D,2.7,3.1,2.7,2.89,3.14,2.76,2.76,3.06,2.71,2.2,1.67,2.22,1.64,0.0,1.95,1.9,St Johnstone,Motherwell,st_johnstone,motherwell
+2023-05-24,SC0,Scotland-Prem,2223,Livingston,Motherwell,1.0,1.0,D,0.0,1.0,A,3.1,3.1,2.45,3.15,3.19,2.52,2.99,3.17,2.46,2.2,1.67,2.17,1.67,0.0,2.1,1.7,Livingston,Motherwell,livingston,motherwell
+2023-08-05,SC0,Scotland-Prem,2324,Dundee,Motherwell,1.0,1.0,D,0.0,1.0,A,2.55,3.3,2.75,2.65,3.38,2.82,2.57,3.3,2.72,1.98,1.88,1.97,1.82,0.0,1.85,2.0,Dundee,Motherwell,dundee,motherwell
+2023-09-03,SC0,Scotland-Prem,2324,Hearts,Motherwell,0.0,1.0,A,0.0,1.0,A,2.0,3.5,3.75,2.01,3.69,3.8,2.0,3.53,3.59,1.9,1.95,1.86,1.92,-0.5,2.0,1.85,Hearts,Motherwell,hearts,motherwell
+2023-09-24,SC0,Scotland-Prem,2324,Rangers,Motherwell,1.0,0.0,H,1.0,0.0,H,1.25,6.0,12.0,1.24,6.72,12.04,1.23,6.2,11.6,1.57,2.38,1.55,2.41,-1.75,1.9,1.95,Rangers,Motherwell,rangers,motherwell
+2023-10-07,SC0,Scotland-Prem,2324,Livingston,Motherwell,2.0,0.0,H,0.0,0.0,D,2.8,3.2,2.63,2.88,3.14,2.77,2.77,3.16,2.6,2.2,1.65,2.21,1.65,0.0,1.98,1.88,Livingston,Motherwell,livingston,motherwell
+2023-11-04,SC0,Scotland-Prem,2324,Kilmarnock,Motherwell,1.0,0.0,H,0.0,0.0,D,2.2,3.6,3.2,2.18,3.54,3.48,2.16,3.39,3.3,2.08,1.73,2.09,1.72,-0.25,1.85,2.0,Kilmarnock,Motherwell,kilmarnock,motherwell
+2023-11-07,SC0,Scotland-Prem,2324,St Johnstone,Motherwell,2.0,2.0,D,2.0,0.0,H,2.75,3.2,2.63,2.91,3.1,2.77,2.76,3.1,2.66,2.2,1.65,2.18,1.66,0.0,1.95,1.9,St Johnstone,Motherwell,st_johnstone,motherwell
+2023-11-25,SC0,Scotland-Prem,2324,Celtic,Motherwell,1.0,1.0,D,0.0,0.0,D,1.14,7.5,19.0,1.14,9.94,18.23,1.13,8.44,17.37,1.36,3.1,1.37,3.0,-2.25,1.93,1.93,Celtic,Motherwell,celtic,motherwell
+2023-12-05,SC0,Scotland-Prem,2324,Ross County,Motherwell,3.0,0.0,H,2.0,0.0,H,2.25,3.2,3.5,2.35,3.15,3.52,2.3,3.12,3.3,2.25,1.62,2.24,1.63,-0.25,1.95,1.9,Ross County,Motherwell,ross_county,motherwell
+2023-12-16,SC0,Scotland-Prem,2324,St Mirren,Motherwell,0.0,0.0,D,0.0,0.0,D,1.95,3.4,4.0,2.02,3.36,4.22,2.0,3.3,3.87,2.3,1.6,2.28,1.61,-0.5,2.0,1.85,St Mirren,Motherwell,st_mirren,motherwell
+2024-01-02,SC0,Scotland-Prem,2324,Hibernian,Motherwell,2.0,2.0,D,1.0,1.0,D,1.91,3.4,4.0,2.03,3.52,3.99,1.97,3.46,3.78,2.0,1.85,1.93,1.85,-0.5,1.98,1.88,Hibernian,Motherwell,hibernian,motherwell
+2024-01-27,SC0,Scotland-Prem,2324,St Johnstone,Motherwell,1.0,1.0,D,1.0,1.0,D,2.5,3.25,2.9,2.66,3.15,2.99,2.51,3.14,2.9,2.25,1.62,2.25,1.62,0.0,1.8,2.05,St Johnstone,Motherwell,st_johnstone,motherwell
+2024-02-14,SC0,Scotland-Prem,2324,Aberdeen,Motherwell,3.0,3.0,D,2.0,3.0,A,1.95,3.6,4.0,1.97,3.64,4.05,1.93,3.53,3.84,1.98,1.88,1.94,1.85,-0.5,1.95,1.9,Aberdeen,Motherwell,aberdeen,motherwell
+2024-02-17,SC0,Scotland-Prem,2324,Hearts,Motherwell,2.0,0.0,H,0.0,0.0,D,1.73,3.7,5.0,1.72,3.87,5.23,1.71,3.73,4.84,2.03,1.83,1.98,1.81,-0.75,1.93,1.93,Hearts,Motherwell,hearts,motherwell
+2024-02-28,SC0,Scotland-Prem,2324,Livingston,Motherwell,1.0,3.0,A,1.0,0.0,H,2.7,3.4,2.55,2.89,3.26,2.67,2.74,3.23,2.58,2.1,1.7,2.15,1.68,0.0,2.0,1.85,Livingston,Motherwell,livingston,motherwell
+2024-03-02,SC0,Scotland-Prem,2324,Rangers,Motherwell,1.0,2.0,A,0.0,1.0,A,1.14,9.0,15.0,1.16,8.51,17.6,1.15,7.78,15.69,1.4,2.88,1.39,2.88,-2.25,2.03,1.83,Rangers,Motherwell,rangers,motherwell
+2024-04-06,SC0,Scotland-Prem,2324,Dundee,Motherwell,2.0,3.0,A,1.0,0.0,H,2.38,3.3,3.1,2.34,3.47,3.14,2.32,3.42,2.99,1.95,1.9,1.89,1.89,-0.25,2.03,1.83,Dundee,Motherwell,dundee,motherwell
+2024-04-27,SC0,Scotland-Prem,2324,Aberdeen,Motherwell,1.0,0.0,H,0.0,0.0,D,2.05,3.4,3.75,2.12,3.43,3.71,2.08,3.4,3.52,2.0,1.85,1.95,1.83,-0.25,1.75,2.05,Aberdeen,Motherwell,aberdeen,motherwell
+2024-05-11,SC0,Scotland-Prem,2324,Ross County,Motherwell,1.0,5.0,A,1.0,2.0,A,2.3,3.3,3.1,2.34,3.64,3.02,2.31,3.48,2.94,1.83,2.03,1.79,1.99,-0.25,2.0,1.85,Ross County,Motherwell,ross_county,motherwell
+2024-05-15,SC0,Scotland-Prem,2324,Hibernian,Motherwell,3.0,0.0,H,2.0,0.0,H,1.83,3.75,4.0,1.9,3.86,4.0,1.86,3.76,3.91,1.73,2.1,1.7,2.13,-0.5,1.88,1.98,Hibernian,Motherwell,hibernian,motherwell
+2024-08-10,SC0,Scotland-Prem,2425,Rangers,Motherwell,2.0,1.0,H,2.0,1.0,H,1.2,7.0,11.0,1.2,7.16,11.19,1.21,6.84,11.67,1.4,3.0,1.38,2.93,-2.0,2.0,1.85,Rangers,Motherwell,rangers,motherwell
+2024-08-31,SC0,Scotland-Prem,2425,St Johnstone,Motherwell,1.0,2.0,A,0.0,1.0,A,2.75,3.6,2.38,3.01,3.31,2.47,2.9,3.32,2.42,2.05,1.8,2.03,1.77,0.25,1.78,2.1,St Johnstone,Motherwell,st_johnstone,motherwell
+2024-09-14,SC0,Scotland-Prem,2425,Aberdeen,Motherwell,2.0,1.0,H,1.0,0.0,H,1.67,3.75,5.0,1.68,3.79,5.03,1.68,3.79,4.9,1.9,1.95,1.85,1.93,-0.75,1.9,1.95,Aberdeen,Motherwell,aberdeen,motherwell
+2024-10-05,SC0,Scotland-Prem,2425,Hibernian,Motherwell,1.0,2.0,A,0.0,0.0,D,2.0,3.5,3.6,2.08,3.46,3.55,2.05,3.51,3.47,1.88,1.98,1.85,1.94,-0.25,1.75,2.05,Hibernian,Motherwell,hibernian,motherwell
+2024-10-30,SC0,Scotland-Prem,2425,Dundee United,Motherwell,1.0,2.0,A,1.0,1.0,D,2.2,3.4,3.2,2.2,3.31,3.41,2.18,3.37,3.28,1.95,1.9,1.91,1.88,-0.25,1.9,1.95,Dundee United,Motherwell,dundee_united,motherwell
+2024-11-23,SC0,Scotland-Prem,2425,Ross County,Motherwell,2.0,1.0,H,0.0,0.0,D,2.88,3.1,2.63,2.83,3.1,2.68,2.78,3.17,2.6,2.2,1.67,2.11,1.7,0.0,2.0,1.85,Ross County,Motherwell,ross_county,motherwell
+2024-12-04,SC0,Scotland-Prem,2425,Dundee,Motherwell,4.0,1.0,H,1.0,1.0,D,2.0,3.4,3.8,2.04,3.49,3.65,2.06,3.54,3.44,1.83,2.03,1.79,2.0,-0.25,1.73,2.08,Dundee,Motherwell,dundee,motherwell
+2024-12-07,SC0,Scotland-Prem,2425,St Mirren,Motherwell,0.0,1.0,A,0.0,0.0,D,2.05,3.4,3.6,2.13,3.36,3.52,2.09,3.35,3.48,2.0,1.85,1.95,1.83,-0.25,1.83,2.03,St Mirren,Motherwell,st_mirren,motherwell
+2024-12-26,SC0,Scotland-Prem,2425,Celtic,Motherwell,4.0,0.0,H,1.0,0.0,H,1.11,10.0,16.0,1.11,9.95,19.32,1.1,9.52,19.51,1.29,3.75,1.27,3.46,-2.5,1.93,1.93,Celtic,Motherwell,celtic,motherwell
+2025-01-02,SC0,Scotland-Prem,2425,Hearts,Motherwell,1.0,0.0,H,1.0,0.0,H,1.8,3.6,4.33,1.81,3.66,4.42,1.8,3.62,4.21,1.88,1.98,1.85,1.91,-0.75,2.05,1.75,Hearts,Motherwell,hearts,motherwell
+2025-01-08,SC0,Scotland-Prem,2425,Kilmarnock,Motherwell,0.0,0.0,D,0.0,0.0,D,1.95,3.5,3.9,2.0,3.36,3.95,1.97,3.44,3.76,2.05,1.8,1.99,1.79,-0.5,2.0,1.85,Kilmarnock,Motherwell,kilmarnock,motherwell
+2025-01-11,SC0,Scotland-Prem,2425,Hibernian,Motherwell,3.0,1.0,H,2.0,0.0,H,1.62,4.0,5.25,1.63,3.95,5.29,1.63,3.96,5.04,1.77,1.97,1.78,2.0,-0.75,1.8,2.05,Hibernian,Motherwell,hibernian,motherwell
+2025-01-25,SC0,Scotland-Prem,2425,St Johnstone,Motherwell,2.0,1.0,H,0.0,1.0,A,2.45,3.5,2.7,2.62,3.2,2.82,2.55,3.26,2.74,2.05,1.8,2.0,1.78,0.0,1.85,2.0,St Johnstone,Motherwell,st_johnstone,motherwell
+2025-02-22,SC0,Scotland-Prem,2425,Dundee United,Motherwell,1.0,0.0,H,1.0,0.0,H,1.7,3.6,5.0,1.68,3.83,5.04,1.7,3.75,4.84,1.88,1.98,1.85,1.94,-0.75,1.9,1.95,Dundee United,Motherwell,dundee_united,motherwell
+2025-03-01,SC0,Scotland-Prem,2425,Rangers,Motherwell,1.0,2.0,A,0.0,2.0,A,1.14,7.5,17.0,1.16,7.69,14.77,1.15,7.85,15.71,1.33,3.4,1.29,3.37,-2.25,1.9,1.95,Rangers,Motherwell,rangers,motherwell
+2025-03-29,SC0,Scotland-Prem,2425,Aberdeen,Motherwell,4.0,1.0,H,2.0,1.0,H,1.65,3.8,5.25,1.65,3.93,5.44,1.65,3.83,5.11,1.93,1.93,1.88,1.91,-0.75,1.77,1.97,Aberdeen,Motherwell,aberdeen,motherwell
+2025-04-05,SC0,Scotland-Prem,2425,Kilmarnock,Motherwell,2.0,0.0,H,1.0,0.0,H,1.75,3.5,4.75,1.76,3.61,4.78,1.77,3.53,4.56,2.0,1.8,2.02,1.77,-0.75,2.03,1.83,Kilmarnock,Motherwell,kilmarnock,motherwell
+2025-05-03,SC0,Scotland-Prem,2425,Dundee,Motherwell,1.0,2.0,A,1.0,0.0,H,2.2,3.3,3.25,2.19,3.49,3.25,2.17,3.44,3.22,1.8,2.0,1.78,2.02,-0.25,1.9,1.95,Dundee,Motherwell,dundee,motherwell
+2025-05-10,SC0,Scotland-Prem,2425,Hearts,Motherwell,3.0,0.0,H,1.0,0.0,H,1.5,4.2,6.25,1.5,4.28,6.48,1.5,4.23,6.19,1.8,2.0,1.78,2.01,-1.0,1.83,2.03,Hearts,Motherwell,hearts,motherwell
+2025-05-18,SC0,Scotland-Prem,2425,Ross County,Motherwell,1.0,1.0,D,1.0,0.0,H,1.91,3.6,3.75,1.88,3.62,3.8,1.92,3.6,3.77,1.85,2.0,1.82,1.97,-0.5,1.95,1.9,Ross County,Motherwell,ross_county,motherwell
+2025-08-09,SC0,Scotland-Prem,2526,St Mirren,Motherwell,0.0,0.0,D,0.0,0.0,D,1.95,3.5,3.8,1.98,3.54,3.77,1.97,3.47,3.6,2.0,1.85,1.95,1.8,-0.5,2.0,1.85,St Mirren,Motherwell,st_mirren,motherwell
+2025-08-23,SC0,Scotland-Prem,2526,Hearts,Motherwell,3.0,3.0,D,0.0,1.0,A,1.62,3.9,5.25,1.63,3.88,5.41,1.58,4.03,5.31,1.93,1.93,1.83,1.91,-0.75,1.8,2.05,Hearts,Motherwell,hearts,motherwell
+2025-09-13,SC0,Scotland-Prem,2526,Dundee,Motherwell,1.0,1.0,D,0.0,1.0,A,3.8,3.5,1.91,3.85,3.51,1.97,3.65,3.45,1.97,2.0,1.8,1.99,1.76,0.5,1.85,2.0,Dundee,Motherwell,dundee,motherwell
+2025-10-05,SC0,Scotland-Prem,2526,Celtic,Motherwell,3.0,2.0,H,1.0,1.0,D,1.17,8.0,10.0,1.19,7.41,11.56,1.19,6.97,12.21,1.4,3.0,1.37,2.93,-2.0,1.98,1.88,Celtic,Motherwell,celtic,motherwell
+2025-10-25,SC0,Scotland-Prem,2526,Livingston,Motherwell,1.0,2.0,A,1.0,0.0,H,3.3,3.5,2.01,3.05,3.44,2.32,3.36,3.47,2.06,1.83,2.03,1.79,1.95,0.25,2.03,1.83,Livingston,Motherwell,livingston,motherwell
+2025-11-09,SC0,Scotland-Prem,2526,Aberdeen,Motherwell,1.0,1.0,D,0.0,0.0,D,2.2,3.8,2.75,,,,2.25,3.58,2.89,1.8,2.0,1.75,2.0,-0.25,2.0,1.85,Aberdeen,Motherwell,aberdeen,motherwell
+2025-11-22,SC0,Scotland-Prem,2526,Kilmarnock,Motherwell,1.0,3.0,A,0.0,2.0,A,2.95,3.4,2.2,,,,2.91,3.31,2.35,1.95,1.9,1.87,1.85,0.25,1.83,2.03,Kilmarnock,Motherwell,kilmarnock,motherwell
+2025-12-03,SC0,Scotland-Prem,2526,Falkirk,Motherwell,0.0,0.0,D,0.0,0.0,D,2.57,3.3,2.57,,,,2.58,3.33,2.6,1.88,1.98,1.83,1.9,0.0,1.93,1.93,Falkirk,Motherwell,falkirk,motherwell
+2025-12-13,SC0,Scotland-Prem,2526,Dundee United,Motherwell,0.0,0.0,D,0.0,0.0,D,2.82,3.4,2.3,,,,2.86,3.31,2.36,1.9,1.95,1.86,1.85,0.25,1.8,2.05,Dundee United,Motherwell,dundee_united,motherwell
+2025-12-27,SC0,Scotland-Prem,2526,Rangers,Motherwell,1.0,0.0,H,0.0,0.0,D,1.71,3.75,4.33,,,,1.74,3.66,4.4,1.91,1.91,1.81,1.91,-0.75,2.03,1.83,Rangers,Motherwell,rangers,motherwell
+2026-01-10,SC0,Scotland-Prem,2526,Hibernian,Motherwell,1.0,1.0,D,0.0,0.0,D,2.01,3.4,3.6,,,,2.03,3.42,3.5,1.9,1.95,1.85,1.87,-0.5,2.05,1.8,Hibernian,Motherwell,hibernian,motherwell
+2026-01-31,SC0,Scotland-Prem,2526,Livingston,Motherwell,0.0,2.0,A,0.0,2.0,A,4.33,3.6,1.76,,,,4.2,3.61,1.79,1.93,1.93,1.87,1.85,0.5,2.05,1.8,Livingston,Motherwell,livingston,motherwell
+2026-02-21,SC0,Scotland-Prem,2526,St Mirren,Motherwell,0.0,5.0,A,0.0,2.0,A,3.0,3.2,2.35,,,,2.89,3.27,2.38,2.0,1.8,1.95,1.77,0.25,1.78,2.1,St Mirren,Motherwell,st_mirren,motherwell
+2026-03-07,SC0,Scotland-Prem,2526,Dundee,Motherwell,2.0,1.0,H,1.0,0.0,H,4.1,3.6,1.79,,,,3.98,3.47,1.84,2.0,1.85,1.93,1.8,0.5,2.0,1.85,Dundee,Motherwell,dundee,motherwell
+2026-03-14,SC0,Scotland-Prem,2526,Celtic,Motherwell,3.0,1.0,H,1.0,1.0,D,1.62,3.9,5.0,,,,1.63,3.97,4.67,1.62,2.3,1.6,2.23,-0.75,1.83,2.03,Celtic,Motherwell,celtic,motherwell
+2026-04-11,SC0,Scotland-Prem,2526,Hearts,Motherwell,3.0,1.0,H,0.0,0.0,D,1.91,3.4,4.0,,,,1.95,3.41,3.68,1.88,1.98,1.82,1.92,-0.5,1.98,1.88,Hearts,Motherwell,hearts,motherwell
+2026-04-26,SC0,Scotland-Prem,2526,Rangers,Motherwell,2.0,3.0,A,0.0,2.0,A,1.46,4.5,5.75,,,,1.5,4.33,5.49,1.57,2.38,1.54,2.34,-1.0,1.88,1.98,Rangers,Motherwell,rangers,motherwell
+2026-05-02,SC0,Scotland-Prem,2526,Falkirk,Motherwell,1.0,0.0,H,0.0,0.0,D,2.65,3.4,2.5,,,,2.64,3.29,2.51,1.85,2.0,1.82,1.91,0.0,2.0,1.85,Falkirk,Motherwell,falkirk,motherwell
+2026-05-16,SC0,Scotland-Prem,2526,Hibernian,Motherwell,0.0,1.0,A,0.0,1.0,A,2.55,3.3,2.57,,,,2.58,3.34,2.54,1.91,1.91,1.81,1.93,0.0,1.9,1.95,Hibernian,Motherwell,hibernian,motherwell
+2026-08-02,SC0,Scotland-Prem,2627,Hibernian,Motherwell,1.0,2.0,A,0.0,1.0,A,2.2,3.4,3.1,,,,2.24,3.38,2.97,1.85,2.0,1.78,1.94,-0.25,1.98,1.88,Hibernian,Motherwell,hibernian,motherwell
+2026-08-30,SC0,Scotland-Prem,2627,St Mirren,Motherwell,3.0,3.0,D,3.0,2.0,H,2.45,3.3,2.7,,,,2.51,3.21,2.72,2.0,1.85,1.93,1.8,0.0,1.85,2.0,St Mirren,Motherwell,st_mirren,motherwell
+2026-09-05,SC0,Scotland-Prem,2627,Rangers,Motherwell,1.0,0.0,H,1.0,0.0,H,1.41,4.33,7.0,,,,1.46,4.41,6.06,1.62,2.3,1.58,2.26,-1.25,2.03,1.83,Rangers,Motherwell,rangers,motherwell
+2026-09-19,SC0,Scotland-Prem,2627,Dundee,Motherwell,2.0,1.0,H,2.0,1.0,H,3.0,3.4,2.25,,,,2.99,3.4,2.23,1.73,2.1,1.71,2.04,0.25,1.83,2.03,Dundee,Motherwell,dundee,motherwell
+2026-10-17,SC0,Scotland-Prem,2627,Kilmarnock,Motherwell,3.0,2.0,H,1.0,1.0,D,3.25,3.75,2.01,,,,3.18,3.59,2.07,1.62,2.3,1.58,2.27,0.25,2.03,1.83,Kilmarnock,Motherwell,kilmarnock,motherwell

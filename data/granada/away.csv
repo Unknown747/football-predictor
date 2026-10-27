@@ -1,0 +1,108 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-16,SP1,Spain-LaLiga,2122,Villarreal,Granada,0.0,0.0,D,0.0,0.0,D,1.53,4.2,6.5,1.56,4.35,6.51,1.54,4.24,6.25,1.89,2.04,1.85,1.98,-1.0,1.97,1.96,Villarreal,Granada,villarreal,granada
+2021-08-29,SP1,Spain-LaLiga,2122,Vallecano,Granada,4.0,0.0,H,3.0,0.0,H,2.55,3.2,2.87,2.63,3.3,2.95,2.59,3.2,2.89,2.3,1.61,2.3,1.64,0.0,1.86,2.07,Rayo Vallecano,Granada,rayo_vallecano,granada
+2021-09-20,SP1,Spain-LaLiga,2122,Barcelona,Granada,1.0,1.0,D,0.0,1.0,A,1.28,5.75,10.0,1.29,5.96,12.35,1.29,5.83,10.53,1.5,2.62,1.5,2.59,-1.5,1.88,2.05,Barcelona,Granada,barcelona,granada
+2021-09-27,SP1,Spain-LaLiga,2122,Celta,Granada,1.0,0.0,H,0.0,0.0,D,1.61,4.0,5.5,1.65,4.19,5.54,1.65,4.02,5.24,1.9,1.9,1.89,1.94,-0.75,1.86,2.07,Celta Vigo,Granada,celta_vigo,granada
+2021-10-22,SP1,Spain-LaLiga,2122,Osasuna,Granada,1.0,1.0,D,1.0,0.0,H,1.72,3.5,5.25,1.81,3.57,5.25,1.78,3.52,5.01,2.2,1.66,2.25,1.67,-0.75,2.07,1.86,Osasuna,Granada,osasuna,granada
+2021-11-01,SP1,Spain-LaLiga,2122,Levante,Granada,0.0,3.0,A,0.0,2.0,A,1.95,3.4,4.0,2.05,3.49,4.03,2.01,3.44,3.85,2.1,1.72,2.09,1.74,-0.5,2.03,1.9,Levante,Granada,levante,granada
+2021-11-06,SP1,Spain-LaLiga,2122,Espanol,Granada,2.0,0.0,H,2.0,0.0,H,1.85,3.4,4.5,1.91,3.49,4.71,1.88,3.42,4.52,2.2,1.66,2.28,1.64,-0.5,1.91,2.02,Espanyol,Granada,espanyol,granada
+2021-11-26,SP1,Spain-LaLiga,2122,Ath Bilbao,Granada,2.0,2.0,D,1.0,2.0,A,1.36,4.75,9.5,1.42,4.69,9.41,1.4,4.6,8.89,2.0,1.8,2.06,1.78,-1.25,1.96,1.97,Athletic Bilbao,Granada,athletic_bilbao,granada
+2021-12-13,SP1,Spain-LaLiga,2122,Cadiz,Granada,1.0,1.0,D,1.0,0.0,H,2.6,3.1,2.9,2.68,3.13,3.04,2.58,3.11,2.96,2.3,1.61,2.3,1.63,0.0,1.81,2.13,Cadiz,Granada,cadiz,granada
+2022-01-02,SP1,Spain-LaLiga,2122,Elche,Granada,0.0,0.0,D,0.0,0.0,D,2.5,3.1,3.0,2.58,3.09,3.12,2.51,3.11,3.05,2.37,1.57,2.34,1.6,-0.25,2.08,1.73,Elche,Granada,elche,granada
+2022-01-20,SP1,Spain-LaLiga,2122,Getafe,Granada,4.0,2.0,H,1.0,1.0,D,2.1,3.2,3.8,2.13,3.15,4.04,2.13,3.1,3.9,2.62,1.5,2.59,1.49,-0.25,1.84,2.06,Getafe,Granada,getafe,granada
+2022-02-06,SP1,Spain-LaLiga,2122,Real Madrid,Granada,1.0,0.0,H,0.0,0.0,D,1.25,6.0,11.0,1.24,6.39,12.64,1.25,6.26,11.55,1.44,2.75,1.46,2.72,-1.75,1.91,1.99,Real Madrid,Granada,real_madrid,granada
+2022-02-13,SP1,Spain-LaLiga,2122,Sociedad,Granada,2.0,0.0,H,1.0,0.0,H,1.4,4.5,9.0,1.41,4.88,8.84,1.41,4.61,8.32,1.99,1.91,1.9,1.93,-1.25,2.04,1.86,Real Sociedad,Granada,real_sociedad,granada
+2022-03-05,SP1,Spain-LaLiga,2122,Valencia,Granada,3.0,1.0,H,0.0,0.0,D,1.75,3.6,4.5,1.79,3.79,4.92,1.79,3.69,4.61,2.01,1.89,1.96,1.86,-0.75,2.05,1.85,Valencia,Granada,valencia,granada
+2022-03-19,SP1,Spain-LaLiga,2122,Alaves,Granada,2.0,3.0,A,0.0,0.0,D,2.0,3.3,4.0,2.06,3.32,4.22,2.06,3.31,3.92,2.2,1.66,2.23,1.67,-0.5,2.06,1.84,Deportivo Alaves,Granada,deportivo_alaves,granada
+2022-04-08,SP1,Spain-LaLiga,2122,Sevilla,Granada,4.0,2.0,H,1.0,1.0,D,1.5,4.33,7.0,1.48,4.4,8.07,1.48,4.26,7.74,2.1,1.72,2.1,1.75,-1.0,1.84,2.06,Sevilla,Granada,sevilla,granada
+2022-04-20,SP1,Spain-LaLiga,2122,Ath Madrid,Granada,0.0,0.0,D,0.0,0.0,D,1.3,5.25,10.0,1.31,5.71,11.41,1.3,5.43,10.75,1.72,2.1,1.74,2.12,-1.5,1.95,1.95,Atletico Madrid,Granada,atletico_madrid,granada
+2022-05-07,SP1,Spain-LaLiga,2122,Mallorca,Granada,2.0,6.0,A,1.0,1.0,D,1.95,3.5,4.0,2.05,3.36,4.23,2.02,3.39,3.99,2.2,1.66,2.19,1.69,-0.5,2.02,1.88,Mallorca,Granada,mallorca,granada
+2022-05-15,SP1,Spain-LaLiga,2122,Betis,Granada,2.0,0.0,H,1.0,0.0,H,1.5,4.33,6.0,1.53,4.32,6.79,1.51,4.41,6.5,1.72,2.1,1.7,2.17,-1.0,1.84,2.06,Real Betis,Granada,real_betis,granada
+2022-08-14,SP2,Spain-Segunda,2223,Ibiza,Granada,0.0,2.0,A,0.0,0.0,D,3.1,3.2,2.45,3.27,3.13,2.42,3.04,3.14,2.38,2.07,1.72,2.08,1.73,0.25,1.8,2.05,Ibiza,Granada,ibiza,granada
+2022-09-04,SP2,Spain-Segunda,2223,Andorra,Granada,1.0,0.0,H,1.0,0.0,H,3.4,3.2,2.2,3.64,3.27,2.23,3.34,3.15,2.23,2.15,1.66,2.17,1.67,0.25,1.93,1.93,Andorra,Granada,andorra,granada
+2022-09-12,SP2,Spain-Segunda,2223,Eibar,Granada,4.0,0.0,H,1.0,0.0,H,2.7,3.1,2.8,2.79,2.99,2.9,2.64,3.02,2.79,2.25,1.61,2.26,1.61,0.0,1.93,1.93,Eibar,Granada,eibar,granada
+2022-09-26,SP2,Spain-Segunda,2223,Las Palmas,Granada,2.0,0.0,H,1.0,0.0,H,2.25,3.3,3.2,2.51,3.17,3.08,2.37,3.13,3.07,2.1,1.7,2.15,1.69,-0.25,2.02,1.83,Las Palmas,Granada,las_palmas,granada
+2022-10-08,SP2,Spain-Segunda,2223,Ponferradina,Granada,0.0,0.0,D,0.0,0.0,D,3.0,3.3,2.37,3.14,3.37,2.4,2.96,3.25,2.38,2.05,1.75,2.06,1.76,0.25,1.8,2.05,Ponferradina,Granada,ponferradina,granada
+2022-10-16,SP2,Spain-Segunda,2223,Tenerife,Granada,2.0,0.0,H,1.0,0.0,H,2.87,3.2,2.5,3.02,3.08,2.58,2.93,3.02,2.52,2.4,1.53,2.45,1.53,0.0,2.05,1.8,Tenerife,Granada,tenerife,granada
+2022-10-30,SP2,Spain-Segunda,2223,Cartagena,Granada,0.0,0.0,D,0.0,0.0,D,2.5,3.25,2.9,2.55,3.33,2.84,2.47,3.17,2.83,2.1,1.7,2.1,1.71,0.0,1.8,2.05,Cartagena,Granada,cartagena,granada
+2022-11-06,SP2,Spain-Segunda,2223,Oviedo,Granada,1.0,0.0,H,0.0,0.0,D,2.37,3.1,3.2,2.55,2.93,3.23,2.44,2.92,3.15,2.7,1.44,2.73,1.44,-0.25,2.0,1.8,Real Oviedo,Granada,real_oviedo,granada
+2022-11-27,SP2,Spain-Segunda,2223,Leganes,Granada,1.0,0.0,H,0.0,0.0,D,2.55,3.0,3.0,2.62,2.99,3.05,2.54,2.95,2.98,2.7,1.44,2.7,1.44,0.0,1.77,2.1,Leganes,Granada,leganes,granada
+2022-12-08,SP2,Spain-Segunda,2223,Malaga,Granada,1.0,1.0,D,1.0,0.0,H,3.1,3.25,2.37,3.43,3.09,2.33,3.22,3.05,2.33,2.4,1.53,2.43,1.54,0.25,1.83,2.02,Malaga,Granada,malaga,granada
+2022-12-17,SP2,Spain-Segunda,2223,Lugo,Granada,1.0,0.0,H,1.0,0.0,H,4.0,3.25,2.05,4.11,3.24,2.07,3.81,3.15,2.06,2.4,1.53,2.45,1.53,0.5,1.8,2.05,Lugo,Granada,lugo,granada
+2023-01-14,SP2,Spain-Segunda,2223,Levante,Granada,3.0,1.0,H,2.0,1.0,H,2.1,3.1,4.0,2.1,3.17,3.94,2.1,3.09,3.73,2.3,1.6,2.3,1.6,-0.25,1.77,2.1,Levante,Granada,levante,granada
+2023-02-05,SP2,Spain-Segunda,2223,Villarreal B,Granada,0.0,2.0,A,0.0,2.0,A,3.25,3.1,2.2,3.57,3.24,2.25,3.28,3.16,2.26,2.3,1.6,2.29,1.61,0.25,1.93,1.93,Villarreal B,Granada,villarreal_b,granada
+2023-02-19,SP2,Spain-Segunda,2223,Huesca,Granada,1.0,1.0,D,1.0,1.0,D,3.25,3.0,2.4,3.57,2.74,2.51,3.36,2.82,2.41,2.7,1.44,2.76,1.43,0.25,1.8,2.05,Huesca,Granada,huesca,granada
+2023-03-04,SP2,Spain-Segunda,2223,Burgos,Granada,1.0,3.0,A,1.0,0.0,H,3.5,2.9,2.3,3.85,2.89,2.34,3.6,2.82,2.31,3.1,1.36,3.01,1.37,0.25,1.88,1.98,Burgos,Granada,burgos,granada
+2023-03-18,SP2,Spain-Segunda,2223,Albacete,Granada,1.0,2.0,A,0.0,1.0,A,2.63,3.1,2.88,2.78,3.03,2.91,2.66,2.98,2.82,2.4,1.53,2.44,1.53,0.0,1.85,2.0,Albacete,Granada,albacete,granada
+2023-04-02,SP2,Spain-Segunda,2223,Sp Gijon,Granada,1.0,0.0,H,1.0,0.0,H,,,,3.23,2.98,2.51,3.06,2.97,2.46,,,2.46,1.52,0.0,,,Sp Gijon,Granada,sp_gijon,granada
+2023-04-08,SP2,Spain-Segunda,2223,Zaragoza,Granada,1.0,0.0,H,1.0,0.0,H,2.8,3.0,2.75,2.9,2.92,2.9,2.81,2.86,2.77,2.7,1.44,2.73,1.44,0.0,1.93,1.93,Zaragoza,Granada,zaragoza,granada
+2023-04-23,SP2,Spain-Segunda,2223,Santander,Granada,1.0,0.0,H,0.0,0.0,D,3.8,3.2,2.1,4.14,3.08,2.09,3.8,3.1,2.07,2.35,1.57,2.37,1.55,0.25,2.05,1.8,Santander,Granada,santander,granada
+2023-05-05,SP2,Spain-Segunda,2223,Alaves,Granada,1.0,1.0,D,0.0,1.0,A,2.15,3.0,3.8,2.18,3.17,3.86,2.15,3.06,3.68,2.5,1.5,2.47,1.52,-0.25,1.82,2.02,Deportivo Alaves,Granada,deportivo_alaves,granada
+2023-05-20,SP2,Spain-Segunda,2223,Mirandes,Granada,1.0,3.0,A,0.0,1.0,A,5.0,3.7,1.7,5.42,3.66,1.73,4.94,3.54,1.73,2.08,1.73,2.09,1.72,0.75,1.9,1.95,Mirandes,Granada,mirandes,granada
+2023-08-14,SP1,Spain-LaLiga,2324,Ath Madrid,Granada,3.0,1.0,H,1.0,0.0,H,1.3,5.5,9.5,1.31,5.76,10.3,1.3,5.49,10.27,1.67,2.2,1.68,2.2,-1.5,1.93,1.97,Atletico Madrid,Granada,atletico_madrid,granada
+2023-09-02,SP1,Spain-LaLiga,2324,Sociedad,Granada,5.0,3.0,H,2.0,1.0,H,1.44,4.5,7.0,1.47,4.63,7.49,1.45,4.59,7.29,1.85,2.05,1.82,2.02,-1.25,2.06,1.87,Real Sociedad,Granada,real_sociedad,granada
+2023-09-24,SP1,Spain-LaLiga,2324,Las Palmas,Granada,1.0,0.0,H,0.0,0.0,D,1.95,3.5,3.6,2.05,3.56,3.87,2.03,3.49,3.77,2.08,1.82,2.05,1.79,-0.5,2.03,1.87,Las Palmas,Granada,las_palmas,granada
+2023-10-01,SP1,Spain-LaLiga,2324,Almeria,Granada,3.0,3.0,D,3.0,0.0,H,1.95,3.6,3.75,1.92,3.68,3.96,1.96,3.7,3.79,1.73,2.08,1.76,2.09,-0.5,1.96,1.94,Almeria,Granada,almeria,granada
+2023-10-20,SP1,Spain-LaLiga,2324,Osasuna,Granada,2.0,0.0,H,1.0,0.0,H,1.73,3.8,4.75,1.72,3.99,5.13,1.73,3.87,4.89,1.89,2.01,1.86,1.97,-0.75,1.92,2.01,Osasuna,Granada,osasuna,granada
+2023-11-05,SP1,Spain-LaLiga,2324,Valencia,Granada,1.0,0.0,H,1.0,0.0,H,1.65,4.0,5.0,1.66,4.13,5.24,1.65,4.07,5.23,1.91,1.99,1.86,1.97,-0.75,1.85,2.08,Valencia,Granada,valencia,granada
+2023-11-24,SP1,Spain-LaLiga,2324,Alaves,Granada,3.0,1.0,H,2.0,0.0,H,1.7,3.6,5.0,1.76,3.74,5.15,1.74,3.74,5.05,2.1,1.7,2.05,1.79,-0.75,2.0,1.93,Deportivo Alaves,Granada,deportivo_alaves,granada
+2023-12-02,SP1,Spain-LaLiga,2324,Real Madrid,Granada,2.0,0.0,H,1.0,0.0,H,1.17,8.0,15.0,1.16,8.84,14.66,1.16,8.44,15.7,1.33,3.4,1.36,3.16,-2.25,2.08,1.85,Real Madrid,Granada,real_madrid,granada
+2023-12-16,SP1,Spain-LaLiga,2324,Celta,Granada,1.0,0.0,H,1.0,0.0,H,1.67,4.0,5.0,1.67,4.1,5.13,1.67,4.09,5.06,1.75,2.05,1.78,2.07,-0.75,1.87,2.06,Celta Vigo,Granada,celta_vigo,granada
+2024-01-13,SP1,Spain-LaLiga,2324,Betis,Granada,1.0,0.0,H,0.0,0.0,D,1.62,4.2,4.75,1.65,4.04,5.49,1.63,4.1,5.45,1.9,2.0,1.86,1.97,-0.75,1.81,2.09,Real Betis,Granada,real_betis,granada
+2024-01-29,SP1,Spain-LaLiga,2324,Getafe,Granada,2.0,0.0,H,2.0,0.0,H,1.8,3.4,4.75,1.82,3.5,5.01,1.82,3.49,4.73,2.3,1.6,2.3,1.62,-0.5,1.78,2.03,Getafe,Granada,getafe,granada
+2024-02-11,SP1,Spain-LaLiga,2324,Barcelona,Granada,3.0,3.0,D,1.0,1.0,D,1.22,7.5,10.0,1.2,7.83,12.33,1.21,7.23,12.32,1.4,2.88,1.4,2.91,-2.0,2.05,1.88,Barcelona,Granada,barcelona,granada
+2024-03-03,SP1,Spain-LaLiga,2324,Villarreal,Granada,5.0,1.0,H,3.0,0.0,H,1.65,4.0,5.0,1.65,4.33,5.04,1.65,4.21,4.99,1.62,2.25,1.64,2.3,-1.0,2.08,1.82,Villarreal,Granada,villarreal,granada
+2024-03-16,SP1,Spain-LaLiga,2324,Mallorca,Granada,1.0,0.0,H,0.0,0.0,D,1.83,3.3,5.0,1.84,3.43,5.0,1.84,3.4,4.85,2.35,1.57,2.41,1.59,-0.5,1.86,2.07,Mallorca,Granada,mallorca,granada
+2024-03-29,SP1,Spain-LaLiga,2324,Cadiz,Granada,1.0,0.0,H,0.0,0.0,D,2.0,3.3,4.2,2.02,3.37,4.23,2.02,3.34,4.1,2.3,1.6,2.33,1.61,-0.5,2.02,1.91,Cadiz,Granada,cadiz,granada
+2024-04-19,SP1,Spain-LaLiga,2324,Ath Bilbao,Granada,1.0,1.0,D,1.0,1.0,D,1.25,6.0,11.0,1.28,6.09,12.01,1.28,5.86,11.69,1.73,2.1,1.7,2.2,-1.5,1.9,2.0,Athletic Bilbao,Granada,athletic_bilbao,granada
+2024-05-05,SP1,Spain-LaLiga,2324,Sevilla,Granada,3.0,0.0,H,1.0,0.0,H,1.65,4.0,5.25,1.67,4.08,5.18,1.65,4.07,5.18,1.86,2.04,1.83,2.01,-0.75,1.86,2.07,Sevilla,Granada,sevilla,granada
+2024-05-15,SP1,Spain-LaLiga,2324,Vallecano,Granada,2.0,1.0,H,1.0,0.0,H,1.65,3.8,5.5,1.68,3.79,5.66,1.67,3.77,5.54,2.2,1.67,2.18,1.71,-0.75,1.87,2.03,Rayo Vallecano,Granada,rayo_vallecano,granada
+2024-05-24,SP1,Spain-LaLiga,2324,Girona,Granada,7.0,0.0,H,3.0,0.0,H,1.22,6.5,12.0,1.22,7.22,10.68,1.22,7.13,11.24,1.29,3.75,1.28,3.66,-2.0,1.98,1.92,Girona,Granada,girona,granada
+2024-08-24,SP2,Spain-Segunda,2425,Ferrol,Granada,0.0,1.0,A,0.0,0.0,D,3.2,3.0,2.45,3.16,3.0,2.5,3.03,3.0,2.46,2.4,1.53,2.4,1.55,0.25,1.78,2.1,Ferrol,Granada,ferrol,granada
+2024-09-15,SP2,Spain-Segunda,2425,Elche,Granada,2.0,2.0,D,1.0,0.0,H,2.3,3.25,3.1,2.28,3.23,3.27,2.26,3.22,3.14,2.15,1.67,2.12,1.69,-0.25,2.0,1.85,Elche,Granada,elche,granada
+2024-09-29,SP2,Spain-Segunda,2425,Burgos,Granada,2.0,2.0,D,0.0,0.0,D,2.35,3.25,3.1,2.4,3.2,3.12,2.35,3.21,3.0,2.03,1.83,1.98,1.8,-0.25,2.05,1.8,Burgos,Granada,burgos,granada
+2024-10-05,SP2,Spain-Segunda,2425,Mirandes,Granada,0.0,1.0,A,0.0,1.0,A,2.88,2.9,2.7,2.87,2.96,2.75,2.83,2.93,2.68,2.5,1.5,2.52,1.5,0.0,2.0,1.85,Mirandes,Granada,mirandes,granada
+2024-10-22,SP2,Spain-Segunda,2425,Castellon,Granada,2.0,3.0,A,2.0,1.0,H,2.15,3.5,3.25,2.21,3.59,3.31,2.16,3.48,3.16,1.7,2.1,1.71,2.1,-0.25,1.88,1.98,Castellon,Granada,castellon,granada
+2024-11-02,SP2,Spain-Segunda,2425,Zaragoza,Granada,2.0,1.0,H,1.0,0.0,H,2.05,2.75,3.75,2.11,3.3,3.65,2.09,3.24,3.54,2.05,1.75,2.05,1.74,-0.25,1.73,2.08,Zaragoza,Granada,zaragoza,granada
+2024-11-16,SP2,Spain-Segunda,2425,Sp Gijon,Granada,1.0,2.0,A,0.0,0.0,D,1.9,3.5,3.9,1.93,3.42,4.13,1.92,3.41,3.93,2.05,1.75,2.02,1.76,-0.5,1.93,1.93,Sp Gijon,Granada,sp_gijon,granada
+2024-11-30,SP2,Spain-Segunda,2425,Almeria,Granada,2.0,1.0,H,0.0,1.0,A,1.8,3.6,4.33,1.81,3.78,4.24,1.81,3.72,4.05,1.7,2.1,1.71,2.09,-0.5,1.83,2.03,Almeria,Granada,almeria,granada
+2024-12-14,SP2,Spain-Segunda,2425,Oviedo,Granada,2.0,0.0,H,0.0,0.0,D,2.1,3.25,3.5,2.09,3.19,3.86,2.08,3.21,3.6,2.15,1.67,2.15,1.67,-0.25,1.83,2.03,Real Oviedo,Granada,real_oviedo,granada
+2024-12-21,SP2,Spain-Segunda,2425,Eibar,Granada,1.0,1.0,D,1.0,0.0,H,2.4,2.9,3.25,2.55,2.82,3.43,2.45,2.9,3.17,2.3,1.6,2.3,1.59,-0.25,2.05,1.8,Eibar,Granada,eibar,granada
+2025-01-18,SP2,Spain-Segunda,2425,Levante,Granada,3.0,1.0,H,1.0,0.0,H,1.91,3.2,4.5,1.93,3.34,4.24,1.9,3.32,4.07,2.05,1.75,2.03,1.75,-0.5,1.93,1.93,Levante,Granada,levante,granada
+2025-01-31,SP2,Spain-Segunda,2425,Eldense,Granada,0.0,3.0,A,0.0,1.0,A,2.9,3.0,2.63,3.06,3.0,2.68,2.92,2.94,2.59,2.6,1.48,2.53,1.5,0.0,2.05,1.8,Eldense,Granada,eldense,granada
+2025-02-16,SP2,Spain-Segunda,2425,Huesca,Granada,1.0,1.0,D,0.0,0.0,D,2.63,2.8,3.1,2.65,2.89,3.07,2.55,2.83,3.01,2.5,1.5,2.56,1.49,0.0,1.78,2.1,Huesca,Granada,huesca,granada
+2025-03-02,SP2,Spain-Segunda,2425,Cordoba,Granada,5.0,0.0,H,2.0,0.0,H,2.4,3.1,3.0,2.47,3.03,3.17,2.42,3.01,3.02,2.05,1.75,2.02,1.77,-0.25,2.1,1.78,Cordoba,Granada,cordoba,granada
+2025-03-16,SP2,Spain-Segunda,2425,Cadiz,Granada,1.0,0.0,H,1.0,0.0,H,2.25,3.1,3.4,2.26,3.15,3.44,2.25,3.07,3.33,2.4,1.53,2.45,1.52,-0.25,1.87,1.87,Cadiz,Granada,cadiz,granada
+2025-03-28,SP2,Spain-Segunda,2425,Tenerife,Granada,2.0,1.0,H,0.0,1.0,A,2.5,3.0,3.0,2.58,3.01,3.03,2.49,2.97,2.97,2.5,1.5,2.49,1.51,0.0,1.72,2.04,Tenerife,Granada,tenerife,granada
+2025-04-13,SP2,Spain-Segunda,2425,Albacete,Granada,0.0,2.0,A,0.0,0.0,D,2.55,3.25,2.75,2.56,3.23,2.86,2.5,3.22,2.77,2.03,1.83,1.99,1.8,0.0,1.83,2.03,Albacete,Granada,albacete,granada
+2025-04-20,SP2,Spain-Segunda,2425,Cartagena,Granada,2.0,3.0,A,1.0,2.0,A,6.0,3.9,1.57,6.45,3.84,1.56,5.8,3.79,1.57,2.15,1.67,2.16,1.66,1.0,1.8,2.05,Cartagena,Granada,cartagena,granada
+2025-05-03,SP2,Spain-Segunda,2425,Malaga,Granada,1.0,0.0,H,1.0,0.0,H,3.1,3.1,2.38,3.19,3.16,2.38,3.07,3.12,2.37,2.2,1.65,2.22,1.64,0.25,1.8,2.05,Malaga,Granada,malaga,granada
+2025-05-17,SP2,Spain-Segunda,2425,La Coruna,Granada,2.0,3.0,A,0.0,2.0,A,2.88,3.5,2.3,2.95,3.5,2.32,2.9,3.44,2.3,1.85,1.95,1.84,1.93,0.25,1.78,2.03,La Coruna,Granada,la_coruna,granada
+2025-06-01,SP2,Spain-Segunda,2425,Santander,Granada,2.0,1.0,H,1.0,1.0,D,2.7,3.6,2.4,2.69,3.54,2.43,2.7,3.52,2.39,1.6,2.3,1.57,2.33,0.0,1.98,1.83,Santander,Granada,santander,granada
+2025-08-22,SP2,Spain-Segunda,2526,Eibar,Granada,3.0,0.0,H,1.0,0.0,H,1.9,3.3,4.2,1.98,3.3,4.42,1.93,3.16,3.97,2.4,1.53,2.42,1.5,-0.5,1.93,1.88,Eibar,Granada,eibar,granada
+2025-09-06,SP2,Spain-Segunda,2526,Malaga,Granada,2.0,2.0,D,2.0,1.0,H,1.86,3.2,4.33,1.93,3.34,4.28,1.91,3.23,3.91,2.35,1.57,2.23,1.58,-0.5,1.9,1.9,Malaga,Granada,malaga,granada
+2025-09-22,SP2,Spain-Segunda,2526,Burgos,Granada,1.0,1.0,D,0.0,0.0,D,2.15,3.1,3.5,2.2,3.24,3.48,2.13,3.09,3.34,2.35,1.57,2.32,1.55,-0.25,1.88,1.93,Burgos,Granada,burgos,granada
+2025-09-28,SP2,Spain-Segunda,2526,Huesca,Granada,0.0,1.0,A,0.0,1.0,A,2.15,3.0,3.6,2.23,3.0,3.73,2.13,3.07,3.37,2.4,1.53,2.3,1.56,-0.25,1.85,1.95,Huesca,Granada,huesca,granada
+2025-10-17,SP2,Spain-Segunda,2526,Andorra,Granada,0.0,0.0,D,0.0,0.0,D,2.01,3.5,3.3,2.22,3.4,3.47,2.11,3.26,3.23,2.1,1.7,2.04,1.71,-0.25,1.83,1.98,Andorra,Granada,andorra,granada
+2025-11-03,SP2,Spain-Segunda,2526,Valladolid,Granada,2.0,1.0,H,0.0,1.0,A,1.81,3.5,4.2,,,,1.86,3.3,4.04,2.15,1.67,2.12,1.65,-0.5,1.85,1.95,Real Valladolid,Granada,real_valladolid,granada
+2025-11-15,SP2,Spain-Segunda,2526,Santander,Granada,2.0,2.0,D,2.0,0.0,H,1.76,3.75,4.0,,,,1.78,3.68,3.91,1.7,2.1,1.67,2.08,-0.5,1.8,2.0,Santander,Granada,santander,granada
+2025-11-29,SP2,Spain-Segunda,2526,Cultural Leonesa,Granada,0.0,1.0,A,0.0,1.0,A,2.65,2.95,2.7,2.73,3.01,2.86,2.62,3.02,2.65,2.25,1.62,2.22,1.59,0.0,1.83,1.98,Cultural Leonesa,Granada,cultural_leonesa,granada
+2025-12-13,SP2,Spain-Segunda,2526,Sp Gijon,Granada,1.0,0.0,H,0.0,0.0,D,2.1,3.05,3.5,2.19,3.14,3.64,2.13,3.1,3.33,2.25,1.62,2.2,1.59,-0.25,1.85,1.95,Sp Gijon,Granada,sp_gijon,granada
+2026-01-03,SP2,Spain-Segunda,2526,Almeria,Granada,3.0,2.0,H,1.0,1.0,D,1.76,3.6,4.33,1.82,3.61,4.41,1.76,3.5,4.18,1.9,1.9,1.83,1.86,-0.5,1.8,2.0,Almeria,Granada,almeria,granada
+2026-01-24,SP2,Spain-Segunda,2526,Cadiz,Granada,1.0,2.0,A,0.0,1.0,A,2.65,3.2,2.7,,,,2.6,3.02,2.7,2.3,1.6,2.27,1.57,0.0,1.88,1.93,Cadiz,Granada,cadiz,granada
+2026-02-06,SP2,Spain-Segunda,2526,Leganes,Granada,1.0,0.0,H,1.0,0.0,H,2.25,3.0,3.4,,,,2.26,2.97,3.29,2.5,1.5,2.38,1.52,-0.25,1.95,1.85,Leganes,Granada,leganes,granada
+2026-02-20,SP2,Spain-Segunda,2526,Ceuta,Granada,2.0,1.0,H,1.0,0.0,H,2.45,3.1,2.85,,,,2.47,3.02,2.82,2.25,1.62,2.16,1.62,0.0,1.75,2.05,Ceuta,Granada,ceuta,granada
+2026-03-08,SP2,Spain-Segunda,2526,La Coruna,Granada,0.0,2.0,A,0.0,1.0,A,1.76,3.4,4.75,,,,1.8,3.29,4.3,2.2,1.65,2.14,1.63,-0.5,1.8,2.0,La Coruna,Granada,la_coruna,granada
+2026-03-22,SP2,Spain-Segunda,2526,Sociedad B,Granada,0.0,2.0,A,0.0,2.0,A,2.65,3.1,2.65,,,,2.6,3.14,2.58,2.15,1.67,2.09,1.66,0.0,1.9,1.9,Sociedad B,Granada,sociedad_b,granada
+2026-04-02,SP2,Spain-Segunda,2526,Las Palmas,Granada,2.0,0.0,H,0.0,0.0,D,1.96,3.1,4.2,,,,1.95,3.1,3.94,2.15,1.67,2.15,1.64,-0.5,1.98,1.83,Las Palmas,Granada,las_palmas,granada
+2026-04-06,SP2,Spain-Segunda,2526,Castellon,Granada,3.0,2.0,H,2.0,1.0,H,1.62,3.75,5.0,,,,1.62,3.75,4.81,1.83,1.98,1.77,1.95,-0.75,1.85,1.95,Castellon,Granada,castellon,granada
+2026-04-19,SP2,Spain-Segunda,2526,Albacete,Granada,4.0,1.0,H,2.0,0.0,H,2.45,3.2,2.75,,,,2.36,3.12,2.88,2.1,1.7,2.09,1.67,0.0,1.78,2.03,Albacete,Granada,albacete,granada
+2026-05-01,SP2,Spain-Segunda,2526,Zaragoza,Granada,0.0,1.0,A,0.0,0.0,D,1.96,3.2,3.9,,,,2.03,3.14,3.5,2.15,1.67,2.14,1.64,-0.5,2.03,1.78,Zaragoza,Granada,zaragoza,granada
+2026-05-10,SP2,Spain-Segunda,2526,Cordoba,Granada,1.0,0.0,H,0.0,0.0,D,1.71,3.75,4.2,,,,1.76,3.55,4.02,1.8,2.0,1.78,1.93,-0.75,2.0,1.8,Cordoba,Granada,cordoba,granada
+2026-05-24,SP2,Spain-Segunda,2526,Mirandes,Granada,3.0,1.0,H,2.0,1.0,H,1.57,4.0,5.25,,,,1.57,3.92,4.91,1.73,2.08,1.7,2.04,-1.0,2.03,1.78,Mirandes,Granada,mirandes,granada
+2026-08-15,SP2,Spain-Segunda,2627,Oviedo,Granada,0.0,0.0,D,0.0,0.0,D,1.68,3.5,5.0,,,,1.7,3.57,4.47,2.0,1.8,1.93,1.79,-0.75,1.95,1.85,Real Oviedo,Granada,real_oviedo,granada
+2026-08-30,SP2,Spain-Segunda,2627,Cordoba,Granada,1.0,3.0,A,1.0,0.0,H,1.76,3.6,4.33,,,,1.79,3.44,4.2,1.9,1.9,1.83,1.9,-0.5,1.8,2.0,Cordoba,Granada,cordoba,granada
+2026-09-06,SP2,Spain-Segunda,2627,Eibar,Granada,3.0,0.0,H,2.0,0.0,H,1.96,3.3,3.8,,,,1.94,3.23,3.77,2.25,1.62,2.2,1.61,-0.5,2.03,1.78,Eibar,Granada,eibar,granada
+2026-09-20,SP2,Spain-Segunda,2627,Leganes,Granada,3.0,2.0,H,2.0,1.0,H,1.96,3.1,4.1,,,,1.99,3.12,3.77,2.3,1.6,2.27,1.57,-0.5,2.03,1.78,Leganes,Granada,leganes,granada
+2026-10-04,SP2,Spain-Segunda,2627,Sociedad B,Granada,2.0,3.0,A,2.0,0.0,H,2.5,3.2,2.7,,,,2.46,3.23,2.64,1.95,1.85,1.91,1.81,0.0,1.83,1.98,Sociedad B,Granada,sociedad_b,granada
+2026-10-12,SP2,Spain-Segunda,2627,Burgos,Granada,0.0,1.0,A,0.0,1.0,A,2.4,3.1,3.0,,,,2.36,3.13,2.85,2.15,1.67,2.11,1.66,-0.25,2.05,1.75,Burgos,Granada,burgos,granada

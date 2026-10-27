@@ -1,0 +1,47 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-13,EC,England-Conference,2223,Oldham,Dorking,3.0,2.0,H,1.0,0.0,H,1.83,3.6,3.75,1.9,4.1,3.6,1.85,3.73,3.65,1.66,2.15,1.64,2.17,-0.5,1.83,1.98,Oldham,Dorking,oldham,dorking
+2022-08-16,EC,England-Conference,2223,Maidstone,Dorking,2.0,4.0,A,1.0,1.0,D,2.55,3.75,2.55,2.56,3.61,2.65,2.45,3.5,2.59,1.7,2.1,1.69,2.09,0.0,1.88,1.93,Maidstone,Dorking,maidstone,dorking
+2022-08-27,EC,England-Conference,2223,Solihull,Dorking,3.0,0.0,H,2.0,0.0,H,1.6,4.2,5.0,1.61,4.31,5.1,1.57,4.19,4.89,1.53,2.4,1.5,2.43,-1.0,1.98,1.83,Solihull,Dorking,solihull,dorking
+2022-09-13,EC,England-Conference,2223,Barnet,Dorking,0.0,1.0,A,0.0,1.0,A,2.3,3.5,2.62,2.37,3.73,2.82,2.29,3.62,2.7,1.57,2.35,1.52,2.39,-0.25,2.05,1.75,Barnet,Dorking,barnet,dorking
+2022-09-24,EC,England-Conference,2223,Scunthorpe,Dorking,3.0,2.0,H,0.0,2.0,A,2.5,3.75,2.55,2.49,3.88,2.6,2.45,3.56,2.54,1.65,2.2,1.61,2.21,0.0,1.88,1.93,Scunthorpe United,Dorking,scunthorpe_united,dorking
+2022-10-08,EC,England-Conference,2223,Altrincham,Dorking,4.0,1.0,H,1.0,0.0,H,2.15,3.6,2.8,2.2,3.76,3.08,2.2,3.54,2.86,1.66,2.15,1.57,2.25,-0.25,1.98,1.83,Altrincham,Dorking,altrincham,dorking
+2022-10-25,EC,England-Conference,2223,Woking,Dorking,3.0,3.0,D,1.0,1.0,D,1.66,3.8,4.2,1.7,4.32,4.39,1.69,4.09,4.05,1.44,2.7,1.44,2.63,-0.75,1.88,1.93,Woking,Dorking,woking,dorking
+2022-11-09,EC,England-Conference,2223,Torquay,Dorking,3.0,3.0,D,1.0,1.0,D,3.0,4.0,2.05,2.94,4.15,2.16,2.91,3.85,2.08,1.5,2.5,1.47,2.54,0.25,1.98,1.83,Torquay,Dorking,torquay,dorking
+2022-11-12,EC,England-Conference,2223,Southend,Dorking,2.0,0.0,H,2.0,0.0,H,1.75,3.8,4.0,1.76,4.08,4.28,1.74,3.87,4.0,1.57,2.35,1.58,2.28,-0.75,1.95,1.85,Southend United,Dorking,southend_united,dorking
+2022-12-03,EC,England-Conference,2223,Maidenhead,Dorking,1.0,1.0,D,0.0,1.0,A,2.4,3.6,2.7,2.38,3.74,2.8,2.34,3.56,2.64,1.61,2.25,1.6,2.21,0.0,1.83,1.98,Maidenhead,Dorking,maidenhead,dorking
+2022-12-06,EC,England-Conference,2223,Halifax,Dorking,3.0,1.0,H,1.0,0.0,H,1.95,3.75,3.5,2.05,3.8,3.39,2.01,3.58,3.24,1.75,2.05,1.71,2.04,-0.5,1.98,1.83,Halifax,Dorking,halifax,dorking
+2022-12-10,EC,England-Conference,2223,Chesterfield,Dorking,3.0,1.0,H,1.0,0.0,H,1.44,4.33,7.0,1.4,5.09,7.13,1.4,4.68,6.46,1.65,2.2,1.54,2.34,-1.25,2.0,1.8,Chesterfield,Dorking,chesterfield,dorking
+2023-01-01,EC,England-Conference,2223,Eastleigh,Dorking,4.0,0.0,H,4.0,0.0,H,1.95,3.75,3.1,1.97,3.85,3.58,1.95,3.64,3.35,1.7,2.1,1.67,2.11,-0.5,1.98,1.83,Eastleigh,Dorking,eastleigh,dorking
+2023-02-04,EC,England-Conference,2223,Aldershot,Dorking,2.0,0.0,H,1.0,0.0,H,1.91,3.5,3.6,1.94,4.03,3.53,1.94,3.68,3.34,1.62,2.25,1.6,2.25,-0.5,1.93,1.88,Aldershot,Dorking,aldershot,dorking
+2023-02-18,EC,England-Conference,2223,Bromley,Dorking,2.0,0.0,H,1.0,0.0,H,1.65,3.6,4.5,1.66,4.24,4.76,1.64,3.98,4.45,1.62,2.25,1.61,2.2,-0.75,1.8,2.0,Bromley,Dorking,bromley,dorking
+2023-02-25,EC,England-Conference,2223,Wrexham,Dorking,3.0,1.0,H,2.0,0.0,H,1.13,7.0,19.0,1.13,9.04,19.7,1.12,8.22,16.01,1.3,3.5,1.27,3.45,-2.5,2.0,1.8,Wrexham,Dorking,wrexham,dorking
+2023-02-28,EC,England-Conference,2223,Boreham Wood,Dorking,1.0,0.0,H,1.0,0.0,H,1.5,4.2,5.0,1.49,4.54,6.26,1.49,4.24,5.65,1.67,2.15,1.68,2.1,-1.0,1.77,2.02,Boreham Wood,Dorking,boreham_wood,dorking
+2023-03-11,EC,England-Conference,2223,Notts County,Dorking,3.0,1.0,H,1.0,1.0,D,1.13,7.5,17.0,1.14,8.28,18.04,1.12,8.08,15.92,1.3,3.5,1.28,3.36,-2.5,2.0,1.8,Notts County,Dorking,notts_county,dorking
+2023-03-18,EC,England-Conference,2223,York,Dorking,2.0,1.0,H,1.0,0.0,H,1.8,3.4,4.0,1.92,3.79,3.84,1.88,3.55,3.67,1.73,2.08,1.75,1.99,-0.5,1.83,1.98,York,Dorking,york,dorking
+2023-04-01,EC,England-Conference,2223,Dag and Red,Dorking,0.0,2.0,A,0.0,0.0,D,2.1,3.6,3.2,2.15,3.86,3.11,2.09,3.57,3.05,1.67,2.15,1.66,2.11,-0.25,1.83,1.98,Dag and Red,Dorking,dag_and_red,dorking
+2023-04-10,EC,England-Conference,2223,Yeovil,Dorking,0.0,1.0,A,0.0,0.0,D,2.63,3.3,2.63,2.53,3.59,2.7,2.47,3.43,2.57,1.8,2.0,1.81,1.92,0.0,1.9,1.9,Yeovil Town,Dorking,yeovil_town,dorking
+2023-04-18,EC,England-Conference,2223,Gateshead,Dorking,0.0,0.0,D,0.0,0.0,D,1.5,4.0,6.0,1.55,4.51,5.49,1.51,4.33,5.26,1.53,2.4,1.49,2.46,-1.0,1.8,2.0,Gateshead,Dorking,gateshead,dorking
+2023-04-22,EC,England-Conference,2223,Wealdstone,Dorking,2.0,2.0,D,1.0,2.0,A,2.1,3.5,2.8,2.26,3.61,3.07,2.16,3.48,2.96,1.67,2.15,1.63,2.16,-0.25,1.9,1.9,Wealdstone,Dorking,wealdstone,dorking
+2023-08-05,EC,England-Conference,2324,Chesterfield,Dorking,4.0,3.0,H,1.0,1.0,D,1.25,5.25,11.0,1.25,6.07,10.66,1.24,5.7,9.9,1.48,2.6,1.44,2.61,-1.75,1.93,1.88,Chesterfield,Dorking,chesterfield,dorking
+2023-08-19,EC,England-Conference,2324,Solihull,Dorking,3.0,0.0,H,2.0,0.0,H,1.75,3.6,4.0,1.76,4.16,4.16,1.74,3.89,3.94,1.62,2.25,1.54,2.34,-0.75,2.0,1.8,Solihull,Dorking,solihull,dorking
+2023-08-28,EC,England-Conference,2324,Woking,Dorking,2.0,0.0,H,1.0,0.0,H,1.57,4.5,5.0,1.58,4.38,5.25,1.56,4.19,4.93,1.53,2.4,1.54,2.35,-1.0,1.95,1.85,Woking,Dorking,woking,dorking
+2023-09-09,EC,England-Conference,2324,Oldham,Dorking,0.0,0.0,D,0.0,0.0,D,1.6,4.0,4.5,1.58,4.35,5.14,1.57,4.16,4.8,1.53,2.4,1.52,2.37,-1.0,2.03,1.78,Oldham,Dorking,oldham,dorking
+2023-09-16,EC,England-Conference,2324,Halifax,Dorking,0.0,1.0,A,0.0,1.0,A,1.67,3.5,4.75,1.71,4.04,4.47,1.68,3.86,4.36,1.7,2.1,1.7,2.06,-0.75,1.9,1.9,Halifax,Dorking,halifax,dorking
+2023-09-26,EC,England-Conference,2324,Ebbsfleet,Dorking,0.0,1.0,A,0.0,0.0,D,1.62,3.8,4.5,1.63,4.38,4.79,1.61,4.18,4.46,1.48,2.6,1.47,2.52,-1.0,2.03,1.78,Ebbsfleet,Dorking,ebbsfleet,dorking
+2023-09-30,EC,England-Conference,2324,Hartlepool,Dorking,0.0,2.0,A,0.0,0.0,D,1.53,3.8,5.5,1.56,4.6,5.22,1.52,4.37,5.01,1.48,2.6,1.46,2.54,-1.0,1.88,1.93,Hartlepool United,Dorking,hartlepool_united,dorking
+2023-10-24,EC,England-Conference,2324,Bromley,Dorking,2.0,1.0,H,1.0,1.0,D,1.6,4.0,5.5,1.64,4.29,4.87,1.61,4.07,4.61,1.62,2.25,1.6,2.24,-1.0,1.98,1.83,Bromley,Dorking,bromley,dorking
+2023-11-11,EC,England-Conference,2324,Gateshead,Dorking,6.0,0.0,H,3.0,0.0,H,1.4,4.5,8.0,1.37,5.18,7.75,1.36,4.8,7.09,1.5,2.5,1.48,2.49,-1.25,1.78,2.03,Gateshead,Dorking,gateshead,dorking
+2023-11-25,EC,England-Conference,2324,Fylde,Dorking,3.0,3.0,D,3.0,1.0,H,1.57,4.0,4.5,1.62,4.48,4.77,1.58,4.16,4.61,1.53,2.4,1.5,2.43,-1.0,1.98,1.83,Fylde,Dorking,fylde,dorking
+2023-12-23,EC,England-Conference,2324,Eastleigh,Dorking,2.0,1.0,H,1.0,0.0,H,1.65,3.8,4.33,1.69,4.2,4.57,1.65,3.94,4.37,1.57,2.35,1.55,2.32,-0.75,1.83,1.98,Eastleigh,Dorking,eastleigh,dorking
+2024-01-01,EC,England-Conference,2324,Oxford City,Dorking,1.0,2.0,A,0.0,0.0,D,2.05,3.6,3.3,2.07,3.82,3.33,2.05,3.56,3.15,1.57,2.35,1.57,2.29,-0.25,1.83,1.98,Oxford City,Dorking,oxford_city,dorking
+2024-01-23,EC,England-Conference,2324,Dag and Red,Dorking,2.0,1.0,H,0.0,0.0,D,1.67,3.8,5.0,1.74,3.99,4.52,1.66,3.86,4.44,1.67,2.15,1.65,2.12,-0.75,1.88,1.93,Dag and Red,Dorking,dag_and_red,dorking
+2024-01-27,EC,England-Conference,2324,Boreham Wood,Dorking,0.0,3.0,A,0.0,2.0,A,1.6,4.0,4.75,1.62,4.26,5.11,1.58,4.04,4.83,1.67,2.15,1.66,2.12,-1.0,2.0,1.8,Boreham Wood,Dorking,boreham_wood,dorking
+2024-02-13,EC,England-Conference,2324,York,Dorking,0.0,1.0,A,0.0,0.0,D,1.83,3.3,4.0,1.94,3.75,3.77,1.88,3.57,3.66,1.75,2.05,1.7,2.07,-0.5,1.88,1.93,York,Dorking,york,dorking
+2024-02-17,EC,England-Conference,2324,Kidderminster,Dorking,0.0,0.0,D,0.0,0.0,D,1.7,3.75,5.0,1.71,3.9,4.79,1.69,3.69,4.48,1.83,1.98,1.81,1.92,-0.75,1.9,1.9,Kidderminster,Dorking,kidderminster,dorking
+2024-03-05,EC,England-Conference,2324,Altrincham,Dorking,2.0,1.0,H,2.0,0.0,H,1.53,3.75,5.5,1.54,4.56,5.5,1.51,4.28,5.19,1.57,2.35,1.53,2.38,-1.0,1.9,1.9,Altrincham,Dorking,altrincham,dorking
+2024-03-09,EC,England-Conference,2324,Maidenhead,Dorking,4.0,2.0,H,3.0,1.0,H,1.8,3.6,3.75,1.84,3.87,4.08,1.82,3.68,3.77,1.75,2.05,1.75,2.0,-0.5,1.85,1.95,Maidenhead,Dorking,maidenhead,dorking
+2024-03-12,EC,England-Conference,2324,Southend,Dorking,2.0,0.0,H,1.0,0.0,H,1.44,4.33,6.0,1.45,5.11,5.95,1.42,4.71,5.89,1.53,2.4,1.52,2.42,-1.25,1.93,1.88,Southend United,Dorking,southend_united,dorking
+2024-03-23,EC,England-Conference,2324,Barnet,Dorking,6.0,0.0,H,4.0,0.0,H,1.36,4.5,7.5,1.42,5.14,6.65,1.37,4.84,6.72,1.53,2.4,1.5,2.46,-1.25,1.8,2.0,Barnet,Dorking,barnet,dorking
+2024-04-01,EC,England-Conference,2324,Aldershot,Dorking,1.0,1.0,D,1.0,0.0,H,1.67,3.8,4.2,1.75,4.27,4.04,1.7,4.05,3.99,1.44,2.7,1.43,2.67,-0.75,1.9,1.9,Aldershot,Dorking,aldershot,dorking
+2024-04-11,EC,England-Conference,2324,Wealdstone,Dorking,4.0,2.0,H,0.0,0.0,D,2.1,3.5,2.95,,,,2.14,3.5,2.97,1.7,2.1,1.69,2.08,,,,Wealdstone,Dorking,wealdstone,dorking
+2024-04-13,EC,England-Conference,2324,Rochdale,Dorking,1.0,1.0,D,0.0,0.0,D,1.65,4.0,4.5,1.7,4.03,4.6,1.65,4.0,4.38,1.57,2.35,1.55,2.35,-0.75,1.85,1.95,Rochdale,Dorking,rochdale,dorking

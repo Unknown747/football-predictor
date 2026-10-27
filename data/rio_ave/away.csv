@@ -1,0 +1,73 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-13,P1,Portugal-Liga1,2223,Sp Lisbon,Rio Ave,3.0,0.0,H,1.0,0.0,H,1.22,6.0,11.0,1.2,6.76,17.54,1.22,6.19,13.82,1.7,2.1,1.71,2.13,-1.75,1.97,1.93,Sp Lisbon,Rio Ave,sp_lisbon,rio_ave
+2022-08-19,P1,Portugal-Liga1,2223,Estoril,Rio Ave,2.0,2.0,D,1.0,0.0,H,2.1,3.25,3.75,2.16,3.31,3.8,2.13,3.23,3.59,2.25,1.61,2.27,1.63,-0.25,1.83,2.07,Estoril,Rio Ave,estoril,rio_ave
+2022-09-05,P1,Portugal-Liga1,2223,Chaves,Rio Ave,1.0,1.0,D,1.0,0.0,H,2.5,3.0,2.87,2.54,3.17,3.09,2.51,3.08,2.95,2.25,1.61,2.25,1.63,0.0,1.78,2.13,Chaves,Rio Ave,chaves,rio_ave
+2022-09-17,P1,Portugal-Liga1,2223,Gil Vicente,Rio Ave,2.0,2.0,D,0.0,1.0,A,1.95,3.3,3.8,2.03,3.45,4.07,2.01,3.36,3.79,2.1,1.7,2.13,1.7,-0.5,2.03,1.87,Gil Vicente,Rio Ave,gil_vicente,rio_ave
+2022-10-08,P1,Portugal-Liga1,2223,Benfica,Rio Ave,4.0,2.0,H,3.0,1.0,H,1.16,7.0,13.0,1.16,8.25,18.33,1.15,7.6,16.49,1.44,2.7,1.46,2.66,-2.0,1.84,2.06,Benfica,Rio Ave,benfica,rio_ave
+2022-10-30,P1,Portugal-Liga1,2223,Casa Pia,Rio Ave,1.0,0.0,H,0.0,0.0,D,2.0,3.2,3.8,2.08,3.39,3.94,2.03,3.25,3.76,2.25,1.61,2.28,1.6,-0.5,2.05,1.85,Casa Pia,Rio Ave,casa_pia,rio_ave
+2022-11-12,P1,Portugal-Liga1,2223,Arouca,Rio Ave,0.0,1.0,A,0.0,0.0,D,2.25,3.2,3.25,2.38,3.27,3.32,2.29,3.2,3.23,2.25,1.61,2.25,1.63,-0.25,2.0,1.9,Arouca,Rio Ave,arouca,rio_ave
+2023-01-07,P1,Portugal-Liga1,2223,Guimaraes,Rio Ave,0.0,0.0,D,0.0,0.0,D,2.0,3.4,3.75,2.06,3.31,4.13,2.02,3.3,3.85,2.25,1.62,2.31,1.61,-0.5,2.04,1.86,Vitoria Guimaraes,Rio Ave,vitoria_guimaraes,rio_ave
+2023-01-22,P1,Portugal-Liga1,2223,Famalicao,Rio Ave,0.0,0.0,D,0.0,0.0,D,2.05,3.3,3.75,2.11,3.28,3.99,2.11,3.24,3.64,2.35,1.57,2.34,1.59,-0.25,1.75,2.05,Famalicao,Rio Ave,famalicao,rio_ave
+2023-01-29,P1,Portugal-Liga1,2223,Vizela,Rio Ave,3.0,1.0,H,0.0,1.0,A,1.91,3.4,4.0,1.95,3.54,4.26,1.93,3.43,4.02,2.1,1.7,2.14,1.71,-0.5,1.92,1.98,Vizela,Rio Ave,vizela,rio_ave
+2023-02-18,P1,Portugal-Liga1,2223,Porto,Rio Ave,1.0,0.0,H,1.0,0.0,H,1.17,7.0,15.0,1.18,7.53,18.07,1.17,7.04,16.36,1.62,2.25,1.63,2.27,-2.0,2.02,1.88,FC Porto,Rio Ave,fc_porto,rio_ave
+2023-03-05,P1,Portugal-Liga1,2223,Sp Braga,Rio Ave,2.0,0.0,H,1.0,0.0,H,1.44,4.2,8.0,1.41,4.54,9.58,1.41,4.42,8.27,1.88,1.98,1.87,1.93,-1.25,2.04,1.86,Sp Braga,Rio Ave,sp_braga,rio_ave
+2023-03-17,P1,Portugal-Liga1,2223,Santa Clara,Rio Ave,0.0,2.0,A,0.0,0.0,D,2.6,3.0,3.0,2.69,2.91,3.14,2.62,2.9,3.02,2.7,1.44,2.69,1.45,0.0,1.8,2.1,Santa Clara,Rio Ave,santa_clara,rio_ave
+2023-04-08,P1,Portugal-Liga1,2223,Portimonense,Rio Ave,2.0,2.0,D,0.0,1.0,A,2.6,3.0,2.88,2.72,3.03,3.04,2.63,3.0,2.9,2.5,1.5,2.53,1.51,0.0,1.84,2.06,Portimonense,Rio Ave,portimonense,rio_ave
+2023-04-22,P1,Portugal-Liga1,2223,Boavista,Rio Ave,3.0,2.0,H,3.0,1.0,H,2.3,3.2,3.1,2.45,3.1,3.37,2.37,3.12,3.19,2.35,1.57,2.39,1.56,-0.25,2.04,1.86,Boavista,Rio Ave,boavista,rio_ave
+2023-05-07,P1,Portugal-Liga1,2223,Maritimo,Rio Ave,2.0,2.0,D,1.0,2.0,A,2.3,3.1,3.1,2.35,3.23,3.42,2.31,3.18,3.23,2.25,1.62,2.26,1.63,-0.25,1.99,1.91,Maritimo,Rio Ave,maritimo,rio_ave
+2023-05-21,P1,Portugal-Liga1,2223,Pacos Ferreira,Rio Ave,3.0,1.0,H,1.0,1.0,D,2.45,3.2,2.63,2.59,3.49,2.83,2.53,3.37,2.74,2.0,1.85,1.97,1.82,0.0,1.84,2.06,Pacos Ferreira,Rio Ave,pacos_ferreira,rio_ave
+2023-08-20,P1,Portugal-Liga1,2324,Estoril,Rio Ave,2.0,0.0,H,0.0,0.0,D,2.4,3.2,3.0,2.54,3.24,3.07,2.43,3.19,3.01,2.2,1.65,2.24,1.64,-0.25,2.1,1.8,Estoril,Rio Ave,estoril,rio_ave
+2023-09-02,P1,Portugal-Liga1,2324,Casa Pia,Rio Ave,1.0,1.0,D,1.0,0.0,H,2.1,3.5,3.25,2.22,3.39,3.53,2.17,3.33,3.38,2.15,1.67,2.18,1.68,-0.25,1.89,2.01,Casa Pia,Rio Ave,casa_pia,rio_ave
+2023-09-25,P1,Portugal-Liga1,2324,Sp Lisbon,Rio Ave,2.0,0.0,H,2.0,0.0,H,1.2,6.0,15.0,1.2,7.3,13.69,1.2,6.7,13.55,1.57,2.35,1.56,2.39,-2.0,2.05,1.75,Sp Lisbon,Rio Ave,sp_lisbon,rio_ave
+2023-10-07,P1,Portugal-Liga1,2324,Sp Braga,Rio Ave,2.0,1.0,H,0.0,1.0,A,1.29,4.75,8.0,1.32,5.88,9.83,1.31,5.48,9.25,1.57,2.35,1.58,2.36,-1.5,1.92,1.98,Sp Braga,Rio Ave,sp_braga,rio_ave
+2023-11-12,P1,Portugal-Liga1,2324,Gil Vicente,Rio Ave,1.0,1.0,D,0.0,0.0,D,2.0,3.6,3.6,2.02,3.64,3.8,2.01,3.53,3.64,1.88,1.98,1.88,1.92,-0.5,2.03,1.87,Gil Vicente,Rio Ave,gil_vicente,rio_ave
+2023-12-10,P1,Portugal-Liga1,2324,Arouca,Rio Ave,2.0,2.0,D,0.0,2.0,A,2.15,3.2,3.5,2.19,3.32,3.69,2.17,3.28,3.47,2.15,1.67,2.15,1.7,-0.25,1.88,2.02,Arouca,Rio Ave,arouca,rio_ave
+2023-12-23,P1,Portugal-Liga1,2324,Guimaraes,Rio Ave,1.0,0.0,H,0.0,0.0,D,1.67,3.75,4.75,1.69,3.93,5.43,1.67,3.87,5.0,1.93,1.93,1.88,1.92,-0.75,1.9,2.0,Vitoria Guimaraes,Rio Ave,vitoria_guimaraes,rio_ave
+2024-01-14,P1,Portugal-Liga1,2324,Benfica,Rio Ave,4.0,1.0,H,1.0,1.0,D,1.2,7.0,12.0,1.19,7.68,14.49,1.2,6.86,13.27,1.5,2.5,1.51,2.52,-1.75,1.78,2.03,Benfica,Rio Ave,benfica,rio_ave
+2024-01-21,P1,Portugal-Liga1,2324,Chaves,Rio Ave,0.0,0.0,D,0.0,0.0,D,3.0,3.25,2.45,3.15,3.3,2.46,3.01,3.24,2.41,2.15,1.67,2.12,1.72,0.25,1.8,2.1,Chaves,Rio Ave,chaves,rio_ave
+2024-02-03,P1,Portugal-Liga1,2324,Porto,Rio Ave,0.0,0.0,D,0.0,0.0,D,1.22,6.5,11.0,1.2,7.21,15.59,1.21,6.54,13.48,1.6,2.3,1.6,2.32,-1.75,1.87,2.03,FC Porto,Rio Ave,fc_porto,rio_ave
+2024-02-16,P1,Portugal-Liga1,2324,Famalicao,Rio Ave,2.0,1.0,H,1.0,1.0,D,2.1,3.1,3.8,2.16,3.12,4.08,2.15,3.1,3.75,2.4,1.53,2.46,1.54,-0.25,1.82,2.08,Famalicao,Rio Ave,famalicao,rio_ave
+2024-03-02,P1,Portugal-Liga1,2324,Moreirense,Rio Ave,0.0,0.0,D,0.0,0.0,D,2.2,3.2,3.5,2.27,3.19,3.65,2.22,3.17,3.44,2.35,1.57,2.39,1.57,-0.25,1.91,1.99,Moreirense,Rio Ave,moreirense,rio_ave
+2024-03-16,P1,Portugal-Liga1,2324,Farense,Rio Ave,1.0,1.0,D,1.0,0.0,H,2.7,3.1,2.8,2.8,3.17,2.82,2.67,3.16,2.77,2.25,1.62,2.19,1.67,0.0,1.92,1.98,Farense,Rio Ave,farense,rio_ave
+2024-03-30,P1,Portugal-Liga1,2324,Boavista,Rio Ave,0.0,0.0,D,0.0,0.0,D,2.75,3.0,2.88,2.7,3.15,2.9,2.67,3.1,2.79,2.4,1.53,2.38,1.57,0.0,1.9,2.0,Boavista,Rio Ave,boavista,rio_ave
+2024-04-14,P1,Portugal-Liga1,2324,Estrela,Rio Ave,2.0,2.0,D,1.0,1.0,D,2.5,3.25,2.9,2.65,2.98,3.12,2.54,3.05,2.99,2.35,1.57,2.38,1.57,0.0,1.79,2.11,Estrela Amadora,Rio Ave,estrela_amadora,rio_ave
+2024-04-27,P1,Portugal-Liga1,2324,Vizela,Rio Ave,1.0,1.0,D,1.0,1.0,D,2.7,3.2,2.7,2.77,3.18,2.8,2.67,3.19,2.72,2.1,1.7,2.12,1.71,0.0,1.95,1.95,Vizela,Rio Ave,vizela,rio_ave
+2024-05-11,P1,Portugal-Liga1,2324,Portimonense,Rio Ave,2.0,2.0,D,0.0,1.0,A,2.15,3.3,3.3,2.16,3.46,3.22,2.16,3.43,3.27,2.03,1.83,2.02,1.79,-0.25,1.92,1.98,Portimonense,Rio Ave,portimonense,rio_ave
+2024-08-09,P1,Portugal-Liga1,2425,Sp Lisbon,Rio Ave,3.0,1.0,H,2.0,0.0,H,1.17,8.0,13.0,1.16,8.42,15.65,1.16,7.79,15.44,1.44,2.7,1.44,2.74,-2.0,1.85,2.05,Sp Lisbon,Rio Ave,sp_lisbon,rio_ave
+2024-08-24,P1,Portugal-Liga1,2425,Porto,Rio Ave,2.0,0.0,H,2.0,0.0,H,1.25,6.25,10.0,1.22,6.09,12.66,1.23,6.01,12.26,1.7,2.1,1.72,2.11,-1.75,2.02,1.88,FC Porto,Rio Ave,fc_porto,rio_ave
+2024-09-14,P1,Portugal-Liga1,2425,AVS,Rio Ave,1.0,0.0,H,0.0,0.0,D,2.7,3.1,2.75,2.63,3.15,2.81,2.61,3.19,2.75,2.1,1.7,2.12,1.7,0.0,1.9,2.0,AVS,Rio Ave,avs,rio_ave
+2024-09-29,P1,Portugal-Liga1,2425,Sp Braga,Rio Ave,4.0,0.0,H,2.0,0.0,H,1.36,4.75,8.0,1.39,4.81,7.76,1.4,4.74,7.44,1.7,2.1,1.71,2.1,-1.25,1.95,1.95,Sp Braga,Rio Ave,sp_braga,rio_ave
+2024-10-27,P1,Portugal-Liga1,2425,Benfica,Rio Ave,5.0,0.0,H,3.0,0.0,H,1.17,7.5,13.0,1.17,7.58,13.67,1.17,7.32,14.59,1.48,2.6,1.46,2.64,-2.0,1.91,1.99,Benfica,Rio Ave,benfica,rio_ave
+2024-11-09,P1,Portugal-Liga1,2425,Boavista,Rio Ave,0.0,2.0,A,0.0,1.0,A,2.75,3.1,2.7,2.74,3.12,2.74,2.73,3.12,2.67,2.25,1.62,2.31,1.61,0.0,1.95,1.95,Boavista,Rio Ave,boavista,rio_ave
+2024-12-07,P1,Portugal-Liga1,2425,Santa Clara,Rio Ave,1.0,0.0,H,1.0,0.0,H,1.83,3.3,4.75,1.82,3.39,4.79,1.82,3.43,4.63,2.2,1.65,2.18,1.67,-0.5,1.87,2.03,Santa Clara,Rio Ave,santa_clara,rio_ave
+2024-12-23,P1,Portugal-Liga1,2425,Estrela,Rio Ave,1.0,0.0,H,1.0,0.0,H,2.35,3.3,3.0,2.38,3.21,3.15,2.36,3.24,3.0,2.1,1.7,2.1,1.71,-0.25,2.06,1.84,Estrela Amadora,Rio Ave,estrela_amadora,rio_ave
+2025-01-06,P1,Portugal-Liga1,2425,Gil Vicente,Rio Ave,1.0,1.0,D,1.0,0.0,H,2.2,3.2,3.4,2.23,3.06,3.63,2.15,3.17,3.47,2.15,1.67,2.15,1.67,-0.25,1.92,1.98,Gil Vicente,Rio Ave,gil_vicente,rio_ave
+2025-01-25,P1,Portugal-Liga1,2425,Farense,Rio Ave,1.0,2.0,A,0.0,1.0,A,2.55,2.9,3.0,2.6,3.03,3.0,2.55,3.01,2.94,2.4,1.5,2.41,1.54,0.0,1.82,2.08,Farense,Rio Ave,farense,rio_ave
+2025-02-10,P1,Portugal-Liga1,2425,Arouca,Rio Ave,1.0,1.0,D,0.0,0.0,D,1.91,3.25,4.2,1.98,3.36,4.03,1.96,3.34,3.9,2.1,1.7,2.1,1.71,-0.5,2.0,1.9,Arouca,Rio Ave,arouca,rio_ave
+2025-02-22,P1,Portugal-Liga1,2425,Estoril,Rio Ave,2.0,1.0,H,0.0,0.0,D,2.05,3.4,3.6,2.06,3.37,3.73,2.04,3.4,3.64,2.05,1.8,2.01,1.81,-0.5,2.08,1.82,Estoril,Rio Ave,estoril,rio_ave
+2025-03-10,P1,Portugal-Liga1,2425,Famalicao,Rio Ave,1.0,0.0,H,1.0,0.0,H,1.95,3.3,4.1,1.97,2.95,4.85,1.97,3.04,4.45,2.15,1.67,2.13,1.7,-0.5,1.99,1.91,Famalicao,Rio Ave,famalicao,rio_ave
+2025-03-29,P1,Portugal-Liga1,2425,Casa Pia,Rio Ave,2.0,1.0,H,1.0,1.0,D,2.0,3.3,3.75,2.07,3.37,3.86,2.08,3.32,3.62,2.08,1.73,2.12,1.71,-0.5,2.06,1.84,Casa Pia,Rio Ave,casa_pia,rio_ave
+2025-04-13,P1,Portugal-Liga1,2425,Moreirense,Rio Ave,0.0,2.0,A,0.0,0.0,D,1.95,3.25,4.1,1.96,3.13,4.48,1.97,3.23,4.06,2.2,1.65,2.21,1.64,-0.5,2.0,1.9,Moreirense,Rio Ave,moreirense,rio_ave
+2025-04-27,P1,Portugal-Liga1,2425,Guimaraes,Rio Ave,3.0,0.0,H,3.0,0.0,H,1.53,4.1,6.25,1.5,4.01,5.84,1.53,4.1,5.73,1.85,2.0,1.82,1.96,-1.0,1.95,1.95,Vitoria Guimaraes,Rio Ave,vitoria_guimaraes,rio_ave
+2025-05-10,P1,Portugal-Liga1,2425,Nacional,Rio Ave,3.0,3.0,D,0.0,3.0,A,1.95,3.5,3.75,2.01,3.49,3.75,1.96,3.51,3.7,1.93,1.93,1.89,1.89,-0.5,2.02,1.88,Nacional,Rio Ave,nacional,rio_ave
+2025-08-23,P1,Portugal-Liga1,2526,Arouca,Rio Ave,3.0,3.0,D,1.0,0.0,H,2.0,3.25,3.9,2.03,3.44,3.77,1.98,3.39,3.62,2.05,1.8,1.98,1.75,-0.5,2.03,1.83,Arouca,Rio Ave,arouca,rio_ave
+2025-09-13,P1,Portugal-Liga1,2526,Moreirense,Rio Ave,3.0,1.0,H,0.0,0.0,D,2.5,3.0,3.0,2.58,3.05,3.0,2.45,3.09,2.9,2.25,1.62,2.22,1.6,0.0,1.8,2.05,Moreirense,Rio Ave,moreirense,rio_ave
+2025-09-23,P1,Portugal-Liga1,2526,Benfica,Rio Ave,1.0,1.0,D,0.0,0.0,D,1.17,7.0,11.0,1.19,7.54,14.35,1.18,6.87,12.13,1.4,2.88,1.38,2.81,-2.0,2.0,1.85,Benfica,Rio Ave,benfica,rio_ave
+2025-09-28,P1,Portugal-Liga1,2526,Famalicao,Rio Ave,0.0,0.0,D,0.0,0.0,D,1.76,3.8,4.1,1.78,3.66,4.56,1.76,3.66,4.29,2.0,1.85,1.9,1.83,-0.5,1.8,2.05,Famalicao,Rio Ave,famalicao,rio_ave
+2025-10-25,P1,Portugal-Liga1,2526,Estrela,Rio Ave,1.0,2.0,A,1.0,0.0,H,2.57,3.2,2.7,2.65,3.25,2.75,2.56,3.17,2.69,2.15,1.67,2.08,1.68,0.0,1.88,1.98,Estrela Amadora,Rio Ave,estrela_amadora,rio_ave
+2025-11-08,P1,Portugal-Liga1,2526,Alverca,Rio Ave,1.0,1.0,D,0.0,1.0,A,2.15,3.3,3.2,2.3,3.27,3.24,2.24,3.24,3.11,2.15,1.67,2.08,1.68,-0.25,1.95,1.9,Alverca,Rio Ave,alverca,rio_ave
+2025-12-06,P1,Portugal-Liga1,2526,AVS,Rio Ave,1.0,2.0,A,0.0,1.0,A,2.95,3.25,2.35,2.98,3.29,2.44,2.93,3.19,2.37,2.1,1.7,2.09,1.67,0.25,1.78,2.1,AVS,Rio Ave,avs,rio_ave
+2025-12-20,P1,Portugal-Liga1,2526,Gil Vicente,Rio Ave,2.0,2.0,D,1.0,1.0,D,1.68,3.5,5.0,1.73,3.6,5.03,1.71,3.53,4.8,2.1,1.7,2.07,1.67,-0.75,1.98,1.88,Gil Vicente,Rio Ave,gil_vicente,rio_ave
+2025-12-28,P1,Portugal-Liga1,2526,Sp Lisbon,Rio Ave,4.0,0.0,H,1.0,0.0,H,1.11,7.0,17.0,1.14,8.95,15.32,1.14,7.56,14.63,1.4,2.88,1.39,2.78,-2.25,1.95,1.9,Sp Lisbon,Rio Ave,sp_lisbon,rio_ave
+2026-01-25,P1,Portugal-Liga1,2526,Nacional,Rio Ave,4.0,0.0,H,1.0,0.0,H,2.15,3.3,3.3,,,,2.2,3.25,3.15,1.95,1.85,1.93,1.79,-0.25,1.93,1.93,Nacional,Rio Ave,nacional,rio_ave
+2026-02-08,P1,Portugal-Liga1,2526,Sp Braga,Rio Ave,3.0,0.0,H,1.0,0.0,H,1.22,6.5,9.5,,,,1.23,5.77,10.56,1.53,2.4,1.52,2.36,-1.75,1.93,1.93,Sp Braga,Rio Ave,sp_braga,rio_ave
+2026-02-22,P1,Portugal-Liga1,2526,Porto,Rio Ave,1.0,0.0,H,1.0,0.0,H,1.09,9.0,17.0,,,,1.11,8.15,19.15,1.48,2.6,1.45,2.59,-2.25,1.9,1.95,FC Porto,Rio Ave,fc_porto,rio_ave
+2026-03-09,P1,Portugal-Liga1,2526,Tondela,Rio Ave,0.0,1.0,A,0.0,0.0,D,1.96,3.25,3.9,,,,2.06,3.27,3.44,2.05,1.75,1.98,1.73,-0.25,1.73,2.08,Tondela,Rio Ave,tondela,rio_ave
+2026-03-22,P1,Portugal-Liga1,2526,Estoril,Rio Ave,1.0,2.0,A,1.0,0.0,H,1.71,3.75,4.33,,,,1.71,3.79,4.27,1.67,2.15,1.65,2.12,-0.75,2.0,1.85,Estoril,Rio Ave,estoril,rio_ave
+2026-04-11,P1,Portugal-Liga1,2526,Santa Clara,Rio Ave,0.0,2.0,A,0.0,0.0,D,1.76,3.4,4.75,,,,1.77,3.34,4.56,2.3,1.6,2.24,1.59,-0.5,1.8,2.05,Santa Clara,Rio Ave,santa_clara,rio_ave
+2026-04-25,P1,Portugal-Liga1,2526,Guimaraes,Rio Ave,2.0,0.0,H,0.0,0.0,D,1.76,3.4,4.75,,,,1.8,3.42,4.18,1.83,2.03,1.81,1.9,-0.5,1.83,2.03,Vitoria Guimaraes,Rio Ave,vitoria_guimaraes,rio_ave
+2026-05-16,P1,Portugal-Liga1,2526,Casa Pia,Rio Ave,1.0,1.0,D,1.0,0.0,H,1.62,3.75,5.0,,,,1.65,3.82,4.6,1.83,2.03,1.76,1.96,-0.75,1.88,1.98,Casa Pia,Rio Ave,casa_pia,rio_ave
+2026-08-09,P1,Portugal-Liga1,2627,Gil Vicente,Rio Ave,1.0,0.0,H,0.0,0.0,D,1.91,3.5,3.8,,,,1.93,3.43,3.74,1.98,1.88,1.92,1.81,-0.5,1.98,1.88,Gil Vicente,Rio Ave,gil_vicente,rio_ave
+2026-08-22,P1,Portugal-Liga1,2627,Estoril,Rio Ave,0.0,2.0,A,0.0,1.0,A,1.86,3.5,4.0,,,,1.9,3.57,3.72,1.8,2.0,1.77,1.97,-0.5,1.93,1.93,Estoril,Rio Ave,estoril,rio_ave
+2026-09-06,P1,Portugal-Liga1,2627,Santa Clara,Rio Ave,4.0,0.0,H,1.0,0.0,H,1.76,3.4,4.75,,,,1.75,3.41,4.61,2.2,1.65,2.12,1.65,-0.75,2.05,1.8,Santa Clara,Rio Ave,santa_clara,rio_ave
+2026-09-19,P1,Portugal-Liga1,2627,Alverca,Rio Ave,1.0,0.0,H,1.0,0.0,H,1.86,3.5,4.0,,,,1.86,3.45,3.95,2.0,1.8,1.97,1.77,-0.5,1.93,1.93,Alverca,Rio Ave,alverca,rio_ave

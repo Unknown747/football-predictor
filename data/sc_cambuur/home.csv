@@ -1,0 +1,40 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,N1,Netherlands-ED,2122,Cambuur,Groningen,1.0,2.0,A,0.0,1.0,A,2.4,3.4,2.87,2.49,3.62,2.82,2.46,3.51,2.72,1.75,2.05,1.77,2.05,0.0,1.8,2.1,SC Cambuur,FC Groningen,sc_cambuur,fc_groningen
+2021-08-28,N1,Netherlands-ED,2122,Cambuur,Twente,2.0,0.0,H,0.0,0.0,D,2.5,3.5,2.7,2.63,3.57,2.68,2.54,3.49,2.65,1.65,2.2,1.68,2.18,0.0,1.92,1.98,SC Cambuur,FC Twente,sc_cambuur,fc_twente
+2021-09-11,N1,Netherlands-ED,2122,Cambuur,Go Ahead Eagles,5.0,2.0,H,1.0,1.0,D,1.72,3.75,4.75,1.74,3.94,4.86,1.75,3.8,4.51,1.83,2.02,1.81,2.01,-0.75,1.99,1.91,SC Cambuur,Go Ahead Eagles,sc_cambuur,go_ahead_eagles
+2021-09-23,N1,Netherlands-ED,2122,Cambuur,Heracles,2.0,1.0,H,1.0,0.0,H,2.0,3.5,3.2,2.19,3.76,3.28,2.14,3.64,3.17,1.65,2.2,1.64,2.25,-0.25,1.89,2.01,SC Cambuur,Heracles Almelo,sc_cambuur,heracles_almelo
+2021-10-03,N1,Netherlands-ED,2122,Cambuur,AZ Alkmaar,1.0,3.0,A,0.0,2.0,A,3.6,4.0,1.83,4.05,4.14,1.85,3.91,3.95,1.83,1.53,2.4,1.54,2.43,0.5,2.06,1.84,SC Cambuur,AZ Alkmaar,sc_cambuur,az_alkmaar
+2021-10-24,N1,Netherlands-ED,2122,Cambuur,Feyenoord,2.0,3.0,A,1.0,2.0,A,6.0,4.33,1.5,5.44,4.79,1.56,5.28,4.53,1.54,1.4,2.87,1.42,2.82,1.0,2.01,1.89,SC Cambuur,Feyenoord,sc_cambuur,feyenoord
+2021-11-21,N1,Netherlands-ED,2122,Cambuur,Utrecht,2.0,1.0,H,1.0,1.0,D,4.0,4.0,1.8,4.3,4.0,1.83,4.05,3.93,1.8,1.57,2.35,1.57,2.35,0.5,2.02,1.77,SC Cambuur,FC Utrecht,sc_cambuur,fc_utrecht
+2021-12-04,N1,Netherlands-ED,2122,Cambuur,Vitesse,1.0,6.0,A,1.0,3.0,A,3.1,3.6,2.15,3.3,3.74,2.19,3.13,3.65,2.16,1.7,2.1,1.71,2.15,0.25,2.02,1.88,SC Cambuur,Vitesse,sc_cambuur,vitesse
+2021-12-19,N1,Netherlands-ED,2122,Cambuur,Heerenveen,1.0,2.0,A,1.0,1.0,D,2.25,3.5,3.0,2.31,3.62,3.13,2.29,3.6,2.95,1.6,2.3,1.62,2.29,-0.25,1.98,1.92,SC Cambuur,SC Heerenveen,sc_cambuur,sc_heerenveen
+2022-01-16,N1,Netherlands-ED,2122,Cambuur,Sparta Rotterdam,1.0,1.0,D,1.0,0.0,H,2.4,3.6,2.75,2.51,3.81,2.72,2.44,3.55,2.72,1.72,2.07,1.75,2.07,0.0,1.85,2.05,SC Cambuur,Sparta Rotterdam,sc_cambuur,sparta_rotterdam
+2022-02-12,N1,Netherlands-ED,2122,Cambuur,Zwolle,3.0,4.0,A,2.0,2.0,D,2.4,3.5,2.8,2.39,3.6,3.03,2.38,3.48,2.87,1.85,1.95,1.81,2.0,-0.25,2.13,1.78,SC Cambuur,PEC Zwolle,sc_cambuur,pec_zwolle
+2022-02-26,N1,Netherlands-ED,2122,Cambuur,For Sittard,2.0,1.0,H,1.0,1.0,D,2.0,3.5,3.6,2.09,3.5,3.78,2.04,3.59,3.49,1.7,2.1,1.73,2.1,-0.5,2.04,1.86,SC Cambuur,For Sittard,sc_cambuur,for_sittard
+2022-03-11,N1,Netherlands-ED,2122,Cambuur,Ajax,2.0,3.0,A,0.0,2.0,A,15.0,9.5,1.12,16.99,9.78,1.15,16.87,9.65,1.13,1.18,4.5,1.19,4.56,2.5,1.99,1.91,SC Cambuur,Ajax,sc_cambuur,ajax
+2022-04-03,N1,Netherlands-ED,2122,Cambuur,Nijmegen,1.0,2.0,A,1.0,1.0,D,2.5,3.4,2.8,2.6,3.61,2.73,2.5,3.54,2.69,1.7,2.1,1.71,2.13,0.0,1.86,2.04,SC Cambuur,NEC Nijmegen,sc_cambuur,nec_nijmegen
+2022-04-23,N1,Netherlands-ED,2122,Cambuur,PSV Eindhoven,1.0,2.0,A,1.0,1.0,D,9.5,5.25,1.33,9.58,6.18,1.31,8.93,5.83,1.3,1.44,2.7,1.41,2.85,1.5,2.03,1.87,SC Cambuur,PSV Eindhoven,sc_cambuur,psv_eindhoven
+2022-05-06,N1,Netherlands-ED,2122,Cambuur,Waalwijk,1.0,1.0,D,0.0,0.0,D,2.2,3.6,3.1,2.28,3.75,3.09,2.24,3.57,3.07,1.66,2.15,1.68,2.17,-0.25,1.98,1.92,SC Cambuur,RKC Waalwijk,sc_cambuur,rkc_waalwijk
+2022-05-11,N1,Netherlands-ED,2122,Cambuur,Willem II,1.0,1.0,D,1.0,0.0,H,2.6,3.75,2.5,2.67,3.81,2.56,2.59,3.65,2.55,1.66,2.15,1.67,2.19,0.0,1.98,1.92,SC Cambuur,Willem II,sc_cambuur,willem_ii
+2022-08-06,N1,Netherlands-ED,2223,Cambuur,Excelsior,0.0,2.0,A,0.0,2.0,A,1.85,4.0,3.8,1.94,4.01,3.77,1.9,3.82,3.71,1.57,2.35,1.58,2.34,-0.5,1.93,1.97,SC Cambuur,Excelsior,sc_cambuur,excelsior
+2022-08-28,N1,Netherlands-ED,2223,Cambuur,AZ Alkmaar,0.0,1.0,A,0.0,0.0,D,4.75,3.8,1.72,4.67,4.04,1.76,4.46,3.89,1.74,1.65,2.2,1.65,2.22,0.75,1.95,1.95,SC Cambuur,AZ Alkmaar,sc_cambuur,az_alkmaar
+2022-09-11,N1,Netherlands-ED,2223,Cambuur,Groningen,0.0,1.0,A,0.0,0.0,D,2.15,3.5,3.3,2.18,3.75,3.31,2.15,3.61,3.16,1.7,2.1,1.71,2.12,-0.25,1.89,2.01,SC Cambuur,FC Groningen,sc_cambuur,fc_groningen
+2022-10-01,N1,Netherlands-ED,2223,Cambuur,PSV Eindhoven,3.0,0.0,H,0.0,0.0,D,7.0,7.5,1.28,9.42,6.13,1.3,8.89,6.04,1.28,1.33,3.4,1.36,3.04,1.75,1.9,2.0,SC Cambuur,PSV Eindhoven,sc_cambuur,psv_eindhoven
+2022-10-15,N1,Netherlands-ED,2223,Cambuur,Vitesse,0.0,3.0,A,0.0,1.0,A,2.62,3.5,2.6,2.61,3.8,2.62,2.57,3.56,2.57,1.7,2.1,1.71,2.12,0.0,1.97,1.93,SC Cambuur,Vitesse,sc_cambuur,vitesse
+2022-10-23,N1,Netherlands-ED,2223,Cambuur,Twente,0.0,1.0,A,0.0,0.0,D,4.5,4.0,1.72,4.58,3.93,1.79,4.34,3.88,1.75,1.7,2.1,1.69,2.16,0.75,1.92,1.98,SC Cambuur,FC Twente,sc_cambuur,fc_twente
+2022-11-04,N1,Netherlands-ED,2223,Cambuur,Nijmegen,0.0,1.0,A,0.0,1.0,A,2.62,3.4,2.62,2.7,3.52,2.68,2.63,3.38,2.63,1.98,1.88,1.95,1.85,0.0,1.96,1.94,SC Cambuur,NEC Nijmegen,sc_cambuur,nec_nijmegen
+2023-01-08,N1,Netherlands-ED,2223,Cambuur,Volendam,0.0,3.0,A,0.0,2.0,A,1.91,3.5,4.0,1.94,3.84,3.93,1.91,3.77,3.73,1.62,2.25,1.63,2.29,-0.5,1.92,1.98,SC Cambuur,FC Volendam,sc_cambuur,fc_volendam
+2023-01-21,N1,Netherlands-ED,2223,Cambuur,Sparta Rotterdam,0.0,3.0,A,0.0,2.0,A,3.0,3.4,2.38,3.22,3.28,2.43,3.06,3.23,2.36,2.15,1.67,2.15,1.7,0.25,1.84,2.06,SC Cambuur,Sparta Rotterdam,sc_cambuur,sparta_rotterdam
+2023-01-29,N1,Netherlands-ED,2223,Cambuur,For Sittard,1.0,2.0,A,1.0,0.0,H,2.3,3.4,3.1,2.4,3.55,3.03,2.35,3.39,2.95,1.95,1.9,1.92,1.88,-0.25,2.07,1.83,SC Cambuur,For Sittard,sc_cambuur,for_sittard
+2023-02-05,N1,Netherlands-ED,2223,Cambuur,Ajax,0.0,5.0,A,0.0,2.0,A,9.0,5.75,1.22,11.76,5.97,1.27,10.69,6.0,1.25,1.5,2.5,1.51,2.52,1.75,1.92,1.98,SC Cambuur,Ajax,sc_cambuur,ajax
+2023-02-19,N1,Netherlands-ED,2223,Cambuur,Heerenveen,1.0,2.0,A,1.0,1.0,D,3.2,3.3,2.3,3.2,3.41,2.37,3.08,3.35,2.31,1.98,1.88,1.97,1.84,0.25,1.87,2.03,SC Cambuur,SC Heerenveen,sc_cambuur,sc_heerenveen
+2023-03-05,N1,Netherlands-ED,2223,Cambuur,Go Ahead Eagles,4.0,1.0,H,2.0,1.0,H,2.88,3.25,2.5,2.99,3.44,2.49,2.84,3.35,2.46,1.98,1.88,1.94,1.85,0.0,2.09,1.81,SC Cambuur,Go Ahead Eagles,sc_cambuur,go_ahead_eagles
+2023-04-01,N1,Netherlands-ED,2223,Cambuur,FC Emmen,1.0,2.0,A,0.0,0.0,D,2.4,3.25,3.0,2.48,3.45,2.99,2.39,3.3,2.99,2.05,1.75,2.03,1.77,-0.25,2.1,1.8,SC Cambuur,FC Emmen,sc_cambuur,fc_emmen
+2023-04-16,N1,Netherlands-ED,2223,Cambuur,Feyenoord,0.0,3.0,A,0.0,1.0,A,11.0,5.75,1.29,9.54,6.04,1.3,9.63,5.87,1.28,1.48,2.6,1.46,2.65,1.75,1.88,2.02,SC Cambuur,Feyenoord,sc_cambuur,feyenoord
+2023-05-06,N1,Netherlands-ED,2223,Cambuur,Utrecht,0.0,3.0,A,0.0,2.0,A,4.2,4.0,1.8,4.16,4.01,1.85,4.07,3.92,1.81,1.62,2.25,1.63,2.25,0.5,2.02,1.77,SC Cambuur,FC Utrecht,sc_cambuur,fc_utrecht
+2023-05-28,N1,Netherlands-ED,2223,Cambuur,Waalwijk,4.0,0.0,H,2.0,0.0,H,3.4,3.8,1.95,3.4,4.26,2.0,3.38,3.96,1.96,1.5,2.5,1.48,2.61,0.5,1.88,2.02,SC Cambuur,RKC Waalwijk,sc_cambuur,rkc_waalwijk
+2026-08-07,N1,Netherlands-ED,2627,Cambuur,Excelsior,0.0,4.0,A,0.0,3.0,A,2.6,3.4,2.7,,,,2.49,3.47,2.6,1.75,2.05,1.69,2.08,0.0,1.85,1.95,SC Cambuur,Excelsior,sc_cambuur,excelsior
+2026-08-23,N1,Netherlands-ED,2627,Cambuur,Feyenoord,2.0,5.0,A,0.0,4.0,A,11.0,5.75,1.27,,,,9.37,5.82,1.26,1.4,2.88,1.4,2.75,1.5,2.05,1.75,SC Cambuur,Feyenoord,sc_cambuur,feyenoord
+2026-08-30,N1,Netherlands-ED,2627,Cambuur,Twente,1.0,4.0,A,0.0,2.0,A,7.5,5.75,1.33,,,,7.6,5.28,1.32,1.44,2.7,1.41,2.73,1.5,1.88,1.93,SC Cambuur,FC Twente,sc_cambuur,fc_twente
+2026-09-12,N1,Netherlands-ED,2627,Cambuur,Nijmegen,3.0,0.0,H,1.0,0.0,H,5.0,5.0,1.53,,,,4.96,4.68,1.51,1.36,3.1,1.33,3.15,1.0,2.0,1.8,SC Cambuur,NEC Nijmegen,sc_cambuur,nec_nijmegen
+2026-10-18,N1,Netherlands-ED,2627,Cambuur,AZ Alkmaar,2.0,2.0,D,2.0,1.0,H,6.0,4.75,1.48,,,,5.8,4.83,1.44,1.36,3.1,1.34,3.07,1.25,1.85,1.95,SC Cambuur,AZ Alkmaar,sc_cambuur,az_alkmaar

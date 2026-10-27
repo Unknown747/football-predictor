@@ -1,0 +1,85 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-22,SP2,Spain-Segunda,2122,Huesca,Cartagena,2.0,0.0,H,0.0,0.0,D,1.75,3.0,6.0,1.81,3.21,5.77,1.81,3.1,5.18,2.4,1.53,2.42,1.53,-0.5,1.8,2.05,Huesca,Cartagena,huesca,cartagena
+2021-08-30,SP2,Spain-Segunda,2122,Zaragoza,Cartagena,0.0,1.0,A,0.0,0.0,D,2.15,3.2,3.5,2.2,3.0,4.06,2.15,2.97,3.76,2.6,1.47,2.6,1.47,-0.25,1.83,2.02,Zaragoza,Cartagena,zaragoza,cartagena
+2021-09-12,SP2,Spain-Segunda,2122,Oviedo,Cartagena,2.0,0.0,H,1.0,0.0,H,1.95,3.2,4.2,1.97,3.23,4.59,1.96,3.12,4.22,2.6,1.47,2.61,1.47,-0.5,1.95,1.9,Real Oviedo,Cartagena,real_oviedo,cartagena
+2021-09-27,SP2,Spain-Segunda,2122,Fuenlabrada,Cartagena,2.0,1.0,H,1.0,0.0,H,1.9,3.0,4.33,1.94,3.13,4.82,1.96,3.04,4.39,2.6,1.47,2.61,1.47,-0.5,1.95,1.9,Fuenlabrada,Cartagena,fuenlabrada,cartagena
+2021-10-03,SP2,Spain-Segunda,2122,Las Palmas,Cartagena,4.0,1.0,H,3.0,0.0,H,2.0,3.2,4.2,2.06,3.12,4.27,2.0,3.13,4.02,2.25,1.61,2.27,1.61,-0.5,2.02,1.83,Las Palmas,Cartagena,las_palmas,cartagena
+2021-10-16,SP2,Spain-Segunda,2122,Amorebieta,Cartagena,2.0,3.0,A,1.0,1.0,D,2.8,2.87,2.8,2.87,2.91,2.89,2.75,2.88,2.76,2.35,1.57,2.39,1.55,0.0,1.9,1.95,Amorebieta,Cartagena,amorebieta,cartagena
+2021-10-22,SP2,Spain-Segunda,2122,Eibar,Cartagena,2.0,1.0,H,2.0,0.0,H,1.6,3.6,6.0,1.67,3.61,6.52,1.66,3.49,5.6,2.1,1.7,2.1,1.72,-0.75,1.85,2.0,Eibar,Cartagena,eibar,cartagena
+2021-11-02,SP2,Spain-Segunda,2122,Leganes,Cartagena,1.0,1.0,D,1.0,1.0,D,1.83,3.1,5.0,1.85,3.29,5.38,1.84,3.2,4.73,2.35,1.57,2.37,1.57,-0.5,1.83,2.02,Leganes,Cartagena,leganes,cartagena
+2021-11-14,SP2,Spain-Segunda,2122,Girona,Cartagena,2.0,0.0,H,1.0,0.0,H,1.72,3.5,5.0,1.71,3.61,5.56,1.7,3.52,5.1,2.05,1.75,2.07,1.74,-0.75,1.95,1.9,Girona,Cartagena,girona,cartagena
+2021-11-27,SP2,Spain-Segunda,2122,Valladolid,Cartagena,2.0,0.0,H,2.0,0.0,H,1.66,3.5,6.0,1.75,3.42,5.61,1.69,3.49,5.26,2.05,1.75,2.02,1.78,-0.75,1.95,1.9,Real Valladolid,Cartagena,real_valladolid,cartagena
+2021-12-12,SP2,Spain-Segunda,2122,Alcorcon,Cartagena,1.0,1.0,D,1.0,1.0,D,2.75,3.1,2.75,2.9,2.91,2.85,2.76,2.92,2.75,2.5,1.5,2.51,1.5,0.0,1.93,1.93,Alcorcon,Cartagena,alcorcon,cartagena
+2022-01-02,SP2,Spain-Segunda,2122,Almeria,Cartagena,0.0,1.0,A,0.0,1.0,A,1.61,3.8,6.0,1.56,4.3,5.87,1.59,3.9,5.52,1.98,1.88,1.93,1.86,-1.0,2.05,1.8,Almeria,Cartagena,almeria,cartagena
+2022-01-24,SP2,Spain-Segunda,2122,Sociedad B,Cartagena,1.0,2.0,A,0.0,0.0,D,2.8,3.2,2.6,2.96,3.14,2.61,2.79,3.13,2.53,2.1,1.7,2.1,1.7,0.0,2.0,1.85,Sociedad B,Cartagena,sociedad_b,cartagena
+2022-02-12,SP2,Spain-Segunda,2122,Ibiza,Cartagena,2.0,1.0,H,1.0,1.0,D,2.2,3.5,3.2,2.24,3.43,3.33,2.19,3.32,3.2,2.07,1.72,2.06,1.74,-0.25,1.9,1.95,Ibiza,Cartagena,ibiza,cartagena
+2022-02-28,SP2,Spain-Segunda,2122,Malaga,Cartagena,1.0,1.0,D,0.0,0.0,D,2.7,3.1,2.8,2.66,3.04,3.0,2.58,3.02,2.85,2.3,1.6,2.28,1.6,0.0,1.88,1.98,Malaga,Cartagena,malaga,cartagena
+2022-03-12,SP2,Spain-Segunda,2122,Mirandes,Cartagena,2.0,1.0,H,1.0,0.0,H,2.2,3.4,3.4,2.16,3.6,3.35,2.16,3.39,3.23,1.88,1.98,1.88,1.9,-0.25,1.83,2.02,Mirandes,Cartagena,mirandes,cartagena
+2022-03-26,SP2,Spain-Segunda,2122,Sp Gijon,Cartagena,4.0,1.0,H,1.0,1.0,D,2.2,3.3,3.3,2.18,3.46,3.43,2.16,3.35,3.25,2.0,1.8,2.01,1.77,-0.25,1.9,1.95,Sp Gijon,Cartagena,sp_gijon,cartagena
+2022-04-08,SP2,Spain-Segunda,2122,Lugo,Cartagena,1.0,0.0,H,1.0,0.0,H,2.37,3.25,3.1,2.45,3.26,3.19,2.4,3.11,3.04,2.1,1.7,2.14,1.69,-0.25,2.02,1.83,Lugo,Cartagena,lugo,cartagena
+2022-05-01,SP2,Spain-Segunda,2122,Ponferradina,Cartagena,4.0,2.0,H,3.0,2.0,H,2.1,3.4,3.5,2.21,3.51,3.32,2.13,3.38,3.3,2.02,1.83,1.95,1.82,-0.25,1.85,2.0,Ponferradina,Cartagena,ponferradina,cartagena
+2022-05-14,SP2,Spain-Segunda,2122,Burgos,Cartagena,1.0,1.0,D,1.0,0.0,H,2.6,3.1,2.87,2.58,3.31,2.87,2.55,3.16,2.78,2.05,1.75,2.0,1.78,0.0,1.83,2.02,Burgos,Cartagena,burgos,cartagena
+2022-05-29,SP2,Spain-Segunda,2122,Tenerife,Cartagena,1.0,2.0,A,0.0,2.0,A,1.55,4.0,6.5,1.6,4.09,5.81,1.55,4.08,5.66,1.72,2.07,1.73,2.07,-1.0,1.93,1.93,Tenerife,Cartagena,tenerife,cartagena
+2022-08-21,SP2,Spain-Segunda,2223,Huesca,Cartagena,2.0,3.0,A,1.0,1.0,D,2.0,3.3,4.0,2.03,3.31,4.09,2.04,3.22,3.75,2.25,1.61,2.23,1.64,-0.5,2.05,1.8,Huesca,Cartagena,huesca,cartagena
+2022-09-04,SP2,Spain-Segunda,2223,Burgos,Cartagena,1.0,0.0,H,1.0,0.0,H,2.7,3.1,2.8,2.63,3.17,2.91,2.56,3.09,2.82,2.15,1.66,2.21,1.64,0.0,1.83,2.02,Burgos,Cartagena,burgos,cartagena
+2022-09-16,SP2,Spain-Segunda,2223,Levante,Cartagena,0.0,1.0,A,0.0,1.0,A,1.7,4.0,4.75,1.68,4.04,5.27,1.68,3.86,4.73,1.8,2.05,1.79,2.0,-0.75,1.85,2.0,Levante,Cartagena,levante,cartagena
+2022-10-02,SP2,Spain-Segunda,2223,Oviedo,Cartagena,1.0,3.0,A,0.0,2.0,A,2.15,3.25,3.6,2.18,3.09,3.89,2.13,3.13,3.56,2.35,1.57,2.31,1.58,-0.25,1.83,2.02,Real Oviedo,Cartagena,real_oviedo,cartagena
+2022-10-12,SP2,Spain-Segunda,2223,Tenerife,Cartagena,0.0,0.0,D,0.0,0.0,D,2.37,3.25,3.1,2.27,3.32,3.42,2.27,3.21,3.2,2.2,1.65,2.22,1.65,-0.25,1.93,1.93,Tenerife,Cartagena,tenerife,cartagena
+2022-10-23,SP2,Spain-Segunda,2223,Las Palmas,Cartagena,1.0,0.0,H,0.0,0.0,D,1.75,3.25,6.0,1.77,3.47,5.15,1.78,3.39,4.81,2.15,1.66,2.18,1.66,-0.75,2.02,1.83,Las Palmas,Cartagena,las_palmas,cartagena
+2022-11-07,SP2,Spain-Segunda,2223,Lugo,Cartagena,1.0,1.0,D,1.0,1.0,D,2.62,2.87,3.1,2.72,3.02,2.9,2.57,2.97,2.9,2.5,1.5,2.54,1.49,0.0,1.8,2.05,Lugo,Cartagena,lugo,cartagena
+2022-11-21,SP2,Spain-Segunda,2223,Mirandes,Cartagena,2.0,1.0,H,0.0,0.0,D,2.9,3.0,2.62,2.97,3.14,2.57,2.87,3.08,2.52,2.25,1.61,2.23,1.63,0.0,2.02,1.83,Mirandes,Cartagena,mirandes,cartagena
+2022-12-04,SP2,Spain-Segunda,2223,Andorra,Cartagena,0.0,1.0,A,0.0,0.0,D,2.2,3.1,3.6,2.22,3.02,3.8,2.18,3.01,3.59,2.4,1.53,2.42,1.53,-0.25,1.85,2.0,Andorra,Cartagena,andorra,cartagena
+2022-12-11,SP2,Spain-Segunda,2223,Sp Gijon,Cartagena,0.0,0.0,D,0.0,0.0,D,2.2,3.1,3.5,2.31,3.19,3.37,2.22,3.11,3.36,2.4,1.53,2.42,1.55,-0.25,1.93,1.93,Sp Gijon,Cartagena,sp_gijon,cartagena
+2023-01-08,SP2,Spain-Segunda,2223,Granada,Cartagena,1.0,0.0,H,0.0,0.0,D,1.67,3.6,5.5,1.7,3.5,5.68,1.71,3.48,5.14,2.2,1.65,2.24,1.63,-0.75,1.88,1.98,Granada,Cartagena,granada,cartagena
+2023-01-29,SP2,Spain-Segunda,2223,Ibiza,Cartagena,2.0,2.0,D,1.0,2.0,A,2.75,2.9,2.9,2.77,3.03,2.83,2.66,2.96,2.82,2.5,1.5,2.48,1.52,0.0,1.85,2.0,Ibiza,Cartagena,ibiza,cartagena
+2023-02-12,SP2,Spain-Segunda,2223,Eibar,Cartagena,0.0,3.0,A,0.0,2.0,A,1.7,3.75,5.5,1.67,3.61,5.78,1.69,3.5,5.31,2.25,1.62,2.28,1.6,-0.75,1.9,1.95,Eibar,Cartagena,eibar,cartagena
+2023-02-25,SP2,Spain-Segunda,2223,Alaves,Cartagena,0.0,0.0,D,0.0,0.0,D,1.73,3.2,6.0,1.74,3.47,5.84,1.74,3.35,5.25,2.35,1.57,2.4,1.55,-0.75,1.98,1.88,Deportivo Alaves,Cartagena,deportivo_alaves,cartagena
+2023-03-05,SP2,Spain-Segunda,2223,Ponferradina,Cartagena,0.0,3.0,A,0.0,1.0,A,2.6,3.1,2.9,2.55,3.15,2.99,2.54,3.08,2.86,2.35,1.57,2.36,1.56,0.0,1.8,2.05,Ponferradina,Cartagena,ponferradina,cartagena
+2023-03-19,SP2,Spain-Segunda,2223,Villarreal B,Cartagena,5.0,2.0,H,1.0,2.0,A,2.45,3.0,3.2,2.51,2.99,3.22,2.46,2.99,3.05,2.4,1.53,2.35,1.57,0.0,1.68,2.15,Villarreal B,Cartagena,villarreal_b,cartagena
+2023-04-01,SP2,Spain-Segunda,2223,Leganes,Cartagena,1.0,3.0,A,1.0,0.0,H,2.1,3.0,4.0,2.21,3.1,3.87,2.13,3.05,3.72,2.6,1.48,2.52,1.5,-0.25,1.77,2.1,Leganes,Cartagena,leganes,cartagena
+2023-04-16,SP2,Spain-Segunda,2223,Malaga,Cartagena,1.0,0.0,H,1.0,0.0,H,2.45,3.2,3.0,2.65,3.01,2.99,2.53,3.01,2.91,2.2,1.65,2.19,1.64,0.0,1.73,2.15,Malaga,Cartagena,malaga,cartagena
+2023-04-29,SP2,Spain-Segunda,2223,Albacete,Cartagena,1.0,1.0,D,1.0,0.0,H,2.05,3.3,3.75,2.08,3.35,3.92,2.06,3.22,3.69,2.15,1.67,2.19,1.64,-0.5,2.02,1.82,Albacete,Cartagena,albacete,cartagena
+2023-05-13,SP2,Spain-Segunda,2223,Zaragoza,Cartagena,2.0,0.0,H,1.0,0.0,H,2.5,3.25,2.8,2.66,3.42,2.75,2.6,3.16,2.73,2.3,1.6,2.34,1.57,0.0,1.8,2.05,Zaragoza,Cartagena,zaragoza,cartagena
+2023-05-28,SP2,Spain-Segunda,2223,Santander,Cartagena,3.0,1.0,H,3.0,0.0,H,2.63,3.25,2.63,2.59,3.29,2.83,2.62,3.17,2.7,2.1,1.7,2.13,1.7,0.0,1.88,1.98,Santander,Cartagena,santander,cartagena
+2023-08-18,SP2,Spain-Segunda,2324,Andorra,Cartagena,3.0,2.0,H,0.0,0.0,D,1.91,3.5,4.0,1.92,3.42,4.65,1.89,3.32,4.24,2.25,1.62,2.27,1.61,-0.5,1.88,1.98,Andorra,Cartagena,andorra,cartagena
+2023-09-02,SP2,Spain-Segunda,2324,Villarreal B,Cartagena,1.0,2.0,A,1.0,0.0,H,2.25,3.25,3.3,2.24,3.38,3.5,2.19,3.26,3.31,2.1,1.7,2.1,1.71,-0.25,1.9,1.95,Villarreal B,Cartagena,villarreal_b,cartagena
+2023-09-16,SP2,Spain-Segunda,2324,Valladolid,Cartagena,1.0,0.0,H,0.0,0.0,D,1.83,3.6,4.33,1.87,3.62,4.58,1.84,3.48,4.26,2.08,1.73,2.08,1.73,-0.5,1.85,2.0,Real Valladolid,Cartagena,real_valladolid,cartagena
+2023-10-01,SP2,Spain-Segunda,2324,Amorebieta,Cartagena,0.0,0.0,D,0.0,0.0,D,2.3,3.3,3.2,2.37,3.28,3.33,2.31,3.2,3.11,2.15,1.67,2.18,1.66,-0.25,2.0,1.85,Amorebieta,Cartagena,amorebieta,cartagena
+2023-10-08,SP2,Spain-Segunda,2324,Ferrol,Cartagena,1.0,1.0,D,0.0,1.0,A,1.91,3.5,4.33,1.97,3.4,4.41,1.9,3.35,4.17,2.15,1.67,2.18,1.66,-0.5,1.93,1.93,Ferrol,Cartagena,ferrol,cartagena
+2023-10-23,SP2,Spain-Segunda,2324,Alcorcon,Cartagena,1.0,1.0,D,1.0,0.0,H,2.2,3.25,3.5,2.28,3.28,3.44,2.2,3.21,3.32,2.25,1.62,2.28,1.61,-0.25,1.9,1.95,Alcorcon,Cartagena,alcorcon,cartagena
+2023-10-29,SP2,Spain-Segunda,2324,Mirandes,Cartagena,2.0,1.0,H,0.0,0.0,D,2.38,3.3,3.1,2.37,3.37,3.23,2.3,3.27,3.1,2.08,1.73,2.08,1.73,-0.25,2.0,1.85,Mirandes,Cartagena,mirandes,cartagena
+2023-11-13,SP2,Spain-Segunda,2324,Oviedo,Cartagena,1.0,1.0,D,0.0,1.0,A,1.73,3.3,6.0,1.78,3.39,5.56,1.76,3.3,5.17,2.5,1.5,2.53,1.5,-0.75,2.0,1.85,Real Oviedo,Cartagena,real_oviedo,cartagena
+2023-11-26,SP2,Spain-Segunda,2324,Tenerife,Cartagena,1.0,1.0,D,0.0,1.0,A,1.91,3.2,4.5,1.88,3.32,5.04,1.85,3.21,4.68,2.5,1.5,2.53,1.5,-0.5,1.88,1.98,Tenerife,Cartagena,tenerife,cartagena
+2023-12-10,SP2,Spain-Segunda,2324,Elche,Cartagena,1.0,2.0,A,1.0,0.0,H,1.73,3.6,5.0,1.74,3.7,5.38,1.73,3.57,4.87,2.1,1.7,2.1,1.71,-0.75,1.98,1.88,Elche,Cartagena,elche,cartagena
+2023-12-21,SP2,Spain-Segunda,2324,Huesca,Cartagena,3.0,0.0,H,3.0,0.0,H,2.15,3.0,3.75,2.21,3.08,3.98,2.16,2.97,3.73,2.7,1.44,2.67,1.45,-0.25,1.83,2.03,Huesca,Cartagena,huesca,cartagena
+2024-01-21,SP2,Spain-Segunda,2324,Santander,Cartagena,0.0,2.0,A,0.0,1.0,A,1.85,3.5,4.33,1.86,3.65,4.56,1.85,3.49,4.15,2.05,1.8,2.01,1.78,-0.5,1.85,2.0,Santander,Cartagena,santander,cartagena
+2024-02-03,SP2,Spain-Segunda,2324,Albacete,Cartagena,1.0,1.0,D,1.0,0.0,H,1.8,3.4,5.25,1.78,3.52,5.39,1.75,3.45,4.91,2.15,1.67,2.15,1.68,-0.75,2.03,1.83,Albacete,Cartagena,albacete,cartagena
+2024-02-16,SP2,Spain-Segunda,2324,Zaragoza,Cartagena,1.0,2.0,A,0.0,1.0,A,1.83,3.25,5.0,1.85,3.18,5.64,1.85,3.09,4.97,2.88,1.4,2.8,1.42,-0.5,1.85,2.0,Zaragoza,Cartagena,zaragoza,cartagena
+2024-03-02,SP2,Spain-Segunda,2324,Burgos,Cartagena,3.0,0.0,H,1.0,0.0,H,1.95,3.2,4.5,1.98,3.24,4.64,1.95,3.15,4.2,2.5,1.5,2.49,1.51,-0.5,1.98,1.88,Burgos,Cartagena,burgos,cartagena
+2024-03-15,SP2,Spain-Segunda,2324,Eldense,Cartagena,0.0,0.0,D,0.0,0.0,D,2.0,2.9,4.5,2.04,2.95,5.01,1.99,2.89,4.56,2.7,1.44,2.72,1.44,-0.5,2.0,1.85,Eldense,Cartagena,eldense,cartagena
+2024-03-30,SP2,Spain-Segunda,2324,Leganes,Cartagena,0.0,0.0,D,0.0,0.0,D,1.62,3.5,6.5,1.64,3.6,6.69,1.61,3.5,6.22,2.5,1.5,2.52,1.5,-0.75,1.8,2.05,Leganes,Cartagena,leganes,cartagena
+2024-04-13,SP2,Spain-Segunda,2324,Sp Gijon,Cartagena,1.0,0.0,H,1.0,0.0,H,1.7,3.75,5.0,1.77,3.39,5.68,1.73,3.38,5.14,2.35,1.57,2.34,1.58,-0.75,1.98,1.88,Sp Gijon,Cartagena,sp_gijon,cartagena
+2024-04-28,SP2,Spain-Segunda,2324,Levante,Cartagena,0.0,1.0,A,0.0,0.0,D,1.7,3.6,5.25,1.69,3.56,5.15,1.69,3.51,5.01,2.15,1.67,2.15,1.67,-0.75,1.93,1.93,Levante,Cartagena,levante,cartagena
+2024-05-19,SP2,Spain-Segunda,2324,Eibar,Cartagena,1.0,0.0,H,1.0,0.0,H,1.33,5.0,8.5,1.3,5.1,9.55,1.32,4.92,8.94,1.75,2.05,1.76,2.03,-1.5,2.05,1.8,Eibar,Cartagena,eibar,cartagena
+2024-06-02,SP2,Spain-Segunda,2324,Espanol,Cartagena,3.0,0.0,H,0.0,0.0,D,1.4,4.1,7.0,1.4,4.42,7.1,1.41,4.36,7.08,1.88,1.98,1.83,1.93,-1.25,2.03,1.83,Espanyol,Cartagena,espanyol,cartagena
+2024-08-18,SP2,Spain-Segunda,2425,Burgos,Cartagena,3.0,1.0,H,2.0,1.0,H,1.95,3.2,4.2,1.93,3.25,4.38,1.94,3.16,4.18,2.5,1.5,2.48,1.5,-0.5,1.98,1.88,Burgos,Cartagena,burgos,cartagena
+2024-09-01,SP2,Spain-Segunda,2425,Eldense,Cartagena,1.0,2.0,A,1.0,0.0,H,1.95,3.3,4.0,2.0,3.19,4.2,1.96,3.19,4.04,2.4,1.53,2.44,1.52,-0.5,1.98,1.88,Eldense,Cartagena,eldense,cartagena
+2024-09-15,SP2,Spain-Segunda,2425,Oviedo,Cartagena,1.0,0.0,H,0.0,0.0,D,1.73,3.5,5.0,1.69,3.46,5.62,1.7,3.44,5.2,2.35,1.57,2.35,1.57,-0.75,1.93,1.93,Real Oviedo,Cartagena,real_oviedo,cartagena
+2024-09-30,SP2,Spain-Segunda,2425,Santander,Cartagena,1.0,2.0,A,0.0,1.0,A,1.48,4.1,7.0,1.48,4.32,6.61,1.48,4.21,6.36,1.88,1.98,1.85,1.91,-1.0,1.83,2.03,Santander,Cartagena,santander,cartagena
+2024-10-05,SP2,Spain-Segunda,2425,Tenerife,Cartagena,2.0,0.0,H,1.0,0.0,H,1.83,3.3,4.75,1.84,3.33,4.75,1.84,3.27,4.58,2.5,1.5,2.52,1.5,-0.5,1.88,1.98,Tenerife,Cartagena,tenerife,cartagena
+2024-10-18,SP2,Spain-Segunda,2425,Cordoba,Cartagena,2.0,1.0,H,0.0,0.0,D,1.6,3.7,6.25,1.61,3.93,6.15,1.6,3.75,5.67,1.95,1.9,1.93,1.84,-1.0,1.99,1.74,Cordoba,Cartagena,cordoba,cartagena
+2024-10-26,SP2,Spain-Segunda,2425,Mirandes,Cartagena,3.0,1.0,H,2.0,0.0,H,1.9,3.0,5.0,1.93,3.01,4.91,1.91,3.02,4.66,2.88,1.4,2.77,1.41,-0.5,1.93,1.93,Mirandes,Cartagena,mirandes,cartagena
+2024-11-09,SP2,Spain-Segunda,2425,Malaga,Cartagena,1.0,0.0,H,1.0,0.0,H,1.75,3.5,5.0,1.75,3.49,5.16,1.76,3.4,4.89,2.35,1.57,2.34,1.57,-0.75,2.03,1.83,Malaga,Cartagena,malaga,cartagena
+2024-12-02,SP2,Spain-Segunda,2425,Eibar,Cartagena,1.0,0.0,H,1.0,0.0,H,1.55,3.75,6.5,1.56,3.82,6.6,1.54,3.75,6.25,2.3,1.6,2.29,1.59,-1.0,2.03,1.83,Eibar,Cartagena,eibar,cartagena
+2024-12-14,SP2,Spain-Segunda,2425,Castellon,Cartagena,4.0,1.0,H,2.0,0.0,H,1.45,4.1,7.5,1.44,4.57,6.97,1.42,4.45,6.86,1.75,2.05,1.74,2.05,-1.25,2.03,1.83,Castellon,Cartagena,castellon,cartagena
+2024-12-17,SP2,Spain-Segunda,2425,Granada,Cartagena,4.0,1.0,H,3.0,1.0,H,1.33,5.0,9.0,1.35,5.21,9.51,1.32,4.92,8.87,1.73,2.08,1.75,2.04,-1.5,2.0,1.85,Granada,Cartagena,granada,cartagena
+2025-01-11,SP2,Spain-Segunda,2425,Ferrol,Cartagena,0.0,0.0,D,0.0,0.0,D,1.9,3.25,4.33,1.92,3.19,4.6,1.88,3.19,4.38,2.5,1.5,2.53,1.47,-0.5,1.93,1.93,Ferrol,Cartagena,ferrol,cartagena
+2025-01-25,SP2,Spain-Segunda,2425,Huesca,Cartagena,4.0,0.0,H,1.0,0.0,H,1.62,3.4,7.0,1.63,3.34,7.02,1.62,3.34,6.37,2.6,1.44,2.53,1.48,-0.75,1.83,2.03,Huesca,Cartagena,huesca,cartagena
+2025-02-09,SP2,Spain-Segunda,2425,Cadiz,Cartagena,5.0,2.0,H,3.0,1.0,H,1.42,4.2,7.5,1.41,4.33,8.45,1.4,4.22,7.84,2.1,1.7,2.12,1.69,-1.25,2.05,1.8,Cadiz,Cartagena,cadiz,cartagena
+2025-02-23,SP2,Spain-Segunda,2425,Elche,Cartagena,2.0,1.0,H,0.0,0.0,D,1.25,5.0,15.0,1.23,5.71,15.05,1.23,5.34,13.04,2.05,1.8,1.98,1.8,-1.5,1.88,1.98,Elche,Cartagena,elche,cartagena
+2025-03-09,SP2,Spain-Segunda,2425,Levante,Cartagena,3.0,0.0,H,1.0,0.0,H,1.33,4.75,10.0,1.29,5.43,10.53,1.29,5.15,9.52,1.73,2.08,1.72,2.08,-1.5,2.0,1.85,Levante,Cartagena,levante,cartagena
+2025-03-23,SP2,Spain-Segunda,2425,La Coruna,Cartagena,2.0,2.0,D,0.0,0.0,D,1.29,5.0,11.0,1.27,5.48,11.93,1.27,5.2,11.04,1.8,2.0,1.76,2.02,-1.5,1.88,1.98,La Coruna,Cartagena,la_coruna,cartagena
+2025-04-13,SP2,Spain-Segunda,2425,Almeria,Cartagena,2.0,1.0,H,1.0,0.0,H,1.2,6.25,15.0,1.19,6.97,12.71,1.19,6.46,12.95,1.53,2.4,1.5,2.45,-2.0,2.03,1.83,Almeria,Cartagena,almeria,cartagena
+2025-04-26,SP2,Spain-Segunda,2425,Albacete,Cartagena,3.0,1.0,H,1.0,1.0,D,1.4,5.0,7.0,1.38,5.03,8.14,1.38,4.81,7.41,1.6,2.3,1.6,2.28,-1.25,1.85,2.0,Albacete,Cartagena,albacete,cartagena
+2025-05-10,SP2,Spain-Segunda,2425,Zaragoza,Cartagena,3.0,2.0,H,1.0,2.0,A,1.29,5.75,9.5,1.24,5.89,11.67,1.25,5.53,10.57,1.67,2.15,1.65,2.17,-1.5,1.83,2.03,Zaragoza,Cartagena,zaragoza,cartagena
+2025-05-25,SP2,Spain-Segunda,2425,Sp Gijon,Cartagena,3.0,2.0,H,1.0,1.0,D,1.22,5.75,13.0,1.19,5.75,16.62,1.21,5.89,13.42,1.6,2.3,1.58,2.31,-1.75,1.85,1.95,Sp Gijon,Cartagena,sp_gijon,cartagena

@@ -1,0 +1,75 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-24,F2,France-L2,2122,Toulouse,Ajaccio,2.0,2.0,D,1.0,1.0,D,2.0,3.1,4.2,1.95,3.3,4.43,1.98,3.18,4.08,2.2,1.65,2.23,1.63,-0.5,2.02,1.83,Toulouse,Ajaccio,toulouse,ajaccio
+2021-08-07,F2,France-L2,2122,Auxerre,Ajaccio,0.0,0.0,D,0.0,0.0,D,2.25,3.1,3.4,2.24,3.27,3.49,2.22,3.18,3.3,2.1,1.7,2.05,1.76,-0.25,1.93,1.93,AJ Auxerre,Ajaccio,aj_auxerre,ajaccio
+2021-08-28,F2,France-L2,2122,Guingamp,Ajaccio,1.0,1.0,D,0.0,1.0,A,2.37,3.1,3.1,2.45,3.03,3.33,2.39,3.02,3.14,2.35,1.57,2.37,1.57,-0.25,2.05,1.8,Guingamp,Ajaccio,guingamp,ajaccio
+2021-09-18,F2,France-L2,2122,Rodez,Ajaccio,0.0,2.0,A,0.0,1.0,A,2.45,3.2,2.9,2.68,3.02,2.95,2.59,2.95,2.92,2.5,1.5,2.57,1.49,0.0,1.77,2.1,Rodez,Ajaccio,rodez,ajaccio
+2021-09-25,F2,France-L2,2122,Bastia,Ajaccio,2.0,0.0,H,0.0,0.0,D,2.62,3.0,2.62,2.88,2.95,2.8,2.75,2.98,2.72,2.35,1.57,2.37,1.56,0.0,1.93,1.93,Bastia,Ajaccio,bastia,ajaccio
+2021-10-18,F2,France-L2,2122,Nimes,Ajaccio,0.0,2.0,A,0.0,2.0,A,2.2,3.1,3.5,2.42,2.97,3.4,2.34,2.96,3.29,2.6,1.47,2.58,1.47,-0.25,2.0,1.85,Nimes,Ajaccio,nimes,ajaccio
+2021-10-30,F2,France-L2,2122,Pau FC,Ajaccio,1.0,0.0,H,0.0,0.0,D,2.45,3.1,2.75,2.76,2.91,2.96,2.6,2.97,2.86,2.35,1.57,2.35,1.56,0.0,1.85,2.0,Pau FC,Ajaccio,pau_fc,ajaccio
+2021-11-20,F2,France-L2,2122,Dunkerque,Ajaccio,0.0,1.0,A,0.0,0.0,D,3.6,3.0,2.25,3.96,2.89,2.24,3.66,2.91,2.23,2.5,1.5,2.61,1.47,0.25,1.93,1.93,Dunkerque,Ajaccio,dunkerque,ajaccio
+2021-12-11,F2,France-L2,2122,Le Havre,Ajaccio,0.0,1.0,A,0.0,0.0,D,3.4,2.9,2.37,3.32,2.87,2.54,3.23,2.82,2.49,3.1,1.36,2.9,1.39,0.25,1.8,2.05,Le Havre,Ajaccio,le_havre,ajaccio
+2022-01-19,F2,France-L2,2122,Amiens,Ajaccio,0.0,1.0,A,0.0,1.0,A,3.0,3.0,2.3,3.29,2.94,2.5,3.14,3.0,2.42,2.5,1.5,2.25,1.62,0.25,1.9,1.95,Amiens,Ajaccio,amiens,ajaccio
+2022-01-24,F2,France-L2,2122,Caen,Ajaccio,2.0,0.0,H,0.0,0.0,D,2.62,2.9,2.62,2.94,2.95,2.75,2.77,2.93,2.71,2.5,1.5,2.56,1.48,0.0,1.95,1.9,Caen,Ajaccio,caen,ajaccio
+2022-02-07,F2,France-L2,2122,Paris FC,Ajaccio,2.0,0.0,H,0.0,0.0,D,2.3,3.1,3.2,2.51,2.88,3.34,2.42,2.95,3.16,2.6,1.47,2.56,1.49,-0.25,2.05,1.8,Paris FC,Ajaccio,paris_fc,ajaccio
+2022-02-19,F2,France-L2,2122,Sochaux,Ajaccio,0.0,1.0,A,0.0,0.0,D,2.2,3.0,3.4,2.25,2.95,3.83,2.25,2.93,3.58,2.7,1.44,2.91,1.38,-0.25,1.93,1.93,Sochaux,Ajaccio,sochaux,ajaccio
+2022-03-05,F2,France-L2,2122,Niort,Ajaccio,0.0,1.0,A,0.0,0.0,D,3.0,2.9,2.6,3.15,2.87,2.65,3.06,2.81,2.61,2.87,1.4,2.88,1.4,0.0,2.1,1.77,Niort,Ajaccio,niort,ajaccio
+2022-03-15,F2,France-L2,2122,Quevilly Rouen,Ajaccio,0.0,0.0,D,0.0,0.0,D,4.0,3.0,2.05,4.31,2.97,2.15,4.04,2.92,2.11,3.1,1.36,2.98,1.38,0.25,2.1,1.77,Quevilly Rouen,Ajaccio,quevilly_rouen,ajaccio
+2022-04-04,F2,France-L2,2122,Nancy,Ajaccio,0.0,2.0,A,0.0,0.0,D,3.8,2.7,2.2,3.66,2.92,2.33,3.61,2.86,2.27,2.87,1.4,2.71,1.44,0.25,1.95,1.9,Nancy,Ajaccio,nancy,ajaccio
+2022-04-16,F2,France-L2,2122,Dijon,Ajaccio,0.0,3.0,A,0.0,1.0,A,2.9,2.9,2.55,3.2,3.09,2.45,3.08,2.98,2.46,2.6,1.47,2.65,1.46,0.0,2.13,1.75,Dijon,Ajaccio,dijon,ajaccio
+2022-04-22,F2,France-L2,2122,Valenciennes,Ajaccio,0.0,0.0,D,0.0,0.0,D,4.2,2.8,2.0,4.51,2.87,2.16,4.27,2.85,2.09,3.1,1.36,2.97,1.38,0.5,1.77,2.1,Valenciennes,Ajaccio,valenciennes,ajaccio
+2022-05-07,F2,France-L2,2122,Grenoble,Ajaccio,1.0,1.0,D,1.0,0.0,H,5.0,3.3,1.7,5.1,3.6,1.74,5.01,3.52,1.72,2.25,1.61,2.24,1.62,0.75,1.9,1.95,Grenoble,Ajaccio,grenoble,ajaccio
+2022-08-05,F1,France-L1,2223,Lyon,Ajaccio,2.0,1.0,H,2.0,1.0,H,1.33,5.25,8.5,1.33,5.53,10.75,1.32,5.35,9.65,1.66,2.2,1.68,2.21,-1.5,2.0,1.93,Olympique Lyonnais,Ajaccio,olympique_lyonnais,ajaccio
+2022-08-21,F1,France-L1,2223,Rennes,Ajaccio,2.0,1.0,H,1.0,0.0,H,1.4,4.75,8.0,1.43,4.68,8.97,1.42,4.56,8.12,1.97,1.93,1.92,1.89,-1.25,2.03,1.87,Stade Rennais,Ajaccio,stade_rennais,ajaccio
+2022-08-31,F1,France-L1,2223,Montpellier,Ajaccio,2.0,0.0,H,1.0,0.0,H,2.1,3.3,3.6,2.15,3.41,3.79,2.11,3.38,3.63,2.1,1.72,2.11,1.74,-0.25,1.83,2.07,Montpellier,Ajaccio,montpellier,ajaccio
+2022-09-18,F1,France-L1,2223,Brest,Ajaccio,0.0,1.0,A,0.0,0.0,D,2.05,3.3,4.0,2.13,3.22,4.13,2.06,3.29,3.85,2.3,1.61,2.28,1.63,-0.5,2.07,1.83,Stade Brestois,Ajaccio,stade_brestois,ajaccio
+2022-10-08,F1,France-L1,2223,Marseille,Ajaccio,1.0,2.0,A,1.0,1.0,D,1.33,4.75,10.0,1.39,4.69,10.86,1.36,4.81,9.77,1.9,2.0,1.87,1.96,-1.25,1.84,2.06,Olympique Marseille,Ajaccio,olympique_marseille,ajaccio
+2022-10-16,F1,France-L1,2223,Troyes,Ajaccio,1.0,1.0,D,0.0,0.0,D,2.15,3.2,3.6,2.25,3.08,3.94,2.18,3.19,3.63,2.37,1.57,2.33,1.6,-0.25,1.88,2.02,Troyes,Ajaccio,troyes,ajaccio
+2022-10-30,F1,France-L1,2223,Auxerre,Ajaccio,1.0,0.0,H,1.0,0.0,H,2.6,3.1,2.9,2.69,3.11,3.04,2.57,3.11,2.93,2.5,1.53,2.41,1.56,0.0,1.82,2.08,AJ Auxerre,Ajaccio,aj_auxerre,ajaccio
+2022-11-13,F1,France-L1,2223,Nantes,Ajaccio,2.0,2.0,D,0.0,0.0,D,2.0,3.3,4.0,2.03,3.39,4.25,2.0,3.33,4.0,2.2,1.66,2.26,1.65,-0.5,2.02,1.88,FC Nantes,Ajaccio,fc_nantes,ajaccio
+2023-01-01,F1,France-L1,2223,Toulouse,Ajaccio,2.0,0.0,H,0.0,0.0,D,2.0,3.4,3.8,2.04,3.38,4.2,2.03,3.37,3.87,2.04,1.86,2.02,1.81,-0.5,2.02,1.88,Toulouse,Ajaccio,toulouse,ajaccio
+2023-01-15,F1,France-L1,2223,Monaco,Ajaccio,7.0,1.0,H,5.0,1.0,H,1.4,4.75,8.0,1.43,4.89,8.08,1.41,4.76,7.62,1.73,2.1,1.75,2.1,-1.25,1.98,1.92,AS Monaco,Ajaccio,as_monaco,ajaccio
+2023-02-01,F1,France-L1,2223,Angers,Ajaccio,1.0,2.0,A,1.0,0.0,H,2.25,3.2,3.4,2.34,3.15,3.61,2.27,3.18,3.41,2.38,1.57,2.36,1.6,-0.25,1.95,1.95,Angers,Ajaccio,angers,ajaccio
+2023-02-10,F1,France-L1,2223,Nice,Ajaccio,3.0,0.0,H,1.0,0.0,H,1.57,3.8,6.5,1.61,3.91,6.84,1.58,3.82,6.6,2.3,1.62,2.3,1.64,-1.0,2.07,1.83,OGC Nice,Ajaccio,ogc_nice,ajaccio
+2023-02-19,F1,France-L1,2223,Lorient,Ajaccio,3.0,0.0,H,2.0,0.0,H,2.0,3.4,3.8,2.11,3.3,4.08,2.07,3.29,3.85,2.3,1.62,2.32,1.62,-0.5,2.06,1.84,Lorient,Ajaccio,lorient,ajaccio
+2023-03-05,F1,France-L1,2223,Reims,Ajaccio,1.0,0.0,H,0.0,0.0,D,1.62,3.8,6.0,1.6,3.97,6.51,1.61,3.86,5.99,2.1,1.73,2.11,1.74,-1.0,2.11,1.79,Stade de Reims,Ajaccio,stade_de_reims,ajaccio
+2023-04-02,F1,France-L1,2223,Clermont,Ajaccio,2.0,1.0,H,0.0,1.0,A,2.1,3.2,3.8,2.12,3.22,4.04,2.11,3.2,3.83,2.5,1.53,2.47,1.54,-0.25,1.75,2.05,Clermont Foot,Ajaccio,clermont_foot,ajaccio
+2023-04-16,F1,France-L1,2223,Strasbourg,Ajaccio,3.0,1.0,H,1.0,0.0,H,1.75,3.3,5.25,1.79,3.47,5.5,1.77,3.41,5.22,2.5,1.53,2.43,1.56,-0.75,2.06,1.84,RC Strasbourg,Ajaccio,rc_strasbourg,ajaccio
+2023-04-29,F1,France-L1,2223,Lille,Ajaccio,3.0,0.0,H,3.0,0.0,H,1.22,6.0,15.0,1.2,6.83,17.19,1.21,6.43,15.43,1.67,2.2,1.68,2.19,-1.75,1.88,2.02,Lille,Ajaccio,lille,ajaccio
+2023-05-13,F1,France-L1,2223,Paris SG,Ajaccio,5.0,0.0,H,2.0,0.0,H,1.1,11.0,19.0,1.12,10.55,24.63,1.11,9.7,24.11,1.4,3.0,1.42,2.86,-2.5,2.03,1.87,Paris Saint-Germain,Ajaccio,paris_saint_germain,ajaccio
+2023-05-27,F1,France-L1,2223,Lens,Ajaccio,3.0,0.0,H,3.0,0.0,H,1.13,9.0,17.0,1.13,9.39,24.14,1.13,8.5,22.72,1.57,2.38,1.6,2.35,-2.25,2.01,1.89,RC Lens,Ajaccio,rc_lens,ajaccio
+2023-08-12,F2,France-L2,2324,Quevilly Rouen,Ajaccio,0.0,1.0,A,0.0,1.0,A,2.4,3.0,2.88,2.57,3.08,3.14,2.48,3.01,2.97,2.5,1.5,2.45,1.52,0.0,1.75,2.13,Quevilly Rouen,Ajaccio,quevilly_rouen,ajaccio
+2023-08-26,F2,France-L2,2324,Caen,Ajaccio,3.0,0.0,H,2.0,0.0,H,1.75,3.25,5.25,1.85,3.35,5.02,1.81,3.29,4.7,2.4,1.53,2.4,1.54,-0.5,1.83,2.03,Caen,Ajaccio,caen,ajaccio
+2023-09-18,F2,France-L2,2324,Guingamp,Ajaccio,3.0,0.0,H,2.0,0.0,H,2.3,3.1,3.3,2.27,3.19,3.45,2.24,3.16,3.23,2.25,1.62,2.21,1.63,-0.25,1.93,1.93,Guingamp,Ajaccio,guingamp,ajaccio
+2023-09-26,F2,France-L2,2324,Amiens,Ajaccio,0.0,0.0,D,0.0,0.0,D,2.05,3.3,3.6,2.11,3.24,4.0,2.08,3.15,3.71,2.35,1.57,2.38,1.56,-0.25,1.8,2.05,Amiens,Ajaccio,amiens,ajaccio
+2023-10-07,F2,France-L2,2324,St Etienne,Ajaccio,0.0,0.0,D,0.0,0.0,D,2.05,3.3,3.8,2.04,3.34,4.1,2.03,3.26,3.75,2.2,1.65,2.2,1.64,-0.5,2.05,1.8,Saint-Etienne,Ajaccio,saint_etienne,ajaccio
+2023-10-28,F2,France-L2,2324,Concarneau,Ajaccio,2.0,1.0,H,0.0,0.0,D,2.9,3.1,2.5,3.02,3.06,2.62,2.93,3.02,2.53,2.35,1.57,2.37,1.56,0.0,2.1,1.78,Concarneau,Ajaccio,concarneau,ajaccio
+2023-11-04,F2,France-L2,2324,Grenoble,Ajaccio,0.0,3.0,A,0.0,2.0,A,2.1,3.1,3.8,2.19,3.06,3.99,2.15,3.03,3.7,2.7,1.44,2.63,1.46,-0.25,1.8,2.05,Grenoble,Ajaccio,grenoble,ajaccio
+2023-11-25,F2,France-L2,2324,Annecy,Ajaccio,2.0,0.0,H,1.0,0.0,H,2.88,2.9,2.5,2.96,2.87,2.8,2.91,2.91,2.63,2.6,1.48,2.58,1.48,0.0,2.03,1.83,Annecy,Ajaccio,annecy,ajaccio
+2023-12-16,F2,France-L2,2324,Auxerre,Ajaccio,2.0,0.0,H,2.0,0.0,H,1.65,3.5,5.0,1.68,3.77,5.62,1.65,3.64,5.33,2.15,1.67,2.12,1.69,-0.75,1.85,2.0,AJ Auxerre,Ajaccio,aj_auxerre,ajaccio
+2024-01-13,F2,France-L2,2324,Troyes,Ajaccio,3.0,1.0,H,1.0,1.0,D,2.63,3.0,2.6,2.79,3.02,2.92,2.73,3.01,2.71,2.5,1.5,2.5,1.51,0.0,1.9,1.95,Troyes,Ajaccio,troyes,ajaccio
+2024-01-23,F2,France-L2,2324,Dunkerque,Ajaccio,2.0,0.0,H,1.0,0.0,H,2.63,2.9,2.55,2.93,2.95,2.84,2.77,2.95,2.69,2.7,1.44,2.65,1.45,0.0,1.93,1.93,Dunkerque,Ajaccio,dunkerque,ajaccio
+2024-02-05,F2,France-L2,2324,Bastia,Ajaccio,1.0,0.0,H,0.0,0.0,D,2.3,3.1,3.1,2.36,2.93,3.57,2.36,2.9,3.28,2.88,1.4,2.84,1.4,-0.25,2.05,1.8,Bastia,Ajaccio,bastia,ajaccio
+2024-02-17,F2,France-L2,2324,Laval,Ajaccio,1.0,1.0,D,1.0,0.0,H,2.38,2.75,3.4,2.52,2.77,3.63,2.42,2.73,3.45,3.5,1.3,3.31,1.31,-0.25,2.05,1.8,Laval,Ajaccio,laval,ajaccio
+2024-03-04,F2,France-L2,2324,Angers,Ajaccio,3.0,1.0,H,1.0,1.0,D,2.2,3.0,3.5,2.26,2.87,3.93,2.18,2.89,3.69,3.1,1.36,2.93,1.37,-0.25,1.85,2.0,Angers,Ajaccio,angers,ajaccio
+2024-03-16,F2,France-L2,2324,Paris FC,Ajaccio,2.0,0.0,H,0.0,0.0,D,2.2,2.9,3.75,2.15,2.98,4.28,2.15,2.87,3.92,3.1,1.36,2.98,1.37,-0.25,1.8,2.05,Paris FC,Ajaccio,paris_fc,ajaccio
+2024-04-06,F2,France-L2,2324,Pau FC,Ajaccio,1.0,1.0,D,1.0,1.0,D,2.55,3.0,3.0,2.64,2.91,3.17,2.55,2.9,3.0,2.7,1.44,2.65,1.45,0.0,1.78,2.1,Pau FC,Ajaccio,pau_fc,ajaccio
+2024-04-23,F2,France-L2,2324,Valenciennes,Ajaccio,1.0,0.0,H,0.0,0.0,D,5.0,2.9,1.91,5.38,2.97,1.93,4.83,2.93,1.92,3.4,1.33,3.2,1.33,0.5,1.93,1.93,Valenciennes,Ajaccio,valenciennes,ajaccio
+2024-05-03,F2,France-L2,2324,Bordeaux,Ajaccio,4.0,0.0,H,2.0,0.0,H,1.95,3.1,4.33,2.06,2.97,4.58,2.0,3.05,4.11,2.4,1.53,2.4,1.54,-0.5,2.03,1.83,Bordeaux,Ajaccio,bordeaux,ajaccio
+2024-05-17,F2,France-L2,2324,Rodez,Ajaccio,2.0,0.0,H,2.0,0.0,H,1.5,4.2,5.75,1.49,4.34,6.48,1.49,4.22,6.14,1.8,2.0,1.76,2.03,-1.0,1.85,2.0,Rodez,Ajaccio,rodez,ajaccio
+2024-08-26,F2,France-L2,2425,Red Star,Ajaccio,1.0,0.0,H,1.0,0.0,H,2.35,3.0,3.1,2.36,3.05,3.3,2.34,3.02,3.11,2.4,1.53,2.37,1.54,-0.25,2.03,1.83,Red Star,Ajaccio,red_star,ajaccio
+2024-09-13,F2,France-L2,2425,Laval,Ajaccio,1.0,1.0,D,1.0,1.0,D,2.45,2.8,3.1,2.61,2.82,3.28,2.52,2.79,3.19,3.1,1.36,2.94,1.38,-0.25,2.13,1.75,Laval,Ajaccio,laval,ajaccio
+2024-09-20,F2,France-L2,2425,Caen,Ajaccio,1.0,0.0,H,0.0,0.0,D,1.95,3.4,3.4,2.08,3.37,3.8,2.04,3.26,3.65,2.4,1.53,2.43,1.54,-0.25,1.75,2.05,Caen,Ajaccio,caen,ajaccio
+2024-09-27,F2,France-L2,2425,Lorient,Ajaccio,3.0,0.0,H,0.0,0.0,D,1.48,4.1,5.5,1.53,4.19,6.6,1.5,4.03,6.39,2.05,1.75,2.05,1.74,-1.0,1.82,1.92,Lorient,Ajaccio,lorient,ajaccio
+2024-10-19,F2,France-L2,2425,Amiens,Ajaccio,3.0,1.0,H,2.0,1.0,H,2.1,2.9,3.4,2.2,2.77,4.15,2.17,2.88,3.81,2.7,1.44,2.67,1.43,-0.25,1.85,2.0,Amiens,Ajaccio,amiens,ajaccio
+2024-10-29,F2,France-L2,2425,Guingamp,Ajaccio,1.0,0.0,H,0.0,0.0,D,1.7,3.4,5.5,1.74,3.63,5.22,1.72,3.47,5.0,2.25,1.62,2.28,1.61,-0.75,1.98,1.88,Guingamp,Ajaccio,guingamp,ajaccio
+2024-11-25,F2,France-L2,2425,Dunkerque,Ajaccio,1.0,0.0,H,1.0,0.0,H,2.05,3.2,3.9,2.06,3.2,3.85,2.01,3.19,3.8,2.35,1.57,2.35,1.55,-0.5,2.05,1.8,Dunkerque,Ajaccio,dunkerque,ajaccio
+2024-12-13,F2,France-L2,2425,Pau FC,Ajaccio,1.0,0.0,H,1.0,0.0,H,1.62,3.9,5.5,1.62,3.83,6.1,1.61,3.72,5.57,2.08,1.73,2.08,1.73,-0.75,1.8,2.05,Pau FC,Ajaccio,pau_fc,ajaccio
+2025-01-11,F2,France-L2,2425,Bastia,Ajaccio,4.0,0.0,H,3.0,0.0,H,1.67,3.3,5.75,1.71,3.35,6.22,1.69,3.32,5.6,2.7,1.44,2.61,1.46,-0.75,1.9,1.95,Bastia,Ajaccio,bastia,ajaccio
+2025-01-24,F2,France-L2,2425,Rodez,Ajaccio,1.0,2.0,A,0.0,2.0,A,1.72,3.6,4.5,1.76,3.59,5.11,1.75,3.56,4.69,2.0,1.85,1.97,1.82,-0.75,2.0,1.85,Rodez,Ajaccio,rodez,ajaccio
+2025-01-31,F2,France-L2,2425,Clermont,Ajaccio,0.0,1.0,A,0.0,0.0,D,1.75,3.2,5.0,1.82,3.29,5.3,1.8,3.25,4.87,2.25,1.62,2.3,1.6,-0.5,1.78,2.03,Clermont Foot,Ajaccio,clermont_foot,ajaccio
+2025-02-22,F2,France-L2,2425,Metz,Ajaccio,0.0,1.0,A,0.0,0.0,D,1.44,4.2,6.5,1.43,4.25,7.73,1.44,4.13,7.21,2.1,1.7,2.07,1.72,-1.0,1.8,2.05,Metz,Ajaccio,metz,ajaccio
+2025-03-07,F2,France-L2,2425,Grenoble,Ajaccio,2.0,2.0,D,1.0,1.0,D,2.2,3.1,3.4,2.22,3.22,3.53,2.19,3.1,3.43,2.4,1.53,2.41,1.54,-0.25,1.93,1.93,Grenoble,Ajaccio,grenoble,ajaccio
+2025-03-28,F2,France-L2,2425,Martigues,Ajaccio,2.0,0.0,H,2.0,0.0,H,3.0,3.0,2.25,3.16,3.11,2.4,3.06,3.09,2.36,2.4,1.53,2.42,1.52,0.25,1.83,2.03,Martigues,Ajaccio,martigues,ajaccio
+2025-04-11,F2,France-L2,2425,Troyes,Ajaccio,0.0,0.0,D,0.0,0.0,D,1.85,3.3,4.5,1.89,3.22,4.92,1.89,3.19,4.49,2.5,1.5,2.54,1.5,-0.5,1.9,1.95,Troyes,Ajaccio,troyes,ajaccio
+2025-04-25,F2,France-L2,2425,Annecy,Ajaccio,2.0,0.0,H,0.0,0.0,D,2.0,3.4,3.75,2.03,3.31,4.08,2.03,3.23,3.78,2.25,1.62,2.32,1.59,-0.5,2.0,1.85,Annecy,Ajaccio,annecy,ajaccio
+2025-05-10,F2,France-L2,2425,Paris FC,Ajaccio,2.0,0.0,H,0.0,0.0,D,1.48,4.1,6.5,1.44,4.23,7.01,1.45,4.2,6.8,1.98,1.88,1.93,1.83,-1.0,1.8,2.05,Paris FC,Ajaccio,paris_fc,ajaccio

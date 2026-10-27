@@ -1,0 +1,9 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder,opponent,venue,team_goals,opp_goals,h2h_match_no,h2h_total_vs_opp
+2026-08-14,T1,Turkey-SL,2627,Galatasaray,Corum,2.0,2.0,D,0.0,0.0,D,1.25,5.75,9.0,,,,1.26,5.39,9.38,1.53,2.4,1.51,2.41,-1.5,1.8,2.0,Galatasaray,Corum,galatasaray,corum,Galatasaray,A,2.0,2.0,1,1
+2026-08-22,T1,Turkey-SL,2627,Corum,Kasimpasa,0.0,1.0,A,0.0,1.0,A,2.2,3.5,3.0,,,,2.21,3.36,2.96,1.9,1.9,1.84,1.88,-0.25,1.95,1.85,Corum,Kasimpasa,corum,kasimpasa,Kasimpasa,H,0.0,1.0,1,1
+2026-08-31,T1,Turkey-SL,2627,Besiktas,Corum,6.0,2.0,H,2.0,0.0,H,1.37,5.0,7.0,,,,1.43,4.28,6.59,1.83,1.98,1.79,1.93,-1.25,2.05,1.75,Besiktas,Corum,besiktas,corum,Besiktas,A,2.0,6.0,1,1
+2026-09-06,T1,Turkey-SL,2627,Corum,Eyupspor,3.0,0.0,H,2.0,0.0,H,1.62,3.5,4.75,,,,1.68,3.62,4.56,1.95,1.85,1.88,1.84,-0.75,1.95,1.85,Corum,Eyupspor,corum,eyupspor,Eyupspor,H,3.0,0.0,1,1
+2026-09-12,T1,Turkey-SL,2627,Samsunspor,Corum,1.0,5.0,A,1.0,3.0,A,1.96,3.4,3.5,,,,2.14,3.26,3.21,1.9,1.9,1.86,1.86,-0.25,1.88,1.93,Samsunspor,Corum,samsunspor,corum,Samsunspor,A,5.0,1.0,1,1
+2026-09-19,T1,Turkey-SL,2627,Corum,Alanyaspor,1.0,2.0,A,0.0,0.0,D,2.05,3.2,3.5,,,,2.07,3.3,3.31,2.0,1.8,1.97,1.77,-0.25,1.8,2.0,Corum,Alanyaspor,corum,alanyaspor,Alanyaspor,H,1.0,2.0,1,1
+2026-10-11,T1,Turkey-SL,2627,Gaziantep,Corum,0.0,3.0,A,0.0,1.0,A,2.5,3.25,2.55,,,,2.55,3.31,2.54,1.9,1.9,1.85,1.86,0.0,1.88,1.93,Gaziantep,Corum,gaziantep,corum,Gaziantep,A,3.0,0.0,1,1
+2026-10-16,T1,Turkey-SL,2627,Corum,Rizespor,2.0,1.0,H,1.0,1.0,D,1.96,3.5,3.25,,,,2.02,3.54,3.22,1.65,2.2,1.63,2.17,-0.5,2.03,1.78,Corum,Caykur Rizespor,corum,caykur_rizespor,Caykur Rizespor,H,2.0,1.0,1,1

@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-26T22:02:43.274011",
+  "seed": 42,
+  "n_bootstrap": 1000,
+  "min_n": 100,
+  "train_end": "2024-06-30",
+  "val_end": "2025-06-30",
+  "n_train": 22945,
+  "n_test": 9438,
+  "n_leagues": 22,
+  "base_rates_train": {
+    "ou25": 0.5056875136195249,
+    "home_ou05": 0.7654826759642623,
+    "home_ou15": 0.43063848332970145,
+    "away_ou05": 0.6860753976901286,
+    "away_ou15": 0.3366310743081281
+  },
+  "base_rates_source": "recomputed from features_train.csv (train split)",
+  "inputs": {
+    "features_train.csv": "37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09",
+    "predictions.csv": "e23888c4bfb7c759d3834b5f41a6bf4e286c8b910514dc8d275426a316c3cb1e",
+    "config.json": "db8f156622b668a064e700ae0d7542f0e169a3ef42c6375394139697ce088fab"
+  },
+  "verdict_thresholds": {
+    "BETTER": "ci_high < 0",
+    "WORSE": "ci_low > 0",
+    "INCONCLUSIVE": "ci_low <= 0 <= ci_high",
+    "INSUFFICIENT_N": "n_common < 100"
+  }
+}

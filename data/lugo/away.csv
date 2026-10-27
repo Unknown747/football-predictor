@@ -1,0 +1,43 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,SP2,Spain-Segunda,2122,Oviedo,Lugo,2.0,2.0,D,2.0,0.0,H,2.0,3.0,4.33,2.07,3.04,4.51,2.03,2.98,4.18,2.7,1.44,2.66,1.45,-0.5,2.02,1.83,Real Oviedo,Lugo,real_oviedo,lugo
+2021-09-04,SP2,Spain-Segunda,2122,Fuenlabrada,Lugo,1.0,1.0,D,1.0,1.0,D,1.9,3.1,4.5,2.06,2.91,4.85,2.02,2.92,4.39,2.87,1.4,2.83,1.41,-0.5,2.0,1.85,Fuenlabrada,Lugo,fuenlabrada,lugo
+2021-09-18,SP2,Spain-Segunda,2122,Cartagena,Lugo,2.0,1.0,H,1.0,1.0,D,2.2,2.9,3.6,2.29,2.85,3.98,2.24,2.89,3.63,2.6,1.47,2.64,1.46,-0.25,1.88,1.98,Cartagena,Lugo,cartagena,lugo
+2021-10-03,SP2,Spain-Segunda,2122,Leganes,Lugo,1.0,1.0,D,0.0,0.0,D,1.57,3.6,7.0,1.63,3.65,6.37,1.62,3.59,5.85,2.3,1.6,2.35,1.58,-0.75,1.83,2.02,Leganes,Lugo,leganes,lugo
+2021-10-17,SP2,Spain-Segunda,2122,Burgos,Lugo,1.0,1.0,D,1.0,1.0,D,2.1,3.1,4.0,2.16,3.07,4.0,2.15,3.0,3.65,2.5,1.5,2.55,1.49,-0.25,1.8,2.05,Burgos,Lugo,burgos,lugo
+2021-10-23,SP2,Spain-Segunda,2122,Malaga,Lugo,1.0,0.0,H,1.0,0.0,H,1.85,3.3,4.5,1.88,3.41,4.62,1.91,3.19,4.24,2.5,1.5,2.47,1.52,-0.5,1.88,1.98,Malaga,Lugo,malaga,lugo
+2021-11-03,SP2,Spain-Segunda,2122,Mirandes,Lugo,3.0,2.0,H,0.0,1.0,A,2.05,3.1,3.8,2.23,2.99,3.9,2.13,3.06,3.61,2.3,1.6,2.33,1.58,-0.25,1.83,2.02,Mirandes,Lugo,mirandes,lugo
+2021-11-14,SP2,Spain-Segunda,2122,Amorebieta,Lugo,1.0,3.0,A,1.0,2.0,A,2.0,3.25,4.0,2.05,3.25,4.09,2.02,3.2,3.8,2.2,1.65,2.2,1.65,-0.5,2.02,1.83,Amorebieta,Lugo,amorebieta,lugo
+2021-11-26,SP2,Spain-Segunda,2122,Alcorcon,Lugo,1.0,1.0,D,0.0,1.0,A,2.2,3.2,3.5,2.27,3.15,3.69,2.23,3.01,3.51,2.6,1.47,2.6,1.48,-0.25,1.9,1.95,Alcorcon,Lugo,alcorcon,lugo
+2021-12-11,SP2,Spain-Segunda,2122,Tenerife,Lugo,1.0,1.0,D,1.0,0.0,H,1.75,3.4,5.25,1.72,3.42,5.95,1.72,3.37,5.34,2.4,1.53,2.49,1.52,-0.75,2.0,1.85,Tenerife,Lugo,tenerife,lugo
+2022-01-02,SP2,Spain-Segunda,2122,Sp Gijon,Lugo,1.0,1.0,D,0.0,1.0,A,,,,1.92,3.23,4.79,1.89,3.23,4.37,,,2.37,1.57,-0.5,1.77,2.02,Sp Gijon,Lugo,sp_gijon,lugo
+2022-01-23,SP2,Spain-Segunda,2122,Girona,Lugo,1.0,1.0,D,0.0,0.0,D,1.72,3.4,5.5,1.68,3.65,5.78,1.69,3.48,5.19,2.15,1.66,2.17,1.66,-0.75,1.93,1.93,Girona,Lugo,girona,lugo
+2022-02-05,SP2,Spain-Segunda,2122,Sociedad B,Lugo,1.0,1.0,D,0.0,1.0,A,2.8,3.0,2.8,2.7,3.15,2.94,2.69,3.02,2.74,2.25,1.61,2.23,1.63,0.0,1.9,1.95,Sociedad B,Lugo,sociedad_b,lugo
+2022-02-20,SP2,Spain-Segunda,2122,Huesca,Lugo,1.0,0.0,H,0.0,0.0,D,1.85,3.4,4.5,1.85,3.46,4.75,1.86,3.33,4.32,2.15,1.66,2.18,1.65,-0.5,1.85,2.0,Huesca,Lugo,huesca,lugo
+2022-02-26,SP2,Spain-Segunda,2122,Las Palmas,Lugo,2.0,2.0,D,2.0,1.0,H,1.65,3.75,5.75,1.69,3.58,5.78,1.66,3.55,5.39,2.25,1.61,2.23,1.62,-0.75,1.88,1.98,Las Palmas,Lugo,las_palmas,lugo
+2022-03-12,SP2,Spain-Segunda,2122,Almeria,Lugo,3.0,3.0,D,1.0,1.0,D,1.45,4.5,7.0,1.42,4.56,8.41,1.42,4.3,7.72,2.0,1.8,1.96,1.81,-1.25,2.0,1.85,Almeria,Lugo,almeria,lugo
+2022-03-26,SP2,Spain-Segunda,2122,Eibar,Lugo,1.0,0.0,H,0.0,0.0,D,1.6,3.6,6.5,1.65,3.68,6.48,1.62,3.57,5.9,2.35,1.57,2.32,1.58,-0.75,1.8,2.05,Eibar,Lugo,eibar,lugo
+2022-04-02,SP2,Spain-Segunda,2122,Valladolid,Lugo,4.0,1.0,H,1.0,0.0,H,1.36,4.75,9.5,1.38,4.69,9.35,1.35,4.71,8.82,1.83,2.02,1.81,1.98,-1.5,2.05,1.75,Real Valladolid,Lugo,real_valladolid,lugo
+2022-04-17,SP2,Spain-Segunda,2122,Ponferradina,Lugo,3.0,1.0,H,1.0,0.0,H,1.95,3.5,4.0,1.98,3.4,4.17,1.95,3.29,3.98,2.2,1.65,2.22,1.63,-0.5,1.95,1.9,Ponferradina,Lugo,ponferradina,lugo
+2022-05-08,SP2,Spain-Segunda,2122,Ibiza,Lugo,1.0,1.0,D,0.0,1.0,A,2.0,3.4,3.8,1.98,3.27,4.35,1.97,3.25,3.95,2.07,1.72,2.16,1.66,-0.5,2.0,1.85,Ibiza,Lugo,ibiza,lugo
+2022-05-20,SP2,Spain-Segunda,2122,Zaragoza,Lugo,1.0,0.0,H,0.0,0.0,D,1.95,3.5,3.8,1.98,3.46,4.26,1.94,3.37,3.96,2.0,1.8,2.11,1.71,-0.5,2.0,1.85,Zaragoza,Lugo,zaragoza,lugo
+2022-08-21,SP2,Spain-Segunda,2223,Tenerife,Lugo,1.0,1.0,D,1.0,0.0,H,1.61,3.5,6.5,1.61,3.64,6.69,1.61,3.53,6.17,2.35,1.57,2.38,1.56,-0.75,1.83,2.02,Tenerife,Lugo,tenerife,lugo
+2022-09-04,SP2,Spain-Segunda,2223,Zaragoza,Lugo,1.0,2.0,A,1.0,0.0,H,1.8,3.5,4.75,1.78,3.4,5.42,1.78,3.34,4.85,2.25,1.61,2.34,1.58,-0.75,2.02,1.77,Zaragoza,Lugo,zaragoza,lugo
+2022-09-17,SP2,Spain-Segunda,2223,Villarreal B,Lugo,3.0,1.0,H,1.0,0.0,H,1.85,3.4,4.75,1.86,3.6,4.67,1.84,3.44,4.32,2.07,1.72,2.09,1.72,-0.5,1.83,2.02,Villarreal B,Lugo,villarreal_b,lugo
+2022-10-02,SP2,Spain-Segunda,2223,Ibiza,Lugo,3.0,2.0,H,2.0,1.0,H,1.9,3.4,4.2,1.9,3.39,4.55,1.9,3.33,4.18,2.25,1.61,2.25,1.62,-0.5,1.9,1.95,Ibiza,Lugo,ibiza,lugo
+2022-10-08,SP2,Spain-Segunda,2223,Huesca,Lugo,1.0,1.0,D,0.0,0.0,D,1.72,3.6,5.25,1.75,3.6,5.33,1.74,3.49,4.85,2.15,1.66,2.14,1.69,-0.75,2.0,1.85,Huesca,Lugo,huesca,lugo
+2022-10-16,SP2,Spain-Segunda,2223,Malaga,Lugo,3.0,2.0,H,1.0,0.0,H,1.9,3.3,4.5,1.9,3.21,4.78,1.92,3.2,4.25,2.3,1.6,2.28,1.6,-0.5,1.9,1.95,Malaga,Lugo,malaga,lugo
+2022-11-02,SP2,Spain-Segunda,2223,Eibar,Lugo,1.0,0.0,H,0.0,0.0,D,1.55,4.1,6.0,1.56,4.01,6.82,1.55,3.84,6.16,2.1,1.7,2.12,1.7,-1.0,2.0,1.85,Eibar,Lugo,eibar,lugo
+2022-11-20,SP2,Spain-Segunda,2223,Andorra,Lugo,4.0,0.0,H,0.0,0.0,D,1.8,3.4,5.0,1.79,3.33,5.34,1.8,3.33,4.76,2.2,1.65,2.2,1.65,-0.75,2.05,1.8,Andorra,Lugo,andorra,lugo
+2022-12-04,SP2,Spain-Segunda,2223,Santander,Lugo,0.0,1.0,A,0.0,0.0,D,1.75,3.4,5.0,1.78,3.37,5.33,1.75,3.36,4.97,2.4,1.53,2.46,1.53,-0.75,2.02,1.83,Santander,Lugo,santander,lugo
+2022-12-11,SP2,Spain-Segunda,2223,Ponferradina,Lugo,1.0,0.0,H,1.0,0.0,H,2.25,3.3,3.25,2.24,3.25,3.43,2.23,3.2,3.24,2.08,1.73,2.1,1.71,-0.25,1.93,1.93,Ponferradina,Lugo,ponferradina,lugo
+2023-01-06,SP2,Spain-Segunda,2223,Leganes,Lugo,1.0,0.0,H,0.0,0.0,D,1.67,3.5,5.75,1.69,3.41,6.58,1.68,3.34,5.85,2.7,1.44,2.64,1.47,-0.75,1.93,1.93,Leganes,Lugo,leganes,lugo
+2023-01-15,SP2,Spain-Segunda,2223,Mirandes,Lugo,2.0,0.0,H,1.0,0.0,H,2.05,3.0,4.33,2.02,3.08,4.42,2.01,3.05,4.08,2.5,1.5,2.5,1.51,-0.5,2.02,1.83,Mirandes,Lugo,mirandes,lugo
+2023-01-29,SP2,Spain-Segunda,2223,Albacete,Lugo,2.0,0.0,H,0.0,0.0,D,1.75,3.3,5.5,1.69,3.5,5.76,1.74,3.47,4.98,2.25,1.62,2.28,1.61,-0.75,1.98,1.88,Albacete,Lugo,albacete,lugo
+2023-02-11,SP2,Spain-Segunda,2223,Las Palmas,Lugo,3.0,0.0,H,2.0,0.0,H,1.4,4.5,8.0,1.41,4.39,9.62,1.41,4.19,8.51,2.2,1.65,2.24,1.63,-1.25,2.05,1.8,Las Palmas,Lugo,las_palmas,lugo
+2023-02-26,SP2,Spain-Segunda,2223,Levante,Lugo,3.0,1.0,H,2.0,1.0,H,1.33,4.5,11.0,1.3,4.89,12.75,1.31,4.68,10.87,2.1,1.7,2.1,1.72,-1.25,1.83,2.02,Levante,Lugo,levante,lugo
+2023-03-11,SP2,Spain-Segunda,2223,Alaves,Lugo,0.0,0.0,D,0.0,0.0,D,1.44,4.2,8.5,1.38,4.5,10.78,1.39,4.22,9.05,2.25,1.62,2.25,1.62,-1.25,2.0,1.85,Deportivo Alaves,Lugo,deportivo_alaves,lugo
+2023-03-24,SP2,Spain-Segunda,2223,Cartagena,Lugo,2.0,0.0,H,0.0,0.0,D,1.7,3.5,5.25,1.74,3.54,5.64,1.72,3.47,5.15,2.15,1.67,2.22,1.64,-0.75,1.98,1.88,Cartagena,Lugo,cartagena,lugo
+2023-04-15,SP2,Spain-Segunda,2223,Oviedo,Lugo,2.0,1.0,H,1.0,1.0,D,1.65,3.4,6.5,1.67,3.39,7.01,1.64,3.33,6.35,2.88,1.4,2.89,1.39,-0.75,1.85,2.0,Real Oviedo,Lugo,real_oviedo,lugo
+2023-05-01,SP2,Spain-Segunda,2223,Sp Gijon,Lugo,3.0,1.0,H,2.0,0.0,H,1.55,3.8,7.0,1.51,3.79,7.93,1.52,3.7,7.05,2.35,1.57,2.36,1.56,-1.0,1.98,1.88,Sp Gijon,Lugo,sp_gijon,lugo
+2023-05-13,SP2,Spain-Segunda,2223,Granada,Lugo,2.0,0.0,H,2.0,0.0,H,1.25,5.25,15.0,1.22,6.17,17.17,1.22,5.66,14.79,1.85,2.0,1.83,1.94,-1.75,1.98,1.88,Granada,Lugo,granada,lugo
+2023-05-27,SP2,Spain-Segunda,2223,Burgos,Lugo,0.0,1.0,A,0.0,1.0,A,1.65,3.4,6.5,1.68,3.62,5.72,1.65,3.55,5.55,2.35,1.57,2.34,1.57,-0.75,1.88,1.98,Burgos,Lugo,burgos,lugo

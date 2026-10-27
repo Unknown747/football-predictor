@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-01,B1,Belgium-JPL,2122,St. Gilloise,Club Brugge,0.0,1.0,A,0.0,0.0,D,4.33,4.0,1.7,5.12,3.63,1.75,4.75,3.62,1.74,1.7,2.1,1.68,2.15,0.75,1.88,1.98,St. Gilloise,Club Brugge,st_gilloise,club_brugge
+2021-08-15,B1,Belgium-JPL,2122,Waregem,Club Brugge,0.0,4.0,A,0.0,1.0,A,6.5,4.5,1.44,6.08,4.75,1.49,5.87,4.6,1.48,1.5,2.5,1.51,2.51,1.0,2.05,1.8,Zulte Waregem,Club Brugge,zulte_waregem,club_brugge
+2021-08-29,B1,Belgium-JPL,2122,Gent,Club Brugge,6.0,1.0,H,3.0,0.0,H,3.1,3.25,2.3,3.21,3.28,2.37,3.13,3.24,2.31,1.72,2.07,1.77,2.05,0.25,1.85,2.0,KAA Gent,Club Brugge,kaa_gent,club_brugge
+2021-09-18,B1,Belgium-JPL,2122,Charleroi,Club Brugge,0.0,1.0,A,0.0,0.0,D,4.75,3.8,1.65,4.55,4.3,1.68,4.49,4.09,1.69,1.65,2.2,1.66,2.22,0.75,1.98,1.88,Sporting Charleroi,Club Brugge,sporting_charleroi,club_brugge
+2021-10-03,B1,Belgium-JPL,2122,Anderlecht,Club Brugge,1.0,1.0,D,0.0,1.0,A,2.87,3.6,2.37,2.86,3.61,2.4,2.8,3.51,2.4,1.8,2.0,1.79,2.02,0.0,2.05,1.8,Anderlecht,Club Brugge,anderlecht,club_brugge
+2021-10-24,B1,Belgium-JPL,2122,Antwerp,Club Brugge,1.0,1.0,D,1.0,1.0,D,3.75,4.0,1.85,3.58,4.17,1.89,3.57,3.92,1.89,1.57,2.35,1.57,2.37,0.5,1.95,1.9,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2021-10-30,B1,Belgium-JPL,2122,St Truiden,Club Brugge,1.0,2.0,A,1.0,1.0,D,6.0,4.2,1.53,5.8,4.34,1.55,5.63,4.15,1.55,1.75,2.05,1.77,2.04,1.0,1.9,1.95,Sint-Truiden,Club Brugge,sint_truiden,club_brugge
+2021-11-19,B1,Belgium-JPL,2122,Mechelen,Club Brugge,2.0,1.0,H,0.0,0.0,D,4.5,4.0,1.7,4.56,4.16,1.74,4.36,4.02,1.72,1.57,2.35,1.6,2.33,0.75,1.95,1.9,KV Mechelen,Club Brugge,kv_mechelen,club_brugge
+2021-11-28,B1,Belgium-JPL,2122,Genk,Club Brugge,2.0,3.0,A,0.0,1.0,A,3.2,3.5,2.15,2.84,3.69,2.29,2.9,3.67,2.24,1.53,2.4,1.54,2.42,0.25,1.88,1.98,Genk,Club Brugge,genk,club_brugge
+2021-12-15,B1,Belgium-JPL,2122,Oud-Heverlee Leuven,Club Brugge,1.0,4.0,A,0.0,1.0,A,5.5,4.2,1.55,5.52,4.39,1.56,5.4,4.28,1.55,1.53,2.4,1.59,2.32,1.0,1.93,1.93,Oud-Heverlee Leuven,Club Brugge,oud_heverlee_leuven,club_brugge
+2021-12-26,B1,Belgium-JPL,2122,Cercle Brugge,Club Brugge,2.0,0.0,H,0.0,0.0,D,4.0,3.8,1.75,4.18,4.04,1.78,4.13,3.88,1.78,1.7,2.1,1.68,2.15,0.75,1.85,2.0,Cercle Brugge,Club Brugge,cercle_brugge,club_brugge
+2022-01-23,B1,Belgium-JPL,2122,Standard,Club Brugge,2.0,2.0,D,1.0,1.0,D,4.75,3.75,1.7,4.17,4.03,1.79,4.16,3.87,1.77,1.66,2.15,1.65,2.2,0.75,1.85,2.0,Standard Liege,Club Brugge,standard_liege,club_brugge
+2022-01-30,B1,Belgium-JPL,2122,Kortrijk,Club Brugge,0.0,1.0,A,0.0,0.0,D,5.25,3.75,1.65,5.15,3.85,1.68,4.78,3.94,1.66,1.66,2.15,1.67,2.17,0.75,2.02,1.83,KV Kortrijk,Club Brugge,kv_kortrijk,club_brugge
+2022-02-20,B1,Belgium-JPL,2122,Eupen,Club Brugge,1.0,3.0,A,0.0,1.0,A,5.75,4.2,1.5,6.52,4.66,1.47,6.47,4.44,1.46,1.72,2.07,1.68,2.16,1.0,2.02,1.83,KAS Eupen,Club Brugge,kas_eupen,club_brugge
+2022-03-05,B1,Belgium-JPL,2122,Seraing,Club Brugge,0.0,5.0,A,0.0,3.0,A,6.5,4.33,1.4,7.27,4.56,1.44,6.66,4.66,1.43,1.6,2.3,1.57,2.35,1.25,1.9,1.95,RFC Seraing,Club Brugge,rfc_seraing,club_brugge
+2022-03-12,B1,Belgium-JPL,2122,Oostende,Club Brugge,1.0,3.0,A,1.0,2.0,A,7.5,4.75,1.4,7.3,5.09,1.39,7.03,4.92,1.4,1.53,2.4,1.54,2.42,1.25,1.98,1.88,KV Oostende,Club Brugge,kv_oostende,club_brugge
+2022-04-01,B1,Belgium-JPL,2122,Beerschot VA,Club Brugge,1.0,3.0,A,0.0,1.0,A,10.0,5.75,1.22,10.63,6.51,1.26,10.86,6.25,1.24,1.47,2.6,1.48,2.58,1.75,1.98,1.88,Beerschot VA,Club Brugge,beerschot_va,club_brugge
+2022-07-31,B1,Belgium-JPL,2223,Eupen,Club Brugge,2.0,1.0,H,2.0,1.0,H,5.25,4.75,1.5,6.13,4.92,1.46,6.0,4.75,1.46,1.5,2.5,1.52,2.49,1.25,1.83,2.02,KAS Eupen,Club Brugge,kas_eupen,club_brugge
+2022-08-14,B1,Belgium-JPL,2223,Oud-Heverlee Leuven,Club Brugge,0.0,3.0,A,0.0,2.0,A,5.25,3.75,1.65,4.62,4.19,1.68,4.55,4.12,1.67,1.53,2.4,1.54,2.41,0.75,2.0,1.85,Oud-Heverlee Leuven,Club Brugge,oud_heverlee_leuven,club_brugge
+2022-08-26,B1,Belgium-JPL,2223,Charleroi,Club Brugge,1.0,3.0,A,1.0,2.0,A,3.6,3.8,1.95,3.7,3.79,2.0,3.59,3.74,1.95,1.66,2.15,1.64,2.24,0.5,1.88,1.98,Sporting Charleroi,Club Brugge,sporting_charleroi,club_brugge
+2022-09-10,B1,Belgium-JPL,2223,Seraing,Club Brugge,0.0,2.0,A,0.0,0.0,D,7.5,4.75,1.4,7.6,4.73,1.44,6.87,4.66,1.43,1.57,2.35,1.58,2.35,1.25,1.9,1.95,RFC Seraing,Club Brugge,rfc_seraing,club_brugge
+2022-09-18,B1,Belgium-JPL,2223,Standard,Club Brugge,3.0,0.0,H,1.0,0.0,H,3.8,3.6,1.9,3.78,3.72,1.95,3.68,3.71,1.91,1.66,2.15,1.64,2.2,0.5,1.9,1.95,Standard Liege,Club Brugge,standard_liege,club_brugge
+2022-10-16,B1,Belgium-JPL,2223,Anderlecht,Club Brugge,0.0,1.0,A,0.0,0.0,D,2.5,3.5,2.7,2.56,3.8,2.56,2.53,3.57,2.58,1.7,2.1,1.7,2.12,0.0,1.9,1.95,Anderlecht,Club Brugge,anderlecht,club_brugge
+2022-10-22,B1,Belgium-JPL,2223,St. Gilloise,Club Brugge,2.0,2.0,D,1.0,2.0,A,2.6,3.4,2.6,2.6,3.58,2.71,2.57,3.46,2.61,1.75,2.05,1.74,2.08,0.0,1.9,1.95,St. Gilloise,Club Brugge,st_gilloise,club_brugge
+2022-11-06,B1,Belgium-JPL,2223,Gent,Club Brugge,2.0,0.0,H,2.0,0.0,H,2.7,3.5,2.5,2.86,3.61,2.45,2.77,3.45,2.44,1.85,2.0,1.8,2.0,0.0,2.05,1.8,KAA Gent,Club Brugge,kaa_gent,club_brugge
+2023-01-08,B1,Belgium-JPL,2223,Genk,Club Brugge,3.0,1.0,H,1.0,1.0,D,2.1,3.5,3.0,2.2,3.76,3.08,2.18,3.67,3.04,1.6,2.3,1.58,2.34,-0.25,1.93,1.93,Genk,Club Brugge,genk,club_brugge
+2023-01-19,B1,Belgium-JPL,2223,St Truiden,Club Brugge,1.0,1.0,D,0.0,1.0,A,3.5,3.5,2.0,3.76,3.35,2.08,3.53,3.39,2.07,2.0,1.85,1.97,1.82,0.25,2.05,1.75,Sint-Truiden,Club Brugge,sint_truiden,club_brugge
+2023-01-29,B1,Belgium-JPL,2223,Waregem,Club Brugge,1.0,2.0,A,1.0,2.0,A,4.5,3.75,1.65,4.99,4.37,1.61,4.72,4.11,1.64,1.57,2.35,1.55,2.39,0.75,2.02,1.83,Zulte Waregem,Club Brugge,zulte_waregem,club_brugge
+2023-02-05,B1,Belgium-JPL,2223,Antwerp,Club Brugge,0.0,0.0,D,0.0,0.0,D,2.5,3.3,2.63,2.66,3.28,2.84,2.57,3.32,2.7,1.93,1.93,1.88,1.9,0.0,1.88,1.98,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2023-02-19,B1,Belgium-JPL,2223,Cercle Brugge,Club Brugge,2.0,2.0,D,0.0,1.0,A,3.5,3.4,2.05,3.49,3.5,2.11,3.35,3.46,2.11,1.88,1.98,1.87,1.93,0.25,2.02,1.83,Cercle Brugge,Club Brugge,cercle_brugge,club_brugge
+2023-03-03,B1,Belgium-JPL,2223,Oostende,Club Brugge,3.0,0.0,H,1.0,0.0,H,4.5,4.0,1.67,4.56,4.33,1.7,4.41,4.07,1.7,1.6,2.3,1.62,2.27,0.75,1.98,1.88,KV Oostende,Club Brugge,kv_oostende,club_brugge
+2023-03-18,B1,Belgium-JPL,2223,Kortrijk,Club Brugge,1.0,0.0,H,1.0,0.0,H,4.2,3.8,1.65,4.41,4.5,1.7,4.28,4.13,1.71,1.57,2.35,1.56,2.38,0.75,1.98,1.88,KV Kortrijk,Club Brugge,kv_kortrijk,club_brugge
+2023-04-02,B1,Belgium-JPL,2223,Mechelen,Club Brugge,0.0,3.0,A,0.0,2.0,A,3.5,3.5,1.91,3.72,3.8,1.94,3.59,3.71,1.93,1.67,2.15,1.66,2.17,0.5,1.93,1.93,KV Mechelen,Club Brugge,kv_mechelen,club_brugge
+2023-04-15,B1,Belgium-JPL,2223,Westerlo,Club Brugge,0.0,0.0,D,0.0,0.0,D,3.3,3.4,2.15,3.29,3.71,2.17,3.17,3.57,2.15,1.67,2.15,1.67,2.17,0.25,1.98,1.88,KVC Westerlo,Club Brugge,kvc_westerlo,club_brugge
+2023-08-06,B1,Belgium-JPL,2324,Westerlo,Club Brugge,0.0,1.0,A,0.0,1.0,A,3.6,3.75,1.95,3.69,3.7,1.98,3.48,3.72,1.97,1.62,2.25,1.63,2.24,0.5,1.88,1.98,KVC Westerlo,Club Brugge,kvc_westerlo,club_brugge
+2023-08-13,B1,Belgium-JPL,2324,Eupen,Club Brugge,0.0,5.0,A,0.0,3.0,A,5.25,4.0,1.5,5.62,4.33,1.56,5.28,4.29,1.55,1.57,2.35,1.56,2.34,1.0,1.93,1.93,KAS Eupen,Club Brugge,kas_eupen,club_brugge
+2023-09-03,B1,Belgium-JPL,2324,Gent,Club Brugge,2.0,1.0,H,1.0,1.0,D,2.4,3.5,2.75,2.41,3.77,2.79,2.39,3.62,2.73,1.62,2.25,1.61,2.27,0.0,1.83,2.03,KAA Gent,Club Brugge,kaa_gent,club_brugge
+2023-09-24,B1,Belgium-JPL,2324,Anderlecht,Club Brugge,1.0,1.0,D,1.0,0.0,H,3.1,3.6,2.15,2.91,3.74,2.31,2.96,3.65,2.23,1.65,2.2,1.64,2.22,0.25,1.9,1.95,Anderlecht,Club Brugge,anderlecht,club_brugge
+2023-10-08,B1,Belgium-JPL,2324,Standard,Club Brugge,2.0,1.0,H,1.0,0.0,H,4.75,4.0,1.65,4.92,4.2,1.66,4.62,4.07,1.67,1.53,2.4,1.54,2.4,0.75,2.03,1.83,Standard Liege,Club Brugge,standard_liege,club_brugge
+2023-10-21,B1,Belgium-JPL,2324,Kortrijk,Club Brugge,1.0,0.0,H,1.0,0.0,H,7.0,5.0,1.4,7.22,5.36,1.4,6.96,5.05,1.39,1.44,2.7,1.44,2.72,1.25,2.03,1.83,KV Kortrijk,Club Brugge,kv_kortrijk,club_brugge
+2023-11-05,B1,Belgium-JPL,2324,St. Gilloise,Club Brugge,2.0,1.0,H,1.0,0.0,H,2.25,3.6,3.0,2.31,3.7,2.93,2.26,3.62,2.92,1.62,2.25,1.61,2.27,-0.25,2.0,1.85,St. Gilloise,Club Brugge,st_gilloise,club_brugge
+2023-11-26,B1,Belgium-JPL,2324,Oud-Heverlee Leuven,Club Brugge,0.0,1.0,A,0.0,1.0,A,4.5,4.0,1.67,4.37,4.2,1.68,4.4,4.14,1.68,1.53,2.4,1.51,2.5,0.75,2.03,1.83,Oud-Heverlee Leuven,Club Brugge,oud_heverlee_leuven,club_brugge
+2023-12-10,B1,Belgium-JPL,2324,Mechelen,Club Brugge,0.0,0.0,D,0.0,0.0,D,4.75,4.33,1.62,5.18,4.23,1.61,4.88,4.13,1.63,1.62,2.25,1.62,2.26,0.75,2.05,1.75,KV Mechelen,Club Brugge,kv_mechelen,club_brugge
+2023-12-22,B1,Belgium-JPL,2324,RWD Molenbeek,Club Brugge,1.0,6.0,A,0.0,3.0,A,7.5,5.0,1.36,8.5,5.2,1.37,8.03,4.94,1.36,1.62,2.25,1.63,2.23,1.5,1.8,2.05,RWD Molenbeek,Club Brugge,rwd_molenbeek,club_brugge
+2024-01-27,B1,Belgium-JPL,2324,Charleroi,Club Brugge,1.0,4.0,A,0.0,3.0,A,5.5,4.2,1.5,6.26,4.48,1.53,5.9,4.28,1.51,1.7,2.1,1.69,2.14,1.0,2.0,1.85,Sporting Charleroi,Club Brugge,sporting_charleroi,club_brugge
+2024-02-04,B1,Belgium-JPL,2324,Antwerp,Club Brugge,2.0,1.0,H,0.0,0.0,D,3.6,3.5,1.91,3.86,3.69,1.98,3.66,3.57,1.97,1.83,2.03,1.8,2.01,0.5,1.88,1.98,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2024-02-18,B1,Belgium-JPL,2324,Cercle Brugge,Club Brugge,1.0,1.0,D,0.0,0.0,D,3.4,3.75,2.05,3.35,3.72,2.09,3.31,3.66,2.05,1.75,2.05,1.76,2.05,0.25,2.05,1.8,Cercle Brugge,Club Brugge,cercle_brugge,club_brugge
+2024-03-03,B1,Belgium-JPL,2324,Genk,Club Brugge,0.0,3.0,A,0.0,1.0,A,3.0,3.6,2.2,3.09,3.67,2.28,2.98,3.57,2.24,1.73,2.08,1.73,2.09,0.25,1.88,1.98,Genk,Club Brugge,genk,club_brugge
+2024-03-17,B1,Belgium-JPL,2324,St Truiden,Club Brugge,2.0,1.0,H,0.0,1.0,A,5.5,4.0,1.6,5.54,4.22,1.62,5.19,4.05,1.61,1.73,2.08,1.73,2.08,1.0,1.8,2.05,Sint-Truiden,Club Brugge,sint_truiden,club_brugge
+2024-04-01,B1,Belgium-JPL,2324,Cercle Brugge,Club Brugge,1.0,1.0,D,1.0,0.0,H,3.6,3.6,2.0,3.59,3.64,2.01,3.54,3.63,1.98,1.7,2.1,1.71,2.09,0.5,1.88,1.98,Cercle Brugge,Club Brugge,cercle_brugge,club_brugge
+2024-04-21,B1,Belgium-JPL,2324,St. Gilloise,Club Brugge,1.0,2.0,A,0.0,0.0,D,2.3,3.4,3.0,2.31,3.39,3.1,2.28,3.41,2.98,1.85,2.0,1.82,1.96,-0.25,2.03,1.83,St. Gilloise,Club Brugge,st_gilloise,club_brugge
+2024-04-28,B1,Belgium-JPL,2324,Genk,Club Brugge,0.0,3.0,A,0.0,1.0,A,2.9,3.6,2.25,2.95,3.53,2.34,2.89,3.54,2.27,1.65,2.2,1.63,2.23,0.25,1.85,2.0,Genk,Club Brugge,genk,club_brugge
+2024-05-05,B1,Belgium-JPL,2324,Antwerp,Club Brugge,1.0,2.0,A,0.0,0.0,D,3.8,3.6,1.91,3.81,3.64,1.94,3.72,3.61,1.91,1.8,2.0,1.77,2.01,0.5,1.9,1.95,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2024-05-19,B1,Belgium-JPL,2324,Anderlecht,Club Brugge,0.0,1.0,A,0.0,1.0,A,2.88,3.5,2.3,2.91,3.48,2.38,2.93,3.49,2.28,1.75,2.05,1.76,2.03,0.25,1.78,2.1,Anderlecht,Club Brugge,anderlecht,club_brugge
+2024-08-04,B1,Belgium-JPL,2425,Standard,Club Brugge,1.0,0.0,H,0.0,0.0,D,5.25,4.2,1.53,5.51,4.45,1.52,5.43,4.39,1.53,1.6,2.3,1.59,2.31,1.0,1.95,1.9,Standard Liege,Club Brugge,standard_liege,club_brugge
+2024-08-11,B1,Belgium-JPL,2425,Genk,Club Brugge,3.0,2.0,H,0.0,1.0,A,3.3,3.7,2.05,3.48,3.61,2.03,3.4,3.63,2.04,1.7,2.1,1.69,2.14,0.25,2.05,1.8,Genk,Club Brugge,genk,club_brugge
+2024-08-25,B1,Belgium-JPL,2425,Dender,Club Brugge,1.0,2.0,A,1.0,2.0,A,4.75,4.2,1.55,5.09,4.41,1.56,5.12,4.3,1.57,1.62,2.25,1.62,2.25,1.0,1.85,2.0,Dender,Club Brugge,dender,club_brugge
+2024-09-14,B1,Belgium-JPL,2425,Kortrijk,Club Brugge,0.0,3.0,A,0.0,1.0,A,6.0,4.5,1.45,6.28,4.63,1.45,6.29,4.64,1.45,1.57,2.35,1.58,2.34,1.25,1.83,2.03,KV Kortrijk,Club Brugge,kv_kortrijk,club_brugge
+2024-09-27,B1,Belgium-JPL,2425,Charleroi,Club Brugge,1.0,1.0,D,0.0,0.0,D,3.6,3.75,1.9,3.92,3.77,1.93,3.76,3.77,1.89,1.67,2.15,1.69,2.15,0.5,1.93,1.93,Sporting Charleroi,Club Brugge,sporting_charleroi,club_brugge
+2024-10-19,B1,Belgium-JPL,2425,Westerlo,Club Brugge,1.0,2.0,A,1.0,2.0,A,3.9,4.0,1.7,4.03,4.14,1.76,4.01,4.15,1.74,1.48,2.6,1.45,2.65,0.75,1.88,1.98,KVC Westerlo,Club Brugge,kvc_westerlo,club_brugge
+2024-11-02,B1,Belgium-JPL,2425,Oud-Heverlee Leuven,Club Brugge,0.0,1.0,A,0.0,0.0,D,4.0,3.6,1.85,3.95,3.71,1.87,3.91,3.66,1.88,1.85,2.0,1.82,1.98,0.5,1.98,1.88,Oud-Heverlee Leuven,Club Brugge,oud_heverlee_leuven,club_brugge
+2024-11-10,B1,Belgium-JPL,2425,Beerschot VA,Club Brugge,2.0,2.0,D,0.0,2.0,A,7.5,6.5,1.29,8.61,5.89,1.28,9.02,5.97,1.27,1.44,2.7,1.43,2.73,1.75,1.85,2.0,Beerschot VA,Club Brugge,beerschot_va,club_brugge
+2024-12-07,B1,Belgium-JPL,2425,Mechelen,Club Brugge,1.0,2.0,A,0.0,1.0,A,4.75,4.1,1.67,4.53,4.1,1.68,4.49,4.08,1.69,1.57,2.35,1.56,2.37,0.75,1.98,1.88,KV Mechelen,Club Brugge,kv_mechelen,club_brugge
+2024-12-22,B1,Belgium-JPL,2425,St. Gilloise,Club Brugge,2.0,2.0,D,1.0,0.0,H,2.6,3.25,2.6,2.67,3.35,2.62,2.63,3.34,2.59,2.0,1.85,1.93,1.84,0.0,1.95,1.9,St. Gilloise,Club Brugge,st_gilloise,club_brugge
+2025-01-12,B1,Belgium-JPL,2425,Anderlecht,Club Brugge,0.0,3.0,A,0.0,2.0,A,3.7,3.4,2.0,3.73,3.26,2.07,3.51,3.44,2.05,1.73,2.08,1.72,2.08,0.25,2.08,1.73,Anderlecht,Club Brugge,anderlecht,club_brugge
+2025-02-02,B1,Belgium-JPL,2425,Antwerp,Club Brugge,2.0,1.0,H,0.0,1.0,A,4.75,3.6,1.73,4.51,3.89,1.72,4.42,3.84,1.73,1.7,2.1,1.71,2.09,0.75,1.9,1.95,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2025-02-15,B1,Belgium-JPL,2425,St Truiden,Club Brugge,2.0,2.0,D,2.0,0.0,H,4.5,4.2,1.67,4.5,4.07,1.7,4.54,4.1,1.67,1.62,2.25,1.61,2.28,0.75,1.98,1.88,Sint-Truiden,Club Brugge,sint_truiden,club_brugge
+2025-03-01,B1,Belgium-JPL,2425,Gent,Club Brugge,1.0,1.0,D,0.0,1.0,A,4.1,4.0,1.73,4.65,3.91,1.71,4.37,3.89,1.74,1.7,2.1,1.7,2.12,0.75,1.88,1.98,KAA Gent,Club Brugge,kaa_gent,club_brugge
+2025-03-09,B1,Belgium-JPL,2425,Cercle Brugge,Club Brugge,1.0,3.0,A,0.0,3.0,A,4.5,3.6,1.75,4.62,3.68,1.77,4.52,3.65,1.76,1.89,1.84,1.9,1.87,0.75,1.83,2.03,Cercle Brugge,Club Brugge,cercle_brugge,club_brugge
+2025-04-06,B1,Belgium-JPL,2425,Antwerp,Club Brugge,2.0,3.0,A,0.0,3.0,A,4.75,3.7,1.7,4.59,4.05,1.69,4.57,3.88,1.71,1.67,2.15,1.67,2.16,0.75,1.95,1.9,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2025-04-20,B1,Belgium-JPL,2425,Gent,Club Brugge,0.0,5.0,A,0.0,3.0,A,4.75,4.1,1.62,5.1,4.22,1.61,4.91,4.19,1.61,1.57,2.35,1.57,2.35,1.0,1.83,2.03,KAA Gent,Club Brugge,kaa_gent,club_brugge
+2025-04-27,B1,Belgium-JPL,2425,St. Gilloise,Club Brugge,0.0,0.0,D,0.0,0.0,D,2.55,3.1,2.9,2.56,3.16,2.92,2.51,3.15,2.88,1.98,1.88,1.94,1.85,0.0,1.78,2.03,St. Gilloise,Club Brugge,st_gilloise,club_brugge
+2025-05-11,B1,Belgium-JPL,2425,Genk,Club Brugge,0.0,2.0,A,0.0,1.0,A,3.4,3.7,2.0,3.51,3.74,2.0,3.4,3.66,2.01,1.62,2.25,1.63,2.22,0.5,1.83,2.03,Genk,Club Brugge,genk,club_brugge
+2025-05-18,B1,Belgium-JPL,2425,Anderlecht,Club Brugge,1.0,3.0,A,1.0,3.0,A,4.5,3.9,1.7,4.7,3.88,1.68,4.53,3.9,1.7,1.7,2.1,1.71,2.09,0.75,1.9,1.9,Anderlecht,Club Brugge,anderlecht,club_brugge
+2025-08-01,B1,Belgium-JPL,2526,Mechelen,Club Brugge,2.0,1.0,H,1.0,0.0,H,3.7,3.8,1.85,3.95,3.96,1.88,3.82,3.83,1.83,1.53,2.4,1.54,2.36,0.5,2.03,1.78,KV Mechelen,Club Brugge,kv_mechelen,club_brugge
+2025-08-16,B1,Belgium-JPL,2526,Waregem,Club Brugge,0.0,1.0,A,0.0,0.0,D,5.25,4.5,1.5,5.72,4.56,1.51,5.54,4.53,1.49,1.53,2.4,1.51,2.42,1.0,1.98,1.83,Zulte Waregem,Club Brugge,zulte_waregem,club_brugge
+2025-08-31,B1,Belgium-JPL,2526,Gent,Club Brugge,1.0,1.0,D,0.0,0.0,D,5.5,3.9,1.57,5.15,4.19,1.61,4.98,4.12,1.59,1.65,2.2,1.59,2.24,1.0,1.8,2.0,KAA Gent,Club Brugge,kaa_gent,club_brugge
+2025-09-13,B1,Belgium-JPL,2526,RAAL La Louviere,Club Brugge,1.0,0.0,H,1.0,0.0,H,5.75,4.5,1.48,6.47,4.55,1.47,6.2,4.43,1.46,1.67,2.15,1.65,2.12,1.25,1.75,2.05,RAAL La Louviere,Club Brugge,raal_la_louviere,club_brugge
+2025-09-27,B1,Belgium-JPL,2526,Standard,Club Brugge,1.0,2.0,A,1.0,1.0,D,5.25,4.33,1.57,5.75,4.18,1.56,5.23,4.1,1.57,1.7,2.1,1.66,2.09,1.0,1.8,2.0,Standard Liege,Club Brugge,standard_liege,club_brugge
+2025-10-18,B1,Belgium-JPL,2526,Oud-Heverlee Leuven,Club Brugge,0.0,1.0,A,0.0,0.0,D,5.25,4.1,1.6,5.11,4.21,1.61,5.17,4.16,1.56,1.7,2.1,1.66,2.1,1.0,1.78,2.03,Oud-Heverlee Leuven,Club Brugge,oud_heverlee_leuven,club_brugge
+2025-10-26,B1,Belgium-JPL,2526,Antwerp,Club Brugge,0.0,1.0,A,0.0,1.0,A,4.75,4.1,1.62,4.95,4.26,1.62,4.93,4.15,1.59,1.57,2.35,1.55,2.31,1.0,1.73,2.08,Royal Antwerp,Club Brugge,royal_antwerp,club_brugge
+2025-11-09,B1,Belgium-JPL,2526,Anderlecht,Club Brugge,1.0,0.0,H,1.0,0.0,H,2.8,3.5,2.3,,,,2.8,3.62,2.29,1.67,2.15,1.63,2.16,0.25,1.78,2.03,Anderlecht,Club Brugge,anderlecht,club_brugge
+2025-12-06,B1,Belgium-JPL,2526,St Truiden,Club Brugge,3.0,2.0,H,2.0,1.0,H,4.1,3.7,1.83,,,,3.9,3.83,1.8,1.57,2.35,1.55,2.32,0.5,1.98,1.83,Sint-Truiden,Club Brugge,sint_truiden,club_brugge
+2025-12-14,B1,Belgium-JPL,2526,Dender,Club Brugge,1.0,5.0,A,1.0,1.0,D,5.25,4.33,1.55,,,,5.25,4.24,1.54,1.53,2.4,1.55,2.31,1.0,1.9,1.9,Dender,Club Brugge,dender,club_brugge
+2025-12-26,B1,Belgium-JPL,2526,Genk,Club Brugge,3.0,5.0,A,1.0,3.0,A,2.9,3.5,2.15,,,,2.94,3.49,2.22,1.67,2.15,1.62,2.17,0.25,1.85,1.95,Genk,Club Brugge,genk,club_brugge
+2026-02-01,B1,Belgium-JPL,2526,St. Gilloise,Club Brugge,1.0,0.0,H,1.0,0.0,H,2.1,3.4,3.1,,,,2.18,3.37,3.15,1.85,1.95,1.79,1.92,-0.25,1.9,1.9,St. Gilloise,Club Brugge,st_gilloise,club_brugge
+2026-02-15,B1,Belgium-JPL,2526,Cercle Brugge,Club Brugge,1.0,2.0,A,0.0,0.0,D,3.9,3.8,1.8,,,,3.97,3.78,1.78,1.62,2.25,1.59,2.23,0.75,1.78,2.03,Cercle Brugge,Club Brugge,cercle_brugge,club_brugge
+2026-03-01,B1,Belgium-JPL,2526,Charleroi,Club Brugge,1.0,2.0,A,1.0,0.0,H,3.9,3.6,1.83,,,,3.77,3.69,1.85,1.73,2.08,1.69,2.05,0.5,1.95,1.85,Sporting Charleroi,Club Brugge,sporting_charleroi,club_brugge
+2026-03-14,B1,Belgium-JPL,2526,Westerlo,Club Brugge,1.0,2.0,A,0.0,2.0,A,5.0,4.1,1.55,,,,4.77,4.29,1.57,1.48,2.6,1.43,2.64,1.0,1.88,1.93,KVC Westerlo,Club Brugge,kvc_westerlo,club_brugge
+2026-04-11,B1,Belgium-JPL,2526,St Truiden,Club Brugge,1.0,2.0,A,1.0,0.0,H,3.6,3.75,1.83,,,,3.48,3.84,1.86,1.5,2.5,1.47,2.54,0.5,1.95,1.85,Sint-Truiden,Club Brugge,sint_truiden,club_brugge
+2026-04-19,B1,Belgium-JPL,2526,St. Gilloise,Club Brugge,2.0,1.0,H,1.0,1.0,D,2.2,3.3,2.9,,,,2.23,3.32,2.97,1.88,1.93,1.82,1.9,-0.25,1.98,1.83,St. Gilloise,Club Brugge,st_gilloise,club_brugge
+2026-04-26,B1,Belgium-JPL,2526,Gent,Club Brugge,0.0,2.0,A,0.0,1.0,A,4.33,3.75,1.7,,,,4.07,3.98,1.71,1.53,2.4,1.49,2.46,0.75,1.9,1.9,KAA Gent,Club Brugge,kaa_gent,club_brugge
+2026-05-03,B1,Belgium-JPL,2526,Anderlecht,Club Brugge,1.0,3.0,A,0.0,1.0,A,4.33,4.1,1.67,,,,4.28,4.1,1.66,1.5,2.5,1.48,2.52,0.75,1.95,1.85,Anderlecht,Club Brugge,anderlecht,club_brugge
+2026-05-21,B1,Belgium-JPL,2526,Mechelen,Club Brugge,2.0,2.0,D,0.0,1.0,A,7.0,4.75,1.38,,,,6.57,5.0,1.37,1.4,2.88,1.37,2.91,1.5,1.8,2.0,KV Mechelen,Club Brugge,kv_mechelen,club_brugge
+2026-08-15,B1,Belgium-JPL,2627,Oud-Heverlee Leuven,Club Brugge,0.0,3.0,A,0.0,1.0,A,6.0,4.75,1.44,,,,6.7,4.83,1.38,1.48,2.6,1.45,2.61,1.5,1.75,2.05,Oud-Heverlee Leuven,Club Brugge,oud_heverlee_leuven,club_brugge
+2026-08-30,B1,Belgium-JPL,2627,Gent,Club Brugge,2.0,1.0,H,1.0,1.0,D,4.1,3.8,1.7,,,,4.15,3.9,1.7,1.6,2.3,1.57,2.3,0.75,1.88,1.93,KAA Gent,Club Brugge,kaa_gent,club_brugge
+2026-09-04,B1,Belgium-JPL,2627,Lommel SK,Club Brugge,0.0,1.0,A,0.0,1.0,A,8.5,5.25,1.29,,,,8.83,5.93,1.25,1.3,3.5,1.29,3.4,1.75,1.85,1.95,Lommel SK,Club Brugge,lommel_sk,club_brugge
+2026-10-10,B1,Belgium-JPL,2627,RAAL La Louviere,Club Brugge,1.0,4.0,A,0.0,2.0,A,6.25,4.33,1.42,,,,6.54,4.82,1.38,1.48,2.6,1.47,2.55,1.5,1.73,2.08,RAAL La Louviere,Club Brugge,raal_la_louviere,club_brugge

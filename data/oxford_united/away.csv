@@ -1,0 +1,121 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E2,England-L1,2122,Cambridge,Oxford,1.0,1.0,D,0.0,1.0,A,3.6,3.5,2.0,3.63,3.45,2.08,3.5,3.4,2.05,1.98,1.88,1.94,1.85,0.5,1.83,2.02,Cambridge United,Oxford United,cambridge_united,oxford_united
+2021-08-21,E2,England-L1,2122,Bolton,Oxford,2.0,1.0,H,1.0,1.0,D,2.62,3.5,2.6,2.68,3.65,2.56,2.62,3.45,2.56,1.85,1.95,1.86,1.94,0.0,1.98,1.95,Bolton,Oxford United,bolton,oxford_united
+2021-09-04,E2,England-L1,2122,AFC Wimbledon,Oxford,3.0,1.0,H,0.0,1.0,A,3.0,3.5,2.3,3.09,3.57,2.3,2.98,3.46,2.28,1.8,2.0,1.79,2.01,0.25,1.85,2.0,AFC Wimbledon,Oxford United,afc_wimbledon,oxford_united
+2021-09-18,E2,England-L1,2122,Cheltenham,Oxford,1.0,0.0,H,0.0,0.0,D,2.75,3.3,2.6,2.74,3.31,2.65,2.72,3.29,2.56,2.01,1.92,1.94,1.85,0.0,2.04,1.89,Cheltenham Town,Oxford United,cheltenham_town,oxford_united
+2021-10-02,E2,England-L1,2122,Sheffield Weds,Oxford,1.0,2.0,A,0.0,1.0,A,2.2,3.4,3.3,2.3,3.4,3.17,2.23,3.37,3.15,2.0,1.8,1.96,1.82,-0.25,1.95,1.9,Sheffield Wednesday,Oxford United,sheffield_wednesday,oxford_united
+2021-10-23,E2,England-L1,2122,Burton,Oxford,1.0,3.0,A,0.0,2.0,A,3.0,3.25,2.4,2.92,3.29,2.52,2.83,3.29,2.46,2.0,1.8,2.02,1.77,0.0,2.08,1.73,Burton Albion,Oxford United,burton_albion,oxford_united
+2021-11-13,E2,England-L1,2122,Ipswich,Oxford,0.0,0.0,D,0.0,0.0,D,2.25,3.4,3.2,2.32,3.36,3.16,2.28,3.36,3.05,1.88,1.98,1.86,1.93,-0.25,2.0,1.85,Ipswich,Oxford United,ipswich,oxford_united
+2021-12-04,E2,England-L1,2122,Sunderland,Oxford,1.0,1.0,D,1.0,1.0,D,2.2,3.4,3.2,2.23,3.61,3.13,2.22,3.52,3.03,1.83,2.02,1.79,2.01,-0.25,1.95,1.9,Sunderland,Oxford United,sunderland,oxford_united
+2021-12-07,E2,England-L1,2122,Doncaster,Oxford,1.0,2.0,A,0.0,1.0,A,5.5,3.8,1.61,5.15,4.05,1.68,5.0,3.9,1.65,1.93,1.93,1.9,1.89,0.75,2.02,1.83,Doncaster Rovers,Oxford United,doncaster_rovers,oxford_united
+2021-12-11,E2,England-L1,2122,Milton Keynes Dons,Oxford,1.0,2.0,A,1.0,0.0,H,2.4,3.4,2.9,2.41,3.3,3.07,2.39,3.34,2.89,1.83,2.02,1.8,2.0,-0.25,2.1,1.77,MK Dons,Oxford United,mk_dons,oxford_united
+2022-01-08,E2,England-L1,2122,Lincoln,Oxford,2.0,0.0,H,1.0,0.0,H,3.25,3.4,2.25,3.28,3.65,2.15,3.19,3.5,2.15,1.9,1.95,1.86,1.92,0.25,1.95,1.9,Lincoln City,Oxford United,lincoln_city,oxford_united
+2022-01-15,E2,England-L1,2122,Wycombe,Oxford,2.0,0.0,H,1.0,0.0,H,2.4,3.4,2.9,2.51,3.53,2.76,2.4,3.42,2.8,1.95,1.9,1.89,1.89,-0.25,2.1,1.77,Wycombe Wanderers,Oxford United,wycombe_wanderers,oxford_united
+2022-01-29,E2,England-L1,2122,Gillingham,Oxford,2.0,7.0,A,0.0,3.0,A,4.75,3.75,1.75,4.81,3.8,1.74,4.59,3.7,1.74,1.95,1.9,1.9,1.87,0.75,1.9,1.95,Gillingham,Oxford United,gillingham,oxford_united
+2022-02-01,E2,England-L1,2122,Wigan,Oxford,1.0,1.0,D,1.0,1.0,D,2.0,3.6,3.6,2.05,3.64,3.69,2.04,3.47,3.46,1.75,2.05,1.79,2.01,-0.5,2.02,1.83,Wigan Athletic,Oxford United,wigan_athletic,oxford_united
+2022-02-08,E2,England-L1,2122,Accrington,Oxford,2.0,0.0,H,1.0,0.0,H,2.87,3.6,2.37,2.95,3.64,2.39,2.86,3.46,2.34,1.8,2.05,1.79,2.0,0.25,1.8,2.05,Accrington Stanley,Oxford United,accrington_stanley,oxford_united
+2022-02-19,E2,England-L1,2122,Charlton,Oxford,0.0,4.0,A,0.0,2.0,A,2.55,3.25,2.8,2.6,3.5,2.67,2.54,3.37,2.69,1.9,1.95,1.87,1.91,0.0,1.85,2.0,Charlton,Oxford United,charlton,oxford_united
+2022-02-22,E2,England-L1,2122,Crewe,Oxford,0.0,1.0,A,0.0,0.0,D,5.0,4.0,1.65,5.28,3.96,1.68,4.86,4.0,1.65,1.66,2.15,1.67,2.19,0.75,2.02,1.83,Crewe Alexandra,Oxford United,crewe_alexandra,oxford_united
+2022-03-01,E2,England-L1,2122,Portsmouth,Oxford,3.0,2.0,H,2.0,1.0,H,2.45,3.4,2.87,2.56,3.38,2.88,2.5,3.32,2.79,1.95,1.9,1.85,1.93,0.0,1.8,2.05,Portsmouth,Oxford United,portsmouth,oxford_united
+2022-03-12,E2,England-L1,2122,Shrewsbury,Oxford,1.0,2.0,A,0.0,1.0,A,3.4,3.25,2.25,3.43,3.34,2.21,3.3,3.33,2.18,2.1,1.77,2.05,1.75,0.25,1.93,1.93,Shrewsbury Town,Oxford United,shrewsbury_town,oxford_united
+2022-04-02,E2,England-L1,2122,Plymouth,Oxford,1.0,0.0,H,0.0,0.0,D,2.5,3.5,2.75,2.52,3.58,2.71,2.46,3.48,2.7,1.72,2.07,1.76,2.04,0.0,1.83,2.02,Plymouth Argyle,Oxford United,plymouth_argyle,oxford_united
+2022-04-05,E2,England-L1,2122,Morecambe,Oxford,2.0,1.0,H,2.0,1.0,H,4.0,3.6,1.9,4.1,3.72,1.92,3.89,3.61,1.9,1.72,2.07,1.76,2.03,0.5,1.95,1.9,Morecambe,Oxford United,morecambe,oxford_united
+2022-04-15,E2,England-L1,2122,Fleetwood Town,Oxford,2.0,3.0,A,1.0,3.0,A,3.9,3.7,1.9,4.28,3.79,1.86,3.96,3.63,1.87,1.93,1.93,1.88,1.9,0.5,2.0,1.85,Fleetwood Town,Oxford United,fleetwood_town,oxford_united
+2022-04-23,E2,England-L1,2122,Rotherham,Oxford,2.0,1.0,H,1.0,1.0,D,2.1,3.5,3.5,2.07,3.66,3.45,2.06,3.56,3.37,1.85,2.0,1.79,1.99,-0.25,1.85,2.0,Rotherham United,Oxford United,rotherham_united,oxford_united
+2022-07-30,E2,England-L1,2223,Derby,Oxford,1.0,0.0,H,0.0,0.0,D,2.2,3.4,3.3,2.27,3.54,3.23,2.24,3.35,3.13,1.93,1.93,1.89,1.88,-0.25,1.95,1.9,Derby,Oxford United,derby,oxford_united
+2022-08-13,E2,England-L1,2223,Bristol Rvs,Oxford,1.0,0.0,H,1.0,0.0,H,2.8,3.4,2.5,2.79,3.59,2.52,2.72,3.41,2.48,1.9,1.95,1.85,1.93,0.0,2.0,1.85,Bristol Rvs,Oxford United,bristol_rvs,oxford_united
+2022-08-27,E2,England-L1,2223,Cheltenham,Oxford,1.0,2.0,A,0.0,0.0,D,3.25,3.5,2.2,3.27,3.74,2.17,3.13,3.52,2.18,1.75,2.05,1.79,1.99,0.25,1.95,1.9,Cheltenham Town,Oxford United,cheltenham_town,oxford_united
+2022-09-13,E2,England-L1,2223,Plymouth,Oxford,1.0,0.0,H,0.0,0.0,D,1.95,3.5,4.0,1.95,3.69,3.97,1.99,3.53,3.63,1.88,1.98,1.85,1.92,-0.5,1.95,1.9,Plymouth Argyle,Oxford United,plymouth_argyle,oxford_united
+2022-10-01,E2,England-L1,2223,Charlton,Oxford,1.0,1.0,D,0.0,1.0,A,2.2,3.4,3.3,2.2,3.55,3.42,2.16,3.43,3.22,1.98,1.88,1.92,1.85,-0.25,1.88,1.98,Charlton,Oxford United,charlton,oxford_united
+2022-10-15,E2,England-L1,2223,Exeter,Oxford,2.0,4.0,A,0.0,3.0,A,2.25,3.4,3.2,2.35,3.53,3.09,2.28,3.37,3.06,1.98,1.88,1.95,1.83,-0.25,2.0,1.85,Exeter City,Oxford United,exeter_city,oxford_united
+2022-10-25,E2,England-L1,2223,Portsmouth,Oxford,1.0,1.0,D,0.0,1.0,A,2.25,3.5,3.1,2.33,3.54,3.12,2.25,3.43,3.05,1.8,2.05,1.82,1.96,-0.25,1.98,1.88,Portsmouth,Oxford United,portsmouth,oxford_united
+2022-10-29,E2,England-L1,2223,Bolton,Oxford,1.0,3.0,A,0.0,1.0,A,2.05,3.5,3.6,2.06,3.74,3.56,2.05,3.49,3.41,1.93,1.93,1.9,1.87,-0.5,2.02,1.83,Bolton,Oxford United,bolton,oxford_united
+2022-11-09,E2,England-L1,2223,Shrewsbury,Oxford,1.0,1.0,D,0.0,1.0,A,2.87,3.3,2.5,3.03,3.34,2.48,2.84,3.26,2.47,2.07,1.72,2.06,1.73,0.0,2.02,1.83,Shrewsbury Town,Oxford United,shrewsbury_town,oxford_united
+2022-12-03,E2,England-L1,2223,Accrington,Oxford,1.0,1.0,D,0.0,0.0,D,3.2,3.4,2.2,3.16,3.64,2.26,3.06,3.49,2.21,1.85,2.0,1.78,1.99,0.25,1.93,1.93,Accrington Stanley,Oxford United,accrington_stanley,oxford_united
+2022-12-17,E2,England-L1,2223,Sheffield Weds,Oxford,0.0,0.0,D,0.0,0.0,D,1.7,3.8,5.0,1.7,4.01,4.96,1.7,3.85,4.66,1.8,2.0,1.78,1.99,-0.75,1.9,1.95,Sheffield Wednesday,Oxford United,sheffield_wednesday,oxford_united
+2022-12-26,E2,England-L1,2223,Ipswich,Oxford,3.0,0.0,H,2.0,0.0,H,1.57,4.2,5.75,1.6,4.15,5.51,1.58,4.02,5.35,1.75,2.05,1.79,1.97,-1.0,2.0,1.85,Ipswich,Oxford United,ipswich,oxford_united
+2023-01-14,E2,England-L1,2223,Fleetwood Town,Oxford,1.0,2.0,A,1.0,0.0,H,2.9,3.6,2.25,3.11,3.44,2.38,3.0,3.36,2.31,1.95,1.9,1.97,1.81,0.25,1.73,2.08,Fleetwood Town,Oxford United,fleetwood_town,oxford_united
+2023-01-24,E2,England-L1,2223,Wycombe,Oxford,2.0,0.0,H,2.0,0.0,H,2.25,3.3,3.3,2.29,3.54,3.18,2.24,3.43,3.06,1.85,2.0,1.84,1.93,-0.25,1.98,1.88,Wycombe Wanderers,Oxford United,wycombe_wanderers,oxford_united
+2023-01-28,E2,England-L1,2223,Burton,Oxford,2.0,0.0,H,1.0,0.0,H,2.75,3.75,2.4,2.78,3.84,2.42,2.72,3.6,2.37,1.75,2.05,1.76,2.02,0.0,2.1,1.77,Burton Albion,Oxford United,burton_albion,oxford_united
+2023-02-11,E2,England-L1,2223,Milton Keynes Dons,Oxford,1.0,1.0,D,1.0,0.0,H,2.6,3.4,2.7,2.66,3.38,2.77,2.55,3.28,2.71,2.08,1.73,2.05,1.74,0.0,1.88,1.98,MK Dons,Oxford United,mk_dons,oxford_united
+2023-02-18,E2,England-L1,2223,Cambridge,Oxford,1.0,0.0,H,1.0,0.0,H,3.25,3.5,2.15,3.46,3.5,2.18,3.26,3.38,2.16,2.05,1.75,2.03,1.76,0.25,1.98,1.88,Cambridge United,Oxford United,cambridge_united,oxford_united
+2023-03-04,E2,England-L1,2223,Lincoln,Oxford,1.0,0.0,H,1.0,0.0,H,2.7,3.1,2.8,2.71,3.27,2.8,2.59,3.19,2.73,2.2,1.65,2.12,1.69,0.0,1.88,1.98,Lincoln City,Oxford United,lincoln_city,oxford_united
+2023-03-18,E2,England-L1,2223,Morecambe,Oxford,1.0,1.0,D,0.0,1.0,A,3.6,3.6,1.95,3.77,3.5,2.07,3.53,3.4,2.06,2.1,1.7,2.01,1.77,0.5,1.83,1.98,Morecambe,Oxford United,morecambe,oxford_united
+2023-04-01,E2,England-L1,2223,Peterboro,Oxford,0.0,0.0,D,0.0,0.0,D,1.8,3.75,4.5,1.78,3.83,4.67,1.78,3.69,4.36,1.85,2.0,1.83,1.95,-0.75,2.0,1.85,Peterborough United,Oxford United,peterborough_united,oxford_united
+2023-04-10,E2,England-L1,2223,Port Vale,Oxford,0.0,0.0,D,0.0,0.0,D,2.63,3.2,2.75,2.64,3.28,2.86,2.56,3.23,2.75,2.1,1.7,2.09,1.71,0.0,1.88,1.98,Port Vale,Oxford United,port_vale,oxford_united
+2023-04-22,E2,England-L1,2223,Barnsley,Oxford,2.0,0.0,H,1.0,0.0,H,1.62,3.8,5.75,1.66,3.98,5.45,1.65,3.82,5.12,1.98,1.88,1.91,1.86,-0.75,1.82,2.02,Barnsley,Oxford United,barnsley,oxford_united
+2023-04-29,E2,England-L1,2223,Forest Green,Oxford,0.0,3.0,A,0.0,1.0,A,6.0,4.0,1.57,6.2,4.13,1.58,5.86,3.97,1.57,1.98,1.88,1.92,1.84,1.0,1.85,2.0,Forest Green Rovers,Oxford United,forest_green_rovers,oxford_united
+2023-08-05,E2,England-L1,2324,Cambridge,Oxford,2.0,0.0,H,2.0,0.0,H,3.0,3.4,2.38,3.25,3.34,2.31,3.03,3.28,2.32,2.1,1.7,2.12,1.69,0.25,1.85,2.0,Cambridge United,Oxford United,cambridge_united,oxford_united
+2023-08-15,E2,England-L1,2324,Derby,Oxford,1.0,2.0,A,0.0,1.0,A,1.91,3.6,4.0,1.93,3.55,4.28,1.9,3.47,4.0,2.05,1.75,2.05,1.75,-0.5,1.9,1.95,Derby,Oxford United,derby,oxford_united
+2023-08-19,E2,England-L1,2324,Barnsley,Oxford,1.0,3.0,A,0.0,1.0,A,2.1,3.4,3.5,2.13,3.54,3.56,2.08,3.42,3.44,1.98,1.88,1.91,1.86,-0.25,1.83,2.03,Barnsley,Oxford United,barnsley,oxford_united
+2023-09-16,E2,England-L1,2324,Fleetwood Town,Oxford,0.0,3.0,A,0.0,2.0,A,3.25,3.4,2.2,3.22,3.59,2.25,3.1,3.49,2.2,1.9,1.95,1.87,1.9,0.25,1.93,1.93,Fleetwood Town,Oxford United,fleetwood_town,oxford_united
+2023-09-30,E2,England-L1,2324,Stevenage,Oxford,1.0,3.0,A,1.0,1.0,D,2.38,3.6,2.88,2.4,3.38,3.12,2.37,3.31,2.93,2.08,1.73,2.07,1.72,-0.25,2.03,1.78,Stevenage,Oxford United,stevenage,oxford_united
+2023-10-24,E2,England-L1,2324,Wigan,Oxford,2.0,0.0,H,1.0,0.0,H,3.25,3.6,2.15,3.39,3.7,2.13,3.25,3.54,2.11,1.73,2.08,1.76,2.04,0.25,2.03,1.83,Wigan Athletic,Oxford United,wigan_athletic,oxford_united
+2023-10-31,E2,England-L1,2324,Lincoln,Oxford,0.0,2.0,A,0.0,1.0,A,3.6,3.4,2.1,3.6,3.38,2.17,3.4,3.31,2.14,2.1,1.7,2.09,1.71,0.25,2.0,1.85,Lincoln City,Oxford United,lincoln_city,oxford_united
+2023-11-11,E2,England-L1,2324,Leyton Orient,Oxford,2.0,3.0,A,0.0,2.0,A,2.7,3.4,2.55,2.78,3.46,2.6,2.7,3.36,2.52,1.95,1.9,1.9,1.87,0.0,2.0,1.85,Leyton Orient,Oxford United,leyton_orient,oxford_united
+2023-11-25,E2,England-L1,2324,Cheltenham,Oxford,2.0,0.0,H,1.0,0.0,H,4.5,3.9,1.73,4.36,3.63,1.69,4.44,3.75,1.73,1.88,1.98,1.85,1.92,0.75,1.88,1.93,Cheltenham Town,Oxford United,cheltenham_town,oxford_united
+2023-12-09,E2,England-L1,2324,Peterboro,Oxford,3.0,0.0,H,2.0,0.0,H,1.91,3.6,4.0,1.91,3.54,3.97,1.89,3.56,3.83,1.93,1.93,1.86,1.9,-0.5,1.93,1.93,Peterborough United,Oxford United,peterborough_united,oxford_united
+2023-12-12,E2,England-L1,2324,Reading,Oxford,1.0,1.0,D,1.0,1.0,D,2.88,3.5,2.45,2.9,3.48,2.49,2.83,3.42,2.39,1.93,1.93,1.87,1.9,0.25,1.75,2.05,Reading,Oxford United,reading,oxford_united
+2023-12-23,E2,England-L1,2324,Northampton,Oxford,2.0,1.0,H,0.0,0.0,D,3.0,3.6,2.25,3.29,3.42,2.29,3.14,3.37,2.21,2.05,1.75,2.01,1.76,0.25,1.93,1.93,Northampton Town,Oxford United,northampton_town,oxford_united
+2024-01-01,E2,England-L1,2324,Charlton,Oxford,1.0,2.0,A,1.0,1.0,D,2.75,3.4,2.55,2.69,3.62,2.59,2.65,3.48,2.47,1.75,2.05,1.71,2.09,0.0,1.98,1.88,Charlton,Oxford United,charlton,oxford_united
+2024-01-13,E2,England-L1,2324,Carlisle,Oxford,1.0,3.0,A,0.0,1.0,A,3.6,3.4,2.05,3.43,3.46,2.21,3.33,3.4,2.11,2.0,1.85,1.93,1.83,0.25,2.03,1.83,Carlisle United,Oxford United,carlisle_united,oxford_united
+2024-01-27,E2,England-L1,2324,Bristol Rvs,Oxford,3.0,1.0,H,2.0,0.0,H,2.3,3.6,2.9,2.41,3.67,2.89,2.34,3.51,2.8,1.67,2.15,1.66,2.15,-0.25,2.05,1.8,Bristol Rvs,Oxford United,bristol_rvs,oxford_united
+2024-02-10,E2,England-L1,2324,Blackpool,Oxford,1.0,1.0,D,1.0,1.0,D,1.91,3.6,4.0,1.89,3.71,4.21,1.89,3.57,3.84,1.9,1.95,1.84,1.92,-0.5,1.9,1.95,Blackpool,Oxford United,blackpool,oxford_united
+2024-02-17,E2,England-L1,2324,Wycombe,Oxford,0.0,0.0,D,0.0,0.0,D,2.15,3.4,3.4,2.26,3.47,3.29,2.17,3.38,3.18,1.95,1.9,1.9,1.87,-0.25,1.88,1.98,Wycombe Wanderers,Oxford United,wycombe_wanderers,oxford_united
+2024-03-02,E2,England-L1,2324,Portsmouth,Oxford,2.0,1.0,H,1.0,1.0,D,1.73,3.75,5.0,1.71,4.01,4.9,1.7,3.78,4.65,1.85,2.0,1.8,1.96,-0.75,1.9,1.95,Portsmouth,Oxford United,portsmouth,oxford_united
+2024-03-12,E2,England-L1,2324,Bolton,Oxford,5.0,0.0,H,2.0,0.0,H,1.73,3.8,4.75,1.77,3.86,4.74,1.73,3.73,4.48,1.88,1.98,1.83,1.94,-0.75,1.95,1.9,Bolton,Oxford United,bolton,oxford_united
+2024-03-16,E2,England-L1,2324,Port Vale,Oxford,0.0,2.0,A,0.0,1.0,A,3.5,3.25,2.2,3.43,3.42,2.22,3.3,3.34,2.15,2.05,1.75,1.98,1.79,0.25,1.95,1.9,Port Vale,Oxford United,port_vale,oxford_united
+2024-03-29,E2,England-L1,2324,Shrewsbury,Oxford,1.0,1.0,D,0.0,0.0,D,3.75,3.4,2.05,3.83,3.34,2.09,3.62,3.34,2.04,2.1,1.7,2.09,1.71,0.5,1.8,2.05,Shrewsbury Town,Oxford United,shrewsbury_town,oxford_united
+2024-04-06,E2,England-L1,2324,Burton,Oxford,0.0,4.0,A,0.0,1.0,A,3.5,3.5,2.1,3.5,3.65,2.08,3.46,3.48,2.05,2.03,1.83,1.99,1.78,0.25,2.05,1.8,Burton Albion,Oxford United,burton_albion,oxford_united
+2024-04-27,E2,England-L1,2324,Exeter,Oxford,1.0,2.0,A,0.0,2.0,A,5.25,4.0,1.65,4.86,4.23,1.67,4.71,4.08,1.64,1.58,2.25,1.63,2.21,0.75,2.05,1.8,Exeter City,Oxford United,exeter_city,oxford_united
+2024-08-16,E1,England-Champ,2425,Coventry,Oxford,3.0,2.0,H,2.0,1.0,H,1.7,3.9,4.75,1.72,4.02,4.88,1.69,3.98,4.72,1.7,2.1,1.71,2.13,-0.75,1.93,1.97,Coventry,Oxford United,coventry,oxford_united
+2024-08-24,E1,England-Champ,2425,Blackburn,Oxford,2.0,1.0,H,1.0,1.0,D,1.75,3.75,4.33,1.8,3.81,4.24,1.77,3.83,4.29,1.73,2.1,1.74,2.08,-0.75,2.04,1.86,Blackburn,Oxford United,blackburn,oxford_united
+2024-09-21,E1,England-Champ,2425,Bristol City,Oxford,2.0,1.0,H,0.0,1.0,A,1.75,3.6,4.75,1.76,3.75,4.58,1.78,3.66,4.57,1.98,1.88,1.92,1.89,-0.75,2.05,1.85,Bristol City,Oxford United,bristol_city,oxford_united
+2024-10-01,E1,England-Champ,2425,Luton,Oxford,2.0,2.0,D,2.0,1.0,H,1.67,3.9,4.5,1.71,3.98,4.99,1.69,3.93,4.86,1.88,1.98,1.86,1.95,-0.75,1.9,2.0,Luton,Oxford United,luton,oxford_united
+2024-10-05,E1,England-Champ,2425,Portsmouth,Oxford,1.0,1.0,D,0.0,0.0,D,2.45,3.4,2.75,2.49,3.38,2.93,2.45,3.36,2.87,1.95,1.9,1.92,1.88,0.0,1.81,2.09,Portsmouth,Oxford United,portsmouth,oxford_united
+2024-10-26,E1,England-Champ,2425,Sunderland,Oxford,2.0,0.0,H,1.0,0.0,H,1.55,4.2,5.5,1.55,4.22,5.74,1.56,4.22,5.63,1.8,2.0,1.78,2.04,-1.0,2.0,1.9,Sunderland,Oxford United,sunderland,oxford_united
+2024-11-08,E1,England-Champ,2425,Watford,Oxford,1.0,0.0,H,0.0,0.0,D,1.67,3.7,5.0,1.7,3.92,5.12,1.7,3.82,4.92,1.93,1.93,1.9,1.9,-0.75,1.9,2.0,Watford,Oxford United,watford,oxford_united
+2024-11-26,E1,England-Champ,2425,Sheffield United,Oxford,3.0,0.0,H,2.0,0.0,H,1.4,4.33,8.5,1.41,4.67,8.56,1.42,4.45,8.12,1.98,1.88,1.94,1.86,-1.25,1.99,1.91,Sheffield United,Oxford United,sheffield_united,oxford_united
+2024-12-11,E1,England-Champ,2425,QPR,Oxford,2.0,0.0,H,0.0,0.0,D,1.95,3.6,3.6,1.99,3.41,3.9,2.01,3.41,3.74,2.1,1.73,2.11,1.72,-0.5,2.01,1.89,Queens Park Rangers,Oxford United,queens_park_rangers,oxford_united
+2024-12-21,E1,England-Champ,2425,Leeds,Oxford,4.0,0.0,H,1.0,0.0,H,1.14,7.5,19.0,1.14,8.04,18.68,1.14,7.67,18.95,1.53,2.5,1.52,2.44,-2.0,1.85,2.05,Leeds,Oxford United,leeds,oxford_united
+2025-01-01,E1,England-Champ,2425,Millwall,Oxford,0.0,1.0,A,0.0,0.0,D,1.67,3.75,5.0,1.69,3.69,5.24,1.68,3.62,5.13,2.3,1.62,2.26,1.61,-0.75,1.95,1.95,Millwall,Oxford United,millwall,oxford_united
+2025-01-04,E1,England-Champ,2425,Preston,Oxford,1.0,1.0,D,0.0,1.0,A,1.85,3.4,4.33,1.84,3.46,4.54,1.83,3.47,4.38,2.2,1.67,2.19,1.65,-0.5,1.86,2.04,Preston,Oxford United,preston,oxford_united
+2025-01-14,E1,England-Champ,2425,Plymouth,Oxford,1.0,1.0,D,0.0,1.0,A,2.35,3.4,3.0,2.37,3.36,3.18,2.34,3.29,3.05,2.03,1.83,2.01,1.79,-0.25,2.04,1.86,Plymouth Argyle,Oxford United,plymouth_argyle,oxford_united
+2025-01-25,E1,England-Champ,2425,Stoke,Oxford,0.0,0.0,D,0.0,0.0,D,2.0,3.3,3.8,2.01,3.4,3.86,2.0,3.4,3.75,2.1,1.73,2.04,1.76,-0.5,2.04,1.86,Stoke City,Oxford United,stoke_city,oxford_united
+2025-02-04,E1,England-Champ,2425,Burnley,Oxford,1.0,0.0,H,1.0,0.0,H,1.48,3.8,7.5,1.52,4.03,7.48,1.49,3.95,7.39,2.2,1.67,2.24,1.64,-1.0,1.92,1.98,Burnley,Oxford United,burnley,oxford_united
+2025-02-11,E1,England-Champ,2425,Derby,Oxford,0.0,0.0,D,0.0,0.0,D,2.2,3.0,3.6,2.25,3.12,3.73,2.24,3.05,3.57,2.75,1.44,2.66,1.47,-0.25,1.91,1.99,Derby,Oxford United,derby,oxford_united
+2025-02-22,E1,England-Champ,2425,West Brom,Oxford,2.0,0.0,H,1.0,0.0,H,1.7,3.6,5.25,1.69,3.6,5.38,1.69,3.63,5.29,2.2,1.67,2.16,1.69,-0.75,1.95,1.95,West Bromwich Albion,Oxford United,west_bromwich_albion,oxford_united
+2025-03-07,E1,England-Champ,2425,Norwich,Oxford,1.0,1.0,D,1.0,1.0,D,1.54,4.0,5.5,1.59,4.06,5.96,1.58,4.04,5.64,1.93,1.93,1.89,1.92,-1.0,2.06,1.84,Norwich City,Oxford United,norwich_city,oxford_united
+2025-03-12,E1,England-Champ,2425,Hull,Oxford,2.0,1.0,H,0.0,0.0,D,1.7,3.6,5.0,1.71,3.63,5.11,1.72,3.63,4.95,2.1,1.73,2.13,1.71,-0.75,1.98,1.92,Hull City,Oxford United,hull_city,oxford_united
+2025-03-29,E1,England-Champ,2425,Middlesbrough,Oxford,2.0,1.0,H,0.0,1.0,A,1.6,3.9,5.5,1.63,4.16,5.27,1.6,4.04,5.4,1.88,1.98,1.84,1.96,-1.0,2.09,1.81,Middlesbrough,Oxford United,middlesbrough,oxford_united
+2025-04-12,E1,England-Champ,2425,Sheffield Weds,Oxford,0.0,1.0,A,0.0,0.0,D,1.62,3.75,5.5,1.62,3.9,5.52,1.63,3.83,5.36,2.03,1.83,1.98,1.82,-0.75,1.84,2.06,Sheffield Wednesday,Oxford United,sheffield_wednesday,oxford_united
+2025-04-21,E1,England-Champ,2425,Cardiff,Oxford,1.0,1.0,D,0.0,0.0,D,1.85,3.25,4.5,1.9,3.38,4.34,1.89,3.36,4.27,2.2,1.67,2.22,1.64,-0.5,1.93,1.97,Cardiff City,Oxford United,cardiff_city,oxford_united
+2025-05-03,E1,England-Champ,2425,Swansea,Oxford,3.0,3.0,D,1.0,1.0,D,1.62,4.0,4.75,1.68,4.1,4.86,1.66,3.97,4.92,1.95,1.9,1.93,1.87,-0.75,1.82,1.96,Swansea City,Oxford United,swansea_city,oxford_united
+2025-08-17,E1,England-Champ,2526,Hull,Oxford,3.0,2.0,H,2.0,2.0,D,1.91,3.4,4.1,1.88,3.45,4.3,1.92,3.3,4.15,2.3,1.62,2.25,1.59,-0.5,1.93,1.93,Hull City,Oxford United,hull_city,oxford_united
+2025-08-23,E1,England-Champ,2526,Birmingham,Oxford,1.0,0.0,H,1.0,0.0,H,1.45,4.5,6.5,1.44,4.38,7.33,1.46,4.34,6.86,1.93,1.93,1.87,1.87,-1.25,2.05,1.75,Birmingham,Oxford United,birmingham,oxford_united
+2025-09-21,E1,England-Champ,2526,Bristol City,Oxford,1.0,3.0,A,0.0,2.0,A,1.56,4.2,5.25,1.57,4.03,5.81,1.59,3.94,5.43,1.93,1.93,1.9,1.86,-1.0,2.05,1.8,Bristol City,Oxford United,bristol_city,oxford_united
+2025-10-01,E1,England-Champ,2526,QPR,Oxford,0.0,0.0,D,0.0,0.0,D,2.01,3.4,3.5,2.09,3.46,3.52,2.08,3.42,3.46,2.0,1.8,2.0,1.76,-0.25,1.8,2.05,Queens Park Rangers,Oxford United,queens_park_rangers,oxford_united
+2025-10-04,E1,England-Champ,2526,Watford,Oxford,2.0,1.0,H,2.0,1.0,H,1.96,3.25,3.9,1.99,3.46,3.84,2.02,3.37,3.73,2.0,1.8,2.05,1.72,-0.5,2.0,1.85,Watford,Oxford United,watford,oxford_united
+2025-10-22,E1,England-Champ,2526,Wrexham,Oxford,1.0,0.0,H,1.0,0.0,H,1.91,3.4,3.75,1.97,3.51,3.85,1.99,3.44,3.73,2.0,1.85,1.95,1.79,-0.5,2.0,1.85,Wrexham,Oxford United,wrexham,oxford_united
+2025-10-25,E1,England-Champ,2526,Sheffield Weds,Oxford,1.0,2.0,A,0.0,2.0,A,2.7,3.25,2.5,2.67,3.34,2.66,2.71,3.29,2.58,2.05,1.8,2.01,1.75,0.0,1.98,1.88,Sheffield Wednesday,Oxford United,sheffield_wednesday,oxford_united
+2025-11-08,E1,England-Champ,2526,West Brom,Oxford,2.0,1.0,H,0.0,0.0,D,1.71,3.4,5.0,,,,1.75,3.58,4.78,2.1,1.73,2.08,1.7,-0.75,2.0,1.85,West Bromwich Albion,Oxford United,west_bromwich_albion,oxford_united
+2025-11-25,E1,England-Champ,2526,Norwich,Oxford,1.0,1.0,D,1.0,0.0,H,1.81,3.6,4.1,1.89,3.76,4.15,1.9,3.59,3.88,1.83,2.03,1.83,1.93,-0.5,1.88,1.98,Norwich City,Oxford United,norwich_city,oxford_united
+2025-12-06,E1,England-Champ,2526,Swansea,Oxford,2.0,0.0,H,2.0,0.0,H,2.05,3.4,3.6,2.07,3.38,3.67,2.05,3.3,3.72,2.1,1.73,2.15,1.66,-0.5,2.05,1.75,Swansea City,Oxford United,swansea_city,oxford_united
+2025-12-09,E1,England-Champ,2526,Blackburn,Oxford,1.0,1.0,D,0.0,1.0,A,1.76,3.5,4.75,1.81,3.73,4.69,1.77,3.56,4.62,2.1,1.73,2.05,1.73,-0.75,2.05,1.8,Blackburn,Oxford United,blackburn,oxford_united
+2025-12-20,E1,England-Champ,2526,Charlton,Oxford,1.0,0.0,H,0.0,0.0,D,2.05,3.4,3.5,2.15,3.25,3.6,2.1,3.26,3.53,2.2,1.67,2.17,1.64,-0.25,1.83,2.03,Charlton,Oxford United,charlton,oxford_united
+2026-01-01,E1,England-Champ,2526,Ipswich,Oxford,2.0,1.0,H,2.0,1.0,H,1.3,4.75,11.0,1.31,5.31,9.45,1.31,5.08,9.58,1.73,2.1,1.71,2.07,-1.5,1.98,1.88,Ipswich,Oxford United,ipswich,oxford_united
+2026-01-24,E1,England-Champ,2526,Leicester,Oxford,1.0,2.0,A,0.0,1.0,A,1.86,3.5,4.0,,,,1.87,3.51,4.07,1.91,1.91,1.9,1.85,-0.5,1.93,1.93,Leicester City,Oxford United,leicester_city,oxford_united
+2026-02-03,E1,England-Champ,2526,Sheffield United,Oxford,3.0,1.0,H,1.0,1.0,D,1.33,4.5,8.5,,,,1.38,4.65,7.94,1.73,2.1,1.73,2.04,-1.25,1.83,2.03,Sheffield United,Oxford United,sheffield_united,oxford_united
+2026-02-07,E1,England-Champ,2526,Coventry,Oxford,0.0,0.0,D,0.0,0.0,D,1.39,4.75,7.0,,,,1.41,4.7,7.15,1.62,2.3,1.61,2.24,-1.25,1.93,1.93,Coventry,Oxford United,coventry,oxford_united
+2026-02-21,E1,England-Champ,2526,Middlesbrough,Oxford,0.0,0.0,D,0.0,0.0,D,1.39,4.33,7.5,,,,1.4,4.59,7.6,1.8,2.0,1.74,2.01,-1.25,1.98,1.88,Middlesbrough,Oxford United,middlesbrough,oxford_united
+2026-02-25,E1,England-Champ,2526,Stoke,Oxford,2.0,1.0,H,1.0,1.0,D,1.79,3.5,4.5,,,,1.81,3.41,4.56,2.2,1.67,2.22,1.62,-0.5,1.83,2.03,Stoke City,Oxford United,stoke_city,oxford_united
+2026-03-06,E1,England-Champ,2526,Preston,Oxford,1.0,3.0,A,1.0,1.0,D,2.1,3.2,3.5,,,,2.12,3.23,3.51,2.3,1.62,2.21,1.63,-0.25,1.85,2.0,Preston,Oxford United,preston,oxford_united
+2026-03-21,E1,England-Champ,2526,Southampton,Oxford,2.0,0.0,H,2.0,0.0,H,1.51,4.0,6.0,,,,1.52,4.17,5.87,1.73,2.1,1.68,2.1,-1.0,1.93,1.93,Southampton,Oxford United,southampton,oxford_united
+2026-04-06,E1,England-Champ,2526,Portsmouth,Oxford,2.0,2.0,D,1.0,0.0,H,1.86,3.4,4.1,,,,1.85,3.43,4.2,2.2,1.67,2.15,1.66,-0.5,1.93,1.93,Portsmouth,Oxford United,portsmouth,oxford_united
+2026-04-18,E1,England-Champ,2526,Derby,Oxford,1.0,0.0,H,1.0,0.0,H,1.86,3.4,4.1,,,,1.89,3.46,4.03,2.1,1.73,2.01,1.75,-0.5,1.93,1.93,Derby,Oxford United,derby,oxford_united
+2026-05-02,E1,England-Champ,2526,Millwall,Oxford,2.0,0.0,H,1.0,0.0,H,1.3,5.25,7.5,,,,1.34,5.01,8.18,1.62,2.3,1.61,2.22,-1.5,2.0,1.85,Millwall,Oxford United,millwall,oxford_united
+2026-08-22,E2,England-L1,2627,Stevenage,Oxford,1.0,2.0,A,0.0,0.0,D,2.32,3.2,2.85,,,,2.35,3.18,2.98,2.1,1.7,2.06,1.7,-0.25,2.05,1.8,Stevenage,Oxford United,stevenage,oxford_united
+2026-09-01,E2,England-L1,2627,Huddersfield,Oxford,3.0,1.0,H,0.0,0.0,D,1.66,3.8,4.5,,,,1.72,3.82,4.34,1.7,2.1,1.69,2.06,-0.5,1.73,2.08,Huddersfield,Oxford United,huddersfield,oxford_united
+2026-09-05,E2,England-L1,2627,Leicester,Oxford,0.0,4.0,A,0.0,1.0,A,1.62,3.75,4.75,,,,1.68,3.82,4.56,1.8,2.0,1.76,1.98,-0.75,1.88,1.98,Leicester City,Oxford United,leicester_city,oxford_united
+2026-10-10,E2,England-L1,2627,Notts County,Oxford,1.0,2.0,A,0.0,1.0,A,2.5,3.3,2.57,,,,2.53,3.37,2.64,1.95,1.85,1.91,1.82,0.0,1.85,2.0,Notts County,Oxford United,notts_county,oxford_united
+2026-10-15,E2,England-L1,2627,Mansfield,Oxford,1.0,1.0,D,0.0,1.0,A,2.25,3.5,2.75,,,,2.23,3.54,2.89,1.75,2.05,1.73,2.02,-0.25,2.0,1.85,Mansfield Town,Oxford United,mansfield_town,oxford_united

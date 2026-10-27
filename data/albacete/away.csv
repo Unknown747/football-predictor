@@ -1,0 +1,91 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-15,SP2,Spain-Segunda,2223,Lugo,Albacete,1.0,2.0,A,1.0,1.0,D,2.2,3.2,3.5,2.29,3.07,3.62,2.21,3.06,3.45,2.4,1.53,2.35,1.57,-0.25,1.9,1.95,Lugo,Albacete,lugo,albacete
+2022-09-04,SP2,Spain-Segunda,2223,Malaga,Albacete,1.0,2.0,A,1.0,2.0,A,2.1,3.25,3.75,2.05,3.24,4.12,2.06,3.17,3.76,2.25,1.61,2.28,1.61,-0.5,2.05,1.75,Malaga,Albacete,malaga,albacete
+2022-09-10,SP2,Spain-Segunda,2223,Cartagena,Albacete,2.0,1.0,H,0.0,0.0,D,2.2,3.25,3.4,2.21,3.26,3.71,2.17,3.16,3.46,2.2,1.65,2.22,1.63,-0.25,1.85,2.0,Cartagena,Albacete,cartagena,albacete
+2022-10-02,SP2,Spain-Segunda,2223,Leganes,Albacete,1.0,2.0,A,1.0,0.0,H,1.9,3.25,4.5,2.03,3.33,4.07,1.95,3.2,4.09,2.4,1.53,2.47,1.52,-0.5,1.98,1.88,Leganes,Albacete,leganes,albacete
+2022-10-12,SP2,Spain-Segunda,2223,Alaves,Albacete,0.0,0.0,D,0.0,0.0,D,2.1,3.3,3.6,2.1,3.25,4.0,2.1,3.21,3.62,2.1,1.7,2.17,1.67,-0.25,1.8,2.05,Deportivo Alaves,Albacete,deportivo_alaves,albacete
+2022-10-23,SP2,Spain-Segunda,2223,Eibar,Albacete,1.0,1.0,D,1.0,1.0,D,1.95,3.3,4.33,1.95,3.11,4.69,1.94,3.17,4.26,2.4,1.53,2.44,1.54,-0.5,1.93,1.93,Eibar,Albacete,eibar,albacete
+2022-11-03,SP2,Spain-Segunda,2223,Sp Gijon,Albacete,2.0,2.0,D,1.0,1.0,D,2.15,3.25,3.6,2.13,3.15,3.66,2.14,3.2,3.45,2.25,1.61,2.26,1.62,-0.25,1.85,2.0,Sp Gijon,Albacete,sp_gijon,albacete
+2022-11-18,SP2,Spain-Segunda,2223,Granada,Albacete,4.0,0.0,H,0.0,0.0,D,2.05,3.3,3.8,2.05,3.34,4.04,2.02,3.27,3.8,2.25,1.61,2.23,1.64,-0.5,2.02,1.83,Granada,Albacete,granada,albacete
+2022-12-03,SP2,Spain-Segunda,2223,Mirandes,Albacete,4.0,2.0,H,3.0,1.0,H,2.75,2.9,2.8,2.79,3.13,2.81,2.7,3.02,2.73,2.4,1.53,2.37,1.56,0.0,1.9,1.95,Mirandes,Albacete,mirandes,albacete
+2022-12-11,SP2,Spain-Segunda,2223,Las Palmas,Albacete,1.0,2.0,A,0.0,1.0,A,1.8,3.3,5.0,1.85,3.12,5.36,1.81,3.2,4.9,2.3,1.6,2.35,1.57,-0.5,1.8,2.05,Las Palmas,Albacete,las_palmas,albacete
+2023-01-09,SP2,Spain-Segunda,2223,Huesca,Albacete,1.0,1.0,D,0.0,1.0,A,2.25,3.2,3.4,2.38,3.05,3.38,2.31,3.06,3.24,2.35,1.57,2.37,1.57,-0.25,1.98,1.88,Huesca,Albacete,huesca,albacete
+2023-01-23,SP2,Spain-Segunda,2223,Andorra,Albacete,0.0,1.0,A,0.0,0.0,D,2.0,3.1,4.2,2.13,2.98,4.17,2.04,3.09,3.9,2.5,1.5,2.51,1.49,-0.5,2.02,1.83,Andorra,Albacete,andorra,albacete
+2023-02-04,SP2,Spain-Segunda,2223,Tenerife,Albacete,1.0,0.0,H,1.0,0.0,H,2.05,3.1,4.2,2.11,3.04,4.33,2.06,3.0,4.04,2.88,1.4,2.78,1.43,-0.5,2.05,1.8,Tenerife,Albacete,tenerife,albacete
+2023-02-19,SP2,Spain-Segunda,2223,Burgos,Albacete,1.0,1.0,D,0.0,0.0,D,2.9,2.88,2.7,3.02,2.84,2.77,2.86,2.8,2.76,2.88,1.4,2.86,1.4,0.0,1.98,1.88,Burgos,Albacete,burgos,albacete
+2023-02-26,SP2,Spain-Segunda,2223,Oviedo,Albacete,1.0,1.0,D,1.0,0.0,H,2.55,2.88,3.2,2.68,2.76,3.24,2.61,2.75,3.11,3.4,1.33,3.14,1.34,0.0,1.73,2.15,Real Oviedo,Albacete,real_oviedo,albacete
+2023-03-12,SP2,Spain-Segunda,2223,Levante,Albacete,0.0,0.0,D,0.0,0.0,D,1.75,3.6,5.0,1.81,3.46,4.84,1.77,3.41,4.67,2.3,1.6,2.32,1.58,-0.75,2.02,1.83,Levante,Albacete,levante,albacete
+2023-03-26,SP2,Spain-Segunda,2223,Zaragoza,Albacete,1.0,1.0,D,0.0,0.0,D,2.15,3.0,3.6,2.2,3.0,3.88,2.16,2.98,3.67,2.7,1.44,2.65,1.45,-0.25,1.88,1.98,Zaragoza,Albacete,zaragoza,albacete
+2023-04-08,SP2,Spain-Segunda,2223,Santander,Albacete,4.0,1.0,H,3.0,1.0,H,2.5,2.9,3.1,2.52,3.02,3.28,2.44,2.95,3.12,2.6,1.48,2.57,1.49,-0.25,2.1,1.77,Santander,Albacete,santander,albacete
+2023-04-22,SP2,Spain-Segunda,2223,Villarreal B,Albacete,1.0,2.0,A,1.0,1.0,D,2.8,3.25,2.6,2.85,3.12,2.77,2.76,3.07,2.63,2.25,1.62,2.24,1.62,0.0,1.95,1.9,Villarreal B,Albacete,villarreal_b,albacete
+2023-05-07,SP2,Spain-Segunda,2223,Ibiza,Albacete,0.0,5.0,A,0.0,2.0,A,4.75,3.4,1.8,4.69,3.55,1.81,4.57,3.45,1.79,2.25,1.62,2.26,1.61,0.75,1.8,2.05,Ibiza,Albacete,ibiza,albacete
+2023-05-20,SP2,Spain-Segunda,2223,Ponferradina,Albacete,1.0,1.0,D,0.0,1.0,A,4.2,3.4,1.91,4.07,3.53,1.98,4.06,3.44,1.9,2.1,1.7,2.11,1.71,0.5,2.0,1.85,Ponferradina,Albacete,ponferradina,albacete
+2023-08-27,SP2,Spain-Segunda,2324,Leganes,Albacete,2.0,0.0,H,1.0,0.0,H,2.4,3.0,3.3,2.47,3.12,3.28,2.42,3.0,3.14,2.6,1.48,2.57,1.49,-0.25,2.1,1.78,Leganes,Albacete,leganes,albacete
+2023-09-09,SP2,Spain-Segunda,2324,Tenerife,Albacete,2.0,0.0,H,2.0,0.0,H,2.1,3.2,3.75,2.18,3.08,4.09,2.11,3.09,3.75,2.5,1.5,2.54,1.5,-0.25,1.83,2.03,Tenerife,Albacete,tenerife,albacete
+2023-09-23,SP2,Spain-Segunda,2324,Santander,Albacete,2.0,1.0,H,2.0,0.0,H,2.3,3.0,3.5,2.36,3.26,3.37,2.28,3.1,3.28,2.3,1.6,2.31,1.59,-0.25,1.98,1.88,Santander,Albacete,santander,albacete
+2023-10-03,SP2,Spain-Segunda,2324,Alcorcon,Albacete,1.0,2.0,A,0.0,1.0,A,3.1,3.1,2.3,3.16,3.11,2.57,3.01,3.05,2.46,2.25,1.62,2.28,1.6,0.25,1.88,1.98,Alcorcon,Albacete,alcorcon,albacete
+2023-10-13,SP2,Spain-Segunda,2324,Oviedo,Albacete,3.0,0.0,H,0.0,0.0,D,2.4,3.0,3.3,2.52,3.02,3.35,2.42,2.97,3.16,2.6,1.48,2.53,1.49,-0.25,2.05,1.8,Real Oviedo,Albacete,real_oviedo,albacete
+2023-10-29,SP2,Spain-Segunda,2324,Huesca,Albacete,0.0,0.0,D,0.0,0.0,D,2.88,3.0,2.75,2.96,2.96,2.85,2.81,2.94,2.71,2.6,1.48,2.54,1.49,0.0,1.95,1.9,Huesca,Albacete,huesca,albacete
+2023-11-12,SP2,Spain-Segunda,2324,Eibar,Albacete,1.0,1.0,D,1.0,0.0,H,1.83,3.3,4.75,1.89,3.36,4.92,1.85,3.32,4.46,2.25,1.62,2.27,1.61,-0.5,1.85,2.0,Eibar,Albacete,eibar,albacete
+2023-11-19,SP2,Spain-Segunda,2324,Cartagena,Albacete,1.0,1.0,D,1.0,0.0,H,2.88,3.2,2.6,2.82,3.19,2.59,2.78,3.15,2.56,2.15,1.67,2.19,1.65,0.0,2.0,1.85,Cartagena,Albacete,cartagena,albacete
+2023-12-03,SP2,Spain-Segunda,2324,Ferrol,Albacete,5.0,4.0,H,1.0,1.0,D,2.4,3.0,3.3,2.51,2.94,3.17,2.45,2.98,3.09,2.5,1.5,2.52,1.5,-0.25,2.1,1.78,Ferrol,Albacete,ferrol,albacete
+2023-12-16,SP2,Spain-Segunda,2324,Mirandes,Albacete,2.0,0.0,H,1.0,0.0,H,3.4,3.2,2.25,3.46,3.29,2.3,3.22,3.24,2.25,2.05,1.75,2.06,1.74,0.25,1.93,1.93,Mirandes,Albacete,mirandes,albacete
+2024-01-13,SP2,Spain-Segunda,2324,Levante,Albacete,3.0,2.0,H,2.0,0.0,H,2.38,3.4,3.0,2.48,3.21,3.2,2.39,3.19,3.03,2.2,1.65,2.18,1.66,-0.25,2.05,1.8,Levante,Albacete,levante,albacete
+2024-01-28,SP2,Spain-Segunda,2324,Burgos,Albacete,2.0,1.0,H,1.0,1.0,D,2.5,3.1,3.0,2.64,2.95,3.24,2.51,2.99,2.99,2.5,1.5,2.46,1.52,-0.25,2.13,1.75,Burgos,Albacete,burgos,albacete
+2024-02-12,SP2,Spain-Segunda,2324,Valladolid,Albacete,0.0,0.0,D,0.0,0.0,D,2.0,3.4,3.8,2.08,3.34,3.93,2.01,3.28,3.76,2.2,1.65,2.17,1.66,-0.5,2.03,1.83,Real Valladolid,Albacete,real_valladolid,albacete
+2024-02-25,SP2,Spain-Segunda,2324,Amorebieta,Albacete,1.0,1.0,D,0.0,1.0,A,3.6,3.0,2.25,3.56,3.2,2.3,3.36,3.11,2.22,2.5,1.5,2.41,1.53,0.25,1.95,1.9,Amorebieta,Albacete,amorebieta,albacete
+2024-03-01,SP2,Spain-Segunda,2324,Sp Gijon,Albacete,2.0,1.0,H,1.0,1.0,D,2.2,3.1,3.6,2.26,3.04,3.92,2.21,3.0,3.53,2.35,1.57,2.36,1.57,-0.25,1.85,2.0,Sp Gijon,Albacete,sp_gijon,albacete
+2024-03-17,SP2,Spain-Segunda,2324,Elche,Albacete,3.0,2.0,H,1.0,1.0,D,1.73,3.4,5.75,1.72,3.61,5.75,1.72,3.41,5.14,2.25,1.62,2.28,1.61,-0.75,1.95,1.9,Elche,Albacete,elche,albacete
+2024-04-07,SP2,Spain-Segunda,2324,Espanol,Albacete,2.0,1.0,H,1.0,1.0,D,1.8,3.4,5.0,1.74,3.52,4.88,1.76,3.47,4.7,2.15,1.67,2.16,1.67,-0.75,2.0,1.85,Espanyol,Albacete,espanyol,albacete
+2024-04-21,SP2,Spain-Segunda,2324,Eldense,Albacete,0.0,1.0,A,0.0,0.0,D,2.4,3.1,3.2,2.44,3.12,3.04,2.37,3.1,3.02,2.25,1.62,2.24,1.61,-0.25,2.05,1.8,Eldense,Albacete,eldense,albacete
+2024-05-05,SP2,Spain-Segunda,2324,Andorra,Albacete,0.0,1.0,A,0.0,0.0,D,2.15,3.1,3.75,2.09,3.07,3.87,2.08,3.11,3.66,2.25,1.62,2.21,1.63,-0.25,1.83,2.03,Andorra,Albacete,andorra,albacete
+2024-05-20,SP2,Spain-Segunda,2324,Villarreal B,Albacete,2.0,2.0,D,1.0,2.0,A,2.2,3.5,3.1,2.18,3.55,3.07,2.16,3.47,3.1,1.88,1.98,1.85,1.91,-0.25,1.93,1.93,Villarreal B,Albacete,villarreal_b,albacete
+2024-06-02,SP2,Spain-Segunda,2324,Zaragoza,Albacete,1.0,1.0,D,0.0,0.0,D,1.95,3.4,3.6,1.96,3.36,3.76,1.97,3.36,3.66,2.05,1.8,1.98,1.78,-0.5,2.0,1.85,Zaragoza,Albacete,zaragoza,albacete
+2024-08-15,SP2,Spain-Segunda,2425,Granada,Albacete,1.0,2.0,A,1.0,2.0,A,1.8,3.5,4.33,1.86,3.47,4.74,1.84,3.37,4.41,2.1,1.7,2.11,1.71,-0.5,1.85,2.0,Granada,Albacete,granada,albacete
+2024-08-31,SP2,Spain-Segunda,2425,Malaga,Albacete,2.0,1.0,H,1.0,1.0,D,2.15,3.1,3.6,2.19,3.12,3.66,2.17,3.1,3.5,2.35,1.57,2.38,1.55,-0.25,1.88,1.98,Malaga,Albacete,malaga,albacete
+2024-09-15,SP2,Spain-Segunda,2425,Mirandes,Albacete,2.0,0.0,H,1.0,0.0,H,2.45,3.1,3.0,2.6,2.81,3.2,2.5,2.94,3.04,2.5,1.5,2.5,1.51,-0.25,2.13,1.75,Mirandes,Albacete,mirandes,albacete
+2024-09-21,SP2,Spain-Segunda,2425,Ferrol,Albacete,1.0,4.0,A,0.0,0.0,D,2.45,2.9,3.1,2.52,2.97,3.17,2.46,2.95,3.06,2.4,1.53,2.42,1.53,0.0,1.68,2.15,Ferrol,Albacete,ferrol,albacete
+2024-10-13,SP2,Spain-Segunda,2425,Huesca,Albacete,2.0,2.0,D,1.0,2.0,A,2.45,2.9,3.2,2.59,2.88,3.17,2.51,2.9,3.09,2.4,1.53,2.4,1.53,-0.25,2.1,1.78,Huesca,Albacete,huesca,albacete
+2024-10-24,SP2,Spain-Segunda,2425,Almeria,Albacete,3.0,1.0,H,1.0,1.0,D,1.73,3.6,4.75,1.73,4.01,4.43,1.73,3.81,4.31,1.67,2.15,1.66,2.17,-0.75,1.98,1.88,Almeria,Albacete,almeria,albacete
+2024-11-02,SP2,Spain-Segunda,2425,Santander,Albacete,1.0,1.0,D,1.0,0.0,H,1.7,3.9,4.5,1.72,3.86,4.66,1.72,3.82,4.44,1.67,2.15,1.68,2.15,-0.75,1.93,1.93,Santander,Albacete,santander,albacete
+2024-11-16,SP2,Spain-Segunda,2425,Eldense,Albacete,2.0,0.0,H,1.0,0.0,H,2.3,3.25,3.1,2.35,3.37,3.17,2.3,3.27,3.05,2.0,1.85,1.95,1.82,-0.25,2.0,1.85,Eldense,Albacete,eldense,albacete
+2024-11-30,SP2,Spain-Segunda,2425,Zaragoza,Albacete,0.0,1.0,A,0.0,0.0,D,1.85,3.4,4.33,1.88,3.62,4.06,1.86,3.52,4.04,1.98,1.88,1.95,1.83,-0.5,1.88,1.98,Zaragoza,Albacete,zaragoza,albacete
+2024-12-14,SP2,Spain-Segunda,2425,Cadiz,Albacete,1.0,0.0,H,0.0,0.0,D,1.95,3.4,3.75,1.96,3.51,3.89,1.96,3.42,3.72,2.05,1.8,2.04,1.76,-0.5,2.0,1.85,Cadiz,Albacete,cadiz,albacete
+2024-12-20,SP2,Spain-Segunda,2425,Cartagena,Albacete,0.0,0.0,D,0.0,0.0,D,3.7,3.2,2.1,3.99,3.15,2.14,3.8,3.1,2.07,2.35,1.57,2.29,1.6,0.25,2.05,1.8,Cartagena,Albacete,cartagena,albacete
+2025-01-18,SP2,Spain-Segunda,2425,Eibar,Albacete,1.0,1.0,D,1.0,0.0,H,1.91,3.3,4.1,1.96,3.43,3.98,1.94,3.34,3.85,2.25,1.62,2.22,1.62,-0.5,1.98,1.88,Eibar,Albacete,eibar,albacete
+2025-02-02,SP2,Spain-Segunda,2425,Tenerife,Albacete,3.0,1.0,H,1.0,0.0,H,2.3,3.1,3.25,2.37,2.93,3.49,2.31,2.97,3.33,2.5,1.5,2.49,1.51,-0.25,2.0,1.85,Tenerife,Albacete,tenerife,albacete
+2025-02-16,SP2,Spain-Segunda,2425,Oviedo,Albacete,1.0,0.0,H,1.0,0.0,H,1.73,3.5,5.0,1.72,3.63,5.03,1.71,3.5,4.84,2.1,1.7,2.1,1.71,-0.75,1.98,1.88,Real Oviedo,Albacete,real_oviedo,albacete
+2025-03-10,SP2,Spain-Segunda,2425,Burgos,Albacete,1.0,0.0,H,1.0,0.0,H,2.15,3.1,3.6,2.21,3.02,3.74,2.17,3.01,3.55,2.5,1.5,2.5,1.5,-0.25,1.85,2.0,Burgos,Albacete,burgos,albacete
+2025-03-23,SP2,Spain-Segunda,2425,Sp Gijon,Albacete,0.0,2.0,A,0.0,1.0,A,1.85,3.2,4.75,1.85,3.38,4.59,1.85,3.31,4.35,2.25,1.62,2.23,1.62,-0.5,1.88,1.98,Sp Gijon,Albacete,sp_gijon,albacete
+2025-04-04,SP2,Spain-Segunda,2425,Castellon,Albacete,2.0,2.0,D,1.0,2.0,A,1.7,4.0,4.33,1.71,4.1,4.77,1.71,3.94,4.36,1.62,2.25,1.61,2.26,-0.75,1.9,1.95,Castellon,Albacete,castellon,albacete
+2025-04-20,SP2,Spain-Segunda,2425,Elche,Albacete,2.0,2.0,D,2.0,2.0,D,1.55,3.8,6.0,1.57,3.95,6.06,1.56,3.9,5.7,2.0,1.85,1.93,1.83,-1.0,2.03,1.83,Elche,Albacete,elche,albacete
+2025-05-04,SP2,Spain-Segunda,2425,La Coruna,Albacete,5.0,1.0,H,2.0,1.0,H,2.15,3.1,3.3,2.3,2.82,3.85,2.21,2.93,3.58,2.1,1.7,2.1,1.7,-0.25,1.81,1.81,La Coruna,Albacete,la_coruna,albacete
+2025-05-16,SP2,Spain-Segunda,2425,Levante,Albacete,1.0,0.0,H,1.0,0.0,H,1.48,4.75,5.5,1.49,4.91,5.97,1.47,4.67,5.68,1.44,2.7,1.46,2.59,-1.25,2.0,1.8,Levante,Albacete,levante,albacete
+2025-06-01,SP2,Spain-Segunda,2425,Cordoba,Albacete,1.0,1.0,D,0.0,1.0,A,1.62,3.9,5.25,1.61,3.68,5.6,1.6,4.01,5.08,1.53,2.4,1.48,2.51,-1.0,2.0,1.8,Cordoba,Albacete,cordoba,albacete
+2025-08-18,SP2,Spain-Segunda,2526,Almeria,Albacete,4.0,4.0,D,1.0,1.0,D,1.65,4.0,4.75,1.66,3.85,5.21,1.59,3.95,4.88,1.73,2.08,1.7,2.03,-0.75,1.83,1.98,Almeria,Albacete,almeria,albacete
+2025-08-31,SP2,Spain-Segunda,2526,Cadiz,Albacete,2.0,1.0,H,1.0,0.0,H,1.72,3.6,4.5,1.76,3.57,4.83,1.69,3.59,4.71,2.05,1.75,2.0,1.72,-0.75,2.03,1.78,Cadiz,Albacete,cadiz,albacete
+2025-09-15,SP2,Spain-Segunda,2526,Zaragoza,Albacete,0.0,0.0,D,0.0,0.0,D,2.05,3.3,3.5,2.15,3.09,3.82,2.08,3.19,3.36,2.0,1.8,1.94,1.77,-0.25,1.8,2.0,Zaragoza,Albacete,zaragoza,albacete
+2025-09-28,SP2,Spain-Segunda,2526,Sp Gijon,Albacete,3.0,4.0,A,3.0,1.0,H,1.96,3.6,3.5,2.02,3.36,3.87,1.93,3.45,3.54,1.98,1.83,1.89,1.82,-0.5,2.0,1.8,Sp Gijon,Albacete,sp_gijon,albacete
+2025-10-06,SP2,Spain-Segunda,2526,Cultural Leonesa,Albacete,0.0,0.0,D,0.0,0.0,D,2.5,3.4,2.57,2.75,3.12,2.75,2.57,3.2,2.56,1.98,1.83,1.9,1.81,0.0,1.9,1.9,Cultural Leonesa,Albacete,cultural_leonesa,albacete
+2025-10-19,SP2,Spain-Segunda,2526,Castellon,Albacete,0.0,1.0,A,0.0,1.0,A,1.66,4.0,4.33,1.75,3.98,4.34,1.72,3.83,4.08,1.65,2.2,1.61,2.19,-0.75,1.9,1.9,Castellon,Albacete,castellon,albacete
+2025-11-08,SP2,Spain-Segunda,2526,Eibar,Albacete,3.0,2.0,H,0.0,1.0,A,1.86,3.4,4.1,,,,1.89,3.3,3.93,2.08,1.73,2.02,1.71,-0.5,1.9,1.9,Eibar,Albacete,eibar,albacete
+2025-11-21,SP2,Spain-Segunda,2526,Las Palmas,Albacete,2.0,1.0,H,2.0,0.0,H,1.71,3.5,4.75,,,,1.71,3.42,4.71,2.15,1.67,2.07,1.68,-0.75,1.98,1.83,Las Palmas,Albacete,las_palmas,albacete
+2025-12-08,SP2,Spain-Segunda,2526,Burgos,Albacete,0.0,1.0,A,0.0,0.0,D,2.15,3.05,3.5,2.2,3.06,3.71,2.14,3.03,3.42,2.3,1.6,2.28,1.55,-0.25,1.85,1.95,Burgos,Albacete,burgos,albacete
+2025-12-21,SP2,Spain-Segunda,2526,Granada,Albacete,1.0,1.0,D,1.0,0.0,H,1.96,3.05,4.1,2.05,3.09,4.15,1.98,3.16,3.69,2.08,1.73,2.01,1.72,-0.5,2.03,1.78,Granada,Albacete,granada,albacete
+2026-01-10,SP2,Spain-Segunda,2526,Sociedad B,Albacete,0.0,0.0,D,0.0,0.0,D,2.7,3.3,2.5,2.78,3.38,2.55,2.73,3.19,2.43,1.98,1.83,1.96,1.76,0.0,1.98,1.83,Sociedad B,Albacete,sociedad_b,albacete
+2026-01-24,SP2,Spain-Segunda,2526,Valladolid,Albacete,0.0,1.0,A,0.0,0.0,D,1.91,3.4,3.9,,,,1.91,3.31,3.77,2.0,1.8,1.91,1.79,-0.5,1.98,1.83,Real Valladolid,Albacete,real_valladolid,albacete
+2026-02-08,SP2,Spain-Segunda,2526,La Coruna,Albacete,2.0,1.0,H,2.0,0.0,H,1.71,3.7,4.5,,,,1.69,3.64,4.53,1.95,1.85,1.87,1.85,-0.75,1.98,1.83,La Coruna,Albacete,la_coruna,albacete
+2026-02-22,SP2,Spain-Segunda,2526,Malaga,Albacete,1.0,0.0,H,0.0,0.0,D,1.91,3.4,3.9,,,,1.93,3.29,3.76,1.95,1.85,1.91,1.81,-0.5,1.98,1.83,Malaga,Albacete,malaga,albacete
+2026-03-07,SP2,Spain-Segunda,2526,Huesca,Albacete,0.0,0.0,D,0.0,0.0,D,2.5,2.75,3.2,,,,2.41,2.87,3.06,2.35,1.57,2.27,1.57,-0.25,2.1,1.7,Huesca,Albacete,huesca,albacete
+2026-03-21,SP2,Spain-Segunda,2526,Santander,Albacete,0.0,4.0,A,0.0,2.0,A,1.79,3.7,4.1,,,,1.79,3.65,3.9,1.7,2.1,1.68,2.07,-0.5,1.83,1.98,Santander,Albacete,santander,albacete
+2026-03-31,SP2,Spain-Segunda,2526,Mirandes,Albacete,1.0,1.0,D,1.0,0.0,H,2.35,3.25,3.0,,,,2.41,3.21,2.75,2.03,1.78,1.95,1.77,0.0,1.7,2.1,Mirandes,Albacete,mirandes,albacete
+2026-04-11,SP2,Spain-Segunda,2526,Leganes,Albacete,2.0,1.0,H,0.0,1.0,A,2.2,3.1,3.4,,,,2.12,3.17,3.3,2.08,1.73,2.01,1.73,-0.25,1.9,1.9,Leganes,Albacete,leganes,albacete
+2026-05-01,SP2,Spain-Segunda,2526,Andorra,Albacete,0.0,1.0,A,0.0,0.0,D,1.56,4.2,5.0,,,,1.59,3.85,4.82,1.7,2.1,1.7,2.03,-1.0,2.03,1.78,Andorra,Albacete,andorra,albacete
+2026-05-15,SP2,Spain-Segunda,2526,Cordoba,Albacete,1.0,2.0,A,0.0,2.0,A,1.57,4.0,5.25,,,,1.58,3.96,4.78,1.57,2.35,1.55,2.31,-1.0,2.0,1.8,Cordoba,Albacete,cordoba,albacete
+2026-05-30,SP2,Spain-Segunda,2526,Ceuta,Albacete,1.0,0.0,H,1.0,0.0,H,2.3,3.2,3.1,,,,2.29,3.2,2.88,1.8,2.0,1.77,1.95,0.0,1.83,1.98,Ceuta,Albacete,ceuta,albacete
+2026-08-16,SP2,Spain-Segunda,2627,Las Palmas,Albacete,2.0,1.0,H,1.0,0.0,H,1.57,3.8,5.5,,,,1.63,3.67,4.95,1.95,1.85,1.88,1.83,-0.75,1.83,1.98,Las Palmas,Albacete,las_palmas,albacete
+2026-09-06,SP2,Spain-Segunda,2627,Castellon,Albacete,2.0,0.0,H,0.0,0.0,D,1.49,4.0,6.0,,,,1.54,4.03,5.22,1.67,2.15,1.63,2.18,-1.0,1.93,1.88,Castellon,Albacete,castellon,albacete
+2026-09-12,SP2,Spain-Segunda,2627,Granada,Albacete,1.0,1.0,D,0.0,0.0,D,2.05,3.25,3.6,,,,2.05,3.26,3.42,2.1,1.7,2.03,1.72,-0.25,1.8,2.0,Granada,Albacete,granada,albacete
+2026-09-25,SP2,Spain-Segunda,2627,Girona,Albacete,2.0,0.0,H,2.0,0.0,H,1.49,4.33,5.75,,,,1.49,4.2,5.48,1.62,2.25,1.57,2.27,-1.0,1.85,1.95,Girona,Albacete,girona,albacete
+2026-10-12,SP2,Spain-Segunda,2627,Valladolid,Albacete,5.0,0.0,H,4.0,0.0,H,1.91,3.3,4.0,,,,1.94,3.27,3.64,1.95,1.85,1.88,1.82,-0.5,1.98,1.83,Real Valladolid,Albacete,real_valladolid,albacete
+2026-10-17,SP2,Spain-Segunda,2627,Sp Gijon,Albacete,2.0,1.0,H,1.0,0.0,H,1.91,3.5,3.9,,,,1.9,3.43,3.62,1.88,1.93,1.8,1.91,-0.5,1.95,1.85,Sp Gijon,Albacete,sp_gijon,albacete

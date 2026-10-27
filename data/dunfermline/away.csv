@@ -1,0 +1,96 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,SC1,Scotland-Champ,2122,Morton,Dunfermline,2.0,2.0,D,1.0,0.0,H,3.1,3.25,2.15,3.47,3.33,2.16,3.22,3.25,2.16,2.05,1.75,2.01,1.76,0.25,1.93,1.93,Morton,Dunfermline,morton,dunfermline
+2021-09-11,SC1,Scotland-Champ,2122,Ayr,Dunfermline,3.0,1.0,H,2.0,1.0,H,3.0,3.3,2.15,3.09,3.28,2.26,3.01,3.26,2.25,2.0,1.8,1.93,1.82,0.25,1.85,2.0,Ayr,Dunfermline,ayr,dunfermline
+2021-09-29,SC1,Scotland-Champ,2122,Raith Rvs,Dunfermline,1.0,1.0,D,1.0,0.0,H,2.05,3.3,3.1,2.3,3.35,3.11,2.26,3.28,3.02,1.93,1.93,1.92,1.83,-0.25,1.9,1.95,Raith Rvs,Dunfermline,raith_rvs,dunfermline
+2021-10-02,SC1,Scotland-Champ,2122,Queen of Sth,Dunfermline,1.0,0.0,H,0.0,0.0,D,2.3,3.2,2.75,2.49,3.36,2.81,2.41,3.29,2.75,1.95,1.85,1.93,1.82,0.0,1.8,2.05,Queen of Sth,Dunfermline,queen_of_sth,dunfermline
+2021-10-23,SC1,Scotland-Champ,2122,Partick,Dunfermline,0.0,0.0,D,0.0,0.0,D,1.8,3.4,4.2,1.83,3.55,4.32,1.82,3.56,4.03,1.75,2.05,1.75,2.01,-0.5,1.85,1.95,Partick,Dunfermline,partick,dunfermline
+2021-10-30,SC1,Scotland-Champ,2122,Arbroath,Dunfermline,4.0,2.0,H,2.0,2.0,D,1.83,3.5,3.5,1.9,3.67,3.87,1.91,3.48,3.66,1.95,1.85,1.9,1.85,-0.5,1.93,1.93,Arbroath,Dunfermline,arbroath,dunfermline
+2021-11-13,SC1,Scotland-Champ,2122,Inverness C,Dunfermline,1.0,2.0,A,1.0,0.0,H,1.65,3.6,5.5,1.65,3.82,5.24,1.68,3.66,4.68,1.98,1.88,1.92,1.83,-0.75,1.9,1.95,Inverness Caledonian Thistle,Dunfermline,inverness_caledonian_thistle,dunfermline
+2021-12-04,SC1,Scotland-Champ,2122,Hamilton,Dunfermline,1.0,0.0,H,0.0,0.0,D,2.45,3.25,2.45,2.49,3.59,2.67,2.55,3.34,2.56,1.95,1.9,1.94,1.81,0.0,1.93,1.93,Hamilton Academical,Dunfermline,hamilton_academical,dunfermline
+2022-01-02,SC1,Scotland-Champ,2122,Raith Rvs,Dunfermline,0.0,0.0,D,0.0,0.0,D,1.8,3.4,3.8,1.92,3.82,3.66,1.88,3.56,3.68,2.0,1.85,1.94,1.81,-0.5,1.85,2.0,Raith Rvs,Dunfermline,raith_rvs,dunfermline
+2022-01-08,SC1,Scotland-Champ,2122,Morton,Dunfermline,5.0,0.0,H,3.0,0.0,H,2.75,3.1,2.5,2.79,3.19,2.61,2.74,3.16,2.5,2.1,1.7,2.05,1.71,0.0,2.05,1.8,Morton,Dunfermline,morton,dunfermline
+2022-01-29,SC1,Scotland-Champ,2122,Queen of Sth,Dunfermline,0.0,2.0,A,0.0,2.0,A,2.55,3.2,2.55,2.73,3.19,2.66,2.64,3.12,2.61,2.2,1.65,2.19,1.63,0.0,1.93,1.93,Queen of Sth,Dunfermline,queen_of_sth,dunfermline
+2022-02-05,SC1,Scotland-Champ,2122,Ayr,Dunfermline,1.0,1.0,D,1.0,1.0,D,2.55,2.9,2.8,2.73,3.07,2.76,2.55,3.11,2.72,2.15,1.66,2.11,1.68,0.0,1.88,1.98,Ayr,Dunfermline,ayr,dunfermline
+2022-02-12,SC1,Scotland-Champ,2122,Kilmarnock,Dunfermline,2.0,1.0,H,0.0,0.0,D,1.61,3.6,4.5,1.68,3.53,5.48,1.65,3.58,5.16,2.15,1.66,2.07,1.7,-0.75,1.9,1.95,Kilmarnock,Dunfermline,kilmarnock,dunfermline
+2022-03-05,SC1,Scotland-Champ,2122,Arbroath,Dunfermline,1.0,0.0,H,1.0,0.0,H,1.8,3.2,4.5,1.89,3.46,4.15,1.86,3.37,4.09,2.15,1.66,2.1,1.68,-0.5,1.83,2.02,Arbroath,Dunfermline,arbroath,dunfermline
+2022-03-12,SC1,Scotland-Champ,2122,Hamilton,Dunfermline,2.0,2.0,D,1.0,1.0,D,2.1,3.1,3.5,2.01,3.56,3.59,2.03,3.33,3.47,2.15,1.66,2.14,1.65,-0.25,1.83,2.02,Hamilton Academical,Dunfermline,hamilton_academical,dunfermline
+2022-03-26,SC1,Scotland-Champ,2122,Inverness C,Dunfermline,2.0,0.0,H,0.0,0.0,D,1.9,3.2,4.0,2.0,3.43,3.76,1.98,3.3,3.69,2.15,1.66,2.11,1.67,-0.5,1.98,1.88,Inverness Caledonian Thistle,Dunfermline,inverness_caledonian_thistle,dunfermline
+2022-04-09,SC1,Scotland-Champ,2122,Kilmarnock,Dunfermline,2.0,0.0,H,1.0,0.0,H,1.6,4.0,4.33,1.63,3.79,5.42,1.61,3.73,5.25,2.02,1.83,2.03,1.73,-1.0,2.1,1.7,Kilmarnock,Dunfermline,kilmarnock,dunfermline
+2022-04-23,SC1,Scotland-Champ,2122,Partick,Dunfermline,1.0,0.0,H,1.0,0.0,H,2.1,3.25,3.0,2.32,3.19,3.23,2.22,3.17,3.18,2.2,1.65,2.19,1.63,-0.25,1.95,1.9,Partick,Dunfermline,partick,dunfermline
+2022-08-06,SC2,Scotland-L1,2223,FC Edinburgh,Dunfermline,0.0,3.0,A,0.0,2.0,A,3.8,3.4,1.85,3.77,3.73,1.88,3.54,3.51,1.92,1.98,1.88,1.88,1.85,0.5,1.93,1.93,FC Edinburgh,Dunfermline,fc_edinburgh,dunfermline
+2022-08-20,SC2,Scotland-L1,2223,Kelty Hearts,Dunfermline,0.0,0.0,D,0.0,0.0,D,4.0,3.6,1.75,3.81,3.68,1.88,3.89,3.55,1.82,1.75,2.05,1.82,1.91,0.5,2.02,1.77,Kelty Hearts,Dunfermline,kelty_hearts,dunfermline
+2022-09-03,SC2,Scotland-L1,2223,Queen of Sth,Dunfermline,0.0,2.0,A,0.0,2.0,A,2.8,3.4,2.2,2.86,3.7,2.18,2.81,3.45,2.26,1.85,2.0,1.8,1.93,0.25,1.83,2.02,Queen of Sth,Dunfermline,queen_of_sth,dunfermline
+2022-10-08,SC2,Scotland-L1,2223,Alloa,Dunfermline,0.0,3.0,A,0.0,2.0,A,3.0,3.4,2.05,3.44,3.5,2.05,3.21,3.42,2.06,1.9,1.95,1.84,1.89,0.25,1.95,1.9,Alloa,Dunfermline,alloa,dunfermline
+2022-10-18,SC2,Scotland-L1,2223,Clyde,Dunfermline,0.0,2.0,A,0.0,1.0,A,5.5,4.0,1.5,5.9,4.16,1.53,5.53,4.04,1.51,1.8,2.0,1.73,2.02,1.0,1.93,1.93,Clyde,Dunfermline,clyde,dunfermline
+2022-10-22,SC2,Scotland-L1,2223,Montrose,Dunfermline,2.0,0.0,H,0.0,0.0,D,2.87,3.4,2.25,2.78,3.55,2.36,2.71,3.38,2.37,1.8,2.0,1.84,1.89,0.0,2.2,1.7,Montrose,Dunfermline,montrose,dunfermline
+2022-11-05,SC2,Scotland-L1,2223,Falkirk,Dunfermline,0.0,1.0,A,0.0,0.0,D,2.5,3.3,2.55,2.47,3.52,2.66,2.48,3.37,2.56,1.8,2.0,1.81,1.92,0.0,1.9,1.95,Falkirk,Dunfermline,falkirk,dunfermline
+2022-11-19,SC2,Scotland-L1,2223,Peterhead,Dunfermline,0.0,2.0,A,0.0,2.0,A,5.0,4.2,1.5,6.45,4.27,1.48,5.72,4.12,1.49,1.72,2.07,1.71,2.04,1.0,1.98,1.88,Peterhead,Dunfermline,peterhead,dunfermline
+2022-12-24,SC2,Scotland-L1,2223,Kelty Hearts,Dunfermline,1.0,2.0,A,0.0,0.0,D,3.1,3.5,2.05,3.44,3.58,2.02,3.23,3.43,2.04,1.85,1.95,1.83,1.9,0.25,2.0,1.85,Kelty Hearts,Dunfermline,kelty_hearts,dunfermline
+2023-01-07,SC2,Scotland-L1,2223,FC Edinburgh,Dunfermline,0.0,1.0,A,0.0,1.0,A,3.2,3.3,2.05,3.31,3.48,2.11,3.2,3.36,2.09,1.88,1.98,1.82,1.92,0.25,2.0,1.85,FC Edinburgh,Dunfermline,fc_edinburgh,dunfermline
+2023-01-28,SC2,Scotland-L1,2223,Clyde,Dunfermline,1.0,1.0,D,1.0,1.0,D,5.5,4.0,1.5,5.94,4.09,1.53,5.73,4.06,1.5,1.7,2.1,1.76,2.0,1.0,1.98,1.88,Clyde,Dunfermline,clyde,dunfermline
+2023-02-11,SC2,Scotland-L1,2223,Airdrie Utd,Dunfermline,3.0,4.0,A,2.0,0.0,H,3.5,3.25,2.0,3.31,3.46,2.05,3.21,3.36,2.08,1.8,2.0,1.79,1.95,0.25,2.1,1.77,Airdrie Utd,Dunfermline,airdrie_utd,dunfermline
+2023-02-25,SC2,Scotland-L1,2223,Queen of Sth,Dunfermline,0.0,2.0,A,0.0,1.0,A,3.6,3.3,1.91,3.56,3.48,2.02,3.5,3.45,1.94,1.8,2.0,1.79,1.95,0.5,1.88,1.98,Queen of Sth,Dunfermline,queen_of_sth,dunfermline
+2023-03-25,SC2,Scotland-L1,2223,Montrose,Dunfermline,1.0,3.0,A,0.0,2.0,A,3.3,3.4,2.0,3.24,3.44,2.15,3.25,3.41,2.04,1.8,2.0,1.79,1.94,0.25,2.05,1.75,Montrose,Dunfermline,montrose,dunfermline
+2023-04-08,SC2,Scotland-L1,2223,Falkirk,Dunfermline,2.0,2.0,D,2.0,2.0,D,2.3,3.2,2.75,2.42,3.17,2.98,2.35,3.14,2.88,1.98,1.88,2.0,1.75,-0.25,2.1,1.77,Falkirk,Dunfermline,falkirk,dunfermline
+2023-04-11,SC2,Scotland-L1,2223,Peterhead,Dunfermline,0.0,2.0,A,0.0,0.0,D,10.0,5.75,1.2,15.96,6.21,1.2,12.93,5.9,1.19,1.67,2.15,1.64,2.16,1.75,1.95,1.9,Peterhead,Dunfermline,peterhead,dunfermline
+2023-04-22,SC2,Scotland-L1,2223,Airdrie Utd,Dunfermline,1.0,1.0,D,0.0,0.0,D,2.2,3.4,2.75,2.35,3.52,2.82,2.53,3.36,2.53,1.85,2.0,1.82,1.91,0.0,1.73,2.08,Airdrie Utd,Dunfermline,airdrie_utd,dunfermline
+2023-05-06,SC2,Scotland-L1,2223,Alloa,Dunfermline,0.0,2.0,A,0.0,0.0,D,2.88,3.4,2.15,2.69,3.58,2.42,2.77,3.42,2.3,1.75,2.05,1.75,2.0,0.25,1.88,1.98,Alloa,Dunfermline,alloa,dunfermline
+2023-08-12,SC1,Scotland-Champ,2324,Dundee United,Dunfermline,1.0,1.0,D,0.0,0.0,D,1.62,4.0,5.0,1.65,4.24,4.79,1.61,3.94,4.81,1.88,1.98,1.82,1.92,-1.0,2.05,1.8,Dundee United,Dunfermline,dundee_united,dunfermline
+2023-09-02,SC1,Scotland-Champ,2324,Inverness C,Dunfermline,1.0,1.0,D,1.0,0.0,H,2.25,3.1,3.25,2.35,3.39,3.09,2.26,3.24,3.01,2.05,1.75,2.02,1.74,-0.25,2.03,1.83,Inverness Caledonian Thistle,Dunfermline,inverness_caledonian_thistle,dunfermline
+2023-09-16,SC1,Scotland-Champ,2324,Queens Park,Dunfermline,0.0,2.0,A,0.0,0.0,D,2.2,3.4,3.0,2.31,3.52,3.05,2.21,3.4,2.96,1.95,1.9,1.89,1.86,-0.25,1.98,1.88,Queens Park,Dunfermline,queens_park,dunfermline
+2023-09-30,SC1,Scotland-Champ,2324,Partick,Dunfermline,3.0,0.0,H,1.0,0.0,H,1.95,3.3,3.6,1.99,3.78,3.5,1.98,3.52,3.38,1.8,2.0,1.79,1.95,-0.5,2.03,1.83,Partick,Dunfermline,partick,dunfermline
+2023-10-28,SC1,Scotland-Champ,2324,Raith Rvs,Dunfermline,1.0,0.0,H,0.0,0.0,D,2.15,3.2,3.1,2.19,3.44,3.36,2.14,3.3,3.18,2.0,1.8,1.95,1.79,-0.25,1.95,1.9,Raith Rvs,Dunfermline,raith_rvs,dunfermline
+2023-11-03,SC1,Scotland-Champ,2324,Morton,Dunfermline,1.0,2.0,A,0.0,2.0,A,2.38,3.3,2.7,2.61,3.17,2.9,2.45,3.25,2.75,1.93,1.93,1.88,1.86,0.0,1.8,2.05,Morton,Dunfermline,morton,dunfermline
+2023-12-09,SC1,Scotland-Champ,2324,Airdrie Utd,Dunfermline,1.0,2.0,A,0.0,1.0,A,2.8,3.0,2.8,2.69,3.33,2.69,2.58,3.23,2.6,2.03,1.83,1.87,1.86,0.0,1.93,1.93,Airdrie Utd,Dunfermline,airdrie_utd,dunfermline
+2023-12-23,SC1,Scotland-Champ,2324,Arbroath,Dunfermline,1.0,1.0,D,1.0,0.0,H,4.0,3.8,1.83,4.12,3.93,1.82,3.84,3.67,1.82,1.75,2.05,1.73,2.02,0.5,2.0,1.85,Arbroath,Dunfermline,arbroath,dunfermline
+2023-12-30,SC1,Scotland-Champ,2324,Ayr,Dunfermline,2.0,2.0,D,1.0,2.0,A,2.38,3.3,2.6,2.6,3.57,2.65,2.46,3.33,2.63,1.98,1.88,1.89,1.84,0.0,1.85,2.0,Ayr,Dunfermline,ayr,dunfermline
+2024-01-05,SC1,Scotland-Champ,2324,Queens Park,Dunfermline,2.0,1.0,H,0.0,0.0,D,2.75,3.8,2.1,3.1,3.83,2.17,2.93,3.64,2.16,1.67,2.15,1.67,2.12,0.25,1.93,1.93,Queens Park,Dunfermline,queens_park,dunfermline
+2024-01-27,SC1,Scotland-Champ,2324,Dundee United,Dunfermline,0.0,0.0,D,0.0,0.0,D,1.3,5.0,8.5,1.3,5.58,9.56,1.29,5.06,8.8,1.6,2.3,1.6,2.24,-1.5,1.9,1.95,Dundee United,Dunfermline,dundee_united,dunfermline
+2024-02-23,SC1,Scotland-Champ,2324,Partick,Dunfermline,1.0,3.0,A,1.0,1.0,D,1.62,3.75,4.5,1.65,3.99,5.2,1.57,4.08,4.95,1.62,2.25,1.58,2.28,-1.0,2.08,1.73,Partick,Dunfermline,partick,dunfermline
+2024-02-27,SC1,Scotland-Champ,2324,Inverness C,Dunfermline,0.0,0.0,D,0.0,0.0,D,2.0,3.3,3.4,2.19,3.39,3.41,2.08,3.31,3.31,2.05,1.75,2.0,1.76,-0.25,1.85,2.0,Inverness Caledonian Thistle,Dunfermline,inverness_caledonian_thistle,dunfermline
+2024-03-09,SC1,Scotland-Champ,2324,Raith Rvs,Dunfermline,2.0,0.0,H,1.0,0.0,H,1.8,3.5,4.33,1.85,3.75,4.19,1.83,3.55,3.96,1.88,1.98,1.84,1.9,-0.5,1.83,2.03,Raith Rvs,Dunfermline,raith_rvs,dunfermline
+2024-03-23,SC1,Scotland-Champ,2324,Morton,Dunfermline,0.0,1.0,A,0.0,0.0,D,2.0,3.4,3.1,2.16,3.38,3.49,2.1,3.31,3.26,2.08,1.73,2.08,1.7,-0.25,1.85,2.0,Morton,Dunfermline,morton,dunfermline
+2024-03-30,SC1,Scotland-Champ,2324,Arbroath,Dunfermline,2.0,3.0,A,0.0,3.0,A,4.0,3.6,1.8,4.46,3.67,1.79,4.08,3.54,1.8,1.93,1.93,1.87,1.87,0.5,2.05,1.8,Arbroath,Dunfermline,arbroath,dunfermline
+2024-04-13,SC1,Scotland-Champ,2324,Airdrie Utd,Dunfermline,2.0,1.0,H,1.0,0.0,H,2.15,3.4,2.9,2.27,3.32,3.25,2.21,3.26,3.08,2.08,1.73,2.06,1.72,-0.25,1.98,1.88,Airdrie Utd,Dunfermline,airdrie_utd,dunfermline
+2024-05-03,SC1,Scotland-Champ,2324,Ayr,Dunfermline,3.0,3.0,D,1.0,3.0,A,2.2,3.5,2.9,2.15,3.39,3.05,2.18,3.45,2.97,1.73,2.08,1.69,2.08,-0.25,1.98,1.88,Ayr,Dunfermline,ayr,dunfermline
+2024-08-03,SC1,Scotland-Champ,2425,Livingston,Dunfermline,2.0,0.0,H,0.0,0.0,D,2.0,3.2,3.25,1.97,3.35,3.8,1.99,3.31,3.56,2.1,1.7,2.07,1.7,-0.5,2.05,1.75,Livingston,Dunfermline,livingston,dunfermline
+2024-08-24,SC1,Scotland-Champ,2425,Hamilton,Dunfermline,1.0,0.0,H,1.0,0.0,H,2.25,3.5,3.1,2.15,3.44,3.21,2.17,3.38,3.05,1.85,2.0,1.83,1.91,-0.25,1.93,1.93,Hamilton Academical,Dunfermline,hamilton_academical,dunfermline
+2024-09-21,SC1,Scotland-Champ,2425,Partick,Dunfermline,1.0,0.0,H,0.0,0.0,D,1.85,3.4,3.9,1.92,3.6,3.7,1.89,3.51,3.66,1.88,1.98,1.82,1.93,-0.5,1.93,1.93,Partick,Dunfermline,partick,dunfermline
+2024-10-05,SC1,Scotland-Champ,2425,Airdrie Utd,Dunfermline,1.0,1.0,D,0.0,1.0,A,2.45,3.3,2.6,2.56,3.31,2.68,2.47,3.29,2.66,2.0,1.85,1.95,1.79,0.0,1.85,2.0,Airdrie Utd,Dunfermline,airdrie_utd,dunfermline
+2024-10-26,SC1,Scotland-Champ,2425,Falkirk,Dunfermline,2.0,1.0,H,1.0,0.0,H,1.42,4.1,6.5,1.41,4.36,7.17,1.42,4.26,6.84,1.93,1.93,1.86,1.89,-1.25,2.05,1.8,Falkirk,Dunfermline,falkirk,dunfermline
+2024-11-09,SC1,Scotland-Champ,2425,Queens Park,Dunfermline,2.0,1.0,H,1.0,0.0,H,2.15,3.2,3.0,2.28,3.48,2.94,2.23,3.33,2.96,1.95,1.9,1.95,1.8,-0.25,1.98,1.88,Queens Park,Dunfermline,queens_park,dunfermline
+2024-11-23,SC1,Scotland-Champ,2425,Ayr,Dunfermline,1.0,0.0,H,0.0,0.0,D,1.91,3.4,3.75,1.96,3.52,3.66,1.92,3.38,3.76,2.15,1.67,2.13,1.66,-0.5,2.0,1.85,Ayr,Dunfermline,ayr,dunfermline
+2024-12-14,SC1,Scotland-Champ,2425,Raith Rvs,Dunfermline,2.0,0.0,H,1.0,0.0,H,2.2,3.1,3.25,2.35,2.84,3.47,2.18,3.05,3.39,2.35,1.57,2.36,1.54,-0.25,1.95,1.9,Raith Rvs,Dunfermline,raith_rvs,dunfermline
+2024-12-21,SC1,Scotland-Champ,2425,Morton,Dunfermline,2.0,0.0,H,1.0,0.0,H,3.0,3.1,2.3,3.2,2.97,2.41,3.04,3.02,2.37,2.38,1.53,2.41,1.52,0.25,1.83,2.03,Morton,Dunfermline,morton,dunfermline
+2025-01-04,SC1,Scotland-Champ,2425,Partick,Dunfermline,1.0,4.0,A,1.0,3.0,A,1.73,4.1,3.6,1.76,3.54,4.53,1.75,3.58,4.27,2.08,1.73,2.05,1.71,-0.75,2.03,1.83,Partick,Dunfermline,partick,dunfermline
+2025-01-25,SC1,Scotland-Champ,2425,Airdrie Utd,Dunfermline,3.0,0.0,H,2.0,0.0,H,4.1,3.25,1.83,3.9,3.51,1.89,3.94,3.42,1.86,2.15,1.63,2.11,1.67,0.5,1.95,1.9,Airdrie Utd,Dunfermline,airdrie_utd,dunfermline
+2025-02-15,SC1,Scotland-Champ,2425,Livingston,Dunfermline,0.0,0.0,D,0.0,0.0,D,1.7,3.75,4.75,1.63,3.54,5.64,1.67,3.46,5.1,2.25,1.62,2.24,1.59,-0.75,1.93,1.93,Livingston,Dunfermline,livingston,dunfermline
+2025-02-25,SC1,Scotland-Champ,2425,Hamilton,Dunfermline,1.0,0.0,H,0.0,0.0,D,2.8,3.1,2.55,2.98,3.1,2.56,2.82,3.08,2.47,2.07,1.69,2.05,1.71,0.0,2.05,1.8,Hamilton Academical,Dunfermline,hamilton_academical,dunfermline
+2025-03-08,SC1,Scotland-Champ,2425,Falkirk,Dunfermline,1.0,0.0,H,1.0,0.0,H,1.45,3.9,7.0,1.43,4.51,7.0,1.41,4.35,6.88,1.83,2.03,1.76,1.98,-1.25,2.03,1.83,Falkirk,Dunfermline,falkirk,dunfermline
+2025-03-14,SC1,Scotland-Champ,2425,Raith Rvs,Dunfermline,2.0,0.0,H,1.0,0.0,H,2.1,2.9,3.7,2.2,2.81,4.15,2.13,2.86,3.86,2.75,1.4,2.83,1.39,-0.25,1.85,2.0,Raith Rvs,Dunfermline,raith_rvs,dunfermline
+2025-03-29,SC1,Scotland-Champ,2425,Ayr,Dunfermline,3.0,0.0,H,1.0,0.0,H,1.73,3.5,5.0,1.74,3.64,4.73,1.73,3.53,4.61,2.05,1.75,2.0,1.75,-0.75,2.0,1.85,Ayr,Dunfermline,ayr,dunfermline
+2025-04-12,SC1,Scotland-Champ,2425,Queens Park,Dunfermline,0.0,1.0,A,0.0,0.0,D,3.25,3.3,2.05,3.53,3.39,2.04,3.38,3.33,2.06,2.05,1.75,2.03,1.73,0.25,2.03,1.83,Queens Park,Dunfermline,queens_park,dunfermline
+2025-05-02,SC1,Scotland-Champ,2425,Morton,Dunfermline,2.0,0.0,H,2.0,0.0,H,2.6,3.25,2.5,2.74,2.99,2.69,2.75,3.03,2.58,2.38,1.53,2.49,1.48,0.0,1.98,1.88,Morton,Dunfermline,morton,dunfermline
+2025-08-02,SC1,Scotland-Champ,2526,Morton,Dunfermline,0.0,0.0,D,0.0,0.0,D,2.75,2.88,2.6,2.86,2.86,2.73,2.77,2.87,2.58,2.63,1.44,2.6,1.44,0.0,1.98,1.83,Morton,Dunfermline,morton,dunfermline
+2025-08-22,SC1,Scotland-Champ,2526,Raith Rvs,Dunfermline,2.0,0.0,H,1.0,0.0,H,1.95,3.2,3.8,1.98,3.39,4.0,1.96,3.17,3.68,2.25,1.62,2.27,1.57,-0.5,1.98,1.83,Raith Rvs,Dunfermline,raith_rvs,dunfermline
+2025-09-13,SC1,Scotland-Champ,2526,Arbroath,Dunfermline,0.0,5.0,A,0.0,2.0,A,3.2,3.3,2.1,3.26,3.38,2.16,3.12,3.17,2.17,2.1,1.7,2.09,1.67,0.25,1.95,1.85,Arbroath,Dunfermline,arbroath,dunfermline
+2025-09-19,SC1,Scotland-Champ,2526,St Johnstone,Dunfermline,2.0,1.0,H,0.0,1.0,A,1.65,3.7,4.5,1.65,3.78,5.48,1.64,3.5,4.9,2.15,1.67,2.13,1.64,-0.75,1.85,1.95,St Johnstone,Dunfermline,st_johnstone,dunfermline
+2025-10-21,SC1,Scotland-Champ,2526,Airdrie Utd,Dunfermline,0.0,4.0,A,0.0,2.0,A,3.1,3.2,2.2,3.36,3.15,2.27,3.15,3.12,2.18,2.2,1.65,2.15,1.63,0.25,1.85,1.95,Airdrie Utd,Dunfermline,airdrie_utd,dunfermline
+2025-10-25,SC1,Scotland-Champ,2526,Ross County,Dunfermline,3.0,2.0,H,2.0,1.0,H,2.2,3.2,3.2,2.23,3.19,3.28,2.18,3.14,3.13,2.1,1.7,2.09,1.67,-0.25,1.9,1.9,Ross County,Dunfermline,ross_county,dunfermline
+2025-10-31,SC1,Scotland-Champ,2526,Ayr,Dunfermline,0.0,1.0,A,0.0,1.0,A,1.83,3.5,3.8,,,,1.84,3.25,4.1,2.35,1.57,2.27,1.56,-0.5,1.85,1.95,Ayr,Dunfermline,ayr,dunfermline
+2025-11-25,SC1,Scotland-Champ,2526,Partick,Dunfermline,1.0,0.0,H,1.0,0.0,H,1.8,3.2,4.33,,,,1.83,3.25,4.08,2.15,1.67,2.14,1.63,-0.5,1.85,1.95,Partick,Dunfermline,partick,dunfermline
+2025-12-13,SC1,Scotland-Champ,2526,Queens Park,Dunfermline,1.0,1.0,D,1.0,0.0,H,4.2,3.3,1.73,,,,4.19,3.34,1.77,2.1,1.7,2.11,1.66,0.5,2.0,1.8,Queens Park,Dunfermline,queens_park,dunfermline
+2025-12-27,SC1,Scotland-Champ,2526,Raith Rvs,Dunfermline,1.0,2.0,A,0.0,2.0,A,1.95,3.2,3.6,,,,2.06,3.07,3.46,2.25,1.62,2.25,1.57,-0.25,1.75,2.05,Raith Rvs,Dunfermline,raith_rvs,dunfermline
+2026-01-24,SC1,Scotland-Champ,2526,St Johnstone,Dunfermline,0.0,1.0,A,0.0,0.0,D,1.5,3.6,5.75,,,,1.5,3.78,5.87,1.95,1.85,1.9,1.81,-1.0,1.93,1.88,St Johnstone,Dunfermline,st_johnstone,dunfermline
+2026-02-17,SC1,Scotland-Champ,2526,Morton,Dunfermline,2.0,0.0,H,1.0,0.0,H,2.88,3.1,2.25,,,,2.91,2.99,2.38,2.35,1.57,2.24,1.58,0.25,1.75,2.05,Morton,Dunfermline,morton,dunfermline
+2026-02-21,SC1,Scotland-Champ,2526,Arbroath,Dunfermline,4.0,2.0,H,1.0,1.0,D,2.2,3.2,2.9,,,,2.26,3.12,2.97,2.15,1.67,2.1,1.66,-0.25,1.95,1.85,Arbroath,Dunfermline,arbroath,dunfermline
+2026-03-21,SC1,Scotland-Champ,2526,Ross County,Dunfermline,2.0,2.0,D,2.0,1.0,H,2.2,3.1,3.0,,,,2.25,3.08,2.98,2.3,1.6,2.22,1.59,-0.25,1.95,1.85,Ross County,Dunfermline,ross_county,dunfermline
+2026-04-07,SC1,Scotland-Champ,2526,Ayr,Dunfermline,0.0,3.0,A,0.0,1.0,A,2.25,3.0,2.9,,,,2.2,3.14,3.05,2.2,1.65,2.14,1.64,-0.25,1.98,1.83,Ayr,Dunfermline,ayr,dunfermline
+2026-04-11,SC1,Scotland-Champ,2526,Partick,Dunfermline,2.0,0.0,H,2.0,0.0,H,1.95,3.2,3.4,,,,1.93,3.33,3.56,1.95,1.85,1.93,1.79,-0.5,2.0,1.8,Partick,Dunfermline,partick,dunfermline
+2026-04-14,SC1,Scotland-Champ,2526,Airdrie Utd,Dunfermline,2.0,2.0,D,1.0,0.0,H,2.55,3.1,2.55,,,,2.69,3.22,2.4,2.0,1.8,1.98,1.75,0.0,1.93,1.88,Airdrie Utd,Dunfermline,airdrie_utd,dunfermline
+2026-04-25,SC1,Scotland-Champ,2526,Queens Park,Dunfermline,0.0,2.0,A,0.0,1.0,A,3.4,3.4,1.95,,,,3.52,3.22,1.96,2.08,1.73,2.04,1.7,0.5,1.83,1.98,Queens Park,Dunfermline,queens_park,dunfermline
+2026-08-01,SC1,Scotland-Champ,2627,Inverness C,Dunfermline,0.0,0.0,D,0.0,0.0,D,2.25,3.25,2.75,,,,2.5,3.17,2.56,2.05,1.75,2.03,1.7,0.0,1.7,2.1,Inverness Caledonian Thistle,Dunfermline,inverness_caledonian_thistle,dunfermline
+2026-08-22,SC1,Scotland-Champ,2627,Livingston,Dunfermline,2.0,0.0,H,1.0,0.0,H,1.73,3.6,4.0,,,,1.73,3.55,4.18,1.8,2.0,1.89,1.82,-0.5,1.78,2.03,Livingston,Dunfermline,livingston,dunfermline
+2026-09-05,SC1,Scotland-Champ,2627,Arbroath,Dunfermline,1.0,1.0,D,0.0,0.0,D,2.63,3.0,2.45,,,,2.64,3.09,2.51,2.2,1.65,2.16,1.63,0.0,1.95,1.85,Arbroath,Dunfermline,arbroath,dunfermline
+2026-09-19,SC1,Scotland-Champ,2627,Morton,Dunfermline,0.0,1.0,A,0.0,0.0,D,4.0,3.6,1.7,,,,4.24,3.71,1.69,1.75,2.05,1.72,2.01,0.75,1.85,1.95,Morton,Dunfermline,morton,dunfermline
+2026-10-10,SC1,Scotland-Champ,2627,Ayr,Dunfermline,1.0,1.0,D,0.0,0.0,D,3.1,3.2,2.15,,,,3.09,3.22,2.15,2.0,1.8,1.96,1.75,0.25,1.9,1.9,Ayr,Dunfermline,ayr,dunfermline

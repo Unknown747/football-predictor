@@ -1,0 +1,90 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,P1,Portugal-Liga1,2122,Famalicao,Porto,1.0,2.0,A,0.0,2.0,A,7.0,4.5,1.36,8.74,5.05,1.38,8.06,4.8,1.37,1.7,2.1,1.71,2.15,1.25,2.04,1.86,Famalicao,FC Porto,famalicao,fc_porto
+2021-08-22,P1,Portugal-Liga1,2122,Maritimo,Porto,1.0,1.0,D,1.0,1.0,D,9.0,4.33,1.33,9.07,4.69,1.4,8.65,4.6,1.37,1.8,2.0,1.81,2.0,1.25,2.0,1.9,Maritimo,FC Porto,maritimo,fc_porto
+2021-09-11,P1,Portugal-Liga1,2122,Sp Lisbon,Porto,1.0,1.0,D,1.0,0.0,H,2.6,3.2,2.7,2.62,3.26,2.96,2.57,3.16,2.82,2.07,1.72,2.11,1.73,0.0,1.83,2.07,Sp Lisbon,FC Porto,sp_lisbon,fc_porto
+2021-09-24,P1,Portugal-Liga1,2122,Gil Vicente,Porto,1.0,2.0,A,1.0,1.0,D,7.5,4.5,1.4,8.47,4.58,1.44,7.88,4.48,1.42,1.85,1.95,1.85,1.95,1.25,1.84,2.06,Gil Vicente,FC Porto,gil_vicente,fc_porto
+2021-10-23,P1,Portugal-Liga1,2122,Tondela,Porto,1.0,3.0,A,1.0,2.0,A,8.5,4.75,1.36,8.6,5.15,1.39,8.0,4.93,1.36,1.6,2.3,1.6,2.31,1.25,2.07,1.83,Tondela,FC Porto,tondela,fc_porto
+2021-11-07,P1,Portugal-Liga1,2122,Santa Clara,Porto,0.0,3.0,A,0.0,1.0,A,8.0,4.5,1.4,8.42,4.59,1.44,7.65,4.44,1.42,1.8,2.0,1.82,1.97,1.25,1.92,1.98,Santa Clara,FC Porto,santa_clara,fc_porto
+2021-12-03,P1,Portugal-Liga1,2122,Portimonense,Porto,0.0,3.0,A,0.0,1.0,A,9.5,4.33,1.36,9.59,4.77,1.39,8.97,4.61,1.37,2.02,1.83,1.96,1.84,1.25,2.0,1.9,Portimonense,FC Porto,portimonense,fc_porto
+2021-12-19,P1,Portugal-Liga1,2122,Vizela,Porto,0.0,4.0,A,0.0,2.0,A,9.0,5.0,1.33,10.9,5.36,1.33,9.36,5.11,1.32,1.66,2.15,1.66,2.21,1.5,1.87,2.03,Vizela,FC Porto,vizela,fc_porto
+2022-01-08,P1,Portugal-Liga1,2122,Estoril,Porto,2.0,3.0,A,2.0,0.0,H,26.0,8.5,1.09,39.42,9.34,1.08,28.96,9.79,1.08,1.5,2.5,1.51,2.51,2.5,1.87,2.03,Estoril,FC Porto,estoril,fc_porto
+2022-01-16,P1,Portugal-Liga1,2122,Belenenses,Porto,1.0,4.0,A,1.0,1.0,D,13.0,7.0,1.18,16.76,7.04,1.2,15.58,6.93,1.18,1.53,2.4,1.51,2.51,2.0,1.95,1.95,Belenenses,FC Porto,belenenses,fc_porto
+2022-02-06,P1,Portugal-Liga1,2122,Arouca,Porto,0.0,2.0,A,0.0,0.0,D,10.0,5.25,1.3,10.82,5.76,1.31,9.58,5.42,1.3,1.57,2.35,1.59,2.34,1.5,1.97,1.93,Arouca,FC Porto,arouca,fc_porto
+2022-02-20,P1,Portugal-Liga1,2122,Moreirense,Porto,0.0,1.0,A,0.0,1.0,A,11.0,5.0,1.3,10.77,5.38,1.33,9.66,5.19,1.31,1.7,2.1,1.71,2.13,1.5,1.91,1.99,Moreirense,FC Porto,moreirense,fc_porto
+2022-03-06,P1,Portugal-Liga1,2122,Pacos Ferreira,Porto,2.0,4.0,A,1.0,2.0,A,7.5,4.5,1.36,10.76,5.23,1.34,8.89,4.89,1.35,1.75,2.05,1.77,2.04,1.25,2.01,1.89,Pacos Ferreira,FC Porto,pacos_ferreira,fc_porto
+2022-03-20,P1,Portugal-Liga1,2122,Boavista,Porto,0.0,1.0,A,0.0,1.0,A,7.5,4.5,1.4,8.45,4.72,1.43,7.4,4.67,1.41,1.66,2.15,1.71,2.14,1.25,1.95,1.95,Boavista,FC Porto,boavista,fc_porto
+2022-04-10,P1,Portugal-Liga1,2122,Guimaraes,Porto,0.0,1.0,A,0.0,1.0,A,7.0,3.8,1.44,6.64,4.6,1.51,6.58,4.41,1.47,1.7,2.1,1.69,2.16,1.25,1.85,2.05,Vitoria Guimaraes,FC Porto,vitoria_guimaraes,fc_porto
+2022-04-25,P1,Portugal-Liga1,2122,Sp Braga,Porto,1.0,0.0,H,0.0,0.0,D,4.0,3.6,1.8,4.3,3.83,1.85,4.06,3.73,1.83,1.75,2.05,1.74,2.07,0.5,2.02,1.88,Sp Braga,FC Porto,sp_braga,fc_porto
+2022-05-07,P1,Portugal-Liga1,2122,Benfica,Porto,0.0,1.0,A,0.0,0.0,D,3.0,3.6,2.25,3.26,3.61,2.25,3.12,3.49,2.22,1.72,2.07,1.73,2.1,0.25,1.94,1.96,Benfica,FC Porto,benfica,fc_porto
+2022-08-14,P1,Portugal-Liga1,2223,Vizela,Porto,0.0,1.0,A,0.0,0.0,D,10.0,5.25,1.28,11.5,5.67,1.3,10.63,5.52,1.28,1.66,2.15,1.66,2.21,1.5,2.0,1.9,Vizela,FC Porto,vizela,fc_porto
+2022-08-28,P1,Portugal-Liga1,2223,Rio Ave,Porto,3.0,1.0,H,3.0,0.0,H,10.0,5.5,1.3,10.53,5.66,1.32,10.03,5.44,1.29,1.65,2.2,1.64,2.23,1.5,2.01,1.89,Rio Ave,FC Porto,rio_ave,fc_porto
+2022-09-03,P1,Portugal-Liga1,2223,Gil Vicente,Porto,0.0,2.0,A,0.0,2.0,A,7.0,4.33,1.44,8.1,4.65,1.44,7.1,4.52,1.44,1.7,2.1,1.71,2.13,1.25,1.92,1.98,Gil Vicente,FC Porto,gil_vicente,fc_porto
+2022-09-17,P1,Portugal-Liga1,2223,Estoril,Porto,1.0,1.0,D,1.0,0.0,H,9.5,5.0,1.3,11.65,5.36,1.32,10.38,5.23,1.3,1.7,2.1,1.71,2.13,1.5,1.98,1.92,Estoril,FC Porto,estoril,fc_porto
+2022-10-08,P1,Portugal-Liga1,2223,Portimonense,Porto,0.0,2.0,A,0.0,1.0,A,7.0,4.75,1.4,7.86,4.73,1.44,7.16,4.55,1.43,1.72,2.07,1.75,2.07,1.25,1.88,2.02,Portimonense,FC Porto,portimonense,fc_porto
+2022-10-29,P1,Portugal-Liga1,2223,Santa Clara,Porto,1.0,1.0,D,0.0,1.0,A,7.5,4.5,1.4,9.37,4.78,1.4,7.76,4.51,1.39,1.88,1.98,1.84,1.94,1.25,1.92,1.98,Santa Clara,FC Porto,santa_clara,fc_porto
+2022-11-12,P1,Portugal-Liga1,2223,Boavista,Porto,1.0,4.0,A,0.0,1.0,A,8.5,4.75,1.33,10.17,4.99,1.36,9.1,4.82,1.35,1.7,2.1,1.72,2.1,1.5,1.83,2.07,Boavista,FC Porto,boavista,fc_porto
+2023-01-07,P1,Portugal-Liga1,2223,Casa Pia,Porto,0.0,0.0,D,0.0,0.0,D,9.0,4.5,1.36,9.59,4.65,1.4,8.6,4.63,1.38,1.88,1.98,1.85,1.95,1.25,1.99,1.91,Casa Pia,FC Porto,casa_pia,fc_porto
+2023-01-21,P1,Portugal-Liga1,2223,Guimaraes,Porto,0.0,1.0,A,0.0,1.0,A,7.0,4.75,1.4,8.97,4.63,1.42,7.84,4.63,1.4,1.8,2.0,1.79,2.03,1.25,1.96,1.94,Vitoria Guimaraes,FC Porto,vitoria_guimaraes,fc_porto
+2023-02-01,P1,Portugal-Liga1,2223,Maritimo,Porto,0.0,2.0,A,0.0,0.0,D,11.0,5.5,1.25,12.98,5.56,1.29,11.68,5.62,1.26,1.62,2.25,1.63,2.27,1.75,1.89,2.01,Maritimo,FC Porto,maritimo,fc_porto
+2023-02-12,P1,Portugal-Liga1,2223,Sp Lisbon,Porto,1.0,2.0,A,0.0,0.0,D,2.6,3.25,2.55,2.76,3.41,2.69,2.68,3.33,2.59,2.05,1.8,2.0,1.81,0.0,1.96,1.94,Sp Lisbon,FC Porto,sp_lisbon,fc_porto
+2023-03-04,P1,Portugal-Liga1,2223,Chaves,Porto,1.0,3.0,A,0.0,2.0,A,11.0,5.0,1.29,11.88,5.74,1.29,11.01,5.44,1.28,1.67,2.15,1.66,2.19,1.5,2.02,1.88,Chaves,FC Porto,chaves,fc_porto
+2023-03-19,P1,Portugal-Liga1,2223,Sp Braga,Porto,0.0,0.0,D,0.0,0.0,D,3.25,3.25,2.2,3.2,3.47,2.32,3.12,3.37,2.26,1.93,1.93,1.89,1.9,0.25,1.9,2.0,Sp Braga,FC Porto,sp_braga,fc_porto
+2023-04-07,P1,Portugal-Liga1,2223,Benfica,Porto,1.0,2.0,A,1.0,1.0,D,1.95,3.5,3.8,1.93,3.53,4.35,1.92,3.48,4.01,2.02,1.83,2.01,1.8,-0.5,1.94,1.96,Benfica,FC Porto,benfica,fc_porto
+2023-04-22,P1,Portugal-Liga1,2223,Pacos Ferreira,Porto,0.0,2.0,A,0.0,0.0,D,10.0,5.0,1.29,12.91,5.38,1.3,10.92,5.27,1.3,1.73,2.08,1.73,2.08,1.5,1.94,1.96,Pacos Ferreira,FC Porto,pacos_ferreira,fc_porto
+2023-05-08,P1,Portugal-Liga1,2223,Arouca,Porto,0.0,1.0,A,0.0,1.0,A,7.5,4.75,1.36,8.73,5.07,1.38,8.06,4.89,1.37,1.67,2.15,1.68,2.15,1.25,2.05,1.85,Arouca,FC Porto,arouca,fc_porto
+2023-05-20,P1,Portugal-Liga1,2223,Famalicao,Porto,2.0,4.0,A,2.0,2.0,D,6.0,4.33,1.4,7.31,4.71,1.47,6.87,4.54,1.45,1.7,2.1,1.71,2.12,1.25,1.84,2.06,Famalicao,FC Porto,famalicao,fc_porto
+2023-08-14,P1,Portugal-Liga1,2324,Moreirense,Porto,1.0,2.0,A,0.0,0.0,D,7.0,4.75,1.36,8.32,5.36,1.37,8.11,5.05,1.35,1.67,2.15,1.65,2.22,1.5,1.78,2.03,Moreirense,FC Porto,moreirense,fc_porto
+2023-08-28,P1,Portugal-Liga1,2324,Rio Ave,Porto,1.0,2.0,A,0.0,0.0,D,7.5,4.2,1.45,7.11,4.83,1.45,6.91,4.59,1.44,1.73,2.08,1.74,2.08,1.25,1.86,2.04,Rio Ave,FC Porto,rio_ave,fc_porto
+2023-09-15,P1,Portugal-Liga1,2324,Estrela,Porto,0.0,1.0,A,0.0,1.0,A,8.5,5.0,1.33,9.42,5.38,1.35,8.55,5.14,1.34,1.65,2.2,1.65,2.25,1.5,1.85,2.05,Estrela Amadora,FC Porto,estrela_amadora,fc_porto
+2023-09-29,P1,Portugal-Liga1,2324,Benfica,Porto,1.0,0.0,H,0.0,0.0,D,1.91,3.75,3.8,1.93,3.69,4.14,1.93,3.64,3.85,1.8,2.0,1.83,1.97,-0.5,1.94,1.96,Benfica,FC Porto,benfica,fc_porto
+2023-10-29,P1,Portugal-Liga1,2324,Vizela,Porto,0.0,2.0,A,0.0,2.0,A,6.0,4.5,1.45,7.81,4.73,1.44,6.95,4.57,1.45,1.73,2.08,1.74,2.1,1.25,1.85,2.05,Vizela,FC Porto,vizela,fc_porto
+2023-11-11,P1,Portugal-Liga1,2324,Guimaraes,Porto,1.0,2.0,A,1.0,1.0,D,5.0,3.75,1.7,5.16,3.98,1.71,4.86,3.84,1.7,1.85,2.0,1.82,1.99,0.75,1.99,1.91,Vitoria Guimaraes,FC Porto,vitoria_guimaraes,fc_porto
+2023-12-02,P1,Portugal-Liga1,2324,Famalicao,Porto,0.0,3.0,A,0.0,2.0,A,5.0,3.8,1.57,5.17,3.84,1.64,5.32,3.98,1.62,1.93,1.93,1.89,1.91,0.75,2.06,1.84,Famalicao,FC Porto,famalicao,fc_porto
+2023-12-18,P1,Portugal-Liga1,2324,Sp Lisbon,Porto,2.0,0.0,H,1.0,0.0,H,2.15,3.3,3.3,2.13,3.6,3.49,2.15,3.47,3.33,2.03,1.83,1.98,1.82,-0.25,1.87,2.03,Sp Lisbon,FC Porto,sp_lisbon,fc_porto
+2024-01-05,P1,Portugal-Liga1,2324,Boavista,Porto,1.0,1.0,D,1.0,1.0,D,6.5,5.25,1.4,7.55,5.09,1.42,7.28,4.77,1.42,1.73,2.08,1.76,2.06,1.25,1.93,1.97,Boavista,FC Porto,boavista,fc_porto
+2024-01-28,P1,Portugal-Liga1,2324,Farense,Porto,1.0,3.0,A,0.0,2.0,A,8.0,4.75,1.4,8.22,5.06,1.4,7.7,4.73,1.4,1.73,2.08,1.73,2.1,1.25,1.97,1.93,Farense,FC Porto,farense,fc_porto
+2024-02-12,P1,Portugal-Liga1,2324,Arouca,Porto,3.0,2.0,H,2.0,1.0,H,7.5,4.0,1.5,6.89,4.65,1.48,6.77,4.42,1.46,1.8,2.0,1.78,2.02,1.25,1.75,2.05,Arouca,FC Porto,arouca,fc_porto
+2024-02-25,P1,Portugal-Liga1,2324,Gil Vicente,Porto,1.0,1.0,D,0.0,0.0,D,7.5,4.75,1.4,8.22,4.94,1.41,7.7,4.79,1.39,1.7,2.1,1.72,2.11,1.25,1.98,1.92,Gil Vicente,FC Porto,gil_vicente,fc_porto
+2024-03-08,P1,Portugal-Liga1,2324,Portimonense,Porto,0.0,3.0,A,0.0,1.0,A,9.5,6.5,1.25,12.41,6.58,1.24,11.52,6.18,1.24,1.53,2.4,1.54,2.44,1.75,1.95,1.95,Portimonense,FC Porto,portimonense,fc_porto
+2024-03-30,P1,Portugal-Liga1,2324,Estoril,Porto,1.0,0.0,H,0.0,0.0,D,9.0,5.0,1.36,8.63,5.54,1.35,8.26,5.21,1.35,1.57,2.35,1.57,2.4,1.5,1.9,2.0,Estoril,FC Porto,estoril,fc_porto
+2024-04-21,P1,Portugal-Liga1,2324,Casa Pia,Porto,1.0,2.0,A,1.0,1.0,D,8.0,5.0,1.36,9.54,4.88,1.37,8.89,4.76,1.36,1.95,1.9,1.92,1.87,1.25,2.02,1.88,Casa Pia,FC Porto,casa_pia,fc_porto
+2024-05-04,P1,Portugal-Liga1,2324,Chaves,Porto,0.0,3.0,A,0.0,2.0,A,10.0,5.5,1.29,10.4,6.24,1.27,10.15,5.84,1.27,1.5,2.5,1.49,2.56,1.75,1.86,2.04,Chaves,FC Porto,chaves,fc_porto
+2024-05-18,P1,Portugal-Liga1,2324,Sp Braga,Porto,0.0,1.0,A,0.0,0.0,D,3.2,3.6,2.1,3.42,3.54,2.1,3.3,3.67,2.08,1.57,2.35,1.57,2.38,0.25,2.04,1.86,Sp Braga,FC Porto,sp_braga,fc_porto
+2024-08-16,P1,Portugal-Liga1,2425,Santa Clara,Porto,0.0,2.0,A,0.0,2.0,A,6.0,4.1,1.53,6.0,4.42,1.55,5.93,4.24,1.53,1.95,1.9,1.91,1.9,1.0,1.92,1.98,Santa Clara,FC Porto,santa_clara,fc_porto
+2024-08-31,P1,Portugal-Liga1,2425,Sp Lisbon,Porto,2.0,0.0,H,0.0,0.0,D,1.75,3.8,4.33,1.78,3.67,4.58,1.78,3.76,4.37,1.7,2.1,1.71,2.14,-0.75,2.03,1.87,Sp Lisbon,FC Porto,sp_lisbon,fc_porto
+2024-09-21,P1,Portugal-Liga1,2425,Guimaraes,Porto,0.0,3.0,A,0.0,0.0,D,3.5,3.1,2.2,3.63,3.18,2.17,3.5,3.17,2.19,2.2,1.65,2.22,1.66,0.25,2.01,1.89,Vitoria Guimaraes,FC Porto,vitoria_guimaraes,fc_porto
+2024-10-28,P1,Portugal-Liga1,2425,AVS,Porto,0.0,5.0,A,0.0,4.0,A,9.0,5.5,1.3,10.2,5.45,1.29,10.0,5.36,1.29,1.75,2.05,1.77,2.04,1.5,1.85,1.93,AVS,FC Porto,avs,fc_porto
+2024-11-10,P1,Portugal-Liga1,2425,Benfica,Porto,4.0,1.0,H,1.0,1.0,D,2.1,3.3,3.5,2.1,3.38,3.58,2.09,3.42,3.44,1.98,1.88,1.96,1.84,-0.25,1.85,2.05,Benfica,FC Porto,benfica,fc_porto
+2024-12-07,P1,Portugal-Liga1,2425,Famalicao,Porto,1.0,1.0,D,1.0,0.0,H,6.0,4.33,1.5,6.67,4.35,1.48,6.57,4.36,1.48,1.95,1.9,1.92,1.88,1.0,2.03,1.87,Famalicao,FC Porto,famalicao,fc_porto
+2024-12-21,P1,Portugal-Liga1,2425,Moreirense,Porto,0.0,3.0,A,0.0,1.0,A,7.0,4.1,1.48,6.46,4.26,1.5,6.68,4.18,1.48,2.05,1.75,2.03,1.77,1.0,2.04,1.86,Moreirense,FC Porto,moreirense,fc_porto
+2025-01-12,P1,Portugal-Liga1,2425,Nacional,Porto,2.0,0.0,H,2.0,0.0,H,8.5,4.75,1.36,8.81,5.23,1.36,8.62,5.03,1.34,1.73,2.08,1.73,2.09,1.5,1.78,2.03,Nacional,FC Porto,nacional,fc_porto
+2025-01-19,P1,Portugal-Liga1,2425,Gil Vicente,Porto,3.0,1.0,H,1.0,0.0,H,7.5,4.5,1.4,8.19,4.62,1.39,7.93,4.51,1.39,2.0,1.85,1.94,1.84,1.25,1.91,1.99,Gil Vicente,FC Porto,gil_vicente,fc_porto
+2025-02-03,P1,Portugal-Liga1,2425,Rio Ave,Porto,2.0,2.0,D,1.0,0.0,H,7.0,4.5,1.42,7.28,4.68,1.42,6.98,4.58,1.42,1.75,2.05,1.75,2.04,1.25,1.87,2.03,Rio Ave,FC Porto,rio_ave,fc_porto
+2025-02-16,P1,Portugal-Liga1,2425,Farense,Porto,0.0,1.0,A,0.0,0.0,D,7.0,4.75,1.4,7.94,4.63,1.4,7.65,4.53,1.4,1.93,1.93,1.9,1.91,1.25,1.9,2.0,Farense,FC Porto,farense,fc_porto
+2025-03-01,P1,Portugal-Liga1,2425,Arouca,Porto,0.0,2.0,A,0.0,1.0,A,5.0,3.75,1.67,5.07,3.79,1.68,4.93,3.77,1.69,2.0,1.85,1.95,1.85,0.75,1.97,1.93,Arouca,FC Porto,arouca,fc_porto
+2025-03-08,P1,Portugal-Liga1,2425,Sp Braga,Porto,1.0,0.0,H,1.0,0.0,H,3.3,3.25,2.2,3.33,3.37,2.21,3.29,3.33,2.19,2.0,1.85,1.97,1.83,0.25,1.97,1.93,Sp Braga,FC Porto,sp_braga,fc_porto
+2025-03-30,P1,Portugal-Liga1,2425,Estoril,Porto,1.0,2.0,A,1.0,1.0,D,6.25,4.1,1.53,6.36,4.11,1.52,6.12,4.07,1.53,2.0,1.85,1.96,1.82,1.0,1.93,1.97,Estoril,FC Porto,estoril,fc_porto
+2025-04-12,P1,Portugal-Liga1,2425,Casa Pia,Porto,0.0,1.0,A,0.0,1.0,A,5.5,3.6,1.67,5.38,3.66,1.68,5.15,3.67,1.67,2.15,1.67,2.12,1.7,0.75,1.98,1.92,Casa Pia,FC Porto,casa_pia,fc_porto
+2025-04-26,P1,Portugal-Liga1,2425,Estrela,Porto,2.0,0.0,H,1.0,0.0,H,6.25,3.9,1.53,6.59,4.08,1.52,6.27,4.05,1.52,2.05,1.8,2.01,1.8,1.0,1.93,1.97,Estrela Amadora,FC Porto,estrela_amadora,fc_porto
+2025-05-11,P1,Portugal-Liga1,2425,Boavista,Porto,1.0,2.0,A,1.0,2.0,A,7.5,4.5,1.4,7.38,4.91,1.39,7.51,4.78,1.38,1.73,2.08,1.75,2.05,1.25,1.95,1.95,Boavista,FC Porto,boavista,fc_porto
+2025-08-18,P1,Portugal-Liga1,2526,Gil Vicente,Porto,0.0,2.0,A,0.0,1.0,A,6.0,4.33,1.5,5.96,4.5,1.5,6.33,4.24,1.47,1.93,1.93,1.86,1.86,1.0,1.98,1.88,Gil Vicente,FC Porto,gil_vicente,fc_porto
+2025-08-30,P1,Portugal-Liga1,2526,Sp Lisbon,Porto,1.0,2.0,A,0.0,0.0,D,1.96,3.5,3.6,2.06,3.61,3.46,1.99,3.52,3.43,1.85,2.0,1.84,1.89,-0.5,2.03,1.83,Sp Lisbon,FC Porto,sp_lisbon,fc_porto
+2025-09-19,P1,Portugal-Liga1,2526,Rio Ave,Porto,0.0,3.0,A,0.0,2.0,A,8.0,5.0,1.3,8.24,5.48,1.36,7.76,4.87,1.34,1.67,2.15,1.65,2.13,1.5,1.83,2.03,Rio Ave,FC Porto,rio_ave,fc_porto
+2025-09-29,P1,Portugal-Liga1,2526,Arouca,Porto,0.0,4.0,A,0.0,1.0,A,7.5,4.75,1.35,8.39,4.94,1.36,7.75,4.61,1.37,1.75,2.05,1.74,1.98,1.25,1.98,1.88,Arouca,FC Porto,arouca,fc_porto
+2025-10-27,P1,Portugal-Liga1,2526,Moreirense,Porto,1.0,2.0,A,1.0,1.0,D,9.5,5.5,1.27,9.42,5.18,1.32,9.13,4.87,1.31,1.83,2.03,1.79,1.93,1.5,1.83,2.03,Moreirense,FC Porto,moreirense,fc_porto
+2025-11-09,P1,Portugal-Liga1,2526,Famalicao,Porto,0.0,1.0,A,0.0,1.0,A,5.5,3.9,1.56,5.5,4.13,1.58,5.27,3.79,1.6,2.0,1.85,1.92,1.81,1.0,1.78,2.1,Famalicao,FC Porto,famalicao,fc_porto
+2025-12-07,P1,Portugal-Liga1,2526,Tondela,Porto,0.0,2.0,A,0.0,0.0,D,11.0,5.75,1.22,11.81,5.78,1.25,10.66,5.26,1.26,1.73,2.08,1.7,2.04,1.5,2.0,1.85,Tondela,FC Porto,tondela,fc_porto
+2025-12-22,P1,Portugal-Liga1,2526,Alverca,Porto,0.0,3.0,A,0.0,1.0,A,9.0,4.75,1.33,8.88,4.9,1.35,8.72,4.6,1.34,1.93,1.93,1.89,1.82,1.25,2.0,1.85,Alverca,FC Porto,alverca,fc_porto
+2026-01-04,P1,Portugal-Liga1,2526,Santa Clara,Porto,0.0,1.0,A,0.0,0.0,D,8.0,4.0,1.42,7.56,4.12,1.47,7.43,3.91,1.45,2.25,1.62,2.21,1.59,1.0,2.05,1.8,Santa Clara,FC Porto,santa_clara,fc_porto
+2026-01-18,P1,Portugal-Liga1,2526,Guimaraes,Porto,0.0,1.0,A,0.0,0.0,D,7.0,4.1,1.45,,,,7.07,4.04,1.45,2.05,1.75,2.01,1.72,1.0,2.03,1.83,Vitoria Guimaraes,FC Porto,vitoria_guimaraes,fc_porto
+2026-02-02,P1,Portugal-Liga1,2526,Casa Pia,Porto,2.0,1.0,H,2.0,0.0,H,12.0,5.0,1.25,,,,10.75,5.04,1.27,1.8,2.0,1.79,1.92,1.5,1.98,1.88,Casa Pia,FC Porto,casa_pia,fc_porto
+2026-02-15,P1,Portugal-Liga1,2526,Nacional,Porto,0.0,1.0,A,0.0,0.0,D,9.5,4.5,1.3,,,,8.79,4.8,1.32,1.75,2.05,1.74,1.98,1.5,1.78,2.03,Nacional,FC Porto,nacional,fc_porto
+2026-03-08,P1,Portugal-Liga1,2526,Benfica,Porto,2.0,2.0,D,0.0,2.0,A,2.1,3.25,3.4,,,,2.13,3.18,3.34,2.15,1.67,2.15,1.63,-0.25,1.88,1.98,Benfica,FC Porto,benfica,fc_porto
+2026-03-22,P1,Portugal-Liga1,2526,Sp Braga,Porto,1.0,2.0,A,0.0,0.0,D,3.4,3.1,2.15,,,,3.25,3.12,2.19,2.25,1.62,2.25,1.57,0.25,1.93,1.93,Sp Braga,FC Porto,sp_braga,fc_porto
+2026-04-12,P1,Portugal-Liga1,2526,Estoril,Porto,1.0,3.0,A,0.0,2.0,A,6.5,4.5,1.42,,,,6.28,4.31,1.45,1.67,2.15,1.66,2.11,1.25,1.8,2.05,Estoril,FC Porto,estoril,fc_porto
+2026-04-26,P1,Portugal-Liga1,2526,Estrela,Porto,1.0,2.0,A,0.0,2.0,A,8.0,5.25,1.33,,,,9.03,4.74,1.31,1.83,2.03,1.78,1.94,1.5,1.8,2.05,Estrela Amadora,FC Porto,estrela_amadora,fc_porto
+2026-05-10,P1,Portugal-Liga1,2526,AVS,Porto,3.0,1.0,H,1.0,0.0,H,12.0,6.5,1.19,,,,11.83,6.26,1.19,1.5,2.5,1.49,2.45,1.75,2.03,1.83,AVS,FC Porto,avs,fc_porto
+2026-08-15,P1,Portugal-Liga1,2627,Rio Ave,Porto,0.0,2.0,A,0.0,1.0,A,7.5,4.5,1.39,,,,7.38,4.51,1.4,1.83,2.03,1.76,1.98,1.25,1.88,1.98,Rio Ave,FC Porto,rio_ave,fc_porto
+2026-08-29,P1,Portugal-Liga1,2627,Academico Viseu,Porto,0.0,3.0,A,0.0,3.0,A,9.0,4.75,1.3,,,,8.87,4.9,1.31,1.7,2.1,1.66,2.12,1.5,1.85,2.0,Academico Viseu,FC Porto,academico_viseu,fc_porto
+2026-09-12,P1,Portugal-Liga1,2627,Casa Pia,Porto,1.0,4.0,A,1.0,1.0,D,10.0,6.0,1.22,,,,11.19,5.49,1.24,1.75,2.05,1.73,2.01,1.5,2.03,1.83,Casa Pia,FC Porto,casa_pia,fc_porto
+2026-10-10,P1,Portugal-Liga1,2627,Maritimo,Porto,1.0,2.0,A,1.0,1.0,D,8.5,5.0,1.3,,,,9.3,4.87,1.31,1.9,1.95,1.84,1.88,1.5,1.8,2.05,Maritimo,FC Porto,maritimo,fc_porto

@@ -1,0 +1,106 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-22,SP1,Spain-LaLiga,2122,Levante,Real Madrid,3.0,3.0,D,0.0,1.0,A,5.0,4.33,1.6,5.05,4.32,1.68,4.97,4.23,1.65,1.61,2.3,1.62,2.31,1.0,1.73,2.08,Levante,Real Madrid,levante,real_madrid
+2021-09-11,SP1,Spain-LaLiga,2122,Levante,Vallecano,1.0,1.0,D,1.0,0.0,H,2.1,3.4,3.5,2.13,3.53,3.71,2.1,3.44,3.6,2.0,1.8,2.01,1.82,-0.25,1.83,2.1,Levante,Rayo Vallecano,levante,rayo_vallecano
+2021-09-21,SP1,Spain-LaLiga,2122,Levante,Celta,0.0,2.0,A,0.0,0.0,D,2.6,3.4,2.7,2.7,3.46,2.76,2.62,3.39,2.74,1.9,1.9,1.88,1.95,0.0,1.94,1.96,Levante,Celta Vigo,levante,celta_vigo
+2021-10-16,SP1,Spain-LaLiga,2122,Levante,Getafe,0.0,0.0,D,0.0,0.0,D,2.5,2.9,3.25,2.61,2.92,3.38,2.53,2.92,3.22,2.5,1.53,2.55,1.53,-0.25,2.14,1.8,Levante,Getafe,levante,getafe
+2021-10-28,SP1,Spain-LaLiga,2122,Levante,Ath Madrid,2.0,2.0,D,1.0,1.0,D,5.5,3.8,1.65,5.99,3.64,1.71,5.55,3.62,1.68,2.1,1.72,2.1,1.75,0.75,1.99,1.94,Levante,Atletico Madrid,levante,atletico_madrid
+2021-11-01,SP1,Spain-LaLiga,2122,Levante,Granada,0.0,3.0,A,0.0,2.0,A,1.95,3.4,4.0,2.05,3.49,4.03,2.01,3.44,3.85,2.1,1.72,2.09,1.74,-0.5,2.03,1.9,Levante,Granada,levante,granada
+2021-11-19,SP1,Spain-LaLiga,2122,Levante,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,3.5,3.3,2.15,3.61,3.29,2.27,3.49,3.25,2.23,2.2,1.66,2.19,1.69,0.25,1.98,1.92,Levante,Athletic Bilbao,levante,athletic_bilbao
+2021-12-05,SP1,Spain-LaLiga,2122,Levante,Osasuna,0.0,0.0,D,0.0,0.0,D,2.4,3.2,3.1,2.56,3.25,3.1,2.49,3.24,2.98,2.2,1.66,2.19,1.68,-0.25,2.08,1.73,Levante,Osasuna,levante,osasuna
+2021-12-20,SP1,Spain-LaLiga,2122,Levante,Valencia,3.0,4.0,A,2.0,1.0,H,2.7,3.2,2.75,2.79,3.38,2.72,2.69,3.27,2.71,2.1,1.72,2.06,1.78,0.0,1.94,1.96,Levante,Valencia,levante,valencia
+2022-01-08,SP1,Spain-LaLiga,2122,Levante,Mallorca,2.0,0.0,H,0.0,0.0,D,2.2,3.25,3.4,2.22,3.3,3.58,2.19,3.34,3.44,2.1,1.72,2.11,1.74,-0.25,1.91,2.02,Levante,Mallorca,levante,mallorca
+2022-01-22,SP1,Spain-LaLiga,2122,Levante,Cadiz,0.0,2.0,A,0.0,1.0,A,1.8,3.5,5.0,1.76,3.77,4.93,1.77,3.68,4.74,2.1,1.72,2.1,1.75,-0.75,2.05,1.85,Levante,Cadiz,levante,cadiz
+2022-02-13,SP1,Spain-LaLiga,2122,Levante,Betis,2.0,4.0,A,1.0,3.0,A,3.4,3.6,2.1,3.39,3.87,2.13,3.38,3.74,2.08,1.66,2.2,1.66,2.25,0.25,2.06,1.84,Levante,Real Betis,levante,real_betis
+2022-02-25,SP1,Spain-LaLiga,2122,Levante,Elche,3.0,0.0,H,1.0,0.0,H,2.05,3.4,3.75,2.11,3.28,4.1,2.08,3.32,3.87,2.2,1.66,2.17,1.71,-0.5,2.07,1.83,Levante,Elche,levante,elche
+2022-03-12,SP1,Spain-LaLiga,2122,Levante,Espanol,1.0,1.0,D,0.0,0.0,D,2.3,3.3,3.2,2.36,3.5,3.2,2.31,3.45,3.13,1.95,1.95,1.9,1.92,-0.25,2.0,1.9,Levante,Espanyol,levante,espanyol
+2022-04-02,SP1,Spain-LaLiga,2122,Levante,Villarreal,2.0,0.0,H,0.0,0.0,D,3.8,3.6,1.95,3.89,3.79,1.99,3.7,3.73,1.98,1.72,2.1,1.74,2.13,0.5,1.9,2.0,Levante,Villarreal,levante,villarreal
+2022-04-10,SP1,Spain-LaLiga,2122,Levante,Barcelona,2.0,3.0,A,0.0,0.0,D,6.0,5.0,1.45,6.99,5.05,1.46,6.6,4.97,1.45,1.44,2.75,1.46,2.69,1.25,1.97,1.93,Levante,Barcelona,levante,barcelona
+2022-04-21,SP1,Spain-LaLiga,2122,Levante,Sevilla,2.0,3.0,A,1.0,2.0,A,3.5,3.5,2.1,3.53,3.54,2.19,3.5,3.48,2.13,2.06,1.84,2.0,1.82,0.25,2.06,1.87,Levante,Sevilla,levante,sevilla
+2022-05-06,SP1,Spain-LaLiga,2122,Levante,Sociedad,2.0,1.0,H,0.0,0.0,D,3.3,3.6,2.1,3.53,3.57,2.18,3.4,3.52,2.16,1.9,2.0,1.88,1.94,0.25,2.03,1.87,Levante,Real Sociedad,levante,real_sociedad
+2022-05-15,SP1,Spain-LaLiga,2122,Levante,Alaves,3.0,1.0,H,0.0,1.0,A,2.8,3.8,2.25,3.04,3.8,2.29,2.99,3.67,2.28,1.66,2.2,1.67,2.21,0.25,1.87,2.03,Levante,Deportivo Alaves,levante,deportivo_alaves
+2022-08-12,SP2,Spain-Segunda,2223,Levante,Huesca,0.0,0.0,D,0.0,0.0,D,1.6,3.75,6.0,1.6,4.03,6.38,1.58,3.85,5.76,1.98,1.88,1.95,1.85,-1.0,2.02,1.83,Levante,Huesca,levante,huesca
+2022-08-27,SP2,Spain-Segunda,2223,Levante,Tenerife,2.0,0.0,H,1.0,0.0,H,1.9,3.4,4.5,1.93,3.44,4.54,1.88,3.32,4.28,2.2,1.65,2.2,1.65,-0.5,1.88,1.98,Levante,Tenerife,levante,tenerife
+2022-09-10,SP2,Spain-Segunda,2223,Levante,Villarreal B,4.0,1.0,H,1.0,0.0,H,1.57,4.0,5.75,1.61,4.06,6.09,1.58,3.91,5.59,1.9,1.95,1.87,1.91,-1.0,2.05,1.8,Levante,Villarreal B,levante,villarreal_b
+2022-09-16,SP2,Spain-Segunda,2223,Levante,Cartagena,0.0,1.0,A,0.0,1.0,A,1.7,4.0,4.75,1.68,4.04,5.27,1.68,3.86,4.73,1.8,2.05,1.79,2.0,-0.75,1.85,2.0,Levante,Cartagena,levante,cartagena
+2022-10-09,SP2,Spain-Segunda,2223,Levante,Santander,0.0,1.0,A,0.0,0.0,D,1.66,3.75,5.25,1.66,3.73,5.56,1.67,3.64,5.09,2.05,1.75,2.05,1.75,-0.75,1.9,1.95,Levante,Santander,levante,santander
+2022-10-16,SP2,Spain-Segunda,2223,Levante,Leganes,2.0,1.0,H,0.0,0.0,D,1.95,3.2,4.2,2.03,3.17,4.4,2.0,3.19,3.93,2.35,1.57,2.34,1.58,-0.5,1.98,1.88,Levante,Leganes,levante,leganes
+2022-10-31,SP2,Spain-Segunda,2223,Levante,Sp Gijon,1.0,0.0,H,0.0,0.0,D,2.2,3.4,3.25,2.15,3.28,3.64,2.12,3.27,3.35,2.1,1.7,2.12,1.68,-0.25,1.85,2.0,Levante,Sp Gijon,levante,sp_gijon
+2022-11-20,SP2,Spain-Segunda,2223,Levante,Las Palmas,1.0,1.0,D,0.0,0.0,D,2.45,3.1,3.1,2.47,3.12,3.14,2.37,3.09,3.11,2.25,1.61,2.3,1.59,-0.25,2.1,1.77,Levante,Las Palmas,levante,las_palmas
+2022-12-04,SP2,Spain-Segunda,2223,Levante,Malaga,1.0,0.0,H,0.0,0.0,D,1.61,3.75,5.75,1.58,4.02,5.97,1.6,3.75,5.59,2.1,1.7,2.11,1.7,-0.75,1.8,2.05,Levante,Malaga,levante,malaga
+2022-12-08,SP2,Spain-Segunda,2223,Levante,Ponferradina,0.0,0.0,D,0.0,0.0,D,1.5,4.2,7.0,1.49,4.19,7.13,1.47,4.15,6.76,1.98,1.88,1.95,1.83,-1.0,1.77,2.02,Levante,Ponferradina,levante,ponferradina
+2022-12-18,SP2,Spain-Segunda,2223,Levante,Eibar,0.0,0.0,D,0.0,0.0,D,2.1,3.2,3.8,2.11,3.21,3.87,2.08,3.16,3.69,2.35,1.57,2.37,1.56,-0.25,1.77,2.1,Levante,Eibar,levante,eibar
+2023-01-14,SP2,Spain-Segunda,2223,Levante,Granada,3.0,1.0,H,2.0,1.0,H,2.1,3.1,4.0,2.1,3.17,3.94,2.1,3.09,3.73,2.3,1.6,2.3,1.6,-0.25,1.77,2.1,Levante,Granada,levante,granada
+2023-01-29,SP2,Spain-Segunda,2223,Levante,Burgos,1.0,0.0,H,1.0,0.0,H,1.57,3.6,6.5,1.55,3.76,7.23,1.56,3.66,6.53,2.4,1.53,2.42,1.53,-1.0,2.05,1.8,Levante,Burgos,levante,burgos
+2023-02-11,SP2,Spain-Segunda,2223,Levante,Andorra,1.0,0.0,H,1.0,0.0,H,1.73,3.6,5.5,1.75,3.48,5.69,1.73,3.41,5.23,2.3,1.6,2.34,1.57,-0.75,1.98,1.88,Levante,Andorra,levante,andorra
+2023-02-26,SP2,Spain-Segunda,2223,Levante,Lugo,3.0,1.0,H,2.0,1.0,H,1.33,4.5,11.0,1.3,4.89,12.75,1.31,4.68,10.87,2.1,1.7,2.1,1.72,-1.25,1.83,2.02,Levante,Lugo,levante,lugo
+2023-03-12,SP2,Spain-Segunda,2223,Levante,Albacete,0.0,0.0,D,0.0,0.0,D,1.75,3.6,5.0,1.81,3.46,4.84,1.77,3.41,4.67,2.3,1.6,2.32,1.58,-0.75,2.02,1.83,Levante,Albacete,levante,albacete
+2023-03-31,SP2,Spain-Segunda,2223,Levante,Zaragoza,1.0,1.0,D,1.0,0.0,H,1.8,3.4,5.0,1.88,3.27,5.07,1.78,3.3,5.01,2.4,1.53,2.41,1.54,-0.5,1.85,2.0,Levante,Zaragoza,levante,zaragoza
+2023-04-17,SP2,Spain-Segunda,2223,Levante,Mirandes,1.0,2.0,A,0.0,1.0,A,1.57,4.0,6.0,1.57,3.98,6.21,1.55,3.91,5.88,2.05,1.75,2.02,1.76,-1.0,2.02,1.83,Levante,Mirandes,levante,mirandes
+2023-04-29,SP2,Spain-Segunda,2223,Levante,Alaves,2.0,0.0,H,2.0,0.0,H,2.25,3.1,3.5,2.39,3.01,3.55,2.3,3.0,3.34,2.6,1.48,2.56,1.48,-0.25,1.98,1.88,Levante,Deportivo Alaves,levante,deportivo_alaves
+2023-05-15,SP2,Spain-Segunda,2223,Levante,Ibiza,0.0,0.0,D,0.0,0.0,D,1.33,5.0,9.5,1.31,5.05,11.18,1.33,4.77,9.43,1.93,1.93,1.87,1.9,-1.5,2.02,1.77,Levante,Ibiza,levante,ibiza
+2023-05-27,SP2,Spain-Segunda,2223,Levante,Oviedo,2.0,1.0,H,0.0,0.0,D,1.55,4.0,6.0,1.55,4.27,6.3,1.55,4.12,5.62,1.73,2.08,1.75,2.04,-1.0,1.93,1.93,Levante,Real Oviedo,levante,real_oviedo
+2023-08-19,SP2,Spain-Segunda,2324,Levante,Burgos,3.0,2.0,H,2.0,1.0,H,1.67,3.5,6.0,1.72,3.47,6.13,1.68,3.42,5.59,2.4,1.53,2.46,1.52,-0.75,1.93,1.93,Levante,Burgos,levante,burgos
+2023-09-02,SP2,Spain-Segunda,2324,Levante,Oviedo,1.0,1.0,D,0.0,0.0,D,1.8,3.4,5.25,1.86,3.39,5.06,1.81,3.3,4.82,2.5,1.5,2.51,1.5,-0.5,1.78,2.03,Levante,Real Oviedo,levante,real_oviedo
+2023-09-08,SP2,Spain-Segunda,2324,Levante,Espanol,1.0,4.0,A,1.0,2.0,A,2.55,3.25,2.88,2.67,3.19,2.95,2.56,3.15,2.81,2.1,1.7,2.14,1.68,0.0,1.85,2.0,Levante,Espanyol,levante,espanyol
+2023-09-23,SP2,Spain-Segunda,2324,Levante,Eldense,2.0,0.0,H,1.0,0.0,H,1.8,3.4,5.0,1.83,3.53,5.02,1.79,3.43,4.73,2.2,1.65,2.24,1.63,-0.75,2.05,1.8,Levante,Eldense,levante,eldense
+2023-10-03,SP2,Spain-Segunda,2324,Levante,Villarreal B,1.0,1.0,D,0.0,0.0,D,1.7,3.75,5.0,1.72,3.99,5.06,1.68,3.82,4.81,1.85,2.0,1.84,1.94,-0.75,1.9,1.95,Levante,Villarreal B,levante,villarreal_b
+2023-10-16,SP2,Spain-Segunda,2324,Levante,Ferrol,1.0,0.0,H,0.0,0.0,D,1.8,3.4,4.75,1.83,3.64,4.62,1.81,3.47,4.39,2.1,1.7,2.13,1.68,-0.5,1.75,2.05,Levante,Ferrol,levante,ferrol
+2023-11-04,SP2,Spain-Segunda,2324,Levante,Mirandes,2.0,2.0,D,1.0,1.0,D,1.73,3.6,5.0,1.83,3.7,4.7,1.76,3.64,4.55,1.93,1.93,1.89,1.89,-0.75,2.0,1.85,Levante,Mirandes,levante,mirandes
+2023-11-20,SP2,Spain-Segunda,2324,Levante,Santander,2.0,4.0,A,2.0,1.0,H,2.15,3.4,3.5,2.02,3.36,3.71,2.07,3.37,3.48,1.93,1.93,1.88,1.9,-0.25,1.8,2.05,Levante,Santander,levante,santander
+2023-12-02,SP2,Spain-Segunda,2324,Levante,Valladolid,2.0,1.0,H,2.0,1.0,H,2.55,3.2,2.9,2.59,3.19,3.05,2.47,3.17,2.92,2.15,1.67,2.15,1.68,0.0,1.78,2.1,Levante,Real Valladolid,levante,real_valladolid
+2023-12-17,SP2,Spain-Segunda,2324,Levante,Huesca,2.0,1.0,H,2.0,0.0,H,2.1,3.1,4.0,2.14,3.18,4.05,2.08,3.1,3.83,2.5,1.5,2.49,1.51,-0.25,1.8,2.05,Levante,Huesca,levante,huesca
+2024-01-13,SP2,Spain-Segunda,2324,Levante,Albacete,3.0,2.0,H,2.0,0.0,H,2.38,3.4,3.0,2.48,3.21,3.2,2.39,3.19,3.03,2.2,1.65,2.18,1.66,-0.25,2.05,1.8,Levante,Albacete,levante,albacete
+2024-01-27,SP2,Spain-Segunda,2324,Levante,Tenerife,0.0,0.0,D,0.0,0.0,D,2.25,3.1,3.5,2.3,3.08,3.73,2.24,3.02,3.46,2.5,1.5,2.54,1.5,-0.25,1.93,1.93,Levante,Tenerife,levante,tenerife
+2024-02-09,SP2,Spain-Segunda,2324,Levante,Leganes,0.0,0.0,D,0.0,0.0,D,2.25,3.0,3.75,2.28,2.96,3.96,2.2,2.92,3.71,2.7,1.44,2.66,1.45,-0.25,1.85,2.0,Levante,Leganes,levante,leganes
+2024-03-10,SP2,Spain-Segunda,2324,Levante,Sp Gijon,1.0,0.0,H,0.0,0.0,D,2.05,3.2,4.0,2.11,3.41,3.82,2.06,3.2,3.61,2.2,1.65,2.18,1.66,-0.25,1.73,2.08,Levante,Sp Gijon,levante,sp_gijon
+2024-03-13,SP2,Spain-Segunda,2324,Levante,Andorra,0.0,0.0,D,0.0,0.0,D,1.91,3.4,4.33,1.96,3.29,4.65,1.92,3.24,4.21,2.15,1.67,2.18,1.66,-0.5,1.93,1.93,Levante,Andorra,levante,andorra
+2024-03-24,SP2,Spain-Segunda,2324,Levante,Elche,3.0,2.0,H,0.0,1.0,A,2.5,2.75,2.8,2.66,2.93,2.93,2.55,2.98,2.88,2.4,1.53,2.38,1.55,0.0,1.8,2.05,Levante,Elche,levante,elche
+2024-04-06,SP2,Spain-Segunda,2324,Levante,Zaragoza,2.0,1.0,H,1.0,1.0,D,2.15,3.1,3.8,2.2,3.01,4.05,2.15,2.97,3.79,2.6,1.48,2.64,1.46,-0.25,1.83,2.03,Levante,Zaragoza,levante,zaragoza
+2024-04-13,SP2,Spain-Segunda,2324,Levante,Amorebieta,1.0,2.0,A,0.0,0.0,D,1.62,4.0,5.5,1.67,3.75,5.89,1.65,3.66,5.4,2.15,1.67,2.15,1.68,-0.75,1.83,2.03,Levante,Amorebieta,levante,amorebieta
+2024-04-28,SP2,Spain-Segunda,2324,Levante,Cartagena,0.0,1.0,A,0.0,0.0,D,1.7,3.6,5.25,1.69,3.56,5.15,1.69,3.51,5.01,2.15,1.67,2.15,1.67,-0.75,1.93,1.93,Levante,Cartagena,levante,cartagena
+2024-05-11,SP2,Spain-Segunda,2324,Levante,Eibar,2.0,2.0,D,1.0,1.0,D,2.6,3.2,2.75,2.71,2.96,2.84,2.61,3.07,2.77,2.0,1.85,1.96,1.82,0.0,1.88,1.98,Levante,Eibar,levante,eibar
+2024-05-26,SP2,Spain-Segunda,2324,Levante,Alcorcon,2.0,2.0,D,0.0,0.0,D,1.62,4.2,5.25,1.58,4.46,4.53,1.6,4.18,4.84,1.75,2.05,1.74,2.04,-1.0,2.05,1.8,Levante,Alcorcon,levante,alcorcon
+2024-08-24,SP2,Spain-Segunda,2425,Levante,Cadiz,1.0,1.0,D,0.0,0.0,D,2.05,3.3,3.75,2.12,3.18,3.8,2.09,3.19,3.63,2.25,1.62,2.27,1.61,-0.25,1.75,2.05,Levante,Cadiz,levante,cadiz
+2024-09-14,SP2,Spain-Segunda,2425,Levante,Eldense,3.0,1.0,H,1.0,1.0,D,1.7,3.5,5.25,1.72,3.58,5.12,1.72,3.53,4.88,2.1,1.7,2.08,1.72,-0.75,1.93,1.93,Levante,Eldense,levante,eldense
+2024-09-29,SP2,Spain-Segunda,2425,Levante,Almeria,4.0,2.0,H,2.0,2.0,D,2.5,3.4,2.7,2.46,3.48,2.81,2.44,3.4,2.72,1.7,2.1,1.7,2.1,0.0,1.83,2.03,Levante,Almeria,levante,almeria
+2024-10-06,SP2,Spain-Segunda,2425,Levante,Oviedo,0.0,0.0,D,0.0,0.0,D,2.1,3.3,3.5,2.13,3.28,3.64,2.1,3.23,3.52,2.1,1.7,2.11,1.7,-0.25,1.83,2.03,Levante,Real Oviedo,levante,real_oviedo
+2024-10-24,SP2,Spain-Segunda,2425,Levante,La Coruna,2.0,1.0,H,2.0,0.0,H,2.1,3.4,3.4,2.15,3.29,3.56,2.11,3.32,3.37,1.88,1.98,1.85,1.93,-0.25,1.83,2.03,Levante,La Coruna,levante,la_coruna
+2024-11-16,SP2,Spain-Segunda,2425,Levante,Elche,1.0,1.0,D,0.0,1.0,A,2.38,3.2,3.0,2.42,3.19,3.2,2.36,3.14,3.05,2.15,1.67,2.13,1.68,-0.25,2.03,1.83,Levante,Elche,levante,elche
+2024-11-27,SP2,Spain-Segunda,2425,Levante,Malaga,4.0,2.0,H,2.0,2.0,D,1.8,3.4,4.75,1.85,3.46,4.47,1.83,3.43,4.3,2.08,1.73,2.08,1.72,-0.5,1.85,2.0,Levante,Malaga,levante,malaga
+2024-12-01,SP2,Spain-Segunda,2425,Levante,Burgos,3.0,1.0,H,1.0,1.0,D,1.75,3.3,5.5,1.75,3.32,5.53,1.74,3.41,4.91,2.03,1.83,1.99,1.78,-0.75,2.0,1.85,Levante,Burgos,levante,burgos
+2024-12-14,SP2,Spain-Segunda,2425,Levante,Cordoba,2.0,2.0,D,0.0,0.0,D,1.75,3.7,4.33,1.79,3.86,4.45,1.76,3.74,4.26,1.75,2.05,1.75,2.04,-0.75,2.03,1.83,Levante,Cordoba,levante,cordoba
+2024-12-22,SP2,Spain-Segunda,2425,Levante,Huesca,1.0,1.0,D,0.0,1.0,A,1.7,3.7,4.75,1.69,3.48,5.67,1.71,3.51,4.97,2.2,1.65,2.18,1.65,-0.75,1.95,1.9,Levante,Huesca,levante,huesca
+2025-01-18,SP2,Spain-Segunda,2425,Levante,Granada,3.0,1.0,H,1.0,0.0,H,1.91,3.2,4.5,1.93,3.34,4.24,1.9,3.32,4.07,2.05,1.75,2.03,1.75,-0.5,1.93,1.93,Levante,Granada,levante,granada
+2025-02-03,SP2,Spain-Segunda,2425,Levante,Ferrol,0.0,1.0,A,0.0,1.0,A,1.44,4.2,7.5,1.43,4.41,7.71,1.42,4.29,7.4,1.95,1.9,1.93,1.85,-1.25,2.03,1.83,Levante,Ferrol,levante,ferrol
+2025-02-16,SP2,Spain-Segunda,2425,Levante,Sp Gijon,0.0,0.0,D,0.0,0.0,D,2.1,3.1,3.7,2.15,3.21,3.66,2.11,3.16,3.53,2.25,1.62,2.25,1.62,-0.25,1.85,2.0,Levante,Sp Gijon,levante,sp_gijon
+2025-02-23,SP2,Spain-Segunda,2425,Levante,Mirandes,1.0,0.0,H,0.0,0.0,D,1.85,3.4,4.33,1.91,3.33,4.35,1.88,3.3,4.12,2.08,1.73,2.09,1.72,-0.5,1.88,1.98,Levante,Mirandes,levante,mirandes
+2025-03-09,SP2,Spain-Segunda,2425,Levante,Cartagena,3.0,0.0,H,1.0,0.0,H,1.33,4.75,10.0,1.29,5.43,10.53,1.29,5.15,9.52,1.73,2.08,1.72,2.08,-1.5,2.0,1.85,Levante,Cartagena,levante,cartagena
+2025-03-23,SP2,Spain-Segunda,2425,Levante,Castellon,3.0,2.0,H,2.0,1.0,H,1.75,3.7,4.5,1.78,3.79,4.37,1.75,3.75,4.26,1.73,2.08,1.72,2.07,-0.75,2.0,1.85,Levante,Castellon,levante,castellon
+2025-04-06,SP2,Spain-Segunda,2425,Levante,Santander,3.0,1.0,H,1.0,0.0,H,1.95,3.5,3.75,1.96,3.31,4.15,1.96,3.35,3.83,1.75,2.05,1.76,2.02,-0.5,1.98,1.88,Levante,Santander,levante,santander
+2025-04-19,SP2,Spain-Segunda,2425,Levante,Zaragoza,5.0,2.0,H,2.0,0.0,H,1.7,3.6,4.75,1.72,3.73,4.85,1.73,3.65,4.56,2.05,1.8,1.99,1.8,-0.75,1.98,1.88,Levante,Zaragoza,levante,zaragoza
+2025-05-04,SP2,Spain-Segunda,2425,Levante,Tenerife,1.0,1.0,D,0.0,1.0,A,1.66,3.5,5.0,1.71,3.74,4.94,1.67,3.66,4.93,1.94,1.79,1.95,1.82,-0.75,1.93,1.93,Levante,Tenerife,levante,tenerife
+2025-05-16,SP2,Spain-Segunda,2425,Levante,Albacete,1.0,0.0,H,1.0,0.0,H,1.48,4.75,5.5,1.49,4.91,5.97,1.47,4.67,5.68,1.44,2.7,1.46,2.59,-1.25,2.0,1.8,Levante,Albacete,levante,albacete
+2025-06-01,SP2,Spain-Segunda,2425,Levante,Eibar,1.0,0.0,H,0.0,0.0,D,1.53,4.33,5.5,1.57,4.13,5.16,1.54,4.27,5.15,1.6,2.3,1.6,2.24,-1.0,1.88,1.93,Levante,Eibar,levante,eibar
+2025-08-23,SP1,Spain-LaLiga,2526,Levante,Barcelona,2.0,3.0,A,2.0,0.0,H,11.0,6.0,1.25,9.49,6.51,1.27,10.44,6.51,1.24,1.36,3.2,1.35,3.02,1.75,1.98,1.88,Levante,Barcelona,levante,barcelona
+2025-09-14,SP1,Spain-LaLiga,2526,Levante,Betis,2.0,2.0,D,2.0,1.0,H,3.25,3.25,2.3,3.4,3.48,2.21,3.18,3.26,2.25,2.0,1.8,1.99,1.77,0.25,1.85,2.0,Levante,Real Betis,levante,real_betis
+2025-09-23,SP1,Spain-LaLiga,2526,Levante,Real Madrid,1.0,4.0,A,0.0,2.0,A,7.5,5.75,1.33,8.61,5.91,1.33,8.29,5.69,1.31,1.44,2.75,1.43,2.73,1.5,1.95,1.9,Levante,Real Madrid,levante,real_madrid
+2025-10-19,SP1,Spain-LaLiga,2526,Levante,Vallecano,0.0,3.0,A,0.0,2.0,A,2.88,3.25,2.5,2.84,3.54,2.51,2.75,3.33,2.5,1.98,1.88,1.91,1.83,0.0,2.03,1.83,Levante,Rayo Vallecano,levante,rayo_vallecano
+2025-11-02,SP1,Spain-LaLiga,2526,Levante,Celta,1.0,2.0,A,0.0,1.0,A,2.88,3.4,2.45,2.93,3.41,2.51,2.81,3.35,2.43,1.8,2.0,1.78,1.96,0.0,2.1,1.78,Levante,Celta Vigo,levante,celta_vigo
+2025-11-29,SP1,Spain-LaLiga,2526,Levante,Ath Bilbao,0.0,2.0,A,0.0,2.0,A,3.5,3.3,2.15,3.52,3.45,2.17,3.41,3.36,2.14,2.1,1.73,2.07,1.71,0.25,1.98,1.88,Levante,Athletic Bilbao,levante,athletic_bilbao
+2025-12-20,SP1,Spain-LaLiga,2526,Levante,Sociedad,1.0,1.0,D,0.0,1.0,A,3.4,3.4,2.15,3.47,3.53,2.16,3.29,3.41,2.15,1.93,1.93,1.87,1.86,0.25,2.0,1.85,Levante,Real Sociedad,levante,real_sociedad
+2026-01-11,SP1,Spain-LaLiga,2526,Levante,Espanol,1.0,1.0,D,0.0,0.0,D,3.1,3.3,2.35,3.16,3.29,2.42,3.05,3.28,2.31,2.0,1.8,2.04,1.73,0.25,1.83,2.03,Levante,Espanyol,levante,espanyol
+2026-01-23,SP1,Spain-LaLiga,2526,Levante,Elche,3.0,2.0,H,0.0,1.0,A,2.2,3.3,3.2,,,,2.23,3.24,3.21,2.05,1.8,1.98,1.78,-0.25,1.95,1.9,Levante,Elche,levante,elche
+2026-01-31,SP1,Spain-LaLiga,2526,Levante,Ath Madrid,0.0,0.0,D,0.0,0.0,D,5.25,4.0,1.62,,,,5.25,4.08,1.6,1.73,2.1,1.74,2.02,1.0,1.75,2.05,Levante,Atletico Madrid,levante,atletico_madrid
+2026-02-15,SP1,Spain-LaLiga,2526,Levante,Valencia,0.0,2.0,A,0.0,0.0,D,2.63,3.25,2.6,,,,2.69,3.25,2.56,2.0,1.8,1.95,1.79,0.0,1.98,1.88,Levante,Valencia,levante,valencia
+2026-02-18,SP1,Spain-LaLiga,2526,Levante,Villarreal,0.0,1.0,A,0.0,0.0,D,4.0,4.0,1.8,,,,3.97,3.84,1.81,1.73,2.1,1.65,2.16,0.5,2.05,1.8,Levante,Villarreal,levante,villarreal
+2026-02-27,SP1,Spain-LaLiga,2526,Levante,Alaves,2.0,0.0,H,0.0,0.0,D,2.63,3.1,2.8,,,,2.63,3.08,2.81,2.2,1.67,2.23,1.62,0.0,1.85,2.0,Levante,Deportivo Alaves,levante,deportivo_alaves
+2026-03-07,SP1,Spain-LaLiga,2526,Levante,Girona,1.0,1.0,D,0.0,0.0,D,2.8,3.4,2.45,,,,2.78,3.35,2.46,1.98,1.88,1.89,1.85,0.0,2.05,1.8,Levante,Girona,levante,girona
+2026-03-21,SP1,Spain-LaLiga,2526,Levante,Oviedo,4.0,2.0,H,2.0,2.0,D,2.2,3.3,3.4,,,,2.18,3.28,3.33,2.1,1.73,2.07,1.7,-0.25,1.88,1.98,Levante,Real Oviedo,levante,real_oviedo
+2026-04-13,SP1,Spain-LaLiga,2526,Levante,Getafe,1.0,0.0,H,0.0,0.0,D,2.75,3.0,2.88,,,,2.69,2.95,2.78,2.75,1.44,2.68,1.44,0.0,1.88,1.98,Levante,Getafe,levante,getafe
+2026-04-23,SP1,Spain-LaLiga,2526,Levante,Sevilla,2.0,0.0,H,1.0,0.0,H,2.4,3.25,3.0,,,,2.49,3.19,2.81,2.1,1.73,2.1,1.68,,1.7,2.1,Levante,Sevilla,levante,sevilla
+2026-05-08,SP1,Spain-LaLiga,2526,Levante,Osasuna,3.0,2.0,H,2.0,2.0,D,2.5,3.25,2.88,,,,2.51,3.23,2.81,2.0,1.8,1.96,1.78,0.0,1.8,2.05,Levante,Osasuna,levante,osasuna
+2026-05-17,SP1,Spain-LaLiga,2526,Levante,Mallorca,2.0,0.0,H,1.0,0.0,H,2.1,3.4,3.3,,,,2.12,3.33,3.27,1.91,1.91,1.83,1.9,-0.25,1.85,2.0,Levante,Mallorca,levante,mallorca
+2026-08-29,SP1,Spain-LaLiga,2627,Levante,Betis,5.0,2.0,H,2.0,2.0,D,3.4,3.3,2.2,,,,3.28,3.33,2.19,1.98,1.88,1.91,1.83,0.25,1.98,1.88,Levante,Real Betis,levante,real_betis
+2026-09-13,SP1,Spain-LaLiga,2627,Levante,Barcelona,2.0,4.0,A,0.0,2.0,A,17.0,8.0,1.14,,,,14.46,7.89,1.15,1.29,3.75,1.25,3.71,2.25,2.0,1.85,Levante,Barcelona,levante,barcelona
+2026-10-12,SP1,Spain-LaLiga,2627,Levante,Sevilla,3.0,3.0,D,0.0,1.0,A,2.75,3.25,2.63,,,,2.68,3.27,2.56,2.0,1.8,1.99,1.75,0.0,1.98,1.88,Levante,Sevilla,levante,sevilla
+2026-10-21,SP1,Spain-LaLiga,2627,Levante,Ath Bilbao,3.0,1.0,H,2.0,0.0,H,3.4,3.5,2.15,,,,3.42,3.29,2.15,1.98,1.88,1.91,1.83,0.25,2.0,1.85,Levante,Athletic Bilbao,levante,athletic_bilbao

@@ -1,0 +1,21 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2025-08-09,T1,Turkey-SL,2526,Samsunspor,Genclerbirligi,2.0,1.0,H,1.0,0.0,H,1.67,3.7,3.9,1.74,3.8,4.63,1.69,3.7,4.53,1.88,1.93,1.82,1.9,-0.75,1.98,1.83,Samsunspor,Genclerbirligi,samsunspor,genclerbirligi
+2025-08-23,T1,Turkey-SL,2526,Gaziantep,Genclerbirligi,2.0,1.0,H,1.0,1.0,D,1.67,3.4,4.75,1.78,3.67,4.61,1.69,3.59,4.75,2.08,1.73,2.03,1.72,-0.75,1.98,1.83,Gaziantep,Genclerbirligi,gaziantep,genclerbirligi
+2025-09-15,T1,Turkey-SL,2526,Rizespor,Genclerbirligi,1.0,0.0,H,0.0,0.0,D,1.62,3.5,5.75,1.64,3.74,5.63,1.65,3.65,5.07,1.95,1.85,1.9,1.83,-0.75,1.85,1.95,Caykur Rizespor,Genclerbirligi,caykur_rizespor,genclerbirligi
+2025-09-28,T1,Turkey-SL,2526,Kayserispor,Genclerbirligi,1.0,1.0,D,0.0,1.0,A,2.05,3.3,3.4,2.08,3.38,3.65,2.0,3.46,3.47,1.85,1.95,1.8,1.93,-0.5,2.08,1.73,Kayserispor,Genclerbirligi,kayserispor,genclerbirligi
+2025-10-18,T1,Turkey-SL,2526,Besiktas,Genclerbirligi,1.0,2.0,A,0.0,0.0,D,1.22,5.5,11.0,1.23,6.36,10.7,1.25,5.72,9.55,1.44,2.7,1.43,2.64,-1.75,1.9,1.9,Besiktas,Genclerbirligi,besiktas,genclerbirligi
+2025-11-01,T1,Turkey-SL,2526,Goztep,Genclerbirligi,1.0,0.0,H,1.0,0.0,H,1.45,4.1,7.0,,,,1.47,4.11,6.46,1.98,1.83,1.9,1.83,-1.0,1.78,2.03,Goztep,Genclerbirligi,goztep,genclerbirligi
+2025-11-22,T1,Turkey-SL,2526,Galatasaray,Genclerbirligi,3.0,2.0,H,0.0,1.0,A,1.13,8.0,13.0,1.14,8.82,14.59,1.15,7.48,14.19,1.36,3.1,1.34,3.02,-2.25,2.0,1.8,Galatasaray,Genclerbirligi,galatasaray,genclerbirligi
+2025-11-28,T1,Turkey-SL,2526,Kocaelispor,Genclerbirligi,1.0,0.0,H,1.0,0.0,H,1.81,3.4,4.2,1.94,3.4,4.4,1.89,3.3,4.05,2.1,1.7,2.11,1.66,-0.5,1.9,1.9,Kocaelispor,Genclerbirligi,kocaelispor,genclerbirligi
+2025-12-12,T1,Turkey-SL,2526,Kasimpasa,Genclerbirligi,0.0,0.0,D,0.0,0.0,D,2.5,3.25,2.7,2.59,3.36,2.87,2.48,3.19,2.77,2.0,1.8,2.0,1.73,0.0,1.8,2.0,Kasimpasa,Genclerbirligi,kasimpasa,genclerbirligi
+2026-01-25,T1,Turkey-SL,2526,Antalyaspor,Genclerbirligi,2.0,1.0,H,1.0,1.0,D,2.65,3.25,2.55,,,,2.65,3.1,2.59,2.2,1.65,2.14,1.64,0.0,1.95,1.85,Antalyaspor,Genclerbirligi,antalyaspor,genclerbirligi
+2026-02-09,T1,Turkey-SL,2526,Fenerbahce,Genclerbirligi,3.0,1.0,H,3.0,0.0,H,1.19,6.0,13.0,,,,1.21,5.87,11.27,1.5,2.5,1.48,2.5,-1.75,1.85,1.95,Fenerbahce,Genclerbirligi,fenerbahce,genclerbirligi
+2026-02-21,T1,Turkey-SL,2526,Eyupspor,Genclerbirligi,1.0,0.0,H,0.0,0.0,D,2.75,3.4,2.35,,,,2.86,3.28,2.35,1.95,1.85,1.88,1.82,0.25,1.73,2.08,Eyupspor,Genclerbirligi,eyupspor,genclerbirligi
+2026-03-09,T1,Turkey-SL,2526,Alanyaspor,Genclerbirligi,0.0,0.0,D,0.0,0.0,D,1.81,3.5,4.1,,,,1.83,3.43,3.94,1.98,1.83,1.91,1.8,-0.5,1.85,1.95,Alanyaspor,Genclerbirligi,alanyaspor,genclerbirligi
+2026-03-19,T1,Turkey-SL,2526,Konyaspor,Genclerbirligi,1.0,0.0,H,1.0,0.0,H,1.76,3.5,4.5,,,,1.78,3.45,4.16,2.05,1.75,1.95,1.77,-0.5,1.78,2.03,Konyaspor,Genclerbirligi,konyaspor,genclerbirligi
+2026-04-11,T1,Turkey-SL,2526,Buyuksehyr,Genclerbirligi,3.0,0.0,H,3.0,0.0,H,1.56,3.9,5.5,,,,1.57,3.85,5.22,1.73,2.08,1.73,2.01,-1.0,1.93,1.88,Buyuksehyr,Genclerbirligi,buyuksehyr,genclerbirligi
+2026-05-03,T1,Turkey-SL,2526,Karagumruk,Genclerbirligi,1.0,0.0,H,1.0,0.0,H,2.57,3.3,2.57,,,,2.52,3.24,2.59,2.0,1.8,1.96,1.76,0.0,1.9,1.9,Karagumruk,Genclerbirligi,karagumruk,genclerbirligi
+2026-05-17,T1,Turkey-SL,2526,Trabzonspor,Genclerbirligi,0.0,3.0,A,0.0,1.0,A,3.25,3.5,2.1,,,,2.96,3.55,2.15,1.7,2.1,1.65,2.12,0.25,1.98,1.83,Trabzonspor,Genclerbirligi,trabzonspor,genclerbirligi
+2026-08-23,T1,Turkey-SL,2627,Goztep,Genclerbirligi,0.0,1.0,A,0.0,0.0,D,1.61,3.8,5.0,,,,1.62,3.74,4.85,1.9,1.9,1.85,1.86,-0.75,1.83,1.98,Goztep,Genclerbirligi,goztep,genclerbirligi
+2026-09-06,T1,Turkey-SL,2627,Trabzonspor,Genclerbirligi,5.0,0.0,H,3.0,0.0,H,1.49,4.0,5.5,,,,1.53,3.99,5.3,1.73,2.08,1.71,2.03,-1.0,1.95,1.85,Trabzonspor,Genclerbirligi,trabzonspor,genclerbirligi
+2026-09-19,T1,Turkey-SL,2627,Buyuksehyr,Genclerbirligi,4.0,0.0,H,2.0,0.0,H,1.42,4.33,6.5,,,,1.49,4.24,5.52,1.6,2.3,1.59,2.24,-1.0,1.88,1.93,Buyuksehyr,Genclerbirligi,buyuksehyr,genclerbirligi

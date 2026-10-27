@@ -1,0 +1,89 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-09-12,G1,Greece-SL,2122,Volos NFC,Lamia,2.0,1.0,H,2.0,0.0,H,1.9,3.0,4.0,1.97,3.28,4.17,1.99,3.15,3.96,2.4,1.53,2.45,1.53,-0.5,2.0,1.85,Volos NFC,Lamia,volos_nfc,lamia
+2021-09-23,G1,Greece-SL,2122,Volos NFC,Atromitos,3.0,0.0,H,0.0,0.0,D,2.62,3.0,2.87,2.61,3.33,2.7,2.56,3.23,2.69,2.1,1.7,2.11,1.7,0.0,1.88,1.98,Volos NFC,Atromitos,volos_nfc,atromitos
+2021-10-02,G1,Greece-SL,2122,Volos NFC,Asteras Tripolis,2.0,1.0,H,1.0,0.0,H,2.8,3.1,2.7,2.72,2.84,2.98,2.67,2.91,2.85,2.35,1.57,2.42,1.54,0.0,1.98,1.88,Volos NFC,Asteras Tripolis,volos_nfc,asteras_tripolis
+2021-10-24,G1,Greece-SL,2122,Volos NFC,AEK,1.0,3.0,A,0.0,2.0,A,4.75,4.0,1.7,4.35,4.07,1.71,4.32,3.87,1.72,1.8,2.0,1.79,2.0,0.75,1.9,1.95,Volos NFC,AEK Athens,volos_nfc,aek_athens
+2021-11-07,G1,Greece-SL,2122,Volos NFC,Aris,1.0,2.0,A,0.0,1.0,A,3.4,3.2,2.25,3.19,3.2,2.33,3.12,3.21,2.26,2.1,1.7,2.09,1.71,0.25,1.88,1.98,Volos NFC,Aris Thessaloniki,volos_nfc,aris_thessaloniki
+2021-11-20,G1,Greece-SL,2122,Volos NFC,OFI Crete,0.0,2.0,A,0.0,1.0,A,2.25,3.1,3.5,2.23,3.24,3.36,2.24,3.18,3.24,2.1,1.7,2.09,1.71,-0.25,1.9,1.95,Volos NFC,OFI Crete,volos_nfc,ofi_crete
+2021-12-04,G1,Greece-SL,2122,Volos NFC,Panetolikos,1.0,2.0,A,1.0,2.0,A,1.9,3.4,4.33,1.93,3.31,4.17,1.92,3.37,3.96,2.1,1.7,2.07,1.74,-0.5,1.95,1.9,Volos NFC,Panetolikos,volos_nfc,panetolikos
+2022-01-09,G1,Greece-SL,2122,Volos NFC,Panathinaikos,3.0,1.0,H,1.0,0.0,H,3.6,3.3,2.1,3.79,3.29,2.05,3.59,3.27,2.05,2.1,1.7,2.1,1.7,0.25,2.02,1.83,Volos NFC,Panathinaikos,volos_nfc,panathinaikos
+2022-01-19,G1,Greece-SL,2122,Volos NFC,Apollon,1.0,0.0,H,1.0,0.0,H,,,,1.74,3.73,4.66,1.74,3.64,4.52,,,1.97,1.81,-0.75,,,Volos NFC,Apollon,volos_nfc,apollon
+2022-01-23,G1,Greece-SL,2122,Volos NFC,PAOK,0.0,4.0,A,0.0,2.0,A,4.5,3.6,1.8,4.79,3.61,1.74,4.37,3.6,1.77,1.95,1.9,1.86,1.91,0.5,2.02,1.77,Volos NFC,PAOK,volos_nfc,paok
+2022-02-02,G1,Greece-SL,2122,Volos NFC,Ionikos,1.0,1.0,D,1.0,0.0,H,1.8,3.4,5.0,1.84,3.44,4.46,1.83,3.37,4.34,2.25,1.61,2.21,1.63,-0.5,1.85,2.0,Volos NFC,Ionikos,volos_nfc,ionikos
+2022-02-20,G1,Greece-SL,2122,Volos NFC,Olympiakos,0.0,1.0,A,0.0,0.0,D,7.0,4.0,1.53,5.86,4.17,1.53,6.03,4.11,1.51,1.75,2.05,1.77,2.02,1.0,2.0,1.85,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2022-03-06,G1,Greece-SL,2122,Volos NFC,Giannina,0.0,0.0,D,0.0,0.0,D,3.4,3.4,2.15,3.5,3.33,2.13,3.42,3.31,2.11,2.1,1.7,2.12,1.69,0.25,1.98,1.88,Volos NFC,PAS Giannina,volos_nfc,pas_giannina
+2022-03-19,G1,Greece-SL,2122,Volos NFC,Asteras Tripolis,0.0,2.0,A,0.0,2.0,A,2.8,3.2,2.62,2.81,3.11,2.65,2.75,3.11,2.59,2.25,1.61,2.24,1.61,0.0,2.0,1.85,Volos NFC,Asteras Tripolis,volos_nfc,asteras_tripolis
+2022-04-09,G1,Greece-SL,2122,Volos NFC,Lamia,3.0,0.0,H,0.0,0.0,D,3.3,3.4,2.2,3.28,3.32,2.23,3.23,3.23,2.22,2.25,1.61,2.24,1.61,0.25,1.95,1.9,Volos NFC,Lamia,volos_nfc,lamia
+2022-04-30,G1,Greece-SL,2122,Volos NFC,Atromitos,1.0,1.0,D,0.0,1.0,A,2.37,3.25,3.1,2.4,3.34,2.94,2.36,3.28,2.92,2.05,1.75,2.03,1.74,-0.25,2.05,1.8,Volos NFC,Atromitos,volos_nfc,atromitos
+2022-05-14,G1,Greece-SL,2122,Volos NFC,OFI Crete,5.0,0.0,H,3.0,0.0,H,2.3,3.5,3.0,2.21,3.5,3.15,2.21,3.43,3.04,1.95,1.9,1.91,1.85,-0.25,2.0,1.85,Volos NFC,OFI Crete,volos_nfc,ofi_crete
+2022-08-19,G1,Greece-SL,2223,Volos NFC,Asteras Tripolis,3.0,3.0,D,1.0,1.0,D,2.45,3.3,2.75,2.67,3.12,2.87,2.56,3.15,2.77,2.2,1.65,2.18,1.66,0.0,1.83,2.02,Volos NFC,Asteras Tripolis,volos_nfc,asteras_tripolis
+2022-09-04,G1,Greece-SL,2223,Volos NFC,OFI Crete,0.0,1.0,A,0.0,1.0,A,1.9,3.4,4.2,1.81,3.69,4.27,1.86,3.5,4.01,1.93,1.93,1.87,1.89,-0.5,1.85,2.0,Volos NFC,OFI Crete,volos_nfc,ofi_crete
+2022-09-18,G1,Greece-SL,2223,Volos NFC,Ionikos,2.0,0.0,H,1.0,0.0,H,2.0,3.3,4.0,1.99,3.35,3.89,1.99,3.31,3.75,2.1,1.7,2.03,1.75,-0.5,2.02,1.83,Volos NFC,Ionikos,volos_nfc,ionikos
+2022-10-02,G1,Greece-SL,2223,Volos NFC,Aris,2.0,0.0,H,2.0,0.0,H,3.6,3.4,2.1,3.6,3.23,2.14,3.43,3.24,2.12,2.25,1.61,2.24,1.61,0.25,2.05,1.8,Volos NFC,Aris Thessaloniki,volos_nfc,aris_thessaloniki
+2022-10-15,G1,Greece-SL,2223,Volos NFC,Levadeiakos,2.0,1.0,H,0.0,0.0,D,1.75,3.4,5.25,1.79,3.35,5.27,1.77,3.39,4.78,2.1,1.7,2.1,1.7,-0.75,2.05,1.8,Volos NFC,Levadeiakos,volos_nfc,levadeiakos
+2022-10-29,G1,Greece-SL,2223,Volos NFC,Panathinaikos,1.0,5.0,A,0.0,2.0,A,4.33,3.6,1.83,4.68,3.46,1.83,4.29,3.36,1.84,2.3,1.6,2.28,1.6,0.5,2.02,1.83,Volos NFC,Panathinaikos,volos_nfc,panathinaikos
+2022-11-10,G1,Greece-SL,2223,Volos NFC,Giannina,2.0,1.0,H,0.0,0.0,D,1.75,3.6,4.75,1.72,3.74,4.72,1.76,3.52,4.56,2.15,1.66,2.14,1.68,-0.75,1.98,1.88,Volos NFC,PAS Giannina,volos_nfc,pas_giannina
+2022-12-28,G1,Greece-SL,2223,Volos NFC,AEK,0.0,4.0,A,0.0,3.0,A,8.0,3.8,1.5,6.28,4.24,1.53,6.22,4.01,1.51,1.85,2.0,1.83,1.94,1.0,1.93,1.93,Volos NFC,AEK Athens,volos_nfc,aek_athens
+2023-01-08,G1,Greece-SL,2223,Volos NFC,Olympiakos,0.0,4.0,A,0.0,3.0,A,10.0,4.75,1.33,8.61,4.73,1.36,8.66,4.64,1.35,1.9,1.95,1.82,1.95,1.25,2.02,1.83,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2023-01-28,G1,Greece-SL,2223,Volos NFC,Panetolikos,2.0,3.0,A,1.0,1.0,D,2.0,3.3,4.0,2.08,3.47,3.61,2.03,3.35,3.61,2.1,1.7,2.1,1.71,-0.5,2.02,1.83,Volos NFC,Panetolikos,volos_nfc,panetolikos
+2023-02-12,G1,Greece-SL,2223,Volos NFC,Atromitos,2.0,1.0,H,0.0,0.0,D,2.25,3.3,3.3,2.23,3.01,3.63,2.21,3.16,3.33,2.08,1.73,2.07,1.73,-0.25,1.93,1.93,Volos NFC,Atromitos,volos_nfc,atromitos
+2023-02-24,G1,Greece-SL,2223,Volos NFC,Lamia,1.0,1.0,D,0.0,1.0,A,1.91,3.5,3.8,1.94,3.52,4.06,1.9,3.43,4.01,2.2,1.65,2.22,1.63,-0.5,1.93,1.93,Volos NFC,Lamia,volos_nfc,lamia
+2023-03-12,G1,Greece-SL,2223,Volos NFC,PAOK,0.0,1.0,A,0.0,1.0,A,10.0,4.75,1.33,9.59,4.78,1.33,8.71,4.63,1.35,1.9,1.95,1.86,1.9,1.25,2.0,1.85,Volos NFC,PAOK,volos_nfc,paok
+2023-03-19,G1,Greece-SL,2223,Volos NFC,Olympiakos,0.0,3.0,A,0.0,2.0,A,34.0,9.0,1.07,,,,23.16,7.82,1.12,1.48,2.6,1.53,2.38,2.25,,,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2023-04-05,G1,Greece-SL,2223,Volos NFC,AEK,0.0,1.0,A,0.0,1.0,A,9.5,7.0,1.22,13.52,6.25,1.22,12.56,5.97,1.22,1.67,2.15,1.68,2.14,1.75,1.9,1.95,Volos NFC,AEK Athens,volos_nfc,aek_athens
+2023-04-23,G1,Greece-SL,2223,Volos NFC,Aris,0.0,3.0,A,0.0,1.0,A,4.2,3.4,1.95,3.98,3.46,1.93,3.84,3.36,1.94,2.08,1.73,2.07,1.72,0.5,1.9,1.95,Volos NFC,Aris Thessaloniki,volos_nfc,aris_thessaloniki
+2023-04-26,G1,Greece-SL,2223,Volos NFC,Panathinaikos,0.0,2.0,A,0.0,0.0,D,15.0,5.5,1.25,14.61,5.64,1.24,13.43,5.53,1.23,1.75,2.05,1.85,1.92,1.5,2.02,1.82,Volos NFC,Panathinaikos,volos_nfc,panathinaikos
+2023-05-08,G1,Greece-SL,2223,Volos NFC,PAOK,0.0,2.0,A,0.0,1.0,A,12.0,5.0,1.33,10.35,5.02,1.3,10.15,4.99,1.29,1.8,2.0,1.79,1.97,1.5,1.9,1.95,Volos NFC,PAOK,volos_nfc,paok
+2023-08-18,G1,Greece-SL,2324,Volos NFC,Lamia,2.0,2.0,D,0.0,0.0,D,2.45,3.1,3.2,2.5,3.01,3.2,2.43,3.01,3.03,2.4,1.53,2.4,1.54,-0.25,2.13,1.75,Volos NFC,Lamia,volos_nfc,lamia
+2023-09-03,G1,Greece-SL,2324,Volos NFC,AEK,2.0,3.0,A,1.0,2.0,A,12.0,6.0,1.25,11.46,6.13,1.22,11.76,5.91,1.22,1.6,2.3,1.58,2.3,1.75,1.93,1.93,Volos NFC,AEK Athens,volos_nfc,aek_athens
+2023-09-24,G1,Greece-SL,2324,Volos NFC,Asteras Tripolis,1.0,2.0,A,0.0,2.0,A,2.7,3.2,2.7,2.63,3.14,2.81,2.62,3.11,2.7,2.35,1.57,2.32,1.57,0.0,1.9,1.95,Volos NFC,Asteras Tripolis,volos_nfc,asteras_tripolis
+2023-10-28,G1,Greece-SL,2324,Volos NFC,Kifisia,2.0,1.0,H,1.0,0.0,H,2.3,3.3,3.25,2.27,3.46,3.18,2.25,3.29,3.12,2.05,1.75,2.05,1.74,-0.25,1.98,1.88,Volos NFC,Kifisia,volos_nfc,kifisia
+2023-11-11,G1,Greece-SL,2324,Volos NFC,Aris,0.0,2.0,A,0.0,0.0,D,4.75,3.6,1.8,4.44,3.8,1.79,4.32,3.67,1.77,1.88,1.98,1.83,1.94,0.75,1.83,2.03,Volos NFC,Aris Thessaloniki,volos_nfc,aris_thessaloniki
+2023-11-29,G1,Greece-SL,2324,Volos NFC,Panserraikos,1.0,0.0,H,0.0,0.0,D,2.4,3.4,2.9,2.43,3.27,3.06,2.4,3.26,2.91,2.05,1.75,2.02,1.76,-0.25,2.05,1.75,Volos NFC,Panserraikos,volos_nfc,panserraikos
+2023-12-03,G1,Greece-SL,2324,Volos NFC,Olympiakos,2.0,2.0,D,1.0,1.0,D,15.0,6.5,1.2,12.69,6.38,1.2,13.23,6.18,1.2,1.65,2.2,1.63,2.2,1.75,2.03,1.83,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2023-12-20,G1,Greece-SL,2324,Volos NFC,Panathinaikos,0.0,3.0,A,0.0,0.0,D,8.0,5.0,1.36,8.4,5.02,1.36,7.88,4.85,1.35,1.73,2.08,1.72,2.06,1.5,1.75,2.05,Volos NFC,Panathinaikos,volos_nfc,panathinaikos
+2024-01-07,G1,Greece-SL,2324,Volos NFC,Atromitos,1.0,2.0,A,0.0,1.0,A,2.55,3.2,2.9,2.54,3.23,2.85,2.48,3.19,2.8,2.05,1.75,2.02,1.76,0.0,1.8,2.05,Volos NFC,Atromitos,volos_nfc,atromitos
+2024-01-21,G1,Greece-SL,2324,Volos NFC,PAOK,1.0,5.0,A,0.0,2.0,A,7.0,4.33,1.45,6.79,4.51,1.47,6.55,4.34,1.45,1.73,2.08,1.71,2.06,1.0,2.08,1.73,Volos NFC,PAOK,volos_nfc,paok
+2024-02-03,G1,Greece-SL,2324,Volos NFC,Panetolikos,1.0,1.0,D,1.0,1.0,D,2.3,3.3,3.25,2.32,3.21,3.31,2.26,3.22,3.14,2.2,1.65,2.15,1.66,-0.25,1.98,1.88,Volos NFC,Panetolikos,volos_nfc,panetolikos
+2024-02-18,G1,Greece-SL,2324,Volos NFC,Giannina,1.0,2.0,A,0.0,1.0,A,2.05,3.1,4.2,2.05,3.07,4.1,2.03,3.1,3.87,2.4,1.53,2.41,1.54,-0.5,2.05,1.8,Volos NFC,PAS Giannina,volos_nfc,pas_giannina
+2024-02-28,G1,Greece-SL,2324,Volos NFC,OFI Crete,3.0,1.0,H,1.0,1.0,D,2.5,3.2,2.9,2.58,3.12,2.97,2.5,3.15,2.83,2.15,1.67,2.16,1.67,0.0,1.78,2.1,Volos NFC,OFI Crete,volos_nfc,ofi_crete
+2024-03-30,G1,Greece-SL,2324,Volos NFC,Kifisia,4.0,1.0,H,3.0,1.0,H,2.25,3.3,3.3,2.33,3.19,3.26,2.23,3.22,3.21,2.1,1.7,2.12,1.69,-0.25,1.95,1.9,Volos NFC,Kifisia,volos_nfc,kifisia
+2024-04-13,G1,Greece-SL,2324,Volos NFC,Atromitos,2.0,2.0,D,1.0,1.0,D,2.05,3.25,4.0,2.04,3.09,4.22,2.01,3.18,3.89,2.15,1.67,2.14,1.68,-0.5,2.0,1.85,Volos NFC,Atromitos,volos_nfc,atromitos
+2024-04-27,G1,Greece-SL,2324,Volos NFC,Panserraikos,1.0,0.0,H,0.0,0.0,D,1.25,5.5,13.0,1.22,5.49,9.54,1.23,5.69,10.78,1.62,2.25,1.6,2.24,-1.5,1.7,2.1,Volos NFC,Panserraikos,volos_nfc,panserraikos
+2024-08-17,G1,Greece-SL,2425,Volos NFC,Olympiakos,0.0,2.0,A,0.0,1.0,A,10.0,5.0,1.3,8.11,6.08,1.28,8.75,5.63,1.28,1.57,2.35,1.58,2.28,1.5,1.93,1.93,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2024-09-01,G1,Greece-SL,2425,Volos NFC,OFI Crete,1.0,3.0,A,0.0,1.0,A,2.5,3.1,2.9,2.45,3.22,2.93,2.44,3.19,2.85,2.1,1.7,2.09,1.71,0.0,1.78,2.1,Volos NFC,OFI Crete,volos_nfc,ofi_crete
+2024-09-21,G1,Greece-SL,2425,Volos NFC,PAOK,1.0,4.0,A,0.0,1.0,A,8.0,5.25,1.33,8.34,5.18,1.33,8.25,5.12,1.33,1.6,2.3,1.59,2.29,1.5,1.88,1.98,Volos NFC,PAOK,volos_nfc,paok
+2024-09-28,G1,Greece-SL,2425,Volos NFC,Athens Kallithea,1.0,1.0,D,1.0,1.0,D,2.3,3.3,3.0,2.37,3.2,3.12,2.31,3.19,3.06,2.2,1.65,2.21,1.64,-0.25,2.0,1.85,Volos NFC,Athens Kallithea,volos_nfc,athens_kallithea
+2024-10-19,G1,Greece-SL,2425,Volos NFC,Panserraikos,0.0,1.0,A,0.0,0.0,D,2.15,3.0,3.7,2.17,3.14,3.61,2.13,3.12,3.54,2.25,1.62,2.27,1.6,-0.25,1.85,2.0,Volos NFC,Panserraikos,volos_nfc,panserraikos
+2024-11-03,G1,Greece-SL,2425,Volos NFC,Panathinaikos,0.0,1.0,A,0.0,1.0,A,6.5,4.2,1.5,6.72,4.2,1.48,6.44,4.12,1.48,2.0,1.85,1.95,1.81,1.0,2.0,1.85,Volos NFC,Panathinaikos,volos_nfc,panathinaikos
+2024-11-30,G1,Greece-SL,2425,Volos NFC,Lamia,0.0,0.0,D,0.0,0.0,D,1.95,3.25,4.1,1.99,3.29,4.0,1.96,3.25,3.94,2.25,1.62,2.23,1.62,-0.5,1.98,1.88,Volos NFC,Lamia,volos_nfc,lamia
+2024-12-14,G1,Greece-SL,2425,Volos NFC,Asteras Tripolis,2.0,1.0,H,0.0,0.0,D,2.5,3.1,2.9,2.61,2.84,3.13,2.53,2.96,2.96,2.4,1.53,2.44,1.52,0.0,1.78,2.1,Volos NFC,Asteras Tripolis,volos_nfc,asteras_tripolis
+2025-01-05,G1,Greece-SL,2425,Volos NFC,AEK,2.0,4.0,A,0.0,1.0,A,10.0,5.25,1.3,9.62,5.42,1.29,9.35,5.16,1.29,1.75,2.05,1.74,2.04,1.5,1.9,1.95,Volos NFC,AEK Athens,volos_nfc,aek_athens
+2025-01-24,G1,Greece-SL,2425,Volos NFC,Atromitos,0.0,1.0,A,0.0,0.0,D,3.2,2.9,2.5,3.28,2.83,2.63,3.13,2.84,2.5,2.88,1.4,2.76,1.43,0.25,1.75,2.13,Volos NFC,Atromitos,volos_nfc,atromitos
+2025-02-08,G1,Greece-SL,2425,Volos NFC,Panetolikos,0.0,1.0,A,0.0,0.0,D,2.35,2.88,3.6,2.38,2.9,3.44,2.31,2.93,3.34,2.7,1.44,2.61,1.46,-0.25,2.0,1.85,Volos NFC,Panetolikos,volos_nfc,panetolikos
+2025-02-22,G1,Greece-SL,2425,Volos NFC,Levadeiakos,1.0,2.0,A,1.0,0.0,H,2.35,2.9,3.4,2.38,2.98,3.33,2.35,2.95,3.23,2.6,1.48,2.54,1.48,-0.25,2.03,1.83,Volos NFC,Levadeiakos,volos_nfc,levadeiakos
+2025-03-01,G1,Greece-SL,2425,Volos NFC,Aris,1.0,1.0,D,0.0,0.0,D,3.7,3.0,2.2,3.57,3.11,2.2,3.49,3.09,2.17,2.4,1.53,2.37,1.55,0.25,2.0,1.85,Volos NFC,Aris Thessaloniki,volos_nfc,aris_thessaloniki
+2025-04-06,G1,Greece-SL,2425,Volos NFC,Panetolikos,0.0,0.0,D,0.0,0.0,D,2.35,2.9,3.5,2.33,3.0,3.41,2.33,2.94,3.33,2.7,1.44,2.67,1.45,-0.25,2.0,1.85,Volos NFC,Panetolikos,volos_nfc,panetolikos
+2025-04-12,G1,Greece-SL,2425,Volos NFC,Levadeiakos,1.0,0.0,H,1.0,0.0,H,1.6,3.9,5.25,1.61,3.71,5.89,1.56,3.87,5.81,2.15,1.67,2.17,1.66,-1.0,2.08,1.73,Volos NFC,Levadeiakos,volos_nfc,levadeiakos
+2025-04-28,G1,Greece-SL,2425,Volos NFC,Panserraikos,3.0,0.0,H,2.0,0.0,H,1.65,3.7,5.75,1.62,3.7,5.75,1.63,3.69,5.42,2.05,1.75,2.03,1.75,-0.75,1.85,2.0,Volos NFC,Panserraikos,volos_nfc,panserraikos
+2025-05-14,G1,Greece-SL,2425,Volos NFC,Lamia,3.0,0.0,H,3.0,0.0,H,1.2,6.5,15.0,1.16,6.35,13.65,1.18,6.32,14.95,1.73,2.08,1.7,2.11,-1.75,1.85,2.0,Volos NFC,Lamia,volos_nfc,lamia
+2025-05-18,G1,Greece-SL,2425,Volos NFC,Athens Kallithea,0.0,2.0,A,0.0,1.0,A,2.1,3.25,3.6,2.06,3.57,3.33,2.06,3.42,3.43,2.03,1.78,2.02,1.76,-0.25,1.8,2.0,Volos NFC,Athens Kallithea,volos_nfc,athens_kallithea
+2025-08-30,G1,Greece-SL,2526,Volos NFC,Olympiakos,0.0,2.0,A,0.0,0.0,D,15.0,5.0,1.22,13.83,5.13,1.26,12.5,5.24,1.22,1.95,1.85,1.83,1.87,1.5,2.0,1.8,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2025-09-20,G1,Greece-SL,2526,Volos NFC,Asteras Tripolis,2.0,1.0,H,1.0,0.0,H,2.35,3.25,3.0,2.42,3.27,2.98,2.43,3.1,2.8,2.25,1.62,2.24,1.59,-0.25,2.05,1.75,Volos NFC,Asteras Tripolis,volos_nfc,asteras_tripolis
+2025-10-19,G1,Greece-SL,2526,Volos NFC,Panserraikos,2.0,1.0,H,1.0,0.0,H,1.62,3.75,5.0,1.68,3.81,4.92,1.68,3.64,4.51,1.88,1.93,1.83,1.86,-0.75,1.9,1.9,Volos NFC,Panserraikos,volos_nfc,panserraikos
+2025-11-01,G1,Greece-SL,2526,Volos NFC,Panathinaikos,1.0,0.0,H,1.0,0.0,H,5.5,3.6,1.61,,,,5.07,3.77,1.59,1.9,1.9,1.88,1.83,0.75,2.03,1.78,Volos NFC,Panathinaikos,volos_nfc,panathinaikos
+2025-11-24,G1,Greece-SL,2526,Volos NFC,Levadeiakos,1.0,2.0,A,1.0,1.0,D,2.95,3.4,2.25,,,,2.87,3.3,2.28,2.03,1.78,1.94,1.76,0.25,1.83,1.98,Volos NFC,Levadeiakos,volos_nfc,levadeiakos
+2025-12-06,G1,Greece-SL,2526,Volos NFC,Kifisia,1.0,1.0,D,1.0,1.0,D,2.05,3.25,3.7,,,,2.06,3.19,3.45,2.15,1.67,2.15,1.64,-0.5,2.08,1.73,Volos NFC,Kifisia,volos_nfc,kifisia
+2025-12-20,G1,Greece-SL,2526,Volos NFC,Panetolikos,1.0,0.0,H,0.0,0.0,D,1.81,3.3,4.5,,,,1.89,3.21,4.0,2.25,1.62,2.19,1.6,-0.5,1.9,1.9,Volos NFC,Panetolikos,volos_nfc,panetolikos
+2026-01-19,G1,Greece-SL,2526,Volos NFC,Atromitos,0.0,3.0,A,0.0,2.0,A,1.96,3.25,3.9,,,,2.03,3.12,3.54,2.25,1.62,2.22,1.58,-0.25,1.73,2.08,Volos NFC,Atromitos,volos_nfc,atromitos
+2026-01-31,G1,Greece-SL,2526,Volos NFC,Larisa,0.0,2.0,A,0.0,2.0,A,2.1,3.2,3.7,,,,2.05,3.13,3.56,2.35,1.57,2.25,1.58,-0.25,1.8,2.0,Volos NFC,Larisa,volos_nfc,larisa
+2026-02-14,G1,Greece-SL,2526,Volos NFC,Aris,1.0,1.0,D,0.0,1.0,A,4.5,3.1,1.91,,,,3.88,3.07,1.97,2.4,1.53,2.37,1.52,0.5,1.83,1.98,Volos NFC,Aris Thessaloniki,volos_nfc,aris_thessaloniki
+2026-03-01,G1,Greece-SL,2526,Volos NFC,AEK,2.0,2.0,D,1.0,1.0,D,11.0,5.0,1.24,,,,9.33,4.92,1.27,1.75,2.05,1.72,2.0,1.5,1.98,1.83,Volos NFC,AEK Athens,volos_nfc,aek_athens
+2026-03-08,G1,Greece-SL,2526,Volos NFC,OFI Crete,1.0,1.0,D,0.0,0.0,D,2.2,3.2,3.2,,,,2.22,3.17,3.02,2.1,1.7,2.05,1.68,-0.25,1.95,1.85,Volos NFC,OFI Crete,volos_nfc,ofi_crete
+2026-03-22,G1,Greece-SL,2526,Volos NFC,PAOK,2.0,1.0,H,0.0,1.0,A,10.0,5.25,1.25,,,,9.93,4.87,1.27,1.85,1.95,1.78,1.93,1.5,1.93,1.88,Volos NFC,PAOK,volos_nfc,paok
+2026-04-05,G1,Greece-SL,2526,Volos NFC,OFI Crete,1.0,1.0,D,0.0,0.0,D,2.25,3.25,3.1,,,,2.23,3.25,2.97,2.08,1.73,1.98,1.75,-0.25,2.0,1.8,Volos NFC,OFI Crete,volos_nfc,ofi_crete
+2026-05-10,G1,Greece-SL,2526,Volos NFC,Levadeiakos,0.0,3.0,A,0.0,1.0,A,2.5,3.5,2.5,,,,2.55,3.34,2.46,1.8,2.0,1.77,1.94,0.0,1.9,1.9,Volos NFC,Levadeiakos,volos_nfc,levadeiakos
+2026-05-13,G1,Greece-SL,2526,Volos NFC,Aris,1.0,2.0,A,0.0,1.0,A,4.33,3.2,1.91,,,,3.57,3.29,1.96,2.03,1.78,2.01,1.73,0.5,1.85,1.95,Volos NFC,Aris Thessaloniki,volos_nfc,aris_thessaloniki
+2026-08-29,G1,Greece-SL,2627,Volos NFC,Iraklis,1.0,1.0,D,0.0,1.0,A,1.86,3.5,4.1,,,,1.85,3.29,3.96,2.1,1.7,2.1,1.67,-0.5,1.9,1.9,Volos NFC,Iraklis,volos_nfc,iraklis
+2026-09-05,G1,Greece-SL,2627,Volos NFC,Olympiakos,1.0,1.0,D,0.0,1.0,A,12.0,5.5,1.22,,,,10.71,5.37,1.23,1.67,2.15,1.63,2.16,1.75,1.8,2.0,Volos NFC,Olympiacos,volos_nfc,olympiacos
+2026-09-20,G1,Greece-SL,2627,Volos NFC,AEK,1.0,2.0,A,0.0,0.0,D,9.0,4.75,1.33,,,,8.09,4.72,1.32,1.73,2.08,1.69,2.06,1.5,1.78,2.03,Volos NFC,AEK Athens,volos_nfc,aek_athens

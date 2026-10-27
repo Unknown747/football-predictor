@@ -1,0 +1,100 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,SP1,Spain-LaLiga,2122,Barcelona,Sociedad,4.0,2.0,H,2.0,0.0,H,1.72,4.0,4.5,1.75,4.2,4.62,1.74,4.06,4.44,1.57,2.37,1.6,2.36,-0.75,1.97,1.96,Barcelona,Real Sociedad,barcelona,real_sociedad
+2021-08-29,SP1,Spain-LaLiga,2122,Barcelona,Getafe,2.0,1.0,H,2.0,1.0,H,1.4,4.75,7.5,1.4,4.89,9.26,1.4,4.83,8.36,1.72,2.1,1.74,2.13,-1.25,1.95,1.98,Barcelona,Getafe,barcelona,getafe
+2021-09-20,SP1,Spain-LaLiga,2122,Barcelona,Granada,1.0,1.0,D,0.0,1.0,A,1.28,5.75,10.0,1.29,5.96,12.35,1.29,5.83,10.53,1.5,2.62,1.5,2.59,-1.5,1.88,2.05,Barcelona,Granada,barcelona,granada
+2021-09-26,SP1,Spain-LaLiga,2122,Barcelona,Levante,3.0,0.0,H,2.0,0.0,H,1.4,5.5,6.5,1.45,5.07,7.23,1.43,4.99,6.87,1.5,2.62,1.5,2.59,-1.25,2.02,1.91,Barcelona,Levante,barcelona,levante
+2021-10-17,SP1,Spain-LaLiga,2122,Barcelona,Valencia,3.0,1.0,H,2.0,1.0,H,1.5,4.33,6.5,1.56,4.29,6.66,1.54,4.29,6.23,1.66,2.2,1.68,2.2,-1.0,1.93,2.0,Barcelona,Valencia,barcelona,valencia
+2021-10-24,SP1,Spain-LaLiga,2122,Barcelona,Real Madrid,1.0,2.0,A,0.0,1.0,A,2.75,3.6,2.45,2.73,3.85,2.53,2.7,3.67,2.48,1.66,2.2,1.63,2.3,0.0,2.03,1.9,Barcelona,Real Madrid,barcelona,real_madrid
+2021-10-30,SP1,Spain-LaLiga,2122,Barcelona,Alaves,1.0,1.0,D,0.0,0.0,D,1.28,5.5,11.0,1.32,5.79,10.48,1.3,5.69,9.98,1.53,2.5,1.52,2.52,-1.5,1.93,2.0,Barcelona,Deportivo Alaves,barcelona,deportivo_alaves
+2021-11-20,SP1,Spain-LaLiga,2122,Barcelona,Espanol,1.0,0.0,H,0.0,0.0,D,1.36,5.25,7.5,1.39,5.19,8.96,1.37,5.08,8.42,1.57,2.37,1.6,2.36,-1.5,2.02,1.77,Barcelona,Espanyol,barcelona,espanyol
+2021-12-04,SP1,Spain-LaLiga,2122,Barcelona,Betis,0.0,1.0,A,0.0,0.0,D,1.5,4.5,6.5,1.52,4.8,6.28,1.5,4.71,6.11,1.5,2.62,1.5,2.58,-1.0,1.75,2.05,Barcelona,Real Betis,barcelona,real_betis
+2021-12-18,SP1,Spain-LaLiga,2122,Barcelona,Elche,3.0,2.0,H,2.0,0.0,H,1.3,5.5,10.0,1.36,5.25,10.02,1.35,5.21,9.13,1.66,2.2,1.66,2.25,-1.5,1.99,1.91,Barcelona,Elche,barcelona,elche
+2022-02-06,SP1,Spain-LaLiga,2122,Barcelona,Ath Madrid,4.0,2.0,H,3.0,1.0,H,2.25,3.4,3.2,2.36,3.35,3.22,2.32,3.37,3.17,2.07,1.83,2.04,1.8,-0.25,1.99,1.91,Barcelona,Atletico Madrid,barcelona,atletico_madrid
+2022-02-27,SP1,Spain-LaLiga,2122,Barcelona,Ath Bilbao,4.0,0.0,H,1.0,0.0,H,1.6,4.2,5.25,1.57,4.31,6.36,1.59,4.12,5.87,1.9,2.0,1.88,1.94,-1.0,2.06,1.84,Barcelona,Athletic Bilbao,barcelona,athletic_bilbao
+2022-03-13,SP1,Spain-LaLiga,2122,Barcelona,Osasuna,4.0,0.0,H,3.0,0.0,H,1.33,4.75,10.0,1.35,5.37,10.09,1.34,5.2,9.51,1.72,2.1,1.7,2.17,-1.5,2.01,1.89,Barcelona,Osasuna,barcelona,osasuna
+2022-04-03,SP1,Spain-LaLiga,2122,Barcelona,Sevilla,1.0,0.0,H,0.0,0.0,D,1.45,4.5,7.0,1.47,4.75,7.34,1.48,4.5,7.02,1.85,2.05,1.82,2.01,-1.0,1.78,2.13,Barcelona,Sevilla,barcelona,sevilla
+2022-04-18,SP1,Spain-LaLiga,2122,Barcelona,Cadiz,0.0,1.0,A,0.0,0.0,D,1.2,6.5,15.0,1.23,6.78,14.85,1.22,6.63,13.92,1.57,2.37,1.56,2.43,-1.75,1.84,2.06,Barcelona,Cadiz,barcelona,cadiz
+2022-04-24,SP1,Spain-LaLiga,2122,Barcelona,Vallecano,0.0,1.0,A,0.0,1.0,A,1.3,5.5,10.0,1.33,5.56,10.84,1.3,5.66,10.03,1.53,2.5,1.52,2.52,-1.5,1.87,2.03,Barcelona,Rayo Vallecano,barcelona,rayo_vallecano
+2022-05-01,SP1,Spain-LaLiga,2122,Barcelona,Mallorca,2.0,1.0,H,1.0,0.0,H,1.3,5.5,9.0,1.32,5.85,10.03,1.32,5.6,9.33,1.53,2.5,1.52,2.54,-1.5,1.91,1.99,Barcelona,Mallorca,barcelona,mallorca
+2022-05-10,SP1,Spain-LaLiga,2122,Barcelona,Celta,3.0,1.0,H,2.0,0.0,H,1.44,5.0,6.0,1.45,5.06,7.17,1.44,5.01,6.89,1.53,2.5,1.51,2.57,-1.25,1.95,1.95,Barcelona,Celta Vigo,barcelona,celta_vigo
+2022-05-22,SP1,Spain-LaLiga,2122,Barcelona,Villarreal,0.0,2.0,A,0.0,1.0,A,2.1,4.0,3.0,2.17,3.98,3.15,2.12,3.94,3.15,1.5,2.62,1.48,2.66,-0.25,1.9,2.0,Barcelona,Villarreal,barcelona,villarreal
+2022-08-13,SP1,Spain-LaLiga,2223,Barcelona,Vallecano,0.0,0.0,D,0.0,0.0,D,1.22,7.0,12.0,1.22,6.83,15.0,1.21,6.79,14.2,1.53,2.5,1.5,2.58,-2.0,2.09,1.81,Barcelona,Rayo Vallecano,barcelona,rayo_vallecano
+2022-08-28,SP1,Spain-LaLiga,2223,Barcelona,Valladolid,4.0,0.0,H,2.0,0.0,H,1.14,8.5,15.0,1.17,8.8,17.21,1.15,8.47,17.97,1.36,3.2,1.37,3.05,-2.25,1.93,1.97,Barcelona,Real Valladolid,barcelona,real_valladolid
+2022-09-17,SP1,Spain-LaLiga,2223,Barcelona,Elche,3.0,0.0,H,2.0,0.0,H,1.08,11.0,26.0,1.11,11.42,23.95,1.1,10.86,25.46,1.28,3.75,1.28,3.62,-2.75,2.0,1.9,Barcelona,Elche,barcelona,elche
+2022-10-09,SP1,Spain-LaLiga,2223,Barcelona,Celta,1.0,0.0,H,1.0,0.0,H,1.28,6.0,9.0,1.29,5.99,11.48,1.29,5.91,10.72,1.57,2.37,1.56,2.43,-1.5,1.83,2.07,Barcelona,Celta Vigo,barcelona,celta_vigo
+2022-10-20,SP1,Spain-LaLiga,2223,Barcelona,Villarreal,3.0,0.0,H,3.0,0.0,H,1.5,4.5,6.0,1.5,4.91,6.48,1.5,4.76,6.13,1.53,2.5,1.54,2.48,-1.25,2.06,1.84,Barcelona,Villarreal,barcelona,villarreal
+2022-10-23,SP1,Spain-LaLiga,2223,Barcelona,Ath Bilbao,4.0,0.0,H,3.0,0.0,H,1.55,4.5,5.5,1.56,4.62,5.94,1.56,4.47,5.68,1.61,2.3,1.62,2.32,-1.0,1.92,1.98,Barcelona,Athletic Bilbao,barcelona,athletic_bilbao
+2022-11-05,SP1,Spain-LaLiga,2223,Barcelona,Almeria,2.0,0.0,H,0.0,0.0,D,1.08,10.0,26.0,1.1,11.76,29.47,1.1,10.92,25.93,1.28,3.75,1.27,3.79,-2.75,1.99,1.91,Barcelona,Almeria,barcelona,almeria
+2022-12-31,SP1,Spain-LaLiga,2223,Barcelona,Espanol,1.0,1.0,D,1.0,0.0,H,1.25,6.5,10.0,1.26,6.57,11.89,1.25,6.43,11.21,1.44,2.75,1.43,2.82,-1.75,1.9,2.0,Barcelona,Espanyol,barcelona,espanyol
+2023-01-22,SP1,Spain-LaLiga,2223,Barcelona,Getafe,1.0,0.0,H,1.0,0.0,H,1.18,8.0,15.0,1.19,7.62,17.95,1.18,7.33,17.65,1.67,2.2,1.64,2.27,-2.0,2.0,1.9,Barcelona,Getafe,barcelona,getafe
+2023-02-05,SP1,Spain-LaLiga,2223,Barcelona,Sevilla,3.0,0.0,H,0.0,0.0,D,1.33,5.25,8.5,1.34,5.51,10.19,1.33,5.39,9.7,1.67,2.2,1.7,2.16,-1.5,1.99,1.94,Barcelona,Sevilla,barcelona,sevilla
+2023-02-19,SP1,Spain-LaLiga,2223,Barcelona,Cadiz,2.0,0.0,H,2.0,0.0,H,1.18,7.0,13.0,1.22,7.16,14.53,1.19,7.09,14.96,1.53,2.5,1.53,2.52,-2.0,1.99,1.91,Barcelona,Cadiz,barcelona,cadiz
+2023-03-05,SP1,Spain-LaLiga,2223,Barcelona,Valencia,1.0,0.0,H,1.0,0.0,H,1.53,4.5,5.75,1.53,4.42,6.57,1.53,4.33,6.25,1.87,2.03,1.83,2.0,-1.0,1.89,2.01,Barcelona,Valencia,barcelona,valencia
+2023-03-19,SP1,Spain-LaLiga,2223,Barcelona,Real Madrid,2.0,1.0,H,1.0,1.0,D,2.15,3.5,3.25,2.25,3.56,3.31,2.19,3.54,3.3,1.88,2.02,1.85,1.98,-0.25,1.9,2.0,Barcelona,Real Madrid,barcelona,real_madrid
+2023-04-10,SP1,Spain-LaLiga,2223,Barcelona,Girona,0.0,0.0,D,0.0,0.0,D,1.3,5.5,10.0,1.31,5.83,10.1,1.3,5.62,10.2,1.62,2.3,1.61,2.33,-1.5,1.88,2.02,Barcelona,Girona,barcelona,girona
+2023-04-23,SP1,Spain-LaLiga,2223,Barcelona,Ath Madrid,1.0,0.0,H,1.0,0.0,H,1.95,3.3,4.2,1.98,3.47,4.23,1.97,3.43,4.09,2.2,1.67,2.16,1.7,-0.5,1.96,1.94,Barcelona,Atletico Madrid,barcelona,atletico_madrid
+2023-04-29,SP1,Spain-LaLiga,2223,Barcelona,Betis,4.0,0.0,H,3.0,0.0,H,1.33,5.0,9.0,1.36,5.35,9.18,1.34,5.22,9.1,1.67,2.2,1.66,2.24,-1.5,2.02,1.91,Barcelona,Real Betis,barcelona,real_betis
+2023-05-02,SP1,Spain-LaLiga,2223,Barcelona,Osasuna,1.0,0.0,H,0.0,0.0,D,1.14,7.5,19.0,1.19,7.5,18.0,1.16,7.76,18.74,1.5,2.63,1.5,2.6,-2.0,1.82,2.08,Barcelona,Osasuna,barcelona,osasuna
+2023-05-20,SP1,Spain-LaLiga,2223,Barcelona,Sociedad,1.0,2.0,A,0.0,1.0,A,1.8,3.75,4.33,1.84,3.82,4.45,1.85,3.7,4.33,1.96,1.94,1.93,1.9,-0.5,1.84,2.06,Barcelona,Real Sociedad,barcelona,real_sociedad
+2023-05-28,SP1,Spain-LaLiga,2223,Barcelona,Mallorca,3.0,0.0,H,2.0,0.0,H,1.33,5.0,9.5,1.33,5.59,10.15,1.32,5.42,9.38,1.57,2.38,1.54,2.46,-1.5,1.91,1.99,Barcelona,Mallorca,barcelona,mallorca
+2023-08-20,SP1,Spain-LaLiga,2324,Barcelona,Cadiz,2.0,0.0,H,0.0,0.0,D,1.2,7.0,13.0,1.21,6.9,14.96,1.21,6.7,14.64,1.57,2.38,1.59,2.39,-1.75,1.84,2.06,Barcelona,Cadiz,barcelona,cadiz
+2023-09-16,SP1,Spain-LaLiga,2324,Barcelona,Betis,5.0,0.0,H,2.0,0.0,H,1.36,5.25,7.5,1.38,5.4,8.04,1.37,5.23,7.99,1.57,2.38,1.56,2.45,-1.5,2.06,1.84,Barcelona,Real Betis,barcelona,real_betis
+2023-09-23,SP1,Spain-LaLiga,2324,Barcelona,Celta,3.0,2.0,H,0.0,1.0,A,1.29,6.0,9.0,1.29,6.04,10.38,1.29,5.95,10.23,1.5,2.63,1.52,2.55,-1.5,1.78,2.03,Barcelona,Celta Vigo,barcelona,celta_vigo
+2023-09-29,SP1,Spain-LaLiga,2324,Barcelona,Sevilla,1.0,0.0,H,0.0,0.0,D,1.36,5.25,8.0,1.39,5.36,7.97,1.38,5.35,7.92,1.48,2.6,1.5,2.61,-1.5,2.08,1.85,Barcelona,Sevilla,barcelona,sevilla
+2023-10-22,SP1,Spain-LaLiga,2324,Barcelona,Ath Bilbao,1.0,0.0,H,0.0,0.0,D,1.62,4.0,5.5,1.68,4.14,5.16,1.67,4.09,5.13,1.73,2.08,1.74,2.12,-0.75,1.86,2.04,Barcelona,Athletic Bilbao,barcelona,athletic_bilbao
+2023-10-28,SP1,Spain-LaLiga,2324,Barcelona,Real Madrid,1.0,2.0,A,1.0,0.0,H,2.55,3.6,2.6,2.55,3.66,2.76,2.55,3.66,2.68,1.57,2.35,1.6,2.4,0.0,1.91,2.02,Barcelona,Real Madrid,barcelona,real_madrid
+2023-11-12,SP1,Spain-LaLiga,2324,Barcelona,Alaves,2.0,1.0,H,0.0,1.0,A,1.25,6.0,11.0,1.24,6.51,11.82,1.25,6.32,11.97,1.57,2.35,1.57,2.41,-1.75,1.96,1.94,Barcelona,Deportivo Alaves,barcelona,deportivo_alaves
+2023-12-03,SP1,Spain-LaLiga,2324,Barcelona,Ath Madrid,1.0,0.0,H,1.0,0.0,H,2.0,3.75,3.5,2.05,3.76,3.57,2.03,3.7,3.6,1.73,2.08,1.76,2.1,-0.5,2.05,1.88,Barcelona,Atletico Madrid,barcelona,atletico_madrid
+2023-12-10,SP1,Spain-LaLiga,2324,Barcelona,Girona,2.0,4.0,A,1.0,2.0,A,1.53,5.0,5.5,1.52,4.9,5.7,1.53,4.79,5.6,1.48,2.6,1.48,2.64,-1.0,1.82,2.08,Barcelona,Girona,barcelona,girona
+2023-12-20,SP1,Spain-LaLiga,2324,Barcelona,Almeria,3.0,2.0,H,1.0,1.0,D,1.14,8.5,15.0,1.13,10.49,16.19,1.14,9.55,16.82,1.25,4.0,1.26,3.87,-2.5,2.03,1.87,Barcelona,Almeria,barcelona,almeria
+2024-01-27,SP1,Spain-LaLiga,2324,Barcelona,Villarreal,3.0,5.0,A,0.0,1.0,A,1.36,5.5,8.0,1.35,5.9,7.75,1.34,5.91,7.85,1.33,3.4,1.35,3.23,-1.5,1.91,1.99,Barcelona,Villarreal,barcelona,villarreal
+2024-01-31,SP1,Spain-LaLiga,2324,Barcelona,Osasuna,1.0,0.0,H,0.0,0.0,D,1.33,5.0,10.0,1.32,5.82,9.33,1.32,5.57,9.5,1.6,2.3,1.62,2.34,-1.5,1.95,1.95,Barcelona,Osasuna,barcelona,osasuna
+2024-02-11,SP1,Spain-LaLiga,2324,Barcelona,Granada,3.0,3.0,D,1.0,1.0,D,1.22,7.5,10.0,1.2,7.83,12.33,1.21,7.23,12.32,1.4,2.88,1.4,2.91,-2.0,2.05,1.88,Barcelona,Granada,barcelona,granada
+2024-02-24,SP1,Spain-LaLiga,2324,Barcelona,Getafe,4.0,0.0,H,1.0,0.0,H,1.4,5.0,7.0,1.42,5.11,7.29,1.42,4.97,7.2,1.62,2.25,1.63,2.3,-1.25,1.95,1.95,Barcelona,Getafe,barcelona,getafe
+2024-03-08,SP1,Spain-LaLiga,2324,Barcelona,Mallorca,1.0,0.0,H,0.0,0.0,D,1.44,4.75,6.5,1.47,4.68,7.38,1.46,4.58,7.23,1.75,2.05,1.81,2.03,-1.25,2.07,1.86,Barcelona,Mallorca,barcelona,mallorca
+2024-03-30,SP1,Spain-LaLiga,2324,Barcelona,Las Palmas,1.0,0.0,H,0.0,0.0,D,1.25,6.5,10.0,1.27,6.49,10.02,1.27,6.34,10.15,1.44,2.7,1.46,2.74,-1.75,2.02,1.88,Barcelona,Las Palmas,barcelona,las_palmas
+2024-04-29,SP1,Spain-LaLiga,2324,Barcelona,Valencia,4.0,2.0,H,1.0,2.0,A,1.36,5.0,7.5,1.36,5.49,8.18,1.36,5.26,8.27,1.62,2.3,1.64,2.28,-1.5,2.06,1.84,Barcelona,Valencia,barcelona,valencia
+2024-05-13,SP1,Spain-LaLiga,2324,Barcelona,Sociedad,2.0,0.0,H,1.0,0.0,H,1.8,3.6,4.5,1.79,3.74,4.39,1.82,3.72,4.35,1.95,1.95,1.91,1.9,-0.5,1.83,2.07,Barcelona,Real Sociedad,barcelona,real_sociedad
+2024-05-19,SP1,Spain-LaLiga,2324,Barcelona,Vallecano,3.0,0.0,H,1.0,0.0,H,1.25,6.0,12.0,1.26,5.94,9.7,1.27,6.12,10.63,1.5,2.63,1.49,2.63,-1.75,1.95,1.95,Barcelona,Rayo Vallecano,barcelona,rayo_vallecano
+2024-08-24,SP1,Spain-LaLiga,2425,Barcelona,Ath Bilbao,2.0,1.0,H,1.0,1.0,D,1.62,4.2,5.0,1.63,4.22,5.34,1.64,4.18,5.05,1.67,2.2,1.71,2.16,-1.0,2.08,1.82,Barcelona,Athletic Bilbao,barcelona,athletic_bilbao
+2024-08-31,SP1,Spain-LaLiga,2425,Barcelona,Valladolid,7.0,0.0,H,3.0,0.0,H,1.25,6.25,10.0,1.25,6.39,11.82,1.25,6.45,11.72,1.44,2.75,1.46,2.72,-1.75,1.92,1.98,Barcelona,Real Valladolid,barcelona,real_valladolid
+2024-09-25,SP1,Spain-LaLiga,2425,Barcelona,Getafe,1.0,0.0,H,1.0,0.0,H,1.25,6.25,10.0,1.23,6.57,13.27,1.23,6.47,12.83,1.57,2.38,1.59,2.41,-1.75,1.95,1.95,Barcelona,Getafe,barcelona,getafe
+2024-10-20,SP1,Spain-LaLiga,2425,Barcelona,Sevilla,5.0,1.0,H,3.0,0.0,H,1.3,5.75,8.0,1.32,5.87,9.2,1.31,5.81,8.96,1.44,2.75,1.43,2.72,-1.5,1.86,2.04,Barcelona,Sevilla,barcelona,sevilla
+2024-11-03,SP1,Spain-LaLiga,2425,Barcelona,Espanol,3.0,1.0,H,3.0,0.0,H,1.13,9.0,19.0,1.11,11.88,18.23,1.12,10.76,17.94,1.2,4.5,1.19,4.44,-2.5,1.87,2.03,Barcelona,Espanyol,barcelona,espanyol
+2024-11-30,SP1,Spain-LaLiga,2425,Barcelona,Las Palmas,1.0,2.0,A,0.0,0.0,D,1.17,8.5,13.0,1.16,9.29,14.11,1.16,8.92,14.85,1.22,4.33,1.23,4.09,-2.25,1.88,2.02,Barcelona,Las Palmas,barcelona,las_palmas
+2024-12-15,SP1,Spain-LaLiga,2425,Barcelona,Leganes,0.0,1.0,A,0.0,1.0,A,1.13,8.0,19.0,1.14,9.14,18.44,1.13,8.85,18.38,1.33,3.4,1.31,3.33,-2.5,2.0,1.8,Barcelona,Leganes,barcelona,leganes
+2024-12-21,SP1,Spain-LaLiga,2425,Barcelona,Ath Madrid,1.0,2.0,A,1.0,0.0,H,1.9,3.8,3.9,1.88,3.92,4.01,1.89,3.88,3.85,1.57,2.38,1.58,2.38,-0.5,1.91,1.99,Barcelona,Atletico Madrid,barcelona,atletico_madrid
+2025-01-26,SP1,Spain-LaLiga,2425,Barcelona,Valencia,7.0,1.0,H,5.0,0.0,H,1.22,7.5,10.0,1.22,7.12,12.24,1.2,7.06,12.73,1.4,3.0,1.39,2.91,-2.0,1.99,1.91,Barcelona,Valencia,barcelona,valencia
+2025-02-02,SP1,Spain-LaLiga,2425,Barcelona,Alaves,1.0,0.0,H,0.0,0.0,D,1.2,7.5,13.0,1.19,7.63,14.28,1.19,7.52,13.89,1.36,3.2,1.35,3.1,-2.0,1.88,2.02,Barcelona,Deportivo Alaves,barcelona,deportivo_alaves
+2025-02-17,SP1,Spain-LaLiga,2425,Barcelona,Vallecano,1.0,0.0,H,1.0,0.0,H,1.22,7.0,11.0,1.2,7.65,12.46,1.2,7.43,12.37,1.33,3.4,1.31,3.43,-2.0,1.92,1.98,Barcelona,Rayo Vallecano,barcelona,rayo_vallecano
+2025-03-02,SP1,Spain-LaLiga,2425,Barcelona,Sociedad,4.0,0.0,H,2.0,0.0,H,1.25,5.75,12.0,1.27,5.89,11.4,1.26,5.97,11.44,1.57,2.38,1.56,2.42,-1.75,2.01,1.92,Barcelona,Real Sociedad,barcelona,real_sociedad
+2025-03-27,SP1,Spain-LaLiga,2425,Barcelona,Osasuna,3.0,0.0,H,2.0,0.0,H,1.29,7.0,7.0,1.28,6.53,9.25,1.28,6.34,8.82,1.33,3.4,1.33,3.25,-1.75,1.98,1.92,Barcelona,Osasuna,barcelona,osasuna
+2025-03-30,SP1,Spain-LaLiga,2425,Barcelona,Girona,4.0,1.0,H,1.0,0.0,H,1.25,6.5,10.0,1.23,7.13,11.38,1.24,6.72,10.69,1.33,3.4,1.31,3.34,-2.0,2.05,1.85,Barcelona,Girona,barcelona,girona
+2025-04-05,SP1,Spain-LaLiga,2425,Barcelona,Betis,1.0,1.0,D,1.0,1.0,D,1.36,5.5,7.0,1.37,5.76,7.51,1.37,5.5,7.35,1.36,3.2,1.35,3.08,-1.5,2.0,1.9,Barcelona,Real Betis,barcelona,real_betis
+2025-04-19,SP1,Spain-LaLiga,2425,Barcelona,Celta,4.0,3.0,H,1.0,1.0,D,1.3,5.75,8.0,1.29,6.53,8.64,1.3,6.1,8.61,1.36,3.2,1.33,3.21,-1.75,2.03,1.87,Barcelona,Celta Vigo,barcelona,celta_vigo
+2025-04-22,SP1,Spain-LaLiga,2425,Barcelona,Mallorca,1.0,0.0,H,0.0,0.0,D,1.2,7.0,13.0,1.23,6.79,12.62,1.23,6.61,12.07,1.5,2.63,1.48,2.63,-1.75,1.95,1.95,Barcelona,Mallorca,barcelona,mallorca
+2025-05-11,SP1,Spain-LaLiga,2425,Barcelona,Real Madrid,4.0,3.0,H,4.0,2.0,H,1.9,3.7,3.2,1.96,4.19,3.5,1.97,4.08,3.34,1.33,3.4,1.32,3.28,-0.5,1.99,1.91,Barcelona,Real Madrid,barcelona,real_madrid
+2025-05-18,SP1,Spain-LaLiga,2425,Barcelona,Villarreal,2.0,3.0,A,2.0,1.0,H,1.83,4.1,3.75,1.87,4.25,3.77,1.85,4.15,3.7,1.36,3.2,1.35,3.15,-0.5,1.85,2.0,Barcelona,Villarreal,barcelona,villarreal
+2025-09-14,SP1,Spain-LaLiga,2526,Barcelona,Valencia,6.0,0.0,H,1.0,0.0,H,1.22,7.0,11.0,1.23,6.92,11.31,1.2,7.01,11.38,1.33,3.4,1.31,3.26,-2.0,1.93,1.93,Barcelona,Valencia,barcelona,valencia
+2025-09-21,SP1,Spain-LaLiga,2526,Barcelona,Getafe,3.0,0.0,H,2.0,0.0,H,1.22,6.5,12.0,1.23,6.19,14.4,1.22,6.27,11.89,1.53,2.5,1.53,2.41,-1.75,1.88,1.98,Barcelona,Getafe,barcelona,getafe
+2025-09-28,SP1,Spain-LaLiga,2526,Barcelona,Sociedad,2.0,1.0,H,1.0,1.0,D,1.27,5.75,10.0,1.29,5.34,12.23,1.27,5.88,9.61,1.33,3.4,1.31,3.26,-1.75,1.9,1.95,Barcelona,Real Sociedad,barcelona,real_sociedad
+2025-10-18,SP1,Spain-LaLiga,2526,Barcelona,Girona,2.0,1.0,H,1.0,1.0,D,1.2,7.0,12.0,1.16,8.82,14.91,1.19,7.39,12.16,1.29,3.75,1.24,3.77,-2.0,1.88,1.98,Barcelona,Girona,barcelona,girona
+2025-11-02,SP1,Spain-LaLiga,2526,Barcelona,Elche,3.0,1.0,H,2.0,1.0,H,1.22,6.25,12.0,1.26,5.67,13.56,1.21,6.46,12.22,1.36,3.2,1.33,3.14,-2.0,2.0,1.85,Barcelona,Elche,barcelona,elche
+2025-11-22,SP1,Spain-LaLiga,2526,Barcelona,Ath Bilbao,4.0,0.0,H,2.0,0.0,H,1.36,5.5,7.0,1.42,5.31,6.94,1.41,5.01,6.7,1.53,2.5,1.5,2.49,-1.25,1.88,1.98,Barcelona,Athletic Bilbao,barcelona,athletic_bilbao
+2025-11-29,SP1,Spain-LaLiga,2526,Barcelona,Alaves,3.0,1.0,H,2.0,1.0,H,1.2,7.0,13.0,1.19,7.57,13.71,1.19,7.14,12.97,1.36,3.2,1.35,3.03,-2.0,1.88,1.98,Barcelona,Deportivo Alaves,barcelona,deportivo_alaves
+2025-12-02,SP1,Spain-LaLiga,2526,Barcelona,Ath Madrid,3.0,1.0,H,1.0,1.0,D,1.73,4.2,4.1,1.75,4.46,4.22,1.73,4.21,4.07,1.4,3.0,1.4,2.86,-0.75,1.93,1.93,Barcelona,Atletico Madrid,barcelona,atletico_madrid
+2025-12-13,SP1,Spain-LaLiga,2526,Barcelona,Osasuna,2.0,0.0,H,0.0,0.0,D,1.2,7.0,12.0,1.22,6.97,12.01,1.2,7.34,11.63,1.25,4.0,1.23,3.87,-2.25,2.03,1.78,Barcelona,Osasuna,barcelona,osasuna
+2026-01-25,SP1,Spain-LaLiga,2526,Barcelona,Oviedo,3.0,0.0,H,0.0,0.0,D,1.11,10.0,19.0,,,,1.09,9.93,20.27,1.22,4.33,1.22,4.02,-2.75,2.0,1.85,Barcelona,Real Oviedo,barcelona,real_oviedo
+2026-02-07,SP1,Spain-LaLiga,2526,Barcelona,Mallorca,3.0,0.0,H,1.0,0.0,H,1.14,9.0,15.0,,,,1.15,8.3,14.69,1.25,4.0,1.25,3.72,-2.25,1.88,1.98,Barcelona,Mallorca,barcelona,mallorca
+2026-02-22,SP1,Spain-LaLiga,2526,Barcelona,Levante,3.0,0.0,H,2.0,0.0,H,1.11,11.0,15.0,,,,1.1,9.98,17.54,1.22,4.33,1.21,4.23,-2.5,1.78,2.03,Barcelona,Levante,barcelona,levante
+2026-02-28,SP1,Spain-LaLiga,2526,Barcelona,Villarreal,4.0,1.0,H,2.0,0.0,H,1.3,6.5,7.0,,,,1.29,6.15,8.02,1.29,3.75,1.26,3.62,-1.75,1.95,1.9,Barcelona,Villarreal,barcelona,villarreal
+2026-03-15,SP1,Spain-LaLiga,2526,Barcelona,Sevilla,5.0,2.0,H,3.0,1.0,H,1.25,6.5,10.0,,,,1.26,6.06,9.19,1.33,3.4,1.31,3.25,-1.75,1.98,1.88,Barcelona,Sevilla,barcelona,sevilla
+2026-03-22,SP1,Spain-LaLiga,2526,Barcelona,Vallecano,1.0,0.0,H,1.0,0.0,H,1.25,7.0,9.5,,,,1.22,6.54,9.96,1.36,3.2,1.33,3.16,-1.75,1.8,2.05,Barcelona,Rayo Vallecano,barcelona,rayo_vallecano
+2026-04-11,SP1,Spain-LaLiga,2526,Barcelona,Espanol,4.0,1.0,H,2.0,0.0,H,1.29,6.0,9.0,,,,1.26,6.26,9.39,1.33,3.4,1.3,3.34,-1.75,1.93,1.93,Barcelona,Espanyol,barcelona,espanyol
+2026-04-22,SP1,Spain-LaLiga,2526,Barcelona,Celta,1.0,0.0,H,1.0,0.0,H,1.22,6.5,11.0,,,,1.23,6.72,10.25,1.3,3.5,1.28,3.48,-2.0,2.0,1.85,Barcelona,Celta Vigo,barcelona,celta_vigo
+2026-05-10,SP1,Spain-LaLiga,2526,Barcelona,Real Madrid,2.0,0.0,H,2.0,0.0,H,1.62,5.0,4.33,,,,1.61,4.65,4.28,1.25,4.0,1.24,3.79,-1.0,1.95,1.9,Barcelona,Real Madrid,barcelona,real_madrid
+2026-05-17,SP1,Spain-LaLiga,2526,Barcelona,Betis,3.0,1.0,H,1.0,0.0,H,1.33,6.0,7.5,,,,1.33,5.5,7.08,1.33,3.4,1.31,3.28,-1.5,1.93,1.93,Barcelona,Real Betis,barcelona,real_betis
+2026-08-27,SP1,Spain-LaLiga,2627,Barcelona,Ath Bilbao,2.0,0.0,H,1.0,0.0,H,1.33,5.25,8.0,,,,1.31,5.42,8.18,1.44,2.75,1.42,2.71,-1.5,1.88,1.98,Barcelona,Athletic Bilbao,barcelona,athletic_bilbao
+2026-08-31,SP1,Spain-LaLiga,2627,Barcelona,Vallecano,5.0,2.0,H,2.0,1.0,H,1.17,8.0,13.0,,,,1.16,7.46,14.04,1.36,3.2,1.33,3.16,-2.25,2.0,1.85,Barcelona,Rayo Vallecano,barcelona,rayo_vallecano
+2026-09-16,SP1,Spain-LaLiga,2627,Barcelona,Santander,7.0,2.0,H,4.0,1.0,H,1.06,14.0,23.0,,,,1.06,13.81,24.23,1.13,6.0,1.1,6.31,-3.25,1.98,1.88,Barcelona,Santander,barcelona,santander
+2026-10-10,SP1,Spain-LaLiga,2627,Barcelona,Getafe,3.0,0.0,H,2.0,0.0,H,1.08,12.0,23.0,,,,1.08,11.73,23.81,1.25,4.0,1.24,3.78,-2.75,1.93,1.93,Barcelona,Getafe,barcelona,getafe

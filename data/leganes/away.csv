@@ -1,0 +1,110 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,SP2,Spain-Segunda,2122,Sociedad B,Leganes,1.0,0.0,H,0.0,0.0,D,3.75,3.25,2.05,4.27,2.98,2.15,3.98,2.99,2.08,2.35,1.57,2.35,1.58,0.25,2.0,1.8,Sociedad B,Leganes,sociedad_b,leganes
+2021-09-04,SP2,Spain-Segunda,2122,Eibar,Leganes,1.0,1.0,D,1.0,1.0,D,2.2,3.0,3.5,2.29,3.1,3.65,2.26,2.98,3.47,2.6,1.47,2.57,1.48,-0.25,1.93,1.93,Eibar,Leganes,eibar,leganes
+2021-09-10,SP2,Spain-Segunda,2122,Sp Gijon,Leganes,2.0,1.0,H,1.0,0.0,H,2.3,2.9,3.4,2.35,3.04,3.65,2.35,2.9,3.38,2.87,1.4,2.85,1.41,-0.25,1.98,1.88,Sp Gijon,Leganes,sp_gijon,leganes
+2021-09-26,SP2,Spain-Segunda,2122,Mirandes,Leganes,1.0,2.0,A,1.0,1.0,D,2.7,2.9,2.7,2.8,3.02,2.85,2.74,2.94,2.74,2.5,1.5,2.54,1.49,0.0,1.95,1.9,Mirandes,Leganes,mirandes,leganes
+2021-10-10,SP2,Spain-Segunda,2122,Fuenlabrada,Leganes,2.0,1.0,H,1.0,1.0,D,2.5,3.0,3.1,2.74,2.9,3.04,2.57,2.87,2.97,2.5,1.5,2.53,1.5,0.0,1.77,2.1,Fuenlabrada,Leganes,fuenlabrada,leganes
+2021-10-20,SP2,Spain-Segunda,2122,Alcorcon,Leganes,3.0,3.0,D,2.0,2.0,D,3.2,2.87,2.5,3.37,2.79,2.61,3.12,2.82,2.52,2.5,1.5,2.52,1.5,0.0,2.08,1.73,Alcorcon,Leganes,alcorcon,leganes
+2021-10-29,SP2,Spain-Segunda,2122,Almeria,Leganes,1.0,0.0,H,1.0,0.0,H,1.72,3.5,5.0,1.76,3.71,5.18,1.73,3.55,4.76,2.0,1.8,1.98,1.82,-0.75,1.95,1.9,Almeria,Leganes,almeria,leganes
+2021-11-05,SP2,Spain-Segunda,2122,Huesca,Leganes,0.0,2.0,A,0.0,0.0,D,2.75,3.0,2.8,2.95,2.91,2.9,2.81,2.88,2.77,2.5,1.5,2.53,1.51,0.0,1.95,1.9,Huesca,Leganes,huesca,leganes
+2021-11-22,SP2,Spain-Segunda,2122,Zaragoza,Leganes,0.0,2.0,A,0.0,1.0,A,2.45,3.1,3.1,2.62,2.86,3.25,2.49,2.89,3.1,2.5,1.5,2.54,1.49,-0.25,2.05,1.8,Zaragoza,Leganes,zaragoza,leganes
+2021-12-06,SP2,Spain-Segunda,2122,Girona,Leganes,3.0,0.0,H,2.0,0.0,H,2.45,3.1,3.1,2.46,2.97,3.37,2.43,2.95,3.12,2.5,1.5,2.51,1.5,-0.25,2.1,1.77,Girona,Leganes,girona,leganes
+2021-12-18,SP2,Spain-Segunda,2122,Malaga,Leganes,0.0,2.0,A,0.0,0.0,D,2.7,3.1,2.75,2.88,2.96,2.83,2.77,2.89,2.77,2.7,1.44,2.79,1.42,0.0,1.95,1.9,Malaga,Leganes,malaga,leganes
+2022-01-02,SP2,Spain-Segunda,2122,Valladolid,Leganes,1.0,0.0,H,1.0,0.0,H,1.95,3.3,4.33,2.04,3.36,3.98,2.01,3.23,3.83,2.3,1.6,2.31,1.6,-0.5,1.98,1.88,Real Valladolid,Leganes,real_valladolid,leganes
+2022-01-23,SP2,Spain-Segunda,2122,Burgos,Leganes,4.0,0.0,H,3.0,0.0,H,2.75,3.2,2.7,2.94,3.19,2.6,2.79,3.08,2.56,2.25,1.61,2.27,1.61,0.0,2.0,1.85,Burgos,Leganes,burgos,leganes
+2022-02-06,SP2,Spain-Segunda,2122,Tenerife,Leganes,0.0,0.0,D,0.0,0.0,D,2.15,3.1,3.75,2.14,3.14,3.93,2.14,3.06,3.61,2.5,1.5,2.51,1.5,-0.25,1.83,2.02,Tenerife,Leganes,tenerife,leganes
+2022-02-21,SP2,Spain-Segunda,2122,Amorebieta,Leganes,1.0,3.0,A,0.0,1.0,A,3.0,3.1,2.5,3.15,2.97,2.6,2.95,2.96,2.53,2.5,1.5,2.51,1.5,0.0,2.05,1.8,Amorebieta,Leganes,amorebieta,leganes
+2022-03-12,SP2,Spain-Segunda,2122,Ibiza,Leganes,1.0,1.0,D,0.0,0.0,D,2.1,3.3,3.6,2.19,3.2,3.69,2.15,3.18,3.48,2.25,1.61,2.23,1.63,-0.25,1.8,2.05,Ibiza,Leganes,ibiza,leganes
+2022-03-28,SP2,Spain-Segunda,2122,Las Palmas,Leganes,4.0,2.0,H,3.0,1.0,H,2.0,3.1,4.0,2.05,3.16,4.22,2.02,3.16,3.85,2.3,1.6,2.31,1.59,-0.5,2.05,1.8,Las Palmas,Leganes,las_palmas,leganes
+2022-04-10,SP2,Spain-Segunda,2122,Oviedo,Leganes,1.0,0.0,H,0.0,0.0,D,2.15,3.1,3.8,2.14,3.03,4.14,2.14,3.04,3.69,2.5,1.5,2.53,1.49,-0.25,1.85,2.0,Real Oviedo,Leganes,real_oviedo,leganes
+2022-04-24,SP2,Spain-Segunda,2122,Lugo,Leganes,0.0,0.0,D,0.0,0.0,D,2.8,2.9,2.8,2.85,2.95,2.88,2.77,2.89,2.75,2.5,1.5,2.51,1.49,0.0,1.95,1.9,Lugo,Leganes,lugo,leganes
+2022-05-08,SP2,Spain-Segunda,2122,Cartagena,Leganes,0.0,0.0,D,0.0,0.0,D,2.0,3.3,4.0,2.07,3.34,3.87,2.03,3.3,3.67,2.02,1.83,1.99,1.79,-0.5,2.02,1.83,Cartagena,Leganes,cartagena,leganes
+2022-05-21,SP2,Spain-Segunda,2122,Ponferradina,Leganes,0.0,3.0,A,0.0,2.0,A,1.5,4.2,6.5,1.54,4.27,6.24,1.5,4.17,6.15,1.88,1.98,1.82,1.96,-1.0,1.83,2.02,Ponferradina,Leganes,ponferradina,leganes
+2022-08-21,SP2,Spain-Segunda,2223,Oviedo,Leganes,1.0,0.0,H,0.0,0.0,D,2.05,3.1,4.2,2.07,3.02,4.44,2.04,3.03,4.07,2.7,1.44,2.71,1.44,-0.5,2.02,1.83,Real Oviedo,Leganes,real_oviedo,leganes
+2022-08-27,SP2,Spain-Segunda,2223,Lugo,Leganes,1.0,0.0,H,1.0,0.0,H,3.1,2.9,2.6,3.12,2.93,2.74,2.98,2.92,2.58,2.6,1.47,2.55,1.49,0.0,2.1,1.77,Lugo,Leganes,lugo,leganes
+2022-09-09,SP2,Spain-Segunda,2223,Las Palmas,Leganes,1.0,0.0,H,1.0,0.0,H,1.9,3.4,4.2,1.98,3.34,4.46,1.95,3.23,4.14,2.35,1.57,2.32,1.59,-0.5,1.95,1.9,Las Palmas,Leganes,las_palmas,leganes
+2022-09-24,SP2,Spain-Segunda,2223,Huesca,Leganes,1.0,0.0,H,1.0,0.0,H,2.45,3.2,3.1,2.49,3.04,3.36,2.4,3.03,3.15,2.4,1.53,2.47,1.53,-0.25,2.1,1.77,Huesca,Leganes,huesca,leganes
+2022-10-09,SP2,Spain-Segunda,2223,Cartagena,Leganes,1.0,2.0,A,0.0,0.0,D,2.2,3.25,3.4,2.31,3.0,3.59,2.25,3.04,3.41,2.35,1.57,2.38,1.55,-0.25,1.88,1.98,Cartagena,Leganes,cartagena,leganes
+2022-10-16,SP2,Spain-Segunda,2223,Levante,Leganes,2.0,1.0,H,0.0,0.0,D,1.95,3.2,4.2,2.03,3.17,4.4,2.0,3.19,3.93,2.35,1.57,2.34,1.58,-0.5,1.98,1.88,Levante,Leganes,levante,leganes
+2022-11-01,SP2,Spain-Segunda,2223,Ibiza,Leganes,0.0,2.0,A,0.0,1.0,A,2.75,3.0,2.8,2.73,3.03,2.97,2.67,2.93,2.85,2.6,1.47,2.62,1.48,0.0,1.85,2.0,Ibiza,Leganes,ibiza,leganes
+2022-11-19,SP2,Spain-Segunda,2223,Sp Gijon,Leganes,2.0,2.0,D,2.0,1.0,H,2.4,3.1,3.2,2.35,3.01,3.63,2.33,2.96,3.35,2.6,1.47,2.61,1.48,-0.25,2.0,1.85,Sp Gijon,Leganes,sp_gijon,leganes
+2022-12-03,SP2,Spain-Segunda,2223,Villarreal B,Leganes,0.0,0.0,D,0.0,0.0,D,2.6,2.9,3.1,2.62,2.81,3.38,2.53,2.85,3.12,2.5,1.5,2.47,1.52,0.0,1.73,2.15,Villarreal B,Leganes,villarreal_b,leganes
+2022-12-10,SP2,Spain-Segunda,2223,Andorra,Leganes,1.0,1.0,D,0.0,0.0,D,2.1,3.1,3.8,2.2,3.03,4.01,2.15,3.0,3.72,2.7,1.44,2.65,1.44,-0.25,1.83,2.02,Andorra,Leganes,andorra,leganes
+2023-01-16,SP2,Spain-Segunda,2223,Albacete,Leganes,1.0,0.0,H,1.0,0.0,H,2.55,3.1,3.0,2.52,3.04,3.14,2.48,3.01,2.99,2.5,1.5,2.51,1.5,-0.25,2.08,1.73,Albacete,Leganes,albacete,leganes
+2023-01-28,SP2,Spain-Segunda,2223,Eibar,Leganes,0.0,0.0,D,0.0,0.0,D,1.95,3.1,4.5,2.01,3.11,4.64,2.01,3.03,4.22,2.7,1.44,2.76,1.42,-0.5,2.0,1.85,Eibar,Leganes,eibar,leganes
+2023-02-13,SP2,Spain-Segunda,2223,Santander,Leganes,2.0,1.0,H,1.0,0.0,H,2.8,2.9,2.9,2.82,2.84,2.96,2.73,2.82,2.88,3.1,1.36,2.93,1.38,0.0,1.9,1.95,Santander,Leganes,santander,leganes
+2023-02-25,SP2,Spain-Segunda,2223,Mirandes,Leganes,0.0,0.0,D,0.0,0.0,D,3.1,3.0,2.55,3.13,3.05,2.59,3.02,2.98,2.51,2.6,1.48,2.6,1.48,0.0,2.1,1.77,Mirandes,Leganes,mirandes,leganes
+2023-03-12,SP2,Spain-Segunda,2223,Zaragoza,Leganes,3.0,0.0,H,1.0,0.0,H,2.4,3.0,3.4,2.46,2.84,3.51,2.38,2.82,3.39,3.1,1.36,3.0,1.36,-0.25,2.02,1.83,Zaragoza,Leganes,zaragoza,leganes
+2023-03-27,SP2,Spain-Segunda,2223,Malaga,Leganes,2.0,0.0,H,0.0,0.0,D,2.9,2.9,2.4,3.28,2.88,2.55,3.1,2.87,2.49,2.7,1.44,2.72,1.43,0.0,2.13,1.75,Malaga,Leganes,malaga,leganes
+2023-04-09,SP2,Spain-Segunda,2223,Ponferradina,Leganes,0.0,1.0,A,0.0,0.0,D,2.75,2.9,2.88,2.89,2.88,2.85,2.75,2.82,2.83,2.7,1.44,2.76,1.43,0.0,1.9,1.95,Ponferradina,Leganes,ponferradina,leganes
+2023-04-23,SP2,Spain-Segunda,2223,Alaves,Leganes,2.0,1.0,H,1.0,0.0,H,1.73,3.4,5.5,1.71,3.32,6.09,1.71,3.29,5.51,2.7,1.44,2.7,1.44,-0.75,1.98,1.88,Deportivo Alaves,Leganes,deportivo_alaves,leganes
+2023-04-29,SP2,Spain-Segunda,2223,Tenerife,Leganes,1.0,0.0,H,1.0,0.0,H,2.05,2.88,4.5,2.19,2.79,4.56,2.09,2.86,4.2,3.1,1.36,2.9,1.39,-0.5,2.1,1.77,Tenerife,Leganes,tenerife,leganes
+2023-05-12,SP2,Spain-Segunda,2223,Burgos,Leganes,0.0,3.0,A,0.0,2.0,A,2.6,2.8,3.2,2.71,2.76,3.32,2.58,2.76,3.15,2.88,1.4,2.85,1.4,0.0,1.75,2.13,Burgos,Leganes,burgos,leganes
+2023-05-27,SP2,Spain-Segunda,2223,Granada,Leganes,2.0,0.0,H,1.0,0.0,H,1.5,4.33,6.5,1.48,4.34,7.48,1.47,4.21,6.69,1.98,1.88,1.93,1.85,-1.0,1.8,2.05,Granada,Leganes,granada,leganes
+2023-08-19,SP2,Spain-Segunda,2324,Alcorcon,Leganes,0.0,2.0,A,0.0,0.0,D,2.55,2.88,3.2,2.61,2.92,3.31,2.51,2.88,3.1,2.7,1.44,2.65,1.45,-0.25,2.13,1.75,Alcorcon,Leganes,alcorcon,leganes
+2023-09-03,SP2,Spain-Segunda,2324,Eibar,Leganes,0.0,1.0,A,0.0,1.0,A,2.0,3.2,4.2,2.07,3.15,4.39,2.02,3.08,4.06,2.7,1.44,2.64,1.46,-0.5,2.03,1.83,Eibar,Leganes,eibar,leganes
+2023-09-17,SP2,Spain-Segunda,2324,Elche,Leganes,1.0,0.0,H,1.0,0.0,H,1.85,3.25,4.75,1.85,3.37,5.22,1.84,3.23,4.7,2.5,1.5,2.52,1.5,-0.5,1.85,2.0,Elche,Leganes,elche,leganes
+2023-09-24,SP2,Spain-Segunda,2324,Mirandes,Leganes,1.0,3.0,A,1.0,1.0,D,2.6,3.0,3.0,2.78,2.83,3.19,2.63,2.9,2.96,2.5,1.5,2.54,1.5,0.0,1.8,2.05,Mirandes,Leganes,mirandes,leganes
+2023-10-04,SP2,Spain-Segunda,2324,Burgos,Leganes,1.0,0.0,H,1.0,0.0,H,2.3,3.0,3.5,2.36,3.01,3.66,2.3,2.95,3.42,2.7,1.44,2.7,1.44,-0.25,1.98,1.88,Burgos,Leganes,burgos,leganes
+2023-10-20,SP2,Spain-Segunda,2324,Espanol,Leganes,0.0,1.0,A,0.0,0.0,D,1.67,3.75,5.5,1.72,3.76,5.42,1.68,3.65,5.13,2.05,1.75,2.02,1.76,-0.75,1.88,1.98,Espanyol,Leganes,espanyol,leganes
+2023-11-05,SP2,Spain-Segunda,2324,Cartagena,Leganes,0.0,3.0,A,0.0,0.0,D,2.75,3.1,2.8,2.72,3.25,2.84,2.67,3.11,2.72,2.3,1.6,2.37,1.57,0.0,1.9,1.95,Cartagena,Leganes,cartagena,leganes
+2023-11-17,SP2,Spain-Segunda,2324,Valladolid,Leganes,1.0,1.0,D,1.0,0.0,H,2.1,2.9,4.0,2.25,2.95,4.09,2.16,2.95,3.83,2.5,1.5,2.49,1.51,-0.25,1.85,2.0,Real Valladolid,Leganes,real_valladolid,leganes
+2023-12-02,SP2,Spain-Segunda,2324,Zaragoza,Leganes,1.0,0.0,H,1.0,0.0,H,2.75,3.0,2.88,2.72,2.86,2.98,2.73,2.86,2.88,2.88,1.4,2.77,1.42,0.0,1.9,1.95,Zaragoza,Leganes,zaragoza,leganes
+2023-12-16,SP2,Spain-Segunda,2324,Sp Gijon,Leganes,1.0,1.0,D,0.0,1.0,A,2.1,3.0,4.0,2.14,2.96,3.99,2.11,3.01,3.82,2.7,1.44,2.64,1.46,-0.25,1.8,2.05,Sp Gijon,Leganes,sp_gijon,leganes
+2024-01-14,SP2,Spain-Segunda,2324,Andorra,Leganes,2.0,3.0,A,0.0,0.0,D,2.45,3.0,3.2,2.54,3.02,3.31,2.43,2.96,3.16,2.7,1.44,2.7,1.44,-0.25,2.1,1.78,Andorra,Leganes,andorra,leganes
+2024-01-27,SP2,Spain-Segunda,2324,Oviedo,Leganes,1.0,0.0,H,0.0,0.0,D,2.2,2.9,4.0,2.22,2.89,4.32,2.14,2.88,3.94,2.88,1.4,2.82,1.41,-0.25,1.83,2.03,Real Oviedo,Leganes,real_oviedo,leganes
+2024-02-09,SP2,Spain-Segunda,2324,Levante,Leganes,0.0,0.0,D,0.0,0.0,D,2.25,3.0,3.75,2.28,2.96,3.96,2.2,2.92,3.71,2.7,1.44,2.66,1.45,-0.25,1.85,2.0,Levante,Leganes,levante,leganes
+2024-02-24,SP2,Spain-Segunda,2324,Santander,Leganes,2.0,1.0,H,1.0,1.0,D,2.38,2.9,3.3,2.47,2.99,3.47,2.35,2.97,3.25,2.5,1.5,2.48,1.52,-0.25,2.03,1.83,Santander,Leganes,santander,leganes
+2024-03-11,SP2,Spain-Segunda,2324,Amorebieta,Leganes,0.0,1.0,A,0.0,0.0,D,2.9,3.25,2.45,3.36,2.93,2.54,3.16,2.91,2.43,2.7,1.44,2.71,1.44,0.25,1.75,2.13,Amorebieta,Leganes,amorebieta,leganes
+2024-03-23,SP2,Spain-Segunda,2324,Villarreal B,Leganes,1.0,2.0,A,1.0,0.0,H,3.0,3.0,2.5,3.2,3.04,2.59,3.02,2.98,2.49,2.5,1.5,2.53,1.5,0.0,2.13,1.75,Villarreal B,Leganes,villarreal_b,leganes
+2024-04-07,SP2,Spain-Segunda,2324,Huesca,Leganes,0.0,0.0,D,0.0,0.0,D,2.45,2.8,3.5,2.57,2.67,3.71,2.43,2.67,3.54,3.5,1.3,3.32,1.31,-0.25,2.05,1.8,Huesca,Leganes,huesca,leganes
+2024-04-19,SP2,Spain-Segunda,2324,Tenerife,Leganes,0.0,0.0,D,0.0,0.0,D,2.75,2.63,3.2,2.83,2.7,3.24,2.73,2.62,3.12,4.0,1.25,3.52,1.28,0.0,1.8,2.05,Tenerife,Leganes,tenerife,leganes
+2024-05-05,SP2,Spain-Segunda,2324,Eldense,Leganes,1.0,2.0,A,1.0,0.0,H,3.5,2.9,2.38,3.35,2.93,2.38,3.31,2.9,2.33,2.88,1.4,2.76,1.42,0.25,1.83,2.03,Eldense,Leganes,eldense,leganes
+2024-05-12,SP2,Spain-Segunda,2324,Albacete,Leganes,1.0,0.0,H,1.0,0.0,H,2.55,2.9,3.1,2.52,2.89,3.14,2.47,2.92,3.05,2.6,1.48,2.53,1.49,0.0,1.78,2.1,Albacete,Leganes,albacete,leganes
+2024-05-26,SP2,Spain-Segunda,2324,Ferrol,Leganes,2.0,2.0,D,1.0,1.0,D,2.8,3.0,2.7,2.79,2.99,2.65,2.8,2.97,2.62,2.6,1.48,2.52,1.48,0.0,1.98,1.88,Ferrol,Leganes,ferrol,leganes
+2024-08-17,SP1,Spain-LaLiga,2425,Osasuna,Leganes,1.0,1.0,D,0.0,1.0,A,1.85,3.3,4.5,1.89,3.47,4.57,1.88,3.44,4.48,2.3,1.62,2.34,1.62,-0.5,1.91,2.02,Osasuna,Leganes,osasuna,leganes
+2024-08-28,SP1,Spain-LaLiga,2425,Valladolid,Leganes,0.0,0.0,D,0.0,0.0,D,2.3,3.0,3.6,2.34,3.02,3.64,2.32,3.01,3.58,2.63,1.5,2.65,1.49,-0.25,1.97,1.96,Real Valladolid,Leganes,real_valladolid,leganes
+2024-09-13,SP1,Spain-LaLiga,2425,Betis,Leganes,2.0,0.0,H,0.0,0.0,D,1.62,3.7,6.25,1.63,3.76,6.37,1.65,3.72,6.06,2.3,1.62,2.33,1.62,-0.75,1.81,2.09,Real Betis,Leganes,real_betis,leganes
+2024-09-22,SP1,Spain-LaLiga,2425,Getafe,Leganes,1.0,1.0,D,0.0,0.0,D,2.05,2.8,4.75,2.07,2.81,5.06,2.05,2.88,4.77,3.4,1.33,3.24,1.34,-0.5,2.06,1.84,Getafe,Leganes,getafe,leganes
+2024-09-28,SP1,Spain-LaLiga,2425,Vallecano,Leganes,1.0,1.0,D,1.0,0.0,H,1.9,3.0,5.0,1.93,3.18,4.94,1.94,3.14,4.79,3.0,1.4,2.84,1.42,-0.5,1.92,1.98,Rayo Vallecano,Leganes,rayo_vallecano,leganes
+2024-10-20,SP1,Spain-LaLiga,2425,Ath Madrid,Leganes,3.0,1.0,H,0.0,1.0,A,1.33,4.75,10.0,1.33,5.17,11.01,1.33,4.96,10.5,2.02,1.88,1.99,1.84,-1.25,1.76,2.02,Atletico Madrid,Leganes,atletico_madrid,leganes
+2024-11-02,SP1,Spain-LaLiga,2425,Girona,Leganes,4.0,3.0,H,2.0,2.0,D,1.7,3.5,5.5,1.71,3.66,5.56,1.71,3.64,5.43,2.2,1.67,2.23,1.67,-0.75,1.95,1.95,Girona,Leganes,girona,leganes
+2024-11-30,SP1,Spain-LaLiga,2425,Alaves,Leganes,1.0,1.0,D,0.0,0.0,D,1.8,3.4,5.0,1.82,3.3,5.44,1.83,3.27,5.19,2.75,1.44,2.73,1.46,-0.5,1.84,2.06,Deportivo Alaves,Leganes,deportivo_alaves,leganes
+2024-12-15,SP1,Spain-LaLiga,2425,Barcelona,Leganes,0.0,1.0,A,0.0,1.0,A,1.13,8.0,19.0,1.14,9.14,18.44,1.13,8.85,18.38,1.33,3.4,1.31,3.33,-2.5,2.0,1.8,Barcelona,Leganes,barcelona,leganes
+2025-01-11,SP1,Spain-LaLiga,2425,Espanol,Leganes,1.0,1.0,D,1.0,1.0,D,2.1,3.0,4.0,2.13,3.08,4.16,2.09,3.03,4.07,2.75,1.44,2.76,1.44,-0.5,2.05,1.75,Espanyol,Leganes,espanyol,leganes
+2025-01-26,SP1,Spain-LaLiga,2425,Ath Bilbao,Leganes,0.0,0.0,D,0.0,0.0,D,1.38,5.0,7.5,1.39,4.7,9.6,1.38,4.67,9.14,2.0,1.8,2.05,1.77,-1.25,1.95,1.95,Athletic Bilbao,Leganes,athletic_bilbao,leganes
+2025-02-09,SP1,Spain-LaLiga,2425,Valencia,Leganes,2.0,0.0,H,2.0,0.0,H,1.73,3.4,5.5,1.75,3.48,5.61,1.74,3.43,5.39,2.5,1.53,2.53,1.52,-0.75,2.0,1.9,Valencia,Leganes,valencia,leganes
+2025-02-23,SP1,Spain-LaLiga,2425,Sociedad,Leganes,3.0,0.0,H,1.0,0.0,H,1.55,3.75,7.0,1.56,3.87,7.11,1.55,3.79,7.03,2.5,1.53,2.45,1.56,-1.0,2.03,1.87,Real Sociedad,Leganes,real_sociedad,leganes
+2025-03-08,SP1,Spain-LaLiga,2425,Celta,Leganes,2.0,1.0,H,2.0,1.0,H,1.55,3.8,7.0,1.56,4.1,6.61,1.56,4.04,6.37,2.0,1.8,2.04,1.8,-1.0,2.0,1.9,Celta Vigo,Leganes,celta_vigo,leganes
+2025-03-29,SP1,Spain-LaLiga,2425,Real Madrid,Leganes,3.0,2.0,H,1.0,2.0,A,1.14,8.0,17.0,1.16,8.6,16.9,1.15,8.37,17.3,1.36,3.2,1.35,3.1,-2.25,1.93,1.85,Real Madrid,Leganes,real_madrid,leganes
+2025-04-19,SP1,Spain-LaLiga,2425,Mallorca,Leganes,0.0,0.0,D,0.0,0.0,D,1.85,3.1,5.0,1.87,3.15,5.44,1.88,3.15,4.93,2.63,1.5,2.54,1.51,-0.5,1.9,2.0,Mallorca,Leganes,mallorca,leganes
+2025-05-04,SP1,Spain-LaLiga,2425,Sevilla,Leganes,2.0,2.0,D,1.0,1.0,D,1.77,3.5,4.75,1.81,3.51,5.05,1.79,3.41,4.99,2.5,1.53,2.53,1.52,-0.75,2.07,1.83,Sevilla,Leganes,sevilla,leganes
+2025-05-14,SP1,Spain-LaLiga,2425,Villarreal,Leganes,3.0,0.0,H,3.0,0.0,H,1.33,5.75,8.0,1.36,5.38,8.33,1.34,5.26,8.73,1.57,2.38,1.57,2.39,-1.5,1.97,1.93,Villarreal,Leganes,villarreal,leganes
+2025-05-18,SP1,Spain-LaLiga,2425,Las Palmas,Leganes,0.0,1.0,A,0.0,1.0,A,2.9,3.5,2.35,2.92,3.49,2.38,2.9,3.45,2.39,1.85,2.0,1.83,1.98,0.25,1.8,2.05,Las Palmas,Leganes,las_palmas,leganes
+2025-08-17,SP2,Spain-Segunda,2526,Huesca,Leganes,1.0,1.0,D,0.0,0.0,D,2.9,3.0,2.6,3.0,3.01,2.61,2.79,3.03,2.5,2.35,1.57,2.26,1.57,0.0,2.03,1.78,Huesca,Leganes,huesca,leganes
+2025-09-07,SP2,Spain-Segunda,2526,Cultural Leonesa,Leganes,0.0,0.0,D,0.0,0.0,D,3.1,3.3,2.3,3.16,3.22,2.37,3.13,3.08,2.26,2.35,1.57,2.33,1.54,0.25,1.8,2.0,Cultural Leonesa,Leganes,cultural_leonesa,leganes
+2025-09-14,SP2,Spain-Segunda,2526,Granada,Leganes,0.0,2.0,A,0.0,1.0,A,2.4,3.0,3.1,2.52,3.11,3.03,2.39,3.02,2.94,2.4,1.53,2.26,1.57,-0.25,2.05,1.75,Granada,Leganes,granada,leganes
+2025-10-04,SP2,Spain-Segunda,2526,Andorra,Leganes,1.0,2.0,A,0.0,0.0,D,2.25,3.25,3.1,2.33,3.22,3.23,2.3,3.14,2.97,2.2,1.65,2.16,1.62,-0.25,1.98,1.83,Andorra,Leganes,andorra,leganes
+2025-10-11,SP2,Spain-Segunda,2526,Mirandes,Leganes,0.0,0.0,D,0.0,0.0,D,3.2,3.0,2.3,3.31,2.94,2.45,3.15,2.89,2.34,2.6,1.48,2.59,1.45,0.25,1.78,2.03,Mirandes,Leganes,mirandes,leganes
+2025-10-25,SP2,Spain-Segunda,2526,Eibar,Leganes,0.0,0.0,D,0.0,0.0,D,2.15,3.05,3.3,2.39,3.07,3.28,2.26,3.03,3.15,2.5,1.5,2.5,1.48,-0.25,1.9,1.9,Eibar,Leganes,eibar,leganes
+2025-11-08,SP2,Spain-Segunda,2526,Sociedad B,Leganes,2.0,1.0,H,1.0,1.0,D,3.5,3.2,2.1,,,,3.46,3.1,2.1,2.3,1.6,2.27,1.57,0.25,1.98,1.83,Sociedad B,Leganes,sociedad_b,leganes
+2025-11-16,SP2,Spain-Segunda,2526,Ceuta,Leganes,1.0,2.0,A,0.0,1.0,A,2.45,3.05,2.85,,,,2.39,2.99,2.97,2.3,1.6,2.31,1.55,-0.25,2.1,1.7,Ceuta,Leganes,ceuta,leganes
+2025-11-30,SP2,Spain-Segunda,2526,Zaragoza,Leganes,3.0,2.0,H,1.0,1.0,D,2.65,2.85,2.75,2.78,3.04,2.78,2.65,2.93,2.69,2.5,1.5,2.48,1.48,0.0,1.85,1.95,Zaragoza,Leganes,zaragoza,leganes
+2025-12-13,SP2,Spain-Segunda,2526,Santander,Leganes,1.0,1.0,D,0.0,0.0,D,1.76,3.8,4.0,1.83,3.83,4.11,1.77,3.56,4.07,1.8,2.0,1.81,1.89,-0.5,1.8,2.0,Santander,Leganes,santander,leganes
+2026-01-04,SP2,Spain-Segunda,2526,Albacete,Leganes,1.0,3.0,A,1.0,1.0,D,2.15,3.2,3.3,2.27,3.23,3.34,2.23,3.12,3.08,2.1,1.7,2.08,1.67,-0.25,1.93,1.88,Albacete,Leganes,albacete,leganes
+2026-01-16,SP2,Spain-Segunda,2526,Castellon,Leganes,2.0,0.0,H,1.0,0.0,H,1.56,4.1,5.25,,,,1.59,3.84,4.99,1.8,2.0,1.78,1.93,-0.75,1.75,2.05,Castellon,Leganes,castellon,leganes
+2026-01-31,SP2,Spain-Segunda,2526,Burgos,Leganes,2.0,1.0,H,0.0,0.0,D,2.2,2.85,3.6,,,,2.26,2.86,3.39,2.88,1.4,2.7,1.42,-0.25,1.95,1.85,Burgos,Leganes,burgos,leganes
+2026-02-14,SP2,Spain-Segunda,2526,Cordoba,Leganes,2.0,1.0,H,1.0,0.0,H,1.96,3.25,3.75,,,,1.99,3.26,3.58,2.03,1.78,1.95,1.78,-0.5,2.03,1.78,Cordoba,Leganes,cordoba,leganes
+2026-03-02,SP2,Spain-Segunda,2526,Sp Gijon,Leganes,0.0,0.0,D,0.0,0.0,D,2.01,3.3,3.6,,,,2.01,3.14,3.57,2.25,1.62,2.2,1.59,-0.5,2.05,1.75,Sp Gijon,Leganes,sp_gijon,leganes
+2026-03-14,SP2,Spain-Segunda,2526,Valladolid,Leganes,3.0,2.0,H,1.0,0.0,H,1.96,3.4,3.9,,,,1.98,3.22,3.64,2.25,1.62,2.16,1.63,-0.5,1.98,1.83,Real Valladolid,Leganes,real_valladolid,leganes
+2026-03-28,SP2,Spain-Segunda,2526,Malaga,Leganes,0.0,0.0,D,0.0,0.0,D,1.96,3.3,3.7,,,,1.96,3.26,3.57,2.08,1.73,2.0,1.72,-0.5,2.03,1.78,Malaga,Leganes,malaga,leganes
+2026-04-05,SP2,Spain-Segunda,2526,Almeria,Leganes,2.0,1.0,H,1.0,1.0,D,1.57,3.75,5.5,,,,1.66,3.6,4.76,1.83,1.98,1.76,1.97,-0.75,1.78,2.03,Almeria,Leganes,almeria,leganes
+2026-04-17,SP2,Spain-Segunda,2526,Las Palmas,Leganes,2.0,0.0,H,1.0,0.0,H,1.62,3.8,4.75,,,,1.65,3.67,4.72,1.83,1.98,1.82,1.9,-0.75,1.85,1.95,Las Palmas,Leganes,las_palmas,leganes
+2026-05-01,SP2,Spain-Segunda,2526,La Coruna,Leganes,2.0,1.0,H,0.0,0.0,D,1.53,4.1,5.25,,,,1.53,3.86,5.46,1.85,1.95,1.82,1.89,-1.0,1.98,1.83,La Coruna,Leganes,la_coruna,leganes
+2026-05-24,SP2,Spain-Segunda,2526,Cadiz,Leganes,3.0,0.0,H,1.0,0.0,H,2.3,3.25,3.1,,,,2.22,3.24,2.96,1.9,1.9,1.85,1.85,-0.25,2.0,1.8,Cadiz,Leganes,cadiz,leganes
+2026-08-16,SP2,Spain-Segunda,2627,Girona,Leganes,1.0,1.0,D,0.0,0.0,D,1.57,3.5,6.25,,,,1.6,3.61,5.23,2.1,1.7,2.03,1.72,-0.75,1.8,2.0,Girona,Leganes,girona,leganes
+2026-08-22,SP2,Spain-Segunda,2627,Oviedo,Leganes,0.0,1.0,A,0.0,1.0,A,1.81,3.3,4.5,,,,1.86,3.21,4.23,2.35,1.57,2.26,1.58,-0.5,1.88,1.93,Real Oviedo,Leganes,real_oviedo,leganes
+2026-09-04,SP2,Spain-Segunda,2627,Las Palmas,Leganes,0.0,0.0,D,0.0,0.0,D,1.91,3.5,3.7,,,,1.92,3.36,3.71,1.85,1.95,1.87,1.85,-0.5,2.0,1.8,Las Palmas,Leganes,las_palmas,leganes
+2026-09-13,SP2,Spain-Segunda,2627,Tenerife,Leganes,2.0,0.0,H,1.0,0.0,H,2.35,3.0,3.2,,,,2.27,3.0,3.17,2.5,1.5,2.4,1.52,-0.25,2.0,1.8,Tenerife,Leganes,tenerife,leganes
+2026-10-03,SP2,Spain-Segunda,2627,Cadiz,Leganes,4.0,0.0,H,1.0,0.0,H,2.75,3.2,2.5,,,,2.78,3.1,2.44,2.25,1.62,2.2,1.61,0.0,2.03,1.78,Cadiz,Leganes,cadiz,leganes
+2026-10-11,SP2,Spain-Segunda,2627,Almeria,Leganes,3.0,0.0,H,0.0,0.0,D,1.62,3.7,5.25,,,,1.61,3.88,4.65,1.7,2.1,1.65,2.12,-0.75,1.83,1.98,Almeria,Leganes,almeria,leganes

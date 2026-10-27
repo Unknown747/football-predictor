@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-22,E0,England-PL,2122,Arsenal,Chelsea,0.0,2.0,A,0.0,2.0,A,4.75,3.75,1.72,4.9,3.83,1.79,4.76,3.74,1.78,2.1,1.72,2.07,1.79,0.75,1.88,2.05,Arsenal,Chelsea,arsenal,chelsea
+2021-09-11,E0,England-PL,2122,Arsenal,Norwich,1.0,0.0,H,0.0,0.0,D,1.5,4.6,6.0,1.53,4.57,6.5,1.52,4.48,6.4,1.72,2.1,1.71,2.17,-1.0,1.85,2.08,Arsenal,Norwich City,arsenal,norwich_city
+2021-09-26,E0,England-PL,2122,Arsenal,Tottenham,3.0,1.0,H,3.0,0.0,H,2.15,3.3,3.5,2.29,3.3,3.54,2.28,3.31,3.35,2.0,1.8,2.07,1.79,-0.25,1.96,1.97,Arsenal,Tottenham Hotspur,arsenal,tottenham_hotspur
+2021-10-18,E0,England-PL,2122,Arsenal,Crystal Palace,2.0,2.0,D,1.0,0.0,H,1.6,3.8,6.0,1.66,3.94,5.91,1.65,3.87,5.65,1.97,1.93,1.93,1.91,-0.75,1.83,2.1,Arsenal,Crystal Palace,arsenal,crystal_palace
+2021-10-22,E0,England-PL,2122,Arsenal,Aston Villa,3.0,1.0,H,2.0,0.0,H,1.83,3.75,4.2,1.92,3.77,4.22,1.91,3.73,4.05,1.72,2.1,1.78,2.08,-0.5,1.91,2.02,Arsenal,Aston Villa,arsenal,aston_villa
+2021-11-07,E0,England-PL,2122,Arsenal,Watford,1.0,0.0,H,0.0,0.0,D,1.36,4.75,8.5,1.41,4.98,8.73,1.39,4.9,8.25,1.57,2.37,1.6,2.38,-1.25,1.87,2.06,Arsenal,Watford,arsenal,watford
+2021-11-27,E0,England-PL,2122,Arsenal,Newcastle,2.0,0.0,H,0.0,0.0,D,1.44,4.75,7.0,1.48,4.95,6.77,1.47,4.77,6.61,1.61,2.3,1.62,2.33,-1.25,2.06,1.87,Arsenal,Newcastle United,arsenal,newcastle_united
+2021-12-11,E0,England-PL,2122,Arsenal,Southampton,3.0,0.0,H,2.0,0.0,H,1.61,4.0,5.5,1.68,4.01,5.61,1.67,3.99,5.32,1.8,2.0,1.79,2.06,-0.75,1.83,2.07,Arsenal,Southampton,arsenal,southampton
+2021-12-15,E0,England-PL,2122,Arsenal,West Ham,2.0,0.0,H,0.0,0.0,D,2.1,3.6,3.3,2.27,3.58,3.32,2.2,3.58,3.26,1.85,2.05,1.83,2.02,-0.25,1.95,1.95,Arsenal,West Ham United,arsenal,west_ham_united
+2022-01-01,E0,England-PL,2122,Arsenal,Man City,1.0,2.0,A,1.0,0.0,H,5.75,4.75,1.5,6.01,4.57,1.53,5.91,4.62,1.53,1.57,2.37,1.58,2.4,1.0,2.03,1.9,Arsenal,Manchester City,arsenal,manchester_city
+2022-01-23,E0,England-PL,2122,Arsenal,Burnley,0.0,0.0,D,0.0,0.0,D,1.36,4.75,9.0,1.36,5.22,9.18,1.36,4.97,9.11,1.8,2.0,1.76,2.09,-1.25,1.87,2.06,Arsenal,Burnley,arsenal,burnley
+2022-02-19,E0,England-PL,2122,Arsenal,Brentford,2.0,1.0,H,0.0,0.0,D,1.44,4.2,8.0,1.47,4.46,8.32,1.46,4.46,7.68,1.97,1.93,1.96,1.88,-1.25,2.08,1.82,Arsenal,Brentford,arsenal,brentford
+2022-02-24,E0,England-PL,2122,Arsenal,Wolves,2.0,1.0,H,0.0,1.0,A,1.65,3.8,5.5,1.65,3.9,6.08,1.65,3.8,5.83,2.2,1.66,2.23,1.67,-0.75,1.86,2.04,Arsenal,Wolverhampton,arsenal,wolverhampton
+2022-03-13,E0,England-PL,2122,Arsenal,Leicester,2.0,0.0,H,1.0,0.0,H,1.5,4.5,6.0,1.54,4.62,6.22,1.53,4.55,6.0,1.61,2.3,1.63,2.31,-1.0,1.87,2.06,Arsenal,Leicester City,arsenal,leicester_city
+2022-03-16,E0,England-PL,2122,Arsenal,Liverpool,0.0,2.0,A,0.0,0.0,D,3.5,4.0,1.9,3.78,4.12,1.93,3.78,3.98,1.92,1.72,2.1,1.72,2.15,0.5,1.99,1.91,Arsenal,Liverpool,arsenal,liverpool
+2022-04-09,E0,England-PL,2122,Arsenal,Brighton,1.0,2.0,A,0.0,1.0,A,1.61,3.8,5.75,1.67,3.95,5.85,1.65,3.9,5.64,2.04,1.86,2.01,1.81,-0.75,1.85,2.05,Arsenal,Brighton & Hove Albion,arsenal,brighton_hove_albion
+2022-04-23,E0,England-PL,2122,Arsenal,Man United,3.0,1.0,H,2.0,1.0,H,2.05,3.5,3.5,2.13,3.64,3.58,2.11,3.58,3.5,1.81,2.09,1.81,2.03,-0.25,1.85,2.05,Arsenal,Manchester United,arsenal,manchester_united
+2022-05-08,E0,England-PL,2122,Arsenal,Leeds,2.0,1.0,H,2.0,0.0,H,1.45,4.5,7.0,1.46,5.01,7.04,1.46,4.81,6.77,1.61,2.3,1.58,2.41,-1.25,2.05,1.85,Arsenal,Leeds,arsenal,leeds
+2022-05-22,E0,England-PL,2122,Arsenal,Everton,5.0,1.0,H,2.0,1.0,H,1.36,4.75,9.0,1.37,5.13,9.24,1.37,5.15,8.69,1.57,2.37,1.57,2.42,-1.5,2.04,1.86,Arsenal,Everton,arsenal,everton
+2022-08-13,E0,England-PL,2223,Arsenal,Leicester,4.0,2.0,H,2.0,0.0,H,1.53,4.33,5.75,1.58,4.34,6.22,1.55,4.37,6.04,1.66,2.2,1.69,2.21,-1.0,1.92,1.98,Arsenal,Leicester City,arsenal,leicester_city
+2022-08-27,E0,England-PL,2223,Arsenal,Fulham,2.0,1.0,H,0.0,0.0,D,1.3,5.75,9.0,1.33,5.83,9.75,1.32,5.77,9.44,1.5,2.62,1.49,2.62,-1.5,1.87,2.03,Arsenal,Fulham,arsenal,fulham
+2022-08-31,E0,England-PL,2223,Arsenal,Aston Villa,2.0,1.0,H,1.0,0.0,H,1.45,4.5,6.0,1.5,4.67,6.97,1.47,4.63,7.0,1.72,2.1,1.75,2.11,-1.25,2.06,1.84,Arsenal,Aston Villa,arsenal,aston_villa
+2022-10-01,E0,England-PL,2223,Arsenal,Tottenham,3.0,1.0,H,1.0,1.0,D,2.05,3.75,3.3,2.13,3.65,3.57,2.08,3.7,3.48,1.72,2.1,1.71,2.16,-0.5,2.06,1.84,Arsenal,Tottenham Hotspur,arsenal,tottenham_hotspur
+2022-10-09,E0,England-PL,2223,Arsenal,Liverpool,3.0,2.0,H,2.0,1.0,H,2.5,3.6,2.62,2.67,3.69,2.66,2.58,3.72,2.62,1.57,2.37,1.6,2.38,0.0,1.93,1.97,Arsenal,Liverpool,arsenal,liverpool
+2022-10-30,E0,England-PL,2223,Arsenal,Nott'm Forest,5.0,0.0,H,1.0,0.0,H,1.2,7.0,12.0,1.2,7.4,16.85,1.2,6.96,14.82,1.5,2.62,1.5,2.57,-2.0,2.04,1.86,Arsenal,Nottingham Forest,arsenal,nottingham_forest
+2022-12-26,E0,England-PL,2223,Arsenal,West Ham,3.0,1.0,H,0.0,1.0,A,1.5,4.33,6.5,1.52,4.48,6.85,1.51,4.39,6.52,1.73,2.1,1.77,2.07,-1.0,1.87,2.03,Arsenal,West Ham United,arsenal,west_ham_united
+2023-01-03,E0,England-PL,2223,Arsenal,Newcastle,0.0,0.0,D,0.0,0.0,D,1.8,3.8,4.33,1.83,3.95,4.45,1.82,3.83,4.39,1.8,2.0,1.8,2.04,-0.75,2.04,1.86,Arsenal,Newcastle United,arsenal,newcastle_united
+2023-01-22,E0,England-PL,2223,Arsenal,Man United,3.0,2.0,H,1.0,1.0,D,1.8,3.8,4.2,1.88,3.92,4.19,1.86,3.86,4.08,1.73,2.1,1.7,2.17,-0.5,1.86,2.04,Arsenal,Manchester United,arsenal,manchester_united
+2023-02-11,E0,England-PL,2223,Arsenal,Brentford,1.0,1.0,D,0.0,0.0,D,1.44,4.75,7.0,1.47,4.77,7.32,1.45,4.72,7.52,1.73,2.1,1.73,2.14,-1.25,2.0,1.93,Arsenal,Brentford,arsenal,brentford
+2023-02-15,E0,England-PL,2223,Arsenal,Man City,1.0,3.0,A,1.0,1.0,D,2.9,3.5,2.35,2.95,3.6,2.46,2.93,3.51,2.42,1.88,2.02,1.85,1.99,0.25,1.83,2.1,Arsenal,Manchester City,arsenal,manchester_city
+2023-03-01,E0,England-PL,2223,Arsenal,Everton,4.0,0.0,H,2.0,0.0,H,1.36,4.75,10.0,1.38,5.01,9.1,1.36,5.04,9.33,1.85,2.05,1.82,2.02,-1.25,1.83,2.07,Arsenal,Everton,arsenal,everton
+2023-03-04,E0,England-PL,2223,Arsenal,Bournemouth,3.0,2.0,H,0.0,1.0,A,1.22,7.0,12.0,1.22,6.83,13.69,1.22,6.82,13.83,1.57,2.38,1.58,2.41,-1.75,1.75,2.05,Arsenal,Bournemouth,arsenal,bournemouth
+2023-03-19,E0,England-PL,2223,Arsenal,Crystal Palace,4.0,1.0,H,2.0,0.0,H,1.25,5.5,15.0,1.26,6.02,12.73,1.26,5.93,12.83,1.73,2.1,1.73,2.14,-1.5,1.77,2.02,Arsenal,Crystal Palace,arsenal,crystal_palace
+2023-04-01,E0,England-PL,2223,Arsenal,Leeds,4.0,1.0,H,1.0,0.0,H,1.29,6.0,9.0,1.29,5.97,10.92,1.29,5.84,10.48,1.53,2.5,1.53,2.51,-1.5,1.84,2.06,Arsenal,Leeds,arsenal,leeds
+2023-04-21,E0,England-PL,2223,Arsenal,Southampton,3.0,3.0,D,1.0,2.0,A,1.2,7.0,13.0,1.21,7.62,14.32,1.2,7.18,14.72,1.5,2.63,1.51,2.58,-2.0,2.05,1.88,Arsenal,Southampton,arsenal,southampton
+2023-05-02,E0,England-PL,2223,Arsenal,Chelsea,3.0,1.0,H,3.0,0.0,H,1.6,4.0,5.5,1.59,4.32,5.96,1.59,4.22,5.75,1.73,2.1,1.75,2.1,-1.0,2.01,1.92,Arsenal,Chelsea,arsenal,chelsea
+2023-05-14,E0,England-PL,2223,Arsenal,Brighton,0.0,3.0,A,0.0,0.0,D,1.73,4.2,4.2,1.78,4.36,4.21,1.77,4.19,4.21,1.53,2.5,1.53,2.51,-0.75,1.98,1.92,Arsenal,Brighton & Hove Albion,arsenal,brighton_hove_albion
+2023-05-28,E0,England-PL,2223,Arsenal,Wolves,5.0,0.0,H,3.0,0.0,H,1.36,5.25,8.0,1.38,5.51,7.66,1.37,5.33,7.87,1.44,2.75,1.46,2.71,-1.5,2.01,1.89,Arsenal,Wolverhampton,arsenal,wolverhampton
+2023-08-12,E0,England-PL,2324,Arsenal,Nott'm Forest,2.0,1.0,H,2.0,0.0,H,1.18,7.0,15.0,1.18,7.86,15.67,1.18,7.64,15.67,1.44,2.75,1.42,2.85,-2.0,1.88,2.02,Arsenal,Nottingham Forest,arsenal,nottingham_forest
+2023-08-26,E0,England-PL,2324,Arsenal,Fulham,2.0,2.0,D,0.0,1.0,A,1.2,7.0,13.0,1.24,6.07,15.25,1.23,6.49,13.35,1.44,2.75,1.48,2.67,-1.75,1.85,2.05,Arsenal,Fulham,arsenal,fulham
+2023-09-03,E0,England-PL,2324,Arsenal,Man United,3.0,1.0,H,1.0,1.0,D,1.75,3.8,4.5,1.77,4.08,4.55,1.77,4.04,4.38,1.57,2.38,1.55,2.47,-0.75,2.01,1.92,Arsenal,Manchester United,arsenal,manchester_united
+2023-09-24,E0,England-PL,2324,Arsenal,Tottenham,2.0,2.0,D,1.0,1.0,D,1.67,4.33,4.33,1.68,4.45,4.69,1.7,4.36,4.5,1.5,2.63,1.51,2.58,-0.75,1.87,2.03,Arsenal,Tottenham Hotspur,arsenal,tottenham_hotspur
+2023-10-08,E0,England-PL,2324,Arsenal,Man City,1.0,0.0,H,0.0,0.0,D,2.9,3.3,2.4,2.99,3.49,2.46,2.92,3.49,2.44,1.75,2.05,1.78,2.05,0.25,1.79,2.11,Arsenal,Manchester City,arsenal,manchester_city
+2023-10-28,E0,England-PL,2324,Arsenal,Sheffield United,5.0,0.0,H,1.0,0.0,H,1.13,8.5,19.0,1.13,10.16,21.31,1.13,9.61,21.6,1.36,3.1,1.36,3.13,-2.5,2.03,1.78,Arsenal,Sheffield United,arsenal,sheffield_united
+2023-11-11,E0,England-PL,2324,Arsenal,Burnley,3.0,1.0,H,1.0,0.0,H,1.18,7.0,17.0,1.19,7.47,14.74,1.19,7.34,15.07,1.48,2.6,1.49,2.62,-2.0,1.99,1.91,Arsenal,Burnley,arsenal,burnley
+2023-12-02,E0,England-PL,2324,Arsenal,Wolves,2.0,1.0,H,2.0,0.0,H,1.25,5.5,12.0,1.29,5.9,10.82,1.27,5.95,11.58,1.65,2.2,1.65,2.27,-1.5,1.83,2.1,Arsenal,Wolverhampton,arsenal,wolverhampton
+2023-12-17,E0,England-PL,2324,Arsenal,Brighton,2.0,0.0,H,0.0,0.0,D,1.44,5.0,6.0,1.48,4.76,6.67,1.48,4.73,6.5,1.53,2.4,1.58,2.36,-1.25,2.08,1.85,Arsenal,Brighton & Hove Albion,arsenal,brighton_hove_albion
+2023-12-28,E0,England-PL,2324,Arsenal,West Ham,0.0,2.0,A,0.0,1.0,A,1.33,5.5,7.5,1.36,5.49,8.28,1.35,5.39,8.64,1.57,2.35,1.58,2.4,-1.5,2.03,1.87,Arsenal,West Ham United,arsenal,west_ham_united
+2024-01-20,E0,England-PL,2324,Arsenal,Crystal Palace,5.0,0.0,H,2.0,0.0,H,1.3,5.75,9.0,1.29,5.85,10.86,1.29,5.74,11.19,1.73,2.08,1.75,2.1,-1.5,1.91,1.99,Arsenal,Crystal Palace,arsenal,crystal_palace
+2024-02-04,E0,England-PL,2324,Arsenal,Liverpool,3.0,1.0,H,1.0,1.0,D,2.2,3.6,3.1,2.24,3.72,3.15,2.25,3.67,3.07,1.67,2.15,1.67,2.23,-0.25,1.95,1.98,Arsenal,Liverpool,arsenal,liverpool
+2024-02-24,E0,England-PL,2324,Arsenal,Newcastle,4.0,1.0,H,2.0,0.0,H,1.36,5.25,8.0,1.4,5.32,7.33,1.38,5.34,7.53,1.48,2.6,1.48,2.67,-1.5,2.06,1.84,Arsenal,Newcastle United,arsenal,newcastle_united
+2024-03-09,E0,England-PL,2324,Arsenal,Brentford,2.0,1.0,H,1.0,1.0,D,1.22,7.0,11.0,1.23,6.96,11.44,1.23,6.84,12.02,1.44,2.7,1.44,2.78,-1.75,1.89,2.04,Arsenal,Brentford,arsenal,brentford
+2024-04-03,E0,England-PL,2324,Arsenal,Luton,2.0,0.0,H,2.0,0.0,H,1.1,10.0,19.0,1.11,11.82,20.95,1.1,11.25,22.73,1.25,4.0,1.26,3.86,-2.5,1.86,2.04,Arsenal,Luton,arsenal,luton
+2024-04-14,E0,England-PL,2324,Arsenal,Aston Villa,0.0,2.0,A,0.0,0.0,D,1.29,5.75,10.0,1.29,6.27,9.5,1.28,6.1,9.89,1.5,2.63,1.48,2.66,-1.75,2.04,1.86,Arsenal,Aston Villa,arsenal,aston_villa
+2024-04-23,E0,England-PL,2324,Arsenal,Chelsea,5.0,0.0,H,1.0,0.0,H,1.44,5.0,6.0,1.45,5.03,6.76,1.45,4.93,6.78,1.53,2.5,1.53,2.53,-1.25,1.95,1.95,Arsenal,Chelsea,arsenal,chelsea
+2024-05-04,E0,England-PL,2324,Arsenal,Bournemouth,3.0,0.0,H,1.0,0.0,H,1.22,7.5,11.0,1.2,7.76,12.56,1.2,7.59,12.74,1.33,3.4,1.34,3.23,-2.0,1.95,1.98,Arsenal,Bournemouth,arsenal,bournemouth
+2024-05-19,E0,England-PL,2324,Arsenal,Everton,2.0,1.0,H,1.0,1.0,D,1.18,8.0,12.0,1.17,8.37,15.6,1.17,8.04,15.37,1.36,3.2,1.38,3.04,-2.0,1.83,2.07,Arsenal,Everton,arsenal,everton
+2024-08-17,E0,England-PL,2425,Arsenal,Wolves,2.0,0.0,H,1.0,0.0,H,1.18,7.5,13.0,1.16,8.56,16.22,1.18,7.86,15.87,1.44,2.75,1.46,2.7,-2.0,1.93,2.0,Arsenal,Wolverhampton,arsenal,wolverhampton
+2024-08-31,E0,England-PL,2425,Arsenal,Brighton,1.0,1.0,D,1.0,0.0,H,1.33,5.5,8.5,1.34,5.87,8.1,1.35,5.66,8.11,1.53,2.5,1.53,2.52,-1.5,2.01,1.89,Arsenal,Brighton & Hove Albion,arsenal,brighton_hove_albion
+2024-09-28,E0,England-PL,2425,Arsenal,Leicester,4.0,2.0,H,2.0,0.0,H,1.17,8.0,15.0,1.18,8.27,14.09,1.18,7.82,15.12,1.5,2.63,1.49,2.55,-2.0,1.98,1.92,Arsenal,Leicester City,arsenal,leicester_city
+2024-10-05,E0,England-PL,2425,Arsenal,Southampton,3.0,1.0,H,0.0,0.0,D,1.14,9.0,17.0,1.13,9.46,19.13,1.14,9.2,18.63,1.36,3.2,1.36,3.13,-2.25,1.89,2.01,Arsenal,Southampton,arsenal,southampton
+2024-10-27,E0,England-PL,2425,Arsenal,Liverpool,2.0,2.0,D,2.0,1.0,H,2.5,3.25,2.9,2.54,3.4,2.9,2.49,3.37,2.89,1.92,1.98,1.89,1.94,0.0,1.82,2.08,Arsenal,Liverpool,arsenal,liverpool
+2024-11-23,E0,England-PL,2425,Arsenal,Nott'm Forest,3.0,0.0,H,1.0,0.0,H,1.38,4.75,9.0,1.38,5.03,8.73,1.37,4.97,8.9,1.8,2.0,1.81,2.03,-1.25,1.87,2.03,Arsenal,Nottingham Forest,arsenal,nottingham_forest
+2024-12-04,E0,England-PL,2425,Arsenal,Man United,2.0,0.0,H,0.0,0.0,D,1.44,4.5,7.0,1.45,4.87,7.03,1.46,4.73,6.92,1.62,2.3,1.63,2.31,-1.25,2.01,1.89,Arsenal,Manchester United,arsenal,manchester_united
+2024-12-14,E0,England-PL,2425,Arsenal,Everton,0.0,0.0,D,0.0,0.0,D,1.22,6.5,12.0,1.23,6.63,12.95,1.23,6.33,13.36,1.67,2.2,1.66,2.23,-1.75,1.95,1.95,Arsenal,Everton,arsenal,everton
+2024-12-27,E0,England-PL,2425,Arsenal,Ipswich,1.0,0.0,H,1.0,0.0,H,1.14,9.0,15.0,1.15,8.67,20.05,1.16,8.37,17.31,1.4,3.0,1.39,2.99,-2.25,2.04,1.89,Arsenal,Ipswich,arsenal,ipswich
+2025-01-15,E0,England-PL,2425,Arsenal,Tottenham,2.0,1.0,H,2.0,1.0,H,1.4,5.25,7.0,1.4,5.54,6.88,1.4,5.29,6.86,1.44,2.75,1.43,2.8,-1.25,1.85,2.05,Arsenal,Tottenham Hotspur,arsenal,tottenham_hotspur
+2025-01-18,E0,England-PL,2425,Arsenal,Aston Villa,2.0,2.0,D,1.0,0.0,H,1.5,4.1,7.0,1.53,4.4,6.38,1.51,4.35,6.45,1.87,2.03,1.82,2.01,-1.0,1.87,2.03,Arsenal,Aston Villa,arsenal,aston_villa
+2025-02-02,E0,England-PL,2425,Arsenal,Man City,5.0,1.0,H,1.0,0.0,H,1.95,3.5,4.0,1.93,3.63,3.85,1.97,3.58,3.83,1.73,2.1,1.75,2.1,-0.5,1.99,1.91,Arsenal,Manchester City,arsenal,manchester_city
+2025-02-22,E0,England-PL,2425,Arsenal,West Ham,0.0,1.0,A,0.0,1.0,A,1.27,6.0,10.0,1.25,6.42,11.04,1.25,6.2,11.63,1.67,2.2,1.68,2.22,-1.75,2.05,1.85,Arsenal,West Ham United,arsenal,west_ham_united
+2025-03-16,E0,England-PL,2425,Arsenal,Chelsea,1.0,0.0,H,1.0,0.0,H,1.8,3.6,4.5,1.81,3.78,4.55,1.81,3.74,4.44,1.86,1.92,1.88,1.94,-0.75,2.06,1.84,Arsenal,Chelsea,arsenal,chelsea
+2025-04-01,E0,England-PL,2425,Arsenal,Fulham,2.0,1.0,H,1.0,0.0,H,1.48,4.33,7.0,1.5,4.21,7.79,1.48,4.2,7.73,2.1,1.73,2.12,1.74,-1.0,1.88,2.05,Arsenal,Fulham,arsenal,fulham
+2025-04-12,E0,England-PL,2425,Arsenal,Brentford,1.0,1.0,D,0.0,0.0,D,1.6,4.33,5.0,1.63,4.17,5.42,1.61,4.16,5.35,1.73,2.1,1.77,2.06,-1.0,2.1,1.83,Arsenal,Brentford,arsenal,brentford
+2025-04-23,E0,England-PL,2425,Arsenal,Crystal Palace,2.0,2.0,D,2.0,1.0,H,1.4,4.75,7.5,1.42,4.74,8.22,1.41,4.66,8.13,1.91,1.99,1.87,1.95,-1.25,1.95,1.95,Arsenal,Crystal Palace,arsenal,crystal_palace
+2025-05-03,E0,England-PL,2425,Arsenal,Bournemouth,1.0,2.0,A,1.0,0.0,H,2.05,3.7,3.4,2.07,3.63,3.62,2.08,3.6,3.47,1.87,2.03,1.84,1.99,-0.25,1.82,2.08,Arsenal,Bournemouth,arsenal,bournemouth
+2025-05-18,E0,England-PL,2425,Arsenal,Newcastle,1.0,0.0,H,0.0,0.0,D,1.95,3.7,3.7,2.03,3.58,3.83,2.01,3.59,3.7,1.73,2.1,1.77,2.06,-0.5,2.01,1.89,Arsenal,Newcastle United,arsenal,newcastle_united
+2025-08-23,E0,England-PL,2526,Arsenal,Leeds,5.0,0.0,H,2.0,0.0,H,1.27,6.25,9.5,1.28,6.21,9.68,1.27,5.93,10.61,1.53,2.5,1.55,2.38,-1.75,2.0,1.85,Arsenal,Leeds,arsenal,leeds
+2025-09-13,E0,England-PL,2526,Arsenal,Nott'm Forest,3.0,0.0,H,1.0,0.0,H,1.38,5.0,8.0,1.38,5.25,8.14,1.38,4.85,8.16,1.73,2.1,1.69,2.11,-1.25,1.83,2.03,Arsenal,Nottingham Forest,arsenal,nottingham_forest
+2025-09-21,E0,England-PL,2526,Arsenal,Man City,1.0,1.0,D,0.0,1.0,A,1.85,3.9,3.8,1.92,3.8,3.99,1.9,3.7,3.85,1.8,2.0,1.77,2.0,-0.5,1.88,1.98,Arsenal,Manchester City,arsenal,manchester_city
+2025-10-04,E0,England-PL,2526,Arsenal,West Ham,2.0,0.0,H,1.0,0.0,H,1.18,6.5,17.0,1.21,6.93,13.68,1.19,6.83,15.25,1.53,2.5,1.52,2.47,-2.0,1.98,1.88,Arsenal,West Ham United,arsenal,west_ham_united
+2025-10-26,E0,England-PL,2526,Arsenal,Crystal Palace,1.0,0.0,H,1.0,0.0,H,1.4,4.75,7.5,1.44,4.71,7.49,1.41,4.6,7.76,1.73,2.1,1.74,2.05,-1.25,1.95,1.9,Arsenal,Crystal Palace,arsenal,crystal_palace
+2025-11-23,E0,England-PL,2526,Arsenal,Tottenham,4.0,1.0,H,2.0,0.0,H,1.42,4.75,7.5,1.43,4.75,7.88,1.39,4.66,8.03,1.8,2.0,1.77,2.0,-1.25,1.95,1.9,Arsenal,Tottenham Hotspur,arsenal,tottenham_hotspur
+2025-12-03,E0,England-PL,2526,Arsenal,Brentford,2.0,0.0,H,1.0,0.0,H,1.36,5.0,8.5,1.35,5.41,8.75,1.35,4.97,8.94,1.73,2.1,1.73,2.06,-1.5,2.08,1.73,Arsenal,Brentford,arsenal,brentford
+2025-12-13,E0,England-PL,2526,Arsenal,Wolves,2.0,1.0,H,0.0,0.0,D,1.13,8.5,21.0,1.14,8.77,21.15,1.12,8.62,22.31,1.53,2.5,1.51,2.48,-2.25,1.93,1.93,Arsenal,Wolverhampton,arsenal,wolverhampton
+2025-12-27,E0,England-PL,2526,Arsenal,Brighton,2.0,1.0,H,1.0,0.0,H,1.42,4.75,7.0,1.39,5.09,8.08,1.41,4.73,7.34,1.67,2.2,1.64,2.2,-1.25,1.9,1.95,Arsenal,Brighton & Hove Albion,arsenal,brighton_hove_albion
+2025-12-30,E0,England-PL,2526,Arsenal,Aston Villa,4.0,1.0,H,0.0,0.0,D,1.42,4.75,7.0,1.43,4.97,7.51,1.43,4.68,7.02,1.67,2.2,1.67,2.17,-1.25,1.93,1.93,Arsenal,Aston Villa,arsenal,aston_villa
+2026-01-08,E0,England-PL,2526,Arsenal,Liverpool,0.0,0.0,D,0.0,0.0,D,1.6,4.1,5.0,1.6,4.35,5.49,1.6,4.11,5.25,1.73,2.1,1.71,2.07,-1.0,2.05,1.8,Arsenal,Liverpool,arsenal,liverpool
+2026-01-25,E0,England-PL,2526,Arsenal,Man United,2.0,3.0,A,1.0,1.0,D,1.55,4.2,6.0,,,,1.55,4.08,5.89,1.73,2.1,1.69,2.1,-1.0,1.93,1.93,Arsenal,Manchester United,arsenal,manchester_united
+2026-02-07,E0,England-PL,2526,Arsenal,Sunderland,3.0,0.0,H,1.0,0.0,H,1.22,6.25,12.0,,,,1.21,6.23,14.08,1.73,2.1,1.69,2.11,-1.75,1.93,1.93,Arsenal,Sunderland,arsenal,sunderland
+2026-03-01,E0,England-PL,2526,Arsenal,Chelsea,2.0,1.0,H,1.0,1.0,D,1.6,3.8,5.5,,,,1.6,3.98,5.28,1.73,2.1,1.7,2.09,-0.75,1.75,2.05,Arsenal,Chelsea,arsenal,chelsea
+2026-03-14,E0,England-PL,2526,Arsenal,Everton,2.0,0.0,H,0.0,0.0,D,1.38,4.75,8.5,,,,1.37,4.56,8.83,1.98,1.88,1.9,1.84,-1.25,1.9,1.95,Arsenal,Everton,arsenal,everton
+2026-04-11,E0,England-PL,2526,Arsenal,Bournemouth,1.0,2.0,A,1.0,1.0,D,1.44,4.5,7.5,,,,1.43,4.55,7.06,1.62,2.3,1.62,2.24,-1.25,1.98,1.88,Arsenal,Bournemouth,arsenal,bournemouth
+2026-04-25,E0,England-PL,2526,Arsenal,Newcastle,1.0,0.0,H,1.0,0.0,H,1.45,4.75,6.25,,,,1.45,4.66,6.22,1.57,2.38,1.58,2.29,-1.25,2.03,1.83,Arsenal,Newcastle United,arsenal,newcastle_united
+2026-05-02,E0,England-PL,2526,Arsenal,Fulham,3.0,0.0,H,3.0,0.0,H,1.44,4.33,7.0,,,,1.44,4.39,7.0,1.8,2.0,1.77,1.97,-1.25,2.05,1.8,Arsenal,Fulham,arsenal,fulham
+2026-05-18,E0,England-PL,2526,Arsenal,Burnley,1.0,0.0,H,1.0,0.0,H,1.09,11.0,23.0,,,,1.08,10.12,22.13,1.33,3.4,1.33,3.19,-2.5,1.85,2.0,Arsenal,Burnley,arsenal,burnley
+2026-08-21,E0,England-PL,2627,Arsenal,Coventry,3.0,0.0,H,2.0,0.0,H,1.2,7.0,13.0,,,,1.19,6.77,14.19,1.57,2.38,1.55,2.38,-2.0,2.03,1.78,Arsenal,Coventry,arsenal,coventry
+2026-09-06,E0,England-PL,2627,Arsenal,Chelsea,2.0,1.0,H,1.0,1.0,D,1.67,3.75,5.25,,,,1.69,3.8,4.82,1.73,2.1,1.73,2.03,-0.75,1.88,1.98,Arsenal,Chelsea,arsenal,chelsea
+2026-10-10,E0,England-PL,2627,Arsenal,Leeds,2.0,1.0,H,0.0,0.0,D,1.4,5.0,7.5,,,,1.38,4.78,7.89,1.85,2.0,1.79,1.96,-1.25,1.9,1.95,Arsenal,Leeds,arsenal,leeds

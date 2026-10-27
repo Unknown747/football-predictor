@@ -1,0 +1,90 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-08,P1,Portugal-Liga1,2122,Pacos Ferreira,Famalicao,2.0,0.0,H,0.0,0.0,D,2.37,3.25,3.0,2.49,3.17,3.17,2.4,3.1,3.07,2.35,1.57,2.34,1.59,-0.25,2.1,1.8,Pacos Ferreira,Famalicao,pacos_ferreira,famalicao
+2021-08-20,P1,Portugal-Liga1,2122,Arouca,Famalicao,2.0,1.0,H,0.0,1.0,A,2.9,3.1,2.5,3.0,3.16,2.65,2.92,3.08,2.53,2.3,1.6,2.3,1.61,0.0,2.06,1.84,Arouca,Famalicao,arouca,famalicao
+2021-09-12,P1,Portugal-Liga1,2122,Moreirense,Famalicao,2.0,2.0,D,1.0,1.0,D,2.8,3.1,2.45,2.94,3.24,2.64,2.82,3.16,2.57,2.1,1.7,2.11,1.72,0.0,2.04,1.86,Moreirense,Famalicao,moreirense,famalicao
+2021-09-25,P1,Portugal-Liga1,2122,Tondela,Famalicao,3.0,2.0,H,1.0,1.0,D,3.4,3.1,2.2,3.34,3.37,2.31,3.18,3.31,2.26,2.05,1.75,2.04,1.78,0.25,1.93,1.97,Tondela,Famalicao,tondela,famalicao
+2021-10-23,P1,Portugal-Liga1,2122,Santa Clara,Famalicao,0.0,2.0,A,0.0,1.0,A,2.45,3.1,3.0,2.58,3.21,3.05,2.48,3.12,2.95,2.25,1.61,2.24,1.64,0.0,1.8,2.1,Santa Clara,Famalicao,santa_clara,famalicao
+2021-11-05,P1,Portugal-Liga1,2122,Boavista,Famalicao,2.0,5.0,A,1.0,3.0,A,4.0,3.3,1.95,4.04,3.27,2.1,3.79,3.29,2.05,2.1,1.7,2.13,1.7,0.5,1.83,2.07,Boavista,Famalicao,boavista,famalicao
+2021-12-05,P1,Portugal-Liga1,2122,Gil Vicente,Famalicao,4.0,0.0,H,3.0,0.0,H,2.87,3.0,2.62,2.94,3.1,2.74,2.82,3.11,2.6,2.15,1.66,2.19,1.67,0.0,2.01,1.89,Gil Vicente,Famalicao,gil_vicente,famalicao
+2021-12-17,P1,Portugal-Liga1,2122,Estoril,Famalicao,2.0,2.0,D,2.0,1.0,H,2.2,3.4,3.1,2.35,3.53,3.14,2.31,3.38,3.05,1.95,1.9,1.96,1.85,-0.25,2.02,1.88,Estoril,Famalicao,estoril,famalicao
+2022-01-09,P1,Portugal-Liga1,2122,Sp Braga,Famalicao,2.0,2.0,D,1.0,1.0,D,1.4,4.75,7.5,1.41,4.95,8.15,1.41,4.59,7.39,1.72,2.07,1.74,2.09,-1.25,1.99,1.91,Sp Braga,Famalicao,sp_braga,famalicao
+2022-01-23,P1,Portugal-Liga1,2122,Porto,Famalicao,3.0,1.0,H,2.0,0.0,H,1.2,6.5,12.0,1.2,6.97,14.46,1.21,6.36,13.01,1.53,2.4,1.52,2.48,-1.75,1.83,2.07,FC Porto,Famalicao,fc_porto,famalicao
+2022-02-06,P1,Portugal-Liga1,2122,Sp Lisbon,Famalicao,2.0,0.0,H,1.0,0.0,H,1.33,4.5,10.0,1.33,5.51,9.95,1.34,4.94,8.87,1.72,2.07,1.75,2.07,-1.5,2.05,1.85,Sp Lisbon,Famalicao,sp_lisbon,famalicao
+2022-02-20,P1,Portugal-Liga1,2122,Maritimo,Famalicao,0.0,1.0,A,0.0,1.0,A,2.4,3.3,2.87,2.6,3.36,2.91,2.52,3.22,2.84,2.15,1.66,2.15,1.69,0.0,1.73,2.08,Maritimo,Famalicao,maritimo,famalicao
+2022-03-06,P1,Portugal-Liga1,2122,Guimaraes,Famalicao,2.0,1.0,H,1.0,1.0,D,2.1,3.3,3.5,2.13,3.41,3.77,2.12,3.37,3.46,2.0,1.85,1.98,1.82,-0.25,1.84,2.06,Vitoria Guimaraes,Famalicao,vitoria_guimaraes,famalicao
+2022-03-18,P1,Portugal-Liga1,2122,Vizela,Famalicao,1.0,1.0,D,0.0,1.0,A,2.6,3.1,2.7,2.75,3.23,2.82,2.66,3.18,2.72,2.05,1.8,2.1,1.73,0.0,1.89,2.01,Vizela,Famalicao,vizela,famalicao
+2022-04-10,P1,Portugal-Liga1,2122,Portimonense,Famalicao,1.0,0.0,H,1.0,0.0,H,2.87,3.0,2.37,3.14,3.13,2.56,2.95,3.16,2.47,2.15,1.66,2.14,1.7,0.25,1.78,2.13,Portimonense,Famalicao,portimonense,famalicao
+2022-04-23,P1,Portugal-Liga1,2122,Benfica,Famalicao,0.0,0.0,D,0.0,0.0,D,1.33,5.0,8.0,1.34,5.48,9.87,1.34,5.09,8.51,1.6,2.3,1.6,2.32,-1.5,2.05,1.85,Benfica,Famalicao,benfica,famalicao
+2022-05-09,P1,Portugal-Liga1,2122,Belenenses,Famalicao,2.0,3.0,A,1.0,0.0,H,2.8,3.1,2.62,2.78,3.28,2.72,2.74,3.17,2.63,2.13,1.75,2.13,1.71,0.0,2.03,1.87,Belenenses,Famalicao,belenenses,famalicao
+2022-08-06,P1,Portugal-Liga1,2223,Estoril,Famalicao,2.0,0.0,H,2.0,0.0,H,2.5,3.0,2.8,2.65,3.34,2.85,2.55,3.23,2.78,2.07,1.72,2.06,1.74,0.0,1.89,2.01,Estoril,Famalicao,estoril,famalicao
+2022-08-22,P1,Portugal-Liga1,2223,Gil Vicente,Famalicao,0.0,0.0,D,0.0,0.0,D,2.2,3.5,3.2,2.27,3.38,3.36,2.21,3.35,3.22,1.98,1.88,1.99,1.81,-0.25,1.96,1.94,Gil Vicente,Famalicao,gil_vicente,famalicao
+2022-09-04,P1,Portugal-Liga1,2223,Portimonense,Famalicao,1.0,0.0,H,0.0,0.0,D,2.2,3.2,3.2,2.42,3.1,3.43,2.31,3.17,3.22,2.15,1.66,2.14,1.7,-0.25,2.02,1.88,Portimonense,Famalicao,portimonense,famalicao
+2022-09-18,P1,Portugal-Liga1,2223,Casa Pia,Famalicao,1.0,0.0,H,0.0,0.0,D,2.37,3.0,3.2,2.47,3.05,3.4,2.38,3.03,3.24,2.4,1.53,2.44,1.54,-0.25,2.05,1.85,Casa Pia,Famalicao,casa_pia,famalicao
+2022-10-10,P1,Portugal-Liga1,2223,Arouca,Famalicao,4.0,1.0,H,1.0,1.0,D,2.62,3.25,2.55,2.86,3.2,2.69,2.73,3.18,2.62,2.2,1.65,2.22,1.65,0.0,1.96,1.94,Arouca,Famalicao,arouca,famalicao
+2022-10-31,P1,Portugal-Liga1,2223,Guimaraes,Famalicao,3.0,2.0,H,1.0,0.0,H,1.95,3.6,3.5,2.05,3.31,4.08,2.02,3.26,3.78,2.3,1.6,2.29,1.6,-0.5,2.03,1.87,Vitoria Guimaraes,Famalicao,vitoria_guimaraes,famalicao
+2022-11-06,P1,Portugal-Liga1,2223,Maritimo,Famalicao,0.0,0.0,D,0.0,0.0,D,2.75,3.2,2.55,2.93,3.21,2.67,2.77,3.16,2.6,2.15,1.66,2.17,1.67,0.0,2.03,1.87,Maritimo,Famalicao,maritimo,famalicao
+2022-12-30,P1,Portugal-Liga1,2223,Chaves,Famalicao,0.0,2.0,A,0.0,1.0,A,2.5,3.2,2.8,2.57,3.16,3.06,2.49,3.15,2.94,2.15,1.67,2.19,1.66,0.0,1.78,2.13,Chaves,Famalicao,chaves,famalicao
+2023-01-15,P1,Portugal-Liga1,2223,Porto,Famalicao,4.0,1.0,H,3.0,0.0,H,1.18,6.5,15.0,1.19,7.29,16.29,1.18,6.87,15.2,1.57,2.35,1.55,2.42,-2.0,2.02,1.88,FC Porto,Famalicao,fc_porto,famalicao
+2023-02-05,P1,Portugal-Liga1,2223,Sp Braga,Famalicao,4.0,1.0,H,1.0,0.0,H,1.4,4.75,8.0,1.42,4.95,8.04,1.39,4.81,7.8,1.7,2.1,1.73,2.11,-1.25,1.91,1.99,Sp Braga,Famalicao,sp_braga,famalicao
+2023-02-19,P1,Portugal-Liga1,2223,Santa Clara,Famalicao,1.0,3.0,A,0.0,0.0,D,2.88,3.25,2.45,3.09,3.04,2.66,2.98,3.04,2.54,2.5,1.5,2.5,1.53,0.0,2.1,1.8,Santa Clara,Famalicao,santa_clara,famalicao
+2023-03-03,P1,Portugal-Liga1,2223,Benfica,Famalicao,2.0,0.0,H,1.0,0.0,H,1.17,8.5,13.0,1.16,8.13,19.16,1.16,7.47,16.52,1.53,2.4,1.53,2.47,-2.0,1.88,2.02,Benfica,Famalicao,benfica,famalicao
+2023-03-19,P1,Portugal-Liga1,2223,Boavista,Famalicao,1.0,2.0,A,0.0,0.0,D,2.38,3.2,3.0,2.5,3.1,3.28,2.4,3.11,3.13,2.35,1.57,2.36,1.58,-0.25,2.09,1.81,Boavista,Famalicao,boavista,famalicao
+2023-04-08,P1,Portugal-Liga1,2223,Pacos Ferreira,Famalicao,1.0,3.0,A,1.0,1.0,D,2.4,3.1,3.0,2.59,3.18,3.06,2.48,3.13,2.98,2.25,1.62,2.27,1.62,0.0,1.73,2.08,Pacos Ferreira,Famalicao,pacos_ferreira,famalicao
+2023-04-30,P1,Portugal-Liga1,2223,Sp Lisbon,Famalicao,2.0,1.0,H,1.0,0.0,H,1.3,5.5,10.0,1.27,6.05,12.76,1.27,5.66,10.82,1.6,2.3,1.6,2.3,-1.5,1.85,2.05,Sp Lisbon,Famalicao,sp_lisbon,famalicao
+2023-05-13,P1,Portugal-Liga1,2223,Vizela,Famalicao,0.0,0.0,D,0.0,0.0,D,2.3,3.3,2.75,2.48,3.25,3.17,2.4,3.25,3.01,2.08,1.73,2.09,1.73,-0.25,2.08,1.82,Vizela,Famalicao,vizela,famalicao
+2023-05-26,P1,Portugal-Liga1,2223,Rio Ave,Famalicao,2.0,2.0,D,0.0,2.0,A,2.9,3.25,2.4,3.11,3.39,2.43,2.94,3.31,2.42,2.02,1.82,2.0,1.8,0.25,1.84,2.06,Rio Ave,Famalicao,rio_ave,famalicao
+2023-08-11,P1,Portugal-Liga1,2324,Sp Braga,Famalicao,1.0,2.0,A,1.0,0.0,H,1.4,4.0,7.0,1.45,4.86,7.21,1.43,4.61,7.0,1.67,2.15,1.67,2.19,-1.25,2.02,1.88,Sp Braga,Famalicao,sp_braga,famalicao
+2023-08-27,P1,Portugal-Liga1,2324,Sp Lisbon,Famalicao,1.0,0.0,H,0.0,0.0,D,1.25,6.5,9.0,1.25,6.56,11.91,1.24,6.14,11.17,1.53,2.4,1.57,2.4,-1.75,2.01,1.89,Sp Lisbon,Famalicao,sp_lisbon,famalicao
+2023-09-16,P1,Portugal-Liga1,2324,Rio Ave,Famalicao,1.0,1.0,D,0.0,1.0,A,2.55,3.3,2.7,2.66,3.15,3.0,2.57,3.17,2.86,2.25,1.62,2.29,1.61,0.0,1.84,2.06,Rio Ave,Famalicao,rio_ave,famalicao
+2023-09-30,P1,Portugal-Liga1,2324,Boavista,Famalicao,2.0,2.0,D,1.0,1.0,D,2.15,3.4,3.2,2.21,3.51,3.44,2.2,3.43,3.25,2.0,1.85,1.97,1.83,-0.25,1.91,1.99,Boavista,Famalicao,boavista,famalicao
+2023-10-29,P1,Portugal-Liga1,2324,Estrela,Famalicao,1.0,0.0,H,0.0,0.0,D,2.45,3.25,2.8,2.58,3.29,2.98,2.5,3.24,2.91,2.2,1.65,2.21,1.67,0.0,1.8,2.1,Estrela Amadora,Famalicao,estrela_amadora,famalicao
+2023-11-11,P1,Portugal-Liga1,2324,Vizela,Famalicao,0.0,0.0,D,0.0,0.0,D,2.63,3.2,2.7,2.72,3.31,2.8,2.72,3.24,2.65,2.1,1.7,2.14,1.71,0.0,1.96,1.94,Vizela,Famalicao,vizela,famalicao
+2023-12-09,P1,Portugal-Liga1,2324,Portimonense,Famalicao,1.0,1.0,D,0.0,1.0,A,2.9,3.25,2.45,2.98,3.4,2.51,2.9,3.31,2.46,2.08,1.73,2.06,1.75,0.25,1.73,2.08,Portimonense,Famalicao,portimonense,famalicao
+2023-12-29,P1,Portugal-Liga1,2324,Benfica,Famalicao,3.0,0.0,H,1.0,0.0,H,1.29,5.5,10.0,1.25,6.36,12.42,1.25,5.98,11.39,1.62,2.25,1.63,2.28,-1.5,1.84,2.06,Benfica,Famalicao,benfica,famalicao
+2024-01-13,P1,Portugal-Liga1,2324,Casa Pia,Famalicao,0.0,2.0,A,0.0,1.0,A,2.45,3.0,3.0,2.58,3.1,3.16,2.51,3.07,3.02,2.5,1.5,2.51,1.52,-0.25,2.13,1.78,Casa Pia,Famalicao,casa_pia,famalicao
+2024-01-28,P1,Portugal-Liga1,2324,Moreirense,Famalicao,1.0,0.0,H,0.0,0.0,D,2.2,3.3,3.4,2.32,3.36,3.34,2.24,3.27,3.27,2.2,1.65,2.2,1.67,-0.25,1.95,1.95,Moreirense,Famalicao,moreirense,famalicao
+2024-02-10,P1,Portugal-Liga1,2324,Farense,Famalicao,1.0,1.0,D,0.0,1.0,A,2.7,3.2,2.75,2.73,3.18,2.88,2.65,3.14,2.77,2.25,1.62,2.24,1.64,0.0,1.89,2.01,Farense,Famalicao,farense,famalicao
+2024-02-23,P1,Portugal-Liga1,2324,Arouca,Famalicao,3.0,2.0,H,2.0,1.0,H,2.2,3.25,3.25,2.34,3.35,3.31,2.28,3.29,3.19,2.05,1.75,2.02,1.79,-0.25,1.98,1.92,Arouca,Famalicao,arouca,famalicao
+2024-03-09,P1,Portugal-Liga1,2324,Guimaraes,Famalicao,1.0,0.0,H,1.0,0.0,H,1.83,3.75,4.2,1.87,3.63,4.59,1.86,3.57,4.25,2.05,1.75,2.05,1.76,-0.5,1.87,2.03,Vitoria Guimaraes,Famalicao,vitoria_guimaraes,famalicao
+2024-03-29,P1,Portugal-Liga1,2324,Gil Vicente,Famalicao,1.0,2.0,A,0.0,1.0,A,2.45,3.1,3.2,2.46,3.06,3.33,2.43,3.06,3.17,2.4,1.53,2.4,1.56,-0.25,2.07,1.83,Gil Vicente,Famalicao,gil_vicente,famalicao
+2024-04-13,P1,Portugal-Liga1,2324,Porto,Famalicao,2.0,2.0,D,1.0,2.0,A,1.22,6.5,12.0,1.23,6.43,13.99,1.24,6.01,12.48,1.67,2.15,1.68,2.18,-1.75,2.05,1.85,FC Porto,Famalicao,fc_porto,famalicao
+2024-04-28,P1,Portugal-Liga1,2324,Estoril,Famalicao,1.0,0.0,H,1.0,0.0,H,2.25,3.3,3.25,2.33,3.34,3.28,2.29,3.32,3.11,2.0,1.85,1.96,1.84,-0.25,2.01,1.89,Estoril,Famalicao,estoril,famalicao
+2024-05-10,P1,Portugal-Liga1,2324,Chaves,Famalicao,0.0,1.0,A,0.0,1.0,A,2.63,3.3,2.63,2.76,3.28,2.73,2.7,3.27,2.65,2.05,1.8,2.02,1.8,0.0,1.95,1.95,Chaves,Famalicao,chaves,famalicao
+2024-08-19,P1,Portugal-Liga1,2425,Estrela,Famalicao,0.0,3.0,A,0.0,1.0,A,2.5,3.2,2.88,2.52,3.22,2.92,2.48,3.22,2.91,2.15,1.67,2.18,1.67,0.0,1.82,2.08,Estrela Amadora,Famalicao,estrela_amadora,famalicao
+2024-09-01,P1,Portugal-Liga1,2425,Guimaraes,Famalicao,2.0,1.0,H,1.0,1.0,D,1.95,3.4,3.9,1.95,3.36,4.12,1.97,3.38,3.92,2.15,1.67,2.17,1.68,-0.5,2.01,1.89,Vitoria Guimaraes,Famalicao,vitoria_guimaraes,famalicao
+2024-09-21,P1,Portugal-Liga1,2425,Moreirense,Famalicao,0.0,0.0,D,0.0,0.0,D,2.55,3.0,3.0,2.53,3.11,3.01,2.52,3.1,2.95,2.35,1.57,2.38,1.58,0.0,1.8,2.1,Moreirense,Famalicao,moreirense,famalicao
+2024-10-04,P1,Portugal-Liga1,2425,Rio Ave,Famalicao,1.0,1.0,D,0.0,0.0,D,2.9,3.0,2.6,3.07,2.99,2.69,2.96,2.98,2.62,2.6,1.48,2.62,1.49,0.0,2.08,1.82,Rio Ave,Famalicao,rio_ave,famalicao
+2024-11-03,P1,Portugal-Liga1,2425,AVS,Famalicao,2.0,3.0,A,2.0,2.0,D,3.1,3.0,2.45,3.13,3.03,2.5,3.06,3.03,2.47,2.5,1.5,2.52,1.52,0.25,1.78,2.13,AVS,Famalicao,avs,famalicao
+2024-12-01,P1,Portugal-Liga1,2425,Estoril,Famalicao,2.0,1.0,H,2.0,1.0,H,3.2,3.4,2.2,3.43,3.12,2.28,3.3,3.18,2.24,2.35,1.57,2.4,1.56,0.25,1.92,1.98,Estoril,Famalicao,estoril,famalicao
+2024-12-16,P1,Portugal-Liga1,2425,Sp Braga,Famalicao,3.0,3.0,D,0.0,1.0,A,1.48,4.2,6.5,1.49,4.32,6.59,1.48,4.26,6.44,1.88,1.98,1.84,1.94,-1.0,1.84,2.06,Sp Braga,Famalicao,sp_braga,famalicao
+2025-01-05,P1,Portugal-Liga1,2425,Casa Pia,Famalicao,1.0,1.0,D,1.0,1.0,D,2.35,3.1,3.2,2.4,3.06,3.27,2.37,3.02,3.17,2.5,1.5,2.51,1.5,-0.25,2.04,1.86,Casa Pia,Famalicao,casa_pia,famalicao
+2025-01-17,P1,Portugal-Liga1,2425,Benfica,Famalicao,4.0,0.0,H,2.0,0.0,H,1.25,6.25,9.5,1.23,6.6,12.43,1.23,6.22,11.37,1.53,2.4,1.54,2.41,-1.75,1.99,1.91,Benfica,Famalicao,benfica,famalicao
+2025-01-31,P1,Portugal-Liga1,2425,Boavista,Famalicao,0.0,2.0,A,0.0,1.0,A,3.6,2.9,2.2,3.68,3.08,2.28,3.52,3.03,2.23,2.5,1.5,2.54,1.51,0.25,1.95,1.95,Boavista,Famalicao,boavista,famalicao
+2025-02-17,P1,Portugal-Liga1,2425,Gil Vicente,Famalicao,0.0,2.0,A,0.0,1.0,A,2.5,3.0,3.0,2.59,2.93,3.11,2.53,2.97,3.02,2.5,1.5,2.53,1.5,0.0,1.79,2.11,Gil Vicente,Famalicao,gil_vicente,famalicao
+2025-03-01,P1,Portugal-Liga1,2425,Nacional,Famalicao,2.0,1.0,H,1.0,0.0,H,2.6,3.0,2.9,2.6,3.11,2.92,2.55,3.09,2.91,2.2,1.65,2.21,1.66,0.0,1.85,2.05,Nacional,Famalicao,nacional,famalicao
+2025-03-15,P1,Portugal-Liga1,2425,Sp Lisbon,Famalicao,3.0,1.0,H,1.0,1.0,D,1.3,5.5,9.0,1.31,5.06,10.5,1.3,5.18,10.08,1.67,2.15,1.65,2.2,-1.5,1.95,1.95,Sp Lisbon,Famalicao,sp_lisbon,famalicao
+2025-04-05,P1,Portugal-Liga1,2425,Arouca,Famalicao,1.0,2.0,A,0.0,1.0,A,2.5,3.2,2.9,2.53,3.2,2.92,2.47,3.22,2.88,2.1,1.7,2.12,1.7,0.0,1.8,2.1,Arouca,Famalicao,arouca,famalicao
+2025-04-18,P1,Portugal-Liga1,2425,Porto,Famalicao,2.0,1.0,H,1.0,0.0,H,1.48,4.75,6.0,1.48,4.37,6.63,1.46,4.36,6.55,1.93,1.93,1.88,1.91,-1.0,1.82,2.08,FC Porto,Famalicao,fc_porto,famalicao
+2025-05-03,P1,Portugal-Liga1,2425,Farense,Famalicao,2.0,1.0,H,1.0,1.0,D,2.6,3.1,2.8,2.58,3.23,2.84,2.55,3.2,2.78,2.2,1.65,2.21,1.65,0.0,1.83,2.03,Farense,Famalicao,farense,famalicao
+2025-05-10,P1,Portugal-Liga1,2425,Santa Clara,Famalicao,2.0,1.0,H,1.0,0.0,H,2.15,3.1,3.6,2.19,3.2,3.55,2.17,3.14,3.52,2.5,1.5,2.49,1.5,-0.25,1.89,2.01,Santa Clara,Famalicao,santa_clara,famalicao
+2025-08-16,P1,Portugal-Liga1,2526,Tondela,Famalicao,0.0,1.0,A,0.0,0.0,D,2.88,3.2,2.45,2.96,3.21,2.5,2.82,3.17,2.46,2.2,1.65,2.12,1.66,0.25,1.73,2.08,Tondela,Famalicao,tondela,famalicao
+2025-08-30,P1,Portugal-Liga1,2526,AVS,Famalicao,0.0,1.0,A,0.0,0.0,D,4.0,3.5,1.86,4.25,3.37,1.93,4.06,3.35,1.88,2.2,1.65,2.18,1.61,0.5,1.95,1.9,AVS,Famalicao,avs,famalicao
+2025-09-21,P1,Portugal-Liga1,2526,Casa Pia,Famalicao,1.0,1.0,D,0.0,0.0,D,3.4,3.0,2.25,3.39,3.12,2.31,3.25,3.08,2.24,2.4,1.53,2.34,1.54,0.25,1.88,1.98,Casa Pia,Famalicao,casa_pia,famalicao
+2025-10-05,P1,Portugal-Liga1,2526,Arouca,Famalicao,1.0,1.0,D,0.0,0.0,D,3.6,3.25,2.01,3.71,3.39,2.06,3.41,3.27,2.07,2.1,1.7,2.09,1.67,0.25,2.05,1.8,Arouca,Famalicao,arouca,famalicao
+2025-11-01,P1,Portugal-Liga1,2526,Nacional,Famalicao,0.0,1.0,A,0.0,1.0,A,3.2,3.25,2.2,3.14,3.37,2.3,3.08,3.33,2.21,2.05,1.75,1.96,1.77,0.25,1.88,1.98,Nacional,Famalicao,nacional,famalicao
+2025-11-29,P1,Portugal-Liga1,2526,Moreirense,Famalicao,2.0,2.0,D,0.0,1.0,A,3.4,3.25,2.1,3.46,3.33,2.17,3.4,3.24,2.11,2.1,1.7,2.09,1.67,0.25,1.98,1.88,Moreirense,Famalicao,moreirense,famalicao
+2025-12-22,P1,Portugal-Liga1,2526,Benfica,Famalicao,1.0,0.0,H,1.0,0.0,H,1.33,4.5,9.0,1.33,5.18,8.77,1.33,4.74,8.55,1.75,2.05,1.73,2.0,-1.5,2.05,1.8,Benfica,Famalicao,benfica,famalicao
+2026-01-04,P1,Portugal-Liga1,2526,Alverca,Famalicao,1.0,0.0,H,0.0,0.0,D,3.6,3.3,2.01,3.67,3.35,2.09,3.6,3.25,2.02,2.1,1.7,2.09,1.67,0.5,1.75,2.05,Alverca,Famalicao,alverca,famalicao
+2026-01-18,P1,Portugal-Liga1,2526,Santa Clara,Famalicao,0.0,1.0,A,0.0,0.0,D,2.82,3.0,2.55,,,,2.96,2.93,2.5,2.5,1.5,2.41,1.51,0.0,2.05,1.8,Santa Clara,Famalicao,santa_clara,famalicao
+2026-02-01,P1,Portugal-Liga1,2526,Gil Vicente,Famalicao,5.0,0.0,H,1.0,0.0,H,2.65,3.1,2.65,,,,2.64,3.06,2.69,2.3,1.6,2.21,1.6,0.0,1.93,1.93,Gil Vicente,Famalicao,gil_vicente,famalicao
+2026-02-15,P1,Portugal-Liga1,2526,Sp Lisbon,Famalicao,1.0,0.0,H,0.0,0.0,D,1.25,5.0,11.0,,,,1.3,5.03,8.8,1.67,2.15,1.61,2.18,-1.5,1.93,1.93,Sp Lisbon,Famalicao,sp_lisbon,famalicao
+2026-03-01,P1,Portugal-Liga1,2526,Rio Ave,Famalicao,0.0,0.0,D,0.0,0.0,D,4.1,3.4,1.81,,,,3.93,3.48,1.86,1.93,1.93,1.87,1.83,0.5,1.95,1.9,Rio Ave,Famalicao,rio_ave,famalicao
+2026-03-14,P1,Portugal-Liga1,2526,Guimaraes,Famalicao,1.0,2.0,A,1.0,1.0,D,2.35,3.25,2.85,,,,2.37,3.22,2.84,2.1,1.7,2.06,1.69,0.0,1.7,2.1,Vitoria Guimaraes,Famalicao,vitoria_guimaraes,famalicao
+2026-04-04,P1,Portugal-Liga1,2526,Porto,Famalicao,2.0,2.0,D,1.0,0.0,H,1.35,4.5,8.5,,,,1.36,4.41,8.3,1.95,1.85,1.9,1.81,-1.25,1.93,1.93,FC Porto,Famalicao,fc_porto,famalicao
+2026-04-19,P1,Portugal-Liga1,2526,Sp Braga,Famalicao,2.0,2.0,D,1.0,1.0,D,1.79,3.6,4.2,,,,1.78,3.51,4.2,1.98,1.88,1.9,1.82,-0.5,1.83,2.03,Sp Braga,Famalicao,sp_braga,famalicao
+2026-04-26,P1,Portugal-Liga1,2526,Estoril,Famalicao,0.0,1.0,A,0.0,0.0,D,3.1,3.5,2.15,,,,2.97,3.46,2.18,1.7,2.1,1.68,2.06,0.25,1.93,1.93,Estoril,Famalicao,estoril,famalicao
+2026-05-11,P1,Portugal-Liga1,2526,Estrela,Famalicao,0.0,0.0,D,0.0,0.0,D,3.5,3.6,1.96,,,,3.51,3.42,1.96,1.85,1.95,1.83,1.88,0.5,1.83,2.03,Estrela Amadora,Famalicao,estrela_amadora,famalicao
+2026-08-07,P1,Portugal-Liga1,2627,Estoril,Famalicao,1.0,1.0,D,0.0,1.0,A,2.75,3.3,2.4,,,,2.85,3.28,2.38,1.93,1.93,1.91,1.82,0.0,2.05,1.8,Estoril,Famalicao,estoril,famalicao
+2026-08-23,P1,Portugal-Liga1,2627,Santa Clara,Famalicao,1.0,0.0,H,1.0,0.0,H,2.65,2.85,2.82,,,,2.61,2.95,2.78,2.5,1.5,2.46,1.5,0.0,1.88,1.98,Santa Clara,Famalicao,santa_clara,famalicao
+2026-09-05,P1,Portugal-Liga1,2627,Estrela,Famalicao,2.0,2.0,D,0.0,1.0,A,3.0,3.2,2.35,,,,2.98,3.17,2.35,2.15,1.67,2.12,1.65,0.25,1.78,2.1,Estrela Amadora,Famalicao,estrela_amadora,famalicao
+2026-09-19,P1,Portugal-Liga1,2627,Nacional,Famalicao,0.0,4.0,A,0.0,3.0,A,3.6,3.4,2.01,,,,3.5,3.28,2.05,2.1,1.7,2.04,1.71,0.25,2.05,1.8,Nacional,Famalicao,nacional,famalicao

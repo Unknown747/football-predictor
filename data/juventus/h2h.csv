@@ -1,0 +1,198 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder,opponent,venue,team_goals,opp_goals,h2h_match_no,h2h_total_vs_opp
+2021-08-22,I1,Italy-SA,2122,Udinese,Juventus,2.0,2.0,D,0.0,2.0,A,7.5,4.33,1.45,7.59,4.48,1.49,7.21,4.35,1.47,1.72,2.1,1.77,2.08,1.0,2.05,1.75,Udinese,Juventus,udinese,juventus,Udinese,A,2.0,2.0,1,10
+2021-08-28,I1,Italy-SA,2122,Juventus,Empoli,0.0,1.0,A,0.0,1.0,A,1.22,6.5,12.0,1.27,6.35,11.86,1.26,6.25,11.51,1.44,2.75,1.47,2.68,-1.75,2.03,1.9,Juventus,Empoli,juventus,empoli,Empoli,H,0.0,1.0,1,8
+2021-09-11,I1,Italy-SA,2122,Napoli,Juventus,2.0,1.0,H,0.0,1.0,A,2.4,3.6,2.8,2.51,3.57,2.91,2.43,3.47,2.89,1.91,1.99,1.88,1.94,-0.25,2.13,1.81,Napoli,Juventus,napoli,juventus,Napoli,A,1.0,2.0,1,10
+2021-09-19,I1,Italy-SA,2122,Juventus,Milan,1.0,1.0,D,1.0,0.0,H,2.1,3.4,3.5,2.13,3.69,3.55,2.13,3.55,3.43,1.72,2.1,1.78,2.05,-0.25,1.84,2.09,Juventus,AC Milan,juventus,ac_milan,AC Milan,H,1.0,1.0,1,11
+2021-09-22,I1,Italy-SA,2122,Spezia,Juventus,2.0,3.0,A,1.0,1.0,D,8.0,5.5,1.33,8.94,5.42,1.37,8.62,5.21,1.36,1.57,2.37,1.54,2.47,1.5,1.91,1.99,Spezia,Juventus,spezia,juventus,Spezia,A,3.0,2.0,1,4
+2021-09-26,I1,Italy-SA,2122,Juventus,Sampdoria,3.0,2.0,H,2.0,1.0,H,1.3,5.75,9.0,1.36,5.43,9.52,1.35,5.26,8.91,1.57,2.37,1.58,2.41,-1.5,2.06,1.87,Juventus,Sampdoria,juventus,sampdoria,Sampdoria,H,3.0,2.0,1,4
+2021-10-02,I1,Italy-SA,2122,Torino,Juventus,0.0,1.0,A,0.0,0.0,D,4.5,3.5,1.8,4.72,3.7,1.85,4.46,3.53,1.86,1.96,1.94,1.91,1.92,0.5,2.07,1.86,Torino,Juventus,torino,juventus,Torino,A,1.0,0.0,1,10
+2021-10-17,I1,Italy-SA,2122,Juventus,Roma,1.0,0.0,H,1.0,0.0,H,1.85,3.8,4.0,1.92,3.72,4.3,1.9,3.67,4.07,1.72,2.1,1.7,2.18,-0.5,1.89,2.01,Juventus,AS Roma,juventus,as_roma,AS Roma,H,1.0,0.0,1,10
+2021-10-24,I1,Italy-SA,2122,Inter,Juventus,1.0,1.0,D,1.0,0.0,H,2.05,3.6,3.4,2.17,3.76,3.39,2.12,3.6,3.37,1.72,2.1,1.76,2.08,-0.25,1.85,2.08,Inter Milan,Juventus,inter_milan,juventus,Inter Milan,A,1.0,1.0,1,10
+2021-10-27,I1,Italy-SA,2122,Juventus,Sassuolo,1.0,2.0,A,0.0,1.0,A,1.44,4.75,6.5,1.43,5.15,7.5,1.44,4.84,6.83,1.53,2.5,1.51,2.55,-1.25,2.0,1.93,Juventus,Sassuolo,juventus,sassuolo,Sassuolo,H,1.0,2.0,1,9
+2021-10-30,I1,Italy-SA,2122,Verona,Juventus,2.0,1.0,H,2.0,0.0,H,4.0,3.8,1.85,4.24,3.9,1.88,4.06,3.74,1.87,1.72,2.1,1.75,2.09,0.5,2.03,1.9,Hellas Verona,Juventus,hellas_verona,juventus,Hellas Verona,A,1.0,2.0,1,10
+2021-11-06,I1,Italy-SA,2122,Juventus,Fiorentina,1.0,0.0,H,0.0,0.0,D,1.57,4.2,5.5,1.64,4.06,5.91,1.62,4.02,5.59,1.72,2.1,1.73,2.12,-1.0,2.07,1.83,Juventus,Fiorentina,juventus,fiorentina,Fiorentina,H,1.0,0.0,1,10
+2021-11-20,I1,Italy-SA,2122,Lazio,Juventus,0.0,2.0,A,0.0,1.0,A,3.0,3.4,2.35,3.16,3.43,2.42,3.04,3.41,2.35,1.94,1.96,1.88,1.95,0.25,1.85,2.05,Lazio,Juventus,lazio,juventus,Lazio,A,2.0,0.0,1,11
+2021-11-27,I1,Italy-SA,2122,Juventus,Atalanta,0.0,1.0,A,0.0,1.0,A,2.2,3.5,3.25,2.24,3.55,3.41,2.18,3.49,3.33,1.72,2.1,1.71,2.13,-0.25,1.91,2.02,Juventus,Atalanta,juventus,atalanta,Atalanta,H,0.0,1.0,1,11
+2021-11-30,I1,Italy-SA,2122,Salernitana,Juventus,0.0,2.0,A,0.0,1.0,A,9.5,5.5,1.3,9.52,5.49,1.35,9.65,5.23,1.33,1.72,2.1,1.74,2.1,1.5,1.91,2.02,Salernitana,Juventus,salernitana,juventus,Salernitana,A,2.0,0.0,1,6
+2021-12-05,I1,Italy-SA,2122,Juventus,Genoa,2.0,0.0,H,1.0,0.0,H,1.25,6.0,12.0,1.26,6.23,13.18,1.25,5.91,12.41,1.66,2.2,1.66,2.23,-1.75,2.01,1.92,Juventus,Genoa,juventus,genoa,Genoa,H,2.0,0.0,1,8
+2021-12-11,I1,Italy-SA,2122,Venezia,Juventus,1.0,1.0,D,0.0,1.0,A,9.0,4.75,1.36,9.46,4.95,1.39,8.54,4.8,1.39,1.72,2.1,1.75,2.09,1.25,1.98,1.95,Venezia,Juventus,venezia,juventus,Venezia,A,1.0,1.0,1,4
+2021-12-18,I1,Italy-SA,2122,Bologna,Juventus,0.0,2.0,A,0.0,1.0,A,4.1,3.7,1.83,4.35,3.66,1.93,4.18,3.62,1.89,1.96,1.94,1.91,1.91,0.5,1.99,1.94,Bologna,Juventus,bologna,juventus,Bologna,A,2.0,0.0,1,10
+2021-12-21,I1,Italy-SA,2122,Juventus,Cagliari,2.0,0.0,H,1.0,0.0,H,1.18,6.5,17.0,1.19,7.0,20.0,1.2,6.61,17.1,1.72,2.1,1.7,2.17,-1.75,1.89,2.01,Juventus,Cagliari,juventus,cagliari,Cagliari,H,2.0,0.0,1,9
+2022-01-06,I1,Italy-SA,2122,Juventus,Napoli,1.0,1.0,D,0.0,1.0,A,1.9,3.6,4.0,1.99,3.59,4.14,1.96,3.52,3.96,2.04,1.86,2.01,1.82,-0.5,1.98,1.92,Juventus,Napoli,juventus,napoli,Napoli,H,1.0,1.0,2,10
+2022-01-09,I1,Italy-SA,2122,Roma,Juventus,3.0,4.0,A,1.0,1.0,D,3.3,3.5,2.15,3.37,3.4,2.26,3.29,3.44,2.2,1.93,1.97,1.9,1.92,0.25,1.96,1.94,AS Roma,Juventus,as_roma,juventus,AS Roma,A,4.0,3.0,2,10
+2022-01-15,I1,Italy-SA,2122,Juventus,Udinese,2.0,0.0,H,1.0,0.0,H,1.4,4.75,7.5,1.39,4.71,9.26,1.39,4.71,8.94,1.92,1.98,1.87,1.95,-1.25,1.97,1.93,Juventus,Udinese,juventus,udinese,Udinese,H,2.0,0.0,2,10
+2022-01-23,I1,Italy-SA,2122,Milan,Juventus,0.0,0.0,D,0.0,0.0,D,2.62,3.3,2.7,2.78,3.17,2.8,2.68,3.23,2.73,1.99,1.91,1.93,1.89,0.0,1.93,1.97,AC Milan,Juventus,ac_milan,juventus,AC Milan,A,0.0,0.0,2,11
+2022-02-06,I1,Italy-SA,2122,Juventus,Verona,2.0,0.0,H,1.0,0.0,H,1.53,4.33,6.0,1.54,4.41,6.21,1.55,4.29,6.04,1.72,2.1,1.76,2.08,-1.0,1.96,1.94,Juventus,Hellas Verona,juventus,hellas_verona,Hellas Verona,H,2.0,0.0,2,10
+2022-02-13,I1,Italy-SA,2122,Atalanta,Juventus,1.0,1.0,D,0.0,0.0,D,2.8,3.5,2.37,3.0,3.54,2.47,2.88,3.42,2.47,1.92,1.98,1.87,1.96,0.25,1.75,2.05,Atalanta,Juventus,atalanta,juventus,Atalanta,A,1.0,1.0,2,11
+2022-02-18,I1,Italy-SA,2122,Juventus,Torino,1.0,1.0,D,1.0,0.0,H,1.57,3.75,6.5,1.65,3.7,6.67,1.64,3.73,6.16,2.1,1.72,2.11,1.75,-0.75,1.83,2.07,Juventus,Torino,juventus,torino,Torino,H,1.0,1.0,2,10
+2022-02-26,I1,Italy-SA,2122,Empoli,Juventus,2.0,3.0,A,1.0,2.0,A,5.0,4.0,1.65,5.51,4.06,1.68,5.16,3.98,1.67,1.72,2.1,1.74,2.12,0.75,2.02,1.88,Empoli,Juventus,empoli,juventus,Empoli,A,3.0,2.0,2,8
+2022-03-06,I1,Italy-SA,2122,Juventus,Spezia,1.0,0.0,H,1.0,0.0,H,1.22,6.25,13.0,1.24,6.34,14.8,1.25,6.08,13.06,1.66,2.2,1.65,2.25,-1.75,1.99,1.91,Juventus,Spezia,juventus,spezia,Spezia,H,1.0,0.0,2,4
+2022-03-12,I1,Italy-SA,2122,Sampdoria,Juventus,1.0,3.0,A,0.0,2.0,A,5.5,3.75,1.65,5.68,3.9,1.69,5.39,3.84,1.67,1.97,1.93,1.9,1.92,0.75,2.05,1.85,Sampdoria,Juventus,sampdoria,juventus,Sampdoria,A,3.0,1.0,2,4
+2022-03-20,I1,Italy-SA,2122,Juventus,Salernitana,2.0,0.0,H,2.0,0.0,H,1.2,7.0,13.0,1.2,7.31,16.39,1.21,6.7,14.72,1.61,2.3,1.63,2.29,-1.75,1.88,2.02,Juventus,Salernitana,juventus,salernitana,Salernitana,H,2.0,0.0,2,6
+2022-04-03,I1,Italy-SA,2122,Juventus,Inter,0.0,1.0,A,0.0,1.0,A,2.8,3.4,2.5,2.9,3.37,2.63,2.83,3.31,2.58,2.04,1.86,1.98,1.84,0.0,2.05,1.85,Juventus,Inter Milan,juventus,inter_milan,Inter Milan,H,0.0,1.0,2,10
+2022-04-09,I1,Italy-SA,2122,Cagliari,Juventus,1.0,2.0,A,1.0,1.0,D,6.0,4.0,1.6,6.42,4.05,1.61,6.0,3.94,1.6,2.05,1.85,2.0,1.83,1.0,1.83,2.07,Cagliari,Juventus,cagliari,juventus,Cagliari,A,2.0,1.0,2,9
+2022-04-16,I1,Italy-SA,2122,Juventus,Bologna,1.0,1.0,D,0.0,0.0,D,1.33,5.0,10.0,1.34,5.31,10.98,1.35,5.01,9.81,1.86,2.04,1.81,2.02,-1.5,2.0,1.8,Juventus,Bologna,juventus,bologna,Bologna,H,1.0,1.0,2,10
+2022-04-25,I1,Italy-SA,2122,Sassuolo,Juventus,1.0,2.0,A,1.0,1.0,D,4.2,3.9,1.8,4.43,4.02,1.82,4.24,3.89,1.81,1.66,2.2,1.67,2.22,0.75,1.85,2.05,Sassuolo,Juventus,sassuolo,juventus,Sassuolo,A,2.0,1.0,2,9
+2022-05-01,I1,Italy-SA,2122,Juventus,Venezia,2.0,1.0,H,1.0,0.0,H,1.2,6.5,15.0,1.21,7.11,16.17,1.21,6.75,14.32,1.53,2.5,1.53,2.52,-2.0,2.06,1.84,Juventus,Venezia,juventus,venezia,Venezia,H,2.0,1.0,2,4
+2022-05-06,I1,Italy-SA,2122,Genoa,Juventus,2.0,1.0,H,0.0,0.0,D,3.75,3.3,2.05,3.92,3.37,2.12,3.91,3.26,2.09,2.5,1.53,2.35,1.61,0.25,2.05,1.75,Genoa,Juventus,genoa,juventus,Genoa,A,1.0,2.0,2,8
+2022-05-16,I1,Italy-SA,2122,Juventus,Lazio,2.0,2.0,D,2.0,0.0,H,2.25,3.6,2.9,2.43,3.48,3.04,2.34,3.52,3.01,1.72,2.1,1.78,2.05,-0.25,2.02,1.88,Juventus,Lazio,juventus,lazio,Lazio,H,2.0,2.0,2,11
+2022-05-21,I1,Italy-SA,2122,Fiorentina,Juventus,2.0,0.0,H,1.0,0.0,H,1.8,3.8,4.2,1.8,3.98,4.49,1.83,3.84,4.26,1.66,2.2,1.66,2.24,-0.75,2.04,1.86,Fiorentina,Juventus,fiorentina,juventus,Fiorentina,A,0.0,2.0,2,10
+2022-08-15,I1,Italy-SA,2223,Juventus,Sassuolo,3.0,0.0,H,2.0,0.0,H,1.44,4.75,7.0,1.5,4.83,6.61,1.46,4.81,6.65,1.53,2.5,1.52,2.52,-1.25,1.99,1.91,Juventus,Sassuolo,juventus,sassuolo,Sassuolo,H,3.0,0.0,3,9
+2022-08-22,I1,Italy-SA,2223,Sampdoria,Juventus,0.0,0.0,D,0.0,0.0,D,5.75,4.0,1.6,6.12,4.1,1.62,5.74,4.06,1.61,1.89,2.01,1.85,1.96,1.0,1.83,2.07,Sampdoria,Juventus,sampdoria,juventus,Sampdoria,A,0.0,0.0,3,4
+2022-08-27,I1,Italy-SA,2223,Juventus,Roma,1.0,1.0,D,1.0,0.0,H,2.3,3.3,3.1,2.49,3.23,3.22,2.38,3.22,3.21,2.1,1.72,2.06,1.78,-0.25,2.05,1.85,Juventus,AS Roma,juventus,as_roma,AS Roma,H,1.0,1.0,3,10
+2022-08-31,I1,Italy-SA,2223,Juventus,Spezia,2.0,0.0,H,1.0,0.0,H,1.28,5.75,12.0,1.29,5.91,11.23,1.27,5.79,11.84,1.66,2.2,1.66,2.23,-1.5,1.77,2.02,Juventus,Spezia,juventus,spezia,Spezia,H,2.0,0.0,3,4
+2022-09-03,I1,Italy-SA,2223,Fiorentina,Juventus,1.0,1.0,D,1.0,1.0,D,3.0,3.25,2.4,3.17,3.27,2.49,3.06,3.22,2.46,2.1,1.72,2.11,1.74,0.25,1.81,2.09,Fiorentina,Juventus,fiorentina,juventus,Fiorentina,A,1.0,1.0,3,10
+2022-09-11,I1,Italy-SA,2223,Juventus,Salernitana,2.0,2.0,D,0.0,2.0,A,1.4,4.5,8.5,1.44,4.86,8.08,1.41,4.73,8.11,1.8,2.0,1.78,2.05,-1.25,1.95,1.95,Juventus,Salernitana,juventus,salernitana,Salernitana,H,2.0,2.0,3,6
+2022-09-18,I1,Italy-SA,2223,Monza,Juventus,1.0,0.0,H,0.0,0.0,D,4.5,3.6,1.8,4.62,3.73,1.85,4.41,3.63,1.84,1.98,1.92,1.94,1.87,0.5,2.05,1.85,Monza,Juventus,monza,juventus,Monza,A,0.0,1.0,1,6
+2022-10-02,I1,Italy-SA,2223,Juventus,Bologna,3.0,0.0,H,1.0,0.0,H,1.5,4.33,6.5,1.53,4.43,6.79,1.51,4.3,6.48,1.88,2.02,1.84,1.98,-1.0,1.86,2.04,Juventus,Bologna,juventus,bologna,Bologna,H,3.0,0.0,3,10
+2022-10-08,I1,Italy-SA,2223,Milan,Juventus,2.0,0.0,H,1.0,0.0,H,2.05,3.4,3.6,2.11,3.46,3.84,2.11,3.38,3.65,2.1,1.72,2.11,1.75,-0.25,1.77,2.02,AC Milan,Juventus,ac_milan,juventus,AC Milan,A,0.0,2.0,3,11
+2022-10-15,I1,Italy-SA,2223,Torino,Juventus,0.0,1.0,A,0.0,0.0,D,3.0,3.1,2.5,3.13,3.19,2.57,3.05,3.17,2.5,2.3,1.61,2.28,1.64,0.25,1.73,2.08,Torino,Juventus,torino,juventus,Torino,A,1.0,0.0,3,10
+2022-10-21,I1,Italy-SA,2223,Juventus,Empoli,4.0,0.0,H,1.0,0.0,H,1.4,5.0,7.0,1.42,5.12,7.81,1.4,4.94,7.8,1.66,2.2,1.68,2.22,-1.25,1.89,2.01,Juventus,Empoli,juventus,empoli,Empoli,H,4.0,0.0,3,8
+2022-10-29,I1,Italy-SA,2223,Lecce,Juventus,0.0,1.0,A,0.0,0.0,D,4.33,3.3,1.9,4.75,3.42,1.92,4.42,3.42,1.89,2.2,1.66,2.15,1.7,0.5,1.99,1.91,Lecce,Juventus,lecce,juventus,Lecce,A,1.0,0.0,1,8
+2022-11-06,I1,Italy-SA,2223,Juventus,Inter,2.0,0.0,H,0.0,0.0,D,3.1,3.4,2.37,3.19,3.34,2.44,3.05,3.35,2.39,1.99,1.91,1.96,1.86,0.25,1.81,2.09,Juventus,Inter Milan,juventus,inter_milan,Inter Milan,H,2.0,0.0,3,10
+2022-11-10,I1,Italy-SA,2223,Verona,Juventus,0.0,1.0,A,0.0,0.0,D,5.0,3.8,1.66,5.63,3.82,1.71,5.26,3.82,1.69,2.01,1.89,1.96,1.86,0.75,2.0,1.9,Hellas Verona,Juventus,hellas_verona,juventus,Hellas Verona,A,1.0,0.0,3,10
+2022-11-13,I1,Italy-SA,2223,Juventus,Lazio,3.0,0.0,H,1.0,0.0,H,1.95,3.5,4.0,2.03,3.48,4.11,2.0,3.44,3.95,2.05,1.85,2.01,1.82,-0.5,2.0,1.9,Juventus,Lazio,juventus,lazio,Lazio,H,3.0,0.0,3,11
+2023-01-04,I1,Italy-SA,2223,Cremonese,Juventus,0.0,1.0,A,0.0,0.0,D,4.75,3.8,1.67,5.28,3.85,1.74,5.14,3.81,1.7,2.02,1.88,1.98,1.85,0.75,1.98,1.92,Cremonese,Juventus,cremonese,juventus,Cremonese,A,1.0,0.0,1,4
+2023-01-07,I1,Italy-SA,2223,Juventus,Udinese,1.0,0.0,H,0.0,0.0,D,1.75,3.8,4.5,1.78,3.84,4.99,1.78,3.75,4.66,2.01,1.89,1.95,1.88,-0.75,2.01,1.89,Juventus,Udinese,juventus,udinese,Udinese,H,1.0,0.0,3,10
+2023-01-13,I1,Italy-SA,2223,Napoli,Juventus,5.0,1.0,H,2.0,1.0,H,1.91,3.5,4.0,1.99,3.54,4.2,1.96,3.49,4.06,2.06,1.84,2.04,1.8,-0.5,1.98,1.95,Napoli,Juventus,napoli,juventus,Napoli,A,1.0,5.0,3,10
+2023-01-22,I1,Italy-SA,2223,Juventus,Atalanta,3.0,3.0,D,2.0,1.0,H,2.1,3.4,3.5,2.2,3.47,3.57,2.13,3.44,3.51,2.05,1.85,2.0,1.83,-0.25,1.85,2.05,Juventus,Atalanta,juventus,atalanta,Atalanta,H,3.0,3.0,3,11
+2023-01-29,I1,Italy-SA,2223,Juventus,Monza,0.0,2.0,A,0.0,2.0,A,1.55,4.0,6.5,1.56,4.12,7.16,1.55,4.08,6.49,1.96,1.94,1.92,1.91,-1.0,1.96,1.94,Juventus,Monza,juventus,monza,Monza,H,0.0,2.0,2,6
+2023-02-07,I1,Italy-SA,2223,Salernitana,Juventus,0.0,3.0,A,0.0,2.0,A,7.0,4.2,1.5,7.38,4.32,1.52,7.07,4.25,1.5,2.02,1.88,1.97,1.87,1.0,2.07,1.86,Salernitana,Juventus,salernitana,juventus,Salernitana,A,3.0,0.0,4,6
+2023-02-12,I1,Italy-SA,2223,Juventus,Fiorentina,1.0,0.0,H,1.0,0.0,H,1.83,3.5,4.5,1.88,3.65,4.55,1.85,3.6,4.39,2.07,1.83,2.05,1.79,-0.5,1.86,2.07,Juventus,Fiorentina,juventus,fiorentina,Fiorentina,H,1.0,0.0,4,10
+2023-02-19,I1,Italy-SA,2223,Spezia,Juventus,0.0,2.0,A,0.0,1.0,A,6.0,3.75,1.62,6.09,3.99,1.64,5.81,3.92,1.62,2.07,1.83,2.04,1.8,0.75,2.02,1.77,Spezia,Juventus,spezia,juventus,Spezia,A,2.0,0.0,4,4
+2023-02-28,I1,Italy-SA,2223,Juventus,Torino,4.0,2.0,H,2.0,2.0,D,1.73,3.4,5.5,1.8,3.49,5.47,1.78,3.43,5.28,2.5,1.53,2.49,1.55,-0.75,2.05,1.88,Juventus,Torino,juventus,torino,Torino,H,4.0,2.0,4,10
+2023-03-05,I1,Italy-SA,2223,Roma,Juventus,1.0,0.0,H,0.0,0.0,D,2.7,3.0,2.88,2.72,3.15,2.92,2.68,3.08,2.87,2.5,1.53,2.45,1.56,0.0,1.9,2.0,AS Roma,Juventus,as_roma,juventus,AS Roma,A,0.0,1.0,4,10
+2023-03-12,I1,Italy-SA,2223,Juventus,Sampdoria,4.0,2.0,H,2.0,2.0,D,1.33,4.75,10.0,1.36,4.99,10.48,1.35,4.88,9.97,2.05,1.88,1.98,1.84,-1.25,1.86,2.07,Juventus,Sampdoria,juventus,sampdoria,Sampdoria,H,4.0,2.0,4,4
+2023-03-19,I1,Italy-SA,2223,Inter,Juventus,0.0,1.0,A,0.0,1.0,A,1.91,3.4,4.0,2.0,3.52,4.07,1.98,3.45,4.01,2.1,1.73,2.11,1.75,-0.5,1.98,1.92,Inter Milan,Juventus,inter_milan,juventus,Inter Milan,A,1.0,0.0,4,10
+2023-04-01,I1,Italy-SA,2223,Juventus,Verona,1.0,0.0,H,0.0,0.0,D,1.4,4.2,9.0,1.43,4.42,9.42,1.42,4.34,8.79,2.1,1.73,2.14,1.72,-1.25,2.05,1.85,Juventus,Hellas Verona,juventus,hellas_verona,Hellas Verona,H,1.0,0.0,4,10
+2023-04-08,I1,Italy-SA,2223,Lazio,Juventus,2.0,1.0,H,1.0,1.0,D,2.75,2.9,2.9,2.8,3.03,2.94,2.76,2.97,2.89,2.63,1.5,2.59,1.5,0.0,1.89,2.01,Lazio,Juventus,lazio,juventus,Lazio,A,1.0,2.0,4,11
+2023-04-16,I1,Italy-SA,2223,Sassuolo,Juventus,1.0,0.0,H,0.0,0.0,D,3.8,3.5,2.0,3.77,3.54,2.08,3.72,3.46,2.04,2.06,1.84,2.03,1.8,0.5,1.83,2.07,Sassuolo,Juventus,sassuolo,juventus,Sassuolo,A,0.0,1.0,4,9
+2023-04-23,I1,Italy-SA,2223,Juventus,Napoli,0.0,1.0,A,0.0,0.0,D,2.88,3.1,2.6,2.9,3.25,2.66,2.85,3.17,2.63,2.2,1.67,2.23,1.67,0.0,2.03,1.87,Juventus,Napoli,juventus,napoli,Napoli,H,0.0,1.0,4,10
+2023-04-30,I1,Italy-SA,2223,Bologna,Juventus,1.0,1.0,D,1.0,0.0,H,3.4,3.3,2.2,3.6,3.26,2.26,3.5,3.2,2.22,2.38,1.57,2.41,1.57,0.25,1.99,1.91,Bologna,Juventus,bologna,juventus,Bologna,A,1.0,1.0,4,10
+2023-05-03,I1,Italy-SA,2223,Juventus,Lecce,2.0,1.0,H,2.0,1.0,H,1.6,3.8,6.0,1.6,3.9,6.74,1.59,3.81,6.58,2.2,1.67,2.24,1.66,-1.0,2.11,1.79,Juventus,Lecce,juventus,lecce,Lecce,H,2.0,1.0,2,8
+2023-05-07,I1,Italy-SA,2223,Atalanta,Juventus,0.0,2.0,A,0.0,0.0,D,2.3,3.4,3.1,2.43,3.39,3.17,2.4,3.32,3.05,2.1,1.73,2.08,1.76,-0.25,2.08,1.82,Atalanta,Juventus,atalanta,juventus,Atalanta,A,2.0,0.0,4,11
+2023-05-14,I1,Italy-SA,2223,Juventus,Cremonese,2.0,0.0,H,0.0,0.0,D,1.36,4.75,9.0,1.38,5.11,9.0,1.37,4.94,8.92,1.8,2.0,1.78,2.05,-1.5,2.02,1.77,Juventus,Cremonese,juventus,cremonese,Cremonese,H,2.0,0.0,2,4
+2023-05-22,I1,Italy-SA,2223,Empoli,Juventus,4.0,1.0,H,2.0,0.0,H,5.5,3.75,1.65,5.26,3.95,1.7,5.17,3.85,1.69,1.99,1.91,1.94,1.88,0.75,2.0,1.9,Empoli,Juventus,empoli,juventus,Empoli,A,1.0,4.0,4,8
+2023-05-28,I1,Italy-SA,2223,Juventus,Milan,0.0,1.0,A,0.0,1.0,A,2.3,3.4,3.1,2.41,3.48,3.08,2.36,3.37,3.06,2.1,1.73,2.11,1.75,-0.25,2.05,1.85,Juventus,AC Milan,juventus,ac_milan,AC Milan,H,0.0,1.0,4,11
+2023-06-04,I1,Italy-SA,2223,Udinese,Juventus,0.0,1.0,A,0.0,0.0,D,3.8,3.5,1.95,3.86,3.7,1.98,3.81,3.58,1.97,1.97,1.96,1.93,1.89,0.5,1.91,2.02,Udinese,Juventus,udinese,juventus,Udinese,A,1.0,0.0,4,10
+2023-08-20,I1,Italy-SA,2324,Udinese,Juventus,0.0,3.0,A,0.0,3.0,A,4.33,3.6,1.83,4.64,3.66,1.85,4.46,3.54,1.86,2.1,1.73,2.1,1.75,0.5,2.05,1.85,Udinese,Juventus,udinese,juventus,Udinese,A,3.0,0.0,5,10
+2023-08-27,I1,Italy-SA,2324,Juventus,Bologna,1.0,1.0,D,0.0,1.0,A,1.5,4.5,6.0,1.51,4.42,7.08,1.49,4.39,6.86,1.93,1.97,1.91,1.92,-1.0,1.83,2.07,Juventus,Bologna,juventus,bologna,Bologna,H,1.0,1.0,5,10
+2023-09-03,I1,Italy-SA,2324,Empoli,Juventus,0.0,2.0,A,0.0,1.0,A,5.25,3.8,1.67,5.43,3.98,1.68,5.18,3.9,1.67,1.94,1.96,1.91,1.92,0.75,2.03,1.9,Empoli,Juventus,empoli,juventus,Empoli,A,2.0,0.0,5,8
+2023-09-16,I1,Italy-SA,2324,Juventus,Lazio,3.0,1.0,H,2.0,0.0,H,1.91,3.4,4.33,1.94,3.47,4.41,1.93,3.44,4.24,2.1,1.73,2.12,1.74,-0.5,1.93,1.97,Juventus,Lazio,juventus,lazio,Lazio,H,3.0,1.0,5,11
+2023-09-23,I1,Italy-SA,2324,Sassuolo,Juventus,4.0,2.0,H,2.0,1.0,H,4.0,4.0,1.8,4.35,4.03,1.81,4.23,3.93,1.8,1.73,2.1,1.73,2.13,0.75,1.85,2.05,Sassuolo,Juventus,sassuolo,juventus,Sassuolo,A,2.0,4.0,5,9
+2023-09-26,I1,Italy-SA,2324,Juventus,Lecce,1.0,0.0,H,0.0,0.0,D,1.5,4.2,7.0,1.52,4.31,7.27,1.5,4.27,7.05,1.96,1.94,1.91,1.92,-1.0,1.87,2.03,Juventus,Lecce,juventus,lecce,Lecce,H,1.0,0.0,3,8
+2023-10-01,I1,Italy-SA,2324,Atalanta,Juventus,0.0,0.0,D,0.0,0.0,D,2.5,3.4,2.8,2.53,3.48,2.77,2.51,3.45,2.82,1.93,1.97,1.89,1.94,0.0,1.84,2.06,Atalanta,Juventus,atalanta,juventus,Atalanta,A,0.0,0.0,5,11
+2023-10-07,I1,Italy-SA,2324,Juventus,Torino,2.0,0.0,H,0.0,0.0,D,1.91,3.3,4.33,1.94,3.39,4.58,1.93,3.35,4.46,2.35,1.57,2.36,1.6,-0.5,1.95,1.95,Juventus,Torino,juventus,torino,Torino,H,2.0,0.0,5,10
+2023-10-22,I1,Italy-SA,2324,Milan,Juventus,0.0,1.0,A,0.0,0.0,D,2.25,3.4,3.2,2.32,3.29,3.42,2.3,3.28,3.31,2.1,1.7,2.15,1.72,-0.25,2.0,1.9,AC Milan,Juventus,ac_milan,juventus,AC Milan,A,1.0,0.0,5,11
+2023-10-28,I1,Italy-SA,2324,Juventus,Verona,1.0,0.0,H,0.0,0.0,D,1.36,5.0,8.0,1.36,5.17,9.54,1.37,4.98,9.14,1.85,2.05,1.82,2.02,-1.25,1.85,2.08,Juventus,Hellas Verona,juventus,hellas_verona,Hellas Verona,H,1.0,0.0,5,10
+2023-11-05,I1,Italy-SA,2324,Fiorentina,Juventus,0.0,1.0,A,0.0,1.0,A,2.9,3.2,2.55,2.92,3.3,2.58,2.88,3.3,2.54,2.06,1.84,2.03,1.81,0.0,2.1,1.83,Fiorentina,Juventus,fiorentina,juventus,Fiorentina,A,1.0,0.0,5,10
+2023-11-11,I1,Italy-SA,2324,Juventus,Cagliari,2.0,1.0,H,0.0,0.0,D,1.36,5.0,8.0,1.38,5.01,8.82,1.38,4.91,8.69,1.75,2.05,1.78,2.06,-1.25,1.89,2.01,Juventus,Cagliari,juventus,cagliari,Cagliari,H,2.0,1.0,3,9
+2023-11-26,I1,Italy-SA,2324,Juventus,Inter,1.0,1.0,D,1.0,1.0,D,3.3,3.25,2.25,3.5,3.21,2.29,3.38,3.26,2.28,2.1,1.7,2.13,1.74,0.25,1.96,1.97,Juventus,Inter Milan,juventus,inter_milan,Inter Milan,H,1.0,1.0,5,10
+2023-12-01,I1,Italy-SA,2324,Monza,Juventus,1.0,2.0,A,0.0,1.0,A,4.2,3.3,1.95,4.12,3.42,2.03,4.1,3.41,1.99,2.15,1.67,2.21,1.69,0.5,1.91,2.02,Monza,Juventus,monza,juventus,Monza,A,2.0,1.0,3,6
+2023-12-08,I1,Italy-SA,2324,Juventus,Napoli,1.0,0.0,H,0.0,0.0,D,2.25,3.25,3.25,2.31,3.32,3.4,2.31,3.26,3.3,2.1,1.7,2.12,1.74,-0.25,1.98,1.95,Juventus,Napoli,juventus,napoli,Napoli,H,1.0,0.0,5,10
+2023-12-15,I1,Italy-SA,2324,Genoa,Juventus,1.0,1.0,D,0.0,1.0,A,4.75,3.2,1.91,4.97,3.23,1.93,4.77,3.21,1.92,2.7,1.44,2.72,1.47,0.5,1.99,1.94,Genoa,Juventus,genoa,juventus,Genoa,A,1.0,1.0,3,8
+2023-12-23,I1,Italy-SA,2324,Frosinone,Juventus,1.0,2.0,A,0.0,1.0,A,6.0,3.75,1.62,5.87,3.76,1.67,5.68,3.83,1.64,2.08,1.82,2.03,1.81,0.75,2.06,1.84,Frosinone,Juventus,frosinone,juventus,Frosinone,A,2.0,1.0,1,3
+2023-12-30,I1,Italy-SA,2324,Juventus,Roma,1.0,0.0,H,0.0,0.0,D,2.05,3.0,4.2,2.12,3.1,4.18,2.1,3.11,4.14,2.7,1.44,2.71,1.48,-0.25,1.73,2.08,Juventus,AS Roma,juventus,as_roma,AS Roma,H,1.0,0.0,5,10
+2024-01-07,I1,Italy-SA,2324,Salernitana,Juventus,1.0,2.0,A,1.0,0.0,H,7.5,4.5,1.4,8.77,4.78,1.4,8.27,4.61,1.41,1.95,1.95,1.9,1.93,1.25,1.91,1.99,Salernitana,Juventus,salernitana,juventus,Salernitana,A,2.0,1.0,5,6
+2024-01-16,I1,Italy-SA,2324,Juventus,Sassuolo,3.0,0.0,H,2.0,0.0,H,1.4,4.2,8.5,1.39,4.96,8.54,1.41,4.71,7.94,1.73,2.08,1.71,2.14,-1.25,1.93,1.97,Juventus,Sassuolo,juventus,sassuolo,Sassuolo,H,3.0,0.0,6,9
+2024-01-21,I1,Italy-SA,2324,Lecce,Juventus,0.0,3.0,A,0.0,0.0,D,6.0,3.5,1.65,6.23,3.69,1.65,5.95,3.64,1.65,2.35,1.57,2.36,1.59,0.75,2.04,1.86,Lecce,Juventus,lecce,juventus,Lecce,A,3.0,0.0,4,8
+2024-01-27,I1,Italy-SA,2324,Juventus,Empoli,1.0,1.0,D,0.0,0.0,D,1.29,5.5,10.0,1.29,5.55,11.88,1.29,5.41,11.24,1.87,2.03,1.85,1.98,-1.5,1.98,1.92,Juventus,Empoli,juventus,empoli,Empoli,H,1.0,1.0,6,8
+2024-02-04,I1,Italy-SA,2324,Inter,Juventus,1.0,0.0,H,1.0,0.0,H,1.8,3.5,4.75,1.83,3.59,4.77,1.81,3.51,4.77,2.2,1.65,2.26,1.65,-0.5,1.78,2.03,Inter Milan,Juventus,inter_milan,juventus,Inter Milan,A,0.0,1.0,6,10
+2024-02-12,I1,Italy-SA,2324,Juventus,Udinese,0.0,1.0,A,0.0,1.0,A,1.44,4.5,8.0,1.43,4.54,8.56,1.42,4.51,8.25,2.04,1.86,1.99,1.83,-1.25,2.05,1.88,Juventus,Udinese,juventus,udinese,Udinese,H,0.0,1.0,6,10
+2024-02-17,I1,Italy-SA,2324,Verona,Juventus,2.0,2.0,D,1.0,1.0,D,5.75,3.5,1.67,5.84,3.64,1.69,5.72,3.63,1.68,2.3,1.6,2.32,1.62,0.75,2.0,1.9,Hellas Verona,Juventus,hellas_verona,juventus,Hellas Verona,A,2.0,2.0,6,10
+2024-02-25,I1,Italy-SA,2324,Juventus,Frosinone,3.0,2.0,H,2.0,2.0,D,1.3,5.5,10.0,1.32,5.62,9.58,1.32,5.46,9.61,1.67,2.15,1.69,2.19,-1.5,1.98,1.92,Juventus,Frosinone,juventus,frosinone,Frosinone,H,3.0,2.0,2,3
+2024-03-03,I1,Italy-SA,2324,Napoli,Juventus,2.0,1.0,H,1.0,0.0,H,2.38,3.1,3.3,2.43,3.14,3.3,2.39,3.13,3.22,2.35,1.57,2.35,1.6,-0.25,2.03,1.87,Napoli,Juventus,napoli,juventus,Napoli,A,1.0,2.0,6,10
+2024-03-10,I1,Italy-SA,2324,Juventus,Atalanta,2.0,2.0,D,0.0,1.0,A,2.2,3.3,3.3,2.32,3.27,3.37,2.25,3.31,3.31,2.1,1.7,2.13,1.72,-0.25,1.98,1.95,Juventus,Atalanta,juventus,atalanta,Atalanta,H,2.0,2.0,6,11
+2024-03-17,I1,Italy-SA,2324,Juventus,Genoa,0.0,0.0,D,0.0,0.0,D,1.5,4.0,7.0,1.52,4.08,7.37,1.52,3.99,7.24,2.2,1.65,2.23,1.67,-1.0,1.95,1.98,Juventus,Genoa,juventus,genoa,Genoa,H,0.0,0.0,4,8
+2024-03-30,I1,Italy-SA,2324,Lazio,Juventus,1.0,0.0,H,0.0,0.0,D,3.1,3.1,2.45,3.23,3.09,2.5,3.11,3.09,2.51,2.35,1.57,2.41,1.58,0.25,1.8,2.1,Lazio,Juventus,lazio,juventus,Lazio,A,0.0,1.0,6,11
+2024-04-07,I1,Italy-SA,2324,Juventus,Fiorentina,1.0,0.0,H,1.0,0.0,H,1.83,3.4,4.75,1.87,3.5,4.64,1.84,3.49,4.56,2.15,1.67,2.18,1.7,-0.5,1.87,2.06,Juventus,Fiorentina,juventus,fiorentina,Fiorentina,H,1.0,0.0,6,10
+2024-04-13,I1,Italy-SA,2324,Torino,Juventus,0.0,0.0,D,0.0,0.0,D,3.75,3.0,2.2,3.87,3.06,2.23,3.75,3.06,2.21,2.63,1.5,2.59,1.5,0.25,2.0,1.9,Torino,Juventus,torino,juventus,Torino,A,0.0,0.0,6,10
+2024-04-19,I1,Italy-SA,2324,Cagliari,Juventus,2.0,2.0,D,2.0,0.0,H,5.0,3.5,1.75,5.16,3.58,1.79,5.06,3.52,1.78,2.2,1.67,2.27,1.65,0.75,1.85,2.05,Cagliari,Juventus,cagliari,juventus,Cagliari,A,2.0,2.0,4,9
+2024-04-27,I1,Italy-SA,2324,Juventus,Milan,0.0,0.0,D,0.0,0.0,D,2.1,3.3,3.6,2.09,3.46,3.74,2.1,3.4,3.65,2.04,1.86,2.01,1.83,-0.25,1.84,2.09,Juventus,AC Milan,juventus,ac_milan,AC Milan,H,0.0,0.0,6,11
+2024-05-05,I1,Italy-SA,2324,Roma,Juventus,1.0,1.0,D,1.0,1.0,D,2.88,3.1,2.7,2.88,3.12,2.74,2.84,3.1,2.68,2.38,1.57,2.42,1.57,0.0,2.03,1.9,AS Roma,Juventus,as_roma,juventus,AS Roma,A,1.0,1.0,6,10
+2024-05-12,I1,Italy-SA,2324,Juventus,Salernitana,1.0,1.0,D,0.0,1.0,A,1.14,8.5,17.0,1.13,8.5,17.59,1.14,8.56,19.17,1.5,2.63,1.48,2.63,-2.25,2.02,1.88,Juventus,Salernitana,juventus,salernitana,Salernitana,H,1.0,1.0,6,6
+2024-05-20,I1,Italy-SA,2324,Bologna,Juventus,3.0,3.0,D,2.0,0.0,H,2.45,3.1,3.1,2.48,3.1,3.26,2.49,3.07,3.12,2.3,1.62,2.39,1.58,-0.25,2.1,1.8,Bologna,Juventus,bologna,juventus,Bologna,A,3.0,3.0,6,10
+2024-05-25,I1,Italy-SA,2324,Juventus,Monza,2.0,0.0,H,2.0,0.0,H,1.33,5.5,8.5,1.33,5.57,8.68,1.33,5.45,8.86,1.62,2.3,1.61,2.33,-1.5,1.97,1.93,Juventus,Monza,juventus,monza,Monza,H,2.0,0.0,4,6
+2024-08-19,I1,Italy-SA,2425,Juventus,Como,3.0,0.0,H,2.0,0.0,H,1.33,5.0,9.5,1.34,5.22,9.8,1.34,5.06,9.57,1.86,2.04,1.83,2.0,-1.5,2.05,1.85,Juventus,Como,juventus,como,Como,H,3.0,0.0,1,4
+2024-08-26,I1,Italy-SA,2425,Verona,Juventus,0.0,3.0,A,0.0,2.0,A,5.25,3.75,1.67,5.23,3.77,1.72,5.06,3.74,1.72,2.0,1.8,2.06,1.78,0.75,1.95,1.95,Hellas Verona,Juventus,hellas_verona,juventus,Hellas Verona,A,3.0,0.0,7,10
+2024-09-01,I1,Italy-SA,2425,Juventus,Roma,0.0,0.0,D,0.0,0.0,D,1.75,3.6,5.0,1.76,3.73,5.02,1.77,3.68,4.82,2.0,1.8,2.06,1.78,-0.75,2.01,1.89,Juventus,AS Roma,juventus,as_roma,AS Roma,H,0.0,0.0,7,10
+2024-09-14,I1,Italy-SA,2425,Empoli,Juventus,0.0,0.0,D,0.0,0.0,D,5.25,3.6,1.7,5.54,3.68,1.7,5.22,3.68,1.72,2.2,1.67,2.19,1.7,0.75,1.95,1.95,Empoli,Juventus,empoli,juventus,Empoli,A,0.0,0.0,7,8
+2024-09-21,I1,Italy-SA,2425,Juventus,Napoli,0.0,0.0,D,0.0,0.0,D,2.2,3.4,3.3,2.26,3.28,3.49,2.22,3.29,3.44,2.2,1.67,2.2,1.69,-0.25,1.94,1.99,Juventus,Napoli,juventus,napoli,Napoli,H,0.0,0.0,7,10
+2024-09-28,I1,Italy-SA,2425,Genoa,Juventus,0.0,3.0,A,0.0,0.0,D,5.5,3.5,1.7,5.56,3.6,1.73,5.47,3.58,1.72,2.3,1.62,2.35,1.61,0.75,1.95,1.95,Genoa,Juventus,genoa,juventus,Genoa,A,3.0,0.0,5,8
+2024-10-06,I1,Italy-SA,2425,Juventus,Cagliari,1.0,1.0,D,1.0,0.0,H,1.38,5.0,8.0,1.38,4.94,9.15,1.38,4.82,9.07,1.99,1.91,1.95,1.88,-1.25,1.9,2.0,Juventus,Cagliari,juventus,cagliari,Cagliari,H,1.0,1.0,5,9
+2024-10-19,I1,Italy-SA,2425,Juventus,Lazio,1.0,0.0,H,0.0,0.0,D,2.05,3.3,3.8,2.05,3.34,4.05,2.05,3.31,3.94,2.2,1.67,2.22,1.68,-0.5,2.06,1.84,Juventus,Lazio,juventus,lazio,Lazio,H,1.0,0.0,7,11
+2024-10-27,I1,Italy-SA,2425,Inter,Juventus,4.0,4.0,D,3.0,2.0,H,1.72,3.5,5.0,1.76,3.58,5.3,1.77,3.51,5.04,2.2,1.67,2.2,1.69,-0.75,2.03,1.87,Inter Milan,Juventus,inter_milan,juventus,Inter Milan,A,4.0,4.0,7,10
+2024-10-30,I1,Italy-SA,2425,Juventus,Parma,2.0,2.0,D,1.0,2.0,A,1.4,4.75,8.0,1.41,4.95,7.98,1.4,4.9,7.87,1.73,2.1,1.73,2.14,-1.25,1.91,1.99,Juventus,Parma,juventus,parma,Parma,H,2.0,2.0,1,5
+2024-11-02,I1,Italy-SA,2425,Udinese,Juventus,0.0,2.0,A,0.0,2.0,A,4.2,3.2,1.95,4.24,3.14,2.01,4.23,3.21,2.01,2.3,1.62,2.35,1.61,0.5,1.88,2.02,Udinese,Juventus,udinese,juventus,Udinese,A,2.0,0.0,7,10
+2024-11-09,I1,Italy-SA,2425,Juventus,Torino,2.0,0.0,H,1.0,0.0,H,1.57,3.8,6.5,1.57,3.95,6.84,1.58,3.89,6.5,2.2,1.67,2.24,1.67,-1.0,2.04,1.86,Juventus,Torino,juventus,torino,Torino,H,2.0,0.0,7,10
+2024-11-23,I1,Italy-SA,2425,Milan,Juventus,0.0,0.0,D,0.0,0.0,D,2.15,3.3,3.5,2.21,3.27,3.63,2.2,3.27,3.53,2.2,1.67,2.17,1.71,-0.25,1.89,2.01,AC Milan,Juventus,ac_milan,juventus,AC Milan,A,0.0,0.0,7,11
+2024-12-01,I1,Italy-SA,2425,Lecce,Juventus,1.0,1.0,D,0.0,0.0,D,5.25,3.6,1.7,5.67,3.64,1.7,5.44,3.6,1.7,2.3,1.62,2.3,1.63,0.75,1.97,1.93,Lecce,Juventus,lecce,juventus,Lecce,A,1.0,1.0,5,8
+2024-12-07,I1,Italy-SA,2425,Juventus,Bologna,2.0,2.0,D,0.0,1.0,A,1.7,3.6,5.25,1.7,3.63,5.78,1.7,3.6,5.51,2.3,1.62,2.32,1.62,-0.75,1.92,1.98,Juventus,Bologna,juventus,bologna,Bologna,H,2.0,2.0,7,10
+2024-12-14,I1,Italy-SA,2425,Juventus,Venezia,2.0,2.0,D,1.0,0.0,H,1.3,5.25,9.0,1.33,5.34,10.19,1.32,5.09,10.12,1.85,2.05,1.84,1.99,-1.5,2.02,1.88,Juventus,Venezia,juventus,venezia,Venezia,H,2.0,2.0,3,4
+2024-12-22,I1,Italy-SA,2425,Monza,Juventus,1.0,2.0,A,1.0,2.0,A,6.25,3.5,1.65,5.98,3.71,1.67,5.83,3.6,1.66,2.3,1.62,2.3,1.63,0.75,2.02,1.88,Monza,Juventus,monza,juventus,Monza,A,2.0,1.0,5,6
+2024-12-29,I1,Italy-SA,2425,Juventus,Fiorentina,2.0,2.0,D,1.0,1.0,D,1.95,3.3,4.2,1.96,3.32,4.45,1.93,3.4,4.14,2.1,1.73,2.12,1.72,-0.5,1.97,1.93,Juventus,Fiorentina,juventus,fiorentina,Fiorentina,H,2.0,2.0,7,10
+2025-01-11,I1,Italy-SA,2425,Torino,Juventus,1.0,1.0,D,1.0,1.0,D,5.0,3.2,1.8,5.1,3.25,1.88,4.8,3.23,1.87,2.63,1.5,2.53,1.51,0.5,2.03,1.87,Torino,Juventus,torino,juventus,Torino,A,1.0,1.0,8,10
+2025-01-14,I1,Italy-SA,2425,Atalanta,Juventus,1.0,1.0,D,0.0,0.0,D,2.1,3.25,3.7,2.15,3.22,3.98,2.11,3.2,3.81,2.3,1.62,2.29,1.63,-0.25,1.82,2.08,Atalanta,Juventus,atalanta,juventus,Atalanta,A,1.0,1.0,7,11
+2025-01-18,I1,Italy-SA,2425,Juventus,Milan,2.0,0.0,H,0.0,0.0,D,2.15,3.3,3.4,2.22,3.25,3.64,2.2,3.24,3.47,2.1,1.73,2.14,1.7,-0.25,1.89,2.01,Juventus,AC Milan,juventus,ac_milan,AC Milan,H,2.0,0.0,8,11
+2025-01-25,I1,Italy-SA,2425,Napoli,Juventus,2.0,1.0,H,0.0,1.0,A,2.15,3.1,3.8,2.16,3.12,3.99,2.14,3.1,3.82,2.45,1.49,2.49,1.53,-0.25,1.84,2.09,Napoli,Juventus,napoli,juventus,Napoli,A,1.0,2.0,8,10
+2025-02-02,I1,Italy-SA,2425,Juventus,Empoli,4.0,1.0,H,0.0,1.0,A,1.36,4.75,9.0,1.38,4.89,9.12,1.37,4.74,8.93,2.0,1.9,1.95,1.87,-1.25,1.89,2.01,Juventus,Empoli,juventus,empoli,Empoli,H,4.0,1.0,8,8
+2025-02-07,I1,Italy-SA,2425,Como,Juventus,1.0,2.0,A,1.0,1.0,D,3.7,3.4,2.05,3.87,3.41,2.07,3.83,3.41,2.04,2.0,1.8,2.07,1.78,0.5,1.84,2.09,Como,Juventus,como,juventus,Como,A,2.0,1.0,2,4
+2025-02-16,I1,Italy-SA,2425,Juventus,Inter,1.0,0.0,H,0.0,0.0,D,3.4,3.2,2.25,3.54,3.26,2.25,3.38,3.25,2.24,2.1,1.73,2.1,1.75,0.25,1.97,1.93,Juventus,Inter Milan,juventus,inter_milan,Inter Milan,H,1.0,0.0,8,10
+2025-02-23,I1,Italy-SA,2425,Cagliari,Juventus,0.0,1.0,A,0.0,1.0,A,4.1,3.5,1.9,4.08,3.53,1.97,4.0,3.51,1.94,2.03,1.87,2.01,1.83,0.5,1.95,1.95,Cagliari,Juventus,cagliari,juventus,Cagliari,A,1.0,0.0,6,9
+2025-03-03,I1,Italy-SA,2425,Juventus,Verona,2.0,0.0,H,0.0,0.0,D,1.3,5.0,12.0,1.3,5.57,10.96,1.29,5.37,10.71,1.8,2.0,1.8,2.03,-1.5,1.94,1.99,Juventus,Hellas Verona,juventus,hellas_verona,Hellas Verona,H,2.0,0.0,8,10
+2025-03-09,I1,Italy-SA,2425,Juventus,Atalanta,0.0,4.0,A,0.0,1.0,A,2.5,3.25,2.88,2.57,3.31,2.92,2.52,3.25,2.88,2.04,1.86,1.99,1.84,0.0,1.84,2.06,Juventus,Atalanta,juventus,atalanta,Atalanta,H,0.0,4.0,8,11
+2025-03-16,I1,Italy-SA,2425,Fiorentina,Juventus,3.0,0.0,H,2.0,0.0,H,3.4,3.2,2.25,3.48,3.18,2.32,3.41,3.16,2.28,2.3,1.62,2.28,1.64,0.25,1.95,1.95,Fiorentina,Juventus,fiorentina,juventus,Fiorentina,A,0.0,3.0,8,10
+2025-03-29,I1,Italy-SA,2425,Juventus,Genoa,1.0,0.0,H,1.0,0.0,H,1.53,3.9,7.0,1.54,4.06,7.08,1.54,3.97,6.82,2.1,1.73,2.14,1.71,-1.0,1.98,1.92,Juventus,Genoa,juventus,genoa,Genoa,H,1.0,0.0,6,8
+2025-04-06,I1,Italy-SA,2425,Roma,Juventus,1.0,1.0,D,0.0,1.0,A,2.5,3.1,3.0,2.55,3.15,3.09,2.51,3.13,3.01,2.2,1.67,2.2,1.67,0.0,1.79,2.11,AS Roma,Juventus,as_roma,juventus,AS Roma,A,1.0,1.0,8,10
+2025-04-12,I1,Italy-SA,2425,Juventus,Lecce,2.0,1.0,H,2.0,0.0,H,1.33,4.5,10.0,1.34,5.15,10.15,1.33,4.92,10.05,1.95,1.95,1.91,1.91,-1.5,2.03,1.78,Juventus,Lecce,juventus,lecce,Lecce,H,2.0,1.0,6,8
+2025-04-23,I1,Italy-SA,2425,Parma,Juventus,1.0,0.0,H,1.0,0.0,H,4.75,3.6,1.75,4.79,3.76,1.78,4.68,3.7,1.76,2.0,1.9,1.95,1.87,0.75,1.88,2.05,Parma,Juventus,parma,juventus,Parma,A,0.0,1.0,2,5
+2025-04-27,I1,Italy-SA,2425,Juventus,Monza,2.0,0.0,H,2.0,0.0,H,1.2,7.5,12.0,1.18,7.48,15.62,1.18,7.11,15.31,1.53,2.5,1.55,2.43,-2.0,2.04,1.86,Juventus,Monza,juventus,monza,Monza,H,2.0,0.0,6,6
+2025-05-04,I1,Italy-SA,2425,Bologna,Juventus,1.0,1.0,D,0.0,1.0,A,2.4,3.1,3.2,2.46,3.13,3.26,2.43,3.1,3.15,2.3,1.62,2.34,1.6,-0.25,2.07,1.83,Bologna,Juventus,bologna,juventus,Bologna,A,1.0,1.0,8,10
+2025-05-10,I1,Italy-SA,2425,Lazio,Juventus,1.0,1.0,D,0.0,0.0,D,2.45,3.2,3.0,2.45,3.25,3.15,2.46,3.2,3.03,2.2,1.67,2.19,1.67,-0.25,2.1,1.8,Lazio,Juventus,lazio,juventus,Lazio,A,1.0,1.0,8,11
+2025-05-18,I1,Italy-SA,2425,Juventus,Udinese,2.0,0.0,H,0.0,0.0,D,1.38,4.75,8.5,1.36,5.03,9.57,1.36,4.82,9.02,1.95,1.95,1.9,1.92,-1.25,1.89,2.01,Juventus,Udinese,juventus,udinese,Udinese,H,2.0,0.0,8,10
+2025-05-25,I1,Italy-SA,2425,Venezia,Juventus,2.0,3.0,A,1.0,2.0,A,5.75,4.33,1.53,5.97,4.33,1.56,5.8,4.23,1.55,1.88,1.98,1.85,1.97,1.0,1.9,1.95,Venezia,Juventus,venezia,juventus,Venezia,A,3.0,2.0,4,4
+2025-08-24,I1,Italy-SA,2526,Juventus,Parma,2.0,0.0,H,0.0,0.0,D,1.42,4.75,7.5,1.43,4.8,7.58,1.42,4.58,7.26,1.73,2.1,1.72,2.06,-1.25,1.98,1.88,Juventus,Parma,juventus,parma,Parma,H,2.0,0.0,3,5
+2025-08-31,I1,Italy-SA,2526,Genoa,Juventus,0.0,1.0,A,0.0,0.0,D,4.5,3.4,1.85,4.51,3.48,1.9,4.38,3.36,1.86,2.3,1.62,2.28,1.59,0.5,2.0,1.85,Genoa,Juventus,genoa,juventus,Genoa,A,1.0,0.0,7,8
+2025-09-13,I1,Italy-SA,2526,Juventus,Inter,4.0,3.0,H,2.0,1.0,H,2.75,3.0,2.75,2.84,3.07,2.82,2.72,3.03,2.77,2.2,1.67,2.2,1.63,0.0,1.93,1.93,Juventus,Inter Milan,juventus,inter_milan,Inter Milan,H,4.0,3.0,9,10
+2025-09-20,I1,Italy-SA,2526,Verona,Juventus,1.0,1.0,D,1.0,1.0,D,6.5,3.9,1.55,6.7,3.98,1.57,6.5,3.85,1.55,2.2,1.67,2.18,1.64,1.0,1.88,1.98,Hellas Verona,Juventus,hellas_verona,juventus,Hellas Verona,A,1.0,1.0,9,10
+2025-09-27,I1,Italy-SA,2526,Juventus,Atalanta,1.0,1.0,D,0.0,1.0,A,1.85,3.6,4.2,1.88,3.71,4.28,1.86,3.55,4.16,2.03,1.83,1.97,1.79,-0.5,1.85,2.0,Juventus,Atalanta,juventus,atalanta,Atalanta,H,1.0,1.0,9,11
+2025-10-05,I1,Italy-SA,2526,Juventus,Milan,0.0,0.0,D,0.0,0.0,D,2.7,3.2,2.7,2.78,3.21,2.76,2.63,3.19,2.71,2.1,1.73,2.05,1.72,0.0,1.93,1.93,Juventus,AC Milan,juventus,ac_milan,AC Milan,H,0.0,0.0,9,11
+2025-10-19,I1,Italy-SA,2526,Como,Juventus,2.0,0.0,H,1.0,0.0,H,2.88,3.25,2.5,3.01,3.25,2.54,2.92,3.24,2.43,2.1,1.73,2.07,1.71,0.25,1.73,2.08,Como,Juventus,como,juventus,Como,A,0.0,2.0,3,4
+2025-10-26,I1,Italy-SA,2526,Lazio,Juventus,1.0,0.0,H,1.0,0.0,H,3.2,3.25,2.3,3.42,3.12,2.38,3.2,3.14,2.31,2.2,1.67,2.2,1.63,0.25,1.88,1.98,Lazio,Juventus,lazio,juventus,Lazio,A,0.0,1.0,9,11
+2025-10-29,I1,Italy-SA,2526,Juventus,Udinese,3.0,1.0,H,1.0,1.0,D,1.44,4.1,8.5,1.47,4.5,7.44,1.44,4.32,7.42,1.98,1.88,1.91,1.86,-1.25,2.05,1.8,Juventus,Udinese,juventus,udinese,Udinese,H,3.0,1.0,9,10
+2025-11-01,I1,Italy-SA,2526,Cremonese,Juventus,1.0,2.0,A,0.0,1.0,A,6.5,4.33,1.5,6.84,4.32,1.52,6.8,4.2,1.48,1.98,1.88,1.91,1.85,1.0,2.0,1.85,Cremonese,Juventus,cremonese,juventus,Cremonese,A,2.0,1.0,3,4
+2025-11-08,I1,Italy-SA,2526,Juventus,Torino,0.0,0.0,D,0.0,0.0,D,1.5,4.1,7.0,1.51,4.16,7.34,1.49,4.07,7.02,2.05,1.8,2.0,1.76,-1.0,1.85,2.0,Juventus,Torino,juventus,torino,Torino,H,0.0,0.0,9,10
+2025-11-22,I1,Italy-SA,2526,Fiorentina,Juventus,1.0,1.0,D,0.0,1.0,A,3.9,3.4,2.0,3.94,3.47,2.03,3.8,3.38,2.0,2.1,1.73,2.08,1.71,0.5,1.83,2.03,Fiorentina,Juventus,fiorentina,juventus,Fiorentina,A,1.0,1.0,9,10
+2025-11-29,I1,Italy-SA,2526,Juventus,Cagliari,2.0,1.0,H,2.0,1.0,H,1.3,5.5,10.0,1.33,5.44,9.97,1.31,4.92,10.14,1.93,1.93,1.91,1.85,-1.5,2.03,1.83,Juventus,Cagliari,juventus,cagliari,Cagliari,H,2.0,1.0,7,9
+2025-12-07,I1,Italy-SA,2526,Napoli,Juventus,2.0,1.0,H,1.0,0.0,H,2.35,3.0,3.2,2.49,2.97,3.38,2.37,2.97,3.28,2.5,1.53,2.44,1.52,-0.25,2.05,1.8,Napoli,Juventus,napoli,juventus,Napoli,A,1.0,2.0,9,10
+2025-12-14,I1,Italy-SA,2526,Bologna,Juventus,0.0,1.0,A,0.0,0.0,D,2.88,3.25,2.5,2.95,3.2,2.62,2.87,3.16,2.51,2.2,1.67,2.2,1.63,0.0,2.05,1.8,Bologna,Juventus,bologna,juventus,Bologna,A,1.0,0.0,9,10
+2025-12-20,I1,Italy-SA,2526,Juventus,Roma,2.0,1.0,H,1.0,0.0,H,1.95,3.2,4.33,1.99,3.31,4.34,1.97,3.22,4.12,2.3,1.62,2.27,1.59,-0.5,1.98,1.88,Juventus,AS Roma,juventus,as_roma,AS Roma,H,2.0,1.0,9,10
+2025-12-27,I1,Italy-SA,2526,Pisa,Juventus,0.0,2.0,A,0.0,0.0,D,7.5,4.5,1.4,7.05,4.61,1.47,6.91,4.19,1.46,1.91,1.91,1.92,1.83,1.0,2.05,1.8,Pisa,Juventus,pisa,juventus,Pisa,A,2.0,0.0,1,2
+2026-01-03,I1,Italy-SA,2526,Juventus,Lecce,1.0,1.0,D,0.0,1.0,A,1.27,5.5,13.0,1.28,5.77,12.37,1.26,5.52,11.91,1.8,2.0,1.78,1.96,-1.5,1.83,2.03,Juventus,Lecce,juventus,lecce,Lecce,H,1.0,1.0,7,8
+2026-01-06,I1,Italy-SA,2526,Sassuolo,Juventus,0.0,3.0,A,0.0,1.0,A,5.0,3.9,1.67,5.3,3.74,1.73,5.04,3.74,1.68,1.98,1.88,1.92,1.84,0.75,1.98,1.88,Sassuolo,Juventus,sassuolo,juventus,Sassuolo,A,3.0,0.0,7,9
+2026-01-12,I1,Italy-SA,2526,Juventus,Cremonese,5.0,0.0,H,3.0,0.0,H,1.25,6.0,13.0,1.25,6.33,11.48,1.24,5.77,11.91,1.67,2.2,1.65,2.17,-1.75,1.95,1.9,Juventus,Cremonese,juventus,cremonese,Cremonese,H,5.0,0.0,4,4
+2026-01-17,I1,Italy-SA,2526,Cagliari,Juventus,1.0,0.0,H,0.0,0.0,D,6.25,4.2,1.5,,,,6.65,4.03,1.5,2.0,1.8,2.02,1.74,1.0,1.95,1.9,Cagliari,Juventus,cagliari,juventus,Cagliari,A,0.0,1.0,8,9
+2026-01-25,I1,Italy-SA,2526,Juventus,Napoli,3.0,0.0,H,1.0,0.0,H,2.05,3.2,4.0,,,,2.06,3.08,3.9,2.63,1.5,2.53,1.49,-0.5,2.05,1.8,Juventus,Napoli,juventus,napoli,Napoli,H,3.0,0.0,10,10
+2026-02-01,I1,Italy-SA,2526,Parma,Juventus,1.0,4.0,A,0.0,2.0,A,7.5,4.33,1.45,,,,7.14,4.3,1.44,1.91,1.91,1.91,1.84,1.0,2.08,1.73,Parma,Juventus,parma,juventus,Parma,A,4.0,1.0,4,5
+2026-02-08,I1,Italy-SA,2526,Juventus,Lazio,2.0,2.0,D,0.0,1.0,A,1.48,4.2,7.5,,,,1.45,4.09,7.57,2.1,1.73,2.1,1.7,-1.0,1.8,2.05,Juventus,Lazio,juventus,lazio,Lazio,H,2.0,2.0,10,11
+2026-02-14,I1,Italy-SA,2526,Inter,Juventus,3.0,2.0,H,1.0,1.0,D,1.95,3.4,4.1,,,,1.94,3.41,3.92,1.98,1.88,1.93,1.83,-0.5,1.93,1.93,Inter Milan,Juventus,inter_milan,juventus,Inter Milan,A,2.0,3.0,10,10
+2026-02-21,I1,Italy-SA,2526,Juventus,Como,0.0,2.0,A,0.0,1.0,A,2.0,3.4,3.7,,,,2.05,3.4,3.56,2.0,1.8,1.98,1.78,-0.25,1.75,2.05,Juventus,Como,juventus,como,Como,H,0.0,2.0,4,4
+2026-03-01,I1,Italy-SA,2526,Roma,Juventus,3.0,3.0,D,1.0,0.0,H,2.63,3.1,2.88,,,,2.57,3.06,2.84,2.3,1.62,2.25,1.6,0.0,1.85,2.0,AS Roma,Juventus,as_roma,juventus,AS Roma,A,3.0,3.0,10,10
+2026-03-07,I1,Italy-SA,2526,Juventus,Pisa,4.0,0.0,H,0.0,0.0,D,1.25,6.25,11.0,,,,1.23,5.94,12.02,1.62,2.3,1.6,2.27,-1.75,1.95,1.9,Juventus,Pisa,juventus,pisa,Pisa,H,4.0,0.0,2,2
+2026-03-14,I1,Italy-SA,2526,Udinese,Juventus,0.0,1.0,A,0.0,1.0,A,5.75,4.2,1.55,,,,6.03,4.02,1.53,1.91,1.91,1.92,1.83,1.0,1.88,1.98,Udinese,Juventus,udinese,juventus,Udinese,A,1.0,0.0,10,10
+2026-03-21,I1,Italy-SA,2526,Juventus,Sassuolo,1.0,1.0,D,1.0,0.0,H,1.33,5.25,9.0,,,,1.31,5.19,9.25,1.62,2.3,1.62,2.22,-1.5,1.95,1.9,Juventus,Sassuolo,juventus,sassuolo,Sassuolo,H,1.0,1.0,8,9
+2026-04-06,I1,Italy-SA,2526,Juventus,Genoa,2.0,0.0,H,2.0,0.0,H,1.38,4.5,9.5,,,,1.36,4.52,8.82,1.91,1.91,1.93,1.83,-1.25,1.88,1.98,Juventus,Genoa,juventus,genoa,Genoa,H,2.0,0.0,8,8
+2026-04-11,I1,Italy-SA,2526,Atalanta,Juventus,0.0,1.0,A,0.0,0.0,D,3.1,3.3,2.35,,,,3.04,3.34,2.29,1.8,2.0,1.8,1.95,0.25,1.85,2.0,Atalanta,Juventus,atalanta,juventus,Atalanta,A,1.0,0.0,10,11
+2026-04-19,I1,Italy-SA,2526,Juventus,Bologna,2.0,0.0,H,1.0,0.0,H,1.5,4.5,6.5,,,,1.45,4.38,6.58,1.73,2.1,1.71,2.08,-1.25,2.05,1.75,Juventus,Bologna,juventus,bologna,Bologna,H,2.0,0.0,10,10
+2026-04-26,I1,Italy-SA,2526,Milan,Juventus,0.0,0.0,D,0.0,0.0,D,3.1,3.1,2.45,,,,2.93,3.11,2.45,1.98,1.88,1.94,1.81,0.0,2.1,1.7,AC Milan,Juventus,ac_milan,juventus,AC Milan,A,0.0,0.0,10,11
+2026-05-03,I1,Italy-SA,2526,Juventus,Verona,1.0,1.0,D,0.0,1.0,A,1.22,6.5,12.0,,,,1.21,6.02,12.75,1.67,2.2,1.62,2.21,-1.75,1.88,1.98,Juventus,Hellas Verona,juventus,hellas_verona,Hellas Verona,H,1.0,1.0,10,10
+2026-05-09,I1,Italy-SA,2526,Lecce,Juventus,0.0,1.0,A,0.0,1.0,A,6.25,4.5,1.45,,,,6.74,4.42,1.44,1.73,2.1,1.67,2.12,1.25,1.83,2.03,Lecce,Juventus,lecce,juventus,Lecce,A,1.0,0.0,8,8
+2026-05-17,I1,Italy-SA,2526,Juventus,Fiorentina,0.0,2.0,A,0.0,1.0,A,1.33,5.0,8.5,,,,1.31,5.28,8.38,1.62,2.3,1.57,2.31,-1.5,1.93,1.93,Juventus,Fiorentina,juventus,fiorentina,Fiorentina,H,0.0,2.0,10,10
+2026-05-24,I1,Italy-SA,2526,Torino,Juventus,2.0,2.0,D,0.0,1.0,A,7.5,4.5,1.42,,,,7.23,4.45,1.4,1.73,2.1,1.72,2.03,1.25,1.88,1.98,Torino,Juventus,torino,juventus,Torino,A,2.0,2.0,10,10
+2026-08-23,I1,Italy-SA,2627,Frosinone,Juventus,0.0,1.0,A,0.0,1.0,A,8.0,4.2,1.45,,,,7.2,4.39,1.43,1.83,2.03,1.76,2.0,1.25,1.8,2.05,Frosinone,Juventus,frosinone,juventus,Frosinone,A,1.0,0.0,3,3
+2026-08-29,I1,Italy-SA,2627,Juventus,Parma,2.0,0.0,H,0.0,0.0,D,1.22,6.5,11.0,,,,1.22,6.17,13.19,1.67,2.2,1.63,2.21,-1.75,1.9,1.95,Juventus,Parma,juventus,parma,Parma,H,2.0,0.0,5,5
+2026-09-06,I1,Italy-SA,2627,Juventus,Milan,1.0,1.0,D,0.0,0.0,D,2.1,3.25,3.7,,,,2.08,3.26,3.57,2.1,1.73,2.06,1.71,-0.5,2.08,1.73,Juventus,AC Milan,juventus,ac_milan,AC Milan,H,1.0,1.0,11,11
+2026-09-13,I1,Italy-SA,2627,Sassuolo,Juventus,3.0,2.0,H,0.0,0.0,D,5.25,4.0,1.62,,,,5.12,3.94,1.62,1.83,2.03,1.78,1.97,0.75,2.05,1.8,Sassuolo,Juventus,sassuolo,juventus,Sassuolo,A,2.0,3.0,9,9
+2026-09-20,I1,Italy-SA,2627,Juventus,Atalanta,2.0,0.0,H,1.0,0.0,H,1.7,3.9,4.75,,,,1.69,3.77,4.84,1.91,1.91,1.82,1.92,-0.75,1.88,1.98,Juventus,Atalanta,juventus,atalanta,Atalanta,H,2.0,0.0,11,11
+2026-10-11,I1,Italy-SA,2627,Cagliari,Juventus,1.0,1.0,D,1.0,0.0,H,7.0,3.75,1.55,,,,6.13,3.89,1.55,2.0,1.85,1.95,1.79,1.0,1.85,2.0,Cagliari,Juventus,cagliari,juventus,Cagliari,A,1.0,1.0,9,9
+2026-10-18,I1,Italy-SA,2627,Juventus,Lazio,0.0,3.0,A,0.0,1.0,A,1.67,3.8,5.25,,,,1.66,3.76,5.03,1.98,1.88,1.9,1.83,-0.75,1.88,1.98,Juventus,Lazio,juventus,lazio,Lazio,H,0.0,3.0,11,11

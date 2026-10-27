@@ -1,0 +1,48 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2023-08-28,SP2,Spain-Segunda,2324,Eldense,Eibar,2.0,1.0,H,2.0,0.0,H,2.9,3.0,2.7,2.96,3.04,2.73,2.88,3.0,2.59,2.5,1.5,2.5,1.51,0.0,2.03,1.83,Eldense,Eibar,eldense,eibar
+2023-09-11,SP2,Spain-Segunda,2324,Eldense,Alcorcon,2.0,2.0,D,0.0,0.0,D,2.25,3.1,3.5,2.4,2.99,3.53,2.29,2.98,3.39,2.6,1.48,2.61,1.46,-0.25,1.98,1.88,Eldense,Alcorcon,eldense,alcorcon
+2023-10-01,SP2,Spain-Segunda,2324,Eldense,Oviedo,1.0,3.0,A,0.0,3.0,A,2.75,3.0,2.8,2.85,2.95,2.97,2.71,2.89,2.85,2.7,1.44,2.71,1.44,0.0,1.9,1.95,Eldense,Real Oviedo,eldense,real_oviedo
+2023-10-04,SP2,Spain-Segunda,2324,Eldense,Valladolid,0.0,1.0,A,0.0,1.0,A,3.0,3.2,2.4,3.17,3.2,2.5,3.07,3.1,2.39,2.35,1.57,2.32,1.58,0.25,1.78,2.1,Eldense,Real Valladolid,eldense,real_valladolid
+2023-10-15,SP2,Spain-Segunda,2324,Eldense,Elche,1.0,1.0,D,1.0,0.0,H,3.4,3.0,2.3,3.46,3.27,2.31,3.28,3.16,2.24,2.1,1.7,2.12,1.69,0.25,1.9,1.95,Eldense,Elche,eldense,elche
+2023-10-28,SP2,Spain-Segunda,2324,Eldense,Amorebieta,2.0,0.0,H,1.0,0.0,H,1.95,3.3,4.2,2.04,3.36,4.17,1.99,3.26,3.93,2.25,1.62,2.29,1.61,-0.5,2.03,1.83,Eldense,Amorebieta,eldense,amorebieta
+2023-11-05,SP2,Spain-Segunda,2324,Eldense,Burgos,2.0,0.0,H,1.0,0.0,H,2.38,3.1,3.2,2.42,2.97,3.6,2.33,3.01,3.3,2.5,1.5,2.48,1.52,-0.25,2.03,1.83,Eldense,Burgos,eldense,burgos
+2023-11-19,SP2,Spain-Segunda,2324,Eldense,Mirandes,2.0,2.0,D,1.0,1.0,D,2.2,3.1,3.5,2.2,3.19,3.48,2.19,3.17,3.37,2.15,1.67,2.16,1.67,-0.25,1.88,1.98,Eldense,Mirandes,eldense,mirandes
+2023-12-02,SP2,Spain-Segunda,2324,Eldense,Tenerife,0.0,3.0,A,0.0,1.0,A,2.5,3.1,3.1,2.51,2.95,3.15,2.46,2.99,3.08,2.6,1.48,2.55,1.49,-0.25,2.1,1.78,Eldense,Tenerife,eldense,tenerife
+2023-12-16,SP2,Spain-Segunda,2324,Eldense,Santander,3.0,3.0,D,0.0,2.0,A,2.45,3.0,3.2,2.36,3.22,3.12,2.35,3.21,3.05,2.08,1.73,2.04,1.75,-0.25,2.05,1.8,Eldense,Santander,eldense,santander
+2024-01-15,SP2,Spain-Segunda,2324,Eldense,Zaragoza,1.0,1.0,D,1.0,1.0,D,2.55,2.88,3.1,2.65,2.9,3.21,2.53,2.91,3.04,2.7,1.44,2.63,1.46,0.0,1.75,2.13,Eldense,Zaragoza,eldense,zaragoza
+2024-01-28,SP2,Spain-Segunda,2324,Eldense,Espanol,3.0,2.0,H,2.0,2.0,D,3.0,3.1,2.5,3.11,3.11,2.6,3.01,3.03,2.46,2.35,1.57,2.38,1.56,0.25,1.73,2.08,Eldense,Espanyol,eldense,espanyol
+2024-02-10,SP2,Spain-Segunda,2324,Eldense,Huesca,0.0,0.0,D,0.0,0.0,D,2.15,3.0,4.0,2.21,2.95,4.21,2.12,2.93,3.92,2.88,1.4,2.81,1.41,-0.25,1.8,2.05,Eldense,Huesca,eldense,huesca
+2024-02-25,SP2,Spain-Segunda,2324,Eldense,Ferrol,2.0,0.0,H,2.0,0.0,H,2.25,3.1,3.5,2.29,3.1,3.72,2.22,3.06,3.43,2.5,1.5,2.48,1.52,-0.25,1.88,1.98,Eldense,Ferrol,eldense,ferrol
+2024-03-02,SP2,Spain-Segunda,2324,Eldense,Villarreal B,2.0,0.0,H,1.0,0.0,H,2.1,3.3,3.8,2.09,3.29,4.06,2.05,3.21,3.7,2.15,1.67,2.15,1.67,-0.25,1.75,2.05,Eldense,Villarreal B,eldense,villarreal_b
+2024-03-15,SP2,Spain-Segunda,2324,Eldense,Cartagena,0.0,0.0,D,0.0,0.0,D,2.0,2.9,4.5,2.04,2.95,5.01,1.99,2.89,4.56,2.7,1.44,2.72,1.44,-0.5,2.0,1.85,Eldense,Cartagena,eldense,cartagena
+2024-04-06,SP2,Spain-Segunda,2324,Eldense,Andorra,0.0,2.0,A,0.0,1.0,A,2.3,3.0,3.6,2.28,3.0,3.47,2.24,3.01,3.45,2.6,1.48,2.52,1.5,-0.25,1.98,1.88,Eldense,Andorra,eldense,andorra
+2024-04-21,SP2,Spain-Segunda,2324,Eldense,Albacete,0.0,1.0,A,0.0,0.0,D,2.4,3.1,3.2,2.44,3.12,3.04,2.37,3.1,3.02,2.25,1.62,2.24,1.61,-0.25,2.05,1.8,Eldense,Albacete,eldense,albacete
+2024-05-05,SP2,Spain-Segunda,2324,Eldense,Leganes,1.0,2.0,A,1.0,0.0,H,3.5,2.9,2.38,3.35,2.93,2.38,3.31,2.9,2.33,2.88,1.4,2.76,1.42,0.25,1.83,2.03,Eldense,Leganes,eldense,leganes
+2024-05-18,SP2,Spain-Segunda,2324,Eldense,Levante,0.0,0.0,D,0.0,0.0,D,2.63,3.25,2.7,2.63,3.16,2.75,2.58,3.19,2.7,2.05,1.75,2.05,1.75,0.0,1.88,1.98,Eldense,Levante,eldense,levante
+2024-06-02,SP2,Spain-Segunda,2324,Eldense,Sp Gijon,0.0,1.0,A,0.0,0.0,D,4.75,4.1,1.57,5.35,3.97,1.56,5.31,4.05,1.55,1.85,2.0,1.8,1.98,1.0,1.83,2.03,Eldense,Sp Gijon,eldense,sp_gijon
+2024-08-19,SP2,Spain-Segunda,2425,Eldense,Tenerife,2.0,1.0,H,0.0,0.0,D,2.3,2.9,3.2,2.5,2.95,3.22,2.41,2.95,3.13,2.6,1.48,2.59,1.47,-0.25,2.05,1.8,Eldense,Tenerife,eldense,tenerife
+2024-09-01,SP2,Spain-Segunda,2425,Eldense,Cartagena,1.0,2.0,A,1.0,0.0,H,1.95,3.3,4.0,2.0,3.19,4.2,1.96,3.19,4.04,2.4,1.53,2.44,1.52,-0.5,1.98,1.88,Eldense,Cartagena,eldense,cartagena
+2024-09-08,SP2,Spain-Segunda,2425,Eldense,Almeria,1.0,0.0,H,0.0,0.0,D,3.0,3.2,2.4,3.17,3.12,2.42,3.07,3.16,2.34,2.1,1.7,2.13,1.69,0.25,1.8,2.05,Eldense,Almeria,eldense,almeria
+2024-09-21,SP2,Spain-Segunda,2425,Eldense,Oviedo,1.0,1.0,D,1.0,1.0,D,3.0,2.88,2.63,3.03,2.92,2.65,2.95,2.89,2.6,2.6,1.48,2.62,1.46,0.0,2.05,1.8,Eldense,Real Oviedo,eldense,real_oviedo
+2024-10-06,SP2,Spain-Segunda,2425,Eldense,Castellon,2.0,3.0,A,2.0,3.0,A,2.6,3.2,2.75,2.62,3.25,2.77,2.54,3.24,2.7,1.95,1.9,1.91,1.86,0.0,1.88,1.98,Eldense,Castellon,eldense,castellon
+2024-10-23,SP2,Spain-Segunda,2425,Eldense,Zaragoza,2.0,3.0,A,1.0,2.0,A,2.57,3.2,2.65,2.75,3.05,2.8,2.68,3.04,2.72,2.35,1.57,2.33,1.58,0.0,1.93,1.93,Eldense,Zaragoza,eldense,zaragoza
+2024-11-16,SP2,Spain-Segunda,2425,Eldense,Albacete,2.0,0.0,H,1.0,0.0,H,2.3,3.25,3.1,2.35,3.37,3.17,2.3,3.27,3.05,2.0,1.85,1.95,1.82,-0.25,2.0,1.85,Eldense,Albacete,eldense,albacete
+2024-11-20,SP2,Spain-Segunda,2425,Eldense,Huesca,2.0,1.0,H,1.0,0.0,H,2.3,3.0,3.4,2.38,2.79,3.68,2.31,2.84,3.52,2.7,1.44,2.73,1.42,-0.25,1.98,1.88,Eldense,Huesca,eldense,huesca
+2024-12-01,SP2,Spain-Segunda,2425,Eldense,Ferrol,0.0,0.0,D,0.0,0.0,D,1.91,3.0,4.75,1.88,3.26,4.63,1.88,3.13,4.48,2.6,1.48,2.52,1.48,-0.5,1.9,1.95,Eldense,Ferrol,eldense,ferrol
+2024-12-14,SP2,Spain-Segunda,2425,Eldense,Elche,0.0,0.0,D,0.0,0.0,D,3.3,3.1,2.3,3.5,2.97,2.34,3.33,3.02,2.29,2.5,1.5,2.52,1.5,0.25,1.88,1.98,Eldense,Elche,eldense,elche
+2025-01-13,SP2,Spain-Segunda,2425,Eldense,Eibar,1.0,3.0,A,1.0,0.0,H,2.55,3.0,3.0,2.56,2.92,3.16,2.51,2.91,2.99,2.7,1.44,2.66,1.43,0.0,1.78,2.1,Eldense,Eibar,eldense,eibar
+2025-01-18,SP2,Spain-Segunda,2425,Eldense,Cadiz,1.0,4.0,A,0.0,3.0,A,2.45,3.0,3.0,2.57,2.96,3.1,2.48,2.95,2.99,2.6,1.48,2.57,1.46,-0.25,2.13,1.75,Eldense,Cadiz,eldense,cadiz
+2025-01-31,SP2,Spain-Segunda,2425,Eldense,Granada,0.0,3.0,A,0.0,1.0,A,2.9,3.0,2.63,3.06,3.0,2.68,2.92,2.94,2.59,2.6,1.48,2.53,1.5,0.0,2.05,1.8,Eldense,Granada,eldense,granada
+2025-02-16,SP2,Spain-Segunda,2425,Eldense,La Coruna,2.0,0.0,H,0.0,0.0,D,2.63,3.1,2.8,2.73,3.04,2.83,2.61,3.0,2.77,2.4,1.53,2.35,1.57,0.0,1.85,2.0,Eldense,La Coruna,eldense,la_coruna
+2025-03-02,SP2,Spain-Segunda,2425,Eldense,Levante,1.0,2.0,A,1.0,0.0,H,2.75,3.1,2.63,2.84,3.16,2.63,2.75,3.07,2.57,2.2,1.65,2.2,1.65,0.0,1.98,1.88,Eldense,Levante,eldense,levante
+2025-03-16,SP2,Spain-Segunda,2425,Eldense,Mirandes,2.0,2.0,D,0.0,0.0,D,2.7,3.0,2.75,2.71,3.08,2.81,2.64,3.04,2.74,2.4,1.53,2.35,1.55,0.0,1.82,1.92,Eldense,Mirandes,eldense,mirandes
+2025-03-29,SP2,Spain-Segunda,2425,Eldense,Burgos,0.0,0.0,D,0.0,0.0,D,2.63,2.88,3.0,2.68,2.85,3.18,2.53,2.86,3.08,2.7,1.44,2.74,1.43,0.0,1.8,2.05,Eldense,Burgos,eldense,burgos
+2025-04-13,SP2,Spain-Segunda,2425,Eldense,Sp Gijon,1.0,2.0,A,0.0,1.0,A,2.25,3.0,3.5,2.24,3.15,3.49,2.22,3.11,3.34,2.3,1.6,2.31,1.58,-0.25,1.93,1.93,Eldense,Sp Gijon,eldense,sp_gijon
+2025-04-26,SP2,Spain-Segunda,2425,Eldense,Cordoba,1.0,1.0,D,1.0,0.0,H,2.3,3.2,3.0,2.33,3.42,3.06,2.31,3.25,3.01,2.05,1.8,2.01,1.77,-0.25,1.98,1.83,Eldense,Cordoba,eldense,cordoba
+2025-05-11,SP2,Spain-Segunda,2425,Eldense,Malaga,1.0,0.0,H,0.0,0.0,D,1.73,3.75,4.75,1.75,3.69,4.74,1.73,3.62,4.63,2.08,1.73,2.05,1.74,-0.75,1.98,1.88,Eldense,Malaga,eldense,malaga
+2025-05-25,SP2,Spain-Segunda,2425,Eldense,Santander,3.0,3.0,D,1.0,1.0,D,2.55,3.6,2.55,2.54,3.64,2.52,2.58,3.56,2.48,1.67,2.15,1.65,2.17,0.0,1.9,1.9,Eldense,Santander,eldense,santander
+2026-08-22,SP2,Spain-Segunda,2627,Eldense,Cadiz,2.0,2.0,D,0.0,0.0,D,2.25,3.0,3.4,,,,2.26,3.09,3.11,2.15,1.67,2.11,1.66,-0.25,1.98,1.83,Eldense,Cadiz,eldense,cadiz
+2026-09-05,SP2,Spain-Segunda,2627,Eldense,Mallorca,0.0,0.0,D,0.0,0.0,D,3.5,3.4,2.01,,,,3.38,3.31,2.03,2.0,1.8,1.98,1.76,0.5,1.78,2.03,Eldense,Mallorca,eldense,mallorca
+2026-09-19,SP2,Spain-Segunda,2627,Eldense,Eibar,1.0,2.0,A,0.0,1.0,A,3.0,3.2,2.32,,,,2.89,3.1,2.38,2.15,1.67,2.11,1.66,0.25,1.7,2.1,Eldense,Eibar,eldense,eibar
+2026-10-02,SP2,Spain-Segunda,2627,Eldense,Oviedo,4.0,1.0,H,0.0,1.0,A,2.5,3.0,3.0,,,,2.43,2.94,2.96,2.6,1.48,2.48,1.49,0.0,1.75,2.05,Eldense,Real Oviedo,eldense,real_oviedo
+2026-10-10,SP2,Spain-Segunda,2627,Eldense,Cordoba,2.0,1.0,H,0.0,1.0,A,2.32,3.7,2.65,,,,2.3,3.56,2.64,1.6,2.3,1.57,2.25,-0.25,2.03,1.78,Eldense,Cordoba,eldense,cordoba

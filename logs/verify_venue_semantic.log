@@ -1,0 +1,33 @@
+======================================================================
+VERIFIKASI SEMANTIK venue_rolling() TRAINING
+======================================================================
+
+Team A rows (venue='H'):
+      date venue  points  gf  ga
+2024-01-01     H       3   2   0
+2024-01-08     H       3   3   1
+2024-01-15     H       1   1   1
+2024-01-22     H       0   0   2
+2024-01-29     H       3   2   0
+2024-02-05     H       1   1   1
+
+venue_rolling output untuk team A:
+      date  venue_home_form5_ppg  venue_home_form5_gf  venue_home_form5_ga  venue_home_form5_win_rate
+2024-01-01                   NaN                  NaN                  NaN                        NaN
+2024-01-08              3.000000                  2.0             0.000000                   1.000000
+2024-01-15              3.000000                  2.5             0.500000                   1.000000
+2024-01-22              2.333333                  2.0             0.666667                   0.666667
+2024-01-29              1.750000                  1.5             1.000000                   0.500000
+2024-02-05              2.000000                  1.6             0.800000                   0.600000
+
+=== TEST ASSERTIONS ===
+[1] Match ke-1 → NaN (row pertama): True
+[2] Match ke-3 → {'ppg': 3.0, 'gf': 2.5, 'ga': 0.5, 'wr': 1.0}: True
+    actual: ppg=3.0, gf=2.5, ga=0.5, wr=1.0
+[3] Match ke-6 → {'ppg': 2.0, 'gf': 1.6, 'ga': 0.8, 'wr': 0.6}: True
+    actual: ppg=2.0, gf=1.6, ga=0.8, wr=0.6
+
+=== KESIMPULAN SEMANTIK ===
+✓ venue_rolling() = '5 match terakhir di venue yang sama, sebelum match saat ini'
+  Implementasi rekonstruksi HARUS identik dengan semantik ini
+  Artinya: filter history [date < md] & [venue == X], ambil tail(5), mean

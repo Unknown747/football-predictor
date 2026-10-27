@@ -1,0 +1,69 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,N1,Netherlands-ED,2122,Waalwijk,AZ Alkmaar,1.0,0.0,H,1.0,0.0,H,7.5,4.5,1.44,6.49,4.94,1.47,6.33,4.77,1.45,1.44,2.7,1.47,2.65,1.25,1.92,1.98,RKC Waalwijk,AZ Alkmaar,rkc_waalwijk,az_alkmaar
+2021-09-12,N1,Netherlands-ED,2122,Waalwijk,Vitesse,1.0,2.0,A,1.0,1.0,D,3.4,3.75,2.05,3.34,3.83,2.14,3.27,3.66,2.08,1.65,2.2,1.65,2.26,0.25,2.03,1.87,RKC Waalwijk,Vitesse,rkc_waalwijk,vitesse
+2021-09-21,N1,Netherlands-ED,2122,Waalwijk,Willem II,1.0,2.0,A,0.0,0.0,D,2.55,3.2,2.75,2.55,3.65,2.77,2.51,3.52,2.69,1.72,2.07,1.76,2.05,0.0,1.87,2.03,RKC Waalwijk,Willem II,rkc_waalwijk,willem_ii
+2021-10-02,N1,Netherlands-ED,2122,Waalwijk,Go Ahead Eagles,1.0,1.0,D,0.0,1.0,A,2.15,3.5,3.2,2.35,3.64,3.06,2.27,3.55,3.0,1.66,2.15,1.68,2.18,-0.25,2.02,1.88,RKC Waalwijk,Go Ahead Eagles,rkc_waalwijk,go_ahead_eagles
+2021-10-23,N1,Netherlands-ED,2122,Waalwijk,Sparta Rotterdam,1.0,0.0,H,0.0,0.0,D,2.55,3.5,2.55,2.72,3.61,2.61,2.62,3.45,2.57,1.8,2.0,1.81,2.01,0.0,1.99,1.91,RKC Waalwijk,Sparta Rotterdam,rkc_waalwijk,sparta_rotterdam
+2021-10-31,N1,Netherlands-ED,2122,Waalwijk,Cambuur,0.0,1.0,A,0.0,0.0,D,2.45,3.5,2.7,2.59,3.74,2.68,2.51,3.54,2.62,1.6,2.3,1.62,2.28,0.0,1.92,1.98,RKC Waalwijk,SC Cambuur,rkc_waalwijk,sc_cambuur
+2021-11-21,N1,Netherlands-ED,2122,Waalwijk,Ajax,0.0,5.0,A,0.0,2.0,A,15.0,7.0,1.16,23.24,9.28,1.13,19.87,8.88,1.12,1.33,3.4,1.32,3.28,2.25,2.02,1.77,RKC Waalwijk,Ajax,rkc_waalwijk,ajax
+2021-12-05,N1,Netherlands-ED,2122,Waalwijk,Nijmegen,2.0,1.0,H,1.0,1.0,D,2.9,3.5,2.3,2.98,3.65,2.39,2.91,3.49,2.34,1.9,1.95,1.87,1.94,0.25,1.85,2.05,RKC Waalwijk,NEC Nijmegen,rkc_waalwijk,nec_nijmegen
+2021-12-19,N1,Netherlands-ED,2122,Waalwijk,PSV Eindhoven,1.0,4.0,A,0.0,1.0,A,13.0,6.5,1.22,12.03,6.72,1.24,11.85,6.54,1.22,1.47,2.6,1.48,2.62,1.75,2.09,1.81,RKC Waalwijk,PSV Eindhoven,rkc_waalwijk,psv_eindhoven
+2022-01-23,N1,Netherlands-ED,2122,Waalwijk,For Sittard,2.0,1.0,H,2.0,0.0,H,2.3,3.5,2.9,2.4,3.37,3.13,2.34,3.42,2.95,1.85,2.0,1.83,1.97,-0.25,2.07,1.83,RKC Waalwijk,For Sittard,rkc_waalwijk,for_sittard
+2022-02-13,N1,Netherlands-ED,2122,Waalwijk,Feyenoord,0.0,2.0,A,0.0,1.0,A,11.0,5.75,1.28,14.08,5.6,1.27,11.63,5.6,1.27,1.6,2.3,1.63,2.26,1.75,1.8,2.0,RKC Waalwijk,Feyenoord,rkc_waalwijk,feyenoord
+2022-02-25,N1,Netherlands-ED,2122,Waalwijk,Twente,1.0,2.0,A,0.0,1.0,A,3.2,3.6,2.15,3.39,3.47,2.25,3.28,3.39,2.2,1.95,1.9,1.95,1.86,0.25,1.99,1.91,RKC Waalwijk,FC Twente,rkc_waalwijk,fc_twente
+2022-03-12,N1,Netherlands-ED,2122,Waalwijk,Heerenveen,0.0,0.0,D,0.0,0.0,D,2.45,3.4,2.8,2.6,3.35,2.91,2.52,3.33,2.79,2.0,1.85,1.97,1.84,0.0,1.83,2.07,RKC Waalwijk,SC Heerenveen,rkc_waalwijk,sc_heerenveen
+2022-04-02,N1,Netherlands-ED,2122,Waalwijk,Utrecht,1.0,1.0,D,0.0,1.0,A,3.8,3.75,1.9,4.29,3.8,1.88,4.03,3.68,1.87,1.83,2.02,1.8,2.02,0.5,2.01,1.89,RKC Waalwijk,FC Utrecht,rkc_waalwijk,fc_utrecht
+2022-04-23,N1,Netherlands-ED,2122,Waalwijk,Zwolle,0.0,2.0,A,0.0,1.0,A,2.87,3.2,2.62,2.77,3.44,2.66,2.74,3.26,2.61,2.05,1.75,2.05,1.77,0.0,2.01,1.89,RKC Waalwijk,PEC Zwolle,rkc_waalwijk,pec_zwolle
+2022-05-01,N1,Netherlands-ED,2122,Waalwijk,Groningen,3.0,1.0,H,3.0,0.0,H,2.75,3.4,2.55,2.87,3.36,2.62,2.79,3.28,2.55,2.05,1.75,2.06,1.76,0.0,2.03,1.87,RKC Waalwijk,FC Groningen,rkc_waalwijk,fc_groningen
+2022-05-11,N1,Netherlands-ED,2122,Waalwijk,Heracles,2.0,0.0,H,1.0,0.0,H,2.25,3.4,3.2,2.29,3.59,3.2,2.26,3.51,3.07,1.8,2.0,1.77,2.04,-0.25,1.99,1.91,RKC Waalwijk,Heracles Almelo,rkc_waalwijk,heracles_almelo
+2022-08-06,N1,Netherlands-ED,2223,Waalwijk,Utrecht,2.0,2.0,D,2.0,0.0,H,3.5,3.8,1.95,3.74,3.86,1.99,3.67,3.65,1.96,1.83,2.02,1.78,2.03,0.5,1.93,1.97,RKC Waalwijk,FC Utrecht,rkc_waalwijk,fc_utrecht
+2022-08-21,N1,Netherlands-ED,2223,Waalwijk,Feyenoord,0.0,1.0,A,0.0,0.0,D,8.0,5.5,1.33,7.61,5.82,1.37,7.87,5.4,1.34,1.44,2.7,1.46,2.66,1.5,1.96,1.94,RKC Waalwijk,Feyenoord,rkc_waalwijk,feyenoord
+2022-09-04,N1,Netherlands-ED,2223,Waalwijk,Excelsior,5.0,2.0,H,1.0,2.0,A,1.7,4.0,4.75,1.71,4.26,4.73,1.7,4.13,4.47,1.57,2.35,1.56,2.39,-0.75,1.89,2.01,RKC Waalwijk,Excelsior,rkc_waalwijk,excelsior
+2022-09-17,N1,Netherlands-ED,2223,Waalwijk,Cambuur,5.0,1.0,H,1.0,1.0,D,2.2,3.4,3.3,2.2,3.71,3.28,2.15,3.62,3.16,1.66,2.15,1.67,2.18,-0.25,1.92,1.98,RKC Waalwijk,SC Cambuur,rkc_waalwijk,sc_cambuur
+2022-10-02,N1,Netherlands-ED,2223,Waalwijk,Sparta Rotterdam,2.0,2.0,D,1.0,1.0,D,2.2,3.3,3.4,2.24,3.44,3.43,2.2,3.37,3.26,1.93,1.93,1.9,1.88,-0.25,1.94,1.96,RKC Waalwijk,Sparta Rotterdam,rkc_waalwijk,sparta_rotterdam
+2022-10-22,N1,Netherlands-ED,2223,Waalwijk,Ajax,1.0,4.0,A,1.0,1.0,D,8.5,7.0,1.25,9.06,6.83,1.28,9.45,6.52,1.25,1.33,3.4,1.32,3.3,1.75,2.03,1.87,RKC Waalwijk,Ajax,rkc_waalwijk,ajax
+2022-11-06,N1,Netherlands-ED,2223,Waalwijk,AZ Alkmaar,3.0,1.0,H,1.0,1.0,D,4.0,4.0,1.8,4.14,4.09,1.84,3.98,3.95,1.8,1.6,2.3,1.6,2.31,0.75,1.83,2.07,RKC Waalwijk,AZ Alkmaar,rkc_waalwijk,az_alkmaar
+2023-01-07,N1,Netherlands-ED,2223,Waalwijk,Heerenveen,0.0,0.0,D,0.0,0.0,D,2.5,3.5,2.7,2.49,3.63,2.86,2.44,3.54,2.75,1.67,2.15,1.73,2.11,0.0,1.86,2.04,RKC Waalwijk,SC Heerenveen,rkc_waalwijk,sc_heerenveen
+2023-01-28,N1,Netherlands-ED,2223,Waalwijk,FC Emmen,2.0,0.0,H,2.0,0.0,H,2.2,3.4,3.3,2.24,3.42,3.47,2.2,3.34,3.26,2.05,1.8,2.02,1.8,-0.25,1.92,1.98,RKC Waalwijk,FC Emmen,rkc_waalwijk,fc_emmen
+2023-02-01,N1,Netherlands-ED,2223,Waalwijk,Go Ahead Eagles,3.0,1.0,H,1.0,1.0,D,2.25,3.6,3.0,2.29,3.6,3.19,2.24,3.53,3.04,1.73,2.08,1.78,2.04,-0.25,1.98,1.92,RKC Waalwijk,Go Ahead Eagles,rkc_waalwijk,go_ahead_eagles
+2023-02-17,N1,Netherlands-ED,2223,Waalwijk,For Sittard,3.0,1.0,H,0.0,0.0,D,2.25,3.4,3.2,2.28,3.55,3.26,2.24,3.48,3.14,1.8,2.05,1.81,2.0,-0.25,1.97,1.93,RKC Waalwijk,For Sittard,rkc_waalwijk,for_sittard
+2023-03-05,N1,Netherlands-ED,2223,Waalwijk,PSV Eindhoven,0.0,1.0,A,0.0,1.0,A,6.0,4.75,1.44,6.49,5.13,1.47,6.33,4.88,1.44,1.53,2.4,1.55,2.42,1.25,1.88,2.02,RKC Waalwijk,PSV Eindhoven,rkc_waalwijk,psv_eindhoven
+2023-03-18,N1,Netherlands-ED,2223,Waalwijk,Nijmegen,1.0,3.0,A,0.0,3.0,A,2.4,3.5,2.7,2.53,3.48,2.9,2.47,3.41,2.8,1.83,2.02,1.81,2.0,0.0,1.83,2.07,RKC Waalwijk,NEC Nijmegen,rkc_waalwijk,nec_nijmegen
+2023-04-01,N1,Netherlands-ED,2223,Waalwijk,Vitesse,1.0,0.0,H,1.0,0.0,H,2.5,3.3,2.8,2.57,3.53,2.82,2.52,3.42,2.72,1.8,2.0,1.79,2.01,0.0,1.86,2.04,RKC Waalwijk,Vitesse,rkc_waalwijk,vitesse
+2023-04-15,N1,Netherlands-ED,2223,Waalwijk,Groningen,2.0,1.0,H,0.0,0.0,D,1.91,3.5,4.2,1.94,3.73,4.05,1.92,3.63,3.86,1.75,2.05,1.77,2.04,-0.5,1.94,1.96,RKC Waalwijk,FC Groningen,rkc_waalwijk,fc_groningen
+2023-05-05,N1,Netherlands-ED,2223,Waalwijk,Volendam,4.0,1.0,H,2.0,0.0,H,1.8,4.0,4.0,1.92,4.14,3.74,1.86,4.01,3.76,1.5,2.5,1.52,2.49,-0.5,1.82,2.08,RKC Waalwijk,FC Volendam,rkc_waalwijk,fc_volendam
+2023-05-21,N1,Netherlands-ED,2223,Waalwijk,Twente,0.0,5.0,A,0.0,2.0,A,3.8,4.2,1.8,3.91,4.35,1.84,3.86,4.19,1.79,1.44,2.7,1.44,2.76,0.75,1.85,2.05,RKC Waalwijk,FC Twente,rkc_waalwijk,fc_twente
+2023-08-20,N1,Netherlands-ED,2324,Waalwijk,AZ Alkmaar,1.0,3.0,A,1.0,0.0,H,5.75,4.0,1.57,5.06,4.39,1.65,5.02,4.26,1.6,1.53,2.4,1.53,2.45,1.0,1.86,2.04,RKC Waalwijk,AZ Alkmaar,rkc_waalwijk,az_alkmaar
+2023-09-02,N1,Netherlands-ED,2324,Waalwijk,PSV Eindhoven,0.0,4.0,A,0.0,1.0,A,8.0,5.5,1.33,8.33,5.63,1.36,7.93,5.61,1.33,1.36,3.1,1.36,3.08,1.5,1.99,1.91,RKC Waalwijk,PSV Eindhoven,rkc_waalwijk,psv_eindhoven
+2023-09-24,N1,Netherlands-ED,2324,Waalwijk,Twente,1.0,0.0,H,0.0,0.0,D,6.0,4.33,1.5,5.91,4.58,1.55,5.49,4.54,1.52,1.44,2.7,1.45,2.7,1.0,2.04,1.86,RKC Waalwijk,FC Twente,rkc_waalwijk,fc_twente
+2023-10-21,N1,Netherlands-ED,2324,Waalwijk,Volendam,2.0,1.0,H,1.0,0.0,H,1.65,4.2,4.5,1.72,4.63,4.3,1.68,4.31,4.39,1.5,2.5,1.5,2.53,-0.75,1.88,2.02,RKC Waalwijk,FC Volendam,rkc_waalwijk,fc_volendam
+2023-11-04,N1,Netherlands-ED,2324,Waalwijk,Feyenoord,1.0,2.0,A,1.0,1.0,D,13.0,7.0,1.2,13.32,7.51,1.21,12.88,7.12,1.2,1.33,3.4,1.33,3.24,2.0,2.01,1.89,RKC Waalwijk,Feyenoord,rkc_waalwijk,feyenoord
+2023-11-11,N1,Netherlands-ED,2324,Waalwijk,Go Ahead Eagles,0.0,1.0,A,0.0,1.0,A,2.88,3.6,2.38,2.89,3.74,2.42,2.82,3.65,2.36,1.65,2.2,1.66,2.21,0.25,1.85,2.05,RKC Waalwijk,Go Ahead Eagles,rkc_waalwijk,go_ahead_eagles
+2023-12-02,N1,Netherlands-ED,2324,Waalwijk,Excelsior,2.0,2.0,D,1.0,0.0,H,2.05,4.0,3.25,2.12,3.92,3.31,2.06,3.83,3.26,1.57,2.35,1.56,2.37,-0.25,1.85,2.05,RKC Waalwijk,Excelsior,rkc_waalwijk,excelsior
+2023-12-06,N1,Netherlands-ED,2324,Waalwijk,Ajax,2.0,3.0,A,1.0,2.0,A,4.75,4.33,1.6,5.15,4.57,1.62,4.94,4.5,1.59,1.44,2.7,1.42,2.76,1.0,1.91,1.99,RKC Waalwijk,Ajax,rkc_waalwijk,ajax
+2024-01-12,N1,Netherlands-ED,2324,Waalwijk,Heracles,1.0,2.0,A,0.0,1.0,A,1.85,3.5,4.33,1.88,3.7,4.39,1.84,3.68,4.17,1.85,2.0,1.79,2.01,-0.5,1.86,2.04,RKC Waalwijk,Heracles Almelo,rkc_waalwijk,heracles_almelo
+2024-01-27,N1,Netherlands-ED,2324,Waalwijk,Sparta Rotterdam,1.0,1.0,D,0.0,0.0,D,2.4,3.75,2.7,2.64,3.64,2.67,2.53,3.56,2.64,1.73,2.08,1.73,2.09,0.0,1.92,1.98,RKC Waalwijk,Sparta Rotterdam,rkc_waalwijk,sparta_rotterdam
+2024-02-09,N1,Netherlands-ED,2324,Waalwijk,Nijmegen,2.0,0.0,H,2.0,0.0,H,2.8,3.75,2.4,2.9,3.64,2.45,2.81,3.56,2.39,1.73,2.08,1.73,2.1,0.25,1.75,2.05,RKC Waalwijk,NEC Nijmegen,rkc_waalwijk,nec_nijmegen
+2024-02-24,N1,Netherlands-ED,2324,Waalwijk,For Sittard,0.0,1.0,A,0.0,0.0,D,2.4,3.5,2.88,2.5,3.31,3.07,2.4,3.36,2.93,2.05,1.8,1.99,1.81,-0.25,2.1,1.8,RKC Waalwijk,For Sittard,rkc_waalwijk,for_sittard
+2024-03-09,N1,Netherlands-ED,2324,Waalwijk,Vitesse,3.0,1.0,H,1.0,0.0,H,2.25,3.5,3.1,2.33,3.58,3.12,2.25,3.54,3.05,1.83,2.03,1.8,2.0,-0.25,2.0,1.9,RKC Waalwijk,Vitesse,rkc_waalwijk,vitesse
+2024-03-30,N1,Netherlands-ED,2324,Waalwijk,Heerenveen,1.0,1.0,D,0.0,0.0,D,2.88,3.5,2.38,2.89,3.52,2.48,2.86,3.5,2.37,1.8,2.0,1.77,2.03,0.25,1.81,2.09,RKC Waalwijk,SC Heerenveen,rkc_waalwijk,sc_heerenveen
+2024-04-04,N1,Netherlands-ED,2324,Waalwijk,Almere City,0.0,0.0,D,0.0,0.0,D,2.2,3.6,3.2,2.28,3.43,3.3,2.19,3.43,3.22,1.98,1.88,1.92,1.88,-0.25,1.95,1.95,RKC Waalwijk,Almere City,rkc_waalwijk,almere_city
+2024-04-28,N1,Netherlands-ED,2324,Waalwijk,Utrecht,2.0,2.0,D,1.0,0.0,H,3.0,3.8,2.15,3.26,3.71,2.19,3.07,3.64,2.17,1.73,2.08,1.74,2.05,0.25,1.99,1.91,RKC Waalwijk,FC Utrecht,rkc_waalwijk,fc_utrecht
+2024-05-12,N1,Netherlands-ED,2324,Waalwijk,Zwolle,1.0,1.0,D,0.0,0.0,D,1.67,4.0,4.75,1.71,4.37,4.5,1.67,4.23,4.44,1.53,2.4,1.52,2.5,-0.75,1.88,2.02,RKC Waalwijk,PEC Zwolle,rkc_waalwijk,pec_zwolle
+2024-08-17,N1,Netherlands-ED,2425,Waalwijk,Groningen,1.0,2.0,A,0.0,1.0,A,2.35,3.6,2.88,2.4,3.74,2.73,2.37,3.71,2.75,1.53,2.4,1.53,2.46,-0.25,2.08,1.82,RKC Waalwijk,FC Groningen,rkc_waalwijk,fc_groningen
+2024-08-30,N1,Netherlands-ED,2425,Waalwijk,AZ Alkmaar,0.0,3.0,A,0.0,2.0,A,7.5,4.5,1.44,7.4,4.79,1.44,7.11,4.66,1.43,1.62,2.25,1.63,2.27,1.25,1.95,1.95,RKC Waalwijk,AZ Alkmaar,rkc_waalwijk,az_alkmaar
+2024-09-21,N1,Netherlands-ED,2425,Waalwijk,Sparta Rotterdam,1.0,2.0,A,0.0,1.0,A,3.4,3.7,2.05,3.53,3.62,2.03,3.43,3.64,2.03,1.73,2.08,1.73,2.09,0.25,2.05,1.75,RKC Waalwijk,Sparta Rotterdam,rkc_waalwijk,sparta_rotterdam
+2024-09-29,N1,Netherlands-ED,2425,Waalwijk,Ajax,0.0,2.0,A,0.0,0.0,D,6.5,5.75,1.38,7.77,5.32,1.35,7.38,5.28,1.36,1.44,2.7,1.45,2.69,1.5,1.86,2.04,RKC Waalwijk,Ajax,rkc_waalwijk,ajax
+2024-10-19,N1,Netherlands-ED,2425,Waalwijk,Twente,2.0,2.0,D,1.0,1.0,D,6.5,5.5,1.4,7.15,5.1,1.39,7.21,5.03,1.39,1.53,2.4,1.52,2.46,1.25,2.02,1.88,RKC Waalwijk,FC Twente,rkc_waalwijk,fc_twente
+2024-11-03,N1,Netherlands-ED,2425,Waalwijk,Almere City,2.0,0.0,H,1.0,0.0,H,2.75,3.3,2.6,2.75,3.37,2.57,2.74,3.34,2.52,1.8,2.0,1.8,2.0,0.0,2.02,1.88,RKC Waalwijk,Almere City,rkc_waalwijk,almere_city
+2024-11-09,N1,Netherlands-ED,2425,Waalwijk,Nijmegen,0.0,3.0,A,0.0,0.0,D,4.2,3.6,1.85,4.16,3.76,1.83,4.07,3.71,1.83,1.7,2.1,1.72,2.1,0.5,2.03,1.87,RKC Waalwijk,NEC Nijmegen,rkc_waalwijk,nec_nijmegen
+2024-12-07,N1,Netherlands-ED,2425,Waalwijk,Feyenoord,2.0,3.0,A,1.0,1.0,D,11.0,6.5,1.22,11.21,6.7,1.21,11.46,6.61,1.22,1.44,2.7,1.44,2.74,1.75,2.05,1.85,RKC Waalwijk,Feyenoord,rkc_waalwijk,feyenoord
+2024-12-20,N1,Netherlands-ED,2425,Waalwijk,Zwolle,1.0,1.0,D,1.0,1.0,D,2.55,3.5,2.63,2.63,3.53,2.71,2.59,3.47,2.61,1.67,2.15,1.67,2.17,0.0,1.92,1.98,RKC Waalwijk,PEC Zwolle,rkc_waalwijk,pec_zwolle
+2025-01-26,N1,Netherlands-ED,2425,Waalwijk,Willem II,2.0,0.0,H,1.0,0.0,H,2.55,3.4,2.7,2.52,3.44,2.77,2.52,3.37,2.71,1.98,1.88,1.92,1.86,0.0,1.88,2.02,RKC Waalwijk,Willem II,rkc_waalwijk,willem_ii
+2025-02-09,N1,Netherlands-ED,2425,Waalwijk,NAC Breda,5.0,0.0,H,3.0,0.0,H,2.6,3.5,2.6,2.58,3.57,2.62,2.57,3.51,2.58,1.7,2.1,1.69,2.14,0.0,1.95,1.95,RKC Waalwijk,NAC Breda,rkc_waalwijk,nac_breda
+2025-02-28,N1,Netherlands-ED,2425,Waalwijk,For Sittard,1.0,2.0,A,0.0,1.0,A,1.95,3.7,3.7,2.0,3.6,3.88,1.97,3.62,3.73,1.65,2.2,1.63,2.25,-0.5,2.0,1.9,RKC Waalwijk,For Sittard,rkc_waalwijk,for_sittard
+2025-03-15,N1,Netherlands-ED,2425,Waalwijk,PSV Eindhoven,0.0,3.0,A,0.0,2.0,A,10.0,7.0,1.22,10.33,6.77,1.22,10.39,6.74,1.22,1.3,3.5,1.3,3.38,2.0,1.87,2.03,RKC Waalwijk,PSV Eindhoven,rkc_waalwijk,psv_eindhoven
+2025-04-06,N1,Netherlands-ED,2425,Waalwijk,Heracles,0.0,0.0,D,0.0,0.0,D,2.35,3.7,2.75,2.38,3.42,2.97,2.34,3.52,2.87,1.7,2.1,1.7,2.11,-0.25,2.09,1.81,RKC Waalwijk,Heracles Almelo,rkc_waalwijk,heracles_almelo
+2025-04-25,N1,Netherlands-ED,2425,Waalwijk,Utrecht,0.0,4.0,A,0.0,3.0,A,3.8,4.0,1.85,3.85,4.09,1.88,3.69,3.95,1.89,1.48,2.6,1.46,2.63,0.5,2.03,1.87,RKC Waalwijk,FC Utrecht,rkc_waalwijk,fc_utrecht
+2025-05-10,N1,Netherlands-ED,2425,Waalwijk,Heerenveen,3.0,1.0,H,1.0,1.0,D,3.4,3.8,2.0,3.48,3.85,1.98,3.37,3.83,1.99,1.5,2.4,1.52,2.41,0.5,1.86,2.04,RKC Waalwijk,SC Heerenveen,rkc_waalwijk,sc_heerenveen
+2025-05-18,N1,Netherlands-ED,2425,Waalwijk,Go Ahead Eagles,5.0,3.0,H,1.0,1.0,D,2.88,4.0,2.15,2.92,3.88,2.2,2.87,3.94,2.17,1.4,2.88,1.38,2.89,0.25,1.85,1.95,RKC Waalwijk,Go Ahead Eagles,rkc_waalwijk,go_ahead_eagles

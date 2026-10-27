@@ -1,0 +1,99 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-29,I1,Italy-SA,2122,Sassuolo,Sampdoria,0.0,0.0,D,0.0,0.0,D,2.0,3.6,3.6,2.02,3.83,3.74,2.02,3.68,3.61,1.61,2.3,1.61,2.34,-0.5,2.03,1.87,Sassuolo,Sampdoria,sassuolo,sampdoria
+2021-09-17,I1,Italy-SA,2122,Sassuolo,Torino,0.0,1.0,A,0.0,0.0,D,1.72,4.0,4.33,1.81,4.02,4.48,1.8,3.95,4.29,1.53,2.5,1.54,2.48,-0.75,2.04,1.89,Sassuolo,Torino,sassuolo,torino
+2021-09-26,I1,Italy-SA,2122,Sassuolo,Salernitana,1.0,0.0,H,0.0,0.0,D,1.4,5.0,7.5,1.46,4.89,7.28,1.43,4.79,7.45,1.53,2.5,1.54,2.48,-1.25,1.94,1.99,Sassuolo,Salernitana,sassuolo,salernitana
+2021-10-02,I1,Italy-SA,2122,Sassuolo,Inter,1.0,2.0,A,1.0,0.0,H,4.33,4.2,1.7,4.59,4.48,1.71,4.47,4.24,1.71,1.5,2.62,1.5,2.59,0.75,2.0,1.93,Sassuolo,Inter Milan,sassuolo,inter_milan
+2021-10-23,I1,Italy-SA,2122,Sassuolo,Venezia,3.0,1.0,H,1.0,1.0,D,1.57,4.2,5.5,1.6,4.32,5.98,1.59,4.24,5.47,1.61,2.3,1.62,2.31,-1.0,2.04,1.89,Sassuolo,Venezia,sassuolo,venezia
+2021-10-31,I1,Italy-SA,2122,Sassuolo,Empoli,1.0,2.0,A,1.0,0.0,H,1.75,4.1,4.2,1.77,4.27,4.47,1.76,4.08,4.27,1.44,2.75,1.48,2.63,-0.75,1.99,1.94,Sassuolo,Empoli,sassuolo,empoli
+2021-11-21,I1,Italy-SA,2122,Sassuolo,Cagliari,2.0,2.0,D,1.0,1.0,D,1.6,4.2,5.25,1.69,4.27,5.03,1.65,4.23,4.95,1.57,2.37,1.59,2.35,-0.75,1.84,2.06,Sassuolo,Cagliari,sassuolo,cagliari
+2021-12-01,I1,Italy-SA,2122,Sassuolo,Napoli,2.0,2.0,D,0.0,0.0,D,4.0,3.9,1.8,4.22,3.9,1.88,3.98,3.86,1.86,1.57,2.37,1.57,2.41,0.5,2.05,1.88,Sassuolo,Napoli,sassuolo,napoli
+2021-12-12,I1,Italy-SA,2122,Sassuolo,Lazio,2.0,1.0,H,0.0,1.0,A,2.7,3.5,2.5,2.72,3.65,2.63,2.67,3.55,2.56,1.53,2.5,1.55,2.45,0.0,2.0,1.93,Sassuolo,Lazio,sassuolo,lazio
+2021-12-22,I1,Italy-SA,2122,Sassuolo,Bologna,0.0,3.0,A,0.0,2.0,A,2.0,3.6,3.6,2.06,3.76,3.69,2.03,3.68,3.55,1.57,2.37,1.6,2.35,-0.5,2.04,1.86,Sassuolo,Bologna,sassuolo,bologna
+2022-01-06,I1,Italy-SA,2122,Sassuolo,Genoa,1.0,1.0,D,0.0,1.0,A,1.57,4.33,5.25,1.64,4.42,5.33,1.61,4.28,5.2,1.66,2.2,1.64,2.26,-1.0,2.05,1.85,Sassuolo,Genoa,sassuolo,genoa
+2022-01-16,I1,Italy-SA,2122,Sassuolo,Verona,2.0,4.0,A,0.0,2.0,A,2.2,3.5,3.2,2.25,3.54,3.27,2.23,3.59,3.14,1.57,2.37,1.55,2.44,-0.25,1.94,1.96,Sassuolo,Hellas Verona,sassuolo,hellas_verona
+2022-02-13,I1,Italy-SA,2122,Sassuolo,Roma,2.0,2.0,D,0.0,1.0,A,3.4,3.9,2.0,3.42,3.93,2.1,3.35,3.79,2.07,1.57,2.37,1.58,2.39,0.5,1.84,2.09,Sassuolo,AS Roma,sassuolo,as_roma
+2022-02-26,I1,Italy-SA,2122,Sassuolo,Fiorentina,2.0,1.0,H,1.0,0.0,H,2.7,3.6,2.45,2.77,3.69,2.57,2.72,3.56,2.52,1.61,2.3,1.61,2.34,0.0,1.99,1.91,Sassuolo,Fiorentina,sassuolo,fiorentina
+2022-03-18,I1,Italy-SA,2122,Sassuolo,Spezia,4.0,1.0,H,1.0,1.0,D,1.66,4.2,4.75,1.7,4.23,4.99,1.66,4.23,4.97,1.57,2.37,1.56,2.44,-1.0,2.1,1.7,Sassuolo,Spezia,sassuolo,spezia
+2022-04-10,I1,Italy-SA,2122,Sassuolo,Atalanta,2.0,1.0,H,1.0,0.0,H,3.3,3.75,2.1,3.48,3.81,2.11,3.37,3.75,2.09,1.53,2.5,1.53,2.52,0.25,2.06,1.84,Sassuolo,Atalanta,sassuolo,atalanta
+2022-04-25,I1,Italy-SA,2122,Sassuolo,Juventus,1.0,2.0,A,1.0,1.0,D,4.2,3.9,1.8,4.43,4.02,1.82,4.24,3.89,1.81,1.66,2.2,1.67,2.22,0.75,1.85,2.05,Sassuolo,Juventus,sassuolo,juventus
+2022-05-07,I1,Italy-SA,2122,Sassuolo,Udinese,1.0,1.0,D,1.0,0.0,H,2.3,3.6,2.87,2.38,3.83,2.94,2.35,3.74,2.87,1.5,2.62,1.47,2.67,-0.25,2.07,1.83,Sassuolo,Udinese,sassuolo,udinese
+2022-05-22,I1,Italy-SA,2122,Sassuolo,Milan,0.0,3.0,A,0.0,3.0,A,6.5,4.75,1.45,6.84,5.0,1.46,6.63,4.87,1.46,1.5,2.62,1.45,2.76,1.25,1.9,2.0,Sassuolo,AC Milan,sassuolo,ac_milan
+2022-08-20,I1,Italy-SA,2223,Sassuolo,Lecce,1.0,0.0,H,1.0,0.0,H,1.75,4.0,4.2,1.81,4.14,4.35,1.79,3.99,4.24,1.61,2.3,1.63,2.29,-0.75,2.03,1.87,Sassuolo,Lecce,sassuolo,lecce
+2022-08-30,I1,Italy-SA,2223,Sassuolo,Milan,0.0,0.0,D,0.0,0.0,D,5.25,4.33,1.57,5.47,4.29,1.64,5.45,4.29,1.6,1.53,2.5,1.53,2.5,1.0,1.92,1.98,Sassuolo,AC Milan,sassuolo,ac_milan
+2022-09-11,I1,Italy-SA,2223,Sassuolo,Udinese,1.0,3.0,A,1.0,0.0,H,2.7,3.5,2.55,2.73,3.59,2.65,2.69,3.51,2.58,1.66,2.2,1.67,2.21,0.0,2.0,1.9,Sassuolo,Udinese,sassuolo,udinese
+2022-10-02,I1,Italy-SA,2223,Sassuolo,Salernitana,5.0,0.0,H,2.0,0.0,H,2.0,3.75,3.5,2.12,3.68,3.57,2.04,3.68,3.5,1.66,2.2,1.69,2.18,-0.5,2.06,1.84,Sassuolo,Salernitana,sassuolo,salernitana
+2022-10-08,I1,Italy-SA,2223,Sassuolo,Inter,1.0,2.0,A,0.0,1.0,A,4.33,4.2,1.7,4.61,4.34,1.74,4.41,4.18,1.73,1.61,2.3,1.6,2.36,0.75,1.97,1.93,Sassuolo,Inter Milan,sassuolo,inter_milan
+2022-10-24,I1,Italy-SA,2223,Sassuolo,Verona,2.0,1.0,H,1.0,1.0,D,1.95,3.5,4.0,1.99,3.75,3.92,1.96,3.61,3.82,1.72,2.1,1.71,2.13,-0.5,1.95,1.95,Sassuolo,Hellas Verona,sassuolo,hellas_verona
+2022-11-09,I1,Italy-SA,2223,Sassuolo,Roma,1.0,1.0,D,0.0,0.0,D,3.4,3.6,2.1,3.62,3.65,2.12,3.48,3.58,2.1,1.83,2.07,1.8,2.04,0.25,2.07,1.83,Sassuolo,AS Roma,sassuolo,as_roma
+2023-01-04,I1,Italy-SA,2223,Sassuolo,Sampdoria,1.0,2.0,A,0.0,2.0,A,1.73,3.75,4.75,1.78,3.89,4.86,1.76,3.75,4.73,1.96,1.94,1.93,1.89,-0.75,1.98,1.92,Sassuolo,Sampdoria,sassuolo,sampdoria
+2023-01-15,I1,Italy-SA,2223,Sassuolo,Lazio,0.0,2.0,A,0.0,1.0,A,3.2,3.5,2.2,3.29,3.76,2.21,3.19,3.63,2.19,1.8,2.0,1.78,2.06,0.25,1.99,1.94,Sassuolo,Lazio,sassuolo,lazio
+2023-02-04,I1,Italy-SA,2223,Sassuolo,Atalanta,1.0,0.0,H,0.0,0.0,D,3.75,3.6,1.91,3.84,3.95,1.96,3.71,3.82,1.95,1.57,2.38,1.59,2.39,0.5,1.95,1.98,Sassuolo,Atalanta,sassuolo,atalanta
+2023-02-17,I1,Italy-SA,2223,Sassuolo,Napoli,0.0,2.0,A,0.0,2.0,A,5.0,4.0,1.6,5.54,4.24,1.65,5.41,4.14,1.62,1.73,2.1,1.73,2.13,1.0,1.84,2.09,Sassuolo,Napoli,sassuolo,napoli
+2023-03-06,I1,Italy-SA,2223,Sassuolo,Cremonese,3.0,2.0,H,2.0,0.0,H,1.8,3.6,4.5,1.88,3.7,4.42,1.83,3.7,4.37,1.98,1.92,1.94,1.88,-0.5,1.85,2.05,Sassuolo,Cremonese,sassuolo,cremonese
+2023-03-17,I1,Italy-SA,2223,Sassuolo,Spezia,1.0,0.0,H,0.0,0.0,D,1.7,3.75,4.5,1.83,3.87,4.6,1.75,3.87,4.62,1.73,2.1,1.71,2.16,-0.75,2.05,1.88,Sassuolo,Spezia,sassuolo,spezia
+2023-04-03,I1,Italy-SA,2223,Sassuolo,Torino,1.0,1.0,D,1.0,0.0,H,2.4,3.3,3.0,2.51,3.33,3.03,2.46,3.27,2.99,2.1,1.73,2.1,1.75,-0.25,2.09,1.81,Sassuolo,Torino,sassuolo,torino
+2023-04-16,I1,Italy-SA,2223,Sassuolo,Juventus,1.0,0.0,H,0.0,0.0,D,3.8,3.5,2.0,3.77,3.54,2.08,3.72,3.46,2.04,2.06,1.84,2.03,1.8,0.5,1.83,2.07,Sassuolo,Juventus,sassuolo,juventus
+2023-04-30,I1,Italy-SA,2223,Sassuolo,Empoli,2.0,1.0,H,0.0,1.0,A,1.75,3.8,4.5,1.78,3.99,4.59,1.76,3.91,4.51,1.73,2.1,1.75,2.09,-0.75,1.98,1.92,Sassuolo,Empoli,sassuolo,empoli
+2023-05-08,I1,Italy-SA,2223,Sassuolo,Bologna,1.0,1.0,D,1.0,1.0,D,2.3,3.5,3.0,2.39,3.53,3.06,2.36,3.45,2.99,1.88,2.02,1.86,1.96,-0.25,2.05,1.85,Sassuolo,Bologna,sassuolo,bologna
+2023-05-19,I1,Italy-SA,2223,Sassuolo,Monza,1.0,2.0,A,1.0,0.0,H,2.15,3.6,3.2,2.19,3.71,3.31,2.19,3.64,3.22,1.73,2.1,1.72,2.16,-0.25,1.91,1.99,Sassuolo,Monza,sassuolo,monza
+2023-06-02,I1,Italy-SA,2223,Sassuolo,Fiorentina,1.0,3.0,A,0.0,0.0,D,2.6,3.75,2.5,2.58,3.9,2.61,2.56,3.77,2.58,1.44,2.75,1.47,2.67,0.0,1.96,1.97,Sassuolo,Fiorentina,sassuolo,fiorentina
+2023-08-20,I1,Italy-SA,2324,Sassuolo,Atalanta,0.0,2.0,A,0.0,0.0,D,3.5,3.4,2.1,3.39,3.63,2.18,3.35,3.62,2.12,1.62,2.3,1.62,2.33,0.25,2.03,1.87,Sassuolo,Atalanta,sassuolo,atalanta
+2023-09-01,I1,Italy-SA,2324,Sassuolo,Verona,3.0,1.0,H,1.0,0.0,H,2.0,3.6,3.75,2.04,3.66,3.84,2.02,3.59,3.71,1.85,2.05,1.82,2.02,-0.5,2.03,1.9,Sassuolo,Hellas Verona,sassuolo,hellas_verona
+2023-09-23,I1,Italy-SA,2324,Sassuolo,Juventus,4.0,2.0,H,2.0,1.0,H,4.0,4.0,1.8,4.35,4.03,1.81,4.23,3.93,1.8,1.73,2.1,1.73,2.13,0.75,1.85,2.05,Sassuolo,Juventus,sassuolo,juventus
+2023-10-02,I1,Italy-SA,2324,Sassuolo,Monza,0.0,1.0,A,0.0,0.0,D,2.25,3.75,2.88,2.16,3.87,3.04,2.2,3.8,3.02,1.57,2.35,1.58,2.38,-0.25,1.94,1.96,Sassuolo,Monza,sassuolo,monza
+2023-10-21,I1,Italy-SA,2324,Sassuolo,Lazio,0.0,2.0,A,0.0,2.0,A,2.7,3.5,2.5,2.71,3.72,2.57,2.71,3.66,2.5,1.62,2.25,1.63,2.29,0.0,2.04,1.86,Sassuolo,Lazio,sassuolo,lazio
+2023-10-28,I1,Italy-SA,2324,Sassuolo,Bologna,1.0,1.0,D,1.0,1.0,D,2.6,3.4,2.63,2.76,3.41,2.69,2.67,3.48,2.64,1.7,2.1,1.73,2.15,0.0,1.97,1.96,Sassuolo,Bologna,sassuolo,bologna
+2023-11-10,I1,Italy-SA,2324,Sassuolo,Salernitana,2.0,2.0,D,1.0,2.0,A,1.65,4.2,4.75,1.7,4.17,4.92,1.69,4.14,4.8,1.62,2.25,1.64,2.3,-0.75,1.89,2.04,Sassuolo,Salernitana,sassuolo,salernitana
+2023-12-03,I1,Italy-SA,2324,Sassuolo,Roma,1.0,2.0,A,1.0,0.0,H,3.8,3.75,1.91,3.91,3.75,1.95,3.87,3.73,1.94,1.75,2.05,1.76,2.09,0.5,1.96,1.97,Sassuolo,AS Roma,sassuolo,as_roma
+2023-12-22,I1,Italy-SA,2324,Sassuolo,Genoa,1.0,2.0,A,1.0,0.0,H,2.25,3.3,3.25,2.3,3.44,3.3,2.28,3.38,3.22,2.02,1.88,1.96,1.87,-0.25,1.99,1.91,Sassuolo,Genoa,sassuolo,genoa
+2024-01-06,I1,Italy-SA,2324,Sassuolo,Fiorentina,1.0,0.0,H,1.0,0.0,H,3.25,3.5,2.15,3.37,3.49,2.22,3.24,3.55,2.2,1.73,2.08,1.74,2.13,0.25,1.97,1.93,Sassuolo,Fiorentina,sassuolo,fiorentina
+2024-02-10,I1,Italy-SA,2324,Sassuolo,Torino,1.0,1.0,D,1.0,1.0,D,3.4,3.3,2.2,3.4,3.36,2.26,3.33,3.35,2.25,2.05,1.75,2.05,1.78,0.25,2.01,1.92,Sassuolo,Torino,sassuolo,torino
+2024-02-24,I1,Italy-SA,2324,Sassuolo,Empoli,2.0,3.0,A,0.0,1.0,A,2.2,3.4,3.3,2.28,3.35,3.37,2.24,3.4,3.29,2.03,1.87,1.97,1.86,-0.25,1.95,1.95,Sassuolo,Empoli,sassuolo,empoli
+2024-02-28,I1,Italy-SA,2324,Sassuolo,Napoli,1.0,6.0,A,1.0,3.0,A,4.0,3.8,1.8,4.33,4.01,1.8,4.25,3.93,1.8,1.7,2.1,1.7,2.17,0.75,1.86,2.04,Sassuolo,Napoli,sassuolo,napoli
+2024-03-09,I1,Italy-SA,2324,Sassuolo,Frosinone,1.0,0.0,H,0.0,0.0,D,2.2,3.6,3.1,2.27,3.67,3.11,2.25,3.67,3.06,1.65,2.2,1.66,2.25,-0.25,2.0,1.93,Sassuolo,Frosinone,sassuolo,frosinone
+2024-04-01,I1,Italy-SA,2324,Sassuolo,Udinese,1.0,1.0,D,1.0,1.0,D,2.75,3.25,2.6,2.93,3.24,2.61,2.87,3.27,2.54,2.07,1.83,2.03,1.8,0.0,2.07,1.83,Sassuolo,Udinese,sassuolo,udinese
+2024-04-14,I1,Italy-SA,2324,Sassuolo,Milan,3.0,3.0,D,2.0,1.0,H,4.5,3.8,1.75,4.43,3.94,1.8,4.44,3.92,1.76,1.67,2.2,1.68,2.22,0.75,1.9,2.0,Sassuolo,AC Milan,sassuolo,ac_milan
+2024-04-21,I1,Italy-SA,2324,Sassuolo,Lecce,0.0,3.0,A,0.0,2.0,A,2.3,3.3,3.2,2.34,3.37,3.24,2.32,3.37,3.15,2.0,1.9,1.96,1.87,-0.25,2.01,1.89,Sassuolo,Lecce,sassuolo,lecce
+2024-05-04,I1,Italy-SA,2324,Sassuolo,Inter,1.0,0.0,H,1.0,0.0,H,6.0,4.5,1.5,6.04,4.79,1.51,6.01,4.68,1.5,1.53,2.5,1.52,2.52,1.25,1.85,2.08,Sassuolo,Inter Milan,sassuolo,inter_milan
+2024-05-19,I1,Italy-SA,2324,Sassuolo,Cagliari,0.0,2.0,A,0.0,0.0,D,2.35,3.3,3.1,2.38,3.47,3.07,2.37,3.42,3.02,1.84,2.06,1.83,2.0,-0.25,2.05,1.85,Sassuolo,Cagliari,sassuolo,cagliari
+2024-08-24,I2,Italy-SB,2425,Sassuolo,Cesena,2.0,1.0,H,1.0,0.0,H,1.85,3.7,3.9,1.85,3.7,4.14,1.85,3.65,3.98,1.9,1.95,1.88,1.9,-0.5,1.88,1.98,Sassuolo,Cesena,sassuolo,cesena
+2024-08-31,I2,Italy-SB,2425,Sassuolo,Cremonese,1.0,4.0,A,1.0,3.0,A,2.3,3.2,3.2,2.31,3.08,3.41,2.28,3.13,3.26,2.05,1.75,2.08,1.72,-0.25,2.0,1.85,Sassuolo,Cremonese,sassuolo,cremonese
+2024-09-28,I2,Italy-SB,2425,Sassuolo,Spezia,0.0,0.0,D,0.0,0.0,D,2.1,3.25,3.6,2.13,3.31,3.74,2.09,3.29,3.53,2.03,1.83,1.98,1.8,-0.25,1.8,2.05,Sassuolo,Spezia,sassuolo,spezia
+2024-10-05,I2,Italy-SB,2425,Sassuolo,Cittadella,6.0,1.0,H,1.0,1.0,D,1.67,3.75,5.0,1.67,3.82,5.48,1.68,3.74,4.99,1.98,1.88,1.92,1.86,-0.75,1.88,1.98,Sassuolo,Cittadella,sassuolo,cittadella
+2024-10-26,I2,Italy-SB,2425,Sassuolo,Modena,2.0,0.0,H,1.0,0.0,H,1.91,3.5,4.0,1.93,3.55,3.97,1.93,3.46,3.88,2.05,1.75,2.01,1.77,-0.5,1.93,1.93,Sassuolo,Modena,sassuolo,modena
+2024-11-03,I2,Italy-SB,2425,Sassuolo,Mantova,1.0,0.0,H,0.0,0.0,D,1.53,4.0,5.75,1.54,4.36,5.66,1.53,4.21,5.47,1.67,2.15,1.64,2.18,-1.0,1.93,1.93,Sassuolo,Mantova,sassuolo,mantova
+2024-11-23,I2,Italy-SB,2425,Sassuolo,Salernitana,4.0,0.0,H,0.0,0.0,D,1.67,3.7,5.0,1.71,3.94,4.9,1.71,3.81,4.61,1.73,2.08,1.74,2.04,-0.75,1.93,1.93,Sassuolo,Salernitana,sassuolo,salernitana
+2024-12-08,I2,Italy-SB,2425,Sassuolo,Sampdoria,5.0,1.0,H,2.0,0.0,H,1.65,3.8,5.0,1.65,4.09,4.84,1.65,3.95,4.75,1.7,2.1,1.69,2.12,-0.75,1.83,2.03,Sassuolo,Sampdoria,sassuolo,sampdoria
+2024-12-21,I2,Italy-SB,2425,Sassuolo,Palermo,2.0,1.0,H,1.0,1.0,D,1.8,3.75,4.33,1.8,3.91,4.35,1.79,3.78,4.12,1.67,2.15,1.68,2.15,-0.75,2.03,1.83,Sassuolo,Palermo,sassuolo,palermo
+2024-12-29,I2,Italy-SB,2425,Sassuolo,Cosenza,2.0,1.0,H,0.0,0.0,D,1.36,4.75,7.5,1.36,4.98,8.23,1.34,4.87,8.45,1.75,2.05,1.75,2.03,-1.5,2.05,1.75,Sassuolo,Cosenza,sassuolo,cosenza
+2025-01-19,I2,Italy-SB,2425,Sassuolo,Sudtirol,5.0,3.0,H,1.0,2.0,A,1.5,4.1,7.0,1.5,4.22,6.55,1.49,4.17,6.26,1.88,1.98,1.83,1.94,-1.0,1.85,2.0,Sassuolo,Sudtirol,sassuolo,sudtirol
+2025-02-01,I2,Italy-SB,2425,Sassuolo,Juve Stabia,2.0,0.0,H,1.0,0.0,H,1.62,3.75,5.75,1.65,3.84,5.7,1.61,3.82,5.37,1.93,1.93,1.88,1.89,-0.75,1.8,2.05,Sassuolo,Juve Stabia,sassuolo,juve_stabia
+2025-02-15,I2,Italy-SB,2425,Sassuolo,Brescia,2.0,0.0,H,1.0,0.0,H,1.5,4.1,6.25,1.52,4.54,6.02,1.51,4.34,5.73,1.6,2.3,1.6,2.29,-1.0,1.83,2.03,Sassuolo,Brescia,sassuolo,brescia
+2025-03-01,I2,Italy-SB,2425,Sassuolo,Pisa,1.0,0.0,H,1.0,0.0,H,1.95,3.3,3.9,2.05,3.12,4.12,2.0,3.14,3.93,2.15,1.67,2.15,1.67,-0.5,2.0,1.85,Sassuolo,Pisa,sassuolo,pisa
+2025-03-09,I2,Italy-SB,2425,Sassuolo,Bari,1.0,1.0,D,0.0,1.0,A,1.6,3.9,5.25,1.61,3.91,5.57,1.61,3.86,5.31,1.98,1.88,1.91,1.85,-0.75,1.78,2.1,Sassuolo,Bari,sassuolo,bari
+2025-03-29,I2,Italy-SB,2425,Sassuolo,Reggiana,5.0,1.0,H,4.0,1.0,H,1.62,3.8,5.25,1.67,3.79,5.22,1.63,3.78,5.17,2.03,1.83,1.97,1.8,-0.75,1.88,1.98,Sassuolo,Reggiana,sassuolo,reggiana
+2025-05-01,I2,Italy-SB,2425,Sassuolo,Carrarese,2.0,0.0,H,1.0,0.0,H,1.57,4.1,5.5,1.6,4.07,5.43,1.58,4.05,5.27,1.73,2.08,1.74,2.03,-1.0,2.03,1.83,Sassuolo,Carrarese,sassuolo,carrarese
+2025-05-09,I2,Italy-SB,2425,Sassuolo,Catanzaro,0.0,2.0,A,0.0,0.0,D,2.15,3.3,3.5,2.19,3.27,3.47,2.17,3.32,3.28,1.65,2.2,1.62,2.23,-0.25,1.88,1.98,Sassuolo,Catanzaro,sassuolo,catanzaro
+2025-05-13,I2,Italy-SB,2425,Sassuolo,Frosinone,0.0,1.0,A,0.0,1.0,A,3.0,3.2,2.45,3.0,3.27,2.44,2.94,3.21,2.4,1.73,2.08,1.73,2.06,0.25,1.75,2.05,Sassuolo,Frosinone,sassuolo,frosinone
+2025-08-23,I1,Italy-SA,2526,Sassuolo,Napoli,0.0,2.0,A,0.0,1.0,A,6.0,4.0,1.57,6.35,3.93,1.6,6.08,4.02,1.54,1.98,1.88,1.92,1.83,1.0,1.85,2.0,Sassuolo,Napoli,sassuolo,napoli
+2025-09-14,I1,Italy-SA,2526,Sassuolo,Lazio,1.0,0.0,H,0.0,0.0,D,3.5,3.6,2.05,3.69,3.5,2.1,3.49,3.49,2.04,1.9,1.95,1.84,1.92,0.5,1.8,2.05,Sassuolo,Lazio,sassuolo,lazio
+2025-09-28,I1,Italy-SA,2526,Sassuolo,Udinese,3.0,1.0,H,2.0,0.0,H,2.3,3.2,3.3,2.37,3.33,3.22,2.27,3.25,3.15,2.1,1.73,2.07,1.71,-0.25,1.98,1.88,Sassuolo,Udinese,sassuolo,udinese
+2025-10-26,I1,Italy-SA,2526,Sassuolo,Roma,0.0,1.0,A,0.0,1.0,A,4.5,3.5,1.85,4.5,3.56,1.88,4.33,3.53,1.83,2.1,1.73,2.06,1.72,0.5,2.0,1.85,Sassuolo,AS Roma,sassuolo,as_roma
+2025-11-03,I1,Italy-SA,2526,Sassuolo,Genoa,1.0,2.0,A,0.0,1.0,A,2.45,3.0,3.2,2.45,3.1,3.3,2.42,3.02,3.12,2.5,1.53,2.4,1.53,-0.25,2.1,1.78,Sassuolo,Genoa,sassuolo,genoa
+2025-11-24,I1,Italy-SA,2526,Sassuolo,Pisa,2.0,2.0,D,1.0,1.0,D,2.1,3.2,3.75,2.1,3.24,4.01,2.04,3.22,3.8,2.3,1.62,2.22,1.62,-0.5,2.08,1.73,Sassuolo,Pisa,sassuolo,pisa
+2025-12-06,I1,Italy-SA,2526,Sassuolo,Fiorentina,3.0,1.0,H,2.0,1.0,H,2.88,3.25,2.5,3.04,3.26,2.51,2.87,3.21,2.5,2.1,1.73,2.06,1.72,0.0,2.05,1.8,Sassuolo,Fiorentina,sassuolo,fiorentina
+2025-12-21,I1,Italy-SA,2526,Sassuolo,Torino,0.0,1.0,A,0.0,0.0,D,2.3,3.2,3.3,2.44,3.05,3.38,2.34,3.1,3.19,2.2,1.67,2.18,1.64,-0.25,2.0,1.85,Sassuolo,Torino,sassuolo,torino
+2026-01-03,I1,Italy-SA,2526,Sassuolo,Parma,1.0,1.0,D,1.0,1.0,D,1.91,3.3,4.33,1.94,3.27,4.67,1.9,3.33,4.2,2.1,1.73,2.05,1.72,-0.5,1.93,1.93,Sassuolo,Parma,sassuolo,parma
+2026-01-06,I1,Italy-SA,2526,Sassuolo,Juventus,0.0,3.0,A,0.0,1.0,A,5.0,3.9,1.67,5.3,3.74,1.73,5.04,3.74,1.68,1.98,1.88,1.92,1.84,0.75,1.98,1.88,Sassuolo,Juventus,sassuolo,juventus
+2026-01-25,I1,Italy-SA,2526,Sassuolo,Cremonese,1.0,0.0,H,1.0,0.0,H,1.91,3.4,4.2,,,,1.91,3.31,4.13,2.2,1.67,2.11,1.69,-0.5,1.93,1.93,Sassuolo,Cremonese,sassuolo,cremonese
+2026-02-08,I1,Italy-SA,2526,Sassuolo,Inter,0.0,5.0,A,0.0,2.0,A,7.5,4.5,1.44,,,,6.87,4.42,1.44,1.8,2.0,1.76,2.01,1.25,1.83,2.03,Sassuolo,Inter Milan,sassuolo,inter_milan
+2026-02-20,I1,Italy-SA,2526,Sassuolo,Verona,3.0,0.0,H,2.0,0.0,H,1.75,3.3,5.25,,,,1.74,3.39,5.12,2.2,1.67,2.22,1.62,-0.75,2.0,1.85,Sassuolo,Hellas Verona,sassuolo,hellas_verona
+2026-03-01,I1,Italy-SA,2526,Sassuolo,Atalanta,2.0,1.0,H,1.0,0.0,H,3.8,3.6,1.95,,,,3.7,3.51,1.95,1.88,1.98,1.82,1.93,0.5,1.88,1.98,Sassuolo,Atalanta,sassuolo,atalanta
+2026-03-15,I1,Italy-SA,2526,Sassuolo,Bologna,0.0,1.0,A,0.0,1.0,A,2.4,3.3,3.0,,,,2.47,3.23,2.84,2.0,1.8,1.99,1.77,0.0,1.7,2.1,Sassuolo,Bologna,sassuolo,bologna
+2026-04-04,I1,Italy-SA,2526,Sassuolo,Cagliari,2.0,1.0,H,0.0,1.0,A,1.95,3.1,4.5,,,,1.97,3.12,4.24,2.1,1.73,2.12,1.68,-0.5,2.0,1.85,Sassuolo,Cagliari,sassuolo,cagliari
+2026-04-17,I1,Italy-SA,2526,Sassuolo,Como,2.0,1.0,H,2.0,1.0,H,5.75,4.33,1.53,,,,5.7,4.17,1.54,1.67,2.2,1.66,2.17,1.0,1.95,1.9,Sassuolo,Como,sassuolo,como
+2026-05-03,I1,Italy-SA,2526,Sassuolo,Milan,2.0,0.0,H,1.0,0.0,H,4.5,4.1,1.73,,,,4.49,3.98,1.68,1.73,2.1,1.69,2.1,0.75,1.93,1.93,Sassuolo,AC Milan,sassuolo,ac_milan
+2026-05-17,I1,Italy-SA,2526,Sassuolo,Lecce,2.0,3.0,A,1.0,2.0,A,2.7,3.2,2.63,,,,2.67,3.18,2.61,2.0,1.8,2.02,1.74,0.0,1.95,1.9,Sassuolo,Lecce,sassuolo,lecce
+2026-08-29,I1,Italy-SA,2627,Sassuolo,Torino,2.0,1.0,H,1.0,1.0,D,2.25,3.25,3.3,,,,2.25,3.28,3.21,2.03,1.83,1.99,1.77,-0.25,1.95,1.9,Sassuolo,Torino,sassuolo,torino
+2026-09-13,I1,Italy-SA,2627,Sassuolo,Juventus,3.0,2.0,H,0.0,0.0,D,5.25,4.0,1.62,,,,5.12,3.94,1.62,1.83,2.03,1.78,1.97,0.75,2.05,1.8,Sassuolo,Juventus,sassuolo,juventus
+2026-10-11,I1,Italy-SA,2627,Sassuolo,Milan,1.0,1.0,D,0.0,0.0,D,4.33,3.6,1.75,,,,4.04,3.71,1.81,1.73,2.1,1.72,2.04,0.5,2.05,1.8,Sassuolo,AC Milan,sassuolo,ac_milan

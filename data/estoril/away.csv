@@ -1,0 +1,90 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,P1,Portugal-Liga1,2122,Arouca,Estoril,0.0,2.0,A,0.0,1.0,A,2.25,3.1,3.4,2.27,3.36,3.44,2.25,3.2,3.28,2.3,1.6,2.3,1.61,-0.25,1.95,1.95,Arouca,Estoril,arouca,estoril
+2021-08-23,P1,Portugal-Liga1,2122,Pacos Ferreira,Estoril,1.0,3.0,A,1.0,1.0,D,2.1,3.1,3.5,2.23,3.22,3.64,2.16,3.14,3.51,2.4,1.53,2.42,1.55,-0.25,1.89,2.01,Pacos Ferreira,Estoril,pacos_ferreira,estoril
+2021-09-13,P1,Portugal-Liga1,2122,Tondela,Estoril,1.0,2.0,A,0.0,2.0,A,2.87,3.2,2.3,3.04,3.27,2.51,2.95,3.24,2.42,2.07,1.72,2.07,1.75,0.25,1.79,2.11,Tondela,Estoril,tondela,estoril
+2021-09-27,P1,Portugal-Liga1,2122,Boavista,Estoril,1.0,1.0,D,1.0,0.0,H,2.62,3.1,2.75,2.81,3.03,2.89,2.68,3.03,2.81,2.4,1.53,2.41,1.56,0.0,1.9,2.0,Boavista,Estoril,boavista,estoril
+2021-10-24,P1,Portugal-Liga1,2122,Portimonense,Estoril,0.0,2.0,A,0.0,0.0,D,2.3,3.1,3.2,2.5,3.03,3.37,2.4,3.0,3.17,2.5,1.5,2.53,1.5,-0.25,2.07,1.83,Portimonense,Estoril,portimonense,estoril
+2021-11-06,P1,Portugal-Liga1,2122,Vizela,Estoril,1.0,1.0,D,0.0,0.0,D,2.45,3.1,2.9,2.63,3.25,2.94,2.53,3.14,2.89,2.15,1.66,2.16,1.68,0.0,1.82,2.08,Vizela,Estoril,vizela,estoril
+2021-12-05,P1,Portugal-Liga1,2122,Sp Braga,Estoril,2.0,0.0,H,2.0,0.0,H,1.5,4.2,6.5,1.49,4.7,6.77,1.48,4.36,6.37,1.8,2.0,1.78,2.04,-1.0,1.84,2.06,Sp Braga,Estoril,sp_braga,estoril
+2021-12-12,P1,Portugal-Liga1,2122,Belenenses,Estoril,0.0,1.0,A,0.0,1.0,A,4.5,3.4,1.85,4.71,3.46,1.79,4.44,3.43,1.84,2.2,1.65,2.19,1.66,0.5,2.02,1.88,Belenenses,Estoril,belenenses,estoril
+2021-12-28,P1,Portugal-Liga1,2122,Moreirense,Estoril,1.0,0.0,H,1.0,0.0,H,3.0,3.1,2.5,3.01,3.14,2.65,2.92,3.06,2.56,2.25,1.61,2.29,1.62,0.0,2.08,1.82,Moreirense,Estoril,moreirense,estoril
+2022-01-23,P1,Portugal-Liga1,2122,Guimaraes,Estoril,3.0,1.0,H,0.0,1.0,A,1.9,3.25,4.2,1.97,3.54,4.09,1.94,3.42,3.93,2.1,1.77,2.05,1.77,-0.5,1.98,1.92,Vitoria Guimaraes,Estoril,vitoria_guimaraes,estoril
+2022-02-05,P1,Portugal-Liga1,2122,Maritimo,Estoril,0.0,0.0,D,0.0,0.0,D,2.62,3.1,2.75,2.69,3.13,2.98,2.62,3.11,2.78,2.25,1.61,2.27,1.62,0.0,1.87,2.03,Maritimo,Estoril,maritimo,estoril
+2022-02-20,P1,Portugal-Liga1,2122,Sp Lisbon,Estoril,3.0,0.0,H,1.0,0.0,H,1.25,5.5,12.0,1.27,6.03,13.39,1.25,5.64,11.77,1.72,2.07,1.72,2.11,-1.5,1.75,2.05,Sp Lisbon,Estoril,sp_lisbon,estoril
+2022-03-04,P1,Portugal-Liga1,2122,Gil Vicente,Estoril,0.0,0.0,D,0.0,0.0,D,1.9,3.5,4.2,1.93,3.5,4.48,1.92,3.41,4.13,2.1,1.7,2.1,1.73,-0.5,1.94,1.96,Gil Vicente,Estoril,gil_vicente,estoril
+2022-03-20,P1,Portugal-Liga1,2122,Benfica,Estoril,2.0,1.0,H,1.0,0.0,H,1.33,4.75,9.0,1.34,5.37,10.1,1.33,5.14,8.87,1.57,2.35,1.59,2.33,-1.5,1.99,1.91,Benfica,Estoril,benfica,estoril
+2022-04-10,P1,Portugal-Liga1,2122,Santa Clara,Estoril,2.0,0.0,H,1.0,0.0,H,2.15,3.0,3.3,2.36,3.11,3.55,2.26,3.11,3.37,2.35,1.57,2.32,1.59,-0.25,1.93,1.97,Santa Clara,Estoril,santa_clara,estoril
+2022-04-29,P1,Portugal-Liga1,2122,Famalicao,Estoril,3.0,1.0,H,1.0,0.0,H,1.75,3.6,4.5,1.79,3.85,4.76,1.78,3.62,4.57,2.05,1.75,2.06,1.76,-0.75,2.03,1.87,Famalicao,Estoril,famalicao,estoril
+2022-05-14,P1,Portugal-Liga1,2122,Porto,Estoril,2.0,0.0,H,0.0,0.0,D,1.18,8.0,11.0,1.17,7.86,18.64,1.17,7.38,15.77,1.44,2.7,1.45,2.68,-2.0,1.89,2.01,FC Porto,Estoril,fc_porto,estoril
+2022-08-14,P1,Portugal-Liga1,2223,Guimaraes,Estoril,1.0,0.0,H,1.0,0.0,H,1.95,3.4,3.8,2.03,3.31,4.26,2.02,3.33,3.79,2.1,1.7,2.11,1.72,-0.5,2.04,1.86,Vitoria Guimaraes,Estoril,vitoria_guimaraes,estoril
+2022-08-26,P1,Portugal-Liga1,2223,Pacos Ferreira,Estoril,0.0,3.0,A,0.0,2.0,A,2.62,3.2,2.8,2.71,3.17,2.91,2.62,3.07,2.84,2.2,1.65,2.26,1.63,0.0,1.88,2.02,Pacos Ferreira,Estoril,pacos_ferreira,estoril
+2022-09-12,P1,Portugal-Liga1,2223,Vizela,Estoril,0.0,1.0,A,0.0,1.0,A,2.2,3.3,3.25,2.33,3.26,3.37,2.26,3.21,3.26,2.15,1.66,2.17,1.67,-0.25,1.95,1.95,Vizela,Estoril,vizela,estoril
+2022-10-01,P1,Portugal-Liga1,2223,Chaves,Estoril,1.0,1.0,D,1.0,0.0,H,2.25,3.1,3.2,2.31,3.31,3.4,2.29,3.24,3.19,2.15,1.66,2.16,1.69,-0.25,2.0,1.9,Chaves,Estoril,chaves,estoril
+2022-10-07,P1,Portugal-Liga1,2223,Gil Vicente,Estoril,0.0,1.0,A,0.0,0.0,D,2.1,3.4,3.25,2.25,3.46,3.41,2.17,3.39,3.29,1.98,1.88,1.95,1.85,-0.25,1.93,1.97,Gil Vicente,Estoril,gil_vicente,estoril
+2022-10-30,P1,Portugal-Liga1,2223,Portimonense,Estoril,1.0,1.0,D,0.0,1.0,A,2.37,3.3,3.0,2.41,3.2,3.32,2.34,3.17,3.09,2.2,1.65,2.22,1.64,-0.25,2.03,1.87,Portimonense,Estoril,portimonense,estoril
+2022-11-14,P1,Portugal-Liga1,2223,Santa Clara,Estoril,3.0,1.0,H,2.0,1.0,H,2.25,3.2,3.2,2.39,3.18,3.32,2.32,3.15,3.2,2.25,1.61,2.26,1.63,-0.25,2.0,1.9,Santa Clara,Estoril,santa_clara,estoril
+2023-01-07,P1,Portugal-Liga1,2223,Arouca,Estoril,2.0,0.0,H,1.0,0.0,H,2.2,3.3,3.3,2.36,3.29,3.33,2.27,3.28,3.22,2.08,1.73,2.1,1.74,-0.25,1.98,1.92,Arouca,Estoril,arouca,estoril
+2023-01-22,P1,Portugal-Liga1,2223,Maritimo,Estoril,1.0,0.0,H,1.0,0.0,H,2.5,3.1,3.0,2.65,2.99,3.18,2.51,3.05,3.01,2.4,1.53,2.4,1.57,0.0,1.73,2.08,Maritimo,Estoril,maritimo,estoril
+2023-01-29,P1,Portugal-Liga1,2223,Famalicao,Estoril,1.0,0.0,H,0.0,0.0,D,2.05,3.3,3.75,2.14,3.3,3.87,2.1,3.25,3.63,2.3,1.6,2.32,1.6,-0.5,2.05,1.75,Famalicao,Estoril,famalicao,estoril
+2023-02-13,P1,Portugal-Liga1,2223,Rio Ave,Estoril,2.0,0.0,H,0.0,0.0,D,2.2,3.1,3.4,2.36,3.08,3.52,2.26,3.13,3.35,2.4,1.53,2.35,1.59,-0.25,1.98,1.92,Rio Ave,Estoril,rio_ave,estoril
+2023-02-27,P1,Portugal-Liga1,2223,Sp Lisbon,Estoril,2.0,0.0,H,1.0,0.0,H,1.22,6.5,10.0,1.21,6.72,14.49,1.21,6.56,12.66,1.53,2.4,1.51,2.52,-1.75,1.86,2.04,Sp Lisbon,Estoril,sp_lisbon,estoril
+2023-03-10,P1,Portugal-Liga1,2223,Porto,Estoril,3.0,2.0,H,2.0,1.0,H,1.18,6.5,13.0,1.19,7.22,18.52,1.18,6.84,15.59,1.57,2.35,1.57,2.37,-2.0,2.08,1.82,FC Porto,Estoril,fc_porto,estoril
+2023-04-08,P1,Portugal-Liga1,2223,Sp Braga,Estoril,4.0,1.0,H,1.0,0.0,H,1.3,5.0,9.0,1.33,5.68,9.8,1.31,5.37,9.28,1.62,2.25,1.61,2.29,-1.5,1.96,1.94,Sp Braga,Estoril,sp_braga,estoril
+2023-04-23,P1,Portugal-Liga1,2223,Benfica,Estoril,1.0,0.0,H,1.0,0.0,H,1.09,9.0,21.0,1.11,10.13,29.51,1.1,9.23,24.07,1.4,2.88,1.41,2.87,-2.5,2.04,1.86,Benfica,Estoril,benfica,estoril
+2023-05-06,P1,Portugal-Liga1,2223,Boavista,Estoril,1.0,0.0,H,0.0,0.0,D,2.0,3.3,3.6,2.09,3.42,3.87,2.06,3.35,3.7,2.15,1.67,2.19,1.66,-0.5,2.08,1.82,Boavista,Estoril,boavista,estoril
+2023-05-21,P1,Portugal-Liga1,2223,Casa Pia,Estoril,2.0,2.0,D,0.0,0.0,D,2.05,3.25,3.4,2.11,3.44,3.75,2.09,3.37,3.54,2.08,1.73,2.06,1.76,-0.25,1.82,2.08,Casa Pia,Estoril,casa_pia,estoril
+2023-08-13,P1,Portugal-Liga1,2324,Arouca,Estoril,4.0,3.0,H,1.0,1.0,D,2.05,3.2,3.4,2.22,3.13,3.89,2.13,3.19,3.64,2.3,1.6,2.33,1.59,-0.25,1.86,2.04,Arouca,Estoril,arouca,estoril
+2023-08-25,P1,Portugal-Liga1,2324,Estrela,Estoril,2.0,1.0,H,0.0,0.0,D,2.25,3.2,3.2,2.37,3.19,3.43,2.31,3.15,3.3,2.35,1.57,2.35,1.59,-0.25,1.98,1.92,Estrela Amadora,Estoril,estrela_amadora,estoril
+2023-09-17,P1,Portugal-Liga1,2324,Gil Vicente,Estoril,5.0,3.0,H,3.0,0.0,H,2.15,3.5,3.2,2.18,3.55,3.49,2.13,3.51,3.31,1.93,1.93,1.89,1.9,-0.25,1.87,2.03,Gil Vicente,Estoril,gil_vicente,estoril
+2023-10-01,P1,Portugal-Liga1,2324,Guimaraes,Estoril,3.0,2.0,H,0.0,2.0,A,1.83,3.5,4.33,1.85,3.79,4.45,1.82,3.65,4.31,1.95,1.9,1.95,1.85,-0.75,2.05,1.75,Vitoria Guimaraes,Estoril,vitoria_guimaraes,estoril
+2023-10-28,P1,Portugal-Liga1,2324,Portimonense,Estoril,1.0,0.0,H,1.0,0.0,H,2.45,3.4,2.75,2.52,3.5,2.9,2.48,3.42,2.79,1.95,1.9,1.95,1.84,0.0,1.83,2.07,Portimonense,Estoril,portimonense,estoril
+2023-11-03,P1,Portugal-Liga1,2324,Porto,Estoril,0.0,1.0,A,0.0,0.0,D,1.18,7.5,12.0,1.17,8.39,15.51,1.18,7.53,14.04,1.4,2.88,1.4,2.92,-2.0,1.89,2.01,FC Porto,Estoril,fc_porto,estoril
+2023-12-03,P1,Portugal-Liga1,2324,Sp Braga,Estoril,3.0,1.0,H,1.0,1.0,D,1.33,5.25,6.5,1.34,5.77,7.59,1.34,5.55,7.81,1.44,2.7,1.45,2.68,-1.5,1.97,1.93,Sp Braga,Estoril,sp_braga,estoril
+2023-12-17,P1,Portugal-Liga1,2324,Famalicao,Estoril,1.0,1.0,D,1.0,1.0,D,2.2,3.25,3.3,2.26,3.56,3.28,2.21,3.44,3.2,2.0,1.85,1.96,1.85,-0.25,1.92,1.98,Famalicao,Estoril,famalicao,estoril
+2024-01-05,P1,Portugal-Liga1,2324,Sp Lisbon,Estoril,5.0,1.0,H,2.0,0.0,H,1.25,5.75,11.0,1.23,6.97,12.24,1.23,6.59,11.19,1.4,2.88,1.38,2.99,-1.75,1.87,2.03,Sp Lisbon,Estoril,sp_lisbon,estoril
+2024-01-31,P1,Portugal-Liga1,2324,Rio Ave,Estoril,1.0,1.0,D,0.0,0.0,D,2.2,3.6,3.1,2.28,3.52,3.27,2.2,3.45,3.23,1.95,1.9,1.93,1.87,-0.25,1.95,1.95,Rio Ave,Estoril,rio_ave,estoril
+2024-02-10,P1,Portugal-Liga1,2324,Boavista,Estoril,2.0,1.0,H,2.0,0.0,H,2.38,3.25,3.1,2.48,3.41,3.03,2.42,3.38,2.89,2.0,1.85,1.97,1.83,-0.25,2.08,1.82,Boavista,Estoril,boavista,estoril
+2024-02-25,P1,Portugal-Liga1,2324,Vizela,Estoril,3.0,3.0,D,2.0,0.0,H,2.5,3.25,2.88,2.58,3.43,2.87,2.49,3.36,2.8,1.95,1.9,1.9,1.89,0.0,1.82,2.08,Vizela,Estoril,vizela,estoril
+2024-03-10,P1,Portugal-Liga1,2324,Benfica,Estoril,3.0,1.0,H,2.0,1.0,H,1.17,7.5,15.0,1.16,9.08,16.34,1.16,7.98,15.06,1.36,3.1,1.36,3.11,-2.25,2.05,1.85,Benfica,Estoril,benfica,estoril
+2024-04-08,P1,Portugal-Liga1,2324,Casa Pia,Estoril,0.0,0.0,D,0.0,0.0,D,2.55,3.1,3.0,2.79,2.88,3.0,2.64,2.97,2.95,2.25,1.62,2.28,1.62,0.0,1.84,2.06,Casa Pia,Estoril,casa_pia,estoril
+2024-04-21,P1,Portugal-Liga1,2324,Chaves,Estoril,2.0,2.0,D,1.0,0.0,H,2.88,3.3,2.5,2.9,3.32,2.59,2.82,3.32,2.49,2.0,1.85,1.97,1.83,0.0,2.09,1.81,Chaves,Estoril,chaves,estoril
+2024-05-05,P1,Portugal-Liga1,2324,Farense,Estoril,3.0,2.0,H,2.0,1.0,H,2.55,3.2,2.9,2.67,2.99,3.09,2.54,3.1,2.91,1.88,1.98,1.87,1.92,0.0,1.81,2.09,Farense,Estoril,farense,estoril
+2024-05-18,P1,Portugal-Liga1,2324,Moreirense,Estoril,2.0,1.0,H,1.0,0.0,H,2.3,3.3,3.1,2.33,3.18,3.26,2.31,3.31,3.12,1.98,1.88,1.94,1.87,-0.25,2.0,1.9,Moreirense,Estoril,moreirense,estoril
+2024-08-18,P1,Portugal-Liga1,2425,Guimaraes,Estoril,1.0,0.0,H,1.0,0.0,H,1.57,4.0,5.5,1.56,4.06,5.84,1.58,4.03,5.68,1.93,1.93,1.89,1.91,-1.0,2.05,1.85,Vitoria Guimaraes,Estoril,vitoria_guimaraes,estoril
+2024-08-31,P1,Portugal-Liga1,2425,Boavista,Estoril,0.0,0.0,D,0.0,0.0,D,2.25,3.1,3.3,2.36,3.04,3.37,2.32,3.11,3.27,2.35,1.57,2.37,1.58,-0.25,2.0,1.9,Boavista,Estoril,boavista,estoril
+2024-09-21,P1,Portugal-Liga1,2425,Rio Ave,Estoril,2.0,2.0,D,1.0,0.0,H,1.91,3.4,4.1,1.92,3.34,4.33,1.94,3.31,4.2,2.4,1.53,2.41,1.56,-0.5,1.95,1.95,Rio Ave,Estoril,rio_ave,estoril
+2024-10-06,P1,Portugal-Liga1,2425,Farense,Estoril,1.0,0.0,H,0.0,0.0,D,2.25,3.4,3.1,2.26,3.27,3.31,2.24,3.32,3.22,2.05,1.75,2.02,1.79,-0.25,1.98,1.92,Farense,Estoril,farense,estoril
+2024-11-03,P1,Portugal-Liga1,2425,Porto,Estoril,4.0,0.0,H,2.0,0.0,H,1.14,8.0,15.0,1.14,8.38,17.08,1.14,7.97,17.51,1.44,2.7,1.44,2.71,-2.25,2.05,1.85,FC Porto,Estoril,fc_porto,estoril
+2024-12-06,P1,Portugal-Liga1,2425,Sp Braga,Estoril,2.0,2.0,D,1.0,0.0,H,1.22,7.0,10.0,1.22,6.51,14.97,1.22,6.35,13.45,1.65,2.2,1.63,2.26,-1.75,1.92,1.98,Sp Braga,Estoril,sp_braga,estoril
+2024-12-23,P1,Portugal-Liga1,2425,Benfica,Estoril,3.0,0.0,H,1.0,0.0,H,1.08,9.5,23.0,1.08,12.23,23.2,1.09,10.02,21.76,1.33,3.4,1.31,3.24,-2.5,1.91,1.99,Benfica,Estoril,benfica,estoril
+2025-01-05,P1,Portugal-Liga1,2425,Estrela,Estoril,2.0,4.0,A,0.0,3.0,A,2.25,3.1,3.3,2.33,2.94,3.55,2.29,2.99,3.35,2.25,1.62,2.28,1.59,-0.25,1.98,1.92,Estrela Amadora,Estoril,estrela_amadora,estoril
+2025-01-18,P1,Portugal-Liga1,2425,Santa Clara,Estoril,2.0,3.0,A,1.0,2.0,A,1.7,3.4,5.5,1.72,3.57,5.19,1.71,3.49,5.12,2.4,1.53,2.39,1.55,-0.75,2.0,1.9,Santa Clara,Estoril,santa_clara,estoril
+2025-02-01,P1,Portugal-Liga1,2425,Gil Vicente,Estoril,1.0,2.0,A,1.0,1.0,D,2.15,3.25,3.4,2.18,3.1,3.71,2.14,3.18,3.55,2.25,1.62,2.21,1.65,-0.25,1.88,2.02,Gil Vicente,Estoril,gil_vicente,estoril
+2025-02-15,P1,Portugal-Liga1,2425,Nacional,Estoril,2.0,2.0,D,1.0,1.0,D,2.25,3.2,3.3,2.22,3.26,3.41,2.24,3.24,3.29,2.15,1.67,2.15,1.69,-0.25,1.95,1.95,Nacional,Estoril,nacional,estoril
+2025-03-03,P1,Portugal-Liga1,2425,Sp Lisbon,Estoril,3.0,1.0,H,2.0,0.0,H,1.2,7.0,11.0,1.18,7.3,12.69,1.19,7.03,12.53,1.44,2.7,1.43,2.72,-2.0,2.03,1.87,Sp Lisbon,Estoril,sp_lisbon,estoril
+2025-03-16,P1,Portugal-Liga1,2425,Arouca,Estoril,1.0,1.0,D,1.0,0.0,H,1.95,3.4,3.9,2.0,3.41,3.87,1.98,3.4,3.79,2.05,1.75,2.04,1.76,-0.5,2.02,1.88,Arouca,Estoril,arouca,estoril
+2025-04-04,P1,Portugal-Liga1,2425,AVS,Estoril,0.0,3.0,A,0.0,2.0,A,3.0,3.1,2.45,3.05,3.09,2.62,2.94,3.11,2.52,2.25,1.62,2.29,1.61,0.0,2.1,1.7,AVS,Estoril,avs,estoril
+2025-04-12,P1,Portugal-Liga1,2425,Famalicao,Estoril,3.0,0.0,H,0.0,0.0,D,2.0,3.3,3.75,2.03,3.33,3.89,2.02,3.32,3.74,2.1,1.7,2.15,1.68,-0.5,2.05,1.85,Famalicao,Estoril,famalicao,estoril
+2025-04-29,P1,Portugal-Liga1,2425,Casa Pia,Estoril,1.0,3.0,A,1.0,1.0,D,2.05,3.2,3.9,2.03,3.27,3.59,2.04,3.27,3.68,2.15,1.67,2.17,1.65,-0.5,2.08,1.82,Casa Pia,Estoril,casa_pia,estoril
+2025-05-11,P1,Portugal-Liga1,2425,Moreirense,Estoril,2.0,2.0,D,1.0,0.0,H,2.35,3.4,2.9,2.45,3.19,3.05,2.4,3.27,2.94,2.08,1.73,2.06,1.74,-0.25,2.09,1.81,Moreirense,Estoril,moreirense,estoril
+2025-08-16,P1,Portugal-Liga1,2526,Guimaraes,Estoril,3.0,2.0,H,1.0,1.0,D,1.7,3.6,5.0,1.68,3.75,5.14,1.67,3.67,4.85,2.05,1.75,2.0,1.73,-0.75,1.9,1.95,Vitoria Guimaraes,Estoril,vitoria_guimaraes,estoril
+2025-08-31,P1,Portugal-Liga1,2526,Tondela,Estoril,2.0,2.0,D,0.0,1.0,A,2.8,3.1,2.45,3.0,3.15,2.51,2.87,3.11,2.45,2.25,1.62,2.23,1.59,0.0,2.1,1.78,Tondela,Estoril,tondela,estoril
+2025-09-21,P1,Portugal-Liga1,2526,Gil Vicente,Estoril,2.0,0.0,H,1.0,0.0,H,2.2,3.2,3.3,2.27,3.15,3.44,2.27,3.16,3.13,2.3,1.6,2.22,1.59,-0.25,1.93,1.93,Gil Vicente,Estoril,gil_vicente,estoril
+2025-10-03,P1,Portugal-Liga1,2526,Casa Pia,Estoril,2.0,2.0,D,2.0,1.0,H,2.5,3.3,2.65,2.55,3.41,2.88,2.44,3.22,2.79,2.05,1.8,2.03,1.72,0.0,1.85,2.0,Casa Pia,Estoril,casa_pia,estoril
+2025-11-01,P1,Portugal-Liga1,2526,Rio Ave,Estoril,0.0,4.0,A,0.0,2.0,A,2.35,3.2,2.95,2.49,3.19,3.0,2.4,3.26,2.83,2.0,1.85,1.88,1.84,0.0,1.7,2.1,Rio Ave,Estoril,rio_ave,estoril
+2025-11-30,P1,Portugal-Liga1,2526,Porto,Estoril,1.0,0.0,H,1.0,0.0,H,1.22,5.5,12.0,1.26,5.59,10.93,1.24,5.64,10.72,1.57,2.35,1.55,2.31,-1.75,1.95,1.9,FC Porto,Estoril,fc_porto,estoril
+2025-12-14,P1,Portugal-Liga1,2526,Famalicao,Estoril,4.0,0.0,H,2.0,0.0,H,1.76,3.6,4.33,1.78,3.74,4.45,1.8,3.58,4.13,1.88,1.98,1.8,1.91,-0.5,1.78,2.03,Famalicao,Estoril,famalicao,estoril
+2026-01-03,P1,Portugal-Liga1,2526,Benfica,Estoril,3.0,1.0,H,2.0,1.0,H,1.19,5.75,13.0,1.22,6.46,11.28,1.22,5.89,11.31,1.5,2.5,1.49,2.44,-1.75,1.88,1.98,Benfica,Estoril,benfica,estoril
+2026-01-19,P1,Portugal-Liga1,2526,Estrela,Estoril,0.0,5.0,A,0.0,1.0,A,2.7,3.3,2.45,,,,2.76,3.27,2.44,1.93,1.93,1.85,1.85,0.0,2.03,1.83,Estrela Amadora,Estoril,estrela_amadora,estoril
+2026-01-31,P1,Portugal-Liga1,2526,Santa Clara,Estoril,2.0,4.0,A,0.0,2.0,A,2.2,3.0,3.4,,,,2.2,3.08,3.3,2.25,1.62,2.23,1.59,-0.25,1.98,1.88,Santa Clara,Estoril,santa_clara,estoril
+2026-02-15,P1,Portugal-Liga1,2526,AVS,Estoril,3.0,0.0,H,0.0,0.0,D,4.33,3.75,1.71,,,,4.06,3.67,1.78,1.7,2.1,1.72,2.01,0.5,2.03,1.78,AVS,Estoril,avs,estoril
+2026-02-27,P1,Portugal-Liga1,2526,Sp Lisbon,Estoril,3.0,0.0,H,2.0,0.0,H,1.15,7.5,12.0,,,,1.17,7.15,11.65,1.3,3.5,1.29,3.37,-2.0,1.75,2.05,Sp Lisbon,Estoril,sp_lisbon,estoril
+2026-03-15,P1,Portugal-Liga1,2526,Nacional,Estoril,0.0,1.0,A,0.0,1.0,A,2.4,3.5,2.7,,,,2.39,3.47,2.66,1.67,2.15,1.66,2.09,0.0,1.8,2.05,Nacional,Estoril,nacional,estoril
+2026-04-06,P1,Portugal-Liga1,2526,Arouca,Estoril,3.0,2.0,H,2.0,2.0,D,2.45,3.4,2.65,,,,2.42,3.44,2.61,1.75,2.05,1.72,2.02,0.0,1.83,2.03,Arouca,Estoril,arouca,estoril
+2026-04-20,P1,Portugal-Liga1,2526,Moreirense,Estoril,1.0,0.0,H,1.0,0.0,H,3.0,3.4,2.25,,,,2.92,3.29,2.27,1.93,1.93,1.88,1.84,0.0,2.15,1.68,Moreirense,Estoril,moreirense,estoril
+2026-05-03,P1,Portugal-Liga1,2526,Sp Braga,Estoril,1.0,1.0,D,1.0,0.0,H,1.68,3.8,4.5,,,,1.69,3.86,4.33,1.62,2.25,1.61,2.19,-0.75,1.93,1.93,Sp Braga,Estoril,sp_braga,estoril
+2026-05-10,P1,Portugal-Liga1,2526,Alverca,Estoril,1.0,1.0,D,1.0,0.0,H,2.35,3.5,2.7,,,,2.36,3.44,2.69,1.7,2.1,1.69,2.05,0.0,1.8,2.05,Alverca,Estoril,alverca,estoril
+2026-08-16,P1,Portugal-Liga1,2627,Nacional,Estoril,2.0,0.0,H,0.0,0.0,D,2.65,3.3,2.55,,,,2.61,3.33,2.54,1.93,1.93,1.84,1.87,0.0,1.98,1.88,Nacional,Estoril,nacional,estoril
+2026-08-31,P1,Portugal-Liga1,2627,Benfica,Estoril,2.0,1.0,H,1.0,0.0,H,1.15,7.5,12.0,,,,1.16,6.97,12.88,1.4,2.88,1.37,2.9,-2.0,1.88,1.98,Benfica,Estoril,benfica,estoril
+2026-09-14,P1,Portugal-Liga1,2627,Sp Braga,Estoril,1.0,0.0,H,0.0,0.0,D,1.46,4.1,6.5,,,,1.44,4.3,6.41,1.7,2.1,1.67,2.09,-1.0,1.83,2.03,Sp Braga,Estoril,sp_braga,estoril
+2026-10-10,P1,Portugal-Liga1,2627,Academico Viseu,Estoril,2.0,1.0,H,1.0,0.0,H,2.25,3.4,3.0,,,,2.24,3.38,2.99,1.93,1.93,1.87,1.85,-0.25,2.0,1.85,Academico Viseu,Estoril,academico_viseu,estoril

@@ -1,0 +1,35 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2023-08-13,N1,Netherlands-ED,2324,Almere City,Twente,1.0,4.0,A,0.0,0.0,D,5.75,4.2,1.55,5.67,4.35,1.6,5.38,4.27,1.57,1.62,2.25,1.61,2.3,1.0,1.91,1.99,Almere City,FC Twente,almere_city,fc_twente
+2023-09-02,N1,Netherlands-ED,2324,Almere City,Zwolle,1.0,2.0,A,0.0,1.0,A,3.2,3.6,2.15,3.26,3.66,2.23,3.15,3.63,2.16,1.65,2.2,1.65,2.23,0.25,1.99,1.91,Almere City,PEC Zwolle,almere_city,pec_zwolle
+2023-09-23,N1,Netherlands-ED,2324,Almere City,PSV Eindhoven,0.0,4.0,A,0.0,2.0,A,11.0,7.5,1.2,13.47,7.38,1.21,12.79,7.27,1.19,1.36,3.1,1.35,3.11,2.0,1.98,1.92,Almere City,PSV Eindhoven,almere_city,psv_eindhoven
+2023-10-07,N1,Netherlands-ED,2324,Almere City,Waalwijk,1.0,0.0,H,1.0,0.0,H,2.3,3.8,2.75,2.37,3.92,2.85,2.32,3.79,2.79,1.57,2.35,1.57,2.4,-0.25,2.08,1.82,Almere City,RKC Waalwijk,almere_city,rkc_waalwijk
+2023-10-28,N1,Netherlands-ED,2324,Almere City,Go Ahead Eagles,0.0,0.0,D,0.0,0.0,D,2.75,3.4,2.6,2.8,3.59,2.55,2.7,3.55,2.5,1.7,2.1,1.7,2.14,0.0,2.06,1.84,Almere City,Go Ahead Eagles,almere_city,go_ahead_eagles
+2023-11-12,N1,Netherlands-ED,2324,Almere City,Ajax,2.0,2.0,D,0.0,0.0,D,5.0,4.75,1.53,5.43,4.87,1.56,5.37,4.68,1.52,1.48,2.6,1.47,2.62,1.0,2.02,1.88,Almere City,Ajax,almere_city,ajax
+2023-11-26,N1,Netherlands-ED,2324,Almere City,Heracles,0.0,5.0,A,0.0,1.0,A,1.91,3.75,3.75,2.01,3.85,3.68,1.95,3.73,3.64,1.67,2.15,1.68,2.18,-0.5,1.97,1.93,Almere City,Heracles Almelo,almere_city,heracles_almelo
+2023-12-17,N1,Netherlands-ED,2324,Almere City,Vitesse,5.0,0.0,H,2.0,0.0,H,2.3,3.5,3.0,2.43,3.69,2.9,2.37,3.54,2.84,1.75,2.05,1.75,2.07,-0.25,2.09,1.81,Almere City,Vitesse,almere_city,vitesse
+2024-01-24,N1,Netherlands-ED,2324,Almere City,For Sittard,0.0,0.0,D,0.0,0.0,D,2.38,3.5,2.9,2.47,3.49,2.98,2.39,3.46,2.87,1.9,1.95,1.84,1.95,-0.25,2.09,1.81,Almere City,For Sittard,almere_city,for_sittard
+2024-02-02,N1,Netherlands-ED,2324,Almere City,Excelsior,2.0,1.0,H,1.0,1.0,D,2.15,3.25,3.5,2.2,3.39,3.6,2.15,3.39,3.43,2.05,1.8,2.0,1.81,-0.25,1.86,2.04,Almere City,Excelsior,almere_city,excelsior
+2024-02-10,N1,Netherlands-ED,2324,Almere City,AZ Alkmaar,0.0,0.0,D,0.0,0.0,D,4.75,4.0,1.7,4.8,4.01,1.75,4.76,3.9,1.69,1.75,2.05,1.78,2.03,0.75,1.97,1.93,Almere City,AZ Alkmaar,almere_city,az_alkmaar
+2024-02-25,N1,Netherlands-ED,2324,Almere City,Feyenoord,0.0,2.0,A,0.0,0.0,D,11.0,5.5,1.29,10.03,6.07,1.3,10.21,5.79,1.27,1.6,2.3,1.59,2.33,1.5,2.04,1.86,Almere City,Feyenoord,almere_city,feyenoord
+2024-03-09,N1,Netherlands-ED,2324,Almere City,Utrecht,1.0,1.0,D,1.0,1.0,D,3.75,3.5,2.0,3.87,3.35,2.12,3.71,3.37,2.05,2.1,1.7,2.1,1.73,0.5,1.83,2.07,Almere City,FC Utrecht,almere_city,fc_utrecht
+2024-03-31,N1,Netherlands-ED,2324,Almere City,Volendam,1.0,1.0,D,0.0,0.0,D,1.45,4.75,7.5,1.46,4.71,7.18,1.44,4.59,6.88,1.7,2.1,1.71,2.12,-1.25,2.02,1.88,Almere City,FC Volendam,almere_city,fc_volendam
+2024-04-13,N1,Netherlands-ED,2324,Almere City,Sparta Rotterdam,2.0,3.0,A,1.0,2.0,A,2.75,3.4,2.55,2.79,3.44,2.61,2.72,3.4,2.54,1.93,1.93,1.88,1.91,0.0,2.0,1.9,Almere City,Sparta Rotterdam,almere_city,sparta_rotterdam
+2024-05-03,N1,Netherlands-ED,2324,Almere City,Heerenveen,1.0,1.0,D,0.0,0.0,D,2.8,3.4,2.5,2.88,3.46,2.51,2.77,3.48,2.45,1.75,2.05,1.76,2.05,0.0,2.07,1.83,Almere City,SC Heerenveen,almere_city,sc_heerenveen
+2024-05-19,N1,Netherlands-ED,2324,Almere City,Nijmegen,1.0,4.0,A,1.0,2.0,A,3.2,3.5,2.2,3.11,3.69,2.13,3.12,3.64,2.14,1.67,2.15,1.68,2.17,0.25,1.95,1.95,Almere City,NEC Nijmegen,almere_city,nec_nijmegen
+2024-08-10,N1,Netherlands-ED,2425,Almere City,AZ Alkmaar,0.0,1.0,A,0.0,1.0,A,5.75,4.0,1.6,5.42,4.18,1.58,5.37,4.18,1.58,1.7,2.1,1.69,2.13,1.0,1.85,2.05,Almere City,AZ Alkmaar,almere_city,az_alkmaar
+2024-08-24,N1,Netherlands-ED,2425,Almere City,PSV Eindhoven,1.0,7.0,A,0.0,2.0,A,13.0,8.0,1.17,13.26,8.96,1.15,14.18,8.35,1.15,1.33,3.4,1.34,3.12,2.25,1.87,2.03,Almere City,PSV Eindhoven,almere_city,psv_eindhoven
+2024-08-31,N1,Netherlands-ED,2425,Almere City,Groningen,1.0,1.0,D,1.0,0.0,H,3.4,3.4,2.15,3.43,3.47,2.12,3.35,3.47,2.13,1.93,1.93,1.9,1.9,0.25,2.04,1.86,Almere City,FC Groningen,almere_city,fc_groningen
+2024-09-22,N1,Netherlands-ED,2425,Almere City,Twente,0.0,5.0,A,0.0,2.0,A,5.5,5.0,1.5,5.83,4.39,1.52,5.69,4.42,1.52,1.65,2.2,1.66,2.2,1.0,2.02,1.88,Almere City,FC Twente,almere_city,fc_twente
+2024-10-04,N1,Netherlands-ED,2425,Almere City,Willem II,0.0,1.0,A,0.0,0.0,D,2.7,3.2,2.75,2.74,3.23,2.8,2.67,3.17,2.75,2.15,1.67,2.16,1.68,0.0,1.91,1.99,Almere City,Willem II,almere_city,willem_ii
+2024-10-25,N1,Netherlands-ED,2425,Almere City,Nijmegen,1.0,0.0,H,0.0,0.0,D,2.9,3.2,2.5,3.0,3.35,2.49,2.91,3.3,2.45,2.0,1.85,1.97,1.83,0.25,1.7,2.1,Almere City,NEC Nijmegen,almere_city,nec_nijmegen
+2024-11-10,N1,Netherlands-ED,2425,Almere City,Feyenoord,1.0,4.0,A,1.0,2.0,A,11.0,4.75,1.3,9.33,5.68,1.29,9.89,5.54,1.29,1.57,2.35,1.6,2.32,1.5,2.02,1.88,Almere City,Feyenoord,almere_city,feyenoord
+2024-12-08,N1,Netherlands-ED,2425,Almere City,Utrecht,1.0,3.0,A,0.0,2.0,A,4.75,3.8,1.7,4.45,4.03,1.72,4.46,3.9,1.73,1.8,2.0,1.79,2.01,0.75,1.87,1.91,Almere City,FC Utrecht,almere_city,fc_utrecht
+2024-12-21,N1,Netherlands-ED,2425,Almere City,Heerenveen,3.0,0.0,H,0.0,0.0,D,3.1,3.7,2.15,3.17,3.33,2.3,3.07,3.42,2.25,1.98,1.88,1.94,1.84,0.25,1.95,1.95,Almere City,SC Heerenveen,almere_city,sc_heerenveen
+2025-01-19,N1,Netherlands-ED,2425,Almere City,Heracles,0.0,2.0,A,0.0,1.0,A,2.38,3.3,3.0,2.38,3.23,3.13,2.36,3.3,2.98,2.0,1.85,1.93,1.85,-0.25,2.08,1.82,Almere City,Heracles Almelo,almere_city,heracles_almelo
+2025-02-02,N1,Netherlands-ED,2425,Almere City,Waalwijk,1.0,4.0,A,1.0,0.0,H,2.2,3.5,3.25,2.21,3.34,3.35,2.18,3.4,3.24,1.98,1.88,1.92,1.86,-0.25,1.95,1.95,Almere City,RKC Waalwijk,almere_city,rkc_waalwijk
+2025-03-02,N1,Netherlands-ED,2425,Almere City,Ajax,0.0,1.0,A,0.0,1.0,A,7.5,4.75,1.4,6.5,5.01,1.42,7.04,4.85,1.4,1.65,2.2,1.64,2.22,1.25,1.99,1.91,Almere City,Ajax,almere_city,ajax
+2025-03-14,N1,Netherlands-ED,2425,Almere City,NAC Breda,1.0,1.0,D,1.0,1.0,D,2.2,3.2,3.4,2.24,3.34,3.48,2.22,3.3,3.35,2.05,1.75,2.06,1.75,-0.25,1.92,1.98,Almere City,NAC Breda,almere_city,nac_breda
+2025-04-05,N1,Netherlands-ED,2425,Almere City,Zwolle,2.0,2.0,D,0.0,2.0,A,2.25,3.5,3.1,2.26,3.41,3.18,2.25,3.42,3.1,2.03,1.83,1.98,1.82,-0.25,1.98,1.92,Almere City,PEC Zwolle,almere_city,pec_zwolle
+2025-04-27,N1,Netherlands-ED,2425,Almere City,Go Ahead Eagles,0.0,0.0,D,0.0,0.0,D,2.55,3.8,2.5,2.56,3.88,2.49,2.56,3.78,2.47,1.6,2.3,1.59,2.31,0.0,1.98,1.92,Almere City,Go Ahead Eagles,almere_city,go_ahead_eagles
+2025-05-10,N1,Netherlands-ED,2425,Almere City,Sparta Rotterdam,0.0,3.0,A,0.0,0.0,D,2.8,3.5,2.45,2.76,3.69,2.41,2.76,3.58,2.4,1.67,2.15,1.68,2.15,0.0,2.07,1.83,Almere City,Sparta Rotterdam,almere_city,sparta_rotterdam
+2025-05-14,N1,Netherlands-ED,2425,Almere City,For Sittard,1.0,1.0,D,1.0,0.0,H,2.25,3.5,3.1,2.27,3.45,3.09,2.26,3.5,3.01,1.75,2.05,1.75,2.06,-0.25,2.01,1.89,Almere City,For Sittard,almere_city,for_sittard

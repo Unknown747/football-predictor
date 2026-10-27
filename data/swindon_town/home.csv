@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E3,England-L2,2122,Swindon,Carlisle,1.0,2.0,A,1.0,2.0,A,2.9,3.3,2.45,2.85,3.31,2.59,2.82,3.23,2.51,2.1,1.7,2.1,1.72,0.0,2.05,1.75,Swindon Town,Carlisle United,swindon_town,carlisle_united
+2021-08-17,E3,England-L2,2122,Swindon,Tranmere,0.0,0.0,D,0.0,0.0,D,2.6,3.4,2.7,2.64,3.41,2.77,2.6,3.32,2.66,2.05,1.75,2.03,1.77,0.0,1.88,1.98,Swindon Town,Tranmere Rovers,swindon_town,tranmere_rovers
+2021-08-28,E3,England-L2,2122,Swindon,Mansfield,1.0,0.0,H,0.0,0.0,D,3.1,3.4,2.3,3.09,3.42,2.36,3.04,3.33,2.31,2.07,1.72,2.07,1.74,0.25,1.88,2.05,Swindon Town,Mansfield Town,swindon_town,mansfield_town
+2021-09-11,E3,England-L2,2122,Swindon,Port Vale,1.0,2.0,A,0.0,1.0,A,2.4,3.1,3.1,2.42,3.27,3.07,2.4,3.18,3.01,2.35,1.57,2.33,1.59,-0.25,2.1,1.77,Swindon Town,Port Vale,swindon_town,port_vale
+2021-09-25,E3,England-L2,2122,Swindon,Colchester,0.0,0.0,D,0.0,0.0,D,2.05,3.4,3.6,2.06,3.53,3.61,2.07,3.44,3.47,2.0,1.8,1.99,1.8,-0.5,2.08,1.73,Swindon Town,Colchester United,swindon_town,colchester_united
+2021-10-16,E3,England-L2,2122,Swindon,Rochdale,2.0,2.0,D,1.0,0.0,H,2.15,3.25,3.6,2.18,3.28,3.55,2.16,3.23,3.4,2.1,1.7,2.11,1.71,-0.25,1.88,1.98,Swindon Town,Rochdale,swindon_town,rochdale
+2021-10-23,E3,England-L2,2122,Swindon,Bradford,1.0,3.0,A,0.0,2.0,A,2.4,3.3,3.0,2.39,3.5,2.94,2.37,3.32,2.93,2.1,1.7,2.1,1.71,-0.25,2.1,1.7,Swindon Town,Bradford City,swindon_town,bradford_city
+2021-11-23,E3,England-L2,2122,Swindon,Hartlepool,3.0,1.0,H,0.0,0.0,D,1.75,3.75,4.6,1.78,3.79,4.79,1.77,3.64,4.45,1.98,1.88,1.94,1.84,-0.75,2.0,1.85,Swindon Town,Hartlepool United,swindon_town,hartlepool_united
+2021-11-27,E3,England-L2,2122,Swindon,Harrogate,1.0,1.0,D,0.0,1.0,A,2.1,3.5,3.5,2.1,3.75,3.3,2.08,3.56,3.3,1.83,2.02,1.81,1.98,-0.25,1.83,2.02,Swindon Town,Harrogate Town,swindon_town,harrogate_town
+2021-12-29,E3,England-L2,2122,Swindon,Stevenage,0.0,0.0,D,0.0,0.0,D,1.85,3.5,4.2,1.86,3.53,4.43,1.87,3.47,4.08,2.0,1.85,2.0,1.78,-0.5,1.88,1.98,Swindon Town,Stevenage,swindon_town,stevenage
+2022-01-01,E3,England-L2,2122,Swindon,Northampton,5.0,2.0,H,1.0,1.0,D,2.2,3.4,3.3,2.17,3.45,3.39,2.12,3.41,3.35,1.98,1.88,2.0,1.78,-0.25,1.83,2.02,Swindon Town,Northampton Town,swindon_town,northampton_town
+2022-01-22,E3,England-L2,2122,Swindon,Bristol Rvs,1.0,1.0,D,1.0,1.0,D,1.95,3.5,4.0,1.94,3.6,3.94,1.96,3.53,3.65,1.85,2.0,1.8,1.97,-0.5,2.0,1.85,Swindon Town,Bristol Rvs,swindon_town,bristol_rvs
+2022-02-01,E3,England-L2,2122,Swindon,Crawley Town,1.0,1.0,D,0.0,1.0,A,1.83,3.6,4.33,1.82,3.84,4.43,1.82,3.66,4.11,1.85,2.0,1.81,1.97,-0.5,1.88,1.98,Swindon Town,Crawley Town,swindon_town,crawley_town
+2022-02-05,E3,England-L2,2122,Swindon,Exeter,1.0,2.0,A,0.0,0.0,D,2.3,3.25,3.25,2.45,3.22,3.07,2.35,3.24,2.99,2.05,1.75,1.98,1.79,-0.25,2.02,1.83,Swindon Town,Exeter City,swindon_town,exeter_city
+2022-02-12,E3,England-L2,2122,Swindon,Scunthorpe,3.0,0.0,H,0.0,0.0,D,1.61,3.75,6.0,1.61,4.16,5.38,1.6,3.99,5.23,1.85,2.0,1.81,1.95,-1.0,2.05,1.8,Swindon Town,Scunthorpe United,swindon_town,scunthorpe_united
+2022-02-22,E3,England-L2,2122,Swindon,Walsall,5.0,0.0,H,2.0,0.0,H,2.0,3.3,4.0,2.07,3.32,4.02,2.02,3.27,3.82,2.05,1.75,2.1,1.7,-0.5,2.02,1.83,Swindon Town,Walsall,swindon_town,walsall
+2022-02-26,E3,England-L2,2122,Swindon,Salford,1.0,2.0,A,0.0,0.0,D,2.3,3.25,3.2,2.31,3.3,3.23,2.3,3.26,3.07,2.15,1.66,2.08,1.7,-0.25,2.05,1.8,Swindon Town,Salford City,swindon_town,salford_city
+2022-03-12,E3,England-L2,2122,Swindon,Oldham,1.0,0.0,H,0.0,0.0,D,1.7,3.6,5.25,1.78,3.67,4.69,1.73,3.67,4.61,1.9,1.95,1.87,1.89,-0.75,1.93,1.93,Swindon Town,Oldham,swindon_town,oldham
+2022-03-15,E3,England-L2,2122,Swindon,Sutton,2.0,1.0,H,1.0,1.0,D,2.25,3.3,3.25,2.34,3.31,3.28,2.29,3.26,3.13,2.05,1.75,2.01,1.76,-0.25,1.98,1.88,Swindon Town,Sutton United,swindon_town,sutton_united
+2022-04-09,E3,England-L2,2122,Swindon,Newport County,0.0,1.0,A,0.0,0.0,D,2.37,3.3,3.1,2.45,3.47,2.88,2.35,3.34,2.92,2.07,1.72,2.01,1.76,-0.25,2.02,1.83,Swindon Town,Newport County,swindon_town,newport_county
+2022-04-18,E3,England-L2,2122,Swindon,Leyton Orient,1.0,2.0,A,0.0,1.0,A,2.0,3.5,3.75,1.99,3.65,3.69,2.01,3.47,3.55,2.02,1.83,1.96,1.81,-0.5,2.02,1.83,Swindon Town,Leyton Orient,swindon_town,leyton_orient
+2022-04-26,E3,England-L2,2122,Swindon,Forest Green,2.0,1.0,H,2.0,0.0,H,2.25,3.6,3.0,2.25,3.62,3.2,2.23,3.47,3.05,1.93,1.93,1.82,1.94,-0.25,2.0,1.85,Swindon Town,Forest Green Rovers,swindon_town,forest_green_rovers
+2022-04-30,E3,England-L2,2122,Swindon,Barrow,2.0,1.0,H,1.0,0.0,H,1.45,4.5,6.5,1.47,4.7,6.41,1.47,4.38,6.24,1.8,2.05,1.79,1.97,-1.0,1.8,2.05,Swindon Town,Barrow,swindon_town,barrow
+2022-08-06,E3,England-L2,2223,Swindon,Salford,0.0,0.0,D,0.0,0.0,D,2.2,3.4,3.3,2.32,3.46,3.19,2.21,3.36,3.16,1.98,1.88,1.92,1.84,-0.25,1.93,1.93,Swindon Town,Salford City,swindon_town,salford_city
+2022-08-16,E3,England-L2,2223,Swindon,Leyton Orient,1.0,1.0,D,1.0,1.0,D,2.5,3.3,2.87,2.58,3.39,2.85,2.5,3.29,2.77,2.0,1.85,1.97,1.81,0.0,1.85,2.0,Swindon Town,Leyton Orient,swindon_town,leyton_orient
+2022-08-20,E3,England-L2,2223,Swindon,Rochdale,3.0,0.0,H,1.0,0.0,H,1.95,3.6,3.8,1.99,3.53,4.02,1.96,3.47,3.72,1.93,1.93,1.89,1.86,-0.5,1.95,1.9,Swindon Town,Rochdale,swindon_town,rochdale
+2022-09-13,E3,England-L2,2223,Swindon,Sutton,3.0,2.0,H,2.0,2.0,D,2.2,3.4,3.3,2.25,3.43,3.36,2.21,3.34,3.18,2.05,1.75,2.01,1.76,-0.25,1.93,1.93,Swindon Town,Sutton United,swindon_town,sutton_united
+2022-10-01,E3,England-L2,2223,Swindon,Northampton,1.0,2.0,A,0.0,0.0,D,2.45,3.2,3.1,2.49,3.4,3.02,2.41,3.26,2.89,2.07,1.72,2.06,1.72,-0.25,2.1,1.77,Swindon Town,Northampton Town,swindon_town,northampton_town
+2022-10-04,E3,England-L2,2223,Swindon,Newport County,1.0,0.0,H,0.0,0.0,D,2.25,3.4,3.2,2.22,3.56,3.3,2.2,3.39,3.14,1.9,1.95,1.86,1.9,-0.25,1.9,1.95,Swindon Town,Newport County,swindon_town,newport_county
+2022-10-15,E3,England-L2,2223,Swindon,Colchester,1.0,0.0,H,0.0,0.0,D,2.0,3.5,3.8,1.99,3.63,3.74,1.98,3.47,3.62,1.98,1.88,1.92,1.84,-0.5,2.0,1.85,Swindon Town,Colchester United,swindon_town,colchester_united
+2022-10-22,E3,England-L2,2223,Swindon,Hartlepool,2.0,1.0,H,2.0,1.0,H,1.66,3.8,5.25,1.69,4.0,5.15,1.68,3.78,4.82,1.93,1.93,1.87,1.89,-0.75,1.88,1.98,Swindon Town,Hartlepool United,swindon_town,hartlepool_united
+2022-11-12,E3,England-L2,2223,Swindon,Tranmere,1.0,1.0,D,1.0,1.0,D,2.25,3.4,3.2,2.35,3.44,3.15,2.28,3.34,3.05,2.02,1.83,2.0,1.77,-0.25,1.98,1.88,Swindon Town,Tranmere Rovers,swindon_town,tranmere_rovers
+2022-11-19,E3,England-L2,2223,Swindon,Crewe,0.0,1.0,A,0.0,1.0,A,1.8,3.75,4.5,1.76,3.9,4.7,1.73,3.78,4.42,1.85,2.0,1.81,1.94,-0.75,1.98,1.88,Swindon Town,Crewe Alexandra,swindon_town,crewe_alexandra
+2022-12-10,E3,England-L2,2223,Swindon,AFC Wimbledon,0.0,0.0,D,0.0,0.0,D,2.0,3.6,3.6,2.08,3.64,3.57,2.01,3.5,3.51,1.98,1.88,1.92,1.83,-0.5,2.0,1.85,Swindon Town,AFC Wimbledon,swindon_town,afc_wimbledon
+2022-12-26,E3,England-L2,2223,Swindon,Walsall,1.0,2.0,A,1.0,1.0,D,2.25,3.1,3.5,2.12,3.43,3.53,2.15,3.27,3.36,2.2,1.65,2.18,1.65,-0.25,1.9,1.95,Swindon Town,Walsall,swindon_town,walsall
+2023-01-14,E3,England-L2,2223,Swindon,Grimsby,5.0,0.0,H,1.0,0.0,H,2.55,3.1,3.0,2.46,3.24,3.04,2.39,3.21,2.96,2.08,1.73,2.01,1.77,-0.25,2.1,1.77,Swindon Town,Grimsby Town,swindon_town,grimsby_town
+2023-01-28,E3,England-L2,2223,Swindon,Gillingham,3.0,3.0,D,1.0,3.0,A,1.83,3.5,4.5,1.85,3.45,4.83,1.82,3.41,4.38,2.15,1.67,2.16,1.66,-0.5,1.83,2.02,Swindon Town,Gillingham,swindon_town,gillingham
+2023-02-11,E3,England-L2,2223,Swindon,Doncaster,0.0,2.0,A,0.0,0.0,D,2.0,3.5,3.75,2.0,3.63,3.86,1.98,3.46,3.67,2.0,1.8,1.9,1.86,-0.5,2.0,1.8,Swindon Town,Doncaster Rovers,swindon_town,doncaster_rovers
+2023-02-25,E3,England-L2,2223,Swindon,Harrogate,3.0,0.0,H,2.0,0.0,H,1.75,3.6,4.75,1.81,3.88,4.47,1.79,3.67,4.23,1.85,1.95,1.87,1.88,-0.75,2.0,1.8,Swindon Town,Harrogate Town,swindon_town,harrogate_town
+2023-03-11,E3,England-L2,2223,Swindon,Carlisle,1.0,2.0,A,0.0,0.0,D,2.9,3.1,2.55,2.86,3.39,2.57,2.79,3.26,2.49,2.05,1.75,2.04,1.73,0.0,2.05,1.8,Swindon Town,Carlisle United,swindon_town,carlisle_united
+2023-03-25,E3,England-L2,2223,Swindon,Stockport,0.0,1.0,A,0.0,0.0,D,3.6,3.3,2.1,3.6,3.4,2.17,3.44,3.29,2.12,2.1,1.7,2.09,1.7,0.25,2.02,1.83,Swindon Town,Stockport County,swindon_town,stockport_county
+2023-04-07,E3,England-L2,2223,Swindon,Mansfield,2.0,4.0,A,1.0,3.0,A,3.2,3.4,2.25,3.11,3.45,2.37,3.01,3.36,2.3,2.0,1.85,1.95,1.82,0.25,1.88,1.98,Swindon Town,Mansfield Town,swindon_town,mansfield_town
+2023-04-15,E3,England-L2,2223,Swindon,Barrow,0.0,0.0,D,0.0,0.0,D,2.7,3.2,2.75,2.76,3.23,2.77,2.68,3.15,2.68,2.15,1.67,2.18,1.64,0.0,1.95,1.9,Swindon Town,Barrow,swindon_town,barrow
+2023-04-18,E3,England-L2,2223,Swindon,Bradford,1.0,0.0,H,0.0,0.0,D,3.3,3.3,2.25,3.31,3.45,2.27,3.17,3.32,2.24,2.0,1.85,1.96,1.81,0.25,1.9,1.95,Swindon Town,Bradford City,swindon_town,bradford_city
+2023-04-25,E3,England-L2,2223,Swindon,Stevenage,0.0,1.0,A,0.0,1.0,A,3.6,3.25,2.15,3.63,3.35,2.17,3.5,3.29,2.11,2.15,1.67,2.11,1.69,0.25,2.02,1.82,Swindon Town,Stevenage,swindon_town,stevenage
+2023-05-08,E3,England-L2,2223,Swindon,Crawley Town,2.0,1.0,H,2.0,0.0,H,1.8,3.8,4.33,1.86,3.8,3.88,1.85,3.75,3.83,1.62,2.25,1.66,2.15,-0.5,1.82,2.02,Swindon Town,Crawley Town,swindon_town,crawley_town
+2023-08-12,E3,England-L2,2324,Swindon,Crewe,2.0,2.0,D,1.0,0.0,H,1.8,3.75,4.33,1.86,3.6,4.54,1.81,3.57,4.26,1.95,1.9,1.9,1.85,-0.5,1.78,2.03,Swindon Town,Crewe Alexandra,swindon_town,crewe_alexandra
+2023-08-26,E3,England-L2,2324,Swindon,Crawley Town,6.0,0.0,H,1.0,0.0,H,2.0,3.6,3.75,2.08,3.78,3.46,1.98,3.61,3.51,1.85,2.0,1.78,1.98,-0.5,2.0,1.85,Swindon Town,Crawley Town,swindon_town,crawley_town
+2023-09-09,E3,England-L2,2324,Swindon,Sutton,5.0,3.0,H,3.0,2.0,H,1.75,3.6,4.5,1.83,3.85,4.34,1.81,3.69,4.13,1.8,2.0,1.77,2.0,-0.5,1.8,2.05,Swindon Town,Sutton United,swindon_town,sutton_united
+2023-09-16,E3,England-L2,2324,Swindon,Walsall,2.0,0.0,H,1.0,0.0,H,1.95,3.6,3.8,1.97,3.81,3.76,1.94,3.65,3.62,1.78,2.1,1.7,2.09,-0.5,1.95,1.9,Swindon Town,Walsall,swindon_town,walsall
+2023-09-30,E3,England-L2,2324,Swindon,Grimsby,2.0,1.0,H,1.0,0.0,H,1.83,3.5,4.5,1.86,3.91,4.12,1.84,3.71,3.95,1.73,2.08,1.71,2.06,-0.5,1.83,2.03,Swindon Town,Grimsby Town,swindon_town,grimsby_town
+2023-10-14,E3,England-L2,2324,Swindon,Newport County,2.0,0.0,H,1.0,0.0,H,1.75,3.75,4.75,1.74,4.11,4.57,1.73,3.91,4.28,1.62,2.25,1.6,2.26,-0.75,1.93,1.93,Swindon Town,Newport County,swindon_town,newport_county
+2023-10-24,E3,England-L2,2324,Swindon,Gillingham,0.0,1.0,A,0.0,1.0,A,1.83,3.6,4.5,1.85,3.83,4.25,1.83,3.69,4.02,1.73,2.08,1.75,2.03,-0.5,1.85,2.0,Swindon Town,Gillingham,swindon_town,gillingham
+2023-11-11,E3,England-L2,2324,Swindon,Stockport,2.0,4.0,A,1.0,0.0,H,3.25,4.2,2.0,3.34,4.23,2.0,3.3,3.9,1.97,1.6,2.3,1.59,2.28,0.5,1.9,1.95,Swindon Town,Stockport County,swindon_town,stockport_county
+2023-11-25,E3,England-L2,2324,Swindon,Mansfield,2.0,1.0,H,1.0,0.0,H,3.25,4.0,2.0,3.76,4.01,1.93,3.49,3.81,1.94,1.6,2.3,1.58,2.31,0.5,1.85,1.95,Swindon Town,Mansfield Town,swindon_town,mansfield_town
+2023-12-16,E3,England-L2,2324,Swindon,Barrow,0.0,3.0,A,0.0,1.0,A,2.6,3.6,2.6,2.7,3.72,2.54,2.58,3.54,2.52,1.83,2.03,1.77,1.99,0.0,1.95,1.9,Swindon Town,Barrow,swindon_town,barrow
+2023-12-26,E3,England-L2,2324,Swindon,Wrexham,0.0,1.0,A,0.0,1.0,A,4.2,3.75,1.83,4.12,4.12,1.82,3.89,3.95,1.79,1.53,2.4,1.5,2.47,0.5,2.03,1.78,Swindon Town,Wrexham,swindon_town,wrexham
+2023-12-29,E3,England-L2,2324,Swindon,Forest Green,2.0,1.0,H,0.0,0.0,D,2.05,3.6,3.4,2.1,3.81,3.39,2.07,3.67,3.24,1.6,2.3,1.59,2.3,-0.25,1.73,2.08,Swindon Town,Forest Green Rovers,swindon_town,forest_green_rovers
+2024-01-06,E3,England-L2,2324,Swindon,Colchester,2.0,2.0,D,2.0,1.0,H,2.05,4.0,3.2,2.1,4.14,3.16,2.04,3.9,3.1,1.5,2.5,1.5,2.47,-0.25,1.83,2.03,Swindon Town,Colchester United,swindon_town,colchester_united
+2024-01-27,E3,England-L2,2324,Swindon,Bradford,2.0,0.0,H,2.0,0.0,H,3.3,3.8,2.05,3.35,3.62,2.18,3.23,3.54,2.08,1.75,2.05,1.75,2.0,0.25,2.0,1.85,Swindon Town,Bradford City,swindon_town,bradford_city
+2024-02-10,E3,England-L2,2324,Swindon,Salford,1.0,1.0,D,0.0,0.0,D,2.88,3.75,2.3,2.96,3.73,2.34,2.82,3.6,2.29,1.65,2.2,1.64,2.18,0.25,1.83,2.03,Swindon Town,Salford City,swindon_town,salford_city
+2024-02-17,E3,England-L2,2324,Swindon,Milton Keynes Dons,1.0,2.0,A,0.0,2.0,A,3.1,3.6,2.2,3.05,3.71,2.3,2.95,3.6,2.2,1.65,2.2,1.63,2.2,0.25,1.88,1.98,Swindon Town,MK Dons,swindon_town,mk_dons
+2024-02-27,E3,England-L2,2324,Swindon,Tranmere,3.0,1.0,H,2.0,1.0,H,2.38,3.5,2.88,2.46,3.52,2.92,2.38,3.44,2.82,1.75,2.05,1.75,2.03,0.0,1.78,2.1,Swindon Town,Tranmere Rovers,swindon_town,tranmere_rovers
+2024-03-02,E3,England-L2,2324,Swindon,Harrogate,1.0,1.0,D,0.0,0.0,D,1.83,3.9,4.0,1.83,3.99,4.2,1.83,3.77,3.9,1.67,2.15,1.66,2.15,-0.5,1.83,2.03,Swindon Town,Harrogate Town,swindon_town,harrogate_town
+2024-03-12,E3,England-L2,2324,Swindon,Accrington,1.0,2.0,A,0.0,0.0,D,1.8,4.0,4.0,1.85,4.07,4.03,1.82,3.89,3.86,1.53,2.4,1.55,2.39,-0.5,1.83,2.03,Swindon Town,Accrington Stanley,swindon_town,accrington_stanley
+2024-03-16,E3,England-L2,2324,Swindon,Doncaster,1.0,2.0,A,0.0,2.0,A,2.15,3.75,3.1,2.23,3.81,3.1,2.15,3.65,3.07,1.67,2.15,1.66,2.16,-0.25,1.9,1.95,Swindon Town,Doncaster Rovers,swindon_town,doncaster_rovers
+2024-03-29,E3,England-L2,2324,Swindon,Notts County,2.0,1.0,H,1.0,0.0,H,2.3,3.5,3.0,2.25,4.01,2.89,2.24,3.83,2.8,1.4,2.88,1.39,2.86,-0.25,1.98,1.88,Swindon Town,Notts County,swindon_town,notts_county
+2024-04-13,E3,England-L2,2324,Swindon,AFC Wimbledon,3.0,2.0,H,0.0,1.0,A,2.88,3.6,2.38,3.01,3.4,2.42,2.84,3.46,2.37,1.8,2.0,1.8,1.97,0.25,1.8,2.05,Swindon Town,AFC Wimbledon,swindon_town,afc_wimbledon
+2024-04-27,E3,England-L2,2324,Swindon,Morecambe,3.0,3.0,D,2.0,2.0,D,1.8,4.2,3.8,1.86,4.13,3.83,1.82,4.02,3.73,1.5,2.5,1.48,2.55,-0.5,1.78,2.03,Swindon Town,Morecambe,swindon_town,morecambe
+2024-08-17,E3,England-L2,2425,Swindon,Walsall,0.0,4.0,A,0.0,2.0,A,2.4,3.6,2.7,2.43,3.63,2.72,2.4,3.58,2.68,1.62,2.25,1.61,2.26,0.0,1.83,2.03,Swindon Town,Walsall,swindon_town,walsall
+2024-08-31,E3,England-L2,2425,Swindon,Notts County,1.0,2.0,A,1.0,1.0,D,2.9,3.6,2.25,2.95,3.89,2.23,2.89,3.74,2.2,1.53,2.4,1.51,2.46,0.25,1.85,2.0,Swindon Town,Notts County,swindon_town,notts_county
+2024-09-14,E3,England-L2,2425,Swindon,Newport County,4.0,0.0,H,4.0,0.0,H,1.73,3.8,4.33,1.76,3.94,4.09,1.74,3.94,4.13,1.65,2.2,1.63,2.21,-0.75,1.98,1.88,Swindon Town,Newport County,swindon_town,newport_county
+2024-09-21,E3,England-L2,2425,Swindon,Carlisle,0.0,2.0,A,0.0,1.0,A,1.95,3.5,3.6,1.98,3.5,3.65,1.98,3.51,3.57,1.83,2.03,1.79,1.97,-0.5,2.0,1.85,Swindon Town,Carlisle United,swindon_town,carlisle_united
+2024-10-05,E3,England-L2,2425,Swindon,Harrogate,0.0,0.0,D,0.0,0.0,D,1.75,3.7,4.5,1.77,3.87,4.13,1.76,3.79,4.19,1.75,2.05,1.74,2.02,-0.75,2.0,1.85,Swindon Town,Harrogate Town,swindon_town,harrogate_town
+2024-10-19,E3,England-L2,2425,Swindon,Doncaster,1.0,2.0,A,0.0,0.0,D,2.9,3.5,2.3,3.01,3.37,2.31,2.95,3.41,2.28,1.88,1.98,1.84,1.91,0.25,1.8,2.03,Swindon Town,Doncaster Rovers,swindon_town,doncaster_rovers
+2024-10-26,E3,England-L2,2425,Swindon,Gillingham,1.0,1.0,D,0.0,1.0,A,2.25,3.25,3.1,2.28,3.24,3.17,2.25,3.28,3.11,2.05,1.75,2.03,1.74,-0.25,1.98,1.88,Swindon Town,Gillingham,swindon_town,gillingham
+2024-11-23,E3,England-L2,2425,Swindon,Morecambe,2.0,3.0,A,1.0,2.0,A,1.8,3.5,4.33,1.83,3.67,4.07,1.83,3.61,4.09,1.85,2.0,1.8,1.96,-0.5,1.83,2.03,Swindon Town,Morecambe,swindon_town,morecambe
+2024-12-07,E3,England-L2,2425,Swindon,Fleetwood Town,3.0,1.0,H,2.0,0.0,H,2.9,3.4,2.3,2.84,3.5,2.36,2.85,3.45,2.33,1.8,2.0,1.77,2.0,0.25,1.8,2.05,Swindon Town,Fleetwood Town,swindon_town,fleetwood_town
+2024-12-21,E3,England-L2,2425,Swindon,Grimsby,3.0,1.0,H,2.0,0.0,H,2.2,3.6,2.9,2.28,3.59,2.88,2.26,3.48,2.92,1.93,1.93,1.88,1.88,-0.25,2.0,1.85,Swindon Town,Grimsby Town,swindon_town,grimsby_town
+2025-01-01,E3,England-L2,2425,Swindon,Colchester,3.0,2.0,H,1.0,1.0,D,2.5,3.4,2.63,2.58,3.25,2.73,2.49,3.33,2.68,1.95,1.9,1.91,1.85,0.0,1.88,1.98,Swindon Town,Colchester United,swindon_town,colchester_united
+2025-01-11,E3,England-L2,2425,Swindon,Crewe,0.0,0.0,D,0.0,0.0,D,2.8,3.3,2.4,3.0,3.15,2.44,2.86,3.24,2.42,2.05,1.75,2.03,1.74,0.25,1.73,2.08,Swindon Town,Crewe Alexandra,swindon_town,crewe_alexandra
+2025-01-18,E3,England-L2,2425,Swindon,Barrow,2.0,0.0,H,1.0,0.0,H,2.2,3.3,3.1,2.23,3.22,3.3,2.22,3.25,3.18,2.1,1.7,2.1,1.69,-0.25,1.93,1.93,Swindon Town,Barrow,swindon_town,barrow
+2025-01-28,E3,England-L2,2425,Swindon,Tranmere,3.0,1.0,H,0.0,1.0,A,1.8,3.6,4.2,1.82,3.67,4.37,1.83,3.58,4.16,1.95,1.9,1.93,1.85,-0.5,1.83,2.03,Swindon Town,Tranmere Rovers,swindon_town,tranmere_rovers
+2025-02-08,E3,England-L2,2425,Swindon,Port Vale,3.0,3.0,D,2.0,2.0,D,2.25,3.3,3.0,2.29,3.2,3.2,2.26,3.26,3.09,2.05,1.8,2.01,1.76,-0.25,2.0,1.85,Swindon Town,Port Vale,swindon_town,port_vale
+2025-02-22,E3,England-L2,2425,Swindon,Chesterfield,1.0,0.0,H,0.0,0.0,D,2.75,3.2,2.5,2.71,3.42,2.5,2.69,3.36,2.46,1.88,1.98,1.84,1.91,0.0,2.03,1.83,Swindon Town,Chesterfield,swindon_town,chesterfield
+2025-03-04,E3,England-L2,2425,Swindon,Salford,2.0,2.0,D,1.0,1.0,D,2.0,3.25,3.8,2.01,3.33,3.97,2.01,3.27,3.74,2.2,1.65,2.22,1.63,-0.5,2.03,1.33,Swindon Town,Salford City,swindon_town,salford_city
+2025-03-15,E3,England-L2,2425,Swindon,Cheltenham,3.0,3.0,D,1.0,1.0,D,1.95,3.5,3.75,1.91,3.59,3.76,1.94,3.51,3.62,1.95,1.9,1.89,1.86,-0.5,1.98,1.88,Swindon Town,Cheltenham Town,swindon_town,cheltenham_town
+2025-03-22,E3,England-L2,2425,Swindon,Accrington,0.0,0.0,D,0.0,0.0,D,1.95,3.3,4.0,1.91,3.65,3.74,1.91,3.54,3.73,2.0,1.85,1.92,1.84,-0.5,1.93,1.93,Swindon Town,Accrington Stanley,swindon_town,accrington_stanley
+2025-04-01,E3,England-L2,2425,Swindon,AFC Wimbledon,2.0,1.0,H,0.0,0.0,D,2.88,3.3,2.3,3.15,3.23,2.37,2.99,3.24,2.35,2.15,1.67,2.14,1.68,0.25,1.83,2.03,Swindon Town,AFC Wimbledon,swindon_town,afc_wimbledon
+2025-04-12,E3,England-L2,2425,Swindon,Bradford,5.0,4.0,H,2.0,3.0,A,3.2,3.2,2.25,3.12,3.37,2.29,3.1,3.29,2.25,2.15,1.67,2.11,1.69,0.25,1.9,1.95,Swindon Town,Bradford City,swindon_town,bradford_city
+2025-04-21,E3,England-L2,2425,Swindon,Bromley,0.0,1.0,A,0.0,0.0,D,1.8,3.6,4.1,1.82,3.77,3.99,1.82,3.7,3.96,1.73,2.08,1.72,2.08,-0.5,1.83,2.03,Swindon Town,Bromley,swindon_town,bromley
+2025-05-03,E3,England-L2,2425,Swindon,Milton Keynes Dons,0.0,0.0,D,0.0,0.0,D,1.71,3.9,4.2,1.71,3.99,4.09,1.73,3.94,4.11,1.57,2.35,1.57,2.32,-0.75,1.98,1.88,Swindon Town,MK Dons,swindon_town,mk_dons
+2025-08-09,E3,England-L2,2526,Swindon,Cambridge,3.0,2.0,H,2.0,1.0,H,2.1,3.3,3.4,2.14,3.42,3.28,2.07,3.44,3.27,1.93,1.93,1.85,1.87,-0.25,1.83,2.03,Swindon Town,Cambridge United,swindon_town,cambridge_united
+2025-08-19,E3,England-L2,2526,Swindon,Barnet,0.0,2.0,A,0.0,0.0,D,2.2,3.5,3.0,2.14,3.65,3.25,2.16,3.45,3.13,1.9,1.95,1.85,1.87,-0.25,1.98,1.88,Swindon Town,Barnet,swindon_town,barnet
+2025-08-23,E3,England-L2,2526,Swindon,Shrewsbury,2.0,1.0,H,1.0,0.0,H,1.8,3.5,4.5,1.78,3.58,4.42,1.81,3.52,4.24,2.03,1.83,1.97,1.76,-0.5,1.78,2.03,Swindon Town,Shrewsbury Town,swindon_town,shrewsbury_town
+2025-09-13,E3,England-L2,2526,Swindon,Harrogate,3.0,1.0,H,1.0,1.0,D,1.57,4.0,5.25,1.59,4.01,5.31,1.6,3.96,5.16,1.85,2.0,1.77,1.96,-1.0,2.05,1.75,Swindon Town,Harrogate Town,swindon_town,harrogate_town
+2025-09-27,E3,England-L2,2526,Swindon,Bromley,2.0,0.0,H,2.0,0.0,H,1.91,3.5,3.6,2.04,3.43,3.52,1.99,3.53,3.51,1.88,1.98,1.79,1.95,-0.5,2.03,1.83,Swindon Town,Bromley,swindon_town,bromley
+2025-10-21,E3,England-L2,2526,Swindon,Notts County,2.0,2.0,D,1.0,1.0,D,2.05,3.6,3.2,2.0,3.66,3.53,2.08,3.53,3.24,1.85,2.0,1.78,1.95,-0.25,1.85,2.0,Swindon Town,Notts County,swindon_town,notts_county
+2025-10-25,E3,England-L2,2526,Swindon,Colchester,0.0,0.0,D,0.0,0.0,D,2.1,3.5,3.2,2.12,3.68,3.14,2.1,3.61,3.11,1.67,2.15,1.66,2.11,-0.25,1.9,1.95,Swindon Town,Colchester United,swindon_town,colchester_united
+2025-11-08,E3,England-L2,2526,Swindon,Tranmere,2.0,1.0,H,0.0,0.0,D,1.66,3.75,4.5,,,,1.72,3.85,4.28,1.67,2.15,1.66,2.11,-0.75,1.95,1.9,Swindon Town,Tranmere Rovers,swindon_town,tranmere_rovers
+2025-11-22,E3,England-L2,2526,Swindon,Grimsby,2.0,2.0,D,2.0,2.0,D,2.25,3.3,2.95,,,,2.26,3.45,2.93,1.83,2.03,1.73,2.01,-0.25,2.03,1.83,Swindon Town,Grimsby Town,swindon_town,grimsby_town
+2025-12-09,E3,England-L2,2526,Swindon,Cheltenham,0.0,1.0,A,0.0,0.0,D,1.39,4.33,7.0,,,,1.43,4.49,6.67,1.62,2.25,1.62,2.17,-1.25,2.0,1.85,Swindon Town,Cheltenham Town,swindon_town,cheltenham_town
+2025-12-20,E3,England-L2,2526,Swindon,Crawley Town,1.0,0.0,H,0.0,0.0,D,1.68,3.9,4.2,,,,1.71,3.93,4.23,1.57,2.35,1.54,2.33,-0.75,1.95,1.9,Swindon Town,Crawley Town,swindon_town,crawley_town
+2026-01-01,E3,England-L2,2526,Swindon,Gillingham,2.0,0.0,H,0.0,0.0,D,2.01,3.4,3.4,,,,2.06,3.43,3.33,2.0,1.85,1.9,1.82,-0.25,1.83,2.03,Swindon Town,Gillingham,swindon_town,gillingham
+2026-01-17,E3,England-L2,2526,Swindon,Salford,2.0,3.0,A,1.0,2.0,A,2.35,3.4,2.7,,,,2.38,3.42,2.75,1.8,2.0,1.75,1.97,0.0,1.8,2.05,Swindon Town,Salford City,swindon_town,salford_city
+2026-01-31,E3,England-L2,2526,Swindon,Barrow,3.0,1.0,H,1.0,1.0,D,1.68,3.6,4.75,,,,1.73,3.63,4.5,1.85,1.95,1.83,1.88,-0.75,1.98,1.88,Swindon Town,Barrow,swindon_town,barrow
+2026-02-07,E3,England-L2,2526,Swindon,Oldham,3.0,0.0,H,1.0,0.0,H,2.05,3.5,3.2,,,,2.11,3.37,3.26,1.9,1.9,1.87,1.85,-0.25,1.85,2.0,Swindon Town,Oldham,swindon_town,oldham
+2026-02-11,E3,England-L2,2526,Swindon,Newport County,2.0,0.0,H,0.0,0.0,D,1.51,3.9,5.75,,,,1.5,4.29,5.67,1.67,2.15,1.61,2.18,-1.0,1.93,1.93,Swindon Town,Newport County,swindon_town,newport_county
+2026-02-21,E3,England-L2,2526,Swindon,Crewe,1.0,2.0,A,0.0,1.0,A,1.96,3.5,3.4,,,,1.99,3.5,3.47,1.8,2.0,1.76,1.96,-0.5,2.03,1.83,Swindon Town,Crewe Alexandra,swindon_town,crewe_alexandra
+2026-02-28,E3,England-L2,2526,Swindon,Bristol Rvs,1.0,1.0,D,0.0,1.0,A,1.86,3.5,3.7,,,,1.91,3.51,3.72,1.85,1.95,1.79,1.94,-0.5,1.98,1.88,Swindon Town,Bristol Rvs,swindon_town,bristol_rvs
+2026-03-14,E3,England-L2,2526,Swindon,Milton Keynes Dons,1.0,2.0,A,0.0,1.0,A,3.0,3.3,2.25,,,,2.83,3.36,2.34,1.88,1.98,1.8,1.93,0.25,1.8,2.05,Swindon Town,MK Dons,swindon_town,mk_dons
+2026-03-28,E3,England-L2,2526,Swindon,Fleetwood Town,1.0,1.0,D,1.0,0.0,H,1.96,3.5,3.4,,,,2.02,3.43,3.45,1.95,1.9,1.87,1.84,-0.5,2.03,1.83,Swindon Town,Fleetwood Town,swindon_town,fleetwood_town
+2026-04-06,E3,England-L2,2526,Swindon,Walsall,2.0,1.0,H,0.0,0.0,D,2.05,3.25,3.4,,,,2.02,3.31,3.5,2.05,1.75,1.99,1.74,-0.25,1.8,2.05,Swindon Town,Walsall,swindon_town,walsall
+2026-04-18,E3,England-L2,2526,Swindon,Accrington,2.0,2.0,D,2.0,1.0,H,1.62,3.75,4.75,,,,1.63,3.82,4.91,1.93,1.93,1.82,1.9,-0.75,1.85,2.0,Swindon Town,Accrington Stanley,swindon_town,accrington_stanley
+2026-05-02,E3,England-L2,2526,Swindon,Chesterfield,1.0,2.0,A,1.0,1.0,D,2.75,3.6,2.25,,,,2.77,3.55,2.29,1.7,2.1,1.69,2.05,0.25,1.8,2.05,Swindon Town,Chesterfield,swindon_town,chesterfield
+2026-08-22,E3,England-L2,2627,Swindon,Cheltenham,2.0,1.0,H,1.0,0.0,H,1.76,3.7,4.2,,,,1.8,3.63,4.11,1.8,2.0,1.77,1.95,-0.5,1.8,2.05,Swindon Town,Cheltenham Town,swindon_town,cheltenham_town
+2026-09-01,E3,England-L2,2627,Swindon,Port Vale,3.0,1.0,H,1.0,1.0,D,3.1,3.6,2.01,,,,3.1,3.49,2.15,1.85,2.0,1.81,1.91,0.25,2.0,1.85,Swindon Town,Port Vale,swindon_town,port_vale
+2026-09-05,E3,England-L2,2627,Swindon,Colchester,3.0,1.0,H,0.0,1.0,A,2.45,3.25,2.65,,,,2.5,3.39,2.63,1.83,2.03,1.8,1.93,0.0,1.85,2.0,Swindon Town,Colchester United,swindon_town,colchester_united
+2026-09-26,E3,England-L2,2627,Swindon,Accrington,1.0,1.0,D,1.0,1.0,D,2.15,3.4,3.1,,,,2.17,3.5,3.06,1.83,2.03,1.77,1.96,-0.25,1.93,1.93,Swindon Town,Accrington Stanley,swindon_town,accrington_stanley
+2026-10-10,E3,England-L2,2627,Swindon,Crewe,0.0,1.0,A,0.0,0.0,D,2.55,3.4,2.45,,,,2.54,3.51,2.54,1.75,2.05,1.71,2.04,0.0,1.95,1.9,Swindon Town,Crewe Alexandra,swindon_town,crewe_alexandra
+2026-10-17,E3,England-L2,2627,Swindon,Walsall,1.0,1.0,D,1.0,0.0,H,2.65,3.5,2.4,,,,2.65,3.58,2.41,1.67,2.15,1.64,2.14,0.0,2.05,1.8,Swindon Town,Walsall,swindon_town,walsall

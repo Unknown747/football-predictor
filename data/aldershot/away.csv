@@ -1,0 +1,100 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-13,EC,England-Conference,2223,Chesterfield,Aldershot,1.0,0.0,H,0.0,0.0,D,1.45,4.0,7.0,1.45,4.52,7.09,1.44,4.33,6.44,1.7,2.1,1.73,2.02,-1.0,1.75,2.05,Chesterfield,Aldershot,chesterfield,aldershot
+2022-08-16,EC,England-Conference,2223,Boreham Wood,Aldershot,1.0,2.0,A,0.0,1.0,A,1.8,3.75,4.2,1.77,3.63,4.82,1.72,3.62,4.56,2.0,1.8,1.93,1.81,-0.75,2.02,1.77,Boreham Wood,Aldershot,boreham_wood,aldershot
+2022-08-26,EC,England-Conference,2223,Oldham,Aldershot,2.0,1.0,H,1.0,1.0,D,1.66,4.0,4.75,1.67,4.11,4.88,1.65,3.93,4.62,1.75,2.05,1.7,2.07,-0.75,1.85,1.95,Oldham,Aldershot,oldham,aldershot
+2022-09-13,EC,England-Conference,2223,Notts County,Aldershot,2.0,0.0,H,0.0,0.0,D,1.33,5.0,7.5,1.33,5.46,8.44,1.32,5.07,8.06,1.57,2.35,1.56,2.3,-1.5,1.93,1.88,Notts County,Aldershot,notts_county,aldershot
+2022-09-24,EC,England-Conference,2223,Altrincham,Aldershot,1.0,0.0,H,0.0,0.0,D,1.9,3.5,3.8,1.88,3.83,3.92,1.89,3.56,3.66,1.83,1.98,1.81,1.92,-0.5,1.88,1.93,Altrincham,Aldershot,altrincham,aldershot
+2022-10-08,EC,England-Conference,2223,Scunthorpe,Aldershot,3.0,3.0,D,3.0,1.0,H,1.9,3.75,3.3,1.94,3.76,3.76,1.94,3.56,3.47,1.75,2.05,1.75,1.99,-0.5,1.95,1.85,Scunthorpe United,Aldershot,scunthorpe_united,aldershot
+2022-10-25,EC,England-Conference,2223,Yeovil,Aldershot,0.0,2.0,A,0.0,0.0,D,2.15,3.5,3.0,2.17,3.45,3.4,2.14,3.41,3.12,1.95,1.85,1.86,1.87,-0.25,1.85,1.95,Yeovil Town,Aldershot,yeovil_town,aldershot
+2022-10-29,EC,England-Conference,2223,Dorking,Aldershot,0.0,3.0,A,0.0,1.0,A,2.1,3.4,3.2,2.11,3.9,3.18,2.1,3.66,2.95,1.47,2.6,1.46,2.57,-0.25,1.85,1.95,Dorking,Aldershot,dorking,aldershot
+2022-11-01,EC,England-Conference,2223,Torquay,Aldershot,6.0,1.0,H,3.0,0.0,H,3.2,3.4,2.15,3.34,3.5,2.17,3.16,3.4,2.12,1.83,1.98,1.79,1.95,0.25,1.95,1.85,Torquay,Aldershot,torquay,aldershot
+2022-11-19,EC,England-Conference,2223,Wrexham,Aldershot,2.0,0.0,H,2.0,0.0,H,1.2,5.75,11.0,1.22,6.69,11.47,1.21,6.07,10.8,1.47,2.6,1.45,2.59,-1.75,1.83,1.98,Wrexham,Aldershot,wrexham,aldershot
+2022-12-03,EC,England-Conference,2223,Gateshead,Aldershot,0.0,2.0,A,0.0,0.0,D,2.3,3.6,2.87,2.32,3.51,3.05,2.25,3.4,2.89,1.85,1.95,1.8,1.93,-0.25,2.0,1.8,Gateshead,Aldershot,gateshead,aldershot
+2023-01-01,EC,England-Conference,2223,Woking,Aldershot,4.0,1.0,H,2.0,1.0,H,1.62,3.8,4.75,1.7,3.97,4.78,1.65,3.79,4.65,1.83,1.98,1.78,1.95,-0.75,1.83,1.98,Woking,Aldershot,woking,aldershot
+2023-01-17,EC,England-Conference,2223,Solihull,Aldershot,1.0,2.0,A,0.0,2.0,A,1.83,3.75,3.8,1.94,3.92,3.6,1.92,3.63,3.46,1.73,2.08,1.7,2.06,-0.5,1.83,1.98,Solihull,Aldershot,solihull,aldershot
+2023-01-21,EC,England-Conference,2223,Bromley,Aldershot,2.0,2.0,D,1.0,1.0,D,2.05,3.5,3.1,2.12,3.52,3.46,2.1,3.39,3.19,1.93,1.88,1.87,1.87,-0.25,1.83,1.98,Bromley,Aldershot,bromley,aldershot
+2023-01-24,EC,England-Conference,2223,Maidstone,Aldershot,0.0,3.0,A,0.0,1.0,A,2.5,3.25,2.75,2.46,3.53,2.83,2.4,3.37,2.7,1.75,2.05,1.76,1.98,0.0,1.77,2.02,Maidstone,Aldershot,maidstone,aldershot
+2023-02-21,EC,England-Conference,2223,Dag and Red,Aldershot,2.0,1.0,H,1.0,0.0,H,2.15,3.3,3.1,2.33,3.42,3.1,2.23,3.34,2.98,1.85,1.95,1.87,1.87,-0.25,1.9,1.9,Dag and Red,Aldershot,dag_and_red,aldershot
+2023-02-25,EC,England-Conference,2223,Barnet,Aldershot,4.0,1.0,H,1.0,0.0,H,1.91,3.5,3.5,1.97,3.81,3.62,1.93,3.63,3.44,1.7,2.1,1.68,2.08,-0.5,1.9,1.9,Barnet,Aldershot,barnet,aldershot
+2023-03-14,EC,England-Conference,2223,Maidenhead,Aldershot,1.0,1.0,D,1.0,1.0,D,2.25,3.1,3.25,2.33,3.41,3.11,2.27,3.25,2.99,2.02,1.77,1.96,1.78,-0.25,1.95,1.85,Maidenhead,Aldershot,maidenhead,aldershot
+2023-03-18,EC,England-Conference,2223,Southend,Aldershot,1.0,2.0,A,1.0,0.0,H,1.67,3.8,4.2,1.71,3.88,4.87,1.68,3.71,4.54,1.9,1.9,1.89,1.85,-0.75,1.9,1.9,Southend United,Aldershot,southend_united,aldershot
+2023-03-28,EC,England-Conference,2223,Halifax,Aldershot,2.0,0.0,H,0.0,0.0,D,2.0,3.3,3.8,2.1,3.33,3.71,2.03,3.21,3.56,2.15,1.67,2.12,1.67,-0.5,2.05,1.75,Halifax,Aldershot,halifax,aldershot
+2023-04-10,EC,England-Conference,2223,Eastleigh,Aldershot,3.0,3.0,D,3.0,1.0,H,1.8,3.75,4.0,1.95,3.63,3.86,1.9,3.46,3.7,1.9,1.9,1.89,1.85,-0.5,1.8,2.0,Eastleigh,Aldershot,eastleigh,aldershot
+2023-04-18,EC,England-Conference,2223,Wealdstone,Aldershot,0.0,1.0,A,0.0,0.0,D,2.88,3.4,2.2,3.17,3.68,2.18,2.95,3.45,2.19,1.8,2.0,1.75,1.99,0.25,1.83,1.98,Wealdstone,Aldershot,wealdstone,aldershot
+2023-04-22,EC,England-Conference,2223,York,Aldershot,2.0,2.0,D,0.0,1.0,A,2.1,3.0,3.2,2.28,3.1,3.52,2.18,3.14,3.23,1.98,1.82,1.94,1.8,-0.25,1.88,1.93,York,Aldershot,york,aldershot
+2023-08-12,EC,England-Conference,2324,Oldham,Aldershot,5.0,1.0,H,3.0,0.0,H,1.95,3.4,3.8,2.07,3.41,3.7,1.97,3.38,3.57,1.9,1.9,1.9,1.83,-0.5,1.98,1.83,Oldham,Aldershot,oldham,aldershot
+2023-08-15,EC,England-Conference,2324,Ebbsfleet,Aldershot,2.0,0.0,H,1.0,0.0,H,1.95,3.5,3.5,1.99,3.66,3.71,1.96,3.52,3.47,1.73,2.08,1.73,2.01,-0.5,1.98,1.83,Ebbsfleet,Aldershot,ebbsfleet,aldershot
+2023-08-28,EC,England-Conference,2324,Eastleigh,Aldershot,3.0,0.0,H,1.0,0.0,H,2.45,3.4,2.8,2.47,3.51,2.82,2.38,3.35,2.73,1.83,1.98,1.8,1.93,-0.25,2.08,1.73,Eastleigh,Aldershot,eastleigh,aldershot
+2023-09-09,EC,England-Conference,2324,Fylde,Aldershot,0.0,2.0,A,0.0,0.0,D,1.85,3.5,3.6,1.95,4.06,3.46,1.89,3.81,3.44,1.57,2.35,1.54,2.34,-0.5,1.9,1.9,Fylde,Aldershot,fylde,aldershot
+2023-09-19,EC,England-Conference,2324,Barnet,Aldershot,2.0,1.0,H,1.0,0.0,H,1.65,4.0,4.75,1.58,4.4,5.25,1.55,4.15,5.01,1.65,2.2,1.59,2.26,-1.0,2.05,1.75,Barnet,Aldershot,barnet,aldershot
+2023-09-23,EC,England-Conference,2324,Boreham Wood,Aldershot,1.0,2.0,A,0.0,1.0,A,1.91,3.4,4.0,1.9,3.69,3.91,1.88,3.5,3.78,1.93,1.88,1.89,1.84,-0.5,1.88,1.93,Boreham Wood,Aldershot,boreham_wood,aldershot
+2023-10-03,EC,England-Conference,2324,Altrincham,Aldershot,2.0,1.0,H,1.0,0.0,H,1.75,3.6,3.8,1.81,3.96,4.1,1.77,3.76,3.86,1.57,2.35,1.57,2.28,-0.75,2.03,1.78,Altrincham,Aldershot,altrincham,aldershot
+2023-10-07,EC,England-Conference,2324,Solihull,Aldershot,0.0,1.0,A,0.0,0.0,D,1.8,3.75,3.8,1.89,3.9,3.82,1.83,3.71,3.65,1.6,2.3,1.57,2.26,-0.5,1.85,1.95,Solihull,Aldershot,solihull,aldershot
+2023-10-28,EC,England-Conference,2324,Dorking,Aldershot,2.0,1.0,H,1.0,0.0,H,2.8,3.6,2.3,2.82,3.79,2.35,2.69,3.6,2.3,1.53,2.4,1.53,2.38,0.25,1.78,2.03,Dorking,Aldershot,dorking,aldershot
+2023-11-18,EC,England-Conference,2324,Rochdale,Aldershot,2.0,1.0,H,1.0,1.0,D,1.91,3.5,4.0,1.76,4.17,4.17,1.77,3.86,3.84,1.57,2.35,1.55,2.32,-0.5,1.9,1.9,Rochdale,Aldershot,rochdale,aldershot
+2023-11-21,EC,England-Conference,2324,Bromley,Aldershot,2.0,3.0,A,2.0,0.0,H,1.75,3.4,4.0,1.85,3.75,4.18,1.84,3.57,3.8,1.73,2.08,1.73,2.02,-0.5,1.78,2.03,Bromley,Aldershot,bromley,aldershot
+2023-12-23,EC,England-Conference,2324,Chesterfield,Aldershot,4.0,1.0,H,1.0,1.0,D,1.25,5.25,9.5,1.29,5.74,9.31,1.26,5.59,8.69,1.36,3.1,1.32,3.15,-1.75,1.93,1.88,Chesterfield,Aldershot,chesterfield,aldershot
+2024-01-01,EC,England-Conference,2324,Woking,Aldershot,2.0,3.0,A,1.0,2.0,A,2.25,3.5,3.0,2.3,3.79,2.9,2.25,3.49,2.82,1.8,2.0,1.78,1.95,-0.25,1.98,1.83,Woking,Aldershot,woking,aldershot
+2024-01-20,EC,England-Conference,2324,Kidderminster,Aldershot,4.0,2.0,H,2.0,2.0,D,2.1,3.6,3.1,2.17,3.55,3.31,2.09,3.42,3.14,1.85,1.95,1.83,1.9,-0.25,1.85,1.95,Kidderminster,Aldershot,kidderminster,aldershot
+2024-01-30,EC,England-Conference,2324,Wealdstone,Aldershot,3.0,3.0,D,2.0,2.0,D,2.0,3.6,3.25,2.03,3.82,3.44,2.01,3.6,3.23,1.65,2.2,1.64,2.17,-0.25,1.78,2.03,Wealdstone,Aldershot,wealdstone,aldershot
+2024-02-03,EC,England-Conference,2324,Halifax,Aldershot,1.0,2.0,A,1.0,0.0,H,2.0,3.6,3.2,2.07,3.51,3.59,2.03,3.39,3.29,1.9,1.9,1.88,1.84,-0.25,1.8,2.0,Halifax,Aldershot,halifax,aldershot
+2024-02-24,EC,England-Conference,2324,Southend,Aldershot,4.0,1.0,H,0.0,1.0,A,1.7,3.75,4.33,1.82,3.87,4.17,1.73,3.72,4.13,1.7,2.1,1.69,2.07,-0.75,2.0,1.8,Southend United,Aldershot,southend_united,aldershot
+2024-03-02,EC,England-Conference,2324,Oxford City,Aldershot,1.0,2.0,A,1.0,2.0,A,4.0,4.0,1.67,4.29,4.3,1.71,3.86,4.02,1.72,1.4,2.88,1.41,2.72,0.75,1.93,1.88,Oxford City,Aldershot,oxford_city,aldershot
+2024-03-16,EC,England-Conference,2324,York,Aldershot,1.0,0.0,H,0.0,0.0,D,2.2,3.4,2.9,2.27,3.85,2.9,2.2,3.56,2.84,1.73,2.08,1.71,2.06,-0.25,1.95,1.85,York,Aldershot,york,aldershot
+2024-03-29,EC,England-Conference,2324,Maidenhead,Aldershot,4.0,0.0,H,2.0,0.0,H,3.25,3.4,2.2,3.27,3.79,2.08,3.1,3.56,2.09,1.7,2.1,1.7,2.07,0.25,1.93,1.88,Maidenhead,Aldershot,maidenhead,aldershot
+2024-04-06,EC,England-Conference,2324,Hartlepool,Aldershot,2.0,0.0,H,1.0,0.0,H,3.0,3.6,2.05,3.09,4.13,2.07,3.03,3.77,2.04,1.53,2.4,1.51,2.44,0.25,2.0,1.8,Hartlepool United,Aldershot,hartlepool_united,aldershot
+2024-04-17,EC,England-Conference,2324,Gateshead,Aldershot,0.0,1.0,A,0.0,0.0,D,1.7,4.0,3.8,1.75,4.28,4.03,1.72,4.14,3.84,1.4,2.88,1.38,2.86,-0.75,1.93,1.88,Gateshead,Aldershot,gateshead,aldershot
+2024-04-20,EC,England-Conference,2324,Dag and Red,Aldershot,3.0,3.0,D,1.0,0.0,H,2.7,3.6,2.2,2.81,3.79,2.33,2.73,3.6,2.26,1.67,2.15,1.67,2.11,0.25,1.83,1.98,Dag and Red,Aldershot,dag_and_red,aldershot
+2024-08-17,EC,England-Conference,2425,Halifax,Aldershot,0.0,1.0,A,0.0,1.0,A,2.6,3.3,2.63,2.54,3.46,2.62,2.5,3.39,2.56,1.7,2.1,1.69,2.08,0.0,1.88,1.93,Halifax,Aldershot,halifax,aldershot
+2024-08-20,EC,England-Conference,2425,Braintree Town,Aldershot,2.0,1.0,H,0.0,1.0,A,3.1,3.2,2.2,3.13,3.41,2.28,2.98,3.34,2.22,1.75,2.05,1.74,2.01,0.25,1.85,1.95,Braintree Town,Aldershot,braintree_town,aldershot
+2024-08-26,EC,England-Conference,2425,Tamworth,Aldershot,3.0,2.0,H,1.0,1.0,D,2.6,3.5,2.35,2.79,3.48,2.47,2.67,3.36,2.4,1.73,2.08,1.75,2.01,0.0,2.0,1.8,Tamworth,Aldershot,tamworth,aldershot
+2024-09-10,EC,England-Conference,2425,Ebbsfleet,Aldershot,0.0,0.0,D,0.0,0.0,D,2.7,3.5,2.45,2.79,3.74,2.36,2.67,3.55,2.33,1.62,2.25,1.59,2.27,0.0,2.0,1.8,Ebbsfleet,Aldershot,ebbsfleet,aldershot
+2024-09-14,EC,England-Conference,2425,Boston Utd,Aldershot,1.0,1.0,D,0.0,1.0,A,3.75,3.5,1.95,3.21,3.69,2.05,3.28,3.57,2.0,1.7,2.1,1.69,2.08,0.5,1.83,1.98,Boston Utd,Aldershot,boston_utd,aldershot
+2024-09-28,EC,England-Conference,2425,Yeovil,Aldershot,1.0,1.0,D,0.0,1.0,A,2.2,3.25,3.1,2.28,3.32,3.07,2.18,3.32,3.06,1.8,2.0,1.81,1.92,-0.25,1.93,1.88,Yeovil Town,Aldershot,yeovil_town,aldershot
+2024-10-05,EC,England-Conference,2425,Fylde,Aldershot,5.0,2.0,H,3.0,2.0,H,2.4,3.7,2.5,2.53,3.49,2.61,2.44,3.5,2.53,1.57,2.35,1.56,2.32,0.0,1.85,1.95,Fylde,Aldershot,fylde,aldershot
+2024-10-26,EC,England-Conference,2425,Hartlepool,Aldershot,2.0,0.0,H,1.0,0.0,H,2.15,3.6,3.2,2.15,3.53,3.15,2.11,3.47,3.09,1.7,2.1,1.69,2.08,-0.25,1.85,1.95,Hartlepool United,Aldershot,hartlepool_united,aldershot
+2024-11-16,EC,England-Conference,2425,Gateshead,Aldershot,2.0,2.0,D,2.0,1.0,H,1.6,4.33,5.0,1.61,4.2,4.97,1.58,4.11,4.84,1.6,2.3,1.56,2.31,-1.0,2.0,1.8,Gateshead,Aldershot,gateshead,aldershot
+2024-11-26,EC,England-Conference,2425,Dag and Red,Aldershot,3.0,2.0,H,0.0,0.0,D,2.05,3.4,3.25,2.03,3.88,3.32,1.99,3.61,3.27,1.73,2.08,1.71,2.06,-0.25,1.8,2.0,Dag and Red,Aldershot,dag_and_red,aldershot
+2024-12-10,EC,England-Conference,2425,Solihull,Aldershot,2.0,1.0,H,1.0,0.0,H,1.85,3.7,3.9,1.88,3.94,3.73,1.87,3.7,3.63,1.65,2.2,1.59,2.26,-0.5,1.85,1.95,Solihull,Aldershot,solihull,aldershot
+2024-12-21,EC,England-Conference,2425,Forest Green,Aldershot,1.0,1.0,D,0.0,1.0,A,1.48,4.2,6.25,1.45,4.97,5.4,1.45,4.44,5.83,1.67,2.15,1.64,2.16,-1.25,2.0,1.8,Forest Green Rovers,Aldershot,forest_green_rovers,aldershot
+2025-01-01,EC,England-Conference,2425,Sutton,Aldershot,1.0,1.0,D,1.0,0.0,H,2.1,3.5,3.1,2.14,4.03,2.84,2.1,3.57,3.02,1.67,2.15,1.65,2.14,-0.25,1.88,1.93,Sutton United,Aldershot,sutton_united,aldershot
+2025-01-18,EC,England-Conference,2425,Oldham,Aldershot,1.0,3.0,A,1.0,2.0,A,1.55,4.0,5.0,1.51,4.36,5.44,1.53,4.17,5.14,1.67,2.15,1.64,2.17,-1.0,1.95,1.85,Oldham,Aldershot,oldham,aldershot
+2025-02-15,EC,England-Conference,2425,Eastleigh,Aldershot,2.0,0.0,H,2.0,0.0,H,2.25,3.6,2.8,2.23,3.62,2.93,2.24,3.47,2.81,1.73,2.08,1.75,1.99,-0.25,1.98,1.83,Eastleigh,Aldershot,eastleigh,aldershot
+2025-02-18,EC,England-Conference,2425,Southend,Aldershot,2.0,1.0,H,0.0,0.0,D,1.67,3.4,4.33,1.77,3.8,4.46,1.74,3.59,4.28,1.85,1.95,1.82,1.93,-0.75,1.95,1.85,Southend United,Aldershot,southend_united,aldershot
+2025-03-15,EC,England-Conference,2425,Altrincham,Aldershot,1.0,2.0,A,0.0,0.0,D,1.83,3.6,3.9,1.84,3.88,3.71,1.82,3.69,3.78,1.8,2.0,1.74,2.0,-0.5,1.83,1.98,Altrincham,Aldershot,altrincham,aldershot
+2025-03-18,EC,England-Conference,2425,Maidenhead,Aldershot,0.0,1.0,A,0.0,0.0,D,2.9,3.4,2.2,3.01,3.43,2.34,2.89,3.37,2.27,1.83,1.98,1.78,1.97,0.25,1.83,1.98,Maidenhead,Aldershot,maidenhead,aldershot
+2025-03-25,EC,England-Conference,2425,Wealdstone,Aldershot,1.0,3.0,A,1.0,0.0,H,2.45,3.25,2.8,2.44,3.48,2.79,2.36,3.4,2.74,1.85,1.95,1.79,1.94,-0.25,2.1,1.7,Wealdstone,Aldershot,wealdstone,aldershot
+2025-03-29,EC,England-Conference,2425,Rochdale,Aldershot,4.0,0.0,H,2.0,0.0,H,1.8,3.5,4.5,1.8,3.7,4.27,1.76,3.58,4.24,1.88,1.93,1.83,1.91,-0.75,2.03,1.78,Rochdale,Aldershot,rochdale,aldershot
+2025-04-12,EC,England-Conference,2425,York,Aldershot,7.0,2.0,H,4.0,2.0,H,1.57,4.2,4.5,1.57,4.06,5.21,1.58,3.97,4.93,1.8,2.0,1.76,1.98,-1.0,2.03,1.78,York,Aldershot,york,aldershot
+2025-04-21,EC,England-Conference,2425,Woking,Aldershot,3.0,0.0,H,3.0,0.0,H,2.35,3.4,2.7,2.51,2.83,3.19,2.41,3.09,2.88,2.0,1.8,1.99,1.75,-0.25,2.05,1.75,Woking,Aldershot,woking,aldershot
+2025-04-26,EC,England-Conference,2425,Barnet,Aldershot,4.0,0.0,H,2.0,0.0,H,1.25,5.75,11.0,1.28,4.72,11.54,1.25,5.43,10.35,1.48,2.6,1.45,2.58,-1.75,1.93,1.88,Barnet,Aldershot,barnet,aldershot
+2025-08-09,EC,England-Conference,2526,Altrincham,Aldershot,3.0,2.0,H,2.0,0.0,H,1.9,3.8,3.6,1.88,3.8,3.65,1.88,3.63,3.38,1.62,2.25,1.58,2.21,-0.5,1.9,1.9,Altrincham,Aldershot,altrincham,aldershot
+2025-08-23,EC,England-Conference,2526,Solihull,Aldershot,1.0,5.0,A,0.0,2.0,A,2.05,3.4,3.1,2.12,3.56,3.17,2.09,3.37,3.12,1.83,1.98,1.79,1.93,-0.25,1.85,1.95,Solihull,Aldershot,solihull,aldershot
+2025-08-30,EC,England-Conference,2526,Gateshead,Aldershot,3.0,3.0,D,1.0,2.0,A,2.15,3.6,2.88,2.21,3.81,2.84,2.17,3.54,2.79,1.6,2.3,1.58,2.2,-0.25,1.95,1.85,Gateshead,Aldershot,gateshead,aldershot
+2025-09-03,EC,England-Conference,2526,Truro,Aldershot,2.0,2.0,D,0.0,1.0,A,2.63,3.4,2.4,2.65,3.58,2.44,2.56,3.37,2.4,1.75,2.05,1.72,1.99,0.0,2.0,1.8,Truro,Aldershot,truro,aldershot
+2025-09-13,EC,England-Conference,2526,Carlisle,Aldershot,2.0,0.0,H,0.0,0.0,D,1.48,4.5,5.0,1.52,4.7,4.87,1.5,4.28,5.06,1.5,2.5,1.49,2.44,-1.0,1.8,2.0,Carlisle United,Aldershot,carlisle_united,aldershot
+2025-09-27,EC,England-Conference,2526,Halifax,Aldershot,4.0,2.0,H,2.0,1.0,H,2.05,3.6,3.0,2.09,3.91,3.0,2.02,3.58,3.08,1.62,2.25,1.58,2.22,-0.25,1.8,2.0,Halifax,Aldershot,halifax,aldershot
+2025-10-04,EC,England-Conference,2526,Southend,Aldershot,3.0,0.0,H,1.0,0.0,H,1.4,4.75,6.0,1.45,4.67,5.89,1.4,4.53,6.17,1.5,2.5,1.49,2.45,-1.25,1.88,1.93,Southend United,Aldershot,southend_united,aldershot
+2025-10-25,EC,England-Conference,2526,Scunthorpe,Aldershot,2.0,1.0,H,2.0,1.0,H,1.67,3.7,4.5,1.68,4.17,4.24,1.64,3.93,4.3,1.53,2.4,1.52,2.36,-0.75,1.83,1.98,Scunthorpe United,Aldershot,scunthorpe_united,aldershot
+2025-11-04,EC,England-Conference,2526,Boreham Wood,Aldershot,1.0,0.0,H,1.0,0.0,H,1.5,4.5,5.25,,,,1.47,4.39,5.28,1.48,2.6,1.45,2.56,-1.0,1.78,2.03,Boreham Wood,Aldershot,boreham_wood,aldershot
+2025-11-15,EC,England-Conference,2526,Rochdale,Aldershot,1.0,0.0,H,0.0,0.0,D,1.33,4.75,8.0,,,,1.31,5.09,7.54,1.44,2.7,1.41,2.69,-1.5,1.93,1.88,Rochdale,Aldershot,rochdale,aldershot
+2025-11-29,EC,England-Conference,2526,York,Aldershot,5.0,1.0,H,1.0,1.0,D,1.25,5.5,9.0,,,,1.22,6.0,8.98,1.29,3.6,1.27,3.45,-2.0,2.03,1.78,York,Aldershot,york,aldershot
+2025-12-20,EC,England-Conference,2526,Boston Utd,Aldershot,0.0,2.0,A,0.0,2.0,A,1.95,3.5,3.3,,,,1.99,3.49,3.22,1.67,2.15,1.67,2.07,-0.5,2.0,1.8,Boston Utd,Aldershot,boston_utd,aldershot
+2025-12-26,EC,England-Conference,2526,Sutton,Aldershot,0.0,0.0,D,0.0,0.0,D,1.91,3.7,3.4,,,,1.91,3.69,3.23,1.5,2.5,1.5,2.42,-0.5,1.95,1.85,Sutton United,Aldershot,sutton_united,aldershot
+2026-01-17,EC,England-Conference,2526,Eastleigh,Aldershot,1.0,4.0,A,0.0,0.0,D,2.3,3.5,2.75,,,,2.27,3.4,2.75,1.67,2.15,1.65,2.1,-0.25,2.0,1.8,Eastleigh,Aldershot,eastleigh,aldershot
+2026-01-31,EC,England-Conference,2526,Hartlepool,Aldershot,0.0,3.0,A,0.0,1.0,A,1.9,3.5,3.5,,,,1.92,3.69,3.3,1.57,2.35,1.55,2.27,-0.5,1.95,1.85,Hartlepool United,Aldershot,hartlepool_united,aldershot
+2026-02-14,EC,England-Conference,2526,Tamworth,Aldershot,1.0,1.0,D,0.0,0.0,D,2.35,3.6,2.55,,,,2.4,3.43,2.57,1.67,2.15,1.61,2.17,0.0,1.8,2.0,Tamworth,Aldershot,tamworth,aldershot
+2026-02-17,EC,England-Conference,2526,Yeovil,Aldershot,1.0,2.0,A,1.0,1.0,D,2.8,3.4,2.25,,,,2.81,3.32,2.26,1.8,2.0,1.78,1.91,0.25,1.8,2.0,Yeovil Town,Aldershot,yeovil_town,aldershot
+2026-02-25,EC,England-Conference,2526,Braintree Town,Aldershot,1.0,2.0,A,0.0,0.0,D,3.8,3.75,1.8,,,,3.65,3.7,1.8,1.57,2.35,1.53,2.32,0.5,2.0,1.8,Braintree Town,Aldershot,braintree_town,aldershot
+2026-03-07,EC,England-Conference,2526,Forest Green,Aldershot,2.0,1.0,H,2.0,0.0,H,1.75,3.75,3.9,,,,1.78,3.88,3.56,1.44,2.7,1.42,2.62,-0.75,2.0,1.8,Forest Green Rovers,Aldershot,forest_green_rovers,aldershot
+2026-03-21,EC,England-Conference,2526,Woking,Aldershot,3.0,2.0,H,2.0,1.0,H,2.3,3.5,2.7,,,,2.31,3.48,2.63,1.67,2.15,1.61,2.16,-0.25,2.05,1.75,Woking,Aldershot,woking,aldershot
+2026-03-28,EC,England-Conference,2526,Morecambe,Aldershot,0.0,2.0,A,0.0,0.0,D,2.3,3.8,2.55,,,,2.28,3.66,2.53,1.4,2.88,1.38,2.78,0.0,1.8,2.0,Morecambe,Aldershot,morecambe,aldershot
+2026-04-06,EC,England-Conference,2526,Wealdstone,Aldershot,3.0,0.0,H,1.0,0.0,H,2.15,3.7,2.8,,,,2.25,3.65,2.63,1.44,2.7,1.45,2.56,-0.25,2.0,1.8,Wealdstone,Aldershot,wealdstone,aldershot
+2026-04-18,EC,England-Conference,2526,Brackley Town,Aldershot,2.0,1.0,H,1.0,0.0,H,2.8,3.5,2.2,,,,2.78,3.46,2.22,1.67,2.15,1.64,2.13,0.25,1.83,1.98,Brackley Town,Aldershot,brackley_town,aldershot
+2026-08-08,EC,England-Conference,2627,Boston Utd,Aldershot,0.0,1.0,A,0.0,0.0,D,1.95,3.6,3.25,,,,1.95,3.54,3.22,1.67,2.15,1.62,2.16,-0.5,1.98,1.83,Boston Utd,Aldershot,boston_utd,aldershot
+2026-08-22,EC,England-Conference,2627,Kidderminster,Aldershot,1.0,1.0,D,1.0,0.0,H,2.1,3.5,3.0,,,,2.1,3.48,2.99,1.67,2.15,1.66,2.09,-0.25,1.85,1.95,Kidderminster,Aldershot,kidderminster,aldershot
+2026-08-31,EC,England-Conference,2627,Eastleigh,Aldershot,1.0,1.0,D,0.0,0.0,D,2.2,3.5,2.8,,,,2.24,3.53,2.76,1.62,2.25,1.64,2.16,-0.25,1.98,1.83,Eastleigh,Aldershot,eastleigh,aldershot
+2026-09-12,EC,England-Conference,2627,Solihull,Aldershot,1.0,2.0,A,1.0,0.0,H,2.1,3.7,2.9,,,,2.1,3.65,2.85,1.53,2.4,1.54,2.33,-0.25,1.85,1.95,Solihull,Aldershot,solihull,aldershot
+2026-09-19,EC,England-Conference,2627,Barrow,Aldershot,1.0,0.0,H,0.0,0.0,D,1.8,3.7,3.7,,,,1.77,3.73,3.76,1.62,2.25,1.61,2.2,-0.5,1.8,2.0,Barrow,Aldershot,barrow,aldershot
+2026-09-29,EC,England-Conference,2627,Hornchurch,Aldershot,2.0,1.0,H,1.0,1.0,D,2.2,3.5,2.9,,,,2.08,3.5,2.98,1.67,2.15,1.66,2.11,-0.25,1.95,1.85,Hornchurch,Aldershot,hornchurch,aldershot
+2026-10-10,EC,England-Conference,2627,Altrincham,Aldershot,3.0,1.0,H,1.0,0.0,H,1.85,3.75,3.5,,,,1.84,3.67,3.51,1.57,2.35,1.56,2.28,-0.5,1.88,1.93,Altrincham,Aldershot,altrincham,aldershot

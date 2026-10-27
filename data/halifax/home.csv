@@ -1,0 +1,100 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-13,EC,England-Conference,2223,Halifax,Torquay,0.0,1.0,A,0.0,1.0,A,1.9,3.4,3.75,1.98,3.55,3.85,1.96,3.38,3.63,1.95,1.85,1.96,1.78,-0.5,1.95,1.85,Halifax,Torquay,halifax,torquay
+2022-08-16,EC,England-Conference,2223,Halifax,Southend,0.0,0.0,D,0.0,0.0,D,2.15,3.4,3.25,2.2,3.33,3.45,2.17,3.23,3.25,2.2,1.65,2.18,1.64,-0.25,1.88,1.93,Halifax,Southend United,halifax,southend_united
+2022-08-27,EC,England-Conference,2223,Halifax,Notts County,1.0,4.0,A,0.0,2.0,A,3.25,3.4,2.15,3.24,3.51,2.22,3.12,3.33,2.18,2.05,1.75,1.98,1.76,0.25,1.93,1.88,Halifax,Notts County,halifax,notts_county
+2022-09-13,EC,England-Conference,2223,Halifax,Gateshead,2.0,0.0,H,0.0,0.0,D,2.45,3.4,2.55,2.62,3.48,2.67,2.52,3.38,2.56,1.83,1.98,1.81,1.93,0.0,1.9,1.9,Halifax,Gateshead,halifax,gateshead
+2022-10-01,EC,England-Conference,2223,Halifax,Woking,0.0,4.0,A,0.0,2.0,A,2.8,3.3,2.4,2.83,3.27,2.6,2.72,3.23,2.46,2.05,1.75,2.02,1.73,0.0,2.05,1.75,Halifax,Woking,halifax,woking
+2022-10-04,EC,England-Conference,2223,Halifax,York,1.0,0.0,H,1.0,0.0,H,2.2,3.2,3.0,2.3,3.36,3.2,2.28,3.23,2.98,2.02,1.77,2.03,1.72,-0.25,1.95,1.85,Halifax,York,halifax,york
+2022-10-22,EC,England-Conference,2223,Halifax,Dag and Red,2.0,0.0,H,0.0,0.0,D,2.15,3.6,3.1,2.26,3.56,3.1,2.19,3.43,2.98,1.83,1.98,1.82,1.91,-0.25,1.93,1.88,Halifax,Dag and Red,halifax,dag_and_red
+2022-10-29,EC,England-Conference,2223,Halifax,Oldham,2.0,1.0,H,0.0,0.0,D,2.05,3.3,3.3,2.12,3.32,3.54,2.06,3.3,3.31,2.05,1.75,2.0,1.74,-0.25,1.8,2.0,Halifax,Oldham,halifax,oldham
+2022-11-19,EC,England-Conference,2223,Halifax,Boreham Wood,1.0,0.0,H,0.0,0.0,D,2.75,3.2,2.5,2.85,3.34,2.54,2.75,3.23,2.44,2.0,1.8,1.96,1.78,0.0,2.02,1.77,Halifax,Boreham Wood,halifax,boreham_wood
+2022-12-03,EC,England-Conference,2223,Halifax,Chesterfield,1.0,0.0,H,0.0,0.0,D,3.4,3.8,2.0,3.83,3.62,1.96,3.54,3.47,1.95,1.95,1.85,1.9,1.82,0.5,1.8,2.0,Halifax,Chesterfield,halifax,chesterfield
+2022-12-06,EC,England-Conference,2223,Halifax,Dorking,3.0,1.0,H,1.0,0.0,H,1.95,3.75,3.5,2.05,3.8,3.39,2.01,3.58,3.24,1.75,2.05,1.71,2.04,-0.5,1.98,1.83,Halifax,Dorking,halifax,dorking
+2023-01-01,EC,England-Conference,2223,Halifax,Altrincham,2.0,2.0,D,0.0,1.0,A,2.45,3.3,2.55,2.56,3.22,2.92,2.43,3.21,2.76,1.98,1.83,1.93,1.8,0.0,1.8,2.0,Halifax,Altrincham,halifax,altrincham
+2023-01-25,EC,England-Conference,2223,Halifax,Scunthorpe,0.0,1.0,A,0.0,1.0,A,1.67,3.8,4.5,1.72,3.89,4.76,1.69,3.69,4.49,1.93,1.88,1.89,1.84,-0.75,1.9,1.9,Halifax,Scunthorpe United,halifax,scunthorpe_united
+2023-02-07,EC,England-Conference,2223,Halifax,Barnet,1.0,3.0,A,1.0,1.0,D,2.38,3.3,2.7,2.48,3.39,2.9,2.41,3.26,2.75,1.98,1.83,1.95,1.79,0.0,1.75,2.05,Halifax,Barnet,halifax,barnet
+2023-02-21,EC,England-Conference,2223,Halifax,Solihull,1.0,1.0,D,0.0,1.0,A,2.8,3.2,2.3,2.98,3.34,2.45,2.83,3.2,2.39,2.1,1.7,2.08,1.69,0.0,2.08,1.73,Halifax,Solihull,halifax,solihull
+2023-02-25,EC,England-Conference,2223,Halifax,Maidenhead,0.0,1.0,A,0.0,1.0,A,2.15,3.1,3.2,2.3,3.28,3.28,2.21,3.18,3.14,2.1,1.7,2.1,1.67,-0.25,1.93,1.88,Halifax,Maidenhead,halifax,maidenhead
+2023-02-28,EC,England-Conference,2223,Halifax,Wealdstone,5.0,0.0,H,1.0,0.0,H,2.1,3.0,3.2,2.17,3.35,3.5,2.11,3.23,3.32,2.15,1.67,2.12,1.67,-0.25,1.83,1.98,Halifax,Wealdstone,halifax,wealdstone
+2023-03-18,EC,England-Conference,2223,Halifax,Yeovil,1.0,1.0,D,0.0,0.0,D,1.85,3.25,4.0,1.97,3.24,4.36,1.92,3.18,4.01,2.35,1.57,2.42,1.51,-0.5,1.95,1.85,Halifax,Yeovil Town,halifax,yeovil_town
+2023-03-28,EC,England-Conference,2223,Halifax,Aldershot,2.0,0.0,H,0.0,0.0,D,2.0,3.3,3.8,2.1,3.33,3.71,2.03,3.21,3.56,2.15,1.67,2.12,1.67,-0.5,2.05,1.75,Halifax,Aldershot,halifax,aldershot
+2023-04-07,EC,England-Conference,2223,Halifax,Wrexham,3.0,1.0,H,0.0,1.0,A,5.75,4.5,1.5,6.69,4.04,1.53,6.08,4.02,1.49,1.9,1.9,1.88,1.86,1.0,2.02,1.77,Halifax,Wrexham,halifax,wrexham
+2023-04-15,EC,England-Conference,2223,Halifax,Maidstone,3.0,0.0,H,1.0,0.0,H,1.53,4.2,6.0,1.54,4.14,6.27,1.49,4.05,5.8,1.9,1.9,1.87,1.87,-1.0,1.9,1.9,Halifax,Maidstone,halifax,maidstone
+2023-04-18,EC,England-Conference,2223,Halifax,Bromley,1.0,1.0,D,1.0,0.0,H,2.6,3.4,2.4,2.85,3.24,2.6,2.69,3.19,2.51,2.05,1.75,2.02,1.73,0.0,2.0,1.8,Halifax,Bromley,halifax,bromley
+2023-04-29,EC,England-Conference,2223,Halifax,Eastleigh,1.0,1.0,D,0.0,1.0,A,1.8,3.4,4.5,1.85,3.64,4.33,1.84,3.43,4.03,2.08,1.73,1.99,1.75,-0.5,1.8,2.0,Halifax,Eastleigh,halifax,eastleigh
+2023-08-05,EC,England-Conference,2324,Halifax,Bromley,2.0,0.0,H,0.0,0.0,D,2.7,3.2,2.7,2.79,3.24,2.61,2.62,3.17,2.58,2.03,1.78,2.02,1.73,0.0,1.93,1.88,Halifax,Bromley,halifax,bromley
+2023-08-19,EC,England-Conference,2324,Halifax,Oxford City,1.0,1.0,D,1.0,0.0,H,1.62,3.75,4.5,1.66,3.91,5.22,1.66,3.66,4.77,2.0,1.8,1.98,1.75,-0.75,1.85,1.95,Halifax,Oxford City,halifax,oxford_city
+2023-08-28,EC,England-Conference,2324,Halifax,Gateshead,0.0,0.0,D,0.0,0.0,D,2.7,3.5,2.45,2.79,3.51,2.49,2.71,3.36,2.41,1.88,1.93,1.85,1.89,0.0,2.0,1.8,Halifax,Gateshead,halifax,gateshead
+2023-09-09,EC,England-Conference,2324,Halifax,Southend,1.0,1.0,D,0.0,0.0,D,2.55,3.2,2.55,2.66,3.25,2.78,2.54,3.14,2.69,2.2,1.65,2.22,1.62,0.0,1.85,1.95,Halifax,Southend United,halifax,southend_united
+2023-09-16,EC,England-Conference,2324,Halifax,Dorking,0.0,1.0,A,0.0,1.0,A,1.67,3.5,4.75,1.71,4.04,4.47,1.68,3.86,4.36,1.7,2.1,1.7,2.06,-0.75,1.9,1.9,Halifax,Dorking,halifax,dorking
+2023-09-26,EC,England-Conference,2324,Halifax,Dag and Red,0.0,0.0,D,0.0,0.0,D,2.0,3.3,3.5,2.14,3.25,3.68,2.06,3.19,3.51,2.1,1.7,2.25,1.59,-0.25,1.75,2.05,Halifax,Dag and Red,halifax,dag_and_red
+2023-09-30,EC,England-Conference,2324,Halifax,Eastleigh,2.0,3.0,A,0.0,1.0,A,1.95,3.6,3.3,1.99,3.44,3.95,1.95,3.36,3.63,2.1,1.7,2.06,1.69,-0.5,1.93,1.88,Halifax,Eastleigh,halifax,eastleigh
+2023-10-21,EC,England-Conference,2324,Halifax,Kidderminster,2.0,1.0,H,1.0,1.0,D,2.0,3.0,3.8,2.13,3.26,3.71,2.06,3.17,3.46,2.25,1.62,2.22,1.6,-0.25,1.75,2.05,Halifax,Kidderminster,halifax,kidderminster
+2023-10-24,EC,England-Conference,2324,Halifax,Hartlepool,2.0,1.0,H,1.0,1.0,D,2.5,3.3,2.8,2.51,3.34,2.88,2.4,3.32,2.73,1.9,1.9,1.86,1.87,0.0,1.78,2.03,Halifax,Hartlepool United,halifax,hartlepool_united
+2023-11-18,EC,England-Conference,2324,Halifax,Wealdstone,1.0,0.0,H,0.0,0.0,D,2.1,3.4,3.4,2.08,3.77,3.35,2.04,3.52,3.18,1.85,1.95,1.81,1.92,-0.25,1.8,2.0,Halifax,Wealdstone,halifax,wealdstone
+2023-11-21,EC,England-Conference,2324,Halifax,Fylde,2.0,2.0,D,0.0,1.0,A,1.95,3.25,3.6,1.95,3.69,3.81,1.96,3.47,3.47,1.85,1.95,1.82,1.91,-0.5,2.0,1.8,Halifax,Fylde,halifax,fylde
+2023-12-23,EC,England-Conference,2324,Halifax,Rochdale,2.0,2.0,D,2.0,1.0,H,2.3,3.4,2.75,2.51,3.19,3.0,2.34,3.18,2.88,2.08,1.73,2.06,1.7,-0.25,2.0,1.8,Halifax,Rochdale,halifax,rochdale
+2024-01-01,EC,England-Conference,2324,Halifax,Altrincham,0.0,0.0,D,0.0,0.0,D,2.1,3.5,3.3,2.2,3.36,3.4,2.11,3.31,3.23,1.95,1.85,1.9,1.83,-0.25,1.8,2.0,Halifax,Altrincham,halifax,altrincham
+2024-02-03,EC,England-Conference,2324,Halifax,Aldershot,1.0,2.0,A,1.0,0.0,H,2.0,3.6,3.2,2.07,3.51,3.59,2.03,3.39,3.29,1.9,1.9,1.88,1.84,-0.25,1.8,2.0,Halifax,Aldershot,halifax,aldershot
+2024-02-06,EC,England-Conference,2324,Halifax,Solihull,1.0,3.0,A,0.0,2.0,A,2.15,3.5,3.25,2.12,3.38,3.59,2.09,3.25,3.37,2.15,1.67,2.18,1.63,-0.25,1.8,2.0,Halifax,Solihull,halifax,solihull
+2024-02-13,EC,England-Conference,2324,Halifax,Maidenhead,2.0,1.0,H,1.0,0.0,H,2.0,3.25,3.4,2.11,3.2,3.87,2.07,3.09,3.55,2.35,1.57,2.39,1.53,-0.25,1.78,2.03,Halifax,Maidenhead,halifax,maidenhead
+2024-02-17,EC,England-Conference,2324,Halifax,Woking,2.0,1.0,H,2.0,0.0,H,2.25,3.2,3.25,2.3,3.16,3.41,2.21,3.11,3.2,2.25,1.62,2.22,1.6,-0.25,1.9,1.9,Halifax,Woking,halifax,woking
+2024-03-09,EC,England-Conference,2324,Halifax,Boreham Wood,2.0,1.0,H,1.0,0.0,H,2.25,3.4,2.8,2.34,3.3,3.19,2.26,3.21,3.03,2.1,1.7,2.09,1.69,-0.25,1.98,1.83,Halifax,Boreham Wood,halifax,boreham_wood
+2024-03-20,EC,England-Conference,2324,Halifax,Chesterfield,4.0,2.0,H,3.0,1.0,H,3.4,3.5,1.95,3.78,3.58,1.99,3.56,3.46,1.93,1.88,1.93,1.84,1.9,0.5,1.83,1.98,Halifax,Chesterfield,halifax,chesterfield
+2024-04-02,EC,England-Conference,2324,Halifax,York,1.0,1.0,D,0.0,0.0,D,2.0,3.4,3.3,2.07,3.33,3.72,2.02,3.3,3.52,2.08,1.73,2.06,1.7,-0.5,2.03,1.78,Halifax,York,halifax,york
+2024-04-13,EC,England-Conference,2324,Halifax,Barnet,0.0,2.0,A,0.0,2.0,A,2.75,3.5,2.15,2.92,3.39,2.42,2.83,3.43,2.27,1.75,2.05,1.74,2.02,0.25,1.8,2.0,Halifax,Barnet,halifax,barnet
+2024-04-16,EC,England-Conference,2324,Halifax,Ebbsfleet,0.0,0.0,D,0.0,0.0,D,2.1,3.4,2.9,2.23,3.49,3.18,2.16,3.4,3.06,1.8,2.0,1.77,1.97,-0.25,1.9,1.9,Halifax,Ebbsfleet,halifax,ebbsfleet
+2024-04-18,EC,England-Conference,2324,Halifax,Oldham,2.0,2.0,D,1.0,1.0,D,2.1,3.1,3.25,2.17,3.29,3.5,2.12,3.2,3.32,2.15,1.67,2.09,1.68,-0.25,1.83,1.98,Halifax,Oldham,halifax,oldham
+2024-08-10,EC,England-Conference,2425,Halifax,Barnet,2.0,1.0,H,0.0,0.0,D,3.1,3.5,2.2,3.2,3.49,2.14,3.09,3.41,2.12,1.8,2.0,1.77,1.98,0.25,1.9,1.9,Halifax,Barnet,halifax,barnet
+2024-08-17,EC,England-Conference,2425,Halifax,Aldershot,0.0,1.0,A,0.0,1.0,A,2.6,3.3,2.63,2.54,3.46,2.62,2.5,3.39,2.56,1.7,2.1,1.69,2.08,0.0,1.88,1.93,Halifax,Aldershot,halifax,aldershot
+2024-08-20,EC,England-Conference,2425,Halifax,Gateshead,1.0,1.0,D,0.0,0.0,D,3.1,3.25,2.15,3.22,3.6,2.16,3.08,3.42,2.13,1.85,1.95,1.82,1.92,0.25,1.93,1.88,Halifax,Gateshead,halifax,gateshead
+2024-08-26,EC,England-Conference,2425,Halifax,Solihull,0.0,1.0,A,0.0,1.0,A,2.25,3.4,2.75,2.43,3.33,2.96,2.34,3.27,2.83,2.0,1.8,1.97,1.77,-0.25,2.03,1.78,Halifax,Solihull,halifax,solihull
+2024-09-10,EC,England-Conference,2425,Halifax,Oldham,1.0,1.0,D,0.0,0.0,D,3.2,3.1,2.35,2.93,3.21,2.53,2.9,3.14,2.37,2.15,1.67,2.11,1.67,0.25,1.78,2.03,Halifax,Oldham,halifax,oldham
+2024-09-14,EC,England-Conference,2425,Halifax,Eastleigh,3.0,1.0,H,2.0,0.0,H,2.2,3.4,3.25,2.23,3.49,3.02,2.18,3.38,3.02,1.9,1.9,1.89,1.84,-0.25,1.9,1.9,Halifax,Eastleigh,halifax,eastleigh
+2024-09-28,EC,England-Conference,2425,Halifax,Wealdstone,2.0,2.0,D,0.0,1.0,A,1.9,3.4,3.8,1.94,3.43,3.8,1.92,3.38,3.68,1.98,1.83,1.93,1.81,-0.5,1.95,1.85,Halifax,Wealdstone,halifax,wealdstone
+2024-10-05,EC,England-Conference,2425,Halifax,Tamworth,3.0,2.0,H,0.0,2.0,A,1.9,3.25,3.8,2.01,3.48,3.54,1.95,3.35,3.61,2.08,1.73,2.07,1.7,-0.5,1.98,1.83,Halifax,Tamworth,halifax,tamworth
+2024-10-26,EC,England-Conference,2425,Halifax,York,1.0,2.0,A,1.0,0.0,H,3.2,3.5,2.2,3.25,3.17,2.26,3.18,3.15,2.18,2.15,1.67,2.11,1.66,0.25,1.9,1.9,Halifax,York,halifax,york
+2024-11-09,EC,England-Conference,2425,Halifax,Woking,1.0,0.0,H,1.0,0.0,H,2.05,3.3,3.5,2.07,3.47,3.38,2.03,3.34,3.35,2.1,1.7,2.07,1.7,-0.25,1.78,2.03,Halifax,Woking,halifax,woking
+2024-11-30,EC,England-Conference,2425,Halifax,Southend,0.0,2.0,A,0.0,1.0,A,2.55,3.25,2.55,2.7,3.08,2.7,2.65,3.1,2.6,2.25,1.62,2.24,1.6,0.0,1.9,1.9,Halifax,Southend United,halifax,southend_united
+2024-12-10,EC,England-Conference,2425,Halifax,Sutton,0.0,0.0,D,0.0,0.0,D,2.88,3.0,2.63,2.86,3.13,2.63,2.81,3.06,2.51,2.35,1.57,2.28,1.59,0.0,1.98,1.83,Halifax,Sutton United,halifax,sutton_united
+2025-02-01,EC,England-Conference,2425,Halifax,Ebbsfleet,2.0,0.0,H,1.0,0.0,H,1.33,4.75,8.5,1.33,4.88,8.21,1.33,4.82,8.3,1.7,2.1,1.68,2.09,-1.5,2.0,1.8,Halifax,Ebbsfleet,halifax,ebbsfleet
+2025-02-04,EC,England-Conference,2425,Halifax,Fylde,1.0,2.0,A,1.0,1.0,D,1.5,4.0,7.0,1.49,4.45,6.24,1.48,4.16,5.96,1.7,2.1,1.68,2.11,-1.0,1.83,1.98,Halifax,Fylde,halifax,fylde
+2025-02-15,EC,England-Conference,2425,Halifax,Boston Utd,1.0,0.0,H,0.0,0.0,D,1.8,3.25,5.0,1.76,3.47,4.64,1.76,3.33,4.53,2.15,1.67,2.12,1.66,-0.75,2.0,1.8,Halifax,Boston Utd,halifax,boston_utd
+2025-02-19,EC,England-Conference,2425,Halifax,Rochdale,0.0,0.0,D,0.0,0.0,D,2.55,3.2,2.45,2.74,3.19,2.58,2.63,3.16,2.52,2.08,1.73,2.03,1.71,0.0,1.95,1.85,Halifax,Rochdale,halifax,rochdale
+2025-03-04,EC,England-Conference,2425,Halifax,Forest Green,2.0,1.0,H,1.0,0.0,H,3.0,3.4,2.25,3.11,3.2,2.41,3.16,3.15,2.22,2.2,1.65,2.22,1.61,0.25,1.8,2.0,Halifax,Forest Green Rovers,halifax,forest_green_rovers
+2025-03-08,EC,England-Conference,2425,Halifax,Yeovil,1.0,0.0,H,1.0,0.0,H,1.95,3.6,3.5,2.0,3.27,3.98,1.96,3.3,3.69,2.2,1.65,2.22,1.61,-0.5,1.98,1.83,Halifax,Yeovil Town,halifax,yeovil_town
+2025-03-18,EC,England-Conference,2425,Halifax,Dag and Red,0.0,1.0,A,0.0,1.0,A,1.67,3.75,5.0,1.69,3.91,4.85,1.68,3.73,4.59,2.05,1.75,2.02,1.73,-0.75,1.85,1.95,Halifax,Dag and Red,halifax,dag_and_red
+2025-03-29,EC,England-Conference,2425,Halifax,Hartlepool,0.0,1.0,A,0.0,1.0,A,2.3,3.4,2.9,2.37,3.45,2.91,2.28,3.3,2.92,2.15,1.67,2.17,1.63,-0.25,1.98,1.83,Halifax,Hartlepool United,halifax,hartlepool_united
+2025-04-12,EC,England-Conference,2425,Halifax,Maidenhead,0.0,2.0,A,0.0,0.0,D,1.8,3.5,3.9,1.88,3.34,4.21,1.83,3.37,4.08,2.15,1.67,2.11,1.66,-0.5,1.85,1.95,Halifax,Maidenhead,halifax,maidenhead
+2025-04-21,EC,England-Conference,2425,Halifax,Altrincham,0.0,3.0,A,0.0,1.0,A,2.6,3.3,2.5,2.81,3.1,2.58,2.64,3.21,2.51,2.05,1.75,2.01,1.74,0.0,1.95,1.85,Halifax,Altrincham,halifax,altrincham
+2025-04-26,EC,England-Conference,2425,Halifax,Braintree Town,1.0,0.0,H,0.0,0.0,D,2.0,3.2,3.5,2.05,3.15,3.8,2.01,3.18,3.61,2.2,1.65,2.2,1.61,-0.5,2.03,1.78,Halifax,Braintree Town,halifax,braintree_town
+2025-08-23,EC,England-Conference,2526,Halifax,Forest Green,1.0,2.0,A,1.0,1.0,D,2.75,3.3,2.35,2.86,3.3,2.43,2.82,3.2,2.29,2.15,1.67,2.05,1.67,0.25,1.75,2.05,Halifax,Forest Green Rovers,halifax,forest_green_rovers
+2025-08-30,EC,England-Conference,2526,Halifax,Yeovil,3.0,2.0,H,1.0,0.0,H,2.38,2.9,3.0,2.42,3.09,3.05,2.3,2.97,3.01,2.6,1.48,2.41,1.5,-0.25,2.03,1.78,Halifax,Yeovil Town,halifax,yeovil_town
+2025-09-03,EC,England-Conference,2526,Halifax,Woking,1.0,1.0,D,0.0,0.0,D,1.85,3.5,3.7,1.88,3.5,4.0,1.91,3.33,3.6,2.0,1.8,1.92,1.77,-0.5,1.88,1.93,Halifax,Woking,halifax,woking
+2025-09-13,EC,England-Conference,2526,Halifax,Eastleigh,2.0,2.0,D,0.0,2.0,A,2.0,3.2,3.6,2.06,3.22,3.67,2.02,3.17,3.46,2.15,1.67,2.12,1.65,-0.5,2.03,1.78,Halifax,Eastleigh,halifax,eastleigh
+2025-09-27,EC,England-Conference,2526,Halifax,Aldershot,4.0,2.0,H,2.0,1.0,H,2.05,3.6,3.0,2.09,3.91,3.0,2.02,3.58,3.08,1.62,2.25,1.58,2.22,-0.25,1.8,2.0,Halifax,Aldershot,halifax,aldershot
+2025-10-04,EC,England-Conference,2526,Halifax,Brackley Town,2.0,0.0,H,0.0,0.0,D,2.38,3.0,3.0,2.74,3.1,2.65,2.48,3.07,2.7,2.15,1.67,2.06,1.68,0.0,1.7,2.1,Halifax,Brackley Town,halifax,brackley_town
+2025-10-25,EC,England-Conference,2526,Halifax,York,1.0,1.0,D,1.0,0.0,H,4.33,3.6,1.73,4.28,3.79,1.75,4.12,3.71,1.71,1.67,2.15,1.65,2.1,0.75,1.83,1.98,Halifax,York,halifax,york
+2025-11-08,EC,England-Conference,2526,Halifax,Hartlepool,0.0,1.0,A,0.0,0.0,D,2.2,3.5,2.8,,,,2.24,3.34,2.83,1.8,2.0,1.79,1.91,-0.25,1.98,1.83,Halifax,Hartlepool United,halifax,hartlepool_united
+2025-11-22,EC,England-Conference,2526,Halifax,Solihull,3.0,0.0,H,1.0,0.0,H,2.3,3.4,2.8,,,,2.28,3.32,2.76,1.85,1.95,1.83,1.87,-0.25,2.03,1.78,Halifax,Solihull,halifax,solihull
+2025-12-06,EC,England-Conference,2526,Halifax,Braintree Town,4.0,0.0,H,1.0,0.0,H,1.85,3.5,3.6,,,,1.87,3.43,3.64,1.8,2.0,1.78,1.92,-0.5,1.9,1.9,Halifax,Braintree Town,halifax,braintree_town
+2025-12-21,EC,England-Conference,2526,Halifax,Wealdstone,2.0,2.0,D,1.0,0.0,H,2.15,3.4,3.0,,,,2.19,3.29,2.92,1.8,2.0,1.78,1.92,-0.25,1.93,1.88,Halifax,Wealdstone,halifax,wealdstone
+2025-12-26,EC,England-Conference,2526,Halifax,Altrincham,2.0,1.0,H,0.0,0.0,D,2.15,3.25,3.1,,,,2.09,3.29,3.13,1.88,1.93,1.83,1.86,-0.25,1.88,1.93,Halifax,Altrincham,halifax,altrincham
+2026-01-17,EC,England-Conference,2526,Halifax,Boston Utd,2.0,1.0,H,1.0,1.0,D,1.95,3.4,3.6,,,,1.95,3.37,3.46,1.9,1.9,1.85,1.84,-0.5,1.95,1.85,Halifax,Boston Utd,halifax,boston_utd
+2026-01-21,EC,England-Conference,2526,Halifax,Morecambe,1.0,0.0,H,1.0,0.0,H,1.83,3.5,3.8,,,,1.85,3.54,3.62,1.7,2.1,1.69,2.04,-0.5,1.83,1.98,Halifax,Morecambe,halifax,morecambe
+2026-02-14,EC,England-Conference,2526,Halifax,Truro,1.0,0.0,H,0.0,0.0,D,1.95,3.3,3.6,,,,1.92,3.38,3.61,2.0,1.8,1.9,1.79,-0.5,1.98,1.83,Halifax,Truro,halifax,truro
+2026-02-17,EC,England-Conference,2526,Halifax,Gateshead,1.0,2.0,A,0.0,1.0,A,1.55,3.9,5.0,,,,1.57,3.97,4.84,1.65,2.2,1.6,2.19,-1.0,2.0,1.8,Halifax,Gateshead,halifax,gateshead
+2026-02-24,EC,England-Conference,2526,Halifax,Rochdale,2.0,2.0,D,0.0,1.0,A,4.75,3.4,1.7,,,,4.44,3.58,1.68,1.95,1.85,1.85,1.84,0.75,1.85,1.95,Halifax,Rochdale,halifax,rochdale
+2026-02-28,EC,England-Conference,2526,Halifax,Sutton,2.0,2.0,D,1.0,1.0,D,1.95,3.4,3.5,,,,1.95,3.35,3.44,1.85,1.95,1.76,1.94,-0.5,2.0,1.8,Halifax,Sutton United,halifax,sutton_united
+2026-03-14,EC,England-Conference,2526,Halifax,Boreham Wood,3.0,2.0,H,2.0,1.0,H,3.1,3.6,2.0,,,,3.11,3.48,2.02,1.67,2.15,1.63,2.14,0.25,1.98,1.83,Halifax,Boreham Wood,halifax,boreham_wood
+2026-03-24,EC,England-Conference,2526,Halifax,Carlisle,0.0,1.0,A,0.0,0.0,D,2.75,3.3,2.3,,,,2.68,3.35,2.33,1.8,2.0,1.77,1.94,0.0,2.05,1.75,Halifax,Carlisle United,halifax,carlisle_united
+2026-03-28,EC,England-Conference,2526,Halifax,Scunthorpe,1.0,2.0,A,1.0,1.0,D,2.25,3.5,2.7,,,,2.29,3.44,2.64,1.65,2.2,1.63,2.14,-0.25,2.03,1.78,Halifax,Scunthorpe United,halifax,scunthorpe_united
+2026-04-06,EC,England-Conference,2526,Halifax,Tamworth,2.0,2.0,D,0.0,1.0,A,1.9,3.5,3.5,,,,1.95,3.5,3.34,1.7,2.1,1.69,2.06,-0.5,2.0,1.8,Halifax,Tamworth,halifax,tamworth
+2026-04-18,EC,England-Conference,2526,Halifax,Southend,2.0,6.0,A,1.0,3.0,A,3.2,3.5,2.0,,,,3.29,3.37,2.01,1.85,1.95,1.81,1.91,0.5,1.8,2.0,Halifax,Southend United,halifax,southend_united
+2026-08-15,EC,England-Conference,2627,Halifax,Boreham Wood,1.0,3.0,A,0.0,1.0,A,3.2,3.6,2.0,,,,3.13,3.53,2.0,1.7,2.1,1.68,2.06,0.25,2.03,1.78,Halifax,Boreham Wood,halifax,boreham_wood
+2026-08-22,EC,England-Conference,2627,Halifax,Tamworth,4.0,1.0,H,3.0,0.0,H,2.2,3.5,2.8,,,,2.18,3.33,2.93,1.85,1.95,1.81,1.9,-0.25,1.98,1.83,Halifax,Tamworth,halifax,tamworth
+2026-09-01,EC,England-Conference,2627,Halifax,Hartlepool,1.0,0.0,H,0.0,0.0,D,2.5,3.4,2.5,,,,2.46,3.38,2.5,1.8,2.0,1.76,1.96,0.0,1.9,1.9,Halifax,Hartlepool United,halifax,hartlepool_united
+2026-09-12,EC,England-Conference,2627,Halifax,Hornchurch,3.0,0.0,H,1.0,0.0,H,2.05,3.5,3.1,,,,2.04,3.46,3.13,1.73,2.08,1.72,2.01,-0.5,2.03,1.78,Halifax,Hornchurch,halifax,hornchurch
+2026-09-19,EC,England-Conference,2627,Halifax,Sutton,1.0,1.0,D,0.0,0.0,D,2.3,3.5,2.7,,,,2.2,3.46,2.83,1.73,2.08,1.72,2.02,-0.25,1.93,1.88,Halifax,Sutton United,halifax,sutton_united
+2026-09-29,EC,England-Conference,2627,Halifax,Boston Utd,1.0,1.0,D,0.0,1.0,A,2.05,3.6,3.0,,,,2.09,3.47,2.98,1.7,2.1,1.71,2.02,-0.25,1.83,1.98,Halifax,Boston Utd,halifax,boston_utd
+2026-10-10,EC,England-Conference,2627,Halifax,Gateshead,4.0,1.0,H,0.0,1.0,A,1.4,4.2,7.0,,,,1.36,4.53,6.81,1.65,2.2,1.61,2.18,-1.25,1.85,1.95,Halifax,Gateshead,halifax,gateshead

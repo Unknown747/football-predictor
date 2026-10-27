@@ -1,0 +1,90 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,P1,Portugal-Liga1,2122,Sp Braga,Sp Lisbon,1.0,2.0,A,0.0,1.0,A,3.2,3.4,2.15,3.59,3.24,2.24,3.36,3.2,2.23,2.05,1.75,2.07,1.76,0.25,1.97,1.93,Sp Braga,Sp Lisbon,sp_braga,sp_lisbon
+2021-08-28,P1,Portugal-Liga1,2122,Famalicao,Sp Lisbon,1.0,1.0,D,0.0,0.0,D,6.5,4.5,1.45,7.33,4.23,1.5,6.71,4.23,1.48,1.8,2.0,1.83,1.99,1.0,2.02,1.77,Famalicao,Sp Lisbon,famalicao,sp_lisbon
+2021-09-19,P1,Portugal-Liga1,2122,Estoril,Sp Lisbon,0.0,1.0,A,0.0,0.0,D,5.25,3.8,1.57,6.65,3.77,1.63,6.08,3.74,1.59,2.05,1.75,2.04,1.78,1.0,1.83,2.07,Estoril,Sp Lisbon,estoril,sp_lisbon
+2021-10-02,P1,Portugal-Liga1,2122,Arouca,Sp Lisbon,1.0,2.0,A,0.0,1.0,A,8.5,4.2,1.4,8.8,4.34,1.45,8.08,4.22,1.43,2.0,1.8,1.98,1.83,1.25,1.88,2.02,Arouca,Sp Lisbon,arouca,sp_lisbon
+2021-11-07,P1,Portugal-Liga1,2122,Pacos Ferreira,Sp Lisbon,0.0,2.0,A,0.0,0.0,D,7.0,3.8,1.5,7.66,4.01,1.53,6.77,3.93,1.52,2.05,1.75,2.02,1.78,1.0,1.96,1.94,Pacos Ferreira,Sp Lisbon,pacos_ferreira,sp_lisbon
+2021-12-03,P1,Portugal-Liga1,2122,Benfica,Sp Lisbon,1.0,3.0,A,0.0,1.0,A,2.05,3.4,3.6,2.02,3.48,4.06,1.99,3.41,3.85,1.95,1.9,1.93,1.88,-0.5,2.06,1.84,Benfica,Sp Lisbon,benfica,sp_lisbon
+2021-12-18,P1,Portugal-Liga1,2122,Gil Vicente,Sp Lisbon,0.0,3.0,A,0.0,0.0,D,6.0,4.0,1.53,7.2,4.12,1.54,6.4,4.07,1.52,1.95,1.9,1.94,1.87,1.0,1.96,1.94,Gil Vicente,Sp Lisbon,gil_vicente,sp_lisbon
+2022-01-07,P1,Portugal-Liga1,2122,Santa Clara,Sp Lisbon,3.0,2.0,H,1.0,1.0,D,8.5,4.5,1.4,8.91,4.6,1.42,8.17,4.45,1.41,1.9,1.95,1.87,1.94,1.25,1.85,2.05,Santa Clara,Sp Lisbon,santa_clara,sp_lisbon
+2022-01-16,P1,Portugal-Liga1,2122,Vizela,Sp Lisbon,0.0,2.0,A,0.0,2.0,A,10.0,5.75,1.28,11.59,5.6,1.29,10.64,5.53,1.27,1.72,2.07,1.7,2.13,1.5,2.01,1.89,Vizela,Sp Lisbon,vizela,sp_lisbon
+2022-02-02,P1,Portugal-Liga1,2122,Belenenses,Sp Lisbon,1.0,4.0,A,1.0,3.0,A,10.0,5.5,1.25,13.3,5.69,1.27,11.95,5.64,1.25,1.66,2.15,1.7,2.15,1.75,1.88,2.02,Belenenses,Sp Lisbon,belenenses,sp_lisbon
+2022-02-11,P1,Portugal-Liga1,2122,Porto,Sp Lisbon,2.0,2.0,D,1.0,2.0,A,2.0,3.3,4.0,2.07,3.42,3.95,2.07,3.29,3.76,2.1,1.7,2.11,1.73,-0.25,1.7,2.1,FC Porto,Sp Lisbon,fc_porto,sp_lisbon
+2022-02-26,P1,Portugal-Liga1,2122,Maritimo,Sp Lisbon,1.0,1.0,D,1.0,1.0,D,8.0,4.5,1.4,9.18,4.62,1.41,8.07,4.56,1.4,1.85,2.0,1.82,1.98,1.25,1.95,1.95,Maritimo,Sp Lisbon,maritimo,sp_lisbon
+2022-03-14,P1,Portugal-Liga1,2122,Moreirense,Sp Lisbon,0.0,2.0,A,0.0,2.0,A,8.0,4.75,1.4,7.77,4.59,1.45,7.32,4.42,1.43,1.9,1.95,1.86,1.94,1.25,1.89,2.01,Moreirense,Sp Lisbon,moreirense,sp_lisbon
+2022-03-19,P1,Portugal-Liga1,2122,Guimaraes,Sp Lisbon,1.0,3.0,A,1.0,1.0,D,5.0,3.5,1.65,5.16,4.08,1.69,4.94,3.91,1.66,1.8,2.05,1.81,2.0,0.75,2.02,1.88,Vitoria Guimaraes,Sp Lisbon,vitoria_guimaraes,sp_lisbon
+2022-04-09,P1,Portugal-Liga1,2122,Tondela,Sp Lisbon,1.0,3.0,A,0.0,2.0,A,9.0,4.33,1.3,10.81,5.22,1.34,9.57,4.97,1.33,1.8,2.0,1.77,2.04,1.5,1.86,2.04,Tondela,Sp Lisbon,tondela,sp_lisbon
+2022-04-25,P1,Portugal-Liga1,2122,Boavista,Sp Lisbon,0.0,3.0,A,0.0,1.0,A,7.0,4.2,1.44,8.42,4.42,1.44,7.62,4.36,1.42,1.95,1.9,1.93,1.86,1.25,1.86,2.04,Boavista,Sp Lisbon,boavista,sp_lisbon
+2022-05-07,P1,Portugal-Liga1,2122,Portimonense,Sp Lisbon,2.0,3.0,A,2.0,1.0,H,7.5,5.0,1.36,8.7,5.18,1.38,8.09,4.86,1.37,1.7,2.1,1.72,2.13,1.25,2.03,1.87,Portimonense,Sp Lisbon,portimonense,sp_lisbon
+2022-08-07,P1,Portugal-Liga1,2223,Sp Braga,Sp Lisbon,3.0,3.0,D,2.0,2.0,D,3.75,3.25,1.9,3.79,3.73,2.01,3.6,3.47,2.01,1.98,1.88,1.94,1.85,0.5,1.85,2.05,Sp Braga,Sp Lisbon,sp_braga,sp_lisbon
+2022-08-20,P1,Portugal-Liga1,2223,Porto,Sp Lisbon,3.0,0.0,H,1.0,0.0,H,2.1,3.3,3.5,2.17,3.4,3.67,2.1,3.43,3.5,1.98,1.88,1.94,1.87,-0.25,1.84,2.06,FC Porto,Sp Lisbon,fc_porto,sp_lisbon
+2022-09-02,P1,Portugal-Liga1,2223,Estoril,Sp Lisbon,0.0,2.0,A,0.0,2.0,A,6.5,4.33,1.45,7.23,4.55,1.48,6.63,4.41,1.47,1.7,2.1,1.74,2.1,1.25,1.84,2.06,Estoril,Sp Lisbon,estoril,sp_lisbon
+2022-09-17,P1,Portugal-Liga1,2223,Boavista,Sp Lisbon,2.0,1.0,H,1.0,0.0,H,6.5,4.33,1.45,7.9,4.33,1.48,6.93,4.28,1.47,1.88,1.98,1.85,1.95,1.0,2.07,1.83,Boavista,Sp Lisbon,boavista,sp_lisbon
+2022-10-08,P1,Portugal-Liga1,2223,Santa Clara,Sp Lisbon,1.0,2.0,A,0.0,1.0,A,5.75,4.0,1.5,7.01,4.44,1.51,6.28,4.16,1.51,1.88,1.98,1.85,1.95,1.0,2.03,1.87,Santa Clara,Sp Lisbon,santa_clara,sp_lisbon
+2022-10-29,P1,Portugal-Liga1,2223,Arouca,Sp Lisbon,1.0,0.0,H,0.0,0.0,D,7.0,4.2,1.45,7.38,4.63,1.47,6.92,4.3,1.45,1.9,1.95,1.87,1.9,1.0,2.05,1.75,Arouca,Sp Lisbon,arouca,sp_lisbon
+2022-11-13,P1,Portugal-Liga1,2223,Famalicao,Sp Lisbon,1.0,2.0,A,0.0,2.0,A,5.5,3.75,1.65,5.64,3.99,1.66,5.19,3.83,1.65,1.85,2.0,1.83,1.97,0.75,2.04,1.86,Famalicao,Sp Lisbon,famalicao,sp_lisbon
+2023-01-08,P1,Portugal-Liga1,2223,Maritimo,Sp Lisbon,1.0,0.0,H,0.0,0.0,D,9.0,4.5,1.4,8.53,5.11,1.39,7.98,4.85,1.38,1.67,2.15,1.69,2.15,1.25,2.02,1.88,Maritimo,Sp Lisbon,maritimo,sp_lisbon
+2023-01-15,P1,Portugal-Liga1,2223,Benfica,Sp Lisbon,2.0,2.0,D,1.0,1.0,D,1.8,3.75,3.8,1.85,3.93,4.12,1.83,3.79,3.98,1.7,2.1,1.72,2.11,-0.5,1.84,2.06,Benfica,Sp Lisbon,benfica,sp_lisbon
+2023-02-06,P1,Portugal-Liga1,2223,Rio Ave,Sp Lisbon,0.0,1.0,A,0.0,0.0,D,7.0,4.33,1.5,7.41,4.48,1.47,6.62,4.34,1.47,1.73,2.08,1.74,2.07,1.25,1.77,2.02,Rio Ave,Sp Lisbon,rio_ave,sp_lisbon
+2023-02-20,P1,Portugal-Liga1,2223,Chaves,Sp Lisbon,2.0,3.0,A,1.0,1.0,D,6.5,4.75,1.44,6.1,4.9,1.49,6.3,4.77,1.45,1.57,2.35,1.59,2.34,1.25,1.86,2.04,Chaves,Sp Lisbon,chaves,sp_lisbon
+2023-03-04,P1,Portugal-Liga1,2223,Portimonense,Sp Lisbon,0.0,1.0,A,0.0,0.0,D,8.0,4.5,1.36,8.52,4.95,1.4,8.1,4.81,1.38,1.7,2.1,1.68,2.17,1.25,2.02,1.88,Portimonense,Sp Lisbon,portimonense,sp_lisbon
+2023-04-05,P1,Portugal-Liga1,2223,Gil Vicente,Sp Lisbon,0.0,0.0,D,0.0,0.0,D,6.0,4.33,1.45,7.53,4.55,1.47,6.85,4.45,1.46,1.73,2.08,1.73,2.1,1.25,1.85,2.05,Gil Vicente,Sp Lisbon,gil_vicente,sp_lisbon
+2023-04-09,P1,Portugal-Liga1,2223,Casa Pia,Sp Lisbon,3.0,4.0,A,2.0,2.0,D,8.5,4.5,1.4,9.14,4.37,1.44,7.9,4.4,1.42,1.93,1.93,1.89,1.9,1.25,1.88,2.02,Casa Pia,Sp Lisbon,casa_pia,sp_lisbon
+2023-04-24,P1,Portugal-Liga1,2223,Guimaraes,Sp Lisbon,0.0,2.0,A,0.0,0.0,D,5.5,4.0,1.55,5.51,4.4,1.59,5.32,4.25,1.57,1.67,2.15,1.63,2.24,1.0,1.92,1.98,Vitoria Guimaraes,Sp Lisbon,vitoria_guimaraes,sp_lisbon
+2023-05-07,P1,Portugal-Liga1,2223,Pacos Ferreira,Sp Lisbon,0.0,4.0,A,0.0,2.0,A,7.0,5.0,1.36,9.06,5.37,1.36,8.25,5.04,1.36,1.65,2.2,1.64,2.23,1.5,1.77,2.02,Pacos Ferreira,Sp Lisbon,pacos_ferreira,sp_lisbon
+2023-05-26,P1,Portugal-Liga1,2223,Vizela,Sp Lisbon,1.0,2.0,A,1.0,1.0,D,6.5,4.75,1.45,6.72,4.96,1.47,6.25,4.74,1.46,1.53,2.4,1.53,2.48,1.25,1.91,1.99,Vizela,Sp Lisbon,vizela,sp_lisbon
+2023-08-18,P1,Portugal-Liga1,2324,Casa Pia,Sp Lisbon,1.0,2.0,A,0.0,1.0,A,7.5,4.33,1.44,7.6,4.77,1.45,7.3,4.56,1.43,1.73,2.08,1.75,2.07,1.25,1.87,2.03,Casa Pia,Sp Lisbon,casa_pia,sp_lisbon
+2023-09-03,P1,Portugal-Liga1,2324,Sp Braga,Sp Lisbon,1.0,1.0,D,0.0,1.0,A,2.9,3.8,2.2,3.04,3.63,2.36,2.99,3.55,2.26,1.75,2.05,1.77,2.04,0.25,1.89,2.01,Sp Braga,Sp Lisbon,sp_braga,sp_lisbon
+2023-09-30,P1,Portugal-Liga1,2324,Farense,Sp Lisbon,2.0,3.0,A,1.0,2.0,A,6.5,4.5,1.45,6.17,4.58,1.44,6.54,4.61,1.45,1.6,2.3,1.61,2.28,1.25,1.86,2.04,Farense,Sp Lisbon,farense,sp_lisbon
+2023-10-30,P1,Portugal-Liga1,2324,Boavista,Sp Lisbon,0.0,2.0,A,0.0,1.0,A,6.0,4.5,1.45,6.59,4.69,1.49,6.3,4.54,1.48,1.6,2.3,1.62,2.3,1.0,2.05,1.75,Boavista,Sp Lisbon,boavista,sp_lisbon
+2023-11-12,P1,Portugal-Liga1,2324,Benfica,Sp Lisbon,2.0,1.0,H,0.0,1.0,A,2.25,3.4,3.0,2.34,3.58,3.11,2.26,3.51,3.05,1.8,2.0,1.8,2.02,-0.25,2.01,1.89,Benfica,Sp Lisbon,benfica,sp_lisbon
+2023-12-09,P1,Portugal-Liga1,2324,Guimaraes,Sp Lisbon,3.0,2.0,H,1.0,1.0,D,5.0,4.0,1.62,5.42,4.2,1.65,5.07,4.04,1.64,1.73,2.08,1.76,2.07,0.75,2.08,1.82,Vitoria Guimaraes,Sp Lisbon,vitoria_guimaraes,sp_lisbon
+2023-12-30,P1,Portugal-Liga1,2324,Portimonense,Sp Lisbon,1.0,2.0,A,0.0,0.0,D,8.5,5.5,1.33,9.47,5.99,1.32,8.94,5.61,1.31,1.53,2.4,1.53,2.48,1.5,1.98,1.92,Portimonense,Sp Lisbon,portimonense,sp_lisbon
+2024-01-13,P1,Portugal-Liga1,2324,Chaves,Sp Lisbon,0.0,3.0,A,0.0,1.0,A,9.0,6.0,1.25,11.36,6.63,1.25,10.7,6.27,1.25,1.44,2.7,1.47,2.65,1.75,1.95,1.95,Chaves,Sp Lisbon,chaves,sp_lisbon
+2024-01-18,P1,Portugal-Liga1,2324,Vizela,Sp Lisbon,2.0,5.0,A,1.0,1.0,D,7.5,5.0,1.36,8.31,5.24,1.39,8.02,5.04,1.36,1.65,2.2,1.67,2.2,1.25,2.05,1.85,Vizela,Sp Lisbon,vizela,sp_lisbon
+2024-02-19,P1,Portugal-Liga1,2324,Moreirense,Sp Lisbon,0.0,2.0,A,0.0,2.0,A,7.5,5.0,1.36,8.47,4.92,1.4,7.78,4.77,1.39,1.75,2.05,1.78,2.02,1.25,1.98,1.92,Moreirense,Sp Lisbon,moreirense,sp_lisbon
+2024-02-25,P1,Portugal-Liga1,2324,Rio Ave,Sp Lisbon,3.0,3.0,D,2.0,2.0,D,8.0,5.0,1.36,9.47,5.26,1.36,8.73,5.01,1.34,1.7,2.1,1.72,2.11,1.5,1.86,2.04,Rio Ave,Sp Lisbon,rio_ave,sp_lisbon
+2024-03-10,P1,Portugal-Liga1,2324,Arouca,Sp Lisbon,0.0,3.0,A,0.0,1.0,A,8.0,4.75,1.4,7.77,5.08,1.41,7.56,4.93,1.39,1.6,2.3,1.6,2.33,1.25,2.02,1.88,Arouca,Sp Lisbon,arouca,sp_lisbon
+2024-03-29,P1,Portugal-Liga1,2324,Estrela,Sp Lisbon,1.0,2.0,A,1.0,2.0,A,13.0,7.0,1.2,12.83,6.59,1.23,11.93,6.23,1.24,1.53,2.4,1.56,2.43,1.75,1.95,1.95,Estrela Amadora,Sp Lisbon,estrela_amadora,sp_lisbon
+2024-04-12,P1,Portugal-Liga1,2324,Gil Vicente,Sp Lisbon,0.0,4.0,A,0.0,4.0,A,11.0,6.0,1.25,12.04,5.99,1.27,11.23,5.81,1.26,1.6,2.3,1.61,2.3,1.5,2.05,1.85,Gil Vicente,Sp Lisbon,gil_vicente,sp_lisbon
+2024-04-16,P1,Portugal-Liga1,2324,Famalicao,Sp Lisbon,0.0,1.0,A,0.0,1.0,A,9.0,5.75,1.3,10.23,5.83,1.3,9.32,5.66,1.3,1.44,2.7,1.47,2.64,1.5,1.99,1.91,Famalicao,Sp Lisbon,famalicao,sp_lisbon
+2024-04-28,P1,Portugal-Liga1,2324,Porto,Sp Lisbon,2.0,2.0,D,2.0,0.0,H,2.63,3.3,2.7,2.63,3.46,2.75,2.58,3.39,2.66,1.83,2.03,1.82,1.98,0.0,1.92,1.98,FC Porto,Sp Lisbon,fc_porto,sp_lisbon
+2024-05-11,P1,Portugal-Liga1,2324,Estoril,Sp Lisbon,0.0,1.0,A,0.0,0.0,D,6.0,5.0,1.44,6.86,4.98,1.45,6.49,4.88,1.43,1.53,2.4,1.52,2.48,1.25,1.92,1.98,Estoril,Sp Lisbon,estoril,sp_lisbon
+2024-08-17,P1,Portugal-Liga1,2425,Nacional,Sp Lisbon,1.0,6.0,A,1.0,2.0,A,10.0,6.0,1.25,10.39,6.13,1.24,10.74,6.03,1.25,1.57,2.35,1.57,2.37,1.75,1.9,2.0,Nacional,Sp Lisbon,nacional,sp_lisbon
+2024-08-23,P1,Portugal-Liga1,2425,Farense,Sp Lisbon,0.0,5.0,A,0.0,2.0,A,10.0,8.0,1.2,13.09,7.98,1.19,12.84,7.49,1.19,1.36,3.1,1.37,3.03,2.0,1.98,1.92,Farense,Sp Lisbon,farense,sp_lisbon
+2024-09-13,P1,Portugal-Liga1,2425,Arouca,Sp Lisbon,0.0,3.0,A,0.0,1.0,A,13.0,6.0,1.22,12.99,7.15,1.21,12.11,6.7,1.21,1.44,2.7,1.45,2.72,2.0,1.78,2.03,Arouca,Sp Lisbon,arouca,sp_lisbon
+2024-09-27,P1,Portugal-Liga1,2425,Estoril,Sp Lisbon,0.0,3.0,A,0.0,2.0,A,13.0,7.5,1.17,15.05,8.26,1.17,14.79,7.74,1.17,1.4,2.88,1.4,2.87,2.0,2.06,1.84,Estoril,Sp Lisbon,estoril,sp_lisbon
+2024-10-26,P1,Portugal-Liga1,2425,Famalicao,Sp Lisbon,0.0,3.0,A,0.0,0.0,D,7.0,5.5,1.36,8.96,5.06,1.34,8.69,4.96,1.35,1.75,2.05,1.78,2.03,1.25,2.07,1.83,Famalicao,Sp Lisbon,famalicao,sp_lisbon
+2024-11-10,P1,Portugal-Liga1,2425,Sp Braga,Sp Lisbon,2.0,4.0,A,2.0,0.0,H,5.25,4.2,1.57,5.5,4.15,1.58,5.25,4.22,1.58,1.57,2.35,1.59,2.34,1.0,1.91,1.99,Sp Braga,Sp Lisbon,sp_braga,sp_lisbon
+2024-12-05,P1,Portugal-Liga1,2425,Moreirense,Sp Lisbon,2.0,1.0,H,2.0,1.0,H,8.5,4.75,1.36,8.72,5.14,1.34,8.44,5.02,1.34,1.73,2.08,1.74,2.07,1.5,1.83,2.07,Moreirense,Sp Lisbon,moreirense,sp_lisbon
+2024-12-22,P1,Portugal-Liga1,2425,Gil Vicente,Sp Lisbon,0.0,0.0,D,0.0,0.0,D,7.0,5.25,1.38,7.75,5.41,1.34,7.66,5.1,1.35,1.53,2.4,1.51,2.45,1.5,1.85,2.05,Gil Vicente,Sp Lisbon,gil_vicente,sp_lisbon
+2025-01-03,P1,Portugal-Liga1,2425,Guimaraes,Sp Lisbon,4.0,4.0,D,1.0,2.0,A,3.8,3.5,1.95,4.07,3.61,1.95,3.78,3.48,1.96,1.95,1.9,1.93,1.85,0.5,1.92,1.98,Vitoria Guimaraes,Sp Lisbon,vitoria_guimaraes,sp_lisbon
+2025-01-18,P1,Portugal-Liga1,2425,Rio Ave,Sp Lisbon,0.0,3.0,A,0.0,2.0,A,9.5,5.5,1.3,9.21,5.87,1.28,9.24,5.69,1.28,1.53,2.4,1.51,2.47,1.5,2.02,1.88,Rio Ave,Sp Lisbon,rio_ave,sp_lisbon
+2025-02-07,P1,Portugal-Liga1,2425,Porto,Sp Lisbon,1.0,1.0,D,0.0,1.0,A,2.8,3.1,2.55,2.97,3.08,2.69,2.87,3.06,2.6,2.15,1.67,2.21,1.66,0.0,2.03,1.87,FC Porto,Sp Lisbon,fc_porto,sp_lisbon
+2025-02-23,P1,Portugal-Liga1,2425,AVS,Sp Lisbon,2.0,2.0,D,0.0,2.0,A,8.0,5.25,1.33,9.1,5.32,1.32,8.89,5.17,1.32,1.7,2.1,1.7,2.14,1.5,1.84,2.06,AVS,Sp Lisbon,avs,sp_lisbon
+2025-03-09,P1,Portugal-Liga1,2425,Casa Pia,Sp Lisbon,1.0,3.0,A,1.0,2.0,A,6.5,3.9,1.53,6.17,4.33,1.51,6.26,4.27,1.49,1.85,2.0,1.79,2.02,1.0,2.0,1.9,Casa Pia,Sp Lisbon,casa_pia,sp_lisbon
+2025-03-29,P1,Portugal-Liga1,2425,Estrela,Sp Lisbon,0.0,3.0,A,0.0,0.0,D,9.0,5.0,1.33,8.91,5.3,1.32,8.67,5.08,1.33,1.73,2.08,1.72,2.08,1.5,1.85,2.05,Estrela Amadora,Sp Lisbon,estrela_amadora,sp_lisbon
+2025-04-12,P1,Portugal-Liga1,2425,Santa Clara,Sp Lisbon,0.0,1.0,A,0.0,0.0,D,6.25,3.6,1.6,5.99,3.79,1.6,5.72,3.74,1.61,2.15,1.67,2.14,1.69,0.75,2.09,1.81,Santa Clara,Sp Lisbon,santa_clara,sp_lisbon
+2025-04-27,P1,Portugal-Liga1,2425,Boavista,Sp Lisbon,0.0,5.0,A,0.0,2.0,A,12.0,6.25,1.22,12.57,6.48,1.21,12.4,6.26,1.21,1.57,2.35,1.54,2.38,1.75,2.03,1.87,Boavista,Sp Lisbon,boavista,sp_lisbon
+2025-05-10,P1,Portugal-Liga1,2425,Benfica,Sp Lisbon,1.0,1.0,D,0.0,1.0,A,2.1,3.5,3.3,2.15,3.36,3.48,2.15,3.4,3.28,1.67,2.15,1.68,2.15,-0.25,1.87,2.03,Benfica,Sp Lisbon,benfica,sp_lisbon
+2025-08-08,P1,Portugal-Liga1,2526,Casa Pia,Sp Lisbon,0.0,2.0,A,0.0,1.0,A,9.0,5.0,1.33,9.76,5.35,1.3,9.14,5.11,1.3,1.7,2.1,1.66,2.1,1.5,1.85,2.0,Casa Pia,Sp Lisbon,casa_pia,sp_lisbon
+2025-08-23,P1,Portugal-Liga1,2526,Nacional,Sp Lisbon,1.0,4.0,A,1.0,0.0,H,9.0,6.0,1.27,9.65,6.0,1.26,9.58,5.79,1.25,1.5,2.5,1.47,2.53,1.75,1.85,2.0,Nacional,Sp Lisbon,nacional,sp_lisbon
+2025-09-13,P1,Portugal-Liga1,2526,Famalicao,Sp Lisbon,1.0,2.0,A,1.0,1.0,D,7.0,5.0,1.39,7.38,4.81,1.4,7.27,4.58,1.39,1.7,2.1,1.71,2.04,1.25,1.93,1.93,Famalicao,Sp Lisbon,famalicao,sp_lisbon
+2025-09-27,P1,Portugal-Liga1,2526,Estoril,Sp Lisbon,0.0,1.0,A,0.0,1.0,A,9.5,5.5,1.25,8.28,5.7,1.31,8.65,5.18,1.3,1.53,2.4,1.53,2.36,1.5,2.0,1.85,Estoril,Sp Lisbon,estoril,sp_lisbon
+2025-10-26,P1,Portugal-Liga1,2526,Tondela,Sp Lisbon,0.0,3.0,A,0.0,1.0,A,9.0,6.0,1.24,9.88,6.02,1.26,9.8,5.67,1.25,1.53,2.4,1.53,2.36,1.5,2.05,1.75,Tondela,Sp Lisbon,tondela,sp_lisbon
+2025-11-08,P1,Portugal-Liga1,2526,Santa Clara,Sp Lisbon,1.0,2.0,A,1.0,1.0,D,7.0,4.5,1.39,8.45,4.53,1.39,7.93,4.35,1.39,2.05,1.8,1.96,1.77,1.25,1.83,2.03,Santa Clara,Sp Lisbon,santa_clara,sp_lisbon
+2025-12-05,P1,Portugal-Liga1,2526,Benfica,Sp Lisbon,1.0,1.0,D,1.0,1.0,D,2.7,3.05,2.65,2.88,3.12,2.74,2.68,3.11,2.62,2.15,1.67,2.07,1.67,0.0,1.98,1.88,Benfica,Sp Lisbon,benfica,sp_lisbon
+2025-12-23,P1,Portugal-Liga1,2526,Guimaraes,Sp Lisbon,1.0,4.0,A,0.0,2.0,A,7.0,4.5,1.39,7.46,4.65,1.41,7.34,4.41,1.39,1.9,1.95,1.82,1.88,1.25,1.85,2.0,Vitoria Guimaraes,Sp Lisbon,vitoria_guimaraes,sp_lisbon
+2026-01-02,P1,Portugal-Liga1,2526,Gil Vicente,Sp Lisbon,1.0,1.0,D,0.0,1.0,A,7.0,4.1,1.42,7.3,4.62,1.46,7.03,4.25,1.43,1.85,1.95,1.84,1.86,1.25,1.8,2.05,Gil Vicente,Sp Lisbon,gil_vicente,sp_lisbon
+2026-01-24,P1,Portugal-Liga1,2526,Arouca,Sp Lisbon,1.0,2.0,A,0.0,1.0,A,12.0,5.5,1.22,,,,10.87,5.7,1.23,1.57,2.35,1.54,2.34,1.75,1.9,1.95,Arouca,Sp Lisbon,arouca,sp_lisbon
+2026-02-09,P1,Portugal-Liga1,2526,Porto,Sp Lisbon,1.0,1.0,D,0.0,0.0,D,2.25,3.0,3.4,,,,2.24,3.03,3.27,2.25,1.62,2.18,1.61,-0.25,1.98,1.88,FC Porto,Sp Lisbon,fc_porto,sp_lisbon
+2026-02-21,P1,Portugal-Liga1,2526,Moreirense,Sp Lisbon,0.0,3.0,A,0.0,0.0,D,11.0,5.0,1.27,,,,9.63,5.21,1.28,1.67,2.15,1.62,2.16,1.5,1.98,1.88,Moreirense,Sp Lisbon,moreirense,sp_lisbon
+2026-03-07,P1,Portugal-Liga1,2526,Sp Braga,Sp Lisbon,2.0,2.0,D,1.0,2.0,A,3.4,3.3,2.1,,,,3.3,3.33,2.08,2.0,1.8,1.92,1.8,0.25,2.0,1.85,Sp Braga,Sp Lisbon,sp_braga,sp_lisbon
+2026-03-22,P1,Portugal-Liga1,2526,Alverca,Sp Lisbon,1.0,4.0,A,0.0,1.0,A,10.0,5.0,1.27,,,,9.46,5.17,1.27,1.62,2.25,1.56,2.26,1.5,1.95,1.9,Alverca,Sp Lisbon,alverca,sp_lisbon
+2026-04-11,P1,Portugal-Liga1,2526,Estrela,Sp Lisbon,0.0,1.0,A,0.0,0.0,D,12.0,6.25,1.19,,,,11.08,6.04,1.21,1.44,2.7,1.44,2.62,1.75,2.03,1.83,Estrela Amadora,Sp Lisbon,estrela_amadora,sp_lisbon
+2026-04-26,P1,Portugal-Liga1,2526,AVS,Sp Lisbon,1.0,1.0,D,0.0,0.0,D,15.0,9.5,1.1,,,,16.78,8.82,1.1,1.3,3.5,1.29,3.28,2.5,1.88,1.98,AVS,Sp Lisbon,avs,sp_lisbon
+2026-05-11,P1,Portugal-Liga1,2526,Rio Ave,Sp Lisbon,1.0,4.0,A,1.0,2.0,A,10.0,5.5,1.24,,,,9.64,5.89,1.23,1.4,2.88,1.38,2.84,1.75,1.93,1.93,Rio Ave,Sp Lisbon,rio_ave,sp_lisbon
+2026-08-08,P1,Portugal-Liga1,2627,Estrela,Sp Lisbon,2.0,2.0,D,0.0,0.0,D,12.0,5.75,1.22,,,,11.3,5.96,1.22,1.53,2.4,1.51,2.42,1.75,1.93,1.93,Estrela Amadora,Sp Lisbon,estrela_amadora,sp_lisbon
+2026-08-28,P1,Portugal-Liga1,2627,Rio Ave,Sp Lisbon,0.0,4.0,A,0.0,4.0,A,8.5,5.5,1.27,,,,8.75,5.28,1.29,1.6,2.3,1.57,2.29,1.5,1.93,1.93,Rio Ave,Sp Lisbon,rio_ave,sp_lisbon
+2026-09-13,P1,Portugal-Liga1,2627,Famalicao,Sp Lisbon,1.0,1.0,D,0.0,0.0,D,6.0,4.1,1.51,,,,5.47,4.13,1.52,1.75,2.05,1.73,2.01,1.0,1.93,1.93,Famalicao,Sp Lisbon,famalicao,sp_lisbon
+2026-10-09,P1,Portugal-Liga1,2627,Sp Braga,Sp Lisbon,1.0,3.0,A,1.0,0.0,H,3.1,3.2,2.25,,,,3.04,3.25,2.28,2.08,1.73,2.0,1.74,0.25,1.83,2.03,Sp Braga,Sp Lisbon,sp_braga,sp_lisbon

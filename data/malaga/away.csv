@@ -1,0 +1,89 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-22,SP2,Spain-Segunda,2122,Ibiza,Malaga,2.0,2.0,D,1.0,0.0,H,2.5,2.9,3.1,2.6,2.93,3.26,2.5,2.84,3.11,2.87,1.4,2.87,1.39,0.0,1.75,2.13,Ibiza,Malaga,ibiza,malaga
+2021-09-04,SP2,Spain-Segunda,2122,Almeria,Malaga,2.0,0.0,H,0.0,0.0,D,1.72,3.3,5.25,1.76,3.42,5.71,1.75,3.32,5.18,2.3,1.6,2.31,1.6,-0.75,2.02,1.83,Almeria,Malaga,almeria,malaga
+2021-09-19,SP2,Spain-Segunda,2122,Ponferradina,Malaga,4.0,0.0,H,2.0,0.0,H,2.37,3.0,3.2,2.52,2.78,3.55,2.44,2.8,3.31,3.1,1.36,2.94,1.38,-0.25,2.1,1.77,Ponferradina,Malaga,ponferradina,malaga
+2021-09-26,SP2,Spain-Segunda,2122,Sp Gijon,Malaga,2.0,1.0,H,0.0,1.0,A,1.8,3.2,4.5,1.83,3.34,5.11,1.83,3.26,4.66,2.5,1.5,2.48,1.51,-0.5,1.85,2.0,Sp Gijon,Malaga,sp_gijon,malaga
+2021-10-08,SP2,Spain-Segunda,2122,Valladolid,Malaga,1.0,1.0,D,0.0,1.0,A,1.66,3.5,5.75,1.75,3.5,5.8,1.72,3.39,5.22,2.25,1.61,2.3,1.61,-0.75,1.95,1.9,Real Valladolid,Malaga,real_valladolid,malaga
+2021-10-19,SP2,Spain-Segunda,2122,Huesca,Malaga,0.0,0.0,D,0.0,0.0,D,1.85,3.2,5.0,1.93,3.14,5.15,1.89,3.12,4.59,2.35,1.57,2.38,1.57,-0.5,1.9,1.95,Huesca,Malaga,huesca,malaga
+2021-10-31,SP2,Spain-Segunda,2122,Oviedo,Malaga,2.0,1.0,H,1.0,0.0,H,2.2,3.1,3.6,2.27,3.07,3.66,2.23,2.95,3.46,2.7,1.44,2.67,1.45,-0.25,1.93,1.93,Real Oviedo,Malaga,real_oviedo,malaga
+2021-11-07,SP2,Spain-Segunda,2122,Cartagena,Malaga,3.0,1.0,H,1.0,0.0,H,2.3,3.1,3.3,2.48,3.05,3.26,2.38,3.01,3.13,2.4,1.53,2.45,1.52,-0.25,2.05,1.8,Cartagena,Malaga,cartagena,malaga
+2021-11-27,SP2,Spain-Segunda,2122,Burgos,Malaga,3.0,0.0,H,1.0,0.0,H,2.7,3.0,2.8,2.91,2.84,2.91,2.75,2.84,2.82,2.7,1.44,2.65,1.45,0.0,1.9,1.95,Burgos,Malaga,burgos,malaga
+2021-12-11,SP2,Spain-Segunda,2122,Eibar,Malaga,2.0,2.0,D,2.0,1.0,H,1.75,3.6,4.75,1.78,3.53,5.09,1.79,3.43,4.65,2.15,1.66,2.23,1.64,-0.75,2.0,1.85,Eibar,Malaga,eibar,malaga
+2022-01-03,SP2,Spain-Segunda,2122,Alcorcon,Malaga,0.0,1.0,A,0.0,0.0,D,2.7,3.0,2.62,2.53,3.04,3.19,2.5,2.96,3.01,2.5,1.5,2.57,1.49,0.0,1.95,1.9,Alcorcon,Malaga,alcorcon,malaga
+2022-01-30,SP2,Spain-Segunda,2122,Mirandes,Malaga,3.0,0.0,H,2.0,0.0,H,2.2,3.1,3.6,2.24,3.12,3.67,2.2,3.14,3.35,2.2,1.65,2.2,1.64,-0.25,1.93,1.93,Mirandes,Malaga,mirandes,malaga
+2022-02-05,SP2,Spain-Segunda,2122,Zaragoza,Malaga,1.0,1.0,D,0.0,1.0,A,2.05,3.2,4.0,2.15,3.02,4.11,2.09,3.08,3.75,2.5,1.5,2.47,1.52,-0.5,2.05,1.8,Zaragoza,Malaga,zaragoza,malaga
+2022-02-19,SP2,Spain-Segunda,2122,Sociedad B,Malaga,2.0,0.0,H,1.0,0.0,H,2.1,3.3,3.6,2.24,3.27,3.47,2.17,3.14,3.43,2.4,1.53,2.35,1.57,-0.25,1.83,2.02,Sociedad B,Malaga,sociedad_b,malaga
+2022-03-06,SP2,Spain-Segunda,2122,Amorebieta,Malaga,1.0,2.0,A,0.0,1.0,A,2.2,3.1,3.6,2.2,3.03,3.92,2.19,3.0,3.57,2.5,1.5,2.5,1.5,-0.25,1.83,2.02,Amorebieta,Malaga,amorebieta,malaga
+2022-03-19,SP2,Spain-Segunda,2122,Fuenlabrada,Malaga,1.0,0.0,H,0.0,0.0,D,2.1,3.2,3.8,2.1,3.09,4.16,2.07,3.08,3.84,2.5,1.5,2.52,1.5,-0.25,1.75,2.05,Fuenlabrada,Malaga,fuenlabrada,malaga
+2022-04-01,SP2,Spain-Segunda,2122,Girona,Malaga,1.0,0.0,H,0.0,0.0,D,1.6,4.0,5.75,1.63,4.04,5.97,1.59,3.74,5.92,2.15,1.66,2.18,1.66,-0.75,1.8,2.05,Girona,Malaga,girona,malaga
+2022-04-16,SP2,Spain-Segunda,2122,Leganes,Malaga,0.0,3.0,A,0.0,0.0,D,1.95,3.25,4.33,1.95,3.21,4.64,1.96,3.11,4.23,2.4,1.53,2.46,1.51,-0.5,1.95,1.9,Leganes,Malaga,leganes,malaga
+2022-04-29,SP2,Spain-Segunda,2122,Las Palmas,Malaga,2.0,1.0,H,1.0,0.0,H,1.61,3.8,5.75,1.6,4.25,5.82,1.6,3.93,5.4,1.93,1.93,1.85,1.94,-1.0,2.08,1.73,Las Palmas,Malaga,las_palmas,malaga
+2022-05-15,SP2,Spain-Segunda,2122,Tenerife,Malaga,0.0,2.0,A,0.0,1.0,A,1.7,3.5,5.25,1.72,3.39,6.02,1.7,3.39,5.38,2.35,1.57,2.3,1.59,-0.75,1.95,1.9,Tenerife,Malaga,tenerife,malaga
+2022-05-28,SP2,Spain-Segunda,2122,Lugo,Malaga,1.0,0.0,H,0.0,0.0,D,2.37,3.3,3.0,2.43,3.37,3.03,2.38,3.22,2.98,2.1,1.7,2.1,1.71,-0.25,2.05,1.8,Lugo,Malaga,lugo,malaga
+2022-08-14,SP2,Spain-Segunda,2223,Burgos,Malaga,1.0,0.0,H,0.0,0.0,D,2.55,3.1,3.1,2.67,2.94,3.1,2.51,2.93,3.05,2.6,1.47,2.61,1.47,0.0,1.77,2.1,Burgos,Malaga,burgos,malaga
+2022-08-27,SP2,Spain-Segunda,2223,Mirandes,Malaga,1.0,3.0,A,0.0,1.0,A,2.4,3.1,3.2,2.42,3.15,3.36,2.35,3.13,3.12,2.25,1.61,2.21,1.64,-0.25,2.02,1.83,Mirandes,Malaga,mirandes,malaga
+2022-09-11,SP2,Spain-Segunda,2223,Huesca,Malaga,1.0,0.0,H,0.0,0.0,D,1.9,3.4,4.2,2.04,3.27,4.1,1.99,3.27,3.85,2.15,1.66,2.15,1.67,-0.5,1.98,1.88,Huesca,Malaga,huesca,malaga
+2022-09-19,SP2,Spain-Segunda,2223,Tenerife,Malaga,3.0,1.0,H,1.0,1.0,D,2.0,3.3,4.0,2.08,3.22,4.03,2.05,3.21,3.68,2.3,1.6,2.33,1.58,-0.5,2.02,1.83,Tenerife,Malaga,tenerife,malaga
+2022-10-01,SP2,Spain-Segunda,2223,Santander,Malaga,0.0,0.0,D,0.0,0.0,D,2.4,3.2,3.1,2.41,3.17,3.35,2.35,3.12,3.12,2.35,1.57,2.31,1.59,-0.25,2.02,1.83,Santander,Malaga,santander,malaga
+2022-10-12,SP2,Spain-Segunda,2223,Leganes,Malaga,1.0,0.0,H,0.0,0.0,D,1.8,3.25,5.0,1.84,3.38,5.09,1.81,3.34,4.69,2.5,1.5,2.45,1.54,-0.75,2.08,1.73,Leganes,Malaga,leganes,malaga
+2022-10-24,SP2,Spain-Segunda,2223,Oviedo,Malaga,1.0,0.0,H,1.0,0.0,H,2.25,3.1,3.6,2.21,3.05,3.78,2.16,3.03,3.66,2.6,1.47,2.61,1.47,-0.25,1.88,1.98,Real Oviedo,Malaga,real_oviedo,malaga
+2022-11-03,SP2,Spain-Segunda,2223,Cartagena,Malaga,2.0,1.0,H,0.0,0.0,D,1.9,3.25,4.75,1.93,3.23,4.55,1.88,3.26,4.37,2.25,1.61,2.27,1.61,-0.5,1.88,1.98,Cartagena,Malaga,cartagena,malaga
+2022-11-19,SP2,Spain-Segunda,2223,Zaragoza,Malaga,1.0,1.0,D,0.0,0.0,D,2.05,3.1,4.2,2.05,3.06,4.54,2.04,2.97,4.2,2.7,1.44,2.73,1.43,-0.5,2.02,1.83,Zaragoza,Malaga,zaragoza,malaga
+2022-12-04,SP2,Spain-Segunda,2223,Levante,Malaga,1.0,0.0,H,0.0,0.0,D,1.61,3.75,5.75,1.58,4.02,5.97,1.6,3.75,5.59,2.1,1.7,2.11,1.7,-0.75,1.8,2.05,Levante,Malaga,levante,malaga
+2022-12-11,SP2,Spain-Segunda,2223,Ibiza,Malaga,1.0,1.0,D,0.0,1.0,A,2.3,3.0,3.4,2.34,3.05,3.46,2.29,2.99,3.35,2.6,1.48,2.56,1.49,-0.25,1.95,1.9,Ibiza,Malaga,ibiza,malaga
+2023-01-15,SP2,Spain-Segunda,2223,Eibar,Malaga,2.0,1.0,H,1.0,0.0,H,1.65,3.5,6.0,1.64,3.58,6.24,1.65,3.47,5.75,2.4,1.53,2.42,1.54,-0.75,1.85,2.0,Eibar,Malaga,eibar,malaga
+2023-01-29,SP2,Spain-Segunda,2223,Sp Gijon,Malaga,0.0,0.0,D,0.0,0.0,D,1.91,3.4,4.5,1.87,3.28,4.82,1.86,3.26,4.46,2.4,1.53,2.43,1.53,-0.5,1.9,1.95,Sp Gijon,Malaga,sp_gijon,malaga
+2023-02-12,SP2,Spain-Segunda,2223,Albacete,Malaga,3.0,2.0,H,1.0,2.0,A,1.91,3.3,4.5,1.88,3.19,4.93,1.88,3.15,4.58,2.7,1.44,2.66,1.46,-0.5,1.88,1.98,Albacete,Malaga,albacete,malaga
+2023-02-27,SP2,Spain-Segunda,2223,Granada,Malaga,1.0,0.0,H,0.0,0.0,D,1.57,3.8,6.5,1.54,3.73,7.44,1.56,3.68,6.48,2.25,1.62,2.28,1.6,-1.0,2.05,1.8,Granada,Malaga,granada,malaga
+2023-03-11,SP2,Spain-Segunda,2223,Las Palmas,Malaga,2.0,2.0,D,1.0,1.0,D,1.57,3.75,7.0,1.55,3.96,7.21,1.54,3.72,6.65,2.25,1.62,2.29,1.6,-1.0,2.0,1.85,Las Palmas,Malaga,las_palmas,malaga
+2023-04-02,SP2,Spain-Segunda,2223,Andorra,Malaga,1.0,0.0,H,0.0,0.0,D,,,,1.92,3.38,4.37,1.88,3.3,4.25,,,2.39,1.54,-0.5,,,Andorra,Malaga,andorra,malaga
+2023-04-07,SP2,Spain-Segunda,2223,Villarreal B,Malaga,1.0,2.0,A,0.0,2.0,A,2.1,3.25,3.75,2.12,3.29,3.86,2.08,3.22,3.65,2.2,1.65,2.19,1.65,-0.5,2.05,1.75,Villarreal B,Malaga,villarreal_b,malaga
+2023-04-23,SP2,Spain-Segunda,2223,Lugo,Malaga,0.0,2.0,A,0.0,2.0,A,3.4,3.1,2.3,3.34,3.25,2.35,3.32,3.09,2.25,2.6,1.48,2.63,1.47,0.25,1.9,1.95,Lugo,Malaga,lugo,malaga
+2023-05-07,SP2,Spain-Segunda,2223,Ponferradina,Malaga,2.0,0.0,H,0.0,0.0,D,3.0,2.9,2.7,2.93,3.01,2.7,2.89,2.97,2.59,2.4,1.53,2.44,1.53,0.0,2.02,1.82,Ponferradina,Malaga,ponferradina,malaga
+2023-05-20,SP2,Spain-Segunda,2223,Alaves,Malaga,2.0,1.0,H,0.0,0.0,D,1.67,3.5,6.0,1.71,3.56,5.83,1.67,3.48,5.58,2.4,1.53,2.41,1.55,-0.75,1.9,1.95,Deportivo Alaves,Malaga,deportivo_alaves,malaga
+2024-08-17,SP2,Spain-Segunda,2425,Ferrol,Malaga,2.0,2.0,D,0.0,1.0,A,2.3,2.9,3.5,2.31,3.05,3.47,2.28,2.99,3.38,2.5,1.5,2.53,1.49,-0.25,1.98,1.88,Ferrol,Malaga,ferrol,malaga
+2024-09-07,SP2,Spain-Segunda,2425,Cordoba,Malaga,0.0,0.0,D,0.0,0.0,D,2.1,3.1,3.75,2.14,3.16,3.73,2.09,3.15,3.64,2.3,1.6,2.31,1.59,-0.25,1.8,2.05,Cordoba,Malaga,cordoba,malaga
+2024-09-20,SP2,Spain-Segunda,2425,Granada,Malaga,2.0,2.0,D,0.0,0.0,D,1.83,3.4,4.33,1.86,3.48,4.75,1.83,3.38,4.41,2.25,1.62,2.26,1.62,-0.5,1.85,2.0,Granada,Malaga,granada,malaga
+2024-10-06,SP2,Spain-Segunda,2425,La Coruna,Malaga,0.0,0.0,D,0.0,0.0,D,1.85,3.25,4.5,1.84,3.44,4.57,1.86,3.33,4.36,2.25,1.62,2.25,1.61,-0.5,1.85,2.0,La Coruna,Malaga,la_coruna,malaga
+2024-10-12,SP2,Spain-Segunda,2425,Cadiz,Malaga,2.0,2.0,D,2.0,0.0,H,1.75,3.4,5.0,1.75,3.51,5.11,1.74,3.45,4.91,2.35,1.57,2.35,1.57,-0.75,2.0,1.85,Cadiz,Malaga,cadiz,malaga
+2024-10-24,SP2,Spain-Segunda,2425,Tenerife,Malaga,0.0,0.0,D,0.0,0.0,D,2.0,3.1,4.2,2.04,3.03,4.33,2.01,2.99,4.13,2.7,1.44,2.67,1.44,-0.5,2.05,1.8,Tenerife,Malaga,tenerife,malaga
+2024-11-17,SP2,Spain-Segunda,2425,Zaragoza,Malaga,0.0,0.0,D,0.0,0.0,D,1.85,3.2,4.75,1.86,3.24,4.83,1.87,3.21,4.44,2.35,1.57,2.36,1.56,-0.5,1.88,1.98,Zaragoza,Malaga,zaragoza,malaga
+2024-11-27,SP2,Spain-Segunda,2425,Levante,Malaga,4.0,2.0,H,2.0,2.0,D,1.8,3.4,4.75,1.85,3.46,4.47,1.83,3.43,4.3,2.08,1.73,2.08,1.72,-0.5,1.85,2.0,Levante,Malaga,levante,malaga
+2024-12-01,SP2,Spain-Segunda,2425,Castellon,Malaga,2.0,0.0,H,1.0,0.0,H,1.95,3.25,4.1,1.95,3.31,4.22,1.93,3.31,3.93,1.98,1.88,1.92,1.85,-0.5,1.98,1.88,Castellon,Malaga,castellon,malaga
+2024-12-15,SP2,Spain-Segunda,2425,Burgos,Malaga,0.0,0.0,D,0.0,0.0,D,2.0,3.3,3.8,2.05,3.15,4.07,2.0,3.19,3.84,2.35,1.57,2.34,1.56,-0.5,2.03,1.83,Burgos,Malaga,burgos,malaga
+2024-12-21,SP2,Spain-Segunda,2425,Sp Gijon,Malaga,1.0,3.0,A,0.0,0.0,D,1.75,3.4,4.75,1.76,3.44,5.09,1.76,3.38,4.8,2.35,1.57,2.32,1.58,-0.75,2.05,1.8,Sp Gijon,Malaga,sp_gijon,malaga
+2025-01-20,SP2,Spain-Segunda,2425,Mirandes,Malaga,3.0,2.0,H,0.0,1.0,A,2.1,3.0,4.0,2.06,2.98,4.36,2.06,2.94,4.04,2.88,1.4,2.76,1.41,-0.25,1.73,2.08,Mirandes,Malaga,mirandes,malaga
+2025-02-01,SP2,Spain-Segunda,2425,Santander,Malaga,2.0,1.0,H,2.0,1.0,H,1.7,3.8,4.75,1.7,3.77,4.92,1.69,3.73,4.76,2.0,1.85,1.94,1.84,-0.75,1.93,1.93,Santander,Malaga,santander,malaga
+2025-02-15,SP2,Spain-Segunda,2425,Cartagena,Malaga,0.0,1.0,A,0.0,0.0,D,3.7,3.1,2.05,3.81,3.16,2.12,3.67,3.08,2.09,2.5,1.47,2.5,1.5,0.25,2.05,1.8,Cartagena,Malaga,cartagena,malaga
+2025-03-01,SP2,Spain-Segunda,2425,Almeria,Malaga,2.0,2.0,D,1.0,0.0,H,1.44,4.75,6.0,1.44,4.69,6.69,1.44,4.53,6.36,1.7,2.1,1.68,2.14,-1.25,2.03,1.83,Almeria,Malaga,almeria,malaga
+2025-03-15,SP2,Spain-Segunda,2425,Albacete,Malaga,2.0,0.0,H,2.0,0.0,H,1.91,3.4,4.0,1.95,3.17,4.45,1.94,3.23,4.15,2.2,1.65,2.17,1.66,-0.5,1.95,1.9,Albacete,Malaga,albacete,malaga
+2025-03-30,SP2,Spain-Segunda,2425,Oviedo,Malaga,2.0,1.0,H,0.0,0.0,D,1.62,3.6,5.0,1.62,3.78,5.75,1.64,3.58,5.43,2.35,1.57,2.36,1.56,-0.75,1.83,2.03,Real Oviedo,Malaga,real_oviedo,malaga
+2025-04-14,SP2,Spain-Segunda,2425,Huesca,Malaga,1.0,0.0,H,0.0,0.0,D,1.95,3.2,4.2,2.03,2.98,4.48,1.97,3.07,4.2,2.7,1.44,2.61,1.46,-0.5,2.0,1.85,Huesca,Malaga,huesca,malaga
+2025-04-21,SP2,Spain-Segunda,2425,Eibar,Malaga,2.0,2.0,D,1.0,0.0,H,1.8,3.3,4.75,1.84,3.22,5.04,1.81,3.23,4.79,2.5,1.5,2.47,1.51,-0.5,1.83,2.03,Eibar,Malaga,eibar,malaga
+2025-05-11,SP2,Spain-Segunda,2425,Eldense,Malaga,1.0,0.0,H,0.0,0.0,D,1.73,3.75,4.75,1.75,3.69,4.74,1.73,3.62,4.63,2.08,1.73,2.05,1.74,-0.75,1.98,1.88,Eldense,Malaga,eldense,malaga
+2025-05-25,SP2,Spain-Segunda,2425,Elche,Malaga,2.0,0.0,H,0.0,0.0,D,1.25,5.5,12.0,1.23,5.53,11.94,1.26,5.25,11.01,1.85,1.95,1.83,1.94,-1.5,1.9,1.9,Elche,Malaga,elche,malaga
+2025-08-31,SP2,Spain-Segunda,2526,Las Palmas,Malaga,0.0,1.0,A,0.0,1.0,A,1.76,3.5,4.5,1.78,3.55,4.78,1.74,3.41,4.51,2.2,1.65,2.19,1.6,-0.5,1.78,2.03,Las Palmas,Malaga,las_palmas,malaga
+2025-09-13,SP2,Spain-Segunda,2526,Huesca,Malaga,1.0,0.0,H,0.0,0.0,D,2.15,3.0,3.6,2.28,2.86,3.82,2.13,2.92,3.6,2.7,1.44,2.62,1.43,-0.25,1.83,1.98,Huesca,Malaga,huesca,malaga
+2025-09-28,SP2,Spain-Segunda,2526,Burgos,Malaga,2.0,1.0,H,1.0,1.0,D,2.1,3.1,3.7,2.14,3.05,3.93,2.1,3.02,3.55,2.6,1.48,2.52,1.47,-0.25,1.8,2.0,Burgos,Malaga,burgos,malaga
+2025-10-05,SP2,Spain-Segunda,2526,Santander,Malaga,3.0,0.0,H,0.0,0.0,D,1.86,3.6,3.8,1.76,3.72,4.63,1.81,3.51,3.93,1.88,1.93,1.83,1.87,-0.5,1.9,1.9,Santander,Malaga,santander,malaga
+2025-10-19,SP2,Spain-Segunda,2526,Leganes,Malaga,2.0,0.0,H,1.0,0.0,H,1.86,3.25,4.2,1.89,3.33,4.45,1.87,3.21,4.1,2.35,1.57,2.28,1.56,-0.5,1.9,1.9,Leganes,Malaga,leganes,malaga
+2025-11-02,SP2,Spain-Segunda,2526,Castellon,Malaga,2.0,1.0,H,0.0,0.0,D,1.66,3.9,4.5,,,,1.65,3.85,4.51,1.75,2.05,1.72,2.02,-0.75,1.9,1.9,Castellon,Malaga,castellon,malaga
+2025-11-17,SP2,Spain-Segunda,2526,Cultural Leonesa,Malaga,1.0,0.0,H,1.0,0.0,H,2.25,3.3,3.05,,,,2.25,3.18,3.02,2.1,1.7,2.09,1.66,-0.25,1.98,1.83,Cultural Leonesa,Malaga,cultural_leonesa,malaga
+2025-11-29,SP2,Spain-Segunda,2526,Valladolid,Malaga,1.0,1.0,D,1.0,0.0,H,1.71,3.4,5.0,1.76,3.53,4.95,1.69,3.49,4.77,2.05,1.75,2.03,1.71,-0.75,1.98,1.83,Real Valladolid,Malaga,real_valladolid,malaga
+2025-12-14,SP2,Spain-Segunda,2526,Albacete,Malaga,1.0,3.0,A,1.0,0.0,H,1.91,3.4,3.9,1.99,3.35,3.99,1.95,3.29,3.64,2.0,1.8,1.95,1.76,-0.5,1.98,1.83,Albacete,Malaga,albacete,malaga
+2026-01-04,SP2,Spain-Segunda,2526,Sp Gijon,Malaga,1.0,3.0,A,0.0,1.0,A,1.86,3.2,4.33,1.89,3.4,4.33,1.88,3.21,4.01,2.25,1.62,2.2,1.6,-0.5,1.9,1.9,Sp Gijon,Malaga,sp_gijon,malaga
+2026-01-18,SP2,Spain-Segunda,2526,Cordoba,Malaga,0.0,1.0,A,0.0,1.0,A,1.86,3.5,4.0,,,,1.82,3.45,4.01,1.85,1.95,1.83,1.86,-0.5,1.85,1.95,Cordoba,Malaga,cordoba,malaga
+2026-02-02,SP2,Spain-Segunda,2526,Mirandes,Malaga,2.0,1.0,H,1.0,0.0,H,3.0,3.2,2.32,,,,2.96,3.08,2.35,2.15,1.67,2.16,1.62,0.25,1.75,2.05,Mirandes,Malaga,mirandes,malaga
+2026-02-16,SP2,Spain-Segunda,2526,Sociedad B,Malaga,2.0,1.0,H,1.0,1.0,D,2.85,3.3,2.35,,,,2.78,3.16,2.4,2.0,1.8,1.91,1.81,0.0,2.05,1.75,Sociedad B,Malaga,sociedad_b,malaga
+2026-02-28,SP2,Spain-Segunda,2526,Granada,Malaga,0.0,1.0,A,0.0,0.0,D,2.15,3.2,3.3,,,,2.17,3.06,3.29,2.25,1.62,2.22,1.59,-0.25,1.88,1.93,Granada,Malaga,granada,malaga
+2026-03-21,SP2,Spain-Segunda,2526,Cadiz,Malaga,0.0,3.0,A,0.0,2.0,A,2.75,3.1,2.55,,,,2.63,3.18,2.52,2.05,1.75,1.98,1.74,0.0,1.98,1.83,Cadiz,Malaga,cadiz,malaga
+2026-04-01,SP2,Spain-Segunda,2526,Andorra,Malaga,3.0,3.0,D,0.0,2.0,A,2.25,3.4,3.0,,,,2.24,3.3,2.92,1.9,1.9,1.84,1.87,-0.25,2.03,1.78,Andorra,Malaga,andorra,malaga
+2026-04-04,SP2,Spain-Segunda,2526,La Coruna,Malaga,1.0,1.0,D,0.0,0.0,D,1.86,3.6,3.7,,,,1.89,3.38,3.74,2.08,1.73,1.99,1.74,-0.5,1.95,1.85,La Coruna,Malaga,la_coruna,malaga
+2026-04-19,SP2,Spain-Segunda,2526,Almeria,Malaga,3.0,2.0,H,0.0,0.0,D,1.86,3.7,3.7,,,,1.83,3.67,3.67,1.62,2.25,1.61,2.2,-0.5,1.9,1.9,Almeria,Malaga,almeria,malaga
+2026-05-02,SP2,Spain-Segunda,2526,Eibar,Malaga,2.0,4.0,A,2.0,1.0,H,2.01,3.3,3.75,,,,2.03,3.19,3.47,2.08,1.73,2.05,1.69,-0.5,2.05,1.75,Eibar,Malaga,eibar,malaga
+2026-05-16,SP2,Spain-Segunda,2526,Ceuta,Malaga,1.0,4.0,A,0.0,3.0,A,3.75,3.75,1.86,,,,3.56,3.59,1.86,1.67,2.15,1.64,2.12,0.5,1.88,1.93,Ceuta,Malaga,ceuta,malaga
+2026-05-31,SP2,Spain-Segunda,2526,Zaragoza,Malaga,0.0,2.0,A,0.0,1.0,A,4.75,3.6,1.71,,,,4.34,3.34,1.77,1.98,1.83,1.95,1.77,0.75,1.83,1.98,Zaragoza,Malaga,zaragoza,malaga
+2026-08-19,SP1,Spain-LaLiga,2627,Ath Madrid,Malaga,2.0,0.0,H,0.0,0.0,D,1.33,5.25,9.5,,,,1.3,5.27,10.19,1.73,2.1,1.71,2.06,-1.5,1.98,1.88,Atletico Madrid,Malaga,atletico_madrid,malaga
+2026-08-30,SP1,Spain-LaLiga,2627,Real Madrid,Malaga,4.0,0.0,H,3.0,0.0,H,1.11,9.0,21.0,,,,1.11,8.86,18.31,1.33,3.4,1.31,3.31,-2.5,1.95,1.9,Real Madrid,Malaga,real_madrid,malaga
+2026-09-13,SP1,Spain-LaLiga,2627,Celta,Malaga,1.0,1.0,D,1.0,0.0,H,1.7,3.7,5.25,,,,1.7,3.62,4.89,2.1,1.73,2.03,1.72,-0.75,1.93,1.93,Celta Vigo,Malaga,celta_vigo,malaga
+2026-09-20,SP1,Spain-LaLiga,2627,Getafe,Malaga,1.0,0.0,H,0.0,0.0,D,2.0,3.1,4.2,,,,2.02,3.03,4.06,2.75,1.44,2.67,1.44,-0.5,2.03,1.83,Getafe,Malaga,getafe,malaga

@@ -1,0 +1,97 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,SC1,Scotland-Champ,2122,Morton,Dunfermline,2.0,2.0,D,1.0,0.0,H,3.1,3.25,2.15,3.47,3.33,2.16,3.22,3.25,2.16,2.05,1.75,2.01,1.76,0.25,1.93,1.93,Morton,Dunfermline,morton,dunfermline
+2021-08-21,SC1,Scotland-Champ,2122,Morton,Queen of Sth,2.0,3.0,A,1.0,1.0,D,2.25,3.4,2.87,2.42,3.42,2.91,2.34,3.33,2.84,1.93,1.93,1.89,1.87,-0.25,2.02,1.83,Morton,Queen of Sth,morton,queen_of_sth
+2021-09-18,SC1,Scotland-Champ,2122,Morton,Raith Rvs,0.0,1.0,A,0.0,1.0,A,2.9,3.2,2.3,3.06,3.59,2.22,2.97,3.38,2.23,2.0,1.8,1.95,1.81,0.25,1.83,2.02,Morton,Raith Rvs,morton,raith_rvs
+2021-10-02,SC1,Scotland-Champ,2122,Morton,Arbroath,2.0,2.0,D,0.0,1.0,A,3.25,3.25,2.0,3.48,3.22,2.18,3.32,3.17,2.16,2.15,1.66,2.14,1.66,0.25,1.95,1.9,Morton,Arbroath,morton,arbroath
+2021-10-26,SC1,Scotland-Champ,2122,Morton,Partick,0.0,0.0,D,0.0,0.0,D,3.3,3.4,2.0,3.51,3.53,2.1,3.34,3.38,2.07,1.95,1.9,1.89,1.87,0.25,2.0,1.85,Morton,Partick,morton,partick
+2021-10-30,SC1,Scotland-Champ,2122,Morton,Hamilton,1.0,1.0,D,0.0,1.0,A,2.62,3.4,2.3,2.96,3.27,2.43,2.81,3.19,2.41,2.07,1.72,2.07,1.7,0.0,2.05,1.8,Morton,Hamilton Academical,morton,hamilton_academical
+2021-11-13,SC1,Scotland-Champ,2122,Morton,Kilmarnock,0.0,2.0,A,0.0,2.0,A,4.2,3.25,1.95,4.15,3.16,2.0,3.8,3.18,1.98,2.25,1.61,2.22,1.6,0.5,1.83,2.02,Morton,Kilmarnock,morton,kilmarnock
+2021-12-04,SC1,Scotland-Champ,2122,Morton,Ayr,2.0,2.0,D,1.0,0.0,H,2.15,3.4,3.0,2.32,3.27,3.14,2.25,3.21,3.05,2.07,1.72,2.12,1.67,-0.25,1.95,1.9,Morton,Ayr,morton,ayr
+2021-12-11,SC1,Scotland-Champ,2122,Morton,Inverness C,1.0,6.0,A,1.0,3.0,A,3.3,3.4,2.0,3.98,3.41,1.94,3.62,3.3,2.0,2.07,1.72,2.12,1.67,0.5,1.8,2.05,Morton,Inverness Caledonian Thistle,morton,inverness_caledonian_thistle
+2022-01-08,SC1,Scotland-Champ,2122,Morton,Dunfermline,5.0,0.0,H,3.0,0.0,H,2.75,3.1,2.5,2.79,3.19,2.61,2.74,3.16,2.5,2.1,1.7,2.05,1.71,0.0,2.05,1.8,Morton,Dunfermline,morton,dunfermline
+2022-01-28,SC1,Scotland-Champ,2122,Morton,Raith Rvs,2.0,2.0,D,1.0,2.0,A,2.87,3.0,2.3,3.27,3.05,2.43,3.09,3.06,2.34,2.35,1.57,2.28,1.59,0.25,1.8,2.05,Morton,Raith Rvs,morton,raith_rvs
+2022-02-12,SC1,Scotland-Champ,2122,Morton,Queen of Sth,2.0,1.0,H,0.0,0.0,D,2.15,2.8,3.4,2.06,3.31,3.72,2.05,3.28,3.48,2.0,1.8,1.9,1.83,-0.25,1.9,1.95,Morton,Queen of Sth,morton,queen_of_sth
+2022-02-26,SC1,Scotland-Champ,2122,Morton,Arbroath,0.0,0.0,D,0.0,0.0,D,3.1,3.2,2.15,3.61,3.3,2.15,3.26,3.18,2.19,2.35,1.57,2.31,1.57,0.25,1.93,1.93,Morton,Arbroath,morton,arbroath
+2022-03-12,SC1,Scotland-Champ,2122,Morton,Partick,2.0,1.0,H,0.0,1.0,A,2.9,3.2,2.3,3.03,3.16,2.45,2.91,3.17,2.38,2.15,1.66,2.16,1.64,0.25,1.77,2.1,Morton,Partick,morton,partick
+2022-03-26,SC1,Scotland-Champ,2122,Morton,Ayr,1.0,1.0,D,1.0,0.0,H,2.25,2.9,3.25,2.49,3.09,3.15,2.3,3.09,3.13,2.35,1.57,2.28,1.58,-0.25,1.98,1.88,Morton,Ayr,morton,ayr
+2022-04-01,SC1,Scotland-Champ,2122,Morton,Kilmarnock,1.0,1.0,D,0.0,0.0,D,5.0,3.1,1.85,4.73,3.29,1.88,4.53,3.2,1.84,2.6,1.47,2.46,1.5,0.5,1.98,1.83,Morton,Kilmarnock,morton,kilmarnock
+2022-04-16,SC1,Scotland-Champ,2122,Morton,Hamilton,0.0,1.0,A,0.0,1.0,A,2.4,2.87,3.0,2.44,3.19,3.03,2.41,3.12,2.9,2.15,1.66,2.21,1.61,-0.25,2.13,1.75,Morton,Hamilton Academical,morton,hamilton_academical
+2022-04-23,SC1,Scotland-Champ,2122,Morton,Inverness C,0.0,1.0,A,0.0,1.0,A,2.8,3.2,2.2,3.08,3.16,2.42,2.99,3.14,2.34,2.2,1.65,2.23,1.61,0.25,1.83,2.02,Morton,Inverness Caledonian Thistle,morton,inverness_caledonian_thistle
+2022-08-06,SC1,Scotland-Champ,2223,Morton,Cove Rangers,1.0,0.0,H,0.0,0.0,D,2.5,3.25,2.45,2.66,3.22,2.8,2.56,3.13,2.68,2.2,1.65,2.25,1.6,0.0,1.95,1.9,Morton,Cove Rangers,morton,cove_rangers
+2022-08-20,SC1,Scotland-Champ,2223,Morton,Dundee,0.0,0.0,D,0.0,0.0,D,4.2,3.25,1.85,4.09,3.43,1.96,3.99,3.33,1.89,2.15,1.66,2.14,1.66,0.5,1.95,1.9,Morton,Dundee,morton,dundee
+2022-09-03,SC1,Scotland-Champ,2223,Morton,Ayr,1.0,2.0,A,0.0,1.0,A,2.87,3.2,2.37,3.03,3.17,2.44,2.88,3.19,2.38,2.1,1.7,2.09,1.69,0.25,1.77,2.1,Morton,Ayr,morton,ayr
+2022-09-17,SC1,Scotland-Champ,2223,Morton,Arbroath,1.0,2.0,A,0.0,2.0,A,2.55,3.1,2.87,2.79,3.15,2.72,2.57,3.07,2.73,2.35,1.57,2.28,1.58,0.0,1.77,2.02,Morton,Arbroath,morton,arbroath
+2022-10-08,SC1,Scotland-Champ,2223,Morton,Hamilton,5.0,0.0,H,3.0,0.0,H,2.25,3.1,3.1,2.45,3.25,3.05,2.29,3.17,3.05,2.2,1.65,2.16,1.65,-0.25,2.05,1.8,Morton,Hamilton Academical,morton,hamilton_academical
+2022-10-15,SC1,Scotland-Champ,2223,Morton,Raith Rvs,1.0,0.0,H,0.0,0.0,D,2.62,3.0,2.55,2.7,3.37,2.65,2.56,3.26,2.59,2.02,1.83,1.97,1.78,0.0,1.93,1.93,Morton,Raith Rvs,morton,raith_rvs
+2022-10-28,SC1,Scotland-Champ,2223,Morton,Inverness C,4.0,0.0,H,3.0,0.0,H,2.3,2.87,3.1,2.28,3.09,3.54,2.22,3.04,3.31,2.4,1.53,2.34,1.56,-0.25,2.02,1.83,Morton,Inverness Caledonian Thistle,morton,inverness_caledonian_thistle
+2022-11-12,SC1,Scotland-Champ,2223,Morton,Partick,2.0,1.0,H,1.0,0.0,H,2.37,3.3,2.75,2.42,3.48,2.92,2.39,3.29,2.78,2.02,1.83,1.97,1.78,0.0,1.8,2.05,Morton,Partick,morton,partick
+2023-01-28,SC1,Scotland-Champ,2223,Morton,Arbroath,1.0,2.0,A,1.0,0.0,H,1.85,3.4,3.8,1.85,3.51,4.29,1.85,3.43,4.02,2.02,1.83,2.04,1.74,-0.5,1.88,1.93,Morton,Arbroath,morton,arbroath
+2023-02-11,SC1,Scotland-Champ,2223,Morton,Queens Park,3.0,2.0,H,2.0,1.0,H,2.4,3.5,2.38,2.59,3.74,2.56,2.47,3.55,2.52,1.7,2.1,1.67,2.12,0.0,1.58,2.35,Morton,Queens Park,morton,queens_park
+2023-02-17,SC1,Scotland-Champ,2223,Morton,Dundee,1.0,0.0,H,1.0,0.0,H,3.75,3.3,1.95,4.15,3.42,1.95,3.73,3.3,1.97,2.1,1.7,2.07,1.72,0.5,1.88,1.98,Morton,Dundee,morton,dundee
+2023-02-25,SC1,Scotland-Champ,2223,Morton,Cove Rangers,2.0,1.0,H,0.0,1.0,A,1.67,3.75,4.33,1.69,4.06,4.75,1.69,3.8,4.42,1.85,2.0,1.8,1.96,-0.75,1.83,1.98,Morton,Cove Rangers,morton,cove_rangers
+2023-03-07,SC1,Scotland-Champ,2223,Morton,Ayr,1.0,3.0,A,1.0,3.0,A,2.3,3.2,2.8,2.47,3.03,3.23,2.35,3.16,2.94,2.02,1.83,1.97,1.79,-0.25,2.05,1.8,Morton,Ayr,morton,ayr
+2023-03-11,SC1,Scotland-Champ,2223,Morton,Partick,0.0,0.0,D,0.0,0.0,D,2.45,3.4,2.55,2.62,3.28,2.79,2.5,3.25,2.65,1.98,1.88,1.97,1.79,0.0,1.88,1.98,Morton,Partick,morton,partick
+2023-04-01,SC1,Scotland-Champ,2223,Morton,Inverness C,1.0,2.0,A,0.0,0.0,D,2.15,3.2,3.2,2.17,3.4,3.45,2.11,3.28,3.26,2.08,1.73,1.97,1.77,-0.25,1.88,1.98,Morton,Inverness Caledonian Thistle,morton,inverness_caledonian_thistle
+2023-04-11,SC1,Scotland-Champ,2223,Morton,Hamilton,2.0,0.0,H,0.0,0.0,D,1.55,4.0,5.0,1.6,3.94,5.81,1.58,3.78,5.39,1.98,1.88,1.93,1.82,-0.75,1.77,2.1,Morton,Hamilton Academical,morton,hamilton_academical
+2023-04-22,SC1,Scotland-Champ,2223,Morton,Raith Rvs,1.0,0.0,H,1.0,0.0,H,2.0,3.4,3.3,2.14,3.32,3.62,2.07,3.22,3.45,2.2,1.65,2.18,1.64,-0.25,1.82,1.98,Morton,Raith Rvs,morton,raith_rvs
+2023-04-29,SC1,Scotland-Champ,2223,Morton,Queens Park,2.0,1.0,H,1.0,1.0,D,2.25,3.25,3.0,2.24,3.38,3.31,2.23,3.29,3.03,1.88,1.98,1.86,1.88,-0.25,1.98,1.88,Morton,Queens Park,morton,queens_park
+2023-08-05,SC1,Scotland-Champ,2324,Morton,Ayr,3.0,1.0,H,0.0,0.0,D,2.38,3.4,2.63,2.6,3.29,2.81,2.41,3.23,2.74,1.95,1.9,1.91,1.84,0.0,1.75,2.05,Morton,Ayr,morton,ayr
+2023-08-26,SC1,Scotland-Champ,2324,Morton,Arbroath,0.0,3.0,A,0.0,1.0,A,1.67,3.5,5.25,1.69,3.7,5.33,1.66,3.56,4.98,2.08,1.73,2.04,1.73,-0.75,1.9,1.95,Morton,Arbroath,morton,arbroath
+2023-09-02,SC1,Scotland-Champ,2324,Morton,Partick,1.0,4.0,A,1.0,1.0,D,2.45,3.6,2.5,2.56,3.61,2.66,2.49,3.42,2.57,1.83,2.03,1.81,1.94,0.0,1.88,1.98,Morton,Partick,morton,partick
+2023-09-30,SC1,Scotland-Champ,2324,Morton,Airdrie Utd,0.0,1.0,A,0.0,1.0,A,2.15,3.2,3.2,2.16,3.81,3.13,2.14,3.48,3.04,1.73,2.08,1.72,2.05,-0.25,1.9,1.95,Morton,Airdrie Utd,morton,airdrie_utd
+2023-10-31,SC1,Scotland-Champ,2324,Morton,Raith Rvs,1.0,2.0,A,0.0,2.0,A,2.88,3.0,2.45,3.01,3.08,2.58,2.87,3.07,2.44,2.3,1.6,2.21,1.62,0.0,2.1,1.78,Morton,Raith Rvs,morton,raith_rvs
+2023-11-03,SC1,Scotland-Champ,2324,Morton,Dunfermline,1.0,2.0,A,0.0,2.0,A,2.38,3.3,2.7,2.61,3.17,2.9,2.45,3.25,2.75,1.93,1.93,1.88,1.86,0.0,1.8,2.05,Morton,Dunfermline,morton,dunfermline
+2023-12-12,SC1,Scotland-Champ,2324,Morton,Inverness C,2.0,1.0,H,1.0,0.0,H,2.7,3.1,2.75,2.77,3.24,2.67,2.63,3.15,2.63,2.1,1.7,2.02,1.73,0.0,1.95,1.9,Morton,Inverness Caledonian Thistle,morton,inverness_caledonian_thistle
+2023-12-16,SC1,Scotland-Champ,2324,Morton,Queens Park,1.0,0.0,H,1.0,0.0,H,2.05,3.4,3.2,2.16,3.64,3.25,2.1,3.45,3.15,1.85,2.0,1.79,1.95,-0.25,1.9,1.95,Morton,Queens Park,morton,queens_park
+2024-01-02,SC1,Scotland-Champ,2324,Morton,Ayr,3.0,0.0,H,1.0,0.0,H,2.1,3.4,2.9,2.25,3.54,3.16,2.15,3.4,3.08,1.95,1.9,1.86,1.88,-0.25,1.93,1.93,Morton,Ayr,morton,ayr
+2024-01-13,SC1,Scotland-Champ,2324,Morton,Partick,1.0,1.0,D,1.0,0.0,H,2.4,3.75,2.5,2.56,3.8,2.57,2.49,3.63,2.47,1.62,2.25,1.58,2.28,0.0,1.88,1.98,Morton,Partick,morton,partick
+2024-01-27,SC1,Scotland-Champ,2324,Morton,Arbroath,3.0,0.0,H,0.0,0.0,D,1.55,4.0,5.25,1.55,4.27,5.91,1.54,4.03,5.27,1.73,2.08,1.7,2.06,-1.0,1.95,1.9,Morton,Arbroath,morton,arbroath
+2024-02-24,SC1,Scotland-Champ,2324,Morton,Airdrie Utd,2.0,1.0,H,2.0,0.0,H,1.91,3.3,3.8,2.07,3.53,3.59,1.98,3.35,3.55,2.05,1.8,1.97,1.77,-0.5,1.95,1.9,Morton,Airdrie Utd,morton,airdrie_utd
+2024-03-02,SC1,Scotland-Champ,2324,Morton,Inverness C,0.0,2.0,A,0.0,2.0,A,1.75,3.6,4.0,1.76,3.71,4.71,1.76,3.51,4.28,2.03,1.83,1.96,1.78,-0.75,2.03,1.83,Morton,Inverness Caledonian Thistle,morton,inverness_caledonian_thistle
+2024-03-05,SC1,Scotland-Champ,2324,Morton,Dundee United,0.0,1.0,A,0.0,1.0,A,3.6,3.1,2.0,3.69,3.34,2.11,3.52,3.21,2.04,2.15,1.67,2.13,1.67,0.25,2.08,1.73,Morton,Dundee United,morton,dundee_united
+2024-03-23,SC1,Scotland-Champ,2324,Morton,Dunfermline,0.0,1.0,A,0.0,0.0,D,2.0,3.4,3.1,2.16,3.38,3.49,2.1,3.31,3.26,2.08,1.73,2.08,1.7,-0.25,1.85,2.0,Morton,Dunfermline,morton,dunfermline
+2024-03-30,SC1,Scotland-Champ,2324,Morton,Queens Park,2.0,0.0,H,0.0,0.0,D,1.91,3.4,3.6,1.99,3.61,3.68,1.93,3.48,3.59,1.98,1.88,1.91,1.83,-0.5,2.0,1.85,Morton,Queens Park,morton,queens_park
+2024-04-12,SC1,Scotland-Champ,2324,Morton,Dundee United,1.0,4.0,A,0.0,2.0,A,4.2,3.6,1.73,4.85,3.65,1.74,4.44,3.58,1.73,1.98,1.88,1.92,1.82,0.75,1.83,2.03,Morton,Dundee United,morton,dundee_united
+2024-04-27,SC1,Scotland-Champ,2324,Morton,Raith Rvs,0.0,0.0,D,0.0,0.0,D,2.4,3.4,2.5,2.63,3.25,2.77,2.54,3.21,2.62,2.05,1.75,2.02,1.73,0.0,1.88,1.98,Morton,Raith Rvs,morton,raith_rvs
+2024-08-10,SC1,Scotland-Champ,2425,Morton,Hamilton,0.0,0.0,D,0.0,0.0,D,2.15,3.3,3.0,2.17,3.48,3.14,2.15,3.37,3.1,2.0,1.85,1.93,1.8,-0.25,1.95,1.9,Morton,Hamilton Academical,morton,hamilton_academical
+2024-08-31,SC1,Scotland-Champ,2425,Morton,Falkirk,2.0,3.0,A,2.0,2.0,D,3.8,3.7,1.85,4.26,3.59,1.83,3.98,3.5,1.83,1.93,1.93,1.89,1.86,0.5,1.98,1.88,Morton,Falkirk,morton,falkirk
+2024-09-21,SC1,Scotland-Champ,2425,Morton,Airdrie Utd,2.0,0.0,H,1.0,0.0,H,2.25,3.4,2.75,2.38,3.16,3.04,2.31,3.21,2.95,2.08,1.73,2.07,1.71,-0.25,2.03,1.83,Morton,Airdrie Utd,morton,airdrie_utd
+2024-10-05,SC1,Scotland-Champ,2425,Morton,Raith Rvs,2.0,0.0,H,0.0,0.0,D,2.6,3.5,2.35,2.83,3.13,2.55,2.71,3.18,2.48,2.15,1.67,2.13,1.66,0.0,2.03,1.83,Morton,Raith Rvs,morton,raith_rvs
+2024-10-29,SC1,Scotland-Champ,2425,Morton,Queens Park,0.0,1.0,A,0.0,1.0,A,3.4,3.1,2.2,3.35,3.16,2.3,3.18,3.15,2.23,2.03,1.83,2.0,1.76,0.25,1.93,1.93,Morton,Queens Park,morton,queens_park
+2024-11-08,SC1,Scotland-Champ,2425,Morton,Ayr,1.0,1.0,D,1.0,0.0,H,3.6,3.2,1.91,4.41,3.15,1.97,3.79,3.18,1.99,2.25,1.62,2.23,1.61,0.5,1.85,2.0,Morton,Ayr,morton,ayr
+2024-12-07,SC1,Scotland-Champ,2425,Morton,Livingston,0.0,0.0,D,0.0,0.0,D,3.9,3.25,1.9,4.1,3.34,1.9,3.94,3.29,1.9,2.15,1.67,2.16,1.65,0.5,1.9,1.95,Morton,Livingston,morton,livingston
+2024-12-21,SC1,Scotland-Champ,2425,Morton,Dunfermline,2.0,0.0,H,1.0,0.0,H,3.0,3.1,2.3,3.2,2.97,2.41,3.04,3.02,2.37,2.38,1.53,2.41,1.52,0.25,1.83,2.03,Morton,Dunfermline,morton,dunfermline
+2024-12-31,SC1,Scotland-Champ,2425,Morton,Partick,2.0,1.0,H,0.0,0.0,D,3.5,3.3,2.0,3.9,3.24,1.99,3.64,3.3,1.96,2.1,1.7,2.02,1.73,0.5,1.8,2.05,Morton,Partick,morton,partick
+2025-02-15,SC1,Scotland-Champ,2425,Morton,Airdrie Utd,2.0,2.0,D,1.0,1.0,D,1.95,3.4,3.9,2.0,3.53,3.5,1.96,3.41,3.52,1.88,1.98,1.86,1.87,-0.5,2.0,1.85,Morton,Airdrie Utd,morton,airdrie_utd
+2025-02-18,SC1,Scotland-Champ,2425,Morton,Hamilton,2.0,0.0,H,1.0,0.0,H,2.15,3.25,3.2,2.23,3.22,3.43,2.15,3.23,3.27,2.03,1.83,1.99,1.77,-0.25,1.93,1.93,Morton,Hamilton Academical,morton,hamilton_academical
+2025-02-21,SC1,Scotland-Champ,2425,Morton,Falkirk,0.0,2.0,A,0.0,2.0,A,6.5,3.4,1.55,6.36,3.8,1.57,6.06,3.69,1.55,2.15,1.67,2.14,1.66,1.0,1.83,2.03,Morton,Falkirk,morton,falkirk
+2025-03-08,SC1,Scotland-Champ,2425,Morton,Ayr,2.0,1.0,H,0.0,1.0,A,4.0,3.25,1.85,4.2,3.35,1.92,4.06,3.25,1.89,2.25,1.58,2.22,1.6,0.5,1.93,1.93,Morton,Ayr,morton,ayr
+2025-03-22,SC1,Scotland-Champ,2425,Morton,Queens Park,2.0,1.0,H,1.0,0.0,H,2.45,3.0,2.88,2.55,3.1,2.86,2.47,3.07,2.84,2.25,1.62,2.23,1.6,0.0,1.78,2.1,Morton,Queens Park,morton,queens_park
+2025-03-25,SC1,Scotland-Champ,2425,Morton,Raith Rvs,3.0,3.0,D,1.0,2.0,A,2.63,2.9,2.88,2.69,2.86,3.01,2.64,2.89,2.81,2.5,1.5,2.47,1.5,0.0,1.85,2.0,Morton,Raith Rvs,morton,raith_rvs
+2025-03-29,SC1,Scotland-Champ,2425,Morton,Partick,0.0,1.0,A,0.0,0.0,D,3.1,3.1,2.4,3.1,3.05,2.46,3.05,3.03,2.38,2.25,1.62,2.27,1.59,0.25,1.8,2.05,Morton,Partick,morton,partick
+2025-04-12,SC1,Scotland-Champ,2425,Morton,Livingston,1.0,2.0,A,1.0,2.0,A,4.33,3.5,1.7,4.77,3.58,1.72,4.54,3.57,1.72,2.08,1.73,2.05,1.71,0.75,1.88,1.98,Morton,Livingston,morton,livingston
+2025-05-02,SC1,Scotland-Champ,2425,Morton,Dunfermline,2.0,0.0,H,2.0,0.0,H,2.6,3.25,2.5,2.74,2.99,2.69,2.75,3.03,2.58,2.38,1.53,2.49,1.48,0.0,1.98,1.88,Morton,Dunfermline,morton,dunfermline
+2025-08-02,SC1,Scotland-Champ,2526,Morton,Dunfermline,0.0,0.0,D,0.0,0.0,D,2.75,2.88,2.6,2.86,2.86,2.73,2.77,2.87,2.58,2.63,1.44,2.6,1.44,0.0,1.98,1.83,Morton,Dunfermline,morton,dunfermline
+2025-08-23,SC1,Scotland-Champ,2526,Morton,Ayr,2.0,2.0,D,1.0,0.0,H,3.3,3.1,2.1,3.42,3.13,2.2,3.2,3.19,2.11,2.1,1.7,2.08,1.67,0.25,1.93,1.88,Morton,Ayr,morton,ayr
+2025-09-06,SC1,Scotland-Champ,2526,Morton,Raith Rvs,0.0,1.0,A,0.0,0.0,D,3.75,3.1,2.0,3.82,3.23,2.01,3.67,3.2,1.96,2.2,1.65,2.19,1.61,0.5,1.8,2.0,Morton,Raith Rvs,morton,raith_rvs
+2025-09-27,SC1,Scotland-Champ,2526,Morton,Ross County,1.0,1.0,D,0.0,1.0,A,3.2,3.3,2.1,3.16,3.59,2.12,3.17,3.25,2.09,1.98,1.83,1.94,1.77,0.25,1.98,1.83,Morton,Ross County,morton,ross_county
+2025-10-11,SC1,Scotland-Champ,2526,Morton,Partick,1.0,1.0,D,1.0,0.0,H,3.25,3.3,2.05,3.63,3.28,2.05,3.31,3.25,2.05,2.08,1.73,2.02,1.72,0.25,1.98,1.83,Morton,Partick,morton,partick
+2025-10-25,SC1,Scotland-Champ,2526,Morton,St Johnstone,0.0,4.0,A,0.0,4.0,A,4.5,3.7,1.65,4.85,3.74,1.67,4.6,3.63,1.66,1.9,1.9,1.87,1.83,0.75,1.93,1.88,Morton,St Johnstone,morton,st_johnstone
+2025-11-08,SC1,Scotland-Champ,2526,Morton,Arbroath,1.0,0.0,H,1.0,0.0,H,2.2,3.3,3.2,,,,2.16,3.15,3.17,2.1,1.7,2.06,1.69,-0.25,1.9,1.9,Morton,Arbroath,morton,arbroath
+2025-12-05,SC1,Scotland-Champ,2526,Morton,Queens Park,2.0,1.0,H,1.0,1.0,D,1.7,3.4,4.5,,,,1.71,3.44,4.55,2.1,1.7,2.05,1.69,-0.75,1.98,1.83,Morton,Queens Park,morton,queens_park
+2025-12-13,SC1,Scotland-Champ,2526,Morton,Airdrie Utd,0.0,1.0,A,0.0,0.0,D,1.95,3.1,3.6,,,,1.96,3.19,3.61,2.15,1.67,2.12,1.64,-0.5,2.0,1.8,Morton,Airdrie Utd,morton,airdrie_utd
+2025-12-27,SC1,Scotland-Champ,2526,Morton,Ayr,1.0,1.0,D,0.0,1.0,A,2.9,3.1,2.3,,,,2.95,3.09,2.28,2.15,1.67,2.15,1.62,0.25,1.78,2.03,Morton,Ayr,morton,ayr
+2026-01-31,SC1,Scotland-Champ,2526,Morton,Ross County,2.0,1.0,H,1.0,0.0,H,2.5,3.25,2.5,,,,2.57,3.18,2.54,1.95,1.85,1.92,1.79,0.0,1.9,1.9,Morton,Ross County,morton,ross_county
+2026-02-14,SC1,Scotland-Champ,2526,Morton,Raith Rvs,0.0,0.0,D,0.0,0.0,D,3.0,3.0,2.25,,,,2.97,3.04,2.29,2.25,1.62,2.19,1.6,0.25,1.83,1.98,Morton,Raith Rvs,morton,raith_rvs
+2026-02-17,SC1,Scotland-Champ,2526,Morton,Dunfermline,2.0,0.0,H,1.0,0.0,H,2.88,3.1,2.25,,,,2.91,2.99,2.38,2.35,1.57,2.24,1.58,0.25,1.75,2.05,Morton,Dunfermline,morton,dunfermline
+2026-03-07,SC1,Scotland-Champ,2526,Morton,St Johnstone,0.0,2.0,A,0.0,0.0,D,5.0,3.9,1.5,,,,5.3,3.78,1.54,1.9,1.9,1.87,1.83,1.0,1.78,2.03,Morton,St Johnstone,morton,st_johnstone
+2026-03-13,SC1,Scotland-Champ,2526,Morton,Partick,1.0,2.0,A,1.0,1.0,D,4.0,3.25,1.8,,,,4.01,3.35,1.8,2.05,1.75,1.94,1.77,0.5,2.0,1.8,Morton,Partick,morton,partick
+2026-03-28,SC1,Scotland-Champ,2526,Morton,Arbroath,2.0,1.0,H,2.0,1.0,H,3.0,3.1,2.15,,,,2.97,3.12,2.24,2.15,1.67,2.1,1.66,0.25,1.83,1.98,Morton,Arbroath,morton,arbroath
+2026-04-18,SC1,Scotland-Champ,2526,Morton,Queens Park,0.0,0.0,D,0.0,0.0,D,2.05,3.0,3.4,,,,2.05,3.31,3.23,1.85,1.95,1.86,1.86,-0.25,1.8,2.0,Morton,Queens Park,morton,queens_park
+2026-05-01,SC1,Scotland-Champ,2526,Morton,Airdrie Utd,1.0,1.0,D,0.0,0.0,D,2.2,3.2,2.88,,,,2.25,3.28,2.83,1.85,1.95,1.81,1.9,-0.25,1.95,1.85,Morton,Airdrie Utd,morton,airdrie_utd
+2026-08-01,SC1,Scotland-Champ,2627,Morton,Partick,0.0,1.0,A,0.0,0.0,D,4.75,3.75,1.55,,,,4.98,3.85,1.55,1.75,2.05,1.71,2.01,1.0,1.8,2.0,Morton,Partick,morton,partick
+2026-08-22,SC1,Scotland-Champ,2627,Morton,Arbroath,1.0,2.0,A,0.0,1.0,A,3.2,3.1,2.1,,,,3.3,3.21,2.05,2.1,1.7,2.05,1.69,0.5,1.7,2.1,Morton,Arbroath,morton,arbroath
+2026-09-11,SC1,Scotland-Champ,2627,Morton,Livingston,1.0,4.0,A,0.0,2.0,A,4.75,3.9,1.53,,,,4.95,4.06,1.53,1.67,2.15,1.65,2.12,1.0,1.88,1.93,Morton,Livingston,morton,livingston
+2026-09-19,SC1,Scotland-Champ,2627,Morton,Dunfermline,0.0,1.0,A,0.0,0.0,D,4.0,3.6,1.7,,,,4.24,3.71,1.69,1.75,2.05,1.72,2.01,0.75,1.85,1.95,Morton,Dunfermline,morton,dunfermline
+2026-10-03,SC1,Scotland-Champ,2627,Morton,Raith Rvs,1.0,2.0,A,0.0,1.0,A,5.0,3.7,1.55,,,,5.24,3.71,1.56,2.0,1.8,1.95,1.76,0.75,2.05,1.75,Morton,Raith Rvs,morton,raith_rvs
+2026-10-17,SC1,Scotland-Champ,2627,Morton,Queens Park,2.0,0.0,H,2.0,0.0,H,2.5,3.2,2.5,,,,2.56,3.16,2.54,2.08,1.73,2.02,1.71,0.0,1.9,1.9,Morton,Queens Park,morton,queens_park

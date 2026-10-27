@@ -1,0 +1,17 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-09-19,G1,Greece-SL,2122,Apollon,Volos NFC,1.0,3.0,A,0.0,1.0,A,2.3,2.87,3.2,2.19,3.33,3.34,2.22,3.18,3.25,2.35,1.57,2.35,1.57,-0.25,,,Apollon,Volos NFC,apollon,volos_nfc
+2021-09-27,G1,Greece-SL,2122,Apollon,Ionikos,0.0,0.0,D,0.0,0.0,D,2.45,3.2,3.0,2.41,3.1,3.16,2.38,3.06,3.07,2.4,1.53,2.47,1.52,-0.25,,,Apollon,Ionikos,apollon,ionikos
+2021-10-16,G1,Greece-SL,2122,Apollon,Asteras Tripolis,0.0,1.0,A,0.0,0.0,D,3.0,3.1,2.5,2.9,3.17,2.53,2.86,3.07,2.51,2.5,1.5,2.47,1.51,0.0,2.15,1.68,Apollon,Asteras Tripolis,apollon,asteras_tripolis
+2021-10-23,G1,Greece-SL,2122,Apollon,Giannina,1.0,0.0,H,0.0,0.0,D,3.0,2.9,2.7,2.96,2.9,2.69,2.89,2.87,2.63,2.7,1.44,2.64,1.45,0.0,,,Apollon,PAS Giannina,apollon,pas_giannina
+2021-11-06,G1,Greece-SL,2122,Apollon,AEK,2.0,2.0,D,1.0,1.0,D,8.0,4.2,1.44,8.87,4.13,1.41,7.42,4.2,1.43,1.95,1.85,1.93,1.84,1.0,2.05,1.75,Apollon,AEK Athens,apollon,aek_athens
+2021-11-27,G1,Greece-SL,2122,Apollon,Lamia,0.0,0.0,D,0.0,0.0,D,2.55,3.1,2.9,2.66,2.99,2.9,2.56,3.01,2.85,2.4,1.53,2.35,1.57,0.0,,,Apollon,Lamia,apollon,lamia
+2022-01-05,G1,Greece-SL,2122,Apollon,Olympiakos,0.0,0.0,D,0.0,0.0,D,11.0,5.0,1.33,11.76,5.18,1.27,10.73,5.04,1.28,1.8,2.0,1.81,1.96,1.5,,,Apollon,Olympiacos,apollon,olympiacos
+2022-01-12,G1,Greece-SL,2122,Apollon,OFI Crete,0.0,3.0,A,0.0,2.0,A,2.5,3.2,2.8,2.78,3.17,2.64,2.64,3.11,2.68,2.25,1.61,2.36,1.56,0.0,,,Apollon,OFI Crete,apollon,ofi_crete
+2022-01-15,G1,Greece-SL,2122,Apollon,Aris,0.0,0.0,D,0.0,0.0,D,4.2,3.5,1.85,4.5,3.29,1.88,4.29,3.26,1.88,2.5,1.5,2.49,1.51,0.5,,,Apollon,Aris Thessaloniki,apollon,aris_thessaloniki
+2022-02-02,G1,Greece-SL,2122,Apollon,PAOK,0.0,2.0,A,0.0,1.0,A,7.5,4.0,1.5,7.78,4.29,1.43,7.26,4.06,1.45,2.15,1.66,2.09,1.71,1.0,1.8,2.0,Apollon,PAOK,apollon,paok
+2022-02-12,G1,Greece-SL,2122,Apollon,Panetolikos,0.0,0.0,D,0.0,0.0,D,2.8,3.1,2.7,2.98,3.01,2.58,2.8,3.0,2.63,2.5,1.5,2.54,1.49,0.0,,,Apollon,Panetolikos,apollon,panetolikos
+2022-02-16,G1,Greece-SL,2122,Apollon,Panathinaikos,0.0,3.0,A,0.0,2.0,A,6.0,4.0,1.53,6.37,3.67,1.58,6.04,3.75,1.56,2.07,1.72,2.19,1.65,1.0,1.63,2.25,Apollon,Panathinaikos,apollon,panathinaikos
+2022-02-28,G1,Greece-SL,2122,Apollon,Atromitos,0.0,2.0,A,0.0,0.0,D,2.6,3.0,3.1,2.59,3.16,2.85,2.53,3.03,2.91,2.6,1.47,2.49,1.51,0.0,1.68,2.15,Apollon,Atromitos,apollon,atromitos
+2022-04-02,G1,Greece-SL,2122,Apollon,Panetolikos,1.0,0.0,H,1.0,0.0,H,2.87,3.1,2.6,2.8,3.04,2.72,2.83,3.01,2.59,2.5,1.5,2.45,1.51,0.0,2.08,1.73,Apollon,Panetolikos,apollon,panetolikos
+2022-04-16,G1,Greece-SL,2122,Apollon,Volos NFC,1.0,1.0,D,0.0,0.0,D,2.1,3.25,3.6,2.15,3.08,3.76,2.1,3.16,3.6,2.35,1.57,2.29,1.58,-0.25,1.68,2.15,Apollon,Volos NFC,apollon,volos_nfc
+2022-05-07,G1,Greece-SL,2122,Apollon,Lamia,0.0,0.0,D,0.0,0.0,D,2.75,2.8,3.0,2.63,2.93,3.0,2.69,2.86,2.88,2.7,1.44,2.63,1.45,0.0,,,Apollon,Lamia,apollon,lamia

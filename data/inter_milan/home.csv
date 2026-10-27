@@ -1,0 +1,100 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-21,I1,Italy-SA,2122,Inter,Genoa,4.0,0.0,H,2.0,0.0,H,1.33,5.25,9.0,1.36,5.37,9.65,1.35,5.16,8.94,1.66,2.2,1.63,2.28,-1.25,1.75,2.05,Inter Milan,Genoa,inter_milan,genoa
+2021-09-18,I1,Italy-SA,2122,Inter,Bologna,6.0,1.0,H,3.0,0.0,H,1.36,5.0,8.5,1.4,5.3,8.33,1.39,5.05,8.04,1.53,2.5,1.55,2.46,-1.5,2.07,1.86,Inter Milan,Bologna,inter_milan,bologna
+2021-09-25,I1,Italy-SA,2122,Inter,Atalanta,2.0,2.0,D,1.0,2.0,A,1.9,3.75,3.8,2.02,3.77,3.8,1.99,3.69,3.71,1.72,2.1,1.72,2.15,-0.5,2.0,1.93,Inter Milan,Atalanta,inter_milan,atalanta
+2021-10-24,I1,Italy-SA,2122,Inter,Juventus,1.0,1.0,D,1.0,0.0,H,2.05,3.6,3.4,2.17,3.76,3.39,2.12,3.6,3.37,1.72,2.1,1.76,2.08,-0.25,1.85,2.08,Inter Milan,Juventus,inter_milan,juventus
+2021-10-31,I1,Italy-SA,2122,Inter,Udinese,2.0,0.0,H,0.0,0.0,D,1.36,5.0,8.5,1.35,5.29,10.46,1.34,5.06,9.38,1.57,2.37,1.6,2.34,-1.5,2.04,1.89,Inter Milan,Udinese,inter_milan,udinese
+2021-11-21,I1,Italy-SA,2122,Inter,Napoli,3.0,2.0,H,2.0,1.0,H,2.2,3.5,3.25,2.3,3.49,3.32,2.25,3.45,3.22,1.72,2.1,1.76,2.06,-0.25,1.96,1.94,Inter Milan,Napoli,inter_milan,napoli
+2021-12-01,I1,Italy-SA,2122,Inter,Spezia,2.0,0.0,H,1.0,0.0,H,1.18,7.5,13.0,1.19,7.76,15.66,1.19,7.34,14.11,1.36,3.2,1.37,3.05,-2.0,1.89,2.04,Inter Milan,Spezia,inter_milan,spezia
+2021-12-12,I1,Italy-SA,2122,Inter,Cagliari,4.0,0.0,H,1.0,0.0,H,1.16,8.0,15.0,1.18,7.82,18.32,1.18,7.45,15.53,1.36,3.2,1.35,3.2,-2.0,1.89,2.04,Inter Milan,Cagliari,inter_milan,cagliari
+2021-12-22,I1,Italy-SA,2122,Inter,Torino,1.0,0.0,H,1.0,0.0,H,1.3,5.5,10.0,1.34,5.64,9.71,1.33,5.41,9.5,1.57,2.37,1.62,2.34,-1.5,1.95,1.95,Inter Milan,Torino,inter_milan,torino
+2022-01-09,I1,Italy-SA,2122,Inter,Lazio,2.0,1.0,H,1.0,1.0,D,1.4,5.0,7.0,1.44,4.78,7.46,1.43,4.83,7.1,1.53,2.5,1.53,2.49,-1.25,1.94,1.96,Inter Milan,Lazio,inter_milan,lazio
+2022-01-22,I1,Italy-SA,2122,Inter,Venezia,2.0,1.0,H,1.0,1.0,D,1.1,9.5,21.0,1.11,10.15,27.06,1.1,10.06,25.09,1.36,3.2,1.35,3.19,-2.5,1.95,1.95,Inter Milan,Venezia,inter_milan,venezia
+2022-02-05,I1,Italy-SA,2122,Inter,Milan,1.0,2.0,A,1.0,0.0,H,1.8,3.75,4.5,1.81,3.78,4.55,1.82,3.79,4.36,1.66,2.2,1.69,2.18,-0.75,2.04,1.86,Inter Milan,AC Milan,inter_milan,ac_milan
+2022-02-20,I1,Italy-SA,2122,Inter,Sassuolo,0.0,2.0,A,0.0,2.0,A,1.28,6.0,9.0,1.32,5.79,9.95,1.3,5.84,9.43,1.36,3.2,1.37,3.08,-1.75,2.01,1.89,Inter Milan,Sassuolo,inter_milan,sassuolo
+2022-03-04,I1,Italy-SA,2122,Inter,Salernitana,5.0,0.0,H,2.0,0.0,H,1.14,7.5,19.0,1.18,8.03,18.07,1.16,7.94,18.06,1.44,2.75,1.43,2.82,-2.25,2.07,1.83,Inter Milan,Salernitana,inter_milan,salernitana
+2022-03-19,I1,Italy-SA,2122,Inter,Fiorentina,1.0,1.0,D,0.0,0.0,D,1.5,4.5,6.5,1.53,4.7,6.36,1.5,4.59,6.3,1.61,2.3,1.61,2.31,-1.0,1.77,2.02,Inter Milan,Fiorentina,inter_milan,fiorentina
+2022-04-09,I1,Italy-SA,2122,Inter,Verona,2.0,0.0,H,2.0,0.0,H,1.36,5.25,8.0,1.36,5.42,9.19,1.36,5.19,8.52,1.57,2.37,1.57,2.41,-1.5,2.04,1.86,Inter Milan,Hellas Verona,inter_milan,hellas_verona
+2022-04-23,I1,Italy-SA,2122,Inter,Roma,3.0,1.0,H,2.0,0.0,H,1.61,4.0,5.5,1.65,4.09,5.79,1.63,4.04,5.43,1.72,2.1,1.74,2.11,-1.0,2.02,1.77,Inter Milan,AS Roma,inter_milan,as_roma
+2022-05-06,I1,Italy-SA,2122,Inter,Empoli,4.0,2.0,H,2.0,2.0,D,1.14,9.0,15.0,1.15,9.28,18.61,1.14,9.17,17.69,1.28,3.75,1.27,3.75,-2.5,2.05,1.75,Inter Milan,Empoli,inter_milan,empoli
+2022-05-22,I1,Italy-SA,2122,Inter,Sampdoria,3.0,0.0,H,0.0,0.0,D,1.14,8.0,19.0,1.13,9.32,23.58,1.13,9.1,20.49,1.28,3.75,1.27,3.73,-2.5,2.0,1.9,Inter Milan,Sampdoria,inter_milan,sampdoria
+2022-08-20,I1,Italy-SA,2223,Inter,Spezia,3.0,0.0,H,1.0,0.0,H,1.16,8.0,15.0,1.18,8.03,17.56,1.17,7.9,15.8,1.3,3.5,1.33,3.34,-2.25,2.01,1.89,Inter Milan,Spezia,inter_milan,spezia
+2022-08-30,I1,Italy-SA,2223,Inter,Cremonese,3.0,1.0,H,2.0,0.0,H,1.14,8.0,21.0,1.16,9.52,16.85,1.14,9.13,18.79,1.3,3.5,1.29,3.56,-2.5,2.02,1.88,Inter Milan,Cremonese,inter_milan,cremonese
+2022-09-10,I1,Italy-SA,2223,Inter,Torino,1.0,0.0,H,0.0,0.0,D,1.45,4.75,7.0,1.47,4.9,7.14,1.45,4.77,7.01,1.66,2.2,1.67,2.23,-1.25,1.99,1.91,Inter Milan,Torino,inter_milan,torino
+2022-10-01,I1,Italy-SA,2223,Inter,Roma,1.0,2.0,A,1.0,1.0,D,2.0,3.5,3.75,2.1,3.54,3.78,2.08,3.5,3.61,1.8,2.0,1.81,2.02,-0.5,2.07,1.83,Inter Milan,AS Roma,inter_milan,as_roma
+2022-10-16,I1,Italy-SA,2223,Inter,Salernitana,2.0,0.0,H,1.0,0.0,H,1.3,5.75,9.0,1.29,5.99,10.99,1.29,5.85,10.02,1.5,2.62,1.47,2.68,-1.5,1.77,2.02,Inter Milan,Salernitana,inter_milan,salernitana
+2022-10-29,I1,Italy-SA,2223,Inter,Sampdoria,3.0,0.0,H,2.0,0.0,H,1.25,6.0,12.0,1.25,6.37,13.54,1.25,6.15,12.03,1.53,2.5,1.53,2.48,-1.75,1.94,1.96,Inter Milan,Sampdoria,inter_milan,sampdoria
+2022-11-09,I1,Italy-SA,2223,Inter,Bologna,6.0,1.0,H,3.0,1.0,H,1.28,5.75,10.0,1.32,5.77,10.64,1.31,5.59,9.7,1.53,2.5,1.55,2.45,-1.5,1.94,1.96,Inter Milan,Bologna,inter_milan,bologna
+2023-01-04,I1,Italy-SA,2223,Inter,Napoli,1.0,0.0,H,0.0,0.0,D,2.25,3.4,3.1,2.36,3.46,3.23,2.3,3.44,3.12,1.73,2.1,1.69,2.19,-0.25,2.0,1.9,Inter Milan,Napoli,inter_milan,napoli
+2023-01-14,I1,Italy-SA,2223,Inter,Verona,1.0,0.0,H,1.0,0.0,H,1.3,5.5,9.5,1.31,6.24,9.9,1.29,5.93,9.79,1.53,2.5,1.51,2.57,-1.75,2.02,1.77,Inter Milan,Hellas Verona,inter_milan,hellas_verona
+2023-01-23,I1,Italy-SA,2223,Inter,Empoli,0.0,1.0,A,0.0,0.0,D,1.29,6.0,9.5,1.3,6.08,10.1,1.28,5.91,10.24,1.57,2.38,1.57,2.38,-1.5,1.77,2.02,Inter Milan,Empoli,inter_milan,empoli
+2023-02-05,I1,Italy-SA,2223,Inter,Milan,1.0,0.0,H,1.0,0.0,H,1.95,3.5,4.0,2.01,3.61,4.02,1.99,3.54,3.87,1.85,2.05,1.83,2.01,-0.5,2.01,1.92,Inter Milan,AC Milan,inter_milan,ac_milan
+2023-02-18,I1,Italy-SA,2223,Inter,Udinese,3.0,1.0,H,1.0,1.0,D,1.53,4.2,6.0,1.54,4.49,6.46,1.52,4.38,6.3,1.73,2.1,1.76,2.1,-1.0,1.89,2.01,Inter Milan,Udinese,inter_milan,udinese
+2023-03-05,I1,Italy-SA,2223,Inter,Lecce,2.0,0.0,H,1.0,0.0,H,1.36,4.75,9.5,1.38,4.97,9.55,1.36,4.89,9.29,1.94,1.96,1.88,1.94,-1.25,1.84,2.06,Inter Milan,Lecce,inter_milan,lecce
+2023-03-19,I1,Italy-SA,2223,Inter,Juventus,0.0,1.0,A,0.0,1.0,A,1.91,3.4,4.0,2.0,3.52,4.07,1.98,3.45,4.01,2.1,1.73,2.11,1.75,-0.5,1.98,1.92,Inter Milan,Juventus,inter_milan,juventus
+2023-04-01,I1,Italy-SA,2223,Inter,Fiorentina,0.0,1.0,A,0.0,0.0,D,1.75,3.8,4.5,1.79,3.85,4.72,1.77,3.79,4.62,1.8,2.0,1.78,2.04,-0.75,2.02,1.88,Inter Milan,Fiorentina,inter_milan,fiorentina
+2023-04-15,I1,Italy-SA,2223,Inter,Monza,0.0,1.0,A,0.0,0.0,D,1.44,4.5,7.5,1.45,4.67,7.7,1.44,4.52,7.69,1.8,2.0,1.8,2.04,-1.25,2.04,1.86,Inter Milan,Monza,inter_milan,monza
+2023-04-30,I1,Italy-SA,2223,Inter,Lazio,3.0,1.0,H,0.0,1.0,A,1.8,3.6,4.5,1.83,3.62,4.8,1.82,3.59,4.62,2.0,1.8,2.06,1.78,-0.75,2.06,1.84,Inter Milan,Lazio,inter_milan,lazio
+2023-05-13,I1,Italy-SA,2223,Inter,Sassuolo,4.0,2.0,H,1.0,0.0,H,1.4,5.0,7.0,1.41,5.36,7.23,1.41,5.07,7.25,1.53,2.5,1.54,2.47,-1.25,1.89,2.01,Inter Milan,Sassuolo,inter_milan,sassuolo
+2023-05-27,I1,Italy-SA,2223,Inter,Atalanta,3.0,2.0,H,2.0,1.0,H,1.83,3.8,4.0,1.86,3.91,4.24,1.85,3.81,4.08,1.73,2.1,1.72,2.14,-0.75,2.02,1.77,Inter Milan,Atalanta,inter_milan,atalanta
+2023-08-19,I1,Italy-SA,2324,Inter,Monza,2.0,0.0,H,1.0,0.0,H,1.4,5.0,7.0,1.39,5.1,8.76,1.38,5.08,7.92,1.57,2.38,1.58,2.41,-1.25,1.83,2.07,Inter Milan,Monza,inter_milan,monza
+2023-09-03,I1,Italy-SA,2324,Inter,Fiorentina,4.0,0.0,H,1.0,0.0,H,1.65,3.8,5.25,1.66,4.16,5.29,1.65,4.04,5.11,1.8,2.0,1.78,2.06,-0.75,1.85,2.08,Inter Milan,Fiorentina,inter_milan,fiorentina
+2023-09-16,I1,Italy-SA,2324,Inter,Milan,5.0,1.0,H,2.0,0.0,H,2.15,3.5,3.4,2.15,3.57,3.53,2.15,3.52,3.41,1.9,2.0,1.89,1.94,-0.25,1.85,2.05,Inter Milan,AC Milan,inter_milan,ac_milan
+2023-09-27,I1,Italy-SA,2324,Inter,Sassuolo,1.0,2.0,A,1.0,0.0,H,1.33,5.5,8.0,1.32,5.99,9.3,1.33,5.72,8.57,1.4,3.0,1.4,2.95,-1.5,1.9,2.0,Inter Milan,Sassuolo,inter_milan,sassuolo
+2023-10-07,I1,Italy-SA,2324,Inter,Bologna,2.0,2.0,D,2.0,1.0,H,1.36,5.5,7.5,1.4,5.17,8.08,1.39,5.1,7.98,1.6,2.3,1.61,2.34,-1.25,1.86,2.04,Inter Milan,Bologna,inter_milan,bologna
+2023-10-29,I1,Italy-SA,2324,Inter,Roma,1.0,0.0,H,0.0,0.0,D,1.62,4.0,5.5,1.65,4.0,5.78,1.64,3.94,5.56,2.03,1.87,1.98,1.86,-0.75,1.82,2.11,Inter Milan,AS Roma,inter_milan,as_roma
+2023-11-12,I1,Italy-SA,2324,Inter,Frosinone,2.0,0.0,H,1.0,0.0,H,1.18,8.0,13.0,1.19,7.86,13.84,1.19,7.53,14.11,1.36,3.1,1.37,3.08,-2.0,1.88,2.02,Inter Milan,Frosinone,inter_milan,frosinone
+2023-12-09,I1,Italy-SA,2324,Inter,Udinese,4.0,0.0,H,3.0,0.0,H,1.29,6.5,9.0,1.27,6.14,10.46,1.27,6.04,10.9,1.57,2.35,1.59,2.37,-1.75,2.03,1.78,Inter Milan,Udinese,inter_milan,udinese
+2023-12-23,I1,Italy-SA,2324,Inter,Lecce,2.0,0.0,H,1.0,0.0,H,1.22,7.0,11.0,1.23,6.54,12.85,1.23,6.48,13.23,1.65,2.2,1.66,2.25,-1.75,1.95,1.95,Inter Milan,Lecce,inter_milan,lecce
+2024-01-06,I1,Italy-SA,2324,Inter,Verona,2.0,1.0,H,1.0,0.0,H,1.17,8.0,13.0,1.17,7.94,16.21,1.17,7.55,16.59,1.5,2.5,1.52,2.53,-2.0,1.92,1.98,Inter Milan,Hellas Verona,inter_milan,hellas_verona
+2024-02-04,I1,Italy-SA,2324,Inter,Juventus,1.0,0.0,H,1.0,0.0,H,1.8,3.5,4.75,1.83,3.59,4.77,1.81,3.51,4.77,2.2,1.65,2.26,1.65,-0.5,1.78,2.03,Inter Milan,Juventus,inter_milan,juventus
+2024-02-16,I1,Italy-SA,2324,Inter,Salernitana,4.0,0.0,H,3.0,0.0,H,1.14,8.5,15.0,1.15,9.0,17.0,1.14,8.75,18.92,1.44,2.7,1.46,2.72,-2.25,1.99,1.91,Inter Milan,Salernitana,inter_milan,salernitana
+2024-02-28,I1,Italy-SA,2324,Inter,Atalanta,4.0,0.0,H,2.0,0.0,H,1.62,4.0,5.5,1.63,4.14,5.47,1.63,4.09,5.35,1.75,2.05,1.78,2.07,-0.75,1.81,2.09,Inter Milan,Atalanta,inter_milan,atalanta
+2024-03-04,I1,Italy-SA,2324,Inter,Genoa,2.0,1.0,H,2.0,0.0,H,1.3,5.75,9.5,1.27,5.96,11.92,1.27,5.67,11.85,1.75,2.05,1.76,2.07,-1.75,2.05,1.75,Inter Milan,Genoa,inter_milan,genoa
+2024-03-17,I1,Italy-SA,2324,Inter,Napoli,1.0,1.0,D,1.0,0.0,H,1.57,4.0,6.0,1.57,4.33,5.89,1.58,4.18,5.62,1.73,2.08,1.73,2.12,-1.0,2.03,1.9,Inter Milan,Napoli,inter_milan,napoli
+2024-04-01,I1,Italy-SA,2324,Inter,Empoli,2.0,0.0,H,1.0,0.0,H,1.22,7.0,12.0,1.2,7.59,13.3,1.2,7.04,13.25,1.5,2.5,1.51,2.55,-1.75,1.78,2.03,Inter Milan,Empoli,inter_milan,empoli
+2024-04-14,I1,Italy-SA,2324,Inter,Cagliari,2.0,2.0,D,1.0,0.0,H,1.18,8.0,12.0,1.18,8.14,14.02,1.18,7.64,14.43,1.44,2.75,1.42,2.83,-2.0,1.91,1.99,Inter Milan,Cagliari,inter_milan,cagliari
+2024-04-28,I1,Italy-SA,2324,Inter,Torino,2.0,0.0,H,0.0,0.0,D,1.53,3.8,7.0,1.54,4.12,6.94,1.53,4.07,6.8,2.0,1.8,2.03,1.81,-1.0,1.98,1.95,Inter Milan,Torino,inter_milan,torino
+2024-05-19,I1,Italy-SA,2324,Inter,Lazio,1.0,1.0,D,0.0,1.0,A,1.62,4.0,5.0,1.68,4.28,4.85,1.66,4.16,4.93,1.73,2.1,1.73,2.13,-0.75,1.85,2.05,Inter Milan,Lazio,inter_milan,lazio
+2024-08-24,I1,Italy-SA,2425,Inter,Lecce,2.0,0.0,H,1.0,0.0,H,1.2,7.0,13.0,1.2,7.01,15.07,1.2,6.95,14.52,1.57,2.38,1.58,2.39,-1.75,1.78,2.03,Inter Milan,Lecce,inter_milan,lecce
+2024-08-30,I1,Italy-SA,2425,Inter,Atalanta,4.0,0.0,H,2.0,0.0,H,1.57,4.33,5.5,1.58,4.43,5.79,1.58,4.35,5.54,1.62,2.3,1.62,2.34,-1.0,1.95,1.98,Inter Milan,Atalanta,inter_milan,atalanta
+2024-09-22,I1,Italy-SA,2425,Inter,Milan,1.0,2.0,A,1.0,1.0,D,1.65,4.0,5.25,1.66,4.11,5.25,1.66,4.08,5.02,1.67,2.2,1.65,2.26,-0.75,1.85,2.08,Inter Milan,AC Milan,inter_milan,ac_milan
+2024-10-05,I1,Italy-SA,2425,Inter,Torino,3.0,2.0,H,2.0,1.0,H,1.3,5.0,11.0,1.32,5.52,9.87,1.32,5.42,9.86,1.67,2.2,1.69,2.21,-1.5,1.95,1.95,Inter Milan,Torino,inter_milan,torino
+2024-10-27,I1,Italy-SA,2425,Inter,Juventus,4.0,4.0,D,3.0,2.0,H,1.72,3.5,5.0,1.76,3.58,5.3,1.77,3.51,5.04,2.2,1.67,2.2,1.69,-0.75,2.03,1.87,Inter Milan,Juventus,inter_milan,juventus
+2024-11-03,I1,Italy-SA,2425,Inter,Venezia,1.0,0.0,H,0.0,0.0,D,1.17,7.0,15.0,1.15,8.29,14.32,1.16,8.01,15.57,1.44,2.75,1.4,2.89,-2.0,1.84,2.06,Inter Milan,Venezia,inter_milan,venezia
+2024-11-10,I1,Italy-SA,2425,Inter,Napoli,1.0,1.0,D,1.0,1.0,D,1.85,3.7,4.1,1.88,3.72,4.25,1.88,3.66,4.11,1.9,2.0,1.87,1.96,-0.5,1.83,1.95,Inter Milan,Napoli,inter_milan,napoli
+2024-12-06,I1,Italy-SA,2425,Inter,Parma,3.0,1.0,H,1.0,0.0,H,1.18,7.0,15.0,1.18,8.4,14.27,1.18,7.93,13.75,1.33,3.4,1.33,3.33,-2.0,1.85,2.08,Inter Milan,Parma,inter_milan,parma
+2024-12-23,I1,Italy-SA,2425,Inter,Como,2.0,0.0,H,0.0,0.0,D,1.2,6.5,15.0,1.23,6.63,12.79,1.23,6.4,12.33,1.53,2.5,1.52,2.48,-1.75,1.9,2.0,Inter Milan,Como,inter_milan,como
+2025-01-15,I1,Italy-SA,2425,Inter,Bologna,2.0,2.0,D,2.0,1.0,H,1.48,4.2,7.0,1.49,4.5,6.91,1.47,4.45,6.85,1.73,2.1,1.77,2.06,-1.25,2.09,1.81,Inter Milan,Bologna,inter_milan,bologna
+2025-01-19,I1,Italy-SA,2425,Inter,Empoli,3.0,1.0,H,0.0,0.0,D,1.25,5.75,13.0,1.22,6.93,12.09,1.22,6.46,12.56,1.57,2.38,1.57,2.39,-1.75,1.92,1.98,Inter Milan,Empoli,inter_milan,empoli
+2025-02-10,I1,Italy-SA,2425,Inter,Fiorentina,2.0,1.0,H,1.0,1.0,D,1.48,4.75,6.5,1.5,4.6,6.54,1.47,4.57,6.59,1.67,2.2,1.69,2.18,-1.25,2.07,1.83,Inter Milan,Fiorentina,inter_milan,fiorentina
+2025-02-22,I1,Italy-SA,2425,Inter,Genoa,1.0,0.0,H,0.0,0.0,D,1.27,5.25,13.0,1.26,6.13,11.46,1.26,5.9,11.5,1.67,2.2,1.67,2.23,-1.5,1.84,2.06,Inter Milan,Genoa,inter_milan,genoa
+2025-03-08,I1,Italy-SA,2425,Inter,Monza,3.0,2.0,H,1.0,2.0,A,1.14,7.0,21.0,1.13,9.61,18.68,1.13,8.77,19.43,1.5,2.63,1.5,2.57,-2.25,2.05,1.85,Inter Milan,Monza,inter_milan,monza
+2025-03-30,I1,Italy-SA,2425,Inter,Udinese,2.0,1.0,H,2.0,0.0,H,1.4,4.33,8.5,1.4,4.86,8.55,1.38,4.76,8.37,1.8,2.0,1.8,2.02,-1.25,1.91,1.99,Inter Milan,Udinese,inter_milan,udinese
+2025-04-12,I1,Italy-SA,2425,Inter,Cagliari,3.0,1.0,H,2.0,0.0,H,1.33,5.25,8.0,1.35,5.42,8.93,1.33,5.28,9.06,1.73,2.1,1.72,2.13,-1.5,2.04,1.86,Inter Milan,Cagliari,inter_milan,cagliari
+2025-04-27,I1,Italy-SA,2425,Inter,Roma,0.0,1.0,A,0.0,1.0,A,1.73,3.8,4.75,1.78,3.78,4.76,1.76,3.73,4.65,2.02,1.88,1.97,1.85,-0.75,2.01,1.89,Inter Milan,AS Roma,inter_milan,as_roma
+2025-05-03,I1,Italy-SA,2425,Inter,Verona,1.0,0.0,H,1.0,0.0,H,1.3,5.25,10.0,1.37,5.09,8.88,1.33,5.03,9.61,1.85,2.05,1.84,1.98,-1.5,2.03,1.87,Inter Milan,Hellas Verona,inter_milan,hellas_verona
+2025-05-18,I1,Italy-SA,2425,Inter,Lazio,2.0,2.0,D,1.0,0.0,H,1.62,4.2,5.0,1.65,4.17,5.17,1.63,4.13,5.06,1.73,2.1,1.76,2.07,-0.75,1.81,2.09,Inter Milan,Lazio,inter_milan,lazio
+2025-08-25,I1,Italy-SA,2526,Inter,Torino,5.0,0.0,H,2.0,0.0,H,1.42,4.75,7.5,1.44,4.83,7.32,1.41,4.67,7.28,1.73,2.1,1.68,2.12,-1.25,1.93,1.93,Inter Milan,Torino,inter_milan,torino
+2025-08-31,I1,Italy-SA,2526,Inter,Udinese,1.0,2.0,A,1.0,2.0,A,1.3,5.25,9.5,1.32,5.63,9.47,1.31,5.31,9.22,1.62,2.3,1.61,2.24,-1.5,1.93,1.93,Inter Milan,Udinese,inter_milan,udinese
+2025-09-21,I1,Italy-SA,2526,Inter,Sassuolo,2.0,1.0,H,1.0,0.0,H,1.29,5.5,12.0,1.3,5.67,10.37,1.27,5.65,10.36,1.57,2.38,1.54,2.36,-1.75,2.03,1.83,Inter Milan,Sassuolo,inter_milan,sassuolo
+2025-10-04,I1,Italy-SA,2526,Inter,Cremonese,4.0,1.0,H,2.0,0.0,H,1.2,6.5,15.0,1.21,7.35,12.7,1.18,6.95,14.36,1.5,2.63,1.47,2.58,-2.0,1.98,1.88,Inter Milan,Cremonese,inter_milan,cremonese
+2025-10-29,I1,Italy-SA,2526,Inter,Fiorentina,3.0,0.0,H,0.0,0.0,D,1.38,4.5,8.5,1.41,5.02,7.67,1.38,4.77,8.1,1.73,2.1,1.69,2.1,-1.25,1.88,1.98,Inter Milan,Fiorentina,inter_milan,fiorentina
+2025-11-09,I1,Italy-SA,2526,Inter,Lazio,2.0,0.0,H,1.0,0.0,H,1.36,5.0,8.0,1.36,5.69,7.78,1.35,5.02,8.09,1.67,2.2,1.65,2.16,-1.5,2.03,1.78,Inter Milan,Lazio,inter_milan,lazio
+2025-11-23,I1,Italy-SA,2526,Inter,Milan,0.0,1.0,A,0.0,0.0,D,1.9,3.5,4.0,1.99,3.48,4.09,1.91,3.44,3.95,1.88,1.98,1.85,1.9,-0.5,1.95,1.9,Inter Milan,AC Milan,inter_milan,ac_milan
+2025-12-06,I1,Italy-SA,2526,Inter,Como,4.0,0.0,H,1.0,0.0,H,1.53,4.33,6.0,1.53,4.43,6.34,1.52,4.21,6.04,1.8,2.0,1.76,2.0,-1.0,1.88,1.98,Inter Milan,Como,inter_milan,como
+2026-01-04,I1,Italy-SA,2526,Inter,Bologna,3.0,1.0,H,1.0,0.0,H,1.42,4.75,7.5,1.39,5.18,8.05,1.38,4.75,7.63,1.73,2.1,1.69,2.09,-1.25,1.95,1.9,Inter Milan,Bologna,inter_milan,bologna
+2026-01-11,I1,Italy-SA,2526,Inter,Napoli,2.0,2.0,D,1.0,1.0,D,1.7,3.5,5.25,1.75,3.64,5.22,1.73,3.54,4.91,2.1,1.73,2.04,1.73,-0.75,1.95,1.9,Inter Milan,Napoli,inter_milan,napoli
+2026-01-14,I1,Italy-SA,2526,Inter,Lecce,1.0,0.0,H,0.0,0.0,D,1.13,9.0,19.0,1.14,9.03,20.01,1.13,8.06,20.69,1.5,2.63,1.49,2.52,-2.25,1.95,1.9,Inter Milan,Lecce,inter_milan,lecce
+2026-01-23,I1,Italy-SA,2526,Inter,Pisa,6.0,2.0,H,3.0,2.0,H,1.18,7.5,15.0,,,,1.17,7.18,15.69,1.5,2.63,1.49,2.51,-2.0,1.93,1.93,Inter Milan,Pisa,inter_milan,pisa
+2026-02-14,I1,Italy-SA,2526,Inter,Juventus,3.0,2.0,H,1.0,1.0,D,1.95,3.4,4.1,,,,1.94,3.41,3.92,1.98,1.88,1.93,1.83,-0.5,1.93,1.93,Inter Milan,Juventus,inter_milan,juventus
+2026-02-28,I1,Italy-SA,2526,Inter,Genoa,2.0,0.0,H,1.0,0.0,H,1.33,5.5,9.0,,,,1.3,5.13,9.77,1.73,2.1,1.7,2.09,-1.5,1.98,1.88,Inter Milan,Genoa,inter_milan,genoa
+2026-03-14,I1,Italy-SA,2526,Inter,Atalanta,1.0,1.0,D,1.0,0.0,H,1.55,4.33,5.75,,,,1.53,4.23,5.79,1.73,2.1,1.7,2.09,-1.0,1.93,1.93,Inter Milan,Atalanta,inter_milan,atalanta
+2026-04-05,I1,Italy-SA,2526,Inter,Roma,5.0,2.0,H,2.0,1.0,H,1.67,4.0,5.25,,,,1.63,3.84,5.22,1.91,1.91,1.9,1.84,-0.75,1.85,2.0,Inter Milan,AS Roma,inter_milan,as_roma
+2026-04-17,I1,Italy-SA,2526,Inter,Cagliari,3.0,0.0,H,0.0,0.0,D,1.25,6.0,12.0,,,,1.23,6.04,11.88,1.57,2.38,1.56,2.35,-1.75,1.93,1.93,Inter Milan,Cagliari,inter_milan,cagliari
+2026-05-03,I1,Italy-SA,2526,Inter,Parma,2.0,0.0,H,1.0,0.0,H,1.22,6.0,13.0,,,,1.21,6.25,11.94,1.5,2.63,1.48,2.55,-1.75,1.83,2.03,Inter Milan,Parma,inter_milan,parma
+2026-05-17,I1,Italy-SA,2526,Inter,Verona,1.0,1.0,D,0.0,0.0,D,1.2,8.0,9.0,,,,1.18,6.85,12.88,1.5,2.63,1.47,2.57,-2.0,2.0,1.85,Inter Milan,Hellas Verona,inter_milan,hellas_verona
+2026-08-22,I1,Italy-SA,2627,Inter,Monza,4.0,1.0,H,1.0,1.0,D,1.2,7.0,13.0,,,,1.19,6.66,13.73,1.62,2.3,1.58,2.3,-2.0,2.03,1.78,Inter Milan,Monza,inter_milan,monza
+2026-09-05,I1,Italy-SA,2627,Inter,Napoli,3.0,2.0,H,0.0,0.0,D,1.67,3.6,5.5,,,,1.64,3.72,5.42,2.05,1.8,1.99,1.77,-0.75,1.83,2.03,Inter Milan,Napoli,inter_milan,napoli
+2026-09-14,I1,Italy-SA,2627,Inter,Udinese,5.0,3.0,H,2.0,2.0,D,1.27,5.75,12.0,,,,1.25,5.85,11.15,1.53,2.5,1.53,2.42,-1.75,1.95,1.9,Inter Milan,Udinese,inter_milan,udinese
+2026-10-10,I1,Italy-SA,2627,Inter,Parma,3.0,0.0,H,3.0,0.0,H,1.14,8.0,19.0,,,,1.13,8.38,17.13,1.36,3.2,1.33,3.16,-2.25,1.85,2.0,Inter Milan,Parma,inter_milan,parma

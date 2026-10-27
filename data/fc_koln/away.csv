@@ -1,0 +1,89 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-22,D1,Germany-BL1,2122,Bayern Munich,FC Koln,3.0,2.0,H,0.0,0.0,D,1.11,11.0,16.0,1.13,9.87,23.59,1.13,9.35,19.76,1.28,3.75,1.29,3.61,-2.5,2.05,1.88,Bayern Munich,FC Koln,bayern_munich,fc_koln
+2021-09-11,D1,Germany-BL1,2122,Freiburg,FC Koln,1.0,1.0,D,0.0,1.0,A,2.2,3.6,3.1,2.15,3.82,3.37,2.14,3.7,3.25,1.66,2.2,1.67,2.25,-0.25,1.9,2.03,SC Freiburg,FC Koln,sc_freiburg,fc_koln
+2021-09-25,D1,Germany-BL1,2122,Ein Frankfurt,FC Koln,1.0,1.0,D,1.0,1.0,D,2.0,3.75,3.5,2.08,3.89,3.5,2.04,3.8,3.46,1.57,2.37,1.61,2.35,-0.5,2.06,1.87,Eintracht Frankfurt,FC Koln,eintracht_frankfurt,fc_koln
+2021-10-15,D1,Germany-BL1,2122,Hoffenheim,FC Koln,5.0,0.0,H,1.0,0.0,H,2.0,3.9,3.3,2.11,3.86,3.45,2.08,3.81,3.32,1.44,2.75,1.48,2.63,-0.25,1.77,2.02,TSG Hoffenheim,FC Koln,tsg_hoffenheim,fc_koln
+2021-10-30,D1,Germany-BL1,2122,Dortmund,FC Koln,2.0,0.0,H,1.0,0.0,H,1.45,5.0,6.0,1.52,4.91,6.13,1.48,4.87,5.94,1.4,3.0,1.39,2.95,-1.25,2.01,1.92,Borussia Dortmund,FC Koln,borussia_dortmund,fc_koln
+2021-11-21,D1,Germany-BL1,2122,Mainz,FC Koln,1.0,1.0,D,1.0,0.0,H,2.1,3.6,3.4,2.19,3.53,3.53,2.14,3.56,3.36,1.72,2.1,1.72,2.15,-0.25,1.86,2.04,Mainz 05,FC Koln,mainz_05,fc_koln
+2021-12-04,D1,Germany-BL1,2122,Bielefeld,FC Koln,1.0,1.0,D,0.0,1.0,A,3.4,3.5,2.1,3.57,3.49,2.2,3.39,3.48,2.17,1.87,2.03,1.82,2.02,0.25,2.03,1.87,Arminia Bielefeld,FC Koln,arminia_bielefeld,fc_koln
+2021-12-14,D1,Germany-BL1,2122,Wolfsburg,FC Koln,2.0,3.0,A,1.0,1.0,D,2.1,3.5,3.4,2.23,3.51,3.45,2.18,3.49,3.36,1.9,2.03,1.83,2.0,-0.25,1.93,2.0,VfL Wolfsburg,FC Koln,vfl_wolfsburg,fc_koln
+2022-01-09,D1,Germany-BL1,2122,Hertha,FC Koln,1.0,3.0,A,0.0,2.0,A,2.75,3.5,2.5,2.87,3.41,2.63,2.75,3.48,2.52,1.72,2.1,1.76,2.07,0.0,2.06,1.87,Hertha Berlin,FC Koln,hertha_berlin,fc_koln
+2022-01-22,D1,Germany-BL1,2122,Bochum,FC Koln,2.0,2.0,D,1.0,2.0,A,3.2,3.4,2.25,3.39,3.33,2.28,3.26,3.44,2.24,1.72,2.1,1.76,2.08,0.25,1.95,1.95,VfL Bochum,FC Koln,vfl_bochum,fc_koln
+2022-02-11,D1,Germany-BL1,2122,RB Leipzig,FC Koln,3.0,1.0,H,1.0,0.0,H,1.44,4.75,7.0,1.45,5.05,7.3,1.45,4.92,6.88,1.5,2.62,1.48,2.66,-1.25,1.93,2.0,RB Leipzig,FC Koln,rb_leipzig,fc_koln
+2022-02-26,D1,Germany-BL1,2122,Greuther Furth,FC Koln,1.0,1.0,D,0.0,0.0,D,3.6,3.6,2.0,3.72,3.71,2.06,3.56,3.68,2.05,1.72,2.1,1.7,2.18,0.5,1.83,2.07,Greuther Furth,FC Koln,greuther_furth,fc_koln
+2022-03-13,D1,Germany-BL1,2122,Leverkusen,FC Koln,0.0,1.0,A,0.0,0.0,D,1.61,4.2,5.25,1.63,4.36,5.48,1.62,4.39,5.06,1.5,2.62,1.47,2.69,-1.0,2.0,1.8,Bayer Leverkusen,FC Koln,bayer_leverkusen,fc_koln
+2022-04-01,D1,Germany-BL1,2122,Union Berlin,FC Koln,1.0,0.0,H,0.0,0.0,D,2.25,3.3,3.3,2.35,3.24,3.47,2.33,3.25,3.32,2.1,1.72,2.1,1.76,-0.25,1.99,1.91,Union Berlin,FC Koln,union_berlin,fc_koln
+2022-04-16,D1,Germany-BL1,2122,M'gladbach,FC Koln,1.0,3.0,A,0.0,3.0,A,2.05,3.6,3.5,2.03,3.86,3.7,2.0,3.78,3.57,1.61,2.3,1.59,2.37,-0.5,1.98,1.92,Borussia Monchengladbach,FC Koln,borussia_monchengladbach,fc_koln
+2022-04-30,D1,Germany-BL1,2122,Augsburg,FC Koln,1.0,4.0,A,0.0,2.0,A,2.8,3.25,2.6,2.91,3.4,2.6,2.82,3.44,2.51,1.84,2.06,1.81,2.02,0.0,2.06,1.84,FC Augsburg,FC Koln,fc_augsburg,fc_koln
+2022-05-14,D1,Germany-BL1,2122,Stuttgart,FC Koln,2.0,1.0,H,1.0,0.0,H,2.2,4.0,2.87,2.27,4.16,2.89,2.22,4.07,2.9,1.4,3.0,1.4,2.93,-0.25,1.96,1.94,VfB Stuttgart,FC Koln,vfb_stuttgart,fc_koln
+2022-08-13,D1,Germany-BL1,2223,RB Leipzig,FC Koln,2.0,2.0,D,1.0,1.0,D,1.44,4.75,7.0,1.44,4.91,7.76,1.44,4.85,7.05,1.57,2.37,1.57,2.41,-1.25,1.97,1.93,RB Leipzig,FC Koln,rb_leipzig,fc_koln
+2022-08-21,D1,Germany-BL1,2223,Ein Frankfurt,FC Koln,1.0,1.0,D,0.0,0.0,D,1.95,3.75,3.6,2.06,3.84,3.61,2.04,3.73,3.49,1.66,2.2,1.67,2.23,-0.5,2.03,1.87,Eintracht Frankfurt,FC Koln,eintracht_frankfurt,fc_koln
+2022-09-03,D1,Germany-BL1,2223,Wolfsburg,FC Koln,2.0,4.0,A,1.0,3.0,A,2.05,3.4,3.75,2.16,3.58,3.57,2.12,3.52,3.49,1.8,2.0,1.77,2.08,-0.25,1.75,2.05,VfL Wolfsburg,FC Koln,vfl_wolfsburg,fc_koln
+2022-09-18,D1,Germany-BL1,2223,Bochum,FC Koln,1.0,1.0,D,1.0,0.0,H,3.1,3.6,2.2,3.09,3.75,2.31,3.08,3.67,2.25,1.72,2.1,1.7,2.16,0.25,1.9,2.0,VfL Bochum,FC Koln,vfl_bochum,fc_koln
+2022-10-09,D1,Germany-BL1,2223,M'gladbach,FC Koln,5.0,2.0,H,2.0,1.0,H,1.95,3.75,3.6,2.02,4.05,3.57,2.0,3.89,3.51,1.61,2.3,1.62,2.34,-0.5,1.99,1.91,Borussia Monchengladbach,FC Koln,borussia_monchengladbach,fc_koln
+2022-10-21,D1,Germany-BL1,2223,Mainz,FC Koln,5.0,0.0,H,3.0,0.0,H,2.15,3.5,3.25,2.19,3.59,3.47,2.18,3.53,3.36,1.72,2.1,1.76,2.09,-0.25,1.88,2.02,Mainz 05,FC Koln,mainz_05,fc_koln
+2022-11-06,D1,Germany-BL1,2223,Freiburg,FC Koln,2.0,0.0,H,0.0,0.0,D,1.7,4.0,4.75,1.72,4.06,5.1,1.71,4.0,4.79,1.72,2.1,1.71,2.15,-0.75,1.89,2.01,SC Freiburg,FC Koln,sc_freiburg,fc_koln
+2022-11-12,D1,Germany-BL1,2223,Hertha,FC Koln,2.0,0.0,H,1.0,0.0,H,2.2,3.6,3.1,2.3,3.68,3.17,2.25,3.64,3.09,1.72,2.1,1.69,2.2,-0.25,1.98,1.92,Hertha Berlin,FC Koln,hertha_berlin,fc_koln
+2023-01-24,D1,Germany-BL1,2223,Bayern Munich,FC Koln,1.0,1.0,D,0.0,1.0,A,1.2,7.5,12.0,1.23,7.6,12.0,1.22,7.4,11.61,1.29,3.75,1.27,3.75,-2.0,1.91,2.02,Bayern Munich,FC Koln,bayern_munich,fc_koln
+2023-01-29,D1,Germany-BL1,2223,Schalke 04,FC Koln,0.0,0.0,D,0.0,0.0,D,3.8,3.6,1.95,3.81,3.75,2.02,3.73,3.73,1.98,1.8,2.0,1.79,2.05,0.5,1.91,1.99,Schalke 04,FC Koln,schalke_04,fc_koln
+2023-02-18,D1,Germany-BL1,2223,Stuttgart,FC Koln,3.0,0.0,H,1.0,0.0,H,2.45,3.4,2.88,2.48,3.53,2.97,2.43,3.47,2.92,1.94,1.96,1.89,1.94,-0.25,2.08,1.82,VfB Stuttgart,FC Koln,vfb_stuttgart,fc_koln
+2023-03-04,D1,Germany-BL1,2223,Union Berlin,FC Koln,0.0,0.0,D,0.0,0.0,D,1.91,3.4,4.33,1.93,3.45,4.56,1.93,3.38,4.35,2.3,1.62,2.29,1.64,-0.5,1.93,1.97,Union Berlin,FC Koln,union_berlin,fc_koln
+2023-03-18,D1,Germany-BL1,2223,Dortmund,FC Koln,6.0,1.0,H,4.0,1.0,H,1.45,4.75,6.5,1.47,4.99,6.61,1.46,4.81,6.62,1.62,2.3,1.6,2.37,-1.25,2.0,1.9,Borussia Dortmund,FC Koln,borussia_dortmund,fc_koln
+2023-04-08,D1,Germany-BL1,2223,Augsburg,FC Koln,1.0,3.0,A,1.0,2.0,A,2.8,3.4,2.55,2.88,3.51,2.53,2.8,3.46,2.51,1.88,2.02,1.85,1.98,0.0,2.04,1.86,FC Augsburg,FC Koln,fc_augsburg,fc_koln
+2023-04-22,D1,Germany-BL1,2223,Hoffenheim,FC Koln,1.0,3.0,A,0.0,2.0,A,2.2,3.5,3.2,2.21,3.69,3.28,2.22,3.58,3.21,1.8,2.0,1.81,2.01,-0.25,1.92,1.98,TSG Hoffenheim,FC Koln,tsg_hoffenheim,fc_koln
+2023-05-05,D1,Germany-BL1,2223,Leverkusen,FC Koln,1.0,2.0,A,1.0,2.0,A,1.67,4.0,5.0,1.7,4.14,4.99,1.69,4.04,4.97,1.73,2.1,1.75,2.1,-0.75,1.88,2.02,Bayer Leverkusen,FC Koln,bayer_leverkusen,fc_koln
+2023-05-20,D1,Germany-BL1,2223,Werder Bremen,FC Koln,1.0,1.0,D,0.0,1.0,A,2.6,3.6,2.55,2.58,3.88,2.62,2.58,3.75,2.6,1.67,2.2,1.64,2.29,0.0,1.94,1.96,Werder Bremen,FC Koln,werder_bremen,fc_koln
+2023-08-19,D1,Germany-BL1,2324,Dortmund,FC Koln,1.0,0.0,H,0.0,0.0,D,1.4,5.0,7.0,1.41,5.42,7.25,1.4,5.21,7.24,1.44,2.75,1.43,2.83,-1.25,1.83,2.07,Borussia Dortmund,FC Koln,borussia_dortmund,fc_koln
+2023-09-03,D1,Germany-BL1,2324,Ein Frankfurt,FC Koln,1.0,1.0,D,0.0,1.0,A,2.1,3.4,3.5,2.18,3.49,3.54,2.13,3.49,3.49,1.97,1.93,1.94,1.89,-0.25,1.87,2.06,Eintracht Frankfurt,FC Koln,eintracht_frankfurt,fc_koln
+2023-09-23,D1,Germany-BL1,2324,Werder Bremen,FC Koln,2.0,1.0,H,1.0,1.0,D,2.5,3.6,2.6,2.56,3.69,2.74,2.54,3.62,2.68,1.73,2.1,1.71,2.17,0.0,1.89,2.01,Werder Bremen,FC Koln,werder_bremen,fc_koln
+2023-10-08,D1,Germany-BL1,2324,Leverkusen,FC Koln,3.0,0.0,H,2.0,0.0,H,1.33,5.5,8.0,1.34,5.68,9.07,1.34,5.58,8.69,1.5,2.63,1.48,2.65,-1.5,1.94,1.96,Bayer Leverkusen,FC Koln,bayer_leverkusen,fc_koln
+2023-10-28,D1,Germany-BL1,2324,RB Leipzig,FC Koln,6.0,0.0,H,4.0,0.0,H,1.44,4.75,7.0,1.44,5.05,7.18,1.44,4.97,7.1,1.57,2.38,1.57,2.42,-1.25,1.96,1.97,RB Leipzig,FC Koln,rb_leipzig,fc_koln
+2023-11-11,D1,Germany-BL1,2324,Bochum,FC Koln,1.0,1.0,D,1.0,0.0,H,2.45,3.4,2.88,2.46,3.7,2.81,2.45,3.62,2.82,1.67,2.2,1.69,2.2,-0.25,2.08,1.73,VfL Bochum,FC Koln,vfl_bochum,fc_koln
+2023-12-01,D1,Germany-BL1,2324,Darmstadt,FC Koln,0.0,1.0,A,0.0,0.0,D,2.63,3.4,2.6,2.66,3.54,2.71,2.68,3.51,2.63,1.8,2.0,1.79,2.06,0.0,1.95,1.98,Darmstadt 98,FC Koln,darmstadt_98,fc_koln
+2023-12-17,D1,Germany-BL1,2324,Freiburg,FC Koln,2.0,0.0,H,0.0,0.0,D,1.8,3.8,4.2,1.82,3.75,4.57,1.83,3.77,4.36,1.91,1.99,1.87,1.96,-0.5,1.78,2.03,SC Freiburg,FC Koln,sc_freiburg,fc_koln
+2023-12-20,D1,Germany-BL1,2324,Union Berlin,FC Koln,2.0,0.0,H,0.0,0.0,D,1.95,3.6,3.8,1.95,3.59,4.09,1.95,3.58,4.02,2.05,1.85,2.0,1.84,-0.5,1.95,1.95,Union Berlin,FC Koln,union_berlin,fc_koln
+2024-01-27,D1,Germany-BL1,2324,Wolfsburg,FC Koln,1.0,1.0,D,1.0,1.0,D,1.83,3.75,4.2,1.83,3.83,4.41,1.84,3.79,4.28,1.88,2.02,1.83,2.02,-0.75,2.03,1.78,VfL Wolfsburg,FC Koln,vfl_wolfsburg,fc_koln
+2024-02-11,D1,Germany-BL1,2324,Hoffenheim,FC Koln,1.0,1.0,D,0.0,0.0,D,1.8,3.8,4.33,1.86,3.9,4.12,1.83,3.96,4.08,1.62,2.3,1.6,2.36,-0.75,2.09,1.84,TSG Hoffenheim,FC Koln,tsg_hoffenheim,fc_koln
+2024-02-24,D1,Germany-BL1,2324,Stuttgart,FC Koln,1.0,1.0,D,0.0,0.0,D,1.3,5.25,10.0,1.32,5.75,9.52,1.32,5.63,9.5,1.53,2.5,1.54,2.49,-1.5,1.91,1.99,VfB Stuttgart,FC Koln,vfb_stuttgart,fc_koln
+2024-03-09,D1,Germany-BL1,2324,M'gladbach,FC Koln,3.0,3.0,D,1.0,1.0,D,1.83,4.0,4.0,1.85,3.77,4.32,1.85,3.82,4.18,1.73,2.1,1.74,2.08,-0.5,1.86,2.07,Borussia Monchengladbach,FC Koln,borussia_monchengladbach,fc_koln
+2024-03-31,D1,Germany-BL1,2324,Augsburg,FC Koln,1.0,1.0,D,1.0,1.0,D,1.75,4.0,4.5,1.81,3.84,4.51,1.79,3.87,4.42,1.73,2.1,1.78,2.06,-0.75,2.04,1.86,FC Augsburg,FC Koln,fc_augsburg,fc_koln
+2024-04-13,D1,Germany-BL1,2324,Bayern Munich,FC Koln,2.0,0.0,H,0.0,0.0,D,1.22,7.5,11.0,1.18,8.25,13.01,1.2,7.74,12.41,1.33,3.4,1.31,3.45,-2.0,1.9,2.0,Bayern Munich,FC Koln,bayern_munich,fc_koln
+2024-04-28,D1,Germany-BL1,2324,Mainz,FC Koln,1.0,1.0,D,1.0,0.0,H,1.55,4.33,6.0,1.54,4.37,6.2,1.54,4.34,6.02,1.73,2.1,1.73,2.13,-1.0,1.94,1.99,Mainz 05,FC Koln,mainz_05,fc_koln
+2024-05-18,D1,Germany-BL1,2324,Heidenheim,FC Koln,4.0,1.0,H,3.0,0.0,H,2.3,4.0,2.7,2.35,4.0,2.74,2.35,3.97,2.74,1.5,2.63,1.51,2.59,0.0,1.78,2.03,1. FC Heidenheim,FC Koln,1_fc_heidenheim,fc_koln
+2024-08-10,D2,Germany-BL2,2425,Elversberg,FC Koln,2.0,2.0,D,0.0,1.0,A,3.4,3.6,2.05,3.42,3.88,2.04,3.31,3.76,2.04,1.65,2.2,1.64,2.23,0.5,1.83,2.03,Elversberg,FC Koln,elversberg,fc_koln
+2024-09-01,D2,Germany-BL2,2425,Schalke 04,FC Koln,1.0,3.0,A,0.0,2.0,A,3.2,3.5,2.15,3.13,3.7,2.17,3.05,3.73,2.16,1.5,2.5,1.48,2.52,0.25,1.95,1.9,Schalke 04,FC Koln,schalke_04,fc_koln
+2024-09-21,D2,Germany-BL2,2425,Fortuna Dusseldorf,FC Koln,2.0,2.0,D,1.0,1.0,D,3.0,3.6,2.2,3.04,3.66,2.3,2.99,3.62,2.23,1.62,2.25,1.61,2.29,0.25,1.88,1.98,Fortuna Dusseldorf,FC Koln,fortuna_dusseldorf,fc_koln
+2024-10-18,D2,Germany-BL2,2425,Darmstadt,FC Koln,5.0,1.0,H,2.0,1.0,H,4.0,3.9,1.8,4.0,4.27,1.82,3.93,4.13,1.79,1.48,2.6,1.47,2.61,0.5,2.03,1.78,Darmstadt 98,FC Koln,darmstadt_98,fc_koln
+2024-11-02,D2,Germany-BL2,2425,Hertha,FC Koln,0.0,1.0,A,0.0,1.0,A,2.9,3.9,2.15,2.85,4.12,2.2,2.85,4.01,2.17,1.4,2.88,1.4,2.85,0.25,1.93,1.93,Hertha Berlin,FC Koln,hertha_berlin,fc_koln
+2024-11-22,D2,Germany-BL2,2425,Preußen Münster,FC Koln,0.0,1.0,A,0.0,0.0,D,4.33,3.9,1.73,4.5,4.08,1.76,4.33,3.91,1.75,1.67,2.15,1.67,2.19,0.75,1.88,1.98,Preußen Münster,FC Koln,preuen_munster,fc_koln
+2024-12-08,D2,Germany-BL2,2425,Regensburg,FC Koln,0.0,1.0,A,0.0,1.0,A,6.25,4.33,1.48,6.14,4.64,1.48,6.1,4.54,1.47,1.65,2.2,1.63,2.24,1.25,1.8,2.05,Regensburg,FC Koln,regensburg,fc_koln
+2024-12-22,D2,Germany-BL2,2425,Kaiserslautern,FC Koln,0.0,1.0,A,0.0,1.0,A,4.0,3.8,1.8,4.04,3.85,1.84,3.88,3.82,1.83,1.57,2.35,1.57,2.34,0.5,2.03,1.83,Kaiserslautern,FC Koln,kaiserslautern,fc_koln
+2025-01-18,D2,Germany-BL2,2425,Hamburg,FC Koln,1.0,0.0,H,0.0,0.0,D,2.55,3.75,2.45,2.64,3.72,2.5,2.57,3.68,2.46,1.57,2.35,1.54,2.38,0.0,1.98,1.88,Hamburger SV,FC Koln,hamburger_sv,fc_koln
+2025-02-01,D2,Germany-BL2,2425,Braunschweig,FC Koln,1.0,2.0,A,1.0,2.0,A,4.5,4.0,1.67,5.0,4.11,1.68,4.72,3.96,1.67,1.73,2.08,1.72,2.1,0.75,2.0,1.85,Braunschweig,FC Koln,braunschweig,fc_koln
+2025-02-14,D2,Germany-BL2,2425,Magdeburg,FC Koln,3.0,0.0,H,0.0,0.0,D,2.2,3.6,3.0,2.28,3.66,3.11,2.23,3.54,2.99,1.57,2.35,1.59,2.34,-0.25,1.95,1.9,Magdeburg,FC Koln,magdeburg,fc_koln
+2025-03-01,D2,Germany-BL2,2425,Karlsruhe,FC Koln,1.0,0.0,H,0.0,0.0,D,3.0,3.6,2.2,3.08,3.62,2.23,3.02,3.56,2.19,1.58,2.25,1.62,2.25,0.25,1.9,1.95,Karlsruhe,FC Koln,karlsruhe,fc_koln
+2025-03-08,D2,Germany-BL2,2425,Ulm,FC Koln,0.0,1.0,A,0.0,0.0,D,3.75,3.4,2.0,3.99,3.38,2.03,3.84,3.34,1.99,2.08,1.73,2.09,1.72,0.5,1.83,2.03,Ulm,FC Koln,ulm,fc_koln
+2025-03-29,D2,Germany-BL2,2425,Paderborn,FC Koln,1.0,2.0,A,1.0,1.0,D,2.25,3.3,3.2,2.28,3.53,3.17,2.25,3.43,3.05,1.93,1.93,1.91,1.87,-0.25,1.98,1.88,Paderborn,FC Koln,paderborn,fc_koln
+2025-04-11,D2,Germany-BL2,2425,Greuther Furth,FC Koln,1.0,1.0,D,1.0,1.0,D,3.75,3.4,2.0,3.71,3.63,2.05,3.57,3.46,2.03,1.85,1.95,1.83,1.96,0.5,1.83,2.03,Greuther Furth,FC Koln,greuther_furth,fc_koln
+2025-04-27,D2,Germany-BL2,2425,Hannover,FC Koln,1.0,0.0,H,0.0,0.0,D,3.3,3.4,2.15,3.32,3.48,2.17,3.21,3.43,2.16,1.7,2.1,1.67,2.16,0.25,1.98,1.88,Hannover,FC Koln,hannover,fc_koln
+2025-05-09,D2,Germany-BL2,2425,Nurnberg,FC Koln,1.0,2.0,A,0.0,0.0,D,5.25,4.33,1.54,5.55,4.45,1.58,5.17,4.33,1.57,1.5,2.5,1.49,2.51,1.0,1.87,1.87,Nurnberg,FC Koln,nurnberg,fc_koln
+2025-08-24,D1,Germany-BL1,2526,Mainz,FC Koln,0.0,1.0,A,0.0,0.0,D,1.9,3.7,4.0,1.93,3.7,4.07,1.86,3.61,3.95,1.83,2.03,1.8,1.96,-0.5,1.88,1.98,Mainz 05,FC Koln,mainz_05,fc_koln
+2025-09-13,D1,Germany-BL1,2526,Wolfsburg,FC Koln,3.0,3.0,D,1.0,1.0,D,1.95,3.5,3.9,2.01,3.61,3.85,1.96,3.56,3.66,1.8,2.0,1.78,1.98,-0.5,2.0,1.85,VfL Wolfsburg,FC Koln,vfl_wolfsburg,fc_koln
+2025-09-20,D1,Germany-BL1,2526,RB Leipzig,FC Koln,3.0,1.0,H,3.0,1.0,H,1.65,4.33,4.5,1.68,4.39,4.73,1.65,4.15,4.61,1.53,2.5,1.55,2.37,-0.75,1.83,2.03,RB Leipzig,FC Koln,rb_leipzig,fc_koln
+2025-10-03,D1,Germany-BL1,2526,Hoffenheim,FC Koln,0.0,1.0,A,0.0,1.0,A,1.91,3.7,3.75,1.93,3.98,3.79,1.91,3.82,3.61,1.57,2.38,1.53,2.42,-0.5,1.9,1.95,TSG Hoffenheim,FC Koln,tsg_hoffenheim,fc_koln
+2025-10-25,D1,Germany-BL1,2526,Dortmund,FC Koln,1.0,0.0,H,0.0,0.0,D,1.44,5.25,6.5,1.46,4.96,6.64,1.42,4.97,6.36,1.4,3.0,1.4,2.8,-1.25,1.88,1.98,Borussia Dortmund,FC Koln,borussia_dortmund,fc_koln
+2025-11-08,D1,Germany-BL1,2526,M'gladbach,FC Koln,3.0,1.0,H,1.0,0.0,H,2.2,3.6,3.1,2.28,3.65,3.11,2.19,3.54,3.06,1.62,2.3,1.61,2.24,-0.25,1.93,1.93,Borussia Monchengladbach,FC Koln,borussia_monchengladbach,fc_koln
+2025-11-29,D1,Germany-BL1,2526,Werder Bremen,FC Koln,1.0,1.0,D,1.0,0.0,H,2.25,3.8,2.9,2.28,3.9,2.96,2.21,3.74,2.89,1.53,2.5,1.52,2.44,-0.25,1.98,1.88,Werder Bremen,FC Koln,werder_bremen,fc_koln
+2025-12-13,D1,Germany-BL1,2526,Leverkusen,FC Koln,2.0,0.0,H,0.0,0.0,D,1.55,4.33,5.25,1.57,4.68,5.33,1.53,4.44,5.28,1.53,2.5,1.49,2.53,-1.0,1.88,1.98,Bayer Leverkusen,FC Koln,bayer_leverkusen,fc_koln
+2026-01-10,D1,Germany-BL1,2526,Heidenheim,FC Koln,2.0,2.0,D,2.0,1.0,H,2.9,3.5,2.38,2.95,3.58,2.41,2.88,3.48,2.3,1.8,2.0,1.73,2.04,0.25,1.8,2.05,1. FC Heidenheim,FC Koln,1_fc_heidenheim,fc_koln
+2026-01-25,D1,Germany-BL1,2526,Freiburg,FC Koln,2.0,1.0,H,2.0,1.0,H,1.9,3.75,3.8,,,,1.9,3.59,3.78,1.8,2.0,1.78,1.99,-0.5,1.93,1.93,SC Freiburg,FC Koln,sc_freiburg,fc_koln
+2026-02-14,D1,Germany-BL1,2526,Stuttgart,FC Koln,3.0,1.0,H,1.0,0.0,H,1.45,4.75,6.5,,,,1.43,4.77,6.21,1.44,2.75,1.43,2.72,-1.25,1.93,1.93,VfB Stuttgart,FC Koln,vfb_stuttgart,fc_koln
+2026-02-27,D1,Germany-BL1,2526,Augsburg,FC Koln,2.0,0.0,H,0.0,0.0,D,2.2,3.5,3.25,,,,2.19,3.4,3.18,1.88,1.98,1.81,1.96,-0.25,1.93,1.93,FC Augsburg,FC Koln,fc_augsburg,fc_koln
+2026-03-14,D1,Germany-BL1,2526,Hamburg,FC Koln,1.0,1.0,D,1.0,1.0,D,2.1,3.6,3.25,,,,2.09,3.52,3.21,1.8,2.0,1.74,2.03,-0.25,1.85,2.0,Hamburger SV,FC Koln,hamburger_sv,fc_koln
+2026-04-05,D1,Germany-BL1,2526,Ein Frankfurt,FC Koln,2.0,2.0,D,0.0,0.0,D,2.0,3.5,3.6,,,,2.01,3.55,3.4,1.73,2.1,1.7,2.09,-0.25,1.73,2.08,Eintracht Frankfurt,FC Koln,eintracht_frankfurt,fc_koln
+2026-04-17,D1,Germany-BL1,2526,St Pauli,FC Koln,1.0,1.0,D,0.0,0.0,D,2.88,3.3,2.45,,,,2.82,3.24,2.49,2.03,1.83,2.0,1.78,0.0,2.1,1.78,FC St Pauli,FC Koln,fc_st_pauli,fc_koln
+2026-05-02,D1,Germany-BL1,2526,Union Berlin,FC Koln,2.0,2.0,D,0.0,1.0,A,2.45,3.3,2.9,,,,2.37,3.31,2.84,1.91,1.91,1.86,1.88,-0.25,2.08,1.73,Union Berlin,FC Koln,union_berlin,fc_koln
+2026-05-16,D1,Germany-BL1,2526,Bayern Munich,FC Koln,5.0,1.0,H,3.0,1.0,H,1.14,9.5,14.0,,,,1.14,8.71,12.84,1.13,6.0,1.12,5.91,-2.5,1.93,1.93,Bayern Munich,FC Koln,bayern_munich,fc_koln
+2026-09-04,D1,Germany-BL1,2627,Stuttgart,FC Koln,4.0,1.0,H,1.0,0.0,H,1.48,5.0,5.5,,,,1.46,4.98,5.61,1.36,3.2,1.35,3.11,-1.25,1.95,1.9,VfB Stuttgart,FC Koln,vfb_stuttgart,fc_koln
+2026-09-19,D1,Germany-BL1,2627,Hamburg,FC Koln,2.0,1.0,H,1.0,0.0,H,2.7,3.6,2.45,,,,2.64,3.62,2.42,1.57,2.38,1.57,2.32,0.0,2.03,1.83,Hamburger SV,FC Koln,hamburger_sv,fc_koln
+2026-10-16,D1,Germany-BL1,2627,Ein Frankfurt,FC Koln,1.0,0.0,H,0.0,0.0,D,1.85,4.2,3.6,,,,1.85,4.18,3.53,1.33,3.4,1.32,3.29,-0.5,1.88,1.98,Eintracht Frankfurt,FC Koln,eintracht_frankfurt,fc_koln

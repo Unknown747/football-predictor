@@ -1,0 +1,47 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2024-08-25,SP2,Spain-Segunda,2425,Castellon,Oviedo,0.0,0.0,D,0.0,0.0,D,2.1,3.2,3.75,2.15,3.21,3.65,2.12,3.16,3.54,2.25,1.62,2.24,1.62,-0.25,1.83,2.03,Castellon,Real Oviedo,castellon,real_oviedo
+2024-09-09,SP2,Spain-Segunda,2425,Castellon,Cadiz,1.0,3.0,A,0.0,0.0,D,2.2,3.3,3.25,2.23,3.36,3.28,2.21,3.3,3.15,2.1,1.78,1.96,1.81,-0.25,1.93,1.93,Castellon,Cadiz,castellon,cadiz
+2024-09-22,SP2,Spain-Segunda,2425,Castellon,Santander,0.0,1.0,A,0.0,0.0,D,1.8,3.6,4.33,1.88,3.7,4.02,1.85,3.66,3.86,1.73,2.08,1.75,2.05,-0.5,1.85,2.0,Castellon,Santander,castellon,santander
+2024-09-29,SP2,Spain-Segunda,2425,Castellon,Tenerife,2.0,1.0,H,1.0,0.0,H,1.75,3.5,4.75,1.73,3.79,4.7,1.74,3.67,4.47,1.88,1.98,1.86,1.92,-0.75,2.0,1.85,Castellon,Tenerife,castellon,tenerife
+2024-10-19,SP2,Spain-Segunda,2425,Castellon,Levante,2.0,0.0,H,0.0,0.0,D,2.1,3.4,3.4,2.12,3.43,3.48,2.1,3.43,3.33,1.7,2.1,1.72,2.08,-0.25,1.83,2.03,Castellon,Levante,castellon,levante
+2024-10-22,SP2,Spain-Segunda,2425,Castellon,Granada,2.0,3.0,A,2.0,1.0,H,2.15,3.5,3.25,2.21,3.59,3.31,2.16,3.48,3.16,1.7,2.1,1.71,2.1,-0.25,1.88,1.98,Castellon,Granada,castellon,granada
+2024-11-16,SP2,Spain-Segunda,2425,Castellon,Mirandes,1.0,3.0,A,0.0,3.0,A,1.75,3.6,4.5,1.81,3.71,4.53,1.78,3.62,4.36,1.98,1.88,1.92,1.85,-0.75,2.03,1.83,Castellon,Mirandes,castellon,mirandes
+2024-11-27,SP2,Spain-Segunda,2425,Castellon,Ferrol,0.0,0.0,D,0.0,0.0,D,1.6,3.9,5.5,1.63,4.02,5.23,1.61,3.94,5.07,1.75,2.05,1.74,2.03,-0.75,1.75,2.05,Castellon,Ferrol,castellon,ferrol
+2024-12-01,SP2,Spain-Segunda,2425,Castellon,Malaga,2.0,0.0,H,1.0,0.0,H,1.95,3.25,4.1,1.95,3.31,4.22,1.93,3.31,3.93,1.98,1.88,1.92,1.85,-0.5,1.98,1.88,Castellon,Malaga,castellon,malaga
+2024-12-14,SP2,Spain-Segunda,2425,Castellon,Cartagena,4.0,1.0,H,2.0,0.0,H,1.45,4.1,7.5,1.44,4.57,6.97,1.42,4.45,6.86,1.75,2.05,1.74,2.05,-1.25,2.03,1.83,Castellon,Cartagena,castellon,cartagena
+2024-12-22,SP2,Spain-Segunda,2425,Castellon,Elche,0.0,2.0,A,0.0,2.0,A,2.45,3.5,2.75,2.46,3.43,2.85,2.4,3.39,2.75,1.83,2.03,1.79,1.98,0.0,1.83,2.03,Castellon,Elche,castellon,elche
+2025-01-19,SP2,Spain-Segunda,2425,Castellon,Cordoba,1.0,2.0,A,1.0,0.0,H,1.85,3.5,4.2,1.88,3.8,3.91,1.84,3.72,3.81,1.62,2.25,1.6,2.26,-0.5,1.85,2.0,Castellon,Cordoba,castellon,cordoba
+2025-02-02,SP2,Spain-Segunda,2425,Castellon,Huesca,0.0,1.0,A,0.0,1.0,A,2.0,3.25,4.0,2.0,3.25,4.09,2.0,3.2,3.86,2.15,1.67,2.19,1.64,-0.5,2.0,1.85,Castellon,Huesca,castellon,huesca
+2025-02-15,SP2,Spain-Segunda,2425,Castellon,Eibar,2.0,0.0,H,1.0,0.0,H,1.96,3.3,3.8,2.05,3.27,4.07,2.0,3.25,3.79,2.03,1.83,1.99,1.79,-0.5,2.03,1.83,Castellon,Eibar,castellon,eibar
+2025-03-01,SP2,Spain-Segunda,2425,Castellon,Burgos,2.0,1.0,H,1.0,1.0,D,1.91,3.4,4.0,1.93,3.37,4.23,1.91,3.29,4.07,2.15,1.67,2.18,1.65,-0.5,1.95,1.9,Castellon,Burgos,castellon,burgos
+2025-03-17,SP2,Spain-Segunda,2425,Castellon,La Coruna,2.0,2.0,D,1.0,1.0,D,2.2,3.4,3.2,2.18,3.52,3.25,2.17,3.43,3.13,1.83,2.03,1.77,2.01,-0.25,1.87,1.87,Castellon,La Coruna,castellon,la_coruna
+2025-04-04,SP2,Spain-Segunda,2425,Castellon,Albacete,2.0,2.0,D,1.0,2.0,A,1.7,4.0,4.33,1.71,4.1,4.77,1.71,3.94,4.36,1.62,2.25,1.61,2.26,-0.75,1.9,1.95,Castellon,Albacete,castellon,albacete
+2025-04-18,SP2,Spain-Segunda,2425,Castellon,Almeria,4.0,1.0,H,1.0,1.0,D,2.25,3.5,2.9,2.35,3.53,2.94,2.28,3.58,2.83,1.62,2.25,1.59,2.3,-0.25,2.03,1.83,Castellon,Almeria,castellon,almeria
+2025-05-05,SP2,Spain-Segunda,2425,Castellon,Sp Gijon,4.0,3.0,H,2.0,1.0,H,1.85,3.6,3.9,1.87,3.41,4.44,1.85,3.58,3.95,1.85,2.0,1.81,1.95,-0.5,1.88,1.98,Castellon,Sp Gijon,castellon,sp_gijon
+2025-05-18,SP2,Spain-Segunda,2425,Castellon,Eldense,1.0,1.0,D,0.0,0.0,D,1.67,3.9,4.75,1.7,4.01,4.5,1.67,4.0,4.56,1.65,2.2,1.63,2.22,-0.75,1.85,1.95,Castellon,Eldense,castellon,eldense
+2025-05-30,SP2,Spain-Segunda,2425,Castellon,Zaragoza,4.0,1.0,H,4.0,0.0,H,2.05,3.6,3.3,2.04,3.81,3.35,2.0,3.73,3.32,1.53,2.4,1.51,2.45,-0.5,2.05,1.75,Castellon,Zaragoza,castellon,zaragoza
+2025-08-22,SP2,Spain-Segunda,2526,Castellon,Valladolid,0.0,1.0,A,0.0,1.0,A,1.9,3.8,3.6,1.97,3.88,3.71,1.91,3.63,3.41,1.67,2.15,1.67,2.08,-0.5,1.9,1.9,Castellon,Real Valladolid,castellon,real_valladolid
+2025-08-30,SP2,Spain-Segunda,2526,Castellon,Zaragoza,1.0,1.0,D,0.0,0.0,D,1.79,3.75,4.0,1.82,3.7,4.28,1.76,3.65,4.03,1.7,2.1,1.71,2.01,-0.5,1.8,2.0,Castellon,Zaragoza,castellon,zaragoza
+2025-09-14,SP2,Spain-Segunda,2526,Castellon,Ceuta,3.0,3.0,D,2.0,1.0,H,1.61,3.9,5.0,1.63,4.0,5.26,1.61,3.86,4.78,1.67,2.15,1.68,2.07,-0.75,1.8,2.0,Castellon,Ceuta,castellon,ceuta
+2025-10-05,SP2,Spain-Segunda,2526,Castellon,Sp Gijon,3.0,1.0,H,2.0,1.0,H,1.81,3.7,4.0,1.89,3.78,3.85,1.85,3.61,3.71,1.7,2.1,1.68,2.07,-0.5,1.85,1.95,Castellon,Sp Gijon,castellon,sp_gijon
+2025-10-19,SP2,Spain-Segunda,2526,Castellon,Albacete,0.0,1.0,A,0.0,1.0,A,1.66,4.0,4.33,1.75,3.98,4.34,1.72,3.83,4.08,1.65,2.2,1.61,2.19,-0.75,1.9,1.9,Castellon,Albacete,castellon,albacete
+2025-11-02,SP2,Spain-Segunda,2526,Castellon,Malaga,2.0,1.0,H,0.0,0.0,D,1.66,3.9,4.5,,,,1.65,3.85,4.51,1.75,2.05,1.72,2.02,-0.75,1.9,1.9,Castellon,Malaga,castellon,malaga
+2025-11-15,SP2,Spain-Segunda,2526,Castellon,Sociedad B,5.0,4.0,H,1.0,1.0,D,1.41,4.33,7.0,,,,1.4,4.45,6.53,1.67,2.15,1.64,2.14,-1.25,1.98,1.83,Castellon,Sociedad B,castellon,sociedad_b
+2025-11-30,SP2,Spain-Segunda,2526,Castellon,Las Palmas,1.0,0.0,H,0.0,0.0,D,2.1,3.3,3.4,2.12,3.4,3.53,2.13,3.24,3.22,1.95,1.85,1.95,1.77,-0.25,1.83,1.98,Castellon,Las Palmas,castellon,las_palmas
+2025-12-15,SP2,Spain-Segunda,2526,Castellon,Mirandes,3.0,1.0,H,1.0,1.0,D,1.41,4.33,6.5,1.42,4.75,7.04,1.42,4.36,6.35,1.67,2.15,1.66,2.09,-1.25,1.98,1.83,Castellon,Mirandes,castellon,mirandes
+2026-01-03,SP2,Spain-Segunda,2526,Castellon,Huesca,4.0,1.0,H,3.0,0.0,H,1.49,4.1,6.25,1.53,4.09,6.41,1.51,3.85,5.93,1.9,1.9,1.91,1.8,-1.0,1.9,1.9,Castellon,Huesca,castellon,huesca
+2026-01-16,SP2,Spain-Segunda,2526,Castellon,Leganes,2.0,0.0,H,1.0,0.0,H,1.56,4.1,5.25,,,,1.59,3.84,4.99,1.8,2.0,1.78,1.93,-0.75,1.75,2.05,Castellon,Leganes,castellon,leganes
+2026-02-01,SP2,Spain-Segunda,2526,Castellon,Andorra,2.0,0.0,H,2.0,0.0,H,1.41,4.5,6.5,,,,1.46,4.32,5.77,1.57,2.35,1.57,2.25,-1.0,1.73,2.08,Castellon,Andorra,castellon,andorra
+2026-02-15,SP2,Spain-Segunda,2526,Castellon,La Coruna,2.0,0.0,H,1.0,0.0,H,1.81,3.6,4.0,,,,1.82,3.47,3.93,1.88,1.93,1.82,1.88,-0.5,1.85,1.95,Castellon,La Coruna,castellon,la_coruna
+2026-02-28,SP2,Spain-Segunda,2526,Castellon,Santander,1.0,3.0,A,0.0,3.0,A,1.66,4.2,4.33,,,,1.66,3.92,4.33,1.62,2.25,1.57,2.27,-0.75,1.85,1.95,Castellon,Santander,castellon,santander
+2026-03-23,SP2,Spain-Segunda,2526,Castellon,Cultural Leonesa,1.0,1.0,D,0.0,0.0,D,1.33,5.0,7.5,,,,1.33,4.84,7.37,1.53,2.4,1.51,2.4,-1.5,2.0,1.8,Castellon,Cultural Leonesa,castellon,cultural_leonesa
+2026-04-02,SP2,Spain-Segunda,2526,Castellon,Almeria,2.0,0.0,H,1.0,0.0,H,1.96,3.75,3.3,,,,1.92,3.7,3.3,1.57,2.35,1.56,2.29,-0.5,2.0,1.8,Castellon,Almeria,castellon,almeria
+2026-04-06,SP2,Spain-Segunda,2526,Castellon,Granada,3.0,2.0,H,2.0,1.0,H,1.62,3.75,5.0,,,,1.62,3.75,4.81,1.83,1.98,1.77,1.95,-0.75,1.85,1.95,Castellon,Granada,castellon,granada
+2026-04-18,SP2,Spain-Segunda,2526,Castellon,Burgos,3.0,1.0,H,1.0,1.0,D,1.76,3.4,4.75,,,,1.72,3.47,4.56,2.08,1.73,1.99,1.74,-0.75,2.03,1.78,Castellon,Burgos,castellon,burgos
+2026-05-02,SP2,Spain-Segunda,2526,Castellon,Cordoba,1.0,2.0,A,0.0,0.0,D,1.53,4.5,5.0,,,,1.55,4.16,4.79,1.48,2.6,1.47,2.54,-1.0,1.9,1.9,Castellon,Cordoba,castellon,cordoba
+2026-05-15,SP2,Spain-Segunda,2526,Castellon,Cadiz,1.0,1.0,D,0.0,0.0,D,1.24,6.0,9.0,,,,1.27,5.42,8.59,1.48,2.6,1.45,2.6,-1.5,1.75,2.05,Castellon,Cadiz,castellon,cadiz
+2026-05-31,SP2,Spain-Segunda,2526,Castellon,Eibar,2.0,1.0,H,1.0,0.0,H,1.51,4.33,5.25,,,,1.51,4.17,5.08,1.57,2.35,1.54,2.33,-1.0,1.9,1.9,Castellon,Eibar,castellon,eibar
+2026-08-23,SP2,Spain-Segunda,2627,Castellon,Sabadell,0.0,0.0,D,0.0,0.0,D,1.53,3.75,6.0,,,,1.52,4.02,5.49,1.7,2.1,1.68,2.08,-1.0,1.93,1.88,Castellon,Sabadell,castellon,sabadell
+2026-09-06,SP2,Spain-Segunda,2627,Castellon,Albacete,2.0,0.0,H,0.0,0.0,D,1.49,4.0,6.0,,,,1.54,4.03,5.22,1.67,2.15,1.63,2.18,-1.0,1.93,1.88,Castellon,Albacete,castellon,albacete
+2026-09-19,SP2,Spain-Segunda,2627,Castellon,Tenerife,5.0,0.0,H,3.0,0.0,H,1.51,4.0,5.75,,,,1.52,4.0,5.47,1.8,2.0,1.74,1.99,-1.0,1.95,1.85,Castellon,Tenerife,castellon,tenerife
+2026-10-04,SP2,Spain-Segunda,2627,Castellon,Ceuta,1.0,1.0,D,1.0,0.0,H,1.22,6.0,10.0,,,,1.24,5.88,8.88,1.4,2.88,1.35,2.96,-1.75,1.88,1.93,Castellon,Ceuta,castellon,ceuta

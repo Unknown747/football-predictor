@@ -1,0 +1,54 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2024-08-10,EC,England-Conference,2425,Boston Utd,Rochdale,0.0,3.0,A,0.0,2.0,A,3.0,3.4,2.3,2.91,3.36,2.36,2.88,3.34,2.28,1.75,2.05,1.77,1.97,0.25,1.83,1.98,Boston Utd,Rochdale,boston_utd,rochdale
+2024-08-17,EC,England-Conference,2425,Boston Utd,Forest Green,0.0,4.0,A,0.0,3.0,A,3.2,3.4,2.2,3.13,3.45,2.19,3.08,3.33,2.18,2.0,1.8,1.98,1.76,0.25,1.9,1.9,Boston Utd,Forest Green Rovers,boston_utd,forest_green_rovers
+2024-08-24,EC,England-Conference,2425,Boston Utd,Tamworth,1.0,1.0,D,1.0,0.0,H,2.75,3.1,2.38,2.91,2.99,2.58,2.8,3.06,2.47,2.25,1.62,2.23,1.61,0.0,2.05,1.75,Boston Utd,Tamworth,boston_utd,tamworth
+2024-08-31,EC,England-Conference,2425,Boston Utd,Yeovil,1.0,3.0,A,1.0,2.0,A,3.1,3.2,2.15,3.17,3.39,2.25,3.13,3.26,2.18,2.05,1.75,2.05,1.71,0.25,1.9,1.9,Boston Utd,Yeovil Town,boston_utd,yeovil_town
+2024-09-10,EC,England-Conference,2425,Boston Utd,Hartlepool,1.0,2.0,A,1.0,0.0,H,4.5,3.5,1.8,4.45,3.68,1.79,4.19,3.56,1.77,1.85,1.95,1.83,1.91,0.75,1.85,1.95,Boston Utd,Hartlepool United,boston_utd,hartlepool_united
+2024-09-14,EC,England-Conference,2425,Boston Utd,Aldershot,1.0,1.0,D,0.0,1.0,A,3.75,3.5,1.95,3.21,3.69,2.05,3.28,3.57,2.0,1.7,2.1,1.69,2.08,0.5,1.83,1.98,Boston Utd,Aldershot,boston_utd,aldershot
+2024-09-28,EC,England-Conference,2425,Boston Utd,Maidenhead,1.0,2.0,A,1.0,1.0,D,2.63,3.1,2.5,2.79,3.26,2.5,2.67,3.21,2.49,1.95,1.85,1.91,1.82,0.0,1.98,1.83,Boston Utd,Maidenhead,boston_utd,maidenhead
+2024-10-19,EC,England-Conference,2425,Boston Utd,Halifax,0.0,1.0,A,0.0,1.0,A,3.1,3.4,2.25,3.11,3.63,2.13,3.06,3.43,2.14,2.0,1.8,1.98,1.76,0.25,1.9,1.9,Boston Utd,Halifax,boston_utd,halifax
+2024-10-23,EC,England-Conference,2425,Boston Utd,Fylde,1.0,2.0,A,1.0,0.0,H,2.38,3.5,2.75,2.36,3.51,2.8,2.33,3.45,2.73,1.7,2.1,1.66,2.12,-0.25,2.05,1.75,Boston Utd,Fylde,boston_utd,fylde
+2024-11-09,EC,England-Conference,2425,Boston Utd,Dag and Red,1.0,1.0,D,1.0,1.0,D,3.3,3.7,1.95,3.42,3.77,1.95,3.33,3.66,1.96,1.65,2.2,1.66,2.14,0.5,1.83,1.98,Boston Utd,Dag and Red,boston_utd,dag_and_red
+2024-11-23,EC,England-Conference,2425,Boston Utd,Braintree Town,3.0,1.0,H,2.0,0.0,H,2.5,3.4,2.5,2.64,3.18,2.68,2.59,3.19,2.59,2.05,1.75,2.05,1.71,0.0,1.9,1.9,Boston Utd,Braintree Town,boston_utd,braintree_town
+2024-12-26,EC,England-Conference,2425,Boston Utd,Solihull,0.0,1.0,A,0.0,1.0,A,3.5,3.3,1.95,3.56,3.6,1.96,3.44,3.48,1.96,1.73,2.08,1.73,2.01,0.5,1.8,2.0,Boston Utd,Solihull,boston_utd,solihull
+2025-01-11,EC,England-Conference,2425,Boston Utd,Ebbsfleet,2.0,2.0,D,1.0,1.0,D,1.7,3.5,4.75,1.69,3.75,4.66,1.7,3.66,4.49,1.85,1.95,1.83,1.89,-0.75,1.9,1.9,Boston Utd,Ebbsfleet,boston_utd,ebbsfleet
+2025-01-25,EC,England-Conference,2425,Boston Utd,York,3.0,1.0,H,1.0,1.0,D,4.33,3.8,1.65,4.57,4.0,1.66,4.53,3.85,1.65,1.75,2.05,1.75,1.99,0.75,1.98,1.83,Boston Utd,York,boston_utd,york
+2025-02-08,EC,England-Conference,2425,Boston Utd,Barnet,0.0,0.0,D,0.0,0.0,D,6.5,4.1,1.5,5.96,4.21,1.5,5.62,4.11,1.5,1.73,2.08,1.71,2.05,1.0,1.95,1.85,Boston Utd,Barnet,boston_utd,barnet
+2025-02-22,EC,England-Conference,2425,Boston Utd,Eastleigh,1.0,2.0,A,0.0,1.0,A,2.55,3.4,2.5,2.68,3.19,2.64,2.61,3.17,2.53,2.05,1.75,2.02,1.73,0.0,1.93,1.88,Boston Utd,Eastleigh,boston_utd,eastleigh
+2025-03-04,EC,England-Conference,2425,Boston Utd,Oldham,0.0,0.0,D,0.0,0.0,D,3.5,3.3,2.05,3.32,3.48,2.16,3.38,3.32,2.05,2.15,1.67,2.09,1.69,0.25,2.0,1.8,Boston Utd,Oldham,boston_utd,oldham
+2025-03-08,EC,England-Conference,2425,Boston Utd,Woking,2.0,2.0,D,0.0,1.0,A,2.5,3.25,2.75,2.56,3.2,2.84,2.46,3.15,2.76,2.15,1.67,2.1,1.67,0.0,1.8,2.0,Boston Utd,Woking,boston_utd,woking
+2025-03-25,EC,England-Conference,2425,Boston Utd,Southend,3.0,0.0,H,0.0,0.0,D,3.5,3.4,2.1,3.35,3.33,2.19,3.39,3.21,2.12,2.15,1.67,2.09,1.68,0.25,1.98,1.83,Boston Utd,Southend United,boston_utd,southend_united
+2025-03-29,EC,England-Conference,2425,Boston Utd,Sutton,2.0,1.0,H,1.0,1.0,D,2.2,3.3,3.0,2.28,3.31,3.18,2.25,3.25,2.99,1.98,1.83,1.93,1.81,-0.25,1.95,1.85,Boston Utd,Sutton United,boston_utd,sutton_united
+2025-04-12,EC,England-Conference,2425,Boston Utd,Altrincham,1.0,0.0,H,1.0,0.0,H,2.63,3.75,2.3,2.82,3.55,2.33,2.72,3.51,2.32,1.73,2.08,1.7,2.06,0.0,2.03,1.78,Boston Utd,Altrincham,boston_utd,altrincham
+2025-04-18,EC,England-Conference,2425,Boston Utd,Wealdstone,2.0,0.0,H,2.0,0.0,H,2.05,3.3,3.4,2.15,2.84,4.0,2.06,3.23,3.46,1.9,1.9,1.88,1.85,-0.25,1.83,1.98,Boston Utd,Wealdstone,boston_utd,wealdstone
+2025-04-26,EC,England-Conference,2425,Boston Utd,Gateshead,2.0,1.0,H,2.0,1.0,H,2.3,3.5,2.7,2.36,3.34,2.91,2.3,3.4,2.77,1.75,2.05,1.76,1.98,-0.25,2.05,1.75,Boston Utd,Gateshead,boston_utd,gateshead
+2025-08-19,EC,England-Conference,2526,Boston Utd,Halifax,0.0,1.0,A,0.0,1.0,A,2.2,3.4,2.88,2.33,3.34,3.11,2.23,3.24,2.9,2.15,1.67,2.06,1.67,-0.25,2.0,1.8,Boston Utd,Halifax,boston_utd,halifax
+2025-08-25,EC,England-Conference,2526,Boston Utd,Wealdstone,2.0,1.0,H,0.0,0.0,D,,,,,,,,,,,,,,,,,Boston Utd,Wealdstone,boston_utd,wealdstone
+2025-09-06,EC,England-Conference,2526,Boston Utd,Solihull,1.0,2.0,A,1.0,1.0,D,2.15,3.3,3.1,2.23,3.5,3.02,2.14,3.31,3.05,1.9,1.9,1.84,1.85,-0.25,1.9,1.9,Boston Utd,Solihull,boston_utd,solihull
+2025-09-20,EC,England-Conference,2526,Boston Utd,Boreham Wood,0.0,2.0,A,0.0,0.0,D,3.5,3.4,1.95,3.59,3.68,1.93,3.36,3.39,1.96,1.85,1.95,1.81,1.89,0.5,1.83,1.98,Boston Utd,Boreham Wood,boston_utd,boreham_wood
+2025-09-24,EC,England-Conference,2526,Boston Utd,Braintree Town,2.0,0.0,H,0.0,0.0,D,2.05,3.5,3.1,2.09,3.57,3.23,2.11,3.35,3.04,1.85,1.95,1.81,1.88,-0.25,1.83,1.98,Boston Utd,Braintree Town,boston_utd,braintree_town
+2025-10-01,EC,England-Conference,2526,Boston Utd,Forest Green,0.0,0.0,D,0.0,0.0,D,5.0,3.8,1.6,5.28,3.86,1.6,4.81,3.75,1.6,1.85,1.95,1.78,1.93,0.75,2.05,1.75,Boston Utd,Forest Green Rovers,boston_utd,forest_green_rovers
+2025-10-18,EC,England-Conference,2526,Boston Utd,Scunthorpe,1.0,1.0,D,0.0,0.0,D,3.2,3.6,2.05,3.13,3.53,2.15,3.25,3.37,2.03,1.9,1.9,1.82,1.87,0.25,1.98,1.83,Boston Utd,Scunthorpe United,boston_utd,scunthorpe_united
+2025-10-21,EC,England-Conference,2526,Boston Utd,Morecambe,0.0,4.0,A,0.0,2.0,A,1.85,3.8,3.4,1.9,3.85,3.68,1.85,3.64,3.54,1.53,2.4,1.59,2.21,-0.5,1.88,1.93,Boston Utd,Morecambe,boston_utd,morecambe
+2025-11-08,EC,England-Conference,2526,Boston Utd,Rochdale,1.0,3.0,A,0.0,1.0,A,3.9,3.8,1.75,,,,3.98,3.67,1.74,1.75,2.05,1.73,1.98,0.75,1.83,1.98,Boston Utd,Rochdale,boston_utd,rochdale
+2025-11-22,EC,England-Conference,2526,Boston Utd,Carlisle,1.0,2.0,A,0.0,0.0,D,4.75,3.5,1.67,,,,4.41,3.62,1.68,1.8,2.0,1.76,1.95,0.75,1.9,1.9,Boston Utd,Carlisle United,boston_utd,carlisle_united
+2025-12-20,EC,England-Conference,2526,Boston Utd,Aldershot,0.0,2.0,A,0.0,2.0,A,1.95,3.5,3.3,,,,1.99,3.49,3.22,1.67,2.15,1.67,2.07,-0.5,2.0,1.8,Boston Utd,Aldershot,boston_utd,aldershot
+2025-12-30,EC,England-Conference,2526,Boston Utd,Brackley Town,1.0,2.0,A,1.0,0.0,H,2.1,3.25,3.3,,,,2.09,3.25,3.17,1.95,1.85,1.95,1.76,-0.25,1.83,1.98,Boston Utd,Brackley Town,boston_utd,brackley_town
+2026-01-03,EC,England-Conference,2526,Boston Utd,Eastleigh,1.0,2.0,A,1.0,1.0,D,2.25,3.1,3.0,,,,2.25,3.13,2.98,2.03,1.78,1.99,1.73,-0.25,2.0,1.8,Boston Utd,Eastleigh,boston_utd,eastleigh
+2026-01-24,EC,England-Conference,2526,Boston Utd,Southend,3.0,3.0,D,1.0,1.0,D,5.0,3.6,1.62,,,,4.53,3.7,1.65,1.8,2.0,1.76,1.96,0.75,1.95,1.85,Boston Utd,Southend United,boston_utd,southend_united
+2026-02-07,EC,England-Conference,2526,Boston Utd,Sutton,1.0,0.0,H,0.0,0.0,D,2.15,3.5,2.9,,,,2.22,3.36,2.87,1.75,2.05,1.73,1.98,-0.25,1.98,1.83,Boston Utd,Sutton United,boston_utd,sutton_united
+2026-02-10,EC,England-Conference,2526,Boston Utd,Gateshead,1.0,0.0,H,1.0,0.0,H,1.67,3.7,4.5,,,,1.68,3.87,4.17,1.6,2.3,1.56,2.26,-0.75,1.9,1.9,Boston Utd,Gateshead,boston_utd,gateshead
+2026-02-21,EC,England-Conference,2526,Boston Utd,Tamworth,0.0,0.0,D,0.0,0.0,D,2.0,3.4,3.4,,,,2.03,3.33,3.27,1.9,1.9,1.82,1.87,-0.5,2.03,1.78,Boston Utd,Tamworth,boston_utd,tamworth
+2026-03-03,EC,England-Conference,2526,Boston Utd,Woking,2.0,2.0,D,1.0,2.0,A,1.95,3.3,3.7,,,,1.95,3.26,3.55,2.05,1.75,1.99,1.73,-0.5,1.98,1.83,Boston Utd,Woking,boston_utd,woking
+2026-03-14,EC,England-Conference,2526,Boston Utd,Yeovil,2.0,1.0,H,1.0,1.0,D,1.83,3.5,3.8,,,,1.84,3.4,3.78,1.98,1.83,1.88,1.81,-0.5,1.88,1.93,Boston Utd,Yeovil Town,boston_utd,yeovil_town
+2026-03-24,EC,England-Conference,2526,Boston Utd,Altrincham,2.0,2.0,D,1.0,0.0,H,1.9,3.5,3.5,,,,1.9,3.49,3.49,1.67,2.15,1.66,2.09,-0.5,1.95,1.85,Boston Utd,Altrincham,boston_utd,altrincham
+2026-04-03,EC,England-Conference,2526,Boston Utd,York,0.0,1.0,A,0.0,0.0,D,5.5,4.2,1.48,,,,5.4,4.3,1.47,1.48,2.6,1.46,2.55,1.0,2.0,1.8,Boston Utd,York,boston_utd,york
+2026-04-11,EC,England-Conference,2526,Boston Utd,Truro,1.0,0.0,H,1.0,0.0,H,1.7,3.5,4.5,,,,1.73,3.57,4.16,1.8,2.0,1.76,1.96,-0.75,2.0,1.8,Boston Utd,Truro,boston_utd,truro
+2026-04-25,EC,England-Conference,2526,Boston Utd,Hartlepool,3.0,1.0,H,0.0,0.0,D,2.05,3.5,3.2,,,,2.06,3.35,3.13,1.8,2.0,1.77,1.95,-0.25,1.83,1.98,Boston Utd,Hartlepool United,boston_utd,hartlepool_united
+2026-08-08,EC,England-Conference,2627,Boston Utd,Aldershot,0.0,1.0,A,0.0,0.0,D,1.95,3.6,3.25,,,,1.95,3.54,3.22,1.67,2.15,1.62,2.16,-0.5,1.98,1.83,Boston Utd,Aldershot,boston_utd,aldershot
+2026-08-22,EC,England-Conference,2627,Boston Utd,Altrincham,1.0,0.0,H,0.0,0.0,D,1.75,3.7,4.0,,,,1.75,3.69,3.93,1.73,2.08,1.71,2.03,-0.75,2.0,1.8,Boston Utd,Altrincham,boston_utd,altrincham
+2026-08-31,EC,England-Conference,2627,Boston Utd,Hornchurch,2.0,3.0,A,2.0,1.0,H,1.95,3.5,3.4,,,,1.97,3.39,3.46,1.9,1.9,1.86,1.85,-0.5,1.98,1.83,Boston Utd,Hornchurch,boston_utd,hornchurch
+2026-09-12,EC,England-Conference,2627,Boston Utd,Wealdstone,1.0,3.0,A,1.0,1.0,D,1.95,3.5,3.4,,,,2.04,3.53,3.1,1.67,2.15,1.64,2.15,-0.25,1.78,2.03,Boston Utd,Wealdstone,boston_utd,wealdstone
+2026-09-15,EC,England-Conference,2627,Boston Utd,Woking,1.0,1.0,D,1.0,0.0,H,2.15,3.5,2.88,,,,2.2,3.35,2.86,1.85,1.95,1.81,1.9,-0.25,1.98,1.83,Boston Utd,Woking,boston_utd,woking
+2026-09-26,EC,England-Conference,2627,Boston Utd,Fylde,0.0,1.0,A,0.0,0.0,D,2.63,3.75,2.25,,,,2.47,3.62,2.37,1.5,2.5,1.48,2.48,0.0,1.98,1.83,Boston Utd,Fylde,boston_utd,fylde
+2026-10-10,EC,England-Conference,2627,Boston Utd,Southend,1.0,2.0,A,1.0,1.0,D,3.5,3.9,1.8,,,,3.55,3.9,1.77,1.44,2.7,1.42,2.67,0.5,2.03,1.78,Boston Utd,Southend United,boston_utd,southend_united

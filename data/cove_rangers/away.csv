@@ -1,0 +1,97 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,SC2,Scotland-L1,2122,Queens Park,Cove Rangers,2.0,0.0,H,0.0,0.0,D,2.37,3.25,2.62,2.49,3.47,2.78,2.4,3.31,2.7,1.95,1.85,1.92,1.82,0.0,1.83,2.02,Queens Park,Cove Rangers,queens_park,cove_rangers
+2021-08-21,SC2,Scotland-L1,2122,Dumbarton,Cove Rangers,1.0,3.0,A,0.0,2.0,A,4.0,3.6,1.85,3.46,3.75,1.91,3.52,3.6,1.9,1.95,1.85,1.91,1.84,0.5,1.93,1.93,Dumbarton,Cove Rangers,dumbarton,cove_rangers
+2021-08-28,SC2,Scotland-L1,2122,Clyde,Cove Rangers,2.0,1.0,H,2.0,0.0,H,4.5,3.4,1.66,4.22,3.75,1.74,4.25,3.66,1.72,1.8,2.0,1.81,1.94,0.75,1.88,1.98,Clyde,Cove Rangers,clyde,cove_rangers
+2021-09-18,SC2,Scotland-L1,2122,Peterhead,Cove Rangers,0.0,1.0,A,0.0,0.0,D,3.0,3.5,2.0,3.51,3.57,1.95,3.44,3.46,1.97,1.95,1.85,1.91,1.84,0.5,1.77,2.02,Peterhead,Cove Rangers,peterhead,cove_rangers
+2021-10-02,SC2,Scotland-L1,2122,Alloa,Cove Rangers,1.0,3.0,A,0.0,0.0,D,3.2,3.6,1.9,3.26,3.35,2.11,3.29,3.42,2.03,1.8,2.0,1.79,1.95,0.5,1.83,2.02,Alloa,Cove Rangers,alloa,cove_rangers
+2021-10-16,SC2,Scotland-L1,2122,East Fife,Cove Rangers,4.0,2.0,H,3.0,0.0,H,4.0,3.5,1.83,3.68,3.53,1.91,3.69,3.52,1.86,1.8,2.0,1.79,1.96,0.5,1.95,1.9,East Fife,Cove Rangers,east_fife,cove_rangers
+2021-11-06,SC2,Scotland-L1,2122,Montrose,Cove Rangers,0.0,0.0,D,0.0,0.0,D,3.0,3.1,2.3,2.64,3.53,2.4,2.61,3.4,2.42,1.7,2.1,1.67,2.12,0.0,2.15,1.68,Montrose,Cove Rangers,montrose,cove_rangers
+2021-11-20,SC2,Scotland-L1,2122,Airdrie Utd,Cove Rangers,0.0,2.0,A,0.0,0.0,D,2.7,3.6,2.37,2.53,3.49,2.36,2.63,3.45,2.36,1.72,2.07,1.76,1.98,0.0,2.02,1.83,Airdrie Utd,Cove Rangers,airdrie_utd,cove_rangers
+2021-12-11,SC2,Scotland-L1,2122,Falkirk,Cove Rangers,0.0,3.0,A,0.0,2.0,A,3.2,3.8,1.85,3.06,3.59,2.0,3.24,3.62,1.97,1.72,2.07,1.68,2.08,0.5,1.93,1.93,Falkirk,Cove Rangers,falkirk,cove_rangers
+2022-01-02,SC2,Scotland-L1,2122,Peterhead,Cove Rangers,0.0,1.0,A,0.0,0.0,D,3.8,3.4,1.75,4.41,3.87,1.72,4.11,3.63,1.74,1.65,2.2,1.67,2.11,0.75,1.77,2.02,Peterhead,Cove Rangers,peterhead,cove_rangers
+2022-01-08,SC2,Scotland-L1,2122,Clyde,Cove Rangers,0.0,1.0,A,0.0,0.0,D,4.0,3.75,1.72,4.32,3.88,1.74,4.2,3.74,1.71,1.72,2.07,1.69,2.07,0.75,1.9,1.95,Clyde,Cove Rangers,clyde,cove_rangers
+2022-01-29,SC2,Scotland-L1,2122,Dumbarton,Cove Rangers,2.0,2.0,D,1.0,0.0,H,4.33,4.0,1.6,4.92,3.86,1.59,4.78,3.87,1.6,1.75,2.05,1.73,2.02,0.75,2.05,1.8,Dumbarton,Cove Rangers,dumbarton,cove_rangers
+2022-02-26,SC2,Scotland-L1,2122,Alloa,Cove Rangers,2.0,2.0,D,2.0,0.0,H,4.2,3.4,1.8,4.0,3.57,1.74,3.95,3.57,1.79,1.85,2.0,1.75,1.99,0.5,2.02,1.83,Alloa,Cove Rangers,alloa,cove_rangers
+2022-03-19,SC2,Scotland-L1,2122,Montrose,Cove Rangers,1.0,2.0,A,1.0,2.0,A,3.0,3.4,2.15,2.98,3.42,2.29,2.93,3.37,2.22,1.8,2.0,1.84,1.89,0.25,1.9,1.95,Montrose,Cove Rangers,montrose,cove_rangers
+2022-03-26,SC2,Scotland-L1,2122,Airdrie Utd,Cove Rangers,1.0,1.0,D,1.0,0.0,H,2.7,3.3,2.3,2.69,3.47,2.47,2.71,3.33,2.39,1.83,2.02,1.83,1.9,0.0,2.05,1.75,Airdrie Utd,Cove Rangers,airdrie_utd,cove_rangers
+2022-04-03,SC2,Scotland-L1,2122,Queens Park,Cove Rangers,1.0,1.0,D,0.0,0.0,D,3.4,3.4,2.1,,,,3.08,3.38,2.13,1.98,1.88,1.91,1.83,0.25,1.95,1.9,Queens Park,Cove Rangers,queens_park,cove_rangers
+2022-04-09,SC2,Scotland-L1,2122,Falkirk,Cove Rangers,0.0,2.0,A,0.0,0.0,D,3.6,3.4,1.9,3.72,3.6,1.93,3.51,3.5,1.94,1.88,1.98,1.83,1.9,0.5,1.88,1.98,Falkirk,Cove Rangers,falkirk,cove_rangers
+2022-04-30,SC2,Scotland-L1,2122,East Fife,Cove Rangers,2.0,3.0,A,2.0,1.0,H,,,,5.77,4.39,1.51,5.68,4.3,1.48,,,1.6,2.23,1.0,,,East Fife,Cove Rangers,east_fife,cove_rangers
+2022-08-06,SC1,Scotland-Champ,2223,Morton,Cove Rangers,1.0,0.0,H,0.0,0.0,D,2.5,3.25,2.45,2.66,3.22,2.8,2.56,3.13,2.68,2.2,1.65,2.25,1.6,0.0,1.95,1.9,Morton,Cove Rangers,morton,cove_rangers
+2022-08-13,SC1,Scotland-Champ,2223,Inverness C,Cove Rangers,4.0,1.0,H,2.0,0.0,H,2.0,3.2,3.5,2.09,3.42,3.66,2.08,3.25,3.41,2.15,1.66,2.1,1.68,-0.5,2.15,1.73,Inverness Caledonian Thistle,Cove Rangers,inverness_caledonian_thistle,cove_rangers
+2022-08-27,SC1,Scotland-Champ,2223,Queens Park,Cove Rangers,2.0,1.0,H,1.0,0.0,H,2.62,3.3,2.62,2.65,3.41,2.68,2.6,3.22,2.58,2.05,1.8,2.0,1.75,0.0,1.93,1.93,Queens Park,Cove Rangers,queens_park,cove_rangers
+2022-09-17,SC1,Scotland-Champ,2223,Partick,Cove Rangers,2.0,2.0,D,1.0,0.0,H,1.72,3.75,4.5,1.8,3.77,4.42,1.75,3.63,4.25,1.9,1.95,1.86,1.88,-0.75,1.95,1.85,Partick,Cove Rangers,partick,cove_rangers
+2022-10-08,SC1,Scotland-Champ,2223,Raith Rvs,Cove Rangers,3.0,0.0,H,2.0,0.0,H,2.0,3.25,3.3,2.17,3.47,3.38,2.08,3.33,3.35,2.05,1.75,2.0,1.76,-0.25,1.8,2.05,Raith Rvs,Cove Rangers,raith_rvs,cove_rangers
+2022-10-22,SC1,Scotland-Champ,2223,Ayr,Cove Rangers,2.0,2.0,D,2.0,1.0,H,1.7,3.75,4.33,1.73,4.01,4.52,1.73,3.72,4.32,1.88,1.98,1.84,1.9,-0.75,1.98,1.88,Ayr,Cove Rangers,ayr,cove_rangers
+2022-10-29,SC1,Scotland-Champ,2223,Hamilton,Cove Rangers,4.0,4.0,D,1.0,2.0,A,2.2,3.2,3.0,2.29,3.53,3.08,2.24,3.29,3.0,1.95,1.9,1.89,1.85,-0.25,1.95,1.9,Hamilton Academical,Cove Rangers,hamilton_academical,cove_rangers
+2022-11-12,SC1,Scotland-Champ,2223,Arbroath,Cove Rangers,1.0,1.0,D,1.0,0.0,H,2.05,3.3,3.3,2.09,3.54,3.51,2.04,3.37,3.4,2.0,1.85,1.95,1.8,-0.25,1.8,2.05,Arbroath,Cove Rangers,arbroath,cove_rangers
+2023-01-02,SC1,Scotland-Champ,2223,Inverness C,Cove Rangers,6.0,1.0,H,3.0,1.0,H,2.63,3.3,2.45,2.82,3.32,2.58,2.69,3.28,2.46,1.95,1.9,1.91,1.83,0.0,2.0,1.85,Inverness Caledonian Thistle,Cove Rangers,inverness_caledonian_thistle,cove_rangers
+2023-02-04,SC1,Scotland-Champ,2223,Partick,Cove Rangers,0.0,1.0,A,0.0,1.0,A,1.53,4.2,5.0,1.54,4.6,5.48,1.55,4.19,5.09,1.65,2.2,1.65,2.18,-1.0,1.98,1.88,Partick,Cove Rangers,partick,cove_rangers
+2023-02-12,SC1,Scotland-Champ,2223,Dundee,Cove Rangers,3.0,0.0,H,0.0,0.0,D,1.36,4.33,7.0,1.4,4.9,6.96,1.37,4.69,7.02,1.65,2.2,1.62,2.22,-1.25,1.88,1.98,Dundee,Cove Rangers,dundee,cove_rangers
+2023-02-25,SC1,Scotland-Champ,2223,Morton,Cove Rangers,2.0,1.0,H,0.0,1.0,A,1.67,3.75,4.33,1.69,4.06,4.75,1.69,3.8,4.42,1.85,2.0,1.8,1.96,-0.75,1.83,1.98,Morton,Cove Rangers,morton,cove_rangers
+2023-03-10,SC1,Scotland-Champ,2223,Queens Park,Cove Rangers,1.0,0.0,H,0.0,0.0,D,1.5,4.2,5.75,1.51,4.72,5.73,1.48,4.47,5.47,1.5,2.5,1.48,2.51,-1.0,1.77,2.1,Queens Park,Cove Rangers,queens_park,cove_rangers
+2023-03-18,SC1,Scotland-Champ,2223,Raith Rvs,Cove Rangers,6.0,1.0,H,2.0,0.0,H,1.73,3.5,4.2,1.76,3.86,4.54,1.74,3.65,4.26,1.88,1.98,1.84,1.91,-0.75,1.95,1.85,Raith Rvs,Cove Rangers,raith_rvs,cove_rangers
+2023-03-24,SC1,Scotland-Champ,2223,Ayr,Cove Rangers,3.0,0.0,H,2.0,0.0,H,1.44,4.2,6.0,1.43,4.78,7.16,1.44,4.43,6.35,1.67,2.15,1.65,2.15,-1.25,2.0,1.85,Ayr,Cove Rangers,ayr,cove_rangers
+2023-04-08,SC1,Scotland-Champ,2223,Hamilton,Cove Rangers,1.0,1.0,D,0.0,0.0,D,2.1,3.3,3.2,2.25,3.51,3.18,2.13,3.33,3.17,1.9,1.95,1.87,1.87,-0.25,1.88,1.98,Hamilton Academical,Cove Rangers,hamilton_academical,cove_rangers
+2023-04-22,SC1,Scotland-Champ,2223,Arbroath,Cove Rangers,0.0,1.0,A,0.0,0.0,D,1.75,3.5,4.2,1.76,3.76,4.65,1.82,3.49,3.98,2.02,1.82,1.96,1.79,-0.5,1.8,2.05,Arbroath,Cove Rangers,arbroath,cove_rangers
+2023-04-28,SC1,Scotland-Champ,2223,Dundee,Cove Rangers,0.0,0.0,D,0.0,0.0,D,1.2,5.75,11.0,1.22,6.35,12.58,1.2,6.31,11.84,1.44,2.7,1.44,2.65,-2.0,2.02,1.77,Dundee,Cove Rangers,dundee,cove_rangers
+2023-08-05,SC2,Scotland-L1,2324,Hamilton,Cove Rangers,1.0,0.0,H,1.0,0.0,H,1.95,3.75,3.0,,,,2.02,3.57,3.09,1.7,2.1,1.68,2.09,,,,Hamilton Academical,Cove Rangers,hamilton_academical,cove_rangers
+2023-08-19,SC2,Scotland-L1,2324,Montrose,Cove Rangers,0.0,3.0,A,0.0,2.0,A,2.4,3.5,2.6,2.5,3.41,2.7,2.42,3.38,2.63,1.73,2.08,1.73,2.03,0.0,1.85,2.0,Montrose,Cove Rangers,montrose,cove_rangers
+2023-09-02,SC2,Scotland-L1,2324,Alloa,Cove Rangers,1.0,0.0,H,1.0,0.0,H,2.55,3.5,2.45,2.64,3.33,2.6,2.58,3.38,2.48,1.73,2.08,1.71,2.07,0.0,1.98,1.88,Alloa,Cove Rangers,alloa,cove_rangers
+2023-09-23,SC2,Scotland-L1,2324,Edinburgh City,Cove Rangers,2.0,2.0,D,1.0,1.0,D,3.8,3.8,1.67,4.34,4.11,1.69,4.14,3.95,1.69,1.57,2.35,1.57,2.31,0.75,1.95,1.9,Edinburgh City,Cove Rangers,edinburgh_city,cove_rangers
+2023-09-30,SC2,Scotland-L1,2324,Stirling,Cove Rangers,2.0,2.0,D,1.0,0.0,H,2.38,3.3,2.7,2.5,3.31,2.76,2.39,3.35,2.7,1.85,2.0,1.77,1.97,0.0,1.83,2.03,Stirling,Cove Rangers,stirling,cove_rangers
+2023-10-28,SC2,Scotland-L1,2324,Queen of Sth,Cove Rangers,0.0,1.0,A,0.0,0.0,D,2.5,3.5,2.63,2.55,3.66,2.51,2.47,3.51,2.54,1.67,2.15,1.64,2.16,0.0,1.9,1.95,Queen of Sth,Cove Rangers,queen_of_sth,cove_rangers
+2023-11-11,SC2,Scotland-L1,2324,Kelty Hearts,Cove Rangers,0.0,1.0,A,0.0,1.0,A,2.4,3.6,2.3,2.7,3.54,2.43,2.57,3.59,2.39,1.62,2.25,1.59,2.24,0.0,1.98,1.88,Kelty Hearts,Cove Rangers,kelty_hearts,cove_rangers
+2023-12-09,SC2,Scotland-L1,2324,Annan Athletic,Cove Rangers,1.0,3.0,A,1.0,2.0,A,4.0,4.0,1.8,4.05,3.87,1.79,3.95,3.79,1.76,1.62,2.25,1.59,2.24,0.75,1.83,2.03,Annan Athletic,Cove Rangers,annan_athletic,cove_rangers
+2023-12-30,SC2,Scotland-L1,2324,Montrose,Cove Rangers,1.0,1.0,D,1.0,1.0,D,3.1,3.6,1.95,3.47,3.64,1.99,3.33,3.61,1.96,1.67,2.15,1.64,2.16,0.5,1.83,2.03,Montrose,Cove Rangers,montrose,cove_rangers
+2024-01-09,SC2,Scotland-L1,2324,Falkirk,Cove Rangers,4.0,0.0,H,1.0,0.0,H,1.33,4.75,7.0,1.36,4.87,8.23,1.35,4.68,7.51,1.65,2.2,1.61,2.22,-1.25,1.75,2.05,Falkirk,Cove Rangers,falkirk,cove_rangers
+2024-01-13,SC2,Scotland-L1,2324,Hamilton,Cove Rangers,2.0,0.0,H,1.0,0.0,H,1.55,4.33,4.5,1.56,4.17,5.46,1.55,4.07,5.16,1.67,2.15,1.66,2.13,-1.0,2.03,1.83,Hamilton Academical,Cove Rangers,hamilton_academical,cove_rangers
+2024-02-03,SC2,Scotland-L1,2324,Stirling,Cove Rangers,2.0,2.0,D,1.0,0.0,H,3.2,3.8,1.95,3.61,3.55,1.97,3.41,3.53,1.95,1.73,2.08,1.73,2.02,0.5,1.88,1.98,Stirling,Cove Rangers,stirling,cove_rangers
+2024-02-17,SC2,Scotland-L1,2324,Alloa,Cove Rangers,4.0,1.0,H,1.0,0.0,H,2.3,3.75,2.6,2.41,3.56,2.77,2.35,3.54,2.61,1.62,2.25,1.63,2.18,0.0,1.83,2.03,Alloa,Cove Rangers,alloa,cove_rangers
+2024-03-02,SC2,Scotland-L1,2324,Edinburgh City,Cove Rangers,0.0,2.0,A,0.0,1.0,A,7.5,5.25,1.29,8.63,5.77,1.3,7.96,5.45,1.29,1.4,2.75,1.39,2.83,1.5,2.03,1.83,Edinburgh City,Cove Rangers,edinburgh_city,cove_rangers
+2024-03-16,SC2,Scotland-L1,2324,Kelty Hearts,Cove Rangers,0.0,1.0,A,0.0,0.0,D,2.8,3.6,2.2,3.04,3.56,2.24,2.9,3.52,2.2,1.62,2.25,1.61,2.24,0.25,1.9,1.95,Kelty Hearts,Cove Rangers,kelty_hearts,cove_rangers
+2024-04-06,SC2,Scotland-L1,2324,Falkirk,Cove Rangers,5.0,1.0,H,2.0,1.0,H,1.25,7.0,8.5,1.27,5.67,9.54,1.23,5.86,9.76,1.44,2.63,1.43,2.67,-1.75,1.9,1.95,Falkirk,Cove Rangers,falkirk,cove_rangers
+2024-04-13,SC2,Scotland-L1,2324,Annan Athletic,Cove Rangers,4.0,2.0,H,2.0,2.0,D,2.88,3.75,2.1,2.86,3.72,2.24,2.84,3.65,2.18,1.57,2.35,1.54,2.37,0.25,1.9,1.95,Annan Athletic,Cove Rangers,annan_athletic,cove_rangers
+2024-04-27,SC2,Scotland-L1,2324,Queen of Sth,Cove Rangers,2.0,0.0,H,2.0,0.0,H,1.57,4.33,4.0,1.65,4.14,4.57,1.65,4.04,4.3,1.57,2.35,1.55,2.34,-0.75,1.78,2.03,Queen of Sth,Cove Rangers,queen_of_sth,cove_rangers
+2024-08-10,SC2,Scotland-L1,2425,Queen of Sth,Cove Rangers,2.0,1.0,H,0.0,0.0,D,2.05,3.1,3.4,2.06,3.41,3.27,2.04,3.4,3.27,1.73,2.08,1.71,2.05,-0.25,1.8,2.05,Queen of Sth,Cove Rangers,queen_of_sth,cove_rangers
+2024-08-24,SC2,Scotland-L1,2425,Stenhousemuir,Cove Rangers,3.0,2.0,H,1.0,1.0,D,2.4,3.6,2.6,2.53,3.4,2.57,2.46,3.46,2.55,1.6,2.3,1.59,2.25,0.0,1.85,2.0,Stenhousemuir,Cove Rangers,stenhousemuir,cove_rangers
+2024-09-14,SC2,Scotland-L1,2425,Kelty Hearts,Cove Rangers,1.0,3.0,A,0.0,1.0,A,2.1,3.6,3.0,2.18,3.42,3.05,2.14,3.46,3.03,1.7,2.1,1.68,2.09,-0.25,1.88,1.98,Kelty Hearts,Cove Rangers,kelty_hearts,cove_rangers
+2024-09-21,SC2,Scotland-L1,2425,Inverness C,Cove Rangers,1.0,1.0,D,0.0,1.0,A,1.85,3.4,3.8,1.9,3.55,3.68,1.88,3.53,3.66,1.75,2.05,1.73,2.03,-0.5,1.93,1.93,Inverness Caledonian Thistle,Cove Rangers,inverness_caledonian_thistle,cove_rangers
+2024-10-05,SC2,Scotland-L1,2425,Alloa,Cove Rangers,0.0,2.0,A,0.0,2.0,A,1.83,3.5,3.7,1.85,3.67,3.73,1.85,3.66,3.67,1.65,2.2,1.64,2.17,-0.5,1.88,1.98,Alloa,Cove Rangers,alloa,cove_rangers
+2024-10-26,SC2,Scotland-L1,2425,Montrose,Cove Rangers,0.0,2.0,A,0.0,0.0,D,2.3,3.3,2.8,2.25,3.65,2.78,2.27,3.5,2.76,1.7,2.1,1.7,2.07,-0.25,2.03,1.83,Montrose,Cove Rangers,montrose,cove_rangers
+2024-11-02,SC2,Scotland-L1,2425,Dumbarton,Cove Rangers,0.0,3.0,A,0.0,0.0,D,2.25,3.5,2.8,2.34,3.57,2.7,2.27,3.53,2.72,1.6,2.3,1.57,2.29,-0.25,2.03,1.83,Dumbarton,Cove Rangers,dumbarton,cove_rangers
+2024-11-16,SC2,Scotland-L1,2425,Arbroath,Cove Rangers,2.0,1.0,H,2.0,1.0,H,2.1,3.25,3.2,2.22,3.25,3.12,2.17,3.28,3.12,2.0,1.85,1.93,1.82,-0.25,1.93,1.93,Arbroath,Cove Rangers,arbroath,cove_rangers
+2024-12-07,SC2,Scotland-L1,2425,Annan Athletic,Cove Rangers,1.0,1.0,D,0.0,1.0,A,2.63,3.5,2.38,2.72,3.25,2.49,2.69,3.33,2.42,1.83,2.03,1.79,1.96,0.0,2.05,1.8,Annan Athletic,Cove Rangers,annan_athletic,cove_rangers
+2024-12-28,SC2,Scotland-L1,2425,Inverness C,Cove Rangers,1.0,4.0,A,1.0,2.0,A,1.57,3.7,5.25,1.62,3.71,5.28,1.59,3.69,5.25,2.05,1.75,2.01,1.75,-0.75,1.75,2.05,Inverness Caledonian Thistle,Cove Rangers,inverness_caledonian_thistle,cove_rangers
+2025-01-04,SC2,Scotland-L1,2425,Queen of Sth,Cove Rangers,1.0,0.0,H,1.0,0.0,H,2.38,3.3,2.7,2.42,3.37,2.71,2.4,3.3,2.73,1.95,1.9,1.91,1.83,0.0,1.8,2.05,Queen of Sth,Cove Rangers,queen_of_sth,cove_rangers
+2025-01-25,SC2,Scotland-L1,2425,Stenhousemuir,Cove Rangers,0.0,4.0,A,0.0,3.0,A,2.1,3.4,3.0,2.21,3.35,3.07,2.15,3.29,3.02,1.93,1.93,1.88,1.86,-0.25,1.93,1.93,Stenhousemuir,Cove Rangers,stenhousemuir,cove_rangers
+2025-03-01,SC2,Scotland-L1,2425,Alloa,Cove Rangers,2.0,1.0,H,0.0,1.0,A,2.88,3.4,2.2,2.78,3.45,2.34,2.8,3.4,2.27,1.75,2.05,1.73,2.02,0.25,1.83,2.03,Alloa,Cove Rangers,alloa,cove_rangers
+2025-03-11,SC2,Scotland-L1,2425,Kelty Hearts,Cove Rangers,0.0,4.0,A,0.0,1.0,A,3.4,3.5,1.85,3.6,3.57,1.93,3.55,3.48,1.93,1.88,1.98,1.83,1.91,0.5,1.9,1.95,Kelty Hearts,Cove Rangers,kelty_hearts,cove_rangers
+2025-03-15,SC2,Scotland-L1,2425,Montrose,Cove Rangers,2.0,2.0,D,0.0,0.0,D,3.5,3.4,1.87,3.57,3.52,1.94,3.59,3.45,1.93,1.85,2.0,1.79,1.95,0.5,1.9,1.95,Montrose,Cove Rangers,montrose,cove_rangers
+2025-03-29,SC2,Scotland-L1,2425,Arbroath,Cove Rangers,1.0,0.0,H,1.0,0.0,H,2.0,3.3,3.2,2.06,3.43,3.32,2.01,3.4,3.35,1.75,2.05,1.76,2.0,-0.5,2.05,1.75,Arbroath,Cove Rangers,arbroath,cove_rangers
+2025-04-12,SC2,Scotland-L1,2425,Dumbarton,Cove Rangers,1.0,3.0,A,0.0,2.0,A,3.6,3.6,1.85,3.14,3.98,1.96,3.33,3.81,1.92,1.62,2.25,1.57,2.29,0.5,1.93,1.93,Dumbarton,Cove Rangers,dumbarton,cove_rangers
+2025-05-03,SC2,Scotland-L1,2425,Annan Athletic,Cove Rangers,2.0,4.0,A,0.0,2.0,A,3.4,3.4,1.95,3.32,3.64,1.99,3.32,3.54,1.99,1.7,2.1,1.69,2.09,0.5,1.8,2.0,Annan Athletic,Cove Rangers,annan_athletic,cove_rangers
+2025-08-09,SC2,Scotland-L1,2526,Stenhousemuir,Cove Rangers,1.0,0.0,H,1.0,0.0,H,3.0,3.4,2.1,3.21,3.42,2.11,2.96,3.33,2.12,1.85,1.95,1.79,1.89,0.25,1.9,1.9,Stenhousemuir,Cove Rangers,stenhousemuir,cove_rangers
+2025-08-23,SC2,Scotland-L1,2526,Peterhead,Cove Rangers,3.0,1.0,H,2.0,0.0,H,2.45,3.3,2.4,2.63,3.11,2.66,2.61,3.1,2.45,2.0,1.8,1.94,1.75,0.0,1.93,1.88,Peterhead,Cove Rangers,peterhead,cove_rangers
+2025-08-30,SC2,Scotland-L1,2526,Hamilton,Cove Rangers,0.0,0.0,D,0.0,0.0,D,1.85,3.5,3.6,1.93,3.49,3.62,1.86,3.38,3.58,1.83,1.98,1.78,1.9,-0.5,1.9,1.9,Hamilton Academical,Cove Rangers,hamilton_academical,cove_rangers
+2025-09-20,SC2,Scotland-L1,2526,Alloa,Cove Rangers,2.0,1.0,H,2.0,0.0,H,2.15,3.4,3.1,2.24,3.31,3.03,2.14,3.25,3.01,1.85,1.95,1.84,1.84,-0.25,1.9,1.9,Alloa,Cove Rangers,alloa,cove_rangers
+2025-10-04,SC2,Scotland-L1,2526,East Fife,Cove Rangers,2.0,0.0,H,1.0,0.0,H,1.83,3.9,3.4,1.89,3.6,3.67,1.82,3.54,3.57,1.73,2.08,1.72,1.98,-0.5,1.85,1.95,East Fife,Cove Rangers,east_fife,cove_rangers
+2025-10-25,SC2,Scotland-L1,2526,Montrose,Cove Rangers,0.0,3.0,A,0.0,1.0,A,2.05,3.3,3.1,,,,2.05,3.19,3.22,2.0,1.8,1.95,1.74,-0.25,1.83,1.98,Montrose,Cove Rangers,montrose,cove_rangers
+2025-11-08,SC2,Scotland-L1,2526,Inverness C,Cove Rangers,1.0,0.0,H,1.0,0.0,H,1.36,5.0,7.0,,,,1.33,4.55,7.71,1.73,2.08,1.67,2.05,-1.5,2.05,1.75,Inverness Caledonian Thistle,Cove Rangers,inverness_caledonian_thistle,cove_rangers
+2025-12-06,SC2,Scotland-L1,2526,Queen of Sth,Cove Rangers,1.0,1.0,D,0.0,1.0,A,2.1,3.4,3.1,,,,2.05,3.42,3.01,1.73,2.08,1.67,2.04,-0.25,1.83,1.98,Queen of Sth,Cove Rangers,queen_of_sth,cove_rangers
+2025-12-20,SC2,Scotland-L1,2526,Kelty Hearts,Cove Rangers,2.0,5.0,A,2.0,1.0,H,3.0,3.25,2.05,,,,3.08,3.14,2.13,2.0,1.8,1.97,1.73,0.25,1.93,1.88,Kelty Hearts,Cove Rangers,kelty_hearts,cove_rangers
+2025-12-27,SC2,Scotland-L1,2526,Peterhead,Cove Rangers,0.0,4.0,A,0.0,2.0,A,2.15,3.3,2.9,,,,2.16,3.29,2.89,1.85,1.95,1.8,1.87,-0.25,1.95,1.85,Peterhead,Cove Rangers,peterhead,cove_rangers
+2026-01-24,SC2,Scotland-L1,2526,Hamilton,Cove Rangers,2.0,0.0,H,0.0,0.0,D,2.38,3.25,2.6,,,,2.27,3.3,2.71,1.85,1.95,1.82,1.86,-0.25,2.1,1.7,Hamilton Academical,Cove Rangers,hamilton_academical,cove_rangers
+2026-01-31,SC2,Scotland-L1,2526,Alloa,Cove Rangers,2.0,2.0,D,1.0,0.0,H,1.95,3.25,3.5,,,,1.92,3.29,3.48,1.98,1.83,1.85,1.82,-0.5,2.0,1.8,Alloa,Cove Rangers,alloa,cove_rangers
+2026-02-14,SC2,Scotland-L1,2526,East Fife,Cove Rangers,2.0,1.0,H,0.0,1.0,A,2.5,3.25,2.45,,,,2.53,3.26,2.4,1.85,1.95,1.81,1.85,0.0,1.95,1.85,East Fife,Cove Rangers,east_fife,cove_rangers
+2026-02-28,SC2,Scotland-L1,2526,Stenhousemuir,Cove Rangers,1.0,0.0,H,1.0,0.0,H,1.85,3.2,3.7,,,,1.91,3.18,3.6,2.1,1.7,2.06,1.66,-0.5,1.95,1.85,Stenhousemuir,Cove Rangers,stenhousemuir,cove_rangers
+2026-03-14,SC2,Scotland-L1,2526,Inverness C,Cove Rangers,1.0,1.0,D,1.0,0.0,H,1.3,4.5,8.0,,,,1.3,4.57,7.81,1.7,2.1,1.68,2.04,-1.5,1.98,1.83,Inverness Caledonian Thistle,Cove Rangers,inverness_caledonian_thistle,cove_rangers
+2026-04-07,SC2,Scotland-L1,2526,Montrose,Cove Rangers,2.0,3.0,A,0.0,1.0,A,2.15,3.4,2.75,,,,2.2,3.44,2.69,1.7,2.1,1.68,2.04,-0.25,1.98,1.83,Montrose,Cove Rangers,montrose,cove_rangers
+2026-04-11,SC2,Scotland-L1,2526,Queen of Sth,Cove Rangers,2.0,0.0,H,0.0,0.0,D,1.75,3.5,3.9,,,,1.79,3.47,3.76,1.8,2.0,1.76,1.91,-0.5,1.8,2.0,Queen of Sth,Cove Rangers,queen_of_sth,cove_rangers
+2026-04-25,SC2,Scotland-L1,2526,Kelty Hearts,Cove Rangers,0.0,2.0,A,0.0,2.0,A,2.88,3.4,2.1,,,,2.89,3.31,2.14,1.88,1.93,1.81,1.85,0.25,1.85,1.95,Kelty Hearts,Cove Rangers,kelty_hearts,cove_rangers
+2026-08-08,SC2,Scotland-L1,2627,East Fife,Cove Rangers,2.0,0.0,H,0.0,0.0,D,2.15,3.1,3.0,,,,2.12,3.2,3.06,2.05,1.75,2.01,1.71,-0.25,1.93,1.88,East Fife,Cove Rangers,east_fife,cove_rangers
+2026-08-15,SC2,Scotland-L1,2627,East Kilbride,Cove Rangers,3.0,0.0,H,0.0,0.0,D,1.42,4.33,5.25,,,,1.4,4.57,5.69,1.44,2.63,1.46,2.55,-1.25,1.9,1.9,East Kilbride,Cove Rangers,east_kilbride,cove_rangers
+2026-08-29,SC2,Scotland-L1,2627,Hamilton,Cove Rangers,1.0,0.0,H,1.0,0.0,H,1.5,3.9,5.25,,,,1.52,4.11,4.98,1.7,2.1,1.66,2.1,-1.0,1.93,1.88,Hamilton Academical,Cove Rangers,hamilton_academical,cove_rangers
+2026-09-12,SC2,Scotland-L1,2627,Montrose,Cove Rangers,2.0,1.0,H,1.0,0.0,H,1.73,3.6,3.8,,,,1.73,3.66,3.89,1.7,2.1,1.66,2.09,-0.75,2.0,1.8,Montrose,Cove Rangers,montrose,cove_rangers
+2026-10-03,SC2,Scotland-L1,2627,Queen of Sth,Cove Rangers,4.0,3.0,H,2.0,0.0,H,2.38,3.6,2.4,,,,2.41,3.41,2.48,1.8,2.0,1.74,1.97,0.0,1.88,1.93,Queen of Sth,Cove Rangers,queen_of_sth,cove_rangers
+2026-10-17,SC2,Scotland-L1,2627,Peterhead,Cove Rangers,2.0,0.0,H,0.0,0.0,D,2.3,3.4,2.6,,,,2.29,3.44,2.63,1.67,2.15,1.65,2.11,-0.25,2.03,1.78,Peterhead,Cove Rangers,peterhead,cove_rangers

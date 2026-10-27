@@ -1,0 +1,96 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-22,T1,Turkey-SL,2122,Fenerbahce,Antalyaspor,2.0,0.0,H,0.0,0.0,D,1.5,4.33,5.0,1.55,4.35,6.15,1.51,4.27,5.88,1.65,2.2,1.66,2.22,-1.0,1.85,2.0,Fenerbahce,Antalyaspor,fenerbahce,antalyaspor
+2021-09-12,T1,Turkey-SL,2122,Fenerbahce,Sivasspor,1.0,1.0,D,1.0,1.0,D,1.57,4.0,5.5,1.62,4.14,5.61,1.59,4.04,5.37,1.75,2.05,1.76,2.06,-1.0,2.02,1.77,Fenerbahce,Sivasspor,fenerbahce,sivasspor
+2021-09-23,T1,Turkey-SL,2122,Fenerbahce,Giresunspor,2.0,1.0,H,1.0,0.0,H,1.4,4.75,7.0,1.4,4.89,8.78,1.39,4.65,7.88,1.66,2.15,1.69,2.16,-1.25,1.9,1.95,Fenerbahce,Giresunspor,fenerbahce,giresunspor
+2021-10-03,T1,Turkey-SL,2122,Fenerbahce,Kasimpasa,2.0,1.0,H,2.0,0.0,H,1.45,4.2,6.5,1.51,4.49,6.82,1.49,4.36,6.28,1.65,2.2,1.65,2.24,-1.0,1.83,2.02,Fenerbahce,Kasimpasa,fenerbahce,kasimpasa
+2021-10-24,T1,Turkey-SL,2122,Fenerbahce,Alanyaspor,1.0,2.0,A,0.0,0.0,D,1.8,3.75,4.2,1.89,3.56,4.54,1.84,3.55,4.18,1.75,2.05,1.79,2.02,-0.5,1.85,2.0,Fenerbahce,Alanyaspor,fenerbahce,alanyaspor
+2021-11-07,T1,Turkey-SL,2122,Fenerbahce,Kayserispor,2.0,2.0,D,0.0,1.0,A,1.44,4.5,6.5,1.45,4.88,7.18,1.44,4.58,6.63,1.65,2.2,1.65,2.21,-1.25,1.98,1.88,Fenerbahce,Kayserispor,fenerbahce,kayserispor
+2021-12-05,T1,Turkey-SL,2122,Fenerbahce,Rizespor,4.0,0.0,H,1.0,0.0,H,1.44,4.5,7.5,1.44,4.72,8.06,1.42,4.61,7.13,1.61,2.25,1.62,2.26,-1.25,1.95,1.9,Fenerbahce,Caykur Rizespor,fenerbahce,caykur_rizespor
+2021-12-19,T1,Turkey-SL,2122,Fenerbahce,Besiktas,2.0,2.0,D,2.0,1.0,H,2.2,3.5,3.1,2.2,3.67,3.26,2.18,3.52,3.12,1.8,2.0,1.74,2.09,-0.25,1.93,1.93,Fenerbahce,Besiktas,fenerbahce,besiktas
+2021-12-26,T1,Turkey-SL,2122,Fenerbahce,Yeni Malatyaspor,2.0,0.0,H,1.0,0.0,H,1.36,4.5,8.0,1.37,5.17,9.08,1.36,4.85,8.33,1.66,2.15,1.66,2.19,-1.5,2.05,1.75,Fenerbahce,Yeni Malatyaspor,fenerbahce,yeni_malatyaspor
+2022-01-10,T1,Turkey-SL,2122,Fenerbahce,Ad. Demirspor,1.0,2.0,A,1.0,1.0,D,1.83,3.75,4.2,1.85,3.69,4.47,1.81,3.65,4.18,1.72,2.07,1.76,2.04,-0.75,2.05,1.75,Fenerbahce,Ad. Demirspor,fenerbahce,ad_demirspor
+2022-01-19,T1,Turkey-SL,2122,Fenerbahce,Altay,2.0,1.0,H,1.0,1.0,D,1.4,4.5,8.5,1.41,5.17,7.71,1.38,4.85,7.55,1.61,2.25,1.6,2.32,-1.25,1.88,1.98,Fenerbahce,Altay,fenerbahce,altay
+2022-02-05,T1,Turkey-SL,2122,Fenerbahce,Buyuksehyr,0.0,1.0,A,0.0,0.0,D,2.15,3.4,3.2,2.27,3.43,3.38,2.21,3.37,3.2,1.98,1.88,1.97,1.83,-0.25,1.9,1.95,Fenerbahce,Buyuksehyr,fenerbahce,buyuksehyr
+2022-02-20,T1,Turkey-SL,2122,Fenerbahce,Hatayspor,2.0,0.0,H,0.0,0.0,D,1.65,3.6,4.33,1.7,4.07,5.09,1.7,3.88,4.67,1.72,2.07,1.72,2.1,-0.75,1.9,1.95,Fenerbahce,Hatayspor,fenerbahce,hatayspor
+2022-03-06,T1,Turkey-SL,2122,Fenerbahce,Trabzonspor,1.0,1.0,D,0.0,1.0,A,2.2,3.3,3.0,2.3,3.56,3.2,2.29,3.33,3.09,1.9,1.95,1.88,1.91,-0.25,1.98,1.88,Fenerbahce,Trabzonspor,fenerbahce,trabzonspor
+2022-03-20,T1,Turkey-SL,2122,Fenerbahce,Konyaspor,2.0,1.0,H,0.0,1.0,A,1.95,3.5,3.6,2.04,3.56,3.88,2.0,3.49,3.66,1.93,1.93,1.88,1.92,-0.5,1.98,1.88,Fenerbahce,Konyaspor,fenerbahce,konyaspor
+2022-04-10,T1,Turkey-SL,2122,Fenerbahce,Galatasaray,2.0,0.0,H,1.0,0.0,H,1.85,3.5,3.75,1.93,3.81,4.01,1.92,3.67,3.78,1.8,2.0,1.77,2.04,-0.5,1.9,1.95,Fenerbahce,Galatasaray,fenerbahce,galatasaray
+2022-04-16,T1,Turkey-SL,2122,Fenerbahce,Goztep,2.0,0.0,H,1.0,0.0,H,1.33,4.75,8.0,1.41,4.96,8.18,1.38,4.81,7.84,1.65,2.2,1.63,2.25,-1.25,1.75,2.05,Fenerbahce,Goztep,fenerbahce,goztep
+2022-04-29,T1,Turkey-SL,2122,Fenerbahce,Gaziantep,3.0,2.0,H,1.0,0.0,H,1.33,5.0,8.0,1.41,5.2,7.62,1.37,5.09,7.5,1.5,2.5,1.48,2.58,-1.5,1.98,1.88,Fenerbahce,Gaziantep,fenerbahce,gaziantep
+2022-05-15,T1,Turkey-SL,2122,Fenerbahce,Karagumruk,0.0,0.0,D,0.0,0.0,D,1.5,4.5,5.5,1.46,5.02,6.71,1.46,4.7,6.16,1.53,2.4,1.53,2.44,-1.25,2.02,1.83,Fenerbahce,Karagumruk,fenerbahce,karagumruk
+2022-08-08,T1,Turkey-SL,2223,Fenerbahce,Umraniyespor,3.0,3.0,D,2.0,1.0,H,1.33,5.0,7.5,1.32,5.59,9.84,1.32,5.21,8.79,1.57,2.35,1.58,2.36,-1.5,1.98,1.88,Fenerbahce,Umraniyespor,fenerbahce,umraniyespor
+2022-08-22,T1,Turkey-SL,2223,Fenerbahce,Ad. Demirspor,4.0,2.0,H,2.0,0.0,H,1.7,4.0,4.5,1.75,4.49,4.16,1.72,4.1,4.21,1.53,2.4,1.51,2.5,-0.75,1.93,1.93,Fenerbahce,Ad. Demirspor,fenerbahce,ad_demirspor
+2022-09-03,T1,Turkey-SL,2223,Fenerbahce,Kayserispor,2.0,0.0,H,1.0,0.0,H,1.4,4.75,5.75,1.43,5.31,7.01,1.4,5.01,6.94,1.47,2.6,1.49,2.58,-1.25,1.85,2.0,Fenerbahce,Kayserispor,fenerbahce,kayserispor
+2022-09-18,T1,Turkey-SL,2223,Fenerbahce,Alanyaspor,5.0,0.0,H,3.0,0.0,H,1.45,4.5,6.5,1.51,4.92,5.97,1.47,4.62,6.0,1.53,2.4,1.54,2.42,-1.25,2.02,1.83,Fenerbahce,Alanyaspor,fenerbahce,alanyaspor
+2022-10-09,T1,Turkey-SL,2223,Fenerbahce,Karagumruk,5.0,4.0,H,2.0,2.0,D,1.36,5.0,6.5,1.39,5.26,8.11,1.37,5.13,7.46,1.5,2.5,1.51,2.53,-1.5,2.02,1.83,Fenerbahce,Karagumruk,fenerbahce,karagumruk
+2022-10-22,T1,Turkey-SL,2223,Fenerbahce,Buyuksehyr,1.0,0.0,H,0.0,0.0,D,1.9,3.6,3.6,1.95,3.79,3.96,1.92,3.64,3.79,1.83,2.02,1.8,2.01,-0.5,1.9,1.95,Fenerbahce,Buyuksehyr,fenerbahce,buyuksehyr
+2022-11-07,T1,Turkey-SL,2223,Fenerbahce,Sivasspor,1.0,0.0,H,0.0,0.0,D,1.36,5.0,8.0,1.34,5.4,9.33,1.35,5.1,8.14,1.57,2.35,1.57,2.36,-1.5,2.0,1.85,Fenerbahce,Sivasspor,fenerbahce,sivasspor
+2022-11-12,T1,Turkey-SL,2223,Fenerbahce,Giresunspor,1.0,2.0,A,1.0,0.0,H,1.3,5.25,8.0,1.3,5.9,10.94,1.29,5.6,9.69,1.53,2.4,1.55,2.41,-1.5,1.85,2.0,Fenerbahce,Giresunspor,fenerbahce,giresunspor
+2022-12-27,T1,Turkey-SL,2223,Fenerbahce,Hatayspor,4.0,0.0,H,2.0,0.0,H,1.29,5.5,8.0,1.32,5.93,9.22,1.3,5.69,9.07,1.53,2.4,1.52,2.49,-1.5,1.85,2.0,Fenerbahce,Hatayspor,fenerbahce,hatayspor
+2023-01-08,T1,Turkey-SL,2223,Fenerbahce,Galatasaray,0.0,3.0,A,0.0,1.0,A,2.05,3.5,3.4,2.14,3.7,3.43,2.11,3.57,3.29,1.67,2.15,1.68,2.18,-0.25,1.83,2.02,Fenerbahce,Galatasaray,fenerbahce,galatasaray
+2023-01-29,T1,Turkey-SL,2223,Fenerbahce,Kasimpasa,5.0,1.0,H,2.0,1.0,H,1.33,5.75,7.5,1.33,5.75,9.53,1.31,5.56,8.56,1.44,2.7,1.45,2.71,-1.5,1.9,1.95,Fenerbahce,Kasimpasa,fenerbahce,kasimpasa
+2023-02-25,T1,Turkey-SL,2223,Fenerbahce,Konyaspor,4.0,0.0,H,2.0,0.0,H,1.5,4.5,6.0,1.51,4.63,6.55,1.48,4.47,6.16,1.62,2.25,1.63,2.26,-1.0,1.83,2.02,Fenerbahce,Konyaspor,fenerbahce,konyaspor
+2023-04-02,T1,Turkey-SL,2223,Fenerbahce,Besiktas,2.0,4.0,A,1.0,0.0,H,1.83,3.5,4.0,1.91,3.92,4.01,1.85,3.79,3.89,1.67,2.15,1.67,2.18,-0.5,1.85,2.0,Fenerbahce,Besiktas,fenerbahce,besiktas
+2023-04-15,T1,Turkey-SL,2223,Fenerbahce,Ankaragucu,2.0,1.0,H,0.0,0.0,D,1.33,5.0,8.0,1.35,5.5,9.05,1.34,5.22,8.19,1.48,2.6,1.48,2.59,-1.5,1.98,1.88,Fenerbahce,Ankaragucu,fenerbahce,ankaragucu
+2023-04-24,T1,Turkey-SL,2223,Fenerbahce,Istanbulspor,3.0,3.0,D,1.0,0.0,H,1.22,5.75,11.0,1.22,7.28,11.29,1.22,6.58,10.88,1.4,2.88,1.4,2.89,-1.75,1.8,2.05,Fenerbahce,Istanbulspor,fenerbahce,istanbulspor
+2023-05-18,T1,Turkey-SL,2223,Fenerbahce,Trabzonspor,3.0,1.0,H,1.0,0.0,H,1.55,3.8,5.25,1.57,4.47,5.82,1.55,4.23,5.46,1.6,2.3,1.6,2.31,-1.0,1.93,1.93,Fenerbahce,Trabzonspor,fenerbahce,trabzonspor
+2023-05-30,T1,Turkey-SL,2223,Fenerbahce,Antalyaspor,2.0,0.0,H,1.0,0.0,H,1.29,5.75,9.5,1.36,5.74,8.04,1.33,5.39,7.92,1.44,2.7,1.43,2.75,-1.5,1.77,2.1,Fenerbahce,Antalyaspor,fenerbahce,antalyaspor
+2023-06-07,T1,Turkey-SL,2223,Fenerbahce,Gaziantep,3.0,0.0,H,,,,,,,,,,,,,,,,,,,,Fenerbahce,Gaziantep,fenerbahce,gaziantep
+2023-08-13,T1,Turkey-SL,2324,Fenerbahce,Gaziantep,2.0,1.0,H,2.0,1.0,H,1.3,5.25,8.0,1.33,6.04,8.69,1.31,5.6,8.48,1.44,2.7,1.43,2.76,-1.5,1.85,2.0,Fenerbahce,Gaziantep,fenerbahce,gaziantep
+2023-09-17,T1,Turkey-SL,2324,Fenerbahce,Antalyaspor,3.0,2.0,H,1.0,1.0,D,1.4,4.5,7.5,1.4,5.41,7.66,1.38,4.99,7.45,1.57,2.35,1.55,2.4,-1.25,1.8,2.05,Fenerbahce,Antalyaspor,fenerbahce,antalyaspor
+2023-09-28,T1,Turkey-SL,2324,Fenerbahce,Buyuksehyr,4.0,0.0,H,3.0,0.0,H,1.45,4.5,7.0,1.44,5.07,7.13,1.42,4.71,6.76,1.57,2.35,1.59,2.33,-1.25,1.95,1.9,Fenerbahce,Buyuksehyr,fenerbahce,buyuksehyr
+2023-10-01,T1,Turkey-SL,2324,Fenerbahce,Rizespor,5.0,0.0,H,1.0,0.0,H,1.36,5.0,8.0,1.34,5.83,8.54,1.34,5.3,8.02,1.53,2.4,1.52,2.47,-1.5,1.95,1.9,Fenerbahce,Caykur Rizespor,fenerbahce,caykur_rizespor
+2023-10-22,T1,Turkey-SL,2324,Fenerbahce,Hatayspor,4.0,2.0,H,3.0,0.0,H,1.22,6.0,9.0,1.22,7.29,12.61,1.21,6.56,11.85,1.44,2.7,1.45,2.65,-1.75,1.83,2.03,Fenerbahce,Hatayspor,fenerbahce,hatayspor
+2023-11-04,T1,Turkey-SL,2324,Fenerbahce,Trabzonspor,2.0,3.0,A,0.0,1.0,A,1.33,4.75,8.5,1.35,5.58,9.05,1.34,5.21,8.13,1.53,2.4,1.51,2.5,-1.5,1.98,1.88,Fenerbahce,Trabzonspor,fenerbahce,trabzonspor
+2023-11-26,T1,Turkey-SL,2324,Fenerbahce,Karagumruk,2.0,1.0,H,0.0,1.0,A,1.25,6.5,9.5,1.24,6.94,11.63,1.23,6.46,10.83,1.44,2.7,1.43,2.74,-1.75,1.88,1.98,Fenerbahce,Karagumruk,fenerbahce,karagumruk
+2023-12-04,T1,Turkey-SL,2324,Fenerbahce,Sivasspor,4.0,1.0,H,2.0,0.0,H,1.25,6.0,10.0,1.23,6.95,11.81,1.22,6.5,11.01,1.4,2.88,1.41,2.83,-1.75,1.88,1.98,Fenerbahce,Sivasspor,fenerbahce,sivasspor
+2023-12-24,T1,Turkey-SL,2324,Fenerbahce,Galatasaray,0.0,0.0,D,0.0,0.0,D,2.1,3.6,3.0,2.25,3.71,3.19,2.17,3.68,3.02,1.6,2.3,1.61,2.3,-0.25,1.88,1.98,Fenerbahce,Galatasaray,fenerbahce,galatasaray
+2024-01-10,T1,Turkey-SL,2324,Fenerbahce,Konyaspor,7.0,1.0,H,5.0,0.0,H,1.22,6.5,10.0,1.23,6.8,13.26,1.21,6.41,12.27,1.53,2.4,1.53,2.44,-1.75,1.88,1.98,Fenerbahce,Konyaspor,fenerbahce,konyaspor
+2024-01-21,T1,Turkey-SL,2324,Fenerbahce,Samsunspor,1.0,1.0,D,1.0,0.0,H,1.22,6.5,12.0,1.22,7.08,13.56,1.21,6.58,12.04,1.44,2.7,1.45,2.67,-2.0,2.03,1.78,Fenerbahce,Samsunspor,fenerbahce,samsunspor
+2024-01-28,T1,Turkey-SL,2324,Fenerbahce,Ankaragucu,2.0,1.0,H,2.0,1.0,H,1.2,6.5,15.0,1.18,7.9,15.93,1.18,7.06,13.66,1.48,2.6,1.47,2.59,-2.0,1.95,1.9,Fenerbahce,Ankaragucu,fenerbahce,ankaragucu
+2024-02-11,T1,Turkey-SL,2324,Fenerbahce,Alanyaspor,2.0,2.0,D,0.0,1.0,A,1.22,6.5,13.0,1.21,7.5,12.98,1.2,6.71,12.05,1.4,2.88,1.4,2.87,-2.0,2.03,1.83,Fenerbahce,Alanyaspor,fenerbahce,alanyaspor
+2024-02-24,T1,Turkey-SL,2324,Fenerbahce,Kasimpasa,2.0,1.0,H,0.0,0.0,D,1.2,7.5,12.0,1.21,7.95,12.05,1.19,7.47,11.52,1.25,4.0,1.26,3.74,-2.0,1.8,2.0,Fenerbahce,Kasimpasa,fenerbahce,kasimpasa
+2024-03-10,T1,Turkey-SL,2324,Fenerbahce,Pendikspor,4.0,1.0,H,0.0,1.0,A,1.18,8.0,12.0,1.18,8.58,14.14,1.17,7.65,13.13,1.33,3.4,1.32,3.28,-2.0,1.78,2.03,Fenerbahce,Pendikspor,fenerbahce,pendikspor
+2024-04-03,T1,Turkey-SL,2324,Fenerbahce,Ad. Demirspor,4.0,2.0,H,1.0,1.0,D,1.25,7.0,9.0,1.26,6.52,10.17,1.26,6.13,9.63,1.44,2.7,1.43,2.74,-1.75,1.95,1.9,Fenerbahce,Ad. Demirspor,fenerbahce,ad_demirspor
+2024-04-27,T1,Turkey-SL,2324,Fenerbahce,Besiktas,2.0,1.0,H,1.0,0.0,H,1.45,4.75,6.0,1.46,5.0,6.51,1.43,4.77,6.35,1.53,2.4,1.53,2.45,-1.25,1.95,1.9,Fenerbahce,Besiktas,fenerbahce,besiktas
+2024-05-12,T1,Turkey-SL,2324,Fenerbahce,Kayserispor,3.0,0.0,H,2.0,0.0,H,1.18,7.5,12.0,1.18,8.43,13.47,1.16,7.8,13.03,1.3,3.5,1.3,3.36,-2.25,2.0,1.85,Fenerbahce,Kayserispor,fenerbahce,kayserispor
+2024-05-26,T1,Turkey-SL,2324,Fenerbahce,Istanbulspor,6.0,0.0,H,3.0,0.0,H,1.06,12.0,26.0,1.04,15.1,22.58,1.05,14.18,27.07,1.17,5.0,1.15,4.86,-3.25,2.03,1.83,Fenerbahce,Istanbulspor,fenerbahce,istanbulspor
+2024-08-10,T1,Turkey-SL,2425,Fenerbahce,Ad. Demirspor,1.0,0.0,H,1.0,0.0,H,1.14,8.5,14.0,1.15,8.69,13.22,1.14,8.62,14.64,1.29,3.6,1.27,3.6,-2.25,1.88,1.98,Fenerbahce,Ad. Demirspor,fenerbahce,ad_demirspor
+2024-08-30,T1,Turkey-SL,2425,Fenerbahce,Alanyaspor,3.0,0.0,H,1.0,0.0,H,1.3,5.25,9.5,1.3,5.97,9.77,1.29,5.72,9.34,1.5,2.5,1.5,2.53,-1.5,1.83,2.03,Fenerbahce,Alanyaspor,fenerbahce,alanyaspor
+2024-09-21,T1,Turkey-SL,2425,Fenerbahce,Galatasaray,1.0,3.0,A,0.0,2.0,A,2.15,3.4,3.25,2.15,3.46,3.37,2.12,3.58,3.22,1.62,2.25,1.59,2.32,-0.25,1.88,1.98,Fenerbahce,Galatasaray,fenerbahce,galatasaray
+2024-10-27,T1,Turkey-SL,2425,Fenerbahce,Bodrumspor,2.0,0.0,H,1.0,0.0,H,1.22,6.5,11.0,1.2,6.64,12.38,1.21,6.4,12.83,1.65,2.2,1.63,2.24,-1.75,,,Fenerbahce,Bodrumspor,fenerbahce,bodrumspor
+2024-11-10,T1,Turkey-SL,2425,Fenerbahce,Sivasspor,4.0,0.0,H,1.0,0.0,H,1.2,7.0,12.0,1.19,7.29,12.12,1.19,6.91,12.61,1.48,2.6,1.48,2.59,-2.0,2.03,1.83,Fenerbahce,Sivasspor,fenerbahce,sivasspor
+2024-12-02,T1,Turkey-SL,2425,Fenerbahce,Gaziantep,3.0,1.0,H,1.0,1.0,D,1.25,6.5,9.0,1.26,6.53,8.78,1.24,6.38,9.96,1.4,2.88,1.41,2.79,-1.75,1.88,1.98,Fenerbahce,Gaziantep,fenerbahce,gaziantep
+2024-12-15,T1,Turkey-SL,2425,Fenerbahce,Buyuksehyr,3.0,1.0,H,1.0,0.0,H,1.38,5.75,6.25,1.37,5.35,7.2,1.36,5.14,7.32,1.57,2.35,1.59,2.3,-1.5,2.05,1.8,Fenerbahce,Buyuksehyr,fenerbahce,buyuksehyr
+2025-01-05,T1,Turkey-SL,2425,Fenerbahce,Hatayspor,2.0,1.0,H,2.0,1.0,H,1.08,9.0,23.0,1.08,11.9,25.19,1.08,10.37,24.24,1.36,3.1,1.33,3.13,-2.5,1.85,2.0,Fenerbahce,Hatayspor,fenerbahce,hatayspor
+2025-01-26,T1,Turkey-SL,2425,Fenerbahce,Goztep,3.0,2.0,H,0.0,1.0,A,1.4,4.75,7.0,1.39,5.02,7.32,1.37,4.98,7.35,1.57,2.35,1.54,2.38,-1.25,1.85,2.0,Fenerbahce,Goztep,fenerbahce,goztep
+2025-02-02,T1,Turkey-SL,2425,Fenerbahce,Rizespor,3.0,2.0,H,1.0,2.0,A,1.36,4.75,8.5,1.32,5.56,8.33,1.33,5.26,8.22,1.53,2.4,1.5,2.48,-1.5,1.95,1.9,Fenerbahce,Caykur Rizespor,fenerbahce,caykur_rizespor
+2025-02-16,T1,Turkey-SL,2425,Fenerbahce,Kasimpasa,3.0,1.0,H,1.0,0.0,H,1.27,6.25,9.0,1.22,6.66,10.7,1.23,6.55,9.77,1.33,3.4,1.3,3.35,-1.75,1.88,1.98,Fenerbahce,Kasimpasa,fenerbahce,kasimpasa
+2025-03-02,T1,Turkey-SL,2425,Fenerbahce,Antalyaspor,3.0,0.0,H,3.0,0.0,H,1.27,6.5,8.5,1.24,6.27,10.33,1.24,6.12,10.09,1.5,2.5,1.5,2.51,-1.75,1.98,1.88,Fenerbahce,Antalyaspor,fenerbahce,antalyaspor
+2025-03-16,T1,Turkey-SL,2425,Fenerbahce,Samsunspor,0.0,0.0,D,0.0,0.0,D,1.38,4.75,7.0,1.37,4.9,8.02,1.37,4.84,7.68,1.67,2.15,1.68,2.15,-1.25,1.84,1.89,Fenerbahce,Samsunspor,fenerbahce,samsunspor
+2025-04-06,T1,Turkey-SL,2425,Fenerbahce,Trabzonspor,4.0,1.0,H,0.0,1.0,A,1.42,4.75,6.5,1.39,5.0,7.37,1.38,4.9,6.87,1.53,2.4,1.52,2.41,-1.25,1.95,1.9,Fenerbahce,Trabzonspor,fenerbahce,trabzonspor
+2025-04-20,T1,Turkey-SL,2425,Fenerbahce,Kayserispor,3.0,3.0,D,1.0,1.0,D,1.18,7.5,11.0,1.15,8.17,15.79,1.16,7.56,13.74,1.4,2.88,1.37,2.91,-2.0,1.88,1.98,Fenerbahce,Kayserispor,fenerbahce,kayserispor
+2025-05-04,T1,Turkey-SL,2425,Fenerbahce,Besiktas,0.0,1.0,A,0.0,1.0,A,1.5,4.2,5.25,1.53,4.58,5.44,1.52,4.45,5.42,1.5,2.4,1.52,2.41,-1.0,1.82,1.92,Fenerbahce,Besiktas,fenerbahce,besiktas
+2025-05-18,T1,Turkey-SL,2425,Fenerbahce,Eyupspor,2.0,1.0,H,1.0,0.0,H,1.22,6.0,11.0,1.21,6.96,9.96,1.22,6.7,10.16,1.33,3.4,1.3,3.31,-2.0,1.98,1.83,Fenerbahce,Eyupspor,fenerbahce,eyupspor
+2025-05-31,T1,Turkey-SL,2425,Fenerbahce,Konyaspor,2.0,1.0,H,0.0,1.0,A,1.48,5.25,5.25,1.49,4.48,5.58,1.47,4.79,5.59,1.36,3.1,1.37,2.9,-1.25,1.98,1.83,Fenerbahce,Konyaspor,fenerbahce,konyaspor
+2025-08-23,T1,Turkey-SL,2526,Fenerbahce,Kocaelispor,3.0,1.0,H,1.0,1.0,D,1.33,5.0,7.0,1.29,5.82,9.28,1.28,5.39,8.73,1.53,2.4,1.52,2.39,-1.5,1.85,1.95,Fenerbahce,Kocaelispor,fenerbahce,kocaelispor
+2025-09-14,T1,Turkey-SL,2526,Fenerbahce,Trabzonspor,1.0,0.0,H,1.0,0.0,H,1.35,5.0,7.5,1.43,4.64,6.89,1.41,4.58,6.76,1.65,2.2,1.62,2.2,-1.25,1.83,1.98,Fenerbahce,Trabzonspor,fenerbahce,trabzonspor
+2025-09-17,T1,Turkey-SL,2526,Fenerbahce,Alanyaspor,2.0,2.0,D,0.0,1.0,A,1.27,5.5,8.5,1.3,5.7,8.91,1.27,5.56,8.82,1.53,2.4,1.47,2.55,-1.5,1.85,1.95,Fenerbahce,Alanyaspor,fenerbahce,alanyaspor
+2025-09-28,T1,Turkey-SL,2526,Fenerbahce,Antalyaspor,2.0,0.0,H,0.0,0.0,D,1.19,6.5,12.0,1.19,6.91,12.72,1.19,6.43,12.79,1.53,2.4,1.49,2.48,-2.0,2.03,1.78,Fenerbahce,Antalyaspor,fenerbahce,antalyaspor
+2025-10-19,T1,Turkey-SL,2526,Fenerbahce,Karagumruk,2.0,1.0,H,2.0,0.0,H,1.15,7.5,11.0,1.16,8.05,13.74,1.18,6.64,12.0,1.44,2.7,1.42,2.71,-2.0,1.9,1.9,Fenerbahce,Karagumruk,fenerbahce,karagumruk
+2025-11-09,T1,Turkey-SL,2526,Fenerbahce,Kayserispor,4.0,2.0,H,2.0,0.0,H,1.15,7.5,12.0,,,,1.16,6.81,12.39,1.36,3.1,1.34,3.04,-2.0,1.78,2.03,Fenerbahce,Kayserispor,fenerbahce,kayserispor
+2025-12-01,T1,Turkey-SL,2526,Fenerbahce,Galatasaray,1.0,1.0,D,0.0,1.0,A,2.1,3.5,3.2,2.23,3.35,3.3,2.16,3.46,3.05,1.67,2.15,1.66,2.12,-0.25,1.9,1.9,Fenerbahce,Galatasaray,fenerbahce,galatasaray
+2025-12-15,T1,Turkey-SL,2526,Fenerbahce,Konyaspor,4.0,0.0,H,3.0,0.0,H,1.24,6.0,9.5,1.24,6.37,10.09,1.24,5.76,10.2,1.5,2.5,1.49,2.47,-1.75,1.95,1.85,Fenerbahce,Konyaspor,fenerbahce,konyaspor
+2026-01-25,T1,Turkey-SL,2526,Fenerbahce,Goztep,1.0,1.0,D,1.0,1.0,D,1.41,4.33,7.0,,,,1.4,4.31,7.2,1.85,1.95,1.81,1.89,-1.25,2.0,1.8,Fenerbahce,Goztep,fenerbahce,goztep
+2026-02-09,T1,Turkey-SL,2526,Fenerbahce,Genclerbirligi,3.0,1.0,H,3.0,0.0,H,1.19,6.0,13.0,,,,1.21,5.87,11.27,1.5,2.5,1.48,2.5,-1.75,1.85,1.95,Fenerbahce,Genclerbirligi,fenerbahce,genclerbirligi
+2026-02-23,T1,Turkey-SL,2526,Fenerbahce,Kasimpasa,1.0,1.0,D,0.0,0.0,D,1.19,6.0,13.0,,,,1.23,5.66,10.05,1.53,2.4,1.52,2.38,-1.75,1.93,1.88,Fenerbahce,Kasimpasa,fenerbahce,kasimpasa
+2026-03-08,T1,Turkey-SL,2526,Fenerbahce,Samsunspor,3.0,2.0,H,1.0,2.0,A,1.45,4.5,6.5,,,,1.43,4.28,6.45,1.75,2.05,1.71,2.02,-1.25,2.03,1.78,Fenerbahce,Samsunspor,fenerbahce,samsunspor
+2026-03-17,T1,Turkey-SL,2526,Fenerbahce,Gaziantep,4.0,1.0,H,1.0,0.0,H,1.22,6.25,8.0,,,,1.23,5.75,9.67,1.44,2.7,1.45,2.58,-1.75,1.9,1.9,Fenerbahce,Gaziantep,fenerbahce,gaziantep
+2026-04-05,T1,Turkey-SL,2526,Fenerbahce,Besiktas,1.0,0.0,H,0.0,0.0,D,1.91,3.75,3.5,,,,1.94,3.63,3.34,1.62,2.25,1.6,2.23,-0.5,2.0,1.8,Fenerbahce,Besiktas,fenerbahce,besiktas
+2026-04-17,T1,Turkey-SL,2526,Fenerbahce,Rizespor,2.0,2.0,D,0.0,0.0,D,1.3,5.0,8.0,,,,1.31,5.12,7.75,1.48,2.6,1.44,2.62,-1.5,1.98,1.83,Fenerbahce,Caykur Rizespor,fenerbahce,caykur_rizespor
+2026-05-02,T1,Turkey-SL,2526,Fenerbahce,Buyuksehyr,3.0,1.0,H,1.0,1.0,D,1.61,4.33,4.5,,,,1.6,4.04,4.57,1.5,2.5,1.51,2.41,-0.75,1.8,2.0,Fenerbahce,Buyuksehyr,fenerbahce,buyuksehyr
+2026-05-17,T1,Turkey-SL,2526,Fenerbahce,Eyupspor,3.0,3.0,D,0.0,2.0,A,1.22,6.25,9.0,,,,1.23,5.9,9.53,1.4,2.88,1.39,2.77,-1.75,1.9,1.9,Fenerbahce,Eyupspor,fenerbahce,eyupspor
+2026-08-22,T1,Turkey-SL,2627,Fenerbahce,Konyaspor,4.0,2.0,H,3.0,1.0,H,1.25,5.25,10.0,,,,1.26,5.37,9.19,1.53,2.4,1.49,2.48,-1.5,1.83,1.98,Fenerbahce,Konyaspor,fenerbahce,konyaspor
+2026-09-05,T1,Turkey-SL,2627,Fenerbahce,Besiktas,1.0,2.0,A,1.0,1.0,D,1.76,3.7,3.9,,,,1.79,3.7,3.89,1.7,2.1,1.66,2.11,-0.5,1.8,2.0,Fenerbahce,Besiktas,fenerbahce,besiktas
+2026-09-20,T1,Turkey-SL,2627,Fenerbahce,Eyupspor,8.0,0.0,H,5.0,0.0,H,1.15,6.5,13.0,,,,1.18,6.44,12.0,1.44,2.7,1.42,2.67,-2.0,1.95,1.85,Fenerbahce,Eyupspor,fenerbahce,eyupspor
+2026-10-17,T1,Turkey-SL,2627,Fenerbahce,Alanyaspor,3.0,0.0,H,1.0,0.0,H,1.25,5.0,8.5,,,,1.27,5.27,9.0,1.53,2.4,1.54,2.33,-1.5,1.83,1.98,Fenerbahce,Alanyaspor,fenerbahce,alanyaspor

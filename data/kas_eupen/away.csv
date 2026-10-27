@@ -1,0 +1,53 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-25,B1,Belgium-JPL,2122,Club Brugge,Eupen,2.0,2.0,D,0.0,0.0,D,1.18,6.5,15.0,1.19,7.06,14.84,1.19,6.77,13.41,1.47,2.6,1.48,2.6,-2.0,2.02,1.83,Club Brugge,KAS Eupen,club_brugge,kas_eupen
+2021-08-07,B1,Belgium-JPL,2122,Mechelen,Eupen,1.0,3.0,A,1.0,0.0,H,1.7,3.75,4.2,1.78,4.38,4.0,1.76,4.08,4.01,1.65,2.2,1.62,2.26,-0.75,1.98,1.88,KV Mechelen,KAS Eupen,kv_mechelen,kas_eupen
+2021-08-21,B1,Belgium-JPL,2122,Oud-Heverlee Leuven,Eupen,1.0,4.0,A,0.0,2.0,A,2.3,3.6,2.8,2.36,3.9,2.79,2.35,3.67,2.73,1.65,2.2,1.66,2.2,-0.25,2.05,1.8,Oud-Heverlee Leuven,KAS Eupen,oud_heverlee_leuven,kas_eupen
+2021-09-17,B1,Belgium-JPL,2122,Cercle Brugge,Eupen,1.0,2.0,A,1.0,1.0,D,2.05,3.6,3.4,2.17,3.56,3.41,2.11,3.52,3.33,1.85,1.95,1.85,1.96,-0.25,1.88,1.98,Cercle Brugge,KAS Eupen,cercle_brugge,kas_eupen
+2021-09-25,B1,Belgium-JPL,2122,Beerschot VA,Eupen,0.0,3.0,A,0.0,1.0,A,2.75,3.4,2.37,2.76,3.85,2.37,2.73,3.64,2.37,1.65,2.2,1.67,2.2,0.0,2.02,1.83,Beerschot VA,KAS Eupen,beerschot_va,kas_eupen
+2021-10-17,B1,Belgium-JPL,2122,Gent,Eupen,2.0,0.0,H,1.0,0.0,H,1.57,4.2,5.5,1.61,4.37,5.05,1.61,4.17,4.93,1.65,2.2,1.65,2.22,-1.0,2.05,1.8,KAA Gent,KAS Eupen,kaa_gent,kas_eupen
+2021-10-30,B1,Belgium-JPL,2122,Charleroi,Eupen,3.0,0.0,H,0.0,0.0,D,1.72,3.6,4.33,1.84,3.9,4.04,1.83,3.76,3.96,1.65,2.2,1.65,2.2,-0.5,1.83,2.02,Sporting Charleroi,KAS Eupen,sporting_charleroi,kas_eupen
+2021-11-20,B1,Belgium-JPL,2122,Standard,Eupen,1.0,0.0,H,1.0,0.0,H,1.85,3.6,4.0,1.96,3.87,3.61,1.96,3.71,3.55,1.66,2.15,1.69,2.16,-0.5,1.95,1.9,Standard Liege,KAS Eupen,standard_liege,kas_eupen
+2021-12-04,B1,Belgium-JPL,2122,Oostende,Eupen,2.0,1.0,H,0.0,1.0,A,2.45,3.5,2.7,2.45,3.73,2.72,2.41,3.61,2.69,1.61,2.25,1.62,2.27,0.0,1.83,2.02,KV Oostende,KAS Eupen,kv_oostende,kas_eupen
+2021-12-16,B1,Belgium-JPL,2122,Antwerp,Eupen,4.0,2.0,H,2.0,1.0,H,1.57,4.33,5.25,1.59,4.36,5.26,1.59,4.28,4.99,1.57,2.35,1.56,2.39,-1.0,2.0,1.85,Royal Antwerp,KAS Eupen,royal_antwerp,kas_eupen
+2021-12-27,B1,Belgium-JPL,2122,St Truiden,Eupen,2.0,0.0,H,1.0,0.0,H,2.2,3.5,2.9,2.26,3.61,3.08,2.23,3.48,3.03,1.9,1.95,1.84,1.94,-0.25,1.93,1.93,Sint-Truiden,KAS Eupen,sint_truiden,kas_eupen
+2022-01-22,B1,Belgium-JPL,2122,Kortrijk,Eupen,1.0,1.0,D,0.0,1.0,A,1.83,3.6,4.0,1.93,3.49,4.1,1.89,3.53,3.96,1.93,1.93,1.85,1.92,-0.5,1.88,1.98,KV Kortrijk,KAS Eupen,kv_kortrijk,kas_eupen
+2022-01-29,B1,Belgium-JPL,2122,Seraing,Eupen,0.0,0.0,D,0.0,0.0,D,2.4,3.4,2.8,2.49,3.47,2.82,2.43,3.38,2.79,1.9,1.95,1.87,1.91,0.0,1.77,2.1,RFC Seraing,KAS Eupen,rfc_seraing,kas_eupen
+2022-02-06,B1,Belgium-JPL,2122,Anderlecht,Eupen,4.0,1.0,H,3.0,1.0,H,1.36,5.0,7.5,1.38,4.92,8.18,1.35,4.96,8.25,1.65,2.2,1.62,2.25,-1.5,2.0,1.85,Anderlecht,KAS Eupen,anderlecht,kas_eupen
+2022-02-26,B1,Belgium-JPL,2122,St. Gilloise,Eupen,0.0,0.0,D,0.0,0.0,D,1.36,4.75,6.0,1.32,5.25,9.46,1.34,5.15,8.49,1.57,2.35,1.57,2.37,-1.5,2.1,1.77,St. Gilloise,KAS Eupen,st_gilloise,kas_eupen
+2022-03-12,B1,Belgium-JPL,2122,Waregem,Eupen,3.0,0.0,H,1.0,0.0,H,2.3,3.5,2.8,2.42,3.63,2.81,2.38,3.53,2.79,1.66,2.15,1.69,2.14,-0.25,2.05,1.8,Zulte Waregem,KAS Eupen,zulte_waregem,kas_eupen
+2022-04-03,B1,Belgium-JPL,2122,Genk,Eupen,5.0,0.0,H,2.0,0.0,H,1.4,4.75,7.0,1.39,4.97,7.57,1.4,4.84,7.02,1.57,2.35,1.57,2.35,-1.25,1.93,1.93,Genk,KAS Eupen,genk,kas_eupen
+2022-07-23,B1,Belgium-JPL,2223,Charleroi,Eupen,3.0,1.0,H,1.0,0.0,H,1.61,3.6,4.75,1.68,4.35,4.69,1.67,4.05,4.59,1.66,2.15,1.63,2.23,-0.75,1.83,2.02,Sporting Charleroi,KAS Eupen,sporting_charleroi,kas_eupen
+2022-08-06,B1,Belgium-JPL,2223,Genk,Eupen,4.0,2.0,H,3.0,1.0,H,1.36,5.0,6.5,1.35,5.76,8.06,1.35,5.3,7.43,1.44,2.7,1.44,2.72,-1.5,1.98,1.88,Genk,KAS Eupen,genk,kas_eupen
+2022-08-28,B1,Belgium-JPL,2223,Westerlo,Eupen,0.0,1.0,A,0.0,0.0,D,1.85,3.5,4.2,,,,1.84,3.59,4.16,1.83,2.02,1.8,2.01,-0.5,1.88,1.98,KVC Westerlo,KAS Eupen,kvc_westerlo,kas_eupen
+2022-09-10,B1,Belgium-JPL,2223,Oostende,Eupen,1.0,0.0,H,0.0,0.0,D,2.1,3.6,3.3,2.12,3.85,3.32,2.1,3.68,3.18,1.66,2.15,1.67,2.17,-0.25,1.85,2.0,KV Oostende,KAS Eupen,kv_oostende,kas_eupen
+2022-10-02,B1,Belgium-JPL,2223,St Truiden,Eupen,0.0,1.0,A,0.0,0.0,D,1.72,3.75,4.33,1.82,3.67,4.42,1.78,3.64,4.4,2.0,1.85,1.97,1.82,-0.75,2.0,1.85,Sint-Truiden,KAS Eupen,sint_truiden,kas_eupen
+2022-10-15,B1,Belgium-JPL,2223,Cercle Brugge,Eupen,5.0,1.0,H,3.0,1.0,H,1.8,3.6,4.2,1.87,3.87,4.14,1.84,3.71,4.02,1.83,2.02,1.8,1.99,-0.75,2.05,1.75,Cercle Brugge,KAS Eupen,cercle_brugge,kas_eupen
+2022-10-22,B1,Belgium-JPL,2223,Mechelen,Eupen,2.0,1.0,H,1.0,1.0,D,1.85,3.8,3.75,1.93,3.95,3.78,1.92,3.75,3.69,1.72,2.07,1.72,2.1,-0.5,1.9,1.95,KV Mechelen,KAS Eupen,kv_mechelen,kas_eupen
+2022-10-30,B1,Belgium-JPL,2223,Anderlecht,Eupen,4.0,2.0,H,2.0,1.0,H,1.44,4.75,6.0,1.44,4.96,6.9,1.44,4.64,6.48,1.61,2.25,1.61,2.26,-1.25,2.0,1.85,Anderlecht,KAS Eupen,anderlecht,kas_eupen
+2022-11-12,B1,Belgium-JPL,2223,Waregem,Eupen,5.0,5.0,D,2.0,3.0,A,2.3,3.75,2.8,2.31,3.9,2.91,2.28,3.68,2.84,1.61,2.25,1.63,2.23,-0.25,2.0,1.85,Zulte Waregem,KAS Eupen,zulte_waregem,kas_eupen
+2022-12-23,B1,Belgium-JPL,2223,Seraing,Eupen,0.0,1.0,A,0.0,0.0,D,2.7,3.25,2.45,2.79,3.57,2.53,2.74,3.43,2.47,1.85,2.0,1.83,1.95,0.0,2.02,1.83,RFC Seraing,KAS Eupen,rfc_seraing,kas_eupen
+2023-01-17,B1,Belgium-JPL,2223,Oud-Heverlee Leuven,Eupen,1.0,1.0,D,1.0,0.0,H,1.62,4.0,4.75,1.67,4.39,4.78,1.66,4.15,4.61,1.53,2.4,1.54,2.42,-0.75,1.77,2.02,Oud-Heverlee Leuven,KAS Eupen,oud_heverlee_leuven,kas_eupen
+2023-01-27,B1,Belgium-JPL,2223,Standard,Eupen,3.0,1.0,H,2.0,1.0,H,1.65,3.75,4.5,1.68,3.98,5.2,1.68,3.84,4.87,1.85,2.0,1.83,1.97,-0.75,1.85,2.0,Standard Liege,KAS Eupen,standard_liege,kas_eupen
+2023-02-18,B1,Belgium-JPL,2223,Antwerp,Eupen,2.0,0.0,H,2.0,0.0,H,1.36,5.0,8.0,1.37,5.26,8.43,1.36,5.0,8.17,1.65,2.2,1.64,2.22,-1.5,2.02,1.83,Royal Antwerp,KAS Eupen,royal_antwerp,kas_eupen
+2023-03-05,B1,Belgium-JPL,2223,St. Gilloise,Eupen,2.0,1.0,H,1.0,0.0,H,1.25,5.5,12.0,1.23,6.29,11.47,1.25,5.99,10.89,1.53,2.4,1.54,2.43,-1.75,1.98,1.88,St. Gilloise,KAS Eupen,st_gilloise,kas_eupen
+2023-03-19,B1,Belgium-JPL,2223,Gent,Eupen,3.0,0.0,H,1.0,0.0,H,1.36,4.75,8.0,1.34,5.15,9.02,1.34,4.98,8.43,1.65,2.2,1.64,2.21,-1.5,2.02,1.77,KAA Gent,KAS Eupen,kaa_gent,kas_eupen
+2023-04-08,B1,Belgium-JPL,2223,Kortrijk,Eupen,0.0,0.0,D,0.0,0.0,D,2.0,3.5,3.6,2.04,3.79,3.47,2.03,3.63,3.38,1.73,2.08,1.72,2.09,-0.5,2.05,1.8,KV Kortrijk,KAS Eupen,kv_kortrijk,kas_eupen
+2023-04-23,B1,Belgium-JPL,2223,Club Brugge,Eupen,7.0,0.0,H,4.0,0.0,H,1.3,5.0,9.5,1.3,5.64,9.77,1.29,5.51,9.12,1.48,2.6,1.48,2.56,-1.5,1.85,2.0,Club Brugge,KAS Eupen,club_brugge,kas_eupen
+2023-08-05,B1,Belgium-JPL,2324,Genk,Eupen,0.0,1.0,A,0.0,1.0,A,1.33,5.25,8.5,1.29,6.28,9.53,1.29,5.67,8.88,1.44,2.7,1.45,2.67,-1.5,1.83,2.03,Genk,KAS Eupen,genk,kas_eupen
+2023-08-20,B1,Belgium-JPL,2324,Kortrijk,Eupen,1.0,3.0,A,0.0,0.0,D,2.25,3.5,3.0,2.33,3.77,2.85,2.27,3.58,2.89,1.62,2.25,1.61,2.26,-0.25,2.0,1.85,KV Kortrijk,KAS Eupen,kv_kortrijk,kas_eupen
+2023-09-02,B1,Belgium-JPL,2324,Mechelen,Eupen,1.0,0.0,H,0.0,0.0,D,1.8,3.8,4.0,1.78,4.13,4.21,1.77,3.98,4.06,1.57,2.35,1.54,2.42,-0.75,1.98,1.88,KV Mechelen,KAS Eupen,kv_mechelen,kas_eupen
+2023-09-24,B1,Belgium-JPL,2324,Gent,Eupen,2.0,1.0,H,0.0,1.0,A,1.29,5.5,11.0,1.28,5.94,9.23,1.28,5.73,9.63,1.5,2.5,1.49,2.54,-1.5,1.8,2.05,KAA Gent,KAS Eupen,kaa_gent,kas_eupen
+2023-10-08,B1,Belgium-JPL,2324,Antwerp,Eupen,4.0,1.0,H,2.0,1.0,H,1.25,6.5,9.5,1.23,6.64,10.66,1.23,6.33,10.72,1.5,2.5,1.49,2.54,-1.75,1.9,1.95,Royal Antwerp,KAS Eupen,royal_antwerp,kas_eupen
+2023-10-20,B1,Belgium-JPL,2324,St. Gilloise,Eupen,4.0,1.0,H,2.0,0.0,H,1.18,6.5,13.0,1.2,7.49,13.66,1.19,6.95,13.28,1.44,2.7,1.4,2.84,-2.0,1.95,1.9,St. Gilloise,KAS Eupen,st_gilloise,kas_eupen
+2023-11-03,B1,Belgium-JPL,2324,St Truiden,Eupen,1.0,1.0,D,1.0,0.0,H,1.62,4.2,5.0,1.65,4.2,5.18,1.64,4.06,4.87,1.67,2.15,1.66,2.2,-0.75,1.8,2.05,Sint-Truiden,KAS Eupen,sint_truiden,kas_eupen
+2023-11-25,B1,Belgium-JPL,2324,Cercle Brugge,Eupen,2.0,0.0,H,0.0,0.0,D,1.36,5.0,7.0,1.38,5.15,7.14,1.38,5.02,7.3,1.53,2.4,1.54,2.4,-1.25,1.83,2.03,Cercle Brugge,KAS Eupen,cercle_brugge,kas_eupen
+2023-12-15,B1,Belgium-JPL,2324,Westerlo,Eupen,2.0,0.0,H,0.0,0.0,D,1.73,3.8,4.33,1.8,3.84,4.54,1.77,3.83,4.28,1.67,2.15,1.66,2.19,-0.75,2.0,1.85,KVC Westerlo,KAS Eupen,kvc_westerlo,kas_eupen
+2023-12-26,B1,Belgium-JPL,2324,Oud-Heverlee Leuven,Eupen,3.0,0.0,H,2.0,0.0,H,1.8,4.0,3.8,1.85,3.99,4.09,1.83,3.91,3.88,1.6,2.3,1.58,2.33,-0.75,2.03,1.78,Oud-Heverlee Leuven,KAS Eupen,oud_heverlee_leuven,kas_eupen
+2024-01-24,B1,Belgium-JPL,2324,RWD Molenbeek,Eupen,0.0,1.0,A,0.0,0.0,D,1.91,3.5,4.0,1.87,3.74,4.07,1.87,3.69,3.86,1.75,2.05,1.73,2.06,-0.5,1.88,1.98,RWD Molenbeek,KAS Eupen,rwd_molenbeek,kas_eupen
+2024-01-31,B1,Belgium-JPL,2324,Charleroi,Eupen,1.0,0.0,H,0.0,0.0,D,1.62,4.0,5.0,1.68,4.04,5.13,1.64,3.98,4.91,1.75,2.05,1.74,2.07,-0.75,1.83,2.03,Sporting Charleroi,KAS Eupen,sporting_charleroi,kas_eupen
+2024-02-10,B1,Belgium-JPL,2324,Club Brugge,Eupen,4.0,0.0,H,2.0,0.0,H,1.22,7.0,9.5,1.22,7.44,11.44,1.21,6.75,11.2,1.4,2.88,1.38,2.94,-2.0,2.05,1.8,Club Brugge,KAS Eupen,club_brugge,kas_eupen
+2024-03-03,B1,Belgium-JPL,2324,Anderlecht,Eupen,1.0,0.0,H,1.0,0.0,H,1.3,5.25,8.5,1.29,5.72,9.87,1.3,5.45,9.22,1.57,2.35,1.58,2.34,-1.5,1.85,2.0,Anderlecht,KAS Eupen,anderlecht,kas_eupen
+2024-03-16,B1,Belgium-JPL,2324,Standard,Eupen,4.0,0.0,H,2.0,0.0,H,1.73,3.8,4.5,1.72,3.84,5.14,1.71,3.78,4.73,1.85,2.0,1.83,1.97,-0.75,1.93,1.93,Standard Liege,KAS Eupen,standard_liege,kas_eupen
+2024-04-13,B1,Belgium-JPL,2324,RWD Molenbeek,Eupen,3.0,1.0,H,1.0,1.0,D,2.38,3.3,3.0,2.41,3.31,3.11,2.34,3.35,2.99,1.95,1.9,1.9,1.88,-0.25,2.03,1.83,RWD Molenbeek,KAS Eupen,rwd_molenbeek,kas_eupen
+2024-04-21,B1,Belgium-JPL,2324,Charleroi,Eupen,1.0,0.0,H,1.0,0.0,H,1.67,3.75,5.0,1.67,3.9,5.0,1.67,3.8,4.82,1.88,1.98,1.85,1.93,-0.75,1.88,1.98,Sporting Charleroi,KAS Eupen,sporting_charleroi,kas_eupen
+2024-05-05,B1,Belgium-JPL,2324,Kortrijk,Eupen,1.0,0.0,H,1.0,0.0,H,2.05,3.4,3.6,2.02,3.54,3.64,2.02,3.5,3.47,1.9,1.95,1.86,1.91,-0.25,1.75,2.05,KV Kortrijk,KAS Eupen,kv_kortrijk,kas_eupen

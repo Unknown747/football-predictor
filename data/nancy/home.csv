@@ -1,0 +1,41 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,F2,France-L2,2122,Nancy,Toulouse,0.0,4.0,A,0.0,3.0,A,3.6,3.4,2.05,3.73,3.21,2.17,3.5,3.2,2.13,1.95,1.85,1.94,1.85,0.25,2.02,1.83,Nancy,Toulouse,nancy,toulouse
+2021-08-14,F2,France-L2,2122,Nancy,Valenciennes,0.0,1.0,A,0.0,0.0,D,2.2,3.25,3.3,2.23,3.36,3.41,2.2,3.26,3.28,2.07,1.72,2.1,1.71,-0.25,1.9,1.95,Nancy,Valenciennes,nancy,valenciennes
+2021-08-28,F2,France-L2,2122,Nancy,Auxerre,1.0,4.0,A,0.0,2.0,A,3.3,3.3,2.15,3.37,3.27,2.29,3.23,3.26,2.21,1.85,1.95,1.9,1.89,0.25,1.93,1.93,Nancy,AJ Auxerre,nancy,aj_auxerre
+2021-09-18,F2,France-L2,2122,Nancy,Le Havre,1.0,1.0,D,0.0,0.0,D,2.75,3.3,2.55,2.74,3.34,2.63,2.71,3.28,2.54,2.05,1.75,2.0,1.78,0.0,1.98,1.88,Nancy,Le Havre,nancy,le_havre
+2021-09-24,F2,France-L2,2122,Nancy,Amiens,1.0,1.0,D,0.0,1.0,A,2.55,3.3,2.55,2.7,3.27,2.8,2.65,3.13,2.72,2.15,1.66,2.21,1.65,0.0,1.93,1.93,Nancy,Amiens,nancy,amiens
+2021-10-16,F2,France-L2,2122,Nancy,Guingamp,2.0,1.0,H,0.0,1.0,A,2.6,3.1,2.8,2.68,3.0,2.96,2.6,3.05,2.81,2.2,1.65,2.2,1.64,0.0,1.85,2.0,Nancy,Guingamp,nancy,guingamp
+2021-10-30,F2,France-L2,2122,Nancy,Sochaux,0.0,0.0,D,0.0,0.0,D,3.25,3.1,2.15,3.47,3.03,2.35,3.27,3.06,2.28,2.35,1.57,2.34,1.57,0.25,1.88,1.98,Nancy,Sochaux,nancy,sochaux
+2021-11-20,F2,France-L2,2122,Nancy,Rodez,0.0,2.0,A,0.0,2.0,A,2.7,3.1,2.75,2.81,2.92,2.9,2.73,2.94,2.78,2.4,1.53,2.44,1.53,0.0,1.9,1.95,Nancy,Rodez,nancy,rodez
+2021-12-21,F2,France-L2,2122,Nancy,Dijon,0.0,3.0,A,0.0,1.0,A,2.6,3.0,2.55,2.92,2.95,2.84,2.77,3.0,2.71,2.25,1.61,2.26,1.62,0.0,1.95,1.9,Nancy,Dijon,nancy,dijon
+2022-01-15,F2,France-L2,2122,Nancy,Bastia,2.0,1.0,H,1.0,0.0,H,2.7,3.1,2.5,2.81,3.28,2.61,2.74,3.16,2.58,2.3,1.6,2.26,1.61,0.0,2.0,1.85,Nancy,Bastia,nancy,bastia
+2022-02-05,F2,France-L2,2122,Nancy,Caen,1.0,1.0,D,0.0,0.0,D,2.55,3.3,2.7,2.67,3.11,2.87,2.63,3.1,2.75,2.05,1.75,2.17,1.67,0.0,1.88,1.98,Nancy,Caen,nancy,caen
+2022-02-19,F2,France-L2,2122,Nancy,Dunkerque,2.0,0.0,H,1.0,0.0,H,2.05,3.1,3.4,2.12,3.15,3.92,2.1,3.16,3.64,2.25,1.61,2.28,1.6,-0.25,1.8,2.05,Nancy,Dunkerque,nancy,dunkerque
+2022-03-05,F2,France-L2,2122,Nancy,Grenoble,0.0,1.0,A,0.0,0.0,D,2.15,3.1,3.75,2.17,3.06,3.89,2.15,3.11,3.6,2.4,1.53,2.41,1.55,-0.25,1.83,2.02,Nancy,Grenoble,nancy,grenoble
+2022-03-15,F2,France-L2,2122,Nancy,Paris FC,3.0,0.0,H,3.0,0.0,H,3.3,3.3,2.15,3.68,3.24,2.21,3.41,3.17,2.19,2.2,1.65,2.19,1.66,0.25,1.98,1.88,Nancy,Paris FC,nancy,paris_fc
+2022-04-04,F2,France-L2,2122,Nancy,Ajaccio,0.0,2.0,A,0.0,0.0,D,3.8,2.7,2.2,3.66,2.92,2.33,3.61,2.86,2.27,2.87,1.4,2.71,1.44,0.25,1.95,1.9,Nancy,Ajaccio,nancy,ajaccio
+2022-04-16,F2,France-L2,2122,Nancy,Niort,0.0,2.0,A,0.0,0.0,D,2.2,3.1,3.25,2.34,3.14,3.34,2.28,3.17,3.19,2.3,1.6,2.3,1.59,-0.25,1.95,1.9,Nancy,Niort,nancy,niort
+2022-04-22,F2,France-L2,2122,Nancy,Quevilly Rouen,0.0,3.0,A,,,,2.15,3.1,3.2,2.25,3.34,3.44,2.23,3.21,3.29,2.15,1.66,2.2,1.65,-0.25,1.93,1.93,Nancy,Quevilly Rouen,nancy,quevilly_rouen
+2022-04-30,F2,France-L2,2122,Nancy,Nimes,1.0,3.0,A,0.0,1.0,A,2.75,3.25,2.37,3.08,3.25,2.43,2.93,3.24,2.4,2.1,1.7,2.1,1.71,0.25,1.77,2.1,Nancy,Nimes,nancy,nimes
+2022-05-14,F2,France-L2,2122,Nancy,Pau FC,2.0,3.0,A,2.0,3.0,A,2.37,3.5,2.75,2.43,3.73,2.74,2.34,3.6,2.77,1.61,2.25,1.64,2.22,-0.25,2.1,1.77,Nancy,Pau FC,nancy,pau_fc
+2025-08-15,F2,France-L2,2526,Nancy,Boulogne,1.0,0.0,H,1.0,0.0,H,1.73,3.5,4.0,1.82,3.5,4.86,1.77,3.42,4.39,2.15,1.67,2.15,1.63,-0.5,1.78,2.03,Nancy,Boulogne,nancy,boulogne
+2025-08-29,F2,France-L2,2526,Nancy,Pau FC,2.0,2.0,D,2.0,1.0,H,1.95,3.25,3.6,2.09,3.44,3.69,1.95,3.32,3.61,2.15,1.67,2.12,1.65,-0.5,2.03,1.78,Nancy,Pau FC,nancy,pau_fc
+2025-09-19,F2,France-L2,2526,Nancy,Red Star,0.0,1.0,A,0.0,0.0,D,2.4,3.2,2.9,2.55,3.23,2.96,2.46,3.11,2.82,2.25,1.62,2.21,1.61,0.0,1.73,2.08,Nancy,Red Star,nancy,red_star
+2025-09-26,F2,France-L2,2526,Nancy,Reims,0.0,1.0,A,0.0,0.0,D,3.25,3.3,2.1,3.34,3.59,2.17,3.24,3.34,2.09,1.95,1.85,1.89,1.83,0.25,1.95,1.85,Nancy,Stade de Reims,nancy,stade_de_reims
+2025-10-20,F2,France-L2,2526,Nancy,Amiens,0.0,1.0,A,0.0,1.0,A,1.7,3.6,4.75,1.73,3.7,4.71,1.71,3.54,4.54,2.05,1.75,1.97,1.76,-0.75,1.95,1.85,Nancy,Amiens,nancy,amiens
+2025-10-28,F2,France-L2,2526,Nancy,Bastia,2.0,0.0,H,1.0,0.0,H,2.4,2.9,3.1,,,,2.4,2.96,3.02,2.5,1.5,2.39,1.51,-0.25,2.05,1.75,Nancy,Bastia,nancy,bastia
+2025-11-07,F2,France-L2,2526,Nancy,Laval,0.0,2.0,A,0.0,2.0,A,2.15,3.1,3.5,,,,2.11,3.09,3.51,2.25,1.62,2.27,1.57,-0.25,1.8,2.0,Nancy,Laval,nancy,laval
+2025-12-12,F2,France-L2,2526,Nancy,Clermont,1.0,0.0,H,1.0,0.0,H,1.85,3.2,3.7,,,,1.92,3.33,3.77,2.0,1.8,2.02,1.72,-0.5,1.93,1.88,Nancy,Clermont Foot,nancy,clermont_foot
+2026-01-19,F2,France-L2,2526,Nancy,Guingamp,0.0,3.0,A,0.0,0.0,D,2.5,3.1,2.6,,,,2.49,3.15,2.69,2.08,1.73,2.02,1.72,0.0,1.83,1.98,Nancy,Guingamp,nancy,guingamp
+2026-01-23,F2,France-L2,2526,Nancy,Rodez,1.0,3.0,A,0.0,1.0,A,1.95,3.2,3.4,,,,2.04,3.22,3.47,2.15,1.67,2.04,1.7,-0.25,1.75,2.05,Nancy,Rodez,nancy,rodez
+2026-02-07,F2,France-L2,2526,Nancy,Troyes,2.0,1.0,H,1.0,1.0,D,3.25,3.0,2.1,,,,3.36,3.12,2.13,2.25,1.62,2.15,1.63,0.25,1.98,1.83,Nancy,Troyes,nancy,troyes
+2026-02-20,F2,France-L2,2526,Nancy,Grenoble,0.0,0.0,D,0.0,0.0,D,1.95,3.0,3.5,,,,2.02,3.17,3.6,2.1,1.7,2.08,1.66,-0.5,2.0,1.8,Nancy,Grenoble,nancy,grenoble
+2026-03-06,F2,France-L2,2526,Nancy,Montpellier,0.0,3.0,A,0.0,1.0,A,2.7,3.2,2.45,,,,2.73,3.16,2.48,2.08,1.73,2.08,1.67,0.0,2.03,1.78,Nancy,Montpellier,nancy,montpellier
+2026-03-13,F2,France-L2,2526,Nancy,Le Mans,2.0,4.0,A,1.0,1.0,D,2.75,3.1,2.3,,,,2.91,3.14,2.33,2.2,1.65,2.11,1.65,0.25,1.75,2.05,Nancy,Le Mans,nancy,le_mans
+2026-04-04,F2,France-L2,2526,Nancy,St Etienne,1.0,1.0,D,1.0,0.0,H,3.6,3.25,1.85,,,,3.74,3.32,1.91,1.9,1.9,1.84,1.88,0.5,1.83,1.98,Nancy,Saint-Etienne,nancy,saint_etienne
+2026-04-17,F2,France-L2,2526,Nancy,Annecy,1.0,5.0,A,0.0,2.0,A,2.4,3.0,2.7,,,,2.52,3.08,2.72,2.25,1.62,2.17,1.63,0.0,1.78,2.03,Nancy,Annecy,nancy,annecy
+2026-05-09,F2,France-L2,2526,Nancy,Dunkerque,3.0,2.0,H,2.0,0.0,H,2.63,3.1,2.4,,,,2.62,3.43,2.38,1.75,2.05,1.7,2.04,0.0,2.0,1.8,Nancy,Dunkerque,nancy,dunkerque
+2026-08-14,F2,France-L2,2627,Nancy,Montpellier,0.0,1.0,A,0.0,0.0,D,2.75,3.25,2.55,,,,2.64,3.28,2.52,2.05,1.75,1.94,1.79,0.0,1.95,1.85,Nancy,Montpellier,nancy,montpellier
+2026-08-28,F2,France-L2,2627,Nancy,Dunkerque,2.0,0.0,H,1.0,0.0,H,2.38,3.1,2.63,,,,2.43,3.31,2.69,1.85,1.95,1.81,1.9,0.0,1.8,2.0,Nancy,Dunkerque,nancy,dunkerque
+2026-09-11,F2,France-L2,2627,Nancy,Reims,1.0,2.0,A,0.0,2.0,A,3.1,3.1,2.15,,,,3.14,3.25,2.18,1.98,1.83,1.94,1.8,0.25,1.9,1.9,Nancy,Stade de Reims,nancy,stade_de_reims
+2026-10-09,F2,France-L2,2627,Nancy,Guingamp,1.0,0.0,H,0.0,0.0,D,1.83,3.25,3.75,,,,1.93,3.46,3.57,1.8,2.0,1.78,1.94,-0.5,1.9,1.9,Nancy,Guingamp,nancy,guingamp

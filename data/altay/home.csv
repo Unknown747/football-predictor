@@ -1,0 +1,20 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,T1,Turkey-SL,2122,Altay,Kayserispor,3.0,0.0,H,2.0,0.0,H,2.5,3.3,2.55,2.72,3.4,2.73,2.63,3.3,2.63,1.95,1.85,1.97,1.83,0.0,1.93,1.93,Altay,Kayserispor,altay,kayserispor
+2021-08-29,T1,Turkey-SL,2122,Altay,Fenerbahce,0.0,2.0,A,0.0,0.0,D,3.2,3.4,2.15,3.24,3.56,2.25,3.17,3.47,2.19,1.75,2.05,1.77,2.06,0.25,1.9,1.95,Altay,Fenerbahce,altay,fenerbahce
+2021-09-17,T1,Turkey-SL,2122,Altay,Goztep,2.0,1.0,H,0.0,1.0,A,2.2,3.4,3.2,2.31,3.39,3.34,2.25,3.34,3.2,2.0,1.8,2.02,1.8,-0.25,1.98,1.88,Altay,Goztep,altay,goztep
+2021-09-24,T1,Turkey-SL,2122,Altay,Besiktas,2.0,1.0,H,0.0,0.0,D,2.7,3.4,2.5,2.77,3.47,2.61,2.72,3.37,2.52,1.72,2.07,1.76,2.07,0.0,1.98,1.88,Altay,Besiktas,altay,besiktas
+2021-10-17,T1,Turkey-SL,2122,Altay,Karagumruk,0.0,1.0,A,0.0,1.0,A,2.0,3.25,3.6,2.1,3.68,3.58,2.06,3.52,3.4,1.8,2.0,1.8,2.01,-0.25,1.83,2.02,Altay,Karagumruk,altay,karagumruk
+2021-10-30,T1,Turkey-SL,2122,Altay,Sivasspor,1.0,1.0,D,1.0,1.0,D,2.62,3.3,2.62,2.71,3.45,2.71,2.61,3.32,2.65,1.95,1.85,1.92,1.88,0.0,1.93,1.93,Altay,Sivasspor,altay,sivasspor
+2021-11-21,T1,Turkey-SL,2122,Altay,Ad. Demirspor,1.0,3.0,A,0.0,1.0,A,2.1,3.5,3.3,2.25,3.64,3.23,2.2,3.47,3.13,1.72,2.07,1.75,2.07,-0.25,1.93,1.93,Altay,Ad. Demirspor,altay,ad_demirspor
+2021-12-10,T1,Turkey-SL,2122,Altay,Hatayspor,1.0,2.0,A,1.0,1.0,D,2.37,3.5,2.87,2.4,3.65,2.96,2.37,3.48,2.84,1.7,2.1,1.69,2.14,-0.25,2.02,1.83,Altay,Hatayspor,altay,hatayspor
+2021-12-21,T1,Turkey-SL,2122,Altay,Trabzonspor,1.0,2.0,A,1.0,0.0,H,3.1,3.5,2.05,3.59,3.45,2.17,3.38,3.44,2.1,1.75,2.05,1.78,2.03,0.25,2.02,1.83,Altay,Trabzonspor,altay,trabzonspor
+2022-01-16,T1,Turkey-SL,2122,Altay,Alanyaspor,0.0,2.0,A,0.0,1.0,A,2.5,3.2,2.87,2.54,3.68,2.76,2.47,3.44,2.72,1.8,2.0,1.79,2.01,0.0,1.77,2.02,Altay,Alanyaspor,altay,alanyaspor
+2022-01-23,T1,Turkey-SL,2122,Altay,Konyaspor,0.0,1.0,A,0.0,0.0,D,3.0,3.2,2.2,3.14,3.53,2.35,3.03,3.37,2.29,1.85,2.0,1.85,1.95,0.25,1.85,2.0,Altay,Konyaspor,altay,konyaspor
+2022-02-11,T1,Turkey-SL,2122,Altay,Rizespor,0.0,0.0,D,0.0,0.0,D,1.95,3.3,3.8,2.01,3.45,4.16,2.0,3.37,3.84,2.02,1.83,2.0,1.81,-0.5,1.98,1.88,Altay,Caykur Rizespor,altay,caykur_rizespor
+2022-02-27,T1,Turkey-SL,2122,Altay,Gaziantep,3.0,2.0,H,2.0,2.0,D,2.62,3.2,2.6,2.83,3.2,2.77,2.7,3.26,2.63,2.0,1.85,1.98,1.82,0.0,1.93,1.93,Altay,Gaziantep,altay,gaziantep
+2022-03-12,T1,Turkey-SL,2122,Altay,Yeni Malatyaspor,1.0,0.0,H,1.0,0.0,H,1.9,3.3,4.0,1.94,3.65,4.17,1.93,3.49,3.94,1.98,1.88,1.95,1.85,-0.5,1.9,1.95,Altay,Yeni Malatyaspor,altay,yeni_malatyaspor
+2022-04-02,T1,Turkey-SL,2122,Altay,Antalyaspor,1.0,2.0,A,0.0,1.0,A,2.7,3.1,2.37,2.97,3.4,2.52,2.84,3.26,2.5,2.05,1.8,2.06,1.76,0.25,1.7,2.1,Altay,Antalyaspor,altay,antalyaspor
+2022-04-16,T1,Turkey-SL,2122,Altay,Buyuksehyr,1.0,1.0,D,0.0,1.0,A,3.6,3.3,1.95,3.98,3.61,2.0,3.74,3.43,1.99,2.02,1.83,2.01,1.78,0.5,1.88,1.98,Altay,Buyuksehyr,altay,buyuksehyr
+2022-04-24,T1,Turkey-SL,2122,Altay,Galatasaray,0.0,1.0,A,0.0,1.0,A,4.0,3.4,1.85,4.0,3.85,1.93,3.92,3.63,1.89,1.85,2.0,1.85,1.94,0.5,1.95,1.9,Altay,Galatasaray,altay,galatasaray
+2022-05-08,T1,Turkey-SL,2122,Altay,Giresunspor,1.0,1.0,D,0.0,1.0,A,2.3,3.2,2.75,2.53,3.77,2.73,2.45,3.48,2.74,1.83,2.02,1.82,1.97,0.0,1.7,2.1,Altay,Giresunspor,altay,giresunspor
+2022-05-21,T1,Turkey-SL,2122,Altay,Kasimpasa,2.0,4.0,A,1.0,2.0,A,3.1,3.6,2.1,3.08,4.1,2.18,3.02,3.87,2.14,1.44,2.7,1.44,2.72,0.25,1.95,1.9,Altay,Kasimpasa,altay,kasimpasa

@@ -1,0 +1,43 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,SP2,Spain-Segunda,2122,Girona,Amorebieta,2.0,0.0,H,0.0,0.0,D,1.66,3.25,5.75,1.72,3.47,5.98,1.69,3.36,5.66,2.4,1.53,2.41,1.55,-0.75,1.98,1.88,Girona,Amorebieta,girona,amorebieta
+2021-08-23,SP2,Spain-Segunda,2122,Mirandes,Amorebieta,2.0,0.0,H,0.0,0.0,D,2.05,3.2,3.75,2.16,3.04,4.13,2.13,2.99,3.73,2.5,1.5,2.56,1.48,-0.25,1.83,2.02,Mirandes,Amorebieta,mirandes,amorebieta
+2021-09-05,SP2,Spain-Segunda,2122,Ibiza,Amorebieta,1.0,1.0,D,0.0,1.0,A,2.05,3.0,4.2,2.23,2.98,4.01,2.13,2.96,3.85,2.6,1.47,2.61,1.46,-0.25,1.83,2.02,Ibiza,Amorebieta,ibiza,amorebieta
+2021-09-18,SP2,Spain-Segunda,2122,Leganes,Amorebieta,1.0,0.0,H,1.0,0.0,H,1.65,3.5,6.0,1.64,3.76,5.99,1.66,3.53,5.52,2.4,1.53,2.51,1.5,-0.75,1.9,1.95,Leganes,Amorebieta,leganes,amorebieta
+2021-10-10,SP2,Spain-Segunda,2122,Tenerife,Amorebieta,2.0,1.0,H,1.0,0.0,H,1.57,3.6,7.0,1.62,3.6,6.73,1.61,3.49,6.05,2.35,1.57,2.37,1.56,-0.75,1.83,2.02,Tenerife,Amorebieta,tenerife,amorebieta
+2021-10-20,SP2,Spain-Segunda,2122,Fuenlabrada,Amorebieta,0.0,0.0,D,0.0,0.0,D,1.61,3.6,6.5,1.64,3.49,6.76,1.62,3.46,6.06,2.4,1.53,2.33,1.58,-0.75,1.85,2.0,Fuenlabrada,Amorebieta,fuenlabrada,amorebieta
+2021-10-30,SP2,Spain-Segunda,2122,Huesca,Amorebieta,1.0,1.0,D,1.0,0.0,H,1.61,3.6,6.5,1.58,3.69,6.25,1.6,3.61,5.77,2.07,1.72,2.1,1.71,-0.75,1.83,2.02,Huesca,Amorebieta,huesca,amorebieta
+2021-11-07,SP2,Spain-Segunda,2122,Alcorcon,Amorebieta,2.0,2.0,D,0.0,1.0,A,2.4,3.1,3.25,2.51,3.07,3.18,2.41,3.01,3.08,2.4,1.53,2.56,1.49,-0.25,2.05,1.8,Alcorcon,Amorebieta,alcorcon,amorebieta
+2021-11-20,SP2,Spain-Segunda,2122,Oviedo,Amorebieta,2.0,0.0,H,2.0,0.0,H,1.8,3.25,5.25,1.74,3.4,5.73,1.77,3.28,5.11,2.5,1.5,2.52,1.51,-0.75,2.0,1.85,Real Oviedo,Amorebieta,real_oviedo,amorebieta
+2021-12-05,SP2,Spain-Segunda,2122,Malaga,Amorebieta,1.0,2.0,A,0.0,2.0,A,1.83,3.4,4.75,1.83,3.36,5.07,1.81,3.33,4.62,2.3,1.6,2.28,1.6,-0.5,1.83,2.02,Malaga,Amorebieta,malaga,amorebieta
+2021-12-19,SP2,Spain-Segunda,2122,Ponferradina,Amorebieta,1.0,1.0,D,0.0,1.0,A,1.85,3.5,4.33,1.81,3.4,5.16,1.82,3.33,4.58,2.3,1.6,2.33,1.59,-0.5,1.83,2.02,Ponferradina,Amorebieta,ponferradina,amorebieta
+2021-12-31,SP2,Spain-Segunda,2122,Burgos,Amorebieta,2.0,2.0,D,2.0,1.0,H,2.45,3.1,3.1,2.52,3.13,3.21,2.48,2.98,3.07,2.5,1.5,2.47,1.53,-0.25,2.13,1.75,Burgos,Amorebieta,burgos,amorebieta
+2022-01-23,SP2,Spain-Segunda,2122,Sp Gijon,Amorebieta,2.0,1.0,H,0.0,1.0,A,1.85,3.25,5.0,1.85,3.52,4.57,1.85,3.33,4.38,2.25,1.61,2.26,1.61,-0.5,1.85,2.0,Sp Gijon,Amorebieta,sp_gijon,amorebieta
+2022-02-13,SP2,Spain-Segunda,2122,Lugo,Amorebieta,1.0,1.0,D,1.0,0.0,H,2.1,3.3,3.6,2.22,3.17,3.67,2.15,3.16,3.45,2.25,1.61,2.32,1.58,-0.25,1.85,2.0,Lugo,Amorebieta,lugo,amorebieta
+2022-02-27,SP2,Spain-Segunda,2122,Valladolid,Amorebieta,5.0,1.0,H,2.0,0.0,H,1.44,4.2,8.0,1.43,4.52,8.15,1.43,4.28,7.26,1.95,1.9,1.88,1.89,-1.25,2.02,1.83,Real Valladolid,Amorebieta,real_valladolid,amorebieta
+2022-03-13,SP2,Spain-Segunda,2122,Eibar,Amorebieta,1.0,0.0,H,1.0,0.0,H,1.66,3.5,6.0,1.63,3.69,6.36,1.62,3.54,5.89,2.35,1.57,2.34,1.57,-0.75,1.83,2.02,Eibar,Amorebieta,eibar,amorebieta
+2022-03-25,SP2,Spain-Segunda,2122,Zaragoza,Amorebieta,1.0,1.0,D,0.0,0.0,D,1.8,3.25,5.25,1.87,3.26,5.32,1.84,3.16,4.81,2.4,1.53,2.42,1.54,-0.5,1.85,2.0,Zaragoza,Amorebieta,zaragoza,amorebieta
+2022-04-09,SP2,Spain-Segunda,2122,Las Palmas,Amorebieta,1.0,0.0,H,0.0,0.0,D,1.6,3.6,6.5,1.55,3.9,6.94,1.57,3.73,6.1,2.05,1.75,2.06,1.74,-1.0,2.05,1.8,Las Palmas,Amorebieta,las_palmas,amorebieta
+2022-04-23,SP2,Spain-Segunda,2122,Sociedad B,Amorebieta,2.0,1.0,H,2.0,0.0,H,2.3,3.25,3.25,2.31,3.32,3.29,2.25,3.18,3.22,2.1,1.7,2.12,1.7,-0.25,1.98,1.88,Sociedad B,Amorebieta,sociedad_b,amorebieta
+2022-05-07,SP2,Spain-Segunda,2122,Almeria,Amorebieta,3.0,0.0,H,0.0,0.0,D,1.5,4.2,6.5,1.52,3.99,7.28,1.51,3.99,6.5,1.98,1.88,1.94,1.83,-1.0,1.9,1.95,Almeria,Amorebieta,almeria,amorebieta
+2022-05-21,SP2,Spain-Segunda,2122,Cartagena,Amorebieta,5.0,0.0,H,2.0,0.0,H,3.0,3.5,2.3,2.84,3.6,2.44,2.97,3.49,2.25,1.85,2.0,1.8,1.98,0.25,1.83,2.02,Cartagena,Amorebieta,cartagena,amorebieta
+2023-08-20,SP2,Spain-Segunda,2324,Albacete,Amorebieta,2.0,2.0,D,1.0,2.0,A,1.62,3.6,6.5,1.64,3.56,6.99,1.62,3.47,6.23,2.5,1.5,2.51,1.49,-0.75,1.83,2.03,Albacete,Amorebieta,albacete,amorebieta
+2023-09-03,SP2,Spain-Segunda,2324,Espanol,Amorebieta,3.0,2.0,H,0.0,2.0,A,1.62,3.75,6.0,1.62,3.76,6.71,1.61,3.66,5.87,2.1,1.7,2.11,1.7,-0.75,1.8,2.05,Espanyol,Amorebieta,espanyol,amorebieta
+2023-09-10,SP2,Spain-Segunda,2324,Santander,Amorebieta,1.0,0.0,H,1.0,0.0,H,1.85,3.4,4.5,1.85,3.58,4.73,1.83,3.37,4.46,2.25,1.62,2.29,1.6,-0.5,1.83,2.03,Santander,Amorebieta,santander,amorebieta
+2023-09-24,SP2,Spain-Segunda,2324,Villarreal B,Amorebieta,3.0,1.0,H,1.0,0.0,H,1.95,3.4,4.0,2.04,3.56,3.9,1.96,3.4,3.82,2.08,1.73,2.09,1.72,-0.5,2.03,1.83,Villarreal B,Amorebieta,villarreal_b,amorebieta
+2023-10-05,SP2,Spain-Segunda,2324,Ferrol,Amorebieta,1.0,0.0,H,1.0,0.0,H,1.83,3.25,5.0,1.85,3.5,4.75,1.83,3.33,4.53,2.35,1.57,2.35,1.57,-0.5,1.83,2.03,Ferrol,Amorebieta,ferrol,amorebieta
+2023-10-15,SP2,Spain-Segunda,2324,Leganes,Amorebieta,6.0,0.0,H,2.0,0.0,H,1.91,3.1,4.75,1.96,3.25,4.73,1.94,3.13,4.31,2.5,1.5,2.51,1.5,-0.5,1.95,1.9,Leganes,Amorebieta,leganes,amorebieta
+2023-10-28,SP2,Spain-Segunda,2324,Eldense,Amorebieta,2.0,0.0,H,1.0,0.0,H,1.95,3.3,4.2,2.04,3.36,4.17,1.99,3.26,3.93,2.25,1.62,2.29,1.61,-0.5,2.03,1.83,Eldense,Amorebieta,eldense,amorebieta
+2023-11-11,SP2,Spain-Segunda,2324,Sp Gijon,Amorebieta,1.0,1.0,D,0.0,0.0,D,1.4,4.5,8.5,1.42,4.6,9.06,1.4,4.41,8.08,2.0,1.85,1.94,1.84,-1.25,2.0,1.85,Sp Gijon,Amorebieta,sp_gijon,amorebieta
+2023-11-26,SP2,Spain-Segunda,2324,Elche,Amorebieta,2.0,0.0,H,0.0,0.0,D,1.4,4.2,9.0,1.43,4.47,9.03,1.41,4.28,8.09,2.0,1.85,1.98,1.8,-1.25,2.03,1.83,Elche,Amorebieta,elche,amorebieta
+2023-12-09,SP2,Spain-Segunda,2324,Valladolid,Amorebieta,2.0,1.0,H,0.0,1.0,A,1.44,4.33,8.0,1.41,4.75,8.89,1.4,4.4,7.94,1.95,1.9,1.92,1.87,-1.25,1.98,1.88,Real Valladolid,Amorebieta,real_valladolid,amorebieta
+2024-01-13,SP2,Spain-Segunda,2324,Oviedo,Amorebieta,1.0,1.0,D,1.0,1.0,D,1.6,4.0,5.75,1.62,3.77,6.79,1.59,3.66,6.17,2.35,1.57,2.38,1.56,-0.75,1.78,2.1,Real Oviedo,Amorebieta,real_oviedo,amorebieta
+2024-01-27,SP2,Spain-Segunda,2324,Cartagena,Amorebieta,1.0,0.0,H,0.0,0.0,D,1.91,3.1,4.75,1.95,3.33,4.6,1.91,3.22,4.31,2.4,1.53,2.41,1.54,-0.5,1.9,1.95,Cartagena,Amorebieta,cartagena,amorebieta
+2024-02-18,SP2,Spain-Segunda,2324,Huesca,Amorebieta,0.0,0.0,D,0.0,0.0,D,1.91,3.1,5.0,1.94,3.01,5.51,1.91,3.02,4.7,2.88,1.4,2.82,1.41,-0.5,1.9,1.95,Huesca,Amorebieta,huesca,amorebieta
+2024-03-03,SP2,Spain-Segunda,2324,Zaragoza,Amorebieta,0.0,1.0,A,0.0,0.0,D,1.62,3.5,7.0,1.64,3.62,7.03,1.59,3.47,6.54,2.6,1.48,2.59,1.48,-0.75,1.78,2.1,Zaragoza,Amorebieta,zaragoza,amorebieta
+2024-03-18,SP2,Spain-Segunda,2324,Andorra,Amorebieta,0.0,1.0,A,0.0,0.0,D,1.85,3.1,5.25,1.83,3.37,5.16,1.81,3.25,4.79,2.5,1.5,2.43,1.54,-0.75,2.08,1.73,Andorra,Amorebieta,andorra,amorebieta
+2024-03-31,SP2,Spain-Segunda,2324,Alcorcon,Amorebieta,1.0,1.0,D,1.0,1.0,D,2.2,3.0,3.8,2.22,3.08,3.87,2.15,2.97,3.73,2.88,1.4,2.72,1.43,-0.25,1.85,2.0,Alcorcon,Amorebieta,alcorcon,amorebieta
+2024-04-13,SP2,Spain-Segunda,2324,Levante,Amorebieta,1.0,2.0,A,0.0,0.0,D,1.62,4.0,5.5,1.67,3.75,5.89,1.65,3.66,5.4,2.15,1.67,2.15,1.68,-0.75,1.83,2.03,Levante,Amorebieta,levante,amorebieta
+2024-04-27,SP2,Spain-Segunda,2324,Burgos,Amorebieta,2.0,2.0,D,1.0,0.0,H,1.8,3.5,4.75,1.74,3.45,5.01,1.77,3.4,4.73,2.25,1.62,2.26,1.61,-0.75,2.05,1.8,Burgos,Amorebieta,burgos,amorebieta
+2024-05-05,SP2,Spain-Segunda,2324,Eibar,Amorebieta,5.0,0.0,H,2.0,0.0,H,1.44,4.2,8.0,1.47,4.29,7.89,1.44,4.17,7.09,1.98,1.88,1.93,1.83,-1.0,1.73,2.08,Eibar,Amorebieta,eibar,amorebieta
+2024-05-18,SP2,Spain-Segunda,2324,Tenerife,Amorebieta,0.0,1.0,A,0.0,0.0,D,2.1,3.1,3.75,2.11,3.19,3.64,2.11,3.13,3.59,2.35,1.57,2.38,1.54,-0.25,1.83,2.03,Tenerife,Amorebieta,tenerife,amorebieta
+2024-06-02,SP2,Spain-Segunda,2324,Mirandes,Amorebieta,1.0,0.0,H,0.0,0.0,D,2.15,3.3,3.3,2.11,3.51,3.18,2.1,3.4,3.26,1.93,1.93,1.89,1.88,-0.25,1.88,1.98,Mirandes,Amorebieta,mirandes,amorebieta

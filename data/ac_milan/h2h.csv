@@ -1,0 +1,198 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder,opponent,venue,team_goals,opp_goals,h2h_match_no,h2h_total_vs_opp
+2021-08-23,I1,Italy-SA,2122,Sampdoria,Milan,0.0,1.0,A,0.0,1.0,A,4.0,3.6,1.9,4.23,3.55,1.98,4.02,3.5,1.96,1.8,2.0,1.79,2.05,0.5,1.95,1.98,Sampdoria,AC Milan,sampdoria,ac_milan,Sampdoria,A,1.0,0.0,1,4
+2021-08-29,I1,Italy-SA,2122,Milan,Cagliari,4.0,1.0,H,4.0,1.0,H,1.44,4.5,7.0,1.43,4.99,7.94,1.44,4.74,7.29,1.57,2.37,1.59,2.36,-1.25,2.02,1.91,AC Milan,Cagliari,ac_milan,cagliari,Cagliari,H,4.0,1.0,1,8
+2021-09-12,I1,Italy-SA,2122,Milan,Lazio,2.0,0.0,H,1.0,0.0,H,2.2,3.6,3.1,2.22,3.64,3.36,2.21,3.55,3.22,1.66,2.2,1.66,2.26,-0.25,1.95,1.98,AC Milan,Lazio,ac_milan,lazio,Lazio,H,2.0,0.0,1,11
+2021-09-19,I1,Italy-SA,2122,Juventus,Milan,1.0,1.0,D,1.0,0.0,H,2.1,3.4,3.5,2.13,3.69,3.55,2.13,3.55,3.43,1.72,2.1,1.78,2.05,-0.25,1.84,2.09,Juventus,AC Milan,juventus,ac_milan,Juventus,A,1.0,1.0,1,11
+2021-09-22,I1,Italy-SA,2122,Milan,Venezia,2.0,0.0,H,0.0,0.0,D,1.25,6.0,12.0,1.25,6.55,12.36,1.25,6.21,12.07,1.44,2.75,1.45,2.73,-1.75,1.92,1.98,AC Milan,Venezia,ac_milan,venezia,Venezia,H,2.0,0.0,1,5
+2021-09-25,I1,Italy-SA,2122,Spezia,Milan,1.0,2.0,A,0.0,0.0,D,7.0,4.5,1.45,6.92,4.63,1.5,6.7,4.54,1.48,1.57,2.37,1.6,2.36,1.25,1.84,2.09,Spezia,AC Milan,spezia,ac_milan,Spezia,A,2.0,1.0,1,4
+2021-10-03,I1,Italy-SA,2122,Atalanta,Milan,2.0,3.0,A,0.0,2.0,A,2.05,3.75,3.4,2.19,3.72,3.36,2.13,3.64,3.34,1.66,2.2,1.67,2.23,-0.25,1.87,2.06,Atalanta,AC Milan,atalanta,ac_milan,Atalanta,A,3.0,2.0,1,11
+2021-10-16,I1,Italy-SA,2122,Milan,Verona,3.0,2.0,H,0.0,2.0,A,1.55,4.2,5.75,1.56,4.4,6.43,1.54,4.27,6.14,1.61,2.3,1.63,2.31,-1.0,1.93,1.97,AC Milan,Hellas Verona,ac_milan,hellas_verona,Hellas Verona,H,3.0,2.0,1,10
+2021-10-23,I1,Italy-SA,2122,Bologna,Milan,2.0,4.0,A,0.0,2.0,A,3.35,3.6,2.1,3.42,3.54,2.24,3.34,3.5,2.16,1.72,2.1,1.69,2.2,0.25,1.98,1.95,Bologna,AC Milan,bologna,ac_milan,Bologna,A,4.0,2.0,1,10
+2021-10-26,I1,Italy-SA,2122,Milan,Torino,1.0,0.0,H,1.0,0.0,H,1.6,4.0,5.5,1.67,3.99,5.74,1.64,3.94,5.47,1.72,2.1,1.75,2.11,-0.75,1.85,2.08,AC Milan,Torino,ac_milan,torino,Torino,H,1.0,0.0,1,11
+2021-10-31,I1,Italy-SA,2122,Roma,Milan,1.0,2.0,A,0.0,1.0,A,2.3,3.5,3.0,2.29,3.78,3.11,2.33,3.52,2.96,1.72,2.1,1.71,2.15,-0.25,2.02,1.91,AS Roma,AC Milan,as_roma,ac_milan,AS Roma,A,2.0,1.0,1,10
+2021-11-07,I1,Italy-SA,2122,Milan,Inter,1.0,1.0,D,1.0,1.0,D,3.25,3.5,2.15,3.33,3.73,2.21,3.14,3.6,2.22,1.66,2.2,1.67,2.21,0.25,1.98,1.92,AC Milan,Inter Milan,ac_milan,inter_milan,Inter Milan,H,1.0,1.0,1,10
+2021-11-20,I1,Italy-SA,2122,Fiorentina,Milan,4.0,3.0,H,2.0,0.0,H,3.1,3.5,2.25,3.27,3.51,2.32,3.16,3.48,2.26,1.87,2.03,1.84,1.98,0.25,1.92,1.98,Fiorentina,AC Milan,fiorentina,ac_milan,Fiorentina,A,3.0,4.0,1,10
+2021-11-28,I1,Italy-SA,2122,Milan,Sassuolo,1.0,3.0,A,1.0,2.0,A,1.53,4.5,5.5,1.59,4.59,5.59,1.57,4.4,5.37,1.53,2.5,1.52,2.52,-1.0,1.97,1.96,AC Milan,Sassuolo,ac_milan,sassuolo,Sassuolo,H,1.0,3.0,1,9
+2021-12-01,I1,Italy-SA,2122,Genoa,Milan,0.0,3.0,A,0.0,2.0,A,5.0,4.0,1.66,5.47,4.24,1.65,5.16,4.13,1.63,1.72,2.1,1.74,2.1,0.75,2.1,1.83,Genoa,AC Milan,genoa,ac_milan,Genoa,A,3.0,0.0,1,8
+2021-12-04,I1,Italy-SA,2122,Milan,Salernitana,2.0,0.0,H,2.0,0.0,H,1.18,7.0,15.0,1.22,7.05,14.29,1.21,6.86,13.9,1.5,2.62,1.51,2.58,-2.0,2.02,1.77,AC Milan,Salernitana,ac_milan,salernitana,Salernitana,H,2.0,0.0,1,6
+2021-12-11,I1,Italy-SA,2122,Udinese,Milan,1.0,1.0,D,1.0,0.0,H,4.2,3.5,1.9,4.33,3.7,1.92,4.23,3.58,1.9,1.98,1.92,1.92,1.9,0.5,2.0,1.93,Udinese,AC Milan,udinese,ac_milan,Udinese,A,1.0,1.0,1,10
+2021-12-19,I1,Italy-SA,2122,Milan,Napoli,0.0,1.0,A,0.0,1.0,A,2.25,3.5,3.1,2.32,3.64,3.16,2.28,3.53,3.1,1.8,2.0,1.8,2.03,-0.25,2.0,1.93,AC Milan,Napoli,ac_milan,napoli,Napoli,H,0.0,1.0,1,10
+2021-12-22,I1,Italy-SA,2122,Empoli,Milan,2.0,4.0,A,1.0,2.0,A,4.5,3.9,1.75,4.78,4.03,1.76,4.46,3.99,1.76,1.57,2.37,1.57,2.4,0.75,1.91,1.99,Empoli,AC Milan,empoli,ac_milan,Empoli,A,4.0,2.0,1,8
+2022-01-06,I1,Italy-SA,2122,Milan,Roma,3.0,1.0,H,2.0,1.0,H,1.9,3.7,3.8,2.04,3.73,3.78,1.98,3.67,3.71,1.72,2.1,1.73,2.13,-0.5,2.0,1.9,AC Milan,AS Roma,ac_milan,as_roma,AS Roma,H,3.0,1.0,2,10
+2022-01-09,I1,Italy-SA,2122,Venezia,Milan,0.0,3.0,A,0.0,1.0,A,6.0,4.0,1.57,6.29,4.17,1.56,5.89,4.1,1.58,1.86,2.04,1.82,2.01,1.0,1.86,2.04,Venezia,AC Milan,venezia,ac_milan,Venezia,A,3.0,0.0,2,5
+2022-01-17,I1,Italy-SA,2122,Milan,Spezia,1.0,2.0,A,1.0,0.0,H,1.33,5.0,9.5,1.32,5.53,10.23,1.32,5.37,9.54,1.57,2.37,1.58,2.38,-1.5,1.97,1.93,AC Milan,Spezia,ac_milan,spezia,Spezia,H,1.0,2.0,2,4
+2022-01-23,I1,Italy-SA,2122,Milan,Juventus,0.0,0.0,D,0.0,0.0,D,2.62,3.3,2.7,2.78,3.17,2.8,2.68,3.23,2.73,1.99,1.91,1.93,1.89,0.0,1.93,1.97,AC Milan,Juventus,ac_milan,juventus,Juventus,H,0.0,0.0,2,11
+2022-02-05,I1,Italy-SA,2122,Inter,Milan,1.0,2.0,A,1.0,0.0,H,1.8,3.75,4.5,1.81,3.78,4.55,1.82,3.79,4.36,1.66,2.2,1.69,2.18,-0.75,2.04,1.86,Inter Milan,AC Milan,inter_milan,ac_milan,Inter Milan,A,2.0,1.0,2,10
+2022-02-13,I1,Italy-SA,2122,Milan,Sampdoria,1.0,0.0,H,1.0,0.0,H,1.4,4.75,7.5,1.43,5.03,7.84,1.41,4.85,7.58,1.66,2.2,1.64,2.28,-1.25,1.93,2.0,AC Milan,Sampdoria,ac_milan,sampdoria,Sampdoria,H,1.0,0.0,2,4
+2022-02-19,I1,Italy-SA,2122,Salernitana,Milan,2.0,2.0,D,1.0,1.0,D,9.0,5.0,1.36,9.97,5.3,1.36,8.93,5.11,1.36,1.66,2.2,1.64,2.28,1.5,1.82,2.08,Salernitana,AC Milan,salernitana,ac_milan,Salernitana,A,2.0,2.0,2,6
+2022-02-25,I1,Italy-SA,2122,Milan,Udinese,1.0,1.0,D,1.0,0.0,H,1.5,4.0,7.0,1.49,4.36,8.03,1.5,4.26,7.19,1.94,1.96,1.9,1.93,-1.0,1.82,2.08,AC Milan,Udinese,ac_milan,udinese,Udinese,H,1.0,1.0,2,10
+2022-03-06,I1,Italy-SA,2122,Napoli,Milan,0.0,1.0,A,0.0,0.0,D,2.05,3.3,3.6,2.19,3.33,3.75,2.14,3.32,3.65,2.04,1.86,2.0,1.83,-0.25,1.8,2.1,Napoli,AC Milan,napoli,ac_milan,Napoli,A,1.0,0.0,2,10
+2022-03-12,I1,Italy-SA,2122,Milan,Empoli,1.0,0.0,H,1.0,0.0,H,1.36,5.25,7.5,1.37,5.45,9.02,1.36,5.22,8.33,1.53,2.5,1.56,2.43,-1.5,2.05,1.85,AC Milan,Empoli,ac_milan,empoli,Empoli,H,1.0,0.0,2,8
+2022-03-19,I1,Italy-SA,2122,Cagliari,Milan,0.0,1.0,A,0.0,0.0,D,5.25,4.0,1.6,5.79,4.1,1.65,5.52,4.01,1.63,1.92,1.98,1.89,1.94,1.0,1.81,2.09,Cagliari,AC Milan,cagliari,ac_milan,Cagliari,A,1.0,0.0,2,8
+2022-04-04,I1,Italy-SA,2122,Milan,Bologna,0.0,0.0,D,0.0,0.0,D,1.4,4.5,8.5,1.39,4.97,9.32,1.39,4.85,8.57,1.72,2.1,1.73,2.12,-1.25,1.86,2.04,AC Milan,Bologna,ac_milan,bologna,Bologna,H,0.0,0.0,2,10
+2022-04-10,I1,Italy-SA,2122,Torino,Milan,0.0,0.0,D,0.0,0.0,D,4.2,3.5,1.9,4.33,3.58,1.95,4.19,3.51,1.94,2.1,1.72,2.11,1.75,0.5,1.98,1.92,Torino,AC Milan,torino,ac_milan,Torino,A,0.0,0.0,2,11
+2022-04-15,I1,Italy-SA,2122,Milan,Genoa,2.0,0.0,H,1.0,0.0,H,1.33,5.0,11.0,1.33,5.28,12.17,1.32,5.13,10.71,1.8,2.0,1.82,2.01,-1.5,2.0,1.9,AC Milan,Genoa,ac_milan,genoa,Genoa,H,2.0,0.0,2,8
+2022-04-24,I1,Italy-SA,2122,Lazio,Milan,1.0,2.0,A,1.0,0.0,H,2.9,3.4,2.45,2.9,3.55,2.52,2.9,3.45,2.45,1.91,1.99,1.87,1.95,0.25,1.79,2.11,Lazio,AC Milan,lazio,ac_milan,Lazio,A,2.0,1.0,2,11
+2022-05-01,I1,Italy-SA,2122,Milan,Fiorentina,1.0,0.0,H,0.0,0.0,D,1.61,4.0,5.5,1.65,4.02,5.85,1.65,3.96,5.5,1.72,2.1,1.79,2.05,-1.0,2.05,1.75,AC Milan,Fiorentina,ac_milan,fiorentina,Fiorentina,H,1.0,0.0,2,10
+2022-05-08,I1,Italy-SA,2122,Verona,Milan,1.0,3.0,A,1.0,1.0,D,4.33,4.2,1.7,4.56,4.25,1.76,4.47,4.02,1.76,1.72,2.1,1.72,2.14,0.75,1.91,1.99,Hellas Verona,AC Milan,hellas_verona,ac_milan,Hellas Verona,A,3.0,1.0,2,10
+2022-05-15,I1,Italy-SA,2122,Milan,Atalanta,2.0,0.0,H,0.0,0.0,D,1.75,4.2,4.2,1.79,4.3,4.15,1.79,4.14,4.14,1.57,2.37,1.54,2.47,-0.75,2.03,1.87,AC Milan,Atalanta,ac_milan,atalanta,Atalanta,H,2.0,0.0,2,11
+2022-05-22,I1,Italy-SA,2122,Sassuolo,Milan,0.0,3.0,A,0.0,3.0,A,6.5,4.75,1.45,6.84,5.0,1.46,6.63,4.87,1.46,1.5,2.62,1.45,2.76,1.25,1.9,2.0,Sassuolo,AC Milan,sassuolo,ac_milan,Sassuolo,A,3.0,0.0,2,9
+2022-08-13,I1,Italy-SA,2223,Milan,Udinese,4.0,2.0,H,2.0,2.0,D,1.44,4.75,7.0,1.43,4.66,8.84,1.41,4.75,8.14,1.72,2.1,1.73,2.14,-1.25,1.94,1.96,AC Milan,Udinese,ac_milan,udinese,Udinese,H,4.0,2.0,3,10
+2022-08-21,I1,Italy-SA,2223,Atalanta,Milan,1.0,1.0,D,1.0,0.0,H,2.75,3.5,2.5,2.87,3.61,2.52,2.79,3.49,2.5,1.72,2.1,1.74,2.11,0.25,1.7,2.1,Atalanta,AC Milan,atalanta,ac_milan,Atalanta,A,1.0,1.0,3,11
+2022-08-27,I1,Italy-SA,2223,Milan,Bologna,2.0,0.0,H,1.0,0.0,H,1.33,5.5,8.5,1.37,5.59,8.58,1.35,5.37,8.74,1.61,2.3,1.61,2.34,-1.5,2.01,1.89,AC Milan,Bologna,ac_milan,bologna,Bologna,H,2.0,0.0,3,10
+2022-08-30,I1,Italy-SA,2223,Sassuolo,Milan,0.0,0.0,D,0.0,0.0,D,5.25,4.33,1.57,5.47,4.29,1.64,5.45,4.29,1.6,1.53,2.5,1.53,2.5,1.0,1.92,1.98,Sassuolo,AC Milan,sassuolo,ac_milan,Sassuolo,A,0.0,0.0,3,9
+2022-09-03,I1,Italy-SA,2223,Milan,Inter,3.0,2.0,H,1.0,1.0,D,2.8,3.25,2.6,2.91,3.3,2.67,2.79,3.3,2.63,1.88,2.02,1.84,1.99,0.0,2.06,1.84,AC Milan,Inter Milan,ac_milan,inter_milan,Inter Milan,H,3.0,2.0,3,10
+2022-09-10,I1,Italy-SA,2223,Sampdoria,Milan,1.0,2.0,A,0.0,1.0,A,6.0,4.5,1.5,6.6,4.51,1.53,6.31,4.37,1.52,1.72,2.1,1.75,2.09,1.0,2.0,1.9,Sampdoria,AC Milan,sampdoria,ac_milan,Sampdoria,A,2.0,1.0,3,4
+2022-09-18,I1,Italy-SA,2223,Milan,Napoli,1.0,2.0,A,0.0,0.0,D,2.15,3.5,3.3,2.18,3.57,3.54,2.14,3.5,3.44,1.93,1.97,1.88,1.94,-0.25,1.86,2.04,AC Milan,Napoli,ac_milan,napoli,Napoli,H,1.0,2.0,3,10
+2022-10-01,I1,Italy-SA,2223,Empoli,Milan,1.0,3.0,A,0.0,0.0,D,5.5,4.0,1.6,5.65,4.24,1.63,5.47,4.13,1.61,1.86,2.04,1.81,2.02,1.0,1.82,2.08,Empoli,AC Milan,empoli,ac_milan,Empoli,A,3.0,1.0,3,8
+2022-10-08,I1,Italy-SA,2223,Milan,Juventus,2.0,0.0,H,1.0,0.0,H,2.05,3.4,3.6,2.11,3.46,3.84,2.11,3.38,3.65,2.1,1.72,2.11,1.75,-0.25,1.77,2.02,AC Milan,Juventus,ac_milan,juventus,Juventus,H,2.0,0.0,3,11
+2022-10-16,I1,Italy-SA,2223,Verona,Milan,1.0,2.0,A,1.0,1.0,D,6.0,4.0,1.57,6.38,4.26,1.58,5.98,4.19,1.56,1.8,2.0,1.77,2.06,1.0,1.92,1.98,Hellas Verona,AC Milan,hellas_verona,ac_milan,Hellas Verona,A,2.0,1.0,3,10
+2022-10-22,I1,Italy-SA,2223,Milan,Monza,4.0,1.0,H,2.0,0.0,H,1.4,5.0,7.5,1.42,4.98,8.24,1.4,4.88,7.9,1.66,2.2,1.64,2.27,-1.25,1.9,2.0,AC Milan,Monza,ac_milan,monza,Monza,H,4.0,1.0,1,6
+2022-10-30,I1,Italy-SA,2223,Torino,Milan,2.0,1.0,H,2.0,0.0,H,3.75,3.3,2.1,3.74,3.41,2.16,3.63,3.33,2.12,2.1,1.72,2.13,1.72,0.25,2.07,1.83,Torino,AC Milan,torino,ac_milan,Torino,A,1.0,2.0,3,11
+2022-11-05,I1,Italy-SA,2223,Milan,Spezia,2.0,1.0,H,1.0,0.0,H,1.22,6.0,13.0,1.22,6.78,15.73,1.22,6.54,13.51,1.57,2.37,1.56,2.4,-1.75,1.92,1.98,AC Milan,Spezia,ac_milan,spezia,Spezia,H,2.0,1.0,3,4
+2022-11-08,I1,Italy-SA,2223,Cremonese,Milan,0.0,0.0,D,0.0,0.0,D,6.0,4.2,1.55,6.23,4.2,1.6,6.15,4.28,1.54,1.72,2.1,1.72,2.14,1.0,1.92,1.98,Cremonese,AC Milan,cremonese,ac_milan,Cremonese,A,0.0,0.0,1,4
+2022-11-13,I1,Italy-SA,2223,Milan,Fiorentina,2.0,1.0,H,1.0,1.0,D,1.7,3.8,5.0,1.73,3.94,5.18,1.72,3.87,4.84,1.9,2.0,1.87,1.95,-0.75,1.93,1.97,AC Milan,Fiorentina,ac_milan,fiorentina,Fiorentina,H,2.0,1.0,3,10
+2023-01-04,I1,Italy-SA,2223,Salernitana,Milan,1.0,2.0,A,0.0,2.0,A,7.0,4.33,1.45,6.95,4.56,1.51,6.87,4.47,1.48,1.73,2.1,1.74,2.11,1.25,1.83,2.07,Salernitana,AC Milan,salernitana,ac_milan,Salernitana,A,2.0,1.0,3,6
+2023-01-08,I1,Italy-SA,2223,Milan,Roma,2.0,2.0,D,1.0,0.0,H,1.83,3.6,4.33,1.89,3.66,4.5,1.87,3.59,4.35,2.09,1.81,2.06,1.79,-0.5,1.85,2.05,AC Milan,AS Roma,ac_milan,as_roma,AS Roma,H,2.0,2.0,3,10
+2023-01-14,I1,Italy-SA,2223,Lecce,Milan,2.0,2.0,D,2.0,0.0,H,5.75,3.8,1.62,6.08,4.01,1.64,5.82,3.95,1.61,2.03,1.87,1.99,1.84,0.75,2.05,1.75,Lecce,AC Milan,lecce,ac_milan,Lecce,A,2.0,2.0,1,9
+2023-01-24,I1,Italy-SA,2223,Lazio,Milan,4.0,0.0,H,2.0,0.0,H,3.2,3.4,2.25,3.18,3.37,2.28,3.17,3.45,2.27,1.92,1.98,1.88,1.94,0.25,1.91,1.99,Lazio,AC Milan,lazio,ac_milan,Lazio,A,0.0,4.0,3,11
+2023-01-29,I1,Italy-SA,2223,Milan,Sassuolo,2.0,5.0,A,1.0,3.0,A,1.5,4.5,6.5,1.5,4.88,6.45,1.49,4.71,6.15,1.53,2.5,1.52,2.53,-1.25,2.07,1.83,AC Milan,Sassuolo,ac_milan,sassuolo,Sassuolo,H,2.0,5.0,4,9
+2023-02-05,I1,Italy-SA,2223,Inter,Milan,1.0,0.0,H,1.0,0.0,H,1.95,3.5,4.0,2.01,3.61,4.02,1.99,3.54,3.87,1.85,2.05,1.83,2.01,-0.5,2.01,1.92,Inter Milan,AC Milan,inter_milan,ac_milan,Inter Milan,A,0.0,1.0,4,10
+2023-02-10,I1,Italy-SA,2223,Milan,Torino,1.0,0.0,H,0.0,0.0,D,1.8,3.5,4.75,1.84,3.56,4.98,1.83,3.5,4.81,2.2,1.67,2.18,1.71,-0.5,1.84,2.09,AC Milan,Torino,ac_milan,torino,Torino,H,1.0,0.0,4,11
+2023-02-18,I1,Italy-SA,2223,Monza,Milan,0.0,1.0,A,0.0,1.0,A,3.75,3.3,2.1,3.87,3.4,2.13,3.71,3.34,2.1,2.1,1.73,2.06,1.78,0.25,2.09,1.81,Monza,AC Milan,monza,ac_milan,Monza,A,1.0,0.0,2,6
+2023-02-26,I1,Italy-SA,2223,Milan,Atalanta,2.0,0.0,H,1.0,0.0,H,2.15,3.4,3.4,2.19,3.3,3.51,2.19,3.38,3.42,1.94,1.96,1.89,1.94,-0.25,1.9,2.0,AC Milan,Atalanta,ac_milan,atalanta,Atalanta,H,2.0,0.0,4,11
+2023-03-04,I1,Italy-SA,2223,Fiorentina,Milan,2.0,1.0,H,0.0,0.0,D,2.8,3.3,2.55,2.91,3.34,2.6,2.86,3.28,2.56,2.1,1.73,2.13,1.73,0.0,2.05,1.85,Fiorentina,AC Milan,fiorentina,ac_milan,Fiorentina,A,1.0,2.0,4,10
+2023-03-13,I1,Italy-SA,2223,Milan,Salernitana,1.0,1.0,D,1.0,0.0,H,1.25,6.0,11.0,1.27,6.03,11.52,1.26,5.9,11.74,1.67,2.2,1.65,2.22,-1.75,2.06,1.87,AC Milan,Salernitana,ac_milan,salernitana,Salernitana,H,1.0,1.0,4,6
+2023-03-18,I1,Italy-SA,2223,Udinese,Milan,3.0,1.0,H,2.0,1.0,H,3.5,3.4,2.15,3.53,3.53,2.17,3.43,3.44,2.16,2.01,1.89,1.97,1.85,0.25,2.02,1.88,Udinese,AC Milan,udinese,ac_milan,Udinese,A,1.0,3.0,4,10
+2023-04-02,I1,Italy-SA,2223,Napoli,Milan,0.0,4.0,A,0.0,2.0,A,1.73,3.6,5.0,1.78,3.75,4.96,1.76,3.69,4.83,2.06,1.84,2.02,1.82,-0.75,2.02,1.88,Napoli,AC Milan,napoli,ac_milan,Napoli,A,4.0,0.0,4,10
+2023-04-07,I1,Italy-SA,2223,Milan,Empoli,0.0,0.0,D,0.0,0.0,D,1.36,4.75,9.0,1.38,5.04,9.12,1.37,4.9,9.08,1.8,2.0,1.79,2.05,-1.25,1.84,2.06,AC Milan,Empoli,ac_milan,empoli,Empoli,H,0.0,0.0,4,8
+2023-04-15,I1,Italy-SA,2223,Bologna,Milan,1.0,1.0,D,1.0,1.0,D,3.1,3.1,2.45,3.2,3.17,2.5,3.12,3.15,2.46,2.3,1.62,2.35,1.6,0.25,1.78,2.13,Bologna,AC Milan,bologna,ac_milan,Bologna,A,1.0,1.0,4,10
+2023-04-23,I1,Italy-SA,2223,Milan,Lecce,2.0,0.0,H,1.0,0.0,H,1.5,4.2,7.0,1.51,4.22,7.65,1.5,4.14,7.26,2.1,1.73,2.09,1.75,-1.0,1.88,2.02,AC Milan,Lecce,ac_milan,lecce,Lecce,H,2.0,0.0,2,9
+2023-04-29,I1,Italy-SA,2223,Roma,Milan,1.0,1.0,D,0.0,0.0,D,2.75,3.0,2.75,2.81,3.09,2.87,2.78,3.03,2.81,2.5,1.53,2.45,1.56,0.0,1.94,1.96,AS Roma,AC Milan,as_roma,ac_milan,AS Roma,A,1.0,1.0,4,10
+2023-05-03,I1,Italy-SA,2223,Milan,Cremonese,1.0,1.0,D,0.0,0.0,D,1.33,5.0,9.5,1.31,5.52,11.38,1.31,5.33,10.92,1.85,2.05,1.82,2.0,-1.5,1.97,1.93,AC Milan,Cremonese,ac_milan,cremonese,Cremonese,H,1.0,1.0,2,4
+2023-05-06,I1,Italy-SA,2223,Milan,Lazio,2.0,0.0,H,2.0,0.0,H,1.95,3.4,4.0,1.98,3.5,4.3,1.97,3.4,4.17,2.2,1.67,2.26,1.65,-0.5,1.95,1.95,AC Milan,Lazio,ac_milan,lazio,Lazio,H,2.0,0.0,4,11
+2023-05-13,I1,Italy-SA,2223,Spezia,Milan,2.0,0.0,H,0.0,0.0,D,4.2,3.5,1.91,4.32,3.52,1.94,4.17,3.5,1.93,2.03,1.87,1.98,1.84,0.5,1.96,1.94,Spezia,AC Milan,spezia,ac_milan,Spezia,A,0.0,2.0,4,4
+2023-05-20,I1,Italy-SA,2223,Milan,Sampdoria,5.0,1.0,H,3.0,1.0,H,1.17,7.5,17.0,1.19,7.22,16.72,1.19,7.11,16.3,1.57,2.38,1.6,2.37,-2.0,2.02,1.88,AC Milan,Sampdoria,ac_milan,sampdoria,Sampdoria,H,5.0,1.0,4,4
+2023-05-28,I1,Italy-SA,2223,Juventus,Milan,0.0,1.0,A,0.0,1.0,A,2.3,3.4,3.1,2.41,3.48,3.08,2.36,3.37,3.06,2.1,1.73,2.11,1.75,-0.25,2.05,1.85,Juventus,AC Milan,juventus,ac_milan,Juventus,A,1.0,0.0,4,11
+2023-06-04,I1,Italy-SA,2223,Milan,Verona,3.0,1.0,H,1.0,0.0,H,1.73,4.0,4.5,1.8,3.82,4.58,1.79,3.75,4.5,1.94,1.99,1.91,1.92,-0.75,2.04,1.89,AC Milan,Hellas Verona,ac_milan,hellas_verona,Hellas Verona,H,3.0,1.0,4,10
+2023-08-21,I1,Italy-SA,2324,Bologna,Milan,0.0,2.0,A,0.0,2.0,A,4.0,3.4,1.95,4.02,3.52,2.01,3.9,3.49,1.99,2.0,1.8,2.05,1.78,0.5,1.89,2.01,Bologna,AC Milan,bologna,ac_milan,Bologna,A,2.0,0.0,5,10
+2023-08-26,I1,Italy-SA,2324,Milan,Torino,4.0,1.0,H,3.0,1.0,H,1.65,3.8,5.0,1.69,3.8,5.71,1.66,3.8,5.63,2.2,1.67,2.19,1.7,-0.75,1.88,2.02,AC Milan,Torino,ac_milan,torino,Torino,H,4.0,1.0,5,11
+2023-09-01,I1,Italy-SA,2324,Roma,Milan,1.0,2.0,A,0.0,1.0,A,2.8,3.1,2.63,2.88,3.2,2.76,2.81,3.15,2.7,2.3,1.62,2.31,1.63,0.0,2.02,1.91,AS Roma,AC Milan,as_roma,ac_milan,AS Roma,A,2.0,1.0,5,10
+2023-09-16,I1,Italy-SA,2324,Inter,Milan,5.0,1.0,H,2.0,0.0,H,2.15,3.5,3.4,2.15,3.57,3.53,2.15,3.52,3.41,1.9,2.0,1.89,1.94,-0.25,1.85,2.05,Inter Milan,AC Milan,inter_milan,ac_milan,Inter Milan,A,1.0,5.0,5,10
+2023-09-23,I1,Italy-SA,2324,Milan,Verona,1.0,0.0,H,1.0,0.0,H,1.36,4.75,9.0,1.39,4.95,9.16,1.38,4.87,8.61,1.73,2.1,1.77,2.08,-1.25,1.89,2.01,AC Milan,Hellas Verona,ac_milan,hellas_verona,Hellas Verona,H,1.0,0.0,5,10
+2023-09-27,I1,Italy-SA,2324,Cagliari,Milan,1.0,3.0,A,1.0,2.0,A,5.25,3.8,1.67,5.46,3.96,1.68,5.43,3.89,1.66,1.99,1.91,1.94,1.89,0.75,2.04,1.86,Cagliari,AC Milan,cagliari,ac_milan,Cagliari,A,3.0,1.0,3,8
+2023-09-30,I1,Italy-SA,2324,Milan,Lazio,2.0,0.0,H,0.0,0.0,D,1.73,3.6,5.0,1.78,3.72,5.04,1.77,3.7,4.84,2.06,1.84,2.0,1.83,-0.75,2.01,1.89,AC Milan,Lazio,ac_milan,lazio,Lazio,H,2.0,0.0,5,11
+2023-10-07,I1,Italy-SA,2324,Genoa,Milan,0.0,1.0,A,0.0,0.0,D,4.2,3.5,1.91,4.24,3.57,1.95,4.06,3.54,1.95,2.05,1.75,2.05,1.8,0.5,1.94,1.96,Genoa,AC Milan,genoa,ac_milan,Genoa,A,1.0,0.0,3,8
+2023-10-22,I1,Italy-SA,2324,Milan,Juventus,0.0,1.0,A,0.0,0.0,D,2.25,3.4,3.2,2.32,3.29,3.42,2.3,3.28,3.31,2.1,1.7,2.15,1.72,-0.25,2.0,1.9,AC Milan,Juventus,ac_milan,juventus,Juventus,H,0.0,1.0,5,11
+2023-10-29,I1,Italy-SA,2324,Napoli,Milan,2.0,2.0,D,0.0,2.0,A,2.2,3.4,3.3,2.3,3.37,3.38,2.25,3.37,3.31,2.04,1.86,1.99,1.85,-0.25,1.95,1.98,Napoli,AC Milan,napoli,ac_milan,Napoli,A,2.0,2.0,5,10
+2023-11-04,I1,Italy-SA,2324,Milan,Udinese,0.0,1.0,A,0.0,0.0,D,1.45,4.5,7.0,1.46,4.66,7.3,1.46,4.56,7.22,1.75,2.05,1.78,2.06,-1.25,2.07,1.86,AC Milan,Udinese,ac_milan,udinese,Udinese,H,0.0,1.0,5,10
+2023-11-11,I1,Italy-SA,2324,Lecce,Milan,2.0,2.0,D,0.0,2.0,A,5.0,3.6,1.75,5.21,3.74,1.74,5.08,3.68,1.74,2.08,1.73,2.1,1.75,0.75,1.91,1.99,Lecce,AC Milan,lecce,ac_milan,Lecce,A,2.0,2.0,3,9
+2023-11-25,I1,Italy-SA,2324,Milan,Fiorentina,1.0,0.0,H,1.0,0.0,H,2.1,3.3,3.5,2.15,3.46,3.59,2.12,3.42,3.6,2.06,1.84,2.04,1.8,-0.25,1.85,2.08,AC Milan,Fiorentina,ac_milan,fiorentina,Fiorentina,H,1.0,0.0,5,10
+2023-12-02,I1,Italy-SA,2324,Milan,Frosinone,3.0,1.0,H,1.0,0.0,H,1.44,4.5,7.5,1.45,4.85,6.94,1.44,4.74,7.17,1.7,2.1,1.69,2.16,-1.25,2.02,1.91,AC Milan,Frosinone,ac_milan,frosinone,Frosinone,H,3.0,1.0,1,2
+2023-12-09,I1,Italy-SA,2324,Atalanta,Milan,3.0,2.0,H,1.0,1.0,D,2.5,3.2,3.0,2.61,3.29,2.89,2.53,3.29,2.91,2.05,1.75,2.05,1.8,0.0,1.83,2.07,Atalanta,AC Milan,atalanta,ac_milan,Atalanta,A,2.0,3.0,5,11
+2023-12-17,I1,Italy-SA,2324,Milan,Monza,3.0,0.0,H,2.0,0.0,H,1.62,4.33,5.0,1.63,4.18,5.41,1.62,4.14,5.37,1.8,2.0,1.81,2.03,-1.0,2.11,1.82,AC Milan,Monza,ac_milan,monza,Monza,H,3.0,0.0,3,6
+2023-12-22,I1,Italy-SA,2324,Salernitana,Milan,2.0,2.0,D,1.0,1.0,D,8.0,4.5,1.44,7.4,4.98,1.44,7.31,4.79,1.43,1.65,2.2,1.65,2.27,1.25,1.95,1.95,Salernitana,AC Milan,salernitana,ac_milan,Salernitana,A,2.0,2.0,5,6
+2023-12-30,I1,Italy-SA,2324,Milan,Sassuolo,1.0,0.0,H,0.0,0.0,D,1.45,4.75,6.5,1.45,4.99,6.64,1.46,4.88,6.56,1.5,2.5,1.5,2.58,-1.25,2.01,1.92,AC Milan,Sassuolo,ac_milan,sassuolo,Sassuolo,H,1.0,0.0,5,9
+2024-01-07,I1,Italy-SA,2324,Empoli,Milan,0.0,3.0,A,0.0,2.0,A,5.25,3.8,1.67,5.3,4.13,1.65,5.1,4.07,1.65,1.75,2.05,1.77,2.08,0.75,2.04,1.86,Empoli,AC Milan,empoli,ac_milan,Empoli,A,3.0,0.0,5,8
+2024-01-14,I1,Italy-SA,2324,Milan,Roma,3.0,1.0,H,1.0,0.0,H,2.2,3.2,3.5,2.19,3.21,3.76,2.16,3.24,3.63,2.15,1.67,2.19,1.69,-0.25,1.85,2.05,AC Milan,AS Roma,ac_milan,as_roma,AS Roma,H,3.0,1.0,6,10
+2024-01-20,I1,Italy-SA,2324,Udinese,Milan,2.0,3.0,A,1.0,1.0,D,4.0,3.8,1.85,4.19,3.71,1.9,4.07,3.71,1.89,1.91,1.99,1.87,1.95,0.5,1.99,1.91,Udinese,AC Milan,udinese,ac_milan,Udinese,A,3.0,2.0,6,10
+2024-01-27,I1,Italy-SA,2324,Milan,Bologna,2.0,2.0,D,1.0,1.0,D,1.67,3.75,5.25,1.7,3.93,5.11,1.71,3.79,5.03,2.08,1.73,2.07,1.78,-0.75,1.95,1.95,AC Milan,Bologna,ac_milan,bologna,Bologna,H,2.0,2.0,6,10
+2024-02-03,I1,Italy-SA,2324,Frosinone,Milan,2.0,3.0,A,1.0,1.0,D,5.0,4.2,1.62,4.96,4.32,1.65,4.85,4.26,1.66,1.6,2.3,1.62,2.32,0.75,2.08,1.85,Frosinone,AC Milan,frosinone,ac_milan,Frosinone,A,3.0,2.0,2,2
+2024-02-11,I1,Italy-SA,2324,Milan,Napoli,1.0,0.0,H,1.0,0.0,H,1.95,3.6,3.8,1.95,3.74,3.94,1.95,3.69,3.78,1.8,2.0,1.79,2.04,-0.5,1.99,1.94,AC Milan,Napoli,ac_milan,napoli,Napoli,H,1.0,0.0,6,10
+2024-02-18,I1,Italy-SA,2324,Monza,Milan,4.0,2.0,H,2.0,0.0,H,4.75,3.5,1.8,4.63,3.78,1.8,4.52,3.7,1.8,1.97,1.93,1.91,1.9,0.75,1.85,2.05,Monza,AC Milan,monza,ac_milan,Monza,A,2.0,4.0,4,6
+2024-02-25,I1,Italy-SA,2324,Milan,Atalanta,1.0,1.0,D,1.0,1.0,D,2.38,3.4,3.0,2.41,3.51,3.01,2.36,3.5,2.95,1.75,2.05,1.77,2.07,-0.25,2.06,1.84,AC Milan,Atalanta,ac_milan,atalanta,Atalanta,H,1.0,1.0,6,11
+2024-03-01,I1,Italy-SA,2324,Lazio,Milan,0.0,1.0,A,0.0,0.0,D,3.5,3.2,2.2,3.67,3.3,2.21,3.49,3.27,2.22,2.1,1.7,2.14,1.73,0.25,2.03,1.87,Lazio,AC Milan,lazio,ac_milan,Lazio,A,1.0,0.0,6,11
+2024-03-10,I1,Italy-SA,2324,Milan,Empoli,1.0,0.0,H,1.0,0.0,H,1.44,5.0,6.5,1.45,4.74,7.19,1.44,4.69,7.17,1.7,2.1,1.73,2.12,-1.25,2.03,1.9,AC Milan,Empoli,ac_milan,empoli,Empoli,H,1.0,0.0,6,8
+2024-03-17,I1,Italy-SA,2324,Verona,Milan,1.0,3.0,A,0.0,1.0,A,5.25,3.75,1.7,5.2,3.81,1.72,5.01,3.73,1.73,2.05,1.85,2.0,1.84,0.75,1.98,1.95,Hellas Verona,AC Milan,hellas_verona,ac_milan,Hellas Verona,A,3.0,1.0,6,10
+2024-03-30,I1,Italy-SA,2324,Fiorentina,Milan,1.0,2.0,A,0.0,0.0,D,2.88,3.3,2.5,2.89,3.34,2.58,2.85,3.35,2.53,2.01,1.89,1.94,1.87,0.0,2.07,1.83,Fiorentina,AC Milan,fiorentina,ac_milan,Fiorentina,A,2.0,1.0,6,10
+2024-04-06,I1,Italy-SA,2324,Milan,Lecce,3.0,0.0,H,2.0,0.0,H,1.36,4.75,8.5,1.38,5.19,8.25,1.37,5.06,8.71,1.7,2.1,1.73,2.13,-1.25,1.83,2.1,AC Milan,Lecce,ac_milan,lecce,Lecce,H,3.0,0.0,4,9
+2024-04-14,I1,Italy-SA,2324,Sassuolo,Milan,3.0,3.0,D,2.0,1.0,H,4.5,3.8,1.75,4.43,3.94,1.8,4.44,3.92,1.76,1.67,2.2,1.68,2.22,0.75,1.9,2.0,Sassuolo,AC Milan,sassuolo,ac_milan,Sassuolo,A,3.0,3.0,6,9
+2024-04-22,I1,Italy-SA,2324,Milan,Inter,1.0,2.0,A,0.0,1.0,A,3.75,3.6,2.0,3.96,3.68,1.96,3.73,3.66,1.98,1.73,2.1,1.73,2.13,0.5,1.91,1.99,AC Milan,Inter Milan,ac_milan,inter_milan,Inter Milan,H,1.0,2.0,6,10
+2024-04-27,I1,Italy-SA,2324,Juventus,Milan,0.0,0.0,D,0.0,0.0,D,2.1,3.3,3.6,2.09,3.46,3.74,2.1,3.4,3.65,2.04,1.86,2.01,1.83,-0.25,1.84,2.09,Juventus,AC Milan,juventus,ac_milan,Juventus,A,0.0,0.0,6,11
+2024-05-05,I1,Italy-SA,2324,Milan,Genoa,3.0,3.0,D,1.0,1.0,D,1.45,4.5,6.5,1.49,4.59,6.64,1.47,4.51,6.97,1.73,2.1,1.76,2.07,-1.25,2.09,1.84,AC Milan,Genoa,ac_milan,genoa,Genoa,H,3.0,3.0,4,8
+2024-05-11,I1,Italy-SA,2324,Milan,Cagliari,5.0,1.0,H,1.0,0.0,H,1.4,5.25,6.5,1.41,4.95,6.91,1.42,4.97,7.17,1.57,2.38,1.57,2.42,-1.25,1.95,1.95,AC Milan,Cagliari,ac_milan,cagliari,Cagliari,H,5.0,1.0,4,8
+2024-05-18,I1,Italy-SA,2324,Torino,Milan,3.0,1.0,H,2.0,0.0,H,2.8,3.2,2.6,2.85,3.21,2.66,2.81,3.25,2.63,2.1,1.73,2.14,1.73,0.0,2.02,1.88,Torino,AC Milan,torino,ac_milan,Torino,A,1.0,3.0,6,11
+2024-05-25,I1,Italy-SA,2324,Milan,Salernitana,3.0,3.0,D,2.0,0.0,H,1.18,8.0,12.0,1.17,8.69,13.1,1.17,8.34,13.58,1.25,4.0,1.26,3.78,-2.25,1.98,1.92,AC Milan,Salernitana,ac_milan,salernitana,Salernitana,H,3.0,3.0,6,6
+2024-08-17,I1,Italy-SA,2425,Milan,Torino,2.0,2.0,D,0.0,1.0,A,1.62,3.8,5.75,1.62,4.06,5.76,1.64,3.97,5.51,1.95,1.95,1.92,1.91,-0.75,1.81,2.09,AC Milan,Torino,ac_milan,torino,Torino,H,2.0,2.0,7,11
+2024-08-24,I1,Italy-SA,2425,Parma,Milan,2.0,1.0,H,1.0,0.0,H,4.75,3.9,1.7,4.9,4.16,1.69,4.74,4.03,1.7,1.73,2.1,1.71,2.17,0.75,2.01,1.89,Parma,AC Milan,parma,ac_milan,Parma,A,1.0,2.0,1,4
+2024-08-31,I1,Italy-SA,2425,Lazio,Milan,2.0,2.0,D,0.0,1.0,A,2.9,3.4,2.4,2.97,3.44,2.46,2.89,3.44,2.45,1.9,2.0,1.88,1.95,0.25,1.8,2.1,Lazio,AC Milan,lazio,ac_milan,Lazio,A,2.0,2.0,7,11
+2024-09-14,I1,Italy-SA,2425,Milan,Venezia,4.0,0.0,H,4.0,0.0,H,1.3,5.75,9.0,1.3,5.83,9.65,1.3,5.82,9.76,1.53,2.5,1.53,2.5,-1.5,1.86,2.04,AC Milan,Venezia,ac_milan,venezia,Venezia,H,4.0,0.0,3,5
+2024-09-22,I1,Italy-SA,2425,Inter,Milan,1.0,2.0,A,1.0,1.0,D,1.65,4.0,5.25,1.66,4.11,5.25,1.66,4.08,5.02,1.67,2.2,1.65,2.26,-0.75,1.85,2.08,Inter Milan,AC Milan,inter_milan,ac_milan,Inter Milan,A,2.0,1.0,7,10
+2024-09-27,I1,Italy-SA,2425,Milan,Lecce,3.0,0.0,H,3.0,0.0,H,1.33,5.75,8.0,1.33,5.73,9.55,1.33,5.58,8.96,1.5,2.63,1.52,2.52,-1.5,1.95,1.95,AC Milan,Lecce,ac_milan,lecce,Lecce,H,3.0,0.0,5,9
+2024-10-06,I1,Italy-SA,2425,Fiorentina,Milan,2.0,1.0,H,1.0,0.0,H,3.1,3.6,2.2,3.35,3.55,2.21,3.23,3.55,2.2,1.73,2.1,1.73,2.13,0.25,1.98,1.92,Fiorentina,AC Milan,fiorentina,ac_milan,Fiorentina,A,1.0,2.0,7,10
+2024-10-19,I1,Italy-SA,2425,Milan,Udinese,1.0,0.0,H,1.0,0.0,H,1.38,4.75,8.5,1.38,5.23,8.24,1.39,5.07,8.0,1.57,2.38,1.59,2.39,-1.25,1.85,2.05,AC Milan,Udinese,ac_milan,udinese,Udinese,H,1.0,0.0,7,10
+2024-10-29,I1,Italy-SA,2425,Milan,Napoli,0.0,2.0,A,0.0,2.0,A,2.45,3.4,2.8,2.59,3.4,2.88,2.51,3.39,2.86,1.95,1.95,1.91,1.93,0.0,1.83,2.07,AC Milan,Napoli,ac_milan,napoli,Napoli,H,0.0,2.0,7,10
+2024-11-02,I1,Italy-SA,2425,Monza,Milan,0.0,1.0,A,0.0,1.0,A,5.0,3.6,1.7,4.96,3.75,1.71,4.97,3.78,1.72,1.9,2.0,1.88,1.96,0.75,1.97,1.93,Monza,AC Milan,monza,ac_milan,Monza,A,1.0,0.0,5,6
+2024-11-09,I1,Italy-SA,2425,Cagliari,Milan,3.0,3.0,D,1.0,2.0,A,5.5,4.1,1.6,5.61,4.15,1.62,5.31,4.14,1.61,1.67,2.2,1.68,2.2,1.0,1.86,2.04,Cagliari,AC Milan,cagliari,ac_milan,Cagliari,A,3.0,3.0,5,8
+2024-11-23,I1,Italy-SA,2425,Milan,Juventus,0.0,0.0,D,0.0,0.0,D,2.15,3.3,3.5,2.21,3.27,3.63,2.2,3.27,3.53,2.2,1.67,2.17,1.71,-0.25,1.89,2.01,AC Milan,Juventus,ac_milan,juventus,Juventus,H,0.0,0.0,7,11
+2024-11-30,I1,Italy-SA,2425,Milan,Empoli,3.0,0.0,H,2.0,0.0,H,1.36,4.75,9.0,1.37,5.1,8.92,1.37,4.97,8.81,1.73,2.1,1.75,2.11,-1.25,1.85,2.05,AC Milan,Empoli,ac_milan,empoli,Empoli,H,3.0,0.0,7,8
+2024-12-06,I1,Italy-SA,2425,Atalanta,Milan,2.0,1.0,H,1.0,1.0,D,2.15,3.4,3.3,2.21,3.53,3.43,2.16,3.48,3.39,1.73,2.1,1.75,2.12,-0.25,1.91,2.02,Atalanta,AC Milan,atalanta,ac_milan,Atalanta,A,1.0,2.0,7,11
+2024-12-15,I1,Italy-SA,2425,Milan,Genoa,0.0,0.0,D,0.0,0.0,D,1.33,5.25,8.0,1.36,5.27,8.67,1.35,5.08,8.68,1.67,2.2,1.68,2.19,-1.5,2.05,1.85,AC Milan,Genoa,ac_milan,genoa,Genoa,H,0.0,0.0,5,8
+2024-12-20,I1,Italy-SA,2425,Verona,Milan,0.0,1.0,A,0.0,0.0,D,5.5,4.1,1.57,5.76,4.18,1.62,5.49,4.1,1.61,1.73,2.1,1.72,2.14,1.0,1.87,2.03,Hellas Verona,AC Milan,hellas_verona,ac_milan,Hellas Verona,A,1.0,0.0,7,10
+2024-12-29,I1,Italy-SA,2425,Milan,Roma,1.0,1.0,D,1.0,1.0,D,2.25,3.4,3.2,2.26,3.51,3.27,2.22,3.44,3.21,1.93,1.97,1.88,1.92,-0.25,1.95,1.95,AC Milan,AS Roma,ac_milan,as_roma,AS Roma,H,1.0,1.0,7,10
+2025-01-11,I1,Italy-SA,2425,Milan,Cagliari,1.0,1.0,D,0.0,0.0,D,1.33,5.0,9.5,1.32,5.67,9.6,1.33,5.31,8.99,1.62,2.3,1.6,2.34,-1.5,1.98,1.92,AC Milan,Cagliari,ac_milan,cagliari,Cagliari,H,1.0,1.0,6,8
+2025-01-14,I1,Italy-SA,2425,Como,Milan,1.0,2.0,A,0.0,0.0,D,4.2,3.5,1.9,4.26,3.66,1.92,4.02,3.57,1.93,1.84,2.06,1.81,2.01,0.5,2.0,1.9,Como,AC Milan,como,ac_milan,Como,A,2.0,1.0,1,4
+2025-01-18,I1,Italy-SA,2425,Juventus,Milan,2.0,0.0,H,0.0,0.0,D,2.15,3.3,3.4,2.22,3.25,3.64,2.2,3.24,3.47,2.1,1.73,2.14,1.7,-0.25,1.89,2.01,Juventus,AC Milan,juventus,ac_milan,Juventus,A,0.0,2.0,8,11
+2025-01-26,I1,Italy-SA,2425,Milan,Parma,3.0,2.0,H,1.0,1.0,D,1.3,6.0,8.5,1.29,6.09,9.43,1.29,5.93,9.23,1.44,2.75,1.42,2.81,-1.5,1.78,2.03,AC Milan,Parma,ac_milan,parma,Parma,H,3.0,2.0,2,4
+2025-02-02,I1,Italy-SA,2425,Milan,Inter,1.0,1.0,D,1.0,0.0,H,4.0,3.5,1.91,4.03,3.67,1.94,3.88,3.59,1.94,1.8,2.0,1.81,2.0,0.5,1.95,1.95,AC Milan,Inter Milan,ac_milan,inter_milan,Inter Milan,H,1.0,1.0,8,10
+2025-02-08,I1,Italy-SA,2425,Empoli,Milan,0.0,2.0,A,0.0,0.0,D,5.5,3.8,1.65,6.15,3.7,1.65,5.64,3.71,1.67,1.95,1.95,1.92,1.91,0.75,2.04,1.86,Empoli,AC Milan,empoli,ac_milan,Empoli,A,2.0,0.0,8,8
+2025-02-15,I1,Italy-SA,2425,Milan,Verona,1.0,0.0,H,0.0,0.0,D,1.33,4.75,9.5,1.33,5.52,9.32,1.33,5.37,9.17,1.57,2.38,1.58,2.38,-1.5,2.0,1.9,AC Milan,Hellas Verona,ac_milan,hellas_verona,Hellas Verona,H,1.0,0.0,8,10
+2025-02-22,I1,Italy-SA,2425,Torino,Milan,2.0,1.0,H,1.0,0.0,H,3.9,3.3,2.0,4.0,3.43,2.03,3.86,3.39,2.03,2.1,1.73,2.11,1.75,0.5,1.85,2.05,Torino,AC Milan,torino,ac_milan,Torino,A,1.0,2.0,8,11
+2025-02-27,I1,Italy-SA,2425,Bologna,Milan,2.0,1.0,H,0.0,1.0,A,2.88,3.3,2.5,2.91,3.33,2.58,2.84,3.28,2.54,1.96,1.82,1.99,1.84,0.0,2.06,1.84,Bologna,AC Milan,bologna,ac_milan,Bologna,A,1.0,2.0,7,10
+2025-03-02,I1,Italy-SA,2425,Milan,Lazio,1.0,2.0,A,0.0,1.0,A,2.05,3.6,3.5,2.07,3.65,3.61,2.05,3.59,3.5,1.86,2.04,1.83,2.01,-0.5,2.09,1.84,AC Milan,Lazio,ac_milan,lazio,Lazio,H,1.0,2.0,8,11
+2025-03-08,I1,Italy-SA,2425,Lecce,Milan,2.0,3.0,A,1.0,0.0,H,4.75,3.6,1.75,4.83,3.77,1.78,4.64,3.69,1.78,1.88,2.02,1.84,1.99,0.75,1.89,2.01,Lecce,AC Milan,lecce,ac_milan,Lecce,A,3.0,2.0,6,9
+2025-03-15,I1,Italy-SA,2425,Milan,Como,2.0,1.0,H,0.0,1.0,A,1.8,3.6,4.5,1.8,3.87,4.52,1.8,3.79,4.41,1.73,2.1,1.75,2.1,-0.75,2.05,1.85,AC Milan,Como,ac_milan,como,Como,H,2.0,1.0,2,4
+2025-03-30,I1,Italy-SA,2425,Napoli,Milan,2.0,1.0,H,2.0,0.0,H,1.91,3.7,3.75,1.98,3.64,3.91,1.96,3.57,3.82,2.02,1.88,1.98,1.85,-0.5,2.0,1.9,Napoli,AC Milan,napoli,ac_milan,Napoli,A,1.0,2.0,8,10
+2025-04-05,I1,Italy-SA,2425,Milan,Fiorentina,2.0,2.0,D,1.0,2.0,A,1.9,3.5,4.2,1.91,3.75,4.08,1.91,3.65,4.01,1.73,2.1,1.75,2.08,-0.5,1.92,1.98,AC Milan,Fiorentina,ac_milan,fiorentina,Fiorentina,H,2.0,2.0,8,10
+2025-04-11,I1,Italy-SA,2425,Udinese,Milan,0.0,4.0,A,0.0,2.0,A,4.0,3.6,1.91,4.17,3.61,1.95,4.0,3.56,1.95,1.89,2.01,1.86,1.98,0.5,1.96,1.97,Udinese,AC Milan,udinese,ac_milan,Udinese,A,4.0,0.0,8,10
+2025-04-20,I1,Italy-SA,2425,Milan,Atalanta,0.0,1.0,A,0.0,0.0,D,2.5,3.4,2.75,2.58,3.55,2.75,2.53,3.47,2.7,1.67,2.2,1.67,2.2,0.0,1.89,2.01,AC Milan,Atalanta,ac_milan,atalanta,Atalanta,H,0.0,1.0,8,11
+2025-04-27,I1,Italy-SA,2425,Venezia,Milan,0.0,2.0,A,0.0,1.0,A,4.75,4.0,1.7,4.9,4.04,1.71,4.71,3.98,1.7,1.73,2.1,1.75,2.09,0.75,1.98,1.92,Venezia,AC Milan,venezia,ac_milan,Venezia,A,2.0,0.0,4,5
+2025-05-05,I1,Italy-SA,2425,Genoa,Milan,1.0,2.0,A,0.0,0.0,D,4.75,3.7,1.8,4.59,3.76,1.81,4.48,3.7,1.79,1.99,1.91,1.93,1.88,0.75,1.8,1.98,Genoa,AC Milan,genoa,ac_milan,Genoa,A,2.0,1.0,6,8
+2025-05-09,I1,Italy-SA,2425,Milan,Bologna,3.0,1.0,H,0.0,0.0,D,2.3,3.4,3.0,2.36,3.45,3.13,2.35,3.38,3.05,1.99,1.91,1.96,1.87,-0.25,2.04,1.86,AC Milan,Bologna,ac_milan,bologna,Bologna,H,3.0,1.0,8,10
+2025-05-18,I1,Italy-SA,2425,Roma,Milan,3.0,1.0,H,1.0,1.0,D,2.3,3.6,2.9,2.36,3.6,3.02,2.31,3.54,2.97,1.73,2.1,1.73,2.12,-0.25,2.04,1.86,AS Roma,AC Milan,as_roma,ac_milan,AS Roma,A,1.0,3.0,8,10
+2025-05-24,I1,Italy-SA,2425,Milan,Monza,2.0,0.0,H,0.0,0.0,D,1.22,7.0,11.0,1.22,7.48,11.05,1.22,7.1,11.13,1.33,3.4,1.31,3.31,-2.0,2.0,1.85,AC Milan,Monza,ac_milan,monza,Monza,H,2.0,0.0,6,6
+2025-08-23,I1,Italy-SA,2526,Milan,Cremonese,1.0,2.0,A,1.0,1.0,D,1.33,5.25,9.0,1.36,5.42,8.57,1.34,5.09,8.57,1.67,2.2,1.61,2.25,-1.5,2.0,1.85,AC Milan,Cremonese,ac_milan,cremonese,Cremonese,H,1.0,2.0,3,4
+2025-08-29,I1,Italy-SA,2526,Lecce,Milan,0.0,2.0,A,0.0,0.0,D,6.0,3.9,1.57,6.32,3.93,1.62,6.03,3.94,1.57,2.0,1.85,1.96,1.81,1.0,1.8,2.05,Lecce,AC Milan,lecce,ac_milan,Lecce,A,2.0,0.0,7,9
+2025-09-14,I1,Italy-SA,2526,Milan,Bologna,1.0,0.0,H,0.0,0.0,D,1.91,3.4,4.2,1.91,3.52,4.42,1.89,3.48,4.04,2.0,1.85,1.91,1.84,-0.5,1.93,1.93,AC Milan,Bologna,ac_milan,bologna,Bologna,H,1.0,0.0,9,10
+2025-09-20,I1,Italy-SA,2526,Udinese,Milan,0.0,3.0,A,0.0,1.0,A,4.33,3.6,1.83,4.47,3.63,1.86,4.31,3.57,1.82,2.1,1.73,1.99,1.78,0.5,2.03,1.83,Udinese,AC Milan,udinese,ac_milan,Udinese,A,3.0,0.0,9,10
+2025-09-28,I1,Italy-SA,2526,Milan,Napoli,2.0,1.0,H,2.0,0.0,H,2.35,3.1,3.2,2.34,3.3,3.3,2.36,3.19,3.08,2.1,1.73,2.12,1.68,-0.25,2.0,1.85,AC Milan,Napoli,ac_milan,napoli,Napoli,H,2.0,1.0,9,10
+2025-10-05,I1,Italy-SA,2526,Juventus,Milan,0.0,0.0,D,0.0,0.0,D,2.7,3.2,2.7,2.78,3.21,2.76,2.63,3.19,2.71,2.1,1.73,2.05,1.72,0.0,1.93,1.93,Juventus,AC Milan,juventus,ac_milan,Juventus,A,0.0,0.0,9,11
+2025-10-19,I1,Italy-SA,2526,Milan,Fiorentina,2.0,1.0,H,0.0,0.0,D,1.5,4.33,6.5,1.56,4.33,6.09,1.52,4.16,6.06,1.88,1.98,1.83,1.93,-1.0,1.93,1.93,AC Milan,Fiorentina,ac_milan,fiorentina,Fiorentina,H,2.0,1.0,9,10
+2025-10-24,I1,Italy-SA,2526,Milan,Pisa,2.0,2.0,D,1.0,0.0,H,1.3,5.5,10.0,1.3,5.66,10.97,1.3,5.19,10.14,1.8,2.05,1.77,2.01,-1.5,1.93,1.93,AC Milan,Pisa,ac_milan,pisa,Pisa,H,2.0,2.0,1,2
+2025-10-28,I1,Italy-SA,2526,Atalanta,Milan,1.0,1.0,D,1.0,1.0,D,2.63,3.2,2.75,2.71,3.3,2.81,2.61,3.26,2.68,2.0,1.85,1.91,1.85,0.0,1.9,1.95,Atalanta,AC Milan,atalanta,ac_milan,Atalanta,A,1.0,1.0,9,11
+2025-11-02,I1,Italy-SA,2526,Milan,Roma,1.0,0.0,H,1.0,0.0,H,2.2,3.0,3.7,2.16,3.21,3.87,2.13,3.12,3.68,2.2,1.67,2.21,1.63,-0.25,1.85,2.0,AC Milan,AS Roma,ac_milan,as_roma,AS Roma,H,1.0,0.0,9,10
+2025-11-08,I1,Italy-SA,2526,Parma,Milan,2.0,2.0,D,1.0,2.0,A,5.75,4.0,1.57,6.27,3.93,1.6,5.89,3.87,1.58,2.1,1.73,2.07,1.71,1.0,1.8,2.05,Parma,AC Milan,parma,ac_milan,Parma,A,2.0,2.0,3,4
+2025-11-23,I1,Italy-SA,2526,Inter,Milan,0.0,1.0,A,0.0,0.0,D,1.9,3.5,4.0,1.99,3.48,4.09,1.91,3.44,3.95,1.88,1.98,1.85,1.9,-0.5,1.95,1.9,Inter Milan,AC Milan,inter_milan,ac_milan,Inter Milan,A,1.0,0.0,9,10
+2025-11-29,I1,Italy-SA,2526,Milan,Lazio,1.0,0.0,H,0.0,0.0,D,1.62,3.8,5.75,1.63,4.03,5.67,1.61,3.78,5.72,2.1,1.73,2.1,1.69,-0.75,1.8,2.05,AC Milan,Lazio,ac_milan,lazio,Lazio,H,1.0,0.0,9,11
+2025-12-08,I1,Italy-SA,2526,Torino,Milan,2.0,3.0,A,2.0,1.0,H,4.5,3.6,1.8,4.89,3.61,1.8,4.53,3.5,1.79,2.0,1.8,2.02,1.75,0.5,2.03,1.78,Torino,AC Milan,torino,ac_milan,Torino,A,3.0,2.0,9,11
+2025-12-14,I1,Italy-SA,2526,Milan,Sassuolo,2.0,2.0,D,1.0,1.0,D,1.42,4.33,8.0,1.42,4.78,8.05,1.4,4.54,7.72,1.83,2.03,1.77,1.98,-1.25,1.98,1.88,AC Milan,Sassuolo,ac_milan,sassuolo,Sassuolo,H,2.0,2.0,7,9
+2025-12-28,I1,Italy-SA,2526,Milan,Verona,3.0,0.0,H,1.0,0.0,H,1.38,4.75,8.5,1.38,4.98,8.81,1.37,4.7,8.4,1.8,2.0,1.81,1.94,-1.25,1.88,1.98,AC Milan,Hellas Verona,ac_milan,hellas_verona,Hellas Verona,H,3.0,0.0,9,10
+2026-01-02,I1,Italy-SA,2526,Cagliari,Milan,0.0,1.0,A,0.0,0.0,D,6.0,3.9,1.6,6.25,4.01,1.61,6.21,3.9,1.55,2.1,1.73,2.03,1.74,1.0,1.8,2.05,Cagliari,AC Milan,cagliari,ac_milan,Cagliari,A,1.0,0.0,7,8
+2026-01-08,I1,Italy-SA,2526,Milan,Genoa,1.0,1.0,D,0.0,1.0,A,1.44,4.5,7.5,1.44,4.47,8.31,1.41,4.34,8.0,2.0,1.8,1.98,1.77,-1.25,2.03,1.83,AC Milan,Genoa,ac_milan,genoa,Genoa,H,1.0,1.0,7,8
+2026-01-11,I1,Italy-SA,2526,Fiorentina,Milan,1.0,1.0,D,0.0,0.0,D,3.8,3.4,2.0,3.89,3.5,2.03,3.67,3.4,2.01,2.03,1.83,1.96,1.79,0.5,1.83,2.03,Fiorentina,AC Milan,fiorentina,ac_milan,Fiorentina,A,1.0,1.0,10,10
+2026-01-15,I1,Italy-SA,2526,Como,Milan,1.0,3.0,A,1.0,1.0,D,2.9,3.25,2.5,2.99,3.27,2.55,2.86,3.22,2.47,2.0,1.8,2.03,1.74,0.0,2.1,1.78,Como,AC Milan,como,ac_milan,Como,A,3.0,1.0,3,4
+2026-01-18,I1,Italy-SA,2526,Milan,Lecce,1.0,0.0,H,0.0,0.0,D,1.29,5.0,13.0,,,,1.27,5.21,11.59,1.91,1.91,1.85,1.9,-1.5,1.93,1.93,AC Milan,Lecce,ac_milan,lecce,Lecce,H,1.0,0.0,8,9
+2026-01-25,I1,Italy-SA,2526,Roma,Milan,1.0,1.0,D,0.0,0.0,D,2.63,3.1,2.88,,,,2.62,3.0,2.87,2.2,1.67,2.17,1.65,0.0,1.85,2.0,AS Roma,AC Milan,as_roma,ac_milan,AS Roma,A,1.0,1.0,10,10
+2026-02-03,I1,Italy-SA,2526,Bologna,Milan,0.0,3.0,A,0.0,2.0,A,2.9,3.25,2.5,,,,2.94,3.12,2.5,2.1,1.73,2.1,1.69,0.0,2.05,1.8,Bologna,AC Milan,bologna,ac_milan,Bologna,A,3.0,0.0,10,10
+2026-02-13,I1,Italy-SA,2526,Pisa,Milan,1.0,2.0,A,0.0,1.0,A,6.5,4.2,1.5,,,,6.42,4.21,1.49,1.93,1.93,1.87,1.89,1.0,2.0,1.85,Pisa,AC Milan,pisa,ac_milan,Pisa,A,2.0,1.0,2,2
+2026-02-18,I1,Italy-SA,2526,Milan,Como,1.0,1.0,D,0.0,1.0,A,2.25,3.3,3.25,,,,2.25,3.3,3.16,2.0,1.85,1.92,1.83,-0.25,1.95,1.9,AC Milan,Como,ac_milan,como,Como,H,1.0,1.0,4,4
+2026-02-22,I1,Italy-SA,2526,Milan,Parma,0.0,1.0,A,0.0,0.0,D,1.33,5.0,9.5,,,,1.32,4.95,9.48,1.8,2.0,1.78,1.97,-1.5,2.03,1.83,AC Milan,Parma,ac_milan,parma,Parma,H,0.0,1.0,4,4
+2026-03-01,I1,Italy-SA,2526,Cremonese,Milan,0.0,2.0,A,0.0,0.0,D,6.5,4.33,1.5,,,,6.63,4.14,1.49,1.91,1.91,1.88,1.87,1.0,2.03,1.83,Cremonese,AC Milan,cremonese,ac_milan,Cremonese,A,2.0,0.0,4,4
+2026-03-08,I1,Italy-SA,2526,Milan,Inter,1.0,0.0,H,1.0,0.0,H,3.6,3.0,2.25,,,,3.41,3.14,2.19,2.0,1.8,1.95,1.8,0.25,1.95,1.9,AC Milan,Inter Milan,ac_milan,inter_milan,Inter Milan,H,1.0,0.0,10,10
+2026-03-15,I1,Italy-SA,2526,Lazio,Milan,1.0,0.0,H,1.0,0.0,H,4.1,3.3,1.95,,,,3.98,3.32,1.93,2.2,1.67,2.16,1.66,0.5,1.9,1.95,Lazio,AC Milan,lazio,ac_milan,Lazio,A,0.0,1.0,10,11
+2026-03-21,I1,Italy-SA,2526,Milan,Torino,3.0,2.0,H,1.0,1.0,D,1.4,4.75,7.5,,,,1.36,4.71,8.23,1.8,2.0,1.76,2.0,-1.25,1.9,1.95,AC Milan,Torino,ac_milan,torino,Torino,H,3.0,2.0,10,11
+2026-04-06,I1,Italy-SA,2526,Napoli,Milan,1.0,0.0,H,0.0,0.0,D,2.55,3.0,3.0,,,,2.52,2.98,2.98,2.3,1.62,2.26,1.6,0.0,1.78,2.1,Napoli,AC Milan,napoli,ac_milan,Napoli,A,0.0,1.0,10,10
+2026-04-11,I1,Italy-SA,2526,Milan,Udinese,0.0,3.0,A,0.0,2.0,A,1.42,4.5,8.0,,,,1.41,4.43,7.77,1.83,2.03,1.79,1.97,-1.25,1.98,1.88,AC Milan,Udinese,ac_milan,udinese,Udinese,H,0.0,3.0,10,10
+2026-04-19,I1,Italy-SA,2526,Verona,Milan,0.0,1.0,A,0.0,1.0,A,6.25,3.9,1.57,,,,6.12,3.83,1.56,2.05,1.8,2.0,1.76,1.0,1.83,2.03,Hellas Verona,AC Milan,hellas_verona,ac_milan,Hellas Verona,A,1.0,0.0,10,10
+2026-04-26,I1,Italy-SA,2526,Milan,Juventus,0.0,0.0,D,0.0,0.0,D,3.1,3.1,2.45,,,,2.93,3.11,2.45,1.98,1.88,1.94,1.81,0.0,2.1,1.7,AC Milan,Juventus,ac_milan,juventus,Juventus,H,0.0,0.0,10,11
+2026-05-03,I1,Italy-SA,2526,Sassuolo,Milan,2.0,0.0,H,1.0,0.0,H,4.5,4.1,1.73,,,,4.49,3.98,1.68,1.73,2.1,1.69,2.1,0.75,1.93,1.93,Sassuolo,AC Milan,sassuolo,ac_milan,Sassuolo,A,0.0,2.0,8,9
+2026-05-10,I1,Italy-SA,2526,Milan,Atalanta,2.0,3.0,A,0.0,2.0,A,2.1,3.3,3.5,,,,2.05,3.42,3.47,1.85,2.0,1.78,1.97,-0.5,2.05,1.75,AC Milan,Atalanta,ac_milan,atalanta,Atalanta,H,2.0,3.0,10,11
+2026-05-17,I1,Italy-SA,2526,Genoa,Milan,1.0,2.0,A,0.0,0.0,D,4.5,3.7,1.7,,,,4.65,3.69,1.71,1.98,1.88,1.91,1.84,0.75,1.9,1.95,Genoa,AC Milan,genoa,ac_milan,Genoa,A,2.0,1.0,8,8
+2026-05-24,I1,Italy-SA,2526,Milan,Cagliari,1.0,2.0,A,1.0,1.0,D,1.29,5.5,11.0,,,,1.26,5.3,10.35,1.67,2.2,1.66,2.14,-1.5,1.85,2.0,AC Milan,Cagliari,ac_milan,cagliari,Cagliari,H,1.0,2.0,8,8
+2026-08-23,I1,Italy-SA,2627,Torino,Milan,1.0,2.0,A,0.0,0.0,D,4.75,3.6,1.75,,,,4.49,3.59,1.76,1.93,1.93,1.92,1.83,0.75,1.85,2.0,Torino,AC Milan,torino,ac_milan,Torino,A,2.0,1.0,11,11
+2026-08-28,I1,Italy-SA,2627,Milan,Venezia,2.0,0.0,H,0.0,0.0,D,1.45,4.5,7.0,,,,1.46,4.42,6.7,1.73,2.1,1.7,2.09,-1.25,2.05,1.8,AC Milan,Venezia,ac_milan,venezia,Venezia,H,2.0,0.0,5,5
+2026-09-06,I1,Italy-SA,2627,Juventus,Milan,1.0,1.0,D,0.0,0.0,D,2.1,3.25,3.7,,,,2.08,3.26,3.57,2.1,1.73,2.06,1.71,-0.5,2.08,1.73,Juventus,AC Milan,juventus,ac_milan,Juventus,A,1.0,1.0,11,11
+2026-09-12,I1,Italy-SA,2627,Lazio,Milan,2.0,2.0,D,2.0,0.0,H,3.4,3.2,2.25,,,,3.28,3.21,2.26,2.2,1.67,2.22,1.63,0.25,1.9,1.95,Lazio,AC Milan,lazio,ac_milan,Lazio,A,2.0,2.0,11,11
+2026-09-20,I1,Italy-SA,2627,Milan,Lecce,3.0,0.0,H,1.0,0.0,H,1.27,5.75,11.0,,,,1.25,5.58,11.46,1.67,2.2,1.63,2.21,-1.5,1.78,2.03,AC Milan,Lecce,ac_milan,lecce,Lecce,H,3.0,0.0,9,9
+2026-10-11,I1,Italy-SA,2627,Sassuolo,Milan,1.0,1.0,D,0.0,0.0,D,4.33,3.6,1.75,,,,4.04,3.71,1.81,1.73,2.1,1.72,2.04,0.5,2.05,1.8,Sassuolo,AC Milan,sassuolo,ac_milan,Sassuolo,A,1.0,1.0,9,9
+2026-10-18,I1,Italy-SA,2627,Milan,Atalanta,3.0,2.0,H,2.0,0.0,H,1.8,3.75,4.33,,,,1.81,3.7,4.12,1.73,2.1,1.71,2.06,-0.5,1.8,2.05,AC Milan,Atalanta,ac_milan,atalanta,Atalanta,H,3.0,2.0,11,11

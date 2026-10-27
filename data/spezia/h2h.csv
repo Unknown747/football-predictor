@@ -1,0 +1,191 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder,opponent,venue,team_goals,opp_goals,h2h_match_no,h2h_total_vs_opp
+2021-08-23,I1,Italy-SA,2122,Cagliari,Spezia,2.0,2.0,D,0.0,1.0,A,1.95,3.4,4.0,1.97,3.78,3.97,1.98,3.61,3.78,1.9,1.9,1.85,1.97,-0.5,1.99,1.94,Cagliari,Spezia,cagliari,spezia,Cagliari,A,2.0,2.0,1,2
+2021-08-28,I1,Italy-SA,2122,Lazio,Spezia,6.0,1.0,H,3.0,1.0,H,1.33,4.75,9.5,1.36,5.48,9.14,1.36,5.23,8.74,1.53,2.5,1.54,2.51,-1.5,2.01,1.92,Lazio,Spezia,lazio,spezia,Lazio,A,1.0,6.0,1,4
+2021-09-12,I1,Italy-SA,2122,Spezia,Udinese,0.0,1.0,A,0.0,0.0,D,3.2,3.4,2.3,3.23,3.59,2.3,3.12,3.45,2.31,1.9,1.9,1.91,1.91,0.25,1.93,2.0,Spezia,Udinese,spezia,udinese,Udinese,H,0.0,1.0,1,4
+2021-09-19,I1,Italy-SA,2122,Venezia,Spezia,1.0,2.0,A,0.0,1.0,A,2.45,3.4,2.9,2.47,3.59,2.95,2.45,3.47,2.87,1.72,2.1,1.73,2.13,0.0,1.8,2.14,Venezia,Spezia,venezia,spezia,Venezia,A,2.0,1.0,1,6
+2021-09-22,I1,Italy-SA,2122,Spezia,Juventus,2.0,3.0,A,1.0,1.0,D,8.0,5.5,1.33,8.94,5.42,1.37,8.62,5.21,1.36,1.57,2.37,1.54,2.47,1.5,1.91,1.99,Spezia,Juventus,spezia,juventus,Juventus,H,2.0,3.0,1,4
+2021-09-25,I1,Italy-SA,2122,Spezia,Milan,1.0,2.0,A,0.0,0.0,D,7.0,4.5,1.45,6.92,4.63,1.5,6.7,4.54,1.48,1.57,2.37,1.6,2.36,1.25,1.84,2.09,Spezia,AC Milan,spezia,ac_milan,AC Milan,H,1.0,2.0,1,4
+2021-10-03,I1,Italy-SA,2122,Verona,Spezia,4.0,0.0,H,3.0,0.0,H,1.65,4.0,5.25,1.67,4.35,5.09,1.67,4.14,4.89,1.66,2.2,1.65,2.27,-0.75,1.86,2.07,Hellas Verona,Spezia,hellas_verona,spezia,Hellas Verona,A,0.0,4.0,1,4
+2021-10-16,I1,Italy-SA,2122,Spezia,Salernitana,2.0,1.0,H,0.0,1.0,A,2.1,3.4,3.5,2.24,3.39,3.56,2.19,3.33,3.44,1.9,1.9,1.86,1.96,-0.25,1.89,2.01,Spezia,Salernitana,spezia,salernitana,Salernitana,H,2.0,1.0,1,6
+2021-10-22,I1,Italy-SA,2122,Sampdoria,Spezia,2.0,1.0,H,2.0,0.0,H,1.8,3.8,4.2,1.86,3.96,4.27,1.84,3.89,4.14,1.61,2.3,1.63,2.32,-0.75,2.05,1.75,Sampdoria,Spezia,sampdoria,spezia,Sampdoria,A,1.0,2.0,1,10
+2021-10-26,I1,Italy-SA,2122,Spezia,Genoa,1.0,1.0,D,0.0,0.0,D,2.3,3.5,3.0,2.4,3.58,3.07,2.37,3.49,2.96,1.66,2.2,1.67,2.22,-0.25,2.07,1.86,Spezia,Genoa,spezia,genoa,Genoa,H,1.0,1.0,1,2
+2021-10-31,I1,Italy-SA,2122,Fiorentina,Spezia,3.0,0.0,H,1.0,0.0,H,1.53,4.5,5.75,1.56,4.56,6.0,1.54,4.36,5.82,1.61,2.3,1.61,2.32,-1.0,1.94,1.99,Fiorentina,Spezia,fiorentina,spezia,Fiorentina,A,0.0,3.0,1,4
+2021-11-06,I1,Italy-SA,2122,Spezia,Torino,1.0,0.0,H,0.0,0.0,D,3.6,3.6,2.0,3.73,3.64,2.08,3.56,3.56,2.07,1.72,2.1,1.77,2.07,0.25,2.05,1.75,Spezia,Torino,spezia,torino,Torino,H,1.0,0.0,1,4
+2021-11-20,I1,Italy-SA,2122,Atalanta,Spezia,5.0,2.0,H,3.0,1.0,H,1.25,6.5,9.5,1.27,6.64,10.89,1.26,6.48,10.39,1.36,3.2,1.37,3.08,-1.75,1.88,2.02,Atalanta,Spezia,atalanta,spezia,Atalanta,A,2.0,5.0,1,4
+2021-11-28,I1,Italy-SA,2122,Spezia,Bologna,0.0,1.0,A,0.0,0.0,D,3.0,3.5,2.3,3.26,3.52,2.32,3.05,3.44,2.31,1.72,2.1,1.76,2.07,0.25,1.9,2.03,Spezia,Bologna,spezia,bologna,Bologna,H,0.0,1.0,1,4
+2021-12-01,I1,Italy-SA,2122,Inter,Spezia,2.0,0.0,H,1.0,0.0,H,1.18,7.5,13.0,1.19,7.76,15.66,1.19,7.34,14.11,1.36,3.2,1.37,3.05,-2.0,1.89,2.04,Inter Milan,Spezia,inter_milan,spezia,Inter Milan,A,0.0,2.0,1,4
+2021-12-05,I1,Italy-SA,2122,Spezia,Sassuolo,2.0,2.0,D,1.0,0.0,H,3.3,3.75,2.05,3.48,3.9,2.09,3.32,3.76,2.09,1.57,2.37,1.57,2.41,0.25,2.07,1.86,Spezia,Sassuolo,spezia,sassuolo,Sassuolo,H,2.0,2.0,1,6
+2021-12-13,I1,Italy-SA,2122,Roma,Spezia,2.0,0.0,H,1.0,0.0,H,1.4,5.0,7.5,1.44,5.04,7.63,1.41,4.89,7.33,1.53,2.5,1.54,2.48,-1.25,1.93,2.0,AS Roma,Spezia,as_roma,spezia,AS Roma,A,0.0,2.0,1,4
+2021-12-19,I1,Italy-SA,2122,Spezia,Empoli,1.0,1.0,D,0.0,0.0,D,2.62,3.75,2.45,2.72,3.75,2.58,2.65,3.65,2.53,1.57,2.37,1.61,2.34,0.0,1.99,1.94,Spezia,Empoli,spezia,empoli,Empoli,H,1.0,1.0,1,6
+2021-12-22,I1,Italy-SA,2122,Napoli,Spezia,0.0,1.0,A,0.0,1.0,A,1.22,6.5,12.0,1.25,6.5,13.25,1.25,6.27,12.17,1.44,2.75,1.47,2.68,-1.75,1.92,1.98,Napoli,Spezia,napoli,spezia,Napoli,A,1.0,0.0,1,4
+2022-01-06,I1,Italy-SA,2122,Spezia,Verona,1.0,2.0,A,0.0,0.0,D,3.5,3.5,2.05,3.79,3.61,2.07,3.56,3.54,2.07,1.8,2.0,1.79,2.04,0.25,2.08,1.73,Spezia,Hellas Verona,spezia,hellas_verona,Hellas Verona,H,1.0,2.0,2,4
+2022-01-09,I1,Italy-SA,2122,Genoa,Spezia,0.0,1.0,A,0.0,1.0,A,2.1,3.3,3.6,2.19,3.32,3.64,2.19,3.3,3.45,2.1,1.72,2.05,1.78,-0.25,1.88,2.02,Genoa,Spezia,genoa,spezia,Genoa,A,1.0,0.0,2,2
+2022-01-17,I1,Italy-SA,2122,Milan,Spezia,1.0,2.0,A,1.0,0.0,H,1.33,5.0,9.5,1.32,5.53,10.23,1.32,5.37,9.54,1.57,2.37,1.58,2.38,-1.5,1.97,1.93,AC Milan,Spezia,ac_milan,spezia,AC Milan,A,2.0,1.0,2,4
+2022-01-23,I1,Italy-SA,2122,Spezia,Sampdoria,1.0,0.0,H,0.0,0.0,D,2.7,3.3,2.62,2.8,3.21,2.75,2.77,3.22,2.66,1.93,1.97,1.86,1.95,0.0,1.99,1.91,Spezia,Sampdoria,spezia,sampdoria,Sampdoria,H,1.0,0.0,2,10
+2022-02-07,I1,Italy-SA,2122,Salernitana,Spezia,2.0,2.0,D,2.0,2.0,D,2.87,3.4,2.5,2.96,3.35,2.52,2.9,3.39,2.46,1.94,1.96,1.9,1.91,0.25,1.7,2.1,Salernitana,Spezia,salernitana,spezia,Salernitana,A,2.0,2.0,2,6
+2022-02-14,I1,Italy-SA,2122,Spezia,Fiorentina,1.0,2.0,A,0.0,1.0,A,3.75,3.6,1.95,4.06,3.65,1.99,3.82,3.61,1.96,1.72,2.1,1.74,2.11,0.5,1.92,2.01,Spezia,Fiorentina,spezia,fiorentina,Fiorentina,H,1.0,2.0,2,4
+2022-02-21,I1,Italy-SA,2122,Bologna,Spezia,2.0,1.0,H,1.0,1.0,D,1.8,3.8,4.33,1.85,3.78,4.56,1.82,3.71,4.41,1.9,2.0,1.87,1.94,-0.75,2.05,1.85,Bologna,Spezia,bologna,spezia,Bologna,A,1.0,2.0,2,4
+2022-02-27,I1,Italy-SA,2122,Spezia,Roma,0.0,1.0,A,0.0,0.0,D,4.5,3.6,1.8,4.89,3.84,1.79,4.6,3.75,1.78,1.8,2.0,1.78,2.05,0.75,1.87,2.03,Spezia,AS Roma,spezia,as_roma,AS Roma,H,0.0,1.0,2,4
+2022-03-06,I1,Italy-SA,2122,Juventus,Spezia,1.0,0.0,H,1.0,0.0,H,1.22,6.25,13.0,1.24,6.34,14.8,1.25,6.08,13.06,1.66,2.2,1.65,2.25,-1.75,1.99,1.91,Juventus,Spezia,juventus,spezia,Juventus,A,0.0,1.0,2,4
+2022-03-12,I1,Italy-SA,2122,Spezia,Cagliari,2.0,0.0,H,0.0,0.0,D,2.62,3.3,2.62,2.9,3.19,2.75,2.76,3.2,2.71,2.0,1.8,2.02,1.81,0.0,1.97,1.93,Spezia,Cagliari,spezia,cagliari,Cagliari,H,2.0,0.0,2,2
+2022-03-18,I1,Italy-SA,2122,Sassuolo,Spezia,4.0,1.0,H,1.0,1.0,D,1.66,4.2,4.75,1.7,4.23,4.99,1.66,4.23,4.97,1.57,2.37,1.56,2.44,-1.0,2.1,1.7,Sassuolo,Spezia,sassuolo,spezia,Sassuolo,A,1.0,4.0,2,6
+2022-04-02,I1,Italy-SA,2122,Spezia,Venezia,1.0,0.0,H,0.0,0.0,D,2.1,3.4,3.5,2.16,3.34,3.84,2.13,3.32,3.67,2.08,1.82,2.03,1.81,-0.25,1.82,2.08,Spezia,Venezia,spezia,venezia,Venezia,H,1.0,0.0,2,6
+2022-04-09,I1,Italy-SA,2122,Empoli,Spezia,0.0,0.0,D,0.0,0.0,D,2.0,3.5,3.8,2.06,3.51,3.97,2.03,3.52,3.77,1.87,2.03,1.83,2.0,-0.5,2.02,1.88,Empoli,Spezia,empoli,spezia,Empoli,A,0.0,0.0,2,6
+2022-04-15,I1,Italy-SA,2122,Spezia,Inter,1.0,3.0,A,0.0,1.0,A,9.5,5.5,1.3,10.22,5.63,1.33,9.88,5.54,1.31,1.61,2.3,1.63,2.3,1.5,1.98,1.92,Spezia,Inter Milan,spezia,inter_milan,Inter Milan,H,1.0,3.0,2,4
+2022-04-23,I1,Italy-SA,2122,Torino,Spezia,2.0,1.0,H,1.0,0.0,H,1.66,3.6,5.5,1.71,3.8,5.67,1.69,3.77,5.33,2.04,1.86,2.01,1.82,-0.75,1.91,1.99,Torino,Spezia,torino,spezia,Torino,A,1.0,2.0,2,4
+2022-04-30,I1,Italy-SA,2122,Spezia,Lazio,3.0,4.0,A,2.0,1.0,H,5.5,3.75,1.65,5.26,4.14,1.68,5.06,4.0,1.68,1.8,2.0,1.78,2.05,0.75,2.03,1.87,Spezia,Lazio,spezia,lazio,Lazio,H,3.0,4.0,2,4
+2022-05-08,I1,Italy-SA,2122,Spezia,Atalanta,1.0,3.0,A,1.0,1.0,D,6.5,4.75,1.45,6.45,4.92,1.5,6.33,4.78,1.48,1.53,2.5,1.51,2.55,1.25,1.86,2.04,Spezia,Atalanta,spezia,atalanta,Atalanta,H,1.0,3.0,2,4
+2022-05-14,I1,Italy-SA,2122,Udinese,Spezia,2.0,3.0,A,1.0,2.0,A,1.83,3.9,4.0,1.88,3.8,4.28,1.86,3.82,4.11,1.66,2.2,1.69,2.18,-0.5,1.85,2.05,Udinese,Spezia,udinese,spezia,Udinese,A,3.0,2.0,2,4
+2022-05-22,I1,Italy-SA,2122,Spezia,Napoli,0.0,3.0,A,0.0,3.0,A,5.75,4.5,1.53,5.97,4.64,1.54,5.75,4.64,1.53,1.44,2.75,1.46,2.69,1.0,2.05,1.85,Spezia,Napoli,spezia,napoli,Napoli,H,0.0,3.0,2,4
+2022-08-14,I1,Italy-SA,2223,Spezia,Empoli,1.0,0.0,H,1.0,0.0,H,2.45,3.3,2.9,2.61,3.26,3.01,2.49,3.33,2.91,1.94,1.96,1.9,1.92,0.0,1.8,2.1,Spezia,Empoli,spezia,empoli,Empoli,H,1.0,0.0,3,6
+2022-08-20,I1,Italy-SA,2223,Inter,Spezia,3.0,0.0,H,1.0,0.0,H,1.16,8.0,15.0,1.18,8.03,17.56,1.17,7.9,15.8,1.3,3.5,1.33,3.34,-2.25,2.01,1.89,Inter Milan,Spezia,inter_milan,spezia,Inter Milan,A,0.0,3.0,3,4
+2022-08-27,I1,Italy-SA,2223,Spezia,Sassuolo,2.0,2.0,D,2.0,1.0,H,3.0,3.6,2.25,3.13,3.73,2.3,3.02,3.61,2.29,1.61,2.3,1.62,2.32,0.25,1.9,2.0,Spezia,Sassuolo,spezia,sassuolo,Sassuolo,H,2.0,2.0,3,6
+2022-08-31,I1,Italy-SA,2223,Juventus,Spezia,2.0,0.0,H,1.0,0.0,H,1.28,5.75,12.0,1.29,5.91,11.23,1.27,5.79,11.84,1.66,2.2,1.66,2.23,-1.5,1.77,2.02,Juventus,Spezia,juventus,spezia,Juventus,A,0.0,2.0,3,4
+2022-09-04,I1,Italy-SA,2223,Spezia,Bologna,2.0,2.0,D,1.0,1.0,D,3.0,3.3,2.37,3.18,3.24,2.5,3.04,3.27,2.45,1.9,2.0,1.86,1.96,0.25,1.79,2.11,Spezia,Bologna,spezia,bologna,Bologna,H,2.0,2.0,3,4
+2022-09-10,I1,Italy-SA,2223,Napoli,Spezia,1.0,0.0,H,0.0,0.0,D,1.25,6.0,11.0,1.26,6.62,11.46,1.26,6.27,11.33,1.5,2.62,1.48,2.65,-1.75,1.91,1.99,Napoli,Spezia,napoli,spezia,Napoli,A,0.0,1.0,3,4
+2022-09-17,I1,Italy-SA,2223,Spezia,Sampdoria,2.0,1.0,H,1.0,1.0,D,2.7,3.25,2.7,2.78,3.24,2.82,2.69,3.24,2.74,2.07,1.83,2.0,1.8,0.0,1.94,1.96,Spezia,Sampdoria,spezia,sampdoria,Sampdoria,H,2.0,1.0,3,10
+2022-10-02,I1,Italy-SA,2223,Lazio,Spezia,4.0,0.0,H,2.0,0.0,H,1.4,5.0,7.5,1.42,5.15,7.98,1.4,4.96,7.65,1.61,2.3,1.63,2.29,-1.25,1.89,2.01,Lazio,Spezia,lazio,spezia,Lazio,A,0.0,4.0,3,4
+2022-10-09,I1,Italy-SA,2223,Monza,Spezia,2.0,0.0,H,1.0,0.0,H,1.9,3.6,4.0,1.94,3.64,4.27,1.91,3.58,4.14,2.03,1.87,2.0,1.83,-0.5,1.91,1.99,Monza,Spezia,monza,spezia,Monza,A,0.0,2.0,1,4
+2022-10-16,I1,Italy-SA,2223,Spezia,Cremonese,2.0,2.0,D,2.0,1.0,H,2.45,3.2,3.1,2.55,3.14,3.21,2.47,3.17,3.07,2.04,1.86,1.99,1.84,-0.25,2.1,1.8,Spezia,Cremonese,spezia,cremonese,Cremonese,H,2.0,2.0,1,6
+2022-10-22,I1,Italy-SA,2223,Salernitana,Spezia,1.0,0.0,H,0.0,0.0,D,2.0,3.5,3.8,2.04,3.59,3.94,2.02,3.49,3.8,2.0,1.9,1.95,1.87,-0.5,2.02,1.88,Salernitana,Spezia,salernitana,spezia,Salernitana,A,0.0,1.0,3,6
+2022-10-30,I1,Italy-SA,2223,Spezia,Fiorentina,1.0,2.0,A,1.0,1.0,D,4.0,3.6,1.9,4.39,3.64,1.92,4.1,3.59,1.89,1.98,1.92,1.91,1.89,0.5,1.98,1.92,Spezia,Fiorentina,spezia,fiorentina,Fiorentina,H,1.0,2.0,3,4
+2022-11-05,I1,Italy-SA,2223,Milan,Spezia,2.0,1.0,H,1.0,0.0,H,1.22,6.0,13.0,1.22,6.78,15.73,1.22,6.54,13.51,1.57,2.37,1.56,2.4,-1.75,1.92,1.98,AC Milan,Spezia,ac_milan,spezia,AC Milan,A,1.0,2.0,3,4
+2022-11-08,I1,Italy-SA,2223,Spezia,Udinese,1.0,1.0,D,1.0,1.0,D,4.0,3.5,1.9,4.13,3.6,1.99,4.01,3.56,1.94,1.99,1.91,1.93,1.89,0.5,1.92,1.98,Spezia,Udinese,spezia,udinese,Udinese,H,1.0,1.0,3,4
+2022-11-13,I1,Italy-SA,2223,Verona,Spezia,1.0,2.0,A,1.0,0.0,H,2.1,3.4,3.6,2.14,3.54,3.66,2.11,3.47,3.52,1.92,1.98,1.88,1.94,-0.25,1.82,2.08,Hellas Verona,Spezia,hellas_verona,spezia,Hellas Verona,A,2.0,1.0,3,4
+2023-01-04,I1,Italy-SA,2223,Spezia,Atalanta,2.0,2.0,D,2.0,0.0,H,4.75,3.8,1.67,4.84,4.15,1.74,4.74,4.0,1.71,1.73,2.1,1.73,2.13,0.75,2.0,1.9,Spezia,Atalanta,spezia,atalanta,Atalanta,H,2.0,2.0,3,4
+2023-01-08,I1,Italy-SA,2223,Spezia,Lecce,0.0,0.0,D,0.0,0.0,D,2.6,3.1,2.9,2.7,3.09,3.05,2.62,3.08,2.95,2.2,1.67,2.2,1.69,0.0,1.83,2.07,Spezia,Lecce,spezia,lecce,Lecce,H,0.0,0.0,1,2
+2023-01-15,I1,Italy-SA,2223,Torino,Spezia,0.0,1.0,A,0.0,1.0,A,1.62,3.8,5.5,1.65,3.97,5.96,1.65,3.88,5.56,2.07,1.83,2.03,1.81,-0.75,1.85,2.08,Torino,Spezia,torino,spezia,Torino,A,1.0,0.0,3,4
+2023-01-22,I1,Italy-SA,2223,Spezia,Roma,0.0,2.0,A,0.0,1.0,A,4.75,3.5,1.83,4.73,3.67,1.85,4.53,3.61,1.82,2.06,1.84,2.04,1.8,0.5,2.06,1.84,Spezia,AS Roma,spezia,as_roma,AS Roma,H,0.0,2.0,3,4
+2023-01-27,I1,Italy-SA,2223,Bologna,Spezia,2.0,0.0,H,1.0,0.0,H,1.85,3.4,4.5,1.9,3.47,4.8,1.89,3.4,4.57,2.2,1.67,2.19,1.7,-0.5,1.87,2.03,Bologna,Spezia,bologna,spezia,Bologna,A,0.0,2.0,4,4
+2023-02-05,I1,Italy-SA,2223,Spezia,Napoli,0.0,3.0,A,0.0,0.0,D,8.0,5.25,1.36,8.83,5.39,1.38,8.77,5.13,1.36,1.67,2.2,1.67,2.23,1.5,1.87,2.06,Spezia,Napoli,spezia,napoli,Napoli,H,0.0,3.0,4,4
+2023-02-11,I1,Italy-SA,2223,Empoli,Spezia,2.0,2.0,D,0.0,2.0,A,2.0,3.5,3.75,2.07,3.47,3.99,2.05,3.44,3.77,2.0,1.8,2.05,1.79,-0.5,2.06,1.87,Empoli,Spezia,empoli,spezia,Empoli,A,2.0,2.0,4,6
+2023-02-19,I1,Italy-SA,2223,Spezia,Juventus,0.0,2.0,A,0.0,1.0,A,6.0,3.75,1.62,6.09,3.99,1.64,5.81,3.92,1.62,2.07,1.83,2.04,1.8,0.75,2.02,1.77,Spezia,Juventus,spezia,juventus,Juventus,H,0.0,2.0,4,4
+2023-02-26,I1,Italy-SA,2223,Udinese,Spezia,2.0,2.0,D,1.0,1.0,D,1.62,3.8,5.75,1.68,3.91,5.09,1.65,3.97,5.29,1.88,2.02,1.85,1.98,-0.75,1.85,2.05,Udinese,Spezia,udinese,spezia,Udinese,A,2.0,2.0,4,4
+2023-03-05,I1,Italy-SA,2223,Spezia,Verona,0.0,0.0,D,0.0,0.0,D,2.7,3.1,2.8,2.76,3.11,2.92,2.73,3.08,2.82,2.2,1.67,2.25,1.66,0.0,1.89,2.01,Spezia,Hellas Verona,spezia,hellas_verona,Hellas Verona,H,0.0,0.0,4,4
+2023-03-10,I1,Italy-SA,2223,Spezia,Inter,2.0,1.0,H,0.0,0.0,D,8.0,4.6,1.4,7.68,4.79,1.44,7.7,4.72,1.42,1.73,2.1,1.73,2.13,1.25,1.96,1.97,Spezia,Inter Milan,spezia,inter_milan,Inter Milan,H,2.0,1.0,4,4
+2023-03-17,I1,Italy-SA,2223,Sassuolo,Spezia,1.0,0.0,H,0.0,0.0,D,1.7,3.75,4.5,1.83,3.87,4.6,1.75,3.87,4.62,1.73,2.1,1.71,2.16,-0.75,2.05,1.88,Sassuolo,Spezia,sassuolo,spezia,Sassuolo,A,0.0,1.0,4,6
+2023-04-02,I1,Italy-SA,2223,Spezia,Salernitana,1.0,1.0,D,0.0,1.0,A,2.3,3.3,3.2,2.41,3.4,3.14,2.36,3.31,3.12,2.1,1.73,2.11,1.74,-0.25,2.07,1.83,Spezia,Salernitana,spezia,salernitana,Salernitana,H,1.0,1.0,4,6
+2023-04-08,I1,Italy-SA,2223,Fiorentina,Spezia,1.0,1.0,D,1.0,1.0,D,1.4,4.5,8.5,1.43,4.78,8.23,1.42,4.68,7.97,1.8,2.0,1.79,2.04,-1.25,1.98,1.92,Fiorentina,Spezia,fiorentina,spezia,Fiorentina,A,1.0,1.0,4,4
+2023-04-14,I1,Italy-SA,2223,Spezia,Lazio,0.0,3.0,A,0.0,1.0,A,5.25,3.6,1.7,5.47,3.65,1.75,5.15,3.62,1.74,2.1,1.73,2.15,1.71,0.75,1.93,2.0,Spezia,Lazio,spezia,lazio,Lazio,H,0.0,3.0,4,4
+2023-04-22,I1,Italy-SA,2223,Sampdoria,Spezia,1.0,1.0,D,1.0,0.0,H,2.55,3.2,2.88,2.59,3.33,2.93,2.54,3.24,2.91,2.1,1.73,2.1,1.74,0.0,1.82,2.08,Sampdoria,Spezia,sampdoria,spezia,Sampdoria,A,1.0,1.0,4,10
+2023-04-28,I1,Italy-SA,2223,Spezia,Monza,0.0,2.0,A,0.0,1.0,A,2.8,3.3,2.55,2.88,3.3,2.69,2.83,3.23,2.63,2.1,1.73,2.12,1.73,0.0,2.01,1.89,Spezia,Monza,spezia,monza,Monza,H,0.0,2.0,2,4
+2023-05-03,I1,Italy-SA,2223,Atalanta,Spezia,3.0,2.0,H,1.0,1.0,D,1.36,5.0,8.0,1.4,5.18,7.98,1.39,4.99,8.11,1.67,2.2,1.66,2.25,-1.25,1.87,2.03,Atalanta,Spezia,atalanta,spezia,Atalanta,A,2.0,3.0,4,4
+2023-05-06,I1,Italy-SA,2223,Cremonese,Spezia,2.0,0.0,H,1.0,0.0,H,2.35,3.4,3.0,2.4,3.49,3.14,2.35,3.38,3.08,2.06,1.84,2.02,1.8,-0.25,2.03,1.87,Cremonese,Spezia,cremonese,spezia,Cremonese,A,0.0,2.0,2,6
+2023-05-13,I1,Italy-SA,2223,Spezia,Milan,2.0,0.0,H,0.0,0.0,D,4.2,3.5,1.91,4.32,3.52,1.94,4.17,3.5,1.93,2.03,1.87,1.98,1.84,0.5,1.96,1.94,Spezia,AC Milan,spezia,ac_milan,AC Milan,H,2.0,0.0,4,4
+2023-05-21,I1,Italy-SA,2223,Lecce,Spezia,0.0,0.0,D,0.0,0.0,D,2.2,3.1,3.6,2.26,3.25,3.6,2.21,3.21,3.57,2.3,1.62,2.32,1.62,-0.25,1.89,2.01,Lecce,Spezia,lecce,spezia,Lecce,A,0.0,0.0,2,2
+2023-05-27,I1,Italy-SA,2223,Spezia,Torino,0.0,4.0,A,0.0,1.0,A,2.38,3.25,3.1,2.45,3.34,3.14,2.4,3.24,3.11,2.2,1.67,2.23,1.67,-0.25,2.05,1.85,Spezia,Torino,spezia,torino,Torino,H,0.0,4.0,4,4
+2023-06-04,I1,Italy-SA,2223,Roma,Spezia,2.0,1.0,H,1.0,1.0,D,1.95,3.6,3.8,1.99,3.74,3.77,1.99,3.61,3.74,2.01,1.92,1.95,1.87,-0.5,2.01,1.92,AS Roma,Spezia,as_roma,spezia,AS Roma,A,1.0,2.0,4,4
+2023-08-20,I2,Italy-SB,2324,Sudtirol,Spezia,3.0,3.0,D,1.0,2.0,A,3.4,3.2,2.25,3.75,3.07,2.3,3.45,3.03,2.24,2.4,1.53,2.4,1.54,0.25,1.93,1.93,Sudtirol,Spezia,sudtirol,spezia,Sudtirol,A,3.0,3.0,1,6
+2023-08-30,I2,Italy-SB,2324,Catanzaro,Spezia,3.0,0.0,H,0.0,0.0,D,3.1,3.25,2.38,3.09,3.4,2.44,3.02,3.25,2.36,2.15,1.67,2.17,1.67,0.25,1.8,2.05,Catanzaro,Spezia,catanzaro,spezia,Catanzaro,A,0.0,3.0,1,6
+2023-09-03,I2,Italy-SB,2324,Spezia,Como,0.0,1.0,A,0.0,1.0,A,1.73,3.6,5.25,1.81,3.42,5.44,1.75,3.5,4.89,2.0,1.85,1.97,1.82,-0.75,1.98,1.88,Spezia,Como,spezia,como,Como,H,0.0,1.0,1,2
+2023-09-15,I2,Italy-SB,2324,Venezia,Spezia,1.0,0.0,H,0.0,0.0,D,2.2,3.5,3.2,2.2,3.51,3.48,2.14,3.43,3.29,1.93,1.93,1.86,1.91,-0.25,1.88,1.98,Venezia,Spezia,venezia,spezia,Venezia,A,0.0,1.0,3,6
+2023-09-23,I2,Italy-SB,2324,Spezia,Reggiana,1.0,2.0,A,0.0,0.0,D,1.91,3.5,4.0,1.93,3.56,4.38,1.92,3.43,4.01,2.03,1.83,2.01,1.78,-0.5,1.9,1.95,Spezia,Reggiana,spezia,reggiana,Reggiana,H,1.0,2.0,1,6
+2023-09-26,I2,Italy-SB,2324,Spezia,Brescia,0.0,0.0,D,0.0,0.0,D,1.83,3.4,4.75,1.84,3.68,4.65,1.81,3.52,4.43,2.05,1.8,2.01,1.78,-0.5,1.83,2.03,Spezia,Brescia,spezia,brescia,Brescia,H,0.0,0.0,1,4
+2023-09-30,I2,Italy-SB,2324,FeralpiSalo,Spezia,1.0,2.0,A,0.0,2.0,A,3.4,3.1,2.3,3.53,3.27,2.28,3.34,3.15,2.25,2.25,1.62,2.25,1.62,0.25,1.93,1.93,FeralpiSalo,Spezia,feralpisalo,spezia,FeralpiSalo,A,2.0,1.0,1,2
+2023-10-08,I2,Italy-SB,2324,Spezia,Pisa,0.0,0.0,D,0.0,0.0,D,1.85,3.3,4.75,1.92,3.32,4.84,1.89,3.31,4.3,2.1,1.7,2.13,1.69,-0.5,1.88,1.98,Spezia,Pisa,spezia,pisa,Pisa,H,0.0,0.0,1,4
+2023-10-23,I2,Italy-SB,2324,Palermo,Spezia,2.0,2.0,D,0.0,1.0,A,2.05,3.3,3.8,2.02,3.36,3.39,2.11,3.34,3.39,2.0,1.85,1.95,1.8,-0.25,1.75,2.13,Palermo,Spezia,palermo,spezia,Palermo,A,2.0,2.0,1,6
+2023-10-28,I2,Italy-SB,2324,Spezia,Cosenza,0.0,0.0,D,0.0,0.0,D,1.95,3.3,4.33,1.96,3.49,4.32,1.91,3.4,4.09,2.05,1.75,2.07,1.74,-0.5,1.9,1.95,Spezia,Cosenza,spezia,cosenza,Cosenza,H,0.0,0.0,1,4
+2023-11-05,I2,Italy-SB,2324,Cremonese,Spezia,3.0,0.0,H,2.0,0.0,H,2.0,3.4,3.8,2.04,3.48,4.0,2.01,3.38,3.71,2.03,1.83,2.0,1.79,-0.5,2.0,1.85,Cremonese,Spezia,cremonese,spezia,Cremonese,A,0.0,3.0,3,6
+2023-11-08,I2,Italy-SB,2324,Lecco,Spezia,0.0,0.0,D,0.0,0.0,D,3.3,3.4,1.95,3.85,3.56,2.05,3.57,3.43,2.02,1.98,1.88,1.94,1.84,0.5,1.83,2.03,Lecco,Spezia,lecco,spezia,Lecco,A,0.0,0.0,1,2
+2023-11-12,I2,Italy-SB,2324,Spezia,Ternana,2.0,2.0,D,1.0,1.0,D,1.83,3.5,4.5,1.85,3.61,4.62,1.81,3.54,4.41,1.95,1.9,1.93,1.85,-0.5,1.83,2.03,Spezia,Ternana,spezia,ternana,Ternana,H,2.0,2.0,1,2
+2023-11-24,I2,Italy-SB,2324,Sampdoria,Spezia,2.0,1.0,H,1.0,1.0,D,2.2,3.1,3.4,2.31,3.29,3.44,2.25,3.18,3.28,2.05,1.75,2.06,1.75,-0.25,1.93,1.93,Sampdoria,Spezia,sampdoria,spezia,Sampdoria,A,1.0,2.0,5,10
+2023-12-02,I2,Italy-SB,2324,Spezia,Parma,0.0,1.0,A,0.0,0.0,D,2.5,3.25,2.88,2.62,3.35,2.87,2.54,3.26,2.78,2.03,1.83,1.99,1.79,0.0,1.83,2.03,Spezia,Parma,spezia,parma,Parma,H,0.0,1.0,1,2
+2023-12-09,I2,Italy-SB,2324,Ascoli,Spezia,1.0,2.0,A,0.0,1.0,A,2.9,3.2,2.5,3.11,3.14,2.58,2.91,3.07,2.55,2.3,1.6,2.3,1.6,0.0,2.1,1.78,Ascoli,Spezia,ascoli,spezia,Ascoli,A,2.0,1.0,1,2
+2023-12-15,I2,Italy-SB,2324,Spezia,Bari,1.0,0.0,H,0.0,0.0,D,2.05,3.0,4.0,2.1,3.16,4.22,2.09,3.05,3.9,2.3,1.6,2.28,1.61,-0.25,1.73,2.08,Spezia,Bari,spezia,bari,Bari,H,1.0,0.0,1,6
+2023-12-23,I2,Italy-SB,2324,Cittadella,Spezia,4.0,1.0,H,1.0,0.0,H,2.3,3.1,3.4,2.47,3.03,3.42,2.34,3.03,3.26,2.4,1.53,2.43,1.54,-0.25,2.03,1.83,Cittadella,Spezia,cittadella,spezia,Cittadella,A,1.0,4.0,1,4
+2023-12-26,I2,Italy-SB,2324,Spezia,Modena,1.0,1.0,D,0.0,0.0,D,2.3,3.2,3.3,2.38,3.23,3.35,2.3,3.19,3.17,2.2,1.65,2.19,1.66,-0.25,2.0,1.85,Spezia,Modena,spezia,modena,Modena,H,1.0,1.0,1,6
+2024-01-13,I2,Italy-SB,2324,Como,Spezia,4.0,0.0,H,2.0,0.0,H,2.0,3.25,4.0,2.0,3.46,4.19,1.98,3.35,3.79,2.1,1.7,2.09,1.71,-0.5,1.98,1.88,Como,Spezia,como,spezia,Como,A,0.0,4.0,2,2
+2024-01-20,I2,Italy-SB,2324,Spezia,Cremonese,0.0,1.0,A,0.0,0.0,D,3.4,3.5,2.1,3.4,3.51,2.23,3.21,3.41,2.16,1.93,1.93,1.86,1.92,0.25,1.98,1.88,Spezia,Cremonese,spezia,cremonese,Cremonese,H,0.0,1.0,4,6
+2024-01-27,I2,Italy-SB,2324,Pisa,Spezia,2.0,3.0,A,1.0,3.0,A,2.25,3.3,3.3,2.3,3.29,3.46,2.2,3.24,3.3,2.15,1.67,2.14,1.69,-0.25,1.93,1.93,Pisa,Spezia,pisa,spezia,Pisa,A,3.0,2.0,2,4
+2024-02-03,I2,Italy-SB,2324,Spezia,Catanzaro,1.0,1.0,D,1.0,1.0,D,2.38,3.4,3.0,2.42,3.33,3.19,2.35,3.26,3.02,2.05,1.75,2.03,1.76,-0.25,2.03,1.83,Spezia,Catanzaro,spezia,catanzaro,Catanzaro,H,1.0,1.0,2,6
+2024-02-11,I2,Italy-SB,2324,Ternana,Spezia,1.0,1.0,D,0.0,0.0,D,2.45,3.25,3.0,2.55,3.26,3.03,2.41,3.24,2.92,2.03,1.83,1.97,1.8,-0.25,2.1,1.78,Ternana,Spezia,ternana,spezia,Ternana,A,1.0,1.0,2,2
+2024-02-17,I2,Italy-SB,2324,Spezia,Cittadella,4.0,2.0,H,2.0,1.0,H,2.45,3.2,3.0,2.54,3.12,3.2,2.45,3.1,2.99,2.2,1.65,2.19,1.66,-0.25,2.1,1.78,Spezia,Cittadella,spezia,cittadella,Cittadella,H,4.0,2.0,2,4
+2024-02-25,I2,Italy-SB,2324,Modena,Spezia,0.0,0.0,D,0.0,0.0,D,2.2,3.4,3.3,2.34,3.26,3.41,2.23,3.24,3.26,2.15,1.67,2.14,1.68,-0.25,1.95,1.9,Modena,Spezia,modena,spezia,Modena,A,0.0,0.0,2,6
+2024-02-28,I2,Italy-SB,2324,Spezia,FeralpiSalo,0.0,2.0,A,0.0,1.0,A,1.83,3.4,4.5,1.88,3.64,4.47,1.85,3.46,4.19,2.0,1.85,1.94,1.85,-0.5,1.85,2.0,Spezia,FeralpiSalo,spezia,feralpisalo,FeralpiSalo,H,0.0,2.0,2,2
+2024-03-03,I2,Italy-SB,2324,Bari,Spezia,1.0,1.0,D,0.0,0.0,D,2.3,3.2,3.25,2.45,3.15,3.31,2.32,3.12,3.14,2.25,1.62,2.21,1.64,-0.25,2.0,1.85,Bari,Spezia,bari,spezia,Bari,A,1.0,1.0,2,6
+2024-03-09,I2,Italy-SB,2324,Spezia,Sudtirol,2.0,1.0,H,1.0,1.0,D,2.05,3.0,4.2,2.09,3.15,4.32,2.05,3.05,4.01,2.7,1.44,2.65,1.46,-0.5,2.05,1.8,Spezia,Sudtirol,spezia,sudtirol,Sudtirol,H,2.0,1.0,2,6
+2024-03-16,I2,Italy-SB,2324,Reggiana,Spezia,0.0,0.0,D,0.0,0.0,D,2.6,3.0,3.0,2.75,2.88,3.16,2.56,2.95,3.0,2.4,1.53,2.35,1.57,0.0,1.78,2.1,Reggiana,Spezia,reggiana,spezia,Reggiana,A,0.0,0.0,2,6
+2024-04-01,I2,Italy-SB,2324,Spezia,Ascoli,2.0,1.0,H,1.0,1.0,D,2.0,3.25,4.0,2.07,3.28,3.98,2.04,3.16,3.79,2.4,1.53,2.42,1.53,-0.25,1.73,2.08,Spezia,Ascoli,spezia,ascoli,Ascoli,H,2.0,1.0,2,2
+2024-04-06,I2,Italy-SB,2324,Spezia,Lecco,1.0,1.0,D,1.0,1.0,D,1.67,3.8,5.5,1.67,3.89,5.57,1.66,3.76,5.07,1.95,1.9,1.9,1.87,-0.75,1.85,2.0,Spezia,Lecco,spezia,lecco,Lecco,H,1.0,1.0,2,2
+2024-04-13,I2,Italy-SB,2324,Parma,Spezia,2.0,0.0,H,1.0,0.0,H,1.73,3.7,4.75,1.75,3.86,4.9,1.72,3.73,4.63,1.9,1.95,1.87,1.91,-0.75,1.95,1.9,Parma,Spezia,parma,spezia,Parma,A,0.0,2.0,2,2
+2024-04-20,I2,Italy-SB,2324,Spezia,Sampdoria,0.0,0.0,D,0.0,0.0,D,2.5,3.2,2.9,2.5,3.11,2.95,2.42,3.17,2.93,2.1,1.7,2.11,1.7,-0.25,2.08,1.73,Spezia,Sampdoria,spezia,sampdoria,Sampdoria,H,0.0,0.0,6,10
+2024-04-27,I2,Italy-SB,2324,Brescia,Spezia,0.0,0.0,D,0.0,0.0,D,2.55,3.1,3.0,2.7,3.01,3.03,2.57,3.0,2.88,2.25,1.62,2.25,1.62,0.0,1.83,2.03,Brescia,Spezia,brescia,spezia,Brescia,A,0.0,0.0,2,4
+2024-05-01,I2,Italy-SB,2324,Spezia,Palermo,1.0,0.0,H,1.0,0.0,H,2.2,3.5,3.2,2.25,3.49,3.29,2.17,3.38,3.15,1.85,2.0,1.82,1.95,-0.25,1.9,1.9,Spezia,Palermo,spezia,palermo,Palermo,H,1.0,0.0,2,6
+2024-05-05,I2,Italy-SB,2324,Cosenza,Spezia,2.0,2.0,D,1.0,1.0,D,2.6,3.0,2.88,2.53,3.22,2.82,2.51,3.14,2.79,2.2,1.65,2.2,1.64,0.0,1.83,2.03,Cosenza,Spezia,cosenza,spezia,Cosenza,A,2.0,2.0,2,4
+2024-05-10,I2,Italy-SB,2324,Spezia,Venezia,2.0,1.0,H,0.0,1.0,A,2.1,3.6,3.2,2.11,3.64,3.44,2.09,3.49,3.29,1.7,2.1,1.7,2.12,-0.25,1.83,2.03,Spezia,Venezia,spezia,venezia,Venezia,H,2.0,1.0,4,6
+2024-08-17,I2,Italy-SB,2425,Pisa,Spezia,2.0,2.0,D,1.0,2.0,A,2.5,3.2,2.88,2.71,2.98,2.91,2.56,3.05,2.88,2.35,1.57,2.37,1.56,0.0,1.75,2.13,Pisa,Spezia,pisa,spezia,Pisa,A,2.0,2.0,3,4
+2024-08-24,I2,Italy-SB,2425,Spezia,Frosinone,2.0,1.0,H,0.0,1.0,A,2.3,3.4,3.0,2.39,3.28,3.06,2.32,3.33,2.98,1.98,1.88,1.91,1.86,-0.25,2.03,1.83,Spezia,Frosinone,spezia,frosinone,Frosinone,H,2.0,1.0,1,4
+2024-08-28,I2,Italy-SB,2425,Cosenza,Spezia,0.0,0.0,D,0.0,0.0,D,2.7,3.25,2.6,2.85,3.05,2.7,2.75,3.11,2.62,2.2,1.65,2.2,1.65,0.0,2.0,1.85,Cosenza,Spezia,cosenza,spezia,Cosenza,A,0.0,0.0,3,4
+2024-09-01,I2,Italy-SB,2425,Spezia,Cesena,2.0,1.0,H,0.0,1.0,A,2.4,3.4,2.88,2.49,3.08,3.1,2.41,3.18,2.98,2.1,1.7,2.12,1.69,-0.25,2.1,1.78,Spezia,Cesena,spezia,cesena,Cesena,H,2.0,1.0,1,4
+2024-09-14,I2,Italy-SB,2425,Cremonese,Spezia,1.0,1.0,D,1.0,0.0,H,1.85,3.75,3.9,1.84,3.41,4.54,1.86,3.47,4.18,2.03,1.83,1.99,1.79,-0.5,1.88,1.98,Cremonese,Spezia,cremonese,spezia,Cremonese,A,1.0,1.0,5,6
+2024-09-22,I2,Italy-SB,2425,Spezia,Carrarese,4.0,2.0,H,1.0,1.0,D,1.73,3.75,4.5,1.7,3.45,5.62,1.72,3.52,4.98,2.1,1.7,2.09,1.72,-0.75,1.98,1.88,Spezia,Carrarese,spezia,carrarese,Carrarese,H,4.0,2.0,1,4
+2024-09-28,I2,Italy-SB,2425,Sassuolo,Spezia,0.0,0.0,D,0.0,0.0,D,2.1,3.25,3.6,2.13,3.31,3.74,2.09,3.29,3.53,2.03,1.83,1.98,1.8,-0.25,1.8,2.05,Sassuolo,Spezia,sassuolo,spezia,Sassuolo,A,0.0,0.0,5,6
+2024-10-05,I2,Italy-SB,2425,Spezia,Reggiana,1.0,0.0,H,1.0,0.0,H,1.85,3.5,4.1,1.87,3.44,4.61,1.89,3.35,4.24,2.15,1.67,2.18,1.65,-0.5,1.88,1.98,Spezia,Reggiana,spezia,reggiana,Reggiana,H,1.0,0.0,3,6
+2024-10-19,I2,Italy-SB,2425,Salernitana,Spezia,0.0,2.0,A,0.0,0.0,D,2.63,3.2,2.63,2.78,3.04,2.78,2.68,3.11,2.69,2.1,1.7,2.07,1.72,0.0,1.93,1.93,Salernitana,Spezia,salernitana,spezia,Salernitana,A,2.0,0.0,5,6
+2024-10-25,I2,Italy-SB,2425,Spezia,Bari,0.0,0.0,D,0.0,0.0,D,2.0,3.2,4.0,2.06,3.16,4.3,2.04,3.17,3.89,2.2,1.65,2.2,1.65,-0.5,2.03,1.83,Spezia,Bari,spezia,bari,Bari,H,0.0,0.0,3,6
+2024-10-29,I2,Italy-SB,2425,Brescia,Spezia,1.0,1.0,D,0.0,1.0,A,3.4,3.1,2.2,3.61,3.13,2.29,3.39,3.09,2.25,2.2,1.65,2.21,1.65,0.25,1.93,1.93,Brescia,Spezia,brescia,spezia,Brescia,A,1.0,1.0,3,4
+2024-11-02,I2,Italy-SB,2425,Spezia,Modena,1.0,0.0,H,1.0,0.0,H,2.15,3.1,3.7,2.15,3.16,3.73,2.15,3.11,3.58,2.35,1.57,2.36,1.56,-0.25,1.83,2.03,Spezia,Modena,spezia,modena,Modena,H,1.0,0.0,3,6
+2024-11-10,I2,Italy-SB,2425,Juve Stabia,Spezia,0.0,3.0,A,0.0,1.0,A,2.88,3.2,2.5,3.02,2.98,2.61,2.93,2.99,2.54,2.4,1.53,2.4,1.54,0.0,2.05,1.8,Juve Stabia,Spezia,juve_stabia,spezia,Juve Stabia,A,3.0,0.0,1,4
+2024-11-24,I2,Italy-SB,2425,Spezia,Sudtirol,3.0,0.0,H,2.0,0.0,H,1.73,3.2,5.75,1.74,3.41,5.42,1.75,3.31,5.08,2.6,1.48,2.5,1.49,-0.75,2.0,1.85,Spezia,Sudtirol,spezia,sudtirol,Sudtirol,H,3.0,0.0,3,6
+2024-12-01,I2,Italy-SB,2425,Palermo,Spezia,2.0,0.0,H,1.0,0.0,H,2.2,3.2,3.4,2.31,3.01,3.52,2.23,3.08,3.35,2.25,1.62,2.22,1.62,-0.25,1.95,1.9,Palermo,Spezia,palermo,spezia,Palermo,A,0.0,2.0,3,6
+2024-12-08,I2,Italy-SB,2425,Spezia,Cittadella,5.0,0.0,H,3.0,0.0,H,1.67,3.6,5.5,1.65,3.7,5.61,1.66,3.59,5.28,2.15,1.67,2.16,1.66,-0.75,1.88,1.98,Spezia,Cittadella,spezia,cittadella,Cittadella,H,5.0,0.0,3,4
+2024-12-14,I2,Italy-SB,2425,Sampdoria,Spezia,0.0,0.0,D,0.0,0.0,D,2.7,3.1,2.7,2.89,3.0,2.71,2.77,3.06,2.63,2.25,1.62,2.25,1.62,0.0,1.98,1.88,Sampdoria,Spezia,sampdoria,spezia,Sampdoria,A,0.0,0.0,7,10
+2024-12-21,I2,Italy-SB,2425,Catanzaro,Spezia,0.0,1.0,A,0.0,1.0,A,2.88,3.2,2.45,3.02,3.07,2.54,2.95,3.08,2.49,2.25,1.62,2.24,1.62,0.0,2.1,1.78,Catanzaro,Spezia,catanzaro,spezia,Catanzaro,A,1.0,0.0,3,6
+2024-12-26,I2,Italy-SB,2425,Spezia,Mantova,1.0,1.0,D,0.0,1.0,A,1.57,3.9,5.75,1.56,4.11,5.88,1.55,3.95,5.62,1.93,1.93,1.89,1.87,-1.0,2.0,1.85,Spezia,Mantova,spezia,mantova,Mantova,H,1.0,1.0,1,4
+2024-12-29,I2,Italy-SB,2425,Bari,Spezia,2.0,0.0,H,1.0,0.0,H,2.88,2.9,2.6,3.04,2.84,2.72,2.9,2.92,2.61,2.4,1.53,2.37,1.55,0.0,2.05,1.8,Bari,Spezia,bari,spezia,Bari,A,0.0,2.0,4,6
+2025-01-12,I2,Italy-SB,2425,Spezia,Juve Stabia,1.0,1.0,D,1.0,0.0,H,1.8,3.25,5.0,1.79,3.39,5.03,1.78,3.31,4.82,2.35,1.57,2.33,1.56,-0.75,2.05,1.75,Spezia,Juve Stabia,spezia,juve_stabia,Juve Stabia,H,1.0,1.0,2,4
+2025-01-19,I2,Italy-SB,2425,Carrarese,Spezia,0.0,4.0,A,0.0,2.0,A,2.9,3.1,2.5,3.07,2.95,2.6,2.96,2.99,2.52,2.5,1.5,2.44,1.51,0.0,2.1,1.78,Carrarese,Spezia,carrarese,spezia,Carrarese,A,4.0,0.0,2,4
+2025-01-24,I2,Italy-SB,2425,Spezia,Sassuolo,2.0,1.0,H,1.0,1.0,D,2.45,3.0,3.1,2.57,3.15,3.06,2.49,3.08,2.93,2.05,1.8,1.99,1.8,0.0,1.7,2.1,Spezia,Sassuolo,spezia,sassuolo,Sassuolo,H,2.0,1.0,6,6
+2025-02-01,I2,Italy-SB,2425,Cittadella,Spezia,0.0,2.0,A,0.0,2.0,A,3.4,3.2,2.2,3.55,3.22,2.24,3.47,3.16,2.16,2.2,1.65,2.2,1.64,0.25,1.98,1.88,Cittadella,Spezia,cittadella,spezia,Cittadella,A,2.0,0.0,4,4
+2025-02-09,I2,Italy-SB,2425,Spezia,Palermo,2.0,2.0,D,0.0,1.0,A,1.9,3.3,4.2,1.91,3.39,4.26,1.9,3.3,4.06,2.08,1.73,2.07,1.72,-0.5,1.93,1.93,Spezia,Palermo,spezia,palermo,Palermo,H,2.0,2.0,4,6
+2025-02-15,I2,Italy-SB,2425,Modena,Spezia,1.0,1.0,D,1.0,1.0,D,3.1,3.0,2.5,3.09,3.04,2.59,3.01,2.98,2.5,2.4,1.53,2.4,1.55,0.25,1.75,2.13,Modena,Spezia,modena,spezia,Modena,A,1.0,1.0,4,6
+2025-02-23,I2,Italy-SB,2425,Spezia,Catanzaro,0.0,1.0,A,0.0,0.0,D,1.6,3.75,5.75,1.6,3.94,5.65,1.59,3.8,5.47,1.98,1.88,1.93,1.85,-0.75,1.75,2.05,Spezia,Catanzaro,spezia,catanzaro,Catanzaro,H,0.0,1.0,4,6
+2025-02-28,I2,Italy-SB,2425,Sudtirol,Spezia,1.0,1.0,D,1.0,1.0,D,4.75,3.4,1.83,4.92,3.37,1.87,4.56,3.27,1.85,2.3,1.6,2.3,1.6,0.5,2.0,1.85,Sudtirol,Spezia,sudtirol,spezia,Sudtirol,A,1.0,1.0,4,6
+2025-03-09,I2,Italy-SB,2425,Spezia,Pisa,3.0,2.0,H,1.0,1.0,D,1.91,3.3,4.1,1.94,3.3,4.26,1.92,3.25,4.12,2.35,1.57,2.31,1.58,-0.5,1.95,1.9,Spezia,Pisa,spezia,pisa,Pisa,H,3.0,2.0,4,4
+2025-03-15,I2,Italy-SB,2425,Cesena,Spezia,0.0,0.0,D,0.0,0.0,D,4.0,3.0,2.1,4.13,3.05,2.08,3.93,3.04,2.07,2.35,1.57,2.31,1.58,0.25,2.1,1.78,Cesena,Spezia,cesena,spezia,Cesena,A,0.0,0.0,2,4
+2025-03-28,I2,Italy-SB,2425,Spezia,Brescia,0.0,1.0,A,0.0,1.0,A,1.53,3.8,6.5,1.52,4.03,6.72,1.51,3.98,6.35,2.05,1.8,1.98,1.79,-1.0,1.89,1.84,Spezia,Brescia,spezia,brescia,Brescia,H,0.0,1.0,4,4
+2025-04-06,I2,Italy-SB,2425,Spezia,Sampdoria,2.0,0.0,H,0.0,0.0,D,1.67,3.7,5.25,1.67,3.86,5.06,1.67,3.77,4.91,2.0,1.85,1.94,1.83,-0.75,1.88,1.98,Spezia,Sampdoria,spezia,sampdoria,Sampdoria,H,2.0,0.0,8,10
+2025-04-13,I2,Italy-SB,2425,Mantova,Spezia,2.0,2.0,D,0.0,1.0,A,3.9,3.6,1.85,4.05,3.7,1.87,3.94,3.63,1.85,1.9,1.95,1.83,1.94,0.5,1.98,1.88,Mantova,Spezia,mantova,spezia,Mantova,A,2.0,2.0,2,4
+2025-04-25,I2,Italy-SB,2425,Frosinone,Spezia,2.0,2.0,D,2.0,1.0,H,3.6,3.5,1.95,3.96,3.47,2.02,3.64,3.4,2.0,1.88,1.98,1.91,1.87,0.5,1.85,2.0,Frosinone,Spezia,frosinone,spezia,Frosinone,A,2.0,2.0,2,4
+2025-05-01,I2,Italy-SB,2425,Spezia,Salernitana,2.0,0.0,H,1.0,0.0,H,1.95,3.5,3.9,1.96,2.97,4.84,1.95,3.16,4.18,2.03,1.83,2.0,1.78,-0.5,1.95,1.9,Spezia,Salernitana,spezia,salernitana,Salernitana,H,2.0,0.0,6,6
+2025-05-04,I2,Italy-SB,2425,Reggiana,Spezia,2.0,1.0,H,1.0,1.0,D,3.3,3.1,2.3,3.75,2.73,2.39,3.46,2.84,2.33,2.4,1.5,2.42,1.53,0.25,1.88,1.98,Reggiana,Spezia,reggiana,spezia,Reggiana,A,1.0,2.0,4,6
+2025-05-09,I2,Italy-SB,2425,Spezia,Cremonese,2.0,3.0,A,0.0,3.0,A,2.2,3.3,3.25,2.27,3.31,3.26,2.24,3.36,3.09,1.75,2.05,1.74,2.04,-0.25,1.93,1.88,Spezia,Cremonese,spezia,cremonese,Cremonese,H,2.0,3.0,6,6
+2025-05-13,I2,Italy-SB,2425,Spezia,Cosenza,3.0,1.0,H,3.0,0.0,H,1.3,5.5,8.5,1.31,5.19,9.78,1.31,5.27,8.7,1.48,2.6,1.49,2.5,-1.5,1.85,1.95,Spezia,Cosenza,spezia,cosenza,Cosenza,H,3.0,1.0,4,4
+2025-08-24,I2,Italy-SB,2526,Spezia,Carrarese,0.0,2.0,A,0.0,1.0,A,1.7,3.6,5.0,1.75,3.58,4.96,1.68,3.55,4.73,2.05,1.75,2.0,1.72,-0.75,1.93,1.88,Spezia,Carrarese,spezia,carrarese,Carrarese,H,0.0,2.0,3,4
+2025-08-30,I2,Italy-SB,2526,Spezia,Catanzaro,0.0,0.0,D,0.0,0.0,D,1.91,3.4,3.8,1.99,3.33,4.03,1.96,3.27,3.66,2.2,1.65,2.17,1.61,-0.5,1.98,1.83,Spezia,Catanzaro,spezia,catanzaro,Catanzaro,H,0.0,0.0,5,6
+2025-09-14,I2,Italy-SB,2526,Empoli,Spezia,1.0,1.0,D,0.0,1.0,A,2.3,3.1,3.2,2.4,2.96,3.38,2.28,2.98,3.2,2.5,1.5,2.43,1.5,-0.25,2.0,1.8,Empoli,Spezia,empoli,spezia,Empoli,A,1.0,1.0,5,6
+2025-09-20,I2,Italy-SB,2526,Spezia,Juve Stabia,1.0,3.0,A,0.0,2.0,A,1.91,3.2,4.1,1.98,3.16,4.36,1.92,3.13,4.06,2.5,1.5,2.4,1.51,-0.5,1.98,1.83,Spezia,Juve Stabia,spezia,juve_stabia,Juve Stabia,H,1.0,3.0,3,4
+2025-09-27,I2,Italy-SB,2526,Venezia,Spezia,2.0,0.0,H,1.0,0.0,H,2.15,3.2,3.4,2.2,3.27,3.44,2.19,3.18,3.15,2.15,1.67,2.09,1.66,-0.25,1.85,1.95,Venezia,Spezia,venezia,spezia,Venezia,A,0.0,2.0,5,6
+2025-09-30,I2,Italy-SB,2526,Reggiana,Spezia,1.0,1.0,D,0.0,1.0,A,4.2,3.2,1.91,4.16,3.25,2.03,4.06,3.17,1.91,2.4,1.53,2.32,1.54,0.5,1.83,1.98,Reggiana,Spezia,reggiana,spezia,Reggiana,A,1.0,1.0,5,6
+2025-10-04,I2,Italy-SB,2526,Spezia,Palermo,1.0,2.0,A,0.0,1.0,A,2.82,3.0,2.55,2.91,2.99,2.69,2.73,2.97,2.59,2.5,1.5,2.43,1.5,0.0,1.98,1.83,Spezia,Palermo,spezia,palermo,Palermo,H,1.0,2.0,5,6
+2025-10-18,I2,Italy-SB,2526,Spezia,Cesena,1.0,2.0,A,1.0,2.0,A,2.1,3.25,3.5,2.15,3.2,3.65,2.1,3.11,3.45,2.35,1.57,2.32,1.55,-0.25,1.83,1.98,Spezia,Cesena,spezia,cesena,Cesena,H,1.0,2.0,3,4
+2025-10-25,I2,Italy-SB,2526,Avellino,Spezia,0.0,4.0,A,0.0,0.0,D,2.65,2.95,2.65,2.83,3.04,2.73,2.76,2.96,2.57,2.4,1.53,2.38,1.52,0.0,1.9,1.9,Avellino,Spezia,avellino,spezia,Avellino,A,4.0,0.0,1,2
+2025-10-29,I2,Italy-SB,2526,Spezia,Padova,1.0,1.0,D,1.0,0.0,H,1.81,3.3,4.5,,,,1.84,3.26,4.25,2.25,1.62,2.22,1.59,-0.5,1.85,1.95,Spezia,Padova,spezia,padova,Padova,H,1.0,1.0,1,2
+2025-11-02,I2,Italy-SB,2526,Monza,Spezia,1.0,0.0,H,0.0,0.0,D,2.05,3.05,3.75,,,,2.04,3.08,3.69,2.6,1.48,2.4,1.52,-0.5,2.08,1.73,Monza,Spezia,monza,spezia,Monza,A,0.0,1.0,3,4
+2025-11-07,I2,Italy-SB,2526,Spezia,Bari,1.0,1.0,D,1.0,1.0,D,1.86,3.2,4.33,,,,1.92,3.09,4.15,2.5,1.5,2.39,1.52,-0.5,1.93,1.88,Spezia,Bari,spezia,bari,Bari,H,1.0,1.0,5,6
+2025-11-23,I2,Italy-SB,2526,Mantova,Spezia,4.0,1.0,H,1.0,1.0,D,2.65,3.2,2.65,,,,2.71,3.07,2.56,2.15,1.67,2.12,1.64,0.0,1.9,1.9,Mantova,Spezia,mantova,spezia,Mantova,A,1.0,4.0,3,4
+2025-11-30,I2,Italy-SB,2526,Spezia,Sampdoria,1.0,0.0,H,0.0,0.0,D,2.25,3.05,3.2,,,,2.31,3.01,3.09,2.35,1.57,2.32,1.54,-0.25,2.0,1.8,Spezia,Sampdoria,spezia,sampdoria,Sampdoria,H,1.0,0.0,9,10
+2025-12-08,I2,Italy-SB,2526,Virtus Entella,Spezia,0.0,1.0,A,0.0,0.0,D,2.3,3.05,3.2,,,,2.34,3.02,3.05,2.35,1.57,2.31,1.54,-0.25,2.0,1.8,Virtus Entella,Spezia,virtus_entella,spezia,Virtus Entella,A,1.0,0.0,1,2
+2025-12-13,I2,Italy-SB,2526,Spezia,Modena,0.0,2.0,A,0.0,1.0,A,3.4,3.2,2.2,,,,3.3,3.06,2.18,2.25,1.62,2.24,1.58,0.25,1.9,1.9,Spezia,Modena,spezia,modena,Modena,H,0.0,2.0,5,6
+2025-12-20,I2,Italy-SB,2526,Frosinone,Spezia,2.0,1.0,H,1.0,0.0,H,1.76,3.6,4.2,,,,1.84,3.49,3.95,1.9,1.9,1.85,1.84,-0.5,1.8,2.0,Frosinone,Spezia,frosinone,spezia,Frosinone,A,1.0,2.0,3,4
+2025-12-27,I2,Italy-SB,2526,Spezia,Pescara,2.0,1.0,H,1.0,1.0,D,1.66,3.5,4.5,,,,1.68,3.64,4.59,1.85,1.95,1.83,1.86,-0.75,1.95,1.85,Spezia,Pescara,spezia,pescara,Pescara,H,2.0,1.0,1,2
+2026-01-10,I2,Italy-SB,2526,Sudtirol,Spezia,2.0,1.0,H,1.0,1.0,D,2.3,3.0,3.4,,,,2.32,2.99,3.12,2.25,1.62,2.22,1.59,-0.25,1.98,1.83,Sudtirol,Spezia,sudtirol,spezia,Sudtirol,A,1.0,2.0,5,6
+2026-01-18,I2,Italy-SB,2526,Palermo,Spezia,1.0,0.0,H,1.0,0.0,H,1.71,3.6,4.75,,,,1.7,3.58,4.51,1.98,1.83,1.91,1.8,-0.75,1.95,1.85,Palermo,Spezia,palermo,spezia,Palermo,A,0.0,1.0,6,6
+2026-01-24,I2,Italy-SB,2526,Spezia,Avellino,1.0,0.0,H,1.0,0.0,H,1.91,3.3,3.9,,,,1.94,3.22,3.87,2.08,1.73,2.04,1.7,-0.5,1.98,1.83,Spezia,Avellino,spezia,avellino,Avellino,H,1.0,0.0,2,2
+2026-01-31,I2,Italy-SB,2526,Sampdoria,Spezia,1.0,0.0,H,0.0,0.0,D,2.05,3.1,3.8,,,,2.1,3.02,3.67,2.4,1.53,2.32,1.54,-0.25,1.78,2.03,Sampdoria,Spezia,sampdoria,spezia,Sampdoria,A,0.0,1.0,10,10
+2026-02-07,I2,Italy-SB,2526,Spezia,Virtus Entella,1.0,1.0,D,1.0,1.0,D,2.25,2.7,3.8,,,,2.27,2.81,3.45,2.4,1.53,2.29,1.56,-0.25,1.95,1.85,Spezia,Virtus Entella,spezia,virtus_entella,Virtus Entella,H,1.0,1.0,2,2
+2026-02-11,I2,Italy-SB,2526,Bari,Spezia,0.0,0.0,D,0.0,0.0,D,3.0,2.85,2.5,,,,3.09,2.84,2.45,2.35,1.57,2.3,1.55,0.0,2.05,1.75,Bari,Spezia,bari,spezia,Bari,A,0.0,0.0,6,6
+2026-02-15,I2,Italy-SB,2526,Spezia,Frosinone,0.0,2.0,A,0.0,1.0,A,2.5,3.3,2.5,,,,2.54,3.26,2.59,1.95,1.85,1.88,1.84,0.0,1.9,1.9,Spezia,Frosinone,spezia,frosinone,Frosinone,H,0.0,2.0,4,4
+2026-02-21,I2,Italy-SB,2526,Cesena,Spezia,2.0,3.0,A,1.0,1.0,D,2.15,3.1,3.5,,,,2.14,3.17,3.28,2.2,1.65,2.14,1.63,-0.25,1.85,1.95,Cesena,Spezia,cesena,spezia,Cesena,A,3.0,2.0,4,4
+2026-02-28,I2,Italy-SB,2526,Spezia,Reggiana,0.0,1.0,A,0.0,1.0,A,1.91,3.25,4.1,,,,1.96,3.18,3.8,2.2,1.65,2.17,1.62,-0.5,1.98,1.83,Spezia,Reggiana,spezia,reggiana,Reggiana,H,0.0,1.0,6,6
+2026-03-03,I2,Italy-SB,2526,Padova,Spezia,2.0,2.0,D,1.0,1.0,D,2.7,3.0,2.65,,,,2.75,2.89,2.65,2.25,1.62,2.25,1.58,0.0,1.95,1.85,Padova,Spezia,padova,spezia,Padova,A,2.0,2.0,2,2
+2026-03-07,I2,Italy-SB,2526,Spezia,Monza,4.0,2.0,H,2.0,2.0,D,3.75,3.25,2.01,,,,3.62,3.2,2.0,2.2,1.65,2.18,1.62,0.5,1.78,2.03,Spezia,Monza,spezia,monza,Monza,H,4.0,2.0,4,4
+2026-03-13,I2,Italy-SB,2526,Modena,Spezia,3.0,0.0,H,1.0,0.0,H,1.66,3.6,5.0,,,,1.67,3.48,4.84,2.08,1.73,2.01,1.71,-0.75,1.88,1.93,Modena,Spezia,modena,spezia,Modena,A,0.0,3.0,6,6
+2026-03-17,I2,Italy-SB,2526,Spezia,Empoli,1.0,1.0,D,0.0,0.0,D,2.65,2.65,3.1,,,,2.54,2.78,2.98,2.25,1.62,2.2,1.6,0.0,1.75,2.05,Spezia,Empoli,spezia,empoli,Empoli,H,1.0,1.0,6,6
+2026-03-21,I2,Italy-SB,2526,Juve Stabia,Spezia,3.0,1.0,H,1.0,1.0,D,2.25,3.0,3.4,,,,2.26,3.04,3.12,2.25,1.62,2.19,1.6,-0.25,1.98,1.83,Juve Stabia,Spezia,juve_stabia,spezia,Juve Stabia,A,1.0,3.0,4,4
+2026-04-06,I2,Italy-SB,2526,Carrarese,Spezia,3.0,1.0,H,2.0,0.0,H,1.96,3.1,3.9,,,,1.98,3.11,3.79,2.05,1.75,2.0,1.73,-0.5,2.0,1.8,Carrarese,Spezia,carrarese,spezia,Carrarese,A,1.0,3.0,4,4
+2026-04-12,I2,Italy-SB,2526,Spezia,Mantova,0.0,2.0,A,0.0,1.0,A,2.3,3.25,3.1,,,,2.25,3.17,3.06,2.03,1.78,1.96,1.77,-0.25,2.0,1.8,Spezia,Mantova,spezia,mantova,Mantova,H,0.0,2.0,4,4
+2026-04-18,I2,Italy-SB,2526,Spezia,Sudtirol,6.0,1.0,H,3.0,1.0,H,2.25,3.2,3.1,,,,2.34,3.18,2.9,2.08,1.73,2.08,1.68,-0.25,2.03,1.78,Spezia,Sudtirol,spezia,sudtirol,Sudtirol,H,6.0,1.0,6,6
+2026-04-25,I2,Italy-SB,2526,Catanzaro,Spezia,4.0,2.0,H,1.0,1.0,D,2.15,3.5,3.1,,,,2.11,3.34,3.09,1.85,1.95,1.82,1.89,-0.25,1.88,1.93,Catanzaro,Spezia,catanzaro,spezia,Catanzaro,A,2.0,4.0,6,6
+2026-05-01,I2,Italy-SB,2526,Spezia,Venezia,2.0,2.0,D,0.0,1.0,A,4.75,3.75,1.66,,,,4.17,3.74,1.71,1.62,2.25,1.64,2.13,0.75,2.0,1.8,Spezia,Venezia,spezia,venezia,Venezia,H,2.0,2.0,6,6
+2026-05-08,I2,Italy-SB,2526,Pescara,Spezia,1.0,1.0,D,1.0,0.0,H,2.15,3.6,3.0,,,,2.08,3.58,3.02,1.57,2.35,1.55,2.3,-0.25,1.9,1.9,Pescara,Spezia,pescara,spezia,Pescara,A,1.0,1.0,2,2

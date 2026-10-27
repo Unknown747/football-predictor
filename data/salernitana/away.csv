@@ -1,0 +1,77 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-22,I1,Italy-SA,2122,Bologna,Salernitana,3.0,2.0,H,0.0,0.0,D,1.65,4.0,5.0,1.65,4.29,5.42,1.65,4.04,5.15,1.8,2.0,1.81,2.02,-0.75,1.85,2.08,Bologna,Salernitana,bologna,salernitana
+2021-09-12,I1,Italy-SA,2122,Torino,Salernitana,4.0,0.0,H,1.0,0.0,H,1.57,4.2,5.75,1.61,4.18,6.05,1.6,4.08,5.79,1.8,2.0,1.83,2.01,-1.0,2.08,1.85,Torino,Salernitana,torino,salernitana
+2021-09-26,I1,Italy-SA,2122,Sassuolo,Salernitana,1.0,0.0,H,0.0,0.0,D,1.4,5.0,7.5,1.46,4.89,7.28,1.43,4.79,7.45,1.53,2.5,1.54,2.48,-1.25,1.94,1.99,Sassuolo,Salernitana,sassuolo,salernitana
+2021-10-16,I1,Italy-SA,2122,Spezia,Salernitana,2.0,1.0,H,0.0,1.0,A,2.1,3.4,3.5,2.24,3.39,3.56,2.19,3.33,3.44,1.9,1.9,1.86,1.96,-0.25,1.89,2.01,Spezia,Salernitana,spezia,salernitana
+2021-10-26,I1,Italy-SA,2122,Venezia,Salernitana,1.0,2.0,A,1.0,0.0,H,1.95,3.4,4.0,1.98,3.55,4.21,1.98,3.44,4.0,2.0,1.8,2.03,1.81,-0.5,1.99,1.94,Venezia,Salernitana,venezia,salernitana
+2021-11-07,I1,Italy-SA,2122,Lazio,Salernitana,3.0,0.0,H,2.0,0.0,H,1.3,5.5,9.5,1.33,5.96,9.59,1.31,5.6,9.32,1.53,2.5,1.53,2.51,-1.5,1.95,1.95,Lazio,Salernitana,lazio,salernitana
+2021-11-26,I1,Italy-SA,2122,Cagliari,Salernitana,1.0,1.0,D,0.0,0.0,D,1.83,3.6,4.33,1.87,3.65,4.65,1.85,3.53,4.49,2.0,1.8,2.07,1.76,-0.5,1.87,2.06,Cagliari,Salernitana,cagliari,salernitana
+2021-12-04,I1,Italy-SA,2122,Milan,Salernitana,2.0,0.0,H,2.0,0.0,H,1.18,7.0,15.0,1.22,7.05,14.29,1.21,6.86,13.9,1.5,2.62,1.51,2.58,-2.0,2.02,1.77,AC Milan,Salernitana,ac_milan,salernitana
+2021-12-11,I1,Italy-SA,2122,Fiorentina,Salernitana,4.0,0.0,H,1.0,0.0,H,1.3,5.5,9.5,1.34,5.57,9.83,1.32,5.41,9.59,1.66,2.2,1.67,2.23,-1.5,1.97,1.96,Fiorentina,Salernitana,fiorentina,salernitana
+2022-01-09,I1,Italy-SA,2122,Verona,Salernitana,1.0,2.0,A,0.0,1.0,A,1.36,5.0,8.0,1.38,5.07,8.75,1.38,4.94,8.16,1.66,2.2,1.66,2.23,-1.25,1.89,2.01,Hellas Verona,Salernitana,hellas_verona,salernitana
+2022-01-23,I1,Italy-SA,2122,Napoli,Salernitana,4.0,1.0,H,2.0,1.0,H,1.14,8.0,17.0,1.16,8.33,17.61,1.15,7.99,17.82,1.44,2.75,1.4,2.95,-2.25,2.02,1.88,Napoli,Salernitana,napoli,salernitana
+2022-02-13,I1,Italy-SA,2122,Genoa,Salernitana,1.0,1.0,D,1.0,1.0,D,1.83,3.75,4.33,1.88,3.73,4.43,1.86,3.63,4.34,2.04,1.86,2.01,1.82,-0.5,1.88,2.05,Genoa,Salernitana,genoa,salernitana
+2022-03-04,I1,Italy-SA,2122,Inter,Salernitana,5.0,0.0,H,2.0,0.0,H,1.14,7.5,19.0,1.18,8.03,18.07,1.16,7.94,18.06,1.44,2.75,1.43,2.82,-2.25,2.07,1.83,Inter Milan,Salernitana,inter_milan,salernitana
+2022-03-20,I1,Italy-SA,2122,Juventus,Salernitana,2.0,0.0,H,2.0,0.0,H,1.2,7.0,13.0,1.2,7.31,16.39,1.21,6.7,14.72,1.61,2.3,1.63,2.29,-1.75,1.88,2.02,Juventus,Salernitana,juventus,salernitana
+2022-04-10,I1,Italy-SA,2122,Roma,Salernitana,2.0,1.0,H,0.0,1.0,A,1.28,5.75,11.0,1.29,5.92,12.16,1.28,5.82,11.15,1.61,2.3,1.61,2.34,-1.5,1.86,2.04,AS Roma,Salernitana,as_roma,salernitana
+2022-04-16,I1,Italy-SA,2122,Sampdoria,Salernitana,1.0,2.0,A,1.0,2.0,A,1.83,3.75,4.2,1.83,3.83,4.61,1.83,3.74,4.32,1.87,2.03,1.84,1.98,-0.5,1.84,2.06,Sampdoria,Salernitana,sampdoria,salernitana
+2022-04-20,I1,Italy-SA,2122,Udinese,Salernitana,0.0,1.0,A,0.0,0.0,D,1.5,4.5,6.0,1.49,4.49,6.34,1.51,4.4,6.33,1.72,2.1,1.72,2.13,-1.0,1.88,2.05,Udinese,Salernitana,udinese,salernitana
+2022-05-02,I1,Italy-SA,2122,Atalanta,Salernitana,1.0,1.0,D,0.0,1.0,A,1.25,6.5,9.5,1.27,6.16,12.06,1.27,6.01,11.1,1.5,2.62,1.5,2.58,-1.75,2.0,1.9,Atalanta,Salernitana,atalanta,salernitana
+2022-05-14,I1,Italy-SA,2122,Empoli,Salernitana,1.0,1.0,D,1.0,0.0,H,3.1,3.75,2.1,3.28,3.86,2.15,3.17,3.81,2.14,1.57,2.37,1.57,2.42,0.25,1.99,1.91,Empoli,Salernitana,empoli,salernitana
+2022-08-20,I1,Italy-SA,2223,Udinese,Salernitana,0.0,0.0,D,0.0,0.0,D,1.75,3.8,4.5,1.77,3.95,4.86,1.75,3.89,4.63,1.8,2.0,1.78,2.06,-0.75,2.0,1.9,Udinese,Salernitana,udinese,salernitana
+2022-09-01,I1,Italy-SA,2223,Bologna,Salernitana,1.0,1.0,D,0.0,0.0,D,1.85,3.6,4.33,1.91,3.6,4.49,1.88,3.57,4.26,1.8,2.0,1.79,2.04,-0.5,1.89,2.01,Bologna,Salernitana,bologna,salernitana
+2022-09-11,I1,Italy-SA,2223,Juventus,Salernitana,2.0,2.0,D,0.0,2.0,A,1.4,4.5,8.5,1.44,4.86,8.08,1.41,4.73,8.11,1.8,2.0,1.78,2.05,-1.25,1.95,1.95,Juventus,Salernitana,juventus,salernitana
+2022-10-02,I1,Italy-SA,2223,Sassuolo,Salernitana,5.0,0.0,H,2.0,0.0,H,2.0,3.75,3.5,2.12,3.68,3.57,2.04,3.68,3.5,1.66,2.2,1.69,2.18,-0.5,2.06,1.84,Sassuolo,Salernitana,sassuolo,salernitana
+2022-10-16,I1,Italy-SA,2223,Inter,Salernitana,2.0,0.0,H,1.0,0.0,H,1.3,5.75,9.0,1.29,5.99,10.99,1.29,5.85,10.02,1.5,2.62,1.47,2.68,-1.5,1.77,2.02,Inter Milan,Salernitana,inter_milan,salernitana
+2022-10-30,I1,Italy-SA,2223,Lazio,Salernitana,1.0,3.0,A,1.0,0.0,H,1.5,4.5,6.5,1.5,4.68,6.98,1.49,4.53,6.35,1.66,2.2,1.63,2.27,-1.0,1.75,2.05,Lazio,Salernitana,lazio,salernitana
+2022-11-09,I1,Italy-SA,2223,Fiorentina,Salernitana,2.0,1.0,H,1.0,0.0,H,1.53,4.2,6.25,1.56,4.45,6.17,1.54,4.32,6.07,1.72,2.1,1.76,2.09,-1.0,1.92,1.98,Fiorentina,Salernitana,fiorentina,salernitana
+2022-11-13,I1,Italy-SA,2223,Monza,Salernitana,3.0,0.0,H,2.0,0.0,H,2.15,3.25,3.6,2.15,3.39,3.81,2.1,3.39,3.63,1.9,2.0,1.85,1.96,-0.25,1.82,2.08,Monza,Salernitana,monza,salernitana
+2023-01-15,I1,Italy-SA,2223,Atalanta,Salernitana,8.0,2.0,H,5.0,1.0,H,1.4,5.0,7.0,1.41,5.26,8.04,1.39,5.1,7.81,1.57,2.38,1.59,2.37,-1.25,1.84,2.09,Atalanta,Salernitana,atalanta,salernitana
+2023-01-27,I1,Italy-SA,2223,Lecce,Salernitana,1.0,2.0,A,1.0,2.0,A,1.8,3.4,4.75,1.85,3.52,5.01,1.83,3.51,4.74,2.2,1.67,2.15,1.72,-0.5,1.83,2.07,Lecce,Salernitana,lecce,salernitana
+2023-02-13,I1,Italy-SA,2223,Verona,Salernitana,1.0,0.0,H,1.0,0.0,H,1.85,3.4,4.5,1.87,3.47,4.96,1.85,3.49,4.56,2.03,1.87,2.01,1.83,-0.5,1.86,2.07,Hellas Verona,Salernitana,hellas_verona,salernitana
+2023-03-05,I1,Italy-SA,2223,Sampdoria,Salernitana,0.0,0.0,D,0.0,0.0,D,2.3,3.25,3.2,2.36,3.3,3.32,2.31,3.27,3.27,2.2,1.67,2.19,1.69,-0.25,2.02,1.88,Sampdoria,Salernitana,sampdoria,salernitana
+2023-03-13,I1,Italy-SA,2223,Milan,Salernitana,1.0,1.0,D,1.0,0.0,H,1.25,6.0,11.0,1.27,6.03,11.52,1.26,5.9,11.74,1.67,2.2,1.65,2.22,-1.75,2.06,1.87,AC Milan,Salernitana,ac_milan,salernitana
+2023-04-02,I1,Italy-SA,2223,Spezia,Salernitana,1.0,1.0,D,0.0,1.0,A,2.3,3.3,3.2,2.41,3.4,3.14,2.36,3.31,3.12,2.1,1.73,2.11,1.74,-0.25,2.07,1.83,Spezia,Salernitana,spezia,salernitana
+2023-04-16,I1,Italy-SA,2223,Torino,Salernitana,1.0,1.0,D,0.0,1.0,A,1.73,3.5,5.25,1.75,3.61,5.55,1.74,3.56,5.28,2.2,1.67,2.25,1.65,-0.75,1.96,1.94,Torino,Salernitana,torino,salernitana
+2023-04-30,I1,Italy-SA,2223,Napoli,Salernitana,1.0,1.0,D,0.0,0.0,D,1.22,6.5,12.0,1.22,6.65,14.7,1.22,6.51,14.36,1.62,2.3,1.61,2.32,-1.75,1.87,2.03,Napoli,Salernitana,napoli,salernitana
+2023-05-08,I1,Italy-SA,2223,Empoli,Salernitana,2.0,1.0,H,1.0,0.0,H,2.2,3.1,3.6,2.22,3.1,3.71,2.18,3.15,3.64,2.1,1.73,2.06,1.77,-0.25,1.87,2.03,Empoli,Salernitana,empoli,salernitana
+2023-05-22,I1,Italy-SA,2223,Roma,Salernitana,2.0,2.0,D,0.0,1.0,A,1.45,4.2,7.5,1.5,4.24,7.8,1.48,4.26,7.38,2.01,1.89,1.97,1.86,-1.0,1.83,2.07,AS Roma,Salernitana,as_roma,salernitana
+2023-06-03,I1,Italy-SA,2223,Cremonese,Salernitana,2.0,0.0,H,1.0,0.0,H,2.6,3.6,2.5,2.65,3.68,2.6,2.64,3.66,2.54,1.57,2.38,1.59,2.39,0.0,2.0,1.93,Cremonese,Salernitana,cremonese,salernitana
+2023-08-20,I1,Italy-SA,2324,Roma,Salernitana,2.0,2.0,D,1.0,1.0,D,1.53,4.0,6.5,1.53,4.18,7.16,1.53,4.07,6.83,2.1,1.73,2.1,1.75,-1.0,1.93,1.97,AS Roma,Salernitana,as_roma,salernitana
+2023-09-03,I1,Italy-SA,2324,Lecce,Salernitana,2.0,0.0,H,1.0,0.0,H,2.0,3.3,4.0,2.06,3.4,4.0,2.02,3.38,3.9,2.2,1.67,2.18,1.7,-0.5,2.05,1.88,Lecce,Salernitana,lecce,salernitana
+2023-09-27,I1,Italy-SA,2324,Empoli,Salernitana,1.0,0.0,H,1.0,0.0,H,2.3,3.3,3.2,2.41,3.22,3.31,2.34,3.27,3.22,2.0,1.8,2.05,1.79,-0.25,2.05,1.85,Empoli,Salernitana,empoli,salernitana
+2023-10-08,I1,Italy-SA,2324,Monza,Salernitana,3.0,0.0,H,2.0,0.0,H,1.7,3.8,5.0,1.68,3.97,5.48,1.68,3.92,5.15,1.88,2.02,1.84,1.98,-0.75,1.87,2.03,Monza,Salernitana,monza,salernitana
+2023-10-27,I1,Italy-SA,2324,Genoa,Salernitana,1.0,0.0,H,1.0,0.0,H,1.73,3.6,5.25,1.76,3.72,5.17,1.75,3.67,5.06,2.15,1.67,2.16,1.72,-0.75,2.0,1.93,Genoa,Salernitana,genoa,salernitana
+2023-11-10,I1,Italy-SA,2324,Sassuolo,Salernitana,2.0,2.0,D,1.0,2.0,A,1.65,4.2,4.75,1.7,4.17,4.92,1.69,4.14,4.8,1.62,2.25,1.64,2.3,-0.75,1.89,2.04,Sassuolo,Salernitana,sassuolo,salernitana
+2023-12-03,I1,Italy-SA,2324,Fiorentina,Salernitana,3.0,0.0,H,2.0,0.0,H,1.45,4.75,7.0,1.45,4.79,7.14,1.45,4.72,6.96,1.67,2.15,1.67,2.24,-1.25,2.03,1.9,Fiorentina,Salernitana,fiorentina,salernitana
+2023-12-18,I1,Italy-SA,2324,Atalanta,Salernitana,4.0,1.0,H,0.0,1.0,A,1.3,5.5,10.0,1.3,5.82,9.99,1.31,5.61,9.8,1.57,2.35,1.6,2.35,-1.5,1.93,2.0,Atalanta,Salernitana,atalanta,salernitana
+2023-12-30,I1,Italy-SA,2324,Verona,Salernitana,0.0,1.0,A,0.0,0.0,D,1.91,3.4,4.2,1.96,3.47,4.22,1.94,3.5,4.14,2.08,1.73,2.06,1.78,-0.5,1.95,1.98,Hellas Verona,Salernitana,hellas_verona,salernitana
+2024-01-13,I1,Italy-SA,2324,Napoli,Salernitana,2.0,1.0,H,1.0,1.0,D,1.33,5.0,8.5,1.32,5.65,9.39,1.33,5.46,8.98,1.57,2.35,1.55,2.44,-1.5,1.99,1.91,Napoli,Salernitana,napoli,salernitana
+2024-02-04,I1,Italy-SA,2324,Torino,Salernitana,0.0,0.0,D,0.0,0.0,D,1.5,4.0,7.5,1.52,4.22,7.02,1.5,4.12,7.28,2.15,1.67,2.15,1.7,-1.0,1.92,2.01,Torino,Salernitana,torino,salernitana
+2024-02-16,I1,Italy-SA,2324,Inter,Salernitana,4.0,0.0,H,3.0,0.0,H,1.14,8.5,15.0,1.15,9.0,17.0,1.14,8.75,18.92,1.44,2.7,1.46,2.72,-2.25,1.99,1.91,Inter Milan,Salernitana,inter_milan,salernitana
+2024-03-02,I1,Italy-SA,2324,Udinese,Salernitana,1.0,1.0,D,1.0,1.0,D,1.65,3.8,5.75,1.68,3.83,5.56,1.67,3.83,5.43,2.05,1.85,1.99,1.84,-0.75,1.86,2.04,Udinese,Salernitana,udinese,salernitana
+2024-03-09,I1,Italy-SA,2324,Cagliari,Salernitana,4.0,2.0,H,2.0,0.0,H,1.83,3.6,4.33,1.85,3.66,4.52,1.86,3.66,4.3,2.02,1.88,1.97,1.86,-0.5,1.87,2.06,Cagliari,Salernitana,cagliari,salernitana
+2024-04-01,I1,Italy-SA,2324,Bologna,Salernitana,3.0,0.0,H,2.0,0.0,H,1.3,5.5,10.0,1.3,5.59,11.37,1.29,5.44,11.25,1.8,2.0,1.79,2.04,-1.5,1.93,1.97,Bologna,Salernitana,bologna,salernitana
+2024-04-12,I1,Italy-SA,2324,Lazio,Salernitana,4.0,1.0,H,3.0,1.0,H,1.33,5.0,9.5,1.35,5.28,9.85,1.36,5.07,9.26,1.8,2.0,1.78,2.06,-1.25,1.86,2.07,Lazio,Salernitana,lazio,salernitana
+2024-04-26,I1,Italy-SA,2324,Frosinone,Salernitana,3.0,0.0,H,2.0,0.0,H,1.4,4.75,7.5,1.42,5.12,7.63,1.42,4.96,7.34,1.57,2.38,1.58,2.4,-1.25,1.93,2.0,Frosinone,Salernitana,frosinone,salernitana
+2024-05-12,I1,Italy-SA,2324,Juventus,Salernitana,1.0,1.0,D,0.0,1.0,A,1.14,8.5,17.0,1.13,8.5,17.59,1.14,8.56,19.17,1.5,2.63,1.48,2.63,-2.25,2.02,1.88,Juventus,Salernitana,juventus,salernitana
+2024-05-25,I1,Italy-SA,2324,Milan,Salernitana,3.0,3.0,D,2.0,0.0,H,1.18,8.0,12.0,1.17,8.69,13.1,1.17,8.34,13.58,1.25,4.0,1.26,3.78,-2.25,1.98,1.92,AC Milan,Salernitana,ac_milan,salernitana
+2024-08-24,I2,Italy-SB,2425,Sudtirol,Salernitana,3.0,2.0,H,2.0,1.0,H,2.6,3.1,2.8,2.72,2.89,2.98,2.6,3.03,2.86,2.35,1.57,2.38,1.56,0.0,1.83,2.03,Sudtirol,Salernitana,sudtirol,salernitana
+2024-09-01,I2,Italy-SB,2425,Mantova,Salernitana,1.0,0.0,H,0.0,0.0,D,2.45,3.3,2.8,2.54,3.17,2.93,2.49,3.24,2.82,1.85,2.0,1.84,1.94,0.0,1.8,2.05,Mantova,Salernitana,mantova,salernitana
+2024-09-21,I2,Italy-SB,2425,Reggiana,Salernitana,0.0,0.0,D,0.0,0.0,D,2.35,3.1,3.2,2.39,2.96,3.42,2.34,3.04,3.25,2.2,1.65,2.2,1.65,-0.25,2.0,1.85,Reggiana,Salernitana,reggiana,salernitana
+2024-10-06,I2,Italy-SB,2425,Palermo,Salernitana,0.0,1.0,A,0.0,1.0,A,1.9,3.5,4.0,1.89,3.46,4.25,1.91,3.48,3.98,1.9,1.95,1.87,1.9,-0.5,1.93,1.93,Palermo,Salernitana,palermo,salernitana
+2024-10-26,I2,Italy-SB,2425,Cremonese,Salernitana,2.0,1.0,H,2.0,0.0,H,1.85,3.5,4.2,1.87,3.62,4.35,1.86,3.55,4.09,1.9,1.95,1.85,1.92,-0.5,1.88,1.98,Cremonese,Salernitana,cremonese,salernitana
+2024-11-03,I2,Italy-SB,2425,Cosenza,Salernitana,1.0,1.0,D,1.0,0.0,H,2.35,3.2,3.0,2.46,3.21,3.02,2.4,3.17,2.95,2.1,1.7,2.1,1.7,-0.25,2.05,1.8,Cosenza,Salernitana,cosenza,salernitana
+2024-11-23,I2,Italy-SB,2425,Sassuolo,Salernitana,4.0,0.0,H,0.0,0.0,D,1.67,3.7,5.0,1.71,3.94,4.9,1.71,3.81,4.61,1.73,2.08,1.74,2.04,-0.75,1.93,1.93,Sassuolo,Salernitana,sassuolo,salernitana
+2024-12-07,I2,Italy-SB,2425,Modena,Salernitana,1.0,1.0,D,0.0,0.0,D,2.0,3.3,3.8,2.04,3.32,4.04,1.99,3.28,3.86,2.15,1.67,2.16,1.67,-0.5,2.03,1.83,Modena,Salernitana,modena,salernitana
+2024-12-26,I2,Italy-SB,2425,Frosinone,Salernitana,2.0,0.0,H,0.0,0.0,D,2.35,3.1,3.25,2.42,3.05,3.24,2.31,3.1,3.14,2.2,1.65,2.19,1.64,-0.25,2.03,1.83,Frosinone,Salernitana,frosinone,salernitana
+2024-12-29,I2,Italy-SB,2425,Catanzaro,Salernitana,1.0,0.0,H,0.0,0.0,D,2.15,3.1,3.6,2.17,3.26,3.55,2.16,3.2,3.41,2.08,1.73,2.07,1.72,-0.25,1.88,1.98,Catanzaro,Salernitana,catanzaro,salernitana
+2025-01-26,I2,Italy-SB,2425,Pisa,Salernitana,1.0,0.0,H,0.0,0.0,D,1.73,3.6,4.75,1.74,3.64,4.93,1.73,3.59,4.74,2.05,1.75,2.02,1.76,-0.75,1.98,1.88,Pisa,Salernitana,pisa,salernitana
+2025-02-07,I2,Italy-SB,2425,Brescia,Salernitana,0.0,0.0,D,0.0,0.0,D,2.63,3.0,2.88,2.72,3.08,2.93,2.58,3.02,2.85,2.15,1.67,2.14,1.68,0.0,1.85,2.0,Brescia,Salernitana,brescia,salernitana
+2025-02-15,I2,Italy-SB,2425,Carrarese,Salernitana,3.0,2.0,H,2.0,0.0,H,2.45,2.88,3.25,2.58,2.99,3.16,2.46,2.98,3.05,2.3,1.6,2.27,1.61,-0.25,2.1,1.78,Carrarese,Salernitana,carrarese,salernitana
+2025-03-01,I2,Italy-SB,2425,Cesena,Salernitana,2.0,0.0,H,0.0,0.0,D,2.3,3.0,3.4,2.34,3.03,3.43,2.32,3.0,3.28,2.3,1.6,2.3,1.6,-0.25,1.98,1.88,Cesena,Salernitana,cesena,salernitana
+2025-03-15,I2,Italy-SB,2425,Bari,Salernitana,0.0,0.0,D,0.0,0.0,D,2.3,3.1,3.2,2.35,3.12,3.29,2.35,3.11,3.14,2.25,1.58,2.24,1.62,-0.25,2.03,1.83,Bari,Salernitana,bari,salernitana
+2025-04-05,I2,Italy-SB,2425,Juve Stabia,Salernitana,1.0,0.0,H,0.0,0.0,D,2.38,2.9,3.3,2.42,3.08,3.21,2.37,3.06,3.12,2.4,1.53,2.39,1.54,-0.25,2.03,1.83,Juve Stabia,Salernitana,juve_stabia,salernitana
+2025-05-01,I2,Italy-SB,2425,Spezia,Salernitana,2.0,0.0,H,1.0,0.0,H,1.95,3.5,3.9,1.96,2.97,4.84,1.95,3.16,4.18,2.03,1.83,2.0,1.78,-0.5,1.95,1.9,Spezia,Salernitana,spezia,salernitana
+2025-05-09,I2,Italy-SB,2425,Sampdoria,Salernitana,1.0,0.0,H,1.0,0.0,H,2.25,3.2,3.25,2.25,3.19,3.43,2.2,3.2,3.33,2.1,1.7,2.1,1.71,-0.25,1.95,1.9,Sampdoria,Salernitana,sampdoria,salernitana
+2025-05-13,I2,Italy-SB,2425,Cittadella,Salernitana,0.0,2.0,A,0.0,1.0,A,3.1,2.9,2.25,3.18,3.19,2.37,3.14,3.1,2.32,1.98,1.83,1.97,1.81,0.25,1.83,1.98,Cittadella,Salernitana,cittadella,salernitana

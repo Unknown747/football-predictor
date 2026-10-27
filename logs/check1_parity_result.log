@@ -1,0 +1,30 @@
+Feat cols total: 78
+Non-odds cols: 74
+
+==========================================================================================
+PARITY TEST — 5 SAMPLES
+==========================================================================================
+
+S1_early: 2021-08-13 Schalke 04 vs Erzgebirge Aue (Germany-BL2)
+  Match: 74/74  Diff: 0  NaN_match: 1  NaN_mismatch: 0
+  ✓ PASS
+
+S2_h2h_zero: 2024-08-02 FC Koln vs Hamburger SV (Germany-BL2)
+  Match: 74/74  Diff: 0  NaN_match: 4  NaN_mismatch: 0
+  ✓ PASS
+
+S3_h2h_rich: 2023-08-05 Partick vs Raith Rvs (Scotland-Champ)
+  Match: 74/74  Diff: 0  NaN_match: 3  NaN_mismatch: 0
+  ✓ PASS
+
+S4_min_history: 2024-08-04 Ulm vs Kaiserslautern (Germany-BL2)
+  Match: 74/74  Diff: 0  NaN_match: 37  NaN_mismatch: 0
+  ✓ PASS
+
+S5_mid_late: 2025-10-02 Rotherham United vs Bradford City (England-L1)
+  Match: 74/74  Diff: 0  NaN_match: 1  NaN_mismatch: 0
+  ✓ PASS
+
+==========================================================================================
+OVERALL: PASS ✓
+==========================================================================================

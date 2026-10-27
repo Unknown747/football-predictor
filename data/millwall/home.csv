@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E1,England-Champ,2122,Millwall,Blackburn,1.0,1.0,D,0.0,0.0,D,2.45,3.2,3.0,2.5,3.2,3.12,2.48,3.17,3.01,2.2,1.66,2.27,1.64,-0.25,2.14,1.8,Millwall,Blackburn,millwall,blackburn
+2021-08-17,E1,England-Champ,2122,Millwall,Fulham,1.0,2.0,A,0.0,2.0,A,3.8,3.1,2.15,3.97,3.1,2.2,3.73,3.08,2.18,2.3,1.61,2.34,1.59,0.25,2.07,1.86,Millwall,Fulham,millwall,fulham
+2021-08-28,E1,England-Champ,2122,Millwall,Blackpool,2.0,1.0,H,0.0,0.0,D,1.83,3.5,4.5,1.87,3.55,4.58,1.87,3.47,4.43,2.2,1.66,2.22,1.67,-0.5,1.89,2.04,Millwall,Blackpool,millwall,blackpool
+2021-09-18,E1,England-Champ,2122,Millwall,Coventry,1.0,1.0,D,1.0,1.0,D,2.55,3.1,3.0,2.59,3.12,3.11,2.54,3.09,3.0,2.3,1.61,2.31,1.62,0.0,1.82,2.11,Millwall,Coventry,millwall,coventry
+2021-09-29,E1,England-Champ,2122,Millwall,Bristol City,1.0,0.0,H,0.0,0.0,D,2.05,3.2,4.0,2.11,3.2,4.12,2.1,3.18,3.85,2.3,1.61,2.27,1.64,-0.25,1.82,2.08,Millwall,Bristol City,millwall,bristol_city
+2021-10-16,E1,England-Champ,2122,Millwall,Luton,0.0,2.0,A,0.0,1.0,A,2.37,3.2,3.25,2.42,3.3,3.22,2.37,3.22,3.12,2.1,1.72,2.15,1.7,-0.25,2.05,1.85,Millwall,Luton,millwall,luton
+2021-10-23,E1,England-Champ,2122,Millwall,Stoke,2.0,1.0,H,0.0,1.0,A,2.5,3.1,3.0,2.66,3.05,3.1,2.58,3.06,2.96,2.37,1.57,2.36,1.58,0.0,1.82,2.08,Millwall,Stoke City,millwall,stoke_city
+2021-11-02,E1,England-Champ,2122,Millwall,Reading,1.0,0.0,H,0.0,0.0,D,1.9,3.4,4.2,1.94,3.43,4.47,1.93,3.37,4.21,2.1,1.72,2.13,1.71,-0.5,1.94,1.96,Millwall,Reading,millwall,reading
+2021-11-06,E1,England-Champ,2122,Millwall,Derby,1.0,1.0,D,1.0,1.0,D,1.83,3.4,4.75,1.9,3.43,4.74,1.87,3.34,4.61,2.37,1.57,2.36,1.59,-0.5,1.89,2.01,Millwall,Derby,millwall,derby
+2021-11-24,E1,England-Champ,2122,Millwall,Bournemouth,1.0,1.0,D,0.0,1.0,A,3.6,3.3,2.15,3.51,3.39,2.23,3.43,3.34,2.17,2.2,1.66,2.18,1.68,0.25,2.02,1.88,Millwall,Bournemouth,millwall,bournemouth
+2021-12-04,E1,England-Champ,2122,Millwall,Birmingham,3.0,1.0,H,2.0,0.0,H,2.15,3.2,3.6,2.19,3.23,3.81,2.17,3.2,3.59,2.37,1.57,2.43,1.56,-0.25,1.87,2.03,Millwall,Birmingham,millwall,birmingham
+2022-01-15,E1,England-Champ,2122,Millwall,Nott'm Forest,0.0,1.0,A,0.0,0.0,D,2.37,3.2,3.2,2.4,3.22,3.32,2.34,3.2,3.18,2.3,1.61,2.33,1.6,-0.25,2.01,1.89,Millwall,Nottingham Forest,millwall,nottingham_forest
+2022-01-29,E1,England-Champ,2122,Millwall,West Brom,2.0,0.0,H,0.0,0.0,D,3.5,3.1,2.25,3.59,3.26,2.26,3.43,3.2,2.22,2.3,1.61,2.26,1.63,0.25,1.97,1.93,Millwall,West Bromwich Albion,millwall,west_bromwich_albion
+2022-02-01,E1,England-Champ,2122,Millwall,Preston,0.0,0.0,D,0.0,0.0,D,2.5,3.1,3.0,2.57,3.04,3.23,2.49,3.05,3.11,2.5,1.53,2.5,1.53,-0.25,2.14,1.77,Millwall,Preston,millwall,preston
+2022-02-12,E1,England-Champ,2122,Millwall,Cardiff,2.0,1.0,H,0.0,0.0,D,2.37,3.3,3.1,2.32,3.3,3.4,2.31,3.21,3.23,2.3,1.61,2.33,1.6,-0.25,1.98,1.92,Millwall,Cardiff City,millwall,cardiff_city
+2022-02-15,E1,England-Champ,2122,Millwall,QPR,2.0,0.0,H,0.0,0.0,D,2.5,3.1,3.1,2.53,3.22,3.11,2.47,3.13,3.09,2.2,1.66,2.26,1.64,-0.25,2.11,1.79,Millwall,Queens Park Rangers,millwall,queens_park_rangers
+2022-02-26,E1,England-Champ,2122,Millwall,Sheffield United,1.0,0.0,H,0.0,0.0,D,3.5,3.25,2.2,3.72,3.29,2.2,3.5,3.25,2.18,2.2,1.66,2.27,1.63,0.25,1.91,1.99,Millwall,Sheffield United,millwall,sheffield_united
+2022-03-12,E1,England-Champ,2122,Millwall,Middlesbrough,0.0,0.0,D,0.0,0.0,D,2.87,3.25,2.55,3.03,3.13,2.65,2.95,3.09,2.56,2.5,1.53,2.47,1.53,0.0,2.06,1.84,Millwall,Middlesbrough,millwall,middlesbrough
+2022-03-16,E1,England-Champ,2122,Millwall,Huddersfield,2.0,0.0,H,1.0,0.0,H,2.45,3.1,3.1,2.49,3.06,3.34,2.44,3.07,3.17,2.62,1.5,2.55,1.51,-0.25,2.08,1.82,Millwall,Huddersfield,millwall,huddersfield
+2022-04-05,E1,England-Champ,2122,Millwall,Swansea,0.0,1.0,A,0.0,0.0,D,2.1,3.25,3.75,2.17,3.24,3.87,2.13,3.22,3.72,2.3,1.61,2.33,1.6,-0.25,1.85,2.05,Millwall,Swansea City,millwall,swansea_city
+2022-04-09,E1,England-Champ,2122,Millwall,Barnsley,4.0,1.0,H,1.0,0.0,H,1.7,3.5,5.25,1.75,3.67,5.38,1.75,3.52,5.07,2.3,1.61,2.31,1.61,-0.75,2.01,1.89,Millwall,Barnsley,millwall,barnsley
+2022-04-18,E1,England-Champ,2122,Millwall,Hull,2.0,1.0,H,0.0,0.0,D,1.83,3.3,5.0,1.85,3.48,5.0,1.84,3.41,4.67,2.3,1.61,2.32,1.6,-0.5,1.83,2.07,Millwall,Hull City,millwall,hull_city
+2022-04-30,E1,England-Champ,2122,Millwall,Peterboro,3.0,0.0,H,0.0,0.0,D,1.45,4.5,7.0,1.48,4.63,7.12,1.48,4.43,6.76,1.85,2.0,1.82,1.99,-1.0,1.82,2.08,Millwall,Peterborough United,millwall,peterborough_united
+2022-07-30,E1,England-Champ,2223,Millwall,Stoke,2.0,0.0,H,1.0,0.0,H,2.3,3.25,3.2,2.37,3.3,3.3,2.32,3.25,3.18,2.3,1.61,2.29,1.62,-0.25,2.03,1.87,Millwall,Stoke City,millwall,stoke_city
+2022-08-13,E1,England-Champ,2223,Millwall,Coventry,3.0,2.0,H,1.0,2.0,A,2.45,3.2,3.0,2.44,3.21,3.28,2.45,3.16,3.06,2.37,1.57,2.35,1.6,-0.25,2.11,1.79,Millwall,Coventry,millwall,coventry
+2022-08-27,E1,England-Champ,2223,Millwall,Reading,0.0,1.0,A,0.0,1.0,A,1.85,3.4,4.75,1.9,3.51,4.57,1.87,3.45,4.39,2.1,1.72,2.11,1.73,-0.5,1.9,2.0,Millwall,Reading,millwall,reading
+2022-09-03,E1,England-Champ,2223,Millwall,Cardiff,2.0,0.0,H,0.0,0.0,D,2.05,3.2,4.0,2.15,3.22,3.97,2.1,3.2,3.81,2.5,1.53,2.43,1.55,-0.25,1.73,2.08,Millwall,Cardiff City,millwall,cardiff_city
+2022-09-14,E1,England-Champ,2223,Millwall,QPR,0.0,2.0,A,0.0,0.0,D,2.25,3.25,3.3,2.38,3.23,3.35,2.3,3.24,3.2,2.2,1.66,2.16,1.69,-0.25,2.01,1.89,Millwall,Queens Park Rangers,millwall,queens_park_rangers
+2022-09-17,E1,England-Champ,2223,Millwall,Blackpool,2.0,1.0,H,1.0,1.0,D,2.0,3.4,4.0,2.0,3.47,4.15,2.0,3.42,3.84,2.1,1.72,2.1,1.73,-0.5,2.01,1.89,Millwall,Blackpool,millwall,blackpool
+2022-10-08,E1,England-Champ,2223,Millwall,Middlesbrough,2.0,0.0,H,1.0,0.0,H,2.7,3.2,2.7,2.75,3.25,2.81,2.69,3.17,2.71,2.2,1.66,2.21,1.66,0.0,1.94,1.96,Millwall,Middlesbrough,millwall,middlesbrough
+2022-10-19,E1,England-Champ,2223,Millwall,Watford,3.0,0.0,H,3.0,0.0,H,2.6,3.2,2.8,2.59,3.25,2.99,2.52,3.21,2.87,2.2,1.66,2.15,1.69,0.0,1.81,2.09,Millwall,Watford,millwall,watford
+2022-10-22,E1,England-Champ,2223,Millwall,West Brom,2.0,1.0,H,1.0,1.0,D,2.75,3.1,2.75,2.78,3.23,2.79,2.7,3.19,2.7,2.2,1.66,2.16,1.69,0.0,1.94,1.96,Millwall,West Bromwich Albion,millwall,west_bromwich_albion
+2022-11-05,E1,England-Champ,2223,Millwall,Hull,0.0,0.0,D,0.0,0.0,D,1.83,3.6,4.5,1.83,3.58,4.88,1.84,3.49,4.49,2.2,1.66,2.16,1.69,-0.5,1.84,2.06,Millwall,Hull City,millwall,hull_city
+2022-12-10,E1,England-Champ,2223,Millwall,Wigan,1.0,1.0,D,1.0,1.0,D,1.91,3.4,4.33,1.91,3.5,4.57,1.88,3.4,4.36,2.2,1.67,2.23,1.65,-0.5,1.88,2.02,Millwall,Wigan Athletic,millwall,wigan_athletic
+2022-12-29,E1,England-Champ,2223,Millwall,Bristol City,0.0,0.0,D,0.0,0.0,D,1.91,3.4,4.2,1.93,3.66,4.22,1.91,3.54,4.06,2.05,1.8,2.02,1.79,-0.5,1.91,1.99,Millwall,Bristol City,millwall,bristol_city
+2023-01-01,E1,England-Champ,2223,Millwall,Rotherham,3.0,0.0,H,1.0,0.0,H,1.57,3.8,6.5,1.57,4.04,6.8,1.58,3.88,6.15,2.1,1.73,2.07,1.75,-1.0,2.04,1.86,Millwall,Rotherham United,millwall,rotherham_united
+2023-02-04,E1,England-Champ,2223,Millwall,Sunderland,1.0,1.0,D,0.0,0.0,D,2.05,3.4,3.75,2.08,3.39,3.97,2.07,3.34,3.69,2.2,1.67,2.19,1.68,-0.5,2.06,1.84,Millwall,Sunderland,millwall,sunderland
+2023-02-18,E1,England-Champ,2223,Millwall,Sheffield United,3.0,2.0,H,1.0,1.0,D,2.7,3.4,2.55,2.83,3.35,2.67,2.72,3.28,2.6,2.1,1.73,2.16,1.7,0.0,2.01,1.89,Millwall,Sheffield United,millwall,sheffield_united
+2023-02-21,E1,England-Champ,2223,Millwall,Burnley,1.0,1.0,D,0.0,0.0,D,3.3,3.2,2.38,3.4,3.22,2.36,3.24,3.11,2.36,2.5,1.53,2.45,1.55,0.25,1.88,2.02,Millwall,Burnley,millwall,burnley
+2023-03-04,E1,England-Champ,2223,Millwall,Norwich,2.0,3.0,A,1.0,1.0,D,2.6,3.1,2.88,2.59,3.21,3.02,2.52,3.19,2.89,2.2,1.67,2.16,1.69,0.0,1.81,2.09,Millwall,Norwich City,millwall,norwich_city
+2023-03-14,E1,England-Champ,2223,Millwall,Swansea,2.0,1.0,H,0.0,0.0,D,1.95,3.5,3.8,2.01,3.48,4.12,1.98,3.38,3.94,2.2,1.67,2.18,1.68,-0.5,2.0,1.9,Millwall,Swansea City,millwall,swansea_city
+2023-03-18,E1,England-Champ,2223,Millwall,Huddersfield,0.0,1.0,A,0.0,0.0,D,1.53,3.75,8.0,1.52,3.99,8.11,1.52,3.85,7.32,2.2,1.67,2.26,1.63,-1.0,2.0,1.9,Millwall,Huddersfield,millwall,huddersfield
+2023-04-07,E1,England-Champ,2223,Millwall,Luton,0.0,0.0,D,0.0,0.0,D,2.6,3.0,3.0,2.69,3.07,3.03,2.6,2.99,2.98,2.63,1.5,2.61,1.49,0.0,1.8,2.1,Millwall,Luton,millwall,luton
+2023-04-15,E1,England-Champ,2223,Millwall,Preston,2.0,0.0,H,1.0,0.0,H,1.85,3.3,4.5,1.95,3.33,4.63,1.9,3.3,4.51,2.5,1.53,2.5,1.53,-0.5,1.91,1.99,Millwall,Preston,millwall,preston
+2023-04-18,E1,England-Champ,2223,Millwall,Birmingham,0.0,1.0,A,0.0,1.0,A,1.7,3.6,5.25,1.75,3.63,5.5,1.73,3.53,5.23,2.3,1.62,2.32,1.61,-0.75,1.97,1.93,Millwall,Birmingham,millwall,birmingham
+2023-05-08,E1,England-Champ,2223,Millwall,Blackburn,3.0,4.0,A,3.0,1.0,H,1.91,3.75,3.8,1.92,3.81,3.98,1.91,3.67,3.89,1.9,1.95,1.89,1.9,-0.5,1.92,1.98,Millwall,Blackburn,millwall,blackburn
+2023-08-12,E1,England-Champ,2324,Millwall,Bristol City,0.0,1.0,A,0.0,0.0,D,1.83,3.6,4.33,1.91,3.66,4.32,1.88,3.53,4.17,2.1,1.73,2.1,1.73,-0.5,1.88,2.02,Millwall,Bristol City,millwall,bristol_city
+2023-08-26,E1,England-Champ,2324,Millwall,Stoke,1.0,0.0,H,1.0,0.0,H,2.3,3.25,3.2,2.43,3.27,3.22,2.35,3.21,3.15,2.2,1.67,2.28,1.63,-0.25,2.06,1.84,Millwall,Stoke City,millwall,stoke_city
+2023-09-17,E1,England-Champ,2324,Millwall,Leeds,0.0,3.0,A,0.0,1.0,A,3.0,3.4,2.38,3.13,3.4,2.42,3.01,3.33,2.36,2.0,1.8,2.04,1.77,0.25,1.82,2.08,Millwall,Leeds,millwall,leeds
+2023-09-20,E1,England-Champ,2324,Millwall,Rotherham,3.0,0.0,H,1.0,0.0,H,1.73,3.6,5.0,1.73,3.86,5.17,1.71,3.71,4.96,2.03,1.83,2.0,1.81,-0.75,1.92,1.98,Millwall,Rotherham United,millwall,rotherham_united
+2023-09-30,E1,England-Champ,2324,Millwall,Swansea,0.0,3.0,A,0.0,1.0,A,2.1,3.3,3.75,2.1,3.43,3.85,2.08,3.36,3.61,2.08,1.73,2.11,1.72,-0.5,2.05,1.75,Millwall,Swansea City,millwall,swansea_city
+2023-10-07,E1,England-Champ,2324,Millwall,Hull,2.0,2.0,D,1.0,2.0,A,2.3,3.4,3.1,2.32,3.48,3.23,2.29,3.36,3.12,2.03,1.83,2.03,1.78,-0.25,2.0,1.9,Millwall,Hull City,millwall,hull_city
+2023-10-24,E1,England-Champ,2324,Millwall,Blackburn,1.0,2.0,A,1.0,1.0,D,2.45,3.5,2.88,2.52,3.54,2.87,2.46,3.46,2.81,1.88,1.98,1.86,1.94,0.0,1.84,2.06,Millwall,Blackburn,millwall,blackburn
+2023-11-04,E1,England-Champ,2324,Millwall,Southampton,0.0,1.0,A,0.0,0.0,D,3.6,3.5,2.05,3.55,3.68,2.11,3.43,3.56,2.08,1.85,2.0,1.86,1.94,0.25,2.08,1.82,Millwall,Southampton,millwall,southampton
+2023-11-25,E1,England-Champ,2324,Millwall,Coventry,0.0,3.0,A,0.0,1.0,A,2.63,3.25,2.7,2.76,3.27,2.78,2.67,3.21,2.72,2.1,1.7,2.14,1.71,0.0,1.93,1.97,Millwall,Coventry,millwall,coventry
+2023-12-02,E1,England-Champ,2324,Millwall,Sunderland,1.0,1.0,D,1.0,0.0,H,3.0,3.3,2.38,3.09,3.48,2.4,3.0,3.39,2.35,1.98,1.88,1.94,1.86,0.25,1.86,2.04,Millwall,Sunderland,millwall,sunderland
+2023-12-16,E1,England-Champ,2324,Millwall,Huddersfield,1.0,1.0,D,0.0,0.0,D,1.91,3.6,4.0,1.88,3.53,4.63,1.89,3.45,4.32,2.2,1.65,2.22,1.66,-0.5,1.88,2.02,Millwall,Huddersfield,millwall,huddersfield
+2023-12-26,E1,England-Champ,2324,Millwall,QPR,2.0,0.0,H,1.0,0.0,H,2.15,3.25,3.75,2.2,3.27,3.72,2.13,3.25,3.63,2.35,1.57,2.33,1.61,-0.25,1.86,2.04,Millwall,Queens Park Rangers,millwall,queens_park_rangers
+2023-12-29,E1,England-Champ,2324,Millwall,Norwich,1.0,0.0,H,1.0,0.0,H,2.45,3.5,2.8,2.57,3.36,2.94,2.5,3.33,2.85,2.05,1.75,2.03,1.79,0.0,1.82,2.08,Millwall,Norwich City,millwall,norwich_city
+2024-01-13,E1,England-Champ,2324,Millwall,Middlesbrough,1.0,3.0,A,1.0,1.0,D,2.75,3.4,2.55,2.85,3.36,2.64,2.78,3.34,2.55,2.05,1.75,2.07,1.76,0.0,2.02,1.88,Millwall,Middlesbrough,millwall,middlesbrough
+2024-01-27,E1,England-Champ,2324,Millwall,Preston,1.0,1.0,D,1.0,1.0,D,2.2,3.1,3.6,2.27,3.14,3.73,2.2,3.16,3.55,2.4,1.53,2.41,1.56,-0.25,1.91,1.99,Millwall,Preston,millwall,preston
+2024-02-14,E1,England-Champ,2324,Millwall,Ipswich,0.0,4.0,A,0.0,3.0,A,3.5,3.5,2.05,3.67,3.48,2.13,3.54,3.41,2.09,2.05,1.75,2.07,1.76,0.25,2.06,1.84,Millwall,Ipswich,millwall,ipswich
+2024-02-17,E1,England-Champ,2324,Millwall,Sheffield Weds,0.0,2.0,A,0.0,2.0,A,2.15,3.3,3.5,2.18,3.24,3.82,2.14,3.26,3.57,2.25,1.62,2.25,1.64,-0.25,1.84,2.06,Millwall,Sheffield Wednesday,millwall,sheffield_wednesday
+2024-03-02,E1,England-Champ,2324,Millwall,Watford,1.0,0.0,H,1.0,0.0,H,2.38,3.3,3.0,2.43,3.33,3.17,2.4,3.27,3.01,2.1,1.7,2.13,1.71,-0.25,2.09,1.81,Millwall,Watford,millwall,watford
+2024-03-09,E1,England-Champ,2324,Millwall,Birmingham,1.0,0.0,H,0.0,0.0,D,2.2,3.2,3.4,2.23,3.24,3.68,2.21,3.26,3.42,2.15,1.67,2.17,1.69,-0.25,1.91,1.99,Millwall,Birmingham,millwall,birmingham
+2024-03-29,E1,England-Champ,2324,Millwall,West Brom,1.0,1.0,D,1.0,0.0,H,3.4,3.1,2.3,3.61,3.01,2.36,3.44,3.06,2.3,2.5,1.5,2.53,1.52,0.25,1.92,1.98,Millwall,West Bromwich Albion,millwall,west_bromwich_albion
+2024-04-09,E1,England-Champ,2324,Millwall,Leicester,1.0,0.0,H,0.0,0.0,D,5.0,3.75,1.67,5.56,3.76,1.69,5.15,3.73,1.69,2.0,1.85,1.97,1.84,0.75,2.01,1.89,Millwall,Leicester City,millwall,leicester_city
+2024-04-13,E1,England-Champ,2324,Millwall,Cardiff,3.0,1.0,H,2.0,1.0,H,1.83,3.3,4.75,1.88,3.39,4.8,1.86,3.35,4.6,2.5,1.53,2.42,1.56,-0.5,1.87,2.03,Millwall,Cardiff City,millwall,cardiff_city
+2024-04-27,E1,England-Champ,2324,Millwall,Plymouth,1.0,0.0,H,0.0,0.0,D,2.2,3.4,3.4,2.19,3.49,3.44,2.14,3.41,3.39,2.03,1.83,1.99,1.81,-0.25,1.86,2.01,Millwall,Plymouth Argyle,millwall,plymouth_argyle
+2024-08-10,E1,England-Champ,2425,Millwall,Watford,2.0,3.0,A,0.0,1.0,A,2.3,3.25,3.25,2.39,3.19,3.27,2.34,3.2,3.19,2.25,1.62,2.3,1.61,-0.25,2.04,1.86,Millwall,Watford,millwall,watford
+2024-08-31,E1,England-Champ,2425,Millwall,Sheffield Weds,3.0,0.0,H,0.0,0.0,D,2.38,3.3,2.9,2.44,3.35,3.02,2.42,3.32,2.95,2.08,1.73,2.11,1.72,-0.25,2.1,1.8,Millwall,Sheffield Wednesday,millwall,sheffield_wednesday
+2024-09-14,E1,England-Champ,2425,Millwall,Luton,0.0,1.0,A,0.0,1.0,A,2.63,3.3,2.63,2.65,3.31,2.68,2.64,3.33,2.67,2.0,1.8,2.05,1.77,0.0,1.95,1.95,Millwall,Luton,millwall,luton
+2024-09-28,E1,England-Champ,2425,Millwall,Preston,3.0,1.0,H,2.0,0.0,H,1.9,3.5,4.0,1.92,3.32,4.35,1.92,3.34,4.26,2.38,1.57,2.39,1.57,-0.5,1.95,1.95,Millwall,Preston,millwall,preston
+2024-10-19,E1,England-Champ,2425,Millwall,Derby,1.0,1.0,D,0.0,0.0,D,1.95,3.2,4.1,2.05,3.36,3.76,2.03,3.32,3.84,2.3,1.62,2.28,1.62,-0.5,2.06,1.84,Millwall,Derby,millwall,derby
+2024-10-23,E1,England-Champ,2425,Millwall,Plymouth,1.0,0.0,H,1.0,0.0,H,1.57,4.1,5.25,1.6,4.12,5.39,1.62,4.04,5.28,1.8,2.0,1.8,2.0,-1.0,2.08,1.82,Millwall,Plymouth Argyle,millwall,plymouth_argyle
+2024-11-03,E1,England-Champ,2425,Millwall,Burnley,1.0,0.0,H,0.0,0.0,D,2.75,3.1,2.7,2.78,3.01,2.8,2.77,2.99,2.76,2.75,1.44,2.67,1.46,0.0,1.95,1.95,Millwall,Burnley,millwall,burnley
+2024-11-06,E1,England-Champ,2425,Millwall,Leeds,1.0,0.0,H,1.0,0.0,H,4.1,3.4,1.9,4.33,3.34,1.92,4.16,3.36,1.94,2.3,1.62,2.32,1.61,0.5,1.95,1.95,Millwall,Leeds,millwall,leeds
+2024-11-23,E1,England-Champ,2425,Millwall,Sunderland,1.0,1.0,D,0.0,1.0,A,2.3,3.25,3.2,2.34,3.17,3.27,2.34,3.16,3.21,2.38,1.57,2.4,1.57,-0.25,2.02,1.88,Millwall,Sunderland,millwall,sunderland
+2024-12-07,E1,England-Champ,2425,Millwall,Coventry,0.0,1.0,A,0.0,0.0,D,2.5,3.1,2.9,2.6,3.01,3.01,2.56,3.06,2.98,2.38,1.57,2.38,1.58,0.0,1.8,2.1,Millwall,Coventry,millwall,coventry
+2024-12-11,E1,England-Champ,2425,Millwall,Sheffield United,0.0,1.0,A,0.0,1.0,A,2.8,3.2,2.55,2.92,2.96,2.71,2.84,3.05,2.63,2.5,1.53,2.5,1.51,0.0,2.03,1.87,Millwall,Sheffield United,millwall,sheffield_united
+2024-12-21,E1,England-Champ,2425,Millwall,Blackburn,1.0,0.0,H,0.0,0.0,D,2.3,3.25,3.2,2.34,3.22,3.21,2.3,3.2,3.21,2.38,1.57,2.35,1.57,-0.25,2.02,1.88,Millwall,Blackburn,millwall,blackburn
+2025-01-01,E1,England-Champ,2425,Millwall,Oxford,0.0,1.0,A,0.0,0.0,D,1.67,3.75,5.0,1.69,3.69,5.24,1.68,3.62,5.13,2.3,1.62,2.26,1.61,-0.75,1.95,1.95,Millwall,Oxford United,millwall,oxford_united
+2025-01-18,E1,England-Champ,2425,Millwall,Hull,0.0,1.0,A,0.0,0.0,D,2.05,3.2,3.75,2.12,3.17,3.94,2.09,3.17,3.81,2.5,1.53,2.47,1.52,-0.25,1.81,2.09,Millwall,Hull City,millwall,hull_city
+2025-01-21,E1,England-Champ,2425,Millwall,Cardiff,2.0,2.0,D,2.0,1.0,H,2.15,2.9,3.9,2.23,2.98,3.99,2.2,2.95,3.8,3.0,1.4,2.83,1.42,-0.25,1.88,2.02,Millwall,Cardiff City,millwall,cardiff_city
+2025-02-01,E1,England-Champ,2425,Millwall,QPR,2.0,1.0,H,2.0,1.0,H,2.2,3.1,3.5,2.29,3.05,3.5,2.25,3.01,3.51,2.75,1.44,2.63,1.46,-0.25,1.95,1.95,Millwall,Queens Park Rangers,millwall,queens_park_rangers
+2025-02-15,E1,England-Champ,2425,Millwall,West Brom,1.0,1.0,D,1.0,1.0,D,2.63,3.2,2.75,2.73,2.98,2.88,2.7,3.05,2.8,2.5,1.53,2.46,1.54,0.0,1.9,2.0,Millwall,West Bromwich Albion,millwall,west_bromwich_albion
+2025-03-04,E1,England-Champ,2425,Millwall,Bristol City,0.0,2.0,A,0.0,0.0,D,2.75,3.0,2.75,2.92,2.92,2.88,2.81,2.93,2.81,2.75,1.44,2.85,1.43,0.0,1.97,1.4,Millwall,Bristol City,millwall,bristol_city
+2025-03-15,E1,England-Champ,2425,Millwall,Stoke,1.0,0.0,H,0.0,0.0,D,2.15,3.1,3.6,2.18,3.13,3.67,2.16,3.12,3.66,2.63,1.5,2.55,1.5,-0.25,1.87,2.03,Millwall,Stoke City,millwall,stoke_city
+2025-04-05,E1,England-Champ,2425,Millwall,Portsmouth,2.0,1.0,H,0.0,0.0,D,2.35,3.0,3.3,2.39,3.0,3.35,2.33,3.03,3.31,2.63,1.5,2.6,1.47,-0.25,2.05,1.85,Millwall,Portsmouth,millwall,portsmouth
+2025-04-12,E1,England-Champ,2425,Millwall,Middlesbrough,1.0,0.0,H,0.0,0.0,D,2.88,3.25,2.45,2.83,3.37,2.51,2.84,3.29,2.46,2.1,1.73,2.11,1.71,0.0,2.08,1.82,Millwall,Middlesbrough,millwall,middlesbrough
+2025-04-21,E1,England-Champ,2425,Millwall,Norwich,3.0,1.0,H,2.0,1.0,H,2.2,3.4,3.2,2.2,3.27,3.46,2.21,3.25,3.31,2.2,1.67,2.17,1.67,-0.25,1.92,1.98,Millwall,Norwich City,millwall,norwich_city
+2025-04-26,E1,England-Champ,2425,Millwall,Swansea,1.0,0.0,H,1.0,0.0,H,2.25,3.2,3.3,2.27,3.14,3.43,2.25,3.16,3.33,2.38,1.57,2.34,1.57,-0.25,1.98,1.92,Millwall,Swansea City,millwall,swansea_city
+2025-08-16,E1,England-Champ,2526,Millwall,Middlesbrough,0.0,3.0,A,0.0,0.0,D,2.15,3.25,3.4,2.21,3.2,3.5,2.18,3.19,3.44,2.3,1.62,2.23,1.61,-0.25,1.88,1.98,Millwall,Middlesbrough,millwall,middlesbrough
+2025-08-30,E1,England-Champ,2526,Millwall,Wrexham,0.0,2.0,A,0.0,0.0,D,1.96,3.4,3.75,2.06,3.35,3.75,2.0,3.4,3.72,2.1,1.73,2.04,1.73,-0.5,2.03,1.83,Millwall,Wrexham,millwall,wrexham
+2025-09-22,E1,England-Champ,2526,Millwall,Watford,1.0,0.0,H,1.0,0.0,H,2.01,3.2,3.8,2.1,3.25,3.75,2.07,3.23,3.65,2.3,1.62,2.23,1.61,-0.5,2.08,1.73,Millwall,Watford,millwall,watford
+2025-10-01,E1,England-Champ,2526,Millwall,Coventry,0.0,4.0,A,0.0,1.0,A,3.0,3.3,2.3,2.92,3.37,2.44,2.89,3.39,2.39,1.93,1.93,1.88,1.86,0.25,1.8,2.05,Millwall,Coventry,millwall,coventry
+2025-10-04,E1,England-Champ,2526,Millwall,West Brom,3.0,0.0,H,1.0,0.0,H,2.75,3.2,2.5,2.9,3.05,2.66,2.79,3.11,2.62,2.38,1.57,2.3,1.57,0.0,2.03,1.83,Millwall,West Bromwich Albion,millwall,west_bromwich_albion
+2025-10-21,E1,England-Champ,2526,Millwall,Stoke,2.0,0.0,H,2.0,0.0,H,2.3,3.2,2.95,2.31,3.27,3.33,2.34,3.19,3.13,2.3,1.62,2.25,1.61,-0.25,2.05,1.8,Millwall,Stoke City,millwall,stoke_city
+2025-10-25,E1,England-Champ,2526,Millwall,Leicester,1.0,0.0,H,1.0,0.0,H,2.55,3.2,2.65,2.75,3.32,2.6,2.66,3.26,2.64,2.1,1.73,2.12,1.67,0.0,1.88,1.98,Millwall,Leicester City,millwall,leicester_city
+2025-11-08,E1,England-Champ,2526,Millwall,Preston,1.0,1.0,D,1.0,1.0,D,2.15,3.25,3.25,,,,2.18,3.2,3.46,2.3,1.62,2.27,1.59,-0.25,1.9,1.95,Millwall,Preston,millwall,preston
+2025-11-26,E1,England-Champ,2526,Millwall,Sheffield Weds,1.0,0.0,H,0.0,0.0,D,1.62,3.7,5.25,1.67,3.84,5.11,1.67,3.68,5.17,2.05,1.8,1.96,1.78,-0.75,1.88,1.98,Millwall,Sheffield Wednesday,millwall,sheffield_wednesday
+2025-11-29,E1,England-Champ,2526,Millwall,Southampton,3.0,2.0,H,0.0,0.0,D,3.05,3.6,2.2,3.24,3.36,2.25,3.18,3.39,2.22,1.98,1.88,1.94,1.82,0.25,1.88,1.98,Millwall,Southampton,millwall,southampton
+2025-12-13,E1,England-Champ,2526,Millwall,Hull,1.0,3.0,A,0.0,2.0,A,1.91,3.5,3.7,1.95,3.71,3.7,1.96,3.5,3.71,1.91,1.91,1.89,1.84,-0.5,1.98,1.88,Millwall,Hull City,millwall,hull_city
+2025-12-26,E1,England-Champ,2526,Millwall,Ipswich,0.0,0.0,D,0.0,0.0,D,3.6,3.4,2.01,3.74,3.37,2.05,3.72,3.32,2.02,2.1,1.73,2.13,1.67,0.5,1.8,2.05,Millwall,Ipswich,millwall,ipswich
+2025-12-29,E1,England-Champ,2526,Millwall,Bristol City,2.0,1.0,H,1.0,0.0,H,2.32,3.25,2.95,2.36,3.37,3.05,2.35,3.3,2.97,2.0,1.8,2.01,1.75,-0.25,2.05,1.8,Millwall,Bristol City,millwall,bristol_city
+2026-01-04,E1,England-Champ,2526,Millwall,Swansea,2.0,1.0,H,1.0,0.0,H,2.05,3.25,3.6,2.16,3.25,3.57,2.16,3.2,3.42,2.2,1.67,2.21,1.62,-0.25,1.83,2.03,Millwall,Swansea City,millwall,swansea_city
+2026-01-24,E1,England-Champ,2526,Millwall,Charlton,4.0,0.0,H,1.0,0.0,H,1.71,3.5,4.75,,,,1.78,3.39,4.73,2.2,1.67,2.23,1.6,-0.5,1.78,2.03,Millwall,Charlton,millwall,charlton
+2026-01-31,E1,England-Champ,2526,Millwall,Sheffield United,1.0,1.0,D,1.0,1.0,D,2.45,3.25,2.75,,,,2.5,3.3,2.77,1.98,1.88,1.92,1.83,0.0,1.83,2.03,Millwall,Sheffield United,millwall,sheffield_united
+2026-02-21,E1,England-Champ,2526,Millwall,Portsmouth,1.0,3.0,A,0.0,0.0,D,1.81,3.5,4.2,,,,1.86,3.5,4.15,2.1,1.73,2.03,1.72,-0.5,1.88,1.98,Millwall,Portsmouth,millwall,portsmouth
+2026-02-25,E1,England-Champ,2526,Millwall,Birmingham,3.0,0.0,H,2.0,0.0,H,2.4,3.3,2.82,,,,2.45,3.25,2.85,2.1,1.73,2.01,1.75,0.0,1.78,2.1,Millwall,Birmingham,millwall,birmingham
+2026-03-10,E1,England-Champ,2526,Millwall,Derby,1.0,0.0,H,1.0,0.0,H,2.05,3.4,3.5,,,,2.04,3.31,3.63,2.05,1.8,2.03,1.75,-0.5,2.05,1.75,Millwall,Derby,millwall,derby
+2026-03-14,E1,England-Champ,2526,Millwall,Blackburn,1.0,2.0,A,0.0,0.0,D,1.66,3.5,5.25,,,,1.71,3.56,4.94,2.2,1.67,2.09,1.68,-0.75,1.98,1.88,Millwall,Blackburn,millwall,blackburn
+2026-04-06,E1,England-Champ,2526,Millwall,Norwich,1.0,2.0,A,0.0,0.0,D,2.15,3.3,3.25,,,,2.16,3.39,3.18,1.88,1.98,1.82,1.92,-0.25,1.93,1.93,Millwall,Norwich City,millwall,norwich_city
+2026-04-18,E1,England-Champ,2526,Millwall,QPR,2.0,0.0,H,2.0,0.0,H,1.62,3.75,4.75,,,,1.69,3.8,4.75,1.85,2.0,1.78,1.96,-0.75,1.93,1.93,Millwall,Queens Park Rangers,millwall,queens_park_rangers
+2026-05-02,E1,England-Champ,2526,Millwall,Oxford,2.0,0.0,H,1.0,0.0,H,1.3,5.25,7.5,,,,1.34,5.01,8.18,1.62,2.3,1.61,2.22,-1.5,2.0,1.85,Millwall,Oxford United,millwall,oxford_united
+2026-08-22,E1,England-Champ,2627,Millwall,Norwich,3.0,0.0,H,1.0,0.0,H,2.15,3.4,3.1,,,,2.2,3.4,3.17,2.0,1.85,1.9,1.83,-0.25,1.93,1.93,Millwall,Norwich City,millwall,norwich_city
+2026-09-02,E1,England-Champ,2627,Millwall,Wrexham,0.0,3.0,A,0.0,1.0,A,2.2,3.25,3.25,,,,2.24,3.35,3.15,1.91,1.91,1.9,1.83,-0.25,1.93,1.93,Millwall,Wrexham,millwall,wrexham
+2026-09-05,E1,England-Champ,2627,Millwall,Bolton,4.0,0.0,H,1.0,0.0,H,1.86,3.4,4.0,,,,1.89,3.38,4.19,2.0,1.8,2.0,1.75,-0.5,1.93,1.93,Millwall,Bolton,millwall,bolton
+2026-09-19,E1,England-Champ,2627,Millwall,West Ham,2.0,2.0,D,2.0,0.0,H,4.1,3.9,1.76,,,,4.02,3.88,1.79,1.62,2.3,1.57,2.31,0.75,1.83,2.03,Millwall,West Ham United,millwall,west_ham_united
+2026-10-13,E1,England-Champ,2627,Millwall,Swansea,0.0,1.0,A,0.0,0.0,D,2.32,3.5,2.75,,,,2.4,3.41,2.83,1.88,1.98,1.84,1.9,-0.25,2.05,1.8,Millwall,Swansea City,millwall,swansea_city
+2026-10-17,E1,England-Champ,2627,Millwall,Lincoln,2.0,2.0,D,0.0,2.0,A,1.61,3.8,5.0,,,,1.65,3.87,4.85,1.8,2.0,1.78,1.96,-0.75,1.83,2.03,Millwall,Lincoln City,millwall,lincoln_city

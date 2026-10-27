@@ -1,0 +1,116 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E2,England-L1,2122,Burton,Ipswich,2.0,1.0,H,1.0,1.0,D,2.87,3.25,2.5,2.94,3.28,2.54,2.9,3.21,2.48,2.15,1.66,2.16,1.68,0.0,2.05,1.75,Burton Albion,Ipswich,burton_albion,ipswich
+2021-08-17,E2,England-L1,2122,Cheltenham,Ipswich,2.0,1.0,H,0.0,1.0,A,2.87,3.1,2.62,2.94,3.14,2.67,2.86,3.09,2.56,2.35,1.57,2.34,1.58,0.0,2.05,1.88,Cheltenham Town,Ipswich,cheltenham_town,ipswich
+2021-09-18,E2,England-L1,2122,Lincoln,Ipswich,0.0,1.0,A,0.0,1.0,A,2.3,3.1,3.4,2.29,3.14,3.45,2.26,3.18,3.28,1.9,1.9,1.93,1.86,-0.25,1.98,1.95,Lincoln City,Ipswich,lincoln_city,ipswich
+2021-10-02,E2,England-L1,2122,Accrington,Ipswich,2.0,1.0,H,0.0,1.0,A,3.1,3.25,2.37,2.94,3.47,2.41,2.89,3.37,2.39,1.9,1.9,1.89,1.9,0.25,1.8,2.05,Accrington Stanley,Ipswich,accrington_stanley,ipswich
+2021-10-16,E2,England-L1,2122,Cambridge,Ipswich,2.0,2.0,D,1.0,2.0,A,3.5,3.5,2.05,3.65,3.38,2.11,3.43,3.37,2.1,2.0,1.8,1.95,1.84,0.25,2.02,1.83,Cambridge United,Ipswich,cambridge_united,ipswich
+2021-10-19,E2,England-L1,2122,Portsmouth,Ipswich,0.0,4.0,A,0.0,1.0,A,2.5,3.25,2.9,2.52,3.18,3.1,2.45,3.1,3.0,2.25,1.61,2.25,1.63,-0.25,2.13,1.75,Portsmouth,Ipswich,portsmouth,ipswich
+2021-10-30,E2,England-L1,2122,Plymouth,Ipswich,2.0,1.0,H,1.0,1.0,D,2.4,3.3,3.0,2.55,3.26,2.9,2.46,3.24,2.84,2.0,1.8,1.99,1.79,0.0,1.73,2.08,Plymouth Argyle,Ipswich,plymouth_argyle,ipswich
+2021-11-02,E2,England-L1,2122,Wycombe,Ipswich,1.0,4.0,A,1.0,1.0,D,2.3,3.4,3.1,2.42,3.21,3.25,2.35,3.18,3.09,2.07,1.72,2.06,1.74,-0.25,2.02,1.83,Wycombe Wanderers,Ipswich,wycombe_wanderers,ipswich
+2021-11-20,E2,England-L1,2122,Sunderland,Ipswich,2.0,0.0,H,0.0,0.0,D,2.37,3.3,3.1,2.3,3.45,3.13,2.29,3.34,3.06,2.02,1.83,2.01,1.79,-0.25,1.98,1.88,Sunderland,Ipswich,sunderland,ipswich
+2021-12-07,E2,England-L1,2122,Charlton,Ipswich,2.0,0.0,H,1.0,0.0,H,2.5,3.4,2.75,2.43,3.43,3.04,2.45,3.35,2.81,1.85,2.0,1.84,1.95,0.0,1.77,2.1,Charlton,Ipswich,charlton,ipswich
+2021-12-11,E2,England-L1,2122,Wigan,Ipswich,1.0,1.0,D,1.0,0.0,H,2.2,3.5,3.25,2.15,3.31,3.6,2.16,3.32,3.36,2.02,1.83,2.01,1.78,-0.25,1.88,1.98,Wigan Athletic,Ipswich,wigan_athletic,ipswich
+2022-01-08,E2,England-L1,2122,Gillingham,Ipswich,0.0,4.0,A,0.0,3.0,A,4.0,3.6,1.9,4.17,3.54,1.91,3.98,3.46,1.91,2.0,1.85,1.95,1.84,0.5,1.95,1.9,Gillingham,Ipswich,gillingham,ipswich
+2022-01-15,E2,England-L1,2122,Bolton,Ipswich,2.0,0.0,H,0.0,0.0,D,3.2,3.4,2.25,3.16,3.56,2.23,3.1,3.39,2.24,2.02,1.83,1.99,1.8,0.25,1.88,1.98,Bolton,Ipswich,bolton,ipswich
+2022-01-25,E2,England-L1,2122,AFC Wimbledon,Ipswich,0.0,2.0,A,0.0,0.0,D,3.75,3.3,2.1,3.72,3.35,2.14,3.56,3.26,2.1,2.2,1.65,2.18,1.66,0.25,2.1,1.77,AFC Wimbledon,Ipswich,afc_wimbledon,ipswich
+2022-01-29,E2,England-L1,2122,Sheffield Weds,Ipswich,1.0,0.0,H,1.0,0.0,H,2.1,3.4,3.6,2.18,3.34,3.49,2.13,3.32,3.38,2.1,1.77,2.04,1.76,-0.25,1.85,2.0,Sheffield Wednesday,Ipswich,sheffield_wednesday,ipswich
+2022-02-08,E2,England-L1,2122,Doncaster,Ipswich,0.0,1.0,A,0.0,1.0,A,4.75,3.75,1.72,5.11,3.66,1.76,4.71,3.66,1.73,2.0,1.85,1.96,1.83,0.75,1.93,1.93,Doncaster Rovers,Ipswich,doncaster_rovers,ipswich
+2022-02-12,E2,England-L1,2122,Milton Keynes Dons,Ipswich,0.0,0.0,D,0.0,0.0,D,2.2,3.25,3.3,2.35,3.33,3.14,2.27,3.32,3.11,2.07,1.72,1.99,1.79,-0.25,1.95,1.9,MK Dons,Ipswich,mk_dons,ipswich
+2022-02-26,E2,England-L1,2122,Morecambe,Ipswich,1.0,1.0,D,0.0,0.0,D,4.0,3.5,1.9,4.07,3.61,1.91,3.84,3.49,1.94,2.02,1.83,1.99,1.8,0.5,1.9,1.95,Morecambe,Ipswich,morecambe,ipswich
+2022-03-05,E2,England-L1,2122,Fleetwood Town,Ipswich,0.0,2.0,A,0.0,0.0,D,4.2,3.4,1.95,4.0,3.45,1.97,3.81,3.42,1.97,2.1,1.7,2.09,1.72,0.5,1.9,1.95,Fleetwood Town,Ipswich,fleetwood_town,ipswich
+2022-03-19,E2,England-L1,2122,Oxford,Ipswich,1.0,1.0,D,0.0,0.0,D,2.7,3.4,2.62,2.71,3.19,2.77,2.62,3.25,2.68,1.95,1.9,1.91,1.86,0.0,1.9,1.95,Oxford United,Ipswich,oxford_united,ipswich
+2022-04-09,E2,England-L1,2122,Shrewsbury,Ipswich,1.0,1.0,D,0.0,1.0,A,3.25,3.3,2.25,3.31,3.2,2.33,3.22,3.13,2.3,2.5,1.5,2.5,1.51,0.25,1.9,1.95,Shrewsbury Town,Ipswich,shrewsbury_town,ipswich
+2022-04-16,E2,England-L1,2122,Rotherham,Ipswich,1.0,0.0,H,0.0,0.0,D,2.3,3.3,3.25,2.28,3.37,3.23,2.24,3.29,3.19,2.25,1.61,2.24,1.63,-0.25,2.0,1.85,Rotherham United,Ipswich,rotherham_united,ipswich
+2022-04-23,E2,England-L1,2122,Crewe,Ipswich,1.0,1.0,D,0.0,1.0,A,6.5,4.1,1.53,6.32,3.94,1.57,6.12,3.93,1.55,2.05,1.75,2.05,1.74,1.0,1.85,2.0,Crewe Alexandra,Ipswich,crewe_alexandra,ipswich
+2022-08-06,E2,England-L1,2223,Forest Green,Ipswich,1.0,2.0,A,0.0,2.0,A,3.8,3.4,2.0,3.66,3.4,2.15,3.55,3.36,2.07,2.1,1.77,2.05,1.74,0.25,2.05,1.75,Forest Green Rovers,Ipswich,forest_green_rovers,ipswich
+2022-08-16,E2,England-L1,2223,Burton,Ipswich,0.0,1.0,A,0.0,0.0,D,5.25,3.8,1.66,5.3,3.97,1.68,5.07,3.83,1.66,2.0,1.85,1.98,1.8,0.75,2.02,1.83,Burton Albion,Ipswich,burton_albion,ipswich
+2022-08-20,E2,England-L1,2223,Shrewsbury,Ipswich,0.0,3.0,A,0.0,1.0,A,3.6,3.3,2.1,4.04,3.36,2.04,3.72,3.25,2.06,2.25,1.61,2.28,1.6,0.5,1.77,2.1,Shrewsbury Town,Ipswich,shrewsbury_town,ipswich
+2022-09-03,E2,England-L1,2223,Accrington,Ipswich,0.0,2.0,A,0.0,0.0,D,4.2,3.6,1.85,4.45,3.74,1.84,4.12,3.6,1.84,2.0,1.85,1.97,1.81,0.5,2.02,1.83,Accrington Stanley,Ipswich,accrington_stanley,ipswich
+2022-09-17,E2,England-L1,2223,Sheffield Weds,Ipswich,2.0,2.0,D,0.0,1.0,A,2.62,3.25,2.75,2.9,3.2,2.66,2.74,3.18,2.62,2.1,1.7,2.1,1.7,0.0,1.98,1.88,Sheffield Wednesday,Ipswich,sheffield_wednesday,ipswich
+2022-09-25,E2,England-L1,2223,Plymouth,Ipswich,2.0,1.0,H,0.0,1.0,A,3.25,3.3,2.25,3.35,3.42,2.2,3.24,3.35,2.18,2.05,1.8,1.98,1.79,0.25,1.88,1.98,Plymouth Argyle,Ipswich,plymouth_argyle,ipswich
+2022-10-08,E2,England-L1,2223,Morecambe,Ipswich,1.0,2.0,A,1.0,0.0,H,8.5,4.33,1.4,8.53,4.72,1.41,7.86,4.51,1.4,1.9,1.95,1.85,1.92,1.25,1.9,1.95,Morecambe,Ipswich,morecambe,ipswich
+2022-10-25,E2,England-L1,2223,Port Vale,Ipswich,2.0,3.0,A,1.0,2.0,A,4.33,3.3,1.9,4.46,3.47,1.91,4.25,3.38,1.89,2.15,1.66,2.15,1.68,0.5,1.95,1.9,Port Vale,Ipswich,port_vale,ipswich
+2022-10-29,E2,England-L1,2223,Charlton,Ipswich,4.0,4.0,D,0.0,1.0,A,3.8,3.5,1.95,4.23,3.52,1.94,3.78,3.45,1.95,2.0,1.85,1.93,1.84,0.5,1.9,1.95,Charlton,Ipswich,charlton,ipswich
+2022-11-19,E2,England-L1,2223,Exeter,Ipswich,0.0,2.0,A,0.0,1.0,A,5.0,3.6,1.72,4.62,3.81,1.79,4.36,3.74,1.76,1.75,2.05,1.78,2.0,0.75,1.88,1.98,Exeter City,Ipswich,exeter_city,ipswich
+2022-12-17,E2,England-L1,2223,Wycombe,Ipswich,1.0,0.0,H,1.0,0.0,H,4.2,3.6,1.85,4.35,3.72,1.86,4.02,3.56,1.87,1.95,1.9,1.91,1.86,0.5,1.98,1.88,Wycombe Wanderers,Ipswich,wycombe_wanderers,ipswich
+2022-12-29,E2,England-L1,2223,Portsmouth,Ipswich,2.0,2.0,D,1.0,1.0,D,4.0,3.4,1.95,4.07,3.53,1.98,3.79,3.4,1.98,2.05,1.75,2.03,1.76,0.5,1.88,1.98,Portsmouth,Ipswich,portsmouth,ipswich
+2023-01-02,E2,England-L1,2223,Lincoln,Ipswich,1.0,1.0,D,0.0,0.0,D,5.0,4.33,1.62,6.01,3.84,1.61,5.42,3.93,1.59,1.8,2.0,1.87,1.88,1.0,1.77,2.02,Lincoln City,Ipswich,lincoln_city,ipswich
+2023-01-21,E2,England-L1,2223,Oxford,Ipswich,2.0,1.0,H,1.0,1.0,D,3.8,3.5,1.95,3.98,3.59,1.98,3.68,3.48,1.97,1.93,1.93,1.9,1.87,0.5,1.85,2.0,Oxford United,Ipswich,oxford_united,ipswich
+2023-02-04,E2,England-L1,2223,Cambridge,Ipswich,1.0,1.0,D,1.0,0.0,H,7.5,4.75,1.4,7.48,4.66,1.45,6.95,4.48,1.43,1.85,2.0,1.79,1.99,1.25,1.8,2.05,Cambridge United,Ipswich,cambridge_united,ipswich
+2023-02-14,E2,England-L1,2223,Bristol Rvs,Ipswich,0.0,0.0,D,0.0,0.0,D,5.5,4.0,1.62,5.51,4.05,1.64,5.15,3.93,1.62,1.8,2.0,1.81,1.96,0.75,2.05,1.8,Bristol Rvs,Ipswich,bristol_rvs,ipswich
+2023-02-25,E2,England-L1,2223,Milton Keynes Dons,Ipswich,0.0,1.0,A,0.0,1.0,A,6.0,4.0,1.6,6.93,3.91,1.57,6.05,3.86,1.57,2.1,1.77,2.05,1.75,1.0,1.83,2.02,MK Dons,Ipswich,mk_dons,ipswich
+2023-03-11,E2,England-L1,2223,Bolton,Ipswich,0.0,2.0,A,0.0,1.0,A,3.6,3.4,2.1,3.72,3.51,2.08,3.55,3.4,2.04,2.05,1.8,2.01,1.77,0.5,1.75,2.05,Bolton,Ipswich,bolton,ipswich
+2023-04-01,E2,England-L1,2223,Derby,Ipswich,0.0,2.0,A,0.0,1.0,A,3.5,3.25,2.2,3.45,3.41,2.22,3.36,3.33,2.15,2.08,1.73,2.07,1.73,0.25,2.0,1.85,Derby,Ipswich,derby,ipswich
+2023-04-10,E2,England-L1,2223,Cheltenham,Ipswich,1.0,1.0,D,0.0,0.0,D,7.5,3.8,1.53,6.62,4.28,1.53,6.34,4.2,1.5,1.9,1.95,1.85,1.92,1.0,2.0,1.85,Cheltenham Town,Ipswich,cheltenham_town,ipswich
+2023-04-22,E2,England-L1,2223,Peterboro,Ipswich,0.0,3.0,A,0.0,1.0,A,4.0,3.6,1.91,4.03,3.55,1.98,3.86,3.5,1.94,2.0,1.85,1.98,1.8,0.5,1.93,1.93,Peterborough United,Ipswich,peterborough_united,ipswich
+2023-04-25,E2,England-L1,2223,Barnsley,Ipswich,0.0,3.0,A,0.0,2.0,A,3.8,3.5,2.0,3.84,3.47,2.06,3.68,3.41,2.02,2.02,1.82,2.01,1.78,0.5,1.8,2.05,Barnsley,Ipswich,barnsley,ipswich
+2023-05-07,E2,England-L1,2223,Fleetwood Town,Ipswich,2.0,2.0,D,0.0,0.0,D,7.0,5.0,1.4,6.85,4.75,1.41,6.94,4.75,1.41,1.67,2.15,1.62,2.25,1.25,1.98,1.88,Fleetwood Town,Ipswich,fleetwood_town,ipswich
+2023-08-06,E1,England-Champ,2324,Sunderland,Ipswich,1.0,2.0,A,0.0,1.0,A,2.38,3.3,3.0,2.53,3.36,2.99,2.45,3.34,2.88,1.95,1.9,1.93,1.86,-0.25,2.08,1.82,Sunderland,Ipswich,sunderland,ipswich
+2023-08-19,E1,England-Champ,2324,QPR,Ipswich,0.0,1.0,A,0.0,0.0,D,4.0,3.6,1.91,4.51,3.63,1.88,4.13,3.53,1.89,2.03,1.83,2.02,1.79,0.5,2.0,1.9,Queens Park Rangers,Ipswich,queens_park_rangers,ipswich
+2023-09-16,E1,England-Champ,2324,Sheffield Weds,Ipswich,0.0,1.0,A,0.0,1.0,A,3.8,3.5,2.0,3.89,3.53,2.05,3.73,3.53,1.99,1.88,1.98,1.86,1.94,0.5,1.88,2.02,Sheffield Wednesday,Ipswich,sheffield_wednesday,ipswich
+2023-09-19,E1,England-Champ,2324,Southampton,Ipswich,0.0,1.0,A,0.0,1.0,A,2.25,3.4,3.1,2.32,3.74,3.05,2.28,3.62,2.96,1.67,2.2,1.64,2.27,-0.25,2.01,1.89,Southampton,Ipswich,southampton,ipswich
+2023-09-30,E1,England-Champ,2324,Huddersfield,Ipswich,1.0,1.0,D,0.0,0.0,D,4.0,3.6,1.91,3.88,3.89,1.94,3.72,3.77,1.92,1.7,2.1,1.69,2.15,0.5,1.97,1.93,Huddersfield,Ipswich,huddersfield,ipswich
+2023-10-25,E1,England-Champ,2324,Bristol City,Ipswich,0.0,1.0,A,0.0,1.0,A,3.5,3.5,2.1,3.55,3.73,2.09,3.44,3.61,2.06,1.73,2.08,1.73,2.11,0.25,2.05,1.75,Bristol City,Ipswich,bristol_city,ipswich
+2023-11-04,E1,England-Champ,2324,Birmingham,Ipswich,2.0,2.0,D,1.0,0.0,H,3.8,3.75,1.91,4.09,3.86,1.9,3.82,3.72,1.92,1.75,2.05,1.78,2.02,0.5,1.96,1.94,Birmingham,Ipswich,birmingham,ipswich
+2023-11-07,E1,England-Champ,2324,Rotherham,Ipswich,2.0,2.0,D,1.0,1.0,D,5.75,4.5,1.5,6.51,4.47,1.53,6.65,4.53,1.46,1.73,2.08,1.72,2.11,1.0,2.03,1.87,Rotherham United,Ipswich,rotherham_united,ipswich
+2023-11-25,E1,England-Champ,2324,West Brom,Ipswich,2.0,0.0,H,1.0,0.0,H,2.6,3.5,2.55,2.72,3.55,2.64,2.62,3.48,2.61,1.88,1.98,1.86,1.95,0.0,1.97,1.93,West Bromwich Albion,Ipswich,west_bromwich_albion,ipswich
+2023-12-09,E1,England-Champ,2324,Middlesbrough,Ipswich,0.0,2.0,A,0.0,1.0,A,2.3,3.7,2.9,2.38,3.78,2.91,2.33,3.64,2.86,1.67,2.15,1.66,2.22,-0.25,2.07,1.83,Middlesbrough,Ipswich,middlesbrough,ipswich
+2023-12-12,E1,England-Champ,2324,Watford,Ipswich,1.0,2.0,A,1.0,1.0,D,2.9,3.4,2.45,3.03,3.49,2.43,2.92,3.41,2.41,2.0,1.85,1.94,1.85,0.25,1.81,2.09,Watford,Ipswich,watford,ipswich
+2023-12-23,E1,England-Champ,2324,Leeds,Ipswich,4.0,0.0,H,3.0,0.0,H,1.8,4.0,4.0,1.81,4.24,4.13,1.81,4.01,3.97,1.6,2.3,1.6,2.32,-0.75,2.05,1.85,Leeds,Ipswich,leeds,ipswich
+2024-01-01,E1,England-Champ,2324,Stoke,Ipswich,0.0,0.0,D,0.0,0.0,D,2.9,3.3,2.4,2.98,3.48,2.47,2.87,3.44,2.4,1.93,1.93,1.87,1.93,0.25,1.79,2.11,Stoke City,Ipswich,stoke_city,ipswich
+2024-01-22,E1,England-Champ,2324,Leicester,Ipswich,1.0,1.0,D,1.0,0.0,H,1.91,3.6,4.0,1.92,3.73,4.08,1.92,3.64,3.87,1.8,2.0,1.79,2.01,-0.5,1.92,1.98,Leicester City,Ipswich,leicester_city,ipswich
+2024-02-03,E1,England-Champ,2324,Preston,Ipswich,3.0,2.0,H,3.0,0.0,H,3.6,3.6,2.0,3.87,3.57,2.04,3.66,3.5,2.02,2.03,1.83,2.02,1.8,0.5,1.85,2.05,Preston,Ipswich,preston,ipswich
+2024-02-14,E1,England-Champ,2324,Millwall,Ipswich,0.0,4.0,A,0.0,3.0,A,3.5,3.5,2.05,3.67,3.48,2.13,3.54,3.41,2.09,2.05,1.75,2.07,1.76,0.25,2.06,1.84,Millwall,Ipswich,millwall,ipswich
+2024-02-17,E1,England-Champ,2324,Swansea,Ipswich,1.0,2.0,A,1.0,2.0,A,4.2,3.5,1.91,4.05,3.92,1.9,3.82,3.78,1.89,1.7,2.1,1.7,2.16,0.5,1.98,1.92,Swansea City,Ipswich,swansea_city,ipswich
+2024-03-02,E1,England-Champ,2324,Plymouth,Ipswich,0.0,2.0,A,0.0,0.0,D,4.5,4.0,1.7,4.51,4.23,1.75,4.39,4.15,1.71,1.53,2.4,1.51,2.53,0.75,1.99,1.91,Plymouth Argyle,Ipswich,plymouth_argyle,ipswich
+2024-03-09,E1,England-Champ,2324,Cardiff,Ipswich,2.0,1.0,H,0.0,0.0,D,4.75,3.6,1.75,4.69,3.74,1.82,4.51,3.67,1.79,1.93,1.93,1.92,1.88,0.75,1.86,2.04,Cardiff City,Ipswich,cardiff_city,ipswich
+2024-03-29,E1,England-Champ,2324,Blackburn,Ipswich,0.0,1.0,A,0.0,1.0,A,3.75,3.75,1.91,3.84,3.84,1.94,3.71,3.75,1.94,1.67,2.15,1.67,2.2,0.5,1.95,1.95,Blackburn,Ipswich,blackburn,ipswich
+2024-04-06,E1,England-Champ,2324,Norwich,Ipswich,1.0,0.0,H,1.0,0.0,H,2.63,3.75,2.45,2.78,3.6,2.53,2.72,3.61,2.45,1.62,2.3,1.63,2.27,0.0,2.04,1.86,Norwich City,Ipswich,norwich_city,ipswich
+2024-04-27,E1,England-Champ,2324,Hull,Ipswich,3.0,3.0,D,1.0,2.0,A,3.2,3.6,2.15,3.27,3.72,2.18,3.2,3.62,2.14,1.73,2.1,1.72,2.12,0.25,1.99,1.91,Hull City,Ipswich,hull_city,ipswich
+2024-04-30,E1,England-Champ,2324,Coventry,Ipswich,1.0,2.0,A,0.0,1.0,A,4.33,4.2,1.7,4.55,4.21,1.73,4.35,4.12,1.72,1.53,2.5,1.5,2.53,0.75,1.98,1.92,Coventry,Ipswich,coventry,ipswich
+2024-08-24,E0,England-PL,2425,Man City,Ipswich,4.0,1.0,H,3.0,1.0,H,1.08,12.0,21.0,1.08,13.21,25.71,1.09,12.17,26.97,1.3,3.5,1.29,3.54,-2.75,2.04,1.86,Manchester City,Ipswich,manchester_city,ipswich
+2024-09-14,E0,England-PL,2425,Brighton,Ipswich,0.0,0.0,D,0.0,0.0,D,1.38,5.0,7.5,1.38,5.13,8.05,1.38,5.16,7.89,1.53,2.5,1.56,2.46,-1.5,2.03,1.78,Brighton & Hove Albion,Ipswich,brighton_hove_albion,ipswich
+2024-09-21,E0,England-PL,2425,Southampton,Ipswich,1.0,1.0,D,1.0,0.0,H,2.25,3.5,3.2,2.27,3.5,3.24,2.25,3.52,3.17,1.8,2.0,1.77,2.06,-0.25,1.97,1.93,Southampton,Ipswich,southampton,ipswich
+2024-10-05,E0,England-PL,2425,West Ham,Ipswich,4.0,1.0,H,2.0,1.0,H,1.8,3.8,4.33,1.81,4.02,4.29,1.8,3.96,4.25,1.67,2.2,1.69,2.21,-0.75,2.04,1.86,West Ham United,Ipswich,west_ham_united,ipswich
+2024-10-26,E0,England-PL,2425,Brentford,Ipswich,4.0,3.0,H,2.0,2.0,D,1.65,4.33,4.75,1.65,4.35,4.94,1.67,4.27,4.86,1.67,2.2,1.65,2.28,-0.75,1.82,2.08,Brentford,Ipswich,brentford,ipswich
+2024-11-10,E0,England-PL,2425,Tottenham,Ipswich,1.0,2.0,A,0.0,2.0,A,1.25,6.5,9.0,1.25,6.95,9.87,1.26,6.76,9.98,1.3,3.5,1.3,3.49,-1.75,1.85,2.05,Tottenham Hotspur,Ipswich,tottenham_hotspur,ipswich
+2024-11-30,E0,England-PL,2425,Nott'm Forest,Ipswich,1.0,0.0,H,0.0,0.0,D,1.7,3.8,4.75,1.78,3.75,4.85,1.75,3.82,4.79,1.92,1.98,1.89,1.94,-0.75,1.92,1.86,Nottingham Forest,Ipswich,nottingham_forest,ipswich
+2024-12-14,E0,England-PL,2425,Wolves,Ipswich,1.0,2.0,A,0.0,1.0,A,1.9,3.8,3.8,1.91,3.91,3.93,1.9,3.83,3.85,1.73,2.1,1.72,2.15,-0.5,1.92,1.98,Wolverhampton,Ipswich,wolverhampton,ipswich
+2024-12-27,E0,England-PL,2425,Arsenal,Ipswich,1.0,0.0,H,1.0,0.0,H,1.14,9.0,15.0,1.15,8.67,20.05,1.16,8.37,17.31,1.4,3.0,1.39,2.99,-2.25,2.04,1.89,Arsenal,Ipswich,arsenal,ipswich
+2025-01-05,E0,England-PL,2425,Fulham,Ipswich,2.0,2.0,D,0.0,1.0,A,1.55,4.2,5.75,1.56,4.46,5.71,1.56,4.34,5.68,1.73,2.1,1.7,2.15,-1.0,1.97,1.93,Fulham,Ipswich,fulham,ipswich
+2025-01-25,E0,England-PL,2425,Liverpool,Ipswich,4.0,1.0,H,3.0,0.0,H,1.08,12.0,15.0,1.1,11.75,21.77,1.1,11.04,20.87,1.25,4.0,1.25,3.82,-2.5,1.88,2.02,Liverpool,Ipswich,liverpool,ipswich
+2025-02-15,E0,England-PL,2425,Aston Villa,Ipswich,1.0,1.0,D,0.0,0.0,D,1.4,4.75,7.0,1.41,5.02,7.6,1.41,4.96,7.45,1.57,2.38,1.58,2.41,-1.25,1.92,1.98,Aston Villa,Ipswich,aston_villa,ipswich
+2025-02-26,E0,England-PL,2425,Man United,Ipswich,3.0,2.0,H,2.0,2.0,D,1.53,4.33,6.0,1.53,4.69,5.8,1.52,4.55,5.83,1.67,2.2,1.64,2.29,-1.0,1.88,2.02,Manchester United,Ipswich,manchester_united,ipswich
+2025-03-08,E0,England-PL,2425,Crystal Palace,Ipswich,1.0,0.0,H,0.0,0.0,D,1.45,4.75,6.25,1.5,4.56,6.67,1.48,4.55,6.74,1.73,2.1,1.75,2.07,-1.25,2.08,1.82,Crystal Palace,Ipswich,crystal_palace,ipswich
+2025-04-02,E0,England-PL,2425,Bournemouth,Ipswich,1.0,2.0,A,0.0,1.0,A,1.36,5.25,7.5,1.39,5.33,7.75,1.38,5.23,7.72,1.53,2.5,1.51,2.52,-1.5,2.05,1.85,Bournemouth,Ipswich,bournemouth,ipswich
+2025-04-13,E0,England-PL,2425,Chelsea,Ipswich,2.0,2.0,D,0.0,2.0,A,1.27,7.0,8.5,1.25,6.84,10.14,1.25,6.57,9.7,1.44,2.75,1.43,2.77,-1.75,1.95,1.95,Chelsea,Ipswich,chelsea,ipswich
+2025-04-26,E0,England-PL,2425,Newcastle,Ipswich,3.0,0.0,H,1.0,0.0,H,1.18,7.5,13.0,1.18,8.02,14.29,1.18,7.72,14.89,1.36,3.2,1.34,3.18,-2.0,1.85,2.05,Newcastle United,Ipswich,newcastle_united,ipswich
+2025-05-03,E0,England-PL,2425,Everton,Ipswich,2.0,2.0,D,2.0,1.0,H,1.45,4.33,6.5,1.47,4.53,7.28,1.47,4.4,7.07,1.95,1.95,1.89,1.93,-1.0,1.82,2.08,Everton,Ipswich,everton,ipswich
+2025-05-18,E0,England-PL,2425,Leicester,Ipswich,2.0,0.0,H,1.0,0.0,H,2.3,3.6,2.9,2.37,3.65,2.97,2.33,3.59,2.94,1.73,2.1,1.74,2.11,-0.25,2.04,1.86,Leicester City,Ipswich,leicester_city,ipswich
+2025-08-08,E1,England-Champ,2526,Birmingham,Ipswich,1.0,1.0,D,0.0,0.0,D,2.4,3.3,2.9,2.55,3.29,2.84,2.45,3.3,2.87,2.1,1.73,2.05,1.72,0.0,1.73,2.08,Birmingham,Ipswich,birmingham,ipswich
+2025-08-23,E1,England-Champ,2526,Preston,Ipswich,1.0,0.0,H,1.0,0.0,H,3.7,3.4,2.05,3.75,3.41,2.04,3.68,3.39,2.03,2.1,1.73,2.08,1.7,0.5,1.74,1.99,Preston,Ipswich,preston,ipswich
+2025-09-30,E1,England-Champ,2526,Bristol City,Ipswich,1.0,1.0,D,1.0,0.0,H,2.7,3.3,2.45,2.83,3.45,2.53,2.77,3.41,2.44,1.93,1.93,1.87,1.89,0.0,2.03,1.83,Bristol City,Ipswich,bristol_city,ipswich
+2025-10-17,E1,England-Champ,2526,Middlesbrough,Ipswich,2.0,1.0,H,1.0,0.0,H,2.7,3.25,2.5,2.85,3.22,2.65,2.79,3.22,2.55,2.1,1.73,2.1,1.7,0.0,2.0,1.85,Middlesbrough,Ipswich,middlesbrough,ipswich
+2025-11-01,E1,England-Champ,2526,QPR,Ipswich,1.0,4.0,A,1.0,1.0,D,3.5,3.5,2.01,,,,3.59,3.57,2.0,1.9,1.95,1.85,1.9,0.5,1.83,2.03,Queens Park Rangers,Ipswich,queens_park_rangers,ipswich
+2025-11-08,E1,England-Champ,2526,Swansea,Ipswich,1.0,4.0,A,0.0,1.0,A,3.5,3.5,2.01,,,,3.57,3.41,2.05,2.05,1.8,2.02,1.74,0.5,1.8,2.05,Swansea City,Ipswich,swansea_city,ipswich
+2025-11-25,E1,England-Champ,2526,Hull,Ipswich,0.0,2.0,A,0.0,0.0,D,4.5,3.6,1.71,4.4,3.83,1.83,4.27,3.67,1.79,1.85,2.0,1.8,1.96,0.75,1.78,2.03,Hull City,Ipswich,hull_city,ipswich
+2025-11-28,E1,England-Champ,2526,Oxford,Ipswich,2.0,1.0,H,1.0,0.0,H,5.5,3.8,1.61,5.59,3.96,1.65,5.44,3.82,1.62,1.91,1.91,1.89,1.87,0.75,2.03,1.83,Oxford United,Ipswich,oxford_united,ipswich
+2025-12-02,E1,England-Champ,2526,Blackburn,Ipswich,1.0,1.0,D,0.0,0.0,D,3.9,3.5,1.96,3.82,3.59,2.02,3.72,3.45,1.99,2.0,1.8,1.94,1.81,0.5,1.85,2.0,Blackburn,Ipswich,blackburn,ipswich
+2025-12-13,E1,England-Champ,2526,Leicester,Ipswich,3.0,1.0,H,2.0,0.0,H,3.25,3.5,2.1,3.33,3.53,2.14,3.33,3.37,2.14,1.91,1.91,1.89,1.85,0.25,2.0,1.85,Leicester City,Ipswich,leicester_city,ipswich
+2025-12-26,E1,England-Champ,2526,Millwall,Ipswich,0.0,0.0,D,0.0,0.0,D,3.6,3.4,2.01,3.74,3.37,2.05,3.72,3.32,2.02,2.1,1.73,2.13,1.67,0.5,1.8,2.05,Millwall,Ipswich,millwall,ipswich
+2025-12-29,E1,England-Champ,2526,Coventry,Ipswich,0.0,2.0,A,0.0,0.0,D,2.3,3.25,2.95,2.37,3.4,3.01,2.37,3.35,2.91,1.93,1.93,1.86,1.89,-0.25,2.05,1.8,Coventry,Ipswich,coventry,ipswich
+2026-01-24,E1,England-Champ,2526,Sheffield United,Ipswich,3.0,1.0,H,2.0,0.0,H,2.82,3.4,2.32,,,,2.89,3.34,2.39,2.0,1.8,1.93,1.8,0.25,1.78,2.1,Sheffield United,Ipswich,sheffield_united,ipswich
+2026-02-07,E1,England-Champ,2526,Derby,Ipswich,1.0,2.0,A,0.0,1.0,A,3.6,3.4,2.01,,,,3.64,3.3,2.05,2.1,1.73,2.1,1.69,0.5,1.8,2.05,Derby,Ipswich,derby,ipswich
+2026-02-21,E1,England-Champ,2526,Wrexham,Ipswich,5.0,3.0,H,2.0,2.0,D,3.3,3.3,2.15,,,,3.27,3.32,2.19,2.1,1.73,2.02,1.73,0.25,1.93,1.93,Wrexham,Ipswich,wrexham,ipswich
+2026-02-24,E1,England-Champ,2526,Watford,Ipswich,0.0,2.0,A,0.0,1.0,A,3.3,3.25,2.15,,,,3.24,3.24,2.22,2.2,1.67,2.12,1.68,0.25,1.88,1.98,Watford,Ipswich,watford,ipswich
+2026-03-10,E1,England-Champ,2526,Stoke,Ipswich,3.0,3.0,D,2.0,0.0,H,4.5,3.75,1.66,,,,4.74,3.64,1.72,2.05,1.8,1.99,1.77,0.75,1.9,1.95,Stoke City,Ipswich,stoke_city,ipswich
+2026-03-14,E1,England-Champ,2526,Sheffield Weds,Ipswich,0.0,2.0,A,0.0,0.0,D,11.0,5.75,1.19,,,,11.78,6.02,1.22,1.57,2.38,1.55,2.34,1.75,1.98,1.88,Sheffield Wednesday,Ipswich,sheffield_wednesday,ipswich
+2026-04-11,E1,England-Champ,2526,Norwich,Ipswich,0.0,2.0,A,0.0,2.0,A,2.85,3.6,2.2,,,,2.92,3.5,2.28,1.9,1.95,1.84,1.9,0.25,1.85,2.0,Norwich City,Ipswich,norwich_city,ipswich
+2026-04-14,E1,England-Champ,2526,Portsmouth,Ipswich,2.0,0.0,H,2.0,0.0,H,3.75,3.5,1.91,,,,3.83,3.4,1.96,2.1,1.73,2.13,1.67,0.5,1.88,1.98,Portsmouth,Ipswich,portsmouth,ipswich
+2026-04-22,E1,England-Champ,2526,Charlton,Ipswich,1.0,2.0,A,1.0,1.0,D,4.75,3.6,1.71,,,,4.74,3.61,1.73,2.03,1.83,1.92,1.81,0.75,1.85,2.0,Charlton,Ipswich,charlton,ipswich
+2026-04-25,E1,England-Champ,2526,West Brom,Ipswich,0.0,0.0,D,0.0,0.0,D,3.7,3.9,1.86,,,,3.78,3.6,1.9,2.03,1.83,1.95,1.78,0.5,1.95,1.9,West Bromwich Albion,Ipswich,west_bromwich_albion,ipswich
+2026-04-28,E1,England-Champ,2526,Southampton,Ipswich,2.0,2.0,D,0.0,0.0,D,2.1,3.4,3.1,,,,2.18,3.5,3.08,1.73,2.1,1.69,2.1,-0.25,1.95,1.9,Southampton,Ipswich,southampton,ipswich
+2026-08-30,E0,England-PL,2627,Man United,Ipswich,5.0,2.0,H,1.0,1.0,D,1.42,5.0,7.0,,,,1.4,4.82,6.94,1.57,2.38,1.57,2.29,-1.25,1.88,1.98,Manchester United,Ipswich,manchester_united,ipswich
+2026-09-12,E0,England-PL,2627,Crystal Palace,Ipswich,2.0,3.0,A,1.0,2.0,A,1.85,3.8,3.9,,,,1.84,3.74,3.98,1.8,2.0,1.76,1.99,-0.5,1.85,2.0,Crystal Palace,Ipswich,crystal_palace,ipswich
+2026-09-19,E0,England-PL,2627,Everton,Ipswich,1.0,0.0,H,1.0,0.0,H,1.75,3.8,4.5,,,,1.76,3.79,4.36,1.73,2.1,1.7,2.08,-0.75,1.98,1.88,Everton,Ipswich,everton,ipswich
+2026-10-17,E0,England-PL,2627,Man City,Ipswich,3.0,2.0,H,2.0,1.0,H,1.22,7.0,11.0,,,,1.24,6.47,10.08,1.4,3.0,1.36,2.96,-1.75,1.85,2.0,Manchester City,Ipswich,manchester_city,ipswich

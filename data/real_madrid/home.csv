@@ -1,0 +1,101 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-09-12,SP1,Spain-LaLiga,2122,Real Madrid,Celta,5.0,2.0,H,1.0,2.0,A,1.36,5.25,8.0,1.38,5.48,8.4,1.37,5.25,7.97,1.53,2.5,1.53,2.49,-1.5,2.07,1.86,Real Madrid,Celta Vigo,real_madrid,celta_vigo
+2021-09-22,SP1,Spain-LaLiga,2122,Real Madrid,Mallorca,6.0,1.0,H,3.0,1.0,H,1.22,6.5,12.0,1.24,6.66,13.03,1.24,6.36,12.33,1.57,2.37,1.59,2.39,-1.75,1.96,1.94,Real Madrid,Mallorca,real_madrid,mallorca
+2021-09-25,SP1,Spain-LaLiga,2122,Real Madrid,Villarreal,0.0,0.0,D,0.0,0.0,D,1.5,4.75,5.75,1.52,4.87,6.25,1.5,4.69,6.06,1.57,2.37,1.59,2.39,-1.0,1.82,2.11,Real Madrid,Villarreal,real_madrid,villarreal
+2021-10-27,SP1,Spain-LaLiga,2122,Real Madrid,Osasuna,0.0,0.0,D,0.0,0.0,D,1.3,5.5,9.0,1.34,5.88,8.94,1.33,5.49,8.71,1.57,2.37,1.58,2.39,-1.5,2.0,1.93,Real Madrid,Osasuna,real_madrid,osasuna
+2021-11-06,SP1,Spain-LaLiga,2122,Real Madrid,Vallecano,2.0,1.0,H,2.0,0.0,H,1.33,5.5,8.0,1.4,5.57,7.75,1.38,5.29,7.68,1.53,2.5,1.54,2.49,-1.5,2.02,1.77,Real Madrid,Rayo Vallecano,real_madrid,rayo_vallecano
+2021-11-28,SP1,Spain-LaLiga,2122,Real Madrid,Sevilla,2.0,1.0,H,1.0,1.0,D,1.7,4.0,4.75,1.68,4.17,5.2,1.68,4.0,4.89,1.91,2.02,1.85,1.98,-0.75,1.91,2.02,Real Madrid,Sevilla,real_madrid,sevilla
+2021-12-01,SP1,Spain-LaLiga,2122,Real Madrid,Ath Bilbao,1.0,0.0,H,1.0,0.0,H,1.44,4.75,7.0,,,,1.44,4.58,7.11,1.72,2.1,1.71,2.14,-1.25,2.04,1.89,Real Madrid,Athletic Bilbao,real_madrid,athletic_bilbao
+2021-12-12,SP1,Spain-LaLiga,2122,Real Madrid,Ath Madrid,2.0,0.0,H,1.0,0.0,H,2.05,3.5,3.6,2.11,3.57,3.73,2.1,3.5,3.55,2.03,1.9,1.96,1.87,-0.25,1.86,2.07,Real Madrid,Atletico Madrid,real_madrid,atletico_madrid
+2021-12-19,SP1,Spain-LaLiga,2122,Real Madrid,Cadiz,0.0,0.0,D,0.0,0.0,D,1.2,7.5,11.0,1.24,6.82,12.54,1.24,6.51,11.43,1.44,2.75,1.45,2.76,-1.75,1.86,2.04,Real Madrid,Cadiz,real_madrid,cadiz
+2022-01-08,SP1,Spain-LaLiga,2122,Real Madrid,Valencia,4.0,1.0,H,1.0,0.0,H,1.37,5.0,8.0,1.35,5.35,9.07,1.36,5.2,8.61,1.57,2.37,1.56,2.41,-1.5,2.05,1.88,Real Madrid,Valencia,real_madrid,valencia
+2022-01-23,SP1,Spain-LaLiga,2122,Real Madrid,Elche,2.0,2.0,D,0.0,1.0,A,1.16,8.0,15.0,1.15,8.12,21.4,1.16,7.79,18.27,1.5,2.62,1.48,2.65,-2.0,1.85,2.05,Real Madrid,Elche,real_madrid,elche
+2022-02-06,SP1,Spain-LaLiga,2122,Real Madrid,Granada,1.0,0.0,H,0.0,0.0,D,1.25,6.0,11.0,1.24,6.39,12.64,1.25,6.26,11.55,1.44,2.75,1.46,2.72,-1.75,1.91,1.99,Real Madrid,Granada,real_madrid,granada
+2022-02-19,SP1,Spain-LaLiga,2122,Real Madrid,Alaves,3.0,0.0,H,0.0,0.0,D,1.22,6.5,12.0,1.21,6.85,16.62,1.22,6.55,14.19,1.53,2.5,1.53,2.51,-2.0,2.08,1.73,Real Madrid,Deportivo Alaves,real_madrid,deportivo_alaves
+2022-03-05,SP1,Spain-LaLiga,2122,Real Madrid,Sociedad,4.0,1.0,H,2.0,1.0,H,1.6,4.2,5.25,1.64,4.21,5.65,1.62,4.13,5.42,1.83,2.07,1.79,2.05,-1.0,2.08,1.82,Real Madrid,Real Sociedad,real_madrid,real_sociedad
+2022-03-20,SP1,Spain-LaLiga,2122,Real Madrid,Barcelona,0.0,4.0,A,0.0,2.0,A,2.15,3.6,3.25,2.2,3.73,3.34,2.15,3.66,3.29,1.66,2.2,1.65,2.27,-0.25,1.86,2.04,Real Madrid,Barcelona,real_madrid,barcelona
+2022-04-09,SP1,Spain-LaLiga,2122,Real Madrid,Getafe,2.0,0.0,H,1.0,0.0,H,1.4,4.5,8.5,1.41,4.75,9.55,1.41,4.57,8.73,2.07,1.83,2.03,1.82,-1.25,2.01,1.89,Real Madrid,Getafe,real_madrid,getafe
+2022-04-30,SP1,Spain-LaLiga,2122,Real Madrid,Espanol,4.0,0.0,H,2.0,0.0,H,1.5,4.5,6.0,1.51,4.58,6.99,1.51,4.45,6.53,1.66,2.2,1.66,2.22,-1.0,1.82,2.08,Real Madrid,Espanyol,real_madrid,espanyol
+2022-05-12,SP1,Spain-LaLiga,2122,Real Madrid,Levante,6.0,0.0,H,4.0,0.0,H,1.45,5.25,5.5,1.52,5.11,5.87,1.5,4.94,5.67,1.36,3.2,1.38,3.02,-1.25,2.04,1.86,Real Madrid,Levante,real_madrid,levante
+2022-05-20,SP1,Spain-LaLiga,2122,Real Madrid,Betis,0.0,0.0,D,0.0,0.0,D,1.65,4.5,4.33,1.72,4.4,4.53,1.69,4.43,4.47,1.4,3.0,1.39,2.96,-0.75,1.87,2.03,Real Madrid,Real Betis,real_madrid,real_betis
+2022-09-03,SP1,Spain-LaLiga,2223,Real Madrid,Betis,2.0,1.0,H,1.0,1.0,D,1.4,5.25,6.5,1.46,5.19,6.72,1.43,5.13,6.82,1.44,2.75,1.46,2.71,-1.25,1.9,2.0,Real Madrid,Real Betis,real_madrid,real_betis
+2022-09-11,SP1,Spain-LaLiga,2223,Real Madrid,Mallorca,4.0,1.0,H,1.0,1.0,D,1.25,6.0,11.0,1.28,6.19,11.58,1.27,6.11,10.84,1.5,2.62,1.49,2.6,-1.75,1.96,1.94,Real Madrid,Mallorca,real_madrid,mallorca
+2022-10-02,SP1,Spain-LaLiga,2223,Real Madrid,Osasuna,1.0,1.0,D,1.0,0.0,H,1.3,5.5,9.5,1.35,5.63,9.33,1.33,5.48,9.22,1.61,2.3,1.6,2.34,-1.5,1.95,1.95,Real Madrid,Osasuna,real_madrid,osasuna
+2022-10-16,SP1,Spain-LaLiga,2223,Real Madrid,Barcelona,3.0,1.0,H,2.0,0.0,H,2.2,3.6,3.1,2.32,3.65,3.16,2.28,3.64,3.05,1.57,2.37,1.58,2.41,-0.25,2.0,1.9,Real Madrid,Barcelona,real_madrid,barcelona
+2022-10-22,SP1,Spain-LaLiga,2223,Real Madrid,Sevilla,3.0,1.0,H,1.0,0.0,H,1.36,4.75,8.5,1.39,5.03,9.33,1.37,5.03,8.62,1.57,2.37,1.59,2.37,-1.5,2.05,1.85,Real Madrid,Sevilla,real_madrid,sevilla
+2022-10-30,SP1,Spain-LaLiga,2223,Real Madrid,Girona,1.0,1.0,D,0.0,0.0,D,1.2,6.5,13.0,1.22,7.06,14.02,1.21,6.96,13.19,1.44,2.75,1.42,2.82,-2.0,2.04,1.86,Real Madrid,Girona,real_madrid,girona
+2022-11-10,SP1,Spain-LaLiga,2223,Real Madrid,Cadiz,2.0,1.0,H,1.0,0.0,H,1.14,8.5,15.0,1.15,9.0,22.56,1.15,8.36,19.48,1.44,2.75,1.43,2.81,-2.25,2.01,1.89,Real Madrid,Cadiz,real_madrid,cadiz
+2023-01-29,SP1,Spain-LaLiga,2223,Real Madrid,Sociedad,0.0,0.0,D,0.0,0.0,D,1.67,3.8,5.0,1.73,4.02,5.05,1.71,3.93,4.96,1.93,1.97,1.91,1.93,-0.75,1.93,1.97,Real Madrid,Real Sociedad,real_madrid,real_sociedad
+2023-02-02,SP1,Spain-LaLiga,2223,Real Madrid,Valencia,2.0,0.0,H,0.0,0.0,D,1.44,4.75,6.5,1.43,5.17,7.39,1.43,4.92,7.06,1.62,2.3,1.62,2.32,-1.25,1.94,1.96,Real Madrid,Valencia,real_madrid,valencia
+2023-02-15,SP1,Spain-LaLiga,2223,Real Madrid,Elche,4.0,0.0,H,3.0,0.0,H,1.18,7.5,15.0,1.2,7.35,15.54,1.2,7.12,14.67,1.53,2.5,1.52,2.53,-2.0,2.01,1.89,Real Madrid,Elche,real_madrid,elche
+2023-02-25,SP1,Spain-LaLiga,2223,Real Madrid,Ath Madrid,1.0,1.0,D,0.0,0.0,D,1.8,3.5,5.0,1.85,3.64,4.77,1.82,3.65,4.6,1.97,1.93,1.93,1.9,-0.75,2.07,1.83,Real Madrid,Atletico Madrid,real_madrid,atletico_madrid
+2023-03-11,SP1,Spain-LaLiga,2223,Real Madrid,Espanol,3.0,1.0,H,2.0,1.0,H,1.25,6.5,9.5,1.27,6.17,11.72,1.26,6.0,11.6,1.62,2.3,1.62,2.31,-1.75,2.05,1.88,Real Madrid,Espanyol,real_madrid,espanyol
+2023-04-02,SP1,Spain-LaLiga,2223,Real Madrid,Valladolid,6.0,0.0,H,4.0,0.0,H,1.2,7.5,11.0,1.21,7.44,13.47,1.21,7.2,13.22,1.4,3.0,1.42,2.89,-2.0,1.96,1.94,Real Madrid,Real Valladolid,real_madrid,real_valladolid
+2023-04-08,SP1,Spain-LaLiga,2223,Real Madrid,Villarreal,2.0,3.0,A,1.0,1.0,D,1.53,4.33,5.75,1.54,4.57,6.15,1.53,4.51,5.93,1.62,2.3,1.62,2.32,-1.0,1.88,2.02,Real Madrid,Villarreal,real_madrid,villarreal
+2023-04-22,SP1,Spain-LaLiga,2223,Real Madrid,Celta,2.0,0.0,H,1.0,0.0,H,1.36,5.0,9.0,1.38,5.42,8.07,1.37,5.25,8.16,1.57,2.38,1.56,2.43,-1.5,2.04,1.86,Real Madrid,Celta Vigo,real_madrid,celta_vigo
+2023-04-29,SP1,Spain-LaLiga,2223,Real Madrid,Almeria,4.0,2.0,H,3.0,1.0,H,1.14,8.5,15.0,1.17,8.84,14.49,1.16,8.52,16.07,1.3,3.5,1.33,3.35,-2.25,1.94,1.99,Real Madrid,Almeria,real_madrid,almeria
+2023-05-13,SP1,Spain-LaLiga,2223,Real Madrid,Getafe,1.0,0.0,H,0.0,0.0,D,1.55,4.0,6.5,1.59,4.18,6.11,1.57,4.1,6.1,1.96,1.94,1.9,1.91,-1.0,2.01,1.89,Real Madrid,Getafe,real_madrid,getafe
+2023-05-24,SP1,Spain-LaLiga,2223,Real Madrid,Vallecano,2.0,1.0,H,1.0,0.0,H,1.62,4.0,5.25,1.65,4.32,5.13,1.65,4.19,5.07,1.62,2.3,1.63,2.33,-1.0,2.02,1.77,Real Madrid,Rayo Vallecano,real_madrid,rayo_vallecano
+2023-06-04,SP1,Spain-LaLiga,2223,Real Madrid,Ath Bilbao,1.0,1.0,D,0.0,0.0,D,1.91,3.75,3.75,1.93,3.97,3.81,1.93,3.88,3.73,1.62,2.3,1.65,2.27,-0.5,1.94,1.96,Real Madrid,Athletic Bilbao,real_madrid,athletic_bilbao
+2023-09-02,SP1,Spain-LaLiga,2324,Real Madrid,Getafe,2.0,1.0,H,0.0,1.0,A,1.33,5.25,9.5,1.34,5.13,10.76,1.33,5.14,10.55,1.94,1.96,1.88,1.95,-1.5,2.06,1.87,Real Madrid,Getafe,real_madrid,getafe
+2023-09-17,SP1,Spain-LaLiga,2324,Real Madrid,Sociedad,2.0,1.0,H,0.0,1.0,A,1.65,4.0,5.0,1.69,3.97,5.31,1.67,3.97,5.2,1.9,2.0,1.88,1.96,-0.75,1.87,2.03,Real Madrid,Real Sociedad,real_madrid,real_sociedad
+2023-09-27,SP1,Spain-LaLiga,2324,Real Madrid,Las Palmas,2.0,0.0,H,1.0,0.0,H,1.2,7.0,11.0,1.21,7.24,13.67,1.22,6.92,13.1,1.44,2.75,1.44,2.8,-2.0,2.02,1.88,Real Madrid,Las Palmas,real_madrid,las_palmas
+2023-10-07,SP1,Spain-LaLiga,2324,Real Madrid,Osasuna,4.0,0.0,H,1.0,0.0,H,1.29,6.0,9.5,1.3,5.95,10.38,1.31,5.7,9.96,1.57,2.35,1.58,2.4,-1.5,1.89,2.01,Real Madrid,Osasuna,real_madrid,osasuna
+2023-11-05,SP1,Spain-LaLiga,2324,Real Madrid,Vallecano,0.0,0.0,D,0.0,0.0,D,1.29,5.5,12.0,1.27,6.24,10.53,1.28,6.08,10.82,1.53,2.4,1.53,2.51,-1.75,2.04,1.89,Real Madrid,Rayo Vallecano,real_madrid,rayo_vallecano
+2023-11-11,SP1,Spain-LaLiga,2324,Real Madrid,Valencia,5.0,1.0,H,2.0,0.0,H,1.33,5.5,8.5,1.32,5.6,9.7,1.33,5.48,9.41,1.6,2.3,1.63,2.31,-1.5,1.96,1.94,Real Madrid,Valencia,real_madrid,valencia
+2023-12-02,SP1,Spain-LaLiga,2324,Real Madrid,Granada,2.0,0.0,H,1.0,0.0,H,1.17,8.0,15.0,1.16,8.84,14.66,1.16,8.44,15.7,1.33,3.4,1.36,3.16,-2.25,2.08,1.85,Real Madrid,Granada,real_madrid,granada
+2023-12-17,SP1,Spain-LaLiga,2324,Real Madrid,Villarreal,4.0,1.0,H,2.0,0.0,H,1.29,6.0,9.0,1.29,6.3,9.21,1.29,6.29,9.4,1.4,2.88,1.38,3.06,-1.75,2.03,1.9,Real Madrid,Villarreal,real_madrid,villarreal
+2024-01-03,SP1,Spain-LaLiga,2324,Real Madrid,Mallorca,1.0,0.0,H,0.0,0.0,D,1.2,6.5,15.0,1.23,6.68,12.58,1.24,6.4,12.86,1.65,2.2,1.66,2.26,-1.75,1.99,1.94,Real Madrid,Mallorca,real_madrid,mallorca
+2024-01-21,SP1,Spain-LaLiga,2324,Real Madrid,Almeria,3.0,2.0,H,0.0,2.0,A,1.13,10.0,17.0,1.15,9.58,15.8,1.15,9.07,16.19,1.29,3.6,1.29,3.54,-2.25,1.91,1.99,Real Madrid,Almeria,real_madrid,almeria
+2024-02-04,SP1,Spain-LaLiga,2324,Real Madrid,Ath Madrid,1.0,1.0,D,1.0,0.0,H,1.73,4.0,4.5,1.78,4.06,4.36,1.76,4.04,4.39,1.65,2.2,1.67,2.24,-0.75,2.01,1.89,Real Madrid,Atletico Madrid,real_madrid,atletico_madrid
+2024-02-10,SP1,Spain-LaLiga,2324,Real Madrid,Girona,4.0,0.0,H,2.0,0.0,H,1.45,5.0,6.0,1.45,5.12,6.54,1.45,5.04,6.42,1.44,2.7,1.44,2.8,-1.25,1.98,1.95,Real Madrid,Girona,real_madrid,girona
+2024-02-25,SP1,Spain-LaLiga,2324,Real Madrid,Sevilla,1.0,0.0,H,0.0,0.0,D,1.29,6.0,9.0,1.32,6.02,8.92,1.3,5.85,9.43,1.5,2.5,1.51,2.55,-1.5,1.86,2.04,Real Madrid,Sevilla,real_madrid,sevilla
+2024-03-10,SP1,Spain-LaLiga,2324,Real Madrid,Celta,4.0,0.0,H,1.0,0.0,H,1.3,6.0,8.0,1.29,6.13,10.04,1.3,5.94,9.62,1.5,2.5,1.52,2.52,-1.5,1.88,2.05,Real Madrid,Celta Vigo,real_madrid,celta_vigo
+2024-03-31,SP1,Spain-LaLiga,2324,Real Madrid,Ath Bilbao,2.0,0.0,H,1.0,0.0,H,1.53,4.33,6.0,1.57,4.36,5.87,1.55,4.29,5.87,1.75,2.05,1.76,2.09,-1.0,1.98,1.92,Real Madrid,Athletic Bilbao,real_madrid,athletic_bilbao
+2024-04-21,SP1,Spain-LaLiga,2324,Real Madrid,Barcelona,3.0,2.0,H,1.0,1.0,D,1.85,3.8,4.0,1.88,3.96,3.99,1.87,3.96,3.89,1.53,2.5,1.54,2.48,-0.5,1.88,2.02,Real Madrid,Barcelona,real_madrid,barcelona
+2024-05-04,SP1,Spain-LaLiga,2324,Real Madrid,Cadiz,3.0,0.0,H,0.0,0.0,D,1.33,5.25,8.5,1.35,5.53,8.54,1.34,5.33,8.92,1.67,2.2,1.67,2.22,-1.5,2.04,1.89,Real Madrid,Cadiz,real_madrid,cadiz
+2024-05-14,SP1,Spain-LaLiga,2324,Real Madrid,Alaves,5.0,0.0,H,3.0,0.0,H,1.22,7.5,11.0,1.21,7.35,14.08,1.21,7.03,14.07,1.5,2.63,1.49,2.63,-2.0,2.08,1.85,Real Madrid,Deportivo Alaves,real_madrid,deportivo_alaves
+2024-05-25,SP1,Spain-LaLiga,2324,Real Madrid,Betis,0.0,0.0,D,0.0,0.0,D,1.33,6.0,7.5,1.35,5.67,7.79,1.37,5.56,7.31,1.36,3.2,1.37,3.08,-1.5,2.02,1.88,Real Madrid,Real Betis,real_madrid,real_betis
+2024-08-25,SP1,Spain-LaLiga,2425,Real Madrid,Valladolid,3.0,0.0,H,0.0,0.0,D,1.18,7.5,15.0,1.17,8.51,16.25,1.17,7.96,15.17,1.4,3.0,1.39,2.96,-2.0,1.88,2.02,Real Madrid,Real Valladolid,real_madrid,real_valladolid
+2024-09-01,SP1,Spain-LaLiga,2425,Real Madrid,Betis,2.0,0.0,H,0.0,0.0,D,1.29,5.75,9.5,1.29,5.97,9.9,1.29,5.91,10.17,1.53,2.5,1.53,2.49,-1.75,2.05,1.85,Real Madrid,Real Betis,real_madrid,real_betis
+2024-09-21,SP1,Spain-LaLiga,2425,Real Madrid,Espanol,4.0,1.0,H,0.0,0.0,D,1.17,7.0,19.0,1.17,8.33,15.46,1.16,8.07,16.79,1.4,3.0,1.4,2.94,-2.25,2.04,1.86,Real Madrid,Espanyol,real_madrid,espanyol
+2024-09-24,SP1,Spain-LaLiga,2425,Real Madrid,Alaves,3.0,2.0,H,2.0,0.0,H,1.2,6.5,13.0,1.18,7.39,16.8,1.19,7.37,16.0,1.5,2.63,1.48,2.63,-2.0,2.05,1.88,Real Madrid,Deportivo Alaves,real_madrid,deportivo_alaves
+2024-10-05,SP1,Spain-LaLiga,2425,Real Madrid,Villarreal,2.0,0.0,H,1.0,0.0,H,1.27,6.25,8.5,1.27,6.65,9.54,1.27,6.6,9.69,1.33,3.4,1.31,3.42,-1.75,1.9,2.0,Real Madrid,Villarreal,real_madrid,villarreal
+2024-10-26,SP1,Spain-LaLiga,2425,Real Madrid,Barcelona,0.0,4.0,A,0.0,0.0,D,2.0,4.1,3.25,2.04,4.09,3.35,2.04,4.04,3.29,1.4,3.0,1.41,2.92,-0.5,2.04,1.86,Real Madrid,Barcelona,real_madrid,barcelona
+2024-11-09,SP1,Spain-LaLiga,2425,Real Madrid,Osasuna,4.0,0.0,H,2.0,0.0,H,1.2,7.0,13.0,1.19,7.58,13.77,1.19,7.32,13.91,1.48,2.6,1.46,2.68,-2.0,1.95,1.95,Real Madrid,Osasuna,real_madrid,osasuna
+2024-12-01,SP1,Spain-LaLiga,2425,Real Madrid,Getafe,2.0,0.0,H,2.0,0.0,H,1.36,4.5,10.0,1.37,4.87,9.55,1.36,4.75,9.5,2.03,1.87,1.99,1.84,-1.25,1.87,2.03,Real Madrid,Getafe,real_madrid,getafe
+2024-12-22,SP1,Spain-LaLiga,2425,Real Madrid,Sevilla,4.0,2.0,H,3.0,1.0,H,1.33,5.5,9.0,1.35,5.87,7.84,1.34,5.53,8.21,1.53,2.5,1.51,2.52,-1.5,1.93,1.97,Real Madrid,Sevilla,real_madrid,sevilla
+2025-01-19,SP1,Spain-LaLiga,2425,Real Madrid,Las Palmas,4.0,1.0,H,3.0,1.0,H,1.14,7.5,17.0,1.15,9.06,16.17,1.15,8.44,16.41,1.33,3.4,1.3,3.39,-2.25,1.95,1.95,Real Madrid,Las Palmas,real_madrid,las_palmas
+2025-02-08,SP1,Spain-LaLiga,2425,Real Madrid,Ath Madrid,1.0,1.0,D,0.0,1.0,A,1.85,3.6,4.2,1.9,3.67,4.21,1.88,3.68,4.13,1.8,2.0,1.79,2.04,-0.5,1.9,2.0,Real Madrid,Atletico Madrid,real_madrid,atletico_madrid
+2025-02-23,SP1,Spain-LaLiga,2425,Real Madrid,Girona,2.0,0.0,H,1.0,0.0,H,1.29,6.25,8.5,1.28,6.44,9.32,1.28,6.26,9.32,1.4,3.0,1.38,2.97,-1.75,1.99,1.91,Real Madrid,Girona,real_madrid,girona
+2025-03-09,SP1,Spain-LaLiga,2425,Real Madrid,Vallecano,2.0,1.0,H,2.0,1.0,H,1.29,5.75,9.5,1.28,6.23,10.43,1.28,5.97,10.23,1.53,2.32,1.54,2.47,-1.5,1.79,1.99,Real Madrid,Rayo Vallecano,real_madrid,rayo_vallecano
+2025-03-29,SP1,Spain-LaLiga,2425,Real Madrid,Leganes,3.0,2.0,H,1.0,2.0,A,1.14,8.0,17.0,1.16,8.6,16.9,1.15,8.37,17.3,1.36,3.2,1.35,3.1,-2.25,1.93,1.85,Real Madrid,Leganes,real_madrid,leganes
+2025-04-05,SP1,Spain-LaLiga,2425,Real Madrid,Valencia,1.0,2.0,A,0.0,1.0,A,1.3,5.75,8.5,1.3,5.83,10.25,1.3,5.68,9.44,1.53,2.5,1.51,2.52,-1.5,1.9,2.0,Real Madrid,Valencia,real_madrid,valencia
+2025-04-20,SP1,Spain-LaLiga,2425,Real Madrid,Ath Bilbao,1.0,0.0,H,0.0,0.0,D,1.65,3.9,5.25,1.68,3.98,5.32,1.67,3.94,5.04,1.73,2.1,1.71,2.13,-0.75,1.87,2.03,Real Madrid,Athletic Bilbao,real_madrid,athletic_bilbao
+2025-05-04,SP1,Spain-LaLiga,2425,Real Madrid,Celta,3.0,2.0,H,2.0,0.0,H,1.33,5.75,7.0,1.37,5.85,7.34,1.36,5.64,7.26,1.36,3.2,1.34,3.16,-1.5,1.98,1.92,Real Madrid,Celta Vigo,real_madrid,celta_vigo
+2025-05-14,SP1,Spain-LaLiga,2425,Real Madrid,Mallorca,2.0,1.0,H,0.0,1.0,A,1.38,5.25,7.0,1.38,5.19,8.13,1.38,5.06,7.87,1.57,2.38,1.59,2.36,-1.5,2.03,1.78,Real Madrid,Mallorca,real_madrid,mallorca
+2025-05-24,SP1,Spain-LaLiga,2425,Real Madrid,Sociedad,2.0,0.0,H,1.0,0.0,H,1.42,5.0,6.5,1.44,5.12,6.73,1.42,5.04,6.72,1.44,2.75,1.44,2.74,-1.25,1.88,1.98,Real Madrid,Real Sociedad,real_madrid,real_sociedad
+2025-08-19,SP1,Spain-LaLiga,2526,Real Madrid,Osasuna,1.0,0.0,H,0.0,0.0,D,1.22,6.25,13.0,1.23,6.99,12.34,1.2,6.66,13.16,1.5,2.63,1.49,2.56,-2.0,2.03,1.78,Real Madrid,Osasuna,real_madrid,osasuna
+2025-08-30,SP1,Spain-LaLiga,2526,Real Madrid,Mallorca,2.0,1.0,H,2.0,1.0,H,1.18,7.0,15.0,1.21,7.16,12.71,1.18,6.96,14.97,1.57,2.38,1.53,2.39,-2.0,1.98,1.88,Real Madrid,Mallorca,real_madrid,mallorca
+2025-09-20,SP1,Spain-LaLiga,2526,Real Madrid,Espanol,2.0,0.0,H,1.0,0.0,H,1.2,7.0,13.0,1.22,6.36,15.46,1.2,6.67,13.36,1.4,3.0,1.38,2.91,-2.0,1.98,1.88,Real Madrid,Espanyol,real_madrid,espanyol
+2025-10-04,SP1,Spain-LaLiga,2526,Real Madrid,Villarreal,3.0,1.0,H,0.0,0.0,D,1.45,5.0,6.0,1.47,5.38,5.82,1.44,4.98,6.1,1.4,3.0,1.39,2.87,-1.25,1.93,1.93,Real Madrid,Villarreal,real_madrid,villarreal
+2025-10-26,SP1,Spain-LaLiga,2526,Real Madrid,Barcelona,2.0,1.0,H,2.0,1.0,H,1.95,4.1,3.3,1.97,4.41,3.33,1.99,4.07,3.16,1.3,3.5,1.28,3.43,-0.5,1.98,1.88,Real Madrid,Barcelona,real_madrid,barcelona
+2025-11-01,SP1,Spain-LaLiga,2526,Real Madrid,Valencia,4.0,0.0,H,3.0,0.0,H,1.17,8.0,15.0,1.18,8.44,13.21,1.17,7.58,14.28,1.36,3.2,1.34,3.07,-2.25,2.03,1.83,Real Madrid,Valencia,real_madrid,valencia
+2025-12-07,SP1,Spain-LaLiga,2526,Real Madrid,Celta,0.0,2.0,A,0.0,0.0,D,1.3,5.5,9.5,1.3,5.84,9.64,1.29,5.65,8.81,1.36,3.2,1.36,3.01,-1.75,2.0,1.85,Real Madrid,Celta Vigo,real_madrid,celta_vigo
+2025-12-20,SP1,Spain-LaLiga,2526,Real Madrid,Sevilla,2.0,0.0,H,1.0,0.0,H,1.2,7.0,12.0,1.21,7.03,13.82,1.21,6.82,12.31,1.36,3.2,1.34,3.11,-2.0,1.98,1.88,Real Madrid,Sevilla,real_madrid,sevilla
+2026-01-04,SP1,Spain-LaLiga,2526,Real Madrid,Betis,5.0,1.0,H,1.0,0.0,H,1.45,4.75,6.25,1.45,4.92,6.8,1.46,4.67,5.99,1.44,2.75,1.44,2.66,-1.25,2.0,1.85,Real Madrid,Real Betis,real_madrid,real_betis
+2026-01-17,SP1,Spain-LaLiga,2526,Real Madrid,Levante,2.0,0.0,H,0.0,0.0,D,1.17,8.0,15.0,,,,1.16,8.13,14.17,1.29,3.75,1.27,3.52,-2.25,1.93,1.93,Real Madrid,Levante,real_madrid,levante
+2026-02-01,SP1,Spain-LaLiga,2526,Real Madrid,Vallecano,2.0,1.0,H,1.0,0.0,H,1.25,6.0,12.0,,,,1.24,5.96,10.69,1.44,2.75,1.46,2.6,-1.75,1.93,1.93,Real Madrid,Rayo Vallecano,real_madrid,rayo_vallecano
+2026-02-14,SP1,Spain-LaLiga,2526,Real Madrid,Sociedad,4.0,1.0,H,3.0,1.0,H,1.33,5.25,8.0,,,,1.34,5.27,7.59,1.44,2.75,1.42,2.72,-1.5,2.03,1.83,Real Madrid,Real Sociedad,real_madrid,real_sociedad
+2026-03-02,SP1,Spain-LaLiga,2526,Real Madrid,Getafe,0.0,1.0,A,0.0,1.0,A,1.3,5.5,10.0,,,,1.28,5.12,10.52,1.83,2.03,1.77,1.98,-1.5,1.95,1.9,Real Madrid,Getafe,real_madrid,getafe
+2026-03-14,SP1,Spain-LaLiga,2526,Real Madrid,Elche,4.0,1.0,H,2.0,0.0,H,1.33,5.5,7.5,,,,1.3,5.66,8.41,1.44,2.75,1.42,2.69,-1.5,1.9,1.95,Real Madrid,Elche,real_madrid,elche
+2026-03-22,SP1,Spain-LaLiga,2526,Real Madrid,Ath Madrid,3.0,2.0,H,0.0,1.0,A,1.95,4.0,3.5,,,,1.91,3.78,3.54,1.62,2.3,1.57,2.31,-0.5,1.95,1.9,Real Madrid,Atletico Madrid,real_madrid,atletico_madrid
+2026-04-10,SP1,Spain-LaLiga,2526,Real Madrid,Girona,1.0,1.0,D,0.0,0.0,D,1.3,6.0,8.5,,,,1.3,5.76,8.57,1.44,2.75,1.42,2.77,-1.5,1.9,1.95,Real Madrid,Girona,real_madrid,girona
+2026-04-21,SP1,Spain-LaLiga,2526,Real Madrid,Alaves,2.0,1.0,H,1.0,0.0,H,1.22,6.5,12.0,,,,1.23,6.46,11.23,1.4,3.0,1.4,2.81,-1.75,1.83,2.03,Real Madrid,Deportivo Alaves,real_madrid,deportivo_alaves
+2026-05-14,SP1,Spain-LaLiga,2526,Real Madrid,Oviedo,2.0,0.0,H,1.0,0.0,H,1.22,7.0,11.0,,,,1.23,6.28,10.42,1.4,3.0,1.38,2.91,-1.75,1.88,1.98,Real Madrid,Real Oviedo,real_madrid,real_oviedo
+2026-05-23,SP1,Spain-LaLiga,2526,Real Madrid,Ath Bilbao,4.0,2.0,H,2.0,1.0,H,1.5,4.75,5.75,,,,1.46,4.63,5.84,1.5,2.63,1.47,2.57,-1.25,2.03,1.83,Real Madrid,Athletic Bilbao,real_madrid,athletic_bilbao
+2026-08-26,SP1,Spain-LaLiga,2627,Real Madrid,Sociedad,4.0,1.0,H,1.0,1.0,D,1.3,6.25,8.0,,,,1.31,5.65,8.33,1.44,2.75,1.42,2.73,-1.5,1.88,1.98,Real Madrid,Real Sociedad,real_madrid,real_sociedad
+2026-08-30,SP1,Spain-LaLiga,2627,Real Madrid,Malaga,4.0,0.0,H,3.0,0.0,H,1.11,9.0,21.0,,,,1.11,8.86,18.31,1.33,3.4,1.31,3.31,-2.5,1.95,1.9,Real Madrid,Malaga,real_madrid,malaga
+2026-09-12,SP1,Spain-LaLiga,2627,Real Madrid,Vallecano,4.0,1.0,H,3.0,0.0,H,1.13,9.5,19.0,,,,1.11,9.06,18.38,1.29,3.75,1.26,3.67,-2.5,1.9,1.95,Real Madrid,Rayo Vallecano,real_madrid,rayo_vallecano
+2026-10-10,SP1,Spain-LaLiga,2627,Real Madrid,Villarreal,1.0,0.0,H,0.0,0.0,D,1.38,6.0,6.25,,,,1.36,5.61,6.69,1.29,3.75,1.26,3.64,-1.5,1.95,1.9,Real Madrid,Villarreal,real_madrid,villarreal
+2026-10-18,SP1,Spain-LaLiga,2627,Real Madrid,Sevilla,4.0,1.0,H,2.0,0.0,H,1.25,7.0,9.5,,,,1.23,6.27,10.23,1.4,3.0,1.4,2.8,-1.75,1.83,2.03,Real Madrid,Sevilla,real_madrid,sevilla

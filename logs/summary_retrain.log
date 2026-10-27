@@ -1,0 +1,32 @@
+
+======================================================================
+RINGKASAN VERDICT MODE mode_A
+======================================================================
+Total pasar: 6
+  BETTER: 1
+  NEUTRAL: 5
+
+BETTER markets:
+  ✓ 1x2 (Δlogloss=-0.0018)
+
+Catatan interpretasi:
+- Δlogloss < -0.001 = BETTER (model baru lebih baik)
+- |Δlogloss| < 0.001 = NEUTRAL (noise)
+- Δlogloss > 0.001 = WORSE (model baru lebih buruk)
+- H2H fix diisolasi di 2 kolom fitur — bukan klaim kausal
+
+======================================================================
+RINGKASAN VERDICT MODE mode_B
+======================================================================
+Total pasar: 6
+  NEUTRAL: 5
+  WORSE: 1
+
+WORSE markets:
+  ✗ away_ou05 (Δlogloss=+0.0013)
+
+Catatan interpretasi:
+- Δlogloss < -0.001 = BETTER (model baru lebih baik)
+- |Δlogloss| < 0.001 = NEUTRAL (noise)
+- Δlogloss > 0.001 = WORSE (model baru lebih buruk)
+- H2H fix diisolasi di 2 kolom fitur — bukan klaim kausal

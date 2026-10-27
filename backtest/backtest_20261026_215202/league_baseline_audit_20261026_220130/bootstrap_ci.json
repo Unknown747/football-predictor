@@ -1,0 +1,938 @@
+{
+  "1x2": {
+    "Belgium-JPL": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "England-Champ": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "England-Conference": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "England-L1": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "England-L2": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "England-PL": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "France-L1": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "France-L2": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Germany-BL1": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Germany-BL2": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Greece-SL": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Italy-SA": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Italy-SB": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Netherlands-ED": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Portugal-Liga1": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Scotland-Champ": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Scotland-L1": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Scotland-L2": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Scotland-Prem": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Spain-LaLiga": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Spain-Segunda": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Turkey-SL": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    }
+  },
+  "ou25": {
+    "Belgium-JPL": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "England-Champ": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "England-Conference": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "England-L1": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "England-L2": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "England-PL": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "France-L1": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "France-L2": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Germany-BL1": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Germany-BL2": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Greece-SL": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Italy-SA": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Italy-SB": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Netherlands-ED": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Portugal-Liga1": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Scotland-Champ": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Scotland-L1": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Scotland-L2": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Scotland-Prem": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Spain-LaLiga": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Spain-Segunda": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    },
+    "Turkey-SL": {
+      "ci_low": NaN,
+      "ci_high": NaN,
+      "method": "skipped",
+      "n_iter_valid": 0,
+      "n_weeks": 0
+    }
+  },
+  "home_ou05": {
+    "Belgium-JPL": {
+      "ci_low": -0.024660042455199704,
+      "ci_high": -0.00044312171112706743,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "England-Champ": {
+      "ci_low": -0.011228767317854485,
+      "ci_high": 0.0070732953246959674,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "England-Conference": {
+      "ci_low": -0.03433472559006175,
+      "ci_high": -0.011814461861673231,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 48
+    },
+    "England-L1": {
+      "ci_low": -0.020819083296595455,
+      "ci_high": 0.0013843308979510217,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "England-L2": {
+      "ci_low": -0.025558701732197434,
+      "ci_high": -0.006268866407471588,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "England-PL": {
+      "ci_low": -0.03647110774916967,
+      "ci_high": -0.007947381460404537,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "France-L1": {
+      "ci_low": -0.04744647256270646,
+      "ci_high": -0.004288533748083129,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 40
+    },
+    "France-L2": {
+      "ci_low": -0.022149540792590298,
+      "ci_high": 0.008515068228116115,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "Germany-BL1": {
+      "ci_low": -0.04716840752969842,
+      "ci_high": -0.017627473503442587,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 39
+    },
+    "Germany-BL2": {
+      "ci_low": -0.022785728368281622,
+      "ci_high": -0.002335842345877302,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 42
+    },
+    "Greece-SL": {
+      "ci_low": -0.05568215490713249,
+      "ci_high": -0.007959061565053265,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 42
+    },
+    "Italy-SA": {
+      "ci_low": -0.05784340626989938,
+      "ci_high": -0.021320606842612982,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "Italy-SB": {
+      "ci_low": -0.019372357602534605,
+      "ci_high": 0.007065946030386234,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 40
+    },
+    "Netherlands-ED": {
+      "ci_low": -0.04977932481034549,
+      "ci_high": -0.021981101801144504,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 43
+    },
+    "Portugal-Liga1": {
+      "ci_low": -0.07010192637564583,
+      "ci_high": -0.028666122647045236,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 47
+    },
+    "Scotland-Champ": {
+      "ci_low": -0.0355648145044353,
+      "ci_high": 0.003107346634744726,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 50
+    },
+    "Scotland-L1": {
+      "ci_low": -0.05555903488385874,
+      "ci_high": -0.013519197855921646,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 50
+    },
+    "Scotland-L2": {
+      "ci_low": -0.022215869581997585,
+      "ci_high": 0.015476988800510256,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 47
+    },
+    "Scotland-Prem": {
+      "ci_low": -0.0363014946810407,
+      "ci_high": -0.0009759959362178579,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "Spain-LaLiga": {
+      "ci_low": -0.038085649031503986,
+      "ci_high": -0.013416078877182725,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "Spain-Segunda": {
+      "ci_low": -0.02367451361055444,
+      "ci_high": -0.003930268666230694,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "Turkey-SL": {
+      "ci_low": -0.04938879471968687,
+      "ci_high": -0.016991625861835936,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 44
+    }
+  },
+  "home_ou15": {
+    "Belgium-JPL": {
+      "ci_low": -0.06877695433545264,
+      "ci_high": -0.032330647384551874,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "England-Champ": {
+      "ci_low": -0.04171338824157283,
+      "ci_high": -0.00594806159636728,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "England-Conference": {
+      "ci_low": -0.04235069857667708,
+      "ci_high": -0.010661238626701878,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 48
+    },
+    "England-L1": {
+      "ci_low": -0.02960338499398524,
+      "ci_high": 0.00700911531754513,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "England-L2": {
+      "ci_low": -0.03027688745380858,
+      "ci_high": 0.0030838892379127427,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "England-PL": {
+      "ci_low": -0.0440441294477573,
+      "ci_high": 0.005641919418787871,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "France-L1": {
+      "ci_low": -0.06272588662818913,
+      "ci_high": -0.0022811472479162434,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 40
+    },
+    "France-L2": {
+      "ci_low": -0.051105410686776896,
+      "ci_high": -0.01175387884374939,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "Germany-BL1": {
+      "ci_low": -0.06568908593348012,
+      "ci_high": -0.014019658989762278,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 39
+    },
+    "Germany-BL2": {
+      "ci_low": -0.025760101629421207,
+      "ci_high": 0.014205542680550996,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 42
+    },
+    "Greece-SL": {
+      "ci_low": -0.0803540474214842,
+      "ci_high": -0.013951571132205976,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 42
+    },
+    "Italy-SA": {
+      "ci_low": -0.07742185081099856,
+      "ci_high": -0.018223808843510925,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "Italy-SB": {
+      "ci_low": -0.0466666098139491,
+      "ci_high": -0.013880203654456897,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 40
+    },
+    "Netherlands-ED": {
+      "ci_low": -0.0951897236775352,
+      "ci_high": -0.03220794318344559,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 43
+    },
+    "Portugal-Liga1": {
+      "ci_low": -0.10647291733605221,
+      "ci_high": -0.048012677212280426,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 47
+    },
+    "Scotland-Champ": {
+      "ci_low": -0.03028969005840439,
+      "ci_high": 0.03459601656797774,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 50
+    },
+    "Scotland-L1": {
+      "ci_low": -0.08079170194869709,
+      "ci_high": -0.0191664438395041,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 50
+    },
+    "Scotland-L2": {
+      "ci_low": -0.03491959718674586,
+      "ci_high": 0.016678754797860504,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 47
+    },
+    "Scotland-Prem": {
+      "ci_low": -0.04476806283564114,
+      "ci_high": 0.022845830776783455,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "Spain-LaLiga": {
+      "ci_low": -0.08077470572815708,
+      "ci_high": -0.027882089704837333,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "Spain-Segunda": {
+      "ci_low": -0.041635046277045396,
+      "ci_high": -0.006419029034173856,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "Turkey-SL": {
+      "ci_low": -0.07441114648101309,
+      "ci_high": -0.02685424741959675,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 44
+    }
+  },
+  "away_ou05": {
+    "Belgium-JPL": {
+      "ci_low": -0.02545666041490677,
+      "ci_high": 0.010949982168344549,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "England-Champ": {
+      "ci_low": -0.01938623829339873,
+      "ci_high": 0.01090456832955419,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "England-Conference": {
+      "ci_low": -0.037672643510488546,
+      "ci_high": -0.012201297870472536,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 48
+    },
+    "England-L1": {
+      "ci_low": -0.022189427183631392,
+      "ci_high": -0.0008789719963342838,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "England-L2": {
+      "ci_low": -0.008588644758126516,
+      "ci_high": 0.01157122612515109,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "England-PL": {
+      "ci_low": -0.03895602951056267,
+      "ci_high": -0.004723035160282682,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "France-L1": {
+      "ci_low": -0.03509171691381306,
+      "ci_high": 0.008930799311939219,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 40
+    },
+    "France-L2": {
+      "ci_low": -0.01648033203219994,
+      "ci_high": 0.010428874105941066,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "Germany-BL1": {
+      "ci_low": -0.044023001666606824,
+      "ci_high": -0.007668841114668579,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 39
+    },
+    "Germany-BL2": {
+      "ci_low": -0.0238078462543448,
+      "ci_high": 0.017104438336220273,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 42
+    },
+    "Greece-SL": {
+      "ci_low": -0.07521559144743895,
+      "ci_high": -0.021475905789800014,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 42
+    },
+    "Italy-SA": {
+      "ci_low": -0.048760867799661656,
+      "ci_high": -0.007216707485509883,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "Italy-SB": {
+      "ci_low": -0.03028550822218642,
+      "ci_high": -0.007310390288543796,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 40
+    },
+    "Netherlands-ED": {
+      "ci_low": -0.057627516609010866,
+      "ci_high": -0.02743898680285755,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 43
+    },
+    "Portugal-Liga1": {
+      "ci_low": -0.06635795466842266,
+      "ci_high": -0.03133992923469686,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 47
+    },
+    "Scotland-Champ": {
+      "ci_low": -0.04018025594694415,
+      "ci_high": 0.0040999838371231796,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 50
+    },
+    "Scotland-L1": {
+      "ci_low": -0.04304326125794047,
+      "ci_high": 0.0017334040843670331,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 50
+    },
+    "Scotland-L2": {
+      "ci_low": -0.04263508248606967,
+      "ci_high": 0.00789588675172851,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 47
+    },
+    "Scotland-Prem": {
+      "ci_low": -0.06317955573246321,
+      "ci_high": -0.024323748730087125,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "Spain-LaLiga": {
+      "ci_low": -0.03060511543783392,
+      "ci_high": 0.007071561221589202,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "Spain-Segunda": {
+      "ci_low": -0.02114200096956317,
+      "ci_high": 0.006801459140038085,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "Turkey-SL": {
+      "ci_low": -0.04292146019033693,
+      "ci_high": -0.0030087552413478103,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 44
+    }
+  },
+  "away_ou15": {
+    "Belgium-JPL": {
+      "ci_low": -0.05073698895446396,
+      "ci_high": -0.006858474486370102,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "England-Champ": {
+      "ci_low": -0.03529135369183312,
+      "ci_high": -0.003747638867830659,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "England-Conference": {
+      "ci_low": -0.049070301480774264,
+      "ci_high": -0.00872258455387853,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 48
+    },
+    "England-L1": {
+      "ci_low": -0.0239121962598708,
+      "ci_high": 0.006456873535027643,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "England-L2": {
+      "ci_low": -0.02143195738017503,
+      "ci_high": 0.0018784219003754228,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "England-PL": {
+      "ci_low": -0.03195829985122501,
+      "ci_high": 0.018331809107593456,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "France-L1": {
+      "ci_low": -0.03865939980272218,
+      "ci_high": 0.009257791741062876,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 40
+    },
+    "France-L2": {
+      "ci_low": -0.022465321628146014,
+      "ci_high": 0.01124634357987933,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "Germany-BL1": {
+      "ci_low": -0.07412574862189213,
+      "ci_high": -0.03143986330135532,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 39
+    },
+    "Germany-BL2": {
+      "ci_low": -0.03240416569520348,
+      "ci_high": 0.014322857797524196,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 42
+    },
+    "Greece-SL": {
+      "ci_low": -0.0763206326011414,
+      "ci_high": -0.02069155767708898,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 42
+    },
+    "Italy-SA": {
+      "ci_low": -0.049941511936980876,
+      "ci_high": -0.012554331157473066,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 45
+    },
+    "Italy-SB": {
+      "ci_low": -0.033830653621683526,
+      "ci_high": -0.006107596921025958,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 40
+    },
+    "Netherlands-ED": {
+      "ci_low": -0.08812554280276882,
+      "ci_high": -0.028180369071440923,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 43
+    },
+    "Portugal-Liga1": {
+      "ci_low": -0.08930851336554342,
+      "ci_high": -0.041611305183122026,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 47
+    },
+    "Scotland-Champ": {
+      "ci_low": -0.028729230025126014,
+      "ci_high": 0.02191525657030105,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 50
+    },
+    "Scotland-L1": {
+      "ci_low": -0.03420036054543799,
+      "ci_high": 0.022065236511068443,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 50
+    },
+    "Scotland-L2": {
+      "ci_low": -0.034237271736747246,
+      "ci_high": 0.015559310844888414,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 47
+    },
+    "Scotland-Prem": {
+      "ci_low": -0.06020583235305606,
+      "ci_high": -0.008780466341370427,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "Spain-LaLiga": {
+      "ci_low": -0.05789190575709367,
+      "ci_high": -0.014271149374110427,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 46
+    },
+    "Spain-Segunda": {
+      "ci_low": -0.024962082423275182,
+      "ci_high": -0.0015356393978958503,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 52
+    },
+    "Turkey-SL": {
+      "ci_low": -0.0585032203223102,
+      "ci_high": -0.015260782049018986,
+      "method": "block_week",
+      "n_iter_valid": 1000,
+      "n_weeks": 44
+    }
+  }
+}

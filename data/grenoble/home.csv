@@ -1,0 +1,96 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-24,F2,France-L2,2122,Grenoble,Paris FC,0.0,4.0,A,0.0,1.0,A,2.7,3.1,2.75,2.69,3.03,2.97,2.6,2.97,2.89,2.4,1.53,2.48,1.52,0.0,1.85,2.0,Grenoble,Paris FC,grenoble,paris_fc
+2021-08-07,F2,France-L2,2122,Grenoble,Guingamp,0.0,0.0,D,0.0,0.0,D,2.5,3.2,2.87,2.71,3.31,2.72,2.59,3.2,2.69,2.05,1.75,2.03,1.77,0.0,1.88,1.98,Grenoble,Guingamp,grenoble,guingamp
+2021-08-21,F2,France-L2,2122,Grenoble,Quevilly Rouen,2.0,0.0,H,1.0,0.0,H,2.05,3.3,3.6,2.1,3.09,4.15,2.08,3.08,3.82,2.1,1.7,2.13,1.7,-0.25,1.8,2.05,Grenoble,Quevilly Rouen,grenoble,quevilly_rouen
+2021-09-11,F2,France-L2,2122,Grenoble,Nimes,2.0,1.0,H,0.0,1.0,A,3.1,3.1,2.45,3.17,3.13,2.44,3.08,3.09,2.4,2.3,1.6,2.27,1.62,0.25,1.77,2.1,Grenoble,Nimes,grenoble,nimes
+2021-09-21,F2,France-L2,2122,Grenoble,Nancy,4.0,1.0,H,1.0,1.0,D,2.0,3.3,3.75,2.01,3.39,3.93,2.03,3.28,3.74,2.0,1.8,2.03,1.76,-0.5,2.05,1.8,Grenoble,Nancy,grenoble,nancy
+2021-10-02,F2,France-L2,2122,Grenoble,Pau FC,2.0,0.0,H,2.0,0.0,H,2.3,3.2,3.0,2.44,3.17,3.13,2.39,3.14,3.04,2.1,1.7,2.09,1.72,-0.25,2.02,1.83,Grenoble,Pau FC,grenoble,pau_fc
+2021-10-23,F2,France-L2,2122,Grenoble,Dijon,1.0,2.0,A,1.0,0.0,H,2.37,3.0,3.0,2.43,3.0,3.34,2.38,3.08,3.08,2.25,1.61,2.23,1.63,-0.25,2.05,1.8,Grenoble,Dijon,grenoble,dijon
+2021-11-06,F2,France-L2,2122,Grenoble,Dunkerque,1.0,0.0,H,0.0,0.0,D,2.0,3.1,3.8,2.18,2.99,3.97,2.14,3.03,3.7,2.4,1.53,2.42,1.54,-0.25,1.83,2.02,Grenoble,Dunkerque,grenoble,dunkerque
+2021-12-03,F2,France-L2,2122,Grenoble,Le Havre,1.0,2.0,A,0.0,1.0,A,2.6,2.9,3.0,2.77,2.82,3.16,2.59,2.81,3.12,2.87,1.4,2.81,1.41,0.0,1.8,2.05,Grenoble,Le Havre,grenoble,le_havre
+2022-01-08,F2,France-L2,2122,Grenoble,Auxerre,0.0,1.0,A,0.0,1.0,A,2.9,3.0,2.37,3.17,2.85,2.65,2.93,3.03,2.52,2.25,1.61,2.24,1.62,0.0,2.08,1.73,Grenoble,AJ Auxerre,grenoble,aj_auxerre
+2022-02-12,F2,France-L2,2122,Grenoble,Sochaux,1.0,3.0,A,1.0,1.0,D,3.4,3.0,2.15,3.72,2.98,2.27,3.54,2.94,2.25,2.6,1.47,2.58,1.49,0.25,1.95,1.9,Grenoble,Sochaux,grenoble,sochaux
+2022-02-15,F2,France-L2,2122,Grenoble,Niort,1.0,0.0,H,0.0,0.0,D,2.4,2.9,3.0,2.57,2.96,3.27,2.46,2.96,3.11,2.5,1.5,2.49,1.52,-0.25,2.13,1.75,Grenoble,Niort,grenoble,niort
+2022-02-28,F2,France-L2,2122,Grenoble,Toulouse,0.0,2.0,A,0.0,0.0,D,3.8,3.4,1.85,4.88,3.36,1.83,4.35,3.37,1.85,2.1,1.7,2.13,1.69,0.5,1.95,1.9,Grenoble,Toulouse,grenoble,toulouse
+2022-03-12,F2,France-L2,2122,Grenoble,Rodez,0.0,0.0,D,0.0,0.0,D,2.87,2.75,2.8,2.97,2.78,2.88,2.87,2.77,2.79,3.4,1.33,3.04,1.36,0.0,1.95,1.9,Grenoble,Rodez,grenoble,rodez
+2022-03-19,F2,France-L2,2122,Grenoble,Bastia,1.0,1.0,D,0.0,0.0,D,2.87,2.87,2.5,3.06,3.03,2.58,2.96,2.95,2.57,2.6,1.47,2.6,1.47,0.0,2.1,1.77,Grenoble,Bastia,grenoble,bastia
+2022-04-09,F2,France-L2,2122,Grenoble,Caen,0.0,2.0,A,0.0,0.0,D,,,,3.96,3.01,2.18,3.71,3.04,2.15,,,2.6,1.47,0.25,,,Grenoble,Caen,grenoble,caen
+2022-04-19,F2,France-L2,2122,Grenoble,Valenciennes,3.0,0.0,H,1.0,0.0,H,2.8,2.8,2.6,3.17,2.75,2.83,2.99,2.78,2.71,2.7,1.44,2.72,1.44,0.0,2.0,1.85,Grenoble,Valenciennes,grenoble,valenciennes
+2022-04-30,F2,France-L2,2122,Grenoble,Amiens,1.0,1.0,D,1.0,0.0,H,2.25,3.1,2.9,2.44,3.13,3.17,2.39,3.1,3.08,2.25,1.61,2.29,1.59,-0.25,2.05,1.8,Grenoble,Amiens,grenoble,amiens
+2022-05-07,F2,France-L2,2122,Grenoble,Ajaccio,1.0,1.0,D,1.0,0.0,H,5.0,3.3,1.7,5.1,3.6,1.74,5.01,3.52,1.72,2.25,1.61,2.24,1.62,0.75,1.9,1.95,Grenoble,Ajaccio,grenoble,ajaccio
+2022-08-06,F2,France-L2,2223,Grenoble,Sochaux,1.0,0.0,H,1.0,0.0,H,3.5,3.0,2.15,4.15,3.13,2.11,3.68,3.02,2.15,2.6,1.47,2.57,1.48,0.25,2.0,1.85,Grenoble,Sochaux,grenoble,sochaux
+2022-08-22,F2,France-L2,2223,Grenoble,Bordeaux,0.0,0.0,D,0.0,0.0,D,3.2,2.9,2.37,3.07,3.06,2.55,3.03,3.01,2.42,2.5,1.5,2.35,1.56,0.25,1.8,2.05,Grenoble,Bordeaux,grenoble,bordeaux
+2022-08-30,F2,France-L2,2223,Grenoble,Nimes,3.0,2.0,H,1.0,0.0,H,2.3,2.87,3.4,2.38,3.05,3.51,2.31,3.02,3.29,2.4,1.53,2.4,1.55,-0.25,1.98,1.88,Grenoble,Nimes,grenoble,nimes
+2022-09-10,F2,France-L2,2223,Grenoble,Paris FC,1.0,2.0,A,0.0,0.0,D,2.87,3.1,2.37,3.19,3.15,2.49,3.01,3.05,2.44,2.35,1.57,2.36,1.56,0.25,1.73,2.08,Grenoble,Paris FC,grenoble,paris_fc
+2022-09-17,F2,France-L2,2223,Grenoble,Caen,1.0,0.0,H,0.0,0.0,D,3.2,3.1,2.2,3.43,3.05,2.42,3.23,3.05,2.31,2.5,1.5,2.48,1.51,0.25,1.88,1.98,Grenoble,Caen,grenoble,caen
+2022-10-08,F2,France-L2,2223,Grenoble,Laval,3.0,2.0,H,3.0,2.0,H,2.37,3.2,2.9,2.41,3.17,3.29,2.37,3.13,3.07,2.35,1.57,2.33,1.58,-0.25,2.05,1.8,Grenoble,Laval,grenoble,laval
+2022-10-22,F2,France-L2,2223,Grenoble,Valenciennes,1.0,0.0,H,0.0,0.0,D,2.37,3.2,3.0,2.47,2.99,3.4,2.37,3.03,3.18,2.4,1.53,2.42,1.54,-0.25,2.02,1.83,Grenoble,Valenciennes,grenoble,valenciennes
+2022-11-12,F2,France-L2,2223,Grenoble,Dijon,0.0,0.0,D,0.0,0.0,D,2.55,3.0,2.8,2.66,2.89,3.22,2.56,2.95,2.95,2.4,1.53,2.54,1.5,0.0,1.83,2.02,Grenoble,Dijon,grenoble,dijon
+2022-12-30,F2,France-L2,2223,Grenoble,Metz,0.0,1.0,A,0.0,0.0,D,2.63,3.0,2.6,2.86,2.95,2.91,2.71,2.96,2.75,2.4,1.53,2.43,1.54,0.0,1.93,1.93,Grenoble,Metz,grenoble,metz
+2023-01-28,F2,France-L2,2223,Grenoble,Bastia,0.0,1.0,A,0.0,0.0,D,2.5,2.88,3.2,2.68,2.8,3.29,2.51,2.84,3.17,2.88,1.4,2.81,1.41,-0.25,2.13,1.75,Grenoble,Bastia,grenoble,bastia
+2023-01-31,F2,France-L2,2223,Grenoble,Quevilly Rouen,1.0,0.0,H,0.0,0.0,D,2.55,2.8,3.2,2.64,2.85,3.29,2.52,2.83,3.14,2.88,1.4,2.81,1.41,0.0,1.73,2.15,Grenoble,Quevilly Rouen,grenoble,quevilly_rouen
+2023-02-11,F2,France-L2,2223,Grenoble,Pau FC,1.0,1.0,D,0.0,1.0,A,2.15,3.0,3.5,2.23,3.03,3.91,2.18,2.97,3.67,2.7,1.44,2.7,1.44,-0.25,1.85,2.0,Grenoble,Pau FC,grenoble,pau_fc
+2023-02-25,F2,France-L2,2223,Grenoble,Le Havre,0.0,0.0,D,0.0,0.0,D,3.5,2.88,2.3,3.78,2.78,2.44,3.55,2.84,2.32,2.88,1.4,2.9,1.39,0.25,1.9,1.95,Grenoble,Le Havre,grenoble,le_havre
+2023-03-11,F2,France-L2,2223,Grenoble,Annecy,2.0,1.0,H,1.0,1.0,D,2.2,3.1,3.5,2.32,3.11,3.55,2.27,3.04,3.33,2.5,1.5,2.48,1.5,-0.25,1.93,1.93,Grenoble,Annecy,grenoble,annecy
+2023-04-01,F2,France-L2,2223,Grenoble,Amiens,2.0,1.0,H,1.0,0.0,H,2.7,3.1,2.63,2.85,3.07,2.76,2.75,3.03,2.67,2.35,1.57,2.36,1.56,0.0,1.95,1.9,Grenoble,Amiens,grenoble,amiens
+2023-04-17,F2,France-L2,2223,Grenoble,St Etienne,0.0,2.0,A,0.0,0.0,D,3.4,3.2,2.15,3.62,3.24,2.17,3.43,3.19,2.14,2.15,1.67,2.17,1.65,0.25,1.98,1.88,Grenoble,Saint-Etienne,grenoble,saint_etienne
+2023-04-29,F2,France-L2,2223,Grenoble,Niort,2.0,0.0,H,1.0,0.0,H,1.85,3.4,4.33,1.85,3.54,4.72,1.83,3.39,4.39,2.25,1.62,2.2,1.64,-0.5,1.82,2.02,Grenoble,Niort,grenoble,niort
+2023-05-19,F2,France-L2,2223,Grenoble,Rodez,1.0,1.0,D,1.0,1.0,D,2.63,3.2,2.75,2.79,3.13,2.82,2.64,3.1,2.74,2.15,1.67,2.17,1.66,0.0,1.93,1.93,Grenoble,Rodez,grenoble,rodez
+2023-06-02,F2,France-L2,2223,Grenoble,Guingamp,0.0,2.0,A,0.0,1.0,A,2.88,3.3,2.25,3.1,3.62,2.3,2.96,3.47,2.26,1.73,2.08,1.75,2.05,0.25,1.88,1.98,Grenoble,Guingamp,grenoble,guingamp
+2023-08-12,F2,France-L2,2324,Grenoble,Paris FC,2.0,0.0,H,0.0,0.0,D,2.38,3.2,2.8,2.45,3.21,3.19,2.38,3.16,2.98,2.1,1.7,2.12,1.69,-0.25,2.05,1.8,Grenoble,Paris FC,grenoble,paris_fc
+2023-08-19,F2,France-L2,2324,Grenoble,Troyes,0.0,0.0,D,0.0,0.0,D,2.3,3.3,3.0,2.48,3.31,3.06,2.38,3.23,2.92,2.05,1.75,2.03,1.74,-0.25,2.03,1.78,Grenoble,Troyes,grenoble,troyes
+2023-09-02,F2,France-L2,2324,Grenoble,Bastia,0.0,0.0,D,0.0,0.0,D,2.3,3.2,3.2,2.33,3.25,3.38,2.26,3.17,3.23,2.2,1.65,2.19,1.65,-0.25,1.98,1.88,Grenoble,Bastia,grenoble,bastia
+2023-09-23,F2,France-L2,2324,Grenoble,Quevilly Rouen,2.0,1.0,H,1.0,1.0,D,2.5,3.2,2.8,2.49,3.28,3.07,2.45,3.17,2.9,2.15,1.67,2.18,1.65,-0.25,2.08,1.73,Grenoble,Quevilly Rouen,grenoble,quevilly_rouen
+2023-09-30,F2,France-L2,2324,Grenoble,Bordeaux,2.0,0.0,H,1.0,0.0,H,2.63,3.2,2.7,2.73,3.17,2.84,2.67,3.15,2.68,2.2,1.65,2.2,1.64,0.0,1.9,1.95,Grenoble,Bordeaux,grenoble,bordeaux
+2023-10-21,F2,France-L2,2324,Grenoble,Valenciennes,3.0,3.0,D,2.0,1.0,H,2.0,3.25,4.0,1.98,3.3,4.38,1.99,3.23,3.95,2.3,1.6,2.34,1.58,-0.5,2.03,1.83,Grenoble,Valenciennes,grenoble,valenciennes
+2023-11-04,F2,France-L2,2324,Grenoble,Ajaccio,0.0,3.0,A,0.0,2.0,A,2.1,3.1,3.8,2.19,3.06,3.99,2.15,3.03,3.7,2.7,1.44,2.63,1.46,-0.25,1.8,2.05,Grenoble,Ajaccio,grenoble,ajaccio
+2023-11-25,F2,France-L2,2324,Grenoble,Rodez,2.0,1.0,H,1.0,1.0,D,2.0,3.3,3.75,1.92,3.62,4.02,1.96,3.46,3.72,2.0,1.85,1.95,1.83,-0.5,1.98,1.88,Grenoble,Rodez,grenoble,rodez
+2023-12-16,F2,France-L2,2324,Grenoble,Annecy,1.0,0.0,H,0.0,0.0,D,1.85,3.3,4.0,1.91,3.55,4.33,1.89,3.4,4.07,2.08,1.73,2.09,1.71,-0.5,1.9,1.95,Grenoble,Annecy,grenoble,annecy
+2024-01-13,F2,France-L2,2324,Grenoble,Dunkerque,2.0,2.0,D,1.0,0.0,H,1.62,3.75,4.75,1.7,3.83,5.3,1.68,3.67,5.0,2.05,1.8,2.02,1.77,-0.75,1.9,1.95,Grenoble,Dunkerque,grenoble,dunkerque
+2024-01-23,F2,France-L2,2324,Grenoble,Auxerre,1.0,1.0,D,1.0,1.0,D,3.1,3.3,2.1,3.4,3.48,2.21,3.23,3.4,2.14,1.98,1.88,1.92,1.85,0.25,1.95,1.9,Grenoble,AJ Auxerre,grenoble,aj_auxerre
+2024-02-03,F2,France-L2,2324,Grenoble,Caen,5.0,1.0,H,2.0,0.0,H,1.95,3.4,3.8,2.02,3.46,4.0,1.97,3.35,3.76,2.15,1.67,2.14,1.68,-0.5,2.0,1.85,Grenoble,Caen,grenoble,caen
+2024-02-24,F2,France-L2,2324,Grenoble,Pau FC,0.0,1.0,A,0.0,1.0,A,1.8,3.4,4.33,1.88,3.57,4.45,1.84,3.5,4.12,1.98,1.88,1.9,1.87,-0.5,1.85,2.0,Grenoble,Pau FC,grenoble,pau_fc
+2024-03-11,F2,France-L2,2324,Grenoble,Laval,0.0,2.0,A,0.0,1.0,A,2.3,3.0,3.4,2.39,3.0,3.41,2.29,2.98,3.32,2.5,1.5,2.47,1.51,-0.25,2.0,1.85,Grenoble,Laval,grenoble,laval
+2024-03-30,F2,France-L2,2324,Grenoble,Guingamp,0.0,0.0,D,0.0,0.0,D,2.8,3.0,2.7,2.94,2.97,2.77,2.81,2.97,2.64,2.4,1.53,2.4,1.54,0.0,2.03,1.83,Grenoble,Guingamp,grenoble,guingamp
+2024-04-15,F2,France-L2,2324,Grenoble,Angers,0.0,0.0,D,0.0,0.0,D,2.8,3.0,2.55,2.91,3.07,2.64,2.8,3.06,2.56,2.15,1.67,2.16,1.66,0.0,2.03,1.83,Grenoble,Angers,grenoble,angers
+2024-04-23,F2,France-L2,2324,Grenoble,St Etienne,0.0,2.0,A,0.0,0.0,D,3.6,3.3,2.0,3.84,3.35,2.08,3.66,3.29,2.02,2.05,1.75,2.04,1.75,0.5,1.8,2.05,Grenoble,Saint-Etienne,grenoble,saint_etienne
+2024-05-03,F2,France-L2,2324,Grenoble,Concarneau,2.0,1.0,H,2.0,1.0,H,2.15,3.3,3.25,2.21,3.36,3.47,2.16,3.3,3.28,2.08,1.73,2.06,1.73,-0.25,1.88,1.98,Grenoble,Concarneau,grenoble,concarneau
+2024-05-17,F2,France-L2,2324,Grenoble,Amiens,1.0,3.0,A,1.0,0.0,H,2.3,3.4,2.88,2.41,3.31,3.0,2.33,3.35,2.92,1.85,2.0,1.84,1.95,-0.25,2.1,1.7,Grenoble,Amiens,grenoble,amiens
+2024-08-16,F2,France-L2,2425,Grenoble,Laval,2.0,1.0,H,0.0,0.0,D,2.15,3.0,3.4,2.22,3.18,3.64,2.2,3.07,3.46,2.4,1.53,2.4,1.55,-0.25,1.9,1.95,Grenoble,Laval,grenoble,laval
+2024-08-30,F2,France-L2,2425,Grenoble,Pau FC,1.0,1.0,D,0.0,0.0,D,2.35,3.25,2.8,2.5,3.38,2.92,2.42,3.31,2.82,1.93,1.93,1.9,1.88,-0.25,2.1,1.78,Grenoble,Pau FC,grenoble,pau_fc
+2024-09-16,F2,France-L2,2425,Grenoble,Caen,3.0,1.0,H,2.0,1.0,H,2.63,3.2,2.5,2.78,3.24,2.56,2.73,3.22,2.52,2.03,1.83,1.98,1.79,0.0,2.03,1.83,Grenoble,Caen,grenoble,caen
+2024-09-27,F2,France-L2,2425,Grenoble,Clermont,3.0,0.0,H,1.0,0.0,H,2.35,3.25,2.8,2.45,3.24,3.11,2.41,3.19,2.94,2.05,1.8,2.01,1.77,-0.25,2.1,1.78,Grenoble,Clermont Foot,grenoble,clermont_foot
+2024-10-18,F2,France-L2,2425,Grenoble,Metz,2.0,0.0,H,1.0,0.0,H,3.2,3.2,2.05,3.63,3.18,2.22,3.43,3.15,2.16,2.2,1.65,2.2,1.64,0.25,2.0,1.85,Grenoble,Metz,grenoble,metz
+2024-10-29,F2,France-L2,2425,Grenoble,Annecy,0.0,0.0,D,0.0,0.0,D,2.3,3.1,3.1,2.36,3.24,3.26,2.27,3.23,3.12,2.08,1.73,2.05,1.74,-0.25,2.03,1.83,Grenoble,Annecy,grenoble,annecy
+2024-11-08,F2,France-L2,2425,Grenoble,Dunkerque,0.0,1.0,A,0.0,0.0,D,2.63,3.2,2.63,2.71,3.31,2.73,2.6,3.26,2.64,1.98,1.88,1.96,1.82,0.0,1.93,1.93,Grenoble,Dunkerque,grenoble,dunkerque
+2024-12-07,F2,France-L2,2425,Grenoble,Amiens,0.0,2.0,A,0.0,0.0,D,2.3,3.3,2.7,2.52,3.11,3.07,2.42,3.14,2.93,2.35,1.57,2.34,1.56,-0.25,2.1,1.78,Grenoble,Amiens,grenoble,amiens
+2025-01-03,F2,France-L2,2425,Grenoble,Bastia,3.0,2.0,H,1.0,1.0,D,3.0,2.88,2.4,3.22,3.01,2.53,3.06,2.91,2.48,2.35,1.57,2.35,1.56,0.25,1.78,2.1,Grenoble,Bastia,grenoble,bastia
+2025-01-17,F2,France-L2,2425,Grenoble,Martigues,1.0,0.0,H,0.0,0.0,D,1.36,4.75,8.0,1.37,5.0,8.87,1.35,4.78,8.25,1.75,2.05,1.75,2.03,-1.25,1.83,2.03,Grenoble,Martigues,grenoble,martigues
+2025-01-31,F2,France-L2,2425,Grenoble,Rodez,2.0,1.0,H,1.0,1.0,D,2.9,3.3,2.25,3.14,3.34,2.38,2.97,3.29,2.35,1.95,1.9,1.91,1.88,0.25,1.85,2.0,Grenoble,Rodez,grenoble,rodez
+2025-02-07,F2,France-L2,2425,Grenoble,Red Star,0.0,0.0,D,0.0,0.0,D,2.3,3.25,3.0,2.38,3.19,3.28,2.29,3.17,3.12,2.05,1.75,2.01,1.76,-0.25,2.03,1.83,Grenoble,Red Star,grenoble,red_star
+2025-02-21,F2,France-L2,2425,Grenoble,Guingamp,1.0,1.0,D,1.0,0.0,H,2.9,3.1,2.35,3.16,3.18,2.45,3.02,3.11,2.38,2.1,1.7,2.11,1.7,0.25,1.72,2.04,Grenoble,Guingamp,grenoble,guingamp
+2025-03-07,F2,France-L2,2425,Grenoble,Ajaccio,2.0,2.0,D,1.0,1.0,D,2.2,3.1,3.4,2.22,3.22,3.53,2.19,3.1,3.43,2.4,1.53,2.41,1.54,-0.25,1.93,1.93,Grenoble,Ajaccio,grenoble,ajaccio
+2025-03-29,F2,France-L2,2425,Grenoble,Lorient,1.0,2.0,A,1.0,2.0,A,4.33,3.3,1.75,4.35,3.79,1.81,4.24,3.56,1.81,2.0,1.85,1.94,1.83,0.5,2.03,1.78,Grenoble,Lorient,grenoble,lorient
+2025-04-12,F2,France-L2,2425,Grenoble,Paris FC,1.0,2.0,A,0.0,1.0,A,4.33,3.9,1.7,4.82,3.7,1.72,4.54,3.72,1.72,1.9,1.95,1.85,1.93,0.75,1.88,1.98,Grenoble,Paris FC,grenoble,paris_fc
+2025-05-02,F2,France-L2,2425,Grenoble,Troyes,3.0,1.0,H,2.0,0.0,H,3.2,3.25,2.25,3.18,3.27,2.33,3.08,3.29,2.29,1.98,1.88,1.93,1.85,0.25,1.85,2.0,Grenoble,Troyes,grenoble,troyes
+2025-08-15,F2,France-L2,2526,Grenoble,Laval,1.0,1.0,D,0.0,0.0,D,2.38,3.25,2.6,2.59,3.25,2.91,2.51,3.19,2.66,2.15,1.67,2.13,1.64,0.0,1.93,1.88,Grenoble,Laval,grenoble,laval
+2025-09-13,F2,France-L2,2526,Grenoble,Dunkerque,1.0,0.0,H,1.0,0.0,H,2.7,3.3,2.4,2.92,3.27,2.46,2.75,3.2,2.43,2.08,1.73,2.01,1.73,0.0,2.03,1.78,Grenoble,Dunkerque,grenoble,dunkerque
+2025-09-19,F2,France-L2,2526,Grenoble,Annecy,1.0,3.0,A,0.0,0.0,D,2.15,3.1,3.3,2.23,3.33,3.44,2.17,3.2,3.2,2.25,1.62,2.18,1.63,-0.25,1.88,1.93,Grenoble,Annecy,grenoble,annecy
+2025-09-26,F2,France-L2,2526,Grenoble,Bastia,0.0,0.0,D,0.0,0.0,D,2.9,3.1,2.45,3.01,3.25,2.51,2.91,3.07,2.41,2.25,1.62,2.23,1.6,0.0,2.05,1.75,Grenoble,Bastia,grenoble,bastia
+2025-10-17,F2,France-L2,2526,Grenoble,Pau FC,1.0,1.0,D,0.0,0.0,D,3.0,2.88,2.6,3.07,3.0,2.64,2.88,3.02,2.47,2.25,1.62,2.21,1.6,0.0,2.03,1.78,Grenoble,Pau FC,grenoble,pau_fc
+2025-10-28,F2,France-L2,2526,Grenoble,Guingamp,0.0,0.0,D,0.0,0.0,D,2.9,3.2,2.38,,,,2.85,3.23,2.37,1.98,1.83,1.92,1.8,0.0,2.08,1.73,Grenoble,Guingamp,grenoble,guingamp
+2025-11-07,F2,France-L2,2526,Grenoble,Rodez,2.0,1.0,H,2.0,0.0,H,2.25,3.2,3.2,,,,2.29,3.21,2.98,2.0,1.8,1.94,1.78,-0.25,1.95,1.85,Grenoble,Rodez,grenoble,rodez
+2025-12-05,F2,France-L2,2526,Grenoble,Nancy,1.0,0.0,H,0.0,0.0,D,2.8,3.3,2.45,,,,2.8,3.13,2.45,2.1,1.7,2.1,1.66,0.0,2.05,1.75,Grenoble,Nancy,grenoble,nancy
+2025-12-13,F2,France-L2,2526,Grenoble,Montpellier,1.0,1.0,D,0.0,0.0,D,2.9,3.1,2.2,,,,3.01,3.19,2.24,2.05,1.75,2.01,1.71,0.25,1.83,1.98,Grenoble,Montpellier,grenoble,montpellier
+2026-01-17,F2,France-L2,2526,Grenoble,Red Star,0.0,3.0,A,0.0,1.0,A,2.35,3.1,2.75,,,,2.46,3.1,2.78,2.2,1.65,2.2,1.6,-0.25,2.08,1.73,Grenoble,Red Star,grenoble,red_star
+2026-01-30,F2,France-L2,2526,Grenoble,Amiens,2.0,1.0,H,1.0,0.0,H,1.95,3.0,3.6,,,,2.0,3.12,3.72,2.25,1.62,2.18,1.6,-0.5,2.03,1.78,Grenoble,Amiens,grenoble,amiens
+2026-02-14,F2,France-L2,2526,Grenoble,Reims,0.0,0.0,D,0.0,0.0,D,4.2,3.3,1.9,,,,4.13,3.24,1.89,2.08,1.73,2.02,1.72,0.5,1.93,1.88,Grenoble,Stade de Reims,grenoble,stade_de_reims
+2026-02-27,F2,France-L2,2526,Grenoble,Boulogne,0.0,0.0,D,0.0,0.0,D,2.55,2.88,2.63,,,,2.63,2.89,2.77,2.5,1.5,2.47,1.49,0.0,1.9,1.9,Grenoble,Boulogne,grenoble,boulogne
+2026-03-14,F2,France-L2,2526,Grenoble,St Etienne,0.0,0.0,D,0.0,0.0,D,4.33,3.5,1.65,,,,4.33,3.66,1.7,1.8,2.0,1.76,1.96,0.75,1.88,1.93,Grenoble,Saint-Etienne,grenoble,saint_etienne
+2026-04-03,F2,France-L2,2526,Grenoble,Clermont,2.0,2.0,D,2.0,1.0,H,2.5,3.0,2.63,,,,2.52,3.11,2.71,2.08,1.73,2.01,1.73,0.0,1.85,1.95,Grenoble,Clermont Foot,grenoble,clermont_foot
+2026-04-25,F2,France-L2,2526,Grenoble,Le Mans,1.0,1.0,D,1.0,1.0,D,3.9,3.3,1.85,,,,3.78,3.38,1.87,1.98,1.83,1.94,1.77,0.5,1.93,1.88,Grenoble,Le Mans,grenoble,le_mans
+2026-05-09,F2,France-L2,2526,Grenoble,Troyes,1.0,0.0,H,0.0,0.0,D,3.5,3.6,1.8,,,,3.72,3.71,1.81,1.65,2.2,1.63,2.16,0.5,1.95,1.85,Grenoble,Troyes,grenoble,troyes
+2026-08-14,F2,France-L2,2627,Grenoble,Metz,0.0,0.0,D,0.0,0.0,D,3.7,3.2,1.95,,,,3.56,3.31,1.98,2.03,1.78,1.96,1.76,0.5,1.75,2.05,Grenoble,Metz,grenoble,metz
+2026-09-04,F2,France-L2,2627,Grenoble,Annecy,1.0,2.0,A,0.0,0.0,D,3.0,3.0,2.25,,,,3.02,3.1,2.32,2.3,1.6,2.21,1.61,0.25,1.8,2.0,Grenoble,Annecy,grenoble,annecy
+2026-09-18,F2,France-L2,2627,Grenoble,Clermont,1.0,1.0,D,1.0,0.0,H,2.3,2.8,3.1,,,,2.34,3.02,3.07,2.4,1.53,2.35,1.54,-0.25,2.05,1.75,Grenoble,Clermont Foot,grenoble,clermont_foot
+2026-10-16,F2,France-L2,2627,Grenoble,Boulogne,0.0,2.0,A,0.0,0.0,D,2.7,2.8,2.55,,,,2.69,2.99,2.58,2.6,1.48,2.36,1.53,0.0,1.95,1.85,Grenoble,Boulogne,grenoble,boulogne

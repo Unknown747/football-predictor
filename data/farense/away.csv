@@ -1,0 +1,35 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2023-08-20,P1,Portugal-Liga1,2324,Porto,Farense,2.0,1.0,H,1.0,1.0,D,1.13,8.0,17.0,1.13,9.69,19.53,1.13,8.53,19.9,1.48,2.6,1.48,2.61,-2.25,1.98,1.92,FC Porto,Farense,fc_porto,farense
+2023-09-02,P1,Portugal-Liga1,2324,Famalicao,Farense,1.0,0.0,H,0.0,0.0,D,1.8,3.6,4.33,1.79,3.72,4.92,1.79,3.59,4.6,2.1,1.7,2.09,1.74,-0.75,2.08,1.82,Famalicao,Farense,famalicao,farense
+2023-09-23,P1,Portugal-Liga1,2324,Moreirense,Farense,1.0,0.0,H,1.0,0.0,H,2.15,3.3,3.3,2.23,3.52,3.39,2.18,3.43,3.28,1.98,1.88,1.95,1.85,-0.25,1.92,1.98,Moreirense,Farense,moreirense,farense
+2023-10-29,P1,Portugal-Liga1,2324,Rio Ave,Farense,3.0,4.0,A,2.0,2.0,D,2.38,3.3,3.0,2.37,3.45,3.17,2.35,3.36,3.02,2.05,1.8,2.01,1.8,-0.25,2.06,1.84,Rio Ave,Farense,rio_ave,farense
+2023-11-12,P1,Portugal-Liga1,2324,Boavista,Farense,1.0,3.0,A,0.0,1.0,A,2.05,3.6,3.4,2.05,3.7,3.7,2.06,3.55,3.47,1.9,1.95,1.88,1.92,-0.25,1.73,2.08,Boavista,Farense,boavista,farense
+2023-12-08,P1,Portugal-Liga1,2324,Benfica,Farense,1.0,1.0,D,0.0,0.0,D,1.17,8.0,13.0,1.18,8.23,15.33,1.18,7.64,13.87,1.4,2.88,1.39,2.93,-2.0,1.83,2.07,Benfica,Farense,benfica,farense
+2023-12-30,P1,Portugal-Liga1,2324,Estoril,Farense,4.0,0.0,H,2.0,0.0,H,1.95,3.8,3.5,2.06,3.87,3.52,2.01,3.75,3.44,1.73,2.08,1.74,2.09,-0.5,2.05,1.85,Estoril,Farense,estoril,farense
+2024-01-12,P1,Portugal-Liga1,2324,Portimonense,Farense,1.0,0.0,H,0.0,0.0,D,2.63,3.3,2.63,2.72,3.36,2.76,2.62,3.36,2.66,2.05,1.8,1.98,1.83,0.0,1.95,1.95,Portimonense,Farense,portimonense,farense
+2024-01-20,P1,Portugal-Liga1,2324,Casa Pia,Farense,1.0,3.0,A,0.0,2.0,A,2.25,3.25,3.3,2.29,3.38,3.37,2.25,3.32,3.21,2.08,1.73,2.05,1.76,-0.25,1.95,1.95,Casa Pia,Farense,casa_pia,farense
+2024-02-04,P1,Portugal-Liga1,2324,Chaves,Farense,1.0,1.0,D,0.0,1.0,A,2.5,3.3,2.7,2.64,3.33,2.88,2.56,3.34,2.73,2.05,1.75,2.03,1.78,0.0,1.87,2.03,Chaves,Farense,chaves,farense
+2024-02-18,P1,Portugal-Liga1,2324,Sp Braga,Farense,2.0,1.0,H,0.0,0.0,D,1.3,5.5,9.5,1.36,5.48,8.6,1.34,5.21,8.21,1.53,2.4,1.54,2.45,-1.5,2.04,1.86,Sp Braga,Farense,sp_braga,farense
+2024-03-03,P1,Portugal-Liga1,2324,Sp Lisbon,Farense,3.0,2.0,H,2.0,1.0,H,1.13,8.5,21.0,1.13,10.38,20.69,1.12,9.09,19.31,1.36,3.1,1.34,3.11,-2.5,2.05,1.85,Sp Lisbon,Farense,sp_lisbon,farense
+2024-03-09,P1,Portugal-Liga1,2324,Vizela,Farense,2.0,1.0,H,0.0,1.0,A,2.38,3.2,3.1,2.43,3.35,3.14,2.36,3.32,3.04,2.05,1.8,1.98,1.79,-0.25,2.05,1.85,Vizela,Farense,vizela,farense
+2024-03-30,P1,Portugal-Liga1,2324,Arouca,Farense,2.0,1.0,H,1.0,0.0,H,1.75,3.75,4.75,1.8,3.81,4.59,1.78,3.73,4.46,1.93,1.93,1.87,1.93,-0.75,2.04,1.86,Arouca,Farense,arouca,farense
+2024-04-13,P1,Portugal-Liga1,2324,Guimaraes,Farense,1.0,1.0,D,0.0,1.0,A,1.53,4.0,6.5,1.53,4.35,6.53,1.52,4.21,6.18,1.88,1.98,1.85,1.95,-1.0,1.92,1.98,Vitoria Guimaraes,Farense,vitoria_guimaraes,farense
+2024-04-29,P1,Portugal-Liga1,2324,Estrela,Farense,0.0,3.0,A,0.0,1.0,A,2.2,3.25,3.5,2.2,3.33,3.53,2.15,3.34,3.4,1.98,1.88,1.95,1.84,-0.25,1.88,2.02,Estrela Amadora,Farense,estrela_amadora,farense
+2024-05-12,P1,Portugal-Liga1,2324,Gil Vicente,Farense,2.0,0.0,H,2.0,0.0,H,2.0,3.5,3.6,2.09,3.31,3.94,2.06,3.41,3.58,1.83,2.03,1.83,1.97,-0.5,2.07,1.83,Gil Vicente,Farense,gil_vicente,farense
+2024-08-17,P1,Portugal-Liga1,2425,Rio Ave,Farense,1.0,0.0,H,1.0,0.0,H,2.0,3.3,3.9,2.01,3.42,3.83,2.01,3.42,3.75,2.03,1.83,1.99,1.82,-0.5,2.05,1.85,Rio Ave,Farense,rio_ave,farense
+2024-09-01,P1,Portugal-Liga1,2425,Nacional,Farense,2.0,0.0,H,1.0,0.0,H,2.2,3.4,3.2,2.23,3.43,3.23,2.22,3.42,3.18,1.9,1.95,1.89,1.91,-0.25,1.95,1.95,Nacional,Farense,nacional,farense
+2024-09-15,P1,Portugal-Liga1,2425,Porto,Farense,2.0,1.0,H,0.0,0.0,D,1.14,7.5,21.0,1.12,8.89,18.36,1.13,8.41,18.5,1.48,2.6,1.45,2.68,-2.25,1.99,1.91,FC Porto,Farense,fc_porto,farense
+2024-09-30,P1,Portugal-Liga1,2425,AVS,Farense,0.0,0.0,D,0.0,0.0,D,1.91,3.5,4.0,1.88,3.71,3.96,1.9,3.63,3.94,1.95,1.9,1.92,1.88,-0.5,1.92,1.98,AVS,Farense,avs,farense
+2024-10-27,P1,Portugal-Liga1,2425,Sp Braga,Farense,2.0,0.0,H,1.0,0.0,H,1.33,6.0,7.0,1.31,5.55,8.92,1.31,5.45,8.58,1.54,2.35,1.57,2.35,-1.5,1.95,1.95,Sp Braga,Farense,sp_braga,farense
+2024-11-09,P1,Portugal-Liga1,2425,Casa Pia,Farense,1.0,1.0,D,1.0,1.0,D,1.95,3.3,4.0,1.97,3.3,4.15,1.98,3.3,4.0,2.2,1.65,2.24,1.64,-0.5,2.0,1.9,Casa Pia,Farense,casa_pia,farense
+2024-12-08,P1,Portugal-Liga1,2425,Boavista,Farense,1.0,1.0,D,0.0,0.0,D,2.4,3.1,3.1,2.46,3.15,3.07,2.42,3.16,3.02,2.25,1.62,2.3,1.61,-0.25,2.09,1.81,Boavista,Farense,boavista,farense
+2024-12-21,P1,Portugal-Liga1,2425,Famalicao,Farense,1.0,2.0,A,0.0,1.0,A,1.75,3.4,5.25,1.78,3.42,5.01,1.79,3.43,4.72,2.15,1.67,2.2,1.65,-0.75,2.05,1.85,Famalicao,Farense,famalicao,farense
+2025-01-05,P1,Portugal-Liga1,2425,Santa Clara,Farense,0.0,0.0,D,0.0,0.0,D,1.67,3.4,6.0,1.67,3.45,5.97,1.67,3.45,5.57,2.35,1.57,2.35,1.56,-0.75,1.93,1.97,Santa Clara,Farense,santa_clara,farense
+2025-01-19,P1,Portugal-Liga1,2425,Moreirense,Farense,0.0,0.0,D,0.0,0.0,D,1.9,3.2,4.33,1.91,3.23,4.55,1.91,3.24,4.27,2.5,1.5,2.51,1.5,-0.5,1.98,1.92,Moreirense,Farense,moreirense,farense
+2025-02-02,P1,Portugal-Liga1,2425,Sp Lisbon,Farense,3.0,1.0,H,2.0,1.0,H,1.14,8.0,17.0,1.12,9.63,16.02,1.12,8.53,18.26,1.44,2.7,1.41,2.75,-2.25,1.98,1.92,Sp Lisbon,Farense,sp_lisbon,farense
+2025-02-23,P1,Portugal-Liga1,2425,Arouca,Farense,2.0,2.0,D,0.0,1.0,A,1.9,3.4,4.2,1.88,3.43,4.33,1.89,3.4,4.21,2.15,1.67,2.18,1.67,-0.5,1.95,1.95,Arouca,Farense,arouca,farense
+2025-03-08,P1,Portugal-Liga1,2425,Estoril,Farense,2.0,2.0,D,0.0,0.0,D,2.05,3.2,3.8,2.13,3.16,3.76,2.1,3.22,3.66,2.25,1.62,2.22,1.65,-0.25,1.83,2.07,Estoril,Farense,estoril,farense
+2025-04-02,P1,Portugal-Liga1,2425,Benfica,Farense,3.0,2.0,H,2.0,1.0,H,1.13,8.5,19.0,1.11,9.3,20.87,1.11,8.58,20.82,1.44,2.7,1.45,2.68,-2.25,1.95,1.95,Benfica,Farense,benfica,farense
+2025-04-13,P1,Portugal-Liga1,2425,Estrela,Farense,0.0,1.0,A,0.0,0.0,D,2.7,3.0,2.75,2.75,3.09,2.76,2.72,3.03,2.72,2.5,1.5,2.56,1.48,0.0,1.95,1.95,Estrela Amadora,Farense,estrela_amadora,farense
+2025-04-26,P1,Portugal-Liga1,2425,Gil Vicente,Farense,1.0,0.0,H,0.0,0.0,D,2.3,3.1,3.3,2.33,3.1,3.36,2.31,3.12,3.25,2.3,1.6,2.3,1.6,-0.25,1.99,1.91,Gil Vicente,Farense,gil_vicente,farense
+2025-05-11,P1,Portugal-Liga1,2425,Guimaraes,Farense,1.0,2.0,A,0.0,1.0,A,1.57,4.1,5.75,1.56,4.03,5.94,1.57,3.97,5.75,1.98,1.88,1.94,1.84,-1.0,2.04,1.86,Vitoria Guimaraes,Farense,vitoria_guimaraes,farense

@@ -1,0 +1,6 @@
+metric,value,notes
+total_matches,40064,From master_canon.csv
+opening_odds_available,0,Tidak ada data opening odds
+closing_odds_available,40064,All rows have closing odds (B365/Avg)
+can_join_opening_odds,NO,Tidak ada data untuk di-join
+duplicated_keys,0,Verified in L10.4 pre-check

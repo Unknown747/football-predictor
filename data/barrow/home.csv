@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E3,England-L2,2122,Barrow,Hartlepool,3.0,2.0,H,1.0,1.0,D,2.5,3.4,2.8,2.49,3.29,3.01,2.47,3.24,2.87,2.15,1.66,2.18,1.67,0.0,1.85,2.08,Barrow,Hartlepool United,barrow,hartlepool_united
+2021-08-17,E3,England-L2,2122,Barrow,Exeter,0.0,0.0,D,0.0,0.0,D,2.3,3.3,3.0,2.41,3.16,3.32,2.41,3.06,3.09,2.15,1.66,2.15,1.68,-0.25,2.02,1.83,Barrow,Exeter City,barrow,exeter_city
+2021-08-28,E3,England-L2,2122,Barrow,Bristol Rvs,1.0,1.0,D,1.0,1.0,D,2.3,3.2,3.3,2.36,3.14,3.38,2.3,3.15,3.22,2.2,1.65,2.24,1.64,-0.25,2.01,1.92,Barrow,Bristol Rvs,barrow,bristol_rvs
+2021-09-10,E3,England-L2,2122,Barrow,Colchester,2.0,3.0,A,1.0,2.0,A,1.95,3.4,4.0,2.05,3.35,4.04,2.02,3.3,3.81,2.2,1.65,2.21,1.65,-0.5,2.02,1.83,Barrow,Colchester United,barrow,colchester_united
+2021-09-24,E3,England-L2,2122,Barrow,Newport County,2.0,1.0,H,0.0,1.0,A,2.3,3.3,3.2,2.43,3.26,3.17,2.37,3.19,3.08,2.2,1.65,2.18,1.66,-0.25,2.05,1.8,Barrow,Newport County,barrow,newport_county
+2021-10-09,E3,England-L2,2122,Barrow,Leyton Orient,1.0,1.0,D,0.0,0.0,D,2.45,3.25,2.9,2.48,3.26,2.99,2.45,3.22,2.89,2.1,1.7,2.11,1.69,0.0,1.77,2.1,Barrow,Leyton Orient,barrow,leyton_orient
+2021-10-19,E3,England-L2,2122,Barrow,Scunthorpe,1.0,1.0,D,0.0,1.0,A,1.6,4.0,5.75,1.63,3.87,6.12,1.61,3.79,5.66,2.07,1.72,2.08,1.73,-0.75,1.8,2.05,Barrow,Scunthorpe United,barrow,scunthorpe_united
+2021-10-30,E3,England-L2,2122,Barrow,Rochdale,1.0,2.0,A,0.0,1.0,A,2.5,3.25,2.87,2.55,3.23,2.92,2.5,3.18,2.84,2.15,1.66,2.16,1.66,0.0,1.8,2.05,Barrow,Rochdale,barrow,rochdale
+2021-11-20,E3,England-L2,2122,Barrow,Crawley Town,0.0,1.0,A,0.0,0.0,D,2.05,3.5,3.6,2.1,3.48,3.55,2.07,3.44,3.45,2.02,1.83,1.98,1.8,-0.25,1.8,2.05,Barrow,Crawley Town,barrow,crawley_town
+2021-12-11,E3,England-L2,2122,Barrow,Swindon,2.0,0.0,H,0.0,0.0,D,2.8,3.3,2.55,2.81,3.32,2.59,2.76,3.27,2.52,2.15,1.66,2.04,1.75,0.0,2.0,1.85,Barrow,Swindon Town,barrow,swindon_town
+2021-12-29,E3,England-L2,2122,Barrow,Oldham,0.0,0.0,D,0.0,0.0,D,1.85,3.5,4.33,1.9,3.61,4.12,1.9,3.49,3.93,2.05,1.8,1.96,1.82,-0.5,1.9,1.95,Barrow,Oldham,barrow,oldham
+2022-01-01,E3,England-L2,2122,Barrow,Bradford,1.0,2.0,A,0.0,1.0,A,2.55,3.25,2.87,2.64,3.16,2.86,2.51,3.19,2.83,2.1,1.7,2.12,1.69,0.0,1.77,2.1,Barrow,Bradford City,barrow,bradford_city
+2022-01-22,E3,England-L2,2122,Barrow,Mansfield,1.0,3.0,A,1.0,2.0,A,2.62,3.25,2.75,2.64,3.41,2.69,2.59,3.26,2.66,2.1,1.7,2.08,1.71,0.0,1.88,1.98,Barrow,Mansfield Town,barrow,mansfield_town
+2022-01-25,E3,England-L2,2122,Barrow,Salford,0.0,2.0,A,0.0,0.0,D,2.37,3.25,3.1,2.4,3.27,3.23,2.35,3.14,3.09,2.35,1.57,2.32,1.58,-0.25,2.0,1.85,Barrow,Salford City,barrow,salford_city
+2022-02-05,E3,England-L2,2122,Barrow,Tranmere,1.0,1.0,D,0.0,1.0,A,2.62,3.2,2.75,2.79,3.13,2.73,2.72,3.11,2.64,2.3,1.6,2.3,1.59,0.0,1.88,1.98,Barrow,Tranmere Rovers,barrow,tranmere_rovers
+2022-02-12,E3,England-L2,2122,Barrow,Stevenage,0.0,0.0,D,0.0,0.0,D,2.37,3.3,3.1,2.4,3.16,3.22,2.34,3.18,3.06,2.25,1.61,2.24,1.61,-0.25,2.02,1.83,Barrow,Stevenage,barrow,stevenage
+2022-02-26,E3,England-L2,2122,Barrow,Harrogate,0.0,0.0,D,0.0,0.0,D,2.55,3.25,2.87,2.72,3.11,2.82,2.61,3.2,2.71,2.07,1.72,2.09,1.7,0.0,1.83,2.02,Barrow,Harrogate Town,barrow,harrogate_town
+2022-03-05,E3,England-L2,2122,Barrow,Walsall,1.0,1.0,D,1.0,0.0,H,2.45,3.1,3.2,2.54,3.02,3.13,2.43,3.08,3.04,2.4,1.53,2.35,1.56,0.0,1.68,2.15,Barrow,Walsall,barrow,walsall
+2022-03-19,E3,England-L2,2122,Barrow,Carlisle,1.0,2.0,A,0.0,1.0,A,2.3,3.3,3.2,2.4,3.15,3.23,2.34,3.14,3.12,2.25,1.61,2.26,1.6,-0.25,2.02,1.83,Barrow,Carlisle United,barrow,carlisle_united
+2022-04-02,E3,England-L2,2122,Barrow,Port Vale,1.0,2.0,A,1.0,0.0,H,3.5,3.2,2.2,3.71,3.14,2.19,3.56,3.12,2.15,2.5,1.5,2.5,1.5,0.25,1.95,1.9,Barrow,Port Vale,barrow,port_vale
+2022-04-15,E3,England-L2,2122,Barrow,Forest Green,4.0,0.0,H,2.0,0.0,H,3.8,3.3,2.05,4.18,3.35,2.01,3.8,3.3,2.0,2.15,1.66,2.14,1.67,0.5,1.83,2.02,Barrow,Forest Green Rovers,barrow,forest_green_rovers
+2022-04-23,E3,England-L2,2122,Barrow,Sutton,1.0,0.0,H,0.0,0.0,D,2.8,3.1,2.7,2.84,3.0,2.79,2.74,3.07,2.66,2.25,1.61,2.29,1.59,0.0,1.98,1.88,Barrow,Sutton United,barrow,sutton_united
+2022-05-07,E3,England-L2,2122,Barrow,Northampton,1.0,3.0,A,1.0,3.0,A,5.25,4.2,1.61,5.44,3.8,1.66,5.14,3.85,1.64,2.0,1.85,1.94,1.82,0.75,2.02,1.83,Barrow,Northampton Town,barrow,northampton_town
+2022-08-06,E3,England-L2,2223,Barrow,Bradford,3.0,2.0,H,0.0,0.0,D,3.4,3.2,2.3,3.31,3.28,2.35,3.1,3.18,2.33,2.2,1.65,2.22,1.62,0.25,1.88,1.98,Barrow,Bradford City,barrow,bradford_city
+2022-08-16,E3,England-L2,2223,Barrow,Walsall,2.0,1.0,H,2.0,0.0,H,2.55,3.0,3.0,2.47,3.14,3.22,2.43,3.04,3.07,2.4,1.53,2.39,1.55,-0.25,2.1,1.7,Barrow,Walsall,barrow,walsall
+2022-08-20,E3,England-L2,2223,Barrow,Harrogate,1.0,0.0,H,1.0,0.0,H,2.25,3.25,3.4,2.21,3.47,3.41,2.18,3.34,3.23,2.05,1.75,2.01,1.76,-0.25,1.93,1.93,Barrow,Harrogate Town,barrow,harrogate_town
+2022-09-13,E3,England-L2,2223,Barrow,Doncaster,2.0,0.0,H,1.0,0.0,H,2.0,3.75,3.5,2.05,3.61,3.72,2.01,3.48,3.55,1.93,1.93,1.9,1.86,-0.5,2.02,1.83,Barrow,Doncaster Rovers,barrow,doncaster_rovers
+2022-09-24,E3,England-L2,2223,Barrow,Leyton Orient,0.0,2.0,A,0.0,1.0,A,2.7,3.1,2.8,2.72,3.08,2.94,2.62,3.07,2.75,2.25,1.61,2.27,1.6,0.0,1.88,1.98,Barrow,Leyton Orient,barrow,leyton_orient
+2022-10-08,E3,England-L2,2223,Barrow,Mansfield,0.0,1.0,A,0.0,0.0,D,3.1,3.2,2.37,3.24,3.22,2.42,3.07,3.15,2.36,2.15,1.66,2.18,1.64,0.25,1.83,2.02,Barrow,Mansfield Town,barrow,mansfield_town
+2022-10-25,E3,England-L2,2223,Barrow,Grimsby,1.0,0.0,H,0.0,0.0,D,2.7,3.1,2.87,2.64,3.18,2.94,2.55,3.12,2.83,2.15,1.66,2.16,1.66,0.0,1.83,2.02,Barrow,Grimsby Town,barrow,grimsby_town
+2022-10-29,E3,England-L2,2223,Barrow,Crewe,3.0,0.0,H,2.0,0.0,H,1.9,3.3,4.33,1.93,3.37,4.55,1.89,3.31,4.12,2.25,1.61,2.23,1.6,-0.5,1.9,1.95,Barrow,Crewe Alexandra,barrow,crewe_alexandra
+2022-11-01,E3,England-L2,2223,Barrow,Colchester,3.0,1.0,H,2.0,0.0,H,1.9,3.4,4.2,1.96,3.37,4.38,1.92,3.33,4.07,2.25,1.61,2.2,1.64,-0.5,1.9,1.95,Barrow,Colchester United,barrow,colchester_united
+2022-11-19,E3,England-L2,2223,Barrow,Hartlepool,3.0,1.0,H,3.0,0.0,H,1.6,3.75,6.0,1.63,3.87,6.02,1.62,3.73,5.49,2.05,1.75,2.04,1.73,-0.75,1.8,2.05,Barrow,Hartlepool United,barrow,hartlepool_united
+2022-12-17,E3,England-L2,2223,Barrow,Swindon,0.0,1.0,A,0.0,1.0,A,2.4,3.6,2.75,2.45,3.49,2.95,2.41,3.32,2.85,2.02,1.83,1.98,1.78,-0.25,2.13,1.75,Barrow,Swindon Town,barrow,swindon_town
+2022-12-29,E3,England-L2,2223,Barrow,Tranmere,1.0,2.0,A,1.0,1.0,D,2.45,2.9,3.3,2.47,3.08,3.29,2.38,3.0,3.17,2.4,1.53,2.41,1.54,-0.25,2.05,1.8,Barrow,Tranmere Rovers,barrow,tranmere_rovers
+2023-01-02,E3,England-L2,2223,Barrow,Rochdale,0.0,0.0,D,0.0,0.0,D,1.85,3.5,4.33,1.86,3.49,4.49,1.87,3.38,4.17,2.15,1.67,2.17,1.63,-0.5,1.88,1.98,Barrow,Rochdale,barrow,rochdale
+2023-01-28,E3,England-L2,2223,Barrow,Northampton,0.0,2.0,A,0.0,0.0,D,2.55,3.1,3.0,2.59,3.11,3.07,2.52,3.02,2.91,2.4,1.53,2.41,1.54,0.0,1.77,2.1,Barrow,Northampton Town,barrow,northampton_town
+2023-02-11,E3,England-L2,2223,Barrow,Newport County,0.0,1.0,A,0.0,0.0,D,2.38,3.2,3.2,2.47,3.14,3.24,2.35,3.09,3.13,2.3,1.6,2.31,1.58,-0.25,2.05,1.8,Barrow,Newport County,barrow,newport_county
+2023-02-25,E3,England-L2,2223,Barrow,Stockport,1.0,0.0,H,0.0,0.0,D,4.2,3.2,2.0,3.93,3.26,2.11,3.76,3.21,2.04,2.25,1.62,2.27,1.6,0.5,1.83,2.02,Barrow,Stockport County,barrow,stockport_county
+2023-02-28,E3,England-L2,2223,Barrow,Salford,1.0,1.0,D,0.0,1.0,A,2.7,3.1,2.8,2.76,3.13,2.86,2.63,3.11,2.74,2.2,1.65,2.2,1.64,0.0,1.9,1.95,Barrow,Salford City,barrow,salford_city
+2023-03-11,E3,England-L2,2223,Barrow,Sutton,0.0,0.0,D,0.0,0.0,D,2.75,3.25,2.63,2.85,3.18,2.67,2.77,3.11,2.61,2.3,1.6,2.32,1.57,0.0,1.98,1.88,Barrow,Sutton United,barrow,sutton_united
+2023-03-25,E3,England-L2,2223,Barrow,AFC Wimbledon,2.0,1.0,H,0.0,1.0,A,2.1,3.2,3.6,2.13,3.21,3.96,2.11,3.13,3.67,2.4,1.53,2.43,1.52,-0.25,1.8,2.05,Barrow,AFC Wimbledon,barrow,afc_wimbledon
+2023-04-01,E3,England-L2,2223,Barrow,Gillingham,2.0,1.0,H,1.0,0.0,H,2.25,3.1,3.6,2.3,3.08,3.65,2.22,3.04,3.48,2.6,1.48,2.59,1.46,-0.25,1.93,1.93,Barrow,Gillingham,barrow,gillingham
+2023-04-10,E3,England-L2,2223,Barrow,Crawley Town,4.0,0.0,H,1.0,0.0,H,1.75,3.5,5.25,1.79,3.56,4.87,1.77,3.5,4.64,2.1,1.7,2.11,1.69,-0.75,2.02,1.83,Barrow,Crawley Town,barrow,crawley_town
+2023-04-22,E3,England-L2,2223,Barrow,Carlisle,0.0,1.0,A,0.0,1.0,A,2.9,3.1,2.63,2.96,3.08,2.7,2.89,2.99,2.6,2.5,1.5,2.57,1.48,0.0,2.02,1.82,Barrow,Carlisle United,barrow,carlisle_united
+2023-05-08,E3,England-L2,2223,Barrow,Stevenage,0.0,1.0,A,0.0,1.0,A,3.4,3.3,2.2,3.13,3.2,2.36,3.1,3.25,2.29,2.15,1.73,2.08,1.71,0.25,1.93,1.93,Barrow,Stevenage,barrow,stevenage
+2023-08-12,E3,England-L2,2324,Barrow,Sutton,2.0,1.0,H,0.0,1.0,A,2.4,3.1,3.2,2.45,3.13,3.28,2.37,3.1,3.09,2.35,1.57,2.32,1.57,-0.25,2.05,1.8,Barrow,Sutton United,barrow,sutton_united
+2023-08-26,E3,England-L2,2324,Barrow,Wrexham,1.0,1.0,D,0.0,1.0,A,3.2,3.5,2.2,3.37,3.54,2.2,3.15,3.44,2.19,1.88,1.98,1.84,1.92,0.25,1.93,1.93,Barrow,Wrexham,barrow,wrexham
+2023-09-30,E3,England-L2,2324,Barrow,Doncaster,3.0,2.0,H,1.0,0.0,H,1.91,3.5,4.0,1.94,3.64,4.07,1.9,3.48,3.91,2.03,1.83,2.0,1.76,-0.5,1.9,1.95,Barrow,Doncaster Rovers,barrow,doncaster_rovers
+2023-10-07,E3,England-L2,2324,Barrow,Notts County,1.0,1.0,D,0.0,1.0,A,3.6,3.4,2.05,3.64,3.73,2.04,3.41,3.56,2.02,1.7,2.1,1.7,2.08,0.5,1.8,2.0,Barrow,Notts County,barrow,notts_county
+2023-10-21,E3,England-L2,2324,Barrow,AFC Wimbledon,0.0,0.0,D,0.0,0.0,D,2.9,3.1,2.5,2.93,3.34,2.54,2.82,3.24,2.44,2.0,1.8,1.99,1.76,0.0,2.05,1.8,Barrow,AFC Wimbledon,barrow,afc_wimbledon
+2023-10-28,E3,England-L2,2324,Barrow,Salford,0.0,0.0,D,0.0,0.0,D,2.0,3.6,3.6,2.04,3.62,3.74,1.96,3.52,3.64,1.85,2.0,1.82,1.93,-0.5,2.03,1.83,Barrow,Salford City,barrow,salford_city
+2023-10-31,E3,England-L2,2324,Barrow,Morecambe,1.0,0.0,H,1.0,0.0,H,1.8,3.6,4.5,1.81,3.74,4.61,1.8,3.6,4.33,1.93,1.93,1.88,1.86,-0.75,2.05,1.8,Barrow,Morecambe,barrow,morecambe
+2023-11-18,E3,England-L2,2324,Barrow,Crawley Town,1.0,0.0,H,0.0,0.0,D,1.91,3.6,4.0,1.93,3.65,4.08,1.91,3.55,3.79,1.9,1.95,1.86,1.88,-0.5,1.95,1.9,Barrow,Crawley Town,barrow,crawley_town
+2023-11-28,E3,England-L2,2324,Barrow,Walsall,2.0,0.0,H,1.0,0.0,H,1.95,3.4,4.0,1.97,3.5,4.13,1.94,3.38,3.86,2.2,1.7,2.05,1.73,-0.5,1.95,1.9,Barrow,Walsall,barrow,walsall
+2023-12-26,E3,England-L2,2324,Barrow,Stockport,2.0,2.0,D,2.0,1.0,H,3.3,3.4,2.2,3.39,3.34,2.28,3.26,3.28,2.19,2.15,1.67,2.14,1.67,0.25,1.93,1.93,Barrow,Stockport County,barrow,stockport_county
+2023-12-29,E3,England-L2,2324,Barrow,Accrington,1.0,1.0,D,0.0,0.0,D,1.75,3.8,4.5,1.8,3.79,4.61,1.78,3.67,4.33,1.88,1.98,1.83,1.92,-0.75,2.03,1.83,Barrow,Accrington Stanley,barrow,accrington_stanley
+2024-01-06,E3,England-L2,2324,Barrow,Tranmere,1.0,0.0,H,0.0,0.0,D,1.85,3.6,4.2,1.93,3.57,4.19,1.88,3.49,4.02,2.05,1.75,2.02,1.75,-0.5,1.88,1.98,Barrow,Tranmere Rovers,barrow,tranmere_rovers
+2024-01-20,E3,England-L2,2324,Barrow,Crewe,1.0,3.0,A,1.0,1.0,D,1.8,3.8,4.33,1.83,3.76,4.47,1.82,3.62,4.13,1.93,1.93,1.86,1.88,-0.5,1.83,2.03,Barrow,Crewe Alexandra,barrow,crewe_alexandra
+2024-02-03,E3,England-L2,2324,Barrow,Milton Keynes Dons,1.0,0.0,H,0.0,0.0,D,2.3,3.5,3.0,2.44,3.31,3.12,2.32,3.31,2.97,2.03,1.83,1.97,1.79,-0.25,2.05,1.8,Barrow,MK Dons,barrow,mk_dons
+2024-02-13,E3,England-L2,2324,Barrow,Forest Green,1.0,2.0,A,1.0,1.0,D,1.57,4.33,5.5,1.61,4.1,5.73,1.6,3.94,5.27,1.88,1.98,1.85,1.91,-0.75,1.73,2.08,Barrow,Forest Green Rovers,barrow,forest_green_rovers
+2024-03-05,E3,England-L2,2324,Barrow,Gillingham,2.0,0.0,H,1.0,0.0,H,2.2,3.3,3.4,2.22,3.36,3.5,2.18,3.22,3.35,2.3,1.6,2.29,1.59,-0.25,1.85,2.0,Barrow,Gillingham,barrow,gillingham
+2024-03-09,E3,England-L2,2324,Barrow,Colchester,2.0,0.0,H,1.0,0.0,H,1.8,4.0,4.0,1.88,3.93,4.03,1.82,3.76,4.01,1.83,2.03,1.8,1.96,-0.5,1.78,2.03,Barrow,Colchester United,barrow,colchester_united
+2024-03-16,E3,England-L2,2324,Barrow,Harrogate,0.0,0.0,D,0.0,0.0,D,1.55,4.33,5.75,1.58,4.15,6.09,1.55,4.06,5.75,1.88,1.98,1.86,1.9,-1.0,1.95,1.9,Barrow,Harrogate Town,barrow,harrogate_town
+2024-03-23,E3,England-L2,2324,Barrow,Newport County,1.0,0.0,H,1.0,0.0,H,1.73,3.6,5.0,1.79,3.7,4.85,1.73,3.63,4.7,2.05,1.75,2.03,1.75,-0.75,1.98,1.88,Barrow,Newport County,barrow,newport_county
+2024-03-29,E3,England-L2,2324,Barrow,Grimsby,3.0,1.0,H,2.0,0.0,H,1.91,3.6,4.0,1.93,3.39,4.38,1.91,3.43,4.03,2.1,1.7,2.07,1.72,-0.5,1.9,1.95,Barrow,Grimsby Town,barrow,grimsby_town
+2024-04-06,E3,England-L2,2324,Barrow,Swindon,0.0,2.0,A,0.0,2.0,A,1.7,4.0,4.75,1.68,4.03,4.97,1.68,3.93,4.61,1.73,2.08,1.72,2.07,-0.75,1.88,1.98,Barrow,Swindon Town,barrow,swindon_town
+2024-04-23,E3,England-L2,2324,Barrow,Bradford,1.0,2.0,A,0.0,1.0,A,2.38,3.3,3.0,2.44,3.32,3.05,2.37,3.29,2.94,2.05,1.75,2.02,1.74,-0.25,2.05,1.8,Barrow,Bradford City,barrow,bradford_city
+2024-04-27,E3,England-L2,2324,Barrow,Mansfield,1.0,1.0,D,0.0,1.0,A,2.5,3.5,2.75,2.45,3.64,2.72,2.42,3.52,2.72,1.73,2.08,1.72,2.05,0.0,1.83,2.03,Barrow,Mansfield Town,barrow,mansfield_town
+2024-08-10,E3,England-L2,2425,Barrow,Crewe,1.0,0.0,H,1.0,0.0,H,1.91,3.5,3.8,1.92,3.51,3.96,1.92,3.48,3.81,2.0,1.85,1.94,1.81,-0.5,1.95,1.9,Barrow,Crewe Alexandra,barrow,crewe_alexandra
+2024-08-24,E3,England-L2,2425,Barrow,Port Vale,4.0,0.0,H,0.0,0.0,D,2.3,3.4,2.88,2.43,3.38,2.88,2.39,3.32,2.86,2.08,1.73,2.06,1.72,-0.25,2.05,1.8,Barrow,Port Vale,barrow,port_vale
+2024-09-07,E3,England-L2,2425,Barrow,Swindon,1.0,1.0,D,1.0,0.0,H,1.8,3.5,4.5,1.78,3.61,4.39,1.79,3.59,4.32,1.95,1.9,1.9,1.85,-0.5,1.8,2.05,Barrow,Swindon Town,barrow,swindon_town
+2024-09-21,E3,England-L2,2425,Barrow,Newport County,2.0,0.0,H,1.0,0.0,H,1.48,4.1,7.0,1.45,4.38,6.57,1.46,4.3,6.45,1.73,2.08,1.74,2.02,-1.0,1.8,2.05,Barrow,Newport County,barrow,newport_county
+2024-10-05,E3,England-L2,2425,Barrow,Cheltenham,2.0,1.0,H,0.0,1.0,A,1.67,4.0,4.5,1.66,3.74,5.06,1.67,3.75,4.9,2.03,1.83,1.95,1.81,-0.75,1.85,2.0,Barrow,Cheltenham Town,barrow,cheltenham_town
+2024-10-12,E3,England-L2,2425,Barrow,Morecambe,0.0,1.0,A,0.0,0.0,D,1.57,3.9,5.5,1.59,4.07,5.43,1.58,3.98,5.41,1.93,1.93,1.88,1.88,-1.0,2.05,1.8,Barrow,Morecambe,barrow,morecambe
+2024-10-22,E3,England-L2,2425,Barrow,Notts County,1.0,1.0,D,1.0,0.0,H,2.55,3.6,2.6,2.6,3.43,2.69,2.55,3.39,2.63,1.93,1.93,1.87,1.89,0.0,1.93,1.93,Barrow,Notts County,barrow,notts_county
+2024-11-09,E3,England-L2,2425,Barrow,Colchester,1.0,1.0,D,1.0,0.0,H,2.0,3.3,3.6,2.01,3.32,3.8,2.03,3.32,3.63,2.1,1.7,2.09,1.69,-0.5,2.03,1.83,Barrow,Colchester United,barrow,colchester_united
+2024-11-16,E3,England-L2,2425,Barrow,AFC Wimbledon,1.0,3.0,A,1.0,1.0,D,2.63,3.1,2.63,2.81,2.96,2.79,2.73,3.0,2.72,2.4,1.53,2.45,1.52,0.0,1.93,1.93,Barrow,AFC Wimbledon,barrow,afc_wimbledon
+2024-12-21,E3,England-L2,2425,Barrow,Fleetwood Town,2.0,0.0,H,2.0,0.0,H,2.2,3.5,3.0,2.24,3.41,3.18,2.2,3.36,3.16,2.05,1.75,2.03,1.75,-0.25,1.98,1.88,Barrow,Fleetwood Town,barrow,fleetwood_town
+2025-01-01,E3,England-L2,2425,Barrow,Bradford,2.0,2.0,D,1.0,1.0,D,2.63,3.4,2.5,2.73,3.06,2.71,2.7,3.2,2.56,2.25,1.62,2.24,1.61,0.0,1.98,1.88,Barrow,Bradford City,barrow,bradford_city
+2025-01-04,E3,England-L2,2425,Barrow,Harrogate,0.0,2.0,A,0.0,0.0,D,1.62,3.7,5.25,1.63,3.71,5.38,1.63,3.71,5.34,2.1,1.7,2.07,1.71,-0.75,1.83,2.03,Barrow,Harrogate Town,barrow,harrogate_town
+2025-01-25,E3,England-L2,2425,Barrow,Grimsby,3.0,0.0,H,1.0,0.0,H,2.1,3.25,3.5,2.15,3.39,3.28,2.12,3.3,3.35,2.1,1.67,2.1,1.69,-0.25,1.83,2.03,Barrow,Grimsby Town,barrow,grimsby_town
+2025-01-29,E3,England-L2,2425,Barrow,Doncaster,1.0,3.0,A,1.0,2.0,A,3.0,3.1,2.4,2.96,3.12,2.48,2.92,3.13,2.44,2.15,1.67,2.15,1.66,0.25,1.78,2.1,Barrow,Doncaster Rovers,barrow,doncaster_rovers
+2025-02-08,E3,England-L2,2425,Barrow,Gillingham,3.0,0.0,H,0.0,0.0,D,2.1,3.0,3.7,2.1,3.05,3.86,2.09,3.06,3.72,2.5,1.5,2.56,1.48,-0.25,1.8,2.05,Barrow,Gillingham,barrow,gillingham
+2025-02-11,E3,England-L2,2425,Barrow,Milton Keynes Dons,2.0,1.0,H,1.0,1.0,D,2.0,3.4,3.6,2.03,3.3,3.95,2.04,3.23,3.7,2.15,1.67,2.19,1.64,-0.25,1.73,2.08,Barrow,MK Dons,barrow,mk_dons
+2025-02-27,E3,England-L2,2425,Barrow,Carlisle,0.0,1.0,A,0.0,1.0,A,1.86,3.4,3.75,1.94,3.37,3.96,1.92,3.34,3.86,2.15,1.67,2.16,1.65,-0.5,1.98,1.88,Barrow,Carlisle United,barrow,carlisle_united
+2025-03-08,E3,England-L2,2425,Barrow,Accrington,2.0,0.0,H,1.0,0.0,H,2.05,3.1,3.75,2.12,3.11,3.82,2.07,3.06,3.74,2.5,1.5,2.51,1.49,-0.5,2.05,1.75,Barrow,Accrington Stanley,barrow,accrington_stanley
+2025-03-29,E3,England-L2,2425,Barrow,Chesterfield,0.0,1.0,A,0.0,0.0,D,2.5,3.2,2.88,2.51,3.35,2.8,2.46,3.27,2.78,2.05,1.75,2.01,1.77,0.0,1.8,2.05,Barrow,Chesterfield,barrow,chesterfield
+2025-04-01,E3,England-L2,2425,Barrow,Salford,1.0,1.0,D,1.0,0.0,H,2.3,3.2,3.1,2.38,3.16,3.22,2.34,3.16,3.09,2.25,1.62,2.27,1.61,-0.25,2.03,1.83,Barrow,Salford City,barrow,salford_city
+2025-04-12,E3,England-L2,2425,Barrow,Walsall,2.0,0.0,H,1.0,0.0,H,2.9,3.1,2.5,2.85,3.19,2.52,2.85,3.17,2.46,2.25,1.62,2.25,1.61,0.0,2.1,1.78,Barrow,Walsall,barrow,walsall
+2025-04-21,E3,England-L2,2425,Barrow,Tranmere,0.0,0.0,D,0.0,0.0,D,2.2,3.3,3.2,2.19,3.18,3.45,2.19,3.21,3.3,2.3,1.6,2.27,1.6,-0.25,1.9,1.95,Barrow,Tranmere Rovers,barrow,tranmere_rovers
+2025-04-26,E3,England-L2,2425,Barrow,Bromley,3.0,3.0,D,1.0,0.0,H,2.2,3.6,2.9,2.23,3.43,3.12,2.21,3.41,3.07,2.03,1.83,2.0,1.78,-0.25,1.98,1.88,Barrow,Bromley,barrow,bromley
+2025-08-09,E3,England-L2,2526,Barrow,Milton Keynes Dons,0.0,2.0,A,0.0,0.0,D,2.5,3.3,2.7,2.56,3.33,2.69,2.45,3.31,2.72,2.1,1.7,2.03,1.72,0.0,1.85,2.0,Barrow,MK Dons,barrow,mk_dons
+2025-08-16,E3,England-L2,2526,Barrow,Notts County,2.0,1.0,H,1.0,0.0,H,2.75,3.1,2.55,2.69,3.24,2.63,2.73,3.16,2.55,2.1,1.7,2.08,1.68,0.0,1.98,1.88,Barrow,Notts County,barrow,notts_county
+2025-08-30,E3,England-L2,2526,Barrow,Fleetwood Town,0.0,1.0,A,0.0,1.0,A,2.05,3.2,3.6,2.07,3.31,3.71,2.07,3.31,3.5,2.1,1.7,2.09,1.67,-0.25,1.8,2.05,Barrow,Fleetwood Town,barrow,fleetwood_town
+2025-09-06,E3,England-L2,2526,Barrow,Swindon,1.0,3.0,A,0.0,2.0,A,2.65,3.4,2.4,2.79,3.43,2.43,2.74,3.32,2.46,2.05,1.75,2.0,1.74,0.0,2.03,1.83,Barrow,Swindon Town,barrow,swindon_town
+2025-09-20,E3,England-L2,2526,Barrow,Crewe,1.0,0.0,H,0.0,0.0,D,2.65,3.3,2.45,2.73,3.36,2.5,2.73,3.28,2.5,2.1,1.7,2.06,1.69,0.0,2.03,1.83,Barrow,Crewe Alexandra,barrow,crewe_alexandra
+2025-10-04,E3,England-L2,2526,Barrow,Shrewsbury,0.0,0.0,D,0.0,0.0,D,2.05,3.4,3.3,2.19,3.42,3.2,2.14,3.33,3.26,2.05,1.75,2.04,1.71,-0.25,1.85,2.0,Barrow,Shrewsbury Town,barrow,shrewsbury_town
+2025-10-25,E3,England-L2,2526,Barrow,Barnet,2.0,2.0,D,1.0,0.0,H,3.75,3.5,1.91,4.16,3.55,1.83,3.78,3.41,1.93,2.03,1.83,1.94,1.79,0.5,1.88,1.98,Barrow,Barnet,barrow,barnet
+2025-11-08,E3,England-L2,2526,Barrow,Grimsby,2.0,2.0,D,1.0,2.0,A,3.6,3.4,2.01,,,,3.5,3.45,2.01,1.98,1.88,1.88,1.85,0.5,1.8,2.05,Barrow,Grimsby Town,barrow,grimsby_town
+2025-11-22,E3,England-L2,2526,Barrow,Cambridge,0.0,2.0,A,0.0,0.0,D,3.2,3.2,2.2,,,,3.29,3.09,2.25,2.4,1.53,2.37,1.53,0.25,1.88,1.98,Barrow,Cambridge United,barrow,cambridge_united
+2025-12-09,E3,England-L2,2526,Barrow,Tranmere,0.0,3.0,A,0.0,0.0,D,2.65,3.05,2.55,,,,2.68,3.22,2.56,2.05,1.75,2.0,1.73,0.0,1.98,1.88,Barrow,Tranmere Rovers,barrow,tranmere_rovers
+2025-12-19,E3,England-L2,2526,Barrow,Cheltenham,1.0,2.0,A,0.0,1.0,A,1.91,3.5,3.7,,,,1.96,3.38,3.74,2.05,1.75,2.0,1.73,-0.5,1.98,1.88,Barrow,Cheltenham Town,barrow,cheltenham_town
+2026-01-01,E3,England-L2,2526,Barrow,Salford,1.0,2.0,A,1.0,1.0,D,3.5,3.3,2.01,,,,3.48,3.41,2.02,1.85,1.95,1.83,1.88,0.25,2.05,1.8,Barrow,Salford City,barrow,salford_city
+2026-01-24,E3,England-L2,2526,Barrow,Crawley Town,0.0,1.0,A,0.0,0.0,D,2.3,3.3,2.85,,,,2.34,3.33,2.87,1.88,1.98,1.84,1.88,-0.25,2.03,1.83,Barrow,Crawley Town,barrow,crawley_town
+2026-02-14,E3,England-L2,2526,Barrow,Colchester,1.0,0.0,H,0.0,0.0,D,3.25,3.3,2.01,,,,3.34,3.29,2.07,2.05,1.75,2.0,1.74,0.25,2.03,1.83,Barrow,Colchester United,barrow,colchester_united
+2026-02-17,E3,England-L2,2526,Barrow,Harrogate,0.0,1.0,A,0.0,1.0,A,1.81,3.4,4.1,,,,1.8,3.54,4.25,2.0,1.85,1.88,1.84,-0.5,1.85,2.0,Barrow,Harrogate Town,barrow,harrogate_town
+2026-02-28,E3,England-L2,2526,Barrow,Gillingham,0.0,1.0,A,0.0,0.0,D,2.82,3.25,2.4,,,,2.83,3.17,2.44,2.08,1.73,2.02,1.72,0.0,2.1,1.78,Barrow,Gillingham,barrow,gillingham
+2026-03-10,E3,England-L2,2526,Barrow,Bristol Rvs,0.0,2.0,A,0.0,1.0,A,2.65,3.25,2.45,,,,2.66,3.24,2.55,2.05,1.75,1.98,1.76,0.0,2.0,1.85,Barrow,Bristol Rvs,barrow,bristol_rvs
+2026-03-14,E3,England-L2,2526,Barrow,Accrington,0.0,0.0,D,0.0,0.0,D,2.25,3.3,3.1,,,,2.29,3.28,2.98,2.08,1.73,2.02,1.72,-0.25,2.0,1.85,Barrow,Accrington Stanley,barrow,accrington_stanley
+2026-03-28,E3,England-L2,2526,Barrow,Bromley,2.0,1.0,H,0.0,1.0,A,3.3,3.3,2.1,,,,3.23,3.31,2.15,2.05,1.75,2.0,1.72,0.25,1.98,1.88,Barrow,Bromley,barrow,bromley
+2026-04-06,E3,England-L2,2526,Barrow,Chesterfield,0.0,1.0,A,0.0,0.0,D,3.4,3.3,2.05,,,,3.28,3.29,2.11,2.05,1.75,2.0,1.74,0.25,2.0,1.85,Barrow,Chesterfield,barrow,chesterfield
+2026-04-14,E3,England-L2,2526,Barrow,Oldham,3.0,2.0,H,0.0,0.0,D,3.6,3.1,2.05,,,,3.5,3.16,2.11,2.1,1.7,2.07,1.69,0.25,2.05,1.8,Barrow,Oldham,barrow,oldham
+2026-04-18,E3,England-L2,2526,Barrow,Walsall,1.0,3.0,A,0.0,2.0,A,2.32,3.25,2.85,,,,2.37,3.23,2.87,2.2,1.65,2.13,1.65,-0.25,2.1,1.78,Barrow,Walsall,barrow,walsall
+2026-05-02,E3,England-L2,2526,Barrow,Newport County,1.0,2.0,A,1.0,0.0,H,3.1,3.3,2.2,,,,2.9,3.3,2.33,2.1,1.7,2.08,1.68,0.25,1.75,2.05,Barrow,Newport County,barrow,newport_county
+2026-08-15,EC,England-Conference,2627,Barrow,Hornchurch,1.0,2.0,A,0.0,0.0,D,1.57,4.2,4.33,,,,1.57,3.82,4.91,1.95,1.85,1.88,1.82,-0.75,1.75,2.05,Barrow,Hornchurch,barrow,hornchurch
+2026-08-28,EC,England-Conference,2627,Barrow,Yeovil,1.0,2.0,A,0.0,0.0,D,2.05,3.4,3.25,,,,2.03,3.22,3.39,2.15,1.67,2.1,1.66,-0.25,1.83,1.98,Barrow,Yeovil Town,barrow,yeovil_town
+2026-09-05,EC,England-Conference,2627,Barrow,Sutton,3.0,0.0,H,1.0,0.0,H,2.15,3.4,2.9,,,,2.11,3.39,3.01,1.85,1.95,1.79,1.92,-0.25,1.85,1.95,Barrow,Sutton United,barrow,sutton_united
+2026-09-19,EC,England-Conference,2627,Barrow,Aldershot,1.0,0.0,H,0.0,0.0,D,1.8,3.7,3.7,,,,1.77,3.73,3.76,1.62,2.25,1.61,2.2,-0.5,1.8,2.0,Barrow,Aldershot,barrow,aldershot
+2026-09-29,EC,England-Conference,2627,Barrow,Scunthorpe,3.0,0.0,H,0.0,0.0,D,2.0,3.6,3.1,,,,2.02,3.55,3.07,1.62,2.25,1.62,2.17,-0.25,1.8,2.0,Barrow,Scunthorpe United,barrow,scunthorpe_united
+2026-10-03,EC,England-Conference,2627,Barrow,Wealdstone,2.0,1.0,H,1.0,1.0,D,1.8,3.7,3.8,,,,1.77,3.68,3.73,1.67,2.15,1.63,2.15,-0.75,2.03,1.78,Barrow,Wealdstone,barrow,wealdstone

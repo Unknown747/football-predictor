@@ -1,0 +1,46 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder,opponent,venue,team_goals,opp_goals,h2h_match_no,h2h_total_vs_opp
+2021-08-21,I2,Italy-SB,2122,Cittadella,Vicenza,1.0,0.0,H,0.0,0.0,D,2.3,3.1,3.3,2.51,2.99,3.33,2.41,3.03,3.08,2.1,1.7,2.11,1.72,-0.25,2.05,1.8,Cittadella,Vicenza,cittadella,vicenza,Cittadella,A,0.0,1.0,1,2
+2021-08-28,I2,Italy-SB,2122,Vicenza,Frosinone,0.0,2.0,A,0.0,0.0,D,2.5,3.2,2.8,2.79,3.11,2.84,2.66,3.05,2.76,2.15,1.66,2.15,1.68,0.0,1.9,1.95,Vicenza,Frosinone,vicenza,frosinone,Frosinone,H,0.0,2.0,1,2
+2021-09-12,I2,Italy-SB,2122,Cosenza,Vicenza,2.0,1.0,H,1.0,0.0,H,3.4,3.5,2.05,3.68,3.36,2.18,3.49,3.21,2.14,2.15,1.66,2.16,1.68,0.25,2.0,1.85,Cosenza,Vicenza,cosenza,vicenza,Cosenza,A,1.0,2.0,1,2
+2021-09-18,I2,Italy-SB,2122,Vicenza,Pisa,1.0,3.0,A,1.0,1.0,D,2.5,3.1,2.75,2.74,3.16,2.89,2.6,3.07,2.8,2.05,1.75,2.03,1.78,0.0,1.88,1.98,Vicenza,Pisa,vicenza,pisa,Pisa,H,1.0,3.0,1,3
+2021-09-21,I2,Italy-SB,2122,Spal,Vicenza,3.0,2.0,H,1.0,1.0,D,1.75,3.5,4.75,1.88,3.44,4.81,1.84,3.37,4.42,2.07,1.72,2.1,1.72,-0.5,1.85,2.0,Spal,Vicenza,spal,vicenza,Spal,A,2.0,3.0,1,2
+2021-09-26,I2,Italy-SB,2122,Vicenza,Cremonese,0.0,1.0,A,0.0,1.0,A,2.9,3.0,2.5,3.19,3.07,2.57,2.98,3.03,2.48,2.05,1.75,2.03,1.77,0.0,2.1,1.7,Vicenza,Cremonese,vicenza,cremonese,Cremonese,H,0.0,1.0,1,2
+2021-10-03,I2,Italy-SB,2122,Pordenone,Vicenza,2.0,4.0,A,1.0,2.0,A,2.1,2.9,3.75,2.34,2.93,3.86,2.24,2.93,3.58,2.35,1.57,2.33,1.59,-0.25,1.9,1.95,Pordenone,Vicenza,pordenone,vicenza,Pordenone,A,4.0,2.0,1,2
+2021-10-16,I2,Italy-SB,2122,Vicenza,Reggina,0.0,1.0,A,0.0,1.0,A,2.55,2.87,3.0,2.71,2.91,3.18,2.55,2.9,2.99,2.25,1.61,2.27,1.62,0.0,1.8,2.05,Vicenza,Reggina,vicenza,reggina,Reggina,H,0.0,1.0,1,2
+2021-10-23,I2,Italy-SB,2122,Ternana,Vicenza,5.0,0.0,H,2.0,0.0,H,1.85,3.2,4.33,1.89,3.42,4.77,1.88,3.35,4.2,1.95,1.85,1.91,1.88,-0.5,1.88,1.98,Ternana,Vicenza,ternana,vicenza,Ternana,A,0.0,5.0,1,2
+2021-10-27,I2,Italy-SB,2122,Vicenza,Monza,1.0,1.0,D,0.0,1.0,A,3.25,3.1,2.3,3.64,2.98,2.39,3.28,2.99,2.31,2.2,1.65,2.24,1.63,0.25,,,Vicenza,Monza,vicenza,monza,Monza,H,1.0,1.0,1,2
+2021-11-01,I2,Italy-SB,2122,Parma,Vicenza,1.0,0.0,H,1.0,0.0,H,1.6,3.75,5.75,1.67,3.86,5.55,1.64,3.8,5.06,1.72,2.07,1.72,2.08,-0.75,1.85,2.0,Parma,Vicenza,parma,vicenza,Parma,A,0.0,1.0,1,2
+2021-11-06,I2,Italy-SB,2122,Ascoli,Vicenza,2.0,1.0,H,2.0,0.0,H,2.3,3.25,3.1,2.4,3.22,3.34,2.33,3.15,3.13,2.05,1.75,2.01,1.79,-0.25,2.05,1.8,Ascoli,Vicenza,ascoli,vicenza,Ascoli,A,1.0,2.0,1,2
+2021-11-20,I2,Italy-SB,2122,Vicenza,Brescia,2.0,3.0,A,1.0,2.0,A,3.4,3.25,2.15,3.56,3.35,2.23,3.33,3.27,2.17,1.98,1.88,1.95,1.85,0.25,1.95,1.9,Vicenza,Brescia,vicenza,brescia,Brescia,H,2.0,3.0,1,2
+2021-11-26,I2,Italy-SB,2122,Crotone,Vicenza,0.0,1.0,A,0.0,0.0,D,2.1,3.3,3.5,2.17,3.32,3.76,2.1,3.28,3.5,2.0,1.85,1.99,1.81,-0.25,1.83,2.02,Crotone,Vicenza,crotone,vicenza,Crotone,A,1.0,0.0,1,2
+2021-11-30,I2,Italy-SB,2122,Vicenza,Benevento,2.0,3.0,A,0.0,1.0,A,3.0,3.25,2.3,3.32,3.19,2.42,3.13,3.13,2.34,2.02,1.83,1.99,1.8,0.25,1.8,2.05,Vicenza,Benevento,vicenza,benevento,Benevento,H,2.0,3.0,1,3
+2021-12-03,I2,Italy-SB,2122,Perugia,Vicenza,1.0,0.0,H,0.0,0.0,D,1.95,3.1,4.2,2.05,3.09,4.59,2.0,3.04,4.2,2.35,1.57,2.35,1.58,-0.5,2.0,1.85,Perugia,Vicenza,perugia,vicenza,Perugia,A,0.0,1.0,1,2
+2021-12-12,I2,Italy-SB,2122,Vicenza,Como,0.0,1.0,A,0.0,1.0,A,2.3,3.2,3.1,2.44,3.31,3.11,2.37,3.24,2.96,1.95,1.9,1.94,1.85,-0.25,2.02,1.83,Vicenza,Como,vicenza,como,Como,H,0.0,1.0,1,2
+2022-01-23,I2,Italy-SB,2122,Vicenza,Cittadella,3.0,3.0,D,2.0,2.0,D,2.8,3.1,2.37,3.14,3.29,2.44,3.0,3.17,2.36,2.1,1.7,2.1,1.7,0.25,1.75,2.13,Vicenza,Cittadella,vicenza,cittadella,Cittadella,H,3.0,3.0,2,2
+2022-01-26,I2,Italy-SB,2122,Lecce,Vicenza,2.0,1.0,H,2.0,0.0,H,1.4,4.5,6.5,1.38,4.86,9.73,1.36,4.69,8.17,1.72,2.07,1.72,2.07,-1.25,1.85,2.0,Lecce,Vicenza,lecce,vicenza,Lecce,A,1.0,2.0,1,2
+2022-01-30,I2,Italy-SB,2122,Vicenza,Alessandria,2.0,1.0,H,1.0,1.0,D,2.55,3.1,2.87,2.68,3.19,2.93,2.56,3.09,2.82,2.25,1.61,2.21,1.63,0.0,1.8,2.05,Vicenza,Alessandria,vicenza,alessandria,Alessandria,H,2.0,1.0,1,2
+2022-02-05,I2,Italy-SB,2122,Frosinone,Vicenza,2.0,0.0,H,1.0,0.0,H,1.72,3.4,5.0,1.76,3.6,5.44,1.73,3.52,4.85,1.98,1.88,1.95,1.83,-0.75,1.95,1.9,Frosinone,Vicenza,frosinone,vicenza,Frosinone,A,0.0,2.0,2,2
+2022-02-12,I2,Italy-SB,2122,Vicenza,Cosenza,0.0,0.0,D,0.0,0.0,D,2.1,3.2,3.3,2.19,3.7,3.32,2.13,3.35,3.34,2.1,1.7,2.09,1.72,-0.25,1.85,2.0,Vicenza,Cosenza,vicenza,cosenza,Cosenza,H,0.0,0.0,2,2
+2022-02-15,I2,Italy-SB,2122,Pisa,Vicenza,2.0,2.0,D,1.0,2.0,A,1.8,3.3,4.0,1.88,3.37,4.98,1.84,3.28,4.57,2.07,1.72,2.03,1.76,-0.5,1.85,2.0,Pisa,Vicenza,pisa,vicenza,Pisa,A,2.0,2.0,2,3
+2022-02-19,I2,Italy-SB,2122,Vicenza,Spal,1.0,1.0,D,1.0,1.0,D,2.5,3.0,2.9,2.62,3.01,3.19,2.47,3.02,3.0,2.1,1.7,2.09,1.71,-0.25,2.08,1.73,Vicenza,Spal,vicenza,spal,Spal,H,1.0,1.0,2,2
+2022-02-22,I2,Italy-SB,2122,Cremonese,Vicenza,0.0,0.0,D,0.0,0.0,D,1.61,3.5,5.5,1.64,3.71,6.55,1.63,3.65,5.64,1.98,1.88,1.93,1.84,-0.75,1.8,2.05,Cremonese,Vicenza,cremonese,vicenza,Cremonese,A,0.0,0.0,2,2
+2022-02-26,I2,Italy-SB,2122,Vicenza,Pordenone,1.0,0.0,H,1.0,0.0,H,1.9,3.2,4.0,1.99,3.4,4.3,1.95,3.27,4.03,2.15,1.66,2.13,1.69,-0.5,1.95,1.9,Vicenza,Pordenone,vicenza,pordenone,Pordenone,H,1.0,0.0,2,2
+2022-03-02,I2,Italy-SB,2122,Reggina,Vicenza,3.0,1.0,H,2.0,0.0,H,2.25,3.1,3.4,2.43,3.08,3.43,2.3,3.08,3.26,2.2,1.65,2.22,1.63,-0.25,1.98,1.88,Reggina,Vicenza,reggina,vicenza,Reggina,A,1.0,3.0,2,2
+2022-03-06,I2,Italy-SB,2122,Vicenza,Ternana,3.0,1.0,H,3.0,0.0,H,2.45,3.2,2.8,2.61,3.27,2.95,2.5,3.22,2.81,2.0,1.85,1.96,1.81,0.0,1.8,2.05,Vicenza,Ternana,vicenza,ternana,Ternana,H,3.0,1.0,2,2
+2022-03-12,I2,Italy-SB,2122,Monza,Vicenza,4.0,0.0,H,1.0,0.0,H,1.65,3.75,5.25,1.69,3.73,5.87,1.64,3.75,5.24,1.83,2.02,1.85,1.93,-0.75,1.8,2.05,Monza,Vicenza,monza,vicenza,Monza,A,0.0,4.0,2,2
+2022-03-15,I2,Italy-SB,2122,Vicenza,Parma,0.0,1.0,A,0.0,1.0,A,2.87,3.3,2.37,3.1,3.35,2.46,2.94,3.27,2.39,2.05,1.8,2.01,1.78,0.25,1.8,2.05,Vicenza,Parma,vicenza,parma,Parma,H,0.0,1.0,2,2
+2022-03-20,I2,Italy-SB,2122,Vicenza,Ascoli,2.0,0.0,H,0.0,0.0,D,2.2,3.1,3.25,2.34,3.41,3.25,2.26,3.23,3.16,2.1,1.7,2.1,1.71,-0.25,1.95,1.9,Vicenza,Ascoli,vicenza,ascoli,Ascoli,H,2.0,0.0,2,2
+2022-04-03,I2,Italy-SB,2122,Brescia,Vicenza,2.0,0.0,H,2.0,0.0,H,1.65,3.75,4.75,1.64,4.11,5.67,1.64,3.79,5.15,1.88,1.98,1.85,1.92,-0.75,1.85,2.0,Brescia,Vicenza,brescia,vicenza,Brescia,A,0.0,2.0,2,2
+2022-04-06,I2,Italy-SB,2122,Vicenza,Crotone,1.0,1.0,D,1.0,1.0,D,2.1,3.4,3.2,2.27,3.39,3.43,2.18,3.33,3.26,2.0,1.85,1.97,1.81,-0.25,1.9,1.95,Vicenza,Crotone,vicenza,crotone,Crotone,H,1.0,1.0,2,2
+2022-04-10,I2,Italy-SB,2122,Benevento,Vicenza,1.0,0.0,H,0.0,0.0,D,1.57,3.6,5.25,1.67,3.87,5.77,1.63,3.75,5.31,1.9,1.95,1.87,1.89,-0.75,1.8,2.05,Benevento,Vicenza,benevento,vicenza,Benevento,A,0.0,1.0,2,3
+2022-04-18,I2,Italy-SB,2122,Vicenza,Perugia,1.0,2.0,A,1.0,1.0,D,2.87,3.0,2.45,3.09,3.1,2.58,2.92,3.0,2.53,2.4,1.53,2.36,1.56,0.0,2.05,1.8,Vicenza,Perugia,vicenza,perugia,Perugia,H,1.0,2.0,2,2
+2022-04-25,I2,Italy-SB,2122,Como,Vicenza,0.0,2.0,A,0.0,1.0,A,2.87,3.25,2.15,3.43,3.53,2.18,3.19,3.3,2.2,2.0,1.85,2.01,1.77,0.25,1.93,1.93,Como,Vicenza,como,vicenza,Como,A,2.0,0.0,2,2
+2022-04-30,I2,Italy-SB,2122,Vicenza,Lecce,2.0,1.0,H,0.0,0.0,D,4.5,3.3,1.66,5.13,3.66,1.78,4.67,3.52,1.75,1.93,1.93,1.9,1.87,0.75,1.88,1.98,Vicenza,Lecce,vicenza,lecce,Lecce,H,2.0,1.0,2,2
+2022-05-06,I2,Italy-SB,2122,Alessandria,Vicenza,0.0,1.0,A,0.0,1.0,A,2.3,3.2,3.0,2.38,3.31,3.27,2.31,3.26,3.08,1.95,1.9,1.91,1.87,-0.25,2.0,1.85,Alessandria,Vicenza,alessandria,vicenza,Alessandria,A,1.0,0.0,2,2
+2026-08-21,I2,Italy-SB,2627,Vicenza,Catanzaro,3.0,2.0,H,1.0,1.0,D,2.57,3.0,2.82,,,,2.49,3.08,2.79,2.08,1.73,2.08,1.68,0.0,1.8,2.0,Vicenza,Catanzaro,vicenza,catanzaro,Catanzaro,H,3.0,2.0,1,1
+2026-08-29,I2,Italy-SB,2627,Avellino,Vicenza,3.0,0.0,H,2.0,0.0,H,2.35,3.1,2.75,,,,2.43,3.06,2.85,2.25,1.62,2.17,1.63,0.0,1.7,2.1,Avellino,Vicenza,avellino,vicenza,Avellino,A,0.0,3.0,1,1
+2026-09-06,I2,Italy-SB,2627,Virtus Entella,Vicenza,2.0,2.0,D,1.0,1.0,D,2.1,3.0,3.6,,,,2.11,3.05,3.49,2.4,1.53,2.3,1.55,-0.25,1.83,1.98,Virtus Entella,Vicenza,virtus_entella,vicenza,Virtus Entella,A,2.0,2.0,1,1
+2026-09-12,I2,Italy-SB,2627,Vicenza,Juve Stabia,1.0,1.0,D,0.0,0.0,D,1.96,3.1,4.1,,,,1.97,3.15,3.82,2.15,1.67,2.14,1.64,-0.5,2.0,1.8,Vicenza,Juve Stabia,vicenza,juve_stabia,Juve Stabia,H,1.0,1.0,1,1
+2026-09-20,I2,Italy-SB,2627,Verona,Vicenza,2.0,1.0,H,0.0,0.0,D,1.86,3.4,4.2,,,,1.85,3.51,3.75,1.85,1.95,1.8,1.9,-0.5,1.9,1.9,Hellas Verona,Vicenza,hellas_verona,vicenza,Hellas Verona,A,1.0,2.0,1,1
+2026-10-10,I2,Italy-SB,2627,Vicenza,Pisa,0.0,3.0,A,0.0,1.0,A,2.85,3.3,2.2,,,,2.84,3.36,2.25,1.8,2.0,1.74,1.99,0.25,1.8,2.0,Vicenza,Pisa,vicenza,pisa,Pisa,H,0.0,3.0,3,3
+2026-10-17,I2,Italy-SB,2627,Benevento,Vicenza,2.0,2.0,D,2.0,0.0,H,1.96,3.25,3.75,,,,1.98,3.45,3.38,1.8,2.0,1.74,1.98,-0.5,2.0,1.8,Benevento,Vicenza,benevento,vicenza,Benevento,A,2.0,2.0,3,3

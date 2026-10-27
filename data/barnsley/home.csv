@@ -1,0 +1,121 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E1,England-Champ,2122,Barnsley,Coventry,1.0,0.0,H,1.0,0.0,H,2.0,3.3,3.9,2.08,3.29,4.03,2.05,3.27,3.93,2.2,1.66,2.2,1.68,-0.5,2.09,1.84,Barnsley,Coventry,barnsley,coventry
+2021-08-17,E1,England-Champ,2122,Barnsley,Luton,0.0,1.0,A,0.0,1.0,A,2.3,3.2,3.3,2.35,3.27,3.37,2.31,3.2,3.24,2.3,1.61,2.28,1.62,-0.25,2.02,1.91,Barnsley,Luton,barnsley,luton
+2021-08-28,E1,England-Champ,2122,Barnsley,Birmingham,1.0,1.0,D,1.0,1.0,D,2.25,3.3,3.3,2.34,3.23,3.39,2.29,3.19,3.34,2.37,1.57,2.35,1.6,-0.25,2.0,1.93,Barnsley,Birmingham,barnsley,birmingham
+2021-09-18,E1,England-Champ,2122,Barnsley,Blackburn,0.0,0.0,D,0.0,0.0,D,3.0,3.0,2.62,2.89,3.14,2.76,2.83,3.12,2.65,2.2,1.66,2.19,1.68,0.0,2.03,1.9,Barnsley,Blackburn,barnsley,blackburn
+2021-09-29,E1,England-Champ,2122,Barnsley,Nott'm Forest,1.0,3.0,A,1.0,0.0,H,2.4,3.0,3.25,2.54,2.96,3.38,2.48,2.98,3.2,2.37,1.57,2.39,1.58,-0.25,2.1,1.8,Barnsley,Nottingham Forest,barnsley,nottingham_forest
+2021-10-02,E1,England-Champ,2122,Barnsley,Millwall,0.0,1.0,A,0.0,0.0,D,3.0,3.1,2.5,3.0,3.1,2.69,2.95,3.03,2.62,2.5,1.53,2.51,1.53,0.0,2.07,1.83,Barnsley,Millwall,barnsley,millwall
+2021-10-24,E1,England-Champ,2122,Barnsley,Sheffield United,2.0,3.0,A,0.0,0.0,D,3.8,3.4,2.05,3.78,3.54,2.08,3.59,3.45,2.06,2.1,1.72,2.08,1.75,0.25,2.08,1.73,Barnsley,Sheffield United,barnsley,sheffield_united
+2021-11-03,E1,England-Champ,2122,Barnsley,Derby,2.0,1.0,H,1.0,1.0,D,2.2,3.2,3.5,2.33,3.24,3.46,2.27,3.17,3.35,2.3,1.61,2.32,1.61,-0.25,1.96,1.94,Barnsley,Derby,barnsley,derby
+2021-11-06,E1,England-Champ,2122,Barnsley,Hull,0.0,2.0,A,0.0,1.0,A,2.25,3.2,3.4,2.27,3.32,3.49,2.24,3.24,3.37,2.3,1.61,2.24,1.65,-0.25,1.94,1.96,Barnsley,Hull City,barnsley,hull_city
+2021-11-24,E1,England-Champ,2122,Barnsley,Swansea,0.0,2.0,A,0.0,0.0,D,3.0,3.3,2.37,3.16,3.36,2.41,3.05,3.3,2.38,2.0,1.8,2.06,1.77,0.25,1.84,2.06,Barnsley,Swansea City,barnsley,swansea_city
+2021-12-04,E1,England-Champ,2122,Barnsley,Huddersfield,1.0,1.0,D,1.0,1.0,D,2.8,3.2,2.7,2.77,3.27,2.77,2.73,3.19,2.69,2.3,1.61,2.27,1.63,0.0,1.98,1.92,Barnsley,Huddersfield,barnsley,huddersfield
+2021-12-17,E1,England-Champ,2122,Barnsley,West Brom,0.0,0.0,D,0.0,0.0,D,5.0,3.8,1.66,5.71,3.91,1.67,5.28,3.82,1.67,2.02,1.83,2.01,1.8,0.75,2.05,1.85,Barnsley,West Bromwich Albion,barnsley,west_bromwich_albion
+2022-01-29,E1,England-Champ,2122,Barnsley,Bournemouth,0.0,1.0,A,0.0,1.0,A,5.5,3.6,1.7,5.72,3.67,1.71,5.28,3.63,1.7,2.05,1.8,2.05,1.77,0.75,1.97,1.93,Barnsley,Bournemouth,barnsley,bournemouth
+2022-02-02,E1,England-Champ,2122,Barnsley,Cardiff,0.0,1.0,A,0.0,0.0,D,2.9,3.1,2.55,3.09,3.23,2.54,2.96,3.19,2.48,2.2,1.66,2.19,1.67,0.0,2.1,1.8,Barnsley,Cardiff City,barnsley,cardiff_city
+2022-02-12,E1,England-Champ,2122,Barnsley,QPR,1.0,0.0,H,0.0,0.0,D,3.8,3.4,2.0,4.1,3.28,2.08,3.76,3.34,2.05,2.05,1.8,2.02,1.8,0.5,1.82,2.08,Barnsley,Queens Park Rangers,barnsley,queens_park_rangers
+2022-02-26,E1,England-Champ,2122,Barnsley,Middlesbrough,3.0,2.0,H,2.0,0.0,H,4.2,3.6,1.85,4.76,3.52,1.87,4.5,3.51,1.84,2.1,1.72,2.14,1.7,0.5,2.01,1.89,Barnsley,Middlesbrough,barnsley,middlesbrough
+2022-03-08,E1,England-Champ,2122,Barnsley,Stoke,1.0,1.0,D,0.0,0.0,D,3.2,3.3,2.25,3.3,3.25,2.4,3.2,3.16,2.37,2.37,1.57,2.35,1.59,0.25,1.84,2.06,Barnsley,Stoke City,barnsley,stoke_city
+2022-03-12,E1,England-Champ,2122,Barnsley,Fulham,1.0,1.0,D,1.0,0.0,H,6.5,4.75,1.44,7.41,4.53,1.48,7.17,4.53,1.44,1.83,2.02,1.8,2.01,1.25,1.88,2.02,Barnsley,Fulham,barnsley,fulham
+2022-03-15,E1,England-Champ,2122,Barnsley,Bristol City,2.0,0.0,H,2.0,0.0,H,2.3,3.25,3.25,2.39,3.28,3.29,2.34,3.25,3.19,2.1,1.72,2.12,1.72,-0.25,2.03,1.87,Barnsley,Bristol City,barnsley,bristol_city
+2022-04-02,E1,England-Champ,2122,Barnsley,Reading,1.0,1.0,D,1.0,0.0,H,2.2,3.3,3.4,2.34,3.34,3.31,2.26,3.3,3.27,2.1,1.72,2.07,1.76,-0.25,1.97,1.93,Barnsley,Reading,barnsley,reading
+2022-04-18,E1,England-Champ,2122,Barnsley,Peterboro,0.0,2.0,A,0.0,1.0,A,2.0,3.5,3.75,2.04,3.62,3.81,2.01,3.5,3.71,1.98,1.88,1.95,1.85,-0.5,2.02,1.88,Barnsley,Peterborough United,barnsley,peterborough_united
+2022-04-26,E1,England-Champ,2122,Barnsley,Blackpool,0.0,2.0,A,0.0,1.0,A,2.87,3.6,2.3,3.07,3.57,2.37,3.0,3.42,2.35,2.0,1.85,1.99,1.82,0.25,1.87,2.03,Barnsley,Blackpool,barnsley,blackpool
+2022-04-30,E1,England-Champ,2122,Barnsley,Preston,1.0,3.0,A,1.0,1.0,D,3.1,3.5,2.2,3.4,3.54,2.22,3.25,3.45,2.21,2.0,1.85,2.01,1.81,0.25,1.95,1.95,Barnsley,Preston,barnsley,preston
+2022-08-06,E2,England-L1,2223,Barnsley,Cheltenham,1.0,0.0,H,0.0,0.0,D,1.8,3.4,5.0,1.83,3.7,4.56,1.79,3.56,4.41,2.0,1.85,1.94,1.83,-0.75,2.02,1.83,Barnsley,Cheltenham Town,barnsley,cheltenham_town
+2022-08-16,E2,England-L1,2223,Barnsley,Bristol Rvs,3.0,0.0,H,2.0,0.0,H,1.95,3.5,3.6,2.03,3.58,3.8,2.0,3.46,3.65,2.02,1.83,2.01,1.78,-0.5,2.05,1.8,Barnsley,Bristol Rvs,barnsley,bristol_rvs
+2022-08-20,E2,England-L1,2223,Barnsley,Wycombe,0.0,3.0,A,0.0,1.0,A,2.25,3.4,3.1,2.31,3.32,3.35,2.27,3.27,3.15,2.05,1.8,2.03,1.76,-0.25,1.98,1.88,Barnsley,Wycombe Wanderers,barnsley,wycombe_wanderers
+2022-09-13,E2,England-L1,2223,Barnsley,Port Vale,1.0,1.0,D,1.0,0.0,H,2.1,3.4,3.6,2.15,3.45,3.58,2.11,3.33,3.46,2.1,1.7,2.13,1.69,-0.25,1.83,2.02,Barnsley,Port Vale,barnsley,port_vale
+2022-09-24,E2,England-L1,2223,Barnsley,Charlton,3.0,1.0,H,1.0,0.0,H,2.25,3.3,3.25,2.35,3.25,3.34,2.29,3.28,3.1,2.05,1.8,1.97,1.8,-0.25,1.95,1.9,Barnsley,Charlton,barnsley,charlton
+2022-10-08,E2,England-L1,2223,Barnsley,Exeter,0.0,2.0,A,0.0,1.0,A,2.2,3.4,3.25,2.24,3.56,3.27,2.2,3.41,3.16,1.95,1.9,1.9,1.87,-0.25,1.9,1.95,Barnsley,Exeter City,barnsley,exeter_city
+2022-10-25,E2,England-L1,2223,Barnsley,Lincoln,0.0,1.0,A,0.0,1.0,A,1.8,3.8,4.2,1.81,3.85,4.44,1.79,3.69,4.3,1.9,1.95,1.9,1.88,-0.75,2.05,1.8,Barnsley,Lincoln City,barnsley,lincoln_city
+2022-10-29,E2,England-L1,2223,Barnsley,Forest Green,2.0,0.0,H,1.0,0.0,H,1.61,4.0,5.5,1.64,4.04,5.55,1.64,3.81,5.15,1.98,1.88,1.93,1.84,-0.75,1.83,2.02,Barnsley,Forest Green Rovers,barnsley,forest_green_rovers
+2022-11-19,E2,England-L1,2223,Barnsley,Milton Keynes Dons,3.0,1.0,H,1.0,1.0,D,1.8,3.5,4.75,1.8,3.66,4.81,1.8,3.51,4.49,2.15,1.66,2.14,1.67,-0.75,2.02,1.77,Barnsley,MK Dons,barnsley,mk_dons
+2022-12-17,E2,England-L1,2223,Barnsley,Burton,2.0,0.0,H,1.0,0.0,H,1.91,3.6,3.75,1.93,3.66,4.12,1.92,3.54,3.85,1.95,1.9,1.9,1.87,-0.5,1.9,1.95,Barnsley,Burton Albion,barnsley,burton_albion
+2022-12-29,E2,England-L1,2223,Barnsley,Fleetwood Town,2.0,1.0,H,0.0,0.0,D,1.62,3.75,5.75,1.61,4.07,5.9,1.61,3.88,5.4,1.95,1.9,1.93,1.84,-0.75,1.8,2.05,Barnsley,Fleetwood Town,barnsley,fleetwood_town
+2023-01-02,E2,England-L1,2223,Barnsley,Bolton,0.0,3.0,A,0.0,2.0,A,2.2,3.4,3.3,2.36,3.23,3.06,2.26,3.25,3.13,2.1,1.7,2.08,1.7,-0.25,1.98,1.88,Barnsley,Bolton,barnsley,bolton
+2023-01-21,E2,England-L1,2223,Barnsley,Accrington,3.0,1.0,H,3.0,0.0,H,1.62,4.0,5.5,1.62,4.07,5.75,1.61,3.93,5.3,1.9,1.95,1.89,1.89,-0.75,1.75,2.05,Barnsley,Accrington Stanley,barnsley,accrington_stanley
+2023-02-11,E2,England-L1,2223,Barnsley,Cambridge,2.0,0.0,H,1.0,0.0,H,1.5,4.0,7.0,1.51,4.39,6.77,1.51,4.18,6.19,1.88,1.98,1.85,1.93,-1.0,1.88,1.98,Barnsley,Cambridge United,barnsley,cambridge_united
+2023-02-25,E2,England-L1,2223,Barnsley,Derby,4.0,1.0,H,3.0,1.0,H,3.0,3.3,2.4,2.94,3.36,2.53,2.84,3.27,2.46,2.08,1.73,2.1,1.7,0.0,2.08,1.73,Barnsley,Derby,barnsley,derby
+2023-03-07,E2,England-L1,2223,Barnsley,Portsmouth,3.0,1.0,H,2.0,0.0,H,1.95,3.4,4.0,1.98,3.43,4.19,1.97,3.34,3.95,2.2,1.65,2.21,1.64,-0.5,1.93,1.93,Barnsley,Portsmouth,barnsley,portsmouth
+2023-03-11,E2,England-L1,2223,Barnsley,Plymouth,3.0,0.0,H,0.0,0.0,D,2.05,3.4,3.6,2.05,3.59,3.74,2.03,3.46,3.51,1.9,1.95,1.88,1.89,-0.5,2.05,1.75,Barnsley,Plymouth Argyle,barnsley,plymouth_argyle
+2023-03-21,E2,England-L1,2223,Barnsley,Sheffield Weds,4.0,2.0,H,2.0,1.0,H,2.75,3.2,2.63,2.87,3.14,2.73,2.75,3.09,2.65,2.25,1.62,2.3,1.59,0.0,1.95,1.9,Barnsley,Sheffield Wednesday,barnsley,sheffield_wednesday
+2023-04-01,E2,England-L1,2223,Barnsley,Morecambe,5.0,0.0,H,3.0,0.0,H,1.36,4.5,10.0,1.34,5.03,10.79,1.34,4.83,9.3,1.85,2.0,1.83,1.94,-1.25,1.8,2.05,Barnsley,Morecambe,barnsley,morecambe
+2023-04-10,E2,England-L1,2223,Barnsley,Shrewsbury,2.0,1.0,H,2.0,0.0,H,1.55,3.75,7.0,1.61,3.86,6.35,1.58,3.81,5.96,2.08,1.73,2.09,1.71,-1.0,2.02,1.83,Barnsley,Shrewsbury Town,barnsley,shrewsbury_town
+2023-04-22,E2,England-L1,2223,Barnsley,Oxford,2.0,0.0,H,1.0,0.0,H,1.62,3.8,5.75,1.66,3.98,5.45,1.65,3.82,5.12,1.98,1.88,1.91,1.86,-0.75,1.82,2.02,Barnsley,Oxford United,barnsley,oxford_united
+2023-04-25,E2,England-L1,2223,Barnsley,Ipswich,0.0,3.0,A,0.0,2.0,A,3.8,3.5,2.0,3.84,3.47,2.06,3.68,3.41,2.02,2.02,1.82,2.01,1.78,0.5,1.8,2.05,Barnsley,Ipswich,barnsley,ipswich
+2023-05-07,E2,England-L1,2223,Barnsley,Peterboro,0.0,2.0,A,0.0,1.0,A,2.6,3.8,2.4,2.72,3.83,2.35,2.68,3.69,2.37,1.65,2.2,1.65,2.19,0.0,2.02,1.82,Barnsley,Peterborough United,barnsley,peterborough_united
+2023-08-05,E2,England-L1,2324,Barnsley,Port Vale,7.0,0.0,H,2.0,0.0,H,1.75,3.75,4.75,1.8,3.72,4.72,1.77,3.6,4.51,2.05,1.75,2.03,1.75,-0.75,2.0,1.85,Barnsley,Port Vale,barnsley,port_vale
+2023-08-15,E2,England-L1,2324,Barnsley,Peterboro,1.0,3.0,A,0.0,0.0,D,2.25,3.3,3.25,2.26,3.48,3.3,2.21,3.37,3.18,1.93,1.93,1.89,1.89,-0.25,1.93,1.93,Barnsley,Peterborough United,barnsley,peterborough_united
+2023-08-19,E2,England-L1,2324,Barnsley,Oxford,1.0,3.0,A,0.0,1.0,A,2.1,3.4,3.5,2.13,3.54,3.56,2.08,3.42,3.44,1.98,1.88,1.91,1.86,-0.25,1.83,2.03,Barnsley,Oxford United,barnsley,oxford_united
+2023-09-16,E2,England-L1,2324,Barnsley,Burton,2.0,0.0,H,1.0,0.0,H,1.6,4.0,5.75,1.67,4.12,5.1,1.61,4.05,5.12,1.75,2.05,1.76,2.02,-1.0,2.03,1.78,Barnsley,Burton Albion,barnsley,burton_albion
+2023-09-19,E2,England-L1,2324,Barnsley,Portsmouth,2.0,3.0,A,0.0,3.0,A,2.4,3.4,2.8,2.49,3.47,2.91,2.41,3.39,2.85,1.88,1.98,1.86,1.92,-0.25,2.08,1.73,Barnsley,Portsmouth,barnsley,portsmouth
+2023-09-30,E2,England-L1,2324,Barnsley,Blackpool,0.0,1.0,A,0.0,1.0,A,2.15,3.8,3.1,2.26,3.6,3.19,2.18,3.48,3.16,2.0,1.85,1.96,1.81,-0.25,1.9,1.95,Barnsley,Blackpool,barnsley,blackpool
+2023-10-24,E2,England-L1,2324,Barnsley,Shrewsbury,3.0,0.0,H,2.0,0.0,H,1.62,3.75,5.75,1.65,3.93,5.75,1.62,3.79,5.44,1.95,1.9,1.91,1.86,-0.75,1.8,2.05,Barnsley,Shrewsbury Town,barnsley,shrewsbury_town
+2023-10-28,E2,England-L1,2324,Barnsley,Fleetwood Town,2.0,2.0,D,1.0,2.0,A,1.8,4.0,4.2,1.8,4.02,4.33,1.77,3.81,4.2,1.83,2.03,1.8,1.98,-0.75,2.0,1.85,Barnsley,Fleetwood Town,barnsley,fleetwood_town
+2023-11-28,E2,England-L1,2324,Barnsley,Wycombe,1.0,0.0,H,0.0,0.0,D,1.95,3.6,4.0,1.95,3.82,3.85,1.91,3.68,3.7,1.73,2.08,1.76,2.02,-0.5,1.93,1.93,Barnsley,Wycombe Wanderers,barnsley,wycombe_wanderers
+2023-12-16,E2,England-L1,2324,Barnsley,Charlton,1.0,1.0,D,1.0,0.0,H,1.91,3.6,4.0,1.94,4.0,3.69,1.92,3.79,3.59,1.67,2.15,1.65,2.18,-0.5,1.93,1.93,Barnsley,Charlton,barnsley,charlton
+2023-12-23,E2,England-L1,2324,Barnsley,Stevenage,2.0,1.0,H,1.0,1.0,D,2.2,3.4,3.3,2.29,3.47,3.24,2.21,3.35,3.17,2.05,1.75,2.0,1.77,-0.25,1.93,1.93,Barnsley,Stevenage,barnsley,stevenage
+2024-01-01,E2,England-L1,2324,Barnsley,Wigan,1.0,1.0,D,1.0,0.0,H,1.57,3.8,6.0,1.62,4.21,5.49,1.58,4.03,5.33,1.73,2.08,1.72,2.05,-1.0,2.03,1.83,Barnsley,Wigan Athletic,barnsley,wigan_athletic
+2024-01-13,E2,England-L1,2324,Barnsley,Bristol Rvs,2.0,1.0,H,1.0,0.0,H,1.91,3.5,4.2,1.94,3.71,3.98,1.88,3.61,3.88,1.75,2.05,1.74,2.04,-0.5,1.88,1.98,Barnsley,Bristol Rvs,barnsley,bristol_rvs
+2024-01-16,E2,England-L1,2324,Barnsley,Carlisle,2.0,1.0,H,0.0,1.0,A,1.5,4.5,6.5,1.49,4.69,6.52,1.48,4.44,6.13,1.62,2.25,1.62,2.26,-1.25,2.05,1.8,Barnsley,Carlisle United,barnsley,carlisle_united
+2024-01-27,E2,England-L1,2324,Barnsley,Exeter,1.0,2.0,A,0.0,2.0,A,1.57,4.5,5.0,1.59,4.32,5.63,1.55,4.17,5.38,1.7,2.1,1.71,2.07,-1.0,1.98,1.88,Barnsley,Exeter City,barnsley,exeter_city
+2024-02-10,E2,England-L1,2324,Barnsley,Leyton Orient,2.0,1.0,H,0.0,1.0,A,2.1,3.4,3.6,2.19,3.57,3.37,2.11,3.46,3.27,1.9,1.95,1.85,1.91,-0.25,1.85,2.0,Barnsley,Leyton Orient,barnsley,leyton_orient
+2024-02-24,E2,England-L1,2324,Barnsley,Derby,2.0,1.0,H,1.0,1.0,D,2.8,3.4,2.5,2.78,3.46,2.61,2.68,3.38,2.48,1.93,1.93,1.86,1.9,0.0,2.05,1.8,Barnsley,Derby,barnsley,derby
+2024-03-05,E2,England-L1,2324,Barnsley,Bolton,2.0,2.0,D,1.0,0.0,H,2.38,3.4,3.0,2.47,3.44,2.96,2.37,3.38,2.86,1.9,1.95,1.84,1.94,-0.25,2.1,1.78,Barnsley,Bolton,barnsley,bolton
+2024-03-09,E2,England-L1,2324,Barnsley,Lincoln,1.0,5.0,A,0.0,1.0,A,1.95,3.4,4.0,2.02,3.45,4.0,1.97,3.36,3.82,2.1,1.7,2.08,1.72,-0.5,1.98,1.88,Barnsley,Lincoln City,barnsley,lincoln_city
+2024-03-16,E2,England-L1,2324,Barnsley,Cheltenham,0.0,0.0,D,0.0,0.0,D,1.8,3.75,4.33,1.8,3.89,4.48,1.77,3.74,4.27,1.85,2.0,1.81,1.95,-0.75,2.03,1.83,Barnsley,Cheltenham Town,barnsley,cheltenham_town
+2024-03-29,E2,England-L1,2324,Barnsley,Cambridge,0.0,2.0,A,0.0,1.0,A,1.55,4.33,6.0,1.53,4.4,6.14,1.52,4.27,5.69,1.7,2.1,1.7,2.1,-1.0,1.88,1.98,Barnsley,Cambridge United,barnsley,cambridge_united
+2024-04-13,E2,England-L1,2324,Barnsley,Reading,2.0,2.0,D,1.0,1.0,D,1.8,3.75,4.2,1.81,3.95,4.27,1.8,3.76,4.04,1.65,2.2,1.65,2.18,-0.75,2.03,1.83,Barnsley,Reading,barnsley,reading
+2024-04-27,E2,England-L1,2324,Barnsley,Northampton,1.0,1.0,D,1.0,0.0,H,1.45,4.75,7.0,1.46,4.86,6.54,1.44,4.71,6.33,1.5,2.5,1.52,2.46,-1.25,1.98,1.88,Barnsley,Northampton Town,barnsley,northampton_town
+2024-08-09,E2,England-L1,2425,Barnsley,Mansfield,1.0,2.0,A,1.0,2.0,A,2.05,3.7,3.3,2.09,3.62,3.5,2.03,3.55,3.38,1.73,2.08,1.73,2.06,-0.25,1.83,2.03,Barnsley,Mansfield Town,barnsley,mansfield_town
+2024-08-24,E2,England-L1,2425,Barnsley,Northampton,2.0,2.0,D,1.0,0.0,H,1.65,3.8,5.0,1.67,4.08,4.65,1.65,3.93,4.73,1.8,2.0,1.78,2.0,-0.75,1.85,2.0,Barnsley,Northampton Town,barnsley,northampton_town
+2024-09-07,E2,England-L1,2425,Barnsley,Bristol Rvs,2.0,1.0,H,1.0,1.0,D,1.7,3.9,4.5,1.7,4.16,4.28,1.7,3.94,4.34,1.75,2.05,1.73,2.05,-0.75,1.93,1.93,Barnsley,Bristol Rvs,barnsley,bristol_rvs
+2024-09-28,E2,England-L1,2425,Barnsley,Stockport,1.0,1.0,D,1.0,0.0,H,2.25,3.4,3.0,2.27,3.54,3.01,2.21,3.48,3.0,1.73,2.08,1.72,2.07,-0.25,1.98,1.88,Barnsley,Stockport County,barnsley,stockport_county
+2024-10-01,E2,England-L1,2425,Barnsley,Wycombe,2.0,2.0,D,0.0,0.0,D,2.15,3.2,3.3,2.23,3.55,3.23,2.19,3.43,3.13,1.85,2.0,1.82,1.95,-0.25,1.93,1.93,Barnsley,Wycombe Wanderers,barnsley,wycombe_wanderers
+2024-10-22,E2,England-L1,2425,Barnsley,Charlton,2.0,2.0,D,1.0,0.0,H,2.15,3.5,3.25,2.15,3.62,3.35,2.13,3.47,3.24,1.9,1.95,1.85,1.92,-0.25,1.85,2.0,Barnsley,Charlton,barnsley,charlton
+2024-11-08,E2,England-L1,2425,Barnsley,Rotherham,2.0,0.0,H,1.0,0.0,H,2.05,3.5,3.5,2.12,3.45,3.59,2.09,3.4,3.41,1.95,1.9,1.91,1.87,-0.25,1.8,2.05,Barnsley,Rotherham United,barnsley,rotherham_united
+2024-11-23,E2,England-L1,2425,Barnsley,Wigan,0.0,1.0,A,0.0,1.0,A,1.85,3.7,3.9,1.87,3.72,3.93,1.88,3.62,3.83,1.93,1.93,1.87,1.89,-0.5,1.9,1.95,Barnsley,Wigan Athletic,barnsley,wigan_athletic
+2024-11-26,E2,England-L1,2425,Barnsley,Reading,2.0,2.0,D,1.0,0.0,H,1.67,3.8,4.75,1.68,4.23,4.7,1.67,4.02,4.51,1.57,2.35,1.6,2.28,-0.75,1.85,2.0,Barnsley,Reading,barnsley,reading
+2024-12-07,E2,England-L1,2425,Barnsley,Birmingham,1.0,2.0,A,0.0,0.0,D,3.4,3.5,2.05,3.24,3.52,2.16,3.39,3.53,2.03,1.73,2.08,1.73,2.05,0.5,1.75,2.05,Barnsley,Birmingham,barnsley,birmingham
+2024-12-21,E2,England-L1,2425,Barnsley,Leyton Orient,0.0,4.0,A,0.0,2.0,A,2.05,3.5,3.5,2.07,3.52,3.47,2.05,3.45,3.42,1.93,1.93,1.9,1.86,-0.25,1.8,2.05,Barnsley,Leyton Orient,barnsley,leyton_orient
+2025-01-01,E2,England-L1,2425,Barnsley,Wrexham,2.0,1.0,H,2.0,0.0,H,2.3,3.4,2.88,2.33,3.29,3.11,2.26,3.36,2.98,2.03,1.83,1.96,1.8,-0.25,2.03,1.83,Barnsley,Wrexham,barnsley,wrexham
+2025-01-04,E2,England-L1,2425,Barnsley,Crawley Town,3.0,0.0,H,1.0,0.0,H,1.53,4.2,5.5,1.56,4.35,5.19,1.53,4.33,5.31,1.6,2.3,1.58,2.31,-1.0,1.9,1.95,Barnsley,Crawley Town,barnsley,crawley_town
+2025-01-25,E2,England-L1,2425,Barnsley,Stevenage,0.0,1.0,A,0.0,0.0,D,1.85,3.5,4.1,1.85,3.67,4.08,1.84,3.57,4.04,2.08,1.73,2.02,1.75,-0.5,1.85,2.0,Barnsley,Stevenage,barnsley,stevenage
+2025-02-01,E2,England-L1,2425,Barnsley,Burton,0.0,0.0,D,0.0,0.0,D,1.57,4.33,4.75,1.61,4.2,5.29,1.58,4.1,5.1,1.7,2.1,1.7,2.09,-1.0,2.03,1.83,Barnsley,Burton Albion,barnsley,burton_albion
+2025-02-15,E2,England-L1,2425,Barnsley,Huddersfield,1.0,2.0,A,1.0,0.0,H,2.35,3.3,2.9,2.35,3.48,2.92,2.36,3.38,2.82,1.93,1.93,1.86,1.91,-0.25,2.05,1.8,Barnsley,Huddersfield,barnsley,huddersfield
+2025-03-01,E2,England-L1,2425,Barnsley,Lincoln,4.0,3.0,H,2.0,0.0,H,2.0,3.4,3.6,2.04,3.43,3.64,2.01,3.39,3.54,2.0,1.85,1.94,1.82,-0.5,2.03,1.83,Barnsley,Lincoln City,barnsley,lincoln_city
+2025-03-08,E2,England-L1,2425,Barnsley,Blackpool,0.0,3.0,A,0.0,0.0,D,2.25,3.4,3.0,2.34,3.56,2.97,2.26,3.46,2.9,1.75,2.05,1.72,2.05,-0.25,2.0,1.85,Barnsley,Blackpool,barnsley,blackpool
+2025-03-22,E2,England-L1,2425,Barnsley,Cambridge,1.0,1.0,D,0.0,1.0,A,1.67,4.0,4.5,1.69,4.04,4.51,1.69,3.94,4.42,1.73,2.08,1.72,2.07,-0.75,1.93,1.93,Barnsley,Cambridge United,barnsley,cambridge_united
+2025-04-01,E2,England-L1,2425,Barnsley,Exeter,1.0,2.0,A,0.0,1.0,A,1.9,3.5,3.9,1.93,3.76,3.88,1.88,3.67,3.82,1.8,2.0,1.77,2.02,-0.5,1.93,1.93,Barnsley,Exeter City,barnsley,exeter_city
+2025-04-12,E2,England-L1,2425,Barnsley,Bolton,4.0,1.0,H,2.0,0.0,H,3.3,3.75,2.0,3.49,3.71,2.0,3.39,3.62,1.99,1.7,2.1,1.7,2.1,0.5,1.83,2.03,Barnsley,Bolton,barnsley,bolton
+2025-04-21,E2,England-L1,2425,Barnsley,Peterboro,1.0,1.0,D,1.0,1.0,D,2.3,3.5,2.9,2.29,3.8,2.81,2.24,3.76,2.79,1.44,2.7,1.41,2.75,-0.25,2.03,1.83,Barnsley,Peterborough United,barnsley,peterborough_united
+2025-04-26,E2,England-L1,2425,Barnsley,Shrewsbury,1.0,2.0,A,0.0,1.0,A,1.53,4.1,5.5,1.58,4.43,4.93,1.56,4.29,5.05,1.62,2.25,1.62,2.24,-1.0,1.98,1.88,Barnsley,Shrewsbury Town,barnsley,shrewsbury_town
+2025-08-09,E2,England-L1,2526,Barnsley,Burton,3.0,2.0,H,0.0,2.0,A,1.7,3.8,4.75,1.7,3.77,4.8,1.68,3.83,4.6,1.85,2.0,1.81,1.93,-0.75,1.93,1.93,Barnsley,Burton Albion,barnsley,burton_albion
+2025-08-16,E2,England-L1,2526,Barnsley,Bolton,1.0,1.0,D,0.0,0.0,D,2.7,3.4,2.45,2.76,3.58,2.42,2.69,3.54,2.39,1.67,2.15,1.64,2.16,0.0,2.05,1.8,Barnsley,Bolton,barnsley,bolton
+2025-08-30,E2,England-L1,2526,Barnsley,Huddersfield,3.0,1.0,H,2.0,0.0,H,2.5,3.75,2.35,2.72,3.46,2.52,2.59,3.54,2.48,1.75,2.05,1.76,1.98,0.0,2.0,1.85,Barnsley,Huddersfield,barnsley,huddersfield
+2025-09-13,E2,England-L1,2526,Barnsley,Reading,3.0,2.0,H,1.0,1.0,D,1.76,3.8,4.2,1.8,3.95,3.99,1.81,3.84,3.9,1.62,2.25,1.59,2.26,-0.75,2.03,1.83,Barnsley,Reading,barnsley,reading
+2025-09-27,E2,England-L1,2526,Barnsley,Port Vale,0.0,2.0,A,0.0,0.0,D,2.01,3.5,3.25,2.14,3.49,3.3,2.08,3.48,3.3,1.8,2.0,1.76,1.99,-0.25,1.83,2.03,Barnsley,Port Vale,barnsley,port_vale
+2025-10-25,E2,England-L1,2526,Barnsley,Rotherham,0.0,1.0,A,0.0,0.0,D,1.81,3.6,3.9,1.84,3.83,3.93,1.82,3.83,3.9,1.7,2.1,1.64,2.17,-0.5,1.88,1.98,Barnsley,Rotherham United,barnsley,rotherham_united
+2025-11-22,E2,England-L1,2526,Barnsley,Luton,5.0,0.0,H,3.0,0.0,H,3.05,3.4,2.15,,,,3.08,3.47,2.2,1.75,2.05,1.73,2.01,0.25,1.9,1.95,Barnsley,Luton,barnsley,luton
+2025-12-13,E2,England-L1,2526,Barnsley,Leyton Orient,3.0,2.0,H,1.0,2.0,A,2.1,3.6,2.95,,,,2.18,3.6,2.99,1.67,2.15,1.65,2.13,-0.25,1.9,1.95,Barnsley,Leyton Orient,barnsley,leyton_orient
+2025-12-26,E2,England-L1,2526,Barnsley,Mansfield,2.0,3.0,A,2.0,1.0,H,1.86,3.5,3.75,,,,1.94,3.6,3.53,1.75,2.05,1.71,2.04,-0.5,1.95,1.9,Barnsley,Mansfield Town,barnsley,mansfield_town
+2025-12-29,E2,England-L1,2526,Barnsley,Lincoln,0.0,2.0,A,0.0,1.0,A,2.65,3.25,2.5,,,,2.61,3.37,2.56,1.8,2.0,1.77,1.96,0.0,1.98,1.88,Barnsley,Lincoln City,barnsley,lincoln_city
+2026-01-17,E2,England-L1,2526,Barnsley,Blackpool,2.0,1.0,H,1.0,0.0,H,2.1,3.4,3.2,,,,2.14,3.56,3.1,1.73,2.08,1.68,2.08,-0.25,1.88,1.98,Barnsley,Blackpool,barnsley,blackpool
+2026-01-31,E2,England-L1,2526,Barnsley,Stevenage,3.0,1.0,H,2.0,1.0,H,2.4,3.3,2.75,,,,2.43,3.23,2.85,2.15,1.67,2.08,1.68,0.0,1.8,2.05,Barnsley,Stevenage,barnsley,stevenage
+2026-02-03,E2,England-L1,2526,Barnsley,Northampton,2.0,2.0,D,1.0,1.0,D,1.66,3.6,4.5,,,,1.77,3.65,4.32,1.9,1.95,1.81,1.91,-0.5,1.73,2.08,Barnsley,Northampton Town,barnsley,northampton_town
+2026-02-14,E2,England-L1,2526,Barnsley,AFC Wimbledon,3.0,3.0,D,2.0,2.0,D,1.96,3.4,3.5,,,,1.98,3.48,3.55,1.93,1.93,1.83,1.89,-0.5,2.05,1.8,Barnsley,AFC Wimbledon,barnsley,afc_wimbledon
+2026-02-17,E2,England-L1,2526,Barnsley,Peterboro,2.0,1.0,H,1.0,1.0,D,1.79,3.9,3.7,,,,1.86,3.88,3.63,1.53,2.4,1.51,2.4,-0.5,1.85,2.0,Barnsley,Peterborough United,barnsley,peterborough_united
+2026-03-03,E2,England-L1,2526,Barnsley,Wycombe,0.0,1.0,A,0.0,0.0,D,2.75,3.4,2.25,,,,2.72,3.56,2.34,1.7,2.1,1.68,2.08,0.25,1.8,2.05,Barnsley,Wycombe Wanderers,barnsley,wycombe_wanderers
+2026-03-07,E2,England-L1,2526,Barnsley,Exeter,2.0,1.0,H,2.0,0.0,H,1.91,3.75,3.5,,,,1.96,3.62,3.45,1.7,2.1,1.68,2.08,-0.5,2.0,1.85,Barnsley,Exeter City,barnsley,exeter_city
+2026-03-10,E2,England-L1,2526,Barnsley,Cardiff,1.0,1.0,D,1.0,1.0,D,3.5,3.8,1.86,,,,3.42,3.78,1.93,1.57,2.35,1.55,2.35,0.5,1.9,1.95,Barnsley,Cardiff City,barnsley,cardiff_city
+2026-03-17,E2,England-L1,2526,Barnsley,Wigan,1.0,1.0,D,0.0,1.0,A,2.2,3.2,3.1,,,,2.21,3.42,3.05,1.85,1.95,1.8,1.93,-0.25,1.98,1.88,Barnsley,Wigan Athletic,barnsley,wigan_athletic
+2026-03-21,E2,England-L1,2526,Barnsley,Doncaster,0.0,1.0,A,0.0,0.0,D,2.2,3.5,2.85,,,,2.26,3.62,2.8,1.6,2.3,1.57,2.27,-0.25,2.03,1.83,Barnsley,Doncaster Rovers,barnsley,doncaster_rovers
+2026-04-06,E2,England-L1,2526,Barnsley,Plymouth,0.0,3.0,A,0.0,1.0,A,2.7,3.4,2.2,,,,2.77,3.52,2.28,1.67,2.15,1.64,2.15,0.25,1.83,2.03,Barnsley,Plymouth Argyle,barnsley,plymouth_argyle
+2026-04-18,E2,England-L1,2526,Barnsley,Bradford,2.0,2.0,D,0.0,0.0,D,3.1,3.3,2.2,,,,3.02,3.4,2.22,1.85,2.0,1.78,1.96,0.25,1.9,1.95,Barnsley,Bradford City,barnsley,bradford_city
+2026-05-02,E2,England-L1,2526,Barnsley,Stockport,1.0,3.0,A,0.0,1.0,A,3.4,4.2,1.81,,,,3.55,3.92,1.86,1.53,2.4,1.51,2.41,0.5,1.98,1.88,Barnsley,Stockport County,barnsley,stockport_county
+2026-08-15,E2,England-L1,2627,Barnsley,Bromley,0.0,1.0,A,0.0,0.0,D,2.05,3.5,3.3,,,,2.1,3.43,3.28,1.9,1.95,1.83,1.89,-0.25,1.85,2.0,Barnsley,Bromley,barnsley,bromley
+2026-09-02,E2,England-L1,2627,Barnsley,Blackpool,2.0,1.0,H,0.0,0.0,D,2.1,3.5,3.0,,,,2.2,3.54,2.97,1.7,2.1,1.68,2.08,-0.25,1.93,1.93,Barnsley,Blackpool,barnsley,blackpool
+2026-09-05,E2,England-L1,2627,Barnsley,Stevenage,1.0,5.0,A,1.0,1.0,D,2.05,3.3,3.4,,,,2.1,3.33,3.35,1.98,1.88,1.93,1.8,-0.25,1.83,2.03,Barnsley,Stevenage,barnsley,stevenage
+2026-09-19,E2,England-L1,2627,Barnsley,Leicester,1.0,1.0,D,0.0,1.0,A,3.3,3.75,1.96,,,,3.17,3.83,2.04,1.48,2.6,1.45,2.61,0.5,1.83,2.03,Barnsley,Leicester City,barnsley,leicester_city
+2026-10-17,E2,England-L1,2627,Barnsley,Cambridge,1.0,2.0,A,1.0,0.0,H,2.35,3.5,2.65,,,,2.36,3.62,2.68,1.62,2.25,1.6,2.22,0.0,1.8,2.05,Barnsley,Cambridge United,barnsley,cambridge_united

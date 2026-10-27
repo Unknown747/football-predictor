@@ -1,0 +1,89 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-14,SP2,Spain-Segunda,2223,Santander,Villarreal B,0.0,2.0,A,0.0,0.0,D,2.1,3.25,3.75,2.16,3.1,3.96,2.14,3.09,3.63,2.5,1.5,2.49,1.52,-0.25,1.83,2.02,Santander,Villarreal B,santander,villarreal_b
+2022-08-28,SP2,Spain-Segunda,2223,Santander,Oviedo,0.0,1.0,A,0.0,0.0,D,2.87,3.0,2.7,3.05,2.98,2.67,2.89,2.95,2.61,2.6,1.47,2.52,1.51,0.0,2.0,1.85,Santander,Real Oviedo,santander,real_oviedo
+2022-09-18,SP2,Spain-Segunda,2223,Santander,Las Palmas,0.0,0.0,D,0.0,0.0,D,3.3,3.1,2.37,3.25,3.1,2.45,3.13,3.07,2.37,2.25,1.61,2.28,1.6,0.25,1.85,2.0,Santander,Las Palmas,santander,las_palmas
+2022-10-01,SP2,Spain-Segunda,2223,Santander,Malaga,0.0,0.0,D,0.0,0.0,D,2.4,3.2,3.1,2.41,3.17,3.35,2.35,3.12,3.12,2.35,1.57,2.31,1.59,-0.25,2.02,1.83,Santander,Malaga,santander,malaga
+2022-10-12,SP2,Spain-Segunda,2223,Santander,Zaragoza,1.0,0.0,H,0.0,0.0,D,3.0,3.1,2.45,3.25,2.95,2.59,3.17,2.92,2.45,2.7,1.44,2.67,1.46,0.25,1.77,2.1,Santander,Zaragoza,santander,zaragoza
+2022-10-23,SP2,Spain-Segunda,2223,Santander,Ponferradina,1.0,1.0,D,1.0,0.0,H,1.95,3.5,4.0,1.98,3.59,3.98,1.99,3.4,3.74,2.07,1.72,2.08,1.73,-0.5,1.98,1.88,Santander,Ponferradina,santander,ponferradina
+2022-11-01,SP2,Spain-Segunda,2223,Santander,Alaves,1.0,1.0,D,1.0,1.0,D,2.62,3.0,2.87,2.86,2.98,2.88,2.71,2.92,2.81,2.6,1.47,2.54,1.49,0.0,1.9,1.95,Santander,Deportivo Alaves,santander,deportivo_alaves
+2022-11-20,SP2,Spain-Segunda,2223,Santander,Burgos,0.0,1.0,A,0.0,0.0,D,2.4,2.87,3.5,2.55,2.75,3.47,2.42,2.79,3.38,3.1,1.36,2.99,1.38,-0.25,2.05,1.8,Santander,Burgos,santander,burgos
+2022-12-04,SP2,Spain-Segunda,2223,Santander,Lugo,0.0,1.0,A,0.0,0.0,D,1.75,3.4,5.0,1.78,3.37,5.33,1.75,3.36,4.97,2.4,1.53,2.46,1.53,-0.75,2.02,1.83,Santander,Lugo,santander,lugo
+2022-12-11,SP2,Spain-Segunda,2223,Santander,Mirandes,1.0,2.0,A,1.0,1.0,D,2.1,3.1,4.0,2.14,2.96,4.17,2.1,3.02,3.85,2.5,1.5,2.53,1.49,-0.25,1.77,2.1,Santander,Mirandes,santander,mirandes
+2023-01-14,SP2,Spain-Segunda,2223,Santander,Sp Gijon,2.0,0.0,H,2.0,0.0,H,2.55,2.9,3.1,2.56,2.9,3.25,2.54,2.83,3.09,3.1,1.36,2.87,1.39,0.0,1.75,2.13,Santander,Sp Gijon,santander,sp_gijon
+2023-01-27,SP2,Spain-Segunda,2223,Santander,Tenerife,1.0,1.0,D,1.0,0.0,H,2.9,2.8,2.8,3.0,2.82,2.9,2.91,2.75,2.79,3.1,1.36,2.94,1.38,0.0,1.95,1.9,Santander,Tenerife,santander,tenerife
+2023-02-13,SP2,Spain-Segunda,2223,Santander,Leganes,2.0,1.0,H,1.0,0.0,H,2.8,2.9,2.9,2.82,2.84,2.96,2.73,2.82,2.88,3.1,1.36,2.93,1.38,0.0,1.9,1.95,Santander,Leganes,santander,leganes
+2023-02-25,SP2,Spain-Segunda,2223,Santander,Andorra,2.0,1.0,H,2.0,0.0,H,2.7,3.0,2.88,2.77,2.9,3.06,2.67,2.89,2.92,2.7,1.44,2.73,1.44,0.0,1.83,2.02,Santander,Andorra,santander,andorra
+2023-03-13,SP2,Spain-Segunda,2223,Santander,Huesca,1.0,1.0,D,1.0,1.0,D,2.5,3.0,3.25,2.59,2.83,3.29,2.48,2.84,3.16,2.7,1.44,2.73,1.43,-0.25,2.13,1.75,Santander,Huesca,santander,huesca
+2023-03-25,SP2,Spain-Segunda,2223,Santander,Levante,0.0,1.0,A,0.0,1.0,A,3.4,3.1,2.25,3.49,3.09,2.36,3.36,3.05,2.27,2.5,1.5,2.48,1.51,0.25,1.88,1.98,Santander,Levante,santander,levante
+2023-04-08,SP2,Spain-Segunda,2223,Santander,Albacete,4.0,1.0,H,3.0,1.0,H,2.5,2.9,3.1,2.52,3.02,3.28,2.44,2.95,3.12,2.6,1.48,2.57,1.49,-0.25,2.1,1.77,Santander,Albacete,santander,albacete
+2023-04-23,SP2,Spain-Segunda,2223,Santander,Granada,1.0,0.0,H,0.0,0.0,D,3.8,3.2,2.1,4.14,3.08,2.09,3.8,3.1,2.07,2.35,1.57,2.37,1.55,0.25,2.05,1.8,Santander,Granada,santander,granada
+2023-04-28,SP2,Spain-Segunda,2223,Santander,Ibiza,1.0,0.0,H,1.0,0.0,H,1.67,3.5,5.75,1.69,3.49,6.25,1.69,3.42,5.55,2.35,1.57,2.38,1.56,-0.75,1.93,1.93,Santander,Ibiza,santander,ibiza
+2023-05-14,SP2,Spain-Segunda,2223,Santander,Eibar,1.0,0.0,H,1.0,0.0,H,4.0,3.1,2.1,3.97,3.13,2.13,3.71,3.08,2.11,2.4,1.53,2.44,1.53,0.25,2.05,1.8,Santander,Eibar,santander,eibar
+2023-05-28,SP2,Spain-Segunda,2223,Santander,Cartagena,3.0,1.0,H,3.0,0.0,H,2.63,3.25,2.63,2.59,3.29,2.83,2.62,3.17,2.7,2.1,1.7,2.13,1.7,0.0,1.88,1.98,Santander,Cartagena,santander,cartagena
+2023-08-12,SP2,Spain-Segunda,2324,Santander,Eibar,4.0,0.0,H,3.0,0.0,H,2.9,3.1,2.6,3.05,2.98,2.74,2.9,3.02,2.56,2.35,1.57,2.36,1.57,0.0,2.03,1.83,Santander,Eibar,santander,eibar
+2023-08-28,SP2,Spain-Segunda,2324,Santander,Huesca,0.0,0.0,D,0.0,0.0,D,2.1,3.25,3.75,2.12,3.13,4.12,2.05,3.14,3.87,2.5,1.5,2.55,1.49,-0.5,2.1,1.78,Santander,Huesca,santander,huesca
+2023-09-10,SP2,Spain-Segunda,2324,Santander,Amorebieta,1.0,0.0,H,1.0,0.0,H,1.85,3.4,4.5,1.85,3.58,4.73,1.83,3.37,4.46,2.25,1.62,2.29,1.6,-0.5,1.83,2.03,Santander,Amorebieta,santander,amorebieta
+2023-09-23,SP2,Spain-Segunda,2324,Santander,Albacete,2.0,1.0,H,2.0,0.0,H,2.3,3.0,3.5,2.36,3.26,3.37,2.28,3.1,3.28,2.3,1.6,2.31,1.59,-0.25,1.98,1.88,Santander,Albacete,santander,albacete
+2023-10-07,SP2,Spain-Segunda,2324,Santander,Sp Gijon,3.0,2.0,H,1.0,1.0,D,2.25,3.1,3.6,2.33,3.15,3.56,2.22,3.08,3.45,2.4,1.53,2.44,1.54,-0.25,1.93,1.93,Santander,Sp Gijon,santander,sp_gijon
+2023-10-22,SP2,Spain-Segunda,2324,Santander,Burgos,3.0,0.0,H,1.0,0.0,H,2.25,3.1,3.5,2.31,3.22,3.53,2.21,3.14,3.35,2.25,1.62,2.26,1.6,-0.25,1.93,1.93,Santander,Burgos,santander,burgos
+2023-10-29,SP2,Spain-Segunda,2324,Santander,Ferrol,1.0,3.0,A,1.0,2.0,A,2.25,3.25,3.5,2.23,3.14,3.83,2.21,3.07,3.5,2.4,1.53,2.44,1.54,-0.25,1.9,1.95,Santander,Ferrol,santander,ferrol
+2023-11-11,SP2,Spain-Segunda,2324,Santander,Valladolid,2.0,3.0,A,0.0,1.0,A,2.55,3.25,2.8,2.63,3.28,2.92,2.55,3.19,2.79,2.05,1.75,2.08,1.73,0.0,1.83,2.03,Santander,Real Valladolid,santander,real_valladolid
+2023-11-25,SP2,Spain-Segunda,2324,Santander,Villarreal B,2.0,0.0,H,1.0,0.0,H,1.7,4.0,4.5,1.75,4.03,4.77,1.71,3.87,4.52,1.75,2.05,1.77,2.03,-0.75,1.9,1.95,Santander,Villarreal B,santander,villarreal_b
+2023-12-10,SP2,Spain-Segunda,2324,Santander,Oviedo,2.0,2.0,D,1.0,2.0,A,2.4,3.1,3.1,2.5,3.1,3.29,2.43,3.05,3.09,2.4,1.53,2.44,1.53,-0.25,2.1,1.78,Santander,Real Oviedo,santander,real_oviedo
+2023-12-19,SP2,Spain-Segunda,2324,Santander,Andorra,2.0,0.0,H,1.0,0.0,H,2.25,3.3,3.2,2.44,3.21,3.27,2.32,3.21,3.1,2.08,1.73,2.07,1.73,-0.25,2.03,1.83,Santander,Andorra,santander,andorra
+2024-01-21,SP2,Spain-Segunda,2324,Santander,Cartagena,0.0,2.0,A,0.0,1.0,A,1.85,3.5,4.33,1.86,3.65,4.56,1.85,3.49,4.15,2.05,1.8,2.01,1.78,-0.5,1.85,2.0,Santander,Cartagena,santander,cartagena
+2024-02-10,SP2,Spain-Segunda,2324,Santander,Espanol,2.0,0.0,H,2.0,0.0,H,2.6,3.0,3.0,2.64,3.17,3.0,2.55,3.09,2.86,2.08,1.73,2.08,1.73,0.0,1.8,2.05,Santander,Espanyol,santander,espanyol
+2024-02-24,SP2,Spain-Segunda,2324,Santander,Leganes,2.0,1.0,H,1.0,1.0,D,2.38,2.9,3.3,2.47,2.99,3.47,2.35,2.97,3.25,2.5,1.5,2.48,1.52,-0.25,2.03,1.83,Santander,Leganes,santander,leganes
+2024-03-10,SP2,Spain-Segunda,2324,Santander,Tenerife,4.0,2.0,H,0.0,1.0,A,2.4,2.9,3.4,2.5,2.97,3.43,2.38,2.91,3.27,2.7,1.44,2.68,1.45,-0.25,2.03,1.83,Santander,Tenerife,santander,tenerife
+2024-03-24,SP2,Spain-Segunda,2324,Santander,Eldense,2.0,1.0,H,1.0,0.0,H,1.95,3.25,3.4,2.04,2.95,4.3,2.03,3.14,3.81,2.2,1.65,2.21,1.64,-0.25,1.75,2.05,Santander,Eldense,santander,eldense
+2024-04-08,SP2,Spain-Segunda,2324,Santander,Alcorcon,0.0,1.0,A,0.0,0.0,D,1.75,3.5,5.0,1.75,3.61,5.2,1.75,3.48,4.75,2.15,1.67,2.14,1.68,-0.75,1.98,1.88,Santander,Alcorcon,santander,alcorcon
+2024-04-20,SP2,Spain-Segunda,2324,Santander,Levante,0.0,0.0,D,0.0,0.0,D,2.15,3.4,3.3,2.14,3.34,3.39,2.17,3.33,3.24,1.93,1.93,1.88,1.89,-0.25,1.9,1.95,Santander,Levante,santander,levante
+2024-05-04,SP2,Spain-Segunda,2324,Santander,Elche,3.0,1.0,H,1.0,0.0,H,2.63,3.2,2.8,2.58,3.2,2.78,2.55,3.18,2.74,2.05,1.8,2.01,1.77,0.0,1.88,1.98,Santander,Elche,santander,elche
+2024-05-11,SP2,Spain-Segunda,2324,Santander,Mirandes,1.0,0.0,H,1.0,0.0,H,1.8,3.6,4.33,1.83,3.58,4.2,1.83,3.56,4.12,1.93,1.93,1.89,1.87,-0.5,1.85,2.0,Santander,Mirandes,santander,mirandes
+2024-05-26,SP2,Spain-Segunda,2324,Santander,Zaragoza,0.0,2.0,A,0.0,1.0,A,2.0,3.5,3.7,1.99,3.52,3.48,1.99,3.46,3.51,1.85,2.0,1.82,1.95,-0.5,2.0,1.85,Santander,Zaragoza,santander,zaragoza
+2024-08-18,SP2,Spain-Segunda,2425,Santander,Almeria,2.0,2.0,D,2.0,0.0,H,2.6,3.2,2.75,2.69,3.17,2.76,2.63,3.11,2.71,2.2,1.65,2.15,1.67,0.0,1.85,2.0,Santander,Almeria,santander,almeria
+2024-08-23,SP2,Spain-Segunda,2425,Santander,Eibar,2.0,2.0,D,0.0,1.0,A,2.25,3.3,3.2,2.37,3.09,3.49,2.27,3.17,3.21,2.03,1.83,1.99,1.79,-0.25,1.95,1.9,Santander,Eibar,santander,eibar
+2024-09-14,SP2,Spain-Segunda,2425,Santander,Sp Gijon,1.0,0.0,H,1.0,0.0,H,2.1,3.2,3.7,2.09,3.36,3.59,2.08,3.34,3.48,2.0,1.85,1.95,1.83,-0.25,1.83,2.03,Santander,Sp Gijon,santander,sp_gijon
+2024-09-30,SP2,Spain-Segunda,2425,Santander,Cartagena,1.0,2.0,A,0.0,1.0,A,1.48,4.1,7.0,1.48,4.32,6.61,1.48,4.21,6.36,1.88,1.98,1.85,1.91,-1.0,1.83,2.03,Santander,Cartagena,santander,cartagena
+2024-10-13,SP2,Spain-Segunda,2425,Santander,Levante,1.0,0.0,H,0.0,0.0,D,2.05,3.6,3.4,2.09,3.43,3.57,2.05,3.47,3.41,1.65,2.2,1.62,2.24,-0.5,2.05,1.75,Santander,Levante,santander,levante
+2024-10-23,SP2,Spain-Segunda,2425,Santander,Cordoba,2.0,0.0,H,0.0,0.0,D,1.85,3.5,4.2,1.87,3.61,4.15,1.87,3.57,3.98,1.75,2.05,1.74,2.06,-0.5,1.88,1.98,Santander,Cordoba,santander,cordoba
+2024-11-02,SP2,Spain-Segunda,2425,Santander,Albacete,1.0,1.0,D,1.0,0.0,H,1.7,3.9,4.5,1.72,3.86,4.66,1.72,3.82,4.44,1.67,2.15,1.68,2.15,-0.75,1.93,1.93,Santander,Albacete,santander,albacete
+2024-11-16,SP2,Spain-Segunda,2425,Santander,Burgos,2.0,0.0,H,2.0,0.0,H,1.57,4.1,5.5,1.58,4.18,5.76,1.56,4.1,5.36,1.7,2.1,1.71,2.1,-1.0,2.0,1.85,Santander,Burgos,santander,burgos
+2024-11-30,SP2,Spain-Segunda,2425,Santander,Mirandes,0.0,1.0,A,0.0,0.0,D,1.7,3.6,5.0,1.69,3.65,5.26,1.7,3.57,4.98,2.1,1.7,2.09,1.71,-0.75,1.95,1.9,Santander,Mirandes,santander,mirandes
+2024-12-15,SP2,Spain-Segunda,2425,Santander,Huesca,0.0,1.0,A,0.0,0.0,D,1.7,3.75,4.75,1.7,3.74,5.03,1.69,3.66,4.78,2.03,1.83,2.0,1.78,-0.75,1.95,1.9,Santander,Huesca,santander,huesca
+2024-12-22,SP2,Spain-Segunda,2425,Santander,Eldense,2.0,2.0,D,0.0,0.0,D,1.7,4.0,4.5,1.68,3.82,5.03,1.69,3.74,4.73,1.95,1.9,1.93,1.84,-0.75,1.93,1.93,Santander,Eldense,santander,eldense
+2025-01-19,SP2,Spain-Segunda,2425,Santander,Ferrol,6.0,0.0,H,3.0,0.0,H,1.55,3.9,6.25,1.54,4.16,6.04,1.52,4.04,5.71,1.88,1.98,1.86,1.91,-1.0,1.98,1.88,Santander,Ferrol,santander,ferrol
+2025-02-01,SP2,Spain-Segunda,2425,Santander,Malaga,2.0,1.0,H,2.0,1.0,H,1.7,3.8,4.75,1.7,3.77,4.92,1.69,3.73,4.76,2.0,1.85,1.94,1.84,-0.75,1.93,1.93,Santander,Malaga,santander,malaga
+2025-02-15,SP2,Spain-Segunda,2425,Santander,Cadiz,2.0,3.0,A,0.0,1.0,A,1.96,3.5,3.6,2.02,3.46,3.76,2.0,3.34,3.66,2.05,1.72,2.05,1.74,-0.5,2.05,1.8,Santander,Cadiz,santander,cadiz
+2025-03-02,SP2,Spain-Segunda,2425,Santander,Elche,2.0,0.0,H,2.0,0.0,H,2.4,3.1,3.0,2.51,3.14,3.01,2.46,3.07,2.9,2.05,1.75,2.0,1.78,0.0,1.7,2.1,Santander,Elche,santander,elche
+2025-03-16,SP2,Spain-Segunda,2425,Santander,Tenerife,2.0,1.0,H,0.0,0.0,D,1.75,3.3,5.0,1.78,3.6,4.65,1.78,3.46,4.52,2.08,1.73,2.06,1.73,-0.75,1.97,1.77,Santander,Tenerife,santander,tenerife
+2025-03-29,SP2,Spain-Segunda,2425,Santander,Zaragoza,2.0,0.0,H,0.0,0.0,D,1.85,3.6,3.9,1.87,3.62,4.14,1.87,3.53,3.91,1.95,1.9,1.91,1.85,-0.5,1.88,1.98,Santander,Zaragoza,santander,zaragoza
+2025-04-13,SP2,Spain-Segunda,2425,Santander,Castellon,1.0,1.0,D,1.0,0.0,H,2.0,3.6,3.5,1.98,3.61,3.7,1.99,3.54,3.51,1.62,2.25,1.63,2.21,-0.5,2.03,1.83,Santander,Castellon,santander,castellon
+2025-04-27,SP2,Spain-Segunda,2425,Santander,La Coruna,2.0,1.0,H,2.0,0.0,H,1.83,3.6,4.0,1.88,3.81,3.87,1.85,3.72,3.8,1.67,2.15,1.68,2.14,-0.5,1.88,1.98,Santander,La Coruna,santander,la_coruna
+2025-05-11,SP2,Spain-Segunda,2425,Santander,Oviedo,1.0,1.0,D,0.0,1.0,A,2.2,3.3,3.25,2.28,3.2,3.35,2.21,3.25,3.23,2.05,1.75,2.06,1.73,-0.25,1.93,1.93,Santander,Real Oviedo,santander,real_oviedo
+2025-06-01,SP2,Spain-Segunda,2425,Santander,Granada,2.0,1.0,H,1.0,1.0,D,2.7,3.6,2.4,2.69,3.54,2.43,2.7,3.52,2.39,1.6,2.3,1.57,2.33,0.0,1.98,1.83,Santander,Granada,santander,granada
+2025-08-16,SP2,Spain-Segunda,2526,Santander,Castellon,3.0,1.0,H,2.0,1.0,H,2.25,3.4,3.1,2.26,3.44,3.16,2.2,3.42,2.94,1.73,2.08,1.66,2.1,-0.25,1.95,1.85,Santander,Castellon,santander,castellon
+2025-08-30,SP2,Spain-Segunda,2526,Santander,Ceuta,4.0,1.0,H,2.0,1.0,H,1.51,4.0,5.75,1.55,3.86,6.64,1.55,3.91,5.41,1.8,2.0,1.81,1.9,-1.0,1.95,1.85,Santander,Ceuta,santander,ceuta
+2025-09-14,SP2,Spain-Segunda,2526,Santander,Cultural Leonesa,2.0,4.0,A,0.0,3.0,A,1.46,4.33,6.0,1.48,4.11,7.34,1.46,4.05,6.29,1.8,2.0,1.77,1.95,-1.0,1.8,2.0,Santander,Cultural Leonesa,santander,cultural_leonesa
+2025-09-27,SP2,Spain-Segunda,2526,Santander,Andorra,1.0,2.0,A,0.0,0.0,D,1.76,4.0,3.8,1.8,4.01,4.03,1.77,3.79,3.81,1.6,2.3,1.59,2.22,-0.75,2.03,1.78,Santander,Andorra,santander,andorra
+2025-10-05,SP2,Spain-Segunda,2526,Santander,Malaga,3.0,0.0,H,0.0,0.0,D,1.86,3.6,3.8,1.76,3.72,4.63,1.81,3.51,3.93,1.88,1.93,1.83,1.87,-0.5,1.9,1.9,Santander,Malaga,santander,malaga
+2025-10-19,SP2,Spain-Segunda,2526,Santander,La Coruna,2.0,1.0,H,1.0,1.0,D,2.55,3.2,2.65,2.49,3.16,3.01,2.41,3.32,2.71,1.65,2.2,1.64,2.15,0.0,1.85,1.95,Santander,La Coruna,santander,la_coruna
+2025-10-31,SP2,Spain-Segunda,2526,Santander,Sociedad B,1.0,0.0,H,1.0,0.0,H,1.49,4.5,5.25,,,,1.52,4.17,5.29,1.6,2.3,1.57,2.27,-1.0,1.85,1.95,Santander,Sociedad B,santander,sociedad_b
+2025-11-15,SP2,Spain-Segunda,2526,Santander,Granada,2.0,2.0,D,2.0,0.0,H,1.76,3.75,4.0,,,,1.78,3.68,3.91,1.7,2.1,1.67,2.08,-0.5,1.8,2.0,Santander,Granada,santander,granada
+2025-11-30,SP2,Spain-Segunda,2526,Santander,Eibar,4.0,0.0,H,2.0,0.0,H,1.96,3.5,3.6,2.07,3.62,3.42,2.0,3.45,3.32,1.85,1.95,1.79,1.91,-0.5,2.0,1.8,Santander,Eibar,santander,eibar
+2025-12-13,SP2,Spain-Segunda,2526,Santander,Leganes,1.0,1.0,D,0.0,0.0,D,1.76,3.8,4.0,1.83,3.83,4.11,1.77,3.56,4.07,1.8,2.0,1.81,1.89,-0.5,1.8,2.0,Santander,Leganes,santander,leganes
+2026-01-10,SP2,Spain-Segunda,2526,Santander,Zaragoza,2.0,3.0,A,0.0,2.0,A,1.66,3.9,4.5,1.69,3.92,4.79,1.64,3.8,4.54,1.67,2.15,1.65,2.11,-0.75,1.9,1.9,Santander,Zaragoza,santander,zaragoza
+2026-01-18,SP2,Spain-Segunda,2526,Santander,Las Palmas,4.0,1.0,H,2.0,1.0,H,2.2,3.25,3.2,,,,2.22,3.13,3.11,1.95,1.85,1.93,1.78,-0.25,1.95,1.85,Santander,Las Palmas,santander,las_palmas
+2026-02-09,SP2,Spain-Segunda,2526,Santander,Mirandes,1.0,0.0,H,0.0,0.0,D,1.49,4.5,5.5,,,,1.47,4.26,5.81,1.67,2.15,1.63,2.15,-1.0,1.85,1.95,Santander,Mirandes,santander,mirandes
+2026-02-22,SP2,Spain-Segunda,2526,Santander,Burgos,1.0,0.0,H,1.0,0.0,H,1.81,3.4,4.2,,,,1.84,3.31,4.13,2.15,1.67,2.14,1.64,-0.5,1.88,1.93,Santander,Burgos,santander,burgos
+2026-03-08,SP2,Spain-Segunda,2526,Santander,Cordoba,4.0,3.0,H,1.0,1.0,D,1.96,3.5,3.6,,,,1.98,3.51,3.3,1.62,2.25,1.62,2.18,-0.5,2.0,1.8,Santander,Cordoba,santander,cordoba
+2026-03-21,SP2,Spain-Segunda,2526,Santander,Albacete,0.0,4.0,A,0.0,2.0,A,1.79,3.7,4.1,,,,1.79,3.65,3.9,1.7,2.1,1.68,2.07,-0.5,1.83,1.98,Santander,Albacete,santander,albacete
+2026-04-01,SP2,Spain-Segunda,2526,Santander,Sp Gijon,3.0,1.0,H,1.0,0.0,H,1.91,3.5,3.8,,,,1.94,3.43,3.5,1.8,2.0,1.76,1.96,-0.5,1.98,1.83,Santander,Sp Gijon,santander,sp_gijon
+2026-04-12,SP2,Spain-Segunda,2526,Santander,Almeria,5.0,1.0,H,2.0,1.0,H,2.25,3.6,2.82,,,,2.23,3.56,2.78,1.53,2.4,1.53,2.37,-0.25,2.03,1.78,Santander,Almeria,santander,almeria
+2026-05-03,SP2,Spain-Segunda,2526,Santander,Huesca,4.0,2.0,H,0.0,1.0,A,1.46,4.5,5.75,,,,1.46,4.21,5.73,1.62,2.25,1.62,2.17,-1.25,2.05,1.75,Santander,Huesca,santander,huesca
+2026-05-16,SP2,Spain-Segunda,2526,Santander,Valladolid,4.0,1.0,H,1.0,1.0,D,1.41,4.75,6.25,,,,1.41,4.55,6.15,1.53,2.4,1.51,2.42,-1.25,2.0,1.8,Santander,Real Valladolid,santander,real_valladolid
+2026-05-31,SP2,Spain-Segunda,2526,Santander,Cadiz,4.0,1.0,H,3.0,0.0,H,1.3,4.75,9.0,,,,1.33,4.65,7.9,1.53,2.4,1.53,2.35,-1.5,1.98,1.83,Santander,Cadiz,santander,cadiz
+2026-08-16,SP1,Spain-LaLiga,2627,Santander,Villarreal,2.0,2.0,D,2.0,2.0,D,3.2,3.6,2.15,,,,3.14,3.5,2.16,1.8,2.0,1.77,1.98,0.25,1.98,1.88,Santander,Villarreal,santander,villarreal
+2026-08-28,SP1,Spain-LaLiga,2627,Santander,Elche,3.0,2.0,H,3.0,0.0,H,2.0,3.6,3.6,,,,2.04,3.54,3.51,1.67,2.2,1.66,2.16,-0.5,2.05,1.8,Santander,Elche,santander,elche
+2026-09-12,SP1,Spain-LaLiga,2627,Santander,Alaves,2.0,1.0,H,1.0,1.0,D,2.45,3.5,2.75,,,,2.42,3.5,2.76,1.73,2.1,1.7,2.07,0.0,1.8,2.05,Santander,Deportivo Alaves,santander,deportivo_alaves
+2026-10-11,SP1,Spain-LaLiga,2627,Santander,Valencia,2.0,2.0,D,1.0,1.0,D,2.3,3.6,3.0,,,,2.28,3.51,2.89,1.67,2.2,1.64,2.18,-0.25,2.0,1.85,Santander,Valencia,santander,valencia

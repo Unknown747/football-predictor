@@ -1,0 +1,60 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2023-08-12,SC3,Scotland-L2,2324,Dumbarton,Spartans,1.0,1.0,D,0.0,0.0,D,1.8,3.5,4.0,,,,1.79,3.5,4.05,1.9,1.9,1.87,1.86,,,,Dumbarton,Spartans,dumbarton,spartans
+2023-08-26,SC3,Scotland-L2,2324,Peterhead,Spartans,0.0,1.0,A,0.0,0.0,D,2.15,3.4,2.8,2.29,3.34,3.04,2.25,3.34,2.9,1.8,2.0,1.84,1.9,-0.25,1.98,1.88,Peterhead,Spartans,peterhead,spartans
+2023-09-16,SC3,Scotland-L2,2324,Forfar,Spartans,2.0,2.0,D,1.0,2.0,A,2.5,3.5,2.63,2.42,3.2,2.73,2.43,3.29,2.68,1.95,1.9,1.92,1.84,0.0,1.83,2.03,Forfar,Spartans,forfar,spartans
+2023-10-07,SC3,Scotland-L2,2324,Stranraer,Spartans,3.0,4.0,A,1.0,2.0,A,2.6,3.5,2.3,2.78,3.37,2.45,2.7,3.31,2.39,1.98,1.88,1.89,1.83,0.25,1.73,2.08,Stranraer,Spartans,stranraer,spartans
+2023-11-04,SC3,Scotland-L2,2324,Clyde,Spartans,1.0,2.0,A,0.0,2.0,A,3.3,3.8,1.83,3.79,3.67,1.89,3.63,3.62,1.86,1.75,2.05,1.73,2.01,0.5,1.95,1.85,Clyde,Spartans,clyde,spartans
+2023-11-11,SC3,Scotland-L2,2324,Stenhousemuir,Spartans,3.0,2.0,H,0.0,1.0,A,1.95,3.4,3.4,1.97,3.58,3.61,1.94,3.48,3.48,1.8,2.05,1.75,1.99,-0.5,2.03,1.78,Stenhousemuir,Spartans,stenhousemuir,spartans
+2023-12-16,SC3,Scotland-L2,2324,Elgin,Spartans,0.0,4.0,A,0.0,3.0,A,3.4,4.0,1.83,4.3,3.73,1.78,3.86,3.67,1.8,1.75,2.05,1.74,2.0,0.5,2.03,1.83,Elgin,Spartans,elgin,spartans
+2024-01-06,SC3,Scotland-L2,2324,Peterhead,Spartans,0.0,1.0,A,0.0,0.0,D,2.25,3.6,2.63,2.49,3.33,2.75,2.36,3.38,2.7,1.8,2.0,1.77,1.96,0.0,1.75,2.05,Peterhead,Spartans,peterhead,spartans
+2024-01-30,SC3,Scotland-L2,2324,East Fife,Spartans,0.0,3.0,A,0.0,0.0,D,2.45,3.2,2.6,2.74,3.04,2.7,2.58,3.11,2.61,2.15,1.67,2.11,1.66,0.0,1.88,1.98,East Fife,Spartans,east_fife,spartans
+2024-02-03,SC3,Scotland-L2,2324,Forfar,Spartans,1.0,0.0,H,1.0,0.0,H,2.75,3.6,2.1,3.17,3.2,2.29,3.01,3.31,2.17,1.98,1.88,1.97,1.77,0.25,1.88,1.98,Forfar,Spartans,forfar,spartans
+2024-02-13,SC3,Scotland-L2,2324,Dumbarton,Spartans,0.0,0.0,D,0.0,0.0,D,2.1,3.6,2.9,2.19,3.21,3.38,2.12,3.35,3.1,1.95,1.9,1.89,1.84,-0.25,1.93,1.93,Dumbarton,Spartans,dumbarton,spartans
+2024-02-17,SC3,Scotland-L2,2324,Stranraer,Spartans,1.0,2.0,A,1.0,0.0,H,2.7,3.25,2.4,2.68,3.35,2.6,2.71,3.26,2.39,2.0,1.85,1.95,1.79,0.0,2.05,1.8,Stranraer,Spartans,stranraer,spartans
+2024-03-05,SC3,Scotland-L2,2324,Bonnyrigg Rose,Spartans,2.0,2.0,D,1.0,1.0,D,2.7,3.3,2.45,2.83,3.16,2.57,2.74,3.2,2.43,2.08,1.73,2.03,1.73,0.0,2.05,1.8,Bonnyrigg Rose,Spartans,bonnyrigg_rose,spartans
+2024-03-09,SC3,Scotland-L2,2324,Stenhousemuir,Spartans,0.0,0.0,D,0.0,0.0,D,1.91,3.5,3.6,2.04,3.42,3.62,1.95,3.41,3.57,1.98,1.88,1.9,1.84,-0.5,1.98,1.88,Stenhousemuir,Spartans,stenhousemuir,spartans
+2024-03-23,SC3,Scotland-L2,2324,Clyde,Spartans,0.0,0.0,D,0.0,0.0,D,2.25,3.5,2.8,2.28,3.42,3.0,2.22,3.4,2.9,1.83,2.03,1.78,1.97,-0.25,1.98,1.88,Clyde,Spartans,clyde,spartans
+2024-04-06,SC3,Scotland-L2,2324,Elgin,Spartans,2.0,2.0,D,0.0,1.0,A,2.88,3.3,2.25,3.08,3.02,2.45,2.97,3.16,2.31,2.05,1.75,2.0,1.75,0.25,1.83,2.03,Elgin,Spartans,elgin,spartans
+2024-04-20,SC3,Scotland-L2,2324,Bonnyrigg Rose,Spartans,0.0,1.0,A,0.0,0.0,D,2.38,3.5,2.63,2.34,3.41,2.91,2.4,3.35,2.69,1.9,1.95,1.84,1.9,-0.25,2.08,1.73,Bonnyrigg Rose,Spartans,bonnyrigg_rose,spartans
+2024-05-04,SC3,Scotland-L2,2324,East Fife,Spartans,1.0,2.0,A,0.0,0.0,D,2.1,3.75,2.88,2.28,3.27,3.12,2.18,3.34,3.02,2.03,1.83,1.96,1.77,-0.25,1.95,1.9,East Fife,Spartans,east_fife,spartans
+2024-08-03,SC3,Scotland-L2,2425,Stranraer,Spartans,2.0,2.0,D,2.0,0.0,H,2.7,3.2,2.38,2.95,3.06,2.42,2.82,3.12,2.41,2.1,1.7,2.12,1.67,0.0,2.05,1.8,Stranraer,Spartans,stranraer,spartans
+2024-08-31,SC3,Scotland-L2,2425,Stirling,Spartans,1.0,0.0,H,1.0,0.0,H,2.45,3.4,2.45,,,,2.5,3.4,2.49,1.8,2.0,1.77,1.97,0.0,,,Stirling,Spartans,stirling,spartans
+2024-09-17,SC3,Scotland-L2,2425,Elgin,Spartans,1.0,1.0,D,0.0,0.0,D,2.45,3.0,2.8,2.55,2.88,2.96,2.46,3.0,2.83,2.05,1.75,2.02,1.73,0.0,1.8,2.05,Elgin,Spartans,elgin,spartans
+2024-10-05,SC3,Scotland-L2,2425,Clyde,Spartans,1.0,1.0,D,0.0,1.0,A,2.15,3.2,3.2,2.14,3.13,3.43,2.11,3.17,3.31,2.1,1.7,2.09,1.68,-0.25,1.93,1.93,Clyde,Spartans,clyde,spartans
+2024-10-12,SC3,Scotland-L2,2425,Edinburgh City,Spartans,2.0,0.0,H,0.0,0.0,D,4.75,3.9,1.6,5.01,3.83,1.62,4.89,3.86,1.6,1.83,2.03,1.77,1.98,0.75,2.05,1.8,Edinburgh City,Spartans,edinburgh_city,spartans
+2024-11-02,SC3,Scotland-L2,2425,Peterhead,Spartans,2.0,1.0,H,1.0,1.0,D,1.95,3.4,3.4,2.02,3.33,3.53,1.99,3.27,3.53,2.2,1.65,2.2,1.62,-0.5,2.0,1.85,Peterhead,Spartans,peterhead,spartans
+2024-11-09,SC3,Scotland-L2,2425,Forfar,Spartans,0.0,3.0,A,0.0,2.0,A,2.45,3.0,2.8,2.36,3.22,2.91,2.41,3.12,2.85,2.35,1.57,2.35,1.55,-0.25,2.1,1.7,Forfar,Spartans,forfar,spartans
+2024-12-21,SC3,Scotland-L2,2425,East Fife,Spartans,5.0,1.0,H,2.0,0.0,H,2.15,3.1,3.0,2.22,3.18,3.18,2.17,3.23,3.14,2.0,1.85,1.97,1.77,-0.25,1.95,1.9,East Fife,Spartans,east_fife,spartans
+2025-01-21,SC3,Scotland-L2,2425,Bonnyrigg Rose,Spartans,2.0,2.0,D,1.0,1.0,D,2.5,3.1,2.7,2.56,2.99,2.84,2.5,3.0,2.7,2.25,1.58,2.2,1.61,0.0,1.85,2.0,Bonnyrigg Rose,Spartans,bonnyrigg_rose,spartans
+2025-02-01,SC3,Scotland-L2,2425,Stranraer,Spartans,2.0,0.0,H,1.0,0.0,H,2.63,3.25,2.35,2.88,2.91,2.59,2.73,3.11,2.45,2.15,1.67,2.18,1.63,0.0,2.05,1.8,Stranraer,Spartans,stranraer,spartans
+2025-02-04,SC3,Scotland-L2,2425,Stirling,Spartans,1.0,3.0,A,0.0,2.0,A,2.7,3.3,2.3,2.9,3.07,2.46,2.78,3.16,2.4,2.05,1.8,2.02,1.74,0.0,2.05,1.75,Stirling,Spartans,stirling,spartans
+2025-02-15,SC3,Scotland-L2,2425,Edinburgh City,Spartans,5.0,0.0,H,2.0,0.0,H,2.55,3.2,2.55,2.61,3.1,2.68,2.59,3.13,2.6,2.1,1.67,2.09,1.68,0.0,1.93,1.93,Edinburgh City,Spartans,edinburgh_city,spartans
+2025-02-22,SC3,Scotland-L2,2425,Clyde,Spartans,0.0,2.0,A,0.0,1.0,A,2.15,3.4,2.9,2.33,3.26,2.93,2.27,3.23,2.93,2.08,1.73,2.06,1.7,-0.25,1.98,1.88,Clyde,Spartans,clyde,spartans
+2025-03-11,SC3,Scotland-L2,2425,Elgin,Spartans,0.0,2.0,A,0.0,1.0,A,2.45,3.0,2.75,2.52,3.17,2.74,2.48,3.11,2.75,2.1,1.7,2.09,1.68,0.0,1.83,2.03,Elgin,Spartans,elgin,spartans
+2025-03-15,SC3,Scotland-L2,2425,Forfar,Spartans,0.0,2.0,A,0.0,0.0,D,2.45,3.1,2.55,2.62,3.06,2.7,2.57,3.06,2.68,2.25,1.62,2.25,1.58,0.0,1.9,1.95,Forfar,Spartans,forfar,spartans
+2025-03-29,SC3,Scotland-L2,2425,East Fife,Spartans,4.0,2.0,H,0.0,2.0,A,1.95,3.7,3.6,2.01,3.35,3.56,1.92,3.46,3.64,1.95,1.9,1.88,1.86,-0.5,1.98,1.88,East Fife,Spartans,east_fife,spartans
+2025-04-12,SC3,Scotland-L2,2425,Peterhead,Spartans,1.0,0.0,H,1.0,0.0,H,1.62,4.0,4.5,1.64,3.8,4.92,1.62,3.81,4.82,1.98,1.88,1.92,1.83,-0.75,1.83,2.03,Peterhead,Spartans,peterhead,spartans
+2025-04-26,SC3,Scotland-L2,2425,Bonnyrigg Rose,Spartans,2.0,1.0,H,0.0,0.0,D,2.5,3.4,2.38,2.65,3.25,2.55,2.61,3.3,2.49,2.05,1.8,1.99,1.76,0.0,2.0,1.85,Bonnyrigg Rose,Spartans,bonnyrigg_rose,spartans
+2025-08-02,SC3,Scotland-L2,2526,East Kilbride,Spartans,1.0,3.0,A,1.0,3.0,A,1.67,3.7,4.33,1.73,3.77,4.13,1.67,3.71,4.2,1.62,2.25,1.6,2.18,-0.75,1.9,1.9,East Kilbride,Spartans,east_kilbride,spartans
+2025-08-16,SC3,Scotland-L2,2526,Clyde,Spartans,1.0,3.0,A,1.0,2.0,A,2.25,3.4,2.8,2.28,3.49,2.78,2.24,3.31,2.74,1.85,1.95,1.79,1.89,-0.25,2.0,1.8,Clyde,Spartans,clyde,spartans
+2025-09-13,SC3,Scotland-L2,2526,Stranraer,Spartans,0.0,2.0,A,0.0,0.0,D,4.33,3.7,1.83,3.91,3.61,1.81,3.83,3.55,1.79,1.75,2.05,1.72,1.98,0.5,1.98,1.83,Stranraer,Spartans,stranraer,spartans
+2025-09-27,SC3,Scotland-L2,2526,Elgin,Spartans,2.0,3.0,A,1.0,1.0,D,2.63,3.4,2.38,2.78,3.18,2.44,2.62,3.22,2.35,1.9,1.9,1.82,1.85,0.0,2.03,1.78,Elgin,Spartans,elgin,spartans
+2025-10-18,SC3,Scotland-L2,2526,Dumbarton,Spartans,1.0,2.0,A,1.0,2.0,A,2.5,3.3,2.55,2.59,3.23,2.57,2.46,3.27,2.5,1.8,2.0,1.71,1.99,0.0,1.9,1.9,Dumbarton,Spartans,dumbarton,spartans
+2025-11-08,SC3,Scotland-L2,2526,Forfar,Spartans,1.0,1.0,D,1.0,0.0,H,3.5,3.3,2.0,,,,3.46,3.22,1.96,2.05,1.75,1.99,1.71,0.5,1.78,2.03,Forfar,Spartans,forfar,spartans
+2025-12-06,SC3,Scotland-L2,2526,Annan Athletic,Spartans,1.0,1.0,D,1.0,1.0,D,3.4,3.5,1.9,,,,3.35,3.59,1.88,1.8,2.0,1.71,1.99,0.5,1.85,1.95,Annan Athletic,Spartans,annan_athletic,spartans
+2025-12-13,SC3,Scotland-L2,2526,Stirling,Spartans,1.0,1.0,D,0.0,0.0,D,4.33,3.6,1.67,,,,4.37,3.5,1.68,1.9,1.9,1.86,1.81,0.75,1.9,1.9,Stirling,Spartans,stirling,spartans
+2025-12-27,SC3,Scotland-L2,2526,Edinburgh City,Spartans,1.0,3.0,A,1.0,2.0,A,2.63,3.4,2.3,,,,2.62,3.33,2.32,1.8,2.0,1.73,1.96,0.0,2.0,1.8,Edinburgh City,Spartans,edinburgh_city,spartans
+2026-01-24,SC3,Scotland-L2,2526,Clyde,Spartans,2.0,1.0,H,0.0,0.0,D,2.1,3.4,2.88,,,,2.17,3.31,2.85,1.85,1.95,1.8,1.86,-0.25,1.95,1.85,Clyde,Spartans,clyde,spartans
+2026-01-27,SC3,Scotland-L2,2526,East Kilbride,Spartans,0.0,6.0,A,0.0,3.0,A,2.2,3.6,2.6,,,,2.21,3.42,2.69,1.6,2.3,1.61,2.12,-0.25,2.03,1.78,East Kilbride,Spartans,east_kilbride,spartans
+2026-01-31,SC3,Scotland-L2,2526,Elgin,Spartans,3.0,3.0,D,2.0,1.0,H,2.63,3.4,2.3,,,,2.7,3.15,2.36,1.9,1.9,1.84,1.8,0.25,1.75,2.05,Elgin,Spartans,elgin,spartans
+2026-02-21,SC3,Scotland-L2,2526,Stranraer,Spartans,2.0,1.0,H,1.0,0.0,H,2.63,3.2,2.35,,,,2.65,3.22,2.35,1.95,1.85,1.87,1.8,0.0,2.03,1.78,Stranraer,Spartans,stranraer,spartans
+2026-03-07,SC3,Scotland-L2,2526,Dumbarton,Spartans,3.0,0.0,H,0.0,0.0,D,3.6,3.5,1.85,,,,3.64,3.33,1.85,1.93,1.88,1.86,1.81,0.5,1.88,1.93,Dumbarton,Spartans,dumbarton,spartans
+2026-03-21,SC3,Scotland-L2,2526,Forfar,Spartans,1.0,1.0,D,1.0,1.0,D,3.1,3.25,2.05,,,,3.13,3.17,2.08,2.05,1.75,2.01,1.69,0.25,1.95,1.85,Forfar,Spartans,forfar,spartans
+2026-04-04,SC3,Scotland-L2,2526,Edinburgh City,Spartans,0.0,3.0,A,0.0,0.0,D,4.75,3.7,1.57,,,,4.69,3.75,1.57,1.7,2.1,1.65,2.07,1.0,1.78,2.03,Edinburgh City,Spartans,edinburgh_city,spartans
+2026-04-18,SC3,Scotland-L2,2526,Annan Athletic,Spartans,0.0,2.0,A,0.0,1.0,A,2.6,3.4,2.3,,,,2.71,3.36,2.24,1.7,2.1,1.68,2.02,0.0,2.03,1.78,Annan Athletic,Spartans,annan_athletic,spartans
+2026-05-02,SC3,Scotland-L2,2526,Stirling,Spartans,2.0,2.0,D,0.0,0.0,D,5.5,3.9,1.48,,,,5.29,3.99,1.48,1.67,2.15,1.61,2.12,1.0,1.95,1.85,Stirling,Spartans,stirling,spartans
+2026-08-01,SC3,Scotland-L2,2627,Annan Athletic,Spartans,2.0,4.0,A,1.0,0.0,H,3.0,3.3,2.05,,,,2.96,3.37,2.09,1.85,1.95,1.8,1.9,0.25,1.93,1.88,Annan Athletic,Spartans,annan_athletic,spartans
+2026-08-15,SC3,Scotland-L2,2627,Stranraer,Spartans,1.0,0.0,H,0.0,0.0,D,2.63,3.25,2.35,,,,2.68,3.27,2.33,2.0,1.8,1.92,1.79,0.0,2.03,1.78,Stranraer,Spartans,stranraer,spartans
+2026-09-05,SC3,Scotland-L2,2627,Stirling,Spartans,0.0,2.0,A,0.0,1.0,A,3.5,3.6,1.85,,,,3.43,3.55,1.87,1.7,2.1,1.66,2.1,0.5,1.9,1.9,Stirling,Spartans,stirling,spartans
+2026-09-19,SC3,Scotland-L2,2627,Dumbarton,Spartans,3.0,0.0,H,1.0,0.0,H,3.75,3.8,1.7,,,,3.8,3.83,1.71,1.53,2.38,1.49,2.44,0.75,1.85,1.95,Dumbarton,Spartans,dumbarton,spartans
+2026-10-10,SC3,Scotland-L2,2627,Edinburgh City,Spartans,1.0,3.0,A,1.0,1.0,D,2.55,3.4,2.3,,,,2.55,3.45,2.36,1.67,2.15,1.63,2.13,0.0,2.0,1.8,Edinburgh City,Spartans,edinburgh_city,spartans

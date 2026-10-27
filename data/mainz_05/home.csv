@@ -1,0 +1,89 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,D1,Germany-BL1,2122,Mainz,RB Leipzig,1.0,0.0,H,1.0,0.0,H,8.0,5.5,1.33,8.09,5.66,1.38,8.07,5.44,1.35,1.53,2.5,1.54,2.5,1.5,1.88,1.93,Mainz 05,RB Leipzig,mainz_05,rb_leipzig
+2021-08-28,D1,Germany-BL1,2122,Mainz,Greuther Furth,3.0,0.0,H,2.0,0.0,H,1.66,4.0,5.0,1.74,4.04,5.01,1.71,3.97,4.9,1.72,2.1,1.72,2.16,-0.75,1.92,2.01,Mainz 05,Greuther Furth,mainz_05,greuther_furth
+2021-09-18,D1,Germany-BL1,2122,Mainz,Freiburg,0.0,0.0,D,0.0,0.0,D,2.0,3.6,3.6,2.12,3.67,3.58,2.07,3.58,3.53,1.8,2.0,1.84,2.0,-0.5,2.08,1.85,Mainz 05,SC Freiburg,mainz_05,sc_freiburg
+2021-10-03,D1,Germany-BL1,2122,Mainz,Union Berlin,1.0,2.0,A,1.0,0.0,H,2.05,3.5,3.6,2.13,3.38,3.87,2.09,3.35,3.71,2.0,1.8,2.08,1.77,-0.25,1.77,2.02,Mainz 05,Union Berlin,mainz_05,union_berlin
+2021-10-22,D1,Germany-BL1,2122,Mainz,Augsburg,4.0,1.0,H,3.0,0.0,H,1.61,3.8,5.75,1.66,3.88,6.06,1.66,3.79,5.64,2.0,1.8,2.08,1.77,-0.75,1.86,2.07,Mainz 05,FC Augsburg,mainz_05,fc_augsburg
+2021-11-05,D1,Germany-BL1,2122,Mainz,M'gladbach,1.0,1.0,D,0.0,1.0,A,2.62,3.6,2.55,2.74,3.61,2.63,2.68,3.52,2.59,1.72,2.1,1.75,2.11,0.0,2.0,1.9,Mainz 05,Borussia Monchengladbach,mainz_05,borussia_monchengladbach
+2021-11-21,D1,Germany-BL1,2122,Mainz,FC Koln,1.0,1.0,D,1.0,0.0,H,2.1,3.6,3.4,2.19,3.53,3.53,2.14,3.56,3.36,1.72,2.1,1.72,2.15,-0.25,1.86,2.04,Mainz 05,FC Koln,mainz_05,fc_koln
+2021-12-04,D1,Germany-BL1,2122,Mainz,Wolfsburg,3.0,0.0,H,2.0,0.0,H,2.5,3.3,2.87,2.54,3.37,3.02,2.53,3.27,2.92,2.1,1.72,2.08,1.77,0.0,1.8,2.1,Mainz 05,VfL Wolfsburg,mainz_05,vfl_wolfsburg
+2021-12-14,D1,Germany-BL1,2122,Mainz,Hertha,4.0,0.0,H,2.0,0.0,H,1.9,3.5,4.2,1.96,3.51,4.37,1.95,3.52,4.12,2.04,1.89,2.0,1.84,-0.5,1.97,1.96,Mainz 05,Hertha Berlin,mainz_05,hertha_berlin
+2022-01-15,D1,Germany-BL1,2122,Mainz,Bochum,1.0,0.0,H,0.0,0.0,D,1.65,3.75,5.5,1.66,3.7,6.03,1.69,3.71,5.46,2.0,1.9,1.94,1.88,-0.75,1.88,2.02,Mainz 05,VfL Bochum,mainz_05,vfl_bochum
+2022-02-05,D1,Germany-BL1,2122,Mainz,Hoffenheim,2.0,0.0,H,0.0,0.0,D,2.6,3.4,2.7,2.68,3.33,2.78,2.66,3.41,2.69,1.72,2.1,1.71,2.16,0.0,1.94,1.96,Mainz 05,TSG Hoffenheim,mainz_05,tsg_hoffenheim
+2022-02-18,D1,Germany-BL1,2122,Mainz,Leverkusen,3.0,2.0,H,0.0,1.0,A,3.1,3.75,2.15,3.32,3.69,2.22,3.25,3.66,2.19,1.72,2.1,1.7,2.18,0.25,1.99,1.91,Mainz 05,Bayer Leverkusen,mainz_05,bayer_leverkusen
+2022-03-16,D1,Germany-BL1,2122,Mainz,Dortmund,0.0,1.0,A,0.0,0.0,D,4.0,3.8,1.85,4.25,3.88,1.88,4.06,3.84,1.87,1.61,2.3,1.67,2.22,0.5,2.05,1.85,Mainz 05,Borussia Dortmund,mainz_05,borussia_dortmund
+2022-03-19,D1,Germany-BL1,2122,Mainz,Bielefeld,4.0,0.0,H,1.0,0.0,H,1.6,3.75,6.0,1.63,3.82,6.62,1.64,3.76,6.08,2.2,1.66,2.16,1.71,-0.75,1.78,2.13,Mainz 05,Arminia Bielefeld,mainz_05,arminia_bielefeld
+2022-04-16,D1,Germany-BL1,2122,Mainz,Stuttgart,0.0,0.0,D,0.0,0.0,D,2.05,3.5,3.6,2.03,3.61,3.96,2.01,3.56,3.78,1.95,1.95,1.9,1.92,-0.5,1.99,1.91,Mainz 05,VfB Stuttgart,mainz_05,vfb_stuttgart
+2022-04-30,D1,Germany-BL1,2122,Mainz,Bayern Munich,3.0,1.0,H,2.0,1.0,H,5.75,4.5,1.53,5.87,4.83,1.54,5.58,4.79,1.53,1.44,2.75,1.41,2.93,1.0,2.02,1.77,Mainz 05,Bayern Munich,mainz_05,bayern_munich
+2022-05-14,D1,Germany-BL1,2122,Mainz,Ein Frankfurt,2.0,2.0,D,1.0,2.0,A,1.7,4.33,4.33,1.72,4.34,4.55,1.69,4.41,4.5,1.4,3.0,1.42,2.88,-0.75,1.88,2.02,Mainz 05,Eintracht Frankfurt,mainz_05,eintracht_frankfurt
+2022-08-14,D1,Germany-BL1,2223,Mainz,Union Berlin,0.0,0.0,D,0.0,0.0,D,2.2,3.25,3.4,2.3,3.23,3.6,2.26,3.25,3.42,2.06,1.84,2.02,1.81,-0.25,1.92,1.98,Mainz 05,Union Berlin,mainz_05,union_berlin
+2022-08-27,D1,Germany-BL1,2223,Mainz,Leverkusen,0.0,3.0,A,0.0,3.0,A,2.75,3.75,2.37,2.75,3.82,2.52,2.72,3.74,2.45,1.61,2.3,1.61,2.34,0.0,2.04,1.86,Mainz 05,Bayer Leverkusen,mainz_05,bayer_leverkusen
+2022-09-16,D1,Germany-BL1,2223,Mainz,Hertha,1.0,1.0,D,0.0,1.0,A,1.72,4.0,4.33,1.79,4.0,4.64,1.76,3.98,4.49,1.72,2.1,1.72,2.14,-0.75,1.98,1.92,Mainz 05,Hertha Berlin,mainz_05,hertha_berlin
+2022-10-08,D1,Germany-BL1,2223,Mainz,RB Leipzig,1.0,1.0,D,1.0,0.0,H,3.0,3.6,2.3,3.07,3.66,2.36,3.03,3.58,2.32,1.72,2.1,1.76,2.1,0.25,1.89,2.01,Mainz 05,RB Leipzig,mainz_05,rb_leipzig
+2022-10-21,D1,Germany-BL1,2223,Mainz,FC Koln,5.0,0.0,H,3.0,0.0,H,2.15,3.5,3.25,2.19,3.59,3.47,2.18,3.53,3.36,1.72,2.1,1.76,2.09,-0.25,1.88,2.02,Mainz 05,FC Koln,mainz_05,fc_koln
+2022-11-05,D1,Germany-BL1,2223,Mainz,Wolfsburg,0.0,3.0,A,0.0,1.0,A,2.0,3.75,3.5,2.07,3.68,3.72,2.05,3.64,3.57,1.87,2.03,1.82,2.01,-0.5,2.06,1.84,Mainz 05,VfL Wolfsburg,mainz_05,vfl_wolfsburg
+2022-11-13,D1,Germany-BL1,2223,Mainz,Ein Frankfurt,1.0,1.0,D,1.0,0.0,H,2.75,3.5,2.45,2.84,3.76,2.47,2.78,3.61,2.46,1.72,2.1,1.73,2.12,0.25,1.73,2.08,Mainz 05,Eintracht Frankfurt,mainz_05,eintracht_frankfurt
+2023-01-25,D1,Germany-BL1,2223,Mainz,Dortmund,1.0,2.0,A,1.0,1.0,D,2.9,3.6,2.3,3.0,3.72,2.38,2.91,3.69,2.34,1.67,2.2,1.65,2.27,0.25,1.85,2.05,Mainz 05,Borussia Dortmund,mainz_05,borussia_dortmund
+2023-01-28,D1,Germany-BL1,2223,Mainz,Bochum,5.0,2.0,H,3.0,0.0,H,1.7,4.0,4.75,1.74,4.06,4.96,1.71,3.99,4.82,1.8,2.0,1.82,2.02,-0.75,1.91,1.99,Mainz 05,VfL Bochum,mainz_05,vfl_bochum
+2023-02-11,D1,Germany-BL1,2223,Mainz,Augsburg,3.0,1.0,H,2.0,1.0,H,1.8,4.0,4.2,1.87,3.9,4.3,1.83,3.84,4.24,1.8,2.0,1.77,2.08,-0.5,1.77,2.02,Mainz 05,FC Augsburg,mainz_05,fc_augsburg
+2023-02-24,D1,Germany-BL1,2223,Mainz,M'gladbach,4.0,0.0,H,1.0,0.0,H,2.15,3.6,3.2,2.19,3.68,3.4,2.15,3.67,3.3,1.73,2.1,1.73,2.15,-0.25,1.89,2.01,Mainz 05,Borussia Monchengladbach,mainz_05,borussia_monchengladbach
+2023-03-04,D1,Germany-BL1,2223,Mainz,Hoffenheim,1.0,0.0,H,1.0,0.0,H,1.91,3.6,4.0,1.93,3.85,3.97,1.93,3.77,3.84,1.73,2.1,1.71,2.17,-0.5,1.93,1.97,Mainz 05,TSG Hoffenheim,mainz_05,tsg_hoffenheim
+2023-03-19,D1,Germany-BL1,2223,Mainz,Freiburg,1.0,1.0,D,0.0,0.0,D,2.1,3.5,3.3,2.17,3.51,3.55,2.16,3.48,3.4,2.0,1.9,1.96,1.86,-0.25,1.86,2.04,Mainz 05,SC Freiburg,mainz_05,sc_freiburg
+2023-04-08,D1,Germany-BL1,2223,Mainz,Werder Bremen,2.0,2.0,D,0.0,0.0,D,1.7,4.0,4.75,1.74,4.1,4.73,1.73,4.01,4.65,1.73,2.1,1.7,2.17,-0.75,1.93,1.97,Mainz 05,Werder Bremen,mainz_05,werder_bremen
+2023-04-22,D1,Germany-BL1,2223,Mainz,Bayern Munich,3.0,1.0,H,0.0,1.0,A,5.25,4.5,1.57,5.23,4.7,1.6,5.31,4.57,1.57,1.5,2.63,1.5,2.58,1.0,1.96,1.94,Mainz 05,Bayern Munich,mainz_05,bayern_munich
+2023-05-05,D1,Germany-BL1,2223,Mainz,Schalke 04,2.0,3.0,A,0.0,1.0,A,1.62,4.0,5.25,1.65,4.13,5.52,1.65,4.1,5.3,1.73,2.1,1.72,2.15,-1.0,2.09,1.81,Mainz 05,Schalke 04,mainz_05,schalke_04
+2023-05-21,D1,Germany-BL1,2223,Mainz,Stuttgart,1.0,4.0,A,1.0,1.0,D,2.5,3.5,2.7,2.58,3.66,2.72,2.51,3.63,2.73,1.73,2.1,1.75,2.12,0.0,1.87,2.03,Mainz 05,VfB Stuttgart,mainz_05,vfb_stuttgart
+2023-08-27,D1,Germany-BL1,2324,Mainz,Ein Frankfurt,1.0,1.0,D,1.0,0.0,H,2.38,3.5,2.88,2.39,3.74,2.92,2.43,3.63,2.83,1.73,2.1,1.71,2.17,-0.25,2.09,1.81,Mainz 05,Eintracht Frankfurt,mainz_05,eintracht_frankfurt
+2023-09-16,D1,Germany-BL1,2324,Mainz,Stuttgart,1.0,3.0,A,0.0,0.0,D,2.63,3.4,2.7,2.57,3.71,2.71,2.55,3.65,2.66,1.67,2.2,1.69,2.2,0.0,1.91,1.99,Mainz 05,VfB Stuttgart,mainz_05,vfb_stuttgart
+2023-09-30,D1,Germany-BL1,2324,Mainz,Leverkusen,0.0,3.0,A,0.0,1.0,A,5.75,4.5,1.53,5.85,4.72,1.54,5.65,4.64,1.54,1.53,2.5,1.54,2.48,1.0,2.04,1.86,Mainz 05,Bayer Leverkusen,mainz_05,bayer_leverkusen
+2023-10-21,D1,Germany-BL1,2324,Mainz,Bayern Munich,1.0,3.0,A,1.0,2.0,A,9.0,6.0,1.29,9.99,6.69,1.27,9.77,6.53,1.28,1.3,3.5,1.29,3.58,1.75,2.01,1.89,Mainz 05,Bayern Munich,mainz_05,bayern_munich
+2023-11-04,D1,Germany-BL1,2324,Mainz,RB Leipzig,2.0,0.0,H,0.0,0.0,D,5.75,4.2,1.6,5.42,4.56,1.58,5.23,4.44,1.6,1.62,2.3,1.59,2.38,1.0,1.91,2.02,Mainz 05,RB Leipzig,mainz_05,rb_leipzig
+2023-12-03,D1,Germany-BL1,2324,Mainz,Freiburg,0.0,1.0,A,0.0,0.0,D,2.3,3.4,3.1,2.29,3.56,3.16,2.29,3.53,3.12,1.96,1.94,1.91,1.92,-0.25,2.01,1.92,Mainz 05,SC Freiburg,mainz_05,sc_freiburg
+2023-12-16,D1,Germany-BL1,2324,Mainz,Heidenheim,0.0,1.0,A,0.0,1.0,A,1.67,4.2,4.75,1.67,4.23,4.93,1.68,4.22,4.77,1.67,2.2,1.66,2.27,-0.75,1.87,2.06,Mainz 05,1. FC Heidenheim,mainz_05,1_fc_heidenheim
+2024-01-13,D1,Germany-BL1,2324,Mainz,Wolfsburg,1.0,1.0,D,0.0,1.0,A,2.2,3.4,3.25,2.25,3.47,3.33,2.22,3.49,3.3,1.98,1.92,1.91,1.92,-0.25,1.92,1.98,Mainz 05,VfL Wolfsburg,mainz_05,vfl_wolfsburg
+2024-02-03,D1,Germany-BL1,2324,Mainz,Werder Bremen,0.0,1.0,A,0.0,1.0,A,2.1,3.5,3.5,2.12,3.52,3.59,2.1,3.53,3.53,2.0,1.9,1.95,1.89,-0.25,1.84,2.09,Mainz 05,Werder Bremen,mainz_05,werder_bremen
+2024-02-07,D1,Germany-BL1,2324,Mainz,Union Berlin,1.0,1.0,D,1.0,1.0,D,2.15,3.3,3.5,2.22,3.29,3.58,2.18,3.31,3.56,2.2,1.67,2.24,1.67,-0.25,1.89,2.04,Mainz 05,Union Berlin,mainz_05,union_berlin
+2024-02-17,D1,Germany-BL1,2324,Mainz,Augsburg,1.0,0.0,H,1.0,0.0,H,2.0,3.5,3.8,2.03,3.66,3.72,2.02,3.61,3.68,1.98,1.92,1.95,1.89,-0.5,2.04,1.86,Mainz 05,FC Augsburg,mainz_05,fc_augsburg
+2024-03-02,D1,Germany-BL1,2324,Mainz,M'gladbach,1.0,1.0,D,1.0,0.0,H,1.91,3.75,3.75,1.98,3.81,3.73,1.97,3.76,3.71,1.8,2.0,1.78,2.07,-0.5,1.99,1.91,Mainz 05,Borussia Monchengladbach,mainz_05,borussia_monchengladbach
+2024-03-16,D1,Germany-BL1,2324,Mainz,Bochum,2.0,0.0,H,1.0,0.0,H,1.8,3.8,4.33,1.79,3.88,4.58,1.78,3.88,4.47,1.8,2.0,1.8,2.04,-0.75,2.04,1.89,Mainz 05,VfL Bochum,mainz_05,vfl_bochum
+2024-04-06,D1,Germany-BL1,2324,Mainz,Darmstadt,4.0,0.0,H,1.0,0.0,H,1.4,5.0,7.5,1.41,4.97,7.93,1.42,4.87,7.63,1.67,2.2,1.7,2.2,-1.25,2.0,1.93,Mainz 05,Darmstadt 98,mainz_05,darmstadt_98
+2024-04-13,D1,Germany-BL1,2324,Mainz,Hoffenheim,4.0,1.0,H,0.0,1.0,A,1.95,4.0,3.4,2.0,3.91,3.58,1.99,3.93,3.52,1.57,2.38,1.58,2.42,-0.5,2.01,1.89,Mainz 05,TSG Hoffenheim,mainz_05,tsg_hoffenheim
+2024-04-28,D1,Germany-BL1,2324,Mainz,FC Koln,1.0,1.0,D,1.0,0.0,H,1.55,4.33,6.0,1.54,4.37,6.2,1.54,4.34,6.02,1.73,2.1,1.73,2.13,-1.0,1.94,1.99,Mainz 05,FC Koln,mainz_05,fc_koln
+2024-05-11,D1,Germany-BL1,2324,Mainz,Dortmund,3.0,0.0,H,3.0,0.0,H,2.2,3.6,3.1,2.19,3.97,3.08,2.21,3.9,2.98,1.5,2.63,1.48,2.65,-0.25,1.95,1.95,Mainz 05,Borussia Dortmund,mainz_05,borussia_dortmund
+2024-08-24,D1,Germany-BL1,2425,Mainz,Union Berlin,1.0,1.0,D,0.0,0.0,D,2.0,3.4,3.9,2.08,3.24,4.1,2.05,3.3,4.01,2.2,1.67,2.23,1.68,-0.5,2.05,1.85,Mainz 05,Union Berlin,mainz_05,union_berlin
+2024-09-15,D1,Germany-BL1,2425,Mainz,Werder Bremen,1.0,2.0,A,1.0,1.0,D,2.0,3.7,3.5,2.04,3.66,3.61,2.04,3.66,3.57,1.73,2.1,1.75,2.09,-0.5,2.05,1.85,Mainz 05,Werder Bremen,mainz_05,werder_bremen
+2024-09-28,D1,Germany-BL1,2425,Mainz,Heidenheim,0.0,2.0,A,0.0,1.0,A,1.83,3.75,4.2,1.86,3.82,4.21,1.85,3.8,4.2,1.73,2.1,1.74,2.13,-0.75,2.03,1.78,Mainz 05,1. FC Heidenheim,mainz_05,1_fc_heidenheim
+2024-10-19,D1,Germany-BL1,2425,Mainz,RB Leipzig,0.0,2.0,A,0.0,2.0,A,3.9,3.8,1.85,4.27,3.71,1.88,4.04,3.83,1.88,1.67,2.2,1.66,2.26,0.5,1.96,1.82,Mainz 05,RB Leipzig,mainz_05,rb_leipzig
+2024-10-25,D1,Germany-BL1,2425,Mainz,M'gladbach,1.0,1.0,D,0.0,0.0,D,2.3,3.75,2.8,2.39,3.79,2.89,2.35,3.76,2.86,1.57,2.38,1.56,2.43,-0.25,2.09,1.84,Mainz 05,Borussia Monchengladbach,mainz_05,borussia_monchengladbach
+2024-11-09,D1,Germany-BL1,2425,Mainz,Dortmund,3.0,1.0,H,2.0,1.0,H,3.5,3.6,2.0,3.48,3.74,2.08,3.46,3.74,2.06,1.62,2.3,1.59,2.4,0.5,1.84,2.06,Mainz 05,Borussia Dortmund,mainz_05,borussia_dortmund
+2024-12-01,D1,Germany-BL1,2425,Mainz,Hoffenheim,2.0,0.0,H,2.0,0.0,H,2.1,3.4,3.5,2.08,3.7,3.53,2.08,3.61,3.45,1.67,2.2,1.66,2.26,-0.25,1.83,2.07,Mainz 05,TSG Hoffenheim,mainz_05,tsg_hoffenheim
+2024-12-14,D1,Germany-BL1,2425,Mainz,Bayern Munich,2.0,1.0,H,1.0,0.0,H,6.5,4.5,1.48,6.86,4.87,1.46,6.54,4.69,1.47,1.53,2.5,1.52,2.52,1.25,1.86,2.04,Mainz 05,Bayern Munich,mainz_05,bayern_munich
+2025-01-11,D1,Germany-BL1,2425,Mainz,Bochum,2.0,0.0,H,1.0,0.0,H,1.53,4.33,5.75,1.57,4.38,5.81,1.56,4.28,5.76,1.73,2.1,1.72,2.12,-1.0,1.95,1.95,Mainz 05,VfL Bochum,mainz_05,vfl_bochum
+2025-01-25,D1,Germany-BL1,2425,Mainz,Stuttgart,2.0,0.0,H,1.0,0.0,H,2.8,3.5,2.45,2.88,3.55,2.47,2.84,3.5,2.44,1.73,2.1,1.75,2.1,0.0,2.04,1.77,Mainz 05,VfB Stuttgart,mainz_05,vfb_stuttgart
+2025-02-08,D1,Germany-BL1,2425,Mainz,Augsburg,0.0,0.0,D,0.0,0.0,D,1.75,3.5,5.0,1.78,3.72,4.88,1.77,3.66,4.78,2.05,1.85,2.03,1.81,-0.75,2.03,1.87,Mainz 05,FC Augsburg,mainz_05,fc_augsburg
+2025-02-22,D1,Germany-BL1,2425,Mainz,St Pauli,2.0,0.0,H,0.0,0.0,D,1.8,3.5,4.75,1.79,3.66,4.88,1.8,3.57,4.73,2.1,1.73,2.15,1.72,-0.75,2.07,1.83,Mainz 05,FC St Pauli,mainz_05,fc_st_pauli
+2025-03-15,D1,Germany-BL1,2425,Mainz,Freiburg,2.0,2.0,D,1.0,0.0,H,1.95,3.3,4.1,2.02,3.45,4.0,2.01,3.42,3.91,2.1,1.73,2.1,1.75,-0.5,2.02,1.88,Mainz 05,SC Freiburg,mainz_05,sc_freiburg
+2025-04-05,D1,Germany-BL1,2425,Mainz,Holstein Kiel,1.0,1.0,D,0.0,1.0,A,1.45,4.5,7.0,1.43,5.01,7.05,1.44,4.72,6.92,1.67,2.2,1.62,2.28,-1.25,2.0,1.9,Mainz 05,Holstein Kiel,mainz_05,holstein_kiel
+2025-04-19,D1,Germany-BL1,2425,Mainz,Wolfsburg,2.0,2.0,D,2.0,1.0,H,2.0,3.6,3.6,2.05,3.72,3.6,2.02,3.65,3.53,1.8,2.0,1.79,2.02,-0.5,2.06,1.84,Mainz 05,VfL Wolfsburg,mainz_05,vfl_wolfsburg
+2025-05-04,D1,Germany-BL1,2425,Mainz,Ein Frankfurt,1.0,1.0,D,0.0,1.0,A,2.35,3.5,2.9,2.41,3.67,2.89,2.38,3.64,2.82,1.62,2.3,1.62,2.31,-0.25,2.08,1.82,Mainz 05,Eintracht Frankfurt,mainz_05,eintracht_frankfurt
+2025-05-17,D1,Germany-BL1,2425,Mainz,Leverkusen,2.0,2.0,D,1.0,0.0,H,2.15,3.9,3.0,2.18,3.99,2.93,2.18,3.94,2.94,1.44,2.75,1.44,2.73,-0.25,1.95,1.95,Mainz 05,Bayer Leverkusen,mainz_05,bayer_leverkusen
+2025-08-24,D1,Germany-BL1,2526,Mainz,FC Koln,0.0,1.0,A,0.0,0.0,D,1.9,3.7,4.0,1.93,3.7,4.07,1.86,3.61,3.95,1.83,2.03,1.8,1.96,-0.5,1.88,1.98,Mainz 05,FC Koln,mainz_05,fc_koln
+2025-09-13,D1,Germany-BL1,2526,Mainz,RB Leipzig,0.0,1.0,A,0.0,1.0,A,2.55,3.6,2.63,2.6,3.7,2.64,2.56,3.58,2.53,1.67,2.2,1.63,2.21,0.0,1.9,1.95,Mainz 05,RB Leipzig,mainz_05,rb_leipzig
+2025-09-27,D1,Germany-BL1,2526,Mainz,Dortmund,0.0,2.0,A,0.0,2.0,A,3.2,3.7,2.1,3.32,3.79,2.13,3.14,3.74,2.08,1.62,2.3,1.57,2.33,0.25,2.03,1.83,Mainz 05,Borussia Dortmund,mainz_05,borussia_dortmund
+2025-10-18,D1,Germany-BL1,2526,Mainz,Leverkusen,3.0,4.0,A,1.0,3.0,A,2.8,3.4,2.45,2.83,3.46,2.56,2.78,3.4,2.39,1.8,2.0,1.74,2.02,0.0,2.05,1.8,Mainz 05,Bayer Leverkusen,mainz_05,bayer_leverkusen
+2025-11-01,D1,Germany-BL1,2526,Mainz,Werder Bremen,1.0,1.0,D,1.0,0.0,H,1.95,3.9,3.5,2.02,3.92,3.51,1.99,3.77,3.37,1.57,2.38,1.55,2.37,-0.5,2.0,1.85,Mainz 05,Werder Bremen,mainz_05,werder_bremen
+2025-11-21,D1,Germany-BL1,2526,Mainz,Hoffenheim,1.0,1.0,D,0.0,1.0,A,2.6,3.6,2.7,2.59,3.6,2.71,2.48,3.56,2.65,1.67,2.2,1.6,2.27,0.0,1.88,1.98,Mainz 05,TSG Hoffenheim,mainz_05,tsg_hoffenheim
+2025-12-05,D1,Germany-BL1,2526,Mainz,M'gladbach,0.0,1.0,A,0.0,0.0,D,2.55,3.4,2.63,2.68,3.55,2.69,2.55,3.41,2.65,1.73,2.1,1.7,2.1,0.0,1.93,1.93,Mainz 05,Borussia Monchengladbach,mainz_05,borussia_monchengladbach
+2025-12-21,D1,Germany-BL1,2526,Mainz,St Pauli,0.0,0.0,D,0.0,0.0,D,1.95,3.4,4.1,1.98,3.5,4.11,1.92,3.34,4.02,2.1,1.73,2.1,1.68,-0.5,1.98,1.88,Mainz 05,FC St Pauli,mainz_05,fc_st_pauli
+2026-01-13,D1,Germany-BL1,2526,Mainz,Heidenheim,2.0,1.0,H,1.0,0.0,H,1.75,3.8,4.33,1.67,3.85,5.58,1.75,3.74,4.47,1.73,2.1,1.73,2.05,-0.75,2.0,1.85,Mainz 05,1. FC Heidenheim,mainz_05,1_fc_heidenheim
+2026-01-24,D1,Germany-BL1,2526,Mainz,Wolfsburg,3.0,1.0,H,0.0,1.0,A,2.3,3.5,3.0,,,,2.31,3.42,2.91,1.73,2.1,1.74,2.04,-0.25,2.03,1.83,Mainz 05,VfL Wolfsburg,mainz_05,vfl_wolfsburg
+2026-02-07,D1,Germany-BL1,2526,Mainz,Augsburg,2.0,0.0,H,1.0,0.0,H,2.05,3.6,3.5,,,,2.04,3.51,3.41,1.8,2.0,1.8,1.95,-0.25,1.75,2.05,Mainz 05,FC Augsburg,mainz_05,fc_augsburg
+2026-02-20,D1,Germany-BL1,2526,Mainz,Hamburg,1.0,1.0,D,1.0,0.0,H,2.1,3.4,3.5,,,,2.05,3.45,3.5,1.8,2.0,1.76,2.0,-0.25,1.8,2.05,Mainz 05,Hamburger SV,mainz_05,hamburger_sv
+2026-03-07,D1,Germany-BL1,2526,Mainz,Stuttgart,2.0,2.0,D,1.0,0.0,H,3.2,3.6,2.15,,,,3.05,3.65,2.12,1.62,2.3,1.58,2.3,0.25,2.0,1.85,Mainz 05,VfB Stuttgart,mainz_05,vfb_stuttgart
+2026-03-22,D1,Germany-BL1,2526,Mainz,Ein Frankfurt,2.0,1.0,H,1.0,1.0,D,2.1,3.7,3.25,,,,2.08,3.58,3.19,1.73,2.1,1.7,2.1,-0.25,1.85,2.0,Mainz 05,Eintracht Frankfurt,mainz_05,eintracht_frankfurt
+2026-04-12,D1,Germany-BL1,2526,Mainz,Freiburg,0.0,1.0,A,0.0,0.0,D,2.25,3.1,3.5,,,,2.23,3.14,3.3,1.88,1.98,1.85,1.9,-0.25,1.95,1.9,Mainz 05,SC Freiburg,mainz_05,sc_freiburg
+2026-04-25,D1,Germany-BL1,2526,Mainz,Bayern Munich,3.0,4.0,A,3.0,0.0,H,4.33,4.5,1.67,,,,4.33,4.37,1.64,1.44,2.75,1.4,2.84,0.75,2.03,1.83,Mainz 05,Bayern Munich,mainz_05,bayern_munich
+2026-05-10,D1,Germany-BL1,2526,Mainz,Union Berlin,1.0,3.0,A,0.0,1.0,A,1.75,4.0,4.33,,,,1.74,3.81,4.24,1.67,2.2,1.69,2.1,-0.75,1.98,1.88,Mainz 05,Union Berlin,mainz_05,union_berlin
+2026-08-29,D1,Germany-BL1,2627,Mainz,Paderborn,0.0,0.0,D,0.0,0.0,D,1.65,4.0,5.0,,,,1.66,3.98,4.71,1.67,2.2,1.62,2.22,-0.75,1.83,2.03,Mainz 05,Paderborn,mainz_05,paderborn
+2026-09-12,D1,Germany-BL1,2627,Mainz,Ein Frankfurt,1.0,3.0,A,0.0,2.0,A,1.95,4.0,3.4,,,,1.97,3.85,3.32,1.5,2.63,1.48,2.58,-0.5,1.98,1.88,Mainz 05,Eintracht Frankfurt,mainz_05,eintracht_frankfurt
+2026-10-10,D1,Germany-BL1,2627,Mainz,Leverkusen,3.0,4.0,A,2.0,2.0,D,3.0,3.8,2.2,,,,2.88,3.83,2.17,1.44,2.75,1.42,2.72,0.25,1.93,1.93,Mainz 05,Bayer Leverkusen,mainz_05,bayer_leverkusen

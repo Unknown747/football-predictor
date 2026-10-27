@@ -1,0 +1,54 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2023-09-02,G1,Greece-SL,2324,Panserraikos,Panetolikos,1.0,1.0,D,1.0,0.0,H,2.3,3.4,3.1,2.31,3.22,3.25,2.3,3.18,3.11,2.25,1.62,2.28,1.6,-0.25,2.0,1.85,Panserraikos,Panetolikos,panserraikos,panetolikos
+2023-09-23,G1,Greece-SL,2324,Panserraikos,Lamia,2.0,0.0,H,0.0,0.0,D,2.3,3.2,3.3,2.3,3.22,3.33,2.26,3.17,3.21,2.25,1.62,2.26,1.61,-0.25,1.95,1.9,Panserraikos,Lamia,panserraikos,lamia
+2023-09-28,G1,Greece-SL,2324,Panserraikos,Giannina,3.0,2.0,H,2.0,1.0,H,2.2,3.2,3.5,2.28,3.07,3.45,2.22,3.1,3.32,2.4,1.53,2.38,1.55,-0.25,1.93,1.93,Panserraikos,PAS Giannina,panserraikos,pas_giannina
+2023-11-06,G1,Greece-SL,2324,Panserraikos,OFI Crete,2.0,1.0,H,1.0,1.0,D,2.7,3.3,2.63,2.66,3.14,2.78,2.61,3.23,2.65,2.03,1.83,1.98,1.79,0.0,1.93,1.93,Panserraikos,OFI Crete,panserraikos,ofi_crete
+2023-12-18,G1,Greece-SL,2324,Panserraikos,Olympiakos,0.0,1.0,A,0.0,0.0,D,8.5,5.0,1.36,8.79,4.98,1.34,8.39,4.83,1.34,1.83,2.03,1.79,1.98,1.25,2.03,1.83,Panserraikos,Olympiacos,panserraikos,olympiacos
+2023-12-21,G1,Greece-SL,2324,Panserraikos,AEK,2.0,2.0,D,1.0,2.0,A,10.0,5.75,1.29,10.99,5.6,1.26,9.92,5.41,1.27,1.7,2.1,1.72,2.07,1.5,1.98,1.88,Panserraikos,AEK Athens,panserraikos,aek_athens
+2024-01-07,G1,Greece-SL,2324,Panserraikos,Kifisia,1.0,1.0,D,0.0,1.0,A,2.05,3.3,3.8,2.05,3.38,3.66,2.05,3.34,3.48,2.03,1.83,1.96,1.81,-0.25,1.78,2.1,Panserraikos,Kifisia,panserraikos,kifisia
+2024-01-27,G1,Greece-SL,2324,Panserraikos,Volos NFC,2.0,2.0,D,0.0,1.0,A,2.2,3.2,3.5,2.24,3.18,3.52,2.16,3.15,3.41,2.35,1.57,2.3,1.58,-0.25,1.88,1.98,Panserraikos,Volos NFC,panserraikos,volos_nfc
+2024-02-03,G1,Greece-SL,2324,Panserraikos,Aris,1.0,1.0,D,0.0,0.0,D,3.6,3.3,2.15,3.52,3.29,2.19,3.41,3.25,2.12,2.2,1.65,2.17,1.66,0.25,2.0,1.85,Panserraikos,Aris Thessaloniki,panserraikos,aris_thessaloniki
+2024-02-11,G1,Greece-SL,2324,Panserraikos,Panathinaikos,0.0,3.0,A,0.0,2.0,A,7.5,4.5,1.44,7.56,4.38,1.42,7.4,4.38,1.4,1.95,1.9,1.92,1.85,1.25,1.85,2.0,Panserraikos,Panathinaikos,panserraikos,panathinaikos
+2024-02-24,G1,Greece-SL,2324,Panserraikos,Atromitos,0.0,0.0,D,0.0,0.0,D,2.38,3.2,3.1,2.44,3.04,3.27,2.34,3.13,3.08,2.3,1.6,2.3,1.59,-0.25,2.03,1.83,Panserraikos,Atromitos,panserraikos,atromitos
+2024-02-28,G1,Greece-SL,2324,Panserraikos,PAOK,0.0,2.0,A,0.0,1.0,A,13.0,6.5,1.22,15.32,6.43,1.2,13.13,6.02,1.2,1.62,2.25,1.64,2.19,1.75,2.0,1.85,Panserraikos,PAOK,panserraikos,paok
+2024-03-03,G1,Greece-SL,2324,Panserraikos,Asteras Tripolis,2.0,1.0,H,1.0,1.0,D,2.25,3.3,3.3,2.2,3.3,3.36,2.19,3.25,3.24,2.15,1.67,2.17,1.66,-0.25,1.93,1.93,Panserraikos,Asteras Tripolis,panserraikos,asteras_tripolis
+2024-03-30,G1,Greece-SL,2324,Panserraikos,Asteras Tripolis,2.0,0.0,H,0.0,0.0,D,2.2,3.1,3.6,2.2,3.11,3.65,2.18,3.13,3.42,2.2,1.65,2.21,1.64,-0.25,1.9,1.95,Panserraikos,Asteras Tripolis,panserraikos,asteras_tripolis
+2024-04-13,G1,Greece-SL,2324,Panserraikos,OFI Crete,2.0,2.0,D,2.0,1.0,H,2.38,3.1,3.25,2.41,2.99,3.33,2.31,3.1,3.17,2.08,1.73,2.07,1.73,-0.25,2.0,1.85,Panserraikos,OFI Crete,panserraikos,ofi_crete
+2024-04-21,G1,Greece-SL,2324,Panserraikos,Giannina,2.0,1.0,H,2.0,0.0,H,2.0,3.3,4.0,2.0,3.25,4.11,1.99,3.27,3.77,2.15,1.67,2.13,1.67,-0.5,2.03,1.83,Panserraikos,PAS Giannina,panserraikos,pas_giannina
+2024-05-11,G1,Greece-SL,2324,Panserraikos,Kifisia,2.0,0.0,H,0.0,0.0,D,2.0,3.75,3.4,1.92,3.55,3.78,1.96,3.53,3.56,1.8,2.05,1.85,1.91,-0.5,2.03,1.83,Panserraikos,Kifisia,panserraikos,kifisia
+2024-08-24,G1,Greece-SL,2425,Panserraikos,Aris,0.0,1.0,A,0.0,1.0,A,2.7,3.2,2.63,2.75,3.18,2.61,2.71,3.18,2.58,2.1,1.7,2.09,1.71,0.0,1.98,1.88,Panserraikos,Aris Thessaloniki,panserraikos,aris_thessaloniki
+2024-09-15,G1,Greece-SL,2425,Panserraikos,Levadeiakos,2.0,2.0,D,2.0,0.0,H,2.15,3.0,3.8,2.16,3.19,3.54,2.13,3.13,3.52,2.4,1.53,2.43,1.53,-0.25,1.83,2.03,Panserraikos,Levadeiakos,panserraikos,levadeiakos
+2024-10-06,G1,Greece-SL,2425,Panserraikos,OFI Crete,2.0,3.0,A,2.0,2.0,D,2.63,3.2,2.7,2.68,3.1,2.78,2.64,3.15,2.68,2.15,1.67,2.14,1.67,0.0,1.9,1.95,Panserraikos,OFI Crete,panserraikos,ofi_crete
+2024-10-26,G1,Greece-SL,2425,Panserraikos,AEK,1.0,0.0,H,1.0,0.0,H,7.5,4.75,1.36,7.5,5.18,1.36,7.44,4.91,1.36,1.65,2.2,1.64,2.2,1.25,2.03,1.83,Panserraikos,AEK Athens,panserraikos,aek_athens
+2024-11-09,G1,Greece-SL,2425,Panserraikos,Atromitos,2.0,3.0,A,1.0,3.0,A,3.25,3.1,2.3,3.38,2.89,2.42,3.22,3.07,2.32,2.15,1.67,2.12,1.69,0.25,1.83,2.03,Panserraikos,Atromitos,panserraikos,atromitos
+2024-12-01,G1,Greece-SL,2425,Panserraikos,Asteras Tripolis,2.0,1.0,H,1.0,1.0,D,2.8,3.25,2.5,2.85,3.17,2.58,2.78,3.16,2.51,2.15,1.67,2.15,1.67,0.0,2.03,1.83,Panserraikos,Asteras Tripolis,panserraikos,asteras_tripolis
+2024-12-08,G1,Greece-SL,2425,Panserraikos,PAOK,1.0,4.0,A,0.0,2.0,A,9.5,4.75,1.33,8.46,5.1,1.33,8.49,4.99,1.33,1.7,2.1,1.68,2.12,1.5,1.83,2.03,Panserraikos,PAOK,panserraikos,paok
+2024-12-22,G1,Greece-SL,2425,Panserraikos,Panetolikos,0.0,0.0,D,0.0,0.0,D,2.38,3.2,3.1,2.35,3.1,3.25,2.36,3.12,3.06,2.25,1.62,2.25,1.6,-0.25,2.1,1.78,Panserraikos,Panetolikos,panserraikos,panetolikos
+2025-01-12,G1,Greece-SL,2425,Panserraikos,Panathinaikos,2.0,2.0,D,0.0,1.0,A,7.5,4.2,1.44,7.31,4.57,1.41,6.97,4.27,1.42,1.88,1.98,1.84,1.93,1.25,1.83,2.03,Panserraikos,Panathinaikos,panserraikos,panathinaikos
+2025-01-20,G1,Greece-SL,2425,Panserraikos,Lamia,2.0,0.0,H,1.0,0.0,H,1.95,3.3,4.0,1.96,3.27,4.15,1.95,3.21,3.89,2.35,1.57,2.3,1.58,-0.5,2.0,1.85,Panserraikos,Lamia,panserraikos,lamia
+2025-02-01,G1,Greece-SL,2425,Panserraikos,Volos NFC,1.0,1.0,D,1.0,0.0,H,2.15,3.3,3.4,2.17,3.24,3.5,2.18,3.17,3.35,2.2,1.65,2.2,1.64,-0.25,1.88,1.98,Panserraikos,Volos NFC,panserraikos,volos_nfc
+2025-02-16,G1,Greece-SL,2425,Panserraikos,Olympiakos,0.0,4.0,A,0.0,2.0,A,15.0,5.75,1.2,14.16,6.19,1.2,13.94,6.09,1.19,1.73,2.08,1.7,2.11,1.75,1.98,1.88,Panserraikos,Olympiacos,panserraikos,olympiacos
+2025-03-01,G1,Greece-SL,2425,Panserraikos,Athens Kallithea,2.0,1.0,H,1.0,0.0,H,2.5,3.3,2.8,2.51,3.28,2.85,2.49,3.21,2.8,2.05,1.75,2.08,1.72,0.0,1.8,2.05,Panserraikos,Athens Kallithea,panserraikos,athens_kallithea
+2025-03-30,G1,Greece-SL,2425,Panserraikos,Lamia,1.0,1.0,D,0.0,0.0,D,1.82,3.25,4.75,1.87,3.32,4.5,1.87,3.28,4.39,2.4,1.53,2.36,1.56,-0.5,1.88,1.98,Panserraikos,Lamia,panserraikos,lamia
+2025-04-12,G1,Greece-SL,2425,Panserraikos,Athens Kallithea,3.0,1.0,H,1.0,1.0,D,2.55,3.1,2.88,2.48,3.38,2.81,2.47,3.26,2.78,2.05,1.75,2.03,1.76,0.0,1.8,2.05,Panserraikos,Athens Kallithea,panserraikos,athens_kallithea
+2025-04-23,G1,Greece-SL,2425,Panserraikos,Panetolikos,1.0,1.0,D,1.0,0.0,H,2.1,3.1,3.75,2.07,3.19,3.83,2.12,3.13,3.6,2.5,1.5,2.47,1.52,-0.25,1.8,2.05,Panserraikos,Panetolikos,panserraikos,panetolikos
+2025-05-05,G1,Greece-SL,2425,Panserraikos,Volos NFC,3.0,0.0,H,1.0,0.0,H,1.53,3.6,7.5,1.51,4.06,6.57,1.49,3.9,7.0,2.3,1.57,2.21,1.63,-1.0,1.92,1.82,Panserraikos,Volos NFC,panserraikos,volos_nfc
+2025-05-18,G1,Greece-SL,2425,Panserraikos,Levadeiakos,0.0,1.0,A,0.0,1.0,A,2.1,3.3,3.4,2.04,3.78,3.2,2.08,3.53,3.25,1.75,2.05,1.78,2.0,-0.25,1.83,1.98,Panserraikos,Levadeiakos,panserraikos,levadeiakos
+2025-08-30,G1,Greece-SL,2526,Panserraikos,OFI Crete,0.0,1.0,A,0.0,0.0,D,3.0,3.4,2.25,3.09,3.43,2.27,2.9,3.33,2.24,1.98,1.83,1.91,1.8,0.25,1.83,1.98,Panserraikos,OFI Crete,panserraikos,ofi_crete
+2025-09-20,G1,Greece-SL,2526,Panserraikos,Atromitos,1.0,1.0,D,0.0,1.0,A,3.5,3.0,2.2,4.16,2.48,2.42,3.46,2.82,2.23,2.6,1.48,2.63,1.44,0.25,1.9,1.9,Panserraikos,Atromitos,panserraikos,atromitos
+2025-10-04,G1,Greece-SL,2526,Panserraikos,Asteras Tripolis,2.0,1.0,H,1.0,0.0,H,3.0,3.2,2.35,2.97,3.28,2.42,2.79,3.14,2.4,2.1,1.7,2.09,1.67,0.25,1.75,2.05,Panserraikos,Asteras Tripolis,panserraikos,asteras_tripolis
+2025-10-25,G1,Greece-SL,2526,Panserraikos,Larisa,0.0,2.0,A,0.0,2.0,A,2.3,3.2,3.05,2.37,3.4,2.95,2.26,3.22,2.96,2.08,1.73,2.0,1.73,-0.25,2.0,1.8,Panserraikos,Larisa,panserraikos,larisa
+2025-11-02,G1,Greece-SL,2526,Panserraikos,PAOK,0.0,5.0,A,0.0,2.0,A,12.0,5.5,1.22,,,,9.93,5.21,1.26,1.57,2.35,1.59,2.22,1.5,2.0,1.8,Panserraikos,PAOK,panserraikos,paok
+2025-11-23,G1,Greece-SL,2526,Panserraikos,Panathinaikos,0.0,3.0,A,0.0,1.0,A,9.5,4.75,1.33,,,,7.95,4.58,1.34,1.7,2.1,1.71,2.03,1.5,1.78,2.03,Panserraikos,Panathinaikos,panserraikos,panathinaikos
+2025-12-08,G1,Greece-SL,2526,Panserraikos,Panetolikos,0.0,1.0,A,0.0,1.0,A,2.65,3.05,2.65,,,,2.59,3.06,2.63,2.2,1.65,2.17,1.62,0.0,1.9,1.9,Panserraikos,Panetolikos,panserraikos,panetolikos
+2025-12-22,G1,Greece-SL,2526,Panserraikos,Levadeiakos,0.0,2.0,A,0.0,0.0,D,5.75,4.0,1.53,,,,5.24,3.79,1.57,1.85,1.95,1.83,1.86,1.0,1.83,1.98,Panserraikos,Levadeiakos,panserraikos,levadeiakos
+2026-01-17,G1,Greece-SL,2526,Panserraikos,Kifisia,2.0,1.0,H,0.0,1.0,A,3.75,3.3,1.96,,,,3.55,3.26,1.97,2.08,1.73,2.03,1.71,0.5,1.8,2.0,Panserraikos,Kifisia,panserraikos,kifisia
+2026-02-08,G1,Greece-SL,2526,Panserraikos,AEK,0.0,4.0,A,0.0,0.0,D,12.0,7.0,1.17,,,,12.38,6.14,1.18,1.53,2.4,1.53,2.35,1.75,2.03,1.78,Panserraikos,AEK Athens,panserraikos,aek_athens
+2026-02-22,G1,Greece-SL,2526,Panserraikos,Volos NFC,2.0,1.0,H,1.0,1.0,D,4.5,3.5,1.76,,,,4.27,3.33,1.79,2.3,1.6,2.21,1.6,0.5,2.0,1.8,Panserraikos,Volos NFC,panserraikos,volos_nfc
+2026-03-01,G1,Greece-SL,2526,Panserraikos,Olympiakos,1.0,2.0,A,0.0,0.0,D,19.0,9.0,1.09,,,,19.94,7.83,1.09,1.53,2.4,1.5,2.43,2.25,1.95,1.85,Panserraikos,Olympiacos,panserraikos,olympiacos
+2026-03-14,G1,Greece-SL,2526,Panserraikos,Aris,0.0,0.0,D,0.0,0.0,D,5.75,3.5,1.61,,,,5.45,3.47,1.6,2.3,1.6,2.23,1.58,0.75,1.95,1.85,Panserraikos,Aris Thessaloniki,panserraikos,aris_thessaloniki
+2026-04-08,G1,Greece-SL,2526,Panserraikos,Asteras Tripolis,0.0,0.0,D,0.0,0.0,D,2.75,3.2,2.5,,,,2.94,3.04,2.36,2.35,1.57,2.34,1.54,0.0,2.0,1.8,Panserraikos,Asteras Tripolis,panserraikos,asteras_tripolis
+2026-04-22,G1,Greece-SL,2526,Panserraikos,Atromitos,0.0,4.0,A,0.0,3.0,A,2.65,2.85,2.75,,,,2.61,2.9,2.69,2.6,1.48,2.5,1.47,,1.85,1.95,Panserraikos,Atromitos,panserraikos,atromitos
+2026-05-02,G1,Greece-SL,2526,Panserraikos,Larisa,1.0,1.0,D,0.0,0.0,D,2.82,3.0,2.57,,,,2.71,3.03,2.51,2.35,1.57,2.3,1.56,0.0,1.95,1.85,Panserraikos,Larisa,panserraikos,larisa
+2026-05-09,G1,Greece-SL,2526,Panserraikos,Kifisia,1.0,2.0,A,1.0,0.0,H,3.3,3.1,2.25,,,,3.17,3.04,2.22,2.25,1.62,2.23,1.6,0.25,1.85,1.95,Panserraikos,Kifisia,panserraikos,kifisia
+2026-05-17,G1,Greece-SL,2526,Panserraikos,Panetolikos,1.0,1.0,D,0.0,1.0,A,,,,,,,2.53,3.01,2.69,,,2.3,1.55,0.0,,,Panserraikos,Panetolikos,panserraikos,panetolikos

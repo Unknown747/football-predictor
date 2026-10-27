@@ -1,0 +1,70 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-09-12,G1,Greece-SL,2122,Volos NFC,Lamia,2.0,1.0,H,2.0,0.0,H,1.9,3.0,4.0,1.97,3.28,4.17,1.99,3.15,3.96,2.4,1.53,2.45,1.53,-0.5,2.0,1.85,Volos NFC,Lamia,volos_nfc,lamia
+2021-09-22,G1,Greece-SL,2122,AEK,Lamia,1.0,0.0,H,0.0,0.0,D,1.25,5.25,13.0,1.21,6.27,13.49,1.23,5.81,11.71,1.8,2.0,1.79,2.0,-1.5,1.88,1.98,AEK Athens,Lamia,aek_athens,lamia
+2021-10-03,G1,Greece-SL,2122,Ionikos,Lamia,1.0,2.0,A,1.0,1.0,D,2.5,2.9,3.25,2.56,2.93,3.11,2.49,2.95,3.04,2.6,1.47,2.63,1.46,-0.25,2.1,1.77,Ionikos,Lamia,ionikos,lamia
+2021-10-24,G1,Greece-SL,2122,OFI Crete,Lamia,0.0,0.0,D,0.0,0.0,D,2.4,3.2,3.1,2.41,3.01,3.25,2.41,3.04,3.02,2.4,1.53,2.42,1.53,-0.25,2.05,1.8,OFI Crete,Lamia,ofi_crete,lamia
+2021-11-07,G1,Greece-SL,2122,Asteras Tripolis,Lamia,0.0,1.0,A,0.0,1.0,A,1.8,3.4,5.0,1.8,3.47,4.64,1.78,3.35,4.7,2.6,1.47,2.57,1.49,-0.5,1.8,2.05,Asteras Tripolis,Lamia,asteras_tripolis,lamia
+2021-11-27,G1,Greece-SL,2122,Apollon,Lamia,0.0,0.0,D,0.0,0.0,D,2.55,3.1,2.9,2.66,2.99,2.9,2.56,3.01,2.85,2.4,1.53,2.35,1.57,0.0,,,Apollon,Lamia,apollon,lamia
+2021-12-12,G1,Greece-SL,2122,PAOK,Lamia,2.0,1.0,H,1.0,1.0,D,1.2,6.5,17.0,1.17,7.33,13.31,1.18,6.52,13.96,1.66,2.15,1.67,2.15,-1.75,1.83,2.02,PAOK,Lamia,paok,lamia
+2021-12-19,G1,Greece-SL,2122,Olympiakos,Lamia,1.0,0.0,H,1.0,0.0,H,1.15,7.5,15.0,1.13,7.99,19.31,1.16,7.09,16.28,1.57,2.35,1.6,2.29,-2.0,2.0,1.85,Olympiacos,Lamia,olympiacos,lamia
+2022-01-23,G1,Greece-SL,2122,Aris,Lamia,0.0,0.0,D,0.0,0.0,D,1.61,3.6,6.0,1.62,3.39,6.69,1.61,3.5,6.07,2.5,1.5,2.49,1.51,-0.75,1.83,2.02,Aris Thessaloniki,Lamia,aris_thessaloniki,lamia
+2022-02-10,G1,Greece-SL,2122,Atromitos,Lamia,3.0,1.0,H,0.0,1.0,A,2.05,3.1,4.0,2.17,2.93,3.94,2.12,2.99,3.78,2.5,1.5,2.54,1.48,-0.25,1.83,2.02,Atromitos,Lamia,atromitos,lamia
+2022-02-13,G1,Greece-SL,2122,Panathinaikos,Lamia,2.0,0.0,H,1.0,0.0,H,1.4,4.2,10.0,1.37,4.61,8.67,1.38,4.33,8.54,2.15,1.66,2.16,1.67,-1.25,1.98,1.88,Panathinaikos,Lamia,panathinaikos,lamia
+2022-02-16,G1,Greece-SL,2122,Panetolikos,Lamia,1.0,0.0,H,0.0,0.0,D,2.15,3.1,3.6,2.22,3.12,3.51,2.19,3.06,3.47,2.35,1.57,2.47,1.51,-0.25,1.9,1.95,Panetolikos,Lamia,panetolikos,lamia
+2022-02-28,G1,Greece-SL,2122,Giannina,Lamia,1.0,0.0,H,1.0,0.0,H,1.83,3.25,5.0,1.79,3.55,4.57,1.82,3.34,4.54,2.25,1.61,2.31,1.58,-0.5,1.85,2.0,PAS Giannina,Lamia,pas_giannina,lamia
+2022-03-19,G1,Greece-SL,2122,Panetolikos,Lamia,1.0,2.0,A,0.0,1.0,A,2.0,3.3,4.2,2.04,2.94,4.39,2.0,3.11,4.03,2.5,1.5,2.55,1.49,-0.5,2.0,1.85,Panetolikos,Lamia,panetolikos,lamia
+2022-04-09,G1,Greece-SL,2122,Volos NFC,Lamia,3.0,0.0,H,0.0,0.0,D,3.3,3.4,2.2,3.28,3.32,2.23,3.23,3.23,2.22,2.25,1.61,2.24,1.61,0.25,1.95,1.9,Volos NFC,Lamia,volos_nfc,lamia
+2022-05-02,G1,Greece-SL,2122,Asteras Tripolis,Lamia,0.0,2.0,A,0.0,1.0,A,1.9,3.1,4.75,1.93,3.3,4.24,1.92,3.15,4.26,2.6,1.47,2.49,1.5,-0.5,1.93,1.93,Asteras Tripolis,Lamia,asteras_tripolis,lamia
+2022-05-07,G1,Greece-SL,2122,Apollon,Lamia,0.0,0.0,D,0.0,0.0,D,2.75,2.8,3.0,2.63,2.93,3.0,2.69,2.86,2.88,2.7,1.44,2.63,1.45,0.0,,,Apollon,Lamia,apollon,lamia
+2022-08-27,G1,Greece-SL,2223,Giannina,Lamia,1.0,1.0,D,1.0,0.0,H,1.9,3.25,4.5,1.92,3.2,4.7,1.92,3.15,4.29,2.5,1.5,2.47,1.5,-0.5,1.93,1.93,PAS Giannina,Lamia,pas_giannina,lamia
+2022-09-12,G1,Greece-SL,2223,PAOK,Lamia,1.0,0.0,H,1.0,0.0,H,1.22,6.5,13.0,1.18,6.66,14.27,1.21,5.95,13.32,1.9,1.95,1.88,1.88,-1.75,2.02,1.83,PAOK,Lamia,paok,lamia
+2022-09-17,G1,Greece-SL,2223,Atromitos,Lamia,0.0,0.0,D,0.0,0.0,D,1.9,3.4,4.5,1.85,3.44,4.65,1.86,3.3,4.37,2.3,1.6,2.32,1.57,-0.5,1.83,2.02,Atromitos,Lamia,atromitos,lamia
+2022-10-08,G1,Greece-SL,2223,Ionikos,Lamia,1.0,1.0,D,0.0,1.0,A,2.25,3.1,3.4,2.34,3.13,3.35,2.26,3.12,3.26,2.4,1.53,2.39,1.55,-0.25,1.95,1.9,Ionikos,Lamia,ionikos,lamia
+2022-10-24,G1,Greece-SL,2223,OFI Crete,Lamia,0.0,0.0,D,0.0,0.0,D,2.15,3.2,3.4,2.18,3.14,3.59,2.17,3.13,3.4,2.25,1.61,2.33,1.57,-0.25,1.93,1.93,OFI Crete,Lamia,ofi_crete,lamia
+2022-10-30,G1,Greece-SL,2223,Olympiakos,Lamia,2.0,0.0,H,2.0,0.0,H,1.22,6.5,13.0,1.19,6.51,13.85,1.21,5.88,12.62,1.75,2.05,1.75,2.03,-1.75,2.0,1.85,Olympiacos,Lamia,olympiacos,lamia
+2022-11-08,G1,Greece-SL,2223,Aris,Lamia,5.0,0.0,H,3.0,0.0,H,1.53,4.0,7.0,1.53,3.93,7.0,1.52,3.87,6.53,2.1,1.7,2.14,1.67,-1.0,2.0,1.85,Aris Thessaloniki,Lamia,aris_thessaloniki,lamia
+2022-12-21,G1,Greece-SL,2223,AEK,Lamia,3.0,0.0,H,0.0,0.0,D,1.14,7.5,21.0,1.14,8.23,20.54,1.15,7.21,17.65,1.6,2.3,1.6,2.28,-2.0,1.8,2.05,AEK Athens,Lamia,aek_athens,lamia
+2023-01-04,G1,Greece-SL,2223,Asteras Tripolis,Lamia,3.0,0.0,H,3.0,0.0,H,1.75,3.25,5.5,1.76,3.39,5.12,1.76,3.27,5.0,2.5,1.5,2.48,1.5,-0.75,2.02,1.83,Asteras Tripolis,Lamia,asteras_tripolis,lamia
+2023-01-22,G1,Greece-SL,2223,Levadeiakos,Lamia,0.0,0.0,D,0.0,0.0,D,2.25,3.0,3.6,2.28,3.03,3.5,2.24,3.0,3.42,2.6,1.48,2.59,1.48,-0.25,1.95,1.9,Levadeiakos,Lamia,levadeiakos,lamia
+2023-02-05,G1,Greece-SL,2223,Panathinaikos,Lamia,2.0,0.0,H,1.0,0.0,H,1.29,4.75,15.0,1.27,5.04,15.06,1.3,4.66,11.87,2.15,1.67,2.19,1.66,-1.5,2.0,1.85,Panathinaikos,Lamia,panathinaikos,lamia
+2023-02-24,G1,Greece-SL,2223,Volos NFC,Lamia,1.0,1.0,D,0.0,1.0,A,1.91,3.5,3.8,1.94,3.52,4.06,1.9,3.43,4.01,2.2,1.65,2.22,1.63,-0.5,1.93,1.93,Volos NFC,Lamia,volos_nfc,lamia
+2023-03-12,G1,Greece-SL,2223,Panetolikos,Lamia,1.0,1.0,D,0.0,0.0,D,2.2,3.1,3.6,2.24,2.99,3.63,2.2,3.03,3.46,2.5,1.5,2.52,1.49,-0.25,1.85,2.0,Panetolikos,Lamia,panetolikos,lamia
+2023-04-01,G1,Greece-SL,2223,Panetolikos,Lamia,1.0,3.0,A,0.0,0.0,D,2.25,3.3,3.25,2.32,3.0,3.57,2.24,3.04,3.38,2.5,1.5,2.51,1.49,-0.25,1.95,1.9,Panetolikos,Lamia,panetolikos,lamia
+2023-04-08,G1,Greece-SL,2223,OFI Crete,Lamia,4.0,1.0,H,2.0,1.0,H,1.91,3.3,4.33,1.92,3.34,4.42,1.91,3.25,4.13,2.35,1.57,2.36,1.55,-0.5,1.9,1.95,OFI Crete,Lamia,ofi_crete,lamia
+2023-04-29,G1,Greece-SL,2223,Asteras Tripolis,Lamia,0.0,0.0,D,0.0,0.0,D,2.4,2.9,3.4,2.41,3.02,3.36,2.35,2.96,3.25,2.6,1.48,2.62,1.46,-0.25,2.02,1.82,Asteras Tripolis,Lamia,asteras_tripolis,lamia
+2023-05-13,G1,Greece-SL,2223,Ionikos,Lamia,2.0,2.0,D,2.0,0.0,H,2.0,3.2,4.2,2.04,3.28,3.98,2.02,3.19,3.8,2.5,1.5,2.34,1.57,-0.5,2.05,1.75,Ionikos,Lamia,ionikos,lamia
+2023-08-18,G1,Greece-SL,2324,Volos NFC,Lamia,2.0,2.0,D,0.0,0.0,D,2.45,3.1,3.2,2.5,3.01,3.2,2.43,3.01,3.03,2.4,1.53,2.4,1.54,-0.25,2.13,1.75,Volos NFC,Lamia,volos_nfc,lamia
+2023-09-03,G1,Greece-SL,2324,Olympiakos,Lamia,4.0,0.0,H,2.0,0.0,H,1.3,5.5,10.0,1.25,5.66,11.44,1.26,5.43,10.83,1.73,2.08,1.73,2.06,-1.5,1.85,2.0,Olympiacos,Lamia,olympiacos,lamia
+2023-09-23,G1,Greece-SL,2324,Panserraikos,Lamia,2.0,0.0,H,0.0,0.0,D,2.3,3.2,3.3,2.3,3.22,3.33,2.26,3.17,3.21,2.25,1.62,2.26,1.61,-0.25,1.95,1.9,Panserraikos,Lamia,panserraikos,lamia
+2023-09-27,G1,Greece-SL,2324,Kifisia,Lamia,1.0,1.0,D,0.0,0.0,D,2.3,3.1,3.3,2.3,3.33,3.24,2.32,3.19,3.06,2.15,1.67,2.15,1.67,-0.25,2.03,1.83,Kifisia,Lamia,kifisia,lamia
+2023-10-29,G1,Greece-SL,2324,Asteras Tripolis,Lamia,0.0,1.0,A,0.0,0.0,D,1.95,3.2,4.5,1.88,3.33,4.41,1.92,3.24,4.18,2.35,1.57,2.31,1.58,-0.5,1.93,1.93,Asteras Tripolis,Lamia,asteras_tripolis,lamia
+2023-11-12,G1,Greece-SL,2324,AEK,Lamia,3.0,0.0,H,2.0,0.0,H,1.2,6.5,15.0,1.2,6.85,11.31,1.2,6.42,11.87,1.5,2.5,1.49,2.51,-2.0,2.1,1.7,AEK Athens,Lamia,aek_athens,lamia
+2023-12-04,G1,Greece-SL,2324,PAOK,Lamia,3.0,0.0,H,2.0,0.0,H,1.22,5.5,17.0,1.2,6.39,12.52,1.2,6.01,13.59,1.67,2.15,1.66,2.16,-1.75,1.9,1.95,PAOK,Lamia,paok,lamia
+2023-12-20,G1,Greece-SL,2324,Aris,Lamia,2.0,2.0,D,0.0,0.0,D,1.53,3.8,7.0,1.52,4.23,6.44,1.51,4.07,6.21,1.98,1.88,1.9,1.86,-1.0,1.88,1.98,Aris Thessaloniki,Lamia,aris_thessaloniki,lamia
+2024-01-08,G1,Greece-SL,2324,OFI Crete,Lamia,1.0,1.0,D,1.0,1.0,D,1.85,3.3,4.75,1.86,3.4,4.39,1.85,3.39,4.23,2.08,1.73,2.05,1.73,-0.5,1.85,2.0,OFI Crete,Lamia,ofi_crete,lamia
+2024-01-27,G1,Greece-SL,2324,Panetolikos,Lamia,1.0,2.0,A,0.0,1.0,A,2.2,3.3,3.4,2.12,3.14,3.91,2.11,3.19,3.48,2.25,1.62,2.23,1.62,-0.25,1.83,2.03,Panetolikos,Lamia,panetolikos,lamia
+2024-02-04,G1,Greece-SL,2324,Giannina,Lamia,1.0,4.0,A,1.0,2.0,A,2.38,3.1,3.25,2.44,2.79,3.49,2.36,2.99,3.18,2.35,1.57,2.35,1.56,-0.25,2.0,1.85,PAS Giannina,Lamia,pas_giannina,lamia
+2024-02-17,G1,Greece-SL,2324,Panathinaikos,Lamia,2.0,2.0,D,1.0,1.0,D,1.36,5.25,8.0,1.35,5.36,8.12,1.34,4.95,7.99,1.7,2.1,1.72,2.07,-1.5,2.05,1.8,Panathinaikos,Lamia,panathinaikos,lamia
+2024-02-28,G1,Greece-SL,2324,Atromitos,Lamia,3.0,1.0,H,1.0,1.0,D,2.25,3.25,3.3,2.27,3.29,3.32,2.21,3.22,3.22,2.15,1.67,2.14,1.67,-0.25,1.93,1.93,Atromitos,Lamia,atromitos,lamia
+2024-03-31,G1,Greece-SL,2324,Aris,Lamia,3.0,1.0,H,0.0,0.0,D,1.5,4.0,7.5,1.48,4.12,6.63,1.47,4.1,6.51,1.98,1.88,1.93,1.83,-1.0,1.85,2.0,Aris Thessaloniki,Lamia,aris_thessaloniki,lamia
+2024-04-03,G1,Greece-SL,2324,PAOK,Lamia,3.0,1.0,H,1.0,1.0,D,1.14,8.0,19.0,1.14,8.21,17.78,1.13,7.85,16.97,1.44,2.7,1.44,2.67,-2.25,1.98,1.88,PAOK,Lamia,paok,lamia
+2024-04-14,G1,Greece-SL,2324,Panathinaikos,Lamia,3.0,1.0,H,1.0,1.0,D,1.14,7.5,21.0,1.13,8.63,19.81,1.12,7.84,18.29,1.5,2.5,1.48,2.54,-2.25,2.0,1.85,Panathinaikos,Lamia,panathinaikos,lamia
+2024-04-28,G1,Greece-SL,2324,Olympiakos,Lamia,4.0,1.0,H,2.0,0.0,H,1.09,11.0,21.0,1.07,11.9,21.29,1.07,10.41,21.99,1.3,3.5,1.31,3.23,-2.75,2.0,1.8,Olympiacos,Lamia,olympiacos,lamia
+2024-05-19,G1,Greece-SL,2324,AEK,Lamia,3.0,0.0,H,2.0,0.0,H,1.06,12.0,29.0,1.05,14.42,23.61,1.05,12.34,26.1,1.25,4.0,1.23,3.84,-3.0,2.03,1.83,AEK Athens,Lamia,aek_athens,lamia
+2024-08-19,G1,Greece-SL,2425,Panetolikos,Lamia,0.0,1.0,A,0.0,0.0,D,2.15,3.25,3.4,2.13,3.24,3.51,2.1,3.26,3.43,2.1,1.7,2.1,1.7,-0.25,1.85,2.0,Panetolikos,Lamia,panetolikos,lamia
+2024-08-24,G1,Greece-SL,2425,AEK,Lamia,1.0,1.0,D,0.0,1.0,A,1.13,8.5,17.0,1.1,10.02,17.71,1.11,9.16,18.7,1.36,3.1,1.34,3.06,-2.5,2.03,1.83,AEK Athens,Lamia,aek_athens,lamia
+2024-09-22,G1,Greece-SL,2425,Atromitos,Lamia,4.0,2.0,H,1.0,1.0,D,1.85,3.4,4.33,1.89,3.43,4.2,1.87,3.44,4.0,2.03,1.83,1.97,1.81,-0.5,1.88,1.98,Atromitos,Lamia,atromitos,lamia
+2024-10-05,G1,Greece-SL,2425,Aris,Lamia,2.0,0.0,H,2.0,0.0,H,1.48,4.1,7.0,1.5,4.22,6.3,1.49,4.2,6.24,1.85,2.0,1.82,1.95,-1.0,1.83,2.03,Aris Thessaloniki,Lamia,aris_thessaloniki,lamia
+2024-10-26,G1,Greece-SL,2425,Levadeiakos,Lamia,2.0,2.0,D,1.0,1.0,D,1.95,3.2,4.0,1.99,3.11,4.27,1.97,3.18,4.0,2.3,1.6,2.34,1.57,-0.5,2.0,1.85,Levadeiakos,Lamia,levadeiakos,lamia
+2024-11-10,G1,Greece-SL,2425,Panathinaikos,Lamia,1.0,0.0,H,0.0,0.0,D,1.3,5.0,11.0,1.31,5.68,8.09,1.29,5.37,9.01,1.7,2.1,1.67,2.11,-1.5,1.93,1.93,Panathinaikos,Lamia,panathinaikos,lamia
+2024-11-30,G1,Greece-SL,2425,Volos NFC,Lamia,0.0,0.0,D,0.0,0.0,D,1.95,3.25,4.1,1.99,3.29,4.0,1.96,3.25,3.94,2.25,1.62,2.23,1.62,-0.5,1.98,1.88,Volos NFC,Lamia,volos_nfc,lamia
+2024-12-21,G1,Greece-SL,2425,Olympiakos,Lamia,1.0,0.0,H,0.0,0.0,D,1.14,7.5,19.0,1.13,8.38,17.61,1.14,7.44,17.42,1.57,2.35,1.56,2.33,-2.0,1.83,2.03,Olympiacos,Lamia,olympiacos,lamia
+2025-01-04,G1,Greece-SL,2425,Athens Kallithea,Lamia,2.0,1.0,H,1.0,0.0,H,2.25,3.2,3.25,2.31,3.09,3.34,2.28,3.08,3.21,2.35,1.57,2.38,1.54,-0.25,1.98,1.88,Athens Kallithea,Lamia,athens_kallithea,lamia
+2025-01-20,G1,Greece-SL,2425,Panserraikos,Lamia,2.0,0.0,H,1.0,0.0,H,1.95,3.3,4.0,1.96,3.27,4.15,1.95,3.21,3.89,2.35,1.57,2.3,1.58,-0.5,2.0,1.85,Panserraikos,Lamia,panserraikos,lamia
+2025-02-03,G1,Greece-SL,2425,Asteras Tripolis,Lamia,1.0,0.0,H,1.0,0.0,H,1.67,3.5,5.5,1.63,3.58,5.89,1.65,3.53,5.58,2.4,1.53,2.39,1.54,-0.75,1.9,1.95,Asteras Tripolis,Lamia,asteras_tripolis,lamia
+2025-02-16,G1,Greece-SL,2425,PAOK,Lamia,7.0,0.0,H,2.0,0.0,H,1.14,7.0,19.0,1.14,7.95,16.6,1.14,7.35,16.24,1.53,2.4,1.51,2.44,-2.0,1.8,2.05,PAOK,Lamia,paok,lamia
+2025-03-02,G1,Greece-SL,2425,OFI Crete,Lamia,3.0,0.0,H,1.0,0.0,H,1.53,4.0,6.25,1.55,3.88,6.26,1.54,3.88,6.04,2.07,1.69,2.05,1.74,-1.0,1.98,1.88,OFI Crete,Lamia,ofi_crete,lamia
+2025-03-30,G1,Greece-SL,2425,Panserraikos,Lamia,1.0,1.0,D,0.0,0.0,D,1.82,3.25,4.75,1.87,3.32,4.5,1.87,3.28,4.39,2.4,1.53,2.36,1.56,-0.5,1.88,1.98,Panserraikos,Lamia,panserraikos,lamia
+2025-04-12,G1,Greece-SL,2425,Panetolikos,Lamia,1.0,0.0,H,1.0,0.0,H,1.83,3.2,4.75,1.82,3.17,5.18,1.8,3.21,4.94,2.6,1.48,2.59,1.47,-0.5,1.85,2.0,Panetolikos,Lamia,panetolikos,lamia
+2025-04-28,G1,Greece-SL,2425,Levadeiakos,Lamia,0.0,0.0,D,0.0,0.0,D,1.38,4.33,8.5,1.38,4.39,9.08,1.39,4.27,8.63,2.1,1.7,2.12,1.69,-1.25,1.98,1.88,Levadeiakos,Lamia,levadeiakos,lamia
+2025-05-14,G1,Greece-SL,2425,Volos NFC,Lamia,3.0,0.0,H,3.0,0.0,H,1.2,6.5,15.0,1.16,6.35,13.65,1.18,6.32,14.95,1.73,2.08,1.7,2.11,-1.75,1.85,2.0,Volos NFC,Lamia,volos_nfc,lamia

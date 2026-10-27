@@ -1,0 +1,77 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-06,EC,England-Conference,2223,Southend,Boreham Wood,0.0,1.0,A,0.0,1.0,A,2.4,3.2,2.75,2.54,3.05,3.11,2.45,3.08,2.85,2.2,1.65,2.24,1.59,0.0,1.77,2.02,Southend United,Boreham Wood,southend_united,boreham_wood
+2022-08-20,EC,England-Conference,2223,Torquay,Boreham Wood,0.0,1.0,A,0.0,1.0,A,2.25,3.5,2.9,2.49,3.44,2.85,2.32,3.33,2.85,1.95,1.85,1.98,1.76,-0.25,1.98,1.83,Torquay,Boreham Wood,torquay,boreham_wood
+2022-08-29,EC,England-Conference,2223,Dorking,Boreham Wood,1.0,4.0,A,1.0,0.0,H,2.75,3.5,2.37,2.8,3.67,2.41,2.7,3.48,2.36,1.8,2.0,1.71,2.05,0.25,1.75,2.05,Dorking,Boreham Wood,dorking,boreham_wood
+2022-09-03,EC,England-Conference,2223,Scunthorpe,Boreham Wood,0.0,2.0,A,0.0,0.0,D,3.1,3.4,2.1,3.2,3.46,2.26,3.05,3.34,2.19,1.98,1.83,1.92,1.81,0.25,1.95,1.85,Scunthorpe United,Boreham Wood,scunthorpe_united,boreham_wood
+2022-09-17,EC,England-Conference,2223,Gateshead,Boreham Wood,1.0,1.0,D,1.0,0.0,H,2.5,3.4,2.5,2.6,3.5,2.68,2.57,3.35,2.52,1.88,1.93,1.88,1.85,0.0,1.9,1.9,Gateshead,Boreham Wood,gateshead,boreham_wood
+2022-09-24,EC,England-Conference,2223,Yeovil,Boreham Wood,1.0,1.0,D,1.0,1.0,D,3.25,3.3,2.2,3.27,3.31,2.29,3.11,3.23,2.21,2.1,1.7,2.07,1.69,0.25,1.88,1.93,Yeovil Town,Boreham Wood,yeovil_town,boreham_wood
+2022-10-08,EC,England-Conference,2223,Wealdstone,Boreham Wood,1.0,2.0,A,0.0,0.0,D,2.8,3.3,2.25,3.07,3.46,2.33,2.93,3.27,2.29,2.05,1.75,2.01,1.74,0.25,1.8,2.0,Wealdstone,Boreham Wood,wealdstone,boreham_wood
+2022-10-25,EC,England-Conference,2223,Dag and Red,Boreham Wood,1.0,1.0,D,0.0,0.0,D,3.1,3.4,2.15,3.13,3.68,2.21,2.98,3.44,2.19,1.83,1.98,1.82,1.92,0.25,1.88,1.93,Dag and Red,Boreham Wood,dag_and_red,boreham_wood
+2022-10-29,EC,England-Conference,2223,Chesterfield,Boreham Wood,2.0,0.0,H,1.0,0.0,H,1.8,3.4,4.0,1.85,3.62,4.11,1.83,3.52,3.84,1.88,1.93,1.86,1.86,-0.5,1.83,1.98,Chesterfield,Boreham Wood,chesterfield,boreham_wood
+2022-11-19,EC,England-Conference,2223,Halifax,Boreham Wood,1.0,0.0,H,0.0,0.0,D,2.75,3.2,2.5,2.85,3.34,2.54,2.75,3.23,2.44,2.0,1.8,1.96,1.78,0.0,2.02,1.77,Halifax,Boreham Wood,halifax,boreham_wood
+2022-12-03,EC,England-Conference,2223,Eastleigh,Boreham Wood,1.0,0.0,H,1.0,0.0,H,2.8,3.4,2.4,2.89,3.25,2.56,2.76,3.15,2.47,2.15,1.66,2.14,1.64,0.0,2.05,1.75,Eastleigh,Boreham Wood,eastleigh,boreham_wood
+2022-12-26,EC,England-Conference,2223,Barnet,Boreham Wood,2.0,1.0,H,0.0,0.0,D,2.7,3.4,2.5,2.8,3.37,2.49,2.72,3.3,2.41,2.0,1.8,1.96,1.8,0.0,1.98,1.83,Barnet,Boreham Wood,barnet,boreham_wood
+2023-01-10,EC,England-Conference,2223,Notts County,Boreham Wood,1.0,1.0,D,0.0,1.0,A,1.36,4.75,9.0,1.36,5.08,8.55,1.33,4.86,8.07,1.6,2.3,1.65,2.17,-1.5,2.0,1.8,Notts County,Boreham Wood,notts_county,boreham_wood
+2023-01-28,EC,England-Conference,2223,Altrincham,Boreham Wood,0.0,2.0,A,0.0,1.0,A,2.25,3.25,3.1,2.27,3.38,3.25,2.24,3.26,3.04,1.98,1.83,1.94,1.8,-0.25,1.95,1.85,Altrincham,Boreham Wood,altrincham,boreham_wood
+2023-01-31,EC,England-Conference,2223,Aldershot,Boreham Wood,0.0,1.0,A,0.0,0.0,D,3.1,3.1,2.2,3.28,3.22,2.33,3.11,3.14,2.25,2.25,1.62,2.22,1.61,0.25,1.83,1.98,Aldershot,Boreham Wood,aldershot,boreham_wood
+2023-02-11,EC,England-Conference,2223,Woking,Boreham Wood,2.0,2.0,D,0.0,1.0,A,1.95,3.25,3.6,2.07,3.26,3.92,1.99,3.2,3.67,2.2,1.65,2.19,1.62,-0.5,2.02,1.77,Woking,Boreham Wood,woking,boreham_wood
+2023-02-21,EC,England-Conference,2223,York,Boreham Wood,1.0,1.0,D,1.0,1.0,D,3.3,3.3,2.05,3.44,3.36,2.19,3.31,3.23,2.12,2.2,1.65,2.18,1.63,0.25,2.0,1.8,York,Boreham Wood,york,boreham_wood
+2023-03-04,EC,England-Conference,2223,Oldham,Boreham Wood,0.0,2.0,A,0.0,0.0,D,2.63,3.2,2.4,3.18,3.25,2.37,2.93,3.19,2.31,2.0,1.8,2.05,1.72,0.25,1.7,2.1,Oldham,Boreham Wood,oldham,boreham_wood
+2023-03-07,EC,England-Conference,2223,Maidenhead,Boreham Wood,0.0,1.0,A,0.0,0.0,D,2.9,3.2,2.25,3.44,2.96,2.4,3.13,3.06,2.28,2.15,1.67,2.16,1.64,0.25,1.85,1.95,Maidenhead,Boreham Wood,maidenhead,boreham_wood
+2023-03-18,EC,England-Conference,2223,Solihull,Boreham Wood,2.0,0.0,H,0.0,0.0,D,3.0,3.1,2.3,3.06,3.33,2.4,2.91,3.21,2.31,2.05,1.75,2.02,1.73,0.25,1.77,2.02,Solihull,Boreham Wood,solihull,boreham_wood
+2023-04-01,EC,England-Conference,2223,Maidstone,Boreham Wood,0.0,4.0,A,0.0,2.0,A,6.0,3.8,1.57,5.38,4.02,1.63,5.12,3.79,1.59,1.95,1.85,1.92,1.81,0.75,2.02,1.77,Maidstone,Boreham Wood,maidstone,boreham_wood
+2023-04-10,EC,England-Conference,2223,Bromley,Boreham Wood,1.0,1.0,D,1.0,1.0,D,2.88,3.1,2.6,2.9,3.23,2.57,2.76,3.14,2.48,2.1,1.7,2.11,1.67,0.0,2.05,1.75,Bromley,Boreham Wood,bromley,boreham_wood
+2023-04-22,EC,England-Conference,2223,Wrexham,Boreham Wood,3.0,1.0,H,1.0,1.0,D,1.4,4.0,6.5,1.44,4.52,7.47,1.42,4.3,6.76,1.75,2.05,1.8,1.93,-1.25,2.05,1.75,Wrexham,Boreham Wood,wrexham,boreham_wood
+2023-08-05,EC,England-Conference,2324,Gateshead,Boreham Wood,2.0,2.0,D,2.0,0.0,H,2.1,3.3,3.5,2.12,3.37,3.63,2.05,3.3,3.41,2.03,1.78,1.99,1.75,-0.25,1.78,2.03,Gateshead,Boreham Wood,gateshead,boreham_wood
+2023-08-19,EC,England-Conference,2324,Altrincham,Boreham Wood,1.0,1.0,D,1.0,0.0,H,2.38,3.2,2.7,2.44,3.45,2.91,2.38,3.31,2.75,1.88,1.93,1.84,1.89,0.0,1.78,2.03,Altrincham,Boreham Wood,altrincham,boreham_wood
+2023-08-28,EC,England-Conference,2324,Oxford City,Boreham Wood,4.0,0.0,H,0.0,0.0,D,3.75,3.4,2.0,3.48,3.47,2.13,3.37,3.33,2.07,2.03,1.78,2.01,1.74,0.25,2.05,1.75,Oxford City,Boreham Wood,oxford_city,boreham_wood
+2023-09-09,EC,England-Conference,2324,York,Boreham Wood,2.0,2.0,D,1.0,0.0,H,2.4,3.25,2.63,2.58,3.34,2.81,2.47,3.23,2.69,1.98,1.83,1.98,1.76,0.0,1.8,2.0,York,Boreham Wood,york,boreham_wood
+2023-09-16,EC,England-Conference,2324,Maidenhead,Boreham Wood,0.0,1.0,A,0.0,0.0,D,2.75,3.2,2.38,2.95,3.21,2.5,2.86,3.13,2.41,2.25,1.62,2.2,1.61,0.0,2.05,1.75,Maidenhead,Boreham Wood,maidenhead,boreham_wood
+2023-09-26,EC,England-Conference,2324,Fylde,Boreham Wood,2.0,2.0,D,1.0,1.0,D,2.25,3.25,2.9,2.43,3.44,2.93,2.29,3.32,2.89,1.93,1.88,1.89,1.84,-0.25,2.0,1.8,Fylde,Boreham Wood,fylde,boreham_wood
+2023-09-30,EC,England-Conference,2324,Ebbsfleet,Boreham Wood,3.0,1.0,H,2.0,1.0,H,2.45,3.6,2.45,2.56,3.65,2.63,2.46,3.46,2.56,1.75,2.05,1.74,1.99,0.0,1.88,1.93,Ebbsfleet,Boreham Wood,ebbsfleet,boreham_wood
+2023-10-21,EC,England-Conference,2324,Wealdstone,Boreham Wood,1.0,1.0,D,1.0,1.0,D,2.3,3.25,2.88,2.6,3.35,2.77,2.42,3.26,2.68,1.9,1.9,1.86,1.86,0.0,1.73,2.08,Wealdstone,Boreham Wood,wealdstone,boreham_wood
+2023-10-24,EC,England-Conference,2324,Dag and Red,Boreham Wood,1.0,3.0,A,1.0,1.0,D,2.4,3.25,2.9,2.44,3.21,3.09,2.36,3.11,2.94,2.15,1.67,2.16,1.63,-0.25,2.03,1.78,Dag and Red,Boreham Wood,dag_and_red,boreham_wood
+2023-11-18,EC,England-Conference,2324,Dorking,Boreham Wood,2.0,1.0,H,1.0,0.0,H,4.2,3.6,1.83,3.83,3.79,1.92,3.68,3.65,1.85,1.67,2.15,1.65,2.13,0.5,1.95,1.85,Dorking,Boreham Wood,dorking,boreham_wood
+2023-11-21,EC,England-Conference,2324,Eastleigh,Boreham Wood,2.0,1.0,H,1.0,1.0,D,2.55,3.2,2.6,2.66,3.55,2.59,2.53,3.37,2.53,1.8,2.0,1.81,1.92,0.0,1.9,1.9,Eastleigh,Boreham Wood,eastleigh,boreham_wood
+2023-12-23,EC,England-Conference,2324,Barnet,Boreham Wood,6.0,0.0,H,3.0,0.0,H,1.83,3.6,3.5,1.93,4.0,3.59,1.86,3.67,3.59,1.73,2.08,1.72,2.02,-0.5,1.88,1.93,Barnet,Boreham Wood,barnet,boreham_wood
+2023-12-30,EC,England-Conference,2324,Kidderminster,Boreham Wood,1.0,2.0,A,1.0,2.0,A,2.55,3.0,2.63,2.53,3.39,2.82,2.5,3.15,2.7,2.15,1.67,2.14,1.65,0.0,1.88,1.93,Kidderminster,Boreham Wood,kidderminster,boreham_wood
+2024-01-20,EC,England-Conference,2324,Bromley,Boreham Wood,2.0,2.0,D,1.0,1.0,D,1.75,3.6,4.0,1.84,3.72,4.25,1.8,3.53,3.99,1.9,1.9,1.85,1.87,-0.5,1.8,2.0,Bromley,Boreham Wood,bromley,boreham_wood
+2024-02-03,EC,England-Conference,2324,Woking,Boreham Wood,0.0,1.0,A,0.0,1.0,A,2.2,3.5,2.8,2.23,3.5,3.23,2.2,3.34,2.97,1.93,1.88,1.9,1.83,-0.25,1.98,1.83,Woking,Boreham Wood,woking,boreham_wood
+2024-02-13,EC,England-Conference,2324,Oldham,Boreham Wood,2.0,1.0,H,0.0,1.0,A,1.8,3.4,4.0,1.85,3.7,4.25,1.84,3.52,3.89,1.88,1.93,1.84,1.9,-0.5,1.85,1.95,Oldham,Boreham Wood,oldham,boreham_wood
+2024-02-17,EC,England-Conference,2324,Hartlepool,Boreham Wood,3.0,1.0,H,1.0,1.0,D,2.63,3.4,2.6,2.46,3.77,2.68,2.43,3.51,2.56,1.75,2.05,1.74,2.0,0.0,1.93,1.88,Hartlepool United,Boreham Wood,hartlepool_united,boreham_wood
+2024-03-09,EC,England-Conference,2324,Halifax,Boreham Wood,2.0,1.0,H,1.0,0.0,H,2.25,3.4,2.8,2.34,3.3,3.19,2.26,3.21,3.03,2.1,1.7,2.09,1.69,-0.25,1.98,1.83,Halifax,Boreham Wood,halifax,boreham_wood
+2024-03-12,EC,England-Conference,2324,Solihull,Boreham Wood,2.0,0.0,H,0.0,0.0,D,2.3,3.5,2.8,2.32,3.45,3.09,2.27,3.34,2.92,1.85,1.95,1.84,1.91,-0.25,2.03,1.78,Solihull,Boreham Wood,solihull,boreham_wood
+2024-03-23,EC,England-Conference,2324,Chesterfield,Boreham Wood,3.0,0.0,H,1.0,0.0,H,1.4,4.5,6.0,1.47,4.39,7.06,1.41,4.46,6.6,1.57,2.35,1.55,2.34,-1.25,1.9,1.9,Chesterfield,Boreham Wood,chesterfield,boreham_wood
+2024-04-01,EC,England-Conference,2324,Southend,Boreham Wood,4.0,2.0,H,3.0,0.0,H,1.57,3.8,4.75,1.62,4.1,5.19,1.59,3.88,4.96,1.9,1.9,1.89,1.85,-0.75,1.75,2.05,Southend United,Boreham Wood,southend_united,boreham_wood
+2024-04-13,EC,England-Conference,2324,Aldershot,Boreham Wood,0.0,3.0,A,0.0,2.0,A,2.0,3.6,3.2,2.11,3.92,3.11,1.98,3.71,3.23,1.67,2.15,1.66,2.15,-0.25,1.78,2.03,Aldershot,Boreham Wood,aldershot,boreham_wood
+2024-04-16,EC,England-Conference,2324,Rochdale,Boreham Wood,0.0,0.0,D,0.0,0.0,D,2.9,3.4,2.05,3.01,3.82,2.19,2.95,3.57,2.14,1.73,2.08,1.71,2.05,0.25,1.93,1.88,Rochdale,Boreham Wood,rochdale,boreham_wood
+2025-08-16,EC,England-Conference,2526,Carlisle,Boreham Wood,3.0,3.0,D,0.0,1.0,A,1.6,3.7,4.75,1.65,4.26,4.36,1.61,3.79,4.59,1.75,2.05,1.73,1.98,-0.75,1.8,2.0,Carlisle United,Boreham Wood,carlisle_united,boreham_wood
+2025-08-30,EC,England-Conference,2526,Hartlepool,Boreham Wood,0.0,0.0,D,0.0,0.0,D,1.73,3.9,3.9,1.76,3.69,4.29,1.76,3.56,3.95,1.9,1.9,1.8,1.89,-0.75,2.0,1.8,Hartlepool United,Boreham Wood,hartlepool_united,boreham_wood
+2025-09-03,EC,England-Conference,2526,Sutton,Boreham Wood,3.0,4.0,A,2.0,1.0,H,2.55,3.2,2.55,2.69,3.33,2.55,2.46,3.26,2.56,1.9,1.9,1.82,1.86,0.0,1.93,1.88,Sutton United,Boreham Wood,sutton_united,boreham_wood
+2025-09-20,EC,England-Conference,2526,Boston Utd,Boreham Wood,0.0,2.0,A,0.0,0.0,D,3.5,3.4,1.95,3.59,3.68,1.93,3.36,3.39,1.96,1.85,1.95,1.81,1.89,0.5,1.83,1.98,Boston Utd,Boreham Wood,boston_utd,boreham_wood
+2025-09-24,EC,England-Conference,2526,Scunthorpe,Boreham Wood,1.0,1.0,D,0.0,1.0,A,2.3,3.3,2.7,2.38,3.47,2.8,2.34,3.25,2.71,1.93,1.88,1.84,1.85,0.0,1.75,2.05,Scunthorpe United,Boreham Wood,scunthorpe_united,boreham_wood
+2025-10-04,EC,England-Conference,2526,Yeovil,Boreham Wood,0.0,3.0,A,0.0,2.0,A,2.9,3.4,2.25,3.05,3.37,2.27,2.92,3.23,2.24,1.98,1.83,1.91,1.79,0.25,1.85,1.95,Yeovil Town,Boreham Wood,yeovil_town,boreham_wood
+2025-10-21,EC,England-Conference,2526,York,Boreham Wood,2.0,2.0,D,1.0,1.0,D,1.8,3.8,3.6,1.85,3.94,3.78,1.78,3.71,3.76,1.6,2.3,1.6,2.2,-0.5,1.8,2.0,York,Boreham Wood,york,boreham_wood
+2025-10-25,EC,England-Conference,2526,Forest Green,Boreham Wood,2.0,1.0,H,1.0,0.0,H,2.0,3.5,3.2,2.03,3.65,3.32,2.0,3.39,3.32,1.98,1.83,1.91,1.79,-0.5,2.03,1.78,Forest Green Rovers,Boreham Wood,forest_green_rovers,boreham_wood
+2025-11-08,EC,England-Conference,2526,Brackley Town,Boreham Wood,1.0,3.0,A,0.0,1.0,A,3.5,3.4,1.95,,,,3.51,3.28,1.96,2.05,1.75,2.0,1.72,0.5,1.8,2.0,Brackley Town,Boreham Wood,brackley_town,boreham_wood
+2025-11-22,EC,England-Conference,2526,Gateshead,Boreham Wood,0.0,3.0,A,0.0,1.0,A,5.0,4.0,1.53,,,,4.75,4.29,1.52,1.44,2.7,1.44,2.6,1.0,1.9,1.9,Gateshead,Boreham Wood,gateshead,boreham_wood
+2025-12-26,EC,England-Conference,2526,Wealdstone,Boreham Wood,0.0,4.0,A,0.0,2.0,A,4.2,3.8,1.73,,,,3.94,3.65,1.74,1.62,2.25,1.62,2.15,0.75,1.85,1.95,Wealdstone,Boreham Wood,wealdstone,boreham_wood
+2026-01-17,EC,England-Conference,2526,Braintree Town,Boreham Wood,0.0,3.0,A,0.0,2.0,A,5.75,3.9,1.5,,,,5.29,4.0,1.51,1.67,2.15,1.65,2.1,1.0,1.93,1.88,Braintree Town,Boreham Wood,braintree_town,boreham_wood
+2026-01-24,EC,England-Conference,2526,Altrincham,Boreham Wood,3.0,1.0,H,1.0,0.0,H,5.75,4.0,1.5,,,,5.42,4.08,1.5,1.67,2.15,1.63,2.16,1.0,1.95,1.85,Altrincham,Boreham Wood,altrincham,boreham_wood
+2026-02-03,EC,England-Conference,2526,Rochdale,Boreham Wood,4.0,1.0,H,2.0,0.0,H,1.85,3.5,3.75,,,,1.86,3.4,3.71,1.83,1.98,1.79,1.91,-0.5,1.93,1.88,Rochdale,Boreham Wood,rochdale,boreham_wood
+2026-02-14,EC,England-Conference,2526,Eastleigh,Boreham Wood,2.0,2.0,D,1.0,2.0,A,4.33,3.6,1.7,,,,4.21,3.67,1.7,1.7,2.1,1.68,2.05,0.75,1.88,1.93,Eastleigh,Boreham Wood,eastleigh,boreham_wood
+2026-02-24,EC,England-Conference,2526,Southend,Boreham Wood,0.0,2.0,A,0.0,1.0,A,2.0,3.6,3.2,,,,2.04,3.47,3.12,1.67,2.15,1.64,2.12,-0.25,1.8,2.0,Southend United,Boreham Wood,southend_united,boreham_wood
+2026-02-28,EC,England-Conference,2526,Tamworth,Boreham Wood,3.0,2.0,H,1.0,0.0,H,3.9,3.5,1.8,,,,3.95,3.66,1.74,1.62,2.25,1.6,2.19,0.75,1.85,1.95,Tamworth,Boreham Wood,tamworth,boreham_wood
+2026-03-10,EC,England-Conference,2526,Woking,Boreham Wood,2.0,2.0,D,0.0,1.0,A,3.3,3.7,1.95,,,,3.24,3.53,1.96,1.65,2.2,1.66,2.1,0.5,1.83,1.98,Woking,Boreham Wood,woking,boreham_wood
+2026-03-14,EC,England-Conference,2526,Halifax,Boreham Wood,3.0,2.0,H,2.0,1.0,H,3.1,3.6,2.0,,,,3.11,3.48,2.02,1.67,2.15,1.63,2.14,0.25,1.98,1.83,Halifax,Boreham Wood,halifax,boreham_wood
+2026-03-24,EC,England-Conference,2526,Aldershot,Boreham Wood,1.0,2.0,A,1.0,2.0,A,3.25,3.8,1.91,,,,3.15,3.77,1.93,1.44,2.7,1.41,2.69,0.5,1.85,1.95,Aldershot,Boreham Wood,aldershot,boreham_wood
+2026-03-28,EC,England-Conference,2526,Truro,Boreham Wood,0.0,0.0,D,0.0,0.0,D,4.5,3.9,1.62,,,,4.45,3.92,1.6,1.57,2.35,1.54,2.32,0.75,1.98,1.83,Truro,Boreham Wood,truro,boreham_wood
+2026-04-06,EC,England-Conference,2526,Solihull,Boreham Wood,4.0,1.0,H,2.0,0.0,H,3.4,3.7,1.9,,,,3.34,3.75,1.88,1.48,2.6,1.46,2.55,0.5,1.9,1.9,Solihull,Boreham Wood,solihull,boreham_wood
+2026-04-18,EC,England-Conference,2526,Morecambe,Boreham Wood,0.0,3.0,A,0.0,1.0,A,5.0,4.2,1.53,,,,4.65,4.42,1.52,1.33,3.4,1.32,3.15,1.0,1.95,1.85,Morecambe,Boreham Wood,morecambe,boreham_wood
+2026-08-15,EC,England-Conference,2627,Halifax,Boreham Wood,1.0,3.0,A,0.0,1.0,A,3.2,3.6,2.0,,,,3.13,3.53,2.0,1.7,2.1,1.68,2.06,0.25,2.03,1.78,Halifax,Boreham Wood,halifax,boreham_wood
+2026-08-22,EC,England-Conference,2627,Forest Green,Boreham Wood,0.0,3.0,A,0.0,2.0,A,2.25,3.6,2.75,,,,2.27,3.6,2.61,1.53,2.4,1.49,2.46,0.0,1.7,2.1,Forest Green Rovers,Boreham Wood,forest_green_rovers,boreham_wood
+2026-08-31,EC,England-Conference,2627,Worthing,Boreham Wood,2.0,3.0,A,1.0,0.0,H,4.2,4.2,1.62,,,,4.23,4.13,1.63,1.48,2.6,1.47,2.52,0.75,2.03,1.78,Worthing,Boreham Wood,worthing,boreham_wood
+2026-09-12,EC,England-Conference,2627,Eastleigh,Boreham Wood,1.0,1.0,D,0.0,0.0,D,5.0,4.2,1.53,,,,5.12,4.2,1.5,1.53,2.4,1.52,2.38,1.0,1.95,1.85,Eastleigh,Boreham Wood,eastleigh,boreham_wood
+2026-09-16,EC,England-Conference,2627,Scunthorpe,Boreham Wood,1.0,2.0,A,0.0,0.0,D,3.9,4.0,1.7,,,,3.82,3.94,1.71,1.48,2.6,1.45,2.59,0.75,1.88,1.93,Scunthorpe United,Boreham Wood,scunthorpe_united,boreham_wood
+2026-09-26,EC,England-Conference,2627,Solihull,Boreham Wood,0.0,3.0,A,0.0,1.0,A,4.5,4.2,1.55,,,,4.41,4.29,1.56,1.36,3.1,1.33,3.05,1.0,1.85,1.95,Solihull,Boreham Wood,solihull,boreham_wood
+2026-10-09,EC,England-Conference,2627,Sutton,Boreham Wood,0.0,2.0,A,0.0,0.0,D,4.5,3.8,1.65,,,,4.36,3.69,1.67,1.8,2.0,1.73,1.99,0.75,1.98,1.83,Sutton United,Boreham Wood,sutton_united,boreham_wood

@@ -1,0 +1,5 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2026-08-08,B1,Belgium-JPL,2627,St Truiden,Lommel SK,1.0,1.0,D,0.0,1.0,A,1.6,3.75,5.25,,,,1.59,3.86,5.1,1.8,2.0,1.78,1.94,-0.75,1.78,2.03,Sint-Truiden,Lommel SK,sint_truiden,lommel_sk
+2026-08-29,B1,Belgium-JPL,2627,Cercle Brugge,Lommel SK,0.0,1.0,A,0.0,0.0,D,1.5,4.33,5.25,,,,1.5,4.38,5.38,1.5,2.5,1.49,2.5,-1.0,1.85,1.95,Cercle Brugge,Lommel SK,cercle_brugge,lommel_sk
+2026-09-12,B1,Belgium-JPL,2627,St. Gilloise,Lommel SK,5.0,0.0,H,2.0,0.0,H,1.2,5.5,10.0,,,,1.2,6.16,10.85,1.44,2.7,1.42,2.69,-1.75,1.8,2.0,St. Gilloise,Lommel SK,st_gilloise,lommel_sk
+2026-10-09,B1,Belgium-JPL,2627,Beveren,Lommel SK,1.0,3.0,A,1.0,1.0,D,1.75,3.8,3.9,,,,1.8,3.79,3.86,1.57,2.35,1.55,2.33,-0.75,2.03,1.78,Beveren,Lommel SK,beveren,lommel_sk

@@ -1,0 +1,96 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,T1,Turkey-SL,2122,Hatayspor,Kasimpasa,1.0,1.0,D,0.0,1.0,A,2.1,3.6,2.9,2.12,3.55,3.57,2.1,3.5,3.35,1.8,2.0,1.84,1.97,-0.25,1.83,2.02,Hatayspor,Kasimpasa,hatayspor,kasimpasa
+2021-09-11,T1,Turkey-SL,2122,Kayserispor,Kasimpasa,2.0,0.0,H,1.0,0.0,H,2.6,3.2,2.6,2.73,3.3,2.75,2.66,3.23,2.66,2.0,1.8,2.01,1.81,0.0,1.93,1.93,Kayserispor,Kasimpasa,kayserispor,kasimpasa
+2021-09-23,T1,Turkey-SL,2122,Alanyaspor,Kasimpasa,2.0,0.0,H,0.0,0.0,D,1.9,3.6,3.8,1.93,3.86,3.97,1.9,3.67,3.79,1.8,2.0,1.84,1.97,-0.5,1.9,1.95,Alanyaspor,Kasimpasa,alanyaspor,kasimpasa
+2021-10-03,T1,Turkey-SL,2122,Fenerbahce,Kasimpasa,2.0,1.0,H,2.0,0.0,H,1.45,4.2,6.5,1.51,4.49,6.82,1.49,4.36,6.28,1.65,2.2,1.65,2.24,-1.0,1.83,2.02,Fenerbahce,Kasimpasa,fenerbahce,kasimpasa
+2021-10-23,T1,Turkey-SL,2122,Rizespor,Kasimpasa,2.0,1.0,H,1.0,0.0,H,2.87,3.4,2.3,2.95,3.5,2.48,2.84,3.36,2.42,1.9,1.9,1.9,1.9,0.0,2.1,1.7,Caykur Rizespor,Kasimpasa,caykur_rizespor,kasimpasa
+2021-11-05,T1,Turkey-SL,2122,Gaziantep,Kasimpasa,2.0,0.0,H,1.0,0.0,H,2.2,3.4,3.2,2.41,3.44,3.11,2.33,3.36,2.99,1.8,2.0,1.83,1.97,-0.25,2.05,1.8,Gaziantep,Kasimpasa,gaziantep,kasimpasa
+2021-11-26,T1,Turkey-SL,2122,Ad. Demirspor,Kasimpasa,0.0,0.0,D,0.0,0.0,D,1.75,3.8,4.33,1.85,3.68,4.6,1.8,3.65,4.29,1.85,2.0,1.82,1.99,-0.5,1.83,2.02,Ad. Demirspor,Kasimpasa,ad_demirspor,kasimpasa
+2021-12-11,T1,Turkey-SL,2122,Buyuksehyr,Kasimpasa,2.0,1.0,H,0.0,0.0,D,1.61,4.0,5.0,1.65,4.12,5.54,1.62,3.98,5.21,1.7,2.1,1.76,2.05,-0.75,1.8,2.05,Buyuksehyr,Kasimpasa,buyuksehyr,kasimpasa
+2021-12-21,T1,Turkey-SL,2122,Antalyaspor,Kasimpasa,1.0,1.0,D,1.0,0.0,H,1.85,3.5,3.8,1.91,3.65,4.33,1.89,3.52,4.04,2.0,1.85,1.97,1.83,-0.5,1.85,2.0,Antalyaspor,Kasimpasa,antalyaspor,kasimpasa
+2022-01-16,T1,Turkey-SL,2122,Giresunspor,Kasimpasa,0.0,2.0,A,0.0,1.0,A,1.95,3.2,4.33,2.03,3.56,3.93,1.97,3.4,3.83,2.07,1.72,2.04,1.77,-0.5,1.98,1.88,Giresunspor,Kasimpasa,giresunspor,kasimpasa
+2022-01-20,T1,Turkey-SL,2122,Galatasaray,Kasimpasa,1.0,3.0,A,1.0,1.0,D,1.7,4.0,5.0,1.76,3.91,4.87,1.71,3.8,4.66,1.9,1.95,1.83,1.96,-0.75,1.88,1.98,Galatasaray,Kasimpasa,galatasaray,kasimpasa
+2022-02-05,T1,Turkey-SL,2122,Trabzonspor,Kasimpasa,1.0,0.0,H,1.0,0.0,H,1.75,3.4,4.33,1.77,4.01,4.65,1.78,3.68,4.36,1.95,1.9,1.91,1.89,-0.75,2.02,1.83,Trabzonspor,Kasimpasa,trabzonspor,kasimpasa
+2022-02-18,T1,Turkey-SL,2122,Konyaspor,Kasimpasa,4.0,4.0,D,2.0,1.0,H,2.1,3.3,3.1,2.22,3.46,3.46,2.16,3.37,3.34,1.9,1.95,1.88,1.9,-0.25,1.9,1.95,Konyaspor,Kasimpasa,konyaspor,kasimpasa
+2022-03-05,T1,Turkey-SL,2122,Goztep,Kasimpasa,2.0,3.0,A,1.0,1.0,D,2.25,3.4,2.9,2.38,3.51,3.1,2.35,3.36,2.98,1.88,1.98,1.84,1.96,-0.25,2.0,1.85,Goztep,Kasimpasa,goztep,kasimpasa
+2022-03-19,T1,Turkey-SL,2122,Yeni Malatyaspor,Kasimpasa,0.0,2.0,A,0.0,0.0,D,3.75,3.6,1.9,4.05,3.88,1.91,3.8,3.71,1.9,1.72,2.07,1.74,2.08,0.5,1.95,1.9,Yeni Malatyaspor,Kasimpasa,yeni_malatyaspor,kasimpasa
+2022-04-09,T1,Turkey-SL,2122,Karagumruk,Kasimpasa,3.0,2.0,H,2.0,0.0,H,2.55,3.4,2.5,2.74,3.59,2.61,2.6,3.47,2.59,1.85,2.0,1.8,2.01,0.0,1.93,1.93,Karagumruk,Kasimpasa,karagumruk,kasimpasa
+2022-04-25,T1,Turkey-SL,2122,Besiktas,Kasimpasa,0.0,3.0,A,0.0,2.0,A,1.72,4.0,4.0,1.78,4.08,4.41,1.75,3.95,4.22,1.57,2.35,1.58,2.35,-0.75,1.95,1.9,Besiktas,Kasimpasa,besiktas,kasimpasa
+2022-05-07,T1,Turkey-SL,2122,Sivasspor,Kasimpasa,1.0,3.0,A,0.0,0.0,D,2.2,3.3,2.75,2.38,3.62,3.01,2.33,3.48,2.91,1.72,2.07,1.77,2.03,-0.25,2.05,1.8,Sivasspor,Kasimpasa,sivasspor,kasimpasa
+2022-05-21,T1,Turkey-SL,2122,Altay,Kasimpasa,2.0,4.0,A,1.0,2.0,A,3.1,3.6,2.1,3.08,4.1,2.18,3.02,3.87,2.14,1.44,2.7,1.44,2.72,0.25,1.95,1.9,Altay,Kasimpasa,altay,kasimpasa
+2022-08-08,T1,Turkey-SL,2223,Buyuksehyr,Kasimpasa,4.0,0.0,H,2.0,0.0,H,1.75,3.6,4.2,1.83,3.74,4.49,1.82,3.62,4.19,1.9,1.95,1.83,1.96,-0.5,1.8,2.05,Buyuksehyr,Kasimpasa,buyuksehyr,kasimpasa
+2022-08-20,T1,Turkey-SL,2223,Giresunspor,Kasimpasa,1.0,0.0,H,0.0,0.0,D,2.25,3.5,3.0,2.35,3.64,3.06,2.31,3.47,2.97,1.72,2.07,1.76,2.05,-0.25,2.0,1.85,Giresunspor,Kasimpasa,giresunspor,kasimpasa
+2022-09-04,T1,Turkey-SL,2223,Antalyaspor,Kasimpasa,0.0,2.0,A,0.0,1.0,A,1.7,3.6,4.5,1.78,3.76,4.97,1.74,3.72,4.59,1.72,2.07,1.75,2.07,-0.75,1.95,1.9,Antalyaspor,Kasimpasa,antalyaspor,kasimpasa
+2022-09-17,T1,Turkey-SL,2223,Umraniyespor,Kasimpasa,1.0,2.0,A,0.0,1.0,A,2.25,3.6,2.9,2.47,3.58,2.91,2.34,3.5,2.89,1.8,2.05,1.8,1.99,-0.25,2.05,1.8,Umraniyespor,Kasimpasa,umraniyespor,kasimpasa
+2022-10-10,T1,Turkey-SL,2223,Trabzonspor,Kasimpasa,0.0,0.0,D,0.0,0.0,D,1.4,4.75,7.0,1.44,4.85,7.15,1.44,4.67,6.55,1.53,2.4,1.55,2.4,-1.25,1.98,1.88,Trabzonspor,Kasimpasa,trabzonspor,kasimpasa
+2022-10-29,T1,Turkey-SL,2223,Konyaspor,Kasimpasa,1.0,1.0,D,0.0,0.0,D,1.66,3.8,4.5,1.72,3.96,5.08,1.69,3.84,4.69,1.75,2.05,1.77,2.04,-0.75,1.9,1.95,Konyaspor,Kasimpasa,konyaspor,kasimpasa
+2022-12-28,T1,Turkey-SL,2223,Istanbulspor,Kasimpasa,2.0,1.0,H,1.0,1.0,D,2.63,3.6,2.38,2.85,3.74,2.44,2.74,3.61,2.4,1.65,2.2,1.65,2.22,0.0,2.05,1.8,Istanbulspor,Kasimpasa,istanbulspor,kasimpasa
+2023-01-07,T1,Turkey-SL,2223,Besiktas,Kasimpasa,2.0,1.0,H,2.0,0.0,H,1.57,4.2,5.25,1.63,4.55,5.05,1.59,4.46,4.93,1.44,2.7,1.44,2.73,-1.0,1.95,1.9,Besiktas,Kasimpasa,besiktas,kasimpasa
+2023-01-29,T1,Turkey-SL,2223,Fenerbahce,Kasimpasa,5.0,1.0,H,2.0,1.0,H,1.33,5.75,7.5,1.33,5.75,9.53,1.31,5.56,8.56,1.44,2.7,1.45,2.71,-1.5,1.9,1.95,Fenerbahce,Kasimpasa,fenerbahce,kasimpasa
+2023-02-05,T1,Turkey-SL,2223,Hatayspor,Kasimpasa,1.0,0.0,H,0.0,0.0,D,2.3,3.5,2.7,2.39,3.77,2.9,2.36,3.6,2.78,1.65,2.2,1.66,2.21,-0.25,2.05,1.8,Hatayspor,Kasimpasa,hatayspor,kasimpasa
+2023-03-11,T1,Turkey-SL,2223,Galatasaray,Kasimpasa,1.0,0.0,H,0.0,0.0,D,1.25,5.25,9.0,1.29,6.29,9.65,1.27,5.95,9.2,1.4,2.88,1.39,2.9,-1.75,1.98,1.88,Galatasaray,Kasimpasa,galatasaray,kasimpasa
+2023-04-02,T1,Turkey-SL,2223,Gaziantep,Kasimpasa,0.0,3.0,A,,,,,,,,,,,,,,,,,,,,Gaziantep,Kasimpasa,gaziantep,kasimpasa
+2023-04-15,T1,Turkey-SL,2223,Ad. Demirspor,Kasimpasa,5.0,0.0,H,3.0,0.0,H,1.7,3.8,4.5,1.75,4.29,4.43,1.72,4.12,4.22,1.44,2.7,1.42,2.81,-0.75,1.9,1.95,Ad. Demirspor,Kasimpasa,ad_demirspor,kasimpasa
+2023-04-19,T1,Turkey-SL,2223,Kayserispor,Kasimpasa,0.0,0.0,D,0.0,0.0,D,2.25,3.3,2.9,2.38,3.82,2.9,2.33,3.65,2.81,1.6,2.3,1.59,2.35,-0.25,2.02,1.83,Kayserispor,Kasimpasa,kayserispor,kasimpasa
+2023-04-29,T1,Turkey-SL,2223,Ankaragucu,Kasimpasa,0.0,0.0,D,0.0,0.0,D,1.85,3.4,3.6,2.0,3.81,3.76,1.97,3.65,3.56,1.67,2.15,1.65,2.21,-0.5,1.98,1.88,Ankaragucu,Kasimpasa,ankaragucu,kasimpasa
+2023-05-16,T1,Turkey-SL,2223,Sivasspor,Kasimpasa,1.0,2.0,A,0.0,0.0,D,1.95,3.5,3.8,1.96,3.72,4.0,1.91,3.68,3.77,1.7,2.1,1.7,2.15,-0.5,1.95,1.9,Sivasspor,Kasimpasa,sivasspor,kasimpasa
+2023-05-30,T1,Turkey-SL,2223,Alanyaspor,Kasimpasa,1.0,3.0,A,0.0,0.0,D,2.1,3.75,3.0,2.3,3.82,3.02,2.24,3.74,2.87,1.44,2.7,1.49,2.57,-0.25,1.88,1.98,Alanyaspor,Kasimpasa,alanyaspor,kasimpasa
+2023-06-06,T1,Turkey-SL,2223,Karagumruk,Kasimpasa,3.0,0.0,H,1.0,0.0,H,2.1,4.0,2.8,2.23,4.32,2.87,2.15,4.06,2.83,1.33,3.4,1.32,3.29,-0.25,1.95,1.9,Karagumruk,Kasimpasa,karagumruk,kasimpasa
+2023-08-19,T1,Turkey-SL,2324,Hatayspor,Kasimpasa,0.0,0.0,D,0.0,0.0,D,2.38,3.6,2.63,2.49,3.6,2.87,2.38,3.63,2.71,1.57,2.35,1.55,2.39,0.0,1.8,2.05,Hatayspor,Kasimpasa,hatayspor,kasimpasa
+2023-09-17,T1,Turkey-SL,2324,Alanyaspor,Kasimpasa,3.0,3.0,D,2.0,1.0,H,2.05,3.4,3.3,2.09,3.67,3.56,2.07,3.56,3.35,1.7,2.1,1.69,2.14,-0.25,1.83,2.03,Alanyaspor,Kasimpasa,alanyaspor,kasimpasa
+2023-10-01,T1,Turkey-SL,2324,Karagumruk,Kasimpasa,2.0,3.0,A,1.0,3.0,A,2.3,3.5,2.9,2.34,3.63,3.08,2.28,3.55,2.92,1.7,2.1,1.69,2.14,-0.25,2.0,1.85,Karagumruk,Kasimpasa,karagumruk,kasimpasa
+2023-10-22,T1,Turkey-SL,2324,Sivasspor,Kasimpasa,0.0,1.0,A,0.0,0.0,D,2.15,3.4,3.1,2.28,3.57,3.24,2.2,3.47,3.14,1.85,2.0,1.8,1.99,-0.25,1.95,1.9,Sivasspor,Kasimpasa,sivasspor,kasimpasa
+2023-11-03,T1,Turkey-SL,2324,Galatasaray,Kasimpasa,2.0,1.0,H,1.0,0.0,H,1.18,8.0,11.0,1.21,7.89,11.86,1.18,7.73,11.65,1.25,4.0,1.24,3.93,-2.25,2.0,1.85,Galatasaray,Kasimpasa,galatasaray,kasimpasa
+2023-11-25,T1,Turkey-SL,2324,Konyaspor,Kasimpasa,2.0,0.0,H,0.0,0.0,D,1.91,3.5,4.0,2.01,3.71,3.82,1.99,3.56,3.61,1.85,2.0,1.82,1.96,-0.5,1.95,1.9,Konyaspor,Kasimpasa,konyaspor,kasimpasa
+2023-12-09,T1,Turkey-SL,2324,Samsunspor,Kasimpasa,4.0,2.0,H,2.0,0.0,H,2.05,3.6,3.4,2.1,3.71,3.23,2.07,3.62,3.28,1.73,2.08,1.74,2.06,-0.25,1.83,2.03,Samsunspor,Kasimpasa,samsunspor,kasimpasa
+2023-12-20,T1,Turkey-SL,2324,Antalyaspor,Kasimpasa,0.0,0.0,D,0.0,0.0,D,1.73,3.5,4.0,1.77,4.07,4.57,1.73,3.96,4.35,1.62,2.25,1.65,2.22,-0.75,,,Antalyaspor,Kasimpasa,antalyaspor,kasimpasa
+2024-01-05,T1,Turkey-SL,2324,Besiktas,Kasimpasa,1.0,3.0,A,1.0,1.0,D,1.53,4.2,4.75,1.58,4.66,5.47,1.55,4.43,5.14,1.5,2.5,1.49,2.57,-1.0,1.88,1.98,Besiktas,Kasimpasa,besiktas,kasimpasa
+2024-01-13,T1,Turkey-SL,2324,Ankaragucu,Kasimpasa,3.0,1.0,H,1.0,1.0,D,2.15,3.5,3.2,2.16,3.74,3.36,2.14,3.55,3.13,1.75,2.05,1.76,2.04,-0.25,1.88,1.98,Ankaragucu,Kasimpasa,ankaragucu,kasimpasa
+2024-01-23,T1,Turkey-SL,2324,Pendikspor,Kasimpasa,3.0,2.0,H,2.0,2.0,D,2.6,3.2,2.63,2.58,3.71,2.7,2.5,3.59,2.59,1.62,2.25,1.58,2.34,0.0,1.88,1.98,Pendikspor,Kasimpasa,pendikspor,kasimpasa
+2024-01-29,T1,Turkey-SL,2324,Trabzonspor,Kasimpasa,2.0,3.0,A,1.0,0.0,H,1.67,4.33,4.5,1.71,4.21,4.68,1.67,4.01,4.54,1.6,2.3,1.63,2.24,-0.75,1.85,2.0,Trabzonspor,Kasimpasa,trabzonspor,kasimpasa
+2024-02-09,T1,Turkey-SL,2324,Ad. Demirspor,Kasimpasa,1.0,3.0,A,0.0,2.0,A,2.2,4.0,2.9,2.31,3.7,3.07,2.24,3.72,2.89,1.53,2.4,1.52,2.49,-0.25,2.0,1.85,Ad. Demirspor,Kasimpasa,ad_demirspor,kasimpasa
+2024-02-24,T1,Turkey-SL,2324,Fenerbahce,Kasimpasa,2.0,1.0,H,0.0,0.0,D,1.2,7.5,12.0,1.21,7.95,12.05,1.19,7.47,11.52,1.25,4.0,1.26,3.74,-2.0,1.8,2.0,Fenerbahce,Kasimpasa,fenerbahce,kasimpasa
+2024-03-10,T1,Turkey-SL,2324,Istanbulspor,Kasimpasa,1.0,2.0,A,1.0,0.0,H,4.2,4.0,1.8,4.36,3.97,1.83,4.07,3.83,1.8,1.67,2.15,1.64,2.2,0.75,1.83,2.03,Istanbulspor,Kasimpasa,istanbulspor,kasimpasa
+2024-04-03,T1,Turkey-SL,2324,Kayserispor,Kasimpasa,0.0,2.0,A,0.0,1.0,A,2.15,3.75,3.1,2.2,3.72,3.22,2.14,3.7,3.06,1.57,2.35,1.56,2.4,-0.25,1.9,1.95,Kayserispor,Kasimpasa,kayserispor,kasimpasa
+2024-04-21,T1,Turkey-SL,2324,Gaziantep,Kasimpasa,2.0,0.0,H,2.0,0.0,H,2.3,3.5,3.0,2.34,3.63,3.03,2.29,3.51,2.91,1.7,2.1,1.7,2.12,-0.25,2.03,1.83,Gaziantep,Kasimpasa,gaziantep,kasimpasa
+2024-05-05,T1,Turkey-SL,2324,Buyuksehyr,Kasimpasa,4.0,1.0,H,2.0,0.0,H,1.95,3.5,4.0,2.05,3.58,3.74,1.97,3.6,3.55,1.7,2.1,1.68,2.14,-0.5,2.03,1.83,Buyuksehyr,Kasimpasa,buyuksehyr,kasimpasa
+2024-05-18,T1,Turkey-SL,2324,Rizespor,Kasimpasa,0.0,0.0,D,0.0,0.0,D,2.3,3.6,2.8,2.35,3.78,2.79,2.33,3.74,2.71,1.44,2.7,1.44,2.69,-0.25,2.05,1.8,Caykur Rizespor,Kasimpasa,caykur_rizespor,kasimpasa
+2024-08-19,T1,Turkey-SL,2425,Hatayspor,Kasimpasa,1.0,1.0,D,1.0,0.0,H,2.35,3.4,2.9,2.39,3.54,2.86,2.36,3.5,2.83,1.75,2.05,1.76,2.04,-0.25,2.05,1.8,Hatayspor,Kasimpasa,hatayspor,kasimpasa
+2024-08-31,T1,Turkey-SL,2425,Rizespor,Kasimpasa,0.0,1.0,A,0.0,1.0,A,2.2,3.5,3.1,2.22,3.44,3.22,2.2,3.53,3.15,1.7,2.1,1.73,2.11,-0.25,1.93,1.93,Caykur Rizespor,Kasimpasa,caykur_rizespor,kasimpasa
+2024-09-28,T1,Turkey-SL,2425,Galatasaray,Kasimpasa,3.0,3.0,D,3.0,1.0,H,1.27,6.5,8.0,1.24,6.57,9.58,1.25,6.48,9.22,1.33,3.4,1.31,3.26,-1.75,1.88,1.98,Galatasaray,Kasimpasa,galatasaray,kasimpasa
+2024-10-20,T1,Turkey-SL,2425,Alanyaspor,Kasimpasa,1.0,2.0,A,0.0,2.0,A,2.25,3.4,3.1,2.29,3.47,3.08,2.24,3.47,3.04,1.75,2.05,1.78,2.02,-0.25,1.98,1.88,Alanyaspor,Kasimpasa,alanyaspor,kasimpasa
+2024-11-02,T1,Turkey-SL,2425,Besiktas,Kasimpasa,1.0,3.0,A,1.0,0.0,H,1.57,4.5,5.0,1.56,4.53,5.17,1.57,4.44,5.1,1.5,2.5,1.49,2.51,-1.0,1.93,1.93,Besiktas,Kasimpasa,besiktas,kasimpasa
+2024-11-24,T1,Turkey-SL,2425,Sivasspor,Kasimpasa,0.0,0.0,D,0.0,0.0,D,2.75,3.4,2.45,2.83,3.49,2.44,2.77,3.42,2.42,1.8,2.0,1.78,2.02,0.0,2.05,1.8,Sivasspor,Kasimpasa,sivasspor,kasimpasa
+2024-12-06,T1,Turkey-SL,2425,Trabzonspor,Kasimpasa,2.0,2.0,D,0.0,1.0,A,1.85,3.6,4.0,1.91,3.8,4.02,1.91,3.67,3.78,1.65,2.2,1.63,2.22,-0.5,1.9,1.95,Trabzonspor,Kasimpasa,trabzonspor,kasimpasa
+2024-12-23,T1,Turkey-SL,2425,Buyuksehyr,Kasimpasa,2.0,2.0,D,2.0,1.0,H,2.05,3.4,3.3,2.11,3.46,3.47,2.08,3.48,3.38,1.85,2.0,1.83,1.95,-0.25,1.83,2.03,Buyuksehyr,Kasimpasa,buyuksehyr,kasimpasa
+2025-01-13,T1,Turkey-SL,2425,Goztep,Kasimpasa,5.0,0.0,H,1.0,0.0,H,1.9,3.4,3.6,1.95,3.67,3.76,1.94,3.62,3.63,1.8,2.0,1.78,2.0,-0.5,1.95,1.9,Goztep,Kasimpasa,goztep,kasimpasa
+2025-01-19,T1,Turkey-SL,2425,Konyaspor,Kasimpasa,3.0,3.0,D,1.0,0.0,H,2.05,3.25,3.5,2.05,3.31,3.48,2.09,3.37,3.4,1.88,1.98,1.87,1.91,-0.25,1.85,2.0,Konyaspor,Kasimpasa,konyaspor,kasimpasa
+2025-02-02,T1,Turkey-SL,2425,Ad. Demirspor,Kasimpasa,3.0,5.0,A,1.0,1.0,D,3.9,3.8,1.75,4.15,3.96,1.79,4.03,3.94,1.78,1.57,2.35,1.54,2.38,0.75,1.83,2.03,Ad. Demirspor,Kasimpasa,ad_demirspor,kasimpasa
+2025-02-16,T1,Turkey-SL,2425,Fenerbahce,Kasimpasa,3.0,1.0,H,1.0,0.0,H,1.27,6.25,9.0,1.22,6.66,10.7,1.23,6.55,9.77,1.33,3.4,1.3,3.35,-1.75,1.88,1.98,Fenerbahce,Kasimpasa,fenerbahce,kasimpasa
+2025-02-22,T1,Turkey-SL,2425,Antalyaspor,Kasimpasa,2.0,1.0,H,2.0,0.0,H,2.35,3.6,2.8,2.4,3.55,2.93,2.36,3.54,2.84,1.62,2.25,1.62,2.27,-0.25,2.05,1.8,Antalyaspor,Kasimpasa,antalyaspor,kasimpasa
+2025-03-07,T1,Turkey-SL,2425,Bodrumspor,Kasimpasa,1.0,0.0,H,0.0,0.0,D,2.2,3.4,3.2,2.22,3.44,3.35,2.19,3.4,3.24,1.92,1.82,1.93,1.85,-0.25,,,Bodrumspor,Kasimpasa,bodrumspor,kasimpasa
+2025-03-29,T1,Turkey-SL,2425,Samsunspor,Kasimpasa,0.0,2.0,A,0.0,0.0,D,1.91,3.5,3.7,2.0,3.46,3.97,1.98,3.48,3.73,1.9,1.95,1.87,1.92,-0.5,2.0,1.85,Samsunspor,Kasimpasa,samsunspor,kasimpasa
+2025-04-13,T1,Turkey-SL,2425,Kayserispor,Kasimpasa,1.0,0.0,H,0.0,0.0,D,2.2,3.4,3.1,2.24,3.47,3.18,2.21,3.5,3.05,1.7,2.1,1.66,2.17,-0.25,1.93,1.93,Kayserispor,Kasimpasa,kayserispor,kasimpasa
+2025-05-10,T1,Turkey-SL,2425,Eyupspor,Kasimpasa,0.0,3.0,A,0.0,1.0,A,2.3,3.5,2.75,2.4,3.63,2.79,2.32,3.61,2.79,1.57,2.35,1.55,2.34,-0.25,2.03,1.78,Eyupspor,Kasimpasa,eyupspor,kasimpasa
+2025-05-24,T1,Turkey-SL,2425,Gaziantep,Kasimpasa,2.0,2.0,D,2.0,0.0,H,2.6,3.7,2.38,2.74,3.71,2.38,2.69,3.69,2.37,1.48,2.6,1.47,2.56,0.0,2.03,1.78,Gaziantep,Kasimpasa,gaziantep,kasimpasa
+2025-08-09,T1,Turkey-SL,2526,Antalyaspor,Kasimpasa,2.0,1.0,H,2.0,1.0,H,2.5,3.4,2.4,2.82,3.42,2.49,2.68,3.45,2.38,1.73,2.08,1.67,2.11,0.0,2.03,1.78,Antalyaspor,Kasimpasa,antalyaspor,kasimpasa
+2025-09-13,T1,Turkey-SL,2526,Karagumruk,Kasimpasa,0.0,1.0,A,0.0,1.0,A,2.75,3.4,2.35,2.94,3.23,2.5,2.83,3.32,2.36,1.9,1.9,1.86,1.86,0.25,1.73,2.08,Karagumruk,Kasimpasa,karagumruk,kasimpasa
+2025-09-17,T1,Turkey-SL,2526,Samsunspor,Kasimpasa,0.0,0.0,D,0.0,0.0,D,1.76,3.75,4.33,1.78,3.73,4.48,1.76,3.63,4.26,1.83,1.98,1.8,1.93,-0.75,2.0,1.8,Samsunspor,Kasimpasa,samsunspor,kasimpasa
+2025-09-28,T1,Turkey-SL,2526,Rizespor,Kasimpasa,1.0,2.0,A,0.0,1.0,A,1.91,3.8,3.6,1.99,3.88,3.42,1.94,3.64,3.48,1.75,2.05,1.69,2.07,-0.5,1.95,1.85,Caykur Rizespor,Kasimpasa,caykur_rizespor,kasimpasa
+2025-10-20,T1,Turkey-SL,2526,Eyupspor,Kasimpasa,2.0,0.0,H,1.0,0.0,H,2.3,3.2,3.05,2.36,3.34,3.07,2.23,3.27,3.06,2.05,1.75,2.01,1.73,-0.25,2.0,1.8,Eyupspor,Kasimpasa,eyupspor,kasimpasa
+2025-11-02,T1,Turkey-SL,2526,Kayserispor,Kasimpasa,3.0,2.0,H,2.0,1.0,H,2.45,3.5,2.57,,,,2.39,3.45,2.69,1.75,2.05,1.73,2.02,0.0,1.8,2.0,Kayserispor,Kasimpasa,kayserispor,kasimpasa
+2025-11-23,T1,Turkey-SL,2526,Alanyaspor,Kasimpasa,1.0,2.0,A,1.0,0.0,H,1.81,3.6,4.0,1.83,3.72,4.18,1.85,3.53,3.93,1.83,1.98,1.81,1.89,-0.5,1.83,1.98,Alanyaspor,Kasimpasa,alanyaspor,kasimpasa
+2025-12-07,T1,Turkey-SL,2526,Kocaelispor,Kasimpasa,0.0,0.0,D,0.0,0.0,D,1.79,3.5,4.33,1.85,3.41,4.6,1.83,3.41,4.17,2.1,1.7,2.04,1.7,-0.5,1.83,1.98,Kocaelispor,Kasimpasa,kocaelispor,kasimpasa
+2025-12-21,T1,Turkey-SL,2526,Galatasaray,Kasimpasa,3.0,0.0,H,1.0,0.0,H,1.19,7.5,9.0,1.2,7.69,10.52,1.2,6.58,10.84,1.36,3.1,1.35,2.95,-2.0,2.0,1.8,Galatasaray,Kasimpasa,galatasaray,kasimpasa
+2026-01-23,T1,Turkey-SL,2526,Trabzonspor,Kasimpasa,2.0,1.0,H,0.0,0.0,D,1.51,4.2,5.5,,,,1.5,4.22,5.61,1.62,2.25,1.6,2.21,-1.0,1.9,1.9,Trabzonspor,Kasimpasa,trabzonspor,kasimpasa
+2026-02-09,T1,Turkey-SL,2526,Gaziantep,Kasimpasa,2.0,1.0,H,2.0,1.0,H,1.91,3.5,3.8,,,,1.97,3.34,3.56,1.83,1.98,1.83,1.87,-0.5,1.98,1.83,Gaziantep,Kasimpasa,gaziantep,kasimpasa
+2026-02-23,T1,Turkey-SL,2526,Fenerbahce,Kasimpasa,1.0,1.0,D,0.0,0.0,D,1.19,6.0,13.0,,,,1.23,5.66,10.05,1.53,2.4,1.52,2.38,-1.75,1.93,1.88,Fenerbahce,Kasimpasa,fenerbahce,kasimpasa
+2026-03-08,T1,Turkey-SL,2526,Konyaspor,Kasimpasa,1.0,1.0,D,1.0,1.0,D,2.01,3.1,4.0,,,,2.02,3.12,3.68,2.15,1.67,2.08,1.68,-0.5,2.03,1.78,Konyaspor,Kasimpasa,konyaspor,kasimpasa
+2026-03-19,T1,Turkey-SL,2526,Besiktas,Kasimpasa,2.0,1.0,H,2.0,0.0,H,1.35,4.75,8.0,,,,1.33,4.79,7.56,1.57,2.35,1.55,2.31,-1.5,2.0,1.8,Besiktas,Kasimpasa,besiktas,kasimpasa
+2026-04-12,T1,Turkey-SL,2526,Goztep,Kasimpasa,3.0,3.0,D,1.0,1.0,D,1.86,3.4,4.1,,,,1.85,3.34,4.02,2.15,1.67,2.08,1.68,-0.5,1.9,1.9,Goztep,Kasimpasa,goztep,kasimpasa
+2026-04-24,T1,Turkey-SL,2526,Buyuksehyr,Kasimpasa,4.0,0.0,H,2.0,0.0,H,1.66,3.9,4.75,,,,1.67,3.76,4.51,1.73,2.08,1.72,2.02,-0.75,1.88,1.93,Buyuksehyr,Kasimpasa,buyuksehyr,kasimpasa
+2026-05-09,T1,Turkey-SL,2526,Genclerbirligi,Kasimpasa,3.0,2.0,H,2.0,2.0,D,2.35,3.2,3.0,,,,2.34,3.18,2.9,2.1,1.7,2.06,1.68,-0.25,2.05,1.75,Genclerbirligi,Kasimpasa,genclerbirligi,kasimpasa
+2026-08-22,T1,Turkey-SL,2627,Corum,Kasimpasa,0.0,1.0,A,0.0,1.0,A,2.2,3.5,3.0,,,,2.21,3.36,2.96,1.9,1.9,1.84,1.88,-0.25,1.95,1.85,Corum,Kasimpasa,corum,kasimpasa
+2026-08-30,T1,Turkey-SL,2627,Buyuksehyr,Kasimpasa,1.0,1.0,D,1.0,0.0,H,1.61,3.8,5.25,,,,1.64,3.83,4.69,1.75,2.05,1.72,2.02,-0.75,1.85,1.95,Buyuksehyr,Kasimpasa,buyuksehyr,kasimpasa
+2026-09-13,T1,Turkey-SL,2627,Genclerbirligi,Kasimpasa,1.0,2.0,A,1.0,0.0,H,2.2,3.2,3.1,,,,2.22,3.21,3.05,2.1,1.7,2.08,1.68,-0.25,1.95,1.85,Genclerbirligi,Kasimpasa,genclerbirligi,kasimpasa
+2026-10-09,T1,Turkey-SL,2627,Galatasaray,Kasimpasa,3.0,1.0,H,1.0,0.0,H,1.24,5.25,10.0,,,,1.24,5.69,9.59,1.5,2.5,1.46,2.55,-1.5,1.75,2.05,Galatasaray,Kasimpasa,galatasaray,kasimpasa

@@ -1,0 +1,69 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-16,P1,Portugal-Liga1,2122,Boavista,Pacos Ferreira,3.0,0.0,H,1.0,0.0,H,2.62,3.2,2.75,2.79,3.01,2.92,2.7,3.01,2.8,2.4,1.53,2.45,1.54,0.0,1.9,2.0,Boavista,Pacos Ferreira,boavista,pacos_ferreira
+2021-08-23,P1,Portugal-Liga1,2122,Boavista,Santa Clara,2.0,0.0,H,1.0,0.0,H,2.3,3.0,3.25,2.37,3.33,3.21,2.36,3.15,3.09,2.3,1.6,2.31,1.6,-0.25,2.05,1.85,Boavista,Santa Clara,boavista,santa_clara
+2021-09-12,P1,Portugal-Liga1,2122,Boavista,Portimonense,1.0,1.0,D,0.0,1.0,A,2.4,3.1,2.87,2.68,3.16,2.96,2.57,3.09,2.88,2.3,1.6,2.33,1.6,0.0,1.86,2.04,Boavista,Portimonense,boavista,portimonense
+2021-09-27,P1,Portugal-Liga1,2122,Boavista,Estoril,1.0,1.0,D,1.0,0.0,H,2.62,3.1,2.75,2.81,3.03,2.89,2.68,3.03,2.81,2.4,1.53,2.41,1.56,0.0,1.9,2.0,Boavista,Estoril,boavista,estoril
+2021-10-25,P1,Portugal-Liga1,2122,Boavista,Belenenses,0.0,0.0,D,0.0,0.0,D,1.9,3.3,3.8,1.99,3.25,4.46,1.97,3.2,4.03,2.4,1.53,2.36,1.57,-0.5,2.0,1.9,Boavista,Belenenses,boavista,belenenses
+2021-11-05,P1,Portugal-Liga1,2122,Boavista,Famalicao,2.0,5.0,A,1.0,3.0,A,4.0,3.3,1.95,4.04,3.27,2.1,3.79,3.29,2.05,2.1,1.7,2.13,1.7,0.5,1.83,2.07,Boavista,Famalicao,boavista,famalicao
+2021-12-04,P1,Portugal-Liga1,2122,Boavista,Maritimo,1.0,1.0,D,1.0,0.0,H,2.3,3.0,3.4,2.31,3.31,3.42,2.29,3.17,3.24,2.3,1.6,2.35,1.59,-0.25,1.98,1.92,Boavista,Maritimo,boavista,maritimo
+2021-12-19,P1,Portugal-Liga1,2122,Boavista,Moreirense,1.0,0.0,H,1.0,0.0,H,2.55,3.1,2.8,2.52,3.33,3.03,2.5,3.17,2.89,2.35,1.57,2.29,1.62,0.0,1.82,2.08,Boavista,Moreirense,boavista,moreirense
+2022-01-08,P1,Portugal-Liga1,2122,Boavista,Tondela,1.0,1.0,D,0.0,0.0,D,2.0,3.4,4.0,2.02,3.4,4.16,1.99,3.41,3.8,2.0,1.8,2.0,1.81,-0.5,1.99,1.91,Boavista,Tondela,boavista,tondela
+2022-01-15,P1,Portugal-Liga1,2122,Boavista,Gil Vicente,1.0,1.0,D,1.0,0.0,H,3.1,3.1,2.4,3.28,3.32,2.37,3.07,3.18,2.38,2.25,1.61,2.22,1.66,0.25,1.82,2.08,Boavista,Gil Vicente,boavista,gil_vicente
+2022-02-06,P1,Portugal-Liga1,2122,Boavista,Vizela,2.0,2.0,D,0.0,1.0,A,2.2,3.2,3.4,2.31,3.3,3.43,2.22,3.26,3.3,2.1,1.7,2.14,1.7,-0.25,1.96,1.94,Boavista,Vizela,boavista,vizela
+2022-02-18,P1,Portugal-Liga1,2122,Boavista,Benfica,2.0,2.0,D,0.0,2.0,A,6.5,4.75,1.4,7.54,4.84,1.44,7.07,4.76,1.42,1.66,2.15,1.63,2.28,1.25,1.97,1.93,Boavista,Benfica,boavista,benfica
+2022-03-05,P1,Portugal-Liga1,2122,Boavista,Sp Braga,1.0,1.0,D,0.0,1.0,A,4.75,3.4,1.8,4.34,3.61,1.92,4.2,3.54,1.85,2.0,1.85,1.94,1.86,0.5,2.02,1.88,Boavista,Sp Braga,boavista,sp_braga
+2022-03-20,P1,Portugal-Liga1,2122,Boavista,Porto,0.0,1.0,A,0.0,1.0,A,7.5,4.5,1.4,8.45,4.72,1.43,7.4,4.67,1.41,1.66,2.15,1.71,2.14,1.25,1.95,1.95,Boavista,FC Porto,boavista,fc_porto
+2022-04-09,P1,Portugal-Liga1,2122,Boavista,Arouca,1.0,0.0,H,1.0,0.0,H,2.2,3.0,3.25,2.32,3.13,3.6,2.27,3.11,3.37,2.3,1.6,2.33,1.59,-0.25,1.97,1.93,Boavista,Arouca,boavista,arouca
+2022-04-25,P1,Portugal-Liga1,2122,Boavista,Sp Lisbon,0.0,3.0,A,0.0,1.0,A,7.0,4.2,1.44,8.42,4.42,1.44,7.62,4.36,1.42,1.95,1.9,1.93,1.86,1.25,1.86,2.04,Boavista,Sp Lisbon,boavista,sp_lisbon
+2022-05-06,P1,Portugal-Liga1,2122,Boavista,Guimaraes,1.0,1.0,D,0.0,1.0,A,3.5,3.2,2.2,3.62,3.25,2.25,3.4,3.19,2.21,2.25,1.61,2.27,1.63,0.25,1.99,1.91,Boavista,Vitoria Guimaraes,boavista,vitoria_guimaraes
+2022-08-14,P1,Portugal-Liga1,2223,Boavista,Santa Clara,2.0,1.0,H,0.0,1.0,A,2.45,3.1,2.9,2.6,3.12,3.09,2.52,3.1,2.94,2.35,1.57,2.32,1.6,-0.25,2.08,1.73,Boavista,Santa Clara,boavista,santa_clara
+2022-08-27,P1,Portugal-Liga1,2223,Boavista,Benfica,0.0,3.0,A,0.0,1.0,A,8.5,4.75,1.36,9.71,4.92,1.38,8.49,4.73,1.37,1.72,2.07,1.72,2.12,1.25,2.05,1.85,Boavista,Benfica,boavista,benfica
+2022-09-05,P1,Portugal-Liga1,2223,Boavista,Pacos Ferreira,1.0,0.0,H,0.0,0.0,D,2.0,3.3,3.8,2.05,3.28,4.17,2.03,3.25,3.85,2.2,1.65,2.22,1.65,-0.5,2.04,1.86,Boavista,Pacos Ferreira,boavista,pacos_ferreira
+2022-09-17,P1,Portugal-Liga1,2223,Boavista,Sp Lisbon,2.0,1.0,H,1.0,0.0,H,6.5,4.33,1.45,7.9,4.33,1.48,6.93,4.28,1.47,1.88,1.98,1.85,1.95,1.0,2.07,1.83,Boavista,Sp Lisbon,boavista,sp_lisbon
+2022-10-09,P1,Portugal-Liga1,2223,Boavista,Maritimo,1.0,1.0,D,1.0,0.0,H,1.9,3.4,4.2,1.98,3.44,4.28,1.94,3.41,3.97,2.05,1.75,2.06,1.75,-0.5,1.96,1.94,Boavista,Maritimo,boavista,maritimo
+2022-10-30,P1,Portugal-Liga1,2223,Boavista,Vizela,2.0,2.0,D,1.0,2.0,A,2.4,3.25,2.87,2.63,3.17,3.02,2.49,3.2,2.85,2.15,1.66,2.14,1.68,0.0,1.81,2.09,Boavista,Vizela,boavista,vizela
+2022-11-12,P1,Portugal-Liga1,2223,Boavista,Porto,1.0,4.0,A,0.0,1.0,A,8.5,4.75,1.33,10.17,4.99,1.36,9.1,4.82,1.35,1.7,2.1,1.72,2.1,1.5,1.83,2.07,Boavista,FC Porto,boavista,fc_porto
+2023-01-08,P1,Portugal-Liga1,2223,Boavista,Gil Vicente,1.0,0.0,H,1.0,0.0,H,2.55,3.25,2.7,2.72,3.28,2.82,2.61,3.25,2.73,2.05,1.75,2.08,1.75,0.0,1.9,2.0,Boavista,Gil Vicente,boavista,gil_vicente
+2023-01-23,P1,Portugal-Liga1,2223,Boavista,Chaves,1.0,1.0,D,1.0,0.0,H,2.2,3.4,3.1,2.27,3.29,3.46,2.24,3.26,3.25,2.15,1.67,2.2,1.66,-0.25,1.95,1.95,Boavista,Chaves,boavista,chaves
+2023-01-29,P1,Portugal-Liga1,2223,Boavista,Portimonense,4.0,2.0,H,0.0,0.0,D,2.1,3.3,3.5,2.22,3.35,3.59,2.16,3.28,3.45,2.2,1.65,2.24,1.64,-0.25,1.87,2.03,Boavista,Portimonense,boavista,portimonense
+2023-02-13,P1,Portugal-Liga1,2223,Boavista,Casa Pia,0.0,0.0,D,0.0,0.0,D,2.38,3.1,3.1,2.43,3.05,3.42,2.38,3.06,3.2,2.5,1.5,2.45,1.55,-0.25,2.03,1.87,Boavista,Casa Pia,boavista,casa_pia
+2023-03-03,P1,Portugal-Liga1,2223,Boavista,Arouca,0.0,0.0,D,0.0,0.0,D,2.25,3.25,3.25,2.34,3.2,3.47,2.29,3.14,3.31,2.25,1.62,2.25,1.64,-0.25,1.99,1.91,Boavista,Arouca,boavista,arouca
+2023-03-19,P1,Portugal-Liga1,2223,Boavista,Famalicao,1.0,2.0,A,0.0,0.0,D,2.38,3.2,3.0,2.5,3.1,3.28,2.4,3.11,3.13,2.35,1.57,2.36,1.58,-0.25,2.09,1.81,Boavista,Famalicao,boavista,famalicao
+2023-04-07,P1,Portugal-Liga1,2223,Boavista,Guimaraes,2.0,1.0,H,1.0,0.0,H,2.5,3.1,2.88,2.67,3.11,3.01,2.59,3.05,2.91,2.35,1.57,2.39,1.57,0.0,1.82,2.08,Boavista,Vitoria Guimaraes,boavista,vitoria_guimaraes
+2023-04-22,P1,Portugal-Liga1,2223,Boavista,Rio Ave,3.0,2.0,H,3.0,1.0,H,2.3,3.2,3.1,2.45,3.1,3.37,2.37,3.12,3.19,2.35,1.57,2.39,1.56,-0.25,2.04,1.86,Boavista,Rio Ave,boavista,rio_ave
+2023-05-06,P1,Portugal-Liga1,2223,Boavista,Estoril,1.0,0.0,H,0.0,0.0,D,2.0,3.3,3.6,2.09,3.42,3.87,2.06,3.35,3.7,2.15,1.67,2.19,1.66,-0.5,2.08,1.82,Boavista,Estoril,boavista,estoril
+2023-05-20,P1,Portugal-Liga1,2223,Boavista,Sp Braga,1.0,1.0,D,0.0,0.0,D,5.5,4.0,1.53,5.73,4.49,1.58,5.48,4.31,1.56,1.7,2.1,1.68,2.16,1.0,1.93,1.97,Boavista,Sp Braga,boavista,sp_braga
+2023-08-14,P1,Portugal-Liga1,2324,Boavista,Benfica,3.0,2.0,H,0.0,1.0,A,9.0,5.5,1.3,11.02,5.89,1.29,9.89,5.54,1.29,1.6,2.3,1.59,2.33,1.5,1.99,1.91,Boavista,Benfica,boavista,benfica
+2023-08-27,P1,Portugal-Liga1,2324,Boavista,Casa Pia,1.0,1.0,D,0.0,1.0,A,2.2,3.2,3.4,2.3,3.29,3.45,2.25,3.23,3.3,2.2,1.65,2.23,1.65,-0.25,1.96,1.94,Boavista,Casa Pia,boavista,casa_pia
+2023-09-18,P1,Portugal-Liga1,2324,Boavista,Chaves,4.0,1.0,H,4.0,0.0,H,1.7,4.0,4.5,1.74,4.1,4.64,1.71,3.98,4.51,1.7,2.1,1.7,2.14,-0.75,1.94,1.96,Boavista,Chaves,boavista,chaves
+2023-09-30,P1,Portugal-Liga1,2324,Boavista,Famalicao,2.0,2.0,D,1.0,1.0,D,2.15,3.4,3.2,2.21,3.51,3.44,2.2,3.43,3.25,2.0,1.85,1.97,1.83,-0.25,1.91,1.99,Boavista,Famalicao,boavista,famalicao
+2023-10-30,P1,Portugal-Liga1,2324,Boavista,Sp Lisbon,0.0,2.0,A,0.0,1.0,A,6.0,4.5,1.45,6.59,4.69,1.49,6.3,4.54,1.48,1.6,2.3,1.62,2.3,1.0,2.05,1.75,Boavista,Sp Lisbon,boavista,sp_lisbon
+2023-11-12,P1,Portugal-Liga1,2324,Boavista,Farense,1.0,3.0,A,0.0,1.0,A,2.05,3.6,3.4,2.05,3.7,3.7,2.06,3.55,3.47,1.9,1.95,1.88,1.92,-0.25,1.73,2.08,Boavista,Farense,boavista,farense
+2023-12-03,P1,Portugal-Liga1,2324,Boavista,Arouca,0.0,4.0,A,0.0,3.0,A,2.1,3.3,3.25,2.17,3.31,3.55,2.13,3.36,3.46,2.05,1.75,2.03,1.78,-0.25,1.89,2.01,Boavista,Arouca,boavista,arouca
+2023-12-16,P1,Portugal-Liga1,2324,Boavista,Guimaraes,1.0,1.0,D,0.0,1.0,A,3.8,3.5,1.95,3.74,3.6,2.07,3.69,3.53,2.0,1.98,1.88,1.95,1.86,0.5,1.87,2.03,Boavista,Vitoria Guimaraes,boavista,vitoria_guimaraes
+2024-01-05,P1,Portugal-Liga1,2324,Boavista,Porto,1.0,1.0,D,1.0,1.0,D,6.5,5.25,1.4,7.55,5.09,1.42,7.28,4.77,1.42,1.73,2.08,1.76,2.06,1.25,1.93,1.97,Boavista,FC Porto,boavista,fc_porto
+2024-01-28,P1,Portugal-Liga1,2324,Boavista,Portimonense,1.0,4.0,A,0.0,3.0,A,1.95,3.4,4.0,1.98,3.54,4.15,1.94,3.49,3.91,2.03,1.83,1.95,1.84,-0.5,1.97,1.93,Boavista,Portimonense,boavista,portimonense
+2024-02-10,P1,Portugal-Liga1,2324,Boavista,Estoril,2.0,1.0,H,2.0,0.0,H,2.38,3.25,3.1,2.48,3.41,3.03,2.42,3.38,2.89,2.0,1.85,1.97,1.83,-0.25,2.08,1.82,Boavista,Estoril,boavista,estoril
+2024-02-26,P1,Portugal-Liga1,2324,Boavista,Sp Braga,0.0,4.0,A,0.0,2.0,A,4.5,3.5,1.83,4.27,3.89,1.83,4.22,3.8,1.79,1.73,2.08,1.73,2.09,0.75,1.78,2.03,Boavista,Sp Braga,boavista,sp_braga
+2024-03-09,P1,Portugal-Liga1,2324,Boavista,Moreirense,1.0,0.0,H,0.0,0.0,D,2.63,3.1,2.88,2.71,3.14,2.94,2.63,3.12,2.83,2.3,1.6,2.29,1.62,0.0,1.85,2.05,Boavista,Moreirense,boavista,moreirense
+2024-03-30,P1,Portugal-Liga1,2324,Boavista,Rio Ave,0.0,0.0,D,0.0,0.0,D,2.75,3.0,2.88,2.7,3.15,2.9,2.67,3.1,2.79,2.4,1.53,2.38,1.57,0.0,1.9,2.0,Boavista,Rio Ave,boavista,rio_ave
+2024-04-20,P1,Portugal-Liga1,2324,Boavista,Estrela,1.0,1.0,D,0.0,0.0,D,2.63,3.2,2.75,2.68,3.27,2.83,2.61,3.21,2.76,2.15,1.67,2.15,1.69,0.0,1.9,2.0,Boavista,Estrela Amadora,boavista,estrela_amadora
+2024-05-04,P1,Portugal-Liga1,2324,Boavista,Gil Vicente,1.0,1.0,D,1.0,1.0,D,2.63,3.2,2.8,2.55,3.25,2.77,2.54,3.28,2.78,2.03,1.83,1.99,1.8,0.0,1.88,2.02,Boavista,Gil Vicente,boavista,gil_vicente
+2024-05-18,P1,Portugal-Liga1,2324,Boavista,Vizela,2.0,2.0,D,0.0,1.0,A,1.6,3.9,5.75,1.58,3.8,6.17,1.6,3.88,5.75,1.75,2.05,1.77,2.02,-1.0,2.05,1.85,Boavista,Vizela,boavista,vizela
+2024-08-18,P1,Portugal-Liga1,2425,Boavista,Sp Braga,0.0,1.0,A,0.0,1.0,A,5.5,3.9,1.6,5.22,4.23,1.59,5.2,4.16,1.6,1.73,2.08,1.74,2.09,1.0,1.83,2.07,Boavista,Sp Braga,boavista,sp_braga
+2024-08-31,P1,Portugal-Liga1,2425,Boavista,Estoril,0.0,0.0,D,0.0,0.0,D,2.25,3.1,3.3,2.36,3.04,3.37,2.32,3.11,3.27,2.35,1.57,2.37,1.58,-0.25,2.0,1.9,Boavista,Estoril,boavista,estoril
+2024-09-23,P1,Portugal-Liga1,2425,Boavista,Benfica,0.0,3.0,A,0.0,2.0,A,11.0,6.0,1.25,10.89,5.9,1.25,11.49,5.81,1.25,1.7,2.1,1.69,2.15,1.75,1.77,2.01,Boavista,Benfica,boavista,benfica
+2024-10-26,P1,Portugal-Liga1,2425,Boavista,Moreirense,0.0,2.0,A,0.0,1.0,A,3.4,3.1,2.25,3.44,3.1,2.29,3.38,3.11,2.27,2.4,1.53,2.45,1.54,0.25,1.92,1.98,Boavista,Moreirense,boavista,moreirense
+2024-11-09,P1,Portugal-Liga1,2425,Boavista,Rio Ave,0.0,2.0,A,0.0,1.0,A,2.75,3.1,2.7,2.74,3.12,2.74,2.73,3.12,2.67,2.25,1.62,2.31,1.61,0.0,1.95,1.95,Boavista,Rio Ave,boavista,rio_ave
+2024-12-08,P1,Portugal-Liga1,2425,Boavista,Farense,1.0,1.0,D,0.0,0.0,D,2.4,3.1,3.1,2.46,3.15,3.07,2.42,3.16,3.02,2.25,1.62,2.3,1.61,-0.25,2.09,1.81,Boavista,Farense,boavista,farense
+2024-12-21,P1,Portugal-Liga1,2425,Boavista,AVS,0.0,0.0,D,0.0,0.0,D,2.25,3.2,3.3,2.3,3.12,3.39,2.27,3.14,3.28,2.35,1.57,2.31,1.59,-0.25,1.98,1.92,Boavista,AVS,boavista,avs
+2025-01-04,P1,Portugal-Liga1,2425,Boavista,Arouca,1.0,3.0,A,0.0,1.0,A,2.75,3.1,2.63,2.79,3.21,2.64,2.76,3.18,2.58,2.25,1.62,2.27,1.61,0.0,2.01,1.89,Boavista,Arouca,boavista,arouca
+2025-01-20,P1,Portugal-Liga1,2425,Boavista,Casa Pia,2.0,3.0,A,1.0,2.0,A,3.4,3.0,2.3,3.27,3.16,2.34,3.22,3.09,2.31,2.4,1.53,2.37,1.55,0.25,1.9,2.0,Boavista,Casa Pia,boavista,casa_pia
+2025-01-31,P1,Portugal-Liga1,2425,Boavista,Famalicao,0.0,2.0,A,0.0,1.0,A,3.6,2.9,2.2,3.68,3.08,2.28,3.52,3.03,2.23,2.5,1.5,2.54,1.51,0.25,1.95,1.95,Boavista,Famalicao,boavista,famalicao
+2025-02-14,P1,Portugal-Liga1,2425,Boavista,Estrela,0.0,1.0,A,0.0,1.0,A,2.45,3.0,3.1,2.6,2.96,3.23,2.55,2.94,3.1,2.5,1.5,2.58,1.5,-0.25,2.1,1.8,Boavista,Estrela Amadora,boavista,estrela_amadora
+2025-03-02,P1,Portugal-Liga1,2425,Boavista,Santa Clara,1.0,0.0,H,0.0,0.0,D,4.33,3.2,1.95,4.48,3.2,1.93,4.25,3.18,1.96,2.6,1.48,2.58,1.48,0.5,1.91,1.99,Boavista,Santa Clara,boavista,santa_clara
+2025-03-09,P1,Portugal-Liga1,2425,Boavista,Guimaraes,1.0,2.0,A,1.0,0.0,H,5.25,3.8,1.65,5.67,3.68,1.65,5.52,3.67,1.64,2.2,1.62,2.22,1.65,0.75,2.0,1.9,Boavista,Vitoria Guimaraes,boavista,vitoria_guimaraes
+2025-04-01,P1,Portugal-Liga1,2425,Boavista,Gil Vicente,1.0,3.0,A,0.0,0.0,D,3.75,3.3,2.1,4.01,3.24,2.1,3.75,3.2,2.09,2.35,1.57,2.37,1.58,0.5,1.81,2.09,Boavista,Gil Vicente,boavista,gil_vicente
+2025-04-12,P1,Portugal-Liga1,2425,Boavista,Nacional,0.0,1.0,A,0.0,1.0,A,2.75,3.1,2.63,2.75,3.17,2.7,2.76,3.11,2.63,2.15,1.67,2.18,1.66,0.0,1.99,1.91,Boavista,Nacional,boavista,nacional
+2025-04-27,P1,Portugal-Liga1,2425,Boavista,Sp Lisbon,0.0,5.0,A,0.0,2.0,A,12.0,6.25,1.22,12.57,6.48,1.21,12.4,6.26,1.21,1.57,2.35,1.54,2.38,1.75,2.03,1.87,Boavista,Sp Lisbon,boavista,sp_lisbon
+2025-05-11,P1,Portugal-Liga1,2425,Boavista,Porto,1.0,2.0,A,1.0,2.0,A,7.5,4.5,1.4,7.38,4.91,1.39,7.51,4.78,1.38,1.73,2.08,1.75,2.05,1.25,1.95,1.95,Boavista,FC Porto,boavista,fc_porto

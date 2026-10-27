@@ -1,0 +1,19 @@
+{
+  "audit_phase": "L12B - Historical Opening Odds Audit",
+  "timestamp": "2026-10-26T22:40:00",
+  "mode": "READ-ONLY",
+  "data_sources_checked": [
+    "data/master_canon.csv",
+    "data/features_train.csv"
+  ],
+  "known_sources": {
+    "football-data.co.uk": "Menyediakan beberapa kolom odds. Definisi opening vs closing TIDAK SELALU jelas."
+  },
+  "production_hash_baseline": {
+    "data/features_train.csv": "37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09",
+    "data/master_canon.csv": "3337a960b355a9de2b3ab0eba932caba5cc63fc09f022df27ae857a2b8bf7c17",
+    "features.py": "ba8f4c7313ec734a19aaad593a4135186884433d24992c77beee0150d52dbfbc",
+    "train.py": "5df530499a9694721d8f259470d7b51fc7e35a6a66a9b5a9378c274bd19fd7fc",
+    "predict.py": "3942d9babe6df0db8d4f88ed71ebe2d3845d60991583c8e556996154f4f5142b"
+  }
+}

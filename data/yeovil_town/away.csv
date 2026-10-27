@@ -1,0 +1,76 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-06,EC,England-Conference,2223,Scunthorpe,Yeovil,2.0,1.0,H,1.0,0.0,H,2.6,3.2,2.5,2.75,3.33,2.63,2.6,3.2,2.59,2.1,1.7,2.04,1.71,0.0,1.95,1.85,Scunthorpe United,Yeovil Town,scunthorpe_united,yeovil_town
+2022-08-20,EC,England-Conference,2223,Altrincham,Yeovil,2.0,2.0,D,1.0,1.0,D,2.15,3.6,3.1,2.21,3.35,3.4,2.17,3.3,3.14,1.95,1.85,1.95,1.79,-0.25,1.88,1.93,Altrincham,Yeovil Town,altrincham,yeovil_town
+2022-08-29,EC,England-Conference,2223,Wealdstone,Yeovil,0.0,0.0,D,0.0,0.0,D,2.4,3.25,3.0,2.43,3.35,2.99,2.34,3.25,2.89,2.05,1.75,2.0,1.75,-0.25,2.02,1.77,Wealdstone,Yeovil Town,wealdstone,yeovil_town
+2022-09-13,EC,England-Conference,2223,Eastleigh,Yeovil,1.0,1.0,D,0.0,1.0,A,2.2,3.1,3.25,2.26,3.34,3.31,2.19,3.19,3.18,2.15,1.66,2.14,1.65,-0.25,1.9,1.9,Eastleigh,Yeovil Town,eastleigh,yeovil_town
+2022-10-01,EC,England-Conference,2223,Southend,Yeovil,1.0,0.0,H,1.0,0.0,H,1.8,3.5,4.2,1.82,3.56,4.6,1.82,3.41,4.15,2.05,1.75,2.04,1.71,-0.5,1.8,2.0,Southend United,Yeovil Town,southend_united,yeovil_town
+2022-10-04,EC,England-Conference,2223,Dorking,Yeovil,1.0,1.0,D,0.0,1.0,A,1.95,3.5,3.3,2.04,3.81,3.42,2.0,3.6,3.28,1.66,2.15,1.65,2.15,-0.5,2.0,1.8,Dorking,Yeovil Town,dorking,yeovil_town
+2022-10-22,EC,England-Conference,2223,Oldham,Yeovil,2.0,0.0,H,1.0,0.0,H,2.4,3.6,2.7,2.43,3.35,3.0,2.35,3.29,2.83,1.98,1.83,1.96,1.78,-0.25,2.05,1.75,Oldham,Yeovil Town,oldham,yeovil_town
+2022-10-29,EC,England-Conference,2223,Maidstone,Yeovil,1.0,1.0,D,0.0,1.0,A,2.5,3.25,2.6,2.52,3.43,2.82,2.45,3.27,2.65,1.98,1.83,1.93,1.81,0.0,1.8,2.0,Maidstone,Yeovil Town,maidstone,yeovil_town
+2022-11-01,EC,England-Conference,2223,Woking,Yeovil,1.0,0.0,H,0.0,0.0,D,1.61,3.6,5.75,1.64,4.01,5.28,1.61,3.86,4.91,1.9,1.9,1.82,1.91,-0.75,1.75,2.05,Woking,Yeovil Town,woking,yeovil_town
+2022-11-19,EC,England-Conference,2223,Notts County,Yeovil,0.0,0.0,D,0.0,0.0,D,1.22,5.5,13.0,1.22,6.25,12.82,1.21,5.9,11.45,1.57,2.35,1.56,2.29,-1.75,1.88,1.93,Notts County,Yeovil Town,notts_county,yeovil_town
+2022-12-26,EC,England-Conference,2223,Torquay,Yeovil,1.0,1.0,D,1.0,0.0,H,2.38,3.25,3.1,2.28,3.38,3.12,2.3,3.27,2.92,2.02,1.77,1.97,1.79,-0.25,2.0,1.8,Torquay,Yeovil Town,torquay,yeovil_town
+2023-01-14,EC,England-Conference,2223,Bromley,Yeovil,4.0,1.0,H,2.0,0.0,H,1.91,3.3,4.2,1.88,3.54,4.29,1.88,3.28,4.1,2.2,1.65,2.16,1.64,-0.5,1.88,1.93,Bromley,Yeovil Town,bromley,yeovil_town
+2023-01-28,EC,England-Conference,2223,Dag and Red,Yeovil,0.0,2.0,A,0.0,1.0,A,1.8,3.75,4.0,1.83,3.73,4.29,1.8,3.57,4.03,1.93,1.88,1.9,1.84,-0.5,1.8,2.0,Dag and Red,Yeovil Town,dag_and_red,yeovil_town
+2023-02-21,EC,England-Conference,2223,Maidenhead,Yeovil,2.0,0.0,H,1.0,0.0,H,2.0,3.3,3.4,2.16,3.18,3.72,2.08,3.15,3.51,2.4,1.53,2.28,1.58,-0.25,1.77,2.02,Maidenhead,Yeovil Town,maidenhead,yeovil_town
+2023-02-25,EC,England-Conference,2223,York,Yeovil,2.0,1.0,H,1.0,0.0,H,2.0,3.2,3.75,2.16,3.18,3.73,2.07,3.13,3.51,2.25,1.62,2.24,1.59,-0.25,1.75,2.05,York,Yeovil Town,york,yeovil_town
+2023-03-11,EC,England-Conference,2223,Chesterfield,Yeovil,1.0,1.0,D,1.0,1.0,D,1.36,4.0,7.5,1.39,4.74,8.25,1.37,4.45,7.49,1.83,1.98,1.81,1.93,-1.25,1.9,1.9,Chesterfield,Yeovil Town,chesterfield,yeovil_town
+2023-03-14,EC,England-Conference,2223,Barnet,Yeovil,2.0,1.0,H,0.0,0.0,D,1.73,3.75,4.5,1.72,3.81,4.88,1.73,3.61,4.43,1.93,1.88,1.9,1.84,-0.75,1.95,1.85,Barnet,Yeovil Town,barnet,yeovil_town
+2023-03-18,EC,England-Conference,2223,Halifax,Yeovil,1.0,1.0,D,0.0,0.0,D,1.85,3.25,4.0,1.97,3.24,4.36,1.92,3.18,4.01,2.35,1.57,2.42,1.51,-0.5,1.95,1.85,Halifax,Yeovil Town,halifax,yeovil_town
+2023-04-04,EC,England-Conference,2223,Gateshead,Yeovil,4.0,0.0,H,2.0,0.0,H,1.57,4.0,5.5,1.57,3.96,6.21,1.58,3.75,5.4,2.0,1.8,1.95,1.79,-1.0,2.05,1.75,Gateshead,Yeovil Town,gateshead,yeovil_town
+2023-04-07,EC,England-Conference,2223,Aldershot,Yeovil,1.0,1.0,D,0.0,0.0,D,2.0,3.5,3.5,2.05,3.51,3.67,1.99,3.33,3.55,2.1,1.7,2.08,1.69,-0.5,2.0,1.8,Aldershot,Yeovil Town,aldershot,yeovil_town
+2023-04-15,EC,England-Conference,2223,Solihull,Yeovil,2.0,2.0,D,2.0,0.0,H,1.75,3.5,5.0,1.83,3.79,4.19,1.77,3.61,4.14,1.9,1.9,1.88,1.85,-0.75,1.98,1.83,Solihull,Yeovil Town,solihull,yeovil_town
+2023-04-18,EC,England-Conference,2223,Wrexham,Yeovil,3.0,0.0,H,0.0,0.0,D,1.17,6.5,12.0,1.16,7.32,17.57,1.16,6.81,14.8,1.57,2.35,1.54,2.34,-2.0,2.0,1.8,Wrexham,Yeovil Town,wrexham,yeovil_town
+2023-04-29,EC,England-Conference,2223,Boreham Wood,Yeovil,1.0,0.0,H,1.0,0.0,H,1.57,3.6,6.5,1.53,4.11,6.57,1.51,3.91,6.07,1.98,1.82,1.98,1.75,-1.0,2.0,1.8,Boreham Wood,Yeovil Town,boreham_wood,yeovil_town
+2024-08-17,EC,England-Conference,2425,Braintree Town,Yeovil,0.0,1.0,A,0.0,0.0,D,2.6,3.2,2.7,2.73,3.12,2.64,2.64,3.08,2.62,2.25,1.62,2.25,1.58,0.0,1.85,1.95,Braintree Town,Yeovil Town,braintree_town,yeovil_town
+2024-08-24,EC,England-Conference,2425,Gateshead,Yeovil,3.0,1.0,H,2.0,1.0,H,1.75,3.6,4.0,1.76,3.8,4.42,1.76,3.63,4.12,1.88,1.93,1.82,1.92,-0.75,2.05,1.75,Gateshead,Yeovil Town,gateshead,yeovil_town
+2024-08-31,EC,England-Conference,2425,Boston Utd,Yeovil,1.0,3.0,A,1.0,2.0,A,3.1,3.2,2.15,3.17,3.39,2.25,3.13,3.26,2.18,2.05,1.75,2.05,1.71,0.25,1.9,1.9,Boston Utd,Yeovil Town,boston_utd,yeovil_town
+2024-09-07,EC,England-Conference,2425,Fylde,Yeovil,3.0,4.0,A,2.0,0.0,H,2.45,3.4,2.55,2.54,3.43,2.63,2.49,3.35,2.58,1.95,1.85,1.9,1.83,0.0,1.88,1.93,Fylde,Yeovil Town,fylde,yeovil_town
+2024-09-21,EC,England-Conference,2425,Oldham,Yeovil,1.0,0.0,H,0.0,0.0,D,1.83,3.7,3.7,1.86,3.49,4.05,1.85,3.49,3.87,2.0,1.8,1.97,1.77,-0.5,1.85,1.95,Oldham,Yeovil Town,oldham,yeovil_town
+2024-09-24,EC,England-Conference,2425,Sutton,Yeovil,0.0,0.0,D,0.0,0.0,D,2.0,3.3,3.4,2.09,3.49,3.5,2.04,3.35,3.37,1.9,1.9,1.86,1.88,-0.25,1.78,2.03,Sutton United,Yeovil Town,sutton_united,yeovil_town
+2024-10-19,EC,England-Conference,2425,Wealdstone,Yeovil,0.0,3.0,A,0.0,1.0,A,2.55,3.4,2.63,2.47,3.28,2.81,2.47,3.23,2.69,2.0,1.8,2.0,1.75,0.0,1.85,1.95,Wealdstone,Yeovil Town,wealdstone,yeovil_town
+2024-10-22,EC,England-Conference,2425,Tamworth,Yeovil,0.0,0.0,D,0.0,0.0,D,2.63,3.4,2.55,2.63,3.55,2.58,2.55,3.38,2.52,1.95,1.85,1.95,1.8,0.0,1.95,1.85,Tamworth,Yeovil Town,tamworth,yeovil_town
+2024-11-09,EC,England-Conference,2425,Southend,Yeovil,0.0,1.0,A,0.0,0.0,D,1.75,3.5,4.33,1.82,3.56,4.16,1.8,3.48,4.14,2.05,1.75,2.0,1.76,-0.5,1.78,2.03,Southend United,Yeovil Town,southend_united,yeovil_town
+2024-11-23,EC,England-Conference,2425,York,Yeovil,4.0,0.0,H,2.0,0.0,H,1.6,3.9,4.75,1.61,3.85,5.19,1.61,3.81,4.93,1.88,1.93,1.86,1.88,-0.75,1.8,2.0,York,Yeovil Town,york,yeovil_town
+2024-11-30,EC,England-Conference,2425,Woking,Yeovil,0.0,2.0,A,0.0,1.0,A,2.45,3.1,2.8,2.62,2.93,2.92,2.51,2.98,2.84,2.35,1.57,2.35,1.55,0.0,1.78,2.03,Woking,Yeovil Town,woking,yeovil_town
+2024-12-21,EC,England-Conference,2425,Hartlepool,Yeovil,2.0,1.0,H,0.0,0.0,D,1.9,3.5,3.8,1.88,3.7,3.77,1.88,3.5,3.73,1.93,1.88,1.91,1.84,-0.5,1.9,1.9,Hartlepool United,Yeovil Town,hartlepool_united,yeovil_town
+2025-01-01,EC,England-Conference,2425,Forest Green,Yeovil,2.0,1.0,H,0.0,1.0,A,1.67,3.8,4.33,1.72,4.03,4.14,1.7,3.72,4.31,1.9,1.9,1.84,1.89,-0.75,1.9,1.9,Forest Green Rovers,Yeovil Town,forest_green_rovers,yeovil_town
+2025-01-14,EC,England-Conference,2425,Ebbsfleet,Yeovil,1.0,1.0,D,0.0,1.0,A,4.75,3.6,1.65,4.78,3.92,1.69,4.64,3.69,1.67,1.93,1.88,1.86,1.89,0.75,1.95,1.85,Ebbsfleet,Yeovil Town,ebbsfleet,yeovil_town
+2025-01-25,EC,England-Conference,2425,Rochdale,Yeovil,4.0,0.0,H,0.0,0.0,D,1.73,3.8,4.1,1.75,3.6,4.51,1.73,3.59,4.38,2.0,1.8,1.97,1.77,-0.75,1.98,1.83,Rochdale,Yeovil Town,rochdale,yeovil_town
+2025-02-08,EC,England-Conference,2425,Dag and Red,Yeovil,1.0,1.0,D,1.0,1.0,D,2.45,3.3,2.8,2.5,3.22,2.81,2.42,3.22,2.73,1.93,1.88,1.89,1.84,0.0,1.78,2.03,Dag and Red,Yeovil Town,dag_and_red,yeovil_town
+2025-02-22,EC,England-Conference,2425,Maidenhead,Yeovil,0.0,2.0,A,0.0,1.0,A,2.38,3.4,2.75,2.6,3.08,2.81,2.44,3.12,2.78,2.15,1.67,2.12,1.66,0.0,1.75,2.05,Maidenhead,Yeovil Town,maidenhead,yeovil_town
+2025-03-04,EC,England-Conference,2425,Barnet,Yeovil,5.0,0.0,H,3.0,0.0,H,1.33,4.75,8.0,1.34,4.9,9.18,1.34,4.58,8.28,1.9,1.9,1.85,1.89,-1.5,2.08,1.73,Barnet,Yeovil Town,barnet,yeovil_town
+2025-03-08,EC,England-Conference,2425,Halifax,Yeovil,1.0,0.0,H,1.0,0.0,H,1.95,3.6,3.5,2.0,3.27,3.98,1.96,3.3,3.69,2.2,1.65,2.22,1.61,-0.5,1.98,1.83,Halifax,Yeovil Town,halifax,yeovil_town
+2025-03-22,EC,England-Conference,2425,Solihull,Yeovil,0.0,3.0,A,0.0,1.0,A,1.85,3.5,3.8,1.89,3.36,4.12,1.87,3.34,4.0,2.15,1.67,2.11,1.67,-0.5,1.85,1.95,Solihull,Yeovil Town,solihull,yeovil_town
+2025-04-05,EC,England-Conference,2425,Altrincham,Yeovil,2.0,1.0,H,1.0,1.0,D,2.0,3.7,3.3,1.99,3.59,3.5,1.95,3.47,3.56,1.9,1.9,1.87,1.86,-0.5,2.0,1.8,Altrincham,Yeovil Town,altrincham,yeovil_town
+2025-04-21,EC,England-Conference,2425,Eastleigh,Yeovil,1.0,0.0,H,1.0,0.0,H,2.15,3.5,2.8,2.28,3.36,3.04,2.21,3.3,2.99,2.1,1.7,2.08,1.68,-0.25,1.95,1.85,Eastleigh,Yeovil Town,eastleigh,yeovil_town
+2025-05-05,EC,England-Conference,2425,Aldershot,Yeovil,2.0,1.0,H,1.0,0.0,H,2.15,3.0,3.4,2.13,3.22,3.55,2.1,3.17,3.37,2.1,1.7,2.07,1.69,-0.25,1.85,1.95,Aldershot,Yeovil Town,aldershot,yeovil_town
+2025-08-16,EC,England-Conference,2526,Forest Green,Yeovil,2.0,0.0,H,0.0,0.0,D,1.7,3.9,4.0,1.72,3.75,4.47,1.72,3.53,4.24,2.1,1.7,2.02,1.7,-0.75,1.95,1.85,Forest Green Rovers,Yeovil Town,forest_green_rovers,yeovil_town
+2025-08-23,EC,England-Conference,2526,Braintree Town,Yeovil,1.0,0.0,H,0.0,0.0,D,2.15,3.4,3.0,2.21,3.21,3.32,2.12,3.23,3.14,2.15,1.67,2.07,1.66,-0.25,1.9,1.9,Braintree Town,Yeovil Town,braintree_town,yeovil_town
+2025-08-30,EC,England-Conference,2526,Halifax,Yeovil,3.0,2.0,H,1.0,0.0,H,2.38,2.9,3.0,2.42,3.09,3.05,2.3,2.97,3.01,2.6,1.48,2.41,1.5,-0.25,2.03,1.78,Halifax,Yeovil Town,halifax,yeovil_town
+2025-09-02,EC,England-Conference,2526,Solihull,Yeovil,0.0,1.0,A,0.0,1.0,A,2.55,3.3,2.5,2.72,3.42,2.57,2.56,3.18,2.51,2.05,1.75,2.0,1.72,0.0,1.93,1.88,Solihull,Yeovil Town,solihull,yeovil_town
+2025-09-20,EC,England-Conference,2526,Tamworth,Yeovil,1.0,0.0,H,0.0,0.0,D,2.0,3.25,3.5,2.06,3.28,3.61,1.98,3.29,3.44,2.08,1.73,1.97,1.75,-0.5,2.03,1.78,Tamworth,Yeovil Town,tamworth,yeovil_town
+2025-09-24,EC,England-Conference,2526,Aldershot,Yeovil,1.0,4.0,A,0.0,3.0,A,1.95,3.4,3.4,1.99,3.75,3.37,2.0,3.4,3.27,1.73,2.08,1.74,1.97,-0.5,2.0,1.8,Aldershot,Yeovil Town,aldershot,yeovil_town
+2025-09-30,EC,England-Conference,2526,Sutton,Yeovil,1.0,2.0,A,0.0,0.0,D,2.35,3.25,2.8,2.5,3.36,2.81,2.33,3.24,2.78,1.98,1.83,1.91,1.8,0.0,1.73,2.08,Sutton United,Yeovil Town,sutton_united,yeovil_town
+2025-10-18,EC,England-Conference,2526,Rochdale,Yeovil,3.0,0.0,H,3.0,0.0,H,1.38,4.33,7.0,1.39,4.65,7.14,1.39,4.33,6.83,1.73,2.08,1.69,2.05,-1.25,1.9,1.9,Rochdale,Yeovil Town,rochdale,yeovil_town
+2025-11-08,EC,England-Conference,2526,Scunthorpe,Yeovil,1.0,0.0,H,1.0,0.0,H,1.65,4.1,4.0,,,,1.65,3.75,4.45,1.85,1.95,1.81,1.89,-0.75,1.88,1.93,Scunthorpe United,Yeovil Town,scunthorpe_united,yeovil_town
+2025-11-22,EC,England-Conference,2526,Morecambe,Yeovil,0.0,0.0,D,0.0,0.0,D,2.1,3.5,3.0,,,,2.11,3.41,2.99,1.73,2.08,1.68,2.05,-0.25,1.88,1.93,Morecambe,Yeovil Town,morecambe,yeovil_town
+2025-12-06,EC,England-Conference,2526,Hartlepool,Yeovil,0.0,2.0,A,0.0,1.0,A,1.73,3.4,4.5,,,,1.73,3.47,4.25,1.95,1.85,1.89,1.81,-0.75,2.0,1.8,Hartlepool United,Yeovil Town,hartlepool_united,yeovil_town
+2025-12-26,EC,England-Conference,2526,Truro,Yeovil,1.0,0.0,H,1.0,0.0,H,2.2,3.2,3.1,,,,2.23,3.12,3.01,2.1,1.7,2.1,1.65,-0.25,1.93,1.88,Truro,Yeovil Town,truro,yeovil_town
+2026-01-17,EC,England-Conference,2526,Brackley Town,Yeovil,2.0,1.0,H,2.0,1.0,H,1.95,3.25,3.7,,,,1.99,3.18,3.55,2.1,1.7,2.08,1.66,-0.5,1.98,1.83,Brackley Town,Yeovil Town,brackley_town,yeovil_town
+2026-02-07,EC,England-Conference,2526,Altrincham,Yeovil,0.0,1.0,A,0.0,0.0,D,2.0,3.3,3.4,,,,2.02,3.36,3.31,1.93,1.88,1.87,1.83,-0.5,2.05,1.75,Altrincham,Yeovil Town,altrincham,yeovil_town
+2026-02-11,EC,England-Conference,2526,Boreham Wood,Yeovil,3.0,2.0,H,1.0,1.0,D,1.48,4.0,6.0,,,,1.46,4.2,5.86,1.67,2.15,1.65,2.1,-1.0,1.8,2.0,Boreham Wood,Yeovil Town,boreham_wood,yeovil_town
+2026-02-21,EC,England-Conference,2526,Carlisle,Yeovil,3.0,0.0,H,3.0,0.0,H,1.55,4.0,5.25,,,,1.53,3.92,5.26,1.8,2.0,1.72,1.99,-1.0,1.98,1.83,Carlisle United,Yeovil Town,carlisle_united,yeovil_town
+2026-03-14,EC,England-Conference,2526,Boston Utd,Yeovil,2.0,1.0,H,1.0,1.0,D,1.83,3.5,3.8,,,,1.84,3.4,3.78,1.98,1.83,1.88,1.81,-0.5,1.88,1.93,Boston Utd,Yeovil Town,boston_utd,yeovil_town
+2026-03-17,EC,England-Conference,2526,Woking,Yeovil,1.0,0.0,H,1.0,0.0,H,1.91,3.4,3.5,,,,1.93,3.27,3.6,2.05,1.75,1.99,1.72,-0.5,1.95,1.85,Woking,Yeovil Town,woking,yeovil_town
+2026-03-25,EC,England-Conference,2526,Wealdstone,Yeovil,0.0,2.0,A,0.0,1.0,A,1.83,3.3,4.0,,,,1.83,3.42,3.81,1.95,1.85,1.89,1.81,-0.5,1.85,1.95,Wealdstone,Yeovil Town,wealdstone,yeovil_town
+2026-03-28,EC,England-Conference,2526,Gateshead,Yeovil,2.0,1.0,H,0.0,0.0,D,2.1,3.5,3.0,,,,2.08,3.48,2.97,1.65,2.2,1.62,2.16,-0.25,1.85,1.95,Gateshead,Yeovil Town,gateshead,yeovil_town
+2026-03-31,EC,England-Conference,2526,Southend,Yeovil,2.0,1.0,H,1.0,0.0,H,1.38,4.1,8.0,,,,1.36,4.36,7.67,1.85,1.95,1.77,1.95,-1.25,1.88,1.93,Southend United,Yeovil Town,southend_united,yeovil_town
+2026-04-06,EC,England-Conference,2526,Eastleigh,Yeovil,2.0,1.0,H,1.0,0.0,H,2.35,3.25,2.63,,,,2.34,3.28,2.73,1.93,1.88,1.88,1.83,0.0,1.78,2.03,Eastleigh,Yeovil Town,eastleigh,yeovil_town
+2026-04-18,EC,England-Conference,2526,York,Yeovil,3.0,0.0,H,2.0,0.0,H,1.13,7.0,17.0,,,,1.11,7.67,15.67,1.36,3.1,1.33,3.06,-2.5,2.03,1.78,York,Yeovil Town,york,yeovil_town
+2026-08-08,EC,England-Conference,2627,Scunthorpe,Yeovil,1.0,1.0,D,0.0,0.0,D,1.8,3.6,3.9,,,,1.84,3.55,3.63,1.8,2.0,1.74,1.98,-0.5,1.85,1.95,Scunthorpe United,Yeovil Town,scunthorpe_united,yeovil_town
+2026-08-28,EC,England-Conference,2627,Barrow,Yeovil,1.0,2.0,A,0.0,0.0,D,2.05,3.4,3.25,,,,2.03,3.22,3.39,2.15,1.67,2.1,1.66,-0.25,1.83,1.98,Barrow,Yeovil Town,barrow,yeovil_town
+2026-09-05,EC,England-Conference,2627,Southend,Yeovil,3.0,2.0,H,0.0,1.0,A,1.53,3.9,5.0,,,,1.54,3.87,5.09,1.73,2.08,1.72,2.01,-1.0,1.98,1.83,Southend United,Yeovil Town,southend_united,yeovil_town
+2026-09-15,EC,England-Conference,2627,Aldershot,Yeovil,1.0,1.0,D,0.0,1.0,A,2.15,3.5,2.9,,,,2.13,3.42,2.95,1.8,2.0,1.75,1.96,-0.25,1.9,1.9,Aldershot,Yeovil Town,aldershot,yeovil_town
+2026-09-26,EC,England-Conference,2627,Kidderminster,Yeovil,0.0,1.0,A,0.0,0.0,D,1.95,3.4,3.5,,,,1.96,3.39,3.35,1.88,1.93,1.82,1.88,-0.5,2.0,1.8,Kidderminster,Yeovil Town,kidderminster,yeovil_town
+2026-10-10,EC,England-Conference,2627,Wealdstone,Yeovil,0.0,6.0,A,0.0,1.0,A,2.5,3.6,2.4,,,,2.45,3.52,2.43,1.62,2.25,1.59,2.22,0.0,1.95,1.85,Wealdstone,Yeovil Town,wealdstone,yeovil_town

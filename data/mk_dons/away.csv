@@ -1,0 +1,121 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E2,England-L1,2122,Bolton,Milton Keynes Dons,3.0,3.0,D,1.0,1.0,D,2.3,3.4,3.0,2.33,3.55,3.05,2.3,3.45,2.93,1.88,1.98,1.83,1.96,-0.25,2.02,1.83,Bolton,MK Dons,bolton,mk_dons
+2021-08-21,E2,England-L1,2122,Ipswich,Milton Keynes Dons,2.0,2.0,D,1.0,0.0,H,2.3,3.3,3.2,2.31,3.35,3.25,2.26,3.32,3.14,1.95,1.98,1.89,1.9,-0.25,2.01,1.92,Ipswich,MK Dons,ipswich,mk_dons
+2021-09-04,E2,England-L1,2122,Cheltenham,Milton Keynes Dons,1.0,1.0,D,1.0,0.0,H,2.45,3.3,2.9,2.57,3.29,2.89,2.51,3.23,2.82,2.07,1.72,2.06,1.75,0.0,1.8,2.05,Cheltenham Town,MK Dons,cheltenham_town,mk_dons
+2021-09-18,E2,England-L1,2122,Gillingham,Milton Keynes Dons,1.0,4.0,A,1.0,2.0,A,2.75,3.5,2.5,2.81,3.42,2.52,2.73,3.37,2.51,1.85,1.95,1.85,1.94,0.0,2.08,1.85,Gillingham,MK Dons,gillingham,mk_dons
+2021-10-02,E2,England-L1,2122,Doncaster,Milton Keynes Dons,2.0,1.0,H,1.0,1.0,D,5.0,3.6,1.75,4.53,3.77,1.78,4.39,3.64,1.79,1.95,1.85,1.94,1.85,0.75,1.83,2.02,Doncaster Rovers,MK Dons,doncaster_rovers,mk_dons
+2021-10-16,E2,England-L1,2122,Shrewsbury,Milton Keynes Dons,1.0,0.0,H,0.0,0.0,D,3.6,3.6,2.0,3.64,3.46,2.08,3.51,3.4,2.07,1.95,1.85,1.95,1.84,0.25,2.05,1.8,Shrewsbury Town,MK Dons,shrewsbury_town,mk_dons
+2021-10-19,E2,England-L1,2122,Wigan,Milton Keynes Dons,1.0,2.0,A,1.0,2.0,A,2.0,3.6,3.8,2.13,3.39,3.72,2.08,3.35,3.53,2.0,1.8,1.97,1.82,-0.25,1.77,2.1,Wigan Athletic,MK Dons,wigan_athletic,mk_dons
+2021-10-30,E2,England-L1,2122,Crewe,Milton Keynes Dons,1.0,4.0,A,0.0,1.0,A,4.0,3.75,1.85,3.98,3.7,1.9,3.9,3.59,1.88,1.8,2.0,1.81,1.96,0.5,1.98,1.88,Crewe Alexandra,MK Dons,crewe_alexandra,mk_dons
+2021-11-23,E2,England-L1,2122,Sheffield Weds,Milton Keynes Dons,2.0,1.0,H,0.0,0.0,D,2.3,3.4,3.1,2.33,3.46,3.16,2.3,3.34,3.06,1.9,1.95,1.87,1.92,-0.25,2.0,1.85,Sheffield Wednesday,MK Dons,sheffield_wednesday,mk_dons
+2021-11-27,E2,England-L1,2122,Morecambe,Milton Keynes Dons,0.0,4.0,A,0.0,2.0,A,3.6,3.6,2.0,3.61,3.62,2.03,3.48,3.51,2.04,1.85,2.0,1.85,1.94,0.5,1.83,2.02,Morecambe,MK Dons,morecambe,mk_dons
+2021-12-26,E2,England-L1,2122,Lincoln,Milton Keynes Dons,2.0,3.0,A,2.0,0.0,H,3.0,3.5,2.3,2.79,3.65,2.36,2.85,3.45,2.34,1.98,1.88,1.91,1.87,0.25,1.83,2.02,Lincoln City,MK Dons,lincoln_city,mk_dons
+2022-01-08,E2,England-L1,2122,Accrington,Milton Keynes Dons,1.0,1.0,D,1.0,1.0,D,3.0,3.3,2.4,2.81,3.63,2.42,2.78,3.43,2.41,1.93,1.93,1.85,1.93,0.0,2.1,1.77,Accrington Stanley,MK Dons,accrington_stanley,mk_dons
+2022-01-15,E2,England-L1,2122,Portsmouth,Milton Keynes Dons,1.0,2.0,A,0.0,2.0,A,2.37,3.3,3.1,2.37,3.38,3.06,2.3,3.31,3.03,2.02,1.83,1.99,1.79,-0.25,2.02,1.83,Portsmouth,MK Dons,portsmouth,mk_dons
+2022-01-25,E2,England-L1,2122,Burton,Milton Keynes Dons,0.0,1.0,A,0.0,0.0,D,2.8,3.4,2.5,2.78,3.56,2.55,2.7,3.38,2.5,1.8,2.05,1.79,2.0,0.0,2.0,1.85,Burton Albion,MK Dons,burton_albion,mk_dons
+2022-01-29,E2,England-L1,2122,Wycombe,Milton Keynes Dons,0.0,1.0,A,0.0,1.0,A,2.2,3.4,3.3,2.28,3.4,3.22,2.19,3.42,3.16,1.83,2.02,1.81,1.98,-0.25,1.9,1.95,Wycombe Wanderers,MK Dons,wycombe_wanderers,mk_dons
+2022-02-08,E2,England-L1,2122,Fleetwood Town,Milton Keynes Dons,1.0,1.0,D,0.0,1.0,A,4.0,3.5,1.95,3.89,3.65,1.99,3.52,3.44,2.04,1.95,1.9,1.93,1.85,0.5,1.9,1.95,Fleetwood Town,MK Dons,fleetwood_town,mk_dons
+2022-02-19,E2,England-L1,2122,Sunderland,Milton Keynes Dons,1.0,2.0,A,0.0,0.0,D,2.2,3.4,3.3,2.25,3.62,3.09,2.2,3.46,3.12,1.85,2.0,1.83,1.95,-0.25,1.95,1.9,Sunderland,MK Dons,sunderland,mk_dons
+2022-02-22,E2,England-L1,2122,Charlton,Milton Keynes Dons,0.0,2.0,A,0.0,1.0,A,2.87,3.1,2.55,2.92,3.34,2.56,2.84,3.24,2.48,2.0,1.85,1.96,1.83,0.0,2.05,1.8,Charlton,MK Dons,charlton,mk_dons
+2022-03-05,E2,England-L1,2122,Rotherham,Milton Keynes Dons,1.0,2.0,A,1.0,0.0,H,1.85,3.6,4.33,1.83,3.67,4.38,1.85,3.57,4.16,1.98,1.88,1.97,1.82,-0.5,1.85,2.0,Rotherham United,MK Dons,rotherham_united,mk_dons
+2022-03-19,E2,England-L1,2122,Cambridge,Milton Keynes Dons,0.0,1.0,A,0.0,0.0,D,3.8,3.6,1.95,4.1,3.54,1.93,3.92,3.49,1.92,2.05,1.75,2.05,1.74,0.5,1.93,1.93,Cambridge United,MK Dons,cambridge_united,mk_dons
+2022-04-09,E2,England-L1,2122,AFC Wimbledon,Milton Keynes Dons,1.0,1.0,D,1.0,0.0,H,4.75,3.6,1.75,4.49,3.54,1.85,4.37,3.49,1.82,2.15,1.66,2.12,1.68,0.5,2.05,1.8,AFC Wimbledon,MK Dons,afc_wimbledon,mk_dons
+2022-04-19,E2,England-L1,2122,Oxford,Milton Keynes Dons,1.0,0.0,H,0.0,0.0,D,2.3,3.4,3.1,2.36,3.36,3.09,2.34,3.33,2.97,1.93,1.93,1.92,1.86,-0.25,2.0,1.85,Oxford United,MK Dons,oxford_united,mk_dons
+2022-04-30,E2,England-L1,2122,Plymouth,Milton Keynes Dons,0.0,5.0,A,0.0,3.0,A,2.62,3.4,2.62,2.73,3.42,2.59,2.66,3.33,2.6,2.0,1.85,1.95,1.84,0.0,1.95,1.9,Plymouth Argyle,MK Dons,plymouth_argyle,mk_dons
+2022-07-30,E2,England-L1,2223,Cambridge,Milton Keynes Dons,1.0,0.0,H,1.0,0.0,H,4.0,3.5,1.9,4.21,3.52,1.95,3.95,3.45,1.91,2.05,1.8,2.01,1.77,0.5,1.93,1.93,Cambridge United,MK Dons,cambridge_united,mk_dons
+2022-08-13,E2,England-L1,2223,Ipswich,Milton Keynes Dons,3.0,0.0,H,2.0,0.0,H,1.75,3.6,5.0,1.82,3.65,4.69,1.8,3.54,4.41,2.1,1.77,2.03,1.76,-0.75,1.98,1.83,Ipswich,MK Dons,ipswich,mk_dons
+2022-08-27,E2,England-L1,2223,Morecambe,Milton Keynes Dons,0.0,4.0,A,0.0,2.0,A,3.4,3.4,2.15,3.46,3.39,2.23,3.36,3.29,2.17,2.1,1.77,2.07,1.73,0.25,1.98,1.88,Morecambe,MK Dons,morecambe,mk_dons
+2022-09-03,E2,England-L1,2223,Exeter,Milton Keynes Dons,1.0,0.0,H,0.0,0.0,D,2.15,3.5,3.3,2.28,3.35,3.36,2.2,3.31,3.26,2.1,1.7,2.07,1.72,-0.25,1.9,1.95,Exeter City,MK Dons,exeter_city,mk_dons
+2022-09-17,E2,England-L1,2223,Oxford,Milton Keynes Dons,1.0,2.0,A,0.0,1.0,A,1.95,3.6,4.0,1.97,3.7,3.88,1.96,3.49,3.77,2.0,1.85,1.96,1.82,-0.5,1.98,1.88,Oxford United,MK Dons,oxford_united,mk_dons
+2022-10-08,E2,England-L1,2223,Shrewsbury,Milton Keynes Dons,2.0,1.0,H,2.0,0.0,H,2.25,3.3,3.2,2.32,3.24,3.4,2.28,3.18,3.22,2.25,1.61,2.29,1.6,-0.25,1.95,1.9,Shrewsbury Town,MK Dons,shrewsbury_town,mk_dons
+2022-10-25,E2,England-L1,2223,Charlton,Milton Keynes Dons,0.0,2.0,A,0.0,0.0,D,1.66,3.8,4.75,1.67,3.95,5.47,1.69,3.75,4.89,1.95,1.9,1.93,1.85,-0.75,1.88,1.98,Charlton,MK Dons,charlton,mk_dons
+2022-10-29,E2,England-L1,2223,Cheltenham,Milton Keynes Dons,0.0,0.0,D,0.0,0.0,D,2.5,3.4,2.87,2.54,3.3,2.97,2.51,3.17,2.82,2.25,1.61,2.24,1.62,0.0,1.8,2.05,Cheltenham Town,MK Dons,cheltenham_town,mk_dons
+2022-11-19,E2,England-L1,2223,Barnsley,Milton Keynes Dons,3.0,1.0,H,1.0,1.0,D,1.8,3.5,4.75,1.8,3.66,4.81,1.8,3.51,4.49,2.15,1.66,2.14,1.67,-0.75,2.02,1.77,Barnsley,MK Dons,barnsley,mk_dons
+2022-12-17,E2,England-L1,2223,Portsmouth,Milton Keynes Dons,0.0,2.0,A,0.0,1.0,A,1.95,3.5,4.0,1.94,3.64,4.06,1.94,3.5,3.82,2.0,1.85,1.99,1.79,-0.5,1.95,1.9,Portsmouth,MK Dons,portsmouth,mk_dons
+2022-12-29,E2,England-L1,2223,Peterboro,Milton Keynes Dons,2.0,0.0,H,1.0,0.0,H,1.73,3.75,4.75,1.74,3.98,4.75,1.74,3.78,4.43,1.85,2.0,1.82,1.96,-0.75,1.98,1.88,Peterborough United,MK Dons,peterborough_united,mk_dons
+2023-01-01,E2,England-L1,2223,Plymouth,Milton Keynes Dons,3.0,1.0,H,2.0,1.0,H,1.75,3.8,4.5,1.79,3.82,4.63,1.78,3.67,4.32,1.9,1.95,1.86,1.9,-0.75,1.98,1.83,Plymouth Argyle,MK Dons,plymouth_argyle,mk_dons
+2023-01-21,E2,England-L1,2223,Forest Green,Milton Keynes Dons,1.0,2.0,A,1.0,1.0,D,2.75,3.4,2.55,2.65,3.44,2.74,2.6,3.35,2.61,1.98,1.88,1.98,1.8,0.0,1.95,1.85,Forest Green Rovers,MK Dons,forest_green_rovers,mk_dons
+2023-02-04,E2,England-L1,2223,Bristol Rvs,Milton Keynes Dons,0.0,2.0,A,0.0,1.0,A,2.2,3.5,3.2,2.24,3.54,3.28,2.19,3.41,3.15,1.98,1.88,1.93,1.84,-0.25,1.9,1.95,Bristol Rvs,MK Dons,bristol_rvs,mk_dons
+2023-02-14,E2,England-L1,2223,Bolton,Milton Keynes Dons,5.0,0.0,H,3.0,0.0,H,1.67,3.8,5.5,1.69,3.84,5.44,1.67,3.73,5.07,2.0,1.85,2.01,1.79,-0.75,1.88,1.98,Bolton,MK Dons,bolton,mk_dons
+2023-02-18,E2,England-L1,2223,Sheffield Weds,Milton Keynes Dons,5.0,2.0,H,1.0,2.0,A,1.45,4.5,7.5,1.43,4.54,8.32,1.44,4.39,7.16,1.95,1.9,1.92,1.86,-1.25,2.05,1.8,Sheffield Wednesday,MK Dons,sheffield_wednesday,mk_dons
+2023-02-28,E2,England-L1,2223,Lincoln,Milton Keynes Dons,1.0,1.0,D,1.0,0.0,H,2.25,3.2,3.3,2.27,3.15,3.61,2.22,3.11,3.42,2.4,1.53,2.41,1.54,-0.25,1.93,1.93,Lincoln City,MK Dons,lincoln_city,mk_dons
+2023-03-04,E2,England-L1,2223,Port Vale,Milton Keynes Dons,1.0,0.0,H,1.0,0.0,H,1.95,3.3,4.2,2.0,3.39,4.15,1.98,3.29,3.89,2.25,1.62,2.3,1.59,-0.5,2.0,1.85,Port Vale,MK Dons,port_vale,mk_dons
+2023-03-18,E2,England-L1,2223,Accrington,Milton Keynes Dons,0.0,1.0,A,0.0,1.0,A,2.6,3.3,2.7,2.58,3.26,2.96,2.51,3.2,2.83,2.1,1.7,2.14,1.68,0.0,1.88,1.98,Accrington Stanley,MK Dons,accrington_stanley,mk_dons
+2023-04-01,E2,England-L1,2223,Wycombe,Milton Keynes Dons,2.0,2.0,D,1.0,1.0,D,1.91,3.6,4.0,1.9,3.69,4.2,1.88,3.58,3.97,2.05,1.8,1.97,1.81,-0.5,1.88,1.98,Wycombe Wanderers,MK Dons,wycombe_wanderers,mk_dons
+2023-04-10,E2,England-L1,2223,Derby,Milton Keynes Dons,1.0,1.0,D,1.0,0.0,H,1.67,3.75,5.5,1.68,3.91,5.33,1.65,3.84,5.13,2.05,1.8,2.0,1.79,-0.75,1.88,1.98,Derby,MK Dons,derby,mk_dons
+2023-04-22,E2,England-L1,2223,Fleetwood Town,Milton Keynes Dons,1.0,0.0,H,1.0,0.0,H,2.38,3.4,3.0,2.61,3.35,2.85,2.49,3.27,2.82,2.15,1.67,2.09,1.71,0.0,1.7,2.1,Fleetwood Town,MK Dons,fleetwood_town,mk_dons
+2023-05-07,E2,England-L1,2223,Burton,Milton Keynes Dons,0.0,0.0,D,0.0,0.0,D,3.6,3.5,2.05,3.46,3.57,2.05,3.48,3.54,2.02,1.88,1.98,1.83,1.94,0.5,1.8,2.05,Burton Albion,MK Dons,burton_albion,mk_dons
+2023-08-05,E3,England-L2,2324,Wrexham,Milton Keynes Dons,3.0,5.0,A,1.0,2.0,A,1.67,3.75,5.25,1.69,3.98,5.13,1.64,3.91,4.99,1.83,2.03,1.8,1.97,-0.75,1.8,2.05,Wrexham,MK Dons,wrexham,mk_dons
+2023-08-15,E3,England-L2,2324,Crawley Town,Milton Keynes Dons,2.0,1.0,H,1.0,1.0,D,3.0,3.3,2.38,3.06,3.44,2.41,2.97,3.3,2.33,2.03,1.83,1.96,1.8,0.25,1.8,2.05,Crawley Town,MK Dons,crawley_town,mk_dons
+2023-08-19,E3,England-L2,2324,Colchester,Milton Keynes Dons,2.0,3.0,A,2.0,1.0,H,2.75,3.3,2.6,2.86,3.28,2.64,2.74,3.22,2.55,2.05,1.75,2.03,1.73,0.0,2.0,1.85,Colchester United,MK Dons,colchester_united,mk_dons
+2023-09-02,E3,England-L2,2324,Crewe,Milton Keynes Dons,3.0,1.0,H,0.0,1.0,A,3.1,3.4,2.3,3.03,3.57,2.36,2.92,3.44,2.3,1.75,2.05,1.74,2.03,0.25,1.83,2.03,Crewe Alexandra,MK Dons,crewe_alexandra,mk_dons
+2023-09-23,E3,England-L2,2324,Sutton,Milton Keynes Dons,1.0,1.0,D,1.0,0.0,H,2.7,3.4,2.6,2.66,3.42,2.74,2.59,3.37,2.58,1.83,2.03,1.78,1.98,0.0,1.93,1.93,Sutton United,MK Dons,sutton_united,mk_dons
+2023-10-03,E3,England-L2,2324,Walsall,Milton Keynes Dons,0.0,0.0,D,0.0,0.0,D,2.6,3.4,2.6,2.74,3.4,2.67,2.61,3.36,2.6,1.9,1.95,1.85,1.9,0.0,1.93,1.93,Walsall,MK Dons,walsall,mk_dons
+2023-10-07,E3,England-L2,2324,Gillingham,Milton Keynes Dons,2.0,1.0,H,1.0,0.0,H,2.25,3.4,3.2,2.4,3.38,3.12,2.28,3.28,3.04,2.08,1.73,2.04,1.72,-0.25,2.03,1.83,Gillingham,MK Dons,gillingham,mk_dons
+2023-10-21,E3,England-L2,2324,Accrington,Milton Keynes Dons,1.0,0.0,H,1.0,0.0,H,2.63,3.4,2.55,2.7,3.57,2.62,2.6,3.44,2.51,1.73,2.08,1.72,2.04,0.0,1.95,1.9,Accrington Stanley,MK Dons,accrington_stanley,mk_dons
+2023-11-11,E3,England-L2,2324,Newport County,Milton Keynes Dons,0.0,0.0,D,0.0,0.0,D,3.0,3.6,2.25,3.12,3.64,2.28,2.98,3.5,2.23,1.73,2.08,1.71,2.06,0.25,1.9,1.95,Newport County,MK Dons,newport_county,mk_dons
+2023-11-25,E3,England-L2,2324,Salford,Milton Keynes Dons,2.0,4.0,A,2.0,1.0,H,2.7,3.4,2.5,2.78,3.6,2.53,2.68,3.5,2.44,1.62,2.25,1.63,2.2,0.0,2.0,1.85,Salford City,MK Dons,salford_city,mk_dons
+2023-12-23,E3,England-L2,2324,Morecambe,Milton Keynes Dons,1.0,3.0,A,0.0,1.0,A,3.0,3.5,2.3,3.08,3.55,2.35,2.94,3.48,2.26,1.83,2.03,1.78,1.97,0.25,1.85,2.0,Morecambe,MK Dons,morecambe,mk_dons
+2024-01-01,E3,England-L2,2324,Doncaster,Milton Keynes Dons,3.0,0.0,H,3.0,0.0,H,3.6,3.5,2.05,3.59,3.71,2.06,3.44,3.52,2.02,1.85,2.0,1.79,1.96,0.25,2.05,1.75,Doncaster Rovers,MK Dons,doncaster_rovers,mk_dons
+2024-01-13,E3,England-L2,2324,Tranmere,Milton Keynes Dons,1.0,2.0,A,1.0,1.0,D,2.63,3.6,2.45,2.69,3.78,2.53,2.62,3.6,2.44,1.65,2.2,1.65,2.18,0.0,2.0,1.85,Tranmere Rovers,MK Dons,tranmere_rovers,mk_dons
+2024-02-03,E3,England-L2,2324,Barrow,Milton Keynes Dons,1.0,0.0,H,0.0,0.0,D,2.3,3.5,3.0,2.44,3.31,3.12,2.32,3.31,2.97,2.03,1.83,1.97,1.79,-0.25,2.05,1.8,Barrow,MK Dons,barrow,mk_dons
+2024-02-13,E3,England-L2,2324,Bradford,Milton Keynes Dons,4.0,0.0,H,2.0,0.0,H,2.25,3.6,3.0,2.35,3.45,3.16,2.27,3.36,3.02,2.0,1.85,1.96,1.8,-0.25,2.03,1.83,Bradford City,MK Dons,bradford_city,mk_dons
+2024-02-17,E3,England-L2,2324,Swindon,Milton Keynes Dons,1.0,2.0,A,0.0,2.0,A,3.1,3.6,2.2,3.05,3.71,2.3,2.95,3.6,2.2,1.65,2.2,1.63,2.2,0.25,1.88,1.98,Swindon Town,MK Dons,swindon_town,mk_dons
+2024-03-02,E3,England-L2,2324,AFC Wimbledon,Milton Keynes Dons,1.0,0.0,H,0.0,0.0,D,2.5,3.4,2.8,2.58,3.42,2.84,2.44,3.36,2.77,1.93,1.93,1.88,1.87,0.0,1.8,2.05,AFC Wimbledon,MK Dons,afc_wimbledon,mk_dons
+2024-03-05,E3,England-L2,2324,Mansfield,Milton Keynes Dons,1.0,2.0,A,1.0,1.0,D,1.8,3.75,4.33,1.86,3.76,4.3,1.8,3.71,4.12,1.7,2.1,1.68,2.11,-0.75,2.08,1.73,Mansfield Town,MK Dons,mansfield_town,mk_dons
+2024-03-12,E3,England-L2,2324,Grimsby,Milton Keynes Dons,1.0,0.0,H,1.0,0.0,H,2.9,3.75,2.25,3.01,3.64,2.34,2.88,3.54,2.29,1.73,2.08,1.72,2.07,0.25,1.85,2.0,Grimsby Town,MK Dons,grimsby_town,mk_dons
+2024-03-23,E3,England-L2,2324,Stockport,Milton Keynes Dons,5.0,0.0,H,3.0,0.0,H,1.75,3.75,4.75,1.82,3.71,4.48,1.78,3.68,4.34,1.85,2.0,1.81,1.96,-0.75,2.05,1.8,Stockport County,MK Dons,stockport_county,mk_dons
+2024-04-01,E3,England-L2,2324,Notts County,Milton Keynes Dons,3.0,3.0,D,1.0,1.0,D,2.7,3.6,2.5,2.8,3.82,2.38,2.7,3.7,2.35,1.5,2.5,1.49,2.51,0.25,1.75,2.05,Notts County,MK Dons,notts_county,mk_dons
+2024-04-06,E3,England-L2,2324,Forest Green,Milton Keynes Dons,0.0,2.0,A,0.0,1.0,A,4.5,3.6,1.8,4.58,3.91,1.76,4.29,3.75,1.77,1.83,2.03,1.79,1.98,0.75,1.83,2.03,Forest Green Rovers,MK Dons,forest_green_rovers,mk_dons
+2024-04-20,E3,England-L2,2324,Harrogate,Milton Keynes Dons,3.0,5.0,A,2.0,2.0,D,3.25,3.6,2.1,3.27,3.73,2.15,3.17,3.6,2.11,1.67,2.15,1.68,2.12,0.25,2.0,1.85,Harrogate Town,MK Dons,harrogate_town,mk_dons
+2024-08-17,E3,England-L2,2425,Colchester,Milton Keynes Dons,2.0,0.0,H,0.0,0.0,D,3.1,3.5,2.2,2.94,3.64,2.27,2.95,3.56,2.24,1.7,2.1,1.71,2.07,0.25,1.85,2.0,Colchester United,MK Dons,colchester_united,mk_dons
+2024-09-02,E3,England-L2,2425,Salford,Milton Keynes Dons,1.0,0.0,H,1.0,0.0,H,3.1,3.4,2.2,3.02,3.61,2.23,2.99,3.52,2.21,1.7,2.1,1.69,2.09,0.25,1.9,1.9,Salford City,MK Dons,salford_city,mk_dons
+2024-09-14,E3,England-L2,2425,AFC Wimbledon,Milton Keynes Dons,3.0,0.0,H,1.0,0.0,H,2.25,3.5,2.9,2.33,3.3,3.02,2.32,3.37,2.94,1.9,1.95,1.88,1.87,-0.25,2.03,1.83,AFC Wimbledon,MK Dons,afc_wimbledon,mk_dons
+2024-09-28,E3,England-L2,2425,Bromley,Milton Keynes Dons,1.0,1.0,D,1.0,1.0,D,3.0,3.5,2.15,3.07,3.68,2.15,3.03,3.59,2.17,1.7,2.1,1.7,2.09,0.25,1.93,1.93,Bromley,MK Dons,bromley,mk_dons
+2024-10-01,E3,England-L2,2425,Harrogate,Milton Keynes Dons,1.0,5.0,A,0.0,3.0,A,3.6,3.7,1.91,3.85,3.58,1.96,3.72,3.54,1.94,1.93,1.93,1.89,1.88,0.5,1.9,1.95,Harrogate Town,MK Dons,harrogate_town,mk_dons
+2024-10-19,E3,England-L2,2425,Morecambe,Milton Keynes Dons,1.0,3.0,A,1.0,2.0,A,3.7,3.6,1.91,3.71,3.71,1.9,3.65,3.63,1.93,1.75,2.05,1.76,2.0,0.5,1.87,1.92,Morecambe,MK Dons,morecambe,mk_dons
+2024-10-26,E3,England-L2,2425,Grimsby,Milton Keynes Dons,1.0,3.0,A,1.0,0.0,H,3.25,3.25,2.2,3.24,3.46,2.14,3.19,3.44,2.15,1.85,1.95,1.83,1.92,0.25,1.98,1.88,Grimsby Town,MK Dons,grimsby_town,mk_dons
+2024-12-21,E3,England-L2,2425,Newport County,Milton Keynes Dons,6.0,3.0,H,4.0,1.0,H,5.25,3.6,1.67,4.76,3.99,1.65,4.62,3.8,1.69,1.7,2.1,1.7,2.09,0.75,1.98,1.88,Newport County,MK Dons,newport_county,mk_dons
+2025-01-01,E3,England-L2,2425,Chesterfield,Milton Keynes Dons,1.0,2.0,A,0.0,2.0,A,2.2,3.4,3.1,2.2,3.48,3.12,2.18,3.46,3.05,1.73,2.08,1.72,2.05,-0.25,1.93,1.93,Chesterfield,MK Dons,chesterfield,mk_dons
+2025-01-18,E3,England-L2,2425,Walsall,Milton Keynes Dons,4.0,2.0,H,1.0,1.0,D,1.7,3.9,4.33,1.7,3.83,4.6,1.72,3.83,4.42,1.75,2.05,1.76,2.01,-0.75,1.95,1.9,Walsall,MK Dons,walsall,mk_dons
+2025-01-21,E3,England-L2,2425,Fleetwood Town,Milton Keynes Dons,2.0,1.0,H,1.0,0.0,H,2.15,3.3,3.1,2.23,3.47,3.21,2.2,3.43,3.1,1.85,2.0,1.84,1.94,-0.25,1.95,1.9,Fleetwood Town,MK Dons,fleetwood_town,mk_dons
+2025-02-01,E3,England-L2,2425,Doncaster,Milton Keynes Dons,2.0,1.0,H,1.0,0.0,H,1.73,3.6,4.75,1.74,3.79,4.39,1.76,3.71,4.28,1.83,2.03,1.78,2.0,-0.75,1.98,1.88,Doncaster Rovers,MK Dons,doncaster_rovers,mk_dons
+2025-02-11,E3,England-L2,2425,Barrow,Milton Keynes Dons,2.0,1.0,H,1.0,1.0,D,2.0,3.4,3.6,2.03,3.3,3.95,2.04,3.23,3.7,2.15,1.67,2.19,1.64,-0.25,1.73,2.08,Barrow,MK Dons,barrow,mk_dons
+2025-02-15,E3,England-L2,2425,Tranmere,Milton Keynes Dons,1.0,1.0,D,0.0,1.0,A,2.38,3.25,2.9,2.39,3.43,2.85,2.37,3.34,2.82,2.0,1.85,1.95,1.81,-0.25,2.1,1.78,Tranmere Rovers,MK Dons,tranmere_rovers,mk_dons
+2025-02-22,E3,England-L2,2425,Bradford,Milton Keynes Dons,2.0,0.0,H,1.0,0.0,H,1.75,3.7,4.33,1.76,3.67,4.44,1.75,3.65,4.36,1.93,1.93,1.89,1.87,-0.75,2.03,1.83,Bradford City,MK Dons,bradford_city,mk_dons
+2025-03-04,E3,England-L2,2425,Accrington,Milton Keynes Dons,2.0,0.0,H,2.0,0.0,H,2.45,3.3,2.75,2.51,3.29,2.89,2.46,3.24,2.82,2.08,1.73,2.08,1.72,0.0,1.77,2.05,Accrington Stanley,MK Dons,accrington_stanley,mk_dons
+2025-03-15,E3,England-L2,2425,Port Vale,Milton Keynes Dons,3.0,0.0,H,1.0,0.0,H,1.95,3.5,3.75,1.94,3.39,3.94,1.95,3.38,3.77,2.08,1.73,2.04,1.72,-0.5,2.0,1.85,Port Vale,MK Dons,port_vale,mk_dons
+2025-03-22,E3,England-L2,2425,Cheltenham,Milton Keynes Dons,0.0,1.0,A,0.0,1.0,A,2.15,3.4,3.2,2.19,3.46,3.15,2.16,3.39,3.15,1.98,1.88,1.91,1.85,-0.25,1.9,1.95,Cheltenham Town,MK Dons,cheltenham_town,mk_dons
+2025-03-25,E3,England-L2,2425,Carlisle,Milton Keynes Dons,2.0,2.0,D,2.0,2.0,D,2.38,3.3,2.88,2.41,3.53,2.82,2.39,3.39,2.81,2.0,1.85,1.95,1.83,0.0,1.73,2.08,Carlisle United,MK Dons,carlisle_united,mk_dons
+2025-04-02,E3,England-L2,2425,Notts County,Milton Keynes Dons,3.0,0.0,H,0.0,0.0,D,1.7,4.1,4.2,1.7,4.02,4.37,1.7,3.96,4.3,1.57,2.35,1.57,2.32,-0.75,1.9,1.95,Notts County,MK Dons,notts_county,mk_dons
+2025-04-12,E3,England-L2,2425,Gillingham,Milton Keynes Dons,1.0,0.0,H,0.0,0.0,D,2.1,3.4,3.3,2.13,3.32,3.41,2.13,3.32,3.31,2.15,1.67,2.07,1.71,-0.25,1.85,2.0,Gillingham,MK Dons,gillingham,mk_dons
+2025-04-21,E3,England-L2,2425,Crewe,Milton Keynes Dons,0.0,1.0,A,0.0,1.0,A,2.0,3.4,3.5,2.09,3.37,3.46,2.05,3.4,3.46,1.98,1.88,1.95,1.83,-0.25,1.8,2.05,Crewe Alexandra,MK Dons,crewe_alexandra,mk_dons
+2025-05-03,E3,England-L2,2425,Swindon,Milton Keynes Dons,0.0,0.0,D,0.0,0.0,D,1.71,3.9,4.2,1.71,3.99,4.09,1.73,3.94,4.11,1.57,2.35,1.57,2.32,-0.75,1.98,1.88,Swindon Town,MK Dons,swindon_town,mk_dons
+2025-08-09,E3,England-L2,2526,Barrow,Milton Keynes Dons,0.0,2.0,A,0.0,0.0,D,2.5,3.3,2.7,2.56,3.33,2.69,2.45,3.31,2.72,2.1,1.7,2.03,1.72,0.0,1.85,2.0,Barrow,MK Dons,barrow,mk_dons
+2025-08-19,E3,England-L2,2526,Crawley Town,Milton Keynes Dons,1.0,1.0,D,1.0,0.0,H,3.8,3.8,1.83,3.94,4.06,1.81,4.01,3.67,1.81,1.88,1.98,1.85,1.87,0.5,2.0,1.85,Crawley Town,MK Dons,crawley_town,mk_dons
+2025-08-23,E3,England-L2,2526,Newport County,Milton Keynes Dons,1.0,2.0,A,1.0,1.0,D,4.5,4.0,1.67,5.14,3.85,1.63,4.91,3.9,1.63,1.93,1.93,1.86,1.86,0.75,2.0,1.82,Newport County,MK Dons,newport_county,mk_dons
+2025-09-13,E3,England-L2,2526,Chesterfield,Milton Keynes Dons,1.0,1.0,D,0.0,1.0,A,2.15,3.4,3.25,2.23,3.28,3.24,2.17,3.38,3.2,2.0,1.85,1.9,1.83,-0.25,1.9,1.95,Chesterfield,MK Dons,chesterfield,mk_dons
+2025-09-27,E3,England-L2,2526,Shrewsbury,Milton Keynes Dons,1.0,2.0,A,0.0,2.0,A,3.1,3.4,2.15,3.12,3.45,2.21,3.22,3.31,2.17,2.05,1.8,2.03,1.72,0.25,1.9,1.95,Shrewsbury Town,MK Dons,shrewsbury_town,mk_dons
+2025-10-11,E3,England-L2,2526,Bristol Rvs,Milton Keynes Dons,0.0,4.0,A,0.0,1.0,A,2.32,3.2,2.85,2.54,3.07,2.93,2.44,3.25,2.8,2.05,1.8,1.95,1.78,-0.25,2.1,1.78,Bristol Rvs,MK Dons,bristol_rvs,mk_dons
+2025-10-25,E3,England-L2,2526,Bromley,Milton Keynes Dons,2.0,1.0,H,0.0,1.0,A,2.55,3.25,2.57,2.52,3.39,2.69,2.58,3.35,2.59,1.98,1.88,1.86,1.86,0.0,1.88,1.98,Bromley,MK Dons,bromley,mk_dons
+2025-11-08,E3,England-L2,2526,Barnet,Milton Keynes Dons,2.0,2.0,D,2.0,1.0,H,2.05,3.6,3.05,,,,2.14,3.46,3.14,1.9,1.95,1.85,1.87,-0.25,1.9,1.95,Barnet,MK Dons,barnet,mk_dons
+2025-11-22,E3,England-L2,2526,Tranmere,Milton Keynes Dons,2.0,2.0,D,2.0,0.0,H,2.7,3.6,2.25,,,,2.82,3.36,2.37,1.98,1.88,1.95,1.78,0.25,1.8,2.05,Tranmere Rovers,MK Dons,tranmere_rovers,mk_dons
+2025-12-09,E3,England-L2,2526,Notts County,Milton Keynes Dons,3.0,2.0,H,2.0,2.0,D,2.75,3.2,2.4,,,,2.72,3.19,2.56,2.05,1.75,2.0,1.74,0.0,2.05,1.8,Notts County,MK Dons,notts_county,mk_dons
+2025-12-20,E3,England-L2,2526,Harrogate,Milton Keynes Dons,0.0,4.0,A,0.0,3.0,A,5.0,3.9,1.61,,,,4.96,3.81,1.64,1.85,1.95,1.85,1.86,0.75,2.0,1.85,Harrogate Town,MK Dons,harrogate_town,mk_dons
+2026-01-01,E3,England-L2,2526,Colchester,Milton Keynes Dons,1.0,0.0,H,0.0,0.0,D,2.45,3.2,2.7,,,,2.54,3.19,2.72,2.05,1.75,2.0,1.73,0.0,1.83,2.03,Colchester United,MK Dons,colchester_united,mk_dons
+2026-01-17,E3,England-L2,2526,Accrington,Milton Keynes Dons,0.0,2.0,A,0.0,2.0,A,3.1,3.4,2.15,,,,3.25,3.24,2.19,2.2,1.65,2.19,1.61,0.25,1.93,1.93,Accrington Stanley,MK Dons,accrington_stanley,mk_dons
+2026-01-31,E3,England-L2,2526,Grimsby,Milton Keynes Dons,2.0,2.0,D,0.0,2.0,A,2.55,3.5,2.45,,,,2.58,3.42,2.54,1.9,1.9,1.88,1.84,0.0,1.95,1.9,Grimsby Town,MK Dons,grimsby_town,mk_dons
+2026-02-07,E3,England-L2,2526,Cheltenham,Milton Keynes Dons,2.0,3.0,A,1.0,2.0,A,4.2,3.7,1.71,,,,4.38,3.56,1.76,2.05,1.75,2.0,1.73,0.75,1.8,2.05,Cheltenham Town,MK Dons,cheltenham_town,mk_dons
+2026-02-23,E3,England-L2,2526,Walsall,Milton Keynes Dons,0.0,2.0,A,0.0,1.0,A,2.85,3.2,2.25,,,,2.87,3.14,2.38,2.1,1.7,2.07,1.68,0.25,1.8,2.05,Walsall,MK Dons,walsall,mk_dons
+2026-02-28,E3,England-L2,2526,Cambridge,Milton Keynes Dons,1.0,1.0,D,0.0,0.0,D,2.3,3.2,3.1,,,,2.35,3.05,3.11,2.35,1.57,2.32,1.55,-0.25,2.05,1.8,Cambridge United,MK Dons,cambridge_united,mk_dons
+2026-03-10,E3,England-L2,2526,Gillingham,Milton Keynes Dons,1.0,5.0,A,0.0,3.0,A,3.3,3.25,2.1,,,,3.24,3.26,2.16,2.1,1.7,2.07,1.68,0.25,2.0,1.85,Gillingham,MK Dons,gillingham,mk_dons
+2026-03-14,E3,England-L2,2526,Swindon,Milton Keynes Dons,1.0,2.0,A,0.0,1.0,A,3.0,3.3,2.25,,,,2.83,3.36,2.34,1.88,1.98,1.8,1.93,0.25,1.8,2.05,Swindon Town,MK Dons,swindon_town,mk_dons
+2026-03-28,E3,England-L2,2526,Salford,Milton Keynes Dons,1.0,0.0,H,0.0,0.0,D,3.0,3.2,2.3,,,,2.91,3.29,2.33,2.0,1.85,1.93,1.79,0.25,1.83,2.03,Salford City,MK Dons,salford_city,mk_dons
+2026-04-06,E3,England-L2,2526,Oldham,Milton Keynes Dons,1.0,1.0,D,0.0,1.0,A,2.65,3.2,2.5,,,,2.67,3.28,2.48,2.08,1.73,2.02,1.73,0.0,1.98,1.88,Oldham,MK Dons,oldham,mk_dons
+2026-04-18,E3,England-L2,2526,Crewe,Milton Keynes Dons,1.0,3.0,A,0.0,2.0,A,3.6,3.4,1.96,,,,3.53,3.56,1.94,1.85,1.95,1.8,1.92,0.5,1.85,2.0,Crewe Alexandra,MK Dons,crewe_alexandra,mk_dons
+2026-05-02,E3,England-L2,2526,Fleetwood Town,Milton Keynes Dons,1.0,1.0,D,1.0,1.0,D,3.8,3.8,1.79,,,,3.89,3.58,1.84,1.93,1.93,1.86,1.84,0.5,1.98,1.88,Fleetwood Town,MK Dons,fleetwood_town,mk_dons
+2026-08-15,E2,England-L1,2627,Oxford,Milton Keynes Dons,2.0,2.0,D,1.0,2.0,A,2.1,3.3,3.3,,,,2.18,3.32,3.23,2.1,1.7,2.07,1.68,-0.25,1.88,1.98,Oxford United,MK Dons,oxford_united,mk_dons
+2026-09-02,E2,England-L1,2627,Wigan,Milton Keynes Dons,3.0,1.0,H,1.0,0.0,H,2.3,3.25,2.85,,,,2.4,3.3,2.84,2.03,1.83,1.98,1.76,-0.25,2.1,1.78,Wigan Athletic,MK Dons,wigan_athletic,mk_dons
+2026-09-05,E2,England-L1,2627,Wycombe,Milton Keynes Dons,3.0,3.0,D,2.0,0.0,H,2.25,3.4,2.82,,,,2.27,3.5,2.88,1.75,2.05,1.74,2.0,-0.25,2.0,1.85,Wycombe Wanderers,MK Dons,wycombe_wanderers,mk_dons
+2026-09-17,E2,England-L1,2627,AFC Wimbledon,Milton Keynes Dons,0.0,0.0,D,0.0,0.0,D,3.0,3.3,2.25,,,,2.84,3.38,2.31,1.85,1.95,1.82,1.9,0.25,1.8,2.05,AFC Wimbledon,MK Dons,afc_wimbledon,mk_dons
+2026-10-20,E2,England-L1,2627,Blackpool,Milton Keynes Dons,2.0,0.0,H,0.0,0.0,D,2.4,3.4,2.65,,,,2.38,3.64,2.67,1.62,2.25,1.57,2.28,0.0,1.83,2.03,Blackpool,MK Dons,blackpool,mk_dons

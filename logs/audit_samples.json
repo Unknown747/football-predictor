@@ -1,0 +1,42 @@
+[
+  {
+    "name": "S1_H2H_rich",
+    "date": "2024-01-02",
+    "home": "St Mirren",
+    "away": "Celtic",
+    "league": "Scotland-Prem",
+    "season": "2324"
+  },
+  {
+    "name": "S2_H2H_zero",
+    "date": "2024-08-02",
+    "home": "FC Koln",
+    "away": "Hamburger SV",
+    "league": "Germany-BL2",
+    "season": "2425"
+  },
+  {
+    "name": "S3_season_start",
+    "date": "2024-08-04",
+    "home": "Ulm",
+    "away": "Kaiserslautern",
+    "league": "Germany-BL2",
+    "season": "2425"
+  },
+  {
+    "name": "S4_no_odds",
+    "date": "2024-04-15",
+    "home": "Gateshead",
+    "away": "Chesterfield",
+    "league": "England-Conference",
+    "season": "2324"
+  },
+  {
+    "name": "S5_H2H_one",
+    "date": "2024-01-04",
+    "home": "Panetolikos",
+    "away": "Panserraikos",
+    "league": "Greece-SL",
+    "season": "2324"
+  }
+]

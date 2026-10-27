@@ -1,0 +1,116 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E2,England-L1,2122,Milton Keynes Dons,Sunderland,1.0,2.0,A,0.0,1.0,A,3.4,3.4,2.15,3.35,3.37,2.26,3.26,3.32,2.21,2.02,1.91,1.96,1.85,0.25,1.98,1.95,MK Dons,Sunderland,mk_dons,sunderland
+2021-08-17,E2,England-L1,2122,Burton,Sunderland,1.0,0.0,H,0.0,0.0,D,3.5,3.3,2.15,3.44,3.37,2.24,3.34,3.23,2.2,2.1,1.7,2.12,1.71,0.25,1.99,1.94,Burton Albion,Sunderland,burton_albion,sunderland
+2021-09-18,E2,England-L1,2122,Fleetwood Town,Sunderland,2.0,2.0,D,0.0,1.0,A,3.75,3.3,2.1,3.96,3.17,2.1,3.68,3.23,2.09,2.15,1.66,2.13,1.7,0.25,2.1,1.83,Fleetwood Town,Sunderland,fleetwood_town,sunderland
+2021-10-02,E2,England-L1,2122,Portsmouth,Sunderland,4.0,0.0,H,3.0,0.0,H,2.87,3.5,2.4,2.93,3.44,2.43,2.9,3.35,2.39,2.07,1.72,2.01,1.78,0.0,2.1,1.77,Portsmouth,Sunderland,portsmouth,sunderland
+2021-10-16,E2,England-L1,2122,Gillingham,Sunderland,1.0,2.0,A,1.0,1.0,D,5.0,3.75,1.72,4.67,3.62,1.79,4.44,3.54,1.8,2.0,1.8,2.0,1.8,0.75,1.83,2.02,Gillingham,Sunderland,gillingham,sunderland
+2021-10-19,E2,England-L1,2122,Crewe,Sunderland,0.0,4.0,A,0.0,2.0,A,4.33,3.8,1.8,4.49,3.68,1.85,4.16,3.62,1.83,1.85,1.95,1.83,1.96,0.5,2.02,1.83,Crewe Alexandra,Sunderland,crewe_alexandra,sunderland
+2021-10-30,E2,England-L1,2122,Rotherham,Sunderland,5.0,1.0,H,2.0,1.0,H,1.95,3.5,3.8,1.96,3.7,3.77,1.99,3.5,3.59,2.05,1.75,2.02,1.76,-0.5,2.0,1.8,Rotherham United,Sunderland,rotherham_united,sunderland
+2021-11-02,E2,England-L1,2122,Sheffield Weds,Sunderland,3.0,0.0,H,2.0,0.0,H,2.3,3.4,3.0,2.35,3.35,3.24,2.33,3.27,3.04,2.0,1.8,2.02,1.77,-0.25,2.0,1.85,Sheffield Wednesday,Sunderland,sheffield_wednesday,sunderland
+2021-11-23,E2,England-L1,2122,Shrewsbury,Sunderland,1.0,1.0,D,0.0,1.0,A,3.5,3.4,2.15,3.64,3.23,2.23,3.41,3.23,2.19,2.05,1.8,2.04,1.76,0.25,1.95,1.9,Shrewsbury Town,Sunderland,shrewsbury_town,sunderland
+2021-11-27,E2,England-L1,2122,Cambridge,Sunderland,1.0,2.0,A,1.0,2.0,A,3.8,3.6,1.95,3.81,3.65,1.96,3.71,3.5,1.97,1.98,1.88,1.95,1.84,0.5,1.9,1.95,Cambridge United,Sunderland,cambridge_united,sunderland
+2021-12-18,E2,England-L1,2122,Ipswich,Sunderland,1.0,1.0,D,1.0,0.0,H,2.8,3.3,2.55,2.79,3.41,2.55,2.8,3.32,2.48,2.05,1.8,1.99,1.8,0.0,2.05,1.8,Ipswich,Sunderland,ipswich,sunderland
+2021-12-27,E2,England-L1,2122,Doncaster,Sunderland,0.0,3.0,A,0.0,2.0,A,5.25,4.0,1.61,5.12,3.83,1.65,5.13,3.84,1.63,2.0,1.85,1.91,1.87,0.75,2.05,1.8,Doncaster Rovers,Sunderland,doncaster_rovers,sunderland
+2022-01-08,E2,England-L1,2122,Wycombe,Sunderland,3.0,3.0,D,2.0,2.0,D,2.87,3.3,2.5,2.91,3.44,2.51,2.8,3.37,2.43,2.0,1.85,1.97,1.81,0.0,2.05,1.8,Wycombe Wanderers,Sunderland,wycombe_wanderers,sunderland
+2022-01-15,E2,England-L1,2122,Accrington,Sunderland,1.0,1.0,D,0.0,0.0,D,4.0,3.6,1.9,3.96,3.53,1.96,3.77,3.54,1.93,1.83,2.02,1.79,2.0,0.5,1.93,1.93,Accrington Stanley,Sunderland,accrington_stanley,sunderland
+2022-01-29,E2,England-L1,2122,Bolton,Sunderland,6.0,0.0,H,2.0,0.0,H,3.8,3.5,2.0,3.52,3.51,2.1,3.48,3.5,2.04,1.88,1.98,1.83,1.94,0.5,1.83,2.02,Bolton,Sunderland,bolton,sunderland
+2022-02-08,E2,England-L1,2122,Cheltenham,Sunderland,2.0,1.0,H,0.0,1.0,A,3.2,3.5,2.15,3.38,3.5,2.21,3.22,3.44,2.16,1.8,2.0,1.79,2.0,0.25,1.98,1.88,Cheltenham Town,Sunderland,cheltenham_town,sunderland
+2022-02-12,E2,England-L1,2122,AFC Wimbledon,Sunderland,1.0,1.0,D,1.0,1.0,D,3.25,3.4,2.15,3.39,3.49,2.16,3.24,3.45,2.14,1.85,2.0,1.85,1.93,0.25,1.95,1.9,AFC Wimbledon,Sunderland,afc_wimbledon,sunderland
+2022-02-26,E2,England-L1,2122,Wigan,Sunderland,0.0,3.0,A,0.0,2.0,A,1.95,3.4,3.8,1.98,3.49,3.94,1.98,3.43,3.76,1.98,1.88,2.01,1.78,-0.5,2.0,1.85,Wigan Athletic,Sunderland,wigan_athletic,sunderland
+2022-03-05,E2,England-L1,2122,Charlton,Sunderland,0.0,0.0,D,0.0,0.0,D,3.2,3.3,2.3,3.19,3.25,2.37,3.06,3.35,2.29,1.93,1.93,1.9,1.88,0.25,1.85,2.0,Charlton,Sunderland,charlton,sunderland
+2022-03-19,E2,England-L1,2122,Lincoln,Sunderland,0.0,0.0,D,0.0,0.0,D,3.2,3.4,2.25,3.34,3.43,2.2,3.18,3.35,2.23,2.05,1.75,2.02,1.76,0.25,1.88,1.98,Lincoln City,Sunderland,lincoln_city,sunderland
+2022-04-09,E2,England-L1,2122,Oxford,Sunderland,1.0,2.0,A,1.0,1.0,D,2.37,3.5,2.9,2.51,3.6,2.72,2.43,3.45,2.76,1.9,1.95,1.83,1.94,0.0,1.7,2.1,Oxford United,Sunderland,oxford_united,sunderland
+2022-04-18,E2,England-L1,2122,Plymouth,Sunderland,0.0,0.0,D,0.0,0.0,D,2.7,3.25,2.7,2.76,3.28,2.65,2.65,3.3,2.62,1.95,1.9,1.92,1.86,0.0,1.9,1.95,Plymouth Argyle,Sunderland,plymouth_argyle,sunderland
+2022-04-30,E2,England-L1,2122,Morecambe,Sunderland,0.0,1.0,A,0.0,1.0,A,4.5,3.8,1.72,4.7,4.02,1.7,4.54,3.85,1.72,1.8,2.0,1.77,2.02,0.75,1.9,1.95,Morecambe,Sunderland,morecambe,sunderland
+2022-08-06,E1,England-Champ,2223,Bristol City,Sunderland,2.0,3.0,A,1.0,1.0,D,2.45,3.25,2.9,2.5,3.41,2.99,2.46,3.31,2.91,2.1,1.72,2.09,1.73,0.0,1.75,2.05,Bristol City,Sunderland,bristol_city,sunderland
+2022-08-17,E1,England-Champ,2223,Sheffield United,Sunderland,2.0,1.0,H,1.0,0.0,H,1.75,3.6,4.75,1.82,3.61,4.92,1.79,3.59,4.67,2.1,1.72,2.06,1.77,-0.75,2.04,1.86,Sheffield United,Sunderland,sheffield_united,sunderland
+2022-08-20,E1,England-Champ,2223,Stoke,Sunderland,0.0,1.0,A,0.0,1.0,A,2.1,3.4,3.5,2.15,3.41,3.7,2.13,3.35,3.51,2.02,1.83,2.04,1.78,-0.25,1.85,2.05,Stoke City,Sunderland,stoke_city,sunderland
+2022-09-05,E1,England-Champ,2223,Middlesbrough,Sunderland,1.0,0.0,H,1.0,0.0,H,1.72,3.6,5.0,1.75,3.83,4.9,1.77,3.66,4.59,1.98,1.88,1.91,1.89,-0.75,1.97,1.93,Middlesbrough,Sunderland,middlesbrough,sunderland
+2022-09-14,E1,England-Champ,2223,Reading,Sunderland,0.0,3.0,A,0.0,2.0,A,2.6,3.25,2.75,2.76,3.26,2.79,2.63,3.25,2.72,2.1,1.72,2.09,1.74,0.0,1.92,1.98,Reading,Sunderland,reading,sunderland
+2022-09-17,E1,England-Champ,2223,Watford,Sunderland,2.0,2.0,D,1.0,1.0,D,2.0,3.5,3.75,2.03,3.55,3.93,2.03,3.44,3.72,2.0,1.8,2.06,1.76,-0.5,2.02,1.88,Watford,Sunderland,watford,sunderland
+2022-10-08,E1,England-Champ,2223,Swansea,Sunderland,2.0,1.0,H,2.0,0.0,H,2.2,3.4,3.3,2.28,3.41,3.38,2.25,3.36,3.2,2.0,1.85,1.98,1.82,-0.25,1.95,1.95,Swansea City,Sunderland,swansea_city,sunderland
+2022-10-18,E1,England-Champ,2223,Blackburn,Sunderland,2.0,0.0,H,1.0,0.0,H,2.25,3.2,3.4,2.33,3.25,3.43,2.27,3.22,3.32,2.2,1.66,2.18,1.68,-0.25,1.98,1.92,Blackburn,Sunderland,blackburn,sunderland
+2022-10-29,E1,England-Champ,2223,Luton,Sunderland,1.0,1.0,D,1.0,0.0,H,2.0,3.3,4.0,2.02,3.43,4.14,2.0,3.34,3.87,2.1,1.72,2.12,1.71,-0.5,2.02,1.88,Luton,Sunderland,luton,sunderland
+2022-11-02,E1,England-Champ,2223,Huddersfield,Sunderland,0.0,2.0,A,0.0,0.0,D,2.62,3.3,2.7,2.67,3.29,2.87,2.64,3.23,2.73,2.2,1.66,2.14,1.7,0.0,1.9,2.0,Huddersfield,Sunderland,huddersfield,sunderland
+2022-11-11,E1,England-Champ,2223,Birmingham,Sunderland,1.0,2.0,A,0.0,1.0,A,2.2,3.3,3.4,2.31,3.27,3.47,2.27,3.21,3.3,2.2,1.66,2.2,1.67,-0.25,1.94,1.96,Birmingham,Sunderland,birmingham,sunderland
+2022-12-17,E1,England-Champ,2223,Hull,Sunderland,1.0,1.0,D,0.0,0.0,D,2.6,3.2,2.8,2.56,3.32,2.98,2.5,3.26,2.88,2.2,1.67,2.16,1.69,0.0,1.8,2.1,Hull City,Sunderland,hull_city,sunderland
+2022-12-29,E1,England-Champ,2223,Wigan,Sunderland,1.0,4.0,A,1.0,1.0,D,2.63,3.25,2.7,2.77,3.34,2.73,2.71,3.24,2.66,2.2,1.67,2.23,1.66,0.0,1.97,1.93,Wigan Athletic,Sunderland,wigan_athletic,sunderland
+2023-01-01,E1,England-Champ,2223,Blackpool,Sunderland,1.0,1.0,D,1.0,0.0,H,3.0,3.25,2.45,2.98,3.49,2.47,2.9,3.39,2.42,1.98,1.88,1.96,1.84,0.25,1.79,2.11,Blackpool,Sunderland,blackpool,sunderland
+2023-02-04,E1,England-Champ,2223,Millwall,Sunderland,1.0,1.0,D,0.0,0.0,D,2.05,3.4,3.75,2.08,3.39,3.97,2.07,3.34,3.69,2.2,1.67,2.19,1.68,-0.5,2.06,1.84,Millwall,Sunderland,millwall,sunderland
+2023-02-14,E1,England-Champ,2223,QPR,Sunderland,0.0,3.0,A,0.0,1.0,A,2.4,3.3,3.0,2.47,3.32,3.11,2.4,3.29,3.0,2.05,1.8,2.04,1.78,-0.25,2.08,1.82,Queens Park Rangers,Sunderland,queens_park_rangers,sunderland
+2023-02-21,E1,England-Champ,2223,Rotherham,Sunderland,2.0,1.0,H,1.0,0.0,H,3.8,3.25,2.1,3.92,3.31,2.12,3.69,3.28,2.09,2.1,1.73,2.11,1.73,0.5,1.77,2.02,Rotherham United,Sunderland,rotherham_united,sunderland
+2023-02-25,E1,England-Champ,2223,Coventry,Sunderland,2.0,1.0,H,1.0,0.0,H,2.2,3.3,3.25,2.22,3.45,3.47,2.21,3.33,3.3,2.1,1.73,2.13,1.72,-0.25,1.95,1.95,Coventry,Sunderland,coventry,sunderland
+2023-03-12,E1,England-Champ,2223,Norwich,Sunderland,0.0,1.0,A,0.0,1.0,A,1.83,3.75,4.2,1.88,3.72,4.33,1.86,3.59,4.15,1.98,1.88,1.94,1.86,-0.5,1.86,2.04,Norwich City,Sunderland,norwich_city,sunderland
+2023-03-31,E1,England-Champ,2223,Burnley,Sunderland,0.0,0.0,D,0.0,0.0,D,1.45,4.33,7.5,1.45,4.61,8.07,1.45,4.5,7.2,1.8,2.0,1.77,2.04,-1.25,2.04,1.86,Burnley,Sunderland,burnley,sunderland
+2023-04-10,E1,England-Champ,2223,Cardiff,Sunderland,0.0,1.0,A,0.0,0.0,D,2.45,3.25,2.9,2.52,3.2,3.14,2.48,3.2,2.96,2.2,1.67,2.23,1.65,0.0,1.78,2.13,Cardiff City,Sunderland,cardiff_city,sunderland
+2023-04-23,E1,England-Champ,2223,West Brom,Sunderland,1.0,2.0,A,1.0,0.0,H,1.91,3.5,4.2,1.96,3.61,4.12,1.94,3.53,3.91,1.95,1.9,1.97,1.83,-0.5,1.94,1.96,West Bromwich Albion,Sunderland,west_bromwich_albion,sunderland
+2023-05-08,E1,England-Champ,2223,Preston,Sunderland,0.0,3.0,A,0.0,0.0,D,4.0,3.5,1.91,3.93,3.88,1.91,3.84,3.69,1.91,1.8,2.05,1.85,1.94,0.5,1.94,1.96,Preston,Sunderland,preston,sunderland
+2023-08-12,E1,England-Champ,2324,Preston,Sunderland,2.0,1.0,H,1.0,1.0,D,2.63,3.4,2.6,2.81,3.41,2.64,2.7,3.36,2.57,1.95,1.9,1.92,1.87,0.0,2.0,1.9,Preston,Sunderland,preston,sunderland
+2023-08-26,E1,England-Champ,2324,Coventry,Sunderland,0.0,0.0,D,0.0,0.0,D,2.1,3.3,3.5,2.15,3.54,3.57,2.12,3.42,3.46,1.88,1.98,1.85,1.96,-0.25,1.86,2.04,Coventry,Sunderland,coventry,sunderland
+2023-09-16,E1,England-Champ,2324,QPR,Sunderland,1.0,3.0,A,1.0,1.0,D,3.1,3.5,2.25,3.33,3.56,2.24,3.2,3.52,2.19,1.85,2.0,1.83,1.97,0.25,1.99,1.91,Queens Park Rangers,Sunderland,queens_park_rangers,sunderland
+2023-09-20,E1,England-Champ,2324,Blackburn,Sunderland,1.0,3.0,A,1.0,2.0,A,2.25,3.6,3.0,2.32,3.76,3.02,2.26,3.61,2.97,1.67,2.2,1.7,2.13,-0.25,1.99,1.91,Blackburn,Sunderland,blackburn,sunderland
+2023-09-29,E1,England-Champ,2324,Sheffield Weds,Sunderland,0.0,3.0,A,0.0,3.0,A,3.2,3.4,2.25,3.27,3.49,2.29,3.11,3.42,2.28,1.9,1.95,1.91,1.89,0.25,1.91,1.99,Sheffield Wednesday,Sunderland,sheffield_wednesday,sunderland
+2023-10-21,E1,England-Champ,2324,Stoke,Sunderland,2.0,1.0,H,1.0,1.0,D,2.5,3.3,2.75,2.55,3.56,2.82,2.44,3.47,2.78,1.75,2.05,1.78,2.03,0.0,1.85,2.05,Stoke City,Sunderland,stoke_city,sunderland
+2023-10-24,E1,England-Champ,2324,Leicester,Sunderland,1.0,0.0,H,1.0,0.0,H,1.5,4.5,6.0,1.53,4.61,6.18,1.51,4.46,5.99,1.6,2.3,1.63,2.28,-1.0,1.83,2.07,Leicester City,Sunderland,leicester_city,sunderland
+2023-11-04,E1,England-Champ,2324,Swansea,Sunderland,0.0,0.0,D,0.0,0.0,D,2.7,3.4,2.63,2.8,3.49,2.61,2.68,3.44,2.57,1.75,2.05,1.77,2.04,0.0,1.98,1.92,Swansea City,Sunderland,swansea_city,sunderland
+2023-11-25,E1,England-Champ,2324,Plymouth,Sunderland,2.0,0.0,H,2.0,0.0,H,3.4,3.75,2.0,3.45,3.96,2.06,3.29,3.88,2.04,1.53,2.4,1.5,2.55,0.25,2.05,1.75,Plymouth Argyle,Sunderland,plymouth_argyle,sunderland
+2023-12-02,E1,England-Champ,2324,Millwall,Sunderland,1.0,1.0,D,1.0,0.0,H,3.0,3.3,2.38,3.09,3.48,2.4,3.0,3.39,2.35,1.98,1.88,1.94,1.86,0.25,1.86,2.04,Millwall,Sunderland,millwall,sunderland
+2023-12-16,E1,England-Champ,2324,Bristol City,Sunderland,1.0,0.0,H,1.0,0.0,H,3.1,3.6,2.25,3.14,3.48,2.37,3.08,3.42,2.3,2.03,1.83,1.98,1.83,0.25,1.89,2.01,Bristol City,Sunderland,bristol_city,sunderland
+2023-12-26,E1,England-Champ,2324,Hull,Sunderland,0.0,1.0,A,0.0,0.0,D,2.5,3.3,2.9,2.53,3.47,2.91,2.48,3.39,2.81,1.95,1.9,1.88,1.89,0.0,1.82,2.08,Hull City,Sunderland,hull_city,sunderland
+2023-12-29,E1,England-Champ,2324,Rotherham,Sunderland,1.0,1.0,D,0.0,0.0,D,6.5,4.2,1.53,6.53,4.32,1.55,6.13,4.18,1.54,1.93,1.93,1.88,1.93,1.0,1.95,1.95,Rotherham United,Sunderland,rotherham_united,sunderland
+2024-01-13,E1,England-Champ,2324,Ipswich,Sunderland,2.0,1.0,H,1.0,1.0,D,2.1,3.4,3.5,2.15,3.5,3.6,2.12,3.45,3.45,2.0,1.85,1.93,1.86,-0.25,1.86,2.04,Ipswich,Sunderland,ipswich,sunderland
+2024-02-04,E1,England-Champ,2324,Middlesbrough,Sunderland,1.0,1.0,D,0.0,0.0,D,2.0,3.5,3.75,2.12,3.58,3.59,2.07,3.54,3.46,1.85,2.0,1.83,1.99,-0.5,2.09,1.81,Middlesbrough,Sunderland,middlesbrough,sunderland
+2024-02-14,E1,England-Champ,2324,Huddersfield,Sunderland,1.0,0.0,H,1.0,0.0,H,3.6,3.3,2.1,3.8,3.41,2.12,3.54,3.36,2.11,2.05,1.75,2.04,1.78,0.25,2.09,1.81,Huddersfield,Sunderland,huddersfield,sunderland
+2024-02-17,E1,England-Champ,2324,Birmingham,Sunderland,2.0,1.0,H,0.0,1.0,A,2.8,3.3,2.55,2.89,3.36,2.6,2.79,3.34,2.52,2.03,1.83,1.98,1.82,0.0,2.05,1.85,Birmingham,Sunderland,birmingham,sunderland
+2024-03-02,E1,England-Champ,2324,Norwich,Sunderland,1.0,0.0,H,0.0,0.0,D,1.95,3.6,4.0,1.95,3.74,4.03,1.93,3.64,3.82,1.83,2.03,1.81,2.0,-0.5,1.95,1.95,Norwich City,Sunderland,norwich_city,sunderland
+2024-03-09,E1,England-Champ,2324,Southampton,Sunderland,4.0,2.0,H,2.0,0.0,H,1.44,4.5,7.0,1.47,4.72,7.22,1.45,4.62,6.72,1.57,2.35,1.58,2.38,-1.25,2.02,1.88,Southampton,Sunderland,southampton,sunderland
+2024-03-29,E1,England-Champ,2324,Cardiff,Sunderland,0.0,2.0,A,0.0,2.0,A,2.55,3.1,2.9,2.62,3.07,3.08,2.57,3.12,2.92,2.25,1.62,2.26,1.64,0.0,1.8,2.1,Cardiff City,Sunderland,cardiff_city,sunderland
+2024-04-09,E1,England-Champ,2324,Leeds,Sunderland,0.0,0.0,D,0.0,0.0,D,1.36,4.75,9.0,1.32,5.64,9.41,1.34,5.28,8.56,1.57,2.38,1.56,2.43,-1.5,2.01,1.89,Leeds,Sunderland,leeds,sunderland
+2024-04-13,E1,England-Champ,2324,West Brom,Sunderland,0.0,1.0,A,0.0,1.0,A,1.8,3.8,4.2,1.86,3.59,4.57,1.81,3.6,4.43,2.1,1.73,2.07,1.75,-0.5,1.84,2.06,West Bromwich Albion,Sunderland,west_bromwich_albion,sunderland
+2024-04-27,E1,England-Champ,2324,Watford,Sunderland,1.0,0.0,H,0.0,0.0,D,2.38,3.2,3.25,2.41,3.17,3.25,2.35,3.25,3.13,2.1,1.73,2.04,1.76,-0.25,2.05,1.82,Watford,Sunderland,watford,sunderland
+2024-08-10,E1,England-Champ,2425,Cardiff,Sunderland,0.0,2.0,A,0.0,1.0,A,2.8,3.3,2.5,2.94,3.15,2.62,2.9,3.18,2.54,2.2,1.65,2.25,1.63,0.0,2.07,1.83,Cardiff City,Sunderland,cardiff_city,sunderland
+2024-08-31,E1,England-Champ,2425,Portsmouth,Sunderland,1.0,3.0,A,0.0,1.0,A,3.3,3.7,2.05,3.45,3.54,2.14,3.48,3.53,2.07,2.0,1.85,1.97,1.84,0.5,1.78,2.03,Portsmouth,Sunderland,portsmouth,sunderland
+2024-09-14,E1,England-Champ,2425,Plymouth,Sunderland,3.0,2.0,H,0.0,1.0,A,4.5,3.6,1.75,4.43,3.74,1.78,4.31,3.74,1.8,1.73,2.1,1.73,2.1,0.75,1.86,2.04,Plymouth Argyle,Sunderland,plymouth_argyle,sunderland
+2024-09-28,E1,England-Champ,2425,Watford,Sunderland,2.0,1.0,H,1.0,0.0,H,2.75,3.6,2.35,2.88,3.41,2.44,2.85,3.42,2.42,2.0,1.85,1.97,1.83,0.0,2.05,1.75,Watford,Sunderland,watford,sunderland
+2024-10-20,E1,England-Champ,2425,Hull,Sunderland,0.0,1.0,A,0.0,0.0,D,2.88,3.4,2.38,2.87,3.51,2.4,2.83,3.51,2.39,1.73,2.1,1.77,2.05,0.25,1.82,2.08,Hull City,Sunderland,hull_city,sunderland
+2024-10-23,E1,England-Champ,2425,Luton,Sunderland,1.0,2.0,A,0.0,0.0,D,2.55,3.3,2.75,2.64,3.29,2.74,2.57,3.33,2.73,1.98,1.88,1.96,1.84,0.0,1.88,2.02,Luton,Sunderland,luton,sunderland
+2024-11-02,E1,England-Champ,2425,QPR,Sunderland,0.0,0.0,D,0.0,0.0,D,3.6,3.4,2.05,3.62,3.35,2.1,3.62,3.37,2.08,2.2,1.67,2.16,1.69,0.25,2.09,1.81,Queens Park Rangers,Sunderland,queens_park_rangers,sunderland
+2024-11-06,E1,England-Champ,2425,Preston,Sunderland,0.0,0.0,D,0.0,0.0,D,3.3,3.1,2.3,3.22,3.18,2.36,3.17,3.2,2.35,2.2,1.67,2.2,1.67,0.25,1.86,2.04,Preston,Sunderland,preston,sunderland
+2024-11-23,E1,England-Champ,2425,Millwall,Sunderland,1.0,1.0,D,0.0,1.0,A,2.3,3.25,3.2,2.34,3.17,3.27,2.34,3.16,3.21,2.38,1.57,2.4,1.57,-0.25,2.02,1.88,Millwall,Sunderland,millwall,sunderland
+2024-11-29,E1,England-Champ,2425,Sheffield United,Sunderland,1.0,0.0,H,0.0,0.0,D,2.0,3.3,3.9,2.04,3.3,4.14,2.03,3.27,3.93,2.38,1.57,2.35,1.59,-0.5,2.05,1.85,Sheffield United,Sunderland,sheffield_united,sunderland
+2024-12-14,E1,England-Champ,2425,Swansea,Sunderland,2.0,3.0,A,2.0,1.0,H,2.63,3.2,2.7,2.69,3.13,2.8,2.65,3.17,2.71,2.1,1.73,2.15,1.69,0.0,1.91,1.99,Swansea City,Sunderland,swansea_city,sunderland
+2024-12-26,E1,England-Champ,2425,Blackburn,Sunderland,2.0,2.0,D,1.0,0.0,H,2.8,3.25,2.5,2.89,3.11,2.62,2.8,3.2,2.53,2.2,1.67,2.16,1.68,0.0,2.06,1.84,Blackburn,Sunderland,blackburn,sunderland
+2024-12-29,E1,England-Champ,2425,Stoke,Sunderland,1.0,0.0,H,0.0,0.0,D,3.0,3.6,2.2,3.2,3.36,2.27,3.1,3.39,2.24,2.03,1.83,2.01,1.78,0.25,1.92,1.98,Stoke City,Sunderland,stoke_city,sunderland
+2025-01-17,E1,England-Champ,2425,Burnley,Sunderland,0.0,0.0,D,0.0,0.0,D,2.15,3.3,3.4,2.24,3.13,3.73,2.22,3.09,3.53,2.63,1.5,2.6,1.47,-0.25,1.92,1.98,Burnley,Sunderland,burnley,sunderland
+2025-01-21,E1,England-Champ,2425,Derby,Sunderland,0.0,1.0,A,0.0,1.0,A,3.5,3.3,2.1,3.67,3.39,2.15,3.53,3.31,2.12,2.2,1.67,2.22,1.65,0.25,2.06,1.84,Derby,Sunderland,derby,sunderland
+2025-02-03,E1,England-Champ,2425,Middlesbrough,Sunderland,2.0,3.0,A,1.0,1.0,D,2.35,3.4,3.0,2.33,3.4,3.07,2.31,3.37,3.03,1.93,1.93,1.91,1.88,-0.25,2.03,1.87,Middlesbrough,Sunderland,middlesbrough,sunderland
+2025-02-17,E1,England-Champ,2425,Leeds,Sunderland,2.0,1.0,H,0.0,1.0,A,1.53,4.0,6.0,1.54,4.11,6.11,1.54,4.07,5.93,1.93,1.93,1.89,1.9,-1.0,2.01,1.89,Leeds,Sunderland,leeds,sunderland
+2025-02-28,E1,England-Champ,2425,Sheffield Weds,Sunderland,1.0,2.0,A,0.0,1.0,A,2.7,3.2,2.63,2.78,3.35,2.67,2.75,3.26,2.61,2.1,1.73,2.11,1.74,0.0,2.0,1.9,Sheffield Wednesday,Sunderland,sheffield_wednesday,sunderland
+2025-03-15,E1,England-Champ,2425,Coventry,Sunderland,3.0,0.0,H,2.0,0.0,H,2.6,3.25,2.7,2.64,3.23,2.77,2.6,3.26,2.73,2.05,1.8,2.01,1.8,0.0,1.91,1.99,Coventry,Sunderland,coventry,sunderland
+2025-04-05,E1,England-Champ,2425,West Brom,Sunderland,0.0,1.0,A,0.0,1.0,A,2.4,3.25,2.9,2.49,3.27,2.92,2.45,3.25,2.89,2.1,1.73,2.13,1.7,-0.25,2.1,1.8,West Bromwich Albion,Sunderland,west_bromwich_albion,sunderland
+2025-04-08,E1,England-Champ,2425,Norwich,Sunderland,0.0,0.0,D,0.0,0.0,D,2.37,3.5,2.8,2.46,3.57,2.89,2.43,3.46,2.8,1.88,1.98,1.86,1.93,-0.25,2.09,1.81,Norwich City,Sunderland,norwich_city,sunderland
+2025-04-18,E1,England-Champ,2425,Bristol City,Sunderland,2.0,1.0,H,0.0,1.0,A,2.3,3.5,2.9,2.35,3.31,3.1,2.32,3.33,3.03,2.1,1.73,2.08,1.73,-0.25,2.04,1.86,Bristol City,Sunderland,bristol_city,sunderland
+2025-04-26,E1,England-Champ,2425,Oxford,Sunderland,2.0,0.0,H,1.0,0.0,H,3.1,3.25,2.38,3.18,3.19,2.37,3.13,3.19,2.34,2.2,1.67,2.17,1.67,0.25,1.8,2.05,Oxford United,Sunderland,oxford_united,sunderland
+2025-08-23,E0,England-PL,2526,Burnley,Sunderland,2.0,0.0,H,0.0,0.0,D,2.2,3.2,3.5,2.21,3.26,3.63,2.25,3.16,3.42,2.3,1.62,2.26,1.6,-0.25,1.9,1.95,Burnley,Sunderland,burnley,sunderland
+2025-09-13,E0,England-PL,2526,Crystal Palace,Sunderland,0.0,0.0,D,0.0,0.0,D,1.65,3.75,5.75,1.69,3.77,5.51,1.66,3.76,5.42,2.1,1.73,2.08,1.71,-0.75,1.83,2.03,Crystal Palace,Sunderland,crystal_palace,sunderland
+2025-09-27,E0,England-PL,2526,Nott'm Forest,Sunderland,0.0,1.0,A,0.0,1.0,A,1.75,3.75,4.5,1.78,3.82,4.76,1.77,3.67,4.64,2.0,1.85,1.97,1.8,-0.75,2.0,1.85,Nottingham Forest,Sunderland,nottingham_forest,sunderland
+2025-10-04,E0,England-PL,2526,Man United,Sunderland,2.0,0.0,H,2.0,0.0,H,1.5,4.75,5.75,1.51,4.7,6.18,1.5,4.55,5.98,1.62,2.3,1.64,2.21,-1.0,1.8,2.05,Manchester United,Sunderland,manchester_united,sunderland
+2025-10-25,E0,England-PL,2526,Chelsea,Sunderland,1.0,2.0,A,1.0,1.0,D,1.36,4.75,9.0,1.38,5.22,8.0,1.37,4.99,8.31,1.73,2.1,1.69,2.12,-1.5,2.05,1.8,Chelsea,Sunderland,chelsea,sunderland
+2025-11-22,E0,England-PL,2526,Fulham,Sunderland,1.0,0.0,H,0.0,0.0,D,2.1,3.25,3.75,2.12,3.24,3.95,2.1,3.24,3.74,2.2,1.67,2.19,1.65,-0.25,1.8,2.05,Fulham,Sunderland,fulham,sunderland
+2025-12-03,E0,England-PL,2526,Liverpool,Sunderland,1.0,1.0,D,0.0,0.0,D,1.36,5.25,7.0,1.37,5.44,8.12,1.35,5.29,8.05,1.57,2.38,1.55,2.38,-1.5,2.0,1.85,Liverpool,Sunderland,liverpool,sunderland
+2025-12-06,E0,England-PL,2526,Man City,Sunderland,3.0,0.0,H,2.0,0.0,H,1.25,6.5,10.0,1.24,6.68,11.08,1.24,6.22,11.38,1.5,2.63,1.48,2.57,-1.75,1.9,1.95,Manchester City,Sunderland,manchester_city,sunderland
+2025-12-20,E0,England-PL,2526,Brighton,Sunderland,0.0,0.0,D,0.0,0.0,D,1.67,4.0,5.25,1.63,4.15,5.5,1.65,3.95,5.16,1.85,2.0,1.8,1.96,-0.75,1.85,2.0,Brighton & Hove Albion,Sunderland,brighton_hove_albion,sunderland
+2026-01-04,E0,England-PL,2526,Tottenham,Sunderland,1.0,1.0,D,1.0,0.0,H,1.8,3.6,4.5,1.83,3.85,4.39,1.8,3.65,4.37,2.0,1.8,2.0,1.77,-0.5,1.8,2.05,Tottenham Hotspur,Sunderland,tottenham_hotspur,sunderland
+2026-01-07,E0,England-PL,2526,Brentford,Sunderland,3.0,0.0,H,1.0,0.0,H,1.85,3.5,4.33,1.85,3.63,4.56,1.83,3.56,4.36,2.05,1.8,1.98,1.79,-0.5,1.85,2.0,Brentford,Sunderland,brentford,sunderland
+2026-01-24,E0,England-PL,2526,West Ham,Sunderland,3.0,1.0,H,3.0,0.0,H,2.5,3.2,2.88,,,,2.51,3.24,2.85,2.1,1.73,2.08,1.71,0.0,1.8,2.05,West Ham United,Sunderland,west_ham_united,sunderland
+2026-02-07,E0,England-PL,2526,Arsenal,Sunderland,3.0,0.0,H,1.0,0.0,H,1.22,6.25,12.0,,,,1.21,6.23,14.08,1.73,2.1,1.69,2.11,-1.75,1.93,1.93,Arsenal,Sunderland,arsenal,sunderland
+2026-02-28,E0,England-PL,2526,Bournemouth,Sunderland,1.0,1.0,D,0.0,1.0,A,1.8,3.75,4.33,,,,1.77,3.8,4.34,1.8,2.0,1.77,2.02,-0.75,2.0,1.85,Bournemouth,Sunderland,bournemouth,sunderland
+2026-03-03,E0,England-PL,2526,Leeds,Sunderland,0.0,1.0,A,0.0,0.0,D,1.85,3.4,4.33,,,,1.86,3.43,4.31,2.1,1.73,2.08,1.72,-0.5,1.9,1.95,Leeds,Sunderland,leeds,sunderland
+2026-03-22,E0,England-PL,2526,Newcastle,Sunderland,1.0,2.0,A,1.0,0.0,H,1.67,4.0,5.0,,,,1.65,3.89,5.04,1.88,1.98,1.83,1.91,-0.75,1.85,2.0,Newcastle United,Sunderland,newcastle_united,sunderland
+2026-04-19,E0,England-PL,2526,Aston Villa,Sunderland,4.0,3.0,H,2.0,1.0,H,1.67,3.75,5.5,,,,1.65,3.78,5.25,1.98,1.88,1.89,1.86,-0.75,1.88,1.98,Aston Villa,Sunderland,aston_villa,sunderland
+2026-05-02,E0,England-PL,2526,Wolves,Sunderland,1.0,1.0,D,0.0,1.0,A,3.1,3.2,2.1,,,,3.24,3.35,2.18,2.1,1.73,2.03,1.74,0.25,1.95,1.9,Wolverhampton,Sunderland,wolverhampton,sunderland
+2026-05-17,E0,England-PL,2526,Everton,Sunderland,1.0,3.0,A,1.0,0.0,H,1.8,3.75,4.33,,,,1.81,3.63,4.18,1.91,1.91,1.88,1.86,-0.5,1.83,2.03,Everton,Sunderland,everton,sunderland
+2026-08-22,E0,England-PL,2627,Ipswich,Sunderland,2.0,1.0,H,1.0,1.0,D,2.7,3.3,2.63,,,,2.69,3.29,2.6,1.98,1.88,1.93,1.81,0.0,1.95,1.9,Ipswich,Sunderland,ipswich,sunderland
+2026-09-05,E0,England-PL,2627,Brentford,Sunderland,1.0,1.0,D,0.0,0.0,D,1.62,3.9,5.5,,,,1.62,3.9,5.29,1.8,2.0,1.82,1.93,-0.75,1.83,2.03,Brentford,Sunderland,brentford,sunderland
+2026-09-20,E0,England-PL,2627,Man City,Sunderland,5.0,3.0,H,3.0,2.0,H,1.3,5.5,9.0,,,,1.29,5.56,9.39,1.57,2.38,1.56,2.32,-1.5,1.85,2.0,Manchester City,Sunderland,manchester_city,sunderland
+2026-10-18,E0,England-PL,2627,Bournemouth,Sunderland,2.0,0.0,H,1.0,0.0,H,2.05,3.5,3.6,,,,2.04,3.51,3.44,1.83,2.03,1.77,1.96,-0.5,2.05,1.8,Bournemouth,Sunderland,bournemouth,sunderland

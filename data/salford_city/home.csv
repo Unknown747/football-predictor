@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E3,England-L2,2122,Salford,Leyton Orient,1.0,1.0,D,1.0,1.0,D,1.9,3.4,4.0,1.96,3.43,4.18,1.94,3.36,3.96,2.15,1.66,2.16,1.68,-0.5,1.95,1.9,Salford City,Leyton Orient,salford_city,leyton_orient
+2021-08-14,E3,England-L2,2122,Salford,Sutton,0.0,0.0,D,0.0,0.0,D,1.85,3.6,4.2,1.86,3.7,4.29,1.86,3.54,4.15,2.15,1.66,2.14,1.69,-0.5,1.89,2.04,Salford City,Sutton United,salford_city,sutton_united
+2021-08-21,E3,England-L2,2122,Salford,Swindon,0.0,1.0,A,0.0,0.0,D,1.83,3.5,4.5,1.86,3.5,4.56,1.83,3.43,4.4,2.15,1.66,2.17,1.67,-0.5,1.86,2.07,Salford City,Swindon Town,salford_city,swindon_town
+2021-08-28,E3,England-L2,2122,Salford,Newport County,3.0,0.0,H,3.0,0.0,H,2.37,3.1,3.25,2.39,3.14,3.32,2.37,3.09,3.16,2.5,1.5,2.51,1.51,-0.25,2.07,1.86,Salford City,Newport County,salford_city,newport_county
+2021-09-11,E3,England-L2,2122,Salford,Bradford,1.0,0.0,H,0.0,0.0,D,2.2,3.25,3.3,2.27,3.37,3.25,2.25,3.29,3.18,2.15,1.66,2.14,1.68,-0.25,1.98,1.88,Salford City,Bradford City,salford_city,bradford_city
+2021-09-25,E3,England-L2,2122,Salford,Northampton,2.0,2.0,D,1.0,1.0,D,2.15,3.2,3.6,2.25,3.17,3.52,2.19,3.2,3.4,2.2,1.65,2.18,1.66,-0.25,1.9,1.95,Salford City,Northampton Town,salford_city,northampton_town
+2021-10-16,E3,England-L2,2122,Salford,Hartlepool,2.0,0.0,H,1.0,0.0,H,1.95,3.25,4.2,2.05,3.08,4.29,2.04,3.12,3.96,2.5,1.5,2.44,1.53,-0.5,2.02,1.83,Salford City,Hartlepool United,salford_city,hartlepool_united
+2021-10-19,E3,England-L2,2122,Salford,Rochdale,0.0,0.0,D,0.0,0.0,D,1.95,3.5,4.0,2.02,3.65,3.77,2.0,3.45,3.65,2.05,1.75,2.04,1.76,-0.5,2.0,1.85,Salford City,Rochdale,salford_city,rochdale
+2021-10-30,E3,England-L2,2122,Salford,Exeter,1.0,2.0,A,0.0,0.0,D,2.2,3.4,3.3,2.34,3.28,3.21,2.28,3.25,3.12,2.15,1.66,2.14,1.67,-0.25,1.98,1.88,Salford City,Exeter City,salford_city,exeter_city
+2021-11-23,E3,England-L2,2122,Salford,Bristol Rvs,1.0,1.0,D,0.0,1.0,A,1.9,3.5,4.0,2.01,3.38,4.16,1.99,3.34,3.86,2.07,1.72,2.07,1.73,-0.5,2.0,1.85,Salford City,Bristol Rvs,salford_city,bristol_rvs
+2021-11-27,E3,England-L2,2122,Salford,Oldham,2.0,0.0,H,1.0,0.0,H,1.72,3.6,5.25,1.74,3.68,4.94,1.72,3.61,4.81,1.93,1.93,1.9,1.87,-0.75,1.95,1.9,Salford City,Oldham,salford_city,oldham
+2021-12-18,E3,England-L2,2122,Salford,Stevenage,1.0,0.0,H,1.0,0.0,H,2.05,3.25,3.9,2.03,3.4,3.86,2.06,3.29,3.67,2.2,1.65,2.18,1.66,-0.5,2.05,1.75,Salford City,Stevenage,salford_city,stevenage
+2022-01-11,E3,England-L2,2122,Salford,Tranmere,1.0,1.0,D,1.0,0.0,H,2.25,3.1,3.4,2.34,3.15,3.47,2.26,3.11,3.3,2.15,1.66,2.16,1.66,-0.25,1.95,1.9,Salford City,Tranmere Rovers,salford_city,tranmere_rovers
+2022-01-22,E3,England-L2,2122,Salford,Colchester,0.0,3.0,A,0.0,2.0,A,1.72,3.5,5.5,1.68,3.81,5.24,1.71,3.64,4.81,2.15,1.66,2.09,1.7,-0.75,2.0,1.85,Salford City,Colchester United,salford_city,colchester_united
+2022-02-01,E3,England-L2,2122,Salford,Carlisle,2.0,1.0,H,0.0,0.0,D,1.95,3.4,4.2,2.0,3.38,4.2,1.96,3.29,3.99,2.25,1.61,2.27,1.61,-0.5,1.98,1.88,Salford City,Carlisle United,salford_city,carlisle_united
+2022-03-05,E3,England-L2,2122,Salford,Forest Green,1.0,1.0,D,1.0,0.0,H,3.5,3.3,2.15,3.34,3.33,2.25,3.23,3.32,2.2,2.07,1.72,2.03,1.75,0.25,2.0,1.85,Salford City,Forest Green Rovers,salford_city,forest_green_rovers
+2022-03-19,E3,England-L2,2122,Salford,Scunthorpe,5.0,1.0,H,2.0,0.0,H,1.55,4.0,6.5,1.54,4.05,6.58,1.55,3.91,6.07,2.05,1.75,2.04,1.74,-1.0,2.02,1.83,Salford City,Scunthorpe United,salford_city,scunthorpe_united
+2022-03-26,E3,England-L2,2122,Salford,Walsall,2.0,1.0,H,1.0,1.0,D,2.15,3.25,3.6,2.14,3.21,3.76,2.11,3.23,3.56,2.25,1.61,2.24,1.61,-0.25,1.8,2.05,Salford City,Walsall,salford_city,walsall
+2022-03-29,E3,England-L2,2122,Salford,Crawley Town,2.0,1.0,H,1.0,0.0,H,1.85,3.4,4.5,1.85,3.53,4.71,1.86,3.41,4.29,2.1,1.7,2.11,1.69,-0.5,1.83,2.02,Salford City,Crawley Town,salford_city,crawley_town
+2022-04-05,E3,England-L2,2122,Salford,Port Vale,0.0,1.0,A,0.0,0.0,D,2.62,3.1,2.9,2.62,3.28,2.89,2.56,3.14,2.81,2.15,1.66,2.17,1.66,0.0,1.83,2.02,Salford City,Port Vale,salford_city,port_vale
+2022-04-09,E3,England-L2,2122,Salford,Harrogate,2.0,0.0,H,0.0,0.0,D,1.72,3.75,5.0,1.65,3.93,5.26,1.71,3.71,4.77,1.93,1.93,1.89,1.87,-0.75,1.98,1.88,Salford City,Harrogate Town,salford_city,harrogate_town
+2022-04-18,E3,England-L2,2122,Salford,Barrow,2.0,2.0,D,1.0,0.0,H,1.85,3.5,4.5,1.87,3.46,4.47,1.88,3.38,4.21,2.25,1.61,2.24,1.61,-0.5,1.88,1.98,Salford City,Barrow,salford_city,barrow
+2022-05-02,E3,England-L2,2122,Salford,Mansfield,2.0,2.0,D,1.0,2.0,A,2.3,3.3,2.87,2.59,3.31,2.81,2.47,3.24,2.8,2.05,1.75,2.02,1.75,0.0,1.7,2.1,Salford City,Mansfield Town,salford_city,mansfield_town
+2022-07-30,E3,England-L2,2223,Salford,Mansfield,2.0,0.0,H,2.0,0.0,H,2.62,3.2,2.75,2.67,3.26,2.85,2.56,3.19,2.74,2.15,1.66,2.13,1.67,0.0,1.85,2.0,Salford City,Mansfield Town,salford_city,mansfield_town
+2022-08-13,E3,England-L2,2223,Salford,Crewe,3.0,0.0,H,1.0,0.0,H,1.85,3.6,4.33,1.92,3.48,4.21,1.9,3.45,4.04,2.05,1.8,2.03,1.75,-0.5,1.9,1.95,Salford City,Crewe Alexandra,salford_city,crewe_alexandra
+2022-08-27,E3,England-L2,2223,Salford,Stevenage,1.0,0.0,H,0.0,0.0,D,2.37,3.25,3.1,2.5,3.28,3.05,2.42,3.22,2.92,2.1,1.7,2.11,1.69,-0.25,2.05,1.8,Salford City,Stevenage,salford_city,stevenage
+2022-09-03,E3,England-L2,2223,Salford,Crawley Town,2.0,2.0,D,1.0,1.0,D,1.75,3.75,4.75,1.73,3.86,5.02,1.73,3.67,4.62,1.95,1.9,1.9,1.85,-0.75,2.0,1.85,Salford City,Crawley Town,salford_city,crawley_town
+2022-09-17,E3,England-L2,2223,Salford,Tranmere,0.0,1.0,A,0.0,1.0,A,1.75,3.6,4.75,1.78,3.54,5.21,1.77,3.5,4.67,2.2,1.65,2.17,1.65,-0.75,2.0,1.85,Salford City,Tranmere Rovers,salford_city,tranmere_rovers
+2022-10-01,E3,England-L2,2223,Salford,Grimsby,1.0,1.0,D,1.0,1.0,D,2.0,3.3,4.0,2.07,3.42,3.95,2.02,3.32,3.69,2.1,1.7,2.1,1.69,-0.5,2.0,1.85,Salford City,Grimsby Town,salford_city,grimsby_town
+2022-10-15,E3,England-L2,2223,Salford,Bradford,0.0,1.0,A,0.0,1.0,A,2.2,3.4,3.25,2.31,3.36,3.19,2.24,3.29,3.13,2.05,1.8,2.01,1.76,-0.25,1.98,1.88,Salford City,Bradford City,salford_city,bradford_city
+2022-10-22,E3,England-L2,2223,Salford,Stockport,0.0,2.0,A,0.0,1.0,A,2.7,3.25,2.7,2.91,3.4,2.53,2.75,3.23,2.53,2.1,1.7,2.12,1.68,0.0,1.93,1.93,Salford City,Stockport County,salford_city,stockport_county
+2022-11-12,E3,England-L2,2223,Salford,AFC Wimbledon,0.0,0.0,D,0.0,0.0,D,1.9,3.4,4.0,2.04,3.5,3.86,1.97,3.38,3.8,2.07,1.72,2.07,1.72,-0.5,1.95,1.9,Salford City,AFC Wimbledon,salford_city,afc_wimbledon
+2022-11-19,E3,England-L2,2223,Salford,Carlisle,1.0,4.0,A,0.0,1.0,A,2.37,3.25,3.1,2.35,3.42,3.16,2.31,3.28,3.02,2.1,1.7,2.11,1.68,-0.25,2.02,1.83,Salford City,Carlisle United,salford_city,carlisle_united
+2022-12-26,E3,England-L2,2223,Salford,Barrow,1.0,1.0,D,1.0,0.0,H,2.38,3.2,3.2,2.56,3.09,3.04,2.45,3.12,2.96,2.25,1.62,2.23,1.62,-0.25,2.05,1.8,Salford City,Barrow,salford_city,barrow
+2023-01-07,E3,England-L2,2223,Salford,Northampton,2.0,1.0,H,2.0,1.0,H,2.8,3.2,2.6,2.97,3.23,2.59,2.85,3.14,2.51,2.25,1.62,2.22,1.63,0.0,2.0,1.85,Salford City,Northampton Town,salford_city,northampton_town
+2023-01-14,E3,England-L2,2223,Salford,Sutton,2.0,0.0,H,2.0,0.0,H,2.4,3.2,3.1,2.51,3.26,2.96,2.39,3.2,2.95,2.15,1.67,2.15,1.66,-0.25,2.05,1.8,Salford City,Sutton United,salford_city,sutton_united
+2023-01-31,E3,England-L2,2223,Salford,Walsall,1.0,0.0,H,1.0,0.0,H,2.4,3.2,3.1,2.37,3.19,3.36,2.32,3.13,3.15,2.3,1.6,2.26,1.61,-0.25,2.0,1.85,Salford City,Walsall,salford_city,walsall
+2023-02-04,E3,England-L2,2223,Salford,Rochdale,2.0,1.0,H,1.0,0.0,H,1.91,3.4,4.33,1.9,3.62,4.29,1.9,3.47,3.95,2.0,1.8,1.97,1.8,-0.5,1.9,1.95,Salford City,Rochdale,salford_city,rochdale
+2023-02-14,E3,England-L2,2223,Salford,Harrogate,1.0,1.0,D,0.0,0.0,D,1.91,3.5,4.0,1.9,3.76,4.11,1.88,3.58,3.94,1.9,1.95,1.85,1.91,-0.5,1.9,1.95,Salford City,Harrogate Town,salford_city,harrogate_town
+2023-02-18,E3,England-L2,2223,Salford,Swindon,1.0,2.0,A,1.0,1.0,D,2.3,3.5,3.0,2.35,3.51,3.09,2.28,3.41,2.97,1.9,1.95,1.86,1.89,-0.25,2.0,1.85,Salford City,Swindon Town,salford_city,swindon_town
+2023-03-04,E3,England-L2,2223,Salford,Newport County,3.0,1.0,H,1.0,1.0,D,2.25,3.4,3.2,2.3,3.4,3.28,2.26,3.27,3.14,2.1,1.7,2.11,1.68,-0.25,1.95,1.9,Salford City,Newport County,salford_city,newport_county
+2023-03-18,E3,England-L2,2223,Salford,Doncaster,3.0,1.0,H,2.0,1.0,H,1.8,3.6,4.5,1.84,3.67,4.54,1.81,3.58,4.23,2.0,1.85,1.96,1.8,-0.5,1.77,2.02,Salford City,Doncaster Rovers,salford_city,doncaster_rovers
+2023-04-07,E3,England-L2,2223,Salford,Leyton Orient,0.0,2.0,A,0.0,2.0,A,2.3,3.2,3.3,2.38,3.18,3.35,2.32,3.15,3.16,2.2,1.65,2.18,1.65,-0.25,1.98,1.88,Salford City,Leyton Orient,salford_city,leyton_orient
+2023-04-15,E3,England-L2,2223,Salford,Colchester,0.0,1.0,A,0.0,1.0,A,1.91,3.4,4.2,1.85,3.68,4.46,1.84,3.55,4.21,1.95,1.9,1.97,1.79,-0.5,1.93,1.93,Salford City,Colchester United,salford_city,colchester_united
+2023-04-18,E3,England-L2,2223,Salford,Hartlepool,2.0,0.0,H,2.0,0.0,H,1.53,4.33,6.5,1.53,4.49,6.13,1.51,4.38,5.92,1.67,2.15,1.66,2.15,-1.0,1.88,1.98,Salford City,Hartlepool United,salford_city,hartlepool_united
+2023-05-08,E3,England-L2,2223,Salford,Gillingham,0.0,1.0,A,0.0,0.0,D,1.5,4.0,7.5,1.45,4.32,6.98,1.46,4.3,6.79,1.93,1.93,1.82,1.94,-1.0,1.85,2.0,Salford City,Gillingham,salford_city,gillingham
+2023-08-12,E3,England-L2,2324,Salford,Crawley Town,1.0,1.0,D,0.0,1.0,A,1.5,4.5,6.25,1.48,4.67,6.68,1.47,4.39,6.28,1.7,2.1,1.69,2.11,-1.25,2.05,1.75,Salford City,Crawley Town,salford_city,crawley_town
+2023-08-26,E3,England-L2,2324,Salford,Accrington,1.0,2.0,A,0.0,2.0,A,1.83,3.5,4.5,1.77,3.84,4.59,1.78,3.65,4.32,1.88,1.98,1.83,1.93,-0.75,2.05,1.75,Salford City,Accrington Stanley,salford_city,accrington_stanley
+2023-09-09,E3,England-L2,2324,Salford,Walsall,1.0,2.0,A,1.0,0.0,H,2.05,3.5,3.5,2.1,3.68,3.49,2.05,3.52,3.38,1.95,1.9,1.89,1.86,-0.25,1.83,2.03,Salford City,Walsall,salford_city,walsall
+2023-09-15,E3,England-L2,2324,Salford,Notts County,0.0,2.0,A,0.0,1.0,A,3.0,3.8,2.2,3.05,3.9,2.23,2.93,3.68,2.21,1.57,2.35,1.6,2.28,0.25,1.93,1.93,Salford City,Notts County,salford_city,notts_county
+2023-09-30,E3,England-L2,2324,Salford,Newport County,2.0,1.0,H,2.0,1.0,H,2.25,3.6,3.0,2.28,3.66,3.11,2.2,3.49,3.05,1.83,2.03,1.78,1.97,-0.25,1.93,1.93,Salford City,Newport County,salford_city,newport_county
+2023-10-07,E3,England-L2,2324,Salford,Crewe,4.0,2.0,H,1.0,1.0,D,2.15,3.5,3.4,2.12,3.75,3.3,2.05,3.61,3.29,1.73,2.08,1.69,2.09,-0.5,2.08,1.73,Salford City,Crewe Alexandra,salford_city,crewe_alexandra
+2023-10-21,E3,England-L2,2324,Salford,Swindon,2.0,2.0,D,1.0,1.0,D,2.7,3.4,2.5,2.71,3.8,2.49,2.61,3.56,2.45,1.6,2.3,1.59,2.27,0.0,1.98,1.88,Salford City,Swindon Town,salford_city,swindon_town
+2023-11-11,E3,England-L2,2324,Salford,Mansfield,1.0,2.0,A,1.0,2.0,A,4.33,3.8,1.8,4.34,4.04,1.79,4.09,3.88,1.77,1.62,2.25,1.6,2.26,0.75,1.85,2.0,Salford City,Mansfield Town,salford_city,mansfield_town
+2023-11-25,E3,England-L2,2324,Salford,Milton Keynes Dons,2.0,4.0,A,2.0,1.0,H,2.7,3.4,2.5,2.78,3.6,2.53,2.68,3.5,2.44,1.62,2.25,1.63,2.2,0.0,2.0,1.85,Salford City,MK Dons,salford_city,mk_dons
+2023-12-16,E3,England-L2,2324,Salford,AFC Wimbledon,0.0,0.0,D,0.0,0.0,D,3.6,3.5,2.05,3.54,3.54,2.13,3.42,3.5,2.05,1.88,1.98,1.81,1.94,0.25,2.05,1.8,Salford City,AFC Wimbledon,salford_city,afc_wimbledon
+2023-12-26,E3,England-L2,2324,Salford,Tranmere,1.0,5.0,A,0.0,2.0,A,2.3,3.5,3.0,2.37,3.69,2.94,2.28,3.52,2.88,1.75,2.05,1.73,2.04,-0.25,2.0,1.85,Salford City,Tranmere Rovers,salford_city,tranmere_rovers
+2023-12-29,E3,England-L2,2324,Salford,Grimsby,0.0,3.0,A,0.0,1.0,A,2.55,3.6,2.63,2.62,3.55,2.71,2.53,3.47,2.63,1.73,2.08,1.73,2.04,0.0,1.88,1.98,Salford City,Grimsby Town,salford_city,grimsby_town
+2024-01-06,E3,England-L2,2324,Salford,Forest Green,2.0,2.0,D,1.0,1.0,D,2.4,3.4,2.88,2.41,3.66,2.89,2.33,3.51,2.83,1.83,2.03,1.76,2.0,-0.25,2.05,1.8,Salford City,Forest Green Rovers,salford_city,forest_green_rovers
+2024-02-03,E3,England-L2,2324,Salford,Wrexham,3.0,1.0,H,2.0,1.0,H,4.2,3.5,1.91,3.86,3.92,1.93,3.63,3.72,1.91,1.62,2.25,1.59,2.27,0.5,1.9,1.95,Salford City,Wrexham,salford_city,wrexham
+2024-02-13,E3,England-L2,2324,Salford,Doncaster,2.0,2.0,D,1.0,1.0,D,1.85,3.8,4.0,1.88,3.77,4.18,1.87,3.65,3.86,1.83,2.03,1.78,1.99,-0.5,1.88,1.98,Salford City,Doncaster Rovers,salford_city,doncaster_rovers
+2024-02-17,E3,England-L2,2324,Salford,Barrow,5.0,3.0,H,1.0,1.0,D,2.63,3.4,2.63,2.67,3.36,2.77,2.58,3.31,2.63,1.98,1.88,1.94,1.82,0.0,1.9,1.95,Salford City,Barrow,salford_city,barrow
+2024-02-27,E3,England-L2,2324,Salford,Colchester,1.0,1.0,D,1.0,0.0,H,1.95,3.8,3.6,1.95,3.96,3.7,1.93,3.78,3.53,1.57,2.35,1.57,2.33,-0.5,1.98,1.88,Salford City,Colchester United,salford_city,colchester_united
+2024-03-02,E3,England-L2,2324,Salford,Gillingham,0.0,2.0,A,0.0,1.0,A,2.6,3.5,2.6,2.73,3.4,2.68,2.6,3.34,2.61,1.93,1.93,1.88,1.88,0.0,1.93,1.93,Salford City,Gillingham,salford_city,gillingham
+2024-03-14,E3,England-L2,2324,Salford,Stockport,2.0,2.0,D,2.0,0.0,H,4.2,3.5,1.91,4.18,3.87,1.82,3.74,3.68,1.87,1.73,2.08,1.7,2.1,0.5,1.95,1.9,Salford City,Stockport County,salford_city,stockport_county
+2024-03-17,E3,England-L2,2324,Salford,Morecambe,3.0,1.0,H,1.0,0.0,H,1.83,3.6,4.5,1.87,4.0,3.99,1.82,3.8,3.96,1.67,2.15,1.65,2.16,-0.5,1.85,2.0,Salford City,Morecambe,salford_city,morecambe
+2024-03-29,E3,England-L2,2324,Salford,Sutton,1.0,2.0,A,0.0,1.0,A,1.91,3.6,3.8,1.96,3.78,3.75,1.92,3.68,3.64,1.7,2.1,1.68,2.12,-0.5,1.93,1.93,Salford City,Sutton United,salford_city,sutton_united
+2024-04-13,E3,England-L2,2324,Salford,Bradford,1.0,2.0,A,1.0,1.0,D,2.5,3.5,2.75,2.56,3.52,2.78,2.45,3.46,2.72,1.75,2.05,1.76,2.0,0.0,1.83,2.03,Salford City,Bradford City,salford_city,bradford_city
+2024-04-27,E3,England-L2,2324,Salford,Harrogate,2.0,2.0,D,2.0,2.0,D,1.73,3.8,4.75,1.74,4.2,4.39,1.72,3.96,4.35,1.6,2.3,1.6,2.26,-0.75,1.93,1.93,Salford City,Harrogate Town,salford_city,harrogate_town
+2024-08-10,E3,England-L2,2425,Salford,Port Vale,0.0,2.0,A,0.0,1.0,A,2.2,3.6,2.9,2.29,3.54,2.97,2.25,3.47,2.95,1.83,2.03,1.81,1.95,-0.25,2.0,1.85,Salford City,Port Vale,salford_city,port_vale
+2024-09-02,E3,England-L2,2425,Salford,Milton Keynes Dons,1.0,0.0,H,1.0,0.0,H,3.1,3.4,2.2,3.02,3.61,2.23,2.99,3.52,2.21,1.7,2.1,1.69,2.09,0.25,1.9,1.9,Salford City,MK Dons,salford_city,mk_dons
+2024-09-14,E3,England-L2,2425,Salford,Cheltenham,2.0,1.0,H,0.0,0.0,D,1.85,3.75,3.8,1.9,3.68,3.76,1.89,3.6,3.78,1.95,1.9,1.89,1.86,-0.5,1.9,1.95,Salford City,Cheltenham Town,salford_city,cheltenham_town
+2024-09-21,E3,England-L2,2425,Salford,Walsall,0.0,2.0,A,0.0,0.0,D,2.75,3.3,2.5,2.81,3.36,2.45,2.79,3.33,2.43,1.98,1.88,1.92,1.84,0.0,2.05,1.8,Salford City,Walsall,salford_city,walsall
+2024-10-05,E3,England-L2,2425,Salford,AFC Wimbledon,1.0,0.0,H,0.0,0.0,D,3.1,3.3,2.25,3.17,3.27,2.28,3.12,3.26,2.26,2.08,1.73,2.05,1.73,0.25,1.88,1.98,Salford City,AFC Wimbledon,salford_city,afc_wimbledon
+2024-10-12,E3,England-L2,2425,Salford,Grimsby,1.0,2.0,A,1.0,2.0,A,2.2,3.4,3.1,2.22,3.45,3.18,2.2,3.39,3.12,1.9,1.95,1.87,1.89,-0.25,1.93,1.93,Salford City,Grimsby Town,salford_city,grimsby_town
+2024-10-22,E3,England-L2,2425,Salford,Swindon,2.0,1.0,H,1.0,0.0,H,2.35,3.5,2.88,2.36,3.37,3.06,2.35,3.33,2.94,2.05,1.75,2.02,1.76,-0.25,2.05,1.8,Salford City,Swindon Town,salford_city,swindon_town
+2024-11-09,E3,England-L2,2425,Salford,Carlisle,0.0,1.0,A,0.0,0.0,D,1.91,3.6,3.6,1.93,3.55,3.88,1.97,3.51,3.65,1.9,1.95,1.87,1.89,-0.5,1.95,1.9,Salford City,Carlisle United,salford_city,carlisle_united
+2024-12-03,E3,England-L2,2425,Salford,Harrogate,2.0,0.0,H,1.0,0.0,H,1.7,3.5,4.75,1.75,3.66,4.88,1.74,3.61,4.65,2.05,1.8,2.01,1.77,-0.75,1.98,1.88,Salford City,Harrogate Town,salford_city,harrogate_town
+2024-12-14,E3,England-L2,2425,Salford,Notts County,3.0,0.0,H,2.0,0.0,H,2.5,3.25,2.7,2.57,3.35,2.74,2.47,3.32,2.74,1.95,1.9,1.91,1.87,0.0,1.85,2.0,Salford City,Notts County,salford_city,notts_county
+2024-12-26,E3,England-L2,2425,Salford,Barrow,3.0,0.0,H,2.0,0.0,H,2.15,3.4,3.25,2.12,3.3,3.46,2.13,3.26,3.36,2.2,1.65,2.22,1.62,-0.25,1.88,1.98,Salford City,Barrow,salford_city,barrow
+2024-12-29,E3,England-L2,2425,Salford,Morecambe,1.0,0.0,H,0.0,0.0,D,1.7,3.7,4.2,1.69,3.8,4.7,1.71,3.72,4.5,1.93,1.93,1.87,1.89,-0.75,1.93,1.93,Salford City,Morecambe,salford_city,morecambe
+2025-01-18,E3,England-L2,2425,Salford,Fleetwood Town,0.0,2.0,A,0.0,2.0,A,1.85,3.3,4.33,1.84,3.49,4.23,1.87,3.44,4.09,2.08,1.73,2.03,1.74,-0.5,1.88,1.98,Salford City,Fleetwood Town,salford_city,fleetwood_town
+2025-01-28,E3,England-L2,2425,Salford,Newport County,1.0,1.0,D,1.0,1.0,D,1.48,4.33,6.0,1.47,4.49,6.63,1.46,4.42,6.41,1.73,2.08,1.72,2.1,-1.0,1.8,2.05,Salford City,Newport County,salford_city,newport_county
+2025-02-04,E3,England-L2,2425,Salford,Bromley,3.0,3.0,D,0.0,2.0,A,2.2,3.3,3.2,2.25,3.25,3.38,2.22,3.27,3.23,2.08,1.73,2.06,1.73,-0.25,1.93,1.93,Salford City,Bromley,salford_city,bromley
+2025-02-08,E3,England-L2,2425,Salford,Tranmere,2.0,0.0,H,0.0,0.0,D,1.73,3.6,4.5,1.75,3.61,4.6,1.75,3.56,4.48,2.05,1.8,2.01,1.75,-0.75,2.0,1.85,Salford City,Tranmere Rovers,salford_city,tranmere_rovers
+2025-03-01,E3,England-L2,2425,Salford,Bradford,1.0,2.0,A,1.0,0.0,H,2.9,3.3,2.4,3.02,3.12,2.45,2.94,3.11,2.42,2.2,1.65,2.22,1.61,0.0,2.08,1.73,Salford City,Bradford City,salford_city,bradford_city
+2025-03-08,E3,England-L2,2425,Salford,Crewe,1.0,1.0,D,0.0,0.0,D,2.2,3.25,3.2,2.23,3.27,3.33,2.2,3.19,3.23,2.15,1.67,2.18,1.64,-0.25,1.95,1.9,Salford City,Crewe Alexandra,salford_city,crewe_alexandra
+2025-03-11,E3,England-L2,2425,Salford,Chesterfield,0.0,4.0,A,0.0,2.0,A,2.45,3.3,2.8,2.51,3.28,2.86,2.48,3.23,2.78,2.03,1.83,1.97,1.8,0.0,1.77,2.05,Salford City,Chesterfield,salford_city,chesterfield
+2025-04-05,E3,England-L2,2425,Salford,Gillingham,2.0,2.0,D,2.0,2.0,D,2.1,3.2,3.5,2.13,3.27,3.48,2.11,3.24,3.45,2.2,1.65,2.2,1.64,-0.25,1.83,2.03,Salford City,Gillingham,salford_city,gillingham
+2025-04-15,E3,England-L2,2425,Salford,Doncaster,1.0,1.0,D,1.0,1.0,D,3.0,3.3,2.3,2.97,3.31,2.44,3.0,3.29,2.33,2.03,1.83,2.0,1.79,0.25,1.8,2.05,Salford City,Doncaster Rovers,salford_city,doncaster_rovers
+2025-04-18,E3,England-L2,2425,Salford,Accrington,1.0,2.0,A,0.0,1.0,A,1.8,3.4,4.5,1.82,3.55,4.3,1.8,3.56,4.27,2.03,1.83,1.98,1.79,-0.75,2.03,1.78,Salford City,Accrington Stanley,salford_city,accrington_stanley
+2025-04-26,E3,England-L2,2425,Salford,Colchester,4.0,1.0,H,3.0,0.0,H,2.1,3.4,3.2,2.24,3.25,3.24,2.17,3.29,3.27,2.15,1.67,2.16,1.66,-0.25,1.9,1.95,Salford City,Colchester United,salford_city,colchester_united
+2025-08-02,E3,England-L2,2526,Salford,Crewe,1.0,3.0,A,1.0,3.0,A,1.85,3.8,3.6,1.88,3.76,3.76,1.86,3.66,3.65,1.75,2.05,1.74,2.0,-0.5,1.9,1.95,Salford City,Crewe Alexandra,salford_city,crewe_alexandra
+2025-08-16,E3,England-L2,2526,Salford,Accrington,2.0,1.0,H,2.0,0.0,H,1.67,4.0,4.33,1.68,4.04,4.47,1.68,3.93,4.52,1.83,2.03,1.75,1.99,-0.75,1.93,1.93,Salford City,Accrington Stanley,salford_city,accrington_stanley
+2025-08-29,E3,England-L2,2526,Salford,Cheltenham,1.0,1.0,D,0.0,0.0,D,1.66,3.8,4.5,1.69,3.89,4.92,1.66,3.89,4.67,1.8,2.0,1.74,2.0,-0.75,1.93,1.93,Salford City,Cheltenham Town,salford_city,cheltenham_town
+2025-09-06,E3,England-L2,2526,Salford,Tranmere,3.0,1.0,H,0.0,0.0,D,2.2,3.3,3.1,2.24,3.4,3.13,2.22,3.34,3.09,2.05,1.75,1.99,1.75,-0.25,1.95,1.9,Salford City,Tranmere Rovers,salford_city,tranmere_rovers
+2025-09-20,E3,England-L2,2526,Salford,Swindon,3.0,2.0,H,2.0,0.0,H,2.2,3.6,2.82,2.29,3.58,2.87,2.24,3.57,2.9,1.73,2.08,1.7,2.06,-0.25,2.0,1.85,Salford City,Swindon Town,salford_city,swindon_town
+2025-10-04,E3,England-L2,2526,Salford,Grimsby,0.0,2.0,A,0.0,2.0,A,2.15,3.4,3.1,2.17,3.72,3.0,2.24,3.59,2.88,1.7,2.1,1.7,2.06,-0.25,1.93,1.93,Salford City,Grimsby Town,salford_city,grimsby_town
+2025-10-18,E3,England-L2,2526,Salford,Oldham,1.0,0.0,H,1.0,0.0,H,2.01,3.5,3.4,2.11,3.48,3.33,2.04,3.49,3.36,1.85,2.0,1.8,1.93,-0.5,2.05,1.75,Salford City,Oldham,salford_city,oldham
+2025-11-08,E3,England-L2,2526,Salford,Cambridge,0.0,0.0,D,0.0,0.0,D,2.15,3.3,3.25,,,,2.18,3.3,3.22,2.08,1.73,2.03,1.72,-0.25,1.93,1.93,Salford City,Cambridge United,salford_city,cambridge_united
+2025-11-29,E3,England-L2,2526,Salford,Crawley Town,4.0,3.0,H,1.0,1.0,D,1.68,3.75,4.33,,,,1.76,3.92,4.01,1.57,2.35,1.56,2.29,-0.75,2.0,1.85,Salford City,Crawley Town,salford_city,crawley_town
+2025-12-13,E3,England-L2,2526,Salford,Colchester,4.0,3.0,H,1.0,1.0,D,2.15,3.5,2.95,,,,2.19,3.41,3.06,1.85,1.95,1.83,1.88,-0.25,1.95,1.9,Salford City,Colchester United,salford_city,colchester_united
+2025-12-26,E3,England-L2,2526,Salford,Harrogate,1.0,0.0,H,0.0,0.0,D,1.35,4.5,7.5,,,,1.38,4.61,7.2,1.62,2.25,1.61,2.19,-1.25,1.85,2.0,Salford City,Harrogate Town,salford_city,harrogate_town
+2025-12-29,E3,England-L2,2526,Salford,Fleetwood Town,0.0,0.0,D,0.0,0.0,D,1.68,3.75,4.33,,,,1.75,3.79,4.19,1.62,2.25,1.62,2.18,-0.75,2.0,1.85,Salford City,Fleetwood Town,salford_city,fleetwood_town
+2026-01-24,E3,England-L2,2526,Salford,Bristol Rvs,1.0,0.0,H,1.0,0.0,H,1.68,3.75,4.33,,,,1.74,3.75,4.24,1.73,2.08,1.7,2.05,-0.75,2.0,1.85,Salford City,Bristol Rvs,salford_city,bristol_rvs
+2026-01-27,E3,England-L2,2526,Salford,Chesterfield,0.0,1.0,A,0.0,0.0,D,1.81,3.5,4.1,,,,1.87,3.57,3.87,1.93,1.93,1.82,1.88,-0.5,1.88,1.98,Salford City,Chesterfield,salford_city,chesterfield
+2026-02-17,E3,England-L2,2526,Salford,Newport County,1.0,3.0,A,0.0,1.0,A,1.35,4.75,8.0,,,,1.36,4.85,7.55,1.57,2.35,1.55,2.32,-1.25,1.8,2.05,Salford City,Newport County,salford_city,newport_county
+2026-02-24,E3,England-L2,2526,Salford,Shrewsbury,1.0,2.0,A,1.0,0.0,H,1.68,3.7,4.75,,,,1.68,3.72,4.77,1.9,1.9,1.83,1.88,-0.75,1.98,1.88,Salford City,Shrewsbury Town,salford_city,shrewsbury_town
+2026-03-07,E3,England-L2,2526,Salford,Barnet,2.0,0.0,H,2.0,0.0,H,2.5,3.3,2.57,,,,2.5,3.35,2.65,1.9,1.95,1.85,1.86,0.0,1.85,2.0,Salford City,Barnet,salford_city,barnet
+2026-03-10,E3,England-L2,2526,Salford,Walsall,1.0,0.0,H,0.0,0.0,D,1.86,3.25,4.1,,,,1.9,3.4,3.94,2.15,1.67,2.06,1.68,-0.5,1.95,1.9,Salford City,Walsall,salford_city,walsall
+2026-03-17,E3,England-L2,2526,Salford,Barrow,3.0,1.0,H,1.0,0.0,H,1.45,4.1,7.0,,,,1.47,4.12,6.45,1.9,1.9,1.83,1.88,-1.0,1.83,2.03,Salford City,Barrow,salford_city,barrow
+2026-03-28,E3,England-L2,2526,Salford,Milton Keynes Dons,1.0,0.0,H,0.0,0.0,D,3.0,3.2,2.3,,,,2.91,3.29,2.33,2.0,1.85,1.93,1.79,0.25,1.83,2.03,Salford City,MK Dons,salford_city,mk_dons
+2026-04-03,E3,England-L2,2526,Salford,Notts County,2.0,1.0,H,0.0,0.0,D,2.15,3.3,3.2,,,,2.2,3.36,3.09,2.0,1.85,1.91,1.82,-0.25,1.93,1.93,Salford City,Notts County,salford_city,notts_county
+2026-04-11,E3,England-L2,2526,Salford,Gillingham,0.0,0.0,D,0.0,0.0,D,1.56,3.8,5.75,,,,1.58,3.93,5.25,1.8,2.0,1.77,1.96,-1.0,2.05,1.8,Salford City,Gillingham,salford_city,gillingham
+2026-04-23,E3,England-L2,2526,Salford,Bromley,2.0,0.0,H,0.0,0.0,D,1.81,3.4,3.8,,,,1.93,3.37,3.74,2.0,1.85,1.93,1.78,-0.5,1.93,1.93,Salford City,Bromley,salford_city,bromley
+2026-08-22,E3,England-L2,2627,Salford,Chesterfield,0.0,1.0,A,0.0,1.0,A,1.96,3.1,3.8,,,,2.03,3.31,3.55,2.1,1.7,2.01,1.73,-0.5,2.05,1.8,Salford City,Chesterfield,salford_city,chesterfield
+2026-09-01,E3,England-L2,2627,Salford,Newport County,2.0,1.0,H,0.0,0.0,D,1.46,4.1,6.0,,,,1.5,4.31,5.63,1.6,2.3,1.59,2.23,-1.0,1.85,2.0,Salford City,Newport County,salford_city,newport_county
+2026-09-05,E3,England-L2,2627,Salford,Port Vale,1.0,0.0,H,0.0,0.0,D,1.81,3.5,4.0,,,,1.82,3.56,4.1,1.9,1.9,1.87,1.85,-0.5,1.85,2.0,Salford City,Port Vale,salford_city,port_vale
+2026-09-19,E3,England-L2,2627,Salford,Swindon,1.0,0.0,H,0.0,0.0,D,1.53,4.1,5.25,,,,1.53,4.31,5.33,1.57,2.35,1.53,2.37,-1.0,1.98,1.88,Salford City,Swindon Town,salford_city,swindon_town
+2026-10-03,E3,England-L2,2627,Salford,Fleetwood Town,1.0,0.0,H,0.0,0.0,D,1.62,3.7,4.75,,,,1.67,3.87,4.6,1.7,2.1,1.7,2.05,-0.75,1.85,2.0,Salford City,Fleetwood Town,salford_city,fleetwood_town
+2026-10-17,E3,England-L2,2627,Salford,Crawley Town,2.0,1.0,H,1.0,0.0,H,1.33,5.0,7.0,,,,1.36,5.18,7.03,1.44,2.7,1.41,2.7,-1.5,2.0,1.85,Salford City,Crawley Town,salford_city,crawley_town

@@ -1,0 +1,100 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-09-19,I1,Italy-SA,2122,Venezia,Spezia,1.0,2.0,A,0.0,1.0,A,2.45,3.4,2.9,2.47,3.59,2.95,2.45,3.47,2.87,1.72,2.1,1.73,2.13,0.0,1.8,2.14,Venezia,Spezia,venezia,spezia
+2021-09-27,I1,Italy-SA,2122,Venezia,Torino,1.0,1.0,D,0.0,0.0,D,3.6,3.5,2.05,3.67,3.57,2.13,3.54,3.48,2.11,1.9,1.9,1.87,1.96,0.25,2.08,1.85,Venezia,Torino,venezia,torino
+2021-10-18,I1,Italy-SA,2122,Venezia,Fiorentina,1.0,0.0,H,1.0,0.0,H,4.2,3.75,1.83,4.09,3.81,1.93,4.1,3.64,1.9,1.9,1.9,1.91,1.91,0.5,1.98,1.92,Venezia,Fiorentina,venezia,fiorentina
+2021-10-26,I1,Italy-SA,2122,Venezia,Salernitana,1.0,2.0,A,1.0,0.0,H,1.95,3.4,4.0,1.98,3.55,4.21,1.98,3.44,4.0,2.0,1.8,2.03,1.81,-0.5,1.99,1.94,Venezia,Salernitana,venezia,salernitana
+2021-11-07,I1,Italy-SA,2122,Venezia,Roma,3.0,2.0,H,1.0,2.0,A,5.75,4.5,1.53,5.92,4.61,1.56,5.89,4.41,1.54,1.66,2.2,1.66,2.24,1.0,1.96,1.94,Venezia,AS Roma,venezia,as_roma
+2021-11-27,I1,Italy-SA,2122,Venezia,Inter,0.0,2.0,A,0.0,1.0,A,8.0,5.0,1.36,9.03,4.89,1.41,8.18,4.84,1.39,1.66,2.2,1.62,2.29,1.25,2.02,1.91,Venezia,Inter Milan,venezia,inter_milan
+2021-12-05,I1,Italy-SA,2122,Venezia,Verona,3.0,4.0,A,3.0,0.0,H,3.6,3.5,2.0,3.97,3.54,2.05,3.66,3.44,2.07,2.0,1.9,1.94,1.88,0.5,1.88,2.05,Venezia,Hellas Verona,venezia,hellas_verona
+2021-12-11,I1,Italy-SA,2122,Venezia,Juventus,1.0,1.0,D,0.0,1.0,A,9.0,4.75,1.36,9.46,4.95,1.39,8.54,4.8,1.39,1.72,2.1,1.75,2.09,1.25,1.98,1.95,Venezia,Juventus,venezia,juventus
+2021-12-22,I1,Italy-SA,2122,Venezia,Lazio,1.0,3.0,A,1.0,1.0,D,4.2,3.6,1.85,4.24,3.63,1.95,4.13,3.63,1.9,1.72,2.1,1.81,2.02,0.5,1.98,1.92,Venezia,Lazio,venezia,lazio
+2022-01-09,I1,Italy-SA,2122,Venezia,Milan,0.0,3.0,A,0.0,1.0,A,6.0,4.0,1.57,6.29,4.17,1.56,5.89,4.1,1.58,1.86,2.04,1.82,2.01,1.0,1.86,2.04,Venezia,AC Milan,venezia,ac_milan
+2022-01-16,I1,Italy-SA,2122,Venezia,Empoli,1.0,1.0,D,0.0,1.0,A,2.62,3.5,2.55,2.75,3.7,2.5,2.72,3.58,2.5,1.72,2.1,1.69,2.17,0.0,2.04,1.86,Venezia,Empoli,venezia,empoli
+2022-02-06,I1,Italy-SA,2122,Venezia,Napoli,0.0,2.0,A,0.0,0.0,D,7.5,4.75,1.4,7.68,4.93,1.42,7.47,4.7,1.43,1.66,2.2,1.68,2.21,1.25,1.93,1.97,Venezia,Napoli,venezia,napoli
+2022-02-20,I1,Italy-SA,2122,Venezia,Genoa,1.0,1.0,D,1.0,1.0,D,2.5,3.2,2.9,2.61,3.26,3.02,2.56,3.23,2.9,2.1,1.72,2.07,1.77,0.0,1.81,2.09,Venezia,Genoa,venezia,genoa
+2022-03-06,I1,Italy-SA,2122,Venezia,Sassuolo,1.0,4.0,A,1.0,3.0,A,3.25,3.4,2.2,3.43,3.61,2.21,3.3,3.45,2.22,1.66,2.2,1.65,2.26,0.25,1.97,1.93,Venezia,Sassuolo,venezia,sassuolo
+2022-03-20,I1,Italy-SA,2122,Venezia,Sampdoria,0.0,2.0,A,0.0,2.0,A,2.62,3.3,2.7,2.81,3.31,2.74,2.69,3.33,2.68,1.92,1.98,1.88,1.94,0.0,1.96,1.94,Venezia,Sampdoria,venezia,sampdoria
+2022-04-10,I1,Italy-SA,2122,Venezia,Udinese,1.0,2.0,A,0.0,1.0,A,3.5,3.3,2.15,3.6,3.4,2.22,3.48,3.37,2.19,2.1,1.72,2.05,1.78,0.25,2.01,1.89,Venezia,Udinese,venezia,udinese
+2022-04-23,I1,Italy-SA,2122,Venezia,Atalanta,1.0,3.0,A,0.0,1.0,A,6.5,4.33,1.5,6.97,4.61,1.51,6.62,4.54,1.49,1.66,2.2,1.64,2.27,1.0,2.08,1.82,Venezia,Atalanta,venezia,atalanta
+2022-05-08,I1,Italy-SA,2122,Venezia,Bologna,4.0,3.0,H,2.0,1.0,H,2.87,3.5,2.35,3.11,3.71,2.32,3.0,3.55,2.33,1.87,2.03,1.81,2.02,0.25,1.82,2.08,Venezia,Bologna,venezia,bologna
+2022-05-22,I1,Italy-SA,2122,Venezia,Cagliari,0.0,0.0,D,0.0,0.0,D,4.5,3.8,1.72,4.83,4.25,1.7,4.68,4.05,1.72,1.72,2.1,1.73,2.12,0.75,1.96,1.94,Venezia,Cagliari,venezia,cagliari
+2022-08-14,I2,Italy-SB,2223,Venezia,Genoa,1.0,2.0,A,0.0,1.0,A,3.2,3.2,2.15,3.69,3.28,2.21,3.38,3.24,2.17,2.1,1.7,2.12,1.7,0.25,1.95,1.9,Venezia,Genoa,venezia,genoa
+2022-09-03,I2,Italy-SB,2223,Venezia,Benevento,0.0,2.0,A,0.0,0.0,D,2.45,3.25,2.8,2.57,3.15,3.12,2.48,3.11,2.93,2.07,1.72,2.07,1.74,0.0,1.75,2.13,Venezia,Benevento,venezia,benevento
+2022-09-17,I2,Italy-SB,2223,Venezia,Pisa,1.0,1.0,D,1.0,1.0,D,2.2,3.25,3.1,2.38,3.17,3.43,2.28,3.18,3.19,2.1,1.7,2.1,1.71,-0.25,1.98,1.88,Venezia,Pisa,venezia,pisa
+2022-10-08,I2,Italy-SB,2223,Venezia,Bari,1.0,2.0,A,0.0,0.0,D,2.3,3.3,2.9,2.39,3.21,3.36,2.3,3.23,3.12,2.02,1.83,2.01,1.79,-0.25,2.0,1.85,Venezia,Bari,venezia,bari
+2022-10-14,I2,Italy-SB,2223,Venezia,Frosinone,1.0,3.0,A,1.0,0.0,H,2.75,3.1,2.7,2.87,3.08,2.82,2.75,3.04,2.68,2.15,1.66,2.16,1.68,0.0,1.93,1.93,Venezia,Frosinone,venezia,frosinone
+2022-10-29,I2,Italy-SB,2223,Venezia,Ascoli,0.0,2.0,A,0.0,0.0,D,1.95,3.5,3.8,1.98,3.5,4.21,1.98,3.38,3.75,2.05,1.75,2.04,1.75,-0.5,1.95,1.9,Venezia,Ascoli,venezia,ascoli
+2022-11-12,I2,Italy-SB,2223,Venezia,Reggina,1.0,2.0,A,1.0,0.0,H,2.62,3.2,2.62,2.8,3.2,2.8,2.68,3.12,2.69,2.15,1.66,2.14,1.69,0.0,1.93,1.93,Venezia,Reggina,venezia,reggina
+2022-12-03,I2,Italy-SB,2223,Venezia,Ternana,2.0,1.0,H,2.0,1.0,H,2.37,3.2,2.9,2.51,3.36,3.02,2.39,3.24,2.96,2.0,1.85,1.98,1.8,-0.25,2.1,1.77,Venezia,Ternana,venezia,ternana
+2022-12-11,I2,Italy-SB,2223,Venezia,Cosenza,2.0,0.0,H,1.0,0.0,H,1.67,3.6,5.25,1.71,3.62,5.88,1.66,3.58,5.42,2.05,1.8,2.0,1.78,-0.75,1.88,1.98,Venezia,Cosenza,venezia,cosenza
+2022-12-26,I2,Italy-SB,2223,Venezia,Parma,2.0,2.0,D,0.0,1.0,A,2.88,3.2,2.45,3.05,3.12,2.64,2.91,3.08,2.51,2.15,1.67,2.14,1.69,0.0,2.1,1.77,Venezia,Parma,venezia,parma
+2023-01-21,I2,Italy-SB,2223,Venezia,Sudtirol,0.0,1.0,A,0.0,0.0,D,1.95,3.3,3.8,2.02,3.25,4.39,1.99,3.2,4.05,2.25,1.62,2.29,1.6,-0.5,1.98,1.88,Venezia,Sudtirol,venezia,sudtirol
+2023-01-28,I2,Italy-SB,2223,Venezia,Cittadella,1.0,1.0,D,1.0,1.0,D,2.2,3.0,3.3,2.31,3.12,3.65,2.26,3.05,3.39,2.4,1.53,2.41,1.55,-0.25,1.93,1.93,Venezia,Cittadella,venezia,cittadella
+2023-02-11,I2,Italy-SB,2223,Venezia,Spal,2.0,1.0,H,2.0,0.0,H,1.85,3.7,4.1,1.96,3.44,4.37,1.91,3.39,4.1,2.15,1.67,2.21,1.65,-0.5,1.9,1.95,Venezia,Spal,venezia,spal
+2023-02-25,I2,Italy-SB,2223,Venezia,Cagliari,0.0,0.0,D,0.0,0.0,D,2.38,3.25,3.0,2.46,3.24,3.19,2.38,3.22,3.02,2.05,1.8,2.02,1.78,-0.25,2.05,1.8,Venezia,Cagliari,venezia,cagliari
+2023-03-11,I2,Italy-SB,2223,Venezia,Brescia,1.0,1.0,D,0.0,0.0,D,1.95,3.3,4.2,2.01,3.23,4.5,1.96,3.19,4.14,2.35,1.57,2.35,1.56,-0.5,1.95,1.9,Venezia,Brescia,venezia,brescia
+2023-04-01,I2,Italy-SB,2223,Venezia,Como,3.0,2.0,H,1.0,1.0,D,2.45,3.25,2.88,2.59,3.07,3.17,2.47,3.08,2.98,2.2,1.65,2.2,1.64,0.0,1.75,2.13,Venezia,Como,venezia,como
+2023-04-15,I2,Italy-SB,2223,Venezia,Palermo,3.0,2.0,H,1.0,1.0,D,2.15,3.2,3.6,2.25,3.12,3.8,2.18,3.15,3.51,2.15,1.67,2.17,1.66,-0.25,1.88,1.98,Venezia,Palermo,venezia,palermo
+2023-05-01,I2,Italy-SB,2223,Venezia,Modena,5.0,0.0,H,1.0,0.0,H,2.2,3.3,3.4,2.31,3.14,3.54,2.21,3.18,3.33,2.1,1.7,2.12,1.68,-0.25,1.9,1.95,Venezia,Modena,venezia,modena
+2023-05-13,I2,Italy-SB,2223,Venezia,Perugia,3.0,2.0,H,2.0,0.0,H,1.91,3.5,4.2,1.94,3.71,4.08,1.93,3.5,3.83,1.98,1.88,1.95,1.83,-0.5,1.93,1.93,Venezia,Perugia,venezia,perugia
+2023-08-20,I2,Italy-SB,2324,Venezia,Como,3.0,0.0,H,2.0,0.0,H,2.1,3.4,3.5,2.1,3.41,3.87,2.07,3.29,3.57,2.05,1.75,2.03,1.76,-0.25,1.78,2.1,Venezia,Como,venezia,como
+2023-08-26,I2,Italy-SB,2324,Venezia,Cosenza,1.0,1.0,D,0.0,1.0,A,1.75,3.5,4.75,1.78,3.64,5.16,1.77,3.51,4.74,2.1,1.7,2.12,1.69,-0.75,2.03,1.83,Venezia,Cosenza,venezia,cosenza
+2023-09-15,I2,Italy-SB,2324,Venezia,Spezia,1.0,0.0,H,0.0,0.0,D,2.2,3.5,3.2,2.2,3.51,3.48,2.14,3.43,3.29,1.93,1.93,1.86,1.91,-0.25,1.88,1.98,Venezia,Spezia,venezia,spezia
+2023-09-26,I2,Italy-SB,2324,Venezia,Palermo,1.0,3.0,A,1.0,1.0,D,2.38,3.25,3.1,2.49,3.27,3.13,2.39,3.22,3.01,2.03,1.83,2.0,1.79,-0.25,2.1,1.78,Venezia,Palermo,venezia,palermo
+2023-10-07,I2,Italy-SB,2324,Venezia,Parma,3.0,2.0,H,0.0,0.0,D,2.5,3.2,2.9,2.55,3.35,2.97,2.45,3.26,2.85,2.03,1.83,2.0,1.78,0.0,1.78,2.1,Venezia,Parma,venezia,parma
+2023-10-29,I2,Italy-SB,2324,Venezia,Pisa,2.0,1.0,H,1.0,1.0,D,2.1,3.3,3.5,2.18,3.27,3.78,2.09,3.28,3.58,2.1,1.7,2.14,1.69,-0.25,1.83,2.03,Venezia,Pisa,venezia,pisa
+2023-11-10,I2,Italy-SB,2324,Venezia,Catanzaro,2.0,1.0,H,2.0,1.0,H,2.0,3.4,3.8,2.06,3.4,4.02,2.03,3.36,3.66,1.98,1.88,1.92,1.86,-0.5,2.03,1.83,Venezia,Catanzaro,venezia,catanzaro
+2023-12-02,I2,Italy-SB,2324,Venezia,Ascoli,3.0,1.0,H,2.0,0.0,H,1.8,3.4,4.75,1.83,3.59,4.92,1.81,3.43,4.58,2.2,1.65,2.17,1.67,-0.75,2.03,1.78,Venezia,Ascoli,venezia,ascoli
+2023-12-16,I2,Italy-SB,2324,Venezia,Sudtirol,2.0,3.0,A,2.0,1.0,H,1.67,3.75,5.5,1.68,3.69,5.98,1.66,3.58,5.53,2.3,1.6,2.29,1.6,-0.75,1.88,1.98,Venezia,Sudtirol,venezia,sudtirol
+2023-12-23,I2,Italy-SB,2324,Venezia,Lecco,2.0,2.0,D,0.0,1.0,A,1.65,3.8,5.5,1.64,4.13,5.65,1.63,3.88,5.21,1.9,1.95,1.86,1.91,-1.0,2.1,1.7,Venezia,Lecco,venezia,lecco
+2024-01-14,I2,Italy-SB,2324,Venezia,Sampdoria,5.0,3.0,H,2.0,1.0,H,2.15,3.3,3.5,2.14,3.35,3.58,2.15,3.27,3.38,2.15,1.67,2.12,1.69,-0.25,1.85,2.0,Venezia,Sampdoria,venezia,sampdoria
+2024-01-27,I2,Italy-SB,2324,Venezia,Ternana,1.0,0.0,H,0.0,0.0,D,1.7,3.8,5.0,1.67,4.27,5.05,1.67,3.92,4.74,1.67,2.15,1.66,2.18,-0.75,1.85,2.0,Venezia,Ternana,venezia,ternana
+2024-02-18,I2,Italy-SB,2324,Venezia,Modena,2.0,2.0,D,1.0,0.0,H,1.73,3.7,5.0,1.7,3.59,5.15,1.72,3.61,4.79,2.03,1.83,1.96,1.83,-0.75,1.93,1.93,Venezia,Modena,venezia,modena
+2024-02-28,I2,Italy-SB,2324,Venezia,Cittadella,2.0,0.0,H,1.0,0.0,H,1.85,3.6,4.2,1.91,3.55,4.48,1.86,3.48,4.13,2.05,1.8,2.01,1.78,-0.5,1.88,1.98,Venezia,Cittadella,venezia,cittadella
+2024-03-10,I2,Italy-SB,2324,Venezia,Bari,3.0,1.0,H,2.0,1.0,H,1.8,3.5,4.75,1.75,3.39,5.14,1.77,3.45,4.72,2.05,1.75,2.03,1.76,-0.75,2.03,1.83,Venezia,Bari,venezia,bari
+2024-04-01,I2,Italy-SB,2324,Venezia,Reggiana,2.0,3.0,A,2.0,1.0,H,1.6,3.75,5.75,1.63,3.88,5.77,1.6,3.79,5.55,2.03,1.83,1.98,1.8,-1.0,2.08,1.73,Venezia,Reggiana,venezia,reggiana
+2024-04-14,I2,Italy-SB,2324,Venezia,Brescia,2.0,0.0,H,1.0,0.0,H,1.67,3.75,5.5,1.71,3.69,5.53,1.69,3.67,4.97,1.93,1.93,1.9,1.87,-0.75,1.9,1.95,Venezia,Brescia,venezia,brescia
+2024-04-26,I2,Italy-SB,2324,Venezia,Cremonese,2.0,1.0,H,0.0,1.0,A,2.2,3.6,3.1,2.21,3.61,3.28,2.19,3.49,3.09,1.7,2.1,1.7,2.12,-0.75,2.43,1.53,Venezia,Cremonese,venezia,cremonese
+2024-05-05,I2,Italy-SB,2324,Venezia,FeralpiSalo,2.0,1.0,H,0.0,0.0,D,1.44,4.5,7.0,1.46,4.94,6.62,1.42,4.66,6.51,1.57,2.35,1.57,2.34,-1.25,1.95,1.9,Venezia,FeralpiSalo,venezia,feralpisalo
+2024-08-30,I1,Italy-SA,2425,Venezia,Torino,0.0,1.0,A,0.0,0.0,D,3.4,3.3,2.2,3.63,3.3,2.23,3.52,3.28,2.2,2.15,1.67,2.19,1.69,0.25,2.02,1.91,Venezia,Torino,venezia,torino
+2024-09-21,I1,Italy-SA,2425,Venezia,Genoa,2.0,0.0,H,0.0,0.0,D,3.25,3.2,2.35,3.24,3.26,2.39,3.17,3.23,2.37,2.2,1.67,2.21,1.68,0.25,1.86,2.07,Venezia,Genoa,venezia,genoa
+2024-10-20,I1,Italy-SA,2425,Venezia,Atalanta,0.0,2.0,A,0.0,1.0,A,5.5,4.0,1.62,5.4,4.18,1.63,5.22,4.11,1.63,1.73,2.1,1.74,2.12,0.75,2.01,1.77,Venezia,Atalanta,venezia,atalanta
+2024-10-30,I1,Italy-SA,2425,Venezia,Udinese,3.0,2.0,H,1.0,2.0,A,2.7,3.25,2.65,2.82,3.16,2.77,2.76,3.18,2.73,2.2,1.67,2.17,1.71,0.0,1.95,1.95,Venezia,Udinese,venezia,udinese
+2024-11-09,I1,Italy-SA,2425,Venezia,Parma,1.0,2.0,A,1.0,1.0,D,2.55,3.4,2.7,2.61,3.33,2.85,2.56,3.43,2.75,1.67,2.2,1.69,2.2,0.0,1.87,2.03,Venezia,Parma,venezia,parma
+2024-11-25,I1,Italy-SA,2425,Venezia,Lecce,0.0,1.0,A,0.0,0.0,D,2.3,3.25,3.2,2.39,3.29,3.22,2.33,3.27,3.18,2.1,1.73,2.09,1.76,-0.25,2.04,1.86,Venezia,Lecce,venezia,lecce
+2024-12-08,I1,Italy-SA,2425,Venezia,Como,2.0,2.0,D,1.0,0.0,H,2.75,3.3,2.6,2.8,3.32,2.67,2.76,3.32,2.6,2.0,1.9,1.96,1.86,0.0,2.01,1.89,Venezia,Como,venezia,como
+2024-12-22,I1,Italy-SA,2425,Venezia,Cagliari,2.0,1.0,H,1.0,0.0,H,2.5,3.3,2.88,2.57,3.24,2.98,2.5,3.31,2.9,1.92,1.98,1.88,1.93,0.0,1.82,2.08,Venezia,Cagliari,venezia,cagliari
+2025-01-04,I1,Italy-SA,2425,Venezia,Empoli,1.0,1.0,D,1.0,1.0,D,2.3,3.1,3.4,2.34,3.16,3.44,2.33,3.14,3.29,2.2,1.67,2.22,1.66,-0.25,2.0,1.9,Venezia,Empoli,venezia,empoli
+2025-01-12,I1,Italy-SA,2425,Venezia,Inter,0.0,1.0,A,0.0,1.0,A,11.0,5.25,1.29,10.6,6.05,1.28,10.35,5.73,1.28,1.57,2.38,1.56,2.42,1.5,2.03,1.78,Venezia,Inter Milan,venezia,inter_milan
+2025-01-27,I1,Italy-SA,2425,Venezia,Verona,1.0,1.0,D,1.0,0.0,H,2.15,3.5,3.25,2.22,3.41,3.45,2.19,3.38,3.34,2.0,1.8,2.04,1.78,-0.25,1.92,2.01,Venezia,Hellas Verona,venezia,hellas_verona
+2025-02-09,I1,Italy-SA,2425,Venezia,Roma,0.0,1.0,A,0.0,0.0,D,5.0,3.7,1.73,4.97,3.97,1.71,4.78,3.88,1.71,1.8,2.0,1.79,2.04,0.75,1.98,1.92,Venezia,AS Roma,venezia,as_roma
+2025-02-22,I1,Italy-SA,2425,Venezia,Lazio,0.0,0.0,D,0.0,0.0,D,5.0,4.0,1.67,5.32,4.11,1.65,5.08,4.06,1.66,1.8,2.0,1.79,2.06,0.75,2.06,1.84,Venezia,Lazio,venezia,lazio
+2025-03-16,I1,Italy-SA,2425,Venezia,Napoli,0.0,0.0,D,0.0,0.0,D,5.75,4.33,1.53,6.94,4.15,1.53,6.57,4.12,1.52,2.07,1.83,2.03,1.81,1.0,1.95,1.95,Venezia,Napoli,venezia,napoli
+2025-03-29,I1,Italy-SA,2425,Venezia,Bologna,0.0,1.0,A,0.0,0.0,D,5.0,3.5,1.75,4.86,3.51,1.83,4.73,3.5,1.8,2.2,1.67,2.19,1.68,0.5,2.03,1.78,Venezia,Bologna,venezia,bologna
+2025-04-12,I1,Italy-SA,2425,Venezia,Monza,1.0,0.0,H,0.0,0.0,D,1.73,3.6,5.0,1.75,3.77,5.01,1.74,3.67,4.89,2.1,1.73,2.07,1.76,-0.75,1.99,1.91,Venezia,Monza,venezia,monza
+2025-04-27,I1,Italy-SA,2425,Venezia,Milan,0.0,2.0,A,0.0,1.0,A,4.75,4.0,1.7,4.9,4.04,1.71,4.71,3.98,1.7,1.73,2.1,1.75,2.09,0.75,1.98,1.92,Venezia,AC Milan,venezia,ac_milan
+2025-05-12,I1,Italy-SA,2425,Venezia,Fiorentina,2.0,1.0,H,0.0,0.0,D,3.1,3.2,2.38,3.11,3.28,2.46,3.06,3.2,2.41,2.2,1.67,2.23,1.65,0.25,1.81,2.09,Venezia,Fiorentina,venezia,fiorentina
+2025-05-25,I1,Italy-SA,2425,Venezia,Juventus,2.0,3.0,A,1.0,2.0,A,5.75,4.33,1.53,5.97,4.33,1.56,5.8,4.23,1.55,1.88,1.98,1.85,1.97,1.0,1.9,1.95,Venezia,Juventus,venezia,juventus
+2025-08-24,I2,Italy-SB,2526,Venezia,Bari,2.0,1.0,H,2.0,1.0,H,2.05,3.25,3.9,2.06,3.19,3.98,2.01,3.22,3.61,2.25,1.62,2.21,1.59,-0.5,2.03,1.78,Venezia,Bari,venezia,bari
+2025-09-20,I2,Italy-SB,2526,Venezia,Cesena,1.0,2.0,A,0.0,0.0,D,1.86,3.4,4.1,1.96,3.3,4.19,1.92,3.28,3.86,2.15,1.67,2.13,1.64,-0.5,1.95,1.85,Venezia,Cesena,venezia,cesena
+2025-09-27,I2,Italy-SB,2526,Venezia,Spezia,2.0,0.0,H,1.0,0.0,H,2.15,3.2,3.4,2.2,3.27,3.44,2.19,3.18,3.15,2.15,1.67,2.09,1.66,-0.25,1.85,1.95,Venezia,Spezia,venezia,spezia
+2025-10-04,I2,Italy-SB,2526,Venezia,Frosinone,3.0,0.0,H,2.0,0.0,H,1.66,3.75,4.75,1.72,3.69,4.94,1.72,3.54,4.51,1.98,1.83,1.93,1.78,-0.75,1.93,1.88,Venezia,Frosinone,venezia,frosinone
+2025-10-29,I2,Italy-SB,2526,Venezia,Sudtirol,3.0,0.0,H,2.0,0.0,H,1.71,3.9,4.2,,,,1.71,3.65,4.39,1.93,1.88,1.84,1.86,-0.75,2.0,1.8,Venezia,Sudtirol,venezia,sudtirol
+2025-11-08,I2,Italy-SB,2526,Venezia,Sampdoria,3.0,1.0,H,2.0,0.0,H,1.66,3.6,5.0,,,,1.7,3.53,4.69,2.05,1.75,1.99,1.73,-0.75,1.9,1.9,Venezia,Sampdoria,venezia,sampdoria
+2025-11-29,I2,Italy-SB,2526,Venezia,Mantova,3.0,0.0,H,1.0,0.0,H,1.46,4.5,5.75,,,,1.47,4.25,5.93,1.7,2.1,1.68,2.07,-1.0,1.8,2.0,Venezia,Mantova,venezia,mantova
+2025-12-13,I2,Italy-SB,2526,Venezia,Monza,2.0,0.0,H,0.0,0.0,D,2.2,2.95,3.5,,,,2.23,3.01,3.24,2.15,1.67,2.15,1.62,-0.25,1.9,1.9,Venezia,Monza,venezia,monza
+2025-12-27,I2,Italy-SB,2526,Venezia,Virtus Entella,1.0,0.0,H,1.0,0.0,H,1.41,4.0,7.5,,,,1.43,4.21,6.68,1.85,1.95,1.81,1.89,-1.25,2.05,1.75,Venezia,Virtus Entella,venezia,virtus_entella
+2026-01-17,I2,Italy-SB,2526,Venezia,Catanzaro,3.0,1.0,H,1.0,1.0,D,1.49,4.1,6.0,,,,1.51,3.94,5.79,1.85,1.95,1.82,1.88,-1.0,1.9,1.9,Venezia,Catanzaro,venezia,catanzaro
+2026-01-31,I2,Italy-SB,2526,Venezia,Carrarese,2.0,1.0,H,1.0,0.0,H,1.35,5.0,7.0,,,,1.39,4.59,6.88,1.65,2.2,1.62,2.18,-1.25,1.83,1.98,Venezia,Carrarese,venezia,carrarese
+2026-02-10,I2,Italy-SB,2526,Venezia,Modena,0.0,2.0,A,0.0,2.0,A,1.68,3.6,4.75,,,,1.75,3.54,4.37,2.0,1.8,1.93,1.79,-0.75,2.0,1.8,Venezia,Modena,venezia,modena
+2026-02-21,I2,Italy-SB,2526,Venezia,Pescara,3.0,2.0,H,2.0,1.0,H,1.33,4.75,8.0,,,,1.33,4.95,7.39,1.5,2.5,1.48,2.48,-1.5,2.0,1.8,Venezia,Pescara,venezia,pescara
+2026-03-03,I2,Italy-SB,2526,Venezia,Avellino,4.0,0.0,H,3.0,0.0,H,1.3,4.75,9.5,,,,1.33,4.8,8.19,1.67,2.15,1.63,2.16,-1.5,1.98,1.83,Venezia,Avellino,venezia,avellino
+2026-03-07,I2,Italy-SB,2526,Venezia,Reggiana,2.0,0.0,H,1.0,0.0,H,1.3,5.25,8.5,,,,1.32,4.85,8.18,1.7,2.1,1.66,2.1,-1.5,1.95,1.85,Venezia,Reggiana,venezia,reggiana
+2026-03-17,I2,Italy-SB,2526,Venezia,Padova,3.0,1.0,H,1.0,0.0,H,1.22,6.25,9.0,,,,1.25,5.42,9.79,1.57,2.35,1.57,2.28,-1.75,1.98,1.83,Venezia,Padova,venezia,padova
+2026-04-06,I2,Italy-SB,2526,Venezia,Juve Stabia,3.0,1.0,H,2.0,1.0,H,1.39,4.0,7.0,,,,1.42,4.19,6.62,1.8,2.0,1.76,1.96,-1.25,1.98,1.83,Venezia,Juve Stabia,venezia,juve_stabia
+2026-04-25,I2,Italy-SB,2526,Venezia,Empoli,2.0,0.0,H,0.0,0.0,D,1.37,4.75,7.5,,,,1.35,4.77,7.13,1.57,2.35,1.55,2.3,-1.5,2.05,1.75,Venezia,Empoli,venezia,empoli
+2026-05-08,I2,Italy-SB,2526,Venezia,Palermo,2.0,0.0,H,0.0,0.0,D,1.56,4.33,4.75,,,,1.61,3.96,4.67,1.67,2.15,1.65,2.11,-1.0,2.03,1.78,Venezia,Palermo,venezia,palermo
+2026-08-23,I1,Italy-SA,2627,Venezia,Lecce,0.0,2.0,A,0.0,0.0,D,2.25,3.1,3.6,,,,2.23,3.13,3.38,2.3,1.62,2.21,1.63,-0.25,1.9,1.95,Venezia,Lecce,venezia,lecce
+2026-09-11,I1,Italy-SA,2627,Venezia,Fiorentina,2.0,4.0,A,1.0,2.0,A,2.75,3.3,2.55,,,,2.8,3.4,2.44,1.73,2.1,1.7,2.1,0.0,2.0,1.85,Venezia,Fiorentina,venezia,fiorentina
+2026-09-19,I1,Italy-SA,2627,Venezia,Lazio,0.0,2.0,A,0.0,0.0,D,3.9,3.5,1.91,,,,3.67,3.57,1.97,1.8,2.0,1.76,2.0,0.5,1.9,1.95,Venezia,Lazio,venezia,lazio
+2026-10-17,I1,Italy-SA,2627,Venezia,Napoli,1.0,0.0,H,0.0,0.0,D,5.0,3.9,1.7,,,,4.67,4.0,1.68,1.73,2.1,1.67,2.12,0.75,1.98,1.88,Venezia,Napoli,venezia,napoli

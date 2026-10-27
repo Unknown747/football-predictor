@@ -1,0 +1,123 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-28,E3,England-L2,2122,Sutton,Oldham,1.0,2.0,A,0.0,0.0,D,1.9,3.5,4.33,1.93,3.57,4.12,1.93,3.45,3.91,2.1,1.7,2.1,1.72,-0.5,1.95,1.98,Sutton United,Oldham,sutton_united,oldham
+2021-09-11,E3,England-L2,2122,Sutton,Stevenage,2.0,1.0,H,0.0,0.0,D,2.8,3.1,2.45,2.85,3.06,2.73,2.8,3.06,2.63,2.3,1.6,2.33,1.58,0.0,1.98,1.88,Sutton United,Stevenage,sutton_united,stevenage
+2021-09-14,E3,England-L2,2122,Sutton,Hartlepool,1.0,0.0,H,1.0,0.0,H,2.37,3.25,3.1,2.42,3.31,3.14,2.37,3.22,3.04,2.2,1.65,2.22,1.64,-0.25,2.05,1.8,Sutton United,Hartlepool United,sutton_united,hartlepool_united
+2021-09-25,E3,England-L2,2122,Sutton,Carlisle,4.0,0.0,H,2.0,0.0,H,2.3,3.3,3.1,2.34,3.29,3.2,2.32,3.22,3.1,2.15,1.66,2.14,1.69,-0.25,2.02,1.83,Sutton United,Carlisle United,sutton_united,carlisle_united
+2021-10-09,E3,England-L2,2122,Sutton,Port Vale,4.0,3.0,H,1.0,2.0,A,2.62,3.25,2.75,2.67,3.17,2.83,2.6,3.1,2.79,2.3,1.6,2.29,1.59,0.0,1.85,2.0,Sutton United,Port Vale,sutton_united,port_vale
+2021-10-19,E3,England-L2,2122,Sutton,Swindon,1.0,2.0,A,1.0,2.0,A,2.3,3.3,3.2,2.29,3.38,3.32,2.27,3.27,3.16,2.07,1.72,2.06,1.74,-0.25,1.98,1.88,Sutton United,Swindon Town,sutton_united,swindon_town
+2021-10-30,E3,England-L2,2122,Sutton,Walsall,0.0,1.0,A,0.0,0.0,D,1.9,3.6,4.0,2.02,3.54,3.72,2.0,3.43,3.63,2.07,1.72,2.05,1.74,-0.5,1.98,1.88,Sutton United,Walsall,sutton_united,walsall
+2021-11-23,E3,England-L2,2122,Sutton,Mansfield,2.0,0.0,H,1.0,0.0,H,2.05,3.3,3.75,2.23,3.15,3.75,2.18,3.17,3.49,2.05,1.75,2.04,1.75,-0.25,1.85,2.0,Sutton United,Mansfield Town,sutton_united,mansfield_town
+2021-11-27,E3,England-L2,2122,Sutton,Barrow,1.0,0.0,H,1.0,0.0,H,2.1,3.25,3.75,2.1,3.36,3.69,2.06,3.34,3.56,2.07,1.72,2.04,1.74,-0.5,2.05,1.75,Sutton United,Barrow,sutton_united,barrow
+2021-12-18,E3,England-L2,2122,Sutton,Harrogate,1.0,0.0,H,1.0,0.0,H,2.3,3.4,3.1,2.31,3.57,3.02,2.29,3.38,3.01,2.07,1.72,1.96,1.82,-0.25,2.0,1.85,Sutton United,Harrogate Town,sutton_united,harrogate_town
+2022-01-01,E3,England-L2,2122,Sutton,Exeter,2.0,1.0,H,1.0,1.0,D,2.6,3.4,2.7,2.66,3.33,2.72,2.59,3.29,2.66,2.05,1.75,2.03,1.75,0.0,1.88,1.98,Sutton United,Exeter City,sutton_united,exeter_city
+2022-01-18,E3,England-L2,2122,Sutton,Colchester,3.0,2.0,H,1.0,2.0,A,1.8,3.5,5.0,1.73,3.74,4.92,1.78,3.57,4.52,2.05,1.75,2.02,1.76,-0.75,1.95,1.85,Sutton United,Colchester United,sutton_united,colchester_united
+2022-01-22,E3,England-L2,2122,Sutton,Northampton,0.0,0.0,D,0.0,0.0,D,2.37,3.25,3.1,2.57,3.19,2.93,2.43,3.19,2.91,2.2,1.65,2.16,1.66,-0.25,2.05,1.8,Sutton United,Northampton Town,sutton_united,northampton_town
+2022-02-05,E3,England-L2,2122,Sutton,Bristol Rvs,1.0,1.0,D,1.0,0.0,H,2.0,3.4,3.75,2.06,3.34,3.85,2.05,3.36,3.57,2.02,1.83,1.95,1.82,-0.5,2.02,1.83,Sutton United,Bristol Rvs,sutton_united,bristol_rvs
+2022-02-08,E3,England-L2,2122,Sutton,Salford,0.0,0.0,D,0.0,0.0,D,2.2,3.2,3.6,2.2,3.24,3.7,2.17,3.2,3.43,2.2,1.65,2.15,1.67,-0.25,1.85,2.0,Sutton United,Salford City,sutton_united,salford_city
+2022-02-12,E3,England-L2,2122,Sutton,Forest Green,1.0,1.0,D,1.0,0.0,H,3.2,3.4,2.25,3.3,3.47,2.2,3.1,3.36,2.23,2.02,1.83,1.95,1.81,0.25,1.88,1.98,Sutton United,Forest Green Rovers,sutton_united,forest_green_rovers
+2022-02-26,E3,England-L2,2122,Sutton,Scunthorpe,4.0,1.0,H,3.0,0.0,H,1.57,3.8,6.5,1.57,4.04,5.99,1.57,3.92,5.76,2.05,1.75,2.0,1.77,-1.0,2.02,1.83,Sutton United,Scunthorpe United,sutton_united,scunthorpe_united
+2022-03-05,E3,England-L2,2122,Sutton,Rochdale,3.0,0.0,H,2.0,0.0,H,2.37,3.3,3.1,2.3,3.35,3.22,2.27,3.31,3.1,2.0,1.85,1.96,1.8,-0.25,2.0,1.85,Sutton United,Rochdale,sutton_united,rochdale
+2022-03-19,E3,England-L2,2122,Sutton,Tranmere,1.0,1.0,D,1.0,0.0,H,2.3,3.3,3.2,2.37,3.2,3.22,2.31,3.2,3.12,2.2,1.65,2.22,1.62,-0.25,2.0,1.85,Sutton United,Tranmere Rovers,sutton_united,tranmere_rovers
+2022-04-09,E3,England-L2,2122,Sutton,Leyton Orient,1.0,0.0,H,1.0,0.0,H,2.2,3.4,3.3,2.3,3.16,3.41,2.22,3.18,3.31,2.25,1.61,2.25,1.6,-0.25,1.9,1.95,Sutton United,Leyton Orient,sutton_united,leyton_orient
+2022-04-18,E3,England-L2,2122,Sutton,Newport County,1.0,0.0,H,1.0,0.0,H,2.37,3.3,3.1,2.39,3.32,3.08,2.34,3.29,2.97,2.07,1.72,1.99,1.77,-0.25,2.02,1.83,Sutton United,Newport County,sutton_united,newport_county
+2022-04-26,E3,England-L2,2122,Sutton,Crawley Town,3.0,0.0,H,2.0,0.0,H,1.8,3.6,4.5,1.82,3.87,4.39,1.81,3.64,4.21,1.98,1.88,1.89,1.88,-0.5,1.8,2.05,Sutton United,Crawley Town,sutton_united,crawley_town
+2022-04-30,E3,England-L2,2122,Sutton,Bradford,1.0,4.0,A,0.0,1.0,A,1.66,3.75,5.25,1.76,3.79,4.64,1.76,3.61,4.44,1.98,1.88,1.94,1.82,-0.75,1.95,1.9,Sutton United,Bradford City,sutton_united,bradford_city
+2022-07-30,E3,England-L2,2223,Sutton,Newport County,1.0,1.0,D,1.0,1.0,D,2.25,3.3,3.25,2.29,3.24,3.33,2.23,3.28,3.16,2.05,1.8,1.99,1.77,-0.25,1.95,1.9,Sutton United,Newport County,sutton_united,newport_county
+2022-08-13,E3,England-L2,2223,Sutton,Barrow,1.0,0.0,H,0.0,0.0,D,1.95,3.4,4.2,2.02,3.38,4.1,2.01,3.32,3.73,2.15,1.73,2.07,1.72,-0.5,1.98,1.88,Sutton United,Barrow,sutton_united,barrow
+2022-08-27,E3,England-L2,2223,Sutton,Mansfield,2.0,1.0,H,1.0,0.0,H,2.8,3.4,2.5,2.9,3.4,2.54,2.82,3.26,2.48,2.1,1.7,2.08,1.71,0.0,2.02,1.83,Sutton United,Mansfield Town,sutton_united,mansfield_town
+2022-09-03,E3,England-L2,2223,Sutton,Harrogate,2.0,1.0,H,1.0,1.0,D,1.85,3.5,4.2,1.89,3.59,4.37,1.91,3.42,3.92,2.07,1.72,2.02,1.74,-0.5,1.93,1.93,Sutton United,Harrogate Town,sutton_united,harrogate_town
+2022-09-17,E3,England-L2,2223,Sutton,Hartlepool,2.0,0.0,H,0.0,0.0,D,1.61,3.8,5.75,1.62,4.0,5.87,1.61,3.8,5.44,2.05,1.75,2.01,1.76,-0.75,1.8,2.05,Sutton United,Hartlepool United,sutton_united,hartlepool_united
+2022-09-24,E3,England-L2,2223,Sutton,Salford,1.0,2.0,A,0.0,0.0,D,2.37,3.3,3.0,2.43,3.37,3.09,2.36,3.3,2.93,2.07,1.72,2.04,1.74,-0.25,2.05,1.8,Sutton United,Salford City,sutton_united,salford_city
+2022-10-08,E3,England-L2,2223,Sutton,Tranmere,0.0,2.0,A,0.0,2.0,A,2.2,3.3,3.4,2.23,3.4,3.43,2.19,3.29,3.29,2.1,1.7,2.11,1.69,-0.25,1.93,1.93,Sutton United,Tranmere Rovers,sutton_united,tranmere_rovers
+2022-10-22,E3,England-L2,2223,Sutton,Walsall,1.0,1.0,D,0.0,0.0,D,2.37,3.25,3.1,2.42,3.19,3.15,2.4,3.13,3.0,2.35,1.57,2.33,1.57,-0.25,2.1,1.77,Sutton United,Walsall,sutton_united,walsall
+2022-11-12,E3,England-L2,2223,Sutton,Bradford,0.0,2.0,A,0.0,1.0,A,2.6,3.3,2.75,2.76,3.43,2.64,2.69,3.27,2.58,2.1,1.7,2.05,1.73,0.0,1.88,1.98,Sutton United,Bradford City,sutton_united,bradford_city
+2022-11-19,E3,England-L2,2223,Sutton,Rochdale,1.0,0.0,H,1.0,0.0,H,2.15,3.3,3.5,2.08,3.45,3.79,2.07,3.34,3.49,2.07,1.72,2.07,1.7,-0.25,1.8,2.05,Sutton United,Rochdale,sutton_united,rochdale
+2022-12-10,E3,England-L2,2223,Sutton,Colchester,1.0,0.0,H,1.0,0.0,H,2.0,3.5,3.8,1.96,3.56,4.12,1.95,3.4,3.8,2.1,1.7,2.11,1.67,-0.5,1.98,1.88,Sutton United,Colchester United,sutton_united,colchester_united
+2022-12-29,E3,England-L2,2223,Sutton,Gillingham,2.0,1.0,H,1.0,0.0,H,1.91,3.1,4.75,1.93,3.2,4.83,1.9,3.14,4.51,2.7,1.44,2.64,1.46,-0.5,1.93,1.93,Sutton United,Gillingham,sutton_united,gillingham
+2023-01-01,E3,England-L2,2223,Sutton,AFC Wimbledon,2.0,1.0,H,1.0,1.0,D,2.2,3.25,3.5,2.24,3.15,3.57,2.2,3.13,3.38,2.35,1.57,2.34,1.56,-0.25,1.93,1.93,Sutton United,AFC Wimbledon,sutton_united,afc_wimbledon
+2023-02-04,E3,England-L2,2223,Sutton,Stevenage,0.0,0.0,D,0.0,0.0,D,3.1,3.2,2.3,3.27,3.24,2.39,3.16,3.17,2.29,2.25,1.62,2.27,1.6,0.25,1.85,2.0,Sutton United,Stevenage,sutton_united,stevenage
+2023-02-14,E3,England-L2,2223,Sutton,Swindon,2.0,1.0,H,0.0,1.0,A,2.2,3.2,3.5,2.24,3.28,3.56,2.21,3.21,3.31,2.08,1.73,2.05,1.73,-0.25,1.88,1.98,Sutton United,Swindon Town,sutton_united,swindon_town
+2023-02-18,E3,England-L2,2223,Sutton,Doncaster,2.0,0.0,H,0.0,0.0,D,2.0,3.2,4.2,2.04,3.21,4.09,2.0,3.24,3.84,2.2,1.65,2.21,1.63,-0.5,2.0,1.85,Sutton United,Doncaster Rovers,sutton_united,doncaster_rovers
+2023-03-04,E3,England-L2,2223,Sutton,Crewe,1.0,1.0,D,0.0,1.0,A,1.65,3.5,5.75,1.66,3.93,5.52,1.66,3.69,5.18,2.08,1.73,2.07,1.72,-0.75,1.88,1.98,Sutton United,Crewe Alexandra,sutton_united,crewe_alexandra
+2023-03-07,E3,England-L2,2223,Sutton,Crawley Town,3.0,0.0,H,1.0,0.0,H,1.67,3.75,5.5,1.65,3.89,5.79,1.63,3.75,5.4,2.05,1.75,2.02,1.76,-0.75,1.85,2.0,Sutton United,Crawley Town,sutton_united,crawley_town
+2023-03-14,E3,England-L2,2223,Sutton,Grimsby,0.0,1.0,A,0.0,1.0,A,1.95,3.3,4.2,1.93,3.33,4.64,1.9,3.26,4.3,2.25,1.62,2.31,1.58,-0.5,2.0,1.85,Sutton United,Grimsby Town,sutton_united,grimsby_town
+2023-04-07,E3,England-L2,2223,Sutton,Stockport,0.0,1.0,A,0.0,0.0,D,3.4,3.1,2.3,3.27,3.08,2.49,3.14,3.04,2.39,2.5,1.5,2.49,1.51,0.25,1.8,2.05,Sutton United,Stockport County,sutton_united,stockport_county
+2023-04-15,E3,England-L2,2223,Sutton,Leyton Orient,0.0,2.0,A,0.0,2.0,A,2.9,3.1,2.6,2.95,3.2,2.62,2.88,3.09,2.54,2.35,1.57,2.38,1.55,0.0,2.02,1.83,Sutton United,Leyton Orient,sutton_united,leyton_orient
+2023-04-18,E3,England-L2,2223,Sutton,Northampton,1.0,2.0,A,1.0,1.0,D,2.75,3.1,2.7,2.99,3.12,2.65,2.77,3.04,2.66,2.4,1.53,2.39,1.55,0.0,1.98,1.88,Sutton United,Northampton Town,sutton_united,northampton_town
+2023-05-08,E3,England-L2,2223,Sutton,Carlisle,1.0,1.0,D,1.0,0.0,H,3.4,3.4,2.15,3.22,3.39,2.22,3.19,3.33,2.21,2.05,1.75,2.03,1.74,0.25,1.95,1.9,Sutton United,Carlisle United,sutton_united,carlisle_united
+2023-08-05,E3,England-L2,2324,Sutton,Notts County,5.0,1.0,H,2.0,0.0,H,4.75,4.0,1.67,4.71,4.13,1.72,4.44,3.98,1.69,1.62,2.25,1.59,2.29,0.75,1.95,1.9,Sutton United,Notts County,sutton_united,notts_county
+2023-08-15,E3,England-L2,2324,Sutton,Gillingham,0.0,1.0,A,0.0,1.0,A,2.63,3.2,2.8,2.68,3.18,2.91,2.56,3.09,2.81,2.4,1.53,2.37,1.55,0.0,1.85,2.0,Sutton United,Gillingham,sutton_united,gillingham
+2023-08-19,E3,England-L2,2324,Sutton,AFC Wimbledon,0.0,3.0,A,0.0,0.0,D,2.38,3.2,3.1,2.46,3.27,3.13,2.35,3.19,3.04,2.15,1.67,2.15,1.66,-0.25,2.03,1.83,Sutton United,AFC Wimbledon,sutton_united,afc_wimbledon
+2023-09-02,E3,England-L2,2324,Sutton,Forest Green,0.0,1.0,A,0.0,0.0,D,2.1,3.4,3.5,2.09,3.45,3.76,2.06,3.39,3.51,2.0,1.85,1.98,1.78,-0.25,1.8,2.05,Sutton United,Forest Green Rovers,sutton_united,forest_green_rovers
+2023-09-23,E3,England-L2,2324,Sutton,Milton Keynes Dons,1.0,1.0,D,1.0,0.0,H,2.7,3.4,2.6,2.66,3.42,2.74,2.59,3.37,2.58,1.83,2.03,1.78,1.98,0.0,1.93,1.93,Sutton United,MK Dons,sutton_united,mk_dons
+2023-10-03,E3,England-L2,2324,Sutton,Salford,0.0,2.0,A,0.0,0.0,D,2.5,3.75,2.6,2.56,3.59,2.75,2.48,3.49,2.66,1.75,2.05,1.76,1.99,0.0,1.88,1.98,Sutton United,Salford City,sutton_united,salford_city
+2023-10-07,E3,England-L2,2324,Sutton,Walsall,4.0,0.0,H,4.0,0.0,H,2.6,3.4,2.7,2.56,3.42,2.8,2.49,3.37,2.7,1.98,1.88,1.91,1.84,0.0,1.85,2.0,Sutton United,Walsall,sutton_united,walsall
+2023-10-21,E3,England-L2,2324,Sutton,Morecambe,2.0,3.0,A,1.0,2.0,A,2.45,3.4,2.8,2.44,3.58,2.91,2.33,3.41,2.87,1.88,1.98,1.81,1.94,-0.25,2.05,1.8,Sutton United,Morecambe,sutton_united,morecambe
+2023-10-28,E3,England-L2,2324,Sutton,Bradford,2.0,1.0,H,1.0,0.0,H,3.0,3.3,2.38,3.18,3.35,2.38,2.99,3.34,2.3,2.0,1.85,1.93,1.82,0.25,1.85,2.0,Sutton United,Bradford City,sutton_united,bradford_city
+2023-11-18,E3,England-L2,2324,Sutton,Tranmere,1.0,1.0,D,0.0,1.0,A,2.15,3.5,3.3,2.19,3.59,3.35,2.15,3.47,3.18,1.8,2.0,1.8,1.95,-0.25,1.93,1.93,Sutton United,Tranmere Rovers,sutton_united,tranmere_rovers
+2023-11-28,E3,England-L2,2324,Sutton,Crewe,1.0,1.0,D,1.0,1.0,D,2.63,3.5,2.6,2.71,3.57,2.6,2.58,3.5,2.52,1.7,2.1,1.7,2.08,0.0,1.98,1.88,Sutton United,Crewe Alexandra,sutton_united,crewe_alexandra
+2023-12-23,E3,England-L2,2324,Sutton,Mansfield,0.0,2.0,A,0.0,1.0,A,4.75,4.2,1.65,4.98,4.25,1.66,4.79,4.03,1.63,1.73,2.08,1.72,2.05,0.75,2.05,1.8,Sutton United,Mansfield Town,sutton_united,mansfield_town
+2024-01-01,E3,England-L2,2324,Sutton,Newport County,1.0,1.0,D,0.0,0.0,D,2.38,3.5,2.9,2.49,3.41,2.96,2.37,3.35,2.85,1.93,1.93,1.84,1.91,0.0,1.75,2.05,Sutton United,Newport County,sutton_united,newport_county
+2024-01-13,E3,England-L2,2324,Sutton,Barrow,2.0,2.0,D,1.0,1.0,D,3.5,3.5,2.05,3.8,3.44,2.08,3.53,3.38,2.04,2.05,1.75,2.04,1.73,0.5,1.8,2.05,Sutton United,Barrow,sutton_united,barrow
+2024-01-30,E3,England-L2,2324,Sutton,Harrogate,1.0,2.0,A,0.0,0.0,D,2.55,3.6,2.63,2.58,3.55,2.75,2.51,3.45,2.63,1.83,2.03,1.78,1.98,0.0,1.88,1.98,Sutton United,Harrogate Town,sutton_united,harrogate_town
+2024-02-03,E3,England-L2,2324,Sutton,Doncaster,1.0,1.0,D,0.0,0.0,D,2.4,3.4,2.9,2.48,3.37,3.0,2.43,3.39,2.76,1.85,2.0,1.84,1.92,0.0,1.73,2.08,Sutton United,Doncaster Rovers,sutton_united,doncaster_rovers
+2024-02-13,E3,England-L2,2324,Sutton,Wrexham,1.0,2.0,A,0.0,1.0,A,3.8,3.6,1.91,4.21,3.66,1.91,3.86,3.58,1.89,1.8,2.0,1.77,1.99,0.5,1.93,1.93,Sutton United,Wrexham,sutton_united,wrexham
+2024-02-24,E3,England-L2,2324,Sutton,Colchester,1.0,1.0,D,1.0,1.0,D,2.38,3.4,3.0,2.52,3.43,2.9,2.37,3.36,2.86,1.93,1.93,1.85,1.9,-0.25,2.1,1.78,Sutton United,Colchester United,sutton_united,colchester_united
+2024-03-09,E3,England-L2,2324,Sutton,Grimsby,1.0,1.0,D,0.0,1.0,A,2.3,3.6,3.0,2.35,3.49,3.12,2.29,3.45,2.96,1.85,2.0,1.8,1.97,-0.25,2.03,1.83,Sutton United,Grimsby Town,sutton_united,grimsby_town
+2024-03-23,E3,England-L2,2324,Sutton,Accrington,3.0,1.0,H,1.0,0.0,H,2.1,3.5,3.5,2.17,3.55,3.43,2.1,3.45,3.36,1.9,1.95,1.86,1.9,-0.25,1.83,2.03,Sutton United,Accrington Stanley,sutton_united,accrington_stanley
+2024-04-01,E3,England-L2,2324,Sutton,Swindon,3.0,1.0,H,1.0,0.0,H,2.25,3.5,3.1,2.3,3.56,3.09,2.23,3.54,2.97,1.7,2.1,1.71,2.08,-0.25,1.98,1.88,Sutton United,Swindon Town,sutton_united,swindon_town
+2024-04-06,E3,England-L2,2324,Sutton,Stockport,1.0,3.0,A,1.0,3.0,A,4.75,3.5,1.8,4.52,3.65,1.83,4.37,3.53,1.81,2.08,1.73,2.05,1.73,0.5,2.03,1.83,Sutton United,Stockport County,sutton_united,stockport_county
+2024-04-20,E3,England-L2,2324,Sutton,Crawley Town,2.0,2.0,D,0.0,1.0,A,2.3,3.6,3.0,2.36,3.64,2.93,2.28,3.6,2.87,1.62,2.25,1.61,2.24,-0.25,2.0,1.85,Sutton United,Crawley Town,sutton_united,crawley_town
+2024-08-17,EC,England-Conference,2425,Sutton,Altrincham,5.0,0.0,H,4.0,0.0,H,2.05,3.4,3.3,2.06,3.75,3.18,2.03,3.64,3.14,1.57,2.35,1.56,2.31,-0.25,1.8,2.0,Sutton United,Altrincham,sutton_united,altrincham
+2024-08-24,EC,England-Conference,2425,Sutton,York,2.0,2.0,D,0.0,0.0,D,2.05,3.4,3.25,2.16,3.38,3.26,2.06,3.34,3.33,1.95,1.85,1.92,1.81,-0.25,1.83,1.98,Sutton United,York,sutton_united,york
+2024-08-31,EC,England-Conference,2425,Sutton,Forest Green,1.0,2.0,A,0.0,1.0,A,2.05,3.5,3.1,2.07,3.64,3.23,2.06,3.52,3.13,1.75,2.05,1.74,2.02,-0.25,1.83,1.98,Sutton United,Forest Green Rovers,sutton_united,forest_green_rovers
+2024-09-07,EC,England-Conference,2425,Sutton,Boston Utd,0.0,3.0,A,0.0,1.0,A,1.5,4.0,5.5,1.5,4.32,5.69,1.5,4.19,5.52,1.67,2.15,1.64,2.17,-1.0,1.85,1.95,Sutton United,Boston Utd,sutton_united,boston_utd
+2024-09-21,EC,England-Conference,2425,Sutton,Ebbsfleet,3.0,2.0,H,1.0,0.0,H,1.75,3.75,4.0,1.74,3.79,4.29,1.75,3.71,4.09,1.73,2.08,1.72,2.04,-0.75,1.98,1.83,Sutton United,Ebbsfleet,sutton_united,ebbsfleet
+2024-09-24,EC,England-Conference,2425,Sutton,Yeovil,0.0,0.0,D,0.0,0.0,D,2.0,3.3,3.4,2.09,3.49,3.5,2.04,3.35,3.37,1.9,1.9,1.86,1.88,-0.25,1.78,2.03,Sutton United,Yeovil Town,sutton_united,yeovil_town
+2024-10-19,EC,England-Conference,2425,Sutton,Oldham,1.0,3.0,A,0.0,1.0,A,2.5,3.5,2.63,2.56,3.27,2.71,2.48,3.29,2.63,1.9,1.9,1.86,1.88,0.0,1.83,1.98,Sutton United,Oldham,sutton_united,oldham
+2024-10-23,EC,England-Conference,2425,Sutton,Gateshead,0.0,1.0,A,0.0,0.0,D,2.8,3.75,2.25,2.89,3.59,2.27,2.81,3.52,2.22,1.6,2.3,1.59,2.24,0.25,1.83,1.98,Sutton United,Gateshead,sutton_united,gateshead
+2024-11-16,EC,England-Conference,2425,Sutton,Maidenhead,1.0,0.0,H,1.0,0.0,H,1.75,3.7,4.2,1.8,3.93,4.03,1.77,3.75,3.95,1.7,2.1,1.7,2.07,-0.75,1.98,1.83,Sutton United,Maidenhead,sutton_united,maidenhead
+2024-11-26,EC,England-Conference,2425,Sutton,Solihull,1.0,0.0,H,1.0,0.0,H,2.35,3.4,2.63,2.46,3.48,2.81,2.37,3.39,2.71,1.7,2.1,1.69,2.09,0.0,1.78,2.03,Sutton United,Solihull,sutton_united,solihull
+2024-11-30,EC,England-Conference,2425,Sutton,Fylde,2.0,0.0,H,0.0,0.0,D,1.65,3.9,4.33,1.68,3.81,4.63,1.67,3.78,4.52,1.75,2.05,1.75,1.99,-0.75,1.85,1.95,Sutton United,Fylde,sutton_united,fylde
+2024-12-21,EC,England-Conference,2425,Sutton,Tamworth,1.0,2.0,A,1.0,0.0,H,1.7,3.75,4.33,1.74,3.89,4.19,1.72,3.75,4.26,1.8,2.0,1.76,1.98,-0.75,1.95,1.85,Sutton United,Tamworth,sutton_united,tamworth
+2025-01-01,EC,England-Conference,2425,Sutton,Aldershot,1.0,1.0,D,1.0,0.0,H,2.1,3.5,3.1,2.14,4.03,2.84,2.1,3.57,3.02,1.67,2.15,1.65,2.14,-0.25,1.88,1.93,Sutton United,Aldershot,sutton_united,aldershot
+2025-01-15,EC,England-Conference,2425,Sutton,Wealdstone,2.0,2.0,D,1.0,1.0,D,1.85,3.6,3.6,1.88,4.18,3.36,1.86,3.76,3.53,1.73,2.08,1.71,2.05,-0.5,1.88,1.93,Sutton United,Wealdstone,sutton_united,wealdstone
+2025-01-25,EC,England-Conference,2425,Sutton,Eastleigh,1.0,0.0,H,0.0,0.0,D,2.0,3.4,3.3,2.01,3.43,3.59,1.99,3.39,3.44,1.93,1.88,1.88,1.85,-0.5,2.03,1.78,Sutton United,Eastleigh,sutton_united,eastleigh
+2025-02-08,EC,England-Conference,2425,Sutton,Hartlepool,1.0,2.0,A,0.0,0.0,D,2.35,3.5,2.8,2.4,3.52,2.74,2.34,3.43,2.7,1.8,2.0,1.78,1.96,-0.25,2.05,1.75,Sutton United,Hartlepool United,sutton_united,hartlepool_united
+2025-02-22,EC,England-Conference,2425,Sutton,Braintree Town,1.0,1.0,D,0.0,0.0,D,1.91,3.3,3.9,1.94,3.43,3.82,1.93,3.3,3.68,2.05,1.75,2.01,1.73,-0.5,1.95,1.85,Sutton United,Braintree Town,sutton_united,braintree_town
+2025-03-15,EC,England-Conference,2425,Sutton,Halifax,0.0,3.0,A,0.0,2.0,A,2.2,3.2,3.2,2.21,3.11,3.42,2.18,3.14,3.26,2.1,1.7,2.09,1.68,-0.25,1.95,1.85,Sutton United,Halifax,sutton_united,halifax
+2025-03-22,EC,England-Conference,2425,Sutton,Dag and Red,1.0,1.0,D,0.0,0.0,D,1.83,3.5,4.0,1.79,3.88,4.15,1.81,3.62,3.93,1.8,2.0,1.8,1.94,-0.5,1.83,1.98,Sutton United,Dag and Red,sutton_united,dag_and_red
+2025-04-05,EC,England-Conference,2425,Sutton,Southend,1.0,1.0,D,0.0,1.0,A,2.9,3.4,2.25,2.91,3.31,2.38,2.98,3.27,2.25,2.03,1.78,2.0,1.74,0.25,1.83,1.98,Sutton United,Southend United,sutton_united,southend_united
+2025-04-08,EC,England-Conference,2425,Sutton,Rochdale,1.0,0.0,H,0.0,0.0,D,2.63,3.4,2.4,2.84,3.26,2.56,2.7,3.27,2.45,1.98,1.83,1.92,1.83,0.0,2.0,1.8,Sutton United,Rochdale,sutton_united,rochdale
+2025-04-21,EC,England-Conference,2425,Sutton,Barnet,1.0,3.0,A,1.0,1.0,D,5.25,4.0,1.48,5.49,4.41,1.5,5.57,4.18,1.49,1.75,2.05,1.74,2.0,1.0,1.98,1.83,Sutton United,Barnet,sutton_united,barnet
+2025-05-05,EC,England-Conference,2425,Sutton,Woking,1.0,1.0,D,0.0,1.0,A,2.15,3.5,3.0,2.14,3.46,3.06,2.12,3.47,3.03,1.73,2.08,1.69,2.06,-0.25,1.9,1.9,Sutton United,Woking,sutton_united,woking
+2025-08-16,EC,England-Conference,2526,Sutton,Solihull,0.0,0.0,D,0.0,0.0,D,1.85,3.4,3.75,1.91,3.58,3.78,1.85,3.41,3.67,1.95,1.85,1.91,1.79,-0.5,1.9,1.9,Sutton United,Solihull,sutton_united,solihull
+2025-08-23,EC,England-Conference,2526,Sutton,Scunthorpe,2.0,3.0,A,1.0,1.0,D,2.2,3.4,2.88,2.32,3.37,2.95,2.21,3.32,2.86,1.88,1.93,1.81,1.89,-0.25,2.0,1.8,Sutton United,Scunthorpe United,sutton_united,scunthorpe_united
+2025-08-30,EC,England-Conference,2526,Sutton,Carlisle,2.0,1.0,H,0.0,0.0,D,3.3,3.4,2.0,3.33,3.62,2.04,3.21,3.41,2.01,1.83,1.98,1.77,1.93,0.25,2.03,1.78,Sutton United,Carlisle United,sutton_united,carlisle_united
+2025-09-03,EC,England-Conference,2526,Sutton,Boreham Wood,3.0,4.0,A,2.0,1.0,H,2.55,3.2,2.55,2.69,3.33,2.55,2.46,3.26,2.56,1.9,1.9,1.82,1.86,0.0,1.93,1.88,Sutton United,Boreham Wood,sutton_united,boreham_wood
+2025-09-13,EC,England-Conference,2526,Sutton,Tamworth,2.0,3.0,A,2.0,3.0,A,2.45,3.25,2.55,2.43,3.51,2.71,2.54,3.31,2.48,1.85,1.95,1.79,1.91,0.0,1.85,1.95,Sutton United,Tamworth,sutton_united,tamworth
+2025-09-27,EC,England-Conference,2526,Sutton,Boston Utd,1.0,1.0,D,0.0,1.0,A,1.95,3.6,3.5,1.92,4.02,3.36,1.91,3.55,3.39,1.7,2.1,1.68,2.06,-0.5,1.98,1.83,Sutton United,Boston Utd,sutton_united,boston_utd
+2025-09-30,EC,England-Conference,2526,Sutton,Yeovil,1.0,2.0,A,0.0,0.0,D,2.35,3.25,2.8,2.5,3.36,2.81,2.33,3.24,2.78,1.98,1.83,1.91,1.8,0.0,1.73,2.08,Sutton United,Yeovil Town,sutton_united,yeovil_town
+2025-10-18,EC,England-Conference,2526,Sutton,Hartlepool,3.0,3.0,D,1.0,0.0,H,2.55,3.5,2.38,2.79,3.45,2.39,2.61,3.39,2.37,1.73,2.08,1.68,2.07,0.0,2.0,1.8,Sutton United,Hartlepool United,sutton_united,hartlepool_united
+2025-11-05,EC,England-Conference,2526,Sutton,Eastleigh,2.0,1.0,H,2.0,0.0,H,2.3,3.3,2.8,,,,2.23,3.26,2.9,1.9,1.9,1.86,1.84,-0.25,1.95,1.85,Sutton United,Eastleigh,sutton_united,eastleigh
+2025-11-15,EC,England-Conference,2526,Sutton,Halifax,2.0,0.0,H,2.0,0.0,H,2.5,3.4,2.45,,,,2.55,3.32,2.48,1.83,1.98,1.81,1.9,0.0,1.9,1.9,Sutton United,Halifax,sutton_united,halifax
+2025-11-29,EC,England-Conference,2526,Sutton,Gateshead,4.0,2.0,H,1.0,1.0,D,1.8,3.8,3.6,,,,1.81,3.78,3.55,1.5,2.5,1.48,2.46,-0.5,1.83,1.98,Sutton United,Gateshead,sutton_united,gateshead
+2025-12-26,EC,England-Conference,2526,Sutton,Aldershot,0.0,0.0,D,0.0,0.0,D,1.91,3.7,3.4,,,,1.91,3.69,3.23,1.5,2.5,1.5,2.42,-0.5,1.95,1.85,Sutton United,Aldershot,sutton_united,aldershot
+2026-01-10,EC,England-Conference,2526,Sutton,York,1.0,2.0,A,1.0,1.0,D,5.5,4.33,1.48,,,,5.3,4.39,1.47,1.48,2.6,1.45,2.54,1.0,2.03,1.78,Sutton United,York,sutton_united,york
+2026-01-17,EC,England-Conference,2526,Sutton,Forest Green,1.0,1.0,D,0.0,1.0,A,5.0,3.75,1.57,,,,4.64,3.85,1.6,1.62,2.25,1.63,2.14,0.75,2.05,1.75,Sutton United,Forest Green Rovers,sutton_united,forest_green_rovers
+2026-01-31,EC,England-Conference,2526,Sutton,Brackley Town,1.0,1.0,D,1.0,1.0,D,2.05,3.3,3.3,,,,2.03,3.27,3.35,1.95,1.85,1.88,1.81,-0.5,2.05,1.75,Sutton United,Brackley Town,sutton_united,brackley_town
+2026-02-11,EC,England-Conference,2526,Sutton,Braintree Town,1.0,1.0,D,0.0,0.0,D,1.65,3.7,4.5,,,,1.67,3.83,4.29,1.65,2.2,1.62,2.16,-0.75,1.85,1.95,Sutton United,Braintree Town,sutton_united,braintree_town
+2026-02-17,EC,England-Conference,2526,Sutton,Woking,2.0,1.0,H,2.0,1.0,H,2.25,3.3,2.88,,,,2.34,3.23,2.79,1.85,1.95,1.82,1.86,-0.25,2.0,1.8,Sutton United,Woking,sutton_united,woking
+2026-02-21,EC,England-Conference,2526,Sutton,Wealdstone,3.0,0.0,H,0.0,0.0,D,2.25,3.4,2.75,,,,2.27,3.28,2.83,1.85,1.95,1.78,1.92,-0.25,2.03,1.78,Sutton United,Wealdstone,sutton_united,wealdstone
+2026-03-07,EC,England-Conference,2526,Sutton,Morecambe,0.0,5.0,A,0.0,4.0,A,1.8,3.7,3.8,,,,1.8,3.67,3.64,1.6,2.3,1.56,2.26,-0.5,1.83,1.98,Sutton United,Morecambe,sutton_united,morecambe
+2026-03-21,EC,England-Conference,2526,Sutton,Truro,0.0,3.0,A,0.0,1.0,A,1.73,3.7,4.1,,,,1.74,3.63,3.98,1.7,2.1,1.65,2.08,-0.75,1.98,1.83,Sutton United,Truro,sutton_united,truro
+2026-03-28,EC,England-Conference,2526,Sutton,Rochdale,1.0,2.0,A,0.0,0.0,D,4.1,3.6,1.75,,,,3.88,3.58,1.77,1.73,2.08,1.72,1.99,0.5,2.0,1.8,Sutton United,Rochdale,sutton_united,rochdale
+2026-04-06,EC,England-Conference,2526,Sutton,Southend,0.0,3.0,A,0.0,0.0,D,3.9,3.7,1.75,,,,3.76,3.69,1.78,1.62,2.25,1.59,2.23,0.5,2.0,1.8,Sutton United,Southend United,sutton_united,southend_united
+2026-04-18,EC,England-Conference,2526,Sutton,Altrincham,1.0,2.0,A,1.0,0.0,H,1.91,3.8,3.3,,,,1.9,3.67,3.31,1.5,2.5,1.51,2.4,-0.5,1.93,1.88,Sutton United,Altrincham,sutton_united,altrincham
+2026-08-15,EC,England-Conference,2627,Sutton,Altrincham,1.0,0.0,H,1.0,0.0,H,2.0,3.5,3.25,,,,1.97,3.5,3.22,1.67,2.15,1.65,2.11,-0.5,2.0,1.8,Sutton United,Altrincham,sutton_united,altrincham
+2026-08-22,EC,England-Conference,2627,Sutton,Hartlepool,2.0,1.0,H,2.0,1.0,H,2.35,3.4,2.7,,,,2.32,3.52,2.61,1.8,2.0,1.68,2.07,0.0,1.78,2.03,Sutton United,Hartlepool United,sutton_united,hartlepool_united
+2026-08-31,EC,England-Conference,2627,Sutton,Wealdstone,0.0,2.0,A,0.0,1.0,A,1.85,3.6,3.6,,,,1.89,3.61,3.53,1.73,2.08,1.7,2.06,-0.5,1.9,1.9,Sutton United,Wealdstone,sutton_united,wealdstone
+2026-09-12,EC,England-Conference,2627,Sutton,Scunthorpe,0.0,2.0,A,0.0,1.0,A,2.2,3.5,2.88,,,,2.19,3.45,2.84,1.67,2.15,1.65,2.12,-0.25,1.95,1.85,Sutton United,Scunthorpe United,sutton_united,scunthorpe_united
+2026-09-15,EC,England-Conference,2627,Sutton,Eastleigh,2.0,1.0,H,2.0,0.0,H,1.95,3.5,3.3,,,,1.97,3.34,3.38,1.88,1.93,1.82,1.88,-0.5,2.0,1.8,Sutton United,Eastleigh,sutton_united,eastleigh
+2026-09-26,EC,England-Conference,2627,Sutton,Forest Green,3.0,3.0,D,0.0,1.0,A,2.7,3.3,2.35,,,,2.62,3.26,2.42,1.88,1.93,1.82,1.89,0.0,1.98,1.83,Sutton United,Forest Green Rovers,sutton_united,forest_green_rovers
+2026-10-09,EC,England-Conference,2627,Sutton,Boreham Wood,0.0,2.0,A,0.0,0.0,D,4.5,3.8,1.65,,,,4.36,3.69,1.67,1.8,2.0,1.73,1.99,0.75,1.98,1.83,Sutton United,Boreham Wood,sutton_united,boreham_wood

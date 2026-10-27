@@ -1,0 +1,2 @@
+input_path,input_sha256,input_rows,capture_ts_utc,label,source,odds_source
+/root/football-predictor/reports/shadow_test_20261026/fixture_20261026_2307.csv,2704b1897af0d61af64fee132369d217658b3c37326650defcc6f90f5a5f27fc,1,2026-10-26T16:09:02.245234+00:00,HISTORICAL_FIXTURE,stake_screenshot_manual,stake

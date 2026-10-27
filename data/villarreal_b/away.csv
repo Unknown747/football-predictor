@@ -1,0 +1,43 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-14,SP2,Spain-Segunda,2223,Santander,Villarreal B,0.0,2.0,A,0.0,0.0,D,2.1,3.25,3.75,2.16,3.1,3.96,2.14,3.09,3.63,2.5,1.5,2.49,1.52,-0.25,1.83,2.02,Santander,Villarreal B,santander,villarreal_b
+2022-08-29,SP2,Spain-Segunda,2223,Granada,Villarreal B,3.0,0.0,H,2.0,0.0,H,1.6,3.8,6.25,1.62,3.82,6.13,1.61,3.74,5.56,2.05,1.75,2.03,1.76,-0.75,1.8,2.05,Granada,Villarreal B,granada,villarreal_b
+2022-09-10,SP2,Spain-Segunda,2223,Levante,Villarreal B,4.0,1.0,H,1.0,0.0,H,1.57,4.0,5.75,1.61,4.06,6.09,1.58,3.91,5.59,1.9,1.95,1.87,1.91,-1.0,2.05,1.8,Levante,Villarreal B,levante,villarreal_b
+2022-09-24,SP2,Spain-Segunda,2223,Malaga,Villarreal B,1.0,1.0,D,1.0,1.0,D,2.2,3.4,3.3,2.27,3.28,3.54,2.19,3.26,3.31,2.1,1.7,2.1,1.71,-0.25,1.9,1.95,Malaga,Villarreal B,malaga,villarreal_b
+2022-10-07,SP2,Spain-Segunda,2223,Sp Gijon,Villarreal B,3.0,1.0,H,2.0,0.0,H,1.83,3.6,4.33,1.86,3.48,4.73,1.85,3.38,4.37,2.15,1.66,2.17,1.68,-0.5,1.85,2.0,Sp Gijon,Villarreal B,sp_gijon,villarreal_b
+2022-10-15,SP2,Spain-Segunda,2223,Zaragoza,Villarreal B,2.0,1.0,H,1.0,0.0,H,1.7,3.5,5.5,1.8,3.6,4.93,1.75,3.5,4.79,2.15,1.66,2.22,1.64,-0.75,1.95,1.85,Zaragoza,Villarreal B,zaragoza,villarreal_b
+2022-10-30,SP2,Spain-Segunda,2223,Albacete,Villarreal B,0.0,0.0,D,0.0,0.0,D,1.75,3.5,5.0,1.81,3.53,4.74,1.78,3.46,4.5,2.2,1.65,2.18,1.66,-0.75,2.02,1.83,Albacete,Villarreal B,albacete,villarreal_b
+2022-11-05,SP2,Spain-Segunda,2223,Huesca,Villarreal B,1.0,0.0,H,1.0,0.0,H,1.83,3.4,5.0,1.88,3.38,4.84,1.85,3.34,4.45,2.3,1.6,2.28,1.61,-0.5,1.85,2.0,Huesca,Villarreal B,huesca,villarreal_b
+2022-11-26,SP2,Spain-Segunda,2223,Alaves,Villarreal B,2.0,0.0,H,1.0,0.0,H,1.66,3.8,5.25,1.7,3.61,5.82,1.69,3.55,5.2,2.1,1.7,2.13,1.69,-0.75,1.9,1.95,Deportivo Alaves,Villarreal B,deportivo_alaves,villarreal_b
+2022-12-07,SP2,Spain-Segunda,2223,Cartagena,Villarreal B,0.0,1.0,A,0.0,0.0,D,1.72,3.6,5.25,1.8,3.42,5.33,1.76,3.45,4.79,2.07,1.72,2.1,1.72,-0.75,2.0,1.85,Cartagena,Villarreal B,cartagena,villarreal_b
+2023-01-06,SP2,Spain-Segunda,2223,Ponferradina,Villarreal B,2.0,1.0,H,0.0,1.0,A,2.3,3.25,3.25,2.35,3.22,3.36,2.29,3.16,3.22,2.2,1.65,2.19,1.67,-0.25,2.0,1.85,Ponferradina,Villarreal B,ponferradina,villarreal_b
+2023-01-22,SP2,Spain-Segunda,2223,Lugo,Villarreal B,1.0,2.0,A,0.0,0.0,D,2.5,3.0,3.25,2.48,2.98,3.29,2.43,2.97,3.11,2.5,1.5,2.48,1.52,-0.25,2.1,1.77,Lugo,Villarreal B,lugo,villarreal_b
+2023-01-28,SP2,Spain-Segunda,2223,Oviedo,Villarreal B,0.0,1.0,A,0.0,1.0,A,1.91,3.2,4.75,1.93,3.24,4.8,1.92,3.16,4.41,2.6,1.48,2.61,1.48,-0.5,1.93,1.93,Real Oviedo,Villarreal B,real_oviedo,villarreal_b
+2023-02-11,SP2,Spain-Segunda,2223,Mirandes,Villarreal B,2.0,1.0,H,1.0,0.0,H,2.2,3.2,3.5,2.25,3.19,3.63,2.21,3.11,3.43,2.25,1.62,2.26,1.62,-0.25,1.9,1.95,Mirandes,Villarreal B,mirandes,villarreal_b
+2023-02-24,SP2,Spain-Segunda,2223,Eibar,Villarreal B,2.0,0.0,H,1.0,0.0,H,1.8,3.4,5.0,1.81,3.36,5.41,1.79,3.31,4.95,2.3,1.6,2.33,1.59,-0.5,1.77,2.02,Eibar,Villarreal B,eibar,villarreal_b
+2023-03-11,SP2,Spain-Segunda,2223,Ibiza,Villarreal B,0.0,0.0,D,0.0,0.0,D,2.55,3.1,2.9,2.68,2.97,3.09,2.58,2.97,2.9,2.4,1.53,2.4,1.55,0.0,1.83,2.02,Ibiza,Villarreal B,ibiza,villarreal_b
+2023-04-01,SP2,Spain-Segunda,2223,Tenerife,Villarreal B,1.0,1.0,D,0.0,0.0,D,1.75,3.3,5.5,1.76,3.42,5.48,1.75,3.33,5.13,2.5,1.5,2.54,1.49,-0.75,2.02,1.83,Tenerife,Villarreal B,tenerife,villarreal_b
+2023-04-16,SP2,Spain-Segunda,2223,Leganes,Villarreal B,1.0,0.0,H,1.0,0.0,H,1.91,3.25,4.75,1.86,3.28,4.87,1.88,3.24,4.39,2.35,1.57,2.39,1.55,-0.5,1.88,1.98,Leganes,Villarreal B,leganes,villarreal_b
+2023-05-01,SP2,Spain-Segunda,2223,Burgos,Villarreal B,1.0,0.0,H,1.0,0.0,H,2.2,3.1,3.6,2.27,2.99,3.71,2.2,3.02,3.52,2.5,1.5,2.54,1.49,-0.25,1.9,1.95,Burgos,Villarreal B,burgos,villarreal_b
+2023-05-14,SP2,Spain-Segunda,2223,Las Palmas,Villarreal B,1.0,1.0,D,1.0,0.0,H,1.5,4.0,7.0,1.53,3.95,7.07,1.51,3.87,6.78,2.2,1.65,2.22,1.63,-1.0,1.95,1.9,Las Palmas,Villarreal B,las_palmas,villarreal_b
+2023-05-27,SP2,Spain-Segunda,2223,Andorra,Villarreal B,4.0,3.0,H,1.0,2.0,A,1.85,3.25,4.5,1.92,3.24,4.85,1.92,3.22,4.3,2.08,1.73,2.09,1.72,-0.5,1.88,1.98,Andorra,Villarreal B,andorra,villarreal_b
+2023-08-12,SP2,Spain-Segunda,2324,Zaragoza,Villarreal B,2.0,0.0,H,0.0,0.0,D,1.73,3.5,5.5,1.71,3.54,6.06,1.71,3.4,5.36,2.35,1.57,2.36,1.57,-0.75,1.95,1.9,Zaragoza,Villarreal B,zaragoza,villarreal_b
+2023-08-26,SP2,Spain-Segunda,2324,Elche,Villarreal B,1.0,0.0,H,1.0,0.0,H,1.62,3.6,6.5,1.63,3.86,6.33,1.58,3.73,6.16,2.2,1.65,2.24,1.63,-0.75,1.8,2.05,Elche,Villarreal B,elche,villarreal_b
+2023-09-10,SP2,Spain-Segunda,2324,Ferrol,Villarreal B,2.0,2.0,D,0.0,1.0,A,1.91,3.4,4.2,1.97,3.33,4.54,1.93,3.25,4.17,2.35,1.57,2.39,1.55,-0.5,1.93,1.93,Ferrol,Villarreal B,ferrol,villarreal_b
+2023-09-16,SP2,Spain-Segunda,2324,Huesca,Villarreal B,2.0,2.0,D,0.0,2.0,A,2.05,3.3,3.75,2.07,3.23,4.24,2.04,3.17,3.85,2.25,1.62,2.27,1.61,-0.5,2.03,1.83,Huesca,Villarreal B,huesca,villarreal_b
+2023-10-03,SP2,Spain-Segunda,2324,Levante,Villarreal B,1.0,1.0,D,0.0,0.0,D,1.7,3.75,5.0,1.72,3.99,5.06,1.68,3.82,4.81,1.85,2.0,1.84,1.94,-0.75,1.9,1.95,Levante,Villarreal B,levante,villarreal_b
+2023-10-15,SP2,Spain-Segunda,2324,Burgos,Villarreal B,3.0,2.0,H,0.0,0.0,D,2.0,3.4,3.8,2.06,3.36,4.06,2.01,3.32,3.73,2.08,1.73,2.07,1.73,-0.5,2.03,1.83,Burgos,Villarreal B,burgos,villarreal_b
+2023-10-29,SP2,Spain-Segunda,2324,Leganes,Villarreal B,1.0,0.0,H,0.0,0.0,D,1.7,3.8,4.75,1.76,3.86,4.94,1.7,3.71,4.81,2.0,1.85,1.97,1.82,-0.75,1.9,1.95,Leganes,Villarreal B,leganes,villarreal_b
+2023-11-12,SP2,Spain-Segunda,2324,Tenerife,Villarreal B,0.0,1.0,A,0.0,1.0,A,1.65,3.8,5.75,1.63,3.96,5.93,1.62,3.74,5.49,2.05,1.75,2.06,1.74,-0.75,1.8,2.05,Tenerife,Villarreal B,tenerife,villarreal_b
+2023-11-25,SP2,Spain-Segunda,2324,Santander,Villarreal B,2.0,0.0,H,1.0,0.0,H,1.7,4.0,4.5,1.75,4.03,4.77,1.71,3.87,4.52,1.75,2.05,1.77,2.03,-0.75,1.9,1.95,Santander,Villarreal B,santander,villarreal_b
+2023-12-08,SP2,Spain-Segunda,2324,Albacete,Villarreal B,2.0,0.0,H,0.0,0.0,D,1.5,4.2,6.5,1.54,4.27,6.68,1.53,4.14,6.05,1.75,2.05,1.76,2.04,-1.0,1.88,1.98,Albacete,Villarreal B,albacete,villarreal_b
+2024-01-14,SP2,Spain-Segunda,2324,Cartagena,Villarreal B,4.0,1.0,H,0.0,1.0,A,2.15,3.5,3.25,2.21,3.36,3.59,2.15,3.33,3.32,2.05,1.75,2.04,1.76,-0.25,1.88,1.98,Cartagena,Villarreal B,cartagena,villarreal_b
+2024-01-20,SP2,Spain-Segunda,2324,Espanol,Villarreal B,2.0,1.0,H,2.0,1.0,H,1.55,4.75,5.25,1.53,4.44,6.49,1.53,4.21,5.79,1.75,2.05,1.78,2.0,-1.0,1.93,1.93,Espanyol,Villarreal B,espanyol,villarreal_b
+2024-02-03,SP2,Spain-Segunda,2324,Mirandes,Villarreal B,3.0,0.0,H,1.0,0.0,H,2.1,3.1,4.0,2.13,3.27,3.96,2.07,3.25,3.65,2.1,1.7,2.05,1.75,-0.5,2.05,1.75,Mirandes,Villarreal B,mirandes,villarreal_b
+2024-02-17,SP2,Spain-Segunda,2324,Andorra,Villarreal B,1.0,1.0,D,0.0,0.0,D,1.83,3.25,5.0,1.84,3.53,4.92,1.82,3.39,4.5,2.2,1.65,2.17,1.67,-0.5,1.85,2.0,Andorra,Villarreal B,andorra,villarreal_b
+2024-03-02,SP2,Spain-Segunda,2324,Eldense,Villarreal B,2.0,0.0,H,1.0,0.0,H,2.1,3.3,3.8,2.09,3.29,4.06,2.05,3.21,3.7,2.15,1.67,2.15,1.67,-0.25,1.75,2.05,Eldense,Villarreal B,eldense,villarreal_b
+2024-03-16,SP2,Spain-Segunda,2324,Eibar,Villarreal B,2.0,0.0,H,1.0,0.0,H,1.44,4.5,7.0,1.46,4.56,7.88,1.43,4.34,7.26,1.93,1.93,1.89,1.89,-1.25,2.03,1.83,Eibar,Villarreal B,eibar,villarreal_b
+2024-03-31,SP2,Spain-Segunda,2324,Oviedo,Villarreal B,2.0,1.0,H,2.0,1.0,H,1.53,4.0,6.5,1.55,4.23,6.53,1.52,3.98,6.1,2.0,1.85,1.96,1.81,-1.0,1.93,1.93,Real Oviedo,Villarreal B,real_oviedo,villarreal_b
+2024-04-15,SP2,Spain-Segunda,2324,Alcorcon,Villarreal B,1.0,0.0,H,0.0,0.0,D,2.2,3.1,3.6,2.26,3.18,3.55,2.2,3.11,3.36,2.25,1.62,2.28,1.6,-0.25,1.9,1.95,Alcorcon,Villarreal B,alcorcon,villarreal_b
+2024-04-28,SP2,Spain-Segunda,2324,Sp Gijon,Villarreal B,0.0,3.0,A,0.0,2.0,A,1.75,3.6,5.0,1.72,3.57,4.87,1.76,3.54,4.56,2.0,1.85,1.94,1.83,-0.75,2.0,1.85,Sp Gijon,Villarreal B,sp_gijon,villarreal_b
+2024-05-12,SP2,Spain-Segunda,2324,Amorebieta,Villarreal B,2.0,0.0,H,0.0,0.0,D,2.4,3.25,2.9,2.41,3.23,2.98,2.37,3.19,2.97,2.08,1.73,2.07,1.73,-0.25,2.1,1.78,Amorebieta,Villarreal B,amorebieta,villarreal_b
+2024-05-26,SP2,Spain-Segunda,2324,Valladolid,Villarreal B,3.0,2.0,H,0.0,0.0,D,1.38,5.0,7.5,1.32,4.92,8.41,1.34,4.85,8.03,1.7,2.1,1.69,2.11,-1.25,1.83,2.03,Real Valladolid,Villarreal B,real_valladolid,villarreal_b

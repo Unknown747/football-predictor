@@ -1,0 +1,7 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2026-08-08,EC,England-Conference,2627,Hornchurch,Kidderminster,3.0,0.0,H,3.0,0.0,H,2.75,3.4,2.3,,,,2.63,3.37,2.33,1.75,2.05,1.73,1.98,0.0,2.0,1.8,Hornchurch,Kidderminster,hornchurch,kidderminster
+2026-08-28,EC,England-Conference,2627,Hornchurch,Woking,1.0,0.0,H,0.0,0.0,D,2.3,3.4,2.7,,,,2.27,3.32,2.76,1.85,1.95,1.81,1.9,-0.25,2.08,1.73,Hornchurch,Woking,hornchurch,woking
+2026-09-05,EC,England-Conference,2627,Hornchurch,Forest Green,0.0,1.0,A,0.0,1.0,A,3.2,3.7,1.91,,,,3.28,3.58,1.93,1.67,2.15,1.63,2.15,0.5,1.85,1.95,Hornchurch,Forest Green Rovers,hornchurch,forest_green_rovers
+2026-09-19,EC,England-Conference,2627,Hornchurch,Scunthorpe,1.0,0.0,H,0.0,0.0,D,2.45,3.5,2.5,,,,2.42,3.46,2.53,1.67,2.15,1.66,2.09,0.0,1.85,1.95,Hornchurch,Scunthorpe United,hornchurch,scunthorpe_united
+2026-09-29,EC,England-Conference,2627,Hornchurch,Aldershot,2.0,1.0,H,1.0,1.0,D,2.2,3.5,2.9,,,,2.08,3.5,2.98,1.67,2.15,1.66,2.11,-0.25,1.95,1.85,Hornchurch,Aldershot,hornchurch,aldershot
+2026-10-10,EC,England-Conference,2627,Hornchurch,Eastleigh,2.0,0.0,H,1.0,0.0,H,2.05,3.5,3.1,,,,2.0,3.48,3.18,1.73,2.08,1.7,2.03,-0.5,2.05,1.75,Hornchurch,Eastleigh,hornchurch,eastleigh

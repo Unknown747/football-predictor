@@ -1,0 +1,35 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-07,P1,Portugal-Liga1,2223,Chaves,Guimaraes,0.0,1.0,A,0.0,1.0,A,2.7,3.2,2.5,2.87,3.37,2.62,2.8,3.26,2.48,2.1,1.7,2.1,1.71,0.0,2.04,1.86,Chaves,Vitoria Guimaraes,chaves,vitoria_guimaraes
+2022-08-20,P1,Portugal-Liga1,2223,Chaves,Vizela,1.0,1.0,D,1.0,1.0,D,2.25,3.3,3.25,2.3,3.27,3.48,2.28,3.22,3.23,2.15,1.66,2.17,1.69,-0.25,1.96,1.94,Chaves,Vizela,chaves,vizela
+2022-09-05,P1,Portugal-Liga1,2223,Chaves,Rio Ave,1.0,1.0,D,1.0,0.0,H,2.5,3.0,2.87,2.54,3.17,3.09,2.51,3.08,2.95,2.25,1.61,2.25,1.63,0.0,1.78,2.13,Chaves,Rio Ave,chaves,rio_ave
+2022-10-01,P1,Portugal-Liga1,2223,Chaves,Estoril,1.0,1.0,D,1.0,0.0,H,2.25,3.1,3.2,2.31,3.31,3.4,2.29,3.24,3.19,2.15,1.66,2.16,1.69,-0.25,2.0,1.9,Chaves,Estoril,chaves,estoril
+2022-10-23,P1,Portugal-Liga1,2223,Chaves,Gil Vicente,3.0,1.0,H,0.0,1.0,A,2.5,3.4,2.6,2.6,3.52,2.79,2.55,3.34,2.71,2.02,1.83,2.02,1.79,0.0,1.87,2.03,Chaves,Gil Vicente,chaves,gil_vicente
+2022-11-07,P1,Portugal-Liga1,2223,Chaves,Santa Clara,0.0,0.0,D,0.0,0.0,D,2.3,3.25,3.1,2.47,2.99,3.41,2.35,3.1,3.18,2.35,1.57,2.35,1.58,-0.25,2.04,1.86,Chaves,Santa Clara,chaves,santa_clara
+2022-12-30,P1,Portugal-Liga1,2223,Chaves,Famalicao,0.0,2.0,A,0.0,1.0,A,2.5,3.2,2.8,2.57,3.16,3.06,2.49,3.15,2.94,2.15,1.67,2.19,1.66,0.0,1.78,2.13,Chaves,Famalicao,chaves,famalicao
+2023-01-15,P1,Portugal-Liga1,2223,Chaves,Arouca,1.0,1.0,D,1.0,0.0,H,2.15,3.2,3.4,2.17,3.44,3.6,2.16,3.32,3.41,2.1,1.7,2.11,1.73,-0.25,1.88,2.02,Chaves,Arouca,chaves,arouca
+2023-02-05,P1,Portugal-Liga1,2223,Chaves,Maritimo,2.0,1.0,H,2.0,1.0,H,2.1,3.2,3.75,2.17,3.23,3.88,2.1,3.27,3.66,2.15,1.67,2.18,1.68,-0.25,1.83,2.07,Chaves,Maritimo,chaves,maritimo
+2023-02-20,P1,Portugal-Liga1,2223,Chaves,Sp Lisbon,2.0,3.0,A,1.0,1.0,D,6.5,4.75,1.44,6.1,4.9,1.49,6.3,4.77,1.45,1.57,2.35,1.59,2.34,1.25,1.86,2.04,Chaves,Sp Lisbon,chaves,sp_lisbon
+2023-03-04,P1,Portugal-Liga1,2223,Chaves,Porto,1.0,3.0,A,0.0,2.0,A,11.0,5.0,1.29,11.88,5.74,1.29,11.01,5.44,1.28,1.67,2.15,1.66,2.19,1.5,2.02,1.88,Chaves,FC Porto,chaves,fc_porto
+2023-03-11,P1,Portugal-Liga1,2223,Chaves,Portimonense,2.0,0.0,H,1.0,0.0,H,2.25,3.3,3.1,2.38,3.29,3.3,2.3,3.25,3.18,2.15,1.67,2.21,1.65,-0.25,2.02,1.88,Chaves,Portimonense,chaves,portimonense
+2023-04-02,P1,Portugal-Liga1,2223,Chaves,Sp Braga,1.0,2.0,A,1.0,1.0,D,4.75,3.8,1.67,5.17,3.93,1.72,4.91,3.78,1.69,1.9,1.95,1.88,1.91,0.75,1.99,1.91,Chaves,Sp Braga,chaves,sp_braga
+2023-04-15,P1,Portugal-Liga1,2223,Chaves,Benfica,1.0,0.0,H,0.0,0.0,D,8.0,5.75,1.29,9.74,5.77,1.32,9.36,5.6,1.3,1.5,2.5,1.52,2.5,1.5,2.05,1.85,Chaves,Benfica,chaves,benfica
+2023-04-29,P1,Portugal-Liga1,2223,Chaves,Casa Pia,1.0,0.0,H,1.0,0.0,H,,,,2.39,3.2,3.36,2.32,3.18,3.23,2.2,1.65,2.25,1.63,-0.25,2.02,1.88,Chaves,Casa Pia,chaves,casa_pia
+2023-05-13,P1,Portugal-Liga1,2223,Chaves,Pacos Ferreira,2.0,0.0,H,0.0,0.0,D,2.05,3.4,3.3,2.16,3.46,3.62,2.13,3.41,3.42,2.0,1.85,1.99,1.81,-0.25,1.84,2.06,Chaves,Pacos Ferreira,chaves,pacos_ferreira
+2023-05-27,P1,Portugal-Liga1,2223,Chaves,Boavista,1.0,4.0,A,0.0,2.0,A,2.1,3.5,3.4,2.12,3.83,3.38,2.1,3.63,3.29,1.75,2.05,1.77,2.04,-0.25,1.85,2.05,Chaves,Boavista,chaves,boavista
+2023-08-19,P1,Portugal-Liga1,2324,Chaves,Sp Braga,2.0,4.0,A,1.0,1.0,D,4.5,4.0,1.7,4.98,4.2,1.69,4.79,3.99,1.67,1.73,2.08,1.74,2.07,0.75,2.0,1.9,Chaves,Sp Braga,chaves,sp_braga
+2023-09-03,P1,Portugal-Liga1,2324,Chaves,Moreirense,1.0,2.0,A,0.0,1.0,A,2.4,3.25,2.88,2.54,3.34,2.99,2.45,3.25,2.93,2.1,1.7,2.11,1.72,-0.25,2.08,1.73,Chaves,Moreirense,chaves,moreirense
+2023-09-24,P1,Portugal-Liga1,2324,Chaves,Estrela,2.0,2.0,D,0.0,1.0,A,2.7,3.25,2.63,2.73,3.55,2.64,2.57,3.41,2.66,1.9,1.95,1.88,1.92,0.0,1.98,1.92,Chaves,Estrela Amadora,chaves,estrela_amadora
+2023-10-07,P1,Portugal-Liga1,2324,Chaves,Gil Vicente,4.0,2.0,H,1.0,2.0,A,2.45,3.25,2.6,2.65,3.61,2.68,2.54,3.44,2.68,1.9,1.95,1.89,1.9,0.0,1.93,1.97,Chaves,Gil Vicente,chaves,gil_vicente
+2023-11-04,P1,Portugal-Liga1,2324,Chaves,Benfica,0.0,2.0,A,0.0,0.0,D,8.5,5.75,1.29,9.53,6.19,1.3,9.27,6.07,1.28,1.44,2.7,1.43,2.76,1.75,1.85,2.05,Chaves,Benfica,chaves,benfica
+2023-12-01,P1,Portugal-Liga1,2324,Chaves,Vizela,2.0,1.0,H,1.0,1.0,D,2.45,3.3,2.6,2.73,3.23,2.73,2.62,3.33,2.69,2.03,1.83,2.04,1.78,0.0,1.94,1.96,Chaves,Vizela,chaves,vizela
+2023-12-17,P1,Portugal-Liga1,2324,Chaves,Casa Pia,1.0,3.0,A,1.0,2.0,A,2.7,3.1,2.63,2.81,3.2,2.79,2.75,3.18,2.66,2.2,1.65,2.19,1.67,0.0,1.95,1.95,Chaves,Casa Pia,chaves,casa_pia
+2024-01-13,P1,Portugal-Liga1,2324,Chaves,Sp Lisbon,0.0,3.0,A,0.0,1.0,A,9.0,6.0,1.25,11.36,6.63,1.25,10.7,6.27,1.25,1.44,2.7,1.47,2.65,1.75,1.95,1.95,Chaves,Sp Lisbon,chaves,sp_lisbon
+2024-01-21,P1,Portugal-Liga1,2324,Chaves,Rio Ave,0.0,0.0,D,0.0,0.0,D,3.0,3.25,2.45,3.15,3.3,2.46,3.01,3.24,2.41,2.15,1.67,2.12,1.72,0.25,1.8,2.1,Chaves,Rio Ave,chaves,rio_ave
+2024-02-04,P1,Portugal-Liga1,2324,Chaves,Farense,1.0,1.0,D,0.0,1.0,A,2.5,3.3,2.7,2.64,3.33,2.88,2.56,3.34,2.73,2.05,1.75,2.03,1.78,0.0,1.87,2.03,Chaves,Farense,chaves,farense
+2024-02-17,P1,Portugal-Liga1,2324,Chaves,Boavista,2.0,1.0,H,1.0,1.0,D,2.4,3.25,3.1,2.48,3.31,3.1,2.39,3.32,2.96,2.05,1.8,2.02,1.79,-0.25,2.09,1.81,Chaves,Boavista,chaves,boavista
+2024-03-01,P1,Portugal-Liga1,2324,Chaves,Arouca,1.0,5.0,A,1.0,2.0,A,3.2,3.4,2.3,3.24,3.36,2.38,3.15,3.31,2.3,2.05,1.75,2.07,1.76,0.25,1.89,2.01,Chaves,Arouca,chaves,arouca
+2024-03-17,P1,Portugal-Liga1,2324,Chaves,Guimaraes,1.0,2.0,A,1.0,1.0,D,4.5,3.5,1.83,4.46,3.6,1.9,4.25,3.53,1.86,2.03,1.83,2.0,1.81,0.5,2.02,1.88,Chaves,Vitoria Guimaraes,chaves,vitoria_guimaraes
+2024-04-07,P1,Portugal-Liga1,2324,Chaves,Portimonense,2.0,3.0,A,1.0,0.0,H,2.15,3.4,3.4,2.22,3.31,3.57,2.18,3.34,3.37,2.05,1.75,2.07,1.76,-0.25,1.9,2.0,Chaves,Portimonense,chaves,portimonense
+2024-04-21,P1,Portugal-Liga1,2324,Chaves,Estoril,2.0,2.0,D,1.0,0.0,H,2.88,3.3,2.5,2.9,3.32,2.59,2.82,3.32,2.49,2.0,1.85,1.97,1.83,0.0,2.09,1.81,Chaves,Estoril,chaves,estoril
+2024-05-04,P1,Portugal-Liga1,2324,Chaves,Porto,0.0,3.0,A,0.0,2.0,A,10.0,5.5,1.29,10.4,6.24,1.27,10.15,5.84,1.27,1.5,2.5,1.49,2.56,1.75,1.86,2.04,Chaves,FC Porto,chaves,fc_porto
+2024-05-10,P1,Portugal-Liga1,2324,Chaves,Famalicao,0.0,1.0,A,0.0,1.0,A,2.63,3.3,2.63,2.76,3.28,2.73,2.7,3.27,2.65,2.05,1.8,2.02,1.8,0.0,1.95,1.95,Chaves,Famalicao,chaves,famalicao

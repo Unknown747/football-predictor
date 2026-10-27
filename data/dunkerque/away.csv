@@ -1,0 +1,77 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,F2,France-L2,2122,Paris FC,Dunkerque,2.0,1.0,H,1.0,1.0,D,1.61,3.75,6.0,1.64,3.54,6.68,1.63,3.48,6.06,2.15,1.66,2.15,1.68,-0.75,1.85,2.0,Paris FC,Dunkerque,paris_fc,dunkerque
+2021-08-14,F2,France-L2,2122,Sochaux,Dunkerque,1.0,0.0,H,1.0,0.0,H,1.65,3.6,6.0,1.67,3.6,5.99,1.67,3.53,5.48,2.25,1.61,2.22,1.65,-0.75,1.88,1.98,Sochaux,Dunkerque,sochaux,dunkerque
+2021-08-28,F2,France-L2,2122,Rodez,Dunkerque,2.0,2.0,D,0.0,1.0,A,2.0,3.3,3.8,1.97,3.36,4.23,1.98,3.25,3.94,2.4,1.53,2.38,1.57,-0.5,2.0,1.85,Rodez,Dunkerque,rodez,dunkerque
+2021-09-18,F2,France-L2,2122,Dijon,Dunkerque,2.0,0.0,H,0.0,0.0,D,2.05,3.25,3.75,2.16,3.34,3.54,2.14,3.27,3.39,2.0,1.8,1.98,1.8,-0.25,1.88,1.98,Dijon,Dunkerque,dijon,dunkerque
+2021-09-24,F2,France-L2,2122,Pau FC,Dunkerque,1.0,2.0,A,0.0,2.0,A,1.75,3.4,4.75,1.84,3.3,5.29,1.8,3.32,4.86,2.25,1.61,2.24,1.64,-0.5,1.8,2.05,Pau FC,Dunkerque,pau_fc,dunkerque
+2021-10-16,F2,France-L2,2122,Valenciennes,Dunkerque,1.0,3.0,A,0.0,2.0,A,2.05,3.3,3.8,2.15,3.0,4.06,2.1,3.08,3.72,2.25,1.61,2.26,1.61,-0.25,1.8,2.05,Valenciennes,Dunkerque,valenciennes,dunkerque
+2021-11-06,F2,France-L2,2122,Grenoble,Dunkerque,1.0,0.0,H,0.0,0.0,D,2.0,3.1,3.8,2.18,2.99,3.97,2.14,3.03,3.7,2.4,1.53,2.42,1.54,-0.25,1.83,2.02,Grenoble,Dunkerque,grenoble,dunkerque
+2021-12-03,F2,France-L2,2122,Amiens,Dunkerque,3.0,0.0,H,1.0,0.0,H,2.05,3.0,4.0,2.13,3.11,4.1,2.11,3.02,3.88,2.7,1.44,2.63,1.46,-0.25,1.77,2.1,Amiens,Dunkerque,amiens,dunkerque
+2021-12-21,F2,France-L2,2122,Guingamp,Dunkerque,2.0,1.0,H,0.0,0.0,D,1.75,3.3,4.0,1.81,3.47,5.14,1.79,3.41,4.7,2.2,1.65,2.2,1.66,-0.75,2.05,1.75,Guingamp,Dunkerque,guingamp,dunkerque
+2022-02-01,F2,France-L2,2122,Niort,Dunkerque,2.0,0.0,H,0.0,0.0,D,1.85,3.4,3.5,1.95,3.3,4.55,1.93,3.23,4.22,2.35,1.57,2.36,1.57,-0.5,1.95,1.9,Niort,Dunkerque,niort,dunkerque
+2022-02-05,F2,France-L2,2122,Nimes,Dunkerque,0.0,1.0,A,0.0,0.0,D,1.83,3.4,4.5,1.79,3.34,5.28,1.79,3.34,4.81,2.25,1.61,2.21,1.64,-0.5,1.85,2.0,Nimes,Dunkerque,nimes,dunkerque
+2022-02-19,F2,France-L2,2122,Nancy,Dunkerque,2.0,0.0,H,1.0,0.0,H,2.05,3.1,3.4,2.12,3.15,3.92,2.1,3.16,3.64,2.25,1.61,2.28,1.6,-0.25,1.8,2.05,Nancy,Dunkerque,nancy,dunkerque
+2022-03-07,F2,France-L2,2122,Toulouse,Dunkerque,2.0,0.0,H,1.0,0.0,H,1.33,4.75,11.0,1.33,4.86,10.92,1.33,4.78,9.81,1.85,2.0,1.85,1.93,-1.25,1.73,2.08,Toulouse,Dunkerque,toulouse,dunkerque
+2022-03-15,F2,France-L2,2122,Bastia,Dunkerque,1.0,0.0,H,1.0,0.0,H,1.8,3.3,4.75,1.81,3.34,5.48,1.8,3.26,5.03,2.5,1.5,2.52,1.51,-0.75,2.05,1.8,Bastia,Dunkerque,bastia,dunkerque
+2022-04-02,F2,France-L2,2122,Caen,Dunkerque,2.0,1.0,H,1.0,0.0,H,1.6,3.6,5.5,1.62,3.79,5.95,1.62,3.65,5.72,2.35,1.57,2.35,1.57,-0.75,1.83,2.02,Caen,Dunkerque,caen,dunkerque
+2022-04-09,F2,France-L2,2122,Le Havre,Dunkerque,2.0,1.0,H,1.0,0.0,H,1.95,3.0,4.2,1.93,3.13,4.75,1.94,3.08,4.44,2.6,1.47,2.57,1.49,-0.5,1.95,1.9,Le Havre,Dunkerque,le_havre,dunkerque
+2022-04-19,F2,France-L2,2122,Ajaccio,Dunkerque,2.0,1.0,H,2.0,0.0,H,1.4,3.8,8.5,1.45,4.03,10.06,1.44,3.86,9.07,2.5,1.5,2.55,1.49,-1.0,1.8,2.05,Ajaccio,Dunkerque,ajaccio,dunkerque
+2022-04-30,F2,France-L2,2122,Auxerre,Dunkerque,1.0,0.0,H,0.0,0.0,D,1.44,4.0,7.0,1.41,4.37,8.7,1.43,4.17,7.7,2.05,1.75,2.01,1.78,-1.0,1.8,2.05,AJ Auxerre,Dunkerque,aj_auxerre,dunkerque
+2022-05-14,F2,France-L2,2122,Quevilly Rouen,Dunkerque,3.0,1.0,H,1.0,1.0,D,1.8,3.6,4.0,1.84,3.79,4.16,1.85,3.61,4.03,1.83,2.02,1.83,1.96,-0.5,1.83,2.02,Quevilly Rouen,Dunkerque,quevilly_rouen,dunkerque
+2023-08-12,F2,France-L2,2324,Guingamp,Dunkerque,0.0,1.0,A,0.0,0.0,D,1.75,3.5,4.33,1.93,3.56,4.21,1.86,3.46,4.08,2.05,1.8,2.01,1.77,-0.5,1.78,2.03,Guingamp,Dunkerque,guingamp,dunkerque
+2023-08-19,F2,France-L2,2324,Annecy,Dunkerque,3.0,0.0,H,0.0,0.0,D,2.7,3.2,2.63,2.82,3.23,2.71,2.69,3.17,2.62,2.15,1.67,2.15,1.67,0.0,1.95,1.9,Annecy,Dunkerque,annecy,dunkerque
+2023-09-02,F2,France-L2,2324,Ajaccio,Dunkerque,2.0,2.0,D,0.0,1.0,A,1.83,3.4,4.5,1.91,3.41,4.58,1.86,3.33,4.35,2.3,1.6,2.34,1.58,-0.5,1.83,2.03,Ajaccio,Dunkerque,ajaccio,dunkerque
+2023-10-04,F2,France-L2,2324,St Etienne,Dunkerque,2.0,0.0,H,0.0,0.0,D,1.67,3.75,5.0,1.68,4.12,5.02,1.67,3.87,4.77,1.78,2.1,1.75,2.03,-0.75,1.88,1.98,Saint-Etienne,Dunkerque,saint_etienne,dunkerque
+2023-10-07,F2,France-L2,2324,Concarneau,Dunkerque,4.0,3.0,H,1.0,2.0,A,2.3,3.25,3.0,2.4,3.33,3.16,2.32,3.22,3.06,2.1,1.7,2.13,1.68,-0.25,2.03,1.83,Concarneau,Dunkerque,concarneau,dunkerque
+2023-10-28,F2,France-L2,2324,Auxerre,Dunkerque,0.0,1.0,A,0.0,0.0,D,1.44,5.0,6.5,1.42,4.93,7.65,1.41,4.68,6.92,1.62,2.25,1.62,2.25,-1.25,1.98,1.88,AJ Auxerre,Dunkerque,aj_auxerre,dunkerque
+2023-11-11,F2,France-L2,2324,Valenciennes,Dunkerque,0.0,1.0,A,0.0,0.0,D,2.25,3.25,3.0,2.37,3.33,3.21,2.31,3.25,3.07,2.1,1.7,2.09,1.71,-0.25,2.0,1.85,Valenciennes,Dunkerque,valenciennes,dunkerque
+2023-12-02,F2,France-L2,2324,Pau FC,Dunkerque,1.0,1.0,D,1.0,0.0,H,2.25,3.2,3.3,2.3,3.45,3.25,2.24,3.32,3.15,2.0,1.85,1.94,1.83,-0.25,1.98,1.88,Pau FC,Dunkerque,pau_fc,dunkerque
+2023-12-16,F2,France-L2,2324,Caen,Dunkerque,1.0,0.0,H,1.0,0.0,H,1.8,3.5,4.0,1.87,3.75,4.28,1.83,3.56,4.13,2.05,1.8,2.01,1.77,-0.5,1.83,2.03,Caen,Dunkerque,caen,dunkerque
+2024-01-13,F2,France-L2,2324,Grenoble,Dunkerque,2.0,2.0,D,1.0,0.0,H,1.62,3.75,4.75,1.7,3.83,5.3,1.68,3.67,5.0,2.05,1.8,2.02,1.77,-0.75,1.9,1.95,Grenoble,Dunkerque,grenoble,dunkerque
+2024-01-27,F2,France-L2,2324,Paris FC,Dunkerque,1.0,2.0,A,0.0,1.0,A,1.75,3.5,5.0,1.79,3.7,4.87,1.78,3.54,4.46,2.05,1.8,1.97,1.81,-0.75,2.03,1.83,Paris FC,Dunkerque,paris_fc,dunkerque
+2024-02-10,F2,France-L2,2324,Rodez,Dunkerque,0.0,0.0,D,0.0,0.0,D,1.7,3.6,5.0,1.74,3.85,4.96,1.71,3.71,4.61,1.85,2.0,1.81,1.97,-0.75,1.93,1.93,Rodez,Dunkerque,rodez,dunkerque
+2024-02-24,F2,France-L2,2324,Troyes,Dunkerque,1.0,2.0,A,1.0,1.0,D,2.05,3.4,3.3,2.14,3.45,3.62,2.11,3.36,3.32,1.98,1.88,1.92,1.85,-0.25,1.85,2.0,Troyes,Dunkerque,troyes,dunkerque
+2024-03-16,F2,France-L2,2324,Laval,Dunkerque,1.0,2.0,A,0.0,2.0,A,1.95,3.2,4.2,2.1,3.31,3.93,2.01,3.16,3.9,2.5,1.5,2.48,1.52,-0.5,2.03,1.83,Laval,Dunkerque,laval,dunkerque
+2024-04-06,F2,France-L2,2324,Bastia,Dunkerque,1.0,1.0,D,1.0,0.0,H,2.05,3.25,3.8,2.11,3.17,3.99,2.09,3.17,3.66,2.3,1.6,2.3,1.59,-0.25,1.73,2.08,Bastia,Dunkerque,bastia,dunkerque
+2024-04-20,F2,France-L2,2324,Amiens,Dunkerque,0.0,1.0,A,0.0,0.0,D,2.05,3.25,3.5,2.09,3.25,3.94,2.06,3.23,3.62,2.15,1.67,2.13,1.69,-0.25,1.8,2.05,Amiens,Dunkerque,amiens,dunkerque
+2024-04-23,F2,France-L2,2324,Bordeaux,Dunkerque,2.0,0.0,H,1.0,0.0,H,1.67,3.6,5.0,1.72,3.52,5.64,1.71,3.57,4.92,1.93,1.93,1.88,1.89,-0.75,1.9,1.95,Bordeaux,Dunkerque,bordeaux,dunkerque
+2024-05-03,F2,France-L2,2324,Quevilly Rouen,Dunkerque,1.0,2.0,A,1.0,0.0,H,1.95,3.5,3.6,2.04,3.4,3.9,1.98,3.37,3.7,2.03,1.83,1.99,1.79,-0.5,2.03,1.83,Quevilly Rouen,Dunkerque,quevilly_rouen,dunkerque
+2024-05-17,F2,France-L2,2324,Angers,Dunkerque,0.0,0.0,D,0.0,0.0,D,1.42,4.5,6.5,1.41,4.99,6.87,1.43,4.66,6.57,1.6,2.3,1.6,2.29,-1.25,1.95,1.9,Angers,Dunkerque,angers,dunkerque
+2024-08-23,F2,France-L2,2425,Paris FC,Dunkerque,3.0,2.0,H,0.0,1.0,A,1.65,3.5,4.75,1.71,3.75,5.18,1.69,3.68,4.81,1.9,1.95,1.89,1.89,-0.75,1.9,1.95,Paris FC,Dunkerque,paris_fc,dunkerque
+2024-09-13,F2,France-L2,2425,Clermont,Dunkerque,0.0,1.0,A,0.0,0.0,D,1.95,3.0,3.9,2.0,3.3,4.14,1.98,3.28,3.86,2.08,1.73,2.07,1.73,-0.5,2.0,1.85,Clermont Foot,Dunkerque,clermont_foot,dunkerque
+2024-09-27,F2,France-L2,2425,Martigues,Dunkerque,1.0,1.0,D,1.0,0.0,H,3.25,2.9,2.3,3.33,3.06,2.43,3.22,3.03,2.33,2.25,1.62,2.29,1.6,0.25,1.85,2.0,Martigues,Dunkerque,martigues,dunkerque
+2024-10-18,F2,France-L2,2425,Laval,Dunkerque,3.0,2.0,H,3.0,0.0,H,2.1,3.1,3.3,2.22,3.25,3.56,2.16,3.19,3.4,2.25,1.62,2.23,1.63,-0.25,1.88,1.98,Laval,Dunkerque,laval,dunkerque
+2024-10-29,F2,France-L2,2425,Lorient,Dunkerque,4.0,2.0,H,1.0,2.0,A,1.42,4.5,6.25,1.47,4.61,6.85,1.44,4.5,6.48,1.62,2.25,1.61,2.27,-1.25,2.0,1.85,Lorient,Dunkerque,lorient,dunkerque
+2024-11-08,F2,France-L2,2425,Grenoble,Dunkerque,0.0,1.0,A,0.0,0.0,D,2.63,3.2,2.63,2.71,3.31,2.73,2.6,3.26,2.64,1.98,1.88,1.96,1.82,0.0,1.93,1.93,Grenoble,Dunkerque,grenoble,dunkerque
+2024-12-09,F2,France-L2,2425,Metz,Dunkerque,2.0,0.0,H,0.0,0.0,D,1.7,3.75,4.0,1.76,3.69,4.54,1.73,3.67,4.37,2.0,1.85,1.93,1.83,-0.75,2.03,1.83,Metz,Dunkerque,metz,dunkerque
+2025-01-04,F2,France-L2,2425,Guingamp,Dunkerque,1.0,1.0,D,0.0,0.0,D,2.0,3.5,3.4,2.08,3.41,3.69,2.03,3.41,3.48,2.0,1.85,1.95,1.82,-0.25,1.75,2.05,Guingamp,Dunkerque,guingamp,dunkerque
+2025-01-10,F2,France-L2,2425,Pau FC,Dunkerque,1.0,1.0,D,0.0,1.0,A,2.5,3.25,2.7,2.58,3.27,2.9,2.46,3.25,2.8,2.05,1.8,1.99,1.79,0.0,1.83,2.03,Pau FC,Dunkerque,pau_fc,dunkerque
+2025-01-27,F2,France-L2,2425,Annecy,Dunkerque,0.0,2.0,A,0.0,1.0,A,2.55,2.9,2.63,2.74,3.16,2.69,2.66,3.09,2.68,2.08,1.73,2.06,1.73,0.0,1.93,1.93,Annecy,Dunkerque,annecy,dunkerque
+2025-02-10,F2,France-L2,2425,Caen,Dunkerque,0.0,2.0,A,0.0,1.0,A,2.9,3.4,2.3,2.95,3.47,2.33,2.93,3.29,2.31,2.1,1.7,2.09,1.69,0.25,1.83,2.03,Caen,Dunkerque,caen,dunkerque
+2025-03-03,F2,France-L2,2425,Ajaccio,Dunkerque,1.0,2.0,A,0.0,1.0,A,3.4,2.9,2.3,3.56,2.87,2.35,3.41,2.88,2.27,2.7,1.44,2.64,1.44,0.25,1.88,1.98,Ajaccio,Dunkerque,ajaccio,dunkerque
+2025-03-10,F2,France-L2,2425,Rodez,Dunkerque,5.0,1.0,H,0.0,1.0,A,2.45,3.4,2.8,2.45,3.31,2.91,2.42,3.25,2.81,2.0,1.85,1.97,1.78,0.0,1.8,2.05,Rodez,Dunkerque,rodez,dunkerque
+2025-03-28,F2,France-L2,2425,Bastia,Dunkerque,2.0,0.0,H,1.0,0.0,H,2.05,3.1,3.4,2.2,3.02,3.69,2.16,3.09,3.5,2.35,1.57,2.38,1.55,-0.25,1.85,2.0,Bastia,Dunkerque,bastia,dunkerque
+2025-04-11,F2,France-L2,2425,Amiens,Dunkerque,1.0,0.0,H,0.0,0.0,D,3.75,3.5,1.83,4.2,3.62,1.9,3.99,3.56,1.87,1.95,1.85,1.91,1.87,0.5,1.95,1.9,Amiens,Dunkerque,amiens,dunkerque
+2025-04-25,F2,France-L2,2425,Troyes,Dunkerque,1.0,0.0,H,1.0,0.0,H,2.7,3.0,2.75,2.74,3.19,2.78,2.62,3.14,2.73,2.15,1.67,2.15,1.68,0.0,1.93,1.93,Troyes,Dunkerque,troyes,dunkerque
+2025-05-10,F2,France-L2,2425,Red Star,Dunkerque,1.0,1.0,D,1.0,1.0,D,4.0,3.2,2.0,3.86,3.28,1.98,3.63,3.36,2.01,1.7,2.1,1.69,2.11,0.5,1.85,2.0,Red Star,Dunkerque,red_star,dunkerque
+2025-08-16,F2,France-L2,2526,Annecy,Dunkerque,2.0,2.0,D,2.0,1.0,H,2.8,3.25,2.2,3.12,3.28,2.33,2.97,3.19,2.28,2.2,1.65,2.16,1.62,0.25,1.8,2.0,Annecy,Dunkerque,annecy,dunkerque
+2025-09-13,F2,France-L2,2526,Grenoble,Dunkerque,1.0,0.0,H,1.0,0.0,H,2.7,3.3,2.4,2.92,3.27,2.46,2.75,3.2,2.43,2.08,1.73,2.01,1.73,0.0,2.03,1.78,Grenoble,Dunkerque,grenoble,dunkerque
+2025-09-23,F2,France-L2,2526,Guingamp,Dunkerque,2.0,1.0,H,2.0,1.0,H,2.45,3.4,2.6,2.57,3.42,2.79,2.43,3.34,2.69,1.9,1.9,1.84,1.87,0.0,1.83,1.98,Guingamp,Dunkerque,guingamp,dunkerque
+2025-10-03,F2,France-L2,2526,Bastia,Dunkerque,0.0,0.0,D,0.0,0.0,D,2.25,3.2,3.1,2.31,3.24,3.36,2.24,3.17,3.1,2.15,1.67,2.15,1.64,-0.25,2.0,1.8,Bastia,Dunkerque,bastia,dunkerque
+2025-10-24,F2,France-L2,2526,Pau FC,Dunkerque,0.0,3.0,A,0.0,2.0,A,2.15,3.5,3.2,2.1,3.57,3.33,2.11,3.35,3.21,1.9,1.9,1.88,1.84,-0.25,1.85,1.95,Pau FC,Dunkerque,pau_fc,dunkerque
+2025-11-01,F2,France-L2,2526,Reims,Dunkerque,1.0,2.0,A,1.0,1.0,D,2.1,3.2,3.6,,,,2.05,3.35,3.32,1.95,1.85,1.9,1.83,-0.25,1.8,2.0,Stade de Reims,Dunkerque,stade_de_reims,dunkerque
+2025-11-21,F2,France-L2,2526,Rodez,Dunkerque,1.0,1.0,D,0.0,1.0,A,2.55,3.1,2.55,,,,2.63,3.17,2.57,2.05,1.75,1.99,1.74,0.0,1.88,1.93,Rodez,Dunkerque,rodez,dunkerque
+2025-12-12,F2,France-L2,2526,Laval,Dunkerque,1.0,2.0,A,1.0,1.0,D,3.2,3.0,2.15,,,,3.14,3.06,2.27,2.4,1.53,2.24,1.58,0.25,1.9,1.9,Laval,Dunkerque,laval,dunkerque
+2026-01-05,F2,France-L2,2526,Montpellier,Dunkerque,1.0,3.0,A,0.0,1.0,A,2.25,3.2,3.0,,,,2.29,3.17,2.97,2.1,1.7,2.06,1.68,-0.25,2.0,1.8,Montpellier,Dunkerque,montpellier,dunkerque
+2026-01-26,F2,France-L2,2526,Le Mans,Dunkerque,1.0,0.0,H,0.0,0.0,D,2.4,3.0,2.88,,,,2.5,3.01,2.84,2.3,1.6,2.24,1.59,0.0,1.78,2.03,Le Mans,Dunkerque,le_mans,dunkerque
+2026-02-13,F2,France-L2,2526,Amiens,Dunkerque,1.0,4.0,A,0.0,1.0,A,3.9,3.4,1.83,,,,3.96,3.43,1.85,2.0,1.8,1.93,1.78,0.5,1.95,1.85,Amiens,Dunkerque,amiens,dunkerque
+2026-02-27,F2,France-L2,2526,Clermont,Dunkerque,2.0,1.0,H,0.0,1.0,A,2.8,2.9,2.55,,,,2.84,3.05,2.45,2.05,1.75,1.98,1.75,0.0,2.0,1.8,Clermont Foot,Dunkerque,clermont_foot,dunkerque
+2026-03-14,F2,France-L2,2526,Red Star,Dunkerque,1.0,0.0,H,1.0,0.0,H,2.25,3.1,2.88,,,,2.35,3.16,2.89,2.15,1.67,2.08,1.67,-0.25,2.03,1.78,Red Star,Dunkerque,red_star,dunkerque
+2026-03-21,F2,France-L2,2526,Troyes,Dunkerque,5.0,1.0,H,2.0,1.0,H,1.83,3.3,3.75,,,,1.89,3.37,3.77,1.9,1.9,1.86,1.85,-0.5,1.9,1.9,Troyes,Dunkerque,troyes,dunkerque
+2026-04-11,F2,France-L2,2526,St Etienne,Dunkerque,2.0,1.0,H,1.0,1.0,D,1.62,3.6,4.5,,,,1.63,3.89,4.53,1.67,2.15,1.64,2.14,-0.75,1.83,1.98,Saint-Etienne,Dunkerque,saint_etienne,dunkerque
+2026-04-27,F2,France-L2,2526,Boulogne,Dunkerque,2.0,6.0,A,1.0,2.0,A,2.7,3.0,2.45,,,,2.72,3.08,2.47,2.15,1.67,2.09,1.67,0.0,2.0,1.8,Boulogne,Dunkerque,boulogne,dunkerque
+2026-05-09,F2,France-L2,2526,Nancy,Dunkerque,3.0,2.0,H,2.0,0.0,H,2.63,3.1,2.4,,,,2.62,3.43,2.38,1.75,2.05,1.7,2.04,0.0,2.0,1.8,Nancy,Dunkerque,nancy,dunkerque
+2026-08-14,F2,France-L2,2627,Reims,Dunkerque,3.0,3.0,D,1.0,1.0,D,1.8,3.6,4.33,,,,1.75,3.6,4.25,1.85,1.95,1.8,1.92,-0.5,1.78,2.03,Stade de Reims,Dunkerque,stade_de_reims,dunkerque
+2026-08-28,F2,France-L2,2627,Nancy,Dunkerque,2.0,0.0,H,1.0,0.0,H,2.38,3.1,2.63,,,,2.43,3.31,2.69,1.85,1.95,1.81,1.9,0.0,1.8,2.0,Nancy,Dunkerque,nancy,dunkerque
+2026-09-18,F2,France-L2,2627,Pau FC,Dunkerque,2.0,0.0,H,0.0,0.0,D,2.15,3.1,3.0,,,,2.23,3.32,2.96,1.85,1.95,1.79,1.94,-0.25,1.95,1.85,Pau FC,Dunkerque,pau_fc,dunkerque
+2026-10-17,F2,France-L2,2627,Nantes,Dunkerque,2.0,3.0,A,1.0,2.0,A,1.6,3.5,5.0,,,,1.63,3.76,4.68,1.75,2.05,1.72,2.0,-0.75,1.85,1.95,FC Nantes,Dunkerque,fc_nantes,dunkerque

@@ -1,0 +1,60 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,T1,Turkey-SL,2122,Antalyaspor,Goztep,1.0,1.0,D,1.0,0.0,H,2.3,3.3,2.8,2.44,3.37,3.06,2.38,3.31,2.94,2.02,1.83,2.01,1.81,-0.25,2.05,1.8,Antalyaspor,Goztep,antalyaspor,goztep
+2021-08-29,T1,Turkey-SL,2122,Sivasspor,Goztep,2.0,2.0,D,1.0,0.0,H,2.0,3.5,3.6,2.14,3.39,3.7,2.09,3.36,3.54,2.0,1.8,2.0,1.81,-0.25,1.8,2.05,Sivasspor,Goztep,sivasspor,goztep
+2021-09-17,T1,Turkey-SL,2122,Altay,Goztep,2.0,1.0,H,0.0,1.0,A,2.2,3.4,3.2,2.31,3.39,3.34,2.25,3.34,3.2,2.0,1.8,2.02,1.8,-0.25,1.98,1.88,Altay,Goztep,altay,goztep
+2021-09-26,T1,Turkey-SL,2122,Galatasaray,Goztep,2.0,1.0,H,0.0,1.0,A,1.53,4.2,6.0,1.52,4.54,6.48,1.51,4.31,6.06,1.7,2.1,1.72,2.12,-1.0,1.88,1.98,Galatasaray,Goztep,galatasaray,goztep
+2021-10-17,T1,Turkey-SL,2122,Kasimpasa,Goztep,1.0,2.0,A,0.0,0.0,D,2.15,3.2,3.2,2.36,3.49,3.1,2.3,3.37,3.01,1.95,1.85,1.93,1.88,-0.25,2.0,1.85,Kasimpasa,Goztep,kasimpasa,goztep
+2021-10-31,T1,Turkey-SL,2122,Alanyaspor,Goztep,2.0,2.0,D,1.0,0.0,H,1.65,3.8,5.0,1.7,4.12,5.0,1.68,3.91,4.65,1.65,2.2,1.67,2.18,-0.75,1.88,1.98,Alanyaspor,Goztep,alanyaspor,goztep
+2021-11-22,T1,Turkey-SL,2122,Kayserispor,Goztep,1.0,1.0,D,1.0,0.0,H,2.37,3.3,2.87,2.54,3.48,2.84,2.47,3.38,2.75,1.9,1.95,1.88,1.91,0.0,1.83,2.02,Kayserispor,Goztep,kayserispor,goztep
+2021-12-11,T1,Turkey-SL,2122,Rizespor,Goztep,3.0,1.0,H,1.0,0.0,H,2.45,3.5,2.7,2.6,3.56,2.77,2.51,3.4,2.7,1.85,2.0,1.84,1.96,0.0,1.85,2.0,Caykur Rizespor,Goztep,caykur_rizespor,goztep
+2021-12-23,T1,Turkey-SL,2122,Besiktas,Goztep,2.0,1.0,H,1.0,1.0,D,1.6,4.0,4.75,1.64,4.35,5.26,1.62,4.11,4.98,1.66,2.15,1.64,2.23,-1.0,2.05,1.75,Besiktas,Goztep,besiktas,goztep
+2022-01-14,T1,Turkey-SL,2122,Yeni Malatyaspor,Goztep,1.0,2.0,A,1.0,1.0,D,3.25,3.25,2.25,3.3,3.41,2.32,3.16,3.3,2.27,2.02,1.83,2.0,1.81,0.25,1.9,1.95,Yeni Malatyaspor,Goztep,yeni_malatyaspor,goztep
+2022-01-22,T1,Turkey-SL,2122,Buyuksehyr,Goztep,1.0,2.0,A,0.0,1.0,A,1.95,3.3,4.0,1.93,3.51,4.4,1.9,3.43,4.09,1.95,1.9,1.93,1.87,-0.5,1.9,1.95,Buyuksehyr,Goztep,buyuksehyr,goztep
+2022-02-14,T1,Turkey-SL,2122,Hatayspor,Goztep,2.0,1.0,H,2.0,0.0,H,2.45,3.25,2.75,2.64,3.22,2.92,2.5,3.24,2.82,1.9,1.95,1.86,1.94,0.0,1.8,2.05,Hatayspor,Goztep,hatayspor,goztep
+2022-02-27,T1,Turkey-SL,2122,Giresunspor,Goztep,3.0,1.0,H,1.0,0.0,H,2.3,3.1,2.9,2.52,3.13,3.21,2.42,3.16,3.03,2.1,1.7,2.13,1.7,-0.25,2.05,1.8,Giresunspor,Goztep,giresunspor,goztep
+2022-03-12,T1,Turkey-SL,2122,Trabzonspor,Goztep,4.0,2.0,H,2.0,2.0,D,1.57,3.75,5.0,1.62,4.31,5.49,1.61,4.03,5.23,1.83,2.02,1.74,2.09,-1.0,2.02,1.77,Trabzonspor,Goztep,trabzonspor,goztep
+2022-04-03,T1,Turkey-SL,2122,Konyaspor,Goztep,3.0,0.0,H,2.0,0.0,H,1.8,3.5,3.6,1.83,3.81,4.55,1.85,3.66,4.11,1.75,2.05,1.77,2.05,-0.5,1.85,2.0,Konyaspor,Goztep,konyaspor,goztep
+2022-04-16,T1,Turkey-SL,2122,Fenerbahce,Goztep,2.0,0.0,H,1.0,0.0,H,1.33,4.75,8.0,1.41,4.96,8.18,1.38,4.81,7.84,1.65,2.2,1.63,2.25,-1.25,1.75,2.05,Fenerbahce,Goztep,fenerbahce,goztep
+2022-04-23,T1,Turkey-SL,2122,Gaziantep,Goztep,1.0,1.0,D,0.0,0.0,D,1.8,3.6,4.2,1.88,3.94,4.13,1.85,3.77,3.96,1.7,2.1,1.69,2.15,-0.5,1.83,2.02,Gaziantep,Goztep,gaziantep,goztep
+2022-05-07,T1,Turkey-SL,2122,Karagumruk,Goztep,3.0,1.0,H,1.0,0.0,H,1.53,3.75,5.0,1.6,4.58,5.39,1.59,4.33,5.03,1.57,2.35,1.57,2.38,-1.0,1.93,1.93,Karagumruk,Goztep,karagumruk,goztep
+2022-05-22,T1,Turkey-SL,2122,Ad. Demirspor,Goztep,7.0,0.0,H,5.0,0.0,H,1.4,5.0,6.0,1.44,5.25,6.83,1.41,5.09,6.41,1.36,3.1,1.38,2.95,-1.25,1.88,1.98,Ad. Demirspor,Goztep,ad_demirspor,goztep
+2024-08-10,T1,Turkey-SL,2425,Antalyaspor,Goztep,0.0,0.0,D,0.0,0.0,D,1.95,3.7,3.6,2.03,3.58,3.6,1.99,3.62,3.56,1.73,2.08,1.75,2.06,-0.5,2.0,1.85,Antalyaspor,Goztep,antalyaspor,goztep
+2024-08-23,T1,Turkey-SL,2425,Alanyaspor,Goztep,1.0,1.0,D,0.0,1.0,A,1.91,3.4,4.0,1.98,3.37,4.27,1.96,3.37,3.93,2.05,1.75,2.04,1.77,-0.5,1.95,1.9,Alanyaspor,Goztep,alanyaspor,goztep
+2024-09-28,T1,Turkey-SL,2425,Samsunspor,Goztep,4.0,3.0,H,1.0,2.0,A,1.95,3.3,3.9,2.01,3.28,4.23,1.96,3.32,4.01,2.15,1.67,2.19,1.66,-0.5,1.98,1.88,Samsunspor,Goztep,samsunspor,goztep
+2024-10-19,T1,Turkey-SL,2425,Eyupspor,Goztep,1.0,0.0,H,1.0,0.0,H,2.15,3.5,3.2,2.17,3.42,3.36,2.15,3.43,3.29,1.93,1.93,1.9,1.89,-0.25,1.82,1.92,Eyupspor,Goztep,eyupspor,goztep
+2024-11-01,T1,Turkey-SL,2425,Gaziantep,Goztep,2.0,1.0,H,0.0,0.0,D,2.45,3.5,2.75,2.51,3.49,2.87,2.46,3.4,2.79,1.95,1.9,1.93,1.87,0.0,1.8,2.05,Gaziantep,Goztep,gaziantep,goztep
+2024-11-24,T1,Turkey-SL,2425,Besiktas,Goztep,2.0,4.0,A,2.0,2.0,D,1.48,4.33,6.25,1.46,4.4,5.75,1.47,4.49,6.04,1.67,2.15,1.65,2.18,-1.0,1.75,2.05,Besiktas,Goztep,besiktas,goztep
+2024-11-30,T1,Turkey-SL,2425,Buyuksehyr,Goztep,4.0,1.0,H,4.0,0.0,H,2.38,3.25,3.0,2.42,3.09,3.19,2.36,3.23,3.07,2.0,1.85,1.97,1.82,-0.25,2.05,1.8,Buyuksehyr,Goztep,buyuksehyr,goztep
+2024-12-15,T1,Turkey-SL,2425,Hatayspor,Goztep,1.0,1.0,D,0.0,1.0,A,2.9,3.4,2.35,3.03,3.41,2.35,2.93,3.41,2.34,1.98,1.88,1.95,1.84,0.25,1.8,2.05,Hatayspor,Goztep,hatayspor,goztep
+2025-01-04,T1,Turkey-SL,2425,Galatasaray,Goztep,2.0,1.0,H,1.0,1.0,D,1.33,5.5,7.0,1.31,5.95,7.85,1.31,5.7,8.0,1.36,3.1,1.34,3.08,-1.5,1.88,1.98,Galatasaray,Goztep,galatasaray,goztep
+2025-01-26,T1,Turkey-SL,2425,Fenerbahce,Goztep,3.0,2.0,H,0.0,1.0,A,1.4,4.75,7.0,1.39,5.02,7.32,1.37,4.98,7.35,1.57,2.35,1.54,2.38,-1.25,1.85,2.0,Fenerbahce,Goztep,fenerbahce,goztep
+2025-02-10,T1,Turkey-SL,2425,Bodrumspor,Goztep,0.0,0.0,D,0.0,0.0,D,3.1,3.1,2.15,3.25,3.45,2.21,3.17,3.36,2.21,2.05,1.8,2.03,1.78,0.25,1.7,2.1,Bodrumspor,Goztep,bodrumspor,goztep
+2025-02-23,T1,Turkey-SL,2425,Kayserispor,Goztep,1.0,0.0,H,1.0,0.0,H,3.3,3.25,2.2,3.0,3.6,2.15,3.15,3.53,2.15,1.9,1.95,1.85,1.94,0.25,1.95,1.9,Kayserispor,Goztep,kayserispor,goztep
+2025-03-09,T1,Turkey-SL,2425,Sivasspor,Goztep,3.0,1.0,H,0.0,1.0,A,3.7,3.3,2.0,3.92,3.26,2.04,3.73,3.31,2.03,2.08,1.73,2.07,1.74,0.5,1.74,1.99,Sivasspor,Goztep,sivasspor,goztep
+2025-03-29,T1,Turkey-SL,2425,Trabzonspor,Goztep,1.0,1.0,D,1.0,1.0,D,2.05,3.4,3.3,2.06,3.51,3.7,2.07,3.47,3.47,1.88,1.98,1.84,1.96,-0.5,2.05,1.75,Trabzonspor,Goztep,trabzonspor,goztep
+2025-04-12,T1,Turkey-SL,2425,Konyaspor,Goztep,1.0,0.0,H,1.0,0.0,H,2.63,3.2,2.7,2.58,3.34,2.57,2.62,3.32,2.59,2.08,1.73,2.04,1.75,0.0,1.9,1.95,Konyaspor,Goztep,konyaspor,goztep
+2025-05-04,T1,Turkey-SL,2425,Ad. Demirspor,Goztep,1.0,2.0,A,1.0,2.0,A,11.0,6.0,1.17,8.78,6.32,1.22,11.09,6.41,1.21,1.47,2.5,1.46,2.55,2.0,1.75,2.05,Ad. Demirspor,Goztep,ad_demirspor,goztep
+2025-05-18,T1,Turkey-SL,2425,Rizespor,Goztep,6.0,3.0,H,2.0,2.0,D,1.91,3.7,3.5,1.95,3.72,3.62,1.94,3.74,3.53,1.62,2.25,1.62,2.25,-0.5,1.95,1.85,Caykur Rizespor,Goztep,caykur_rizespor,goztep
+2025-05-30,T1,Turkey-SL,2425,Kasimpasa,Goztep,1.0,2.0,A,0.0,1.0,A,2.2,3.9,2.88,2.21,3.86,2.94,2.2,3.84,2.89,1.4,2.88,1.39,2.86,-0.25,1.95,1.85,Kasimpasa,Goztep,kasimpasa,goztep
+2025-08-10,T1,Turkey-SL,2526,Rizespor,Goztep,0.0,3.0,A,0.0,0.0,D,1.95,3.5,3.3,2.18,3.51,3.26,2.11,3.55,3.05,1.8,2.0,1.74,2.0,-0.25,1.85,1.95,Caykur Rizespor,Goztep,caykur_rizespor,goztep
+2025-08-22,T1,Turkey-SL,2526,Karagumruk,Goztep,0.0,2.0,A,0.0,1.0,A,3.3,3.3,2.0,3.59,3.41,2.16,3.31,3.3,2.08,2.1,1.7,2.01,1.73,0.25,2.03,1.78,Karagumruk,Goztep,karagumruk,goztep
+2025-09-14,T1,Turkey-SL,2526,Kayserispor,Goztep,1.0,1.0,D,0.0,0.0,D,3.4,3.2,2.15,3.57,3.2,2.19,3.29,3.24,2.15,2.0,1.8,1.95,1.79,0.25,1.95,1.85,Kayserispor,Goztep,kayserispor,goztep
+2025-09-27,T1,Turkey-SL,2526,Eyupspor,Goztep,0.0,0.0,D,0.0,0.0,D,4.33,3.6,1.79,4.15,3.69,1.85,4.07,3.59,1.81,1.95,1.85,1.89,1.84,0.5,1.98,1.83,Eyupspor,Goztep,eyupspor,goztep
+2025-10-19,T1,Turkey-SL,2526,Alanyaspor,Goztep,1.0,0.0,H,0.0,0.0,D,2.95,3.05,2.35,2.91,3.25,2.52,2.86,3.18,2.39,2.2,1.65,2.18,1.62,0.25,1.7,2.1,Alanyaspor,Goztep,alanyaspor,goztep
+2025-10-26,T1,Turkey-SL,2526,Galatasaray,Goztep,3.0,1.0,H,1.0,1.0,D,1.37,5.0,6.5,1.4,4.89,7.29,1.42,4.55,6.58,1.6,2.3,1.59,2.23,-1.25,1.9,1.9,Galatasaray,Goztep,galatasaray,goztep
+2025-11-08,T1,Turkey-SL,2526,Kasimpasa,Goztep,0.0,2.0,A,0.0,0.0,D,3.7,3.05,2.05,,,,3.32,3.32,2.1,2.08,1.73,1.99,1.74,0.25,2.0,1.8,Kasimpasa,Goztep,kasimpasa,goztep
+2025-11-30,T1,Turkey-SL,2526,Antalyaspor,Goztep,1.0,2.0,A,1.0,0.0,H,3.9,3.2,1.96,3.95,3.29,2.02,3.82,3.2,1.98,2.25,1.62,2.23,1.59,0.5,1.8,2.0,Antalyaspor,Goztep,antalyaspor,goztep
+2025-12-14,T1,Turkey-SL,2526,Gaziantep,Goztep,0.0,1.0,A,0.0,0.0,D,3.05,3.3,2.25,3.09,3.35,2.34,2.94,3.27,2.32,1.93,1.88,1.92,1.79,0.25,1.83,1.98,Gaziantep,Goztep,gaziantep,goztep
+2026-01-25,T1,Turkey-SL,2526,Fenerbahce,Goztep,1.0,1.0,D,1.0,1.0,D,1.41,4.33,7.0,,,,1.4,4.31,7.2,1.85,1.95,1.81,1.89,-1.25,2.0,1.8,Fenerbahce,Goztep,fenerbahce,goztep
+2026-02-08,T1,Turkey-SL,2526,Konyaspor,Goztep,0.0,0.0,D,0.0,0.0,D,2.7,3.2,2.55,,,,2.69,3.12,2.52,2.15,1.67,2.12,1.65,0.0,1.95,1.85,Konyaspor,Goztep,konyaspor,goztep
+2026-02-22,T1,Turkey-SL,2526,Besiktas,Goztep,4.0,0.0,H,2.0,0.0,H,1.68,3.6,4.75,,,,1.72,3.62,4.37,1.85,1.95,1.8,1.91,-0.75,1.95,1.85,Besiktas,Goztep,besiktas,goztep
+2026-03-07,T1,Turkey-SL,2526,Buyuksehyr,Goztep,2.0,1.0,H,1.0,1.0,D,1.86,3.3,4.2,,,,1.87,3.39,3.88,2.0,1.8,1.93,1.79,-0.5,1.9,1.9,Buyuksehyr,Goztep,buyuksehyr,goztep
+2026-04-04,T1,Turkey-SL,2526,Genclerbirligi,Goztep,0.0,2.0,A,0.0,1.0,A,3.25,3.2,2.2,,,,3.09,3.11,2.26,2.25,1.62,2.2,1.61,0.25,1.85,1.95,Genclerbirligi,Goztep,genclerbirligi,goztep
+2026-04-18,T1,Turkey-SL,2526,Kocaelispor,Goztep,1.0,1.0,D,0.0,1.0,A,2.75,3.0,2.65,,,,2.67,2.95,2.67,2.5,1.5,2.45,1.5,0.0,1.95,1.85,Kocaelispor,Goztep,kocaelispor,goztep
+2026-05-02,T1,Turkey-SL,2526,Trabzonspor,Goztep,1.0,1.0,D,0.0,1.0,A,1.76,3.75,4.2,,,,1.76,3.63,4.06,1.8,2.0,1.76,1.97,-0.5,1.75,2.05,Trabzonspor,Goztep,trabzonspor,goztep
+2026-05-16,T1,Turkey-SL,2526,Samsunspor,Goztep,3.0,0.0,H,1.0,0.0,H,2.4,3.5,2.7,,,,2.32,3.45,2.72,1.73,2.08,1.72,2.0,-0.25,2.08,1.73,Samsunspor,Goztep,samsunspor,goztep
+2026-08-17,T1,Turkey-SL,2627,Samsunspor,Goztep,3.0,3.0,D,2.0,1.0,H,2.1,3.3,3.4,,,,2.11,3.26,3.26,2.08,1.73,2.02,1.71,-0.25,1.85,1.95,Samsunspor,Goztep,samsunspor,goztep
+2026-08-29,T1,Turkey-SL,2627,Galatasaray,Goztep,3.0,2.0,H,1.0,1.0,D,1.33,4.75,8.0,,,,1.37,4.59,6.9,1.65,2.2,1.61,2.2,-1.25,1.9,1.9,Galatasaray,Goztep,galatasaray,goztep
+2026-09-12,T1,Turkey-SL,2627,Alanyaspor,Goztep,2.0,2.0,D,0.0,1.0,A,2.1,3.4,3.1,,,,2.14,3.34,3.1,1.95,1.85,1.92,1.81,-0.25,1.85,1.95,Alanyaspor,Goztep,alanyaspor,goztep
+2026-10-12,T1,Turkey-SL,2627,Eyupspor,Goztep,0.0,4.0,A,0.0,1.0,A,3.7,3.5,1.86,,,,3.56,3.59,1.89,1.73,2.08,1.7,2.05,0.5,1.9,1.9,Eyupspor,Goztep,eyupspor,goztep
+2026-10-18,T1,Turkey-SL,2627,Kocaelispor,Goztep,1.0,2.0,A,0.0,1.0,A,2.7,3.3,2.35,,,,2.81,3.36,2.3,1.9,1.9,1.85,1.85,0.25,1.8,2.0,Kocaelispor,Goztep,kocaelispor,goztep

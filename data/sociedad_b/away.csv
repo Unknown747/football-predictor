@@ -1,0 +1,48 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-21,SP2,Spain-Segunda,2122,Lugo,Sociedad B,0.0,0.0,D,0.0,0.0,D,2.5,2.9,3.1,2.64,2.97,3.15,2.51,2.95,3.01,2.4,1.53,2.47,1.52,0.0,1.75,2.13,Lugo,Sociedad B,lugo,sociedad_b
+2021-09-04,SP2,Spain-Segunda,2122,Cartagena,Sociedad B,1.0,0.0,H,0.0,0.0,D,2.25,2.9,3.6,2.35,2.8,3.98,2.3,2.8,3.64,2.7,1.44,2.67,1.46,-0.25,1.95,1.9,Cartagena,Sociedad B,cartagena,sociedad_b
+2021-09-18,SP2,Spain-Segunda,2122,Zaragoza,Sociedad B,1.0,1.0,D,1.0,1.0,D,1.9,3.2,4.33,1.95,3.22,4.62,1.96,3.13,4.23,2.6,1.47,2.62,1.46,-0.5,1.93,1.93,Zaragoza,Sociedad B,zaragoza,sociedad_b
+2021-10-02,SP2,Spain-Segunda,2122,Alcorcon,Sociedad B,1.0,4.0,A,1.0,2.0,A,2.25,3.0,3.6,2.3,2.98,3.72,2.24,2.98,3.48,2.5,1.5,2.56,1.49,-0.25,1.9,1.95,Alcorcon,Sociedad B,alcorcon,sociedad_b
+2021-10-21,SP2,Spain-Segunda,2122,Almeria,Sociedad B,3.0,1.0,H,1.0,1.0,D,1.5,4.0,7.5,1.51,4.13,7.24,1.51,3.96,6.43,2.0,1.8,1.96,1.83,-1.0,1.95,1.9,Almeria,Sociedad B,almeria,sociedad_b
+2021-10-24,SP2,Spain-Segunda,2122,Amorebieta,Sociedad B,1.0,2.0,A,0.0,1.0,A,2.6,3.0,2.9,2.73,3.11,2.85,2.6,3.05,2.78,2.25,1.61,2.25,1.62,0.0,1.83,2.02,Amorebieta,Sociedad B,amorebieta,sociedad_b
+2021-11-04,SP2,Spain-Segunda,2122,Malaga,Sociedad B,2.0,1.0,H,2.0,1.0,H,1.72,3.4,5.25,1.69,3.5,6.05,1.69,3.41,5.29,2.25,1.61,2.29,1.6,-0.75,1.93,1.93,Malaga,Sociedad B,malaga,sociedad_b
+2021-11-12,SP2,Spain-Segunda,2122,Sp Gijon,Sociedad B,0.0,1.0,A,0.0,0.0,D,1.72,3.4,5.25,1.8,3.48,5.33,1.77,3.37,4.95,2.15,1.66,2.17,1.68,-0.75,2.02,1.83,Sp Gijon,Sociedad B,sp_gijon,sociedad_b
+2021-11-28,SP2,Spain-Segunda,2122,Tenerife,Sociedad B,2.0,0.0,H,1.0,0.0,H,1.66,3.4,6.5,1.68,3.55,5.99,1.7,3.39,5.42,2.4,1.53,2.4,1.55,-0.75,1.88,1.98,Tenerife,Sociedad B,tenerife,sociedad_b
+2021-12-13,SP2,Spain-Segunda,2122,Mirandes,Sociedad B,2.0,0.0,H,0.0,0.0,D,2.15,3.25,3.6,2.16,3.24,3.74,2.14,3.17,3.5,2.35,1.57,2.41,1.55,-0.25,1.85,2.0,Mirandes,Sociedad B,mirandes,sociedad_b
+2021-12-31,SP2,Spain-Segunda,2122,Eibar,Sociedad B,3.0,2.0,H,2.0,0.0,H,1.53,4.2,6.5,1.53,4.31,6.86,1.52,4.08,6.13,1.8,2.05,1.82,1.97,-1.0,1.88,1.98,Eibar,Sociedad B,eibar,sociedad_b
+2022-01-08,SP2,Spain-Segunda,2122,Leganes,Sociedad B,1.0,1.0,D,0.0,0.0,D,1.7,3.6,5.25,1.74,3.37,5.89,1.75,3.3,5.19,2.3,1.6,2.31,1.59,-0.75,1.98,1.88,Leganes,Sociedad B,leganes,sociedad_b
+2022-01-30,SP2,Spain-Segunda,2122,Las Palmas,Sociedad B,0.0,0.0,D,0.0,0.0,D,1.6,3.6,6.5,1.62,3.72,6.38,1.57,3.76,5.89,2.1,1.7,2.07,1.73,-1.0,2.1,1.77,Las Palmas,Sociedad B,las_palmas,sociedad_b
+2022-02-14,SP2,Spain-Segunda,2122,Ponferradina,Sociedad B,3.0,2.0,H,1.0,0.0,H,1.83,3.3,4.75,1.9,3.27,4.77,1.87,3.26,4.31,2.15,1.66,2.18,1.65,-0.5,1.88,1.98,Ponferradina,Sociedad B,ponferradina,sociedad_b
+2022-02-26,SP2,Spain-Segunda,2122,Oviedo,Sociedad B,0.0,1.0,A,0.0,0.0,D,1.75,3.5,5.0,1.78,3.43,5.32,1.76,3.4,4.83,2.25,1.61,2.26,1.61,-0.75,2.0,1.85,Real Oviedo,Sociedad B,real_oviedo,sociedad_b
+2022-03-13,SP2,Spain-Segunda,2122,Burgos,Sociedad B,0.0,0.0,D,0.0,0.0,D,2.2,3.1,3.6,2.23,3.01,3.85,2.18,3.02,3.57,2.4,1.53,2.38,1.55,-0.25,1.85,2.0,Burgos,Sociedad B,burgos,sociedad_b
+2022-03-26,SP2,Spain-Segunda,2122,Ibiza,Sociedad B,2.0,2.0,D,1.0,1.0,D,1.75,3.5,5.25,1.78,3.63,5.22,1.75,3.53,4.76,2.1,1.7,2.09,1.72,-0.75,1.98,1.88,Ibiza,Sociedad B,ibiza,sociedad_b
+2022-04-18,SP2,Spain-Segunda,2122,Girona,Sociedad B,2.0,0.0,H,0.0,0.0,D,1.61,3.8,6.0,1.61,3.9,6.06,1.59,3.76,5.64,2.02,1.83,1.95,1.82,-1.0,2.05,1.75,Girona,Sociedad B,girona,sociedad_b
+2022-05-02,SP2,Spain-Segunda,2122,Valladolid,Sociedad B,1.0,2.0,A,0.0,0.0,D,1.36,4.75,8.5,1.38,5.0,8.51,1.36,4.79,8.0,1.61,2.25,1.63,2.22,-1.5,2.02,1.77,Real Valladolid,Sociedad B,real_valladolid,sociedad_b
+2022-05-07,SP2,Spain-Segunda,2122,Fuenlabrada,Sociedad B,1.0,2.0,A,1.0,0.0,H,2.55,3.2,2.8,2.63,3.29,2.83,2.51,3.22,2.78,2.0,1.85,1.97,1.81,0.0,1.8,2.05,Fuenlabrada,Sociedad B,fuenlabrada,sociedad_b
+2022-05-21,SP2,Spain-Segunda,2122,Huesca,Sociedad B,3.0,2.0,H,2.0,0.0,H,2.87,3.5,2.37,2.87,3.45,2.5,2.88,3.43,2.33,1.95,1.9,1.9,1.88,0.25,1.75,2.05,Huesca,Sociedad B,huesca,sociedad_b
+2025-08-24,SP2,Spain-Segunda,2526,Malaga,Sociedad B,1.0,0.0,H,0.0,0.0,D,1.85,3.4,4.33,,,,1.83,3.37,4.08,2.1,1.7,2.07,1.68,-0.5,1.85,1.95,Malaga,Sociedad B,malaga,sociedad_b
+2025-09-12,SP2,Spain-Segunda,2526,Las Palmas,Sociedad B,2.0,1.0,H,1.0,0.0,H,1.53,3.9,5.75,1.58,4.01,6.37,1.53,3.83,5.64,2.0,1.8,1.93,1.79,-1.0,2.03,1.78,Las Palmas,Sociedad B,las_palmas,sociedad_b
+2025-09-21,SP2,Spain-Segunda,2526,Eibar,Sociedad B,2.0,1.0,H,1.0,0.0,H,1.57,3.75,5.75,1.6,3.83,5.98,1.58,3.57,5.61,2.2,1.65,2.18,1.62,-0.75,1.78,2.03,Eibar,Sociedad B,eibar,sociedad_b
+2025-10-04,SP2,Spain-Segunda,2526,Granada,Sociedad B,5.0,2.0,H,5.0,1.0,H,1.68,3.8,4.5,1.75,3.89,4.44,1.68,3.59,4.64,2.05,1.75,2.01,1.72,-0.75,1.95,1.85,Granada,Sociedad B,granada,sociedad_b
+2025-10-25,SP2,Spain-Segunda,2526,Burgos,Sociedad B,1.0,0.0,H,0.0,0.0,D,1.68,3.4,5.25,1.78,3.37,5.14,1.72,3.28,4.88,2.4,1.53,2.33,1.54,-0.75,1.98,1.83,Burgos,Sociedad B,burgos,sociedad_b
+2025-10-31,SP2,Spain-Segunda,2526,Santander,Sociedad B,1.0,0.0,H,1.0,0.0,H,1.49,4.5,5.25,,,,1.52,4.17,5.29,1.6,2.3,1.57,2.27,-1.0,1.85,1.95,Santander,Sociedad B,santander,sociedad_b
+2025-11-15,SP2,Spain-Segunda,2526,Castellon,Sociedad B,5.0,4.0,H,1.0,1.0,D,1.41,4.33,7.0,,,,1.4,4.45,6.53,1.67,2.15,1.64,2.14,-1.25,1.98,1.83,Castellon,Sociedad B,castellon,sociedad_b
+2025-11-30,SP2,Spain-Segunda,2526,Mirandes,Sociedad B,1.0,0.0,H,0.0,0.0,D,2.05,3.25,3.5,2.12,3.22,3.72,2.09,3.13,3.43,2.2,1.65,2.19,1.61,-0.25,1.8,2.0,Mirandes,Sociedad B,mirandes,sociedad_b
+2025-12-13,SP2,Spain-Segunda,2526,La Coruna,Sociedad B,0.0,3.0,A,0.0,1.0,A,1.46,4.33,5.75,1.5,4.29,6.43,1.46,4.04,6.04,1.85,1.95,1.82,1.88,-1.0,1.85,1.95,La Coruna,Sociedad B,la_coruna,sociedad_b
+2026-01-03,SP2,Spain-Segunda,2526,Cultural Leonesa,Sociedad B,1.0,1.0,D,0.0,0.0,D,1.81,3.3,4.5,1.88,3.23,4.7,1.84,3.23,4.19,2.08,1.73,2.06,1.68,-0.5,1.85,1.95,Cultural Leonesa,Sociedad B,cultural_leonesa,sociedad_b
+2026-01-17,SP2,Spain-Segunda,2526,Zaragoza,Sociedad B,1.0,1.0,D,0.0,0.0,D,1.71,3.4,5.0,,,,1.73,3.37,4.58,2.08,1.73,2.08,1.67,-0.5,1.75,2.05,Zaragoza,Sociedad B,zaragoza,sociedad_b
+2026-01-24,SP2,Spain-Segunda,2526,Leganes,Sociedad B,2.0,0.0,H,0.0,0.0,D,1.66,3.5,5.25,,,,1.65,3.52,5.04,2.1,1.7,2.03,1.7,-0.75,1.9,1.9,Leganes,Sociedad B,leganes,sociedad_b
+2026-02-07,SP2,Spain-Segunda,2526,Andorra,Sociedad B,1.0,2.0,A,1.0,1.0,D,1.76,3.6,4.33,,,,1.76,3.53,4.23,1.9,1.9,1.84,1.86,-0.5,1.78,2.03,Andorra,Sociedad B,andorra,sociedad_b
+2026-02-23,SP2,Spain-Segunda,2526,Cadiz,Sociedad B,0.0,2.0,A,0.0,0.0,D,2.01,3.25,3.6,,,,1.98,3.25,3.67,2.15,1.67,2.07,1.68,-0.5,2.08,1.73,Cadiz,Sociedad B,cadiz,sociedad_b
+2026-03-15,SP2,Spain-Segunda,2526,Cordoba,Sociedad B,0.0,2.0,A,0.0,2.0,A,1.57,3.9,5.0,,,,1.58,3.92,4.9,1.67,2.15,1.64,2.13,-1.0,2.05,1.75,Cordoba,Sociedad B,cordoba,sociedad_b
+2026-03-29,SP2,Spain-Segunda,2526,Almeria,Sociedad B,5.0,1.0,H,2.0,0.0,H,1.51,4.0,5.5,,,,1.53,4.03,5.25,1.65,2.2,1.62,2.17,-1.0,1.9,1.9,Almeria,Sociedad B,almeria,sociedad_b
+2026-04-06,SP2,Spain-Segunda,2526,Sp Gijon,Sociedad B,1.0,0.0,H,1.0,0.0,H,1.68,3.75,4.5,,,,1.7,3.62,4.32,1.8,2.0,1.75,1.98,-0.75,1.95,1.85,Sp Gijon,Sociedad B,sp_gijon,sociedad_b
+2026-04-10,SP2,Spain-Segunda,2526,Ceuta,Sociedad B,0.0,0.0,D,0.0,0.0,D,1.81,3.6,4.1,,,,1.85,3.45,3.86,1.73,2.08,1.73,2.01,-0.5,1.83,1.98,Ceuta,Sociedad B,ceuta,sociedad_b
+2026-04-25,SP2,Spain-Segunda,2526,Valladolid,Sociedad B,1.0,0.0,H,0.0,0.0,D,1.53,3.9,5.75,,,,1.54,3.83,5.35,1.85,1.95,1.79,1.92,-1.0,2.0,1.8,Real Valladolid,Sociedad B,real_valladolid,sociedad_b
+2026-05-11,SP2,Spain-Segunda,2526,Huesca,Sociedad B,1.0,2.0,A,0.0,1.0,A,1.91,3.5,3.8,,,,1.86,3.36,3.75,2.05,1.75,1.98,1.74,-0.5,1.95,1.85,Huesca,Sociedad B,huesca,sociedad_b
+2026-05-24,SP2,Spain-Segunda,2526,Albacete,Sociedad B,3.0,1.0,H,2.0,0.0,H,1.81,3.9,3.75,,,,1.79,3.67,3.72,1.67,2.15,1.66,2.1,-0.5,1.85,1.95,Albacete,Sociedad B,albacete,sociedad_b
+2026-08-22,SP2,Spain-Segunda,2627,Albacete,Sociedad B,1.0,2.0,A,0.0,2.0,A,1.76,3.4,4.5,,,,1.81,3.5,4.01,1.85,1.95,1.81,1.92,-0.5,1.8,2.0,Albacete,Sociedad B,albacete,sociedad_b
+2026-08-31,SP2,Spain-Segunda,2627,Burgos,Sociedad B,2.0,2.0,D,1.0,1.0,D,1.76,3.4,4.75,,,,1.79,3.33,4.34,2.15,1.67,2.11,1.66,-0.5,1.83,1.98,Burgos,Sociedad B,burgos,sociedad_b
+2026-09-12,SP2,Spain-Segunda,2627,Andorra,Sociedad B,1.0,3.0,A,0.0,3.0,A,1.53,4.1,5.5,,,,1.53,4.04,5.27,1.67,2.15,1.63,2.17,-1.0,1.98,1.83,Andorra,Sociedad B,andorra,sociedad_b
+2026-09-26,SP2,Spain-Segunda,2627,Ceuta,Sociedad B,3.0,1.0,H,0.0,0.0,D,2.15,3.4,3.2,,,,2.16,3.42,2.96,1.75,2.05,1.73,2.0,-0.25,1.93,1.88,Ceuta,Sociedad B,ceuta,sociedad_b
+2026-10-10,SP2,Spain-Segunda,2627,Celta B,Sociedad B,4.0,1.0,H,3.0,0.0,H,2.25,3.4,3.0,,,,2.22,3.4,2.89,1.73,2.08,1.7,2.05,-0.25,2.0,1.8,Celta B,Sociedad B,celta_b,sociedad_b

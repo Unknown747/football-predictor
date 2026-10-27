@@ -1,0 +1,55 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-07-30,SC3,Scotland-L2,2223,Bonnyrigg Rose,Forfar,2.0,0.0,H,0.0,0.0,D,2.45,3.25,2.6,2.36,3.51,2.81,2.39,3.29,2.72,1.95,1.9,1.88,1.85,0.0,1.85,2.0,Bonnyrigg Rose,Forfar,bonnyrigg_rose,forfar
+2022-08-20,SC3,Scotland-L2,2223,Bonnyrigg Rose,Albion Rvs,0.0,2.0,A,0.0,1.0,A,1.6,4.0,5.0,1.71,3.85,4.52,1.64,3.78,4.68,1.7,2.1,1.79,1.94,-0.75,1.75,2.05,Bonnyrigg Rose,Albion Rvs,bonnyrigg_rose,albion_rvs
+2022-08-27,SC3,Scotland-L2,2223,Bonnyrigg Rose,Stirling,1.0,0.0,H,1.0,0.0,H,2.1,3.3,3.1,2.17,3.37,3.25,2.1,3.36,3.18,1.8,2.0,1.81,1.92,-0.25,1.88,1.98,Bonnyrigg Rose,Stirling,bonnyrigg_rose,stirling
+2022-10-01,SC3,Scotland-L2,2223,Bonnyrigg Rose,Stenhousemuir,2.0,4.0,A,0.0,2.0,A,2.3,3.5,2.9,2.25,3.61,2.91,2.2,3.43,2.92,1.8,2.0,1.76,1.97,-0.25,2.02,1.83,Bonnyrigg Rose,Stenhousemuir,bonnyrigg_rose,stenhousemuir
+2022-10-11,SC3,Scotland-L2,2223,Bonnyrigg Rose,Annan Athletic,2.0,0.0,H,1.0,0.0,H,2.25,3.3,2.75,2.29,3.52,2.92,2.25,3.38,2.85,1.75,2.05,1.76,1.98,-0.25,2.05,1.8,Bonnyrigg Rose,Annan Athletic,bonnyrigg_rose,annan_athletic
+2022-10-15,SC3,Scotland-L2,2223,Bonnyrigg Rose,East Fife,1.0,4.0,A,1.0,0.0,H,2.15,3.2,3.0,2.35,3.44,2.88,2.24,3.34,2.91,1.9,1.95,1.84,1.88,-0.25,1.98,1.88,Bonnyrigg Rose,East Fife,bonnyrigg_rose,east_fife
+2022-11-05,SC3,Scotland-L2,2223,Bonnyrigg Rose,Elgin,2.0,3.0,A,0.0,3.0,A,2.2,3.5,2.8,2.21,3.64,2.97,2.21,3.47,2.86,1.72,2.07,1.71,2.03,-0.25,1.95,1.9,Bonnyrigg Rose,Elgin,bonnyrigg_rose,elgin
+2022-12-03,SC3,Scotland-L2,2223,Bonnyrigg Rose,Dumbarton,1.0,1.0,D,1.0,0.0,H,2.8,3.5,2.1,2.92,3.44,2.32,2.93,3.37,2.2,1.8,2.0,1.75,1.98,0.25,1.9,1.95,Bonnyrigg Rose,Dumbarton,bonnyrigg_rose,dumbarton
+2022-12-23,SC3,Scotland-L2,2223,Bonnyrigg Rose,Stranraer,3.0,2.0,H,2.0,1.0,H,2.6,3.25,2.4,2.68,3.33,2.56,2.62,3.35,2.44,1.73,2.15,1.73,2.02,0.0,2.0,1.85,Bonnyrigg Rose,Stranraer,bonnyrigg_rose,stranraer
+2023-01-07,SC3,Scotland-L2,2223,Bonnyrigg Rose,Albion Rvs,0.0,4.0,A,0.0,3.0,A,2.25,3.4,3.1,2.26,3.27,3.16,2.18,3.26,3.11,2.02,1.83,1.95,1.79,-0.25,1.95,1.85,Bonnyrigg Rose,Albion Rvs,bonnyrigg_rose,albion_rvs
+2023-02-04,SC3,Scotland-L2,2223,Bonnyrigg Rose,Annan Athletic,1.0,2.0,A,1.0,2.0,A,3.0,3.5,2.1,3.13,3.55,2.16,3.0,3.43,2.13,1.75,2.05,1.73,2.03,0.25,1.98,1.88,Bonnyrigg Rose,Annan Athletic,bonnyrigg_rose,annan_athletic
+2023-02-14,SC3,Scotland-L2,2223,Bonnyrigg Rose,Stirling,1.0,2.0,A,0.0,1.0,A,4.2,3.75,1.7,3.97,3.57,1.74,4.09,3.67,1.73,1.73,2.08,1.73,2.02,0.75,1.88,1.98,Bonnyrigg Rose,Stirling,bonnyrigg_rose,stirling
+2023-02-25,SC3,Scotland-L2,2223,Bonnyrigg Rose,Stenhousemuir,0.0,1.0,A,0.0,0.0,D,2.6,3.25,2.45,2.87,3.59,2.29,2.71,3.4,2.35,1.7,2.1,1.71,2.04,0.25,1.68,2.15,Bonnyrigg Rose,Stenhousemuir,bonnyrigg_rose,stenhousemuir
+2023-02-28,SC3,Scotland-L2,2223,Bonnyrigg Rose,Forfar,1.0,1.0,D,0.0,0.0,D,3.2,3.2,2.05,3.1,3.46,2.14,3.1,3.34,2.14,1.9,1.95,1.85,1.88,0.25,2.0,1.85,Bonnyrigg Rose,Forfar,bonnyrigg_rose,forfar
+2023-03-18,SC3,Scotland-L2,2223,Bonnyrigg Rose,East Fife,1.0,1.0,D,0.0,0.0,D,2.6,3.4,2.3,2.76,3.48,2.41,2.7,3.35,2.35,1.7,2.1,1.76,1.97,0.0,2.05,1.75,Bonnyrigg Rose,East Fife,bonnyrigg_rose,east_fife
+2023-04-01,SC3,Scotland-L2,2223,Bonnyrigg Rose,Stranraer,1.0,0.0,H,0.0,0.0,D,2.63,3.25,2.38,2.58,3.35,2.65,2.55,3.29,2.52,1.7,2.1,1.72,2.03,0.0,2.02,1.83,Bonnyrigg Rose,Stranraer,bonnyrigg_rose,stranraer
+2023-04-15,SC3,Scotland-L2,2223,Bonnyrigg Rose,Dumbarton,0.0,2.0,A,0.0,0.0,D,3.0,3.3,2.1,3.06,3.45,2.17,3.07,3.33,2.15,2.02,1.83,1.9,1.84,0.25,1.95,1.9,Bonnyrigg Rose,Dumbarton,bonnyrigg_rose,dumbarton
+2023-05-06,SC3,Scotland-L2,2223,Bonnyrigg Rose,Elgin,3.0,0.0,H,0.0,0.0,D,2.1,3.4,3.0,2.09,3.66,3.21,2.11,3.48,3.06,1.7,2.1,1.65,2.14,-0.25,1.9,1.95,Bonnyrigg Rose,Elgin,bonnyrigg_rose,elgin
+2023-08-05,SC3,Scotland-L2,2324,Bonnyrigg Rose,Dumbarton,1.0,1.0,D,0.0,1.0,A,2.45,3.4,2.45,2.53,3.26,2.77,2.46,3.22,2.66,1.93,1.93,1.94,1.81,0.0,1.9,1.95,Bonnyrigg Rose,Dumbarton,bonnyrigg_rose,dumbarton
+2023-08-19,SC3,Scotland-L2,2324,Bonnyrigg Rose,Stranraer,1.0,1.0,D,1.0,0.0,H,2.4,3.4,2.5,2.55,3.32,2.7,2.5,3.25,2.62,2.05,1.75,2.01,1.74,0.0,1.88,1.98,Bonnyrigg Rose,Stranraer,bonnyrigg_rose,stranraer
+2023-09-02,SC3,Scotland-L2,2324,Bonnyrigg Rose,Elgin,5.0,1.0,H,2.0,0.0,H,1.75,3.5,4.2,1.74,3.65,4.66,1.72,3.57,4.38,1.8,2.05,1.88,1.86,-0.75,2.05,1.8,Bonnyrigg Rose,Elgin,bonnyrigg_rose,elgin
+2023-09-23,SC3,Scotland-L2,2324,Bonnyrigg Rose,Stenhousemuir,0.0,1.0,A,0.0,0.0,D,2.38,3.25,3.1,2.37,3.43,2.85,2.28,3.33,2.9,1.98,1.88,1.89,1.84,-0.25,2.05,1.8,Bonnyrigg Rose,Stenhousemuir,bonnyrigg_rose,stenhousemuir
+2023-10-21,SC3,Scotland-L2,2324,Bonnyrigg Rose,Clyde,3.0,2.0,H,1.0,2.0,A,1.7,3.5,4.5,1.81,3.61,4.28,1.72,3.57,4.36,1.9,1.95,1.84,1.88,-0.75,1.98,1.88,Bonnyrigg Rose,Clyde,bonnyrigg_rose,clyde
+2023-11-18,SC3,Scotland-L2,2324,Bonnyrigg Rose,Forfar,0.0,2.0,A,0.0,1.0,A,2.15,3.5,3.0,2.29,3.37,3.02,2.17,3.34,3.03,1.98,1.88,1.89,1.83,-0.25,1.95,1.9,Bonnyrigg Rose,Forfar,bonnyrigg_rose,forfar
+2023-11-21,SC3,Scotland-L2,2324,Bonnyrigg Rose,East Fife,4.0,2.0,H,1.0,1.0,D,3.1,3.5,2.15,3.13,3.12,2.03,3.03,3.31,2.19,1.95,1.9,1.91,1.82,0.25,1.95,1.9,Bonnyrigg Rose,East Fife,bonnyrigg_rose,east_fife
+2023-12-09,SC3,Scotland-L2,2324,Bonnyrigg Rose,Peterhead,1.0,1.0,D,1.0,0.0,H,2.63,3.3,2.3,3.04,3.34,2.29,2.82,3.35,2.29,1.8,2.0,1.8,1.93,0.25,1.75,2.05,Bonnyrigg Rose,Peterhead,bonnyrigg_rose,peterhead
+2024-01-13,SC3,Scotland-L2,2324,Bonnyrigg Rose,Dumbarton,1.0,1.0,D,1.0,0.0,H,2.7,3.5,2.3,2.88,3.4,2.36,2.77,3.34,2.33,1.9,1.95,1.82,1.91,0.25,1.78,2.1,Bonnyrigg Rose,Dumbarton,bonnyrigg_rose,dumbarton
+2024-02-03,SC3,Scotland-L2,2324,Bonnyrigg Rose,Stranraer,0.0,0.0,D,0.0,0.0,D,2.05,3.75,2.88,2.21,3.35,3.18,2.1,3.4,3.08,1.88,1.98,1.86,1.86,-0.25,1.88,1.98,Bonnyrigg Rose,Stranraer,bonnyrigg_rose,stranraer
+2024-02-06,SC3,Scotland-L2,2324,Bonnyrigg Rose,Elgin,2.0,0.0,H,1.0,0.0,H,1.73,4.0,3.75,1.76,3.75,4.37,1.74,3.69,4.08,1.75,2.05,1.77,1.96,-0.75,2.03,1.83,Bonnyrigg Rose,Elgin,bonnyrigg_rose,elgin
+2024-02-17,SC3,Scotland-L2,2324,Bonnyrigg Rose,East Fife,0.0,2.0,A,0.0,2.0,A,2.1,3.4,3.1,2.31,3.27,3.11,2.15,3.27,3.07,2.03,1.83,1.96,1.78,-0.25,1.93,1.93,Bonnyrigg Rose,East Fife,bonnyrigg_rose,east_fife
+2024-03-02,SC3,Scotland-L2,2324,Bonnyrigg Rose,Stenhousemuir,0.0,1.0,A,0.0,0.0,D,2.8,3.25,2.3,3.05,3.26,2.37,2.87,3.2,2.33,2.1,1.7,2.09,1.69,0.25,1.8,2.05,Bonnyrigg Rose,Stenhousemuir,bonnyrigg_rose,stenhousemuir
+2024-03-05,SC3,Scotland-L2,2324,Bonnyrigg Rose,Spartans,2.0,2.0,D,1.0,1.0,D,2.7,3.3,2.45,2.83,3.16,2.57,2.74,3.2,2.43,2.08,1.73,2.03,1.73,0.0,2.05,1.8,Bonnyrigg Rose,Spartans,bonnyrigg_rose,spartans
+2024-03-16,SC3,Scotland-L2,2324,Bonnyrigg Rose,Clyde,1.0,2.0,A,1.0,0.0,H,2.5,3.25,2.6,2.62,3.36,2.62,2.52,3.31,2.56,1.85,2.0,1.8,1.95,0.0,1.88,1.98,Bonnyrigg Rose,Clyde,bonnyrigg_rose,clyde
+2024-04-06,SC3,Scotland-L2,2324,Bonnyrigg Rose,Peterhead,2.0,2.0,D,1.0,0.0,H,2.8,3.4,2.2,3.0,3.39,2.29,2.88,3.35,2.25,1.88,1.98,1.84,1.9,0.25,1.85,2.0,Bonnyrigg Rose,Peterhead,bonnyrigg_rose,peterhead
+2024-04-20,SC3,Scotland-L2,2324,Bonnyrigg Rose,Spartans,0.0,1.0,A,0.0,0.0,D,2.38,3.5,2.63,2.34,3.41,2.91,2.4,3.35,2.69,1.9,1.95,1.84,1.9,-0.25,2.08,1.73,Bonnyrigg Rose,Spartans,bonnyrigg_rose,spartans
+2024-05-04,SC3,Scotland-L2,2324,Bonnyrigg Rose,Forfar,4.0,0.0,H,0.0,0.0,D,2.2,3.25,3.1,2.26,3.24,3.19,2.2,3.21,3.09,2.05,1.75,2.0,1.74,-0.25,1.98,1.88,Bonnyrigg Rose,Forfar,bonnyrigg_rose,forfar
+2024-08-03,SC3,Scotland-L2,2425,Bonnyrigg Rose,Peterhead,0.0,1.0,A,0.0,0.0,D,2.88,3.25,2.2,3.03,3.29,2.25,2.95,3.3,2.22,1.98,1.88,1.94,1.8,0.25,1.88,1.98,Bonnyrigg Rose,Peterhead,bonnyrigg_rose,peterhead
+2024-08-24,SC3,Scotland-L2,2425,Bonnyrigg Rose,Clyde,2.0,1.0,H,0.0,1.0,A,3.5,3.6,1.91,3.53,3.33,1.92,3.5,3.43,1.94,1.9,1.95,1.85,1.88,0.5,1.88,1.98,Bonnyrigg Rose,Clyde,bonnyrigg_rose,clyde
+2024-08-31,SC3,Scotland-L2,2425,Bonnyrigg Rose,Stranraer,2.0,0.0,H,2.0,0.0,H,2.0,3.4,3.1,2.09,3.32,3.34,2.05,3.33,3.28,1.98,1.88,1.92,1.82,-0.25,1.83,2.03,Bonnyrigg Rose,Stranraer,bonnyrigg_rose,stranraer
+2024-09-28,SC3,Scotland-L2,2425,Bonnyrigg Rose,Forfar,0.0,1.0,A,0.0,0.0,D,2.1,3.2,3.1,2.16,3.22,3.28,2.13,3.21,3.22,2.05,1.75,2.02,1.73,-0.25,1.88,1.98,Bonnyrigg Rose,Forfar,bonnyrigg_rose,forfar
+2024-10-19,SC3,Scotland-L2,2425,Bonnyrigg Rose,Edinburgh City,2.0,0.0,H,0.0,0.0,D,1.7,3.8,4.0,1.67,3.88,4.53,1.65,3.85,4.47,1.67,2.15,1.66,2.12,-0.75,1.95,1.85,Bonnyrigg Rose,Edinburgh City,bonnyrigg_rose,edinburgh_city
+2024-11-09,SC3,Scotland-L2,2425,Bonnyrigg Rose,Elgin,2.0,0.0,H,1.0,0.0,H,2.6,3.3,2.4,2.78,3.26,2.43,2.67,3.34,2.42,1.93,1.93,1.88,1.86,0.0,2.0,1.85,Bonnyrigg Rose,Elgin,bonnyrigg_rose,elgin
+2024-11-30,SC3,Scotland-L2,2425,Bonnyrigg Rose,East Fife,1.0,1.0,D,1.0,0.0,H,2.45,3.4,2.45,2.58,3.35,2.55,2.53,3.41,2.49,1.7,2.1,1.7,2.06,0.0,1.93,1.93,Bonnyrigg Rose,East Fife,bonnyrigg_rose,east_fife
+2024-12-03,SC3,Scotland-L2,2425,Bonnyrigg Rose,Stirling,2.0,1.0,H,0.0,0.0,D,1.95,3.25,3.4,2.04,3.31,3.51,2.01,3.28,3.48,1.98,1.88,1.93,1.81,-0.5,2.05,1.8,Bonnyrigg Rose,Stirling,bonnyrigg_rose,stirling
+2025-01-21,SC3,Scotland-L2,2425,Bonnyrigg Rose,Spartans,2.0,2.0,D,1.0,1.0,D,2.5,3.1,2.7,2.56,2.99,2.84,2.5,3.0,2.7,2.25,1.58,2.2,1.61,0.0,1.85,2.0,Bonnyrigg Rose,Spartans,bonnyrigg_rose,spartans
+2025-01-28,SC3,Scotland-L2,2425,Bonnyrigg Rose,Stranraer,3.0,1.0,H,2.0,0.0,H,2.2,3.4,2.9,2.31,3.17,3.03,2.23,3.18,2.96,2.08,1.73,2.02,1.74,-0.25,2.0,1.85,Bonnyrigg Rose,Stranraer,bonnyrigg_rose,stranraer
+2025-02-01,SC3,Scotland-L2,2425,Bonnyrigg Rose,Clyde,2.0,1.0,H,2.0,0.0,H,2.5,3.3,2.5,2.73,2.92,2.7,2.57,3.13,2.6,2.03,1.83,1.96,1.78,0.0,1.93,1.93,Bonnyrigg Rose,Clyde,bonnyrigg_rose,clyde
+2025-02-08,SC3,Scotland-L2,2425,Bonnyrigg Rose,Peterhead,3.0,4.0,A,2.0,3.0,A,3.3,3.3,1.95,3.59,3.29,2.02,3.46,3.26,2.01,2.1,1.7,2.06,1.7,0.5,1.83,2.03,Bonnyrigg Rose,Peterhead,bonnyrigg_rose,peterhead
+2025-02-22,SC3,Scotland-L2,2425,Bonnyrigg Rose,Forfar,0.0,2.0,A,0.0,1.0,A,2.3,3.1,2.88,2.35,3.24,2.91,2.38,3.18,2.81,2.03,1.83,1.99,1.76,-0.25,2.05,1.8,Bonnyrigg Rose,Forfar,bonnyrigg_rose,forfar
+2025-03-08,SC3,Scotland-L2,2425,Bonnyrigg Rose,Edinburgh City,0.0,1.0,A,0.0,0.0,D,2.55,3.4,2.35,2.67,3.46,2.41,2.65,3.44,2.38,1.83,2.03,1.77,1.98,0.0,2.0,1.85,Bonnyrigg Rose,Edinburgh City,bonnyrigg_rose,edinburgh_city
+2025-03-15,SC3,Scotland-L2,2425,Bonnyrigg Rose,Stirling,1.0,1.0,D,0.0,1.0,A,2.3,3.3,2.75,2.42,3.22,2.81,2.37,3.27,2.79,1.9,1.95,1.84,1.89,-0.25,2.1,1.78,Bonnyrigg Rose,Stirling,bonnyrigg_rose,stirling
+2025-03-29,SC3,Scotland-L2,2425,Bonnyrigg Rose,Elgin,0.0,1.0,A,0.0,0.0,D,2.2,3.4,2.75,2.3,3.35,2.9,2.3,3.32,2.83,1.95,1.9,1.88,1.86,-0.25,2.0,1.85,Bonnyrigg Rose,Elgin,bonnyrigg_rose,elgin
+2025-04-12,SC3,Scotland-L2,2425,Bonnyrigg Rose,East Fife,0.0,2.0,A,0.0,0.0,D,3.1,3.5,2.05,3.0,3.49,2.18,3.07,3.45,2.13,1.8,2.0,1.8,1.95,0.25,2.0,1.85,Bonnyrigg Rose,East Fife,bonnyrigg_rose,east_fife
+2025-04-26,SC3,Scotland-L2,2425,Bonnyrigg Rose,Spartans,2.0,1.0,H,0.0,0.0,D,2.5,3.4,2.38,2.65,3.25,2.55,2.61,3.3,2.49,2.05,1.8,1.99,1.76,0.0,2.0,1.85,Bonnyrigg Rose,Spartans,bonnyrigg_rose,spartans

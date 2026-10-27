@@ -1,0 +1,100 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,SC0,Scotland-Prem,2122,Hearts,Celtic,2.0,1.0,H,1.0,0.0,H,4.5,4.0,1.7,4.9,3.96,1.75,4.66,3.84,1.71,1.8,2.0,1.83,1.97,0.75,1.93,1.93,Hearts,Celtic,hearts,celtic
+2021-08-22,SC0,Scotland-Prem,2122,Hearts,Aberdeen,1.0,1.0,D,0.0,0.0,D,2.05,3.2,3.8,2.12,3.36,3.79,2.1,3.23,3.59,2.3,1.61,2.25,1.64,-0.25,1.8,2.05,Hearts,Aberdeen,hearts,aberdeen
+2021-09-12,SC0,Scotland-Prem,2122,Hearts,Hibernian,0.0,0.0,D,0.0,0.0,D,2.45,3.2,2.9,2.56,3.49,2.81,2.48,3.31,2.8,2.1,1.72,2.1,1.73,0.0,1.8,2.05,Hearts,Hibernian,hearts,hibernian
+2021-09-25,SC0,Scotland-Prem,2122,Hearts,Livingston,3.0,0.0,H,2.0,0.0,H,1.57,3.6,7.5,1.61,3.74,7.06,1.6,3.7,6.14,2.1,1.72,2.12,1.71,-0.75,1.77,2.1,Hearts,Livingston,hearts,livingston
+2021-10-02,SC0,Scotland-Prem,2122,Hearts,Motherwell,2.0,0.0,H,2.0,0.0,H,1.57,3.8,6.0,1.62,4.14,5.86,1.6,3.89,5.62,2.0,1.8,2.05,1.77,-1.0,2.05,1.75,Hearts,Motherwell,hearts,motherwell
+2021-10-23,SC0,Scotland-Prem,2122,Hearts,Dundee,1.0,1.0,D,1.0,0.0,H,1.5,4.0,7.0,1.51,4.38,7.0,1.49,4.21,6.47,1.9,1.9,1.93,1.87,-1.0,1.9,1.95,Hearts,Dundee,hearts,dundee
+2021-11-06,SC0,Scotland-Prem,2122,Hearts,Dundee United,5.0,2.0,H,2.0,1.0,H,1.72,3.5,5.5,1.7,3.89,5.4,1.71,3.65,5.05,2.2,1.66,2.16,1.68,-0.75,1.95,1.9,Hearts,Dundee United,hearts,dundee_united
+2021-11-27,SC0,Scotland-Prem,2122,Hearts,St Mirren,2.0,0.0,H,0.0,0.0,D,1.72,3.75,5.0,1.75,3.9,4.93,1.73,3.67,4.78,2.0,1.85,2.0,1.8,-0.75,1.98,1.88,Hearts,St Mirren,hearts,st_mirren
+2021-12-12,SC0,Scotland-Prem,2122,Hearts,Rangers,0.0,2.0,A,0.0,2.0,A,5.5,4.33,1.57,5.61,4.26,1.62,5.27,4.11,1.6,1.66,2.2,1.67,2.18,1.0,1.83,2.02,Hearts,Rangers,hearts,rangers
+2021-12-26,SC0,Scotland-Prem,2122,Hearts,Ross County,2.0,1.0,H,2.0,0.0,H,1.61,4.2,5.0,1.63,4.12,5.75,1.6,4.0,5.4,1.9,1.95,1.84,1.95,-1.0,2.05,1.75,Hearts,Ross County,hearts,ross_county
+2022-01-18,SC0,Scotland-Prem,2122,Hearts,St Johnstone,2.0,0.0,H,0.0,0.0,D,1.57,3.8,6.5,1.56,4.24,6.51,1.56,3.92,6.03,2.1,1.72,2.11,1.71,-1.0,2.02,1.83,Hearts,St Johnstone,hearts,st_johnstone
+2022-01-26,SC0,Scotland-Prem,2122,Hearts,Celtic,1.0,2.0,A,0.0,2.0,A,5.0,3.8,1.7,5.01,4.0,1.72,4.64,3.81,1.71,1.8,2.05,1.81,1.98,0.75,1.93,1.93,Hearts,Celtic,hearts,celtic
+2022-01-29,SC0,Scotland-Prem,2122,Hearts,Motherwell,2.0,0.0,H,1.0,0.0,H,1.66,3.8,5.25,1.7,3.96,5.22,1.69,3.73,4.95,2.1,1.72,2.05,1.75,-0.75,1.88,1.98,Hearts,Motherwell,hearts,motherwell
+2022-02-09,SC0,Scotland-Prem,2122,Hearts,Dundee,1.0,2.0,A,1.0,0.0,H,1.53,4.0,6.5,1.53,4.44,6.5,1.53,4.15,6.03,1.95,1.9,1.89,1.89,-1.0,1.95,1.9,Hearts,Dundee,hearts,dundee
+2022-03-02,SC0,Scotland-Prem,2122,Hearts,Aberdeen,2.0,0.0,H,1.0,0.0,H,2.2,3.2,3.5,2.26,3.32,3.51,2.2,3.19,3.41,2.2,1.66,2.25,1.63,-0.25,1.83,2.02,Hearts,Aberdeen,hearts,aberdeen
+2022-03-19,SC0,Scotland-Prem,2122,Hearts,Livingston,2.0,0.0,H,1.0,0.0,H,1.66,3.8,5.25,1.69,3.8,5.64,1.69,3.69,5.08,2.05,1.8,2.01,1.79,-0.75,1.9,1.95,Hearts,Livingston,hearts,livingston
+2022-04-09,SC0,Scotland-Prem,2122,Hearts,Hibernian,3.0,1.0,H,1.0,1.0,D,1.95,3.5,4.0,2.02,3.48,4.05,2.0,3.39,3.81,2.1,1.72,2.08,1.73,-0.5,2.02,1.83,Hearts,Hibernian,hearts,hibernian
+2022-04-30,SC0,Scotland-Prem,2122,Hearts,Ross County,0.0,0.0,D,0.0,0.0,D,1.65,3.8,5.5,1.73,3.94,5.02,1.69,3.83,4.88,1.9,1.95,1.86,1.93,-0.75,1.9,1.95,Hearts,Ross County,hearts,ross_county
+2022-05-14,SC0,Scotland-Prem,2122,Hearts,Rangers,1.0,3.0,A,1.0,2.0,A,3.2,3.75,2.1,3.23,3.9,2.17,3.1,3.69,2.15,1.66,2.2,1.66,2.18,0.25,1.95,1.9,Hearts,Rangers,hearts,rangers
+2022-07-30,SC0,Scotland-Prem,2223,Hearts,Ross County,2.0,1.0,H,0.0,0.0,D,1.55,4.0,6.0,1.59,4.23,6.08,1.55,4.08,5.73,1.88,1.98,1.84,1.94,-1.0,1.98,1.88,Hearts,Ross County,hearts,ross_county
+2022-08-14,SC0,Scotland-Prem,2223,Hearts,Dundee United,4.0,1.0,H,1.0,0.0,H,1.6,3.75,6.5,1.6,4.13,6.05,1.59,3.9,5.66,2.0,1.85,1.94,1.85,-1.0,2.05,1.8,Hearts,Dundee United,hearts,dundee_united
+2022-08-28,SC0,Scotland-Prem,2223,Hearts,St Johnstone,3.0,2.0,H,2.0,1.0,H,1.65,3.75,5.75,1.65,3.8,6.16,1.62,3.72,5.73,2.1,1.72,2.09,1.72,-0.75,1.8,2.05,Hearts,St Johnstone,hearts,st_johnstone
+2022-10-01,SC0,Scotland-Prem,2223,Hearts,Rangers,0.0,4.0,A,0.0,2.0,A,5.0,4.0,1.7,4.93,4.29,1.68,4.68,4.02,1.67,1.66,2.2,1.63,2.24,0.75,2.0,1.85,Hearts,Rangers,hearts,rangers
+2022-10-22,SC0,Scotland-Prem,2223,Hearts,Celtic,3.0,4.0,A,1.0,1.0,D,9.5,5.5,1.3,8.8,5.71,1.34,8.04,5.4,1.33,1.5,2.62,1.48,2.6,1.5,1.9,1.95,Hearts,Celtic,hearts,celtic
+2022-11-06,SC0,Scotland-Prem,2223,Hearts,Motherwell,3.0,2.0,H,1.0,0.0,H,1.95,3.6,3.8,1.95,3.76,3.98,1.93,3.62,3.72,1.8,2.0,1.78,2.01,-0.5,1.93,1.93,Hearts,Motherwell,hearts,motherwell
+2022-11-12,SC0,Scotland-Prem,2223,Hearts,Livingston,1.0,1.0,D,0.0,0.0,D,1.95,3.4,4.0,2.03,3.58,3.9,1.98,3.49,3.68,2.0,1.85,1.96,1.82,-0.5,1.98,1.88,Hearts,Livingston,hearts,livingston
+2022-12-17,SC0,Scotland-Prem,2223,Hearts,Kilmarnock,3.0,1.0,H,2.0,0.0,H,1.8,3.6,4.75,1.82,3.79,4.63,1.79,3.62,4.39,1.98,1.88,1.93,1.84,-0.75,2.05,1.8,Hearts,Kilmarnock,hearts,kilmarnock
+2023-01-02,SC0,Scotland-Prem,2223,Hearts,Hibernian,3.0,0.0,H,2.0,0.0,H,2.15,3.5,3.3,2.14,3.79,3.37,2.14,3.58,3.18,1.73,2.1,1.73,2.07,-0.25,1.83,2.02,Hearts,Hibernian,hearts,hibernian
+2023-01-13,SC0,Scotland-Prem,2223,Hearts,St Mirren,1.0,0.0,H,1.0,0.0,H,1.83,3.5,4.5,1.85,3.83,4.38,1.83,3.64,4.19,1.85,2.0,1.82,1.96,-0.5,1.83,2.02,Hearts,St Mirren,hearts,st_mirren
+2023-01-18,SC0,Scotland-Prem,2223,Hearts,Aberdeen,5.0,0.0,H,4.0,0.0,H,2.15,3.4,3.4,2.15,3.63,3.47,2.13,3.51,3.26,1.85,2.0,1.83,1.96,-0.25,1.83,2.02,Hearts,Aberdeen,hearts,aberdeen
+2023-02-01,SC0,Scotland-Prem,2223,Hearts,Rangers,0.0,3.0,A,0.0,2.0,A,5.75,4.33,1.55,5.57,4.63,1.57,5.25,4.33,1.57,1.62,2.3,1.61,2.26,1.0,1.93,1.93,Hearts,Rangers,hearts,rangers
+2023-02-04,SC0,Scotland-Prem,2223,Hearts,Dundee United,3.0,1.0,H,0.0,1.0,A,1.7,3.75,5.25,1.68,4.19,5.04,1.67,3.9,4.88,1.73,2.1,1.75,2.06,-0.75,1.85,2.0,Hearts,Dundee United,hearts,dundee_united
+2023-03-04,SC0,Scotland-Prem,2223,Hearts,St Johnstone,3.0,0.0,H,1.0,0.0,H,1.7,3.75,5.0,1.79,3.77,4.86,1.74,3.72,4.63,1.93,1.93,1.89,1.9,-0.75,1.95,1.9,Hearts,St Johnstone,hearts,st_johnstone
+2023-04-08,SC0,Scotland-Prem,2223,Hearts,St Mirren,0.0,2.0,A,0.0,0.0,D,2.1,3.5,3.5,2.17,3.58,3.48,2.12,3.46,3.36,1.9,1.95,1.88,1.9,-0.25,1.85,2.0,Hearts,St Mirren,hearts,st_mirren
+2023-04-22,SC0,Scotland-Prem,2223,Hearts,Ross County,6.0,1.0,H,4.0,0.0,H,1.7,3.8,5.0,1.76,4.03,4.7,1.72,3.85,4.61,1.8,2.05,1.78,2.01,-0.75,1.93,1.93,Hearts,Ross County,hearts,ross_county
+2023-05-07,SC0,Scotland-Prem,2223,Hearts,Celtic,0.0,2.0,A,0.0,0.0,D,8.5,5.5,1.33,8.96,5.83,1.34,8.23,5.51,1.32,1.44,2.75,1.44,2.72,1.5,1.95,1.9,Hearts,Celtic,hearts,celtic
+2023-05-20,SC0,Scotland-Prem,2223,Hearts,Aberdeen,2.0,1.0,H,1.0,1.0,D,2.25,3.4,3.2,2.36,3.63,3.04,2.28,3.48,3.01,1.85,2.0,1.8,1.99,-0.25,2.0,1.85,Hearts,Aberdeen,hearts,aberdeen
+2023-05-27,SC0,Scotland-Prem,2223,Hearts,Hibernian,1.0,1.0,D,1.0,1.0,D,2.1,3.5,3.4,2.16,3.67,3.4,2.1,3.56,3.32,1.73,2.1,1.7,2.12,-0.25,1.82,2.02,Hearts,Hibernian,hearts,hibernian
+2023-08-13,SC0,Scotland-Prem,2324,Hearts,Kilmarnock,0.0,0.0,D,0.0,0.0,D,1.83,3.5,4.5,1.89,3.73,4.31,1.85,3.61,4.11,1.88,1.98,1.85,1.93,-0.5,1.83,2.03,Hearts,Kilmarnock,hearts,kilmarnock
+2023-09-03,SC0,Scotland-Prem,2324,Hearts,Motherwell,0.0,1.0,A,0.0,1.0,A,2.0,3.5,3.75,2.01,3.69,3.8,2.0,3.53,3.59,1.9,1.95,1.86,1.92,-0.5,2.0,1.85,Hearts,Motherwell,hearts,motherwell
+2023-09-16,SC0,Scotland-Prem,2324,Hearts,Aberdeen,2.0,0.0,H,1.0,0.0,H,2.1,3.5,3.4,2.15,3.65,3.45,2.1,3.53,3.32,1.8,2.0,1.76,2.05,-0.25,1.85,2.0,Hearts,Aberdeen,hearts,aberdeen
+2023-10-07,SC0,Scotland-Prem,2324,Hearts,Hibernian,2.0,2.0,D,1.0,0.0,H,2.25,3.5,3.1,2.35,3.52,3.14,2.27,3.44,3.03,1.88,1.98,1.83,1.95,-0.25,2.0,1.85,Hearts,Hibernian,hearts,hibernian
+2023-10-22,SC0,Scotland-Prem,2324,Hearts,Celtic,1.0,4.0,A,0.0,2.0,A,6.5,4.75,1.45,6.55,4.85,1.49,6.1,4.67,1.46,1.57,2.35,1.55,2.39,1.25,1.83,2.03,Hearts,Celtic,hearts,celtic
+2023-11-01,SC0,Scotland-Prem,2324,Hearts,Livingston,1.0,0.0,H,0.0,0.0,D,1.62,4.0,5.25,1.65,3.92,5.86,1.64,3.8,5.33,2.03,1.83,2.01,1.78,-0.75,1.83,2.03,Hearts,Livingston,hearts,livingston
+2023-11-25,SC0,Scotland-Prem,2324,Hearts,St Johnstone,1.0,0.0,H,0.0,0.0,D,1.55,4.2,5.75,1.58,4.17,6.31,1.56,4.01,5.94,1.9,1.95,1.88,1.9,-1.0,1.98,1.88,Hearts,St Johnstone,hearts,st_johnstone
+2023-12-06,SC0,Scotland-Prem,2324,Hearts,Rangers,0.0,1.0,A,0.0,1.0,A,6.0,4.33,1.53,6.16,4.47,1.55,5.7,4.33,1.52,1.67,2.15,1.65,2.2,1.0,1.98,1.88,Hearts,Rangers,hearts,rangers
+2023-12-23,SC0,Scotland-Prem,2324,Hearts,St Mirren,2.0,0.0,H,1.0,0.0,H,1.95,3.4,4.2,2.0,3.49,4.11,1.95,3.4,3.92,2.15,1.67,2.12,1.69,-0.5,1.98,1.88,Hearts,St Mirren,hearts,st_mirren
+2023-12-30,SC0,Scotland-Prem,2324,Hearts,Ross County,2.0,2.0,D,0.0,0.0,D,1.7,3.8,5.0,1.72,3.84,5.3,1.7,3.71,4.93,2.05,1.8,1.99,1.8,-0.75,1.93,1.93,Hearts,Ross County,hearts,ross_county
+2024-01-23,SC0,Scotland-Prem,2324,Hearts,Dundee,3.0,2.0,H,0.0,2.0,A,1.73,3.75,5.0,1.75,3.87,4.95,1.73,3.74,4.65,1.93,1.93,1.89,1.88,-0.75,1.95,1.9,Hearts,Dundee,hearts,dundee
+2024-01-27,SC0,Scotland-Prem,2324,Hearts,Aberdeen,2.0,0.0,H,0.0,0.0,D,2.15,3.4,3.4,2.15,3.41,3.7,2.13,3.34,3.42,2.05,1.75,2.03,1.76,-0.25,1.83,2.03,Hearts,Aberdeen,hearts,aberdeen
+2024-02-17,SC0,Scotland-Prem,2324,Hearts,Motherwell,2.0,0.0,H,0.0,0.0,D,1.73,3.7,5.0,1.72,3.87,5.23,1.71,3.73,4.84,2.03,1.83,1.98,1.81,-0.75,1.93,1.93,Hearts,Motherwell,hearts,motherwell
+2024-02-28,SC0,Scotland-Prem,2324,Hearts,Hibernian,1.0,1.0,D,1.0,1.0,D,1.91,3.6,4.0,1.93,3.75,4.09,1.9,3.64,3.81,1.8,2.0,1.79,2.0,-0.5,1.9,1.95,Hearts,Hibernian,hearts,hibernian
+2024-03-03,SC0,Scotland-Prem,2324,Hearts,Celtic,2.0,0.0,H,1.0,0.0,H,6.5,4.33,1.5,6.36,4.73,1.51,5.97,4.45,1.49,1.57,2.35,1.58,2.34,1.0,2.05,1.75,Hearts,Celtic,hearts,celtic
+2024-03-30,SC0,Scotland-Prem,2324,Hearts,Kilmarnock,1.0,1.0,D,1.0,0.0,H,2.0,3.5,3.75,2.07,3.49,3.78,2.01,3.44,3.64,2.03,1.83,1.97,1.81,-0.5,2.03,1.83,Hearts,Kilmarnock,hearts,kilmarnock
+2024-04-13,SC0,Scotland-Prem,2324,Hearts,Livingston,4.0,2.0,H,4.0,2.0,H,1.4,5.0,7.0,1.37,4.96,9.22,1.37,4.83,8.23,1.73,2.1,1.73,2.07,-1.25,1.85,2.0,Hearts,Livingston,hearts,livingston
+2024-05-11,SC0,Scotland-Prem,2324,Hearts,Dundee,3.0,0.0,H,1.0,0.0,H,1.67,4.0,4.75,1.7,4.24,4.67,1.67,4.02,4.69,1.73,2.1,1.69,2.13,-0.75,1.88,1.98,Hearts,Dundee,hearts,dundee
+2024-05-18,SC0,Scotland-Prem,2324,Hearts,Rangers,3.0,3.0,D,1.0,0.0,H,4.2,4.33,1.7,4.58,4.34,1.7,4.4,4.28,1.68,1.44,2.75,1.45,2.65,0.75,2.0,1.85,Hearts,Rangers,hearts,rangers
+2024-08-03,SC0,Scotland-Prem,2425,Hearts,Rangers,0.0,0.0,D,0.0,0.0,D,5.0,4.33,1.57,5.09,4.42,1.61,4.91,4.34,1.59,1.57,2.38,1.56,2.38,0.75,2.1,1.7,Hearts,Rangers,hearts,rangers
+2024-09-01,SC0,Scotland-Prem,2425,Hearts,Dundee United,0.0,1.0,A,0.0,0.0,D,1.8,3.9,4.0,1.83,4.08,3.84,1.81,3.96,3.89,1.67,2.2,1.64,2.22,-0.75,2.0,1.8,Hearts,Dundee United,hearts,dundee_united
+2024-09-28,SC0,Scotland-Prem,2425,Hearts,Ross County,1.0,1.0,D,0.0,1.0,A,1.65,4.0,4.75,1.66,3.96,5.03,1.67,3.84,4.92,1.85,2.0,1.84,1.95,-0.75,1.88,1.98,Hearts,Ross County,hearts,ross_county
+2024-10-19,SC0,Scotland-Prem,2425,Hearts,St Mirren,4.0,0.0,H,1.0,0.0,H,1.8,3.75,4.2,1.8,3.72,4.35,1.8,3.7,4.23,1.88,1.98,1.86,1.93,-0.5,1.78,2.03,Hearts,St Mirren,hearts,st_mirren
+2024-10-30,SC0,Scotland-Prem,2425,Hearts,Kilmarnock,1.0,2.0,A,1.0,0.0,H,1.91,3.6,3.8,1.92,3.63,3.93,1.92,3.61,3.82,1.83,2.03,1.78,2.01,-0.5,1.93,1.93,Hearts,Kilmarnock,hearts,kilmarnock
+2024-11-23,SC0,Scotland-Prem,2425,Hearts,Celtic,1.0,4.0,A,0.0,0.0,D,7.5,4.75,1.38,6.89,5.13,1.39,7.12,5.0,1.39,1.53,2.5,1.52,2.46,1.25,2.03,1.83,Hearts,Celtic,hearts,celtic
+2024-12-01,SC0,Scotland-Prem,2425,Hearts,Aberdeen,1.0,1.0,D,0.0,1.0,A,2.4,3.3,2.9,2.42,3.47,2.87,2.37,3.42,2.84,1.8,2.0,1.77,2.02,-0.25,2.1,1.78,Hearts,Aberdeen,hearts,aberdeen
+2024-12-07,SC0,Scotland-Prem,2425,Hearts,Dundee,2.0,0.0,H,2.0,0.0,H,1.75,3.8,4.33,1.79,3.92,4.14,1.79,3.82,4.08,1.73,2.1,1.72,2.09,-0.75,2.03,1.83,Hearts,Dundee,hearts,dundee
+2024-12-22,SC0,Scotland-Prem,2425,Hearts,St Johnstone,2.0,1.0,H,1.0,0.0,H,1.55,4.2,5.5,1.59,4.15,5.37,1.57,4.11,5.43,1.8,2.0,1.79,2.0,-1.0,1.98,1.88,Hearts,St Johnstone,hearts,st_johnstone
+2024-12-26,SC0,Scotland-Prem,2425,Hearts,Hibernian,1.0,2.0,A,1.0,1.0,D,2.15,3.4,3.3,2.19,3.5,3.25,2.15,3.46,3.21,1.85,2.0,1.81,1.97,-0.25,1.9,1.95,Hearts,Hibernian,hearts,hibernian
+2025-01-02,SC0,Scotland-Prem,2425,Hearts,Motherwell,1.0,0.0,H,1.0,0.0,H,1.8,3.6,4.33,1.81,3.66,4.42,1.8,3.62,4.21,1.88,1.98,1.85,1.91,-0.75,2.05,1.75,Hearts,Motherwell,hearts,motherwell
+2025-01-25,SC0,Scotland-Prem,2425,Hearts,Kilmarnock,3.0,2.0,H,1.0,0.0,H,1.85,3.7,3.9,1.88,3.58,4.1,1.89,3.54,3.95,2.03,1.83,1.99,1.81,-0.5,1.88,1.98,Hearts,Kilmarnock,hearts,kilmarnock
+2025-02-16,SC0,Scotland-Prem,2425,Hearts,Rangers,1.0,3.0,A,0.0,1.0,A,4.75,3.75,1.73,4.56,3.86,1.74,4.56,3.79,1.72,1.73,2.1,1.72,2.08,0.75,1.88,1.98,Hearts,Rangers,hearts,rangers
+2025-02-26,SC0,Scotland-Prem,2425,Hearts,St Mirren,3.0,1.0,H,0.0,1.0,A,1.8,3.75,4.2,1.82,3.59,4.46,1.8,3.61,4.33,1.92,1.82,1.94,1.85,-0.75,2.05,1.75,Hearts,St Mirren,hearts,st_mirren
+2025-03-15,SC0,Scotland-Prem,2425,Hearts,Ross County,2.0,0.0,H,1.0,0.0,H,1.46,4.2,6.25,1.48,4.4,6.59,1.48,4.3,6.45,1.8,2.0,1.76,2.04,-1.0,1.8,2.05,Hearts,Ross County,hearts,ross_county
+2025-04-06,SC0,Scotland-Prem,2425,Hearts,Dundee United,0.0,1.0,A,0.0,0.0,D,1.7,4.0,4.5,1.68,3.85,5.04,1.68,3.82,4.76,1.85,2.0,1.84,1.95,-0.75,1.87,1.87,Hearts,Dundee United,hearts,dundee_united
+2025-04-26,SC0,Scotland-Prem,2425,Hearts,Dundee,0.0,1.0,A,0.0,1.0,A,1.45,4.75,6.25,1.47,4.53,6.44,1.46,4.54,6.35,1.62,2.3,1.62,2.27,-1.25,2.03,1.83,Hearts,Dundee,hearts,dundee
+2025-05-10,SC0,Scotland-Prem,2425,Hearts,Motherwell,3.0,0.0,H,1.0,0.0,H,1.5,4.2,6.25,1.5,4.28,6.48,1.5,4.23,6.19,1.8,2.0,1.78,2.01,-1.0,1.83,2.03,Hearts,Motherwell,hearts,motherwell
+2025-05-14,SC0,Scotland-Prem,2425,Hearts,St Johnstone,2.0,1.0,H,2.0,0.0,H,1.67,3.8,5.0,1.68,3.82,5.05,1.67,3.79,5.08,1.88,1.98,1.85,1.93,-0.75,1.85,2.0,Hearts,St Johnstone,hearts,st_johnstone
+2025-08-04,SC0,Scotland-Prem,2526,Hearts,Aberdeen,2.0,0.0,H,1.0,0.0,H,2.1,3.6,3.3,2.08,3.56,3.46,2.08,3.5,3.3,1.8,2.0,1.77,1.98,-0.25,1.83,2.03,Hearts,Aberdeen,hearts,aberdeen
+2025-08-23,SC0,Scotland-Prem,2526,Hearts,Motherwell,3.0,3.0,D,0.0,1.0,A,1.62,3.9,5.25,1.63,3.88,5.41,1.58,4.03,5.31,1.93,1.93,1.83,1.91,-0.75,1.8,2.05,Hearts,Motherwell,hearts,motherwell
+2025-09-27,SC0,Scotland-Prem,2526,Hearts,Falkirk,3.0,0.0,H,2.0,0.0,H,1.56,4.2,5.0,1.6,4.27,5.15,1.6,4.01,5.07,1.73,2.1,1.7,2.07,-1.0,2.03,1.83,Hearts,Falkirk,hearts,falkirk
+2025-10-04,SC0,Scotland-Prem,2526,Hearts,Hibernian,1.0,0.0,H,0.0,0.0,D,1.76,3.75,4.0,1.79,3.77,4.33,1.82,3.64,4.05,1.8,2.0,1.77,1.97,-0.5,1.83,2.03,Hearts,Hibernian,hearts,hibernian
+2025-10-26,SC0,Scotland-Prem,2526,Hearts,Celtic,3.0,1.0,H,1.0,1.0,D,3.25,3.6,2.05,3.19,3.7,2.14,3.19,3.58,2.1,1.73,2.1,1.72,2.03,0.25,1.98,1.88,Hearts,Celtic,hearts,celtic
+2025-11-01,SC0,Scotland-Prem,2526,Hearts,Dundee,4.0,0.0,H,2.0,0.0,H,1.25,5.25,10.0,,,,1.27,5.46,9.81,1.57,2.38,1.57,2.29,-1.5,1.83,2.03,Hearts,Dundee,hearts,dundee
+2025-11-09,SC0,Scotland-Prem,2526,Hearts,Dundee United,1.0,1.0,D,1.0,1.0,D,1.37,4.5,7.5,,,,1.41,4.63,6.81,1.67,2.2,1.62,2.19,-1.25,1.93,1.93,Hearts,Dundee United,hearts,dundee_united
+2025-12-03,SC0,Scotland-Prem,2526,Hearts,Kilmarnock,1.0,1.0,D,0.0,0.0,D,1.35,4.33,8.5,,,,1.34,4.81,8.39,1.8,2.0,1.73,2.03,-1.5,2.08,1.73,Hearts,Kilmarnock,hearts,kilmarnock
+2025-12-21,SC0,Scotland-Prem,2526,Hearts,Rangers,2.0,1.0,H,2.0,0.0,H,2.01,3.5,3.5,,,,2.09,3.38,3.35,1.93,1.93,1.89,1.83,-0.25,1.83,2.03,Hearts,Rangers,hearts,rangers
+2026-01-03,SC0,Scotland-Prem,2526,Hearts,Livingston,1.0,0.0,H,1.0,0.0,H,1.27,5.0,9.0,,,,1.32,5.04,8.67,1.67,2.2,1.64,2.15,-1.5,1.95,1.9,Hearts,Livingston,hearts,livingston
+2026-01-14,SC0,Scotland-Prem,2526,Hearts,St Mirren,2.0,0.0,H,0.0,0.0,D,1.41,4.1,7.5,,,,1.41,4.39,7.37,1.88,1.98,1.82,1.9,-1.25,2.03,1.83,Hearts,St Mirren,hearts,st_mirren
+2026-01-25,SC0,Scotland-Prem,2526,Hearts,Celtic,2.0,2.0,D,0.0,1.0,A,3.0,3.5,2.2,,,,3.03,3.39,2.23,1.8,2.0,1.77,1.95,0.25,1.88,1.98,Hearts,Celtic,hearts,celtic
+2026-02-10,SC0,Scotland-Prem,2526,Hearts,Hibernian,1.0,0.0,H,0.0,0.0,D,1.81,3.6,4.0,,,,1.83,3.45,4.25,2.0,1.85,1.94,1.79,-0.5,1.85,2.0,Hearts,Hibernian,hearts,hibernian
+2026-02-21,SC0,Scotland-Prem,2526,Hearts,Falkirk,1.0,0.0,H,1.0,0.0,H,1.62,3.6,5.5,,,,1.62,3.83,5.07,1.88,1.98,1.83,1.9,-0.75,1.85,2.0,Hearts,Falkirk,hearts,falkirk
+2026-02-28,SC0,Scotland-Prem,2526,Hearts,Aberdeen,1.0,0.0,H,1.0,0.0,H,1.41,4.2,8.0,,,,1.39,4.52,7.34,1.73,2.1,1.7,2.06,-1.25,2.0,1.85,Hearts,Aberdeen,hearts,aberdeen
+2026-03-21,SC0,Scotland-Prem,2526,Hearts,Dundee,1.0,0.0,H,0.0,0.0,D,1.39,4.75,6.5,,,,1.39,4.49,7.19,1.8,2.0,1.73,2.02,-1.25,1.98,1.88,Hearts,Dundee,hearts,dundee
+2026-04-11,SC0,Scotland-Prem,2526,Hearts,Motherwell,3.0,1.0,H,0.0,0.0,D,1.91,3.4,4.0,,,,1.95,3.41,3.68,1.88,1.98,1.82,1.92,-0.5,1.98,1.88,Hearts,Motherwell,hearts,motherwell
+2026-05-04,SC0,Scotland-Prem,2526,Hearts,Rangers,2.0,1.0,H,0.0,1.0,A,2.65,3.6,2.4,,,,2.68,3.45,2.39,1.73,2.1,1.71,2.04,0.0,2.05,1.8,Hearts,Rangers,hearts,rangers
+2026-05-13,SC0,Scotland-Prem,2526,Hearts,Falkirk,3.0,0.0,H,2.0,0.0,H,1.41,4.75,6.5,,,,1.4,4.6,6.82,1.67,2.2,1.63,2.18,-1.25,2.0,1.85,Hearts,Falkirk,hearts,falkirk
+2026-08-09,SC0,Scotland-Prem,2627,Hearts,Dundee United,4.0,0.0,H,2.0,0.0,H,1.57,4.33,4.75,,,,1.61,4.0,4.85,1.73,2.1,1.7,2.05,-0.75,1.83,2.03,Hearts,Dundee United,hearts,dundee_united
+2026-08-29,SC0,Scotland-Prem,2627,Hearts,St Johnstone,2.0,1.0,H,2.0,0.0,H,1.68,3.75,4.5,,,,1.72,3.82,4.27,1.73,2.1,1.72,2.02,-0.75,1.95,1.9,Hearts,St Johnstone,hearts,st_johnstone
+2026-09-06,SC0,Scotland-Prem,2627,Hearts,Dundee,2.0,1.0,H,0.0,1.0,A,1.46,4.1,6.25,,,,1.5,4.3,5.62,1.57,2.38,1.56,2.3,-1.0,1.83,2.03,Hearts,Dundee,hearts,dundee
+2026-10-10,SC0,Scotland-Prem,2627,Hearts,St Mirren,5.0,0.0,H,2.0,0.0,H,1.42,5.0,5.75,,,,1.45,4.74,5.89,1.53,2.5,1.49,2.5,-1.25,2.0,1.85,Hearts,St Mirren,hearts,st_mirren

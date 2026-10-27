@@ -1,0 +1,49 @@
+=== START training ===
+Loaded: (40064, 172)
+Train: 22945, Val: 7681, Test: 9438
+Numeric features: 140
+
+=== Training 1x2 (multiclass 3) ===
+Training until validation scores don't improve for 100 rounds
+[200]	training's multi_logloss: 0.631158	valid_1's multi_logloss: 0.870951
+Early stopping, best iteration is:
+[159]	training's multi_logloss: 0.67293	valid_1's multi_logloss: 0.869335
+Best iteration: 159
+
+=== Training OU25 (binary) ===
+Training until validation scores don't improve for 100 rounds
+[200]	training's binary_logloss: 0.465867	valid_1's binary_logloss: 0.584342
+Early stopping, best iteration is:
+[172]	training's binary_logloss: 0.480542	valid_1's binary_logloss: 0.583357
+Best iteration: 172
+
+=== Training home_ou05 (binary) ===
+Training until validation scores don't improve for 100 rounds
+[200]	training's binary_logloss: 0.324662	valid_1's binary_logloss: 0.43907
+Early stopping, best iteration is:
+[150]	training's binary_logloss: 0.349407	valid_1's binary_logloss: 0.438416
+Best iteration: 150
+
+=== Training home_ou15 (binary) ===
+Training until validation scores don't improve for 100 rounds
+[200]	training's binary_logloss: 0.417585	valid_1's binary_logloss: 0.539085
+Early stopping, best iteration is:
+[154]	training's binary_logloss: 0.441309	valid_1's binary_logloss: 0.537174
+Best iteration: 154
+
+=== Training away_ou05 (binary) ===
+Training until validation scores don't improve for 100 rounds
+[200]	training's binary_logloss: 0.383766	valid_1's binary_logloss: 0.496209
+Early stopping, best iteration is:
+[192]	training's binary_logloss: 0.387663	valid_1's binary_logloss: 0.496193
+Best iteration: 192
+
+=== Training away_ou15 (binary) ===
+Training until validation scores don't improve for 100 rounds
+[200]	training's binary_logloss: 0.372935	valid_1's binary_logloss: 0.501639
+Early stopping, best iteration is:
+[233]	training's binary_logloss: 0.357486	valid_1's binary_logloss: 0.500928
+Best iteration: 233
+
+=== DONE ===
+Saved: models/evaluation.md, models/evaluation.json

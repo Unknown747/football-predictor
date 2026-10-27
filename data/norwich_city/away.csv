@@ -1,0 +1,117 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-21,E0,England-PL,2122,Man City,Norwich,5.0,0.0,H,2.0,0.0,H,1.08,11.0,26.0,1.11,11.28,26.2,1.11,10.58,25.64,1.33,3.4,1.34,3.29,-2.5,1.97,1.96,Manchester City,Norwich City,manchester_city,norwich_city
+2021-09-11,E0,England-PL,2122,Arsenal,Norwich,1.0,0.0,H,0.0,0.0,D,1.5,4.6,6.0,1.53,4.57,6.5,1.52,4.48,6.4,1.72,2.1,1.71,2.17,-1.0,1.85,2.08,Arsenal,Norwich City,arsenal,norwich_city
+2021-09-25,E0,England-PL,2122,Everton,Norwich,2.0,0.0,H,1.0,0.0,H,1.61,3.8,5.75,1.65,3.91,6.09,1.63,3.86,5.96,1.9,1.9,1.89,1.95,-1.0,2.05,1.75,Everton,Norwich City,everton,norwich_city
+2021-10-02,E0,England-PL,2122,Burnley,Norwich,0.0,0.0,D,0.0,0.0,D,1.85,3.6,4.33,1.9,3.69,4.42,1.88,3.61,4.33,1.9,1.9,1.9,1.94,-0.5,1.89,2.04,Burnley,Norwich City,burnley,norwich_city
+2021-10-23,E0,England-PL,2122,Chelsea,Norwich,7.0,0.0,H,3.0,0.0,H,1.18,7.0,15.0,1.19,7.28,19.32,1.19,7.07,17.21,1.66,2.2,1.66,2.27,-2.0,2.05,1.75,Chelsea,Norwich City,chelsea,norwich_city
+2021-11-06,E0,England-PL,2122,Brentford,Norwich,1.0,2.0,A,0.0,2.0,A,1.6,4.0,5.75,1.63,4.05,6.06,1.63,3.92,5.8,2.0,1.8,2.03,1.82,-0.75,1.82,2.11,Brentford,Norwich City,brentford,norwich_city
+2021-11-30,E0,England-PL,2122,Newcastle,Norwich,1.0,1.0,D,0.0,0.0,D,1.95,3.5,3.9,2.02,3.68,3.91,1.99,3.63,3.82,1.85,2.05,1.83,2.01,-0.5,2.01,1.89,Newcastle United,Norwich City,newcastle_united,norwich_city
+2021-12-05,E0,England-PL,2122,Tottenham,Norwich,3.0,0.0,H,1.0,0.0,H,1.36,5.0,8.5,1.43,4.9,8.28,1.41,4.75,8.11,1.87,2.03,1.84,2.0,-1.25,1.96,1.94,Tottenham Hotspur,Norwich City,tottenham_hotspur,norwich_city
+2021-12-28,E0,England-PL,2122,Crystal Palace,Norwich,3.0,0.0,H,3.0,0.0,H,1.65,3.75,5.5,1.69,3.77,5.91,1.68,3.74,5.68,2.2,1.66,2.14,1.73,-0.75,1.92,2.01,Crystal Palace,Norwich City,crystal_palace,norwich_city
+2022-01-12,E0,England-PL,2122,West Ham,Norwich,2.0,0.0,H,1.0,0.0,H,1.28,5.5,10.0,1.32,5.53,10.04,1.31,5.52,10.28,1.66,2.2,1.66,2.24,-1.5,1.93,1.97,West Ham United,Norwich City,west_ham_united,norwich_city
+2022-01-21,E0,England-PL,2122,Watford,Norwich,0.0,3.0,A,0.0,0.0,D,2.0,3.5,3.75,2.09,3.53,3.66,2.07,3.52,3.63,1.94,1.96,1.9,1.93,-0.5,2.08,1.85,Watford,Norwich City,watford,norwich_city
+2022-02-19,E0,England-PL,2122,Liverpool,Norwich,3.0,1.0,H,0.0,0.0,D,1.1,9.0,23.0,1.13,9.98,26.49,1.12,9.63,24.83,1.36,3.2,1.34,3.25,-2.5,1.98,1.92,Liverpool,Norwich City,liverpool,norwich_city
+2022-02-25,E0,England-PL,2122,Southampton,Norwich,2.0,0.0,H,1.0,0.0,H,1.53,4.33,6.0,1.56,4.35,6.55,1.54,4.37,6.22,1.72,2.1,1.75,2.11,-1.0,1.92,1.98,Southampton,Norwich City,southampton,norwich_city
+2022-03-13,E0,England-PL,2122,Leeds,Norwich,2.0,1.0,H,1.0,0.0,H,1.55,4.2,5.75,1.65,4.12,5.7,1.6,4.31,5.51,1.66,2.2,1.67,2.23,-1.0,1.99,1.94,Leeds,Norwich City,leeds,norwich_city
+2022-04-02,E0,England-PL,2122,Brighton,Norwich,0.0,0.0,D,0.0,0.0,D,1.5,4.0,7.0,1.53,4.08,7.94,1.5,4.12,7.51,2.0,1.8,2.05,1.79,-1.0,1.9,2.0,Brighton & Hove Albion,Norwich City,brighton_hove_albion,norwich_city
+2022-04-16,E0,England-PL,2122,Man United,Norwich,3.0,2.0,H,2.0,1.0,H,1.25,6.5,10.0,1.23,6.6,14.96,1.24,6.45,12.84,1.5,2.62,1.51,2.57,-1.75,1.93,1.97,Manchester United,Norwich City,manchester_united,norwich_city
+2022-04-30,E0,England-PL,2122,Aston Villa,Norwich,2.0,0.0,H,1.0,0.0,H,1.4,4.5,9.0,1.4,5.12,8.47,1.4,4.94,8.3,1.66,2.2,1.69,2.19,-1.25,1.88,2.02,Aston Villa,Norwich City,aston_villa,norwich_city
+2022-05-11,E0,England-PL,2122,Leicester,Norwich,3.0,0.0,H,0.0,0.0,D,1.44,4.75,7.0,1.45,5.12,7.2,1.44,4.9,7.02,1.61,2.3,1.61,2.34,-1.25,1.98,1.92,Leicester City,Norwich City,leicester_city,norwich_city
+2022-05-15,E0,England-PL,2122,Wolves,Norwich,1.0,1.0,D,0.0,1.0,A,1.45,4.75,6.5,1.49,4.56,7.12,1.46,4.58,7.25,1.86,2.04,1.83,2.0,-1.25,2.05,1.85,Wolverhampton,Norwich City,wolverhampton,norwich_city
+2022-07-30,E1,England-Champ,2223,Cardiff,Norwich,1.0,0.0,H,0.0,0.0,D,3.1,3.4,2.3,3.15,3.4,2.4,3.03,3.32,2.37,2.1,1.72,2.08,1.75,0.25,1.84,2.06,Cardiff City,Norwich City,cardiff_city,norwich_city
+2022-08-13,E1,England-Champ,2223,Hull,Norwich,2.0,1.0,H,1.0,0.0,H,3.6,3.4,2.05,3.66,3.56,2.11,3.58,3.47,2.06,2.0,1.8,2.03,1.78,0.25,2.05,1.75,Hull City,Norwich City,hull_city,norwich_city
+2022-08-27,E1,England-Champ,2223,Sunderland,Norwich,0.0,1.0,A,0.0,0.0,D,3.2,3.3,2.3,3.3,3.44,2.31,3.11,3.36,2.31,1.98,1.88,1.96,1.84,0.25,1.88,2.02,Sunderland,Norwich City,sunderland,norwich_city
+2022-08-30,E1,England-Champ,2223,Birmingham,Norwich,1.0,2.0,A,0.0,0.0,D,4.5,3.5,1.83,4.59,3.67,1.85,4.37,3.6,1.84,2.0,1.85,1.99,1.83,0.5,2.06,1.84,Birmingham,Norwich City,birmingham,norwich_city
+2022-10-01,E1,England-Champ,2223,Blackpool,Norwich,0.0,1.0,A,0.0,1.0,A,4.2,3.6,1.85,4.14,3.73,1.93,4.05,3.61,1.89,1.93,1.93,1.9,1.89,0.5,1.99,1.91,Blackpool,Norwich City,blackpool,norwich_city
+2022-10-04,E1,England-Champ,2223,Reading,Norwich,1.0,1.0,D,0.0,0.0,D,4.2,3.5,1.85,4.29,3.57,1.94,4.11,3.53,1.9,2.0,1.85,2.01,1.8,0.5,1.95,1.95,Reading,Norwich City,reading,norwich_city
+2022-10-15,E1,England-Champ,2223,Watford,Norwich,2.0,1.0,H,2.0,1.0,H,2.75,3.3,2.55,2.77,3.42,2.68,2.74,3.31,2.57,2.0,1.85,1.99,1.81,0.0,2.0,1.9,Watford,Norwich City,watford,norwich_city
+2022-10-22,E1,England-Champ,2223,Sheffield United,Norwich,2.0,2.0,D,0.0,2.0,A,2.3,3.3,3.25,2.4,3.38,3.18,2.33,3.38,3.04,1.93,1.93,1.9,1.89,-0.25,2.02,1.88,Sheffield United,Norwich City,sheffield_united,norwich_city
+2022-10-25,E1,England-Champ,2223,Burnley,Norwich,1.0,0.0,H,0.0,0.0,D,2.1,3.4,3.5,2.21,3.49,3.47,2.17,3.47,3.29,1.9,1.95,1.89,1.9,-0.25,1.89,2.01,Burnley,Norwich City,burnley,norwich_city
+2022-11-05,E1,England-Champ,2223,Rotherham,Norwich,1.0,2.0,A,0.0,1.0,A,4.2,3.5,1.95,4.19,3.6,1.95,3.91,3.54,1.94,2.02,1.83,1.99,1.81,0.5,1.94,1.96,Rotherham United,Norwich City,rotherham_united,norwich_city
+2022-12-10,E1,England-Champ,2223,Swansea,Norwich,0.0,1.0,A,0.0,1.0,A,2.45,3.4,2.88,2.49,3.6,2.88,2.42,3.44,2.85,1.9,1.95,1.89,1.9,-0.25,2.08,1.82,Swansea City,Norwich City,swansea_city,norwich_city
+2022-12-26,E1,England-Champ,2223,Luton,Norwich,2.0,1.0,H,0.0,0.0,D,2.6,3.3,2.75,2.66,3.41,2.75,2.61,3.31,2.69,2.1,1.73,2.05,1.77,0.0,1.93,1.97,Luton,Norwich City,luton,norwich_city
+2023-01-14,E1,England-Champ,2223,Preston,Norwich,0.0,4.0,A,0.0,3.0,A,2.88,3.3,2.5,2.95,3.36,2.56,2.89,3.27,2.48,2.1,1.73,2.15,1.7,0.0,2.06,1.84,Preston,Norwich City,preston,norwich_city
+2023-01-21,E1,England-Champ,2223,Coventry,Norwich,2.0,4.0,A,2.0,3.0,A,2.8,3.4,2.5,2.82,3.54,2.56,2.74,3.44,2.49,1.9,1.95,1.89,1.91,0.0,2.03,1.87,Coventry,Norwich City,coventry,norwich_city
+2023-02-11,E1,England-Champ,2223,Bristol City,Norwich,1.0,0.0,H,1.0,0.0,H,2.9,3.4,2.4,2.95,3.5,2.48,2.85,3.44,2.41,1.9,1.95,1.9,1.9,0.0,2.05,1.75,Bristol City,Norwich City,bristol_city,norwich_city
+2023-02-18,E1,England-Champ,2223,Wigan,Norwich,0.0,0.0,D,0.0,0.0,D,3.5,3.6,2.05,3.82,3.55,2.06,3.6,3.45,2.04,2.1,1.73,2.06,1.76,0.5,1.84,2.06,Wigan Athletic,Norwich City,wigan_athletic,norwich_city
+2023-03-04,E1,England-Champ,2223,Millwall,Norwich,2.0,3.0,A,1.0,1.0,D,2.6,3.1,2.88,2.59,3.21,3.02,2.52,3.19,2.89,2.2,1.67,2.16,1.69,0.0,1.81,2.09,Millwall,Norwich City,millwall,norwich_city
+2023-03-15,E1,England-Champ,2223,Huddersfield,Norwich,1.0,1.0,D,0.0,1.0,A,4.33,3.6,1.85,4.71,3.63,1.85,4.43,3.53,1.83,2.2,1.67,2.11,1.72,0.5,2.04,1.86,Huddersfield,Norwich City,huddersfield,norwich_city
+2023-03-18,E1,England-Champ,2223,Stoke,Norwich,0.0,0.0,D,0.0,0.0,D,2.45,3.3,2.9,2.58,3.31,2.96,2.49,3.3,2.85,2.0,1.8,2.03,1.78,0.0,1.78,2.13,Stoke City,Norwich City,stoke_city,norwich_city
+2023-04-07,E1,England-Champ,2223,Blackburn,Norwich,0.0,2.0,A,0.0,1.0,A,2.88,3.2,2.6,2.93,3.29,2.62,2.87,3.21,2.54,2.1,1.73,2.14,1.71,0.0,2.06,1.84,Blackburn,Norwich City,blackburn,norwich_city
+2023-04-14,E1,England-Champ,2223,Middlesbrough,Norwich,5.0,1.0,H,4.0,1.0,H,1.91,3.75,3.8,1.96,3.81,3.9,1.94,3.69,3.76,1.8,2.0,1.77,2.05,-0.5,1.95,1.95,Middlesbrough,Norwich City,middlesbrough,norwich_city
+2023-04-19,E1,England-Champ,2223,QPR,Norwich,1.0,1.0,D,1.0,0.0,H,3.4,3.4,2.15,3.46,3.52,2.19,3.31,3.42,2.17,2.05,1.8,2.02,1.79,0.25,2.0,1.9,Queens Park Rangers,Norwich City,queens_park_rangers,norwich_city
+2023-04-29,E1,England-Champ,2223,West Brom,Norwich,2.0,1.0,H,1.0,1.0,D,2.1,3.5,3.5,2.13,3.64,3.51,2.08,3.52,3.45,1.85,2.0,1.84,1.96,-0.25,1.83,2.07,West Bromwich Albion,Norwich City,west_bromwich_albion,norwich_city
+2023-08-12,E1,England-Champ,2324,Southampton,Norwich,4.0,4.0,D,2.0,3.0,A,1.83,3.75,4.0,1.87,3.77,4.35,1.84,3.69,4.13,1.88,1.98,1.87,1.92,-0.5,1.86,2.04,Southampton,Norwich City,southampton,norwich_city
+2023-08-26,E1,England-Champ,2324,Huddersfield,Norwich,0.0,4.0,A,0.0,2.0,A,3.4,3.4,2.15,3.37,3.74,2.15,3.34,3.53,2.12,1.83,2.03,1.82,1.99,0.25,2.04,1.86,Huddersfield,Norwich City,huddersfield,norwich_city
+2023-09-02,E1,England-Champ,2324,Rotherham,Norwich,2.0,1.0,H,2.0,0.0,H,4.5,3.8,1.75,4.85,4.0,1.74,4.5,3.9,1.74,1.73,2.1,1.76,2.07,0.75,1.92,1.98,Rotherham United,Norwich City,rotherham_united,norwich_city
+2023-09-23,E1,England-Champ,2324,Plymouth,Norwich,6.0,2.0,H,4.0,0.0,H,3.4,3.75,2.05,3.44,3.88,2.08,3.33,3.77,2.05,1.62,2.3,1.62,2.31,0.25,2.03,1.78,Plymouth Argyle,Norwich City,plymouth_argyle,norwich_city
+2023-10-04,E1,England-Champ,2324,Swansea,Norwich,2.0,1.0,H,1.0,1.0,D,2.9,3.3,2.45,2.94,3.47,2.51,2.83,3.43,2.44,1.8,2.0,1.81,2.0,0.0,2.05,1.75,Swansea City,Norwich City,swansea_city,norwich_city
+2023-10-07,E1,England-Champ,2324,Coventry,Norwich,1.0,1.0,D,0.0,1.0,A,2.6,3.2,2.8,2.57,3.41,2.9,2.51,3.34,2.79,1.88,1.98,1.87,1.92,0.0,1.82,2.08,Coventry,Norwich City,coventry,norwich_city
+2023-10-28,E1,England-Champ,2324,Sunderland,Norwich,3.0,1.0,H,2.0,1.0,H,2.0,3.75,3.5,2.1,3.72,3.52,2.07,3.65,3.37,1.67,2.15,1.7,2.15,-0.25,1.78,2.03,Sunderland,Norwich City,sunderland,norwich_city
+2023-11-11,E1,England-Champ,2324,Cardiff,Norwich,2.0,3.0,A,2.0,1.0,H,2.0,3.5,3.6,2.03,3.8,3.66,2.02,3.63,3.54,1.85,2.0,1.81,1.97,-0.5,2.03,1.87,Cardiff City,Norwich City,cardiff_city,norwich_city
+2023-11-28,E1,England-Champ,2324,Watford,Norwich,3.0,2.0,H,2.0,2.0,D,2.15,3.5,3.3,2.19,3.57,3.44,2.14,3.53,3.32,1.88,1.98,1.83,1.98,-0.25,1.9,2.0,Watford,Norwich City,watford,norwich_city
+2023-12-03,E1,England-Champ,2324,Bristol City,Norwich,1.0,2.0,A,1.0,0.0,H,2.25,3.3,3.2,2.33,3.52,3.19,2.29,3.42,3.05,1.83,2.03,1.8,2.01,-0.25,1.99,1.91,Bristol City,Norwich City,bristol_city,norwich_city
+2023-12-16,E1,England-Champ,2324,Ipswich,Norwich,2.0,2.0,D,1.0,1.0,D,1.6,4.0,6.0,1.61,4.31,5.63,1.58,4.29,5.44,1.53,2.4,1.53,2.48,-1.0,1.98,1.92,Ipswich,Norwich City,ipswich,norwich_city
+2023-12-26,E1,England-Champ,2324,West Brom,Norwich,1.0,0.0,H,0.0,0.0,D,1.8,3.8,4.0,1.88,3.8,4.24,1.84,3.72,4.12,1.8,2.0,1.8,2.02,-0.5,1.86,2.04,West Bromwich Albion,Norwich City,west_bromwich_albion,norwich_city
+2023-12-29,E1,England-Champ,2324,Millwall,Norwich,1.0,0.0,H,1.0,0.0,H,2.45,3.5,2.8,2.57,3.36,2.94,2.5,3.33,2.85,2.05,1.75,2.03,1.79,0.0,1.82,2.08,Millwall,Norwich City,millwall,norwich_city
+2024-01-12,E1,England-Champ,2324,Hull,Norwich,1.0,2.0,A,0.0,1.0,A,2.2,3.6,3.1,2.28,3.58,3.23,2.23,3.55,3.09,1.75,2.05,1.77,2.05,-0.25,2.0,1.9,Hull City,Norwich City,hull_city,norwich_city
+2024-01-24,E1,England-Champ,2324,Leeds,Norwich,1.0,0.0,H,1.0,0.0,H,1.44,4.2,7.0,1.48,4.91,6.61,1.45,4.68,6.63,1.57,2.35,1.57,2.39,-1.25,1.99,1.91,Leeds,Norwich City,leeds,norwich_city
+2024-02-10,E1,England-Champ,2324,QPR,Norwich,2.0,2.0,D,1.0,0.0,H,2.63,3.5,2.6,2.82,3.43,2.62,2.69,3.38,2.59,2.0,1.85,1.98,1.83,0.0,2.0,1.9,Queens Park Rangers,Norwich City,queens_park_rangers,norwich_city
+2024-02-24,E1,England-Champ,2324,Blackburn,Norwich,1.0,1.0,D,0.0,1.0,A,2.55,3.6,2.63,2.57,3.7,2.71,2.52,3.61,2.63,1.62,2.25,1.62,2.3,0.0,1.89,2.01,Blackburn,Norwich City,blackburn,norwich_city
+2024-03-06,E1,England-Champ,2324,Middlesbrough,Norwich,3.0,1.0,H,2.0,1.0,H,2.3,3.5,3.0,2.34,3.65,3.07,2.3,3.54,2.97,1.73,2.08,1.75,2.08,-0.25,2.01,1.89,Middlesbrough,Norwich City,middlesbrough,norwich_city
+2024-03-16,E1,England-Champ,2324,Stoke,Norwich,0.0,3.0,A,0.0,2.0,A,2.55,3.25,2.8,2.65,3.47,2.76,2.56,3.36,2.74,2.0,1.85,1.91,1.85,0.0,1.88,2.02,Stoke City,Norwich City,stoke_city,norwich_city
+2024-04-01,E1,England-Champ,2324,Leicester,Norwich,3.0,1.0,H,1.0,1.0,D,1.65,4.33,4.75,1.68,4.25,4.81,1.65,4.17,4.83,1.62,2.25,1.63,2.24,-0.75,1.85,2.05,Leicester City,Norwich City,leicester_city,norwich_city
+2024-04-09,E1,England-Champ,2324,Sheffield Weds,Norwich,2.0,2.0,D,0.0,2.0,A,3.3,3.3,2.25,3.38,3.45,2.23,3.23,3.4,2.22,1.93,1.93,1.9,1.9,0.25,1.98,1.92,Sheffield Wednesday,Norwich City,sheffield_wednesday,norwich_city
+2024-04-13,E1,England-Champ,2324,Preston,Norwich,0.0,1.0,A,0.0,0.0,D,3.1,3.2,2.45,2.95,3.47,2.46,2.97,3.37,2.39,1.93,1.93,1.91,1.89,0.25,1.81,2.09,Preston,Norwich City,preston,norwich_city
+2024-05-04,E1,England-Champ,2324,Birmingham,Norwich,1.0,0.0,H,0.0,0.0,D,2.38,3.75,2.8,2.38,3.89,2.81,2.36,3.69,2.78,1.73,2.1,1.72,2.09,-0.25,2.09,1.81,Birmingham,Norwich City,birmingham,norwich_city
+2024-08-10,E1,England-Champ,2425,Oxford,Norwich,2.0,0.0,H,1.0,0.0,H,3.0,3.6,2.2,3.2,3.52,2.26,3.04,3.49,2.28,1.88,1.98,1.86,1.94,0.25,1.92,1.98,Oxford United,Norwich City,oxford_united,norwich_city
+2024-08-31,E1,England-Champ,2425,Coventry,Norwich,0.0,1.0,A,0.0,0.0,D,1.83,3.75,4.0,1.91,3.81,3.94,1.89,3.78,3.85,1.67,2.15,1.71,2.14,-0.5,1.9,2.0,Coventry,Norwich City,coventry,norwich_city
+2024-09-14,E1,England-Champ,2425,Swansea,Norwich,1.0,0.0,H,1.0,0.0,H,2.3,3.3,3.0,2.34,3.46,2.97,2.33,3.45,2.97,1.88,1.98,1.86,1.94,-0.25,2.06,1.84,Swansea City,Norwich City,swansea_city,norwich_city
+2024-09-28,E1,England-Champ,2425,Derby,Norwich,2.0,3.0,A,0.0,1.0,A,2.63,3.6,2.5,2.8,3.48,2.54,2.73,3.44,2.52,1.98,1.88,1.94,1.86,0.0,2.03,1.87,Derby,Norwich City,derby,norwich_city
+2024-10-19,E1,England-Champ,2425,Stoke,Norwich,1.0,1.0,D,1.0,1.0,D,2.55,3.4,2.63,2.6,3.43,2.68,2.57,3.47,2.65,1.8,2.0,1.79,1.99,0.0,1.86,1.92,Stoke City,Norwich City,stoke_city,norwich_city
+2024-10-22,E1,England-Champ,2425,Preston,Norwich,2.0,2.0,D,2.0,1.0,H,2.7,3.25,2.7,2.76,3.28,2.74,2.68,3.26,2.69,2.05,1.8,2.01,1.8,0.0,1.95,1.95,Preston,Norwich City,preston,norwich_city
+2024-11-02,E1,England-Champ,2425,Cardiff,Norwich,2.0,1.0,H,0.0,0.0,D,2.63,3.4,2.63,2.58,3.6,2.6,2.58,3.54,2.6,1.73,2.1,1.76,2.06,0.0,1.95,1.95,Cardiff City,Norwich City,cardiff_city,norwich_city
+2024-11-05,E1,England-Champ,2425,Sheffield Weds,Norwich,2.0,0.0,H,2.0,0.0,H,2.2,3.25,3.2,2.27,3.36,3.39,2.22,3.33,3.31,2.03,1.83,2.0,1.81,-0.25,1.95,1.95,Sheffield Wednesday,Norwich City,sheffield_wednesday,norwich_city
+2024-11-23,E1,England-Champ,2425,West Brom,Norwich,2.0,2.0,D,2.0,2.0,D,1.83,3.6,4.2,1.85,3.56,4.3,1.86,3.56,4.21,2.03,1.83,2.01,1.8,-0.5,1.89,2.01,West Bromwich Albion,Norwich City,west_bromwich_albion,norwich_city
+2024-12-07,E1,England-Champ,2425,QPR,Norwich,3.0,0.0,H,2.0,0.0,H,3.0,3.3,2.35,3.03,3.34,2.38,2.99,3.38,2.37,1.93,1.93,1.92,1.88,0.25,1.83,2.07,Queens Park Rangers,Norwich City,queens_park_rangers,norwich_city
+2024-12-10,E1,England-Champ,2425,Portsmouth,Norwich,0.0,0.0,D,0.0,0.0,D,3.3,3.4,2.15,3.43,3.48,2.2,3.23,3.42,2.19,1.93,1.93,1.89,1.9,0.25,2.0,1.9,Portsmouth,Norwich City,portsmouth,norwich_city
+2024-12-21,E1,England-Champ,2425,Sunderland,Norwich,2.0,1.0,H,0.0,1.0,A,1.8,3.5,4.33,1.84,3.64,4.27,1.85,3.58,4.17,1.93,1.93,1.88,1.91,-0.5,1.87,2.03,Sunderland,Norwich City,sunderland,norwich_city
+2025-01-01,E1,England-Champ,2425,Luton,Norwich,0.0,1.0,A,0.0,0.0,D,2.5,3.4,2.7,2.54,3.35,2.8,2.46,3.38,2.76,1.93,1.93,1.87,1.89,0.0,1.86,2.04,Luton,Norwich City,luton,norwich_city
+2025-01-18,E1,England-Champ,2425,Sheffield United,Norwich,2.0,0.0,H,1.0,0.0,H,2.1,3.4,3.4,2.07,3.41,3.65,2.11,3.37,3.47,2.0,1.8,2.05,1.75,-0.25,1.83,2.07,Sheffield United,Norwich City,sheffield_united,norwich_city
+2025-01-22,E1,England-Champ,2425,Leeds,Norwich,2.0,0.0,H,1.0,0.0,H,1.38,4.5,8.0,1.37,4.9,8.21,1.38,4.75,8.06,1.68,2.05,1.7,2.11,-1.25,1.9,2.0,Leeds,Norwich City,leeds,norwich_city
+2025-02-01,E1,England-Champ,2425,Watford,Norwich,0.0,1.0,A,0.0,1.0,A,2.63,3.3,2.63,2.73,3.35,2.68,2.62,3.35,2.64,1.88,1.98,1.88,1.91,0.0,1.95,1.95,Watford,Norwich City,watford,norwich_city
+2025-02-15,E1,England-Champ,2425,Hull,Norwich,1.0,1.0,D,1.0,0.0,H,2.63,3.25,2.63,2.66,3.31,2.69,2.62,3.33,2.66,1.98,1.88,1.95,1.86,0.0,1.95,1.95,Hull City,Norwich City,hull_city,norwich_city
+2025-03-01,E1,England-Champ,2425,Blackburn,Norwich,1.0,1.0,D,0.0,0.0,D,2.5,3.4,2.7,2.6,3.21,2.84,2.55,3.28,2.78,2.05,1.8,2.03,1.79,0.0,1.88,2.02,Blackburn,Norwich City,blackburn,norwich_city
+2025-03-14,E1,England-Champ,2425,Bristol City,Norwich,2.0,1.0,H,2.0,0.0,H,2.1,3.4,3.6,2.08,3.49,3.76,2.08,3.44,3.57,1.95,1.9,1.93,1.87,-0.25,1.82,2.08,Bristol City,Norwich City,bristol_city,norwich_city
+2025-04-05,E1,England-Champ,2425,Plymouth,Norwich,2.0,1.0,H,2.0,0.0,H,4.33,3.6,1.8,4.4,3.78,1.78,4.27,3.66,1.81,1.93,1.93,1.89,1.9,0.5,2.03,1.78,Plymouth Argyle,Norwich City,plymouth_argyle,norwich_city
+2025-04-11,E1,England-Champ,2425,Burnley,Norwich,2.0,1.0,H,2.0,0.0,H,1.6,3.9,5.5,1.6,3.85,6.55,1.6,3.83,5.83,2.0,1.8,2.04,1.78,-1.0,2.08,1.82,Burnley,Norwich City,burnley,norwich_city
+2025-04-21,E1,England-Champ,2425,Millwall,Norwich,3.0,1.0,H,2.0,1.0,H,2.2,3.4,3.2,2.2,3.27,3.46,2.21,3.25,3.31,2.2,1.67,2.17,1.67,-0.25,1.92,1.98,Millwall,Norwich City,millwall,norwich_city
+2025-04-26,E1,England-Champ,2425,Middlesbrough,Norwich,0.0,0.0,D,0.0,0.0,D,1.55,4.33,5.25,1.54,4.45,5.52,1.54,4.45,5.32,1.53,2.5,1.51,2.47,-1.0,1.92,1.98,Middlesbrough,Norwich City,middlesbrough,norwich_city
+2025-08-16,E1,England-Champ,2526,Portsmouth,Norwich,1.0,2.0,A,0.0,2.0,A,2.45,3.4,2.75,2.49,3.34,2.87,2.43,3.39,2.83,1.98,1.88,1.91,1.84,0.0,1.8,2.05,Portsmouth,Norwich City,portsmouth,norwich_city
+2025-08-30,E1,England-Champ,2526,Blackburn,Norwich,0.0,2.0,A,0.0,1.0,A,2.25,3.4,3.0,2.42,3.21,3.08,2.37,3.31,2.95,2.1,1.73,1.98,1.77,-0.25,2.03,1.83,Blackburn,Norwich City,blackburn,norwich_city
+2025-09-13,E1,England-Champ,2526,Coventry,Norwich,1.0,1.0,D,0.0,1.0,A,1.68,3.9,4.33,1.75,3.99,4.3,1.72,3.93,4.44,1.67,2.2,1.67,2.12,-0.75,1.98,1.88,Coventry,Norwich City,coventry,norwich_city
+2025-09-27,E1,England-Champ,2526,Stoke,Norwich,1.0,1.0,D,0.0,1.0,A,1.96,3.6,3.5,2.02,3.66,3.53,2.02,3.51,3.53,1.93,1.93,1.89,1.86,-0.5,2.05,1.8,Stoke City,Norwich City,stoke_city,norwich_city
+2025-10-05,E1,England-Champ,2526,Ipswich,Norwich,3.0,1.0,H,2.0,1.0,H,1.53,3.9,5.75,1.58,4.15,5.52,1.57,4.17,5.38,1.73,2.1,1.68,2.11,-1.0,2.0,1.85,Ipswich,Norwich City,ipswich,norwich_city
+2025-10-21,E1,England-Champ,2526,Derby,Norwich,1.0,0.0,H,0.0,0.0,D,2.5,3.05,2.82,2.54,3.22,2.99,2.49,3.16,2.92,2.2,1.67,2.18,1.65,0.0,1.8,2.05,Derby,Norwich City,derby,norwich_city
+2025-10-25,E1,England-Champ,2526,Swansea,Norwich,2.0,1.0,H,1.0,1.0,D,2.2,3.25,3.2,2.2,3.62,3.13,2.2,3.39,3.21,1.93,1.93,1.93,1.83,-0.25,1.95,1.9,Swansea City,Norwich City,swansea_city,norwich_city
+2025-11-05,E1,England-Champ,2526,Sheffield Weds,Norwich,1.0,1.0,D,1.0,0.0,H,3.3,3.5,2.05,,,,3.26,3.48,2.14,1.9,1.95,1.85,1.9,0.25,1.98,1.88,Sheffield Wednesday,Norwich City,sheffield_wednesday,norwich_city
+2025-11-22,E1,England-Champ,2526,Birmingham,Norwich,4.0,1.0,H,3.0,1.0,H,1.62,3.7,5.0,,,,1.69,3.76,4.88,1.9,1.95,1.87,1.88,-0.75,1.88,1.98,Birmingham,Norwich City,birmingham,norwich_city
+2025-12-06,E1,England-Champ,2526,Watford,Norwich,3.0,2.0,H,1.0,2.0,A,1.86,3.6,3.8,1.93,3.68,3.95,1.94,3.56,3.77,1.85,2.0,1.83,1.93,-0.5,1.93,1.93,Watford,Norwich City,watford,norwich_city
+2025-12-09,E1,England-Champ,2526,Sheffield United,Norwich,1.0,1.0,D,0.0,0.0,D,1.56,3.9,5.25,1.61,4.28,5.42,1.61,4.07,5.1,1.67,2.2,1.67,2.14,-1.0,2.03,1.83,Sheffield United,Norwich City,sheffield_united,norwich_city
+2025-12-20,E1,England-Champ,2526,Preston,Norwich,1.0,1.0,D,0.0,0.0,D,2.15,3.5,3.05,2.19,3.61,3.27,2.16,3.43,3.22,1.88,1.98,1.84,1.9,-0.25,1.9,1.95,Preston,Norwich City,preston,norwich_city
+2026-01-01,E1,England-Champ,2526,QPR,Norwich,1.0,2.0,A,0.0,0.0,D,2.1,3.4,3.4,2.14,3.49,3.36,2.11,3.44,3.34,1.91,1.91,1.87,1.87,-0.25,1.85,2.0,Queens Park Rangers,Norwich City,queens_park_rangers,norwich_city
+2026-01-17,E1,England-Champ,2526,Wrexham,Norwich,1.0,2.0,A,1.0,1.0,D,2.2,3.4,3.1,,,,2.24,3.42,3.08,1.91,1.91,1.85,1.89,-0.25,1.98,1.88,Wrexham,Norwich City,wrexham,norwich_city
+2026-01-20,E1,England-Champ,2526,West Brom,Norwich,0.0,5.0,A,0.0,1.0,A,1.96,3.5,3.6,,,,1.99,3.44,3.72,2.0,1.8,1.96,1.8,-0.5,2.03,1.83,West Bromwich Albion,Norwich City,west_bromwich_albion,norwich_city
+2026-01-31,E1,England-Champ,2526,Middlesbrough,Norwich,1.0,0.0,H,1.0,0.0,H,1.68,3.9,4.5,,,,1.73,3.84,4.42,1.73,2.1,1.71,2.07,-0.75,1.98,1.88,Middlesbrough,Norwich City,middlesbrough,norwich_city
+2026-02-10,E1,England-Champ,2526,Oxford,Norwich,0.0,3.0,A,0.0,2.0,A,3.1,3.2,2.3,,,,3.0,3.21,2.4,2.2,1.67,2.16,1.65,0.25,1.83,2.03,Oxford United,Norwich City,oxford_united,norwich_city
+2026-02-28,E1,England-Champ,2526,Leicester,Norwich,0.0,2.0,A,0.0,0.0,D,2.4,3.4,2.7,,,,2.42,3.45,2.75,1.8,2.0,1.79,1.97,0.0,1.8,2.05,Leicester City,Norwich City,leicester_city,norwich_city
+2026-03-18,E1,England-Champ,2526,Southampton,Norwich,1.0,0.0,H,1.0,0.0,H,1.91,3.5,3.75,,,,1.93,3.64,3.63,1.73,2.1,1.69,2.1,-0.5,1.98,1.88,Southampton,Norwich City,southampton,norwich_city
+2026-03-21,E1,England-Champ,2526,Charlton,Norwich,0.0,1.0,A,0.0,1.0,A,3.4,3.3,2.1,,,,3.26,3.35,2.16,2.0,1.8,1.94,1.79,0.25,1.98,1.88,Charlton,Norwich City,charlton,norwich_city
+2026-04-06,E1,England-Champ,2526,Millwall,Norwich,1.0,2.0,A,0.0,0.0,D,2.15,3.3,3.25,,,,2.16,3.39,3.18,1.88,1.98,1.82,1.92,-0.25,1.93,1.93,Millwall,Norwich City,millwall,norwich_city
+2026-04-18,E1,England-Champ,2526,Bristol City,Norwich,2.0,4.0,A,1.0,0.0,H,2.57,3.4,2.5,,,,2.64,3.42,2.53,1.91,1.91,1.83,1.91,0.0,1.98,1.88,Bristol City,Norwich City,bristol_city,norwich_city
+2026-05-02,E1,England-Champ,2526,Hull,Norwich,2.0,1.0,H,1.0,1.0,D,1.81,3.9,3.8,,,,1.83,3.86,3.82,1.62,2.3,1.58,2.27,-0.5,1.88,1.98,Hull City,Norwich City,hull_city,norwich_city
+2026-08-22,E1,England-Champ,2627,Millwall,Norwich,3.0,0.0,H,1.0,0.0,H,2.15,3.4,3.1,,,,2.2,3.4,3.17,2.0,1.85,1.9,1.83,-0.25,1.93,1.93,Millwall,Norwich City,millwall,norwich_city
+2026-09-01,E1,England-Champ,2627,Stoke,Norwich,1.0,0.0,H,1.0,0.0,H,3.4,3.6,2.01,,,,3.31,3.53,2.1,1.8,2.0,1.77,1.97,0.25,2.05,1.8,Stoke City,Norwich City,stoke_city,norwich_city
+2026-09-05,E1,England-Champ,2627,Sheffield United,Norwich,1.0,3.0,A,1.0,2.0,A,2.55,3.3,2.57,,,,2.53,3.47,2.64,1.8,2.0,1.77,1.97,0.0,1.88,1.98,Sheffield United,Norwich City,sheffield_united,norwich_city
+2026-09-12,E1,England-Champ,2627,Middlesbrough,Norwich,4.0,3.0,H,3.0,1.0,H,1.79,3.9,3.8,,,,1.85,3.91,3.72,1.57,2.38,1.53,2.38,-0.5,1.85,2.0,Middlesbrough,Norwich City,middlesbrough,norwich_city
+2026-10-10,E1,England-Champ,2627,Swansea,Norwich,2.0,1.0,H,0.0,1.0,A,2.3,3.5,2.82,,,,2.36,3.52,2.8,1.73,2.1,1.7,2.08,-0.25,2.05,1.8,Swansea City,Norwich City,swansea_city,norwich_city

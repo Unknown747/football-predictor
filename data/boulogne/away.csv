@@ -1,0 +1,23 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2025-08-15,F2,France-L2,2526,Nancy,Boulogne,1.0,0.0,H,1.0,0.0,H,1.73,3.5,4.0,1.82,3.5,4.86,1.77,3.42,4.39,2.15,1.67,2.15,1.63,-0.5,1.78,2.03,Nancy,Boulogne,nancy,boulogne
+2025-08-29,F2,France-L2,2526,Rodez,Boulogne,1.0,0.0,H,1.0,0.0,H,1.75,3.3,4.33,1.86,3.69,4.29,1.77,3.53,4.21,1.88,1.93,1.85,1.84,-0.5,1.83,1.98,Rodez,Boulogne,rodez,boulogne
+2025-09-23,F2,France-L2,2526,Montpellier,Boulogne,1.0,3.0,A,0.0,1.0,A,1.55,3.7,5.75,1.62,3.95,5.81,1.57,3.67,5.72,2.2,1.65,2.15,1.64,-1.0,2.03,1.78,Montpellier,Boulogne,montpellier,boulogne
+2025-10-03,F2,France-L2,2526,Amiens,Boulogne,0.0,1.0,A,0.0,0.0,D,2.7,3.1,2.6,2.66,3.12,2.92,2.61,3.07,2.68,2.25,1.62,2.25,1.59,0.0,1.98,1.83,Amiens,Boulogne,amiens,boulogne
+2025-10-24,F2,France-L2,2526,Le Mans,Boulogne,1.0,0.0,H,0.0,0.0,D,1.95,3.4,3.9,1.99,3.33,3.95,1.96,3.21,3.85,2.25,1.62,2.18,1.62,-0.5,1.95,1.85,Le Mans,Boulogne,le_mans,boulogne
+2025-10-31,F2,France-L2,2526,Annecy,Boulogne,1.0,1.0,D,1.0,0.0,H,2.15,3.0,3.7,,,,2.12,2.99,3.62,2.7,1.44,2.57,1.45,-0.25,1.8,2.0,Annecy,Boulogne,annecy,boulogne
+2025-11-07,F2,France-L2,2526,Dunkerque,Boulogne,1.0,1.0,D,0.0,0.0,D,1.62,3.7,5.75,,,,1.49,3.47,4.91,2.05,1.75,1.81,1.65,-1.0,2.05,1.75,Dunkerque,Boulogne,dunkerque,boulogne
+2025-12-05,F2,France-L2,2526,Clermont,Boulogne,1.0,1.0,D,0.0,0.0,D,2.25,3.3,3.2,,,,2.3,3.07,3.1,2.35,1.57,2.29,1.55,-0.25,1.93,1.88,Clermont Foot,Boulogne,clermont_foot,boulogne
+2026-01-03,F2,France-L2,2526,Guingamp,Boulogne,3.0,0.0,H,2.0,0.0,H,1.85,3.25,4.1,,,,1.88,3.32,3.9,2.05,1.75,1.98,1.74,-0.5,1.88,1.93,Guingamp,Boulogne,guingamp,boulogne
+2026-01-24,F2,France-L2,2526,Red Star,Boulogne,2.0,2.0,D,1.0,0.0,H,1.8,3.25,4.2,,,,1.85,3.27,4.12,2.2,1.65,2.14,1.63,-0.5,1.83,1.98,Red Star,Boulogne,red_star,boulogne
+2026-01-31,F2,France-L2,2526,St Etienne,Boulogne,0.0,1.0,A,0.0,1.0,A,1.53,4.0,5.25,,,,1.52,4.09,5.42,1.67,2.15,1.66,2.1,-1.0,1.88,1.93,Saint-Etienne,Boulogne,saint_etienne,boulogne
+2026-02-13,F2,France-L2,2526,Pau FC,Boulogne,1.0,2.0,A,0.0,0.0,D,1.91,3.4,4.0,,,,1.91,3.36,3.83,1.95,1.85,1.91,1.81,-0.5,1.95,1.85,Pau FC,Boulogne,pau_fc,boulogne
+2026-02-27,F2,France-L2,2526,Grenoble,Boulogne,0.0,0.0,D,0.0,0.0,D,2.55,2.88,2.63,,,,2.63,2.89,2.77,2.5,1.5,2.47,1.49,0.0,1.9,1.9,Grenoble,Boulogne,grenoble,boulogne
+2026-03-13,F2,France-L2,2526,Bastia,Boulogne,0.0,1.0,A,0.0,1.0,A,1.95,2.88,4.0,,,,2.02,2.99,3.84,2.88,1.4,2.63,1.43,-0.5,2.03,1.78,Bastia,Boulogne,bastia,boulogne
+2026-04-04,F2,France-L2,2526,Reims,Boulogne,0.0,0.0,D,0.0,0.0,D,1.5,3.6,5.75,,,,1.53,3.85,5.73,1.9,1.9,1.88,1.83,-1.0,1.95,1.85,Stade de Reims,Boulogne,stade_de_reims,boulogne
+2026-04-18,F2,France-L2,2526,Troyes,Boulogne,1.0,0.0,H,0.0,0.0,D,1.45,3.75,6.25,,,,1.49,4.0,5.92,1.83,1.98,1.79,1.94,-1.0,1.88,1.93,Troyes,Boulogne,troyes,boulogne
+2026-05-09,F2,France-L2,2526,Laval,Boulogne,2.0,1.0,H,2.0,0.0,H,1.6,3.4,5.25,,,,1.6,3.67,5.13,2.08,1.73,2.03,1.71,-0.75,1.83,1.98,Laval,Boulogne,laval,boulogne
+2026-08-14,F2,France-L2,2627,Guingamp,Boulogne,1.0,0.0,H,0.0,0.0,D,1.75,3.5,4.75,,,,1.74,3.49,4.45,2.08,1.73,2.0,1.73,-0.5,1.75,2.05,Guingamp,Boulogne,guingamp,boulogne
+2026-08-28,F2,France-L2,2627,Montpellier,Boulogne,0.0,0.0,D,0.0,0.0,D,1.6,3.3,5.0,,,,1.66,3.59,4.88,2.05,1.75,1.99,1.75,-0.75,1.93,1.88,Montpellier,Boulogne,montpellier,boulogne
+2026-09-11,F2,France-L2,2627,Clermont,Boulogne,0.0,0.0,D,0.0,0.0,D,2.3,3.0,2.9,,,,2.35,3.1,2.96,2.2,1.65,2.28,1.57,-0.25,2.05,1.75,Clermont Foot,Boulogne,clermont_foot,boulogne
+2026-10-09,F2,France-L2,2627,Sochaux,Boulogne,1.0,1.0,D,1.0,0.0,H,2.25,3.0,3.0,,,,2.25,3.15,3.07,2.25,1.62,2.2,1.61,-0.25,2.0,1.8,Sochaux,Boulogne,sochaux,boulogne
+2026-10-16,F2,France-L2,2627,Grenoble,Boulogne,0.0,2.0,A,0.0,0.0,D,2.7,2.8,2.55,,,,2.69,2.99,2.58,2.6,1.48,2.36,1.53,0.0,1.95,1.85,Grenoble,Boulogne,grenoble,boulogne

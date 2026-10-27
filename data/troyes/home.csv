@@ -1,0 +1,95 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,F1,France-L1,2122,Troyes,Paris SG,1.0,2.0,A,1.0,2.0,A,11.0,6.0,1.25,11.77,6.04,1.28,10.99,5.89,1.27,1.57,2.37,1.57,2.4,1.75,1.89,2.01,Troyes,Paris Saint-Germain,troyes,paris_saint_germain
+2021-08-29,F1,France-L1,2122,Troyes,Monaco,1.0,2.0,A,0.0,1.0,A,4.33,3.6,1.83,4.44,3.76,1.88,4.29,3.67,1.85,1.9,1.9,1.89,1.93,0.5,2.06,1.87,Troyes,AS Monaco,troyes,as_monaco
+2021-09-19,F1,France-L1,2122,Troyes,Montpellier,1.0,1.0,D,1.0,0.0,H,2.45,3.5,2.8,2.58,3.56,2.83,2.54,3.47,2.73,1.72,2.1,1.77,2.07,0.0,1.88,2.05,Troyes,Montpellier,troyes,montpellier
+2021-09-26,F1,France-L1,2122,Troyes,Angers,1.0,1.0,D,1.0,0.0,H,2.75,3.2,2.7,2.85,3.27,2.73,2.75,3.19,2.69,2.3,1.61,2.24,1.66,0.0,2.0,1.93,Troyes,Angers,troyes,angers
+2021-10-17,F1,France-L1,2122,Troyes,Nice,1.0,0.0,H,1.0,0.0,H,4.33,3.6,1.85,4.4,3.7,1.9,4.14,3.64,1.87,1.83,2.02,1.83,2.0,0.5,2.03,1.9,Troyes,OGC Nice,troyes,ogc_nice
+2021-10-31,F1,France-L1,2122,Troyes,Rennes,2.0,2.0,D,2.0,1.0,H,3.8,3.6,1.95,3.84,3.66,2.04,3.75,3.53,1.99,2.0,1.8,1.97,1.85,0.5,1.9,2.03,Troyes,Stade Rennais,troyes,stade_rennais
+2021-11-21,F1,France-L1,2122,Troyes,St Etienne,0.0,1.0,A,0.0,0.0,D,2.37,3.25,3.1,2.37,3.39,3.28,2.35,3.38,3.07,1.9,1.95,1.87,1.94,-0.25,2.05,1.88,Troyes,Saint-Etienne,troyes,saint_etienne
+2021-12-01,F1,France-L1,2122,Troyes,Lorient,2.0,0.0,H,2.0,0.0,H,2.37,3.3,3.0,2.42,3.31,3.26,2.37,3.27,3.12,2.1,1.72,2.11,1.74,-0.25,2.04,1.89,Troyes,Lorient,troyes,lorient
+2021-12-12,F1,France-L1,2122,Troyes,Bordeaux,1.0,2.0,A,1.0,1.0,D,2.2,3.5,3.2,2.29,3.52,3.32,2.25,3.47,3.16,1.86,2.07,1.82,2.01,-0.25,1.98,1.95,Troyes,Bordeaux,troyes,bordeaux
+2021-12-22,F1,France-L1,2122,Troyes,Brest,1.0,1.0,D,0.0,1.0,A,2.5,3.4,2.8,2.6,3.34,2.96,2.5,3.34,2.86,1.93,1.97,1.9,1.92,0.0,1.84,2.09,Troyes,Stade Brestois,troyes,stade_brestois
+2022-01-16,F1,France-L1,2122,Troyes,Lyon,0.0,1.0,A,0.0,1.0,A,5.25,4.0,1.65,4.93,4.09,1.7,4.9,4.01,1.68,1.8,2.0,1.78,2.05,0.75,2.06,1.84,Troyes,Olympique Lyonnais,troyes,olympique_lyonnais
+2022-02-06,F1,France-L1,2122,Troyes,Metz,0.0,0.0,D,0.0,0.0,D,2.0,3.3,4.0,1.97,3.5,4.15,2.01,3.44,3.84,2.1,1.72,2.11,1.74,-0.5,2.02,1.88,Troyes,Metz,troyes,metz
+2022-02-27,F1,France-L1,2122,Troyes,Marseille,1.0,1.0,D,0.0,1.0,A,4.5,3.75,1.75,4.83,4.03,1.76,4.58,3.82,1.77,1.94,1.96,1.89,1.93,0.75,1.89,2.01,Troyes,Olympique Marseille,troyes,olympique_marseille
+2022-03-12,F1,France-L1,2122,Troyes,Nantes,1.0,0.0,H,1.0,0.0,H,2.9,3.2,2.5,3.11,3.2,2.58,3.03,3.15,2.51,2.37,1.57,2.35,1.6,0.0,2.05,1.75,Troyes,FC Nantes,troyes,fc_nantes
+2022-04-03,F1,France-L1,2122,Troyes,Reims,1.0,0.0,H,0.0,0.0,D,2.45,3.1,3.1,2.6,3.08,3.21,2.55,3.04,3.08,2.62,1.5,2.58,1.51,-0.25,2.08,1.73,Troyes,Stade de Reims,troyes,stade_de_reims
+2022-04-17,F1,France-L1,2122,Troyes,Strasbourg,1.0,1.0,D,0.0,0.0,D,3.75,3.3,2.1,4.01,3.43,2.08,3.79,3.36,2.05,2.2,1.66,2.18,1.69,0.5,1.85,2.05,Troyes,RC Strasbourg,troyes,rc_strasbourg
+2022-04-20,F1,France-L1,2122,Troyes,Clermont,0.0,1.0,A,0.0,0.0,D,2.3,3.25,3.3,2.36,3.41,3.28,2.31,3.32,3.2,2.2,1.66,2.15,1.71,-0.25,2.01,1.92,Troyes,Clermont Foot,troyes,clermont_foot
+2022-05-01,F1,France-L1,2122,Troyes,Lille,3.0,0.0,H,1.0,0.0,H,3.6,3.25,2.15,3.79,3.3,2.19,3.58,3.28,2.16,2.2,1.66,2.2,1.68,0.25,2.03,1.87,Troyes,Lille,troyes,lille
+2022-05-14,F1,France-L1,2122,Troyes,Lens,1.0,3.0,A,1.0,2.0,A,3.4,3.6,2.1,3.29,3.82,2.16,3.32,3.67,2.12,1.72,2.1,1.74,2.1,0.25,2.06,1.84,Troyes,RC Lens,troyes,rc_lens
+2022-08-14,F1,France-L1,2223,Troyes,Toulouse,0.0,3.0,A,0.0,1.0,A,2.7,3.2,2.7,2.75,3.42,2.73,2.67,3.3,2.7,2.1,1.72,2.1,1.74,0.0,1.95,1.95,Troyes,Toulouse,troyes,toulouse
+2022-08-28,F1,France-L1,2223,Troyes,Angers,3.0,1.0,H,1.0,0.0,H,2.45,3.3,2.9,2.5,3.42,3.04,2.47,3.33,2.93,2.0,1.8,2.07,1.77,0.0,1.77,2.14,Troyes,Angers,troyes,angers
+2022-09-04,F1,France-L1,2223,Troyes,Rennes,1.0,1.0,D,1.0,0.0,H,4.33,4.0,1.75,4.24,3.92,1.88,4.21,3.79,1.83,1.86,2.04,1.81,2.02,0.5,2.1,1.7,Troyes,Stade Rennais,troyes,stade_rennais
+2022-10-02,F1,France-L1,2223,Troyes,Reims,2.0,2.0,D,0.0,1.0,A,2.5,3.4,2.8,2.59,3.41,2.92,2.51,3.38,2.83,1.95,1.95,1.9,1.92,0.0,1.83,2.07,Troyes,Stade de Reims,troyes,stade_de_reims
+2022-10-16,F1,France-L1,2223,Troyes,Ajaccio,1.0,1.0,D,0.0,0.0,D,2.15,3.2,3.6,2.25,3.08,3.94,2.18,3.19,3.63,2.37,1.57,2.33,1.6,-0.25,1.88,2.02,Troyes,Ajaccio,troyes,ajaccio
+2022-10-23,F1,France-L1,2223,Troyes,Lorient,2.0,2.0,D,1.0,0.0,H,2.3,3.5,3.0,2.47,3.56,2.98,2.38,3.5,2.94,1.86,2.04,1.82,2.01,-0.25,2.06,1.84,Troyes,Lorient,troyes,lorient
+2022-11-04,F1,France-L1,2223,Troyes,Auxerre,1.0,1.0,D,1.0,0.0,H,1.95,3.6,3.8,1.98,3.66,4.09,1.96,3.55,3.93,1.88,2.02,1.86,1.96,-0.5,1.96,1.94,Troyes,AJ Auxerre,troyes,aj_auxerre
+2022-12-28,F1,France-L1,2223,Troyes,Nantes,0.0,0.0,D,0.0,0.0,D,2.38,3.6,2.88,2.49,3.58,2.93,2.42,3.56,2.85,1.8,2.0,1.8,2.02,-0.25,2.09,1.81,Troyes,FC Nantes,troyes,fc_nantes
+2023-01-11,F1,France-L1,2223,Troyes,Marseille,0.0,2.0,A,0.0,1.0,A,5.0,4.0,1.67,5.03,4.18,1.7,4.79,4.05,1.69,1.73,2.1,1.75,2.1,0.75,2.0,1.9,Troyes,Olympique Marseille,troyes,olympique_marseille
+2023-01-28,F1,France-L1,2223,Troyes,Lens,1.0,1.0,D,0.0,0.0,D,5.0,3.8,1.7,5.2,4.03,1.71,5.03,3.94,1.68,1.92,1.98,1.88,1.94,0.75,2.02,1.88,Troyes,RC Lens,troyes,rc_lens
+2023-02-04,F1,France-L1,2223,Troyes,Lyon,1.0,3.0,A,0.0,1.0,A,4.5,4.2,1.7,4.65,4.25,1.74,4.52,4.09,1.72,1.67,2.2,1.68,2.2,0.75,1.98,1.95,Troyes,Olympique Lyonnais,troyes,olympique_lyonnais
+2023-02-19,F1,France-L1,2223,Troyes,Montpellier,0.0,1.0,A,0.0,0.0,D,2.75,3.25,2.6,2.92,3.32,2.64,2.79,3.32,2.57,1.91,1.99,1.9,1.93,0.0,2.03,1.87,Troyes,Montpellier,troyes,montpellier
+2023-03-05,F1,France-L1,2223,Troyes,Monaco,2.0,2.0,D,1.0,0.0,H,5.75,4.5,1.5,6.04,4.81,1.52,5.94,4.63,1.5,1.62,2.3,1.64,2.29,1.0,2.06,1.84,Troyes,AS Monaco,troyes,as_monaco
+2023-03-19,F1,France-L1,2223,Troyes,Brest,2.0,2.0,D,2.0,1.0,H,2.8,3.3,2.45,2.94,3.42,2.53,2.86,3.36,2.49,2.04,1.86,1.99,1.84,0.0,2.09,1.81,Troyes,Stade Brestois,troyes,stade_brestois
+2023-04-09,F1,France-L1,2223,Troyes,Clermont,0.0,2.0,A,0.0,2.0,A,2.75,3.25,2.63,2.83,3.4,2.63,2.75,3.31,2.59,2.0,1.8,2.05,1.77,0.0,2.02,1.88,Troyes,Clermont Foot,troyes,clermont_foot
+2023-04-30,F1,France-L1,2223,Troyes,Nice,0.0,1.0,A,0.0,1.0,A,4.75,3.75,1.73,4.76,3.99,1.76,4.57,3.88,1.74,1.86,2.04,1.81,2.0,0.75,1.93,1.97,Troyes,OGC Nice,troyes,ogc_nice
+2023-05-07,F1,France-L1,2223,Troyes,Paris SG,1.0,3.0,A,0.0,1.0,A,8.5,5.5,1.33,8.03,6.29,1.34,8.37,5.82,1.32,1.4,3.0,1.41,2.91,1.5,1.98,1.82,Troyes,Paris Saint-Germain,troyes,paris_saint_germain
+2023-05-21,F1,France-L1,2223,Troyes,Strasbourg,1.0,1.0,D,0.0,1.0,A,5.5,4.33,1.57,5.73,4.43,1.58,5.53,4.3,1.58,1.73,2.1,1.72,2.13,1.0,1.91,1.99,Troyes,RC Strasbourg,troyes,rc_strasbourg
+2023-06-03,F1,France-L1,2223,Troyes,Lille,1.0,1.0,D,0.0,0.0,D,12.0,6.5,1.22,10.85,7.45,1.22,11.45,7.09,1.22,1.36,3.2,1.36,3.14,2.0,1.87,2.03,Troyes,Lille,troyes,lille
+2023-08-12,F2,France-L2,2324,Troyes,Laval,3.0,1.0,H,2.0,0.0,H,1.91,3.3,3.75,2.09,3.55,3.64,2.03,3.38,3.53,2.08,1.73,2.02,1.76,-0.25,1.68,2.15,Troyes,Laval,troyes,laval
+2023-09-02,F2,France-L2,2324,Troyes,Quevilly Rouen,2.0,2.0,D,0.0,2.0,A,2.25,3.3,3.0,2.33,3.25,3.37,2.27,3.25,3.13,2.03,1.83,2.01,1.77,-0.25,1.98,1.88,Troyes,Quevilly Rouen,troyes,quevilly_rouen
+2023-09-23,F2,France-L2,2324,Troyes,Auxerre,1.0,2.0,A,0.0,1.0,A,3.25,3.5,2.1,3.45,3.74,2.1,3.28,3.54,2.08,1.83,2.03,1.78,2.0,0.25,2.03,1.83,Troyes,AJ Auxerre,troyes,aj_auxerre
+2023-09-30,F2,France-L2,2324,Troyes,St Etienne,0.0,1.0,A,0.0,0.0,D,3.3,3.5,2.1,3.51,3.68,2.09,3.33,3.51,2.08,1.8,2.05,1.76,2.02,0.25,2.03,1.83,Troyes,Saint-Etienne,troyes,saint_etienne
+2023-10-21,F2,France-L2,2324,Troyes,Concarneau,0.0,0.0,D,0.0,0.0,D,2.05,3.4,3.4,2.11,3.52,3.64,2.05,3.43,3.46,1.9,1.95,1.86,1.91,-0.5,2.05,1.75,Troyes,Concarneau,troyes,concarneau
+2023-11-04,F2,France-L2,2324,Troyes,Caen,2.0,1.0,H,1.0,0.0,H,2.8,3.3,2.45,2.82,3.46,2.57,2.79,3.31,2.46,1.93,1.93,1.87,1.9,0.0,2.05,1.8,Troyes,Caen,troyes,caen
+2023-11-25,F2,France-L2,2324,Troyes,Guingamp,0.0,1.0,A,0.0,1.0,A,3.2,3.3,2.1,3.53,3.41,2.13,3.34,3.33,2.14,2.08,1.73,2.02,1.76,0.25,1.98,1.88,Troyes,Guingamp,troyes,guingamp
+2023-12-05,F2,France-L2,2324,Troyes,Amiens,2.0,0.0,H,2.0,0.0,H,2.7,3.3,2.55,2.89,3.18,2.68,2.78,3.17,2.54,2.15,1.67,2.1,1.71,0.0,2.0,1.85,Troyes,Amiens,troyes,amiens
+2023-12-16,F2,France-L2,2324,Troyes,Angers,1.0,4.0,A,1.0,3.0,A,3.8,3.4,1.85,4.19,3.58,1.93,3.95,3.51,1.89,2.05,1.8,1.98,1.79,0.5,1.95,1.9,Troyes,Angers,troyes,angers
+2024-01-13,F2,France-L2,2324,Troyes,Ajaccio,3.0,1.0,H,1.0,1.0,D,2.63,3.0,2.6,2.79,3.02,2.92,2.73,3.01,2.71,2.5,1.5,2.5,1.51,0.0,1.9,1.95,Troyes,Ajaccio,troyes,ajaccio
+2024-02-03,F2,France-L2,2324,Troyes,Bordeaux,2.0,1.0,H,0.0,0.0,D,3.6,3.5,1.95,3.77,3.64,2.02,3.59,3.49,1.98,1.9,1.95,1.85,1.93,0.5,1.85,2.0,Troyes,Bordeaux,troyes,bordeaux
+2024-02-17,F2,France-L2,2324,Troyes,Grenoble,3.0,1.0,H,1.0,0.0,H,3.1,3.25,2.2,3.3,3.39,2.3,3.16,3.28,2.22,2.08,1.73,2.07,1.73,0.25,1.93,1.93,Troyes,Grenoble,troyes,grenoble
+2024-02-24,F2,France-L2,2324,Troyes,Dunkerque,1.0,2.0,A,1.0,1.0,D,2.05,3.4,3.3,2.14,3.45,3.62,2.11,3.36,3.32,1.98,1.88,1.92,1.85,-0.25,1.85,2.0,Troyes,Dunkerque,troyes,dunkerque
+2024-03-09,F2,France-L2,2324,Troyes,Bastia,2.0,0.0,H,1.0,0.0,H,2.63,3.0,2.88,2.74,3.16,2.86,2.61,3.1,2.75,2.25,1.62,2.19,1.64,0.0,1.88,1.98,Troyes,Bastia,troyes,bastia
+2024-03-30,F2,France-L2,2324,Troyes,Rodez,2.0,3.0,A,0.0,1.0,A,2.7,3.3,2.55,2.73,3.33,2.69,2.66,3.27,2.56,1.98,1.88,1.92,1.85,0.0,1.98,1.88,Troyes,Rodez,troyes,rodez
+2024-04-13,F2,France-L2,2324,Troyes,Paris FC,1.0,2.0,A,0.0,1.0,A,3.3,3.0,2.3,3.29,3.13,2.41,3.16,3.14,2.3,2.08,1.73,2.07,1.73,0.25,1.85,2.0,Troyes,Paris FC,troyes,paris_fc
+2024-04-23,F2,France-L2,2324,Troyes,Pau FC,2.0,2.0,D,0.0,1.0,A,2.38,3.3,2.88,2.46,3.32,3.03,2.36,3.29,2.92,1.98,1.88,1.93,1.84,-0.25,2.1,1.78,Troyes,Pau FC,troyes,pau_fc
+2024-05-17,F2,France-L2,2324,Troyes,Annecy,1.0,1.0,D,1.0,1.0,D,2.45,3.75,2.45,2.52,3.97,2.49,2.53,3.74,2.46,1.53,2.4,1.54,2.4,0.0,1.95,1.9,Troyes,Annecy,troyes,annecy
+2024-08-23,F2,France-L2,2425,Troyes,Clermont,0.0,1.0,A,0.0,1.0,A,3.3,3.0,2.2,3.57,3.3,2.19,3.4,3.23,2.14,2.15,1.73,2.07,1.72,0.25,1.93,1.93,Troyes,Clermont Foot,troyes,clermont_foot
+2024-09-20,F2,France-L2,2425,Troyes,Rodez,0.0,3.0,A,0.0,1.0,A,2.5,3.3,2.5,2.69,3.34,2.72,2.61,3.29,2.62,1.93,1.93,1.89,1.89,0.0,1.93,1.93,Troyes,Rodez,troyes,rodez
+2024-09-28,F2,France-L2,2425,Troyes,Metz,2.0,1.0,H,1.0,0.0,H,3.5,3.4,1.95,3.81,3.42,1.99,3.69,3.4,1.98,2.05,1.75,2.03,1.77,0.5,1.83,2.03,Troyes,Metz,troyes,metz
+2024-10-21,F2,France-L2,2425,Troyes,Paris FC,0.0,3.0,A,0.0,2.0,A,3.8,3.3,1.83,4.08,3.58,1.87,3.88,3.49,1.88,1.95,1.9,1.92,1.84,0.5,1.87,1.87,Troyes,Paris FC,troyes,paris_fc
+2024-10-29,F2,France-L2,2425,Troyes,Pau FC,3.0,0.0,H,0.0,0.0,D,2.5,3.25,2.8,2.53,3.36,2.9,2.46,3.28,2.79,1.93,1.93,1.89,1.87,0.0,1.8,2.05,Troyes,Pau FC,troyes,pau_fc
+2024-11-01,F2,France-L2,2425,Troyes,Laval,0.0,0.0,D,0.0,0.0,D,2.15,3.1,3.5,2.17,3.18,3.79,2.12,3.15,3.59,2.2,1.65,2.21,1.64,-0.25,1.83,2.03,Troyes,Laval,troyes,laval
+2024-11-22,F2,France-L2,2425,Troyes,Grenoble,0.0,0.0,D,0.0,0.0,D,2.2,3.2,3.3,2.28,3.28,3.39,2.21,3.22,3.28,2.15,1.67,2.17,1.66,-0.25,1.95,1.9,Troyes,Grenoble,troyes,grenoble
+2024-12-13,F2,France-L2,2425,Troyes,Martigues,4.0,0.0,H,1.0,0.0,H,1.45,4.1,6.5,1.48,4.28,7.29,1.46,4.17,6.94,2.03,1.83,1.99,1.8,-1.0,1.8,2.05,Troyes,Martigues,troyes,martigues
+2025-01-20,F2,France-L2,2425,Troyes,Annecy,0.0,1.0,A,0.0,1.0,A,2.0,3.3,3.75,2.1,3.28,3.63,2.03,3.3,3.61,2.05,1.8,2.0,1.77,-0.5,2.05,1.8,Troyes,Annecy,troyes,annecy
+2025-02-01,F2,France-L2,2425,Troyes,Caen,3.0,0.0,H,0.0,0.0,D,2.0,3.4,3.3,2.05,3.34,3.86,2.02,3.4,3.56,2.0,1.85,1.96,1.82,-0.5,2.05,1.8,Troyes,Caen,troyes,caen
+2025-02-14,F2,France-L2,2425,Troyes,Lorient,0.0,1.0,A,0.0,0.0,D,3.9,2.9,2.1,4.17,3.08,2.11,3.97,2.96,2.07,2.25,1.62,2.27,1.61,0.5,1.73,2.08,Troyes,Lorient,troyes,lorient
+2025-02-28,F2,France-L2,2425,Troyes,Bastia,2.0,0.0,H,1.0,0.0,H,2.7,2.75,2.9,2.72,2.97,2.99,2.67,2.85,2.86,2.5,1.5,2.54,1.49,0.0,1.83,2.03,Troyes,Bastia,troyes,bastia
+2025-03-14,F2,France-L2,2425,Troyes,Guingamp,0.0,1.0,A,0.0,0.0,D,2.5,3.1,2.7,2.7,3.12,2.88,2.61,3.07,2.77,2.25,1.62,2.31,1.59,0.0,1.85,2.0,Troyes,Guingamp,troyes,guingamp
+2025-04-05,F2,France-L2,2425,Troyes,Red Star,2.0,2.0,D,2.0,2.0,D,1.95,3.4,4.0,1.92,3.37,4.16,1.94,3.32,3.97,2.2,1.65,2.19,1.64,-0.5,1.95,1.9,Troyes,Red Star,troyes,red_star
+2025-04-11,F2,France-L2,2425,Troyes,Ajaccio,0.0,0.0,D,0.0,0.0,D,1.85,3.3,4.5,1.89,3.22,4.92,1.89,3.19,4.49,2.5,1.5,2.54,1.5,-0.5,1.9,1.95,Troyes,Ajaccio,troyes,ajaccio
+2025-04-25,F2,France-L2,2425,Troyes,Dunkerque,1.0,0.0,H,1.0,0.0,H,2.7,3.0,2.75,2.74,3.19,2.78,2.62,3.14,2.73,2.15,1.67,2.15,1.68,0.0,1.93,1.93,Troyes,Dunkerque,troyes,dunkerque
+2025-05-10,F2,France-L2,2425,Troyes,Amiens,1.0,0.0,H,0.0,0.0,D,1.55,4.1,5.5,1.55,4.3,5.14,1.55,4.16,5.36,1.75,2.05,1.76,2.01,-1.0,2.0,1.85,Troyes,Amiens,troyes,amiens
+2025-08-09,F2,France-L2,2526,Troyes,Grenoble,2.0,1.0,H,1.0,1.0,D,1.7,3.4,4.33,1.79,3.52,4.63,1.75,3.45,4.34,2.05,1.75,2.0,1.73,-0.75,2.03,1.78,Troyes,Grenoble,troyes,grenoble
+2025-08-23,F2,France-L2,2526,Troyes,Montpellier,1.0,0.0,H,1.0,0.0,H,2.2,3.4,2.7,2.31,3.33,3.11,2.29,3.27,2.88,2.03,1.78,2.01,1.73,-0.25,2.0,1.8,Troyes,Montpellier,troyes,montpellier
+2025-09-12,F2,France-L2,2526,Troyes,Nancy,3.0,0.0,H,1.0,0.0,H,2.1,3.0,3.5,2.18,3.22,3.7,2.12,3.12,3.43,2.25,1.62,2.22,1.6,-0.25,1.85,1.95,Troyes,Nancy,troyes,nancy
+2025-09-20,F2,France-L2,2526,Troyes,Guingamp,5.0,2.0,H,3.0,1.0,H,1.83,3.5,3.8,1.83,3.74,4.11,1.84,3.49,3.85,1.83,1.98,1.83,1.88,-0.5,1.85,1.95,Troyes,Guingamp,troyes,guingamp
+2025-09-26,F2,France-L2,2526,Troyes,Annecy,3.0,1.0,H,1.0,0.0,H,1.53,3.9,6.25,1.52,4.04,7.24,1.49,3.87,6.48,2.08,1.73,2.05,1.7,-1.0,1.98,1.83,Troyes,Annecy,troyes,annecy
+2025-10-17,F2,France-L2,2526,Troyes,Bastia,1.0,0.0,H,1.0,0.0,H,1.75,3.5,4.5,1.83,3.65,4.51,1.8,3.43,4.19,2.1,1.7,2.07,1.68,-0.5,1.78,2.03,Troyes,Bastia,troyes,bastia
+2025-10-28,F2,France-L2,2526,Troyes,Amiens,3.0,1.0,H,0.0,1.0,A,1.42,4.75,6.25,,,,1.43,4.39,6.44,1.75,2.05,1.75,1.99,-1.25,2.0,1.8,Troyes,Amiens,troyes,amiens
+2025-11-08,F2,France-L2,2526,Troyes,St Etienne,2.0,3.0,A,0.0,3.0,A,2.2,3.4,3.0,,,,2.22,3.31,2.99,1.83,1.98,1.77,1.95,-0.25,1.95,1.85,Troyes,Saint-Etienne,troyes,saint_etienne
+2025-12-06,F2,France-L2,2526,Troyes,Rodez,1.0,1.0,D,0.0,0.0,D,1.62,3.9,5.25,,,,1.61,3.76,5.03,1.83,1.98,1.8,1.9,-0.75,1.8,2.0,Troyes,Rodez,troyes,rodez
+2026-01-03,F2,France-L2,2526,Troyes,Red Star,1.0,0.0,H,1.0,0.0,H,1.8,3.4,4.0,,,,1.81,3.3,4.24,2.1,1.7,2.06,1.68,-0.5,1.83,1.98,Troyes,Red Star,troyes,red_star
+2026-01-17,F2,France-L2,2526,Troyes,Reims,2.0,1.0,H,2.0,0.0,H,2.2,3.0,3.0,,,,2.28,3.1,3.01,2.1,1.7,2.1,1.65,-0.25,1.95,1.85,Troyes,Stade de Reims,troyes,stade_de_reims
+2026-01-31,F2,France-L2,2526,Troyes,Le Mans,0.0,2.0,A,0.0,2.0,A,1.95,3.1,3.5,,,,2.02,3.08,3.74,2.2,1.65,2.15,1.63,-0.5,2.03,1.78,Troyes,Le Mans,troyes,le_mans
+2026-02-21,F2,France-L2,2526,Troyes,Pau FC,4.0,3.0,H,2.0,2.0,D,1.85,3.5,3.7,,,,1.87,3.52,3.76,1.83,1.98,1.8,1.92,-0.5,1.9,1.9,Troyes,Pau FC,troyes,pau_fc
+2026-03-07,F2,France-L2,2526,Troyes,Clermont,2.0,1.0,H,0.0,0.0,D,1.62,3.5,5.0,,,,1.66,3.65,4.76,1.85,1.95,1.83,1.87,-0.75,1.85,1.95,Troyes,Clermont Foot,troyes,clermont_foot
+2026-03-21,F2,France-L2,2526,Troyes,Dunkerque,5.0,1.0,H,2.0,1.0,H,1.83,3.3,3.75,,,,1.89,3.37,3.77,1.9,1.9,1.86,1.85,-0.5,1.9,1.9,Troyes,Dunkerque,troyes,dunkerque
+2026-04-18,F2,France-L2,2526,Troyes,Boulogne,1.0,0.0,H,0.0,0.0,D,1.45,3.75,6.25,,,,1.49,4.0,5.92,1.83,1.98,1.79,1.94,-1.0,1.88,1.93,Troyes,Boulogne,troyes,boulogne
+2026-05-02,F2,France-L2,2526,Troyes,Laval,4.0,0.0,H,2.0,0.0,H,1.5,4.33,4.5,,,,1.54,4.02,5.16,1.67,2.15,1.71,2.04,-1.0,1.95,1.85,Troyes,Laval,troyes,laval
+2026-08-22,F1,France-L1,2627,Troyes,Paris FC,0.0,0.0,D,0.0,0.0,D,3.1,3.4,2.3,,,,2.96,3.46,2.27,1.73,2.1,1.68,2.1,0.25,1.88,1.98,Troyes,Paris FC,troyes,paris_fc
+2026-09-06,F1,France-L1,2627,Troyes,Strasbourg,2.0,6.0,A,1.0,2.0,A,3.1,3.4,2.3,,,,3.01,3.35,2.28,1.88,1.98,1.85,1.88,0.25,1.85,2.0,Troyes,RC Strasbourg,troyes,rc_strasbourg
+2026-10-11,F1,France-L1,2627,Troyes,Marseille,0.0,2.0,A,0.0,0.0,D,3.75,3.75,1.91,,,,3.66,3.81,1.88,1.57,2.38,1.57,2.3,0.5,1.98,1.88,Troyes,Olympique Marseille,troyes,olympique_marseille
+2026-10-17,F1,France-L1,2627,Troyes,Lens,1.0,3.0,A,1.0,2.0,A,3.8,4.0,1.85,,,,3.84,3.89,1.82,1.57,2.38,1.54,2.36,0.5,2.0,1.85,Troyes,RC Lens,troyes,rc_lens

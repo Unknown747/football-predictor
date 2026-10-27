@@ -1,0 +1,20 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2025-08-30,I2,Italy-SB,2526,Mantova,Pescara,2.0,1.0,H,1.0,0.0,H,2.2,3.25,3.25,2.31,3.43,3.08,2.17,3.33,3.08,1.98,1.83,1.91,1.79,-0.25,1.9,1.9,Mantova,Pescara,mantova,pescara
+2025-09-28,I2,Italy-SB,2526,Modena,Pescara,2.0,1.0,H,0.0,1.0,A,1.53,4.1,5.25,1.56,4.14,5.68,1.59,3.75,5.13,2.0,1.8,1.95,1.76,-0.75,1.73,2.08,Modena,Pescara,modena,pescara
+2025-10-05,I2,Italy-SB,2526,Sampdoria,Pescara,4.0,1.0,H,0.0,1.0,A,1.79,3.4,4.5,1.86,3.36,4.56,1.81,3.27,4.35,2.35,1.57,2.28,1.56,-0.5,1.85,1.95,Sampdoria,Pescara,sampdoria,pescara
+2025-10-25,I2,Italy-SB,2526,Virtus Entella,Pescara,1.0,1.0,D,0.0,0.0,D,1.79,3.5,4.33,1.83,3.48,4.6,1.81,3.33,4.26,2.15,1.67,2.16,1.62,-0.5,1.83,1.98,Virtus Entella,Pescara,virtus_entella,pescara
+2025-11-01,I2,Italy-SB,2526,Palermo,Pescara,5.0,0.0,H,1.0,0.0,H,1.45,4.75,5.75,,,,1.41,4.45,6.48,1.7,2.1,1.7,2.05,-1.25,2.03,1.78,Palermo,Pescara,palermo,pescara
+2025-11-21,I2,Italy-SB,2526,Catanzaro,Pescara,3.0,3.0,D,1.0,2.0,A,1.66,3.4,5.5,,,,1.69,3.44,4.88,2.1,1.7,2.06,1.68,-0.75,1.9,1.9,Catanzaro,Pescara,catanzaro,pescara
+2025-12-08,I2,Italy-SB,2526,Bari,Pescara,1.0,1.0,D,0.0,1.0,A,1.91,3.3,4.1,,,,1.88,3.32,3.96,2.15,1.67,2.06,1.68,-0.5,1.95,1.85,Bari,Pescara,bari,pescara
+2025-12-27,I2,Italy-SB,2526,Spezia,Pescara,2.0,1.0,H,1.0,1.0,D,1.66,3.5,4.5,,,,1.68,3.64,4.59,1.85,1.95,1.83,1.86,-0.75,1.95,1.85,Spezia,Pescara,spezia,pescara
+2026-01-10,I2,Italy-SB,2526,Juve Stabia,Pescara,2.0,2.0,D,0.0,1.0,A,1.71,3.4,5.0,,,,1.78,3.36,4.39,2.05,1.75,2.02,1.71,-0.5,1.75,2.05,Juve Stabia,Pescara,juve_stabia,pescara
+2026-01-24,I2,Italy-SB,2526,Monza,Pescara,3.0,0.0,H,1.0,0.0,H,1.37,4.75,7.5,,,,1.38,4.61,7.11,1.67,2.15,1.66,2.1,-1.25,1.88,1.93,Monza,Pescara,monza,pescara
+2026-02-06,I2,Italy-SB,2526,Cesena,Pescara,2.0,0.0,H,1.0,0.0,H,1.66,3.75,4.75,,,,1.69,3.66,4.6,1.85,1.95,1.8,1.92,-0.75,1.9,1.9,Cesena,Pescara,cesena,pescara
+2026-02-15,I2,Italy-SB,2526,Avellino,Pescara,0.0,1.0,A,0.0,0.0,D,2.15,3.3,3.1,,,,2.16,3.32,3.07,1.85,1.95,1.82,1.87,-0.25,1.93,1.88,Avellino,Pescara,avellino,pescara
+2026-02-21,I2,Italy-SB,2526,Venezia,Pescara,3.0,2.0,H,2.0,1.0,H,1.33,4.75,8.0,,,,1.33,4.95,7.39,1.5,2.5,1.48,2.48,-1.5,2.0,1.8,Venezia,Pescara,venezia,pescara
+2026-03-04,I2,Italy-SB,2526,Frosinone,Pescara,2.0,2.0,D,0.0,2.0,A,1.53,4.2,5.0,,,,1.54,4.31,4.86,1.48,2.6,1.45,2.59,-1.0,1.9,1.9,Frosinone,Pescara,frosinone,pescara
+2026-03-15,I2,Italy-SB,2526,Sudtirol,Pescara,0.0,0.0,D,0.0,0.0,D,1.76,3.5,4.5,,,,1.79,3.47,4.07,1.9,1.9,1.86,1.82,-0.5,1.8,2.0,Sudtirol,Pescara,sudtirol,pescara
+2026-03-22,I2,Italy-SB,2526,Empoli,Pescara,4.0,2.0,H,2.0,1.0,H,1.96,3.5,3.6,,,,1.97,3.51,3.39,1.8,2.0,1.74,1.99,-0.5,2.0,1.8,Empoli,Pescara,empoli,pescara
+2026-04-06,I2,Italy-SB,2526,Reggiana,Pescara,1.0,3.0,A,0.0,1.0,A,2.75,3.3,2.25,,,,2.79,3.27,2.32,1.95,1.85,1.9,1.82,0.25,1.75,2.05,Reggiana,Pescara,reggiana,pescara
+2026-04-19,I2,Italy-SB,2526,Carrarese,Pescara,2.0,2.0,D,1.0,1.0,D,2.2,3.4,3.1,,,,2.18,3.39,3.02,1.8,2.0,1.77,1.96,-0.25,1.98,1.83,Carrarese,Pescara,carrarese,pescara
+2026-05-01,I2,Italy-SB,2526,Padova,Pescara,1.0,0.0,H,0.0,0.0,D,2.7,3.4,2.4,,,,2.68,3.4,2.35,1.7,2.1,1.66,2.1,0.0,2.03,1.78,Padova,Pescara,padova,pescara

@@ -1,0 +1,93 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-15,F1,France-L1,2122,Angers,Lyon,3.0,0.0,H,1.0,0.0,H,4.5,3.8,1.75,4.38,3.81,1.88,4.35,3.74,1.82,1.72,2.1,1.76,2.08,0.75,1.85,2.08,Angers,Olympique Lyonnais,angers,olympique_lyonnais
+2021-08-27,F1,France-L1,2122,Nantes,Lyon,0.0,1.0,A,0.0,1.0,A,4.5,4.0,1.66,4.84,4.1,1.74,4.68,3.98,1.73,1.72,2.1,1.71,2.16,0.75,1.99,1.94,FC Nantes,Olympique Lyonnais,fc_nantes,olympique_lyonnais
+2021-09-19,F1,France-L1,2122,Paris SG,Lyon,2.0,1.0,H,0.0,0.0,D,1.3,5.75,9.0,1.37,5.62,8.51,1.35,5.55,8.19,1.4,3.0,1.42,2.86,-1.5,2.01,1.92,Paris Saint-Germain,Olympique Lyonnais,paris_saint_germain,olympique_lyonnais
+2021-10-03,F1,France-L1,2122,St Etienne,Lyon,1.0,1.0,D,0.0,1.0,A,4.33,4.0,1.75,4.7,4.04,1.78,4.35,3.97,1.77,1.57,2.37,1.58,2.41,0.75,1.94,1.99,Saint-Etienne,Olympique Lyonnais,saint_etienne,olympique_lyonnais
+2021-10-24,F1,France-L1,2122,Nice,Lyon,3.0,2.0,H,0.0,1.0,A,2.5,3.4,2.7,2.62,3.56,2.78,2.56,3.5,2.67,1.61,2.3,1.64,2.28,0.0,1.92,2.01,OGC Nice,Olympique Lyonnais,ogc_nice,olympique_lyonnais
+2021-11-07,F1,France-L1,2122,Rennes,Lyon,4.0,1.0,H,1.0,0.0,H,2.6,3.6,2.55,2.7,3.6,2.68,2.64,3.55,2.59,1.61,2.3,1.63,2.31,0.0,1.97,1.96,Stade Rennais,Olympique Lyonnais,stade_rennais,olympique_lyonnais
+2021-11-28,F1,France-L1,2122,Montpellier,Lyon,0.0,1.0,A,0.0,1.0,A,4.2,4.33,1.72,4.28,4.44,1.77,4.21,4.23,1.74,1.5,2.62,1.49,2.59,0.75,1.97,1.96,Montpellier,Olympique Lyonnais,montpellier,olympique_lyonnais
+2021-12-05,F1,France-L1,2122,Bordeaux,Lyon,2.0,2.0,D,1.0,2.0,A,4.75,4.0,1.66,4.76,4.34,1.71,4.56,4.25,1.68,1.5,2.62,1.5,2.57,0.75,2.02,1.88,Bordeaux,Olympique Lyonnais,bordeaux,olympique_lyonnais
+2021-12-12,F1,France-L1,2122,Lille,Lyon,0.0,0.0,D,0.0,0.0,D,2.3,3.6,2.9,2.36,3.72,3.03,2.37,3.58,2.9,1.72,2.1,1.72,2.16,-0.25,2.08,1.85,Lille,Olympique Lyonnais,lille,olympique_lyonnais
+2022-01-16,F1,France-L1,2122,Troyes,Lyon,0.0,1.0,A,0.0,1.0,A,5.25,4.0,1.65,4.93,4.09,1.7,4.9,4.01,1.68,1.8,2.0,1.78,2.05,0.75,2.06,1.84,Troyes,Olympique Lyonnais,troyes,olympique_lyonnais
+2022-02-05,F1,France-L1,2122,Monaco,Lyon,2.0,0.0,H,2.0,0.0,H,1.95,3.6,3.75,1.99,3.69,3.83,1.99,3.68,3.66,1.72,2.1,1.74,2.11,-0.5,2.0,1.9,AS Monaco,Olympique Lyonnais,as_monaco,olympique_lyonnais
+2022-02-19,F1,France-L1,2122,Lens,Lyon,1.0,1.0,D,1.0,1.0,D,2.9,3.4,2.4,2.95,3.53,2.5,2.84,3.51,2.45,1.84,2.06,1.81,2.02,0.25,1.79,2.11,RC Lens,Olympique Lyonnais,rc_lens,olympique_lyonnais
+2022-03-04,F1,France-L1,2122,Lorient,Lyon,1.0,4.0,A,0.0,2.0,A,4.33,3.8,1.8,4.53,3.73,1.87,4.45,3.72,1.82,1.93,1.97,1.9,1.92,0.75,1.8,2.1,Lorient,Olympique Lyonnais,lorient,olympique_lyonnais
+2022-03-20,F1,France-L1,2122,Reims,Lyon,0.0,0.0,D,0.0,0.0,D,4.33,3.6,1.83,4.35,3.78,1.89,4.19,3.68,1.87,2.03,1.87,1.97,1.85,0.5,2.02,1.88,Stade de Reims,Olympique Lyonnais,stade_de_reims,olympique_lyonnais
+2022-04-10,F1,France-L1,2122,Strasbourg,Lyon,1.0,1.0,D,1.0,0.0,H,2.5,3.3,2.87,2.53,3.53,2.91,2.48,3.41,2.87,1.9,2.0,1.87,1.95,0.0,1.8,2.1,RC Strasbourg,Olympique Lyonnais,rc_strasbourg,olympique_lyonnais
+2022-04-20,F1,France-L1,2122,Brest,Lyon,2.0,1.0,H,1.0,0.0,H,4.0,4.33,1.75,4.63,4.23,1.75,4.39,4.08,1.75,1.66,2.2,1.67,2.23,0.75,1.95,1.98,Stade Brestois,Olympique Lyonnais,stade_brestois,olympique_lyonnais
+2022-05-01,F1,France-L1,2122,Marseille,Lyon,0.0,3.0,A,0.0,0.0,D,2.25,3.5,3.0,2.35,3.7,3.06,2.29,3.6,3.0,1.61,2.3,1.65,2.26,-0.25,2.02,1.88,Olympique Marseille,Olympique Lyonnais,olympique_marseille,olympique_lyonnais
+2022-05-08,F1,France-L1,2122,Metz,Lyon,3.0,2.0,H,2.0,1.0,H,7.0,5.0,1.4,7.66,5.26,1.42,7.2,5.03,1.41,1.53,2.5,1.54,2.48,1.25,1.97,1.93,Metz,Olympique Lyonnais,metz,olympique_lyonnais
+2022-05-21,F1,France-L1,2122,Clermont,Lyon,1.0,2.0,A,0.0,1.0,A,4.0,4.0,1.8,3.98,4.25,1.84,3.86,4.17,1.83,1.44,2.75,1.44,2.76,0.75,1.86,2.04,Clermont Foot,Olympique Lyonnais,clermont_foot,olympique_lyonnais
+2022-08-28,F1,France-L1,2223,Reims,Lyon,1.0,1.0,D,1.0,0.0,H,4.2,4.0,1.75,4.29,4.13,1.82,4.28,4.03,1.77,1.66,2.2,1.64,2.27,0.75,1.88,2.02,Stade de Reims,Olympique Lyonnais,stade_de_reims,olympique_lyonnais
+2022-09-07,F1,France-L1,2223,Lorient,Lyon,3.0,1.0,H,2.0,1.0,H,4.5,4.5,1.65,4.64,4.42,1.72,4.62,4.25,1.68,1.57,2.37,1.58,2.4,0.75,2.03,1.87,Lorient,Olympique Lyonnais,lorient,olympique_lyonnais
+2022-09-11,F1,France-L1,2223,Monaco,Lyon,2.0,1.0,H,0.0,0.0,D,2.5,3.5,2.7,2.55,3.72,2.77,2.51,3.62,2.7,1.57,2.37,1.56,2.42,0.0,1.86,2.04,AS Monaco,Olympique Lyonnais,as_monaco,olympique_lyonnais
+2022-10-02,F1,France-L1,2223,Lens,Lyon,1.0,0.0,H,0.0,0.0,D,2.5,3.8,2.55,2.57,3.87,2.67,2.54,3.75,2.61,1.57,2.37,1.58,2.4,0.0,1.91,1.99,RC Lens,Olympique Lyonnais,rc_lens,olympique_lyonnais
+2022-10-16,F1,France-L1,2223,Rennes,Lyon,3.0,2.0,H,1.0,1.0,D,2.3,3.7,2.87,2.37,3.59,3.11,2.3,3.61,2.98,1.66,2.2,1.69,2.18,-0.25,2.03,1.87,Stade Rennais,Olympique Lyonnais,stade_rennais,olympique_lyonnais
+2022-10-22,F1,France-L1,2223,Montpellier,Lyon,1.0,2.0,A,0.0,1.0,A,4.0,3.8,1.85,4.07,4.13,1.86,3.94,3.98,1.84,1.57,2.37,1.57,2.39,0.5,2.05,1.85,Montpellier,Olympique Lyonnais,montpellier,olympique_lyonnais
+2022-11-06,F1,France-L1,2223,Marseille,Lyon,1.0,0.0,H,1.0,0.0,H,2.2,3.5,3.2,2.28,3.59,3.27,2.23,3.57,3.14,1.72,2.1,1.74,2.11,-0.25,1.95,1.95,Olympique Marseille,Olympique Lyonnais,olympique_marseille,olympique_lyonnais
+2022-12-28,F1,France-L1,2223,Brest,Lyon,2.0,4.0,A,1.0,3.0,A,3.75,3.6,1.95,3.7,3.91,2.01,3.62,3.74,1.98,1.73,2.1,1.73,2.13,0.5,1.9,2.0,Stade Brestois,Olympique Lyonnais,stade_brestois,olympique_lyonnais
+2023-01-11,F1,France-L1,2223,Nantes,Lyon,0.0,0.0,D,0.0,0.0,D,3.3,3.4,2.2,3.39,3.43,2.29,3.31,3.37,2.24,1.88,2.02,1.86,1.96,0.25,1.94,1.96,FC Nantes,Olympique Lyonnais,fc_nantes,olympique_lyonnais
+2023-01-29,F1,France-L1,2223,Ajaccio,Lyon,0.0,2.0,A,0.0,1.0,A,4.5,3.6,1.83,4.93,3.72,1.81,4.59,3.66,1.79,2.06,1.84,2.02,1.82,0.75,1.88,2.02,Ajaccio,Olympique Lyonnais,ajaccio,olympique_lyonnais
+2023-02-04,F1,France-L1,2223,Troyes,Lyon,1.0,3.0,A,0.0,1.0,A,4.5,4.2,1.7,4.65,4.25,1.74,4.52,4.09,1.72,1.67,2.2,1.68,2.2,0.75,1.98,1.95,Troyes,Olympique Lyonnais,troyes,olympique_lyonnais
+2023-02-17,F1,France-L1,2223,Auxerre,Lyon,2.0,1.0,H,0.0,1.0,A,4.0,3.6,1.95,4.14,3.69,1.96,3.97,3.6,1.94,1.94,1.96,1.91,1.91,0.5,1.97,1.96,AJ Auxerre,Olympique Lyonnais,aj_auxerre,olympique_lyonnais
+2023-02-25,F1,France-L1,2223,Angers,Lyon,1.0,3.0,A,0.0,1.0,A,5.0,4.0,1.67,5.07,3.98,1.74,4.88,3.88,1.71,1.9,2.0,1.87,1.96,0.75,1.96,1.94,Angers,Olympique Lyonnais,angers,olympique_lyonnais
+2023-03-10,F1,France-L1,2223,Lille,Lyon,3.0,3.0,D,0.0,0.0,D,1.85,3.75,4.0,1.94,3.85,4.02,1.92,3.76,3.88,1.67,2.2,1.68,2.2,-0.5,1.94,1.99,Lille,Olympique Lyonnais,lille,olympique_lyonnais
+2023-04-02,F1,France-L1,2223,Paris SG,Lyon,0.0,1.0,A,0.0,0.0,D,1.4,5.0,7.0,1.46,5.29,6.28,1.42,5.08,6.66,1.5,2.63,1.49,2.62,-1.25,1.92,1.98,Paris Saint-Germain,Olympique Lyonnais,paris_saint_germain,olympique_lyonnais
+2023-04-14,F1,France-L1,2223,Toulouse,Lyon,1.0,2.0,A,1.0,1.0,D,3.4,3.8,2.0,3.53,3.92,2.04,3.39,3.79,2.05,1.57,2.38,1.6,2.35,0.5,1.88,2.05,Toulouse,Olympique Lyonnais,toulouse,olympique_lyonnais
+2023-04-28,F1,France-L1,2223,Strasbourg,Lyon,1.0,2.0,A,1.0,2.0,A,2.63,3.5,2.6,2.79,3.46,2.67,2.71,3.4,2.62,1.96,1.94,1.93,1.88,0.0,1.99,1.91,RC Strasbourg,Olympique Lyonnais,rc_strasbourg,olympique_lyonnais
+2023-05-14,F1,France-L1,2223,Clermont,Lyon,2.0,1.0,H,1.0,1.0,D,4.33,3.75,1.8,4.21,4.07,1.83,4.15,3.93,1.8,1.73,2.1,1.74,2.11,0.75,1.82,2.08,Clermont Foot,Olympique Lyonnais,clermont_foot,olympique_lyonnais
+2023-06-03,F1,France-L1,2223,Nice,Lyon,3.0,1.0,H,3.0,1.0,H,2.38,4.0,2.7,2.39,4.06,2.72,2.36,3.92,2.72,1.5,2.63,1.47,2.66,0.0,1.82,2.08,OGC Nice,Olympique Lyonnais,ogc_nice,olympique_lyonnais
+2023-08-13,F1,France-L1,2324,Strasbourg,Lyon,2.0,1.0,H,0.0,0.0,D,2.55,3.6,2.55,2.61,3.55,2.76,2.57,3.62,2.61,1.73,2.1,1.71,2.15,0.0,1.91,1.99,RC Strasbourg,Olympique Lyonnais,rc_strasbourg,olympique_lyonnais
+2023-08-27,F1,France-L1,2324,Nice,Lyon,0.0,0.0,D,0.0,0.0,D,2.1,3.6,3.4,2.11,3.79,3.44,2.11,3.7,3.29,1.67,2.2,1.65,2.27,-0.25,1.84,2.06,OGC Nice,Olympique Lyonnais,ogc_nice,olympique_lyonnais
+2023-09-23,F1,France-L1,2324,Brest,Lyon,1.0,0.0,H,0.0,0.0,D,2.6,3.5,2.63,2.57,3.67,2.73,2.53,3.61,2.65,1.67,2.2,1.66,2.25,0.0,1.89,2.01,Stade Brestois,Olympique Lyonnais,stade_brestois,olympique_lyonnais
+2023-10-01,F1,France-L1,2324,Reims,Lyon,2.0,0.0,H,1.0,0.0,H,2.0,3.8,3.4,2.1,3.81,3.45,2.05,3.8,3.38,1.67,2.2,1.65,2.26,-0.25,1.75,2.05,Stade de Reims,Olympique Lyonnais,stade_de_reims,olympique_lyonnais
+2023-11-12,F1,France-L1,2324,Rennes,Lyon,0.0,1.0,A,0.0,0.0,D,1.73,4.2,4.33,1.75,4.12,4.48,1.73,4.06,4.48,1.67,2.15,1.67,2.22,-0.75,1.94,1.96,Stade Rennais,Olympique Lyonnais,stade_rennais,olympique_lyonnais
+2023-12-02,F1,France-L1,2324,Lens,Lyon,3.0,2.0,H,1.0,1.0,D,1.7,4.0,4.75,1.7,4.14,4.81,1.71,4.05,4.8,1.75,2.05,1.76,2.09,-0.75,1.91,2.02,RC Lens,Olympique Lyonnais,rc_lens,olympique_lyonnais
+2023-12-06,F1,France-L1,2324,Marseille,Lyon,3.0,0.0,H,2.0,0.0,H,1.67,3.8,4.75,1.71,3.94,5.06,1.71,3.96,4.87,1.75,2.05,1.78,2.07,-0.75,1.91,1.99,Olympique Marseille,Olympique Lyonnais,olympique_marseille,olympique_lyonnais
+2023-12-15,F1,France-L1,2324,Monaco,Lyon,0.0,1.0,A,0.0,0.0,D,1.7,4.2,4.33,1.76,4.22,4.47,1.73,4.19,4.49,1.57,2.35,1.56,2.43,-0.75,1.95,1.98,AS Monaco,Olympique Lyonnais,as_monaco,olympique_lyonnais
+2024-01-14,F1,France-L1,2324,Le Havre,Lyon,3.0,1.0,H,1.0,0.0,H,3.25,3.25,2.25,3.26,3.29,2.36,3.18,3.32,2.32,2.08,1.73,2.06,1.78,0.25,1.89,2.01,Le Havre,Olympique Lyonnais,le_havre,olympique_lyonnais
+2024-02-11,F1,France-L1,2324,Montpellier,Lyon,1.0,2.0,A,1.0,0.0,H,3.1,3.4,2.38,3.1,3.41,2.4,3.05,3.35,2.36,2.06,1.84,2.01,1.82,0.25,1.86,2.07,Montpellier,Olympique Lyonnais,montpellier,olympique_lyonnais
+2024-02-23,F1,France-L1,2324,Metz,Lyon,1.0,2.0,A,1.0,1.0,D,4.0,3.4,1.91,4.31,3.44,1.98,4.14,3.4,1.96,2.2,1.65,2.22,1.68,0.5,1.93,1.97,Metz,Olympique Lyonnais,metz,olympique_lyonnais
+2024-03-09,F1,France-L1,2324,Lorient,Lyon,0.0,2.0,A,0.0,0.0,D,3.3,3.4,2.2,3.33,3.44,2.26,3.29,3.46,2.22,2.0,1.9,1.94,1.88,0.25,2.01,1.92,Lorient,Olympique Lyonnais,lorient,olympique_lyonnais
+2024-03-15,F1,France-L1,2324,Toulouse,Lyon,2.0,3.0,A,0.0,1.0,A,2.88,3.2,2.6,2.89,3.26,2.63,2.85,3.26,2.6,2.08,1.82,2.03,1.82,0.0,2.09,1.84,Toulouse,Olympique Lyonnais,toulouse,olympique_lyonnais
+2024-04-07,F1,France-L1,2324,Nantes,Lyon,1.0,3.0,A,1.0,0.0,H,3.3,3.25,2.25,3.3,3.3,2.34,3.21,3.32,2.3,2.08,1.73,2.08,1.76,0.25,1.92,2.01,FC Nantes,Olympique Lyonnais,fc_nantes,olympique_lyonnais
+2024-04-21,F1,France-L1,2324,Paris SG,Lyon,4.0,1.0,H,4.0,1.0,H,1.44,5.25,6.0,1.5,5.06,5.71,1.48,4.97,5.85,1.44,2.75,1.47,2.67,-1.25,2.03,1.87,Paris Saint-Germain,Olympique Lyonnais,paris_saint_germain,olympique_lyonnais
+2024-05-06,F1,France-L1,2324,Lille,Lyon,3.0,4.0,A,2.0,0.0,H,1.91,3.8,3.8,1.92,3.89,3.9,1.91,3.77,3.84,1.73,2.1,1.74,2.09,-0.5,1.95,1.95,Lille,Olympique Lyonnais,lille,olympique_lyonnais
+2024-05-12,F1,France-L1,2324,Clermont,Lyon,0.0,1.0,A,0.0,0.0,D,5.25,4.5,1.55,5.54,4.78,1.54,5.22,4.65,1.56,1.44,2.75,1.43,2.79,1.0,2.01,1.89,Clermont Foot,Olympique Lyonnais,clermont_foot,olympique_lyonnais
+2024-08-18,F1,France-L1,2425,Rennes,Lyon,3.0,0.0,H,2.0,0.0,H,2.35,3.5,2.9,2.47,3.38,3.01,2.36,3.45,2.95,1.8,2.0,1.8,2.03,-0.25,2.1,1.83,Stade Rennais,Olympique Lyonnais,stade_rennais,olympique_lyonnais
+2024-09-15,F1,France-L1,2425,Lens,Lyon,0.0,0.0,D,0.0,0.0,D,1.8,3.75,4.33,1.86,3.8,4.18,1.85,3.78,4.12,1.73,2.1,1.7,2.18,-0.5,1.86,2.04,RC Lens,Olympique Lyonnais,rc_lens,olympique_lyonnais
+2024-09-29,F1,France-L1,2425,Toulouse,Lyon,1.0,2.0,A,1.0,1.0,D,2.45,3.4,2.88,2.5,3.55,2.85,2.47,3.49,2.82,1.84,2.06,1.81,1.99,0.0,1.83,2.07,Toulouse,Olympique Lyonnais,toulouse,olympique_lyonnais
+2024-10-20,F1,France-L1,2425,Le Havre,Lyon,0.0,4.0,A,0.0,1.0,A,3.75,3.5,2.0,3.88,3.57,2.01,3.7,3.62,1.99,1.73,2.1,1.77,2.08,0.5,1.87,2.03,Le Havre,Olympique Lyonnais,le_havre,olympique_lyonnais
+2024-11-01,F1,France-L1,2425,Lille,Lyon,1.0,1.0,D,1.0,0.0,H,2.15,3.75,3.1,2.25,3.69,3.2,2.19,3.71,3.14,1.62,2.3,1.62,2.33,-0.25,1.95,1.98,Lille,Olympique Lyonnais,lille,olympique_lyonnais
+2024-11-23,F1,France-L1,2425,Reims,Lyon,1.0,1.0,D,0.0,1.0,A,2.75,3.75,2.35,2.86,3.77,2.39,2.81,3.67,2.39,1.57,2.38,1.59,2.38,0.25,1.82,2.08,Stade de Reims,Olympique Lyonnais,stade_de_reims,olympique_lyonnais
+2024-12-07,F1,France-L1,2425,Angers,Lyon,0.0,3.0,A,0.0,1.0,A,5.0,4.0,1.67,4.93,4.24,1.67,4.82,4.15,1.67,1.62,2.3,1.59,2.37,0.75,2.05,1.85,Angers,Olympique Lyonnais,angers,olympique_lyonnais
+2024-12-15,F1,France-L1,2425,Paris SG,Lyon,3.0,1.0,H,2.0,1.0,H,1.4,6.0,5.75,1.41,5.59,6.72,1.4,5.44,6.45,1.29,3.75,1.29,3.48,-1.5,2.03,1.87,Paris Saint-Germain,Olympique Lyonnais,paris_saint_germain,olympique_lyonnais
+2025-01-11,F1,France-L1,2425,Brest,Lyon,2.0,1.0,H,2.0,1.0,H,3.1,3.5,2.25,3.12,3.6,2.3,3.06,3.55,2.25,1.73,2.1,1.7,2.15,0.25,1.91,1.99,Stade Brestois,Olympique Lyonnais,stade_brestois,olympique_lyonnais
+2025-01-26,F1,France-L1,2425,Nantes,Lyon,1.0,1.0,D,0.0,1.0,A,3.3,3.5,2.1,3.41,3.55,2.18,3.34,3.51,2.13,1.8,2.0,1.81,2.01,0.25,2.03,1.87,FC Nantes,Olympique Lyonnais,fc_nantes,olympique_lyonnais
+2025-02-02,F1,France-L1,2425,Marseille,Lyon,3.0,2.0,H,0.0,0.0,D,2.0,3.9,3.3,2.07,3.76,3.51,2.04,3.77,3.38,1.57,2.38,1.58,2.37,-0.5,2.06,1.84,Olympique Marseille,Olympique Lyonnais,olympique_marseille,olympique_lyonnais
+2025-02-16,F1,France-L1,2425,Montpellier,Lyon,1.0,4.0,A,1.0,1.0,D,4.75,4.5,1.58,5.01,4.43,1.63,4.79,4.37,1.64,1.5,2.63,1.49,2.59,0.75,2.03,1.78,Montpellier,Olympique Lyonnais,montpellier,olympique_lyonnais
+2025-03-09,F1,France-L1,2425,Nice,Lyon,0.0,2.0,A,0.0,0.0,D,2.0,3.7,3.5,2.07,3.64,3.63,2.04,3.64,3.46,1.62,2.3,1.62,2.32,-0.5,2.06,1.84,OGC Nice,Olympique Lyonnais,ogc_nice,olympique_lyonnais
+2025-03-28,F1,France-L1,2425,Strasbourg,Lyon,4.0,2.0,H,0.0,0.0,D,2.7,3.6,2.45,2.8,3.71,2.46,2.74,3.65,2.42,1.67,2.2,1.66,2.23,0.0,2.06,1.84,RC Strasbourg,Olympique Lyonnais,rc_strasbourg,olympique_lyonnais
+2025-04-13,F1,France-L1,2425,Auxerre,Lyon,1.0,3.0,A,0.0,0.0,D,3.6,3.6,2.0,3.61,3.76,2.03,3.47,3.71,2.01,1.62,2.3,1.6,2.33,0.5,1.86,2.04,AJ Auxerre,Olympique Lyonnais,aj_auxerre,olympique_lyonnais
+2025-04-20,F1,France-L1,2425,St Etienne,Lyon,2.0,1.0,H,1.0,0.0,H,5.25,4.2,1.62,4.87,4.59,1.63,4.83,4.39,1.61,1.44,2.75,1.42,2.77,1.0,1.87,2.03,Saint-Etienne,Olympique Lyonnais,saint_etienne,olympique_lyonnais
+2025-05-10,F1,France-L1,2425,Monaco,Lyon,2.0,0.0,H,0.0,0.0,D,1.83,4.2,3.7,1.83,4.2,3.75,1.82,4.22,3.72,1.4,3.0,1.4,2.85,-0.5,1.86,2.04,AS Monaco,Olympique Lyonnais,as_monaco,olympique_lyonnais
+2025-08-16,F1,France-L1,2526,Lens,Lyon,0.0,1.0,A,0.0,1.0,A,2.3,3.6,2.9,2.35,3.63,3.02,2.29,3.56,2.87,1.67,2.2,1.66,2.14,-0.25,2.0,1.85,RC Lens,Olympique Lyonnais,rc_lens,olympique_lyonnais
+2025-09-14,F1,France-L1,2526,Rennes,Lyon,3.0,1.0,H,0.0,1.0,A,2.63,3.6,2.55,2.71,3.61,2.58,2.66,3.48,2.49,1.73,2.1,1.75,2.02,0.0,1.95,1.9,Stade Rennais,Olympique Lyonnais,stade_rennais,olympique_lyonnais
+2025-09-28,F1,France-L1,2526,Lille,Lyon,0.0,1.0,A,0.0,1.0,A,2.25,3.4,3.2,2.26,3.49,3.28,2.23,3.46,3.05,1.73,2.1,1.73,2.03,-0.25,1.95,1.9,Lille,Olympique Lyonnais,lille,olympique_lyonnais
+2025-10-18,F1,France-L1,2526,Nice,Lyon,3.0,2.0,H,2.0,1.0,H,2.45,3.4,2.8,2.54,3.54,2.81,2.42,3.46,2.76,1.8,2.0,1.74,2.03,0.0,1.83,2.03,OGC Nice,Olympique Lyonnais,ogc_nice,olympique_lyonnais
+2025-10-29,F1,France-L1,2526,Paris FC,Lyon,3.0,3.0,D,0.0,1.0,A,2.7,3.5,2.5,2.7,3.61,2.59,2.63,3.54,2.49,1.67,2.2,1.66,2.14,0.0,1.98,1.88,Paris FC,Olympique Lyonnais,paris_fc,olympique_lyonnais
+2025-11-02,F1,France-L1,2526,Brest,Lyon,0.0,0.0,D,0.0,0.0,D,3.1,3.5,2.25,3.16,3.54,2.3,3.05,3.48,2.22,1.8,2.0,1.74,2.03,0.25,1.88,1.98,Stade Brestois,Olympique Lyonnais,stade_brestois,olympique_lyonnais
+2025-11-23,F1,France-L1,2526,Auxerre,Lyon,0.0,0.0,D,0.0,0.0,D,3.9,3.4,2.0,3.86,3.53,2.03,3.72,3.43,1.98,1.98,1.88,1.92,1.83,0.5,1.85,2.0,AJ Auxerre,Olympique Lyonnais,aj_auxerre,olympique_lyonnais
+2025-12-07,F1,France-L1,2526,Lorient,Lyon,1.0,0.0,H,1.0,0.0,H,3.2,3.5,2.2,3.32,3.58,2.21,3.11,3.46,2.22,1.91,1.91,1.83,1.92,0.25,1.93,1.93,Lorient,Olympique Lyonnais,lorient,olympique_lyonnais
+2026-01-03,F1,France-L1,2526,Monaco,Lyon,1.0,3.0,A,1.0,1.0,D,2.0,3.75,3.5,2.09,3.89,3.36,2.0,3.72,3.36,1.57,2.38,1.57,2.3,-0.25,1.75,2.05,AS Monaco,Olympique Lyonnais,as_monaco,olympique_lyonnais
+2026-01-25,F1,France-L1,2526,Metz,Lyon,2.0,5.0,A,1.0,4.0,A,4.75,3.9,1.7,,,,4.54,3.85,1.7,1.73,2.1,1.69,2.08,0.75,1.93,1.93,Metz,Olympique Lyonnais,metz,olympique_lyonnais
+2026-02-07,F1,France-L1,2526,Nantes,Lyon,0.0,1.0,A,0.0,1.0,A,4.75,3.75,1.73,,,,4.87,3.72,1.69,1.91,1.91,1.87,1.86,0.75,1.93,1.93,FC Nantes,Olympique Lyonnais,fc_nantes,olympique_lyonnais
+2026-02-22,F1,France-L1,2526,Strasbourg,Lyon,3.0,1.0,H,1.0,0.0,H,2.3,3.6,2.9,,,,2.34,3.47,2.85,1.8,2.0,1.76,1.99,-0.25,2.03,1.83,RC Strasbourg,Olympique Lyonnais,rc_strasbourg,olympique_lyonnais
+2026-03-01,F1,France-L1,2526,Marseille,Lyon,3.0,2.0,H,0.0,1.0,A,1.95,3.6,3.8,,,,1.93,3.65,3.61,1.67,2.2,1.66,2.13,-0.5,1.95,1.9,Olympique Marseille,Olympique Lyonnais,olympique_marseille,olympique_lyonnais
+2026-03-15,F1,France-L1,2526,Le Havre,Lyon,0.0,0.0,D,0.0,0.0,D,3.75,3.4,2.0,,,,3.67,3.37,1.99,2.1,1.73,2.04,1.72,0.5,1.8,2.05,Le Havre,Olympique Lyonnais,le_havre,olympique_lyonnais
+2026-04-05,F1,France-L1,2526,Angers,Lyon,0.0,0.0,D,0.0,0.0,D,4.5,3.6,1.8,,,,4.59,3.45,1.78,2.2,1.67,2.12,1.67,0.5,2.03,1.78,Angers,Olympique Lyonnais,angers,olympique_lyonnais
+2026-04-19,F1,France-L1,2526,Paris SG,Lyon,1.0,2.0,A,0.0,2.0,A,1.3,6.0,8.5,,,,1.28,5.7,8.85,1.44,2.75,1.41,2.77,-1.75,2.03,1.83,Paris Saint-Germain,Olympique Lyonnais,paris_saint_germain,olympique_lyonnais
+2026-05-10,F1,France-L1,2526,Toulouse,Lyon,2.0,1.0,H,1.0,0.0,H,4.33,4.0,1.73,,,,4.29,3.78,1.74,1.8,2.0,1.75,1.98,0.75,1.85,2.0,Toulouse,Olympique Lyonnais,toulouse,olympique_lyonnais
+2026-08-22,F1,France-L1,2627,Toulouse,Lyon,0.0,2.0,A,0.0,0.0,D,2.8,3.4,2.5,,,,2.78,3.39,2.42,1.83,2.03,1.77,1.98,0.0,2.03,1.83,Toulouse,Olympique Lyonnais,toulouse,olympique_lyonnais
+2026-09-12,F1,France-L1,2627,Paris FC,Lyon,0.0,0.0,D,0.0,0.0,D,2.55,3.6,2.55,,,,2.62,3.58,2.47,1.67,2.2,1.64,2.18,0.0,1.95,1.9,Paris FC,Olympique Lyonnais,paris_fc,olympique_lyonnais
+2026-10-09,F1,France-L1,2627,Lens,Lyon,2.0,1.0,H,1.0,0.0,H,2.5,3.6,2.63,,,,2.38,3.68,2.7,1.53,2.5,1.51,2.46,0.0,1.85,2.0,RC Lens,Olympique Lyonnais,rc_lens,olympique_lyonnais

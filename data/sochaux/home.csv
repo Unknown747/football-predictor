@@ -1,0 +1,43 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-31,F2,France-L2,2122,Sochaux,Le Havre,0.0,2.0,A,0.0,2.0,A,2.25,3.3,3.2,2.35,3.04,3.51,2.3,2.99,3.34,2.35,1.57,2.35,1.57,-0.25,1.98,1.88,Sochaux,Le Havre,sochaux,le_havre
+2021-08-14,F2,France-L2,2122,Sochaux,Dunkerque,1.0,0.0,H,1.0,0.0,H,1.65,3.6,6.0,1.67,3.6,5.99,1.67,3.53,5.48,2.25,1.61,2.22,1.65,-0.75,1.88,1.98,Sochaux,Dunkerque,sochaux,dunkerque
+2021-08-28,F2,France-L2,2122,Sochaux,Grenoble,1.0,0.0,H,1.0,0.0,H,1.8,3.5,4.5,1.9,3.46,4.44,1.88,3.36,4.24,2.2,1.65,2.19,1.66,-0.5,1.88,1.98,Sochaux,Grenoble,sochaux,grenoble
+2021-09-18,F2,France-L2,2122,Sochaux,Paris FC,2.0,0.0,H,1.0,0.0,H,2.45,3.2,3.0,2.51,3.1,3.09,2.46,3.07,2.99,2.25,1.61,2.21,1.65,-0.25,2.1,1.77,Sochaux,Paris FC,sochaux,paris_fc
+2021-09-24,F2,France-L2,2122,Sochaux,Auxerre,0.0,0.0,D,0.0,0.0,D,2.45,3.0,3.2,2.5,3.13,3.2,2.46,3.04,3.04,2.15,1.66,2.21,1.65,-0.25,2.1,1.77,Sochaux,AJ Auxerre,sochaux,aj_auxerre
+2021-10-02,F2,France-L2,2122,Sochaux,Niort,1.0,0.0,H,0.0,0.0,D,1.66,3.5,4.75,1.68,3.59,5.66,1.69,3.47,5.29,2.25,1.61,2.26,1.62,-0.75,1.9,1.95,Sochaux,Niort,sochaux,niort
+2021-10-23,F2,France-L2,2122,Sochaux,Quevilly Rouen,1.0,1.0,D,0.0,1.0,A,1.65,3.4,5.0,1.68,3.55,5.88,1.68,3.49,5.22,2.25,1.61,2.21,1.63,-0.75,1.9,1.95,Sochaux,Quevilly Rouen,sochaux,quevilly_rouen
+2021-11-06,F2,France-L2,2122,Sochaux,Nimes,0.0,1.0,A,0.0,0.0,D,1.75,3.5,4.5,1.87,3.26,4.87,1.87,3.32,4.37,2.25,1.61,2.23,1.63,-0.5,1.88,1.98,Sochaux,Nimes,sochaux,nimes
+2021-12-03,F2,France-L2,2122,Sochaux,Pau FC,2.0,1.0,H,0.0,0.0,D,2.0,3.1,4.0,1.99,3.07,4.86,1.97,3.05,4.33,2.5,1.5,2.54,1.49,-0.5,1.95,1.9,Sochaux,Pau FC,sochaux,pau_fc
+2021-12-21,F2,France-L2,2122,Sochaux,Valenciennes,1.0,1.0,D,0.0,1.0,A,1.8,3.2,4.2,1.88,3.35,4.89,1.85,3.31,4.55,2.25,1.61,2.28,1.6,-0.5,1.85,2.0,Sochaux,Valenciennes,sochaux,valenciennes
+2022-01-15,F2,France-L2,2122,Sochaux,Caen,3.0,2.0,H,0.0,2.0,A,1.66,3.3,5.25,1.73,3.42,5.6,1.71,3.36,5.39,2.25,1.61,2.28,1.6,-0.75,1.95,1.9,Sochaux,Caen,sochaux,caen
+2022-02-05,F2,France-L2,2122,Sochaux,Amiens,1.0,1.0,D,1.0,1.0,D,1.8,3.4,4.75,1.87,3.33,4.73,1.86,3.28,4.46,2.35,1.57,2.44,1.54,-0.5,1.8,2.05,Sochaux,Amiens,sochaux,amiens
+2022-02-19,F2,France-L2,2122,Sochaux,Ajaccio,0.0,1.0,A,0.0,0.0,D,2.2,3.0,3.4,2.25,2.95,3.83,2.25,2.93,3.58,2.7,1.44,2.91,1.38,-0.25,1.93,1.93,Sochaux,Ajaccio,sochaux,ajaccio
+2022-03-05,F2,France-L2,2122,Sochaux,Guingamp,1.0,0.0,H,0.0,0.0,D,1.9,3.3,4.2,1.88,3.27,4.72,1.93,3.23,4.23,2.4,1.53,2.4,1.55,-0.5,1.93,1.93,Sochaux,Guingamp,sochaux,guingamp
+2022-03-19,F2,France-L2,2122,Sochaux,Rodez,2.0,0.0,H,2.0,0.0,H,1.75,3.1,4.75,1.89,3.1,5.12,1.86,3.15,4.77,2.6,1.47,2.62,1.47,-0.5,1.85,2.0,Sochaux,Rodez,sochaux,rodez
+2022-04-09,F2,France-L2,2122,Sochaux,Nancy,1.0,0.0,H,1.0,0.0,H,1.7,3.5,4.75,1.76,3.49,5.22,1.74,3.47,4.94,2.2,1.65,2.22,1.63,-0.75,2.0,1.85,Sochaux,Nancy,sochaux,nancy
+2022-04-19,F2,France-L2,2122,Sochaux,Toulouse,1.0,1.0,D,1.0,0.0,H,3.3,3.1,2.15,3.65,3.2,2.23,3.44,3.17,2.18,2.1,1.7,2.09,1.72,0.25,1.98,1.88,Sochaux,Toulouse,sochaux,toulouse
+2022-04-30,F2,France-L2,2122,Sochaux,Bastia,2.0,1.0,H,0.0,0.0,D,1.7,3.4,4.33,1.74,3.4,5.61,1.75,3.33,5.16,2.5,1.5,2.49,1.51,-0.75,2.02,1.83,Sochaux,Bastia,sochaux,bastia
+2022-05-14,F2,France-L2,2122,Sochaux,Dijon,2.0,2.0,D,1.0,0.0,H,1.65,3.75,5.0,1.63,4.22,5.03,1.66,3.95,4.79,1.72,2.07,1.7,2.11,-0.75,1.88,1.98,Sochaux,Dijon,sochaux,dijon
+2022-08-01,F2,France-L2,2223,Sochaux,Paris FC,0.0,0.0,D,0.0,0.0,D,2.0,3.2,3.6,2.14,3.2,3.78,2.08,3.21,3.6,2.25,1.61,2.22,1.63,-0.5,2.05,1.8,Sochaux,Paris FC,sochaux,paris_fc
+2022-08-13,F2,France-L2,2223,Sochaux,Amiens,0.0,1.0,A,0.0,0.0,D,1.9,3.3,4.0,1.94,3.39,4.43,1.93,3.34,4.01,2.15,1.66,2.12,1.69,-0.5,1.95,1.9,Sochaux,Amiens,sochaux,amiens
+2022-08-27,F2,France-L2,2223,Sochaux,Niort,3.0,0.0,H,1.0,0.0,H,1.7,3.6,4.75,1.73,3.51,5.42,1.73,3.49,4.87,2.2,1.65,2.18,1.65,-0.75,2.0,1.85,Sochaux,Niort,sochaux,niort
+2022-09-02,F2,France-L2,2223,Sochaux,Laval,4.0,1.0,H,1.0,1.0,D,1.9,3.2,4.2,1.98,3.26,4.47,1.95,3.21,4.13,2.25,1.61,2.24,1.62,-0.5,1.93,1.93,Sochaux,Laval,sochaux,laval
+2022-09-17,F2,France-L2,2223,Sochaux,Nimes,3.0,1.0,H,2.0,1.0,H,1.6,3.75,5.0,1.61,3.85,6.4,1.6,3.71,5.69,2.05,1.75,2.03,1.75,-1.0,2.08,1.73,Sochaux,Nimes,sochaux,nimes
+2022-10-10,F2,France-L2,2223,Sochaux,St Etienne,2.0,1.0,H,1.0,0.0,H,1.9,3.4,4.0,2.04,3.47,3.76,1.98,3.37,3.73,2.02,1.83,2.05,1.74,-0.5,1.95,1.9,Sochaux,Saint-Etienne,sochaux,saint_etienne
+2022-10-22,F2,France-L2,2223,Sochaux,Quevilly Rouen,2.0,2.0,D,0.0,1.0,A,1.7,3.6,5.0,1.7,3.65,5.36,1.68,3.6,5.11,2.1,1.7,2.11,1.7,-0.75,1.9,1.95,Sochaux,Quevilly Rouen,sochaux,quevilly_rouen
+2022-11-12,F2,France-L2,2223,Sochaux,Bastia,1.0,0.0,H,1.0,0.0,H,1.9,3.2,4.0,1.95,3.37,4.4,1.96,3.28,3.95,2.15,1.66,2.14,1.67,-0.5,1.95,1.9,Sochaux,Bastia,sochaux,bastia
+2022-12-26,F2,France-L2,2223,Sochaux,Rodez,1.0,0.0,H,0.0,0.0,D,1.53,3.8,5.75,1.6,3.89,5.96,1.57,3.84,5.66,2.0,1.85,1.95,1.82,-1.0,2.02,1.83,Sochaux,Rodez,sochaux,rodez
+2023-01-20,F2,France-L2,2223,Sochaux,Caen,1.0,2.0,A,1.0,0.0,H,2.38,3.1,3.1,2.53,3.1,3.18,2.41,3.05,3.09,2.3,1.6,2.29,1.6,-0.25,2.1,1.77,Sochaux,Caen,sochaux,caen
+2023-01-31,F2,France-L2,2223,Sochaux,Valenciennes,4.0,0.0,H,2.0,0.0,H,1.65,3.75,5.25,1.67,3.85,5.64,1.66,3.66,5.16,2.05,1.8,2.0,1.79,-0.75,1.88,1.98,Sochaux,Valenciennes,sochaux,valenciennes
+2023-02-11,F2,France-L2,2223,Sochaux,Le Havre,1.0,1.0,D,0.0,1.0,A,2.5,3.0,2.88,2.65,2.9,3.22,2.55,2.92,3.0,2.5,1.5,2.47,1.52,0.0,1.77,2.1,Sochaux,Le Havre,sochaux,le_havre
+2023-02-25,F2,France-L2,2223,Sochaux,Annecy,5.0,1.0,H,3.0,0.0,H,1.67,3.4,5.75,1.68,3.74,5.7,1.65,3.56,5.55,2.2,1.65,2.17,1.67,-0.75,1.85,2.0,Sochaux,Annecy,sochaux,annecy
+2023-03-11,F2,France-L2,2223,Sochaux,Bordeaux,1.0,1.0,D,1.0,1.0,D,2.5,3.2,2.9,2.53,3.08,3.2,2.46,3.06,2.97,2.15,1.67,2.18,1.65,0.0,1.8,2.05,Sochaux,Bordeaux,sochaux,bordeaux
+2023-03-18,F2,France-L2,2223,Sochaux,Grenoble,1.0,0.0,H,0.0,0.0,D,1.73,3.4,5.5,1.76,3.49,5.46,1.74,3.4,5.04,2.25,1.62,2.24,1.62,-0.75,2.02,1.83,Sochaux,Grenoble,sochaux,grenoble
+2023-04-15,F2,France-L2,2223,Sochaux,Pau FC,2.0,3.0,A,0.0,2.0,A,1.57,3.75,6.5,1.61,3.83,6.51,1.6,3.67,5.89,2.05,1.75,2.06,1.73,-0.75,1.75,2.13,Sochaux,Pau FC,sochaux,pau_fc
+2023-05-01,F2,France-L2,2223,Sochaux,Dijon,0.0,2.0,A,0.0,2.0,A,1.8,3.4,4.75,1.79,3.45,5.0,1.82,3.34,4.53,2.15,1.67,2.15,1.66,-0.5,1.85,2.0,Sochaux,Dijon,sochaux,dijon
+2023-05-13,F2,France-L2,2223,Sochaux,Guingamp,0.0,1.0,A,0.0,0.0,D,1.95,3.25,3.8,1.98,3.61,3.98,1.96,3.41,3.79,1.95,1.9,1.93,1.84,-0.5,1.98,1.88,Sochaux,Guingamp,sochaux,guingamp
+2023-05-26,F2,France-L2,2223,Sochaux,Metz,0.0,1.0,A,0.0,0.0,D,5.25,4.0,1.55,5.68,4.38,1.58,5.26,4.25,1.55,1.62,2.25,1.62,2.25,1.0,1.9,1.95,Sochaux,Metz,sochaux,metz
+2026-08-08,F2,France-L2,2627,Sochaux,St Etienne,0.0,3.0,A,0.0,3.0,A,3.6,3.4,1.91,,,,3.43,3.32,2.0,2.05,1.75,2.0,1.73,0.5,1.75,2.05,Sochaux,Saint-Etienne,sochaux,saint_etienne
+2026-08-21,F2,France-L2,2627,Sochaux,Guingamp,1.0,0.0,H,1.0,0.0,H,2.6,3.2,2.45,,,,2.76,3.23,2.41,1.98,1.83,1.96,1.77,0.0,2.0,1.8,Sochaux,Guingamp,sochaux,guingamp
+2026-09-12,F2,France-L2,2627,Sochaux,Nantes,1.0,0.0,H,0.0,0.0,D,3.1,3.1,2.15,,,,3.17,3.31,2.13,2.0,1.8,1.95,1.78,0.25,1.9,1.9,Sochaux,FC Nantes,sochaux,fc_nantes
+2026-10-09,F2,France-L2,2627,Sochaux,Boulogne,1.0,1.0,D,1.0,0.0,H,2.25,3.0,3.0,,,,2.25,3.15,3.07,2.25,1.62,2.2,1.61,-0.25,2.0,1.8,Sochaux,Boulogne,sochaux,boulogne

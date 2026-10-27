@@ -1,0 +1,73 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-13,P1,Portugal-Liga1,2223,Casa Pia,Benfica,0.0,1.0,A,0.0,0.0,D,12.0,5.5,1.25,14.87,6.08,1.24,12.96,5.96,1.23,1.65,2.2,1.64,2.24,1.75,1.93,1.97,Casa Pia,Benfica,casa_pia,benfica
+2022-08-21,P1,Portugal-Liga1,2223,Casa Pia,Boavista,2.0,0.0,H,0.0,0.0,D,2.45,3.1,3.0,2.56,3.1,3.19,2.46,3.07,3.06,2.5,1.5,2.49,1.53,-0.25,2.11,1.79,Casa Pia,Boavista,casa_pia,boavista
+2022-09-04,P1,Portugal-Liga1,2223,Casa Pia,Arouca,0.0,0.0,D,0.0,0.0,D,2.0,3.1,3.8,2.15,3.04,4.28,2.09,3.14,3.83,2.3,1.6,2.29,1.6,-0.5,2.07,1.83,Casa Pia,Arouca,casa_pia,arouca
+2022-09-18,P1,Portugal-Liga1,2223,Casa Pia,Famalicao,1.0,0.0,H,0.0,0.0,D,2.37,3.0,3.2,2.47,3.05,3.4,2.38,3.03,3.24,2.4,1.53,2.44,1.54,-0.25,2.05,1.85,Casa Pia,Famalicao,casa_pia,famalicao
+2022-10-09,P1,Portugal-Liga1,2223,Casa Pia,Vizela,0.0,1.0,A,0.0,0.0,D,2.37,3.1,3.0,2.5,3.02,3.37,2.39,3.1,3.13,2.35,1.57,2.33,1.6,-0.25,2.09,1.81,Casa Pia,Vizela,casa_pia,vizela
+2022-10-30,P1,Portugal-Liga1,2223,Casa Pia,Rio Ave,1.0,0.0,H,0.0,0.0,D,2.0,3.2,3.8,2.08,3.39,3.94,2.03,3.25,3.76,2.25,1.61,2.28,1.6,-0.5,2.05,1.85,Casa Pia,Rio Ave,casa_pia,rio_ave
+2022-11-13,P1,Portugal-Liga1,2223,Casa Pia,Chaves,1.0,2.0,A,1.0,0.0,H,2.0,3.4,3.75,2.11,3.35,3.89,2.06,3.32,3.68,2.15,1.66,2.16,1.68,-0.5,2.07,1.83,Casa Pia,Chaves,casa_pia,chaves
+2023-01-07,P1,Portugal-Liga1,2223,Casa Pia,Porto,0.0,0.0,D,0.0,0.0,D,9.0,4.5,1.36,9.59,4.65,1.4,8.6,4.63,1.38,1.88,1.98,1.85,1.95,1.25,1.99,1.91,Casa Pia,FC Porto,casa_pia,fc_porto
+2023-01-22,P1,Portugal-Liga1,2223,Casa Pia,Gil Vicente,1.0,3.0,A,0.0,0.0,D,2.3,3.25,3.1,2.35,3.21,3.43,2.31,3.18,3.21,2.25,1.62,2.3,1.61,-0.25,2.02,1.88,Casa Pia,Gil Vicente,casa_pia,gil_vicente
+2023-01-29,P1,Portugal-Liga1,2223,Casa Pia,Santa Clara,2.0,1.0,H,0.0,0.0,D,2.0,3.2,4.0,2.12,3.28,3.95,2.05,3.22,3.84,2.4,1.53,2.45,1.55,-0.5,2.07,1.83,Casa Pia,Santa Clara,casa_pia,santa_clara
+2023-02-19,P1,Portugal-Liga1,2223,Casa Pia,Guimaraes,0.0,0.0,D,0.0,0.0,D,2.45,3.1,3.0,2.58,3.11,3.14,2.49,3.09,3.0,2.5,1.5,2.46,1.54,0.0,1.76,2.15,Casa Pia,Vitoria Guimaraes,casa_pia,vitoria_guimaraes
+2023-03-06,P1,Portugal-Liga1,2223,Casa Pia,Pacos Ferreira,2.0,1.0,H,0.0,1.0,A,2.0,3.1,4.2,2.08,3.3,3.98,2.04,3.22,3.87,2.4,1.53,2.35,1.57,-0.5,2.05,1.85,Casa Pia,Pacos Ferreira,casa_pia,pacos_ferreira
+2023-03-19,P1,Portugal-Liga1,2223,Casa Pia,Maritimo,2.0,0.0,H,1.0,0.0,H,2.05,3.1,4.0,2.12,3.33,3.89,2.07,3.25,3.77,2.35,1.57,2.34,1.59,-0.5,2.09,1.81,Casa Pia,Maritimo,casa_pia,maritimo
+2023-04-09,P1,Portugal-Liga1,2223,Casa Pia,Sp Lisbon,3.0,4.0,A,2.0,2.0,D,8.5,4.5,1.4,9.14,4.37,1.44,7.9,4.4,1.42,1.93,1.93,1.89,1.9,1.25,1.88,2.02,Casa Pia,Sp Lisbon,casa_pia,sp_lisbon
+2023-04-21,P1,Portugal-Liga1,2223,Casa Pia,Sp Braga,0.0,1.0,A,0.0,0.0,D,5.25,3.6,1.6,6.15,3.83,1.65,5.62,3.75,1.64,2.05,1.8,2.04,1.77,0.75,2.05,1.85,Casa Pia,Sp Braga,casa_pia,sp_braga
+2023-05-05,P1,Portugal-Liga1,2223,Casa Pia,Portimonense,1.0,1.0,D,0.0,0.0,D,2.05,3.2,3.5,2.15,3.21,3.96,2.12,3.19,3.71,2.3,1.6,2.33,1.59,-0.25,1.83,2.07,Casa Pia,Portimonense,casa_pia,portimonense
+2023-05-21,P1,Portugal-Liga1,2223,Casa Pia,Estoril,2.0,2.0,D,0.0,0.0,D,2.05,3.25,3.4,2.11,3.44,3.75,2.09,3.37,3.54,2.08,1.73,2.06,1.76,-0.25,1.82,2.08,Casa Pia,Estoril,casa_pia,estoril
+2023-08-18,P1,Portugal-Liga1,2324,Casa Pia,Sp Lisbon,1.0,2.0,A,0.0,1.0,A,7.5,4.33,1.44,7.6,4.77,1.45,7.3,4.56,1.43,1.73,2.08,1.75,2.07,1.25,1.87,2.03,Casa Pia,Sp Lisbon,casa_pia,sp_lisbon
+2023-09-02,P1,Portugal-Liga1,2324,Casa Pia,Rio Ave,1.0,1.0,D,1.0,0.0,H,2.1,3.5,3.25,2.22,3.39,3.53,2.17,3.33,3.38,2.15,1.67,2.18,1.68,-0.25,1.89,2.01,Casa Pia,Rio Ave,casa_pia,rio_ave
+2023-09-23,P1,Portugal-Liga1,2324,Casa Pia,Guimaraes,0.0,0.0,D,0.0,0.0,D,2.38,3.1,3.1,2.43,3.26,3.23,2.36,3.2,3.12,2.25,1.62,2.27,1.6,-0.25,2.05,1.85,Casa Pia,Vitoria Guimaraes,casa_pia,vitoria_guimaraes
+2023-10-08,P1,Portugal-Liga1,2324,Casa Pia,Estrela,0.0,1.0,A,0.0,0.0,D,1.95,3.2,3.6,2.09,3.4,3.9,2.04,3.32,3.73,2.15,1.67,2.17,1.67,-0.5,2.08,1.82,Casa Pia,Estrela Amadora,casa_pia,estrela_amadora
+2023-11-05,P1,Portugal-Liga1,2324,Casa Pia,Vizela,0.0,1.0,A,0.0,0.0,D,2.05,3.4,3.5,2.2,3.39,3.6,2.13,3.35,3.5,2.1,1.7,2.11,1.73,-0.25,1.86,2.04,Casa Pia,Vizela,casa_pia,vizela
+2023-12-02,P1,Portugal-Liga1,2324,Casa Pia,Portimonense,1.0,0.0,H,0.0,0.0,D,1.85,3.3,3.6,1.95,3.51,4.02,1.96,3.45,3.89,2.1,1.7,2.13,1.71,-0.5,1.98,1.92,Casa Pia,Portimonense,casa_pia,portimonense
+2023-12-30,P1,Portugal-Liga1,2324,Casa Pia,Sp Braga,1.0,3.0,A,0.0,0.0,D,5.25,4.0,1.62,5.49,4.25,1.63,5.22,4.06,1.62,1.8,2.0,1.79,2.03,1.0,1.75,2.05,Casa Pia,Sp Braga,casa_pia,sp_braga
+2024-01-13,P1,Portugal-Liga1,2324,Casa Pia,Famalicao,0.0,2.0,A,0.0,1.0,A,2.45,3.0,3.0,2.58,3.1,3.16,2.51,3.07,3.02,2.5,1.5,2.51,1.52,-0.25,2.13,1.78,Casa Pia,Famalicao,casa_pia,famalicao
+2024-01-20,P1,Portugal-Liga1,2324,Casa Pia,Farense,1.0,3.0,A,0.0,2.0,A,2.25,3.25,3.3,2.29,3.38,3.37,2.25,3.32,3.21,2.08,1.73,2.05,1.76,-0.25,1.95,1.95,Casa Pia,Farense,casa_pia,farense
+2024-02-05,P1,Portugal-Liga1,2324,Casa Pia,Boavista,0.0,0.0,D,0.0,0.0,D,2.3,3.25,3.1,2.39,3.4,3.11,2.37,3.32,3.0,2.1,1.7,2.13,1.71,-0.25,2.05,1.85,Casa Pia,Boavista,casa_pia,boavista
+2024-02-18,P1,Portugal-Liga1,2324,Casa Pia,Arouca,1.0,0.0,H,0.0,0.0,D,3.4,3.0,2.3,3.38,3.25,2.36,3.19,3.19,2.33,2.2,1.65,2.22,1.66,0.25,1.91,1.99,Casa Pia,Arouca,casa_pia,arouca
+2024-03-03,P1,Portugal-Liga1,2324,Casa Pia,Gil Vicente,0.0,0.0,D,0.0,0.0,D,2.5,3.1,3.1,2.51,3.15,3.2,2.46,3.09,3.05,2.35,1.57,2.37,1.57,-0.25,2.11,1.79,Casa Pia,Gil Vicente,casa_pia,gil_vicente
+2024-03-17,P1,Portugal-Liga1,2324,Casa Pia,Benfica,0.0,1.0,A,0.0,0.0,D,8.5,5.5,1.33,10.07,5.33,1.34,9.59,5.08,1.33,1.8,2.05,1.82,1.99,1.5,1.86,2.04,Casa Pia,Benfica,casa_pia,benfica
+2024-04-08,P1,Portugal-Liga1,2324,Casa Pia,Estoril,0.0,0.0,D,0.0,0.0,D,2.55,3.1,3.0,2.79,2.88,3.0,2.64,2.97,2.95,2.25,1.62,2.28,1.62,0.0,1.84,2.06,Casa Pia,Estoril,casa_pia,estoril
+2024-04-21,P1,Portugal-Liga1,2324,Casa Pia,Porto,1.0,2.0,A,1.0,1.0,D,8.0,5.0,1.36,9.54,4.88,1.37,8.89,4.76,1.36,1.95,1.9,1.92,1.87,1.25,2.02,1.88,Casa Pia,FC Porto,casa_pia,fc_porto
+2024-04-27,P1,Portugal-Liga1,2324,Casa Pia,Chaves,3.0,1.0,H,1.0,0.0,H,2.05,3.3,3.75,2.07,3.28,4.05,2.07,3.23,3.83,2.25,1.62,2.27,1.62,-0.5,2.07,1.83,Casa Pia,Chaves,casa_pia,chaves
+2024-05-12,P1,Portugal-Liga1,2324,Casa Pia,Moreirense,0.0,1.0,A,0.0,1.0,A,2.6,3.0,2.9,2.68,3.1,2.97,2.61,3.06,2.87,2.3,1.6,2.34,1.59,0.0,1.83,2.07,Casa Pia,Moreirense,casa_pia,moreirense
+2024-08-10,P1,Portugal-Liga1,2425,Casa Pia,Boavista,0.0,1.0,A,0.0,0.0,D,1.91,3.4,4.0,1.91,3.47,4.17,1.93,3.47,3.98,2.08,1.73,2.08,1.74,-0.5,1.98,1.92,Casa Pia,Boavista,casa_pia,boavista
+2024-08-24,P1,Portugal-Liga1,2425,Casa Pia,Santa Clara,0.0,2.0,A,0.0,0.0,D,2.75,3.1,2.63,2.79,3.27,2.59,2.74,3.26,2.58,2.05,1.75,2.05,1.76,0.0,2.01,1.89,Casa Pia,Santa Clara,casa_pia,santa_clara
+2024-09-14,P1,Portugal-Liga1,2425,Casa Pia,Moreirense,3.0,1.0,H,0.0,1.0,A,2.7,3.0,2.8,2.78,2.92,2.85,2.71,3.01,2.81,2.5,1.5,2.52,1.51,0.0,1.92,1.98,Casa Pia,Moreirense,casa_pia,moreirense
+2024-09-28,P1,Portugal-Liga1,2425,Casa Pia,Guimaraes,1.0,1.0,D,1.0,0.0,H,3.9,3.25,2.0,4.06,3.2,2.03,3.97,3.23,2.02,2.35,1.57,2.39,1.57,0.5,1.83,2.07,Casa Pia,Vitoria Guimaraes,casa_pia,vitoria_guimaraes
+2024-10-25,P1,Portugal-Liga1,2425,Casa Pia,Nacional,1.0,0.0,H,1.0,0.0,H,2.1,3.4,3.4,2.18,3.22,3.78,2.13,3.22,3.63,2.25,1.62,2.31,1.61,-0.25,1.84,2.06,Casa Pia,Nacional,casa_pia,nacional
+2024-11-09,P1,Portugal-Liga1,2425,Casa Pia,Farense,1.0,1.0,D,1.0,1.0,D,1.95,3.3,4.0,1.97,3.3,4.15,1.98,3.3,4.0,2.2,1.65,2.24,1.64,-0.5,2.0,1.9,Casa Pia,Farense,casa_pia,farense
+2024-12-08,P1,Portugal-Liga1,2425,Casa Pia,AVS,1.0,1.0,D,1.0,0.0,H,1.85,3.4,4.33,1.83,3.33,4.84,1.83,3.37,4.59,2.25,1.62,2.25,1.63,-0.5,1.87,2.03,Casa Pia,AVS,casa_pia,avs
+2024-12-20,P1,Portugal-Liga1,2425,Casa Pia,Arouca,3.0,1.0,H,2.0,0.0,H,2.3,3.1,3.5,2.4,2.95,3.6,2.35,2.99,3.34,2.5,1.5,2.47,1.53,-0.25,2.0,1.9,Casa Pia,Arouca,casa_pia,arouca
+2025-01-05,P1,Portugal-Liga1,2425,Casa Pia,Famalicao,1.0,1.0,D,1.0,1.0,D,2.35,3.1,3.2,2.4,3.06,3.27,2.37,3.02,3.17,2.5,1.5,2.51,1.5,-0.25,2.04,1.86,Casa Pia,Famalicao,casa_pia,famalicao
+2025-01-25,P1,Portugal-Liga1,2425,Casa Pia,Benfica,3.0,1.0,H,1.0,1.0,D,8.5,4.75,1.38,8.44,4.96,1.36,7.96,4.85,1.37,1.7,2.1,1.72,2.11,1.25,2.02,1.88,Casa Pia,Benfica,casa_pia,benfica
+2025-02-09,P1,Portugal-Liga1,2425,Casa Pia,Estrela,1.0,0.0,H,1.0,0.0,H,1.8,3.4,4.5,1.85,3.39,4.62,1.83,3.38,4.47,2.3,1.6,2.32,1.59,-0.5,1.88,2.02,Casa Pia,Estrela Amadora,casa_pia,estrela_amadora
+2025-02-22,P1,Portugal-Liga1,2425,Casa Pia,Gil Vicente,1.0,0.0,H,0.0,0.0,D,2.2,3.1,3.5,2.23,3.11,3.57,2.22,3.13,3.44,2.5,1.5,2.44,1.55,-0.25,1.92,1.98,Casa Pia,Gil Vicente,casa_pia,gil_vicente
+2025-03-09,P1,Portugal-Liga1,2425,Casa Pia,Sp Lisbon,1.0,3.0,A,1.0,2.0,A,6.5,3.9,1.53,6.17,4.33,1.51,6.26,4.27,1.49,1.85,2.0,1.79,2.02,1.0,2.0,1.9,Casa Pia,Sp Lisbon,casa_pia,sp_lisbon
+2025-03-29,P1,Portugal-Liga1,2425,Casa Pia,Rio Ave,2.0,1.0,H,1.0,1.0,D,2.0,3.3,3.75,2.07,3.37,3.86,2.08,3.32,3.62,2.08,1.73,2.12,1.71,-0.5,2.06,1.84,Casa Pia,Rio Ave,casa_pia,rio_ave
+2025-04-12,P1,Portugal-Liga1,2425,Casa Pia,Porto,0.0,1.0,A,0.0,1.0,A,5.5,3.6,1.67,5.38,3.66,1.68,5.15,3.67,1.67,2.15,1.67,2.12,1.7,0.75,1.98,1.92,Casa Pia,FC Porto,casa_pia,fc_porto
+2025-04-29,P1,Portugal-Liga1,2425,Casa Pia,Estoril,1.0,3.0,A,1.0,1.0,D,2.05,3.2,3.9,2.03,3.27,3.59,2.04,3.27,3.68,2.15,1.67,2.17,1.65,-0.5,2.08,1.82,Casa Pia,Estoril,casa_pia,estoril
+2025-05-10,P1,Portugal-Liga1,2425,Casa Pia,Sp Braga,2.0,1.0,H,1.0,1.0,D,5.75,3.8,1.57,6.01,3.93,1.57,5.64,3.85,1.59,2.05,1.75,2.01,1.79,1.0,1.8,2.1,Casa Pia,Sp Braga,casa_pia,sp_braga
+2025-08-08,P1,Portugal-Liga1,2526,Casa Pia,Sp Lisbon,0.0,2.0,A,0.0,1.0,A,9.0,5.0,1.33,9.76,5.35,1.3,9.14,5.11,1.3,1.7,2.1,1.66,2.1,1.5,1.85,2.0,Casa Pia,Sp Lisbon,casa_pia,sp_lisbon
+2025-08-30,P1,Portugal-Liga1,2526,Casa Pia,Nacional,0.0,2.0,A,0.0,2.0,A,2.15,3.2,3.4,2.28,3.16,3.39,2.23,3.19,3.18,2.25,1.62,2.19,1.61,-0.25,1.93,1.93,Casa Pia,Nacional,casa_pia,nacional
+2025-09-21,P1,Portugal-Liga1,2526,Casa Pia,Famalicao,1.0,1.0,D,0.0,0.0,D,3.4,3.0,2.25,3.39,3.12,2.31,3.25,3.08,2.24,2.4,1.53,2.34,1.54,0.25,1.88,1.98,Casa Pia,Famalicao,casa_pia,famalicao
+2025-10-03,P1,Portugal-Liga1,2526,Casa Pia,Estoril,2.0,2.0,D,2.0,1.0,H,2.5,3.3,2.65,2.55,3.41,2.88,2.44,3.22,2.79,2.05,1.8,2.03,1.72,0.0,1.85,2.0,Casa Pia,Estoril,casa_pia,estoril
+2025-11-01,P1,Portugal-Liga1,2526,Casa Pia,Estrela,3.0,5.0,A,1.0,2.0,A,2.01,3.05,3.9,2.07,3.19,3.95,2.04,3.14,3.73,2.4,1.53,2.31,1.55,-0.5,2.03,1.83,Casa Pia,Estrela Amadora,casa_pia,estrela_amadora
+2025-11-29,P1,Portugal-Liga1,2526,Casa Pia,Alverca,0.0,2.0,A,0.0,0.0,D,2.35,3.05,3.05,2.53,3.01,3.11,2.46,3.01,2.97,2.35,1.57,2.31,1.55,-0.25,2.1,1.78,Casa Pia,Alverca,casa_pia,alverca
+2025-12-13,P1,Portugal-Liga1,2526,Casa Pia,Gil Vicente,1.0,1.0,D,0.0,1.0,A,3.5,2.95,2.15,3.64,3.06,2.23,3.6,3.01,2.13,2.6,1.48,2.51,1.47,0.25,1.95,1.9,Casa Pia,Gil Vicente,casa_pia,gil_vicente
+2025-12-28,P1,Portugal-Liga1,2526,Casa Pia,Guimaraes,0.0,0.0,D,0.0,0.0,D,3.3,2.95,2.25,3.42,3.1,2.3,3.19,3.01,2.3,2.4,1.53,2.39,1.5,0.25,1.88,1.98,Casa Pia,Vitoria Guimaraes,casa_pia,vitoria_guimaraes
+2026-01-23,P1,Portugal-Liga1,2526,Casa Pia,AVS,3.0,3.0,D,1.0,0.0,H,2.01,3.1,4.0,,,,2.0,3.16,3.83,2.4,1.53,2.26,1.57,-0.5,2.1,1.78,Casa Pia,AVS,casa_pia,avs
+2026-02-02,P1,Portugal-Liga1,2526,Casa Pia,Porto,2.0,1.0,H,2.0,0.0,H,12.0,5.0,1.25,,,,10.75,5.04,1.27,1.8,2.0,1.79,1.92,1.5,1.98,1.88,Casa Pia,FC Porto,casa_pia,fc_porto
+2026-02-14,P1,Portugal-Liga1,2526,Casa Pia,Arouca,3.0,2.0,H,3.0,2.0,H,2.65,3.2,2.55,,,,2.64,3.1,2.65,2.2,1.65,2.15,1.63,0.0,1.98,1.88,Casa Pia,Arouca,casa_pia,arouca
+2026-03-01,P1,Portugal-Liga1,2526,Casa Pia,Moreirense,1.0,1.0,D,1.0,0.0,H,2.65,3.0,2.75,,,,2.65,2.95,2.74,2.5,1.5,2.42,1.5,0.0,1.9,1.95,Casa Pia,Moreirense,casa_pia,moreirense
+2026-04-06,P1,Portugal-Liga1,2526,Casa Pia,Benfica,1.0,1.0,D,0.0,0.0,D,13.0,6.0,1.19,,,,11.81,5.9,1.2,1.53,2.4,1.51,2.42,1.75,2.03,1.83,Casa Pia,Benfica,casa_pia,benfica
+2026-04-18,P1,Portugal-Liga1,2526,Casa Pia,Santa Clara,0.0,0.0,D,0.0,0.0,D,3.8,3.0,2.1,,,,3.57,3.04,2.11,2.4,1.53,2.42,1.51,0.25,2.03,1.83,Casa Pia,Santa Clara,casa_pia,santa_clara
+2026-04-23,P1,Portugal-Liga1,2526,Casa Pia,Sp Braga,0.0,1.0,A,0.0,1.0,A,5.5,4.2,1.53,,,,5.69,3.92,1.53,1.95,1.85,1.89,1.82,1.0,1.83,2.03,Casa Pia,Sp Braga,casa_pia,sp_braga
+2026-05-03,P1,Portugal-Liga1,2526,Casa Pia,Tondela,0.0,1.0,A,0.0,0.0,D,2.2,3.2,3.3,,,,2.26,3.15,3.07,2.2,1.65,2.15,1.63,-0.25,1.98,1.88,Casa Pia,Tondela,casa_pia,tondela
+2026-05-16,P1,Portugal-Liga1,2526,Casa Pia,Rio Ave,1.0,1.0,D,1.0,0.0,H,1.62,3.75,5.0,,,,1.65,3.82,4.6,1.83,2.03,1.76,1.96,-0.75,1.88,1.98,Casa Pia,Rio Ave,casa_pia,rio_ave
+2026-08-17,P1,Portugal-Liga1,2627,Casa Pia,Benfica,0.0,7.0,A,0.0,2.0,A,13.0,6.0,1.19,,,,11.72,6.05,1.21,1.57,2.35,1.57,2.28,1.75,1.95,1.9,Casa Pia,Benfica,casa_pia,benfica
+2026-08-30,P1,Portugal-Liga1,2627,Casa Pia,Moreirense,0.0,1.0,A,0.0,1.0,A,2.35,3.1,3.1,,,,2.36,3.04,3.07,2.4,1.53,2.39,1.52,-0.25,2.05,1.8,Casa Pia,Moreirense,casa_pia,moreirense
+2026-09-12,P1,Portugal-Liga1,2627,Casa Pia,Porto,1.0,4.0,A,1.0,1.0,D,10.0,6.0,1.22,,,,11.19,5.49,1.24,1.75,2.05,1.73,2.01,1.5,2.03,1.83,Casa Pia,FC Porto,casa_pia,fc_porto
+2026-10-10,P1,Portugal-Liga1,2627,Casa Pia,Santa Clara,0.0,1.0,A,0.0,0.0,D,4.5,3.25,1.81,,,,4.31,3.28,1.85,2.3,1.6,2.28,1.57,0.5,2.0,1.85,Casa Pia,Santa Clara,casa_pia,santa_clara

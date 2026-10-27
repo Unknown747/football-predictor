@@ -1,0 +1,122 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E3,England-L2,2122,Mansfield,Bristol Rvs,2.0,1.0,H,1.0,0.0,H,2.37,3.25,3.0,2.41,3.27,3.2,2.36,3.21,3.03,2.15,1.66,2.18,1.68,-0.25,2.05,1.8,Mansfield Town,Bristol Rvs,mansfield_town,bristol_rvs
+2021-08-21,E3,England-L2,2122,Exeter,Bristol Rvs,4.0,1.0,H,4.0,0.0,H,2.2,3.25,3.5,2.35,3.2,3.33,2.28,3.18,3.21,2.05,1.88,2.02,1.78,-0.25,2.0,1.93,Exeter City,Bristol Rvs,exeter_city,bristol_rvs
+2021-08-28,E3,England-L2,2122,Barrow,Bristol Rvs,1.0,1.0,D,1.0,1.0,D,2.3,3.2,3.3,2.36,3.14,3.38,2.3,3.15,3.22,2.2,1.65,2.24,1.64,-0.25,2.01,1.92,Barrow,Bristol Rvs,barrow,bristol_rvs
+2021-09-11,E3,England-L2,2122,Hartlepool,Bristol Rvs,1.0,0.0,H,0.0,0.0,D,2.0,3.3,3.75,2.14,3.24,3.72,2.1,3.21,3.62,2.15,1.66,2.15,1.68,-0.25,1.8,2.05,Hartlepool United,Bristol Rvs,hartlepool_united,bristol_rvs
+2021-09-25,E3,England-L2,2122,Walsall,Bristol Rvs,1.0,2.0,A,1.0,0.0,H,2.4,3.3,3.0,2.49,3.16,3.07,2.42,3.16,3.0,2.3,1.6,2.27,1.61,-0.25,2.05,1.8,Walsall,Bristol Rvs,walsall,bristol_rvs
+2021-10-16,E3,England-L2,2122,Bradford,Bristol Rvs,2.0,2.0,D,1.0,0.0,H,1.85,3.6,4.33,1.87,3.66,4.18,1.87,3.57,4.0,1.85,1.95,1.85,1.93,-0.5,1.88,1.98,Bradford City,Bristol Rvs,bradford_city,bristol_rvs
+2021-10-19,E3,England-L2,2122,Colchester,Bristol Rvs,1.0,1.0,D,0.0,0.0,D,2.5,3.25,2.9,2.57,3.31,2.93,2.5,3.22,2.84,2.2,1.65,2.18,1.66,0.0,1.83,2.02,Colchester United,Bristol Rvs,colchester_united,bristol_rvs
+2021-10-30,E3,England-L2,2122,Harrogate,Bristol Rvs,0.0,1.0,A,0.0,0.0,D,1.83,3.6,4.33,1.92,3.61,4.02,1.89,3.55,3.9,1.95,1.85,1.93,1.85,-0.5,1.9,1.95,Harrogate Town,Bristol Rvs,harrogate_town,bristol_rvs
+2021-11-23,E3,England-L2,2122,Salford,Bristol Rvs,1.0,1.0,D,0.0,1.0,A,1.9,3.5,4.0,2.01,3.38,4.16,1.99,3.34,3.86,2.07,1.72,2.07,1.73,-0.5,2.0,1.85,Salford City,Bristol Rvs,salford_city,bristol_rvs
+2021-11-27,E3,England-L2,2122,Forest Green,Bristol Rvs,2.0,0.0,H,1.0,0.0,H,1.7,3.75,5.0,1.74,3.9,4.61,1.73,3.76,4.54,1.85,2.0,1.82,1.96,-0.75,1.95,1.9,Forest Green Rovers,Bristol Rvs,forest_green_rovers,bristol_rvs
+2022-01-22,E3,England-L2,2122,Swindon,Bristol Rvs,1.0,1.0,D,1.0,1.0,D,1.95,3.5,4.0,1.94,3.6,3.94,1.96,3.53,3.65,1.85,2.0,1.8,1.97,-0.5,2.0,1.85,Swindon Town,Bristol Rvs,swindon_town,bristol_rvs
+2022-01-25,E3,England-L2,2122,Scunthorpe,Bristol Rvs,2.0,3.0,A,0.0,1.0,A,3.1,3.5,2.25,3.27,3.51,2.26,3.13,3.35,2.23,2.05,1.8,2.04,1.75,0.25,1.9,1.95,Scunthorpe United,Bristol Rvs,scunthorpe_united,bristol_rvs
+2022-02-05,E3,England-L2,2122,Sutton,Bristol Rvs,1.0,1.0,D,1.0,0.0,H,2.0,3.4,3.75,2.06,3.34,3.85,2.05,3.36,3.57,2.02,1.83,1.95,1.82,-0.5,2.02,1.83,Sutton United,Bristol Rvs,sutton_united,bristol_rvs
+2022-02-08,E3,England-L2,2122,Oldham,Bristol Rvs,2.0,1.0,H,2.0,1.0,H,2.8,3.1,2.62,2.87,3.22,2.68,2.77,3.15,2.58,2.07,1.72,2.06,1.73,0.0,2.0,1.85,Oldham,Bristol Rvs,oldham,bristol_rvs
+2022-02-19,E3,England-L2,2122,Stevenage,Bristol Rvs,0.0,4.0,A,0.0,1.0,A,2.37,3.25,3.2,2.5,3.1,3.11,2.4,3.19,3.0,2.15,1.66,2.12,1.68,-0.25,2.05,1.8,Stevenage,Bristol Rvs,stevenage,bristol_rvs
+2022-02-22,E3,England-L2,2122,Leyton Orient,Bristol Rvs,0.0,2.0,A,0.0,2.0,A,2.35,3.2,3.2,2.41,3.18,3.29,2.34,3.12,3.14,2.1,1.7,2.13,1.68,-0.25,2.02,1.83,Leyton Orient,Bristol Rvs,leyton_orient,bristol_rvs
+2022-03-05,E3,England-L2,2122,Newport County,Bristol Rvs,1.0,0.0,H,1.0,0.0,H,2.1,3.3,3.75,2.1,3.24,3.83,2.09,3.34,3.49,1.93,1.93,1.88,1.88,-0.25,1.85,2.0,Newport County,Bristol Rvs,newport_county,bristol_rvs
+2022-03-08,E3,England-L2,2122,Crawley Town,Bristol Rvs,1.0,2.0,A,0.0,1.0,A,2.75,3.4,2.5,2.74,3.43,2.65,2.72,3.28,2.56,2.0,1.85,1.97,1.8,0.0,2.0,1.85,Crawley Town,Bristol Rvs,crawley_town,bristol_rvs
+2022-03-19,E3,England-L2,2122,Northampton,Bristol Rvs,0.0,1.0,A,0.0,1.0,A,2.3,3.2,3.3,2.55,3.05,3.09,2.39,3.13,3.06,2.2,1.65,2.16,1.66,-0.25,2.02,1.83,Northampton Town,Bristol Rvs,northampton_town,bristol_rvs
+2022-03-26,E3,England-L2,2122,Carlisle,Bristol Rvs,1.0,0.0,H,0.0,0.0,D,3.3,3.3,2.2,3.35,3.47,2.23,3.19,3.32,2.22,2.05,1.75,2.01,1.76,0.25,1.93,1.93,Carlisle United,Bristol Rvs,carlisle_united,bristol_rvs
+2022-04-09,E3,England-L2,2122,Tranmere,Bristol Rvs,1.0,1.0,D,0.0,0.0,D,2.7,3.3,2.7,2.76,3.32,2.63,2.64,3.23,2.64,2.15,1.66,2.14,1.66,0.0,1.93,1.93,Tranmere Rovers,Bristol Rvs,tranmere_rovers,bristol_rvs
+2022-04-18,E3,England-L2,2122,Port Vale,Bristol Rvs,1.0,3.0,A,1.0,2.0,A,2.05,3.3,3.8,2.14,3.3,3.62,2.09,3.28,3.53,2.25,1.61,2.17,1.65,-0.5,2.0,1.85,Port Vale,Bristol Rvs,port_vale,bristol_rvs
+2022-04-30,E3,England-L2,2122,Rochdale,Bristol Rvs,3.0,4.0,A,2.0,0.0,H,3.5,3.4,2.1,3.42,3.5,2.14,3.32,3.34,2.14,2.1,1.77,2.0,1.77,0.25,2.05,1.8,Rochdale,Bristol Rvs,rochdale,bristol_rvs
+2022-08-06,E2,England-L1,2223,Burton,Bristol Rvs,0.0,4.0,A,0.0,4.0,A,2.7,3.25,2.7,2.66,3.32,2.82,2.6,3.27,2.68,2.07,1.72,2.01,1.76,0.0,1.9,1.95,Burton Albion,Bristol Rvs,burton_albion,bristol_rvs
+2022-08-16,E2,England-L1,2223,Barnsley,Bristol Rvs,3.0,0.0,H,2.0,0.0,H,1.95,3.5,3.6,2.03,3.58,3.8,2.0,3.46,3.65,2.02,1.83,2.01,1.78,-0.5,2.05,1.8,Barnsley,Bristol Rvs,barnsley,bristol_rvs
+2022-08-20,E2,England-L1,2223,Portsmouth,Bristol Rvs,3.0,1.0,H,1.0,0.0,H,1.7,3.8,5.0,1.74,3.93,4.86,1.72,3.75,4.63,1.88,1.98,1.84,1.94,-0.75,1.95,1.9,Portsmouth,Bristol Rvs,portsmouth,bristol_rvs
+2022-09-13,E2,England-L1,2223,Ipswich,Bristol Rvs,2.0,0.0,H,1.0,0.0,H,1.33,5.0,9.5,1.36,4.98,9.62,1.34,4.91,8.92,1.72,2.07,1.76,2.03,-1.5,2.02,1.83,Ipswich,Bristol Rvs,ipswich,bristol_rvs
+2022-10-01,E2,England-L1,2223,Exeter,Bristol Rvs,2.0,2.0,D,0.0,0.0,D,1.6,3.8,5.75,1.6,4.28,5.75,1.59,4.04,5.29,1.73,2.15,1.73,2.06,-1.0,2.02,1.83,Exeter City,Bristol Rvs,exeter_city,bristol_rvs
+2022-10-11,E2,England-L1,2223,Milton Keynes Dons,Bristol Rvs,0.0,1.0,A,0.0,0.0,D,2.2,3.4,3.3,2.26,3.51,3.26,2.21,3.4,3.17,1.95,1.9,1.91,1.87,-0.25,1.93,1.93,MK Dons,Bristol Rvs,mk_dons,bristol_rvs
+2022-10-15,E2,England-L1,2223,Cheltenham,Bristol Rvs,1.0,4.0,A,0.0,4.0,A,2.37,3.5,2.9,2.44,3.51,2.96,2.39,3.36,2.89,2.0,1.85,1.95,1.83,-0.25,2.1,1.77,Cheltenham Town,Bristol Rvs,cheltenham_town,bristol_rvs
+2022-10-26,E2,England-L1,2223,Sheffield Weds,Bristol Rvs,1.0,1.0,D,1.0,0.0,H,1.5,4.33,6.5,1.5,4.92,5.93,1.49,4.5,5.97,1.66,2.15,1.67,2.16,-1.0,1.8,2.05,Sheffield Wednesday,Bristol Rvs,sheffield_wednesday,bristol_rvs
+2022-10-29,E2,England-L1,2223,Derby,Bristol Rvs,4.0,2.0,H,4.0,2.0,H,1.72,3.8,4.75,1.78,3.92,4.54,1.75,3.75,4.39,1.75,2.05,1.76,2.01,-0.75,1.95,1.9,Derby,Bristol Rvs,derby,bristol_rvs
+2022-12-02,E2,England-L1,2223,Bolton,Bristol Rvs,1.0,1.0,D,0.0,1.0,A,1.72,3.6,5.0,1.76,3.8,4.89,1.73,3.73,4.56,1.75,2.05,1.75,2.04,-0.75,1.98,1.88,Bolton,Bristol Rvs,bolton,bristol_rvs
+2022-12-17,E2,England-L1,2223,Charlton,Bristol Rvs,1.0,2.0,A,1.0,0.0,H,2.2,3.5,3.25,2.25,3.44,3.34,2.2,3.42,3.16,1.88,1.98,1.84,1.93,-0.25,1.93,1.93,Charlton,Bristol Rvs,charlton,bristol_rvs
+2022-12-26,E2,England-L1,2223,Wycombe,Bristol Rvs,2.0,1.0,H,1.0,1.0,D,2.0,3.5,3.75,2.09,3.48,3.58,2.05,3.43,3.45,1.95,1.9,1.91,1.86,-0.5,2.05,1.8,Wycombe Wanderers,Bristol Rvs,wycombe_wanderers,bristol_rvs
+2023-01-07,E2,England-L1,2223,Cambridge,Bristol Rvs,1.0,2.0,A,1.0,2.0,A,3.1,3.4,2.3,3.3,3.5,2.25,3.07,3.37,2.26,2.0,1.8,1.95,1.82,0.25,1.88,1.98,Cambridge United,Bristol Rvs,cambridge_united,bristol_rvs
+2023-01-14,E2,England-L1,2223,Accrington,Bristol Rvs,2.0,0.0,H,0.0,0.0,D,2.88,3.5,2.38,2.9,3.54,2.46,2.87,3.42,2.37,1.9,1.95,1.85,1.92,0.25,1.75,2.05,Accrington Stanley,Bristol Rvs,accrington_stanley,bristol_rvs
+2023-01-28,E2,England-L1,2223,Morecambe,Bristol Rvs,5.0,1.0,H,1.0,0.0,H,3.2,3.4,2.25,3.26,3.47,2.28,3.09,3.35,2.25,2.0,1.85,1.95,1.83,0.25,1.88,1.98,Morecambe,Bristol Rvs,morecambe,bristol_rvs
+2023-02-11,E2,England-L1,2223,Lincoln,Bristol Rvs,1.0,0.0,H,1.0,0.0,H,2.25,3.4,3.2,2.35,3.39,3.2,2.26,3.31,3.11,2.02,1.83,1.99,1.79,-0.25,1.98,1.88,Lincoln City,Bristol Rvs,lincoln_city,bristol_rvs
+2023-02-25,E2,England-L1,2223,Oxford,Bristol Rvs,0.0,3.0,A,0.0,2.0,A,1.91,3.75,3.8,1.95,3.89,3.77,1.91,3.72,3.7,1.83,2.02,1.78,2.0,-0.5,1.93,1.93,Oxford United,Bristol Rvs,oxford_united,bristol_rvs
+2023-03-11,E2,England-L1,2223,Forest Green,Bristol Rvs,1.0,3.0,A,1.0,2.0,A,2.88,3.2,2.55,2.85,3.4,2.57,2.83,3.33,2.44,2.0,1.85,1.96,1.82,0.0,2.15,1.68,Forest Green Rovers,Bristol Rvs,forest_green_rovers,bristol_rvs
+2023-04-10,E2,England-L1,2223,Fleetwood Town,Bristol Rvs,1.0,2.0,A,1.0,0.0,H,2.2,3.25,3.5,2.29,3.36,3.34,2.21,3.32,3.24,1.93,1.93,1.91,1.86,-0.25,1.9,1.95,Fleetwood Town,Bristol Rvs,fleetwood_town,bristol_rvs
+2023-04-22,E2,England-L1,2223,Port Vale,Bristol Rvs,2.0,0.0,H,2.0,0.0,H,2.2,3.4,3.25,2.22,3.45,3.41,2.19,3.36,3.25,2.0,1.85,1.96,1.82,-0.25,1.9,1.95,Port Vale,Bristol Rvs,port_vale,bristol_rvs
+2023-04-25,E2,England-L1,2223,Plymouth,Bristol Rvs,2.0,0.0,H,0.0,0.0,D,1.44,4.5,7.0,1.41,4.82,8.06,1.42,4.63,7.22,1.65,2.2,1.63,2.24,-1.25,1.95,1.9,Plymouth Argyle,Bristol Rvs,plymouth_argyle,bristol_rvs
+2023-04-29,E2,England-L1,2223,Peterboro,Bristol Rvs,0.0,0.0,D,0.0,0.0,D,1.4,4.75,7.5,1.39,5.42,7.49,1.38,5.04,7.27,1.6,2.3,1.59,2.29,-1.5,2.05,1.75,Peterborough United,Bristol Rvs,peterborough_united,bristol_rvs
+2023-05-02,E2,England-L1,2223,Shrewsbury,Bristol Rvs,2.0,1.0,H,1.0,0.0,H,2.3,3.4,3.0,2.39,3.3,3.1,2.36,3.27,3.03,2.05,1.75,2.06,1.74,-0.25,2.02,1.82,Shrewsbury Town,Bristol Rvs,shrewsbury_town,bristol_rvs
+2023-08-05,E2,England-L1,2324,Portsmouth,Bristol Rvs,1.0,1.0,D,0.0,1.0,A,1.91,3.6,4.0,1.92,3.71,4.09,1.92,3.56,3.82,1.93,1.93,1.86,1.91,-0.5,1.93,1.93,Portsmouth,Bristol Rvs,portsmouth,bristol_rvs
+2023-08-15,E2,England-L1,2324,Charlton,Bristol Rvs,1.0,2.0,A,0.0,0.0,D,2.25,3.4,3.2,2.29,3.46,3.24,2.23,3.42,3.08,1.75,2.05,1.79,2.0,-0.25,1.98,1.88,Charlton,Bristol Rvs,charlton,bristol_rvs
+2023-08-19,E2,England-L1,2324,Cambridge,Bristol Rvs,2.0,0.0,H,0.0,0.0,D,2.8,3.4,2.5,2.82,3.45,2.53,2.75,3.3,2.51,2.0,1.85,1.97,1.81,0.0,2.0,1.85,Cambridge United,Bristol Rvs,cambridge_united,bristol_rvs
+2023-09-16,E2,England-L1,2324,Shrewsbury,Bristol Rvs,0.0,2.0,A,0.0,0.0,D,2.9,3.3,2.4,3.02,3.34,2.48,2.89,3.28,2.41,2.05,1.75,2.03,1.76,0.25,1.78,2.1,Shrewsbury Town,Bristol Rvs,shrewsbury_town,bristol_rvs
+2023-09-30,E2,England-L1,2324,Peterboro,Bristol Rvs,2.0,0.0,H,1.0,0.0,H,1.85,3.75,4.0,1.89,3.73,4.2,1.84,3.62,4.06,1.98,1.88,1.92,1.84,-0.5,1.85,2.0,Peterborough United,Bristol Rvs,peterborough_united,bristol_rvs
+2023-10-07,E2,England-L1,2324,Oxford,Bristol Rvs,2.0,1.0,H,1.0,0.0,H,1.83,3.8,4.0,1.8,4.01,4.31,1.79,3.76,4.12,1.75,2.05,1.77,2.01,-0.75,2.03,1.78,Oxford United,Bristol Rvs,oxford_united,bristol_rvs
+2023-10-21,E2,England-L1,2324,Burton,Bristol Rvs,4.0,1.0,H,2.0,1.0,H,2.6,3.6,2.5,2.76,3.51,2.59,2.69,3.44,2.45,1.85,2.0,1.81,1.95,0.0,1.98,1.88,Burton Albion,Bristol Rvs,burton_albion,bristol_rvs
+2023-11-07,E2,England-L1,2324,Reading,Bristol Rvs,1.0,1.0,D,1.0,0.0,H,2.63,3.4,2.7,2.7,3.57,2.61,2.57,3.47,2.57,1.73,2.08,1.75,2.03,0.0,1.98,1.88,Reading,Bristol Rvs,reading,bristol_rvs
+2023-11-11,E2,England-L1,2324,Carlisle,Bristol Rvs,0.0,1.0,A,0.0,1.0,A,3.0,3.5,2.38,2.99,3.39,2.48,2.9,3.35,2.38,1.98,1.88,1.94,1.83,0.25,1.78,2.1,Carlisle United,Bristol Rvs,carlisle_united,bristol_rvs
+2023-11-25,E2,England-L1,2324,Derby,Bristol Rvs,2.0,1.0,H,0.0,0.0,D,1.6,4.0,5.25,1.59,4.26,5.51,1.59,4.07,5.29,1.75,2.05,1.75,2.03,-1.0,2.03,1.78,Derby,Bristol Rvs,derby,bristol_rvs
+2023-12-16,E2,England-L1,2324,Bolton,Bristol Rvs,1.0,2.0,A,0.0,2.0,A,1.67,4.0,5.0,1.65,4.13,5.35,1.65,3.94,4.9,1.8,2.0,1.76,2.02,-0.75,1.83,2.03,Bolton,Bristol Rvs,bolton,bristol_rvs
+2023-12-23,E2,England-L1,2324,Blackpool,Bristol Rvs,3.0,1.0,H,1.0,1.0,D,1.73,4.0,4.5,1.81,3.89,4.41,1.77,3.76,4.25,1.75,2.05,1.76,2.01,-0.75,2.03,1.83,Blackpool,Bristol Rvs,blackpool,bristol_rvs
+2024-01-01,E2,England-L1,2324,Wycombe,Bristol Rvs,3.0,2.0,H,1.0,0.0,H,2.88,3.4,2.45,2.81,3.65,2.48,2.81,3.44,2.37,1.95,1.9,1.88,1.88,0.25,1.7,2.1,Wycombe Wanderers,Bristol Rvs,wycombe_wanderers,bristol_rvs
+2024-01-13,E2,England-L1,2324,Barnsley,Bristol Rvs,2.0,1.0,H,1.0,0.0,H,1.91,3.5,4.2,1.94,3.71,3.98,1.88,3.61,3.88,1.75,2.05,1.74,2.04,-0.5,1.88,1.98,Barnsley,Bristol Rvs,barnsley,bristol_rvs
+2024-02-03,E2,England-L1,2324,Exeter,Bristol Rvs,0.0,1.0,A,0.0,1.0,A,2.9,3.4,2.4,2.9,3.43,2.52,2.82,3.33,2.41,1.95,1.9,1.92,1.85,0.25,1.73,2.08,Exeter City,Bristol Rvs,exeter_city,bristol_rvs
+2024-02-13,E2,England-L1,2324,Stevenage,Bristol Rvs,2.0,3.0,A,2.0,1.0,H,1.73,3.8,4.75,1.78,3.77,4.78,1.76,3.61,4.44,2.0,1.85,1.95,1.82,-0.75,2.0,1.85,Stevenage,Bristol Rvs,stevenage,bristol_rvs
+2024-02-17,E2,England-L1,2324,Northampton,Bristol Rvs,3.0,1.0,H,2.0,0.0,H,2.55,3.6,2.63,2.63,3.52,2.71,2.56,3.42,2.59,1.9,1.95,1.87,1.89,0.0,1.93,1.93,Northampton Town,Bristol Rvs,northampton_town,bristol_rvs
+2024-03-02,E2,England-L1,2324,Leyton Orient,Bristol Rvs,0.0,1.0,A,0.0,1.0,A,1.85,3.6,4.33,1.92,3.64,4.21,1.86,3.55,4.01,1.98,1.88,1.89,1.87,-0.5,1.88,1.98,Leyton Orient,Bristol Rvs,leyton_orient,bristol_rvs
+2024-03-12,E2,England-L1,2324,Fleetwood Town,Bristol Rvs,0.0,0.0,D,0.0,0.0,D,1.95,3.6,3.8,2.02,3.52,3.93,1.97,3.46,3.68,1.98,1.88,1.92,1.85,-0.5,1.98,1.88,Fleetwood Town,Bristol Rvs,fleetwood_town,bristol_rvs
+2024-03-16,E2,England-L1,2324,Lincoln,Bristol Rvs,5.0,0.0,H,3.0,0.0,H,1.7,3.5,5.75,1.7,3.77,5.44,1.68,3.64,5.06,2.1,1.7,2.07,1.72,-0.75,1.93,1.93,Lincoln City,Bristol Rvs,lincoln_city,bristol_rvs
+2024-03-29,E2,England-L1,2324,Port Vale,Bristol Rvs,2.0,0.0,H,1.0,0.0,H,2.4,3.5,2.8,2.48,3.41,2.93,2.42,3.34,2.82,2.0,1.85,1.98,1.79,0.0,1.78,2.1,Port Vale,Bristol Rvs,port_vale,bristol_rvs
+2024-04-13,E2,England-L1,2324,Cheltenham,Bristol Rvs,1.0,3.0,A,0.0,1.0,A,2.1,3.4,3.5,2.14,3.44,3.54,2.07,3.39,3.47,2.0,1.85,1.97,1.8,-0.25,1.83,2.03,Cheltenham Town,Bristol Rvs,cheltenham_town,bristol_rvs
+2024-04-27,E2,England-L1,2324,Wigan,Bristol Rvs,2.0,0.0,H,1.0,0.0,H,2.05,3.75,3.4,2.14,3.49,3.5,2.07,3.5,3.32,1.85,2.0,1.83,1.94,-0.25,1.83,2.03,Wigan Athletic,Bristol Rvs,wigan_athletic,bristol_rvs
+2024-08-17,E2,England-L1,2425,Rotherham,Bristol Rvs,0.0,0.0,D,0.0,0.0,D,2.0,3.6,3.5,2.02,3.55,3.58,2.01,3.49,3.51,2.0,1.85,1.97,1.81,-0.5,2.03,1.83,Rotherham United,Bristol Rvs,rotherham_united,bristol_rvs
+2024-08-24,E2,England-L1,2425,Stockport,Bristol Rvs,2.0,0.0,H,1.0,0.0,H,1.7,3.8,4.5,1.72,3.97,4.65,1.72,3.78,4.43,1.9,1.95,1.86,1.91,-0.75,1.93,1.93,Stockport County,Bristol Rvs,stockport_county,bristol_rvs
+2024-09-07,E2,England-L1,2425,Barnsley,Bristol Rvs,2.0,1.0,H,1.0,1.0,D,1.7,3.9,4.5,1.7,4.16,4.28,1.7,3.94,4.34,1.75,2.05,1.73,2.05,-0.75,1.93,1.93,Barnsley,Bristol Rvs,barnsley,bristol_rvs
+2024-09-21,E2,England-L1,2425,Peterboro,Bristol Rvs,3.0,2.0,H,2.0,0.0,H,1.62,3.7,5.5,1.6,4.25,4.95,1.62,4.09,4.84,1.57,2.35,1.55,2.36,-1.0,2.03,1.78,Peterborough United,Bristol Rvs,peterborough_united,bristol_rvs
+2024-10-05,E2,England-L1,2425,Burton,Bristol Rvs,1.0,3.0,A,1.0,0.0,H,2.25,3.4,3.0,2.31,3.45,3.02,2.26,3.43,2.96,1.8,2.0,1.78,1.99,-0.25,2.0,1.85,Burton Albion,Bristol Rvs,burton_albion,bristol_rvs
+2024-10-19,E2,England-L1,2425,Huddersfield,Bristol Rvs,3.0,1.0,H,2.0,0.0,H,1.5,4.33,5.75,1.5,4.38,5.98,1.49,4.35,5.89,1.67,2.15,1.67,2.14,-1.0,1.85,2.0,Huddersfield,Bristol Rvs,huddersfield,bristol_rvs
+2024-10-26,E2,England-L1,2425,Reading,Bristol Rvs,1.0,0.0,H,0.0,0.0,D,1.73,3.8,4.33,1.79,3.95,4.25,1.76,3.82,4.17,1.67,2.15,1.66,2.16,-0.75,1.98,1.88,Reading,Bristol Rvs,reading,bristol_rvs
+2024-11-23,E2,England-L1,2425,Mansfield,Bristol Rvs,0.0,1.0,A,0.0,0.0,D,1.75,3.75,4.2,1.79,3.82,4.17,1.77,3.74,4.19,1.83,2.03,1.78,1.99,-0.75,2.03,1.83,Mansfield Town,Bristol Rvs,mansfield_town,bristol_rvs
+2024-12-03,E2,England-L1,2425,Leyton Orient,Bristol Rvs,3.0,0.0,H,3.0,0.0,H,1.85,3.4,4.0,1.91,3.59,4.2,1.93,3.46,3.86,2.03,1.83,2.01,1.77,-0.5,1.9,1.95,Leyton Orient,Bristol Rvs,leyton_orient,bristol_rvs
+2024-12-14,E2,England-L1,2425,Birmingham,Bristol Rvs,2.0,0.0,H,2.0,0.0,H,1.25,6.0,10.0,1.23,6.17,10.43,1.23,6.07,10.74,1.53,2.4,1.53,2.4,-1.75,1.93,1.93,Birmingham,Bristol Rvs,birmingham,bristol_rvs
+2024-12-26,E2,England-L1,2425,Exeter,Bristol Rvs,3.0,1.0,H,0.0,0.0,D,1.8,3.6,4.33,1.78,3.65,4.51,1.79,3.56,4.29,2.05,1.75,2.01,1.76,-0.75,2.05,1.8,Exeter City,Bristol Rvs,exeter_city,bristol_rvs
+2024-12-29,E2,England-L1,2425,Stevenage,Bristol Rvs,3.0,0.0,H,1.0,0.0,H,1.75,3.75,4.5,1.75,3.49,4.93,1.74,3.52,4.7,2.2,1.65,2.24,1.61,-0.75,2.03,1.83,Stevenage,Bristol Rvs,stevenage,bristol_rvs
+2025-01-04,E2,England-L1,2425,Cambridge,Bristol Rvs,0.0,1.0,A,0.0,1.0,A,2.05,3.5,3.25,2.09,3.46,3.6,2.07,3.43,3.38,1.98,1.88,1.92,1.84,-0.25,1.83,2.03,Cambridge United,Bristol Rvs,cambridge_united,bristol_rvs
+2025-01-25,E2,England-L1,2425,Wigan,Bristol Rvs,2.0,0.0,H,1.0,0.0,H,1.7,3.6,5.0,1.69,3.65,5.08,1.71,3.56,4.92,2.1,1.7,2.08,1.71,-0.75,1.87,1.87,Wigan Athletic,Bristol Rvs,wigan_athletic,bristol_rvs
+2025-01-28,E2,England-L1,2425,Charlton,Bristol Rvs,2.0,0.0,H,2.0,0.0,H,1.5,4.0,6.0,1.53,4.24,6.43,1.52,4.12,5.94,1.88,1.98,1.84,1.95,-1.0,1.9,1.95,Charlton,Bristol Rvs,charlton,bristol_rvs
+2025-02-18,E2,England-L1,2425,Wycombe,Bristol Rvs,2.0,0.0,H,0.0,0.0,D,1.4,4.33,7.5,1.41,4.81,7.77,1.39,4.58,7.47,1.75,2.05,1.72,2.09,-1.25,1.93,1.93,Wycombe Wanderers,Bristol Rvs,wycombe_wanderers,bristol_rvs
+2025-02-22,E2,England-L1,2425,Northampton,Bristol Rvs,2.0,1.0,H,0.0,0.0,D,2.1,3.3,3.4,2.18,3.24,3.46,2.13,3.26,3.35,2.1,1.7,2.1,1.68,-0.25,1.85,2.0,Northampton Town,Bristol Rvs,northampton_town,bristol_rvs
+2025-03-04,E2,England-L1,2425,Shrewsbury,Bristol Rvs,0.0,0.0,D,0.0,0.0,D,1.91,3.25,3.9,2.02,3.36,4.05,2.0,3.27,3.81,2.08,1.73,2.1,1.71,-0.5,2.0,1.85,Shrewsbury Town,Bristol Rvs,shrewsbury_town,bristol_rvs
+2025-03-15,E2,England-L1,2425,Lincoln,Bristol Rvs,5.0,0.0,H,1.0,0.0,H,1.53,4.1,6.0,1.54,4.05,6.02,1.52,3.97,5.91,2.0,1.85,1.94,1.81,-1.0,1.93,1.93,Lincoln City,Bristol Rvs,lincoln_city,bristol_rvs
+2025-03-22,E2,England-L1,2425,Crawley Town,Bristol Rvs,1.0,0.0,H,1.0,0.0,H,2.05,3.4,3.4,2.03,3.6,3.5,2.04,3.5,3.37,1.83,2.03,1.78,1.99,-0.5,2.05,1.75,Crawley Town,Bristol Rvs,crawley_town,bristol_rvs
+2025-04-05,E2,England-L1,2425,Bolton,Bristol Rvs,1.0,0.0,H,0.0,0.0,D,1.38,4.75,7.0,1.36,5.03,7.72,1.37,4.82,7.41,1.6,2.3,1.61,2.26,-1.25,1.85,2.0,Bolton,Bristol Rvs,bolton,bristol_rvs
+2025-04-18,E2,England-L1,2425,Wrexham,Bristol Rvs,1.0,1.0,D,0.0,1.0,A,1.4,5.0,6.5,1.39,4.48,8.3,1.4,4.43,7.6,2.0,1.85,1.99,1.8,-1.25,2.03,1.83,Wrexham,Bristol Rvs,wrexham,bristol_rvs
+2025-05-03,E2,England-L1,2425,Blackpool,Bristol Rvs,4.0,1.0,H,1.0,1.0,D,1.57,4.0,5.0,1.62,4.0,4.89,1.62,4.0,4.88,1.7,2.1,1.71,2.09,-0.75,1.74,1.99,Blackpool,Bristol Rvs,blackpool,bristol_rvs
+2025-08-09,E3,England-L2,2526,Fleetwood Town,Bristol Rvs,2.0,1.0,H,2.0,0.0,H,2.45,3.3,2.75,2.48,3.37,2.76,2.43,3.36,2.71,1.95,1.9,1.88,1.84,0.0,1.8,2.05,Fleetwood Town,Bristol Rvs,fleetwood_town,bristol_rvs
+2025-08-16,E3,England-L2,2526,Chesterfield,Bristol Rvs,3.0,1.0,H,1.0,0.0,H,1.73,3.8,4.2,1.77,3.88,4.11,1.73,3.78,4.34,1.85,2.0,1.79,1.93,-0.75,2.0,1.85,Chesterfield,Bristol Rvs,chesterfield,bristol_rvs
+2025-08-30,E3,England-L2,2526,Grimsby,Bristol Rvs,0.0,1.0,A,0.0,1.0,A,1.91,3.6,3.6,1.98,3.61,3.53,1.98,3.4,3.69,1.98,1.88,1.91,1.84,-0.5,2.0,1.85,Grimsby Town,Bristol Rvs,grimsby_town,bristol_rvs
+2025-09-06,E3,England-L2,2526,Newport County,Bristol Rvs,2.0,3.0,A,0.0,0.0,D,3.5,3.9,1.82,3.52,3.91,1.91,3.73,3.67,1.88,1.75,2.05,1.76,1.97,0.5,1.93,1.93,Newport County,Bristol Rvs,newport_county,bristol_rvs
+2025-09-20,E3,England-L2,2526,Colchester,Bristol Rvs,1.0,1.0,D,0.0,1.0,A,2.3,3.3,2.85,2.45,3.28,2.87,2.37,3.26,2.9,2.15,1.67,2.08,1.68,-0.25,2.05,1.8,Colchester United,Bristol Rvs,colchester_united,bristol_rvs
+2025-10-04,E3,England-L2,2526,Walsall,Bristol Rvs,2.0,1.0,H,0.0,1.0,A,2.01,3.3,3.5,2.09,3.28,3.57,2.11,3.28,3.38,2.1,1.7,2.06,1.7,-0.25,1.8,2.05,Walsall,Bristol Rvs,walsall,bristol_rvs
+2025-10-25,E3,England-L2,2526,Crawley Town,Bristol Rvs,4.0,0.0,H,1.0,0.0,H,2.32,3.25,2.82,2.34,3.35,2.98,2.39,3.38,2.77,1.85,2.0,1.79,1.95,0.0,1.7,2.1,Crawley Town,Bristol Rvs,crawley_town,bristol_rvs
+2025-11-15,E3,England-L2,2526,Accrington,Bristol Rvs,3.0,1.0,H,1.0,0.0,H,2.32,3.3,2.82,,,,2.37,3.36,2.83,1.95,1.9,1.9,1.83,-0.25,2.1,1.78,Accrington Stanley,Bristol Rvs,accrington_stanley,bristol_rvs
+2025-11-22,E3,England-L2,2526,Cheltenham,Bristol Rvs,1.0,0.0,H,0.0,0.0,D,2.85,3.5,2.25,,,,2.93,3.35,2.3,1.98,1.88,1.91,1.81,0.25,1.83,2.03,Cheltenham Town,Bristol Rvs,cheltenham_town,bristol_rvs
+2025-12-09,E3,England-L2,2526,Barnet,Bristol Rvs,4.0,0.0,H,2.0,0.0,H,1.53,3.75,5.75,,,,1.59,3.84,5.41,1.93,1.93,1.88,1.84,-1.0,2.05,1.8,Barnet,Bristol Rvs,barnet,bristol_rvs
+2025-12-19,E3,England-L2,2526,Crewe,Bristol Rvs,1.0,1.0,D,1.0,1.0,D,1.91,3.4,3.8,,,,1.96,3.39,3.67,1.85,2.0,1.83,1.88,-0.5,2.0,1.85,Crewe Alexandra,Bristol Rvs,crewe_alexandra,bristol_rvs
+2026-01-01,E3,England-L2,2526,Shrewsbury,Bristol Rvs,0.0,3.0,A,0.0,0.0,D,2.4,3.2,2.75,,,,2.5,3.19,2.75,2.08,1.73,2.05,1.69,0.0,1.8,2.05,Shrewsbury Town,Bristol Rvs,shrewsbury_town,bristol_rvs
+2026-01-24,E3,England-L2,2526,Salford,Bristol Rvs,1.0,0.0,H,1.0,0.0,H,1.68,3.75,4.33,,,,1.74,3.75,4.24,1.73,2.08,1.7,2.05,-0.75,2.0,1.85,Salford City,Bristol Rvs,salford_city,bristol_rvs
+2026-01-27,E3,England-L2,2526,Milton Keynes Dons,Bristol Rvs,1.0,0.0,H,1.0,0.0,H,1.53,3.9,5.75,,,,1.58,3.84,5.52,1.95,1.9,1.89,1.82,-1.0,2.03,1.83,MK Dons,Bristol Rvs,mk_dons,bristol_rvs
+2026-02-14,E3,England-L2,2526,Cambridge,Bristol Rvs,3.0,1.0,H,1.0,1.0,D,1.66,3.4,4.75,,,,1.71,3.48,4.75,2.08,1.73,2.07,1.68,-0.75,1.98,1.88,Cambridge United,Bristol Rvs,cambridge_united,bristol_rvs
+2026-02-17,E3,England-L2,2526,Oldham,Bristol Rvs,2.0,0.0,H,1.0,0.0,H,2.1,3.25,3.3,,,,2.13,3.33,3.28,2.1,1.7,2.01,1.72,-0.25,1.88,1.98,Oldham,Bristol Rvs,oldham,bristol_rvs
+2026-02-28,E3,England-L2,2526,Swindon,Bristol Rvs,1.0,1.0,D,0.0,1.0,A,1.86,3.5,3.7,,,,1.91,3.51,3.72,1.85,1.95,1.79,1.94,-0.5,1.98,1.88,Swindon Town,Bristol Rvs,swindon_town,bristol_rvs
+2026-03-10,E3,England-L2,2526,Barrow,Bristol Rvs,0.0,2.0,A,0.0,1.0,A,2.65,3.25,2.45,,,,2.66,3.24,2.55,2.05,1.75,1.98,1.76,0.0,2.0,1.85,Barrow,Bristol Rvs,barrow,bristol_rvs
+2026-03-14,E3,England-L2,2526,Bromley,Bristol Rvs,1.0,0.0,H,1.0,0.0,H,1.86,3.5,3.6,,,,1.92,3.48,3.7,1.98,1.88,1.91,1.82,-0.5,1.98,1.88,Bromley,Bristol Rvs,bromley,bristol_rvs
+2026-03-21,E3,England-L2,2526,Gillingham,Bristol Rvs,1.0,2.0,A,1.0,0.0,H,2.25,3.25,3.0,,,,2.31,3.29,2.93,1.95,1.85,1.92,1.79,-0.25,2.05,1.8,Gillingham,Bristol Rvs,gillingham,bristol_rvs
+2026-04-06,E3,England-L2,2526,Harrogate,Bristol Rvs,2.0,3.0,A,1.0,0.0,H,2.65,3.25,2.45,,,,2.73,3.27,2.43,2.08,1.73,2.0,1.74,0.0,2.03,1.83,Harrogate Town,Bristol Rvs,harrogate_town,bristol_rvs
+2026-04-18,E3,England-L2,2526,Tranmere,Bristol Rvs,1.0,2.0,A,0.0,0.0,D,2.55,3.4,2.45,,,,2.69,3.36,2.44,1.98,1.88,1.95,1.78,0.0,1.98,1.88,Tranmere Rovers,Bristol Rvs,tranmere_rovers,bristol_rvs
+2026-05-02,E3,England-L2,2526,Notts County,Bristol Rvs,1.0,1.0,D,1.0,0.0,H,1.62,4.33,4.2,,,,1.65,4.09,4.4,1.67,2.15,1.62,2.16,-0.75,1.85,2.0,Notts County,Bristol Rvs,notts_county,bristol_rvs
+2026-08-15,E3,England-L2,2627,York,Bristol Rvs,3.0,2.0,H,0.0,1.0,A,2.15,3.2,3.3,,,,2.19,3.23,3.19,2.08,1.73,2.03,1.71,-0.25,1.95,1.9,York,Bristol Rvs,york,bristol_rvs
+2026-08-29,E3,England-L2,2627,Crawley Town,Bristol Rvs,0.0,2.0,A,0.0,2.0,A,3.4,3.25,2.05,,,,3.26,3.37,2.13,1.98,1.88,1.87,1.84,0.25,1.98,1.88,Crawley Town,Bristol Rvs,crawley_town,bristol_rvs
+2026-09-12,E3,England-L2,2627,Grimsby,Bristol Rvs,2.0,0.0,H,2.0,0.0,H,2.25,3.4,2.82,,,,2.33,3.53,2.76,1.73,2.08,1.71,2.04,0.0,1.7,2.1,Grimsby Town,Bristol Rvs,grimsby_town,bristol_rvs
+2026-09-19,E3,England-L2,2627,Gillingham,Bristol Rvs,3.0,0.0,H,0.0,0.0,D,3.8,3.4,1.91,,,,3.6,3.54,1.94,1.88,1.98,1.81,1.92,0.5,1.85,2.0,Gillingham,Bristol Rvs,gillingham,bristol_rvs
+2026-10-03,E3,England-L2,2627,Crewe,Bristol Rvs,3.0,1.0,H,2.0,0.0,H,3.1,3.4,2.15,,,,2.95,3.44,2.26,1.83,2.03,1.78,1.96,0.25,1.88,1.98,Crewe Alexandra,Bristol Rvs,crewe_alexandra,bristol_rvs
+2026-10-17,E3,England-L2,2627,Shrewsbury,Bristol Rvs,1.0,0.0,H,0.0,0.0,D,3.1,3.3,2.2,,,,3.04,3.31,2.26,2.05,1.75,1.99,1.74,0.25,1.88,1.98,Shrewsbury Town,Bristol Rvs,shrewsbury_town,bristol_rvs

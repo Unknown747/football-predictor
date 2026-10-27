@@ -1,0 +1,36 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-07-27,B1,Belgium-JPL,2122,Beerschot VA,Cercle Brugge,0.0,1.0,A,0.0,1.0,A,2.2,3.6,3.1,2.33,3.4,3.16,2.27,3.41,3.05,1.83,2.02,1.82,1.98,-0.25,1.98,1.88,Beerschot VA,Cercle Brugge,beerschot_va,cercle_brugge
+2021-08-07,B1,Belgium-JPL,2122,Beerschot VA,St. Gilloise,0.0,3.0,A,0.0,1.0,A,4.2,3.75,1.8,4.29,3.87,1.82,4.09,3.73,1.82,1.85,2.0,1.8,2.0,0.5,2.02,1.83,Beerschot VA,St. Gilloise,beerschot_va,st_gilloise
+2021-08-15,B1,Belgium-JPL,2122,Beerschot VA,Standard,0.0,1.0,A,0.0,0.0,D,3.8,3.5,1.9,3.63,3.73,2.02,3.54,3.64,1.98,1.7,2.1,1.7,2.13,0.5,1.85,2.0,Beerschot VA,Standard Liege,beerschot_va,standard_liege
+2021-09-13,B1,Belgium-JPL,2122,Beerschot VA,St Truiden,0.0,1.0,A,0.0,1.0,A,2.5,3.4,2.7,2.48,3.43,2.73,2.47,3.45,2.71,1.72,2.07,1.78,2.04,0.0,1.83,2.02,Beerschot VA,Sint-Truiden,beerschot_va,sint_truiden
+2021-09-25,B1,Belgium-JPL,2122,Beerschot VA,Eupen,0.0,3.0,A,0.0,1.0,A,2.75,3.4,2.37,2.76,3.85,2.37,2.73,3.64,2.37,1.65,2.2,1.67,2.2,0.0,2.02,1.83,Beerschot VA,KAS Eupen,beerschot_va,kas_eupen
+2021-10-17,B1,Belgium-JPL,2122,Beerschot VA,Mechelen,0.0,1.0,A,0.0,1.0,A,3.0,3.4,2.2,3.01,3.64,2.28,2.96,3.55,2.25,1.66,2.15,1.68,2.17,0.25,1.85,2.0,Beerschot VA,KV Mechelen,beerschot_va,kv_mechelen
+2021-10-30,B1,Belgium-JPL,2122,Beerschot VA,Seraing,3.0,0.0,H,1.0,0.0,H,2.4,3.4,2.8,2.49,3.39,2.88,2.45,3.34,2.78,1.85,1.95,1.89,1.9,0.0,1.8,2.05,Beerschot VA,RFC Seraing,beerschot_va,rfc_seraing
+2021-11-21,B1,Belgium-JPL,2122,Beerschot VA,Genk,2.0,0.0,H,1.0,0.0,H,4.5,4.0,1.65,4.72,3.93,1.72,4.48,3.98,1.7,1.53,2.4,1.55,2.42,0.75,1.95,1.9,Beerschot VA,Genk,beerschot_va,genk
+2021-12-05,B1,Belgium-JPL,2122,Beerschot VA,Antwerp,0.0,1.0,A,0.0,0.0,D,2.87,3.5,2.3,2.9,3.65,2.35,2.83,3.56,2.34,1.7,2.1,1.71,2.11,0.25,1.8,2.05,Beerschot VA,Royal Antwerp,beerschot_va,royal_antwerp
+2021-12-18,B1,Belgium-JPL,2122,Beerschot VA,Oostende,0.0,2.0,A,0.0,2.0,A,2.2,3.5,3.0,2.33,3.72,2.88,2.31,3.56,2.86,1.7,2.1,1.69,2.14,-0.25,2.0,1.85,Beerschot VA,KV Oostende,beerschot_va,kv_oostende
+2021-12-27,B1,Belgium-JPL,2122,Beerschot VA,Anderlecht,0.0,7.0,A,0.0,3.0,A,5.25,4.2,1.57,5.31,4.36,1.58,5.12,4.19,1.59,1.66,2.15,1.65,2.21,1.0,1.8,2.05,Beerschot VA,Anderlecht,beerschot_va,anderlecht
+2022-01-22,B1,Belgium-JPL,2122,Beerschot VA,Oud-Heverlee Leuven,3.0,1.0,H,2.0,1.0,H,3.1,3.6,2.15,3.12,3.74,2.19,3.05,3.56,2.19,1.66,2.15,1.68,2.14,0.25,1.95,1.9,Beerschot VA,Oud-Heverlee Leuven,beerschot_va,oud_heverlee_leuven
+2022-01-29,B1,Belgium-JPL,2122,Beerschot VA,Waregem,3.0,3.0,D,1.0,3.0,A,2.3,3.4,3.0,2.27,3.82,2.92,2.28,3.57,2.89,1.7,2.1,1.71,2.1,-0.25,2.02,1.83,Beerschot VA,Zulte Waregem,beerschot_va,zulte_waregem
+2022-02-13,B1,Belgium-JPL,2122,Beerschot VA,Kortrijk,2.0,1.0,H,2.0,1.0,H,3.1,3.5,2.15,3.22,3.49,2.23,3.08,3.45,2.23,1.8,2.0,1.78,2.02,0.25,1.93,1.93,Beerschot VA,KV Kortrijk,beerschot_va,kv_kortrijk
+2022-02-25,B1,Belgium-JPL,2122,Beerschot VA,Charleroi,2.0,3.0,A,1.0,1.0,D,3.5,3.5,1.83,3.92,3.76,1.94,3.78,3.64,1.92,1.7,2.1,1.72,2.1,0.5,1.95,1.9,Beerschot VA,Sporting Charleroi,beerschot_va,sporting_charleroi
+2022-03-13,B1,Belgium-JPL,2122,Beerschot VA,Gent,0.0,2.0,A,0.0,1.0,A,6.5,4.2,1.5,6.25,4.53,1.49,6.06,4.45,1.49,1.66,2.15,1.67,2.17,1.0,2.02,1.83,Beerschot VA,KAA Gent,beerschot_va,kaa_gent
+2022-04-01,B1,Belgium-JPL,2122,Beerschot VA,Club Brugge,1.0,3.0,A,0.0,1.0,A,10.0,5.75,1.22,10.63,6.51,1.26,10.86,6.25,1.24,1.47,2.6,1.48,2.58,1.75,1.98,1.88,Beerschot VA,Club Brugge,beerschot_va,club_brugge
+2024-07-27,B1,Belgium-JPL,2425,Beerschot VA,Oud-Heverlee Leuven,0.0,0.0,D,0.0,0.0,D,2.7,3.25,2.45,2.79,3.37,2.5,2.77,3.36,2.48,1.83,2.03,1.8,2.0,0.0,2.03,1.83,Beerschot VA,Oud-Heverlee Leuven,beerschot_va,oud_heverlee_leuven
+2024-08-17,B1,Belgium-JPL,2425,Beerschot VA,Genk,3.0,4.0,A,1.0,3.0,A,4.75,4.0,1.65,4.7,4.14,1.65,4.69,4.09,1.66,1.67,2.15,1.65,2.21,0.75,2.03,1.83,Beerschot VA,Genk,beerschot_va,genk
+2024-08-31,B1,Belgium-JPL,2425,Beerschot VA,Dender,1.0,2.0,A,0.0,2.0,A,2.9,3.3,2.4,2.9,3.36,2.43,2.86,3.37,2.41,1.83,2.03,1.82,1.97,0.25,1.78,2.1,Beerschot VA,Dender,beerschot_va,dender
+2024-09-21,B1,Belgium-JPL,2425,Beerschot VA,St Truiden,0.0,3.0,A,0.0,1.0,A,2.4,3.3,2.7,2.57,3.28,2.78,2.53,3.3,2.74,1.9,1.95,1.88,1.91,0.0,1.85,2.0,Beerschot VA,Sint-Truiden,beerschot_va,sint_truiden
+2024-10-18,B1,Belgium-JPL,2425,Beerschot VA,Anderlecht,2.0,1.0,H,1.0,0.0,H,5.25,4.33,1.48,6.15,4.52,1.51,5.78,4.49,1.5,1.53,2.4,1.53,2.42,1.0,2.03,1.83,Beerschot VA,Anderlecht,beerschot_va,anderlecht
+2024-11-03,B1,Belgium-JPL,2425,Beerschot VA,Gent,0.0,0.0,D,0.0,0.0,D,4.0,4.0,1.8,4.02,4.03,1.78,4.01,3.93,1.78,1.67,2.15,1.68,2.16,0.75,1.83,2.03,Beerschot VA,KAA Gent,beerschot_va,kaa_gent
+2024-11-10,B1,Belgium-JPL,2425,Beerschot VA,Club Brugge,2.0,2.0,D,0.0,2.0,A,7.5,6.5,1.29,8.61,5.89,1.28,9.02,5.97,1.27,1.44,2.7,1.43,2.73,1.75,1.85,2.0,Beerschot VA,Club Brugge,beerschot_va,club_brugge
+2024-12-01,B1,Belgium-JPL,2425,Beerschot VA,Cercle Brugge,3.0,2.0,H,0.0,2.0,A,3.9,3.5,1.9,3.76,3.69,1.92,3.7,3.65,1.92,1.73,2.08,1.72,2.09,0.5,1.9,1.95,Beerschot VA,Cercle Brugge,beerschot_va,cercle_brugge
+2024-12-14,B1,Belgium-JPL,2425,Beerschot VA,Standard,0.0,0.0,D,0.0,0.0,D,3.1,3.4,2.2,3.19,3.39,2.24,3.16,3.34,2.24,2.05,1.8,2.03,1.76,0.25,1.88,1.98,Beerschot VA,Standard Liege,beerschot_va,standard_liege
+2024-12-21,B1,Belgium-JPL,2425,Beerschot VA,Kortrijk,2.0,2.0,D,0.0,0.0,D,2.63,3.3,2.63,2.62,3.44,2.61,2.61,3.35,2.62,1.85,2.0,1.85,1.93,0.0,1.93,1.93,Beerschot VA,KV Kortrijk,beerschot_va,kv_kortrijk
+2025-01-12,B1,Belgium-JPL,2425,Beerschot VA,Antwerp,1.0,1.0,D,1.0,0.0,H,4.5,3.9,1.7,4.47,4.01,1.7,4.37,3.93,1.72,1.7,2.1,1.67,2.14,0.75,1.93,1.93,Beerschot VA,Royal Antwerp,beerschot_va,royal_antwerp
+2025-01-26,B1,Belgium-JPL,2425,Beerschot VA,St. Gilloise,0.0,4.0,A,0.0,3.0,A,5.5,4.33,1.53,5.86,4.3,1.52,5.81,4.28,1.51,1.73,2.08,1.73,2.06,1.0,1.98,1.88,Beerschot VA,St. Gilloise,beerschot_va,st_gilloise
+2025-02-09,B1,Belgium-JPL,2425,Beerschot VA,Charleroi,1.0,1.0,D,1.0,0.0,H,4.5,3.5,1.8,4.41,3.72,1.79,4.27,3.65,1.8,1.93,1.93,1.89,1.9,0.5,2.03,1.83,Beerschot VA,Sporting Charleroi,beerschot_va,sporting_charleroi
+2025-03-02,B1,Belgium-JPL,2425,Beerschot VA,Mechelen,1.0,0.0,H,1.0,0.0,H,3.8,3.6,1.85,4.06,3.67,1.87,3.88,3.67,1.87,1.73,2.08,1.74,2.05,0.5,1.98,1.88,Beerschot VA,KV Mechelen,beerschot_va,kv_mechelen
+2025-03-16,B1,Belgium-JPL,2425,Beerschot VA,Westerlo,1.0,2.0,A,0.0,1.0,A,3.5,3.6,1.95,3.52,3.77,1.99,3.43,3.72,1.97,1.62,2.25,1.61,2.27,0.5,1.88,1.98,Beerschot VA,KVC Westerlo,beerschot_va,kvc_westerlo
+2025-03-29,B1,Belgium-JPL,2425,Beerschot VA,St Truiden,0.0,1.0,A,0.0,0.0,D,3.3,3.5,2.15,3.32,3.74,2.12,3.21,3.54,2.12,1.75,2.05,1.75,2.05,0.25,2.0,1.85,Beerschot VA,Sint-Truiden,beerschot_va,sint_truiden
+2025-04-25,B1,Belgium-JPL,2425,Beerschot VA,Kortrijk,2.0,0.0,H,2.0,0.0,H,4.1,3.5,1.85,4.09,3.77,1.9,3.89,3.67,1.88,1.7,2.1,1.72,2.11,0.5,1.98,1.88,Beerschot VA,KV Kortrijk,beerschot_va,kv_kortrijk
+2025-05-10,B1,Belgium-JPL,2425,Beerschot VA,Cercle Brugge,4.0,2.0,H,0.0,1.0,A,5.0,4.5,1.57,5.52,4.41,1.54,5.23,4.34,1.56,1.62,2.25,1.62,2.24,1.0,1.9,1.95,Beerschot VA,Cercle Brugge,beerschot_va,cercle_brugge

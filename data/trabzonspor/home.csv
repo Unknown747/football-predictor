@@ -1,0 +1,96 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-23,T1,Turkey-SL,2122,Trabzonspor,Sivasspor,2.0,1.0,H,1.0,0.0,H,1.75,3.5,4.0,1.87,3.71,4.35,1.86,3.53,4.08,2.05,1.75,2.01,1.8,-0.5,1.85,2.0,Trabzonspor,Sivasspor,trabzonspor,sivasspor
+2021-09-12,T1,Turkey-SL,2122,Trabzonspor,Galatasaray,2.0,2.0,D,1.0,2.0,A,2.2,3.4,3.0,2.41,3.57,3.02,2.37,3.42,2.89,1.75,2.05,1.79,2.03,-0.25,2.0,1.85,Trabzonspor,Galatasaray,trabzonspor,galatasaray
+2021-09-27,T1,Turkey-SL,2122,Trabzonspor,Alanyaspor,1.0,1.0,D,1.0,1.0,D,1.53,4.0,5.25,1.59,4.44,5.48,1.58,4.2,5.26,1.8,2.0,1.78,2.04,-1.0,2.02,1.83,Trabzonspor,Alanyaspor,trabzonspor,alanyaspor
+2021-10-17,T1,Turkey-SL,2122,Trabzonspor,Fenerbahce,3.0,1.0,H,1.0,1.0,D,2.2,3.2,3.1,2.55,3.29,3.03,2.39,3.28,2.94,1.8,2.0,1.82,1.99,-0.25,2.1,1.77,Trabzonspor,Fenerbahce,trabzonspor,fenerbahce
+2021-10-29,T1,Turkey-SL,2122,Trabzonspor,Rizespor,2.0,1.0,H,1.0,1.0,D,1.33,5.25,8.0,1.38,5.25,8.37,1.37,4.91,7.66,1.53,2.4,1.54,2.43,-1.5,2.05,1.75,Trabzonspor,Caykur Rizespor,trabzonspor,caykur_rizespor
+2021-11-22,T1,Turkey-SL,2122,Trabzonspor,Gaziantep,3.0,0.0,H,3.0,0.0,H,1.5,4.2,5.75,1.56,4.3,6.14,1.53,4.16,5.79,1.72,2.07,1.74,2.07,-1.0,1.93,1.93,Trabzonspor,Gaziantep,trabzonspor,gaziantep
+2021-12-04,T1,Turkey-SL,2122,Trabzonspor,Ad. Demirspor,2.0,0.0,H,1.0,0.0,H,1.8,3.6,4.33,1.82,3.99,4.35,1.78,3.86,4.2,1.66,2.15,1.68,2.16,-0.75,2.02,1.83,Trabzonspor,Ad. Demirspor,trabzonspor,ad_demirspor
+2021-12-18,T1,Turkey-SL,2122,Trabzonspor,Hatayspor,2.0,0.0,H,2.0,0.0,H,1.75,3.75,4.33,1.83,3.88,4.43,1.79,3.78,4.19,1.75,2.05,1.76,2.06,-0.75,2.02,1.83,Trabzonspor,Hatayspor,trabzonspor,hatayspor
+2021-12-25,T1,Turkey-SL,2122,Trabzonspor,Buyuksehyr,0.0,0.0,D,0.0,0.0,D,2.1,3.2,3.5,2.28,3.34,3.45,2.19,3.36,3.25,1.93,1.93,1.91,1.86,-0.25,1.88,1.98,Trabzonspor,Buyuksehyr,trabzonspor,buyuksehyr
+2022-01-07,T1,Turkey-SL,2122,Trabzonspor,Yeni Malatyaspor,1.0,0.0,H,1.0,0.0,H,1.36,5.0,8.0,1.33,5.51,9.95,1.32,5.17,9.07,1.65,2.2,1.68,2.18,-1.5,2.02,1.83,Trabzonspor,Yeni Malatyaspor,trabzonspor,yeni_malatyaspor
+2022-01-19,T1,Turkey-SL,2122,Trabzonspor,Giresunspor,1.0,1.0,D,0.0,0.0,D,1.61,4.0,5.25,1.65,4.12,5.48,1.62,3.93,5.3,1.95,1.9,1.91,1.89,-0.75,1.8,2.05,Trabzonspor,Giresunspor,trabzonspor,giresunspor
+2022-02-05,T1,Turkey-SL,2122,Trabzonspor,Kasimpasa,1.0,0.0,H,1.0,0.0,H,1.75,3.4,4.33,1.77,4.01,4.65,1.78,3.68,4.36,1.95,1.9,1.91,1.89,-0.75,2.02,1.83,Trabzonspor,Kasimpasa,trabzonspor,kasimpasa
+2022-02-13,T1,Turkey-SL,2122,Trabzonspor,Konyaspor,2.0,1.0,H,1.0,0.0,H,1.9,3.3,3.8,1.99,3.22,4.61,1.97,3.3,3.98,2.05,1.75,2.06,1.76,-0.5,1.98,1.88,Trabzonspor,Konyaspor,trabzonspor,konyaspor
+2022-02-25,T1,Turkey-SL,2122,Trabzonspor,Kayserispor,3.0,2.0,H,0.0,2.0,A,1.53,4.2,6.0,1.55,4.13,6.95,1.52,4.15,6.41,1.75,2.05,1.78,2.04,-1.0,1.88,1.98,Trabzonspor,Kayserispor,trabzonspor,kayserispor
+2022-03-12,T1,Turkey-SL,2122,Trabzonspor,Goztep,4.0,2.0,H,2.0,2.0,D,1.57,3.75,5.0,1.62,4.31,5.49,1.61,4.03,5.23,1.83,2.02,1.74,2.09,-1.0,2.02,1.77,Trabzonspor,Goztep,trabzonspor,goztep
+2022-04-03,T1,Turkey-SL,2122,Trabzonspor,Besiktas,1.0,1.0,D,0.0,0.0,D,2.0,3.25,3.25,2.21,3.56,3.41,2.14,3.5,3.27,1.75,2.05,1.74,2.08,-0.25,1.83,2.02,Trabzonspor,Besiktas,trabzonspor,besiktas
+2022-04-15,T1,Turkey-SL,2122,Trabzonspor,Karagumruk,1.0,1.0,D,0.0,1.0,A,1.44,4.33,6.5,1.5,4.47,7.04,1.49,4.33,6.26,1.65,2.2,1.68,2.17,-1.0,1.8,2.05,Trabzonspor,Karagumruk,trabzonspor,karagumruk
+2022-04-30,T1,Turkey-SL,2122,Trabzonspor,Antalyaspor,2.0,2.0,D,1.0,0.0,H,1.75,3.5,4.33,1.83,3.78,4.58,1.8,3.66,4.33,1.88,1.98,1.84,1.96,-0.75,2.02,1.83,Trabzonspor,Antalyaspor,trabzonspor,antalyaspor
+2022-05-15,T1,Turkey-SL,2122,Trabzonspor,Altay,2.0,1.0,H,1.0,0.0,H,1.4,4.75,7.0,1.43,5.19,7.11,1.4,5.01,7.0,1.53,2.4,1.55,2.4,-1.25,1.88,1.98,Trabzonspor,Altay,trabzonspor,altay
+2022-08-12,T1,Turkey-SL,2223,Trabzonspor,Hatayspor,1.0,0.0,H,0.0,0.0,D,1.5,4.5,6.5,1.5,4.61,6.71,1.49,4.4,6.33,1.66,2.15,1.67,2.19,-1.0,1.75,2.05,Trabzonspor,Hatayspor,trabzonspor,hatayspor
+2022-08-28,T1,Turkey-SL,2223,Trabzonspor,Galatasaray,0.0,0.0,D,0.0,0.0,D,2.37,3.5,2.9,2.47,3.32,3.11,2.34,3.33,2.98,1.88,1.98,1.85,1.94,-0.25,2.05,1.8,Trabzonspor,Galatasaray,trabzonspor,galatasaray
+2022-09-18,T1,Turkey-SL,2223,Trabzonspor,Gaziantep,3.0,2.0,H,2.0,2.0,D,1.66,4.0,4.75,1.64,4.22,5.4,1.64,4.0,4.96,1.7,2.1,1.73,2.09,-0.75,1.8,2.05,Trabzonspor,Gaziantep,trabzonspor,gaziantep
+2022-10-10,T1,Turkey-SL,2223,Trabzonspor,Kasimpasa,0.0,0.0,D,0.0,0.0,D,1.4,4.75,7.0,1.44,4.85,7.15,1.44,4.67,6.55,1.53,2.4,1.55,2.4,-1.25,1.98,1.88,Trabzonspor,Kasimpasa,trabzonspor,kasimpasa
+2022-10-22,T1,Turkey-SL,2223,Trabzonspor,Sivasspor,1.0,0.0,H,1.0,0.0,H,1.6,4.2,4.75,1.62,4.22,5.63,1.61,4.07,5.14,1.72,2.07,1.74,2.08,-1.0,2.05,1.8,Trabzonspor,Sivasspor,trabzonspor,sivasspor
+2022-11-06,T1,Turkey-SL,2223,Trabzonspor,Konyaspor,2.0,2.0,D,2.0,1.0,H,1.85,3.4,4.2,1.89,3.64,4.43,1.88,3.51,4.1,2.02,1.83,1.99,1.81,-0.5,1.88,1.98,Trabzonspor,Konyaspor,trabzonspor,konyaspor
+2022-12-24,T1,Turkey-SL,2223,Trabzonspor,Fenerbahce,2.0,0.0,H,0.0,0.0,D,2.75,3.5,2.45,2.83,3.52,2.56,2.75,3.43,2.47,1.8,2.0,1.78,2.04,0.0,2.0,1.85,Trabzonspor,Fenerbahce,trabzonspor,fenerbahce
+2023-01-05,T1,Turkey-SL,2223,Trabzonspor,Giresunspor,3.0,0.0,H,1.0,0.0,H,1.45,4.2,6.5,1.51,4.56,6.43,1.49,4.33,6.21,1.75,2.05,1.75,2.05,-1.0,1.8,2.05,Trabzonspor,Giresunspor,trabzonspor,giresunspor
+2023-01-14,T1,Turkey-SL,2223,Trabzonspor,Buyuksehyr,1.0,0.0,H,1.0,0.0,H,2.1,3.4,3.4,2.09,3.67,3.6,2.08,3.52,3.4,1.93,1.93,1.88,1.9,-0.5,2.05,1.75,Trabzonspor,Buyuksehyr,trabzonspor,buyuksehyr
+2023-01-22,T1,Turkey-SL,2223,Trabzonspor,Istanbulspor,4.0,0.0,H,1.0,0.0,H,1.33,4.75,9.0,1.35,5.4,9.25,1.34,4.98,8.55,1.62,2.25,1.65,2.22,-1.5,1.98,1.83,Trabzonspor,Istanbulspor,trabzonspor,istanbulspor
+2023-02-01,T1,Turkey-SL,2223,Trabzonspor,Antalyaspor,2.0,0.0,H,1.0,0.0,H,1.6,3.8,5.0,1.64,4.06,5.76,1.63,3.89,5.25,1.9,1.95,1.88,1.91,-0.75,1.8,2.05,Trabzonspor,Antalyaspor,trabzonspor,antalyaspor
+2023-03-04,T1,Turkey-SL,2223,Trabzonspor,Umraniyespor,1.0,2.0,A,0.0,0.0,D,1.4,4.33,6.5,1.46,4.79,7.34,1.41,4.66,7.11,1.67,2.15,1.69,2.15,-1.25,1.95,1.9,Trabzonspor,Umraniyespor,trabzonspor,umraniyespor
+2023-03-12,T1,Turkey-SL,2223,Trabzonspor,Ad. Demirspor,4.0,1.0,H,1.0,1.0,D,1.67,3.6,4.5,1.73,4.11,4.78,1.69,3.89,4.57,1.7,2.1,1.71,2.07,-0.75,1.9,1.95,Trabzonspor,Ad. Demirspor,trabzonspor,ad_demirspor
+2023-04-01,T1,Turkey-SL,2223,Trabzonspor,Kayserispor,3.0,4.0,A,1.0,2.0,A,1.5,4.33,5.75,1.53,4.44,6.59,1.49,4.37,6.16,1.7,2.1,1.69,2.14,-1.0,1.83,2.02,Trabzonspor,Kayserispor,trabzonspor,kayserispor
+2023-04-16,T1,Turkey-SL,2223,Trabzonspor,Besiktas,0.0,0.0,D,0.0,0.0,D,2.9,3.3,2.4,2.97,3.52,2.46,2.84,3.42,2.41,1.85,2.0,1.82,1.98,0.0,2.08,1.73,Trabzonspor,Besiktas,trabzonspor,besiktas
+2023-05-08,T1,Turkey-SL,2223,Trabzonspor,Ankaragucu,2.0,0.0,H,1.0,0.0,H,1.75,3.6,4.2,1.83,3.88,4.32,1.8,3.73,4.12,1.7,2.1,1.71,2.1,-0.5,1.8,2.05,Trabzonspor,Ankaragucu,trabzonspor,ankaragucu
+2023-05-22,T1,Turkey-SL,2223,Trabzonspor,Karagumruk,4.0,1.0,H,3.0,1.0,H,,,,1.63,4.45,5.05,1.62,4.25,4.81,,,1.56,2.39,-0.75,,,Trabzonspor,Karagumruk,trabzonspor,karagumruk
+2023-06-03,T1,Turkey-SL,2223,Trabzonspor,Alanyaspor,5.0,1.0,H,4.0,1.0,H,1.5,4.5,5.5,1.52,4.98,5.8,1.49,4.73,5.6,1.44,2.7,1.43,2.76,-1.0,1.77,2.02,Trabzonspor,Alanyaspor,trabzonspor,alanyaspor
+2023-08-11,T1,Turkey-SL,2324,Trabzonspor,Antalyaspor,1.0,0.0,H,1.0,0.0,H,1.83,3.6,3.75,1.92,3.81,4.06,1.88,3.67,3.83,1.73,2.08,1.74,2.07,-0.5,1.9,1.95,Trabzonspor,Antalyaspor,trabzonspor,antalyaspor
+2023-08-26,T1,Turkey-SL,2324,Trabzonspor,Rizespor,2.0,3.0,A,0.0,2.0,A,1.45,4.0,5.75,1.51,4.72,6.34,1.48,4.51,6.07,1.57,2.35,1.6,2.33,-1.0,1.8,2.05,Trabzonspor,Caykur Rizespor,trabzonspor,caykur_rizespor
+2023-09-17,T1,Turkey-SL,2324,Trabzonspor,Besiktas,3.0,0.0,H,2.0,0.0,H,3.1,3.4,2.15,3.12,3.47,2.39,3.03,3.48,2.25,1.73,2.08,1.72,2.1,0.25,1.88,1.98,Trabzonspor,Besiktas,trabzonspor,besiktas
+2023-09-30,T1,Turkey-SL,2324,Trabzonspor,Pendikspor,2.0,1.0,H,2.0,1.0,H,1.5,4.2,6.0,1.55,4.62,5.91,1.51,4.45,5.7,1.6,2.3,1.58,2.35,-1.0,1.88,1.98,Trabzonspor,Pendikspor,trabzonspor,pendikspor
+2023-10-23,T1,Turkey-SL,2324,Trabzonspor,Alanyaspor,1.0,0.0,H,0.0,0.0,D,1.62,4.0,4.75,1.65,4.24,5.08,1.64,4.06,4.87,1.67,2.15,1.67,2.18,-0.75,1.83,2.03,Trabzonspor,Alanyaspor,trabzonspor,alanyaspor
+2023-11-10,T1,Turkey-SL,2324,Trabzonspor,Konyaspor,2.0,1.0,H,0.0,0.0,D,1.65,3.75,5.0,1.68,3.99,5.48,1.66,3.83,5.11,1.88,1.98,1.86,1.93,-0.75,1.83,2.03,Trabzonspor,Konyaspor,trabzonspor,konyaspor
+2023-12-03,T1,Turkey-SL,2324,Trabzonspor,Kayserispor,0.0,1.0,A,0.0,0.0,D,1.75,3.8,4.33,1.79,3.92,4.58,1.76,3.83,4.31,1.7,2.1,1.7,2.14,-0.75,1.98,1.88,Trabzonspor,Kayserispor,trabzonspor,kayserispor
+2023-12-23,T1,Turkey-SL,2324,Trabzonspor,Buyuksehyr,1.0,1.0,D,1.0,1.0,D,1.65,3.75,4.5,1.69,3.93,5.39,1.67,3.8,4.94,1.93,1.93,1.89,1.9,-0.75,1.88,1.98,Trabzonspor,Buyuksehyr,trabzonspor,buyuksehyr
+2024-01-11,T1,Turkey-SL,2324,Trabzonspor,Samsunspor,2.0,1.0,H,2.0,0.0,H,1.67,3.75,4.75,1.72,3.97,5.06,1.71,3.79,4.71,1.85,2.0,1.84,1.95,-0.75,1.9,1.95,Trabzonspor,Samsunspor,trabzonspor,samsunspor
+2024-01-21,T1,Turkey-SL,2324,Trabzonspor,Galatasaray,1.0,5.0,A,0.0,1.0,A,3.75,3.75,1.91,3.58,4.14,1.97,3.68,3.82,1.89,1.7,2.1,1.71,2.11,0.5,1.93,1.93,Trabzonspor,Galatasaray,trabzonspor,galatasaray
+2024-01-29,T1,Turkey-SL,2324,Trabzonspor,Kasimpasa,2.0,3.0,A,1.0,0.0,H,1.67,4.33,4.5,1.71,4.21,4.68,1.67,4.01,4.54,1.6,2.3,1.63,2.24,-0.75,1.85,2.0,Trabzonspor,Kasimpasa,trabzonspor,kasimpasa
+2024-02-12,T1,Turkey-SL,2324,Trabzonspor,Hatayspor,2.0,0.0,H,0.0,0.0,D,1.75,3.6,5.0,1.79,3.63,4.91,1.73,3.66,4.66,2.0,1.85,1.93,1.85,-0.75,2.0,1.85,Trabzonspor,Hatayspor,trabzonspor,hatayspor
+2024-02-25,T1,Turkey-SL,2324,Trabzonspor,Ad. Demirspor,1.0,0.0,H,1.0,0.0,H,1.73,4.0,4.75,1.79,3.88,4.65,1.74,3.81,4.41,1.7,2.1,1.7,2.13,-0.75,1.98,1.88,Trabzonspor,Ad. Demirspor,trabzonspor,ad_demirspor
+2024-03-09,T1,Turkey-SL,2324,Trabzonspor,Karagumruk,5.0,1.0,H,1.0,1.0,D,1.75,3.8,4.5,1.78,3.56,4.67,1.76,3.7,4.44,1.93,1.93,1.87,1.92,-0.75,2.0,1.85,Trabzonspor,Karagumruk,trabzonspor,karagumruk
+2024-03-17,T1,Turkey-SL,2324,Trabzonspor,Fenerbahce,2.0,3.0,A,0.0,2.0,A,4.75,4.0,1.7,4.74,4.12,1.74,4.56,3.92,1.7,1.67,2.15,1.66,2.2,0.75,1.93,1.93,Trabzonspor,Fenerbahce,trabzonspor,fenerbahce
+2024-04-12,T1,Turkey-SL,2324,Trabzonspor,Sivasspor,0.0,1.0,A,0.0,0.0,D,1.45,4.5,7.0,1.48,4.38,7.46,1.44,4.41,6.98,1.73,2.08,1.74,2.08,-1.25,2.03,1.83,Trabzonspor,Sivasspor,trabzonspor,sivasspor
+2024-04-28,T1,Turkey-SL,2324,Trabzonspor,Gaziantep,4.0,2.0,H,0.0,2.0,A,1.5,4.33,7.0,1.48,4.56,7.06,1.46,4.39,6.55,1.67,2.15,1.67,2.18,-1.0,1.75,2.05,Trabzonspor,Gaziantep,trabzonspor,gaziantep
+2024-05-12,T1,Turkey-SL,2324,Trabzonspor,Istanbulspor,3.0,0.0,H,2.0,0.0,H,1.18,7.5,12.0,1.17,7.99,15.96,1.16,7.54,14.13,1.4,2.88,1.38,2.91,-2.0,1.83,2.03,Trabzonspor,Istanbulspor,trabzonspor,istanbulspor
+2024-05-26,T1,Turkey-SL,2324,Trabzonspor,Ankaragucu,4.0,2.0,H,0.0,1.0,A,2.75,3.4,2.15,2.74,3.81,2.25,2.83,3.68,2.25,1.7,2.1,1.68,2.14,0.25,1.85,2.0,Trabzonspor,Ankaragucu,trabzonspor,ankaragucu
+2024-09-15,T1,Turkey-SL,2425,Trabzonspor,Besiktas,1.0,1.0,D,1.0,1.0,D,3.3,3.5,2.1,3.44,3.49,2.1,3.36,3.51,2.09,1.83,2.03,1.8,1.99,0.25,2.0,1.85,Trabzonspor,Besiktas,trabzonspor,besiktas
+2024-09-19,T1,Turkey-SL,2425,Trabzonspor,Kayserispor,2.0,2.0,D,0.0,1.0,A,1.65,3.75,5.25,1.61,4.27,5.0,1.62,4.15,4.92,1.67,2.15,1.66,2.2,-0.75,1.8,2.05,Trabzonspor,Kayserispor,trabzonspor,kayserispor
+2024-09-29,T1,Turkey-SL,2425,Trabzonspor,Konyaspor,3.0,2.0,H,2.0,1.0,H,1.85,3.4,4.33,1.85,3.44,4.5,1.87,3.45,4.24,2.08,1.73,2.07,1.74,-0.5,1.88,1.98,Trabzonspor,Konyaspor,trabzonspor,konyaspor
+2024-10-19,T1,Turkey-SL,2425,Trabzonspor,Buyuksehyr,1.0,0.0,H,0.0,0.0,D,2.0,3.5,3.6,1.99,3.52,3.78,1.99,3.5,3.66,1.93,1.93,1.9,1.89,-0.5,2.0,1.85,Trabzonspor,Buyuksehyr,trabzonspor,buyuksehyr
+2024-11-03,T1,Turkey-SL,2425,Trabzonspor,Fenerbahce,2.0,3.0,A,0.0,1.0,A,4.5,3.6,1.75,4.61,3.74,1.76,4.34,3.76,1.76,1.7,2.1,1.73,2.09,0.75,1.85,2.0,Trabzonspor,Fenerbahce,trabzonspor,fenerbahce
+2024-11-25,T1,Turkey-SL,2425,Trabzonspor,Ad. Demirspor,5.0,0.0,H,1.0,0.0,H,1.48,4.5,6.0,1.49,4.55,5.13,1.46,4.65,5.95,1.57,2.35,1.54,2.37,-1.25,2.03,1.83,Trabzonspor,Ad. Demirspor,trabzonspor,ad_demirspor
+2024-12-06,T1,Turkey-SL,2425,Trabzonspor,Kasimpasa,2.0,2.0,D,0.0,1.0,A,1.85,3.6,4.0,1.91,3.8,4.02,1.91,3.67,3.78,1.65,2.2,1.63,2.22,-0.5,1.9,1.95,Trabzonspor,Kasimpasa,trabzonspor,kasimpasa
+2024-12-22,T1,Turkey-SL,2425,Trabzonspor,Bodrumspor,1.0,0.0,H,0.0,0.0,D,1.57,3.9,5.5,1.56,4.27,5.46,1.56,4.19,5.36,1.67,2.15,1.68,2.15,-1.0,2.05,1.75,Trabzonspor,Bodrumspor,trabzonspor,bodrumspor
+2025-01-12,T1,Turkey-SL,2425,Trabzonspor,Antalyaspor,5.0,0.0,H,1.0,0.0,H,1.53,4.2,5.0,1.54,4.42,5.51,1.54,4.33,5.36,1.6,2.3,1.59,2.32,-1.0,1.95,1.9,Trabzonspor,Antalyaspor,trabzonspor,antalyaspor
+2025-01-20,T1,Turkey-SL,2425,Trabzonspor,Sivasspor,4.0,0.0,H,3.0,0.0,H,1.48,4.5,5.5,1.5,4.56,5.82,1.49,4.52,5.77,1.57,2.35,1.56,2.35,-1.0,1.8,2.05,Trabzonspor,Sivasspor,trabzonspor,sivasspor
+2025-02-10,T1,Turkey-SL,2425,Trabzonspor,Eyupspor,1.0,0.0,H,0.0,0.0,D,1.7,3.6,4.2,1.76,4.12,4.1,1.74,4.01,4.14,1.62,2.25,1.59,2.3,-0.75,1.98,1.88,Trabzonspor,Eyupspor,trabzonspor,eyupspor
+2025-02-23,T1,Turkey-SL,2425,Trabzonspor,Gaziantep,3.0,2.0,H,2.0,0.0,H,1.7,4.1,4.2,1.69,4.12,4.52,1.69,4.06,4.39,1.57,2.35,1.55,2.38,-0.75,1.9,1.95,Trabzonspor,Gaziantep,trabzonspor,gaziantep
+2025-03-08,T1,Turkey-SL,2425,Trabzonspor,Hatayspor,1.0,2.0,A,1.0,1.0,D,1.38,5.0,7.0,1.34,5.38,8.05,1.35,5.23,7.72,1.48,2.6,1.45,2.64,-1.5,2.0,1.85,Trabzonspor,Hatayspor,trabzonspor,hatayspor
+2025-03-29,T1,Turkey-SL,2425,Trabzonspor,Goztep,1.0,1.0,D,1.0,1.0,D,2.05,3.4,3.3,2.06,3.51,3.7,2.07,3.47,3.47,1.88,1.98,1.84,1.96,-0.5,2.05,1.75,Trabzonspor,Goztep,trabzonspor,goztep
+2025-04-13,T1,Turkey-SL,2425,Trabzonspor,Rizespor,2.0,0.0,H,2.0,0.0,H,1.75,3.6,4.33,1.79,3.82,4.29,1.77,3.81,4.17,1.67,2.15,1.64,2.21,-0.75,2.0,1.85,Trabzonspor,Caykur Rizespor,trabzonspor,caykur_rizespor
+2025-04-27,T1,Turkey-SL,2425,Trabzonspor,Alanyaspor,4.0,3.0,H,4.0,2.0,H,1.75,3.6,4.5,1.74,3.49,5.19,1.75,3.65,4.53,1.8,2.0,1.77,2.02,-0.75,2.0,1.85,Trabzonspor,Alanyaspor,trabzonspor,alanyaspor
+2025-05-10,T1,Turkey-SL,2425,Trabzonspor,Galatasaray,0.0,2.0,A,0.0,0.0,D,3.5,4.33,1.7,4.21,4.28,1.71,3.94,4.27,1.73,1.36,3.1,1.38,2.85,0.75,1.9,1.9,Trabzonspor,Galatasaray,trabzonspor,galatasaray
+2025-05-25,T1,Turkey-SL,2425,Trabzonspor,Samsunspor,2.0,2.0,D,0.0,1.0,A,2.25,3.5,2.8,2.33,3.57,2.9,2.3,3.55,2.85,1.67,2.15,1.65,2.19,-0.25,2.0,1.8,Trabzonspor,Samsunspor,trabzonspor,samsunspor
+2025-08-11,T1,Turkey-SL,2526,Trabzonspor,Kocaelispor,1.0,0.0,H,0.0,0.0,D,1.53,3.9,4.75,1.58,4.14,5.53,1.56,4.01,5.18,1.75,2.05,1.74,2.0,-1.0,2.0,1.8,Trabzonspor,Kocaelispor,trabzonspor,kocaelispor
+2025-08-24,T1,Turkey-SL,2526,Trabzonspor,Antalyaspor,1.0,0.0,H,1.0,0.0,H,1.6,3.7,4.75,1.65,3.89,5.26,1.62,3.83,4.89,1.88,1.93,1.83,1.88,-0.75,1.8,2.0,Trabzonspor,Antalyaspor,trabzonspor,antalyaspor
+2025-08-31,T1,Turkey-SL,2526,Trabzonspor,Samsunspor,1.0,1.0,D,1.0,0.0,H,1.71,3.75,4.5,1.76,3.76,4.54,1.75,3.63,4.26,1.88,1.93,1.84,1.87,-0.75,1.94,1.74,Trabzonspor,Samsunspor,trabzonspor,samsunspor
+2025-09-20,T1,Turkey-SL,2526,Trabzonspor,Gaziantep,1.0,1.0,D,0.0,1.0,A,1.61,3.8,5.0,1.65,3.95,5.07,1.65,3.88,4.63,1.73,2.08,1.68,2.08,-0.75,1.83,1.98,Trabzonspor,Gaziantep,trabzonspor,gaziantep
+2025-10-03,T1,Turkey-SL,2526,Trabzonspor,Kayserispor,4.0,0.0,H,1.0,0.0,H,1.41,4.5,6.5,1.45,4.83,7.15,1.43,4.53,6.43,1.62,2.25,1.59,2.26,-1.25,1.95,1.85,Trabzonspor,Kayserispor,trabzonspor,kayserispor
+2025-10-25,T1,Turkey-SL,2526,Trabzonspor,Eyupspor,2.0,0.0,H,1.0,0.0,H,1.53,4.33,5.25,1.57,4.14,5.59,1.54,4.03,5.44,1.8,2.0,1.75,1.99,-1.0,1.98,1.83,Trabzonspor,Eyupspor,trabzonspor,eyupspor
+2025-11-08,T1,Turkey-SL,2526,Trabzonspor,Alanyaspor,1.0,1.0,D,1.0,0.0,H,1.61,3.8,5.0,,,,1.64,3.79,4.85,1.88,1.93,1.85,1.87,-0.75,1.85,1.95,Trabzonspor,Alanyaspor,trabzonspor,alanyaspor
+2025-11-29,T1,Turkey-SL,2526,Trabzonspor,Konyaspor,3.0,1.0,H,1.0,1.0,D,1.61,3.8,5.0,1.69,3.99,4.67,1.65,3.89,4.66,1.7,2.1,1.69,2.06,-0.75,1.85,1.95,Trabzonspor,Konyaspor,trabzonspor,konyaspor
+2025-12-14,T1,Turkey-SL,2526,Trabzonspor,Besiktas,3.0,3.0,D,1.0,3.0,A,2.5,3.4,2.57,2.52,3.72,2.6,2.45,3.53,2.57,1.67,2.15,1.64,2.13,0.0,1.85,1.95,Trabzonspor,Besiktas,trabzonspor,besiktas
+2026-01-23,T1,Turkey-SL,2526,Trabzonspor,Kasimpasa,2.0,1.0,H,0.0,0.0,D,1.51,4.2,5.5,,,,1.5,4.22,5.61,1.62,2.25,1.6,2.21,-1.0,1.9,1.9,Trabzonspor,Kasimpasa,trabzonspor,kasimpasa
+2026-02-14,T1,Turkey-SL,2526,Trabzonspor,Fenerbahce,2.0,3.0,A,2.0,2.0,D,3.4,3.6,2.01,,,,3.36,3.59,1.98,1.67,2.15,1.63,2.15,0.5,1.78,2.03,Trabzonspor,Fenerbahce,trabzonspor,fenerbahce
+2026-02-27,T1,Turkey-SL,2526,Trabzonspor,Karagumruk,3.0,1.0,H,1.0,1.0,D,1.41,4.5,6.5,,,,1.4,4.35,7.01,1.75,2.05,1.73,2.0,-1.25,2.0,1.8,Trabzonspor,Karagumruk,trabzonspor,karagumruk
+2026-03-14,T1,Turkey-SL,2526,Trabzonspor,Rizespor,1.0,0.0,H,0.0,0.0,D,1.66,3.9,4.5,,,,1.68,3.81,4.31,1.67,2.15,1.63,2.16,-0.75,1.9,1.9,Trabzonspor,Caykur Rizespor,trabzonspor,caykur_rizespor
+2026-04-04,T1,Turkey-SL,2526,Trabzonspor,Galatasaray,2.0,1.0,H,1.0,0.0,H,3.2,3.6,2.1,,,,3.16,3.55,2.04,1.57,2.35,1.55,2.33,0.25,1.95,1.85,Trabzonspor,Galatasaray,trabzonspor,galatasaray
+2026-04-19,T1,Turkey-SL,2526,Trabzonspor,Buyuksehyr,1.0,1.0,D,0.0,0.0,D,1.86,3.75,3.6,,,,1.89,3.61,3.49,1.6,2.3,1.57,2.27,-0.5,1.9,1.9,Trabzonspor,Buyuksehyr,trabzonspor,buyuksehyr
+2026-05-02,T1,Turkey-SL,2526,Trabzonspor,Goztep,1.0,1.0,D,0.0,1.0,A,1.76,3.75,4.2,,,,1.76,3.63,4.06,1.8,2.0,1.76,1.97,-0.5,1.75,2.05,Trabzonspor,Goztep,trabzonspor,goztep
+2026-05-17,T1,Turkey-SL,2526,Trabzonspor,Genclerbirligi,0.0,3.0,A,0.0,1.0,A,3.25,3.5,2.1,,,,2.96,3.55,2.15,1.7,2.1,1.65,2.12,0.25,1.98,1.83,Trabzonspor,Genclerbirligi,trabzonspor,genclerbirligi
+2026-08-23,T1,Turkey-SL,2627,Trabzonspor,Buyuksehyr,2.0,1.0,H,1.0,1.0,D,2.01,3.6,3.3,,,,2.05,3.54,3.14,1.7,2.1,1.66,2.11,-0.25,1.83,1.98,Trabzonspor,Buyuksehyr,trabzonspor,buyuksehyr
+2026-09-06,T1,Turkey-SL,2627,Trabzonspor,Genclerbirligi,5.0,0.0,H,3.0,0.0,H,1.49,4.0,5.5,,,,1.53,3.99,5.3,1.73,2.08,1.71,2.03,-1.0,1.95,1.85,Trabzonspor,Genclerbirligi,trabzonspor,genclerbirligi
+2026-09-19,T1,Turkey-SL,2627,Trabzonspor,Galatasaray,4.0,0.0,H,3.0,0.0,H,3.0,3.7,2.05,,,,2.92,3.77,2.07,1.44,2.7,1.42,2.7,0.25,1.95,1.85,Trabzonspor,Galatasaray,trabzonspor,galatasaray
+2026-10-19,T1,Turkey-SL,2627,Trabzonspor,Besiktas,2.0,0.0,H,1.0,0.0,H,2.75,3.5,2.15,,,,2.8,3.65,2.17,1.53,2.4,1.53,2.37,0.25,1.83,1.98,Trabzonspor,Besiktas,trabzonspor,besiktas

@@ -1,0 +1,95 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-21,T1,Turkey-SL,2122,Alanyaspor,Altay,1.0,4.0,A,0.0,2.0,A,2.0,3.3,3.6,2.2,3.17,3.78,2.11,3.23,3.58,1.95,1.85,1.92,1.89,-0.25,1.88,1.98,Alanyaspor,Altay,alanyaspor,altay
+2021-09-13,T1,Turkey-SL,2122,Alanyaspor,Giresunspor,1.0,0.0,H,1.0,0.0,H,1.9,3.4,3.6,2.04,3.58,3.77,2.03,3.48,3.56,1.9,1.9,1.89,1.91,-0.5,2.0,1.85,Alanyaspor,Giresunspor,alanyaspor,giresunspor
+2021-09-23,T1,Turkey-SL,2122,Alanyaspor,Kasimpasa,2.0,0.0,H,0.0,0.0,D,1.9,3.6,3.8,1.93,3.86,3.97,1.9,3.67,3.79,1.8,2.0,1.84,1.97,-0.5,1.9,1.95,Alanyaspor,Kasimpasa,alanyaspor,kasimpasa
+2021-10-18,T1,Turkey-SL,2122,Alanyaspor,Kayserispor,6.0,3.0,H,3.0,2.0,H,1.65,3.6,4.75,1.72,4.13,4.66,1.7,3.91,4.54,1.8,2.0,1.81,2.0,-0.75,1.93,1.93,Alanyaspor,Kayserispor,alanyaspor,kayserispor
+2021-10-31,T1,Turkey-SL,2122,Alanyaspor,Goztep,2.0,2.0,D,1.0,0.0,H,1.65,3.8,5.0,1.7,4.12,5.0,1.68,3.91,4.65,1.65,2.2,1.67,2.18,-0.75,1.88,1.98,Alanyaspor,Goztep,alanyaspor,goztep
+2021-11-20,T1,Turkey-SL,2122,Alanyaspor,Besiktas,2.0,0.0,H,1.0,0.0,H,2.8,3.6,2.3,2.91,3.74,2.4,2.81,3.51,2.38,1.72,2.07,1.73,2.09,0.25,1.8,2.05,Alanyaspor,Besiktas,alanyaspor,besiktas
+2021-12-04,T1,Turkey-SL,2122,Alanyaspor,Sivasspor,0.0,1.0,A,0.0,0.0,D,2.3,3.25,3.2,2.37,3.44,3.18,2.29,3.36,3.07,2.05,1.75,1.96,1.84,-0.25,2.0,1.85,Alanyaspor,Sivasspor,alanyaspor,sivasspor
+2021-12-18,T1,Turkey-SL,2122,Alanyaspor,Ad. Demirspor,1.0,3.0,A,1.0,2.0,A,2.2,3.5,3.0,2.32,3.63,3.12,2.24,3.52,3.03,1.8,2.0,1.78,2.03,-0.25,1.98,1.88,Alanyaspor,Ad. Demirspor,alanyaspor,ad_demirspor
+2021-12-26,T1,Turkey-SL,2122,Alanyaspor,Karagumruk,1.0,1.0,D,0.0,0.0,D,2.1,3.25,3.3,2.14,3.65,3.49,2.12,3.48,3.29,1.75,2.05,1.76,2.06,-0.25,1.83,2.02,Alanyaspor,Karagumruk,alanyaspor,karagumruk
+2022-01-08,T1,Turkey-SL,2122,Alanyaspor,Buyuksehyr,1.0,1.0,D,1.0,1.0,D,3.1,3.6,2.25,3.16,3.72,2.26,3.06,3.48,2.23,1.85,2.0,1.83,1.96,0.25,1.9,1.9,Alanyaspor,Buyuksehyr,alanyaspor,buyuksehyr
+2022-01-20,T1,Turkey-SL,2122,Alanyaspor,Hatayspor,6.0,0.0,H,2.0,0.0,H,2.37,3.75,2.87,2.42,3.46,3.07,2.36,3.47,2.85,1.72,2.07,1.74,2.08,-0.25,2.05,1.8,Alanyaspor,Hatayspor,alanyaspor,hatayspor
+2022-02-06,T1,Turkey-SL,2122,Alanyaspor,Galatasaray,1.0,1.0,D,1.0,1.0,D,2.5,3.25,2.62,2.56,3.57,2.8,2.52,3.39,2.7,1.83,2.02,1.81,2.0,0.0,1.85,2.0,Alanyaspor,Galatasaray,alanyaspor,galatasaray
+2022-02-20,T1,Turkey-SL,2122,Alanyaspor,Trabzonspor,0.0,4.0,A,0.0,4.0,A,2.8,3.2,2.25,3.14,3.25,2.5,2.98,3.31,2.37,1.85,2.0,1.85,1.94,0.25,1.77,2.1,Alanyaspor,Trabzonspor,alanyaspor,trabzonspor
+2022-02-27,T1,Turkey-SL,2122,Alanyaspor,Konyaspor,5.0,1.0,H,4.0,1.0,H,2.37,3.25,2.8,2.52,3.25,3.09,2.43,3.26,2.95,1.85,2.0,1.88,1.91,-0.25,2.1,1.77,Alanyaspor,Konyaspor,alanyaspor,konyaspor
+2022-03-13,T1,Turkey-SL,2122,Alanyaspor,Fenerbahce,2.0,5.0,A,0.0,1.0,A,2.62,3.3,2.6,2.81,3.63,2.52,2.69,3.44,2.52,1.83,2.02,1.77,2.04,0.0,1.95,1.9,Alanyaspor,Fenerbahce,alanyaspor,fenerbahce
+2022-04-03,T1,Turkey-SL,2122,Alanyaspor,Rizespor,2.0,1.0,H,1.0,0.0,H,1.6,3.6,5.0,1.66,4.3,5.08,1.65,4.11,4.84,1.61,2.25,1.6,2.31,-0.75,1.8,2.05,Alanyaspor,Caykur Rizespor,alanyaspor,caykur_rizespor
+2022-04-16,T1,Turkey-SL,2122,Alanyaspor,Antalyaspor,1.0,3.0,A,0.0,2.0,A,2.05,3.25,3.25,2.18,3.46,3.56,2.12,3.37,3.44,2.0,1.85,1.96,1.84,-0.25,1.83,2.02,Alanyaspor,Antalyaspor,alanyaspor,antalyaspor
+2022-05-01,T1,Turkey-SL,2122,Alanyaspor,Yeni Malatyaspor,2.0,1.0,H,0.0,1.0,A,1.25,5.25,11.0,1.29,5.9,10.95,1.27,5.69,10.39,1.5,2.5,1.51,2.5,-1.75,2.0,1.85,Alanyaspor,Yeni Malatyaspor,alanyaspor,yeni_malatyaspor
+2022-05-15,T1,Turkey-SL,2122,Alanyaspor,Gaziantep,3.0,0.0,H,0.0,0.0,D,1.65,4.0,4.75,1.63,4.43,5.19,1.61,4.2,4.99,1.66,2.15,1.57,2.38,-1.0,2.08,1.73,Alanyaspor,Gaziantep,alanyaspor,gaziantep
+2022-08-14,T1,Turkey-SL,2223,Alanyaspor,Besiktas,3.0,3.0,D,1.0,3.0,A,2.75,3.6,2.45,2.89,3.56,2.49,2.81,3.55,2.37,1.66,2.15,1.68,2.15,0.0,2.05,1.8,Alanyaspor,Besiktas,alanyaspor,besiktas
+2022-08-27,T1,Turkey-SL,2223,Alanyaspor,Istanbulspor,0.0,1.0,A,0.0,0.0,D,1.5,4.75,6.0,1.49,4.79,6.6,1.47,4.59,6.28,1.57,2.35,1.57,2.38,-1.25,2.02,1.83,Alanyaspor,Istanbulspor,alanyaspor,istanbulspor
+2022-09-09,T1,Turkey-SL,2223,Alanyaspor,Ankaragucu,2.0,1.0,H,0.0,0.0,D,1.72,3.8,4.5,1.76,4.12,4.53,1.71,3.91,4.54,1.66,2.15,1.67,2.16,-0.75,1.95,1.9,Alanyaspor,Ankaragucu,alanyaspor,ankaragucu
+2022-10-02,T1,Turkey-SL,2223,Alanyaspor,Giresunspor,1.0,1.0,D,0.0,0.0,D,1.85,3.5,3.6,1.91,3.79,4.06,1.9,3.63,3.85,1.83,2.02,1.8,2.0,-0.5,1.93,1.93,Alanyaspor,Giresunspor,alanyaspor,giresunspor
+2022-10-14,T1,Turkey-SL,2223,Alanyaspor,Antalyaspor,3.0,2.0,H,1.0,0.0,H,2.25,3.25,3.1,2.29,3.5,3.26,2.24,3.4,3.12,1.93,1.93,1.89,1.9,-0.25,1.95,1.9,Alanyaspor,Antalyaspor,alanyaspor,antalyaspor
+2022-10-29,T1,Turkey-SL,2223,Alanyaspor,Gaziantep,2.0,0.0,H,1.0,0.0,H,1.9,3.75,3.5,1.96,4.02,3.69,1.94,3.72,3.59,1.66,2.15,1.69,2.14,-0.5,1.93,1.93,Alanyaspor,Gaziantep,alanyaspor,gaziantep
+2022-11-11,T1,Turkey-SL,2223,Alanyaspor,Ad. Demirspor,0.0,0.0,D,0.0,0.0,D,3.0,3.6,2.2,3.0,3.77,2.33,2.93,3.62,2.26,1.6,2.3,1.59,2.35,0.25,1.85,2.0,Alanyaspor,Ad. Demirspor,alanyaspor,ad_demirspor
+2022-12-28,T1,Turkey-SL,2223,Alanyaspor,Kayserispor,3.0,1.0,H,2.0,0.0,H,2.05,3.6,3.1,2.11,3.82,3.42,2.09,3.65,3.25,1.7,2.1,1.71,2.12,-0.25,1.83,2.02,Alanyaspor,Kayserispor,alanyaspor,kayserispor
+2023-01-09,T1,Turkey-SL,2223,Alanyaspor,Trabzonspor,5.0,0.0,H,3.0,0.0,H,3.0,3.5,2.2,3.14,3.78,2.22,3.04,3.57,2.21,1.7,2.1,1.71,2.11,0.25,1.93,1.93,Alanyaspor,Trabzonspor,alanyaspor,trabzonspor
+2023-01-22,T1,Turkey-SL,2223,Alanyaspor,Karagumruk,2.0,2.0,D,1.0,0.0,H,1.91,4.0,3.5,1.88,4.15,3.88,1.89,3.96,3.62,1.5,2.5,1.51,2.52,-0.5,1.88,1.98,Alanyaspor,Karagumruk,alanyaspor,karagumruk
+2023-01-31,T1,Turkey-SL,2223,Alanyaspor,Sivasspor,0.0,3.0,A,0.0,2.0,A,2.05,3.5,3.2,2.09,3.63,3.65,2.07,3.56,3.4,1.67,2.15,1.71,2.14,-0.25,1.83,2.02,Alanyaspor,Sivasspor,alanyaspor,sivasspor
+2023-03-03,T1,Turkey-SL,2223,Alanyaspor,Buyuksehyr,1.0,0.0,H,0.0,0.0,D,2.6,3.2,2.6,2.71,3.34,2.78,2.63,3.26,2.67,2.05,1.8,2.01,1.79,0.0,1.9,1.95,Alanyaspor,Buyuksehyr,alanyaspor,buyuksehyr
+2023-03-19,T1,Turkey-SL,2223,Alanyaspor,Fenerbahce,1.0,3.0,A,1.0,0.0,H,4.75,3.75,1.73,4.46,4.2,1.76,4.21,4.01,1.74,1.5,2.5,1.52,2.48,0.75,1.93,1.93,Alanyaspor,Fenerbahce,alanyaspor,fenerbahce
+2023-04-09,T1,Turkey-SL,2223,Alanyaspor,Hatayspor,3.0,0.0,H,,,,,,,,,,,,,,,,,,,,Alanyaspor,Hatayspor,alanyaspor,hatayspor
+2023-04-18,T1,Turkey-SL,2223,Alanyaspor,Galatasaray,1.0,4.0,A,1.0,2.0,A,5.75,4.5,1.5,6.04,4.85,1.5,5.88,4.63,1.48,1.44,2.7,1.45,2.68,1.25,1.85,2.0,Alanyaspor,Galatasaray,alanyaspor,galatasaray
+2023-04-28,T1,Turkey-SL,2223,Alanyaspor,Umraniyespor,1.0,0.0,H,1.0,0.0,H,1.91,3.8,3.3,2.01,3.95,3.6,1.98,3.84,3.37,1.53,2.4,1.51,2.5,-0.5,1.98,1.88,Alanyaspor,Umraniyespor,alanyaspor,umraniyespor
+2023-05-16,T1,Turkey-SL,2223,Alanyaspor,Konyaspor,0.0,3.0,A,0.0,1.0,A,2.4,3.6,2.7,2.4,3.93,2.81,2.36,3.71,2.73,1.57,2.35,1.57,2.37,-0.25,2.1,1.77,Alanyaspor,Konyaspor,alanyaspor,konyaspor
+2023-05-30,T1,Turkey-SL,2223,Alanyaspor,Kasimpasa,1.0,3.0,A,0.0,0.0,D,2.1,3.75,3.0,2.3,3.82,3.02,2.24,3.74,2.87,1.44,2.7,1.49,2.57,-0.25,1.88,1.98,Alanyaspor,Kasimpasa,alanyaspor,kasimpasa
+2023-08-14,T1,Turkey-SL,2324,Alanyaspor,Buyuksehyr,2.0,0.0,H,1.0,0.0,H,2.7,3.5,2.38,2.83,3.58,2.49,2.73,3.5,2.41,1.73,2.08,1.72,2.08,0.0,2.05,1.8,Alanyaspor,Buyuksehyr,alanyaspor,buyuksehyr
+2023-08-27,T1,Turkey-SL,2324,Alanyaspor,Hatayspor,0.0,0.0,D,0.0,0.0,D,1.85,3.6,3.6,1.99,3.84,3.77,1.93,3.73,3.61,1.7,2.1,1.69,2.15,-0.5,1.95,1.9,Alanyaspor,Hatayspor,alanyaspor,hatayspor
+2023-09-17,T1,Turkey-SL,2324,Alanyaspor,Kasimpasa,3.0,3.0,D,2.0,1.0,H,2.05,3.4,3.3,2.09,3.67,3.56,2.07,3.56,3.35,1.7,2.1,1.69,2.14,-0.25,1.83,2.03,Alanyaspor,Kasimpasa,alanyaspor,kasimpasa
+2023-09-24,T1,Turkey-SL,2324,Alanyaspor,Fenerbahce,0.0,1.0,A,0.0,1.0,A,5.25,3.8,1.65,5.11,4.35,1.65,4.91,4.17,1.62,1.57,2.35,1.56,2.39,1.0,1.8,2.0,Alanyaspor,Fenerbahce,alanyaspor,fenerbahce
+2023-10-06,T1,Turkey-SL,2324,Alanyaspor,Karagumruk,2.0,1.0,H,1.0,0.0,H,2.2,3.0,3.2,2.31,3.37,3.35,2.24,3.29,3.2,2.03,1.83,1.97,1.81,-0.25,1.95,1.9,Alanyaspor,Karagumruk,alanyaspor,karagumruk
+2023-10-28,T1,Turkey-SL,2324,Alanyaspor,Sivasspor,1.0,2.0,A,0.0,0.0,D,2.1,3.5,3.4,2.17,3.63,3.43,2.13,3.52,3.27,1.83,2.03,1.82,1.98,-0.25,1.85,2.0,Alanyaspor,Sivasspor,alanyaspor,sivasspor
+2023-11-11,T1,Turkey-SL,2324,Alanyaspor,Gaziantep,0.0,3.0,A,0.0,2.0,A,2.2,3.4,3.2,2.29,3.55,3.24,2.2,3.47,3.15,1.85,2.0,1.83,1.96,-0.25,1.95,1.9,Alanyaspor,Gaziantep,alanyaspor,gaziantep
+2023-12-02,T1,Turkey-SL,2324,Alanyaspor,Konyaspor,2.0,2.0,D,2.0,1.0,H,2.3,3.3,3.0,2.27,3.36,3.15,2.31,3.36,3.02,2.0,1.85,1.97,1.82,-0.25,2.0,1.85,Alanyaspor,Konyaspor,alanyaspor,konyaspor
+2023-12-25,T1,Turkey-SL,2324,Alanyaspor,Samsunspor,3.0,1.0,H,2.0,0.0,H,2.15,3.4,3.1,2.43,3.39,3.06,2.31,3.37,2.98,1.93,1.93,1.88,1.88,-0.25,1.93,1.93,Alanyaspor,Samsunspor,alanyaspor,samsunspor
+2024-01-09,T1,Turkey-SL,2324,Alanyaspor,Ankaragucu,1.0,1.0,D,0.0,0.0,D,2.2,3.3,3.2,2.26,3.39,3.45,2.21,3.32,3.25,2.05,1.75,2.01,1.78,-0.25,1.9,1.95,Alanyaspor,Ankaragucu,alanyaspor,ankaragucu
+2024-01-20,T1,Turkey-SL,2324,Alanyaspor,Rizespor,2.0,1.0,H,0.0,0.0,D,2.4,3.3,3.0,2.33,3.55,3.16,2.29,3.42,2.98,1.88,1.98,1.83,1.96,-0.25,2.0,1.85,Alanyaspor,Caykur Rizespor,alanyaspor,caykur_rizespor
+2024-01-27,T1,Turkey-SL,2324,Alanyaspor,Pendikspor,1.0,1.0,D,0.0,0.0,D,1.83,3.75,4.2,1.88,3.84,4.22,1.85,3.7,3.87,1.75,2.05,1.77,2.03,-0.5,1.85,2.0,Alanyaspor,Pendikspor,alanyaspor,pendikspor
+2024-02-18,T1,Turkey-SL,2324,Alanyaspor,Ad. Demirspor,3.0,3.0,D,2.0,0.0,H,2.0,3.6,3.6,2.04,3.73,3.71,1.99,3.58,3.56,1.8,2.0,1.78,2.02,-0.5,2.0,1.85,Alanyaspor,Ad. Demirspor,alanyaspor,ad_demirspor
+2024-03-04,T1,Turkey-SL,2324,Alanyaspor,Trabzonspor,3.0,1.0,H,2.0,0.0,H,2.88,3.5,2.38,3.0,3.53,2.4,2.85,3.46,2.36,1.83,2.03,1.8,1.99,0.25,1.8,2.05,Alanyaspor,Trabzonspor,alanyaspor,trabzonspor
+2024-03-16,T1,Turkey-SL,2324,Alanyaspor,Kayserispor,1.0,0.0,H,0.0,0.0,D,2.1,3.5,3.5,2.19,3.44,3.57,2.1,3.44,3.42,1.85,2.0,1.8,2.0,-0.25,1.83,2.03,Alanyaspor,Kayserispor,alanyaspor,kayserispor
+2024-04-15,T1,Turkey-SL,2324,Alanyaspor,Galatasaray,0.0,4.0,A,0.0,0.0,D,5.5,4.75,1.5,5.71,4.82,1.51,5.53,4.63,1.5,1.44,2.7,1.46,2.65,1.0,2.05,1.8,Alanyaspor,Galatasaray,alanyaspor,galatasaray
+2024-04-28,T1,Turkey-SL,2324,Alanyaspor,Istanbulspor,6.0,0.0,H,3.0,0.0,H,1.36,5.0,8.5,1.38,5.31,8.09,1.36,4.99,7.71,1.53,2.4,1.53,2.44,-1.25,1.75,2.05,Alanyaspor,Istanbulspor,alanyaspor,istanbulspor
+2024-05-12,T1,Turkey-SL,2324,Alanyaspor,Besiktas,1.0,1.0,D,0.0,0.0,D,2.55,3.5,2.6,2.68,3.52,2.66,2.58,3.46,2.56,1.73,2.08,1.74,2.07,0.0,1.9,1.95,Alanyaspor,Besiktas,alanyaspor,besiktas
+2024-05-24,T1,Turkey-SL,2324,Alanyaspor,Antalyaspor,1.0,1.0,D,1.0,0.0,H,1.67,4.0,4.75,1.69,4.12,4.55,1.65,4.15,4.54,1.48,2.6,1.47,2.59,-0.75,1.83,2.03,Alanyaspor,Antalyaspor,alanyaspor,antalyaspor
+2024-08-11,T1,Turkey-SL,2425,Alanyaspor,Eyupspor,1.0,1.0,D,0.0,0.0,D,1.91,3.8,3.6,2.04,3.4,3.74,2.0,3.53,3.62,1.85,2.0,1.82,1.98,-0.5,2.0,1.85,Alanyaspor,Eyupspor,alanyaspor,eyupspor
+2024-08-23,T1,Turkey-SL,2425,Alanyaspor,Goztep,1.0,1.0,D,0.0,1.0,A,1.91,3.4,4.0,1.98,3.37,4.27,1.96,3.37,3.93,2.05,1.75,2.04,1.77,-0.5,1.95,1.9,Alanyaspor,Goztep,alanyaspor,goztep
+2024-09-15,T1,Turkey-SL,2425,Alanyaspor,Hatayspor,0.0,0.0,D,0.0,0.0,D,1.75,3.75,4.5,1.76,3.71,4.6,1.75,3.72,4.51,1.93,1.93,1.89,1.9,-0.75,1.98,1.88,Alanyaspor,Hatayspor,alanyaspor,hatayspor
+2024-09-28,T1,Turkey-SL,2425,Alanyaspor,Rizespor,1.0,0.0,H,1.0,0.0,H,2.05,3.4,3.5,2.06,3.53,3.55,2.06,3.51,3.46,1.88,1.98,1.83,1.97,-0.25,1.8,2.05,Alanyaspor,Caykur Rizespor,alanyaspor,caykur_rizespor
+2024-10-20,T1,Turkey-SL,2425,Alanyaspor,Kasimpasa,1.0,2.0,A,0.0,2.0,A,2.25,3.4,3.1,2.29,3.47,3.08,2.24,3.47,3.04,1.75,2.05,1.78,2.02,-0.25,1.98,1.88,Alanyaspor,Kasimpasa,alanyaspor,kasimpasa
+2024-10-27,T1,Turkey-SL,2425,Alanyaspor,Antalyaspor,1.0,2.0,A,1.0,0.0,H,1.95,3.5,3.8,1.99,3.57,3.73,1.97,3.55,3.68,1.95,1.9,1.93,1.86,-0.5,2.0,1.85,Alanyaspor,Antalyaspor,alanyaspor,antalyaspor
+2024-11-30,T1,Turkey-SL,2425,Alanyaspor,Trabzonspor,2.0,1.0,H,1.0,1.0,D,2.5,3.25,2.8,2.5,3.44,2.79,2.48,3.39,2.74,1.98,1.88,1.92,1.84,0.0,1.83,2.03,Alanyaspor,Trabzonspor,alanyaspor,trabzonspor
+2024-12-14,T1,Turkey-SL,2425,Alanyaspor,Gaziantep,3.0,0.0,H,0.0,0.0,D,1.95,3.6,3.75,1.91,3.51,3.68,1.96,3.56,3.64,1.88,1.98,1.86,1.92,-0.5,1.95,1.9,Alanyaspor,Gaziantep,alanyaspor,gaziantep
+2025-01-03,T1,Turkey-SL,2425,Alanyaspor,Konyaspor,2.0,1.0,H,1.0,0.0,H,2.05,3.25,3.5,2.13,3.25,3.89,2.08,3.27,3.61,2.05,1.75,2.05,1.75,-0.25,1.8,2.05,Alanyaspor,Konyaspor,alanyaspor,konyaspor
+2025-01-25,T1,Turkey-SL,2425,Alanyaspor,Buyuksehyr,5.0,4.0,H,2.0,2.0,D,2.55,3.2,2.9,2.62,3.09,2.91,2.56,3.16,2.83,2.15,1.67,2.14,1.69,0.0,1.8,2.05,Alanyaspor,Buyuksehyr,alanyaspor,buyuksehyr
+2025-02-09,T1,Turkey-SL,2425,Alanyaspor,Fenerbahce,0.0,2.0,A,0.0,2.0,A,5.25,4.2,1.5,6.1,4.38,1.51,5.87,4.38,1.5,1.65,2.2,1.65,2.21,1.0,2.0,1.85,Alanyaspor,Fenerbahce,alanyaspor,fenerbahce
+2025-02-23,T1,Turkey-SL,2425,Alanyaspor,Ad. Demirspor,3.0,2.0,H,0.0,2.0,A,1.33,5.5,8.0,1.31,5.63,8.57,1.31,5.5,8.49,1.5,2.5,1.49,2.52,-1.5,1.93,1.93,Alanyaspor,Ad. Demirspor,alanyaspor,ad_demirspor
+2025-03-09,T1,Turkey-SL,2425,Alanyaspor,Galatasaray,1.0,2.0,A,1.0,0.0,H,4.75,4.1,1.65,4.63,3.96,1.63,4.59,4.1,1.64,1.53,2.4,1.53,2.39,0.75,2.03,1.83,Alanyaspor,Galatasaray,alanyaspor,galatasaray
+2025-04-06,T1,Turkey-SL,2425,Alanyaspor,Bodrumspor,0.0,1.0,A,0.0,0.0,D,2.15,3.2,3.5,2.12,3.19,3.77,2.13,3.21,3.53,2.2,1.65,2.19,1.65,-0.25,,,Alanyaspor,Bodrumspor,alanyaspor,bodrumspor
+2025-04-21,T1,Turkey-SL,2425,Alanyaspor,Samsunspor,1.0,0.0,H,1.0,0.0,H,2.38,3.1,2.8,2.64,2.84,3.13,2.53,2.94,3.0,2.25,1.62,2.29,1.59,0.0,1.78,2.1,Alanyaspor,Samsunspor,alanyaspor,samsunspor
+2025-05-03,T1,Turkey-SL,2425,Alanyaspor,Kayserispor,1.0,1.0,D,1.0,0.0,H,2.0,3.4,3.4,2.12,3.36,3.56,2.07,3.45,3.41,1.8,2.0,1.81,1.98,-0.25,1.83,2.03,Alanyaspor,Kayserispor,alanyaspor,kayserispor
+2025-05-18,T1,Turkey-SL,2425,Alanyaspor,Besiktas,1.0,1.0,D,1.0,0.0,H,3.4,3.7,1.95,3.62,3.66,1.97,3.46,3.66,1.98,1.67,2.15,1.65,2.18,0.5,1.83,1.98,Alanyaspor,Besiktas,alanyaspor,besiktas
+2025-05-31,T1,Turkey-SL,2425,Alanyaspor,Sivasspor,2.0,0.0,H,1.0,0.0,H,1.85,3.8,3.7,1.83,3.78,3.86,1.84,3.81,3.8,1.65,2.2,1.64,2.21,-0.5,1.85,1.95,Alanyaspor,Sivasspor,alanyaspor,sivasspor
+2025-08-16,T1,Turkey-SL,2526,Alanyaspor,Rizespor,0.0,0.0,D,0.0,0.0,D,2.2,3.5,3.1,2.2,3.51,3.21,2.15,3.53,3.02,1.8,2.0,1.75,1.98,-0.25,1.9,1.9,Alanyaspor,Caykur Rizespor,alanyaspor,caykur_rizespor
+2025-08-31,T1,Turkey-SL,2526,Alanyaspor,Besiktas,2.0,0.0,H,1.0,0.0,H,3.2,3.7,2.05,3.34,3.66,2.09,3.21,3.56,2.04,1.7,2.1,1.68,2.08,0.25,1.98,1.83,Alanyaspor,Besiktas,alanyaspor,besiktas
+2025-09-26,T1,Turkey-SL,2526,Alanyaspor,Galatasaray,0.0,1.0,A,0.0,1.0,A,6.25,4.5,1.42,6.88,4.61,1.48,6.13,4.68,1.44,1.53,2.4,1.49,2.49,1.25,1.8,2.0,Alanyaspor,Galatasaray,alanyaspor,galatasaray
+2025-10-19,T1,Turkey-SL,2526,Alanyaspor,Goztep,1.0,0.0,H,0.0,0.0,D,2.95,3.05,2.35,2.91,3.25,2.52,2.86,3.18,2.39,2.2,1.65,2.18,1.62,0.25,1.7,2.1,Alanyaspor,Goztep,alanyaspor,goztep
+2025-11-03,T1,Turkey-SL,2526,Alanyaspor,Gaziantep,0.0,0.0,D,0.0,0.0,D,2.1,3.4,3.25,,,,2.12,3.39,3.19,1.93,1.88,1.88,1.84,-0.25,1.85,1.95,Alanyaspor,Gaziantep,alanyaspor,gaziantep
+2025-11-23,T1,Turkey-SL,2526,Alanyaspor,Kasimpasa,1.0,2.0,A,1.0,0.0,H,1.81,3.6,4.0,1.83,3.72,4.18,1.85,3.53,3.93,1.83,1.98,1.81,1.89,-0.5,1.83,1.98,Alanyaspor,Kasimpasa,alanyaspor,kasimpasa
+2025-12-08,T1,Turkey-SL,2526,Alanyaspor,Antalyaspor,0.0,0.0,D,0.0,0.0,D,1.62,3.75,5.0,1.7,3.87,4.78,1.67,3.7,4.75,1.9,1.9,1.84,1.86,-0.75,1.88,1.93,Alanyaspor,Antalyaspor,alanyaspor,antalyaspor
+2025-12-21,T1,Turkey-SL,2526,Alanyaspor,Karagumruk,2.0,0.0,H,1.0,0.0,H,1.62,3.8,5.0,1.66,4.03,4.87,1.66,3.74,4.78,1.85,1.95,1.82,1.88,-0.75,1.85,1.95,Alanyaspor,Karagumruk,alanyaspor,karagumruk
+2026-01-18,T1,Turkey-SL,2526,Alanyaspor,Fenerbahce,2.0,3.0,A,2.0,1.0,H,6.0,4.1,1.49,,,,6.08,4.06,1.5,1.88,1.93,1.82,1.89,1.0,1.93,1.88,Alanyaspor,Fenerbahce,alanyaspor,fenerbahce
+2026-01-31,T1,Turkey-SL,2526,Alanyaspor,Eyupspor,1.0,3.0,A,1.0,0.0,H,1.45,4.0,7.5,,,,1.44,4.04,6.89,1.95,1.85,1.9,1.82,-1.0,1.78,2.03,Alanyaspor,Eyupspor,alanyaspor,eyupspor
+2026-02-14,T1,Turkey-SL,2526,Alanyaspor,Konyaspor,2.0,1.0,H,1.0,0.0,H,2.05,3.4,3.4,,,,2.09,3.3,3.29,2.0,1.8,1.94,1.78,-0.25,1.83,1.98,Alanyaspor,Konyaspor,alanyaspor,konyaspor
+2026-02-21,T1,Turkey-SL,2526,Alanyaspor,Buyuksehyr,1.0,2.0,A,0.0,2.0,A,2.75,3.4,2.4,,,,2.72,3.32,2.41,1.85,1.95,1.81,1.9,0.25,1.73,2.08,Alanyaspor,Buyuksehyr,alanyaspor,buyuksehyr
+2026-03-09,T1,Turkey-SL,2526,Alanyaspor,Genclerbirligi,0.0,0.0,D,0.0,0.0,D,1.81,3.5,4.1,,,,1.83,3.43,3.94,1.98,1.83,1.91,1.8,-0.5,1.85,1.95,Alanyaspor,Genclerbirligi,alanyaspor,genclerbirligi
+2026-03-18,T1,Turkey-SL,2526,Alanyaspor,Kocaelispor,5.0,0.0,H,2.0,0.0,H,1.96,3.25,3.9,,,,1.99,3.18,3.65,2.25,1.62,2.2,1.61,-0.5,2.0,1.8,Alanyaspor,Kocaelispor,alanyaspor,kocaelispor
+2026-04-11,T1,Turkey-SL,2526,Alanyaspor,Trabzonspor,1.0,1.0,D,0.0,0.0,D,3.0,3.3,2.25,,,,2.95,3.32,2.23,1.85,1.95,1.82,1.9,0.25,1.7,2.1,Alanyaspor,Trabzonspor,alanyaspor,trabzonspor
+2026-04-27,T1,Turkey-SL,2526,Alanyaspor,Samsunspor,2.0,3.0,A,0.0,2.0,A,2.3,3.1,3.2,,,,2.26,3.08,3.08,2.05,1.75,1.99,1.74,-0.25,2.0,1.8,Alanyaspor,Samsunspor,alanyaspor,samsunspor
+2026-05-09,T1,Turkey-SL,2526,Alanyaspor,Kayserispor,3.0,1.0,H,2.0,1.0,H,2.15,3.6,3.0,,,,2.18,3.47,2.93,1.8,2.0,1.75,1.97,-0.25,1.95,1.85,Alanyaspor,Kayserispor,alanyaspor,kayserispor
+2026-08-23,T1,Turkey-SL,2627,Alanyaspor,Besiktas,1.0,0.0,H,0.0,0.0,D,3.75,3.6,1.86,,,,3.62,3.58,1.88,1.8,2.0,1.73,2.01,0.5,1.9,1.9,Alanyaspor,Besiktas,alanyaspor,besiktas
+2026-09-12,T1,Turkey-SL,2627,Alanyaspor,Goztep,2.0,2.0,D,0.0,1.0,A,2.1,3.4,3.1,,,,2.14,3.34,3.1,1.95,1.85,1.92,1.81,-0.25,1.85,1.95,Alanyaspor,Goztep,alanyaspor,goztep
+2026-10-10,T1,Turkey-SL,2627,Alanyaspor,Erzurumspor,0.0,0.0,D,0.0,0.0,D,1.91,3.25,3.8,,,,1.96,3.24,3.76,2.25,1.62,2.2,1.61,-0.5,1.95,1.85,Alanyaspor,Erzurumspor,alanyaspor,erzurumspor

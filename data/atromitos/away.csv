@@ -1,0 +1,87 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-09-12,G1,Greece-SL,2122,Olympiakos,Atromitos,0.0,0.0,D,0.0,0.0,D,1.14,7.5,17.0,1.14,7.55,21.98,1.15,6.95,18.04,1.72,2.07,1.75,2.04,-2.0,2.05,1.8,Olympiacos,Atromitos,olympiacos,atromitos
+2021-09-23,G1,Greece-SL,2122,Volos NFC,Atromitos,3.0,0.0,H,0.0,0.0,D,2.62,3.0,2.87,2.61,3.33,2.7,2.56,3.23,2.69,2.1,1.7,2.11,1.7,0.0,1.88,1.98,Volos NFC,Atromitos,volos_nfc,atromitos
+2021-10-17,G1,Greece-SL,2122,AEK,Atromitos,3.0,0.0,H,1.0,0.0,H,1.36,4.75,9.5,1.31,5.33,9.06,1.33,4.98,8.57,1.72,2.07,1.73,2.08,-1.5,2.05,1.75,AEK Athens,Atromitos,aek_athens,atromitos
+2021-10-31,G1,Greece-SL,2122,Lamia,Atromitos,2.0,2.0,D,1.0,1.0,D,2.37,3.1,3.25,2.45,2.98,3.21,2.38,2.98,3.14,2.6,1.47,2.58,1.48,-0.25,2.05,1.8,Lamia,Atromitos,lamia,atromitos
+2021-11-06,G1,Greece-SL,2122,OFI Crete,Atromitos,2.0,0.0,H,2.0,0.0,H,2.1,3.25,3.75,2.17,3.21,3.54,2.13,3.21,3.44,2.25,1.61,2.26,1.61,-0.25,1.85,2.0,OFI Crete,Atromitos,ofi_crete,atromitos
+2021-11-27,G1,Greece-SL,2122,Asteras Tripolis,Atromitos,6.0,2.0,H,3.0,1.0,H,1.83,3.3,5.0,1.82,3.19,5.08,1.82,3.26,4.61,2.25,1.61,2.25,1.62,-0.5,1.83,2.02,Asteras Tripolis,Atromitos,asteras_tripolis,atromitos
+2021-12-11,G1,Greece-SL,2122,Panathinaikos,Atromitos,2.0,0.0,H,1.0,0.0,H,1.44,4.5,7.5,1.42,4.4,7.47,1.43,4.29,7.18,2.02,1.83,1.99,1.8,-1.25,2.02,1.83,Panathinaikos,Atromitos,panathinaikos,atromitos
+2021-12-18,G1,Greece-SL,2122,Panetolikos,Atromitos,2.0,1.0,H,1.0,0.0,H,2.5,3.25,2.9,2.69,3.02,2.85,2.57,3.07,2.82,2.3,1.6,2.32,1.58,0.0,1.8,2.05,Panetolikos,Atromitos,panetolikos,atromitos
+2022-01-16,G1,Greece-SL,2122,Giannina,Atromitos,1.0,1.0,D,1.0,1.0,D,1.95,3.3,4.2,1.95,3.41,3.98,1.93,3.27,4.01,2.4,1.53,2.4,1.54,-0.5,1.95,1.9,PAS Giannina,Atromitos,pas_giannina,atromitos
+2022-01-29,G1,Greece-SL,2122,Ionikos,Atromitos,2.0,1.0,H,2.0,0.0,H,2.62,3.1,2.87,2.67,2.97,2.92,2.57,2.99,2.88,2.5,1.5,2.52,1.5,0.0,1.85,2.0,Ionikos,Atromitos,ionikos,atromitos
+2022-02-13,G1,Greece-SL,2122,PAOK,Atromitos,1.0,0.0,H,0.0,0.0,D,1.33,5.0,10.0,1.29,5.54,9.36,1.31,5.05,9.28,1.88,1.98,1.82,1.96,-1.5,1.98,1.88,PAOK,Atromitos,paok,atromitos
+2022-02-23,G1,Greece-SL,2122,Aris,Atromitos,3.0,0.0,H,1.0,0.0,H,1.5,4.2,6.5,1.49,4.25,6.38,1.51,4.03,6.33,2.2,1.65,2.16,1.67,-1.0,1.98,1.88,Aris Thessaloniki,Atromitos,aris_thessaloniki,atromitos
+2022-02-28,G1,Greece-SL,2122,Apollon,Atromitos,0.0,2.0,A,0.0,0.0,D,2.6,3.0,3.1,2.59,3.16,2.85,2.53,3.03,2.91,2.6,1.47,2.49,1.51,0.0,1.68,2.15,Apollon,Atromitos,apollon,atromitos
+2022-04-02,G1,Greece-SL,2122,Asteras Tripolis,Atromitos,0.0,0.0,D,0.0,0.0,D,2.0,3.5,4.0,2.0,3.27,3.97,1.98,3.28,3.83,2.25,1.61,2.27,1.59,-0.5,2.02,1.83,Asteras Tripolis,Atromitos,asteras_tripolis,atromitos
+2022-04-09,G1,Greece-SL,2122,Panetolikos,Atromitos,2.0,3.0,A,2.0,2.0,D,2.45,3.0,3.2,2.33,3.12,3.27,2.34,3.05,3.18,2.35,1.57,2.33,1.57,-0.25,2.05,1.75,Panetolikos,Atromitos,panetolikos,atromitos
+2022-04-30,G1,Greece-SL,2122,Volos NFC,Atromitos,1.0,1.0,D,0.0,1.0,A,2.37,3.25,3.1,2.4,3.34,2.94,2.36,3.28,2.92,2.05,1.75,2.03,1.74,-0.25,2.05,1.8,Volos NFC,Atromitos,volos_nfc,atromitos
+2022-05-15,G1,Greece-SL,2122,Lamia,Atromitos,0.0,0.0,D,0.0,0.0,D,2.62,3.2,2.87,2.54,3.12,2.93,2.54,3.12,2.8,2.15,1.66,2.13,1.67,0.0,1.8,2.05,Lamia,Atromitos,lamia,atromitos
+2022-08-28,G1,Greece-SL,2223,PAOK,Atromitos,2.0,1.0,H,1.0,0.0,H,1.53,3.8,7.0,1.45,4.31,7.04,1.47,4.12,6.62,1.95,1.9,1.92,1.84,-1.0,1.85,2.0,PAOK,Atromitos,paok,atromitos
+2022-09-10,G1,Greece-SL,2223,Ionikos,Atromitos,1.0,4.0,A,1.0,0.0,H,2.25,3.2,3.4,2.35,3.19,3.16,2.32,3.15,3.11,2.3,1.6,2.27,1.6,-0.25,1.98,1.88,Ionikos,Atromitos,ionikos,atromitos
+2022-10-02,G1,Greece-SL,2223,Olympiakos,Atromitos,2.0,0.0,H,1.0,0.0,H,1.33,4.5,10.0,1.33,4.97,10.19,1.3,4.96,10.06,1.88,1.98,1.83,1.94,-1.5,2.05,1.8,Olympiacos,Atromitos,olympiacos,atromitos
+2022-10-16,G1,Greece-SL,2223,AEK,Atromitos,1.0,0.0,H,0.0,0.0,D,1.3,5.5,10.0,1.26,5.72,10.29,1.28,5.3,10.42,1.88,1.98,1.84,1.94,-1.5,1.93,1.93,AEK Athens,Atromitos,aek_athens,atromitos
+2022-10-30,G1,Greece-SL,2223,Levadeiakos,Atromitos,2.0,1.0,H,1.0,0.0,H,2.7,3.2,2.75,2.91,2.96,2.68,2.72,3.05,2.65,2.4,1.53,2.42,1.53,0.0,1.95,1.9,Levadeiakos,Atromitos,levadeiakos,atromitos
+2022-11-13,G1,Greece-SL,2223,Panathinaikos,Atromitos,2.0,0.0,H,0.0,0.0,D,1.4,4.5,9.0,1.34,4.71,9.5,1.36,4.48,8.81,2.05,1.8,1.99,1.78,-1.25,1.98,1.88,Panathinaikos,Atromitos,panathinaikos,atromitos
+2022-12-22,G1,Greece-SL,2223,OFI Crete,Atromitos,0.0,1.0,A,0.0,1.0,A,2.25,3.3,3.2,2.22,3.34,3.27,2.23,3.27,3.15,2.1,1.7,2.11,1.69,-0.25,1.93,1.93,OFI Crete,Atromitos,ofi_crete,atromitos
+2023-01-04,G1,Greece-SL,2223,Panetolikos,Atromitos,2.0,0.0,H,0.0,0.0,D,2.25,3.2,3.4,2.23,3.22,3.37,2.23,3.15,3.25,2.25,1.62,2.28,1.6,-0.25,1.95,1.9,Panetolikos,Atromitos,panetolikos,atromitos
+2023-01-14,G1,Greece-SL,2223,Lamia,Atromitos,1.0,1.0,D,0.0,1.0,A,2.7,3.0,2.9,2.52,3.1,2.99,2.49,3.02,2.95,2.35,1.57,2.41,1.54,0.0,1.83,2.02,Lamia,Atromitos,lamia,atromitos
+2023-01-28,G1,Greece-SL,2223,Giannina,Atromitos,1.0,1.0,D,1.0,0.0,H,2.2,3.2,3.5,2.24,3.18,3.52,2.18,3.12,3.46,2.35,1.57,2.37,1.56,-0.25,1.88,1.98,PAS Giannina,Atromitos,pas_giannina,atromitos
+2023-02-12,G1,Greece-SL,2223,Volos NFC,Atromitos,2.0,1.0,H,0.0,0.0,D,2.25,3.3,3.3,2.23,3.01,3.63,2.21,3.16,3.33,2.08,1.73,2.07,1.73,-0.25,1.93,1.93,Volos NFC,Atromitos,volos_nfc,atromitos
+2023-02-26,G1,Greece-SL,2223,Aris,Atromitos,2.0,1.0,H,2.0,0.0,H,1.5,3.75,8.0,1.49,4.0,7.17,1.5,3.86,6.92,2.15,1.67,2.13,1.68,-1.0,1.9,1.95,Aris Thessaloniki,Atromitos,aris_thessaloniki,atromitos
+2023-03-04,G1,Greece-SL,2223,Asteras Tripolis,Atromitos,1.0,1.0,D,0.0,1.0,A,2.25,3.0,3.6,2.25,3.13,3.57,2.21,3.05,3.47,2.5,1.5,2.45,1.52,-0.25,1.9,1.95,Asteras Tripolis,Atromitos,asteras_tripolis,atromitos
+2023-04-01,G1,Greece-SL,2223,Levadeiakos,Atromitos,1.0,1.0,D,0.0,0.0,D,2.5,3.2,3.0,2.48,3.02,3.16,2.45,2.99,3.03,2.6,1.48,2.58,1.47,0.0,1.75,2.13,Levadeiakos,Atromitos,levadeiakos,atromitos
+2023-04-22,G1,Greece-SL,2223,Lamia,Atromitos,1.0,0.0,H,0.0,0.0,D,2.15,3.3,3.5,2.17,3.26,3.61,2.11,3.19,3.53,2.25,1.62,2.33,1.57,-0.25,1.82,2.02,Lamia,Atromitos,lamia,atromitos
+2023-05-13,G1,Greece-SL,2223,Asteras Tripolis,Atromitos,1.0,1.0,D,1.0,0.0,H,2.1,3.4,3.4,2.22,3.29,3.45,2.14,3.22,3.4,2.3,1.6,2.31,1.58,-0.25,1.85,2.0,Asteras Tripolis,Atromitos,asteras_tripolis,atromitos
+2023-08-27,G1,Greece-SL,2324,Olympiakos,Atromitos,4.0,0.0,H,2.0,0.0,H,1.29,5.5,10.0,1.28,5.51,10.05,1.29,5.23,9.44,1.67,2.15,1.65,2.18,-1.5,1.88,1.98,Olympiacos,Atromitos,olympiacos,atromitos
+2023-09-01,G1,Greece-SL,2324,Kifisia,Atromitos,2.0,1.0,H,1.0,0.0,H,2.63,3.3,2.7,2.64,3.18,2.86,2.55,3.16,2.77,2.2,1.65,2.18,1.66,0.0,1.88,1.98,Kifisia,Atromitos,kifisia,atromitos
+2023-09-23,G1,Greece-SL,2324,OFI Crete,Atromitos,1.0,1.0,D,1.0,0.0,H,2.1,3.2,3.8,2.08,3.41,3.59,2.07,3.33,3.5,2.05,1.75,2.03,1.75,-0.25,1.83,2.03,OFI Crete,Atromitos,ofi_crete,atromitos
+2023-09-28,G1,Greece-SL,2324,AEK,Atromitos,2.0,1.0,H,1.0,0.0,H,1.17,7.0,17.0,1.17,7.15,14.76,1.17,6.75,14.46,1.57,2.35,1.56,2.34,-2.0,1.95,1.9,AEK Athens,Atromitos,aek_athens,atromitos
+2023-10-08,G1,Greece-SL,2324,Panathinaikos,Atromitos,5.0,0.0,H,3.0,0.0,H,1.25,5.5,15.0,1.22,5.9,13.39,1.23,5.57,12.6,1.8,2.0,1.79,1.98,-1.5,1.78,2.03,Panathinaikos,Atromitos,panathinaikos,atromitos
+2023-10-22,G1,Greece-SL,2324,PAOK,Atromitos,2.0,0.0,H,1.0,0.0,H,1.29,5.0,13.0,1.28,5.46,10.2,1.28,5.15,10.21,1.73,2.08,1.72,2.07,-1.5,1.93,1.93,PAOK,Atromitos,paok,atromitos
+2023-11-05,G1,Greece-SL,2324,Aris,Atromitos,1.0,3.0,A,1.0,1.0,D,1.53,3.8,7.0,1.54,4.08,5.96,1.51,4.03,6.05,1.93,1.93,1.87,1.9,-1.0,1.95,1.9,Aris Thessaloniki,Atromitos,aris_thessaloniki,atromitos
+2023-11-26,G1,Greece-SL,2324,Lamia,Atromitos,3.0,3.0,D,2.0,2.0,D,2.3,3.3,3.1,2.41,3.25,3.02,2.32,3.24,3.0,2.05,1.75,2.05,1.74,-0.25,2.03,1.83,Lamia,Atromitos,lamia,atromitos
+2024-01-07,G1,Greece-SL,2324,Volos NFC,Atromitos,1.0,2.0,A,0.0,1.0,A,2.55,3.2,2.9,2.54,3.23,2.85,2.48,3.19,2.8,2.05,1.75,2.02,1.76,0.0,1.8,2.05,Volos NFC,Atromitos,volos_nfc,atromitos
+2024-01-28,G1,Greece-SL,2324,Asteras Tripolis,Atromitos,3.0,1.0,H,1.0,0.0,H,2.15,3.3,3.5,2.08,3.3,3.67,2.11,3.23,3.43,2.2,1.65,2.19,1.64,-0.25,1.85,2.0,Asteras Tripolis,Atromitos,asteras_tripolis,atromitos
+2024-02-10,G1,Greece-SL,2324,Panetolikos,Atromitos,1.0,0.0,H,1.0,0.0,H,2.38,3.25,3.1,2.41,3.21,3.15,2.3,3.22,3.05,2.1,1.7,2.11,1.69,-0.25,2.05,1.8,Panetolikos,Atromitos,panetolikos,atromitos
+2024-02-24,G1,Greece-SL,2324,Panserraikos,Atromitos,0.0,0.0,D,0.0,0.0,D,2.38,3.2,3.1,2.44,3.04,3.27,2.34,3.13,3.08,2.3,1.6,2.3,1.59,-0.25,2.03,1.83,Panserraikos,Atromitos,panserraikos,atromitos
+2024-03-03,G1,Greece-SL,2324,Giannina,Atromitos,1.0,1.0,D,1.0,0.0,H,2.25,3.2,3.4,2.24,3.25,3.32,2.24,3.19,3.2,2.1,1.7,2.12,1.69,-0.25,1.93,1.93,PAS Giannina,Atromitos,pas_giannina,atromitos
+2024-03-30,G1,Greece-SL,2324,OFI Crete,Atromitos,0.0,0.0,D,0.0,0.0,D,2.0,3.5,3.75,2.04,3.44,3.71,2.02,3.39,3.55,1.95,1.9,1.92,1.85,-0.5,2.03,1.83,OFI Crete,Atromitos,ofi_crete,atromitos
+2024-04-13,G1,Greece-SL,2324,Volos NFC,Atromitos,2.0,2.0,D,1.0,1.0,D,2.05,3.25,4.0,2.04,3.09,4.22,2.01,3.18,3.89,2.15,1.67,2.14,1.68,-0.5,2.0,1.85,Volos NFC,Atromitos,volos_nfc,atromitos
+2024-04-27,G1,Greece-SL,2324,Panetolikos,Atromitos,1.0,0.0,H,0.0,0.0,D,1.75,3.6,5.0,1.76,3.64,4.71,1.73,3.6,4.58,2.03,1.83,1.98,1.79,-0.75,2.0,1.85,Panetolikos,Atromitos,panetolikos,atromitos
+2024-08-24,G1,Greece-SL,2425,OFI Crete,Atromitos,1.0,1.0,D,1.0,0.0,H,2.2,3.4,3.25,2.19,3.3,3.3,2.19,3.33,3.21,1.93,1.93,1.89,1.88,-0.25,1.93,1.93,OFI Crete,Atromitos,ofi_crete,atromitos
+2024-09-14,G1,Greece-SL,2425,Asteras Tripolis,Atromitos,1.0,2.0,A,1.0,2.0,A,1.91,3.4,4.0,1.94,3.37,4.04,1.95,3.3,3.94,2.25,1.62,2.23,1.62,-0.5,1.93,1.93,Asteras Tripolis,Atromitos,asteras_tripolis,atromitos
+2024-09-29,G1,Greece-SL,2425,Olympiakos,Atromitos,2.0,0.0,H,1.0,0.0,H,1.25,5.5,12.0,1.22,6.21,11.94,1.22,5.8,11.5,1.67,2.15,1.67,2.12,-1.75,1.98,1.88,Olympiacos,Atromitos,olympiacos,atromitos
+2024-10-27,G1,Greece-SL,2425,Athens Kallithea,Atromitos,0.0,3.0,A,0.0,1.0,A,2.7,3.1,2.63,2.76,3.15,2.67,2.67,3.14,2.6,2.15,1.67,2.12,1.68,0.0,1.95,1.9,Athens Kallithea,Atromitos,athens_kallithea,atromitos
+2024-11-09,G1,Greece-SL,2425,Panserraikos,Atromitos,2.0,3.0,A,1.0,3.0,A,3.25,3.1,2.3,3.38,2.89,2.42,3.22,3.07,2.32,2.15,1.67,2.12,1.69,0.25,1.83,2.03,Panserraikos,Atromitos,panserraikos,atromitos
+2024-12-01,G1,Greece-SL,2425,Panathinaikos,Atromitos,1.0,1.0,D,1.0,0.0,H,1.48,4.1,7.0,1.45,4.52,6.47,1.46,4.29,6.36,1.98,1.88,1.94,1.83,-1.0,1.83,2.03,Panathinaikos,Atromitos,panathinaikos,atromitos
+2024-12-07,G1,Greece-SL,2425,Aris,Atromitos,2.0,1.0,H,2.0,0.0,H,1.83,3.25,4.75,1.83,3.49,4.45,1.83,3.38,4.35,2.25,1.62,2.21,1.63,-0.5,1.83,2.03,Aris Thessaloniki,Atromitos,aris_thessaloniki,atromitos
+2024-12-22,G1,Greece-SL,2425,PAOK,Atromitos,3.0,0.0,H,1.0,0.0,H,1.5,4.0,7.0,1.53,4.35,5.54,1.49,4.21,6.14,1.9,1.95,1.86,1.91,-1.0,1.88,1.98,PAOK,Atromitos,paok,atromitos
+2025-01-12,G1,Greece-SL,2425,Lamia,Atromitos,0.0,3.0,A,0.0,2.0,A,3.5,3.1,2.2,3.74,2.96,2.22,3.45,2.99,2.18,2.6,1.48,2.54,1.48,0.25,1.98,1.88,Lamia,Atromitos,lamia,atromitos
+2025-01-24,G1,Greece-SL,2425,Volos NFC,Atromitos,0.0,1.0,A,0.0,0.0,D,3.2,2.9,2.5,3.28,2.83,2.63,3.13,2.84,2.5,2.88,1.4,2.76,1.43,0.25,1.75,2.13,Volos NFC,Atromitos,volos_nfc,atromitos
+2025-02-02,G1,Greece-SL,2425,Panetolikos,Atromitos,0.0,1.0,A,0.0,1.0,A,3.0,2.9,2.6,3.11,2.87,2.6,3.02,2.84,2.55,3.1,1.36,2.9,1.39,0.0,2.1,1.78,Panetolikos,Atromitos,panetolikos,atromitos
+2025-02-15,G1,Greece-SL,2425,AEK,Atromitos,2.0,1.0,H,1.0,1.0,D,1.22,5.5,15.0,1.23,5.84,12.42,1.23,5.55,12.23,1.88,1.98,1.83,1.95,-1.5,1.78,2.03,AEK Athens,Atromitos,aek_athens,atromitos
+2025-03-02,G1,Greece-SL,2425,Levadeiakos,Atromitos,1.0,2.0,A,1.0,1.0,D,2.75,2.9,2.9,2.83,2.84,2.87,2.72,2.88,2.79,2.7,1.41,2.68,1.44,0.0,1.88,1.98,Levadeiakos,Atromitos,levadeiakos,atromitos
+2025-03-29,G1,Greece-SL,2425,OFI Crete,Atromitos,1.0,2.0,A,1.0,1.0,D,2.25,3.25,3.3,2.27,3.2,3.43,2.23,3.19,3.28,2.25,1.62,2.3,1.6,-0.25,1.93,1.93,OFI Crete,Atromitos,ofi_crete,atromitos
+2025-04-13,G1,Greece-SL,2425,Aris,Atromitos,1.0,0.0,H,0.0,0.0,D,1.73,3.6,5.0,1.68,3.58,5.39,1.71,3.54,4.96,2.25,1.62,2.24,1.62,-0.75,1.95,1.9,Aris Thessaloniki,Atromitos,aris_thessaloniki,atromitos
+2025-05-03,G1,Greece-SL,2425,Asteras Tripolis,Atromitos,1.0,4.0,A,0.0,4.0,A,2.05,3.2,3.9,2.01,3.25,3.99,2.04,3.2,3.77,2.4,1.53,2.37,1.56,-0.5,2.05,1.8,Asteras Tripolis,Atromitos,asteras_tripolis,atromitos
+2025-08-23,G1,Greece-SL,2526,Panetolikos,Atromitos,0.0,2.0,A,0.0,1.0,A,3.1,3.0,2.45,3.09,2.95,2.55,2.87,2.97,2.45,2.5,1.5,2.44,1.49,0.25,1.75,2.05,Panetolikos,Atromitos,panetolikos,atromitos
+2025-08-31,G1,Greece-SL,2526,PAOK,Atromitos,1.0,0.0,H,0.0,0.0,D,1.33,4.75,8.5,1.36,4.9,8.17,1.32,4.73,7.98,1.75,2.05,1.72,2.0,-1.5,2.05,1.75,PAOK,Atromitos,paok,atromitos
+2025-09-20,G1,Greece-SL,2526,Panserraikos,Atromitos,1.0,1.0,D,0.0,1.0,A,3.5,3.0,2.2,4.16,2.48,2.42,3.46,2.82,2.23,2.6,1.48,2.63,1.44,0.25,1.9,1.9,Panserraikos,Atromitos,panserraikos,atromitos
+2025-10-05,G1,Greece-SL,2526,Panathinaikos,Atromitos,1.0,0.0,H,0.0,0.0,D,1.42,4.5,6.25,1.51,4.11,6.42,1.43,4.19,6.44,1.8,2.0,1.84,1.86,-1.0,1.75,2.05,Panathinaikos,Atromitos,panathinaikos,atromitos
+2025-10-25,G1,Greece-SL,2526,OFI Crete,Atromitos,1.0,3.0,A,1.0,1.0,D,2.01,3.25,3.7,2.06,3.32,3.7,2.04,3.24,3.37,2.05,1.75,2.01,1.72,-0.5,2.05,1.75,OFI Crete,Atromitos,ofi_crete,atromitos
+2025-11-22,G1,Greece-SL,2526,Olympiakos,Atromitos,3.0,0.0,H,1.0,0.0,H,1.11,7.5,21.0,,,,1.13,7.02,16.5,1.53,2.4,1.53,2.36,-2.0,1.78,2.03,Olympiacos,Atromitos,olympiacos,atromitos
+2025-12-07,G1,Greece-SL,2526,AEK,Atromitos,4.0,1.0,H,1.0,0.0,H,1.24,5.25,13.0,,,,1.24,5.23,10.75,1.73,2.08,1.72,2.01,-1.5,1.8,2.0,AEK Athens,Atromitos,aek_athens,atromitos
+2025-12-21,G1,Greece-SL,2526,Larisa,Atromitos,0.0,0.0,D,0.0,0.0,D,2.7,2.95,2.7,,,,2.65,2.99,2.61,2.35,1.57,2.22,1.59,0.0,1.9,1.9,Larisa,Atromitos,larisa,atromitos
+2026-01-19,G1,Greece-SL,2526,Volos NFC,Atromitos,0.0,3.0,A,0.0,2.0,A,1.96,3.25,3.9,,,,2.03,3.12,3.54,2.25,1.62,2.22,1.58,-0.25,1.73,2.08,Volos NFC,Atromitos,volos_nfc,atromitos
+2026-02-07,G1,Greece-SL,2526,Kifisia,Atromitos,0.0,1.0,A,0.0,0.0,D,2.35,3.1,3.0,,,,2.4,3.03,2.93,2.35,1.57,2.3,1.56,-0.25,2.05,1.75,Kifisia,Atromitos,kifisia,atromitos
+2026-02-21,G1,Greece-SL,2526,Asteras Tripolis,Atromitos,1.0,2.0,A,0.0,2.0,A,2.4,3.1,3.1,,,,2.35,3.04,2.99,2.4,1.53,2.32,1.54,-0.25,2.05,1.75,Asteras Tripolis,Atromitos,asteras_tripolis,atromitos
+2026-03-07,G1,Greece-SL,2526,Aris,Atromitos,0.0,0.0,D,0.0,0.0,D,1.91,3.25,4.2,,,,1.91,3.14,4.0,2.5,1.5,2.38,1.52,-0.5,1.95,1.85,Aris Thessaloniki,Atromitos,aris_thessaloniki,atromitos
+2026-03-22,G1,Greece-SL,2526,Levadeiakos,Atromitos,1.0,0.0,H,0.0,0.0,D,2.05,3.2,3.6,,,,2.03,3.18,3.47,2.25,1.62,2.16,1.63,-0.25,1.83,1.98,Levadeiakos,Atromitos,levadeiakos,atromitos
+2026-04-04,G1,Greece-SL,2526,Panetolikos,Atromitos,1.0,1.0,D,1.0,0.0,H,2.85,3.0,2.57,,,,2.76,3.01,2.5,2.4,1.53,2.31,1.55,0.0,1.98,1.83,Panetolikos,Atromitos,panetolikos,atromitos
+2026-04-22,G1,Greece-SL,2526,Panserraikos,Atromitos,0.0,4.0,A,0.0,3.0,A,2.65,2.85,2.75,,,,2.61,2.9,2.69,2.6,1.48,2.5,1.47,,1.85,1.95,Panserraikos,Atromitos,panserraikos,atromitos
+2026-05-02,G1,Greece-SL,2526,Asteras Tripolis,Atromitos,4.0,2.0,H,3.0,0.0,H,1.68,3.8,4.5,,,,1.69,3.55,4.5,2.15,1.67,2.1,1.66,-0.75,1.95,1.85,Asteras Tripolis,Atromitos,asteras_tripolis,atromitos
+2026-05-12,G1,Greece-SL,2526,Kifisia,Atromitos,0.0,3.0,A,0.0,1.0,A,2.3,3.25,3.1,,,,2.24,3.23,2.95,2.0,1.8,1.96,1.77,-0.25,1.98,1.83,Kifisia,Atromitos,kifisia,atromitos
+2026-05-16,G1,Greece-SL,2526,Larisa,Atromitos,2.0,1.0,H,2.0,0.0,H,,,,,,,2.26,3.14,2.95,,,2.12,1.65,-0.25,,,Larisa,Atromitos,larisa,atromitos
+2026-08-22,G1,Greece-SL,2627,Olympiakos,Atromitos,1.0,0.0,H,0.0,0.0,D,1.22,5.5,12.0,,,,1.23,5.26,11.0,1.7,2.1,1.69,2.07,-1.5,1.75,2.05,Olympiacos,Atromitos,olympiacos,atromitos
+2026-09-12,G1,Greece-SL,2627,Iraklis,Atromitos,1.0,1.0,D,0.0,1.0,A,2.85,3.25,2.4,,,,2.75,3.08,2.48,2.2,1.65,2.17,1.63,0.0,2.03,1.78,Iraklis,Atromitos,iraklis,atromitos
+2026-10-10,G1,Greece-SL,2627,Asteras Tripolis,Atromitos,2.0,1.0,H,2.0,1.0,H,2.35,3.2,3.0,,,,2.29,3.12,2.95,2.25,1.62,2.22,1.59,-0.25,2.0,1.8,Asteras Tripolis,Atromitos,asteras_tripolis,atromitos

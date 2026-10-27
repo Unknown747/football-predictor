@@ -1,0 +1,73 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,P1,Portugal-Liga1,2122,Moreirense,Benfica,1.0,2.0,A,1.0,2.0,A,8.0,4.5,1.4,6.9,4.8,1.47,6.87,4.56,1.43,1.65,2.2,1.65,2.23,1.25,1.91,1.99,Moreirense,Benfica,moreirense,benfica
+2021-08-20,P1,Portugal-Liga1,2122,Moreirense,Sp Braga,2.0,3.0,A,0.0,2.0,A,4.75,3.8,1.66,5.53,3.68,1.73,5.06,3.61,1.7,2.0,1.8,1.97,1.83,0.75,1.95,1.95,Moreirense,Sp Braga,moreirense,sp_braga
+2021-09-12,P1,Portugal-Liga1,2122,Moreirense,Famalicao,2.0,2.0,D,1.0,1.0,D,2.8,3.1,2.45,2.94,3.24,2.64,2.82,3.16,2.57,2.1,1.7,2.11,1.72,0.0,2.04,1.86,Moreirense,Famalicao,moreirense,famalicao
+2021-09-25,P1,Portugal-Liga1,2122,Moreirense,Arouca,2.0,1.0,H,1.0,0.0,H,2.1,3.2,3.4,2.14,3.56,3.58,2.12,3.38,3.41,2.07,1.72,2.11,1.72,-0.25,1.85,2.05,Moreirense,Arouca,moreirense,arouca
+2021-11-01,P1,Portugal-Liga1,2122,Moreirense,Pacos Ferreira,1.0,1.0,D,0.0,0.0,D,2.4,3.2,3.1,2.47,3.36,3.02,2.4,3.23,2.92,2.07,1.72,2.07,1.73,-0.25,2.1,1.8,Moreirense,Pacos Ferreira,moreirense,pacos_ferreira
+2021-11-26,P1,Portugal-Liga1,2122,Moreirense,Gil Vicente,2.0,2.0,D,0.0,0.0,D,2.37,3.0,3.2,2.49,3.22,3.17,2.45,3.15,3.0,2.15,1.66,2.17,1.68,-0.25,2.1,1.8,Moreirense,Gil Vicente,moreirense,gil_vicente
+2021-12-12,P1,Portugal-Liga1,2122,Moreirense,Portimonense,0.0,1.0,A,0.0,0.0,D,2.45,3.1,3.0,2.54,3.16,3.14,2.49,3.11,2.98,2.4,1.53,2.37,1.58,-0.25,2.08,1.73,Moreirense,Portimonense,moreirense,portimonense
+2021-12-28,P1,Portugal-Liga1,2122,Moreirense,Estoril,1.0,0.0,H,1.0,0.0,H,3.0,3.1,2.5,3.01,3.14,2.65,2.92,3.06,2.56,2.25,1.61,2.29,1.62,0.0,2.08,1.82,Moreirense,Estoril,moreirense,estoril
+2022-01-22,P1,Portugal-Liga1,2122,Moreirense,Santa Clara,0.0,2.0,A,0.0,1.0,A,2.37,3.1,3.1,2.35,3.28,3.36,2.33,3.17,3.16,2.2,1.65,2.23,1.64,-0.25,2.03,1.87,Moreirense,Santa Clara,moreirense,santa_clara
+2022-02-07,P1,Portugal-Liga1,2122,Moreirense,Belenenses,4.0,1.0,H,2.0,1.0,H,1.9,3.3,4.33,1.98,3.56,4.02,1.97,3.36,3.89,2.25,1.61,2.24,1.64,-0.5,1.96,1.94,Moreirense,Belenenses,moreirense,belenenses
+2022-02-20,P1,Portugal-Liga1,2122,Moreirense,Porto,0.0,1.0,A,0.0,1.0,A,11.0,5.0,1.3,10.77,5.38,1.33,9.66,5.19,1.31,1.7,2.1,1.71,2.13,1.5,1.91,1.99,Moreirense,FC Porto,moreirense,fc_porto
+2022-03-06,P1,Portugal-Liga1,2122,Moreirense,Maritimo,0.0,1.0,A,0.0,1.0,A,2.37,3.2,3.2,2.45,3.12,3.34,2.34,3.17,3.16,2.2,1.65,2.24,1.64,-0.25,2.0,1.9,Moreirense,Maritimo,moreirense,maritimo
+2022-03-14,P1,Portugal-Liga1,2122,Moreirense,Sp Lisbon,0.0,2.0,A,0.0,2.0,A,8.0,4.75,1.4,7.77,4.59,1.45,7.32,4.42,1.43,1.9,1.95,1.86,1.94,1.25,1.89,2.01,Moreirense,Sp Lisbon,moreirense,sp_lisbon
+2022-04-03,P1,Portugal-Liga1,2122,Moreirense,Guimaraes,0.0,1.0,A,0.0,0.0,D,2.87,3.25,2.4,3.07,3.35,2.45,2.93,3.27,2.43,2.07,1.72,2.06,1.75,0.0,2.05,1.75,Moreirense,Vitoria Guimaraes,moreirense,vitoria_guimaraes
+2022-04-16,P1,Portugal-Liga1,2122,Moreirense,Tondela,2.0,0.0,H,2.0,0.0,H,2.0,3.25,3.6,2.08,3.45,3.87,2.06,3.34,3.61,2.1,1.7,2.08,1.74,-0.25,1.8,2.1,Moreirense,Tondela,moreirense,tondela
+2022-05-01,P1,Portugal-Liga1,2122,Moreirense,Boavista,1.0,2.0,A,0.0,1.0,A,2.2,3.3,3.3,2.32,3.13,3.6,2.24,3.19,3.35,2.2,1.65,2.24,1.64,-0.25,1.92,1.98,Moreirense,Boavista,moreirense,boavista
+2022-05-14,P1,Portugal-Liga1,2122,Moreirense,Vizela,4.0,1.0,H,3.0,0.0,H,1.65,3.6,5.5,1.7,4.03,5.11,1.69,3.81,4.88,1.85,2.0,1.82,1.99,-0.75,1.9,2.0,Moreirense,Vizela,moreirense,vizela
+2023-08-14,P1,Portugal-Liga1,2324,Moreirense,Porto,1.0,2.0,A,0.0,0.0,D,7.0,4.75,1.36,8.32,5.36,1.37,8.11,5.05,1.35,1.67,2.15,1.65,2.22,1.5,1.78,2.03,Moreirense,FC Porto,moreirense,fc_porto
+2023-09-09,P1,Portugal-Liga1,2324,Moreirense,Sp Braga,2.0,3.0,A,2.0,1.0,H,4.2,3.75,1.8,4.28,3.97,1.84,4.11,3.84,1.81,1.7,2.1,1.71,2.12,0.5,2.03,1.78,Moreirense,Sp Braga,moreirense,sp_braga
+2023-09-23,P1,Portugal-Liga1,2324,Moreirense,Farense,1.0,0.0,H,1.0,0.0,H,2.15,3.3,3.3,2.23,3.52,3.39,2.18,3.43,3.28,1.98,1.88,1.95,1.85,-0.25,1.92,1.98,Moreirense,Farense,moreirense,farense
+2023-10-06,P1,Portugal-Liga1,2324,Moreirense,Boavista,1.0,1.0,D,1.0,1.0,D,1.83,3.4,3.6,1.94,3.72,4.07,1.93,3.6,3.82,1.9,1.95,1.88,1.92,-0.5,1.95,1.95,Moreirense,Boavista,moreirense,boavista
+2023-11-05,P1,Portugal-Liga1,2324,Moreirense,Guimaraes,1.0,0.0,H,0.0,0.0,D,2.55,3.3,2.63,2.75,3.25,2.8,2.64,3.26,2.71,2.08,1.73,2.08,1.75,0.0,1.93,1.97,Moreirense,Vitoria Guimaraes,moreirense,vitoria_guimaraes
+2023-12-03,P1,Portugal-Liga1,2324,Moreirense,Benfica,0.0,0.0,D,0.0,0.0,D,5.5,4.33,1.45,6.42,4.41,1.5,6.21,4.45,1.49,1.67,2.15,1.7,2.14,1.0,2.05,1.85,Moreirense,Benfica,moreirense,benfica
+2023-12-17,P1,Portugal-Liga1,2324,Moreirense,Portimonense,5.0,2.0,H,2.0,1.0,H,1.7,3.6,5.0,1.76,3.89,4.92,1.73,3.77,4.74,1.93,1.93,1.89,1.91,-0.75,1.97,1.93,Moreirense,Portimonense,moreirense,portimonense
+2024-01-08,P1,Portugal-Liga1,2324,Moreirense,Casa Pia,1.0,4.0,A,1.0,3.0,A,1.91,3.5,4.0,1.92,3.4,4.53,1.91,3.39,4.22,2.25,1.62,2.29,1.62,-0.5,1.93,1.97,Moreirense,Casa Pia,moreirense,casa_pia
+2024-01-28,P1,Portugal-Liga1,2324,Moreirense,Famalicao,1.0,0.0,H,0.0,0.0,D,2.2,3.3,3.4,2.32,3.36,3.34,2.24,3.27,3.27,2.2,1.65,2.2,1.67,-0.25,1.95,1.95,Moreirense,Famalicao,moreirense,famalicao
+2024-02-10,P1,Portugal-Liga1,2324,Moreirense,Chaves,1.0,0.0,H,0.0,0.0,D,1.83,3.5,4.5,1.85,3.58,4.79,1.84,3.51,4.4,2.05,1.75,2.06,1.76,-0.5,1.85,2.05,Moreirense,Chaves,moreirense,chaves
+2024-02-19,P1,Portugal-Liga1,2324,Moreirense,Sp Lisbon,0.0,2.0,A,0.0,2.0,A,7.5,5.0,1.36,8.47,4.92,1.4,7.78,4.77,1.39,1.75,2.05,1.78,2.02,1.25,1.98,1.92,Moreirense,Sp Lisbon,moreirense,sp_lisbon
+2024-03-02,P1,Portugal-Liga1,2324,Moreirense,Rio Ave,0.0,0.0,D,0.0,0.0,D,2.2,3.2,3.5,2.27,3.19,3.65,2.22,3.17,3.44,2.35,1.57,2.39,1.57,-0.25,1.91,1.99,Moreirense,Rio Ave,moreirense,rio_ave
+2024-03-17,P1,Portugal-Liga1,2324,Moreirense,Arouca,1.0,0.0,H,1.0,0.0,H,2.5,3.2,3.0,2.6,3.26,2.97,2.51,3.22,2.89,2.15,1.67,2.19,1.67,0.0,1.78,2.13,Moreirense,Arouca,moreirense,arouca
+2024-04-07,P1,Portugal-Liga1,2324,Moreirense,Estrela,2.0,2.0,D,2.0,0.0,H,2.05,3.4,3.75,2.06,3.28,4.09,2.03,3.26,3.94,2.4,1.53,2.46,1.54,-0.5,2.06,1.84,Moreirense,Estrela Amadora,moreirense,estrela_amadora
+2024-04-20,P1,Portugal-Liga1,2324,Moreirense,Gil Vicente,0.0,1.0,A,0.0,1.0,A,2.15,3.2,3.6,2.21,3.27,3.64,2.16,3.26,3.48,2.15,1.67,2.19,1.67,-0.25,1.88,2.02,Moreirense,Gil Vicente,moreirense,gil_vicente
+2024-05-03,P1,Portugal-Liga1,2324,Moreirense,Vizela,1.0,0.0,H,1.0,0.0,H,2.15,3.25,3.6,2.16,3.39,3.63,2.13,3.33,3.5,2.05,1.75,2.1,1.73,-0.25,1.86,2.04,Moreirense,Vizela,moreirense,vizela
+2024-05-18,P1,Portugal-Liga1,2324,Moreirense,Estoril,2.0,1.0,H,1.0,0.0,H,2.3,3.3,3.1,2.33,3.18,3.26,2.31,3.31,3.12,1.98,1.88,1.94,1.87,-0.25,2.0,1.9,Moreirense,Estoril,moreirense,estoril
+2024-08-18,P1,Portugal-Liga1,2425,Moreirense,Arouca,3.0,1.0,H,2.0,1.0,H,2.3,3.25,3.1,2.36,3.18,3.22,2.34,3.25,3.1,2.05,1.75,2.06,1.76,-0.25,2.03,1.87,Moreirense,Arouca,moreirense,arouca
+2024-08-30,P1,Portugal-Liga1,2425,Moreirense,Benfica,1.0,1.0,D,0.0,0.0,D,7.0,4.33,1.44,7.32,4.68,1.45,7.19,4.52,1.44,1.85,2.0,1.84,1.96,1.25,1.87,2.03,Moreirense,Benfica,moreirense,benfica
+2024-09-21,P1,Portugal-Liga1,2425,Moreirense,Famalicao,0.0,0.0,D,0.0,0.0,D,2.55,3.0,3.0,2.53,3.11,3.01,2.52,3.1,2.95,2.35,1.57,2.38,1.58,0.0,1.8,2.1,Moreirense,Famalicao,moreirense,famalicao
+2024-10-05,P1,Portugal-Liga1,2425,Moreirense,Santa Clara,1.0,0.0,H,0.0,0.0,D,2.4,3.25,2.88,2.58,3.04,3.01,2.53,3.06,2.98,2.4,1.53,2.46,1.54,0.0,1.79,2.11,Moreirense,Santa Clara,moreirense,santa_clara
+2024-11-08,P1,Portugal-Liga1,2425,Moreirense,Gil Vicente,3.0,2.0,H,0.0,1.0,A,2.3,3.0,3.4,2.39,2.97,3.6,2.34,3.0,3.4,2.5,1.5,2.52,1.52,-0.25,2.0,1.9,Moreirense,Gil Vicente,moreirense,gil_vicente
+2024-12-05,P1,Portugal-Liga1,2425,Moreirense,Sp Lisbon,2.0,1.0,H,2.0,1.0,H,8.5,4.75,1.36,8.72,5.14,1.34,8.44,5.02,1.34,1.73,2.08,1.74,2.07,1.5,1.83,2.07,Moreirense,Sp Lisbon,moreirense,sp_lisbon
+2024-12-21,P1,Portugal-Liga1,2425,Moreirense,Porto,0.0,3.0,A,0.0,1.0,A,7.0,4.1,1.48,6.46,4.26,1.5,6.68,4.18,1.48,2.05,1.75,2.03,1.77,1.0,2.04,1.86,Moreirense,FC Porto,moreirense,fc_porto
+2025-01-04,P1,Portugal-Liga1,2425,Moreirense,AVS,1.0,1.0,D,1.0,1.0,D,1.8,3.4,4.5,1.85,3.31,4.73,1.84,3.31,4.55,2.4,1.53,2.45,1.52,-0.5,1.87,2.03,Moreirense,AVS,moreirense,avs
+2025-01-19,P1,Portugal-Liga1,2425,Moreirense,Farense,0.0,0.0,D,0.0,0.0,D,1.9,3.2,4.33,1.91,3.23,4.55,1.91,3.24,4.27,2.5,1.5,2.51,1.5,-0.5,1.98,1.92,Moreirense,Farense,moreirense,farense
+2025-02-03,P1,Portugal-Liga1,2425,Moreirense,Sp Braga,1.0,2.0,A,1.0,0.0,H,4.2,3.5,1.9,4.08,3.49,1.93,3.95,3.46,1.92,2.05,1.75,2.04,1.76,0.5,1.95,1.95,Moreirense,Sp Braga,moreirense,sp_braga
+2025-02-15,P1,Portugal-Liga1,2425,Moreirense,Casa Pia,3.0,2.0,H,3.0,0.0,H,2.35,3.0,3.3,2.35,3.03,3.4,2.33,3.03,3.33,2.5,1.5,2.54,1.5,-0.25,2.05,1.85,Moreirense,Casa Pia,moreirense,casa_pia
+2025-03-02,P1,Portugal-Liga1,2425,Moreirense,Estrela,1.0,1.0,D,0.0,0.0,D,1.91,3.0,4.75,1.93,3.01,4.94,1.93,3.06,4.63,2.5,1.5,2.47,1.53,-0.5,1.97,1.93,Moreirense,Estrela Amadora,moreirense,estrela_amadora
+2025-03-16,P1,Portugal-Liga1,2425,Moreirense,Boavista,1.0,0.0,H,1.0,0.0,H,1.75,3.3,5.25,1.81,3.37,4.89,1.78,3.38,4.88,2.35,1.57,2.38,1.57,-0.75,2.08,1.82,Moreirense,Boavista,moreirense,boavista
+2025-03-30,P1,Portugal-Liga1,2425,Moreirense,Guimaraes,2.0,2.0,D,1.0,1.0,D,3.6,3.1,2.15,3.63,3.08,2.22,3.54,3.09,2.17,2.5,1.5,2.52,1.5,0.25,1.99,1.91,Moreirense,Vitoria Guimaraes,moreirense,vitoria_guimaraes
+2025-04-13,P1,Portugal-Liga1,2425,Moreirense,Rio Ave,0.0,2.0,A,0.0,0.0,D,1.95,3.25,4.1,1.96,3.13,4.48,1.97,3.23,4.06,2.2,1.65,2.21,1.64,-0.5,2.0,1.9,Moreirense,Rio Ave,moreirense,rio_ave
+2025-04-27,P1,Portugal-Liga1,2425,Moreirense,Nacional,1.0,1.0,D,0.0,0.0,D,2.2,3.1,3.6,2.26,2.95,3.71,2.2,3.03,3.59,2.2,1.65,2.19,1.65,-0.25,1.9,2.0,Moreirense,Nacional,moreirense,nacional
+2025-05-11,P1,Portugal-Liga1,2425,Moreirense,Estoril,2.0,2.0,D,1.0,0.0,H,2.35,3.4,2.9,2.45,3.19,3.05,2.4,3.27,2.94,2.08,1.73,2.06,1.74,-0.25,2.09,1.81,Moreirense,Estoril,moreirense,estoril
+2025-08-10,P1,Portugal-Liga1,2526,Moreirense,Alverca,2.0,1.0,H,1.0,1.0,D,2.1,3.2,3.6,2.13,2.99,4.04,2.05,3.14,3.52,2.2,1.65,2.15,1.63,-0.25,1.8,2.05,Moreirense,Alverca,moreirense,alverca
+2025-08-23,P1,Portugal-Liga1,2526,Moreirense,Guimaraes,2.0,0.0,H,0.0,0.0,D,3.3,3.25,2.2,3.44,3.21,2.23,3.36,3.14,2.17,2.25,1.62,2.24,1.58,0.25,1.93,1.93,Moreirense,Vitoria Guimaraes,moreirense,vitoria_guimaraes
+2025-09-13,P1,Portugal-Liga1,2526,Moreirense,Rio Ave,3.0,1.0,H,0.0,0.0,D,2.5,3.0,3.0,2.58,3.05,3.0,2.45,3.09,2.9,2.25,1.62,2.22,1.6,0.0,1.8,2.05,Moreirense,Rio Ave,moreirense,rio_ave
+2025-09-27,P1,Portugal-Liga1,2526,Moreirense,Casa Pia,2.0,1.0,H,1.0,1.0,D,2.05,3.3,3.6,2.12,3.11,3.89,2.09,3.09,3.61,2.5,1.5,2.45,1.49,-0.25,1.8,2.05,Moreirense,Casa Pia,moreirense,casa_pia
+2025-10-27,P1,Portugal-Liga1,2526,Moreirense,Porto,1.0,2.0,A,1.0,1.0,D,9.5,5.5,1.27,9.42,5.18,1.32,9.13,4.87,1.31,1.83,2.03,1.79,1.93,1.5,1.83,2.03,Moreirense,FC Porto,moreirense,fc_porto
+2025-11-29,P1,Portugal-Liga1,2526,Moreirense,Famalicao,2.0,2.0,D,0.0,1.0,A,3.4,3.25,2.1,3.46,3.33,2.17,3.4,3.24,2.11,2.1,1.7,2.09,1.67,0.25,1.98,1.88,Moreirense,Famalicao,moreirense,famalicao
+2025-12-14,P1,Portugal-Liga1,2526,Moreirense,Benfica,0.0,4.0,A,0.0,1.0,A,9.0,4.33,1.35,8.34,4.93,1.36,8.64,4.62,1.34,1.85,2.0,1.8,1.91,1.25,2.0,1.85,Moreirense,Benfica,moreirense,benfica
+2026-01-11,P1,Portugal-Liga1,2526,Moreirense,Tondela,1.0,0.0,H,0.0,0.0,D,2.01,3.2,3.9,2.11,3.27,3.69,2.09,3.21,3.49,2.1,1.7,2.12,1.64,-0.25,1.73,2.08,Moreirense,Tondela,moreirense,tondela
+2026-01-24,P1,Portugal-Liga1,2526,Moreirense,Santa Clara,1.0,0.0,H,0.0,0.0,D,2.65,3.0,2.75,,,,2.71,2.87,2.76,2.7,1.44,2.65,1.43,0.0,1.88,1.98,Moreirense,Santa Clara,moreirense,santa_clara
+2026-02-07,P1,Portugal-Liga1,2526,Moreirense,Gil Vicente,1.0,2.0,A,0.0,1.0,A,3.4,3.0,2.25,,,,3.29,2.97,2.27,2.5,1.5,2.47,1.49,0.25,1.88,1.98,Moreirense,Gil Vicente,moreirense,gil_vicente
+2026-02-21,P1,Portugal-Liga1,2526,Moreirense,Sp Lisbon,0.0,3.0,A,0.0,0.0,D,11.0,5.0,1.27,,,,9.63,5.21,1.28,1.67,2.15,1.62,2.16,1.5,1.98,1.88,Moreirense,Sp Lisbon,moreirense,sp_lisbon
+2026-03-07,P1,Portugal-Liga1,2526,Moreirense,Nacional,1.0,1.0,D,1.0,0.0,H,2.3,3.25,3.0,,,,2.31,3.19,2.97,2.15,1.67,2.09,1.66,-0.25,2.05,1.8,Moreirense,Nacional,moreirense,nacional
+2026-03-21,P1,Portugal-Liga1,2526,Moreirense,Arouca,0.0,1.0,A,0.0,0.0,D,2.35,3.2,3.0,,,,2.36,3.19,2.92,2.1,1.7,2.09,1.67,-0.25,2.1,1.78,Moreirense,Arouca,moreirense,arouca
+2026-04-04,P1,Portugal-Liga1,2526,Moreirense,Sp Braga,0.0,1.0,A,0.0,1.0,A,6.25,3.9,1.51,,,,5.98,3.85,1.52,1.95,1.85,1.9,1.81,1.0,1.9,1.95,Moreirense,Sp Braga,moreirense,sp_braga
+2026-04-20,P1,Portugal-Liga1,2526,Moreirense,Estoril,1.0,0.0,H,1.0,0.0,H,3.0,3.4,2.25,,,,2.92,3.29,2.27,1.93,1.93,1.88,1.84,0.0,2.15,1.68,Moreirense,Estoril,moreirense,estoril
+2026-05-02,P1,Portugal-Liga1,2526,Moreirense,Estrela,3.0,2.0,H,1.0,2.0,A,2.5,3.1,2.85,,,,2.43,3.15,2.8,2.2,1.65,2.17,1.63,0.0,1.8,2.05,Moreirense,Estrela Amadora,moreirense,estrela_amadora
+2026-05-16,P1,Portugal-Liga1,2526,Moreirense,AVS,0.0,0.0,D,0.0,0.0,D,1.71,3.9,4.1,,,,1.76,3.62,4.16,1.85,2.0,1.82,1.89,-0.75,2.03,1.83,Moreirense,AVS,moreirense,avs
+2026-08-09,P1,Portugal-Liga1,2627,Moreirense,Sp Braga,2.0,2.0,D,1.0,1.0,D,5.0,3.6,1.66,,,,4.68,3.64,1.7,2.0,1.85,1.92,1.8,0.75,1.9,1.95,Moreirense,Sp Braga,moreirense,sp_braga
+2026-09-09,P1,Portugal-Liga1,2627,Moreirense,Benfica,0.0,4.0,A,0.0,1.0,A,12.0,8.0,1.13,,,,13.88,6.98,1.16,1.48,2.6,1.45,2.62,2.0,1.98,1.88,Moreirense,Benfica,moreirense,benfica
+2026-09-14,P1,Portugal-Liga1,2627,Moreirense,Maritimo,3.0,1.0,H,2.0,0.0,H,2.4,3.2,2.85,,,,2.4,3.12,2.88,2.25,1.62,2.21,1.6,0.0,1.7,2.1,Moreirense,Maritimo,moreirense,maritimo
+2026-10-09,P1,Portugal-Liga1,2627,Moreirense,Gil Vicente,0.0,1.0,A,0.0,0.0,D,3.25,3.1,2.25,,,,3.2,3.08,2.29,2.4,1.53,2.33,1.55,0.25,1.85,2.0,Moreirense,Gil Vicente,moreirense,gil_vicente

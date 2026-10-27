@@ -1,0 +1,121 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,E3,England-L2,2122,Bradford,Oldham,2.0,1.0,H,1.0,0.0,H,1.8,3.5,4.75,1.79,3.48,5.1,1.8,3.45,4.69,1.9,2.03,1.83,1.96,-0.75,2.05,1.75,Bradford City,Oldham,bradford_city,oldham
+2021-08-17,E3,England-L2,2122,Bradford,Stevenage,4.0,1.0,H,3.0,1.0,H,2.25,3.0,3.75,2.3,3.1,3.62,2.25,3.02,3.45,2.35,1.57,2.36,1.57,-0.25,1.95,1.9,Bradford City,Stevenage,bradford_city,stevenage
+2021-09-04,E3,England-L2,2122,Bradford,Walsall,1.0,1.0,D,1.0,1.0,D,1.66,3.5,5.75,1.72,3.64,5.39,1.71,3.55,5.11,2.15,1.66,2.15,1.68,-0.75,1.93,1.93,Bradford City,Walsall,bradford_city,walsall
+2021-09-18,E3,England-L2,2122,Bradford,Barrow,1.0,1.0,D,0.0,1.0,A,1.95,3.5,4.0,1.95,3.48,4.05,1.95,3.43,3.86,2.07,1.86,2.02,1.78,-0.5,1.98,1.95,Bradford City,Barrow,bradford_city,barrow
+2021-10-02,E3,England-L2,2122,Bradford,Rochdale,2.0,0.0,H,1.0,0.0,H,2.15,3.5,3.3,2.13,3.51,3.45,2.1,3.48,3.32,1.85,1.95,1.86,1.92,-0.25,1.85,2.0,Bradford City,Rochdale,bradford_city,rochdale
+2021-10-16,E3,England-L2,2122,Bradford,Bristol Rvs,2.0,2.0,D,1.0,0.0,H,1.85,3.6,4.33,1.87,3.66,4.18,1.87,3.57,4.0,1.85,1.95,1.85,1.93,-0.5,1.88,1.98,Bradford City,Bristol Rvs,bradford_city,bristol_rvs
+2021-10-19,E3,England-L2,2122,Bradford,Hartlepool,1.0,3.0,A,0.0,1.0,A,1.9,3.6,4.0,1.97,3.55,4.07,1.93,3.49,3.87,2.0,1.8,1.98,1.81,-0.5,1.95,1.9,Bradford City,Hartlepool United,bradford_city,hartlepool_united
+2021-10-30,E3,England-L2,2122,Bradford,Forest Green,1.0,1.0,D,1.0,0.0,H,2.62,3.25,2.75,2.7,3.23,2.74,2.62,3.25,2.66,2.05,1.75,2.03,1.76,0.0,1.9,1.95,Bradford City,Forest Green Rovers,bradford_city,forest_green_rovers
+2021-11-20,E3,England-L2,2122,Bradford,Northampton,1.0,1.0,D,0.0,0.0,D,2.2,3.25,3.5,2.2,3.23,3.56,2.16,3.25,3.42,2.1,1.7,2.11,1.7,-0.25,1.88,1.98,Bradford City,Northampton Town,bradford_city,northampton_town
+2021-12-08,E3,England-L2,2122,Bradford,Colchester,0.0,0.0,D,0.0,0.0,D,1.66,3.8,5.25,1.72,3.72,5.02,1.69,3.67,4.93,2.15,1.66,2.07,1.73,-0.75,1.93,1.93,Bradford City,Colchester United,bradford_city,colchester_united
+2021-12-11,E3,England-L2,2122,Bradford,Sutton,2.0,2.0,D,1.0,1.0,D,2.25,3.3,3.3,2.13,3.39,3.57,2.13,3.33,3.37,2.05,1.75,2.0,1.78,-0.25,1.88,1.98,Bradford City,Sutton United,bradford_city,sutton_united
+2022-01-15,E3,England-L2,2122,Bradford,Salford,2.0,1.0,H,0.0,1.0,A,2.1,3.3,3.6,2.22,3.33,3.4,2.16,3.27,3.35,2.15,1.66,2.13,1.68,-0.25,1.85,2.0,Bradford City,Salford City,bradford_city,salford_city
+2022-01-29,E3,England-L2,2122,Bradford,Crawley Town,1.0,2.0,A,1.0,0.0,H,1.8,3.5,5.0,1.76,3.76,4.69,1.76,3.63,4.47,2.02,1.83,1.96,1.81,-0.75,2.02,1.83,Bradford City,Crawley Town,bradford_city,crawley_town
+2022-02-01,E3,England-L2,2122,Bradford,Leyton Orient,1.0,1.0,D,0.0,0.0,D,2.25,3.3,3.25,2.36,3.25,3.31,2.33,3.2,3.11,2.1,1.7,2.1,1.7,-0.25,2.0,1.85,Bradford City,Leyton Orient,bradford_city,leyton_orient
+2022-02-12,E3,England-L2,2122,Bradford,Exeter,0.0,1.0,A,0.0,1.0,A,2.5,3.25,2.87,2.62,3.34,2.75,2.53,3.27,2.72,2.1,1.7,2.1,1.7,0.0,1.8,2.05,Bradford City,Exeter City,bradford_city,exeter_city
+2022-02-22,E3,England-L2,2122,Bradford,Harrogate,1.0,3.0,A,1.0,1.0,D,2.2,3.3,3.4,2.31,3.23,3.44,2.24,3.21,3.27,1.95,1.9,2.02,1.76,-0.25,1.85,2.0,Bradford City,Harrogate Town,bradford_city,harrogate_town
+2022-02-26,E3,England-L2,2122,Bradford,Mansfield,0.0,2.0,A,0.0,1.0,A,2.6,3.25,2.75,2.57,3.33,2.82,2.51,3.22,2.8,2.1,1.7,2.1,1.69,0.0,1.8,2.05,Bradford City,Mansfield Town,bradford_city,mansfield_town
+2022-03-05,E3,England-L2,2122,Bradford,Swindon,1.0,2.0,A,1.0,1.0,D,2.55,3.3,2.8,2.54,3.37,2.84,2.49,3.34,2.75,1.98,1.88,1.9,1.86,0.0,1.75,2.05,Bradford City,Swindon Town,bradford_city,swindon_town
+2022-03-19,E3,England-L2,2122,Bradford,Port Vale,1.0,2.0,A,0.0,0.0,D,2.5,3.3,2.87,2.69,3.14,2.82,2.58,3.13,2.78,2.2,1.65,2.23,1.62,0.0,1.85,2.0,Bradford City,Port Vale,bradford_city,port_vale
+2022-03-26,E3,England-L2,2122,Bradford,Newport County,0.0,0.0,D,0.0,0.0,D,2.75,3.25,2.62,2.87,3.17,2.63,2.79,3.17,2.55,2.13,1.75,2.09,1.7,0.0,2.0,1.85,Bradford City,Newport County,bradford_city,newport_county
+2022-04-15,E3,England-L2,2122,Bradford,Tranmere,1.0,1.0,D,1.0,0.0,H,2.62,3.1,2.9,2.74,3.1,2.9,2.59,3.08,2.81,2.25,1.61,2.28,1.6,0.0,1.88,1.98,Bradford City,Tranmere Rovers,bradford_city,tranmere_rovers
+2022-04-23,E3,England-L2,2122,Bradford,Scunthorpe,2.0,1.0,H,2.0,1.0,H,1.44,4.33,8.0,1.41,4.63,7.86,1.43,4.35,7.23,1.93,1.93,1.88,1.88,-1.25,2.02,1.77,Bradford City,Scunthorpe United,bradford_city,scunthorpe_united
+2022-05-07,E3,England-L2,2122,Bradford,Carlisle,2.0,0.0,H,1.0,0.0,H,1.95,3.6,3.8,1.88,3.86,3.9,1.92,3.64,3.71,1.72,2.07,1.72,2.08,-0.5,1.93,1.93,Bradford City,Carlisle United,bradford_city,carlisle_united
+2022-07-30,E3,England-L2,2223,Bradford,Doncaster,0.0,0.0,D,0.0,0.0,D,1.85,3.6,4.2,1.89,3.8,4.1,1.85,3.61,3.98,1.9,1.95,1.86,1.88,-0.5,1.88,1.98,Bradford City,Doncaster Rovers,bradford_city,doncaster_rovers
+2022-08-13,E3,England-L2,2223,Bradford,Newport County,2.0,0.0,H,1.0,0.0,H,2.3,3.3,3.2,2.3,3.46,3.23,2.31,3.29,3.04,2.2,1.7,2.06,1.73,-0.25,2.02,1.83,Bradford City,Newport County,bradford_city,newport_county
+2022-08-27,E3,England-L2,2223,Bradford,Crewe,0.0,0.0,D,0.0,0.0,D,1.8,3.5,4.75,1.81,3.74,4.64,1.81,3.57,4.3,1.98,1.88,1.95,1.82,-0.5,1.83,2.02,Bradford City,Crewe Alexandra,bradford_city,crewe_alexandra
+2022-09-03,E3,England-L2,2223,Bradford,Walsall,2.0,1.0,H,2.0,0.0,H,1.95,3.4,4.0,2.03,3.44,3.99,2.0,3.31,3.76,2.15,1.66,2.17,1.64,-0.5,1.98,1.88,Bradford City,Walsall,bradford_city,walsall
+2022-09-17,E3,England-L2,2223,Bradford,Stevenage,3.0,0.0,H,1.0,0.0,H,2.5,3.25,2.87,2.6,3.23,2.95,2.46,3.17,2.89,2.25,1.61,2.22,1.62,0.0,1.68,2.15,Bradford City,Stevenage,bradford_city,stevenage
+2022-09-24,E3,England-L2,2223,Bradford,AFC Wimbledon,2.0,2.0,D,1.0,0.0,H,1.83,3.6,4.33,1.88,3.66,4.36,1.81,3.57,4.2,2.05,1.8,1.99,1.77,-0.5,1.83,2.02,Bradford City,AFC Wimbledon,bradford_city,afc_wimbledon
+2022-10-08,E3,England-L2,2223,Bradford,Stockport,0.0,1.0,A,0.0,1.0,A,2.4,3.4,2.9,2.42,3.43,3.04,2.42,3.26,2.88,2.1,1.7,2.05,1.73,-0.25,2.13,1.75,Bradford City,Stockport County,bradford_city,stockport_county
+2022-10-25,E3,England-L2,2223,Bradford,Swindon,1.0,1.0,D,1.0,0.0,H,2.4,3.4,2.87,2.44,3.52,2.94,2.33,3.38,2.94,1.95,1.9,1.92,1.85,-0.25,2.1,1.77,Bradford City,Swindon Town,bradford_city,swindon_town
+2022-10-29,E3,England-L2,2223,Bradford,Crawley Town,1.0,1.0,D,0.0,0.0,D,1.8,3.75,4.5,1.81,3.93,4.39,1.78,3.67,4.18,1.85,2.0,1.82,1.93,-0.75,2.02,1.83,Bradford City,Crawley Town,bradford_city,crawley_town
+2022-11-19,E3,England-L2,2223,Bradford,Northampton,1.0,3.0,A,0.0,2.0,A,2.2,3.3,3.4,2.2,3.47,3.44,2.16,3.29,3.28,2.15,1.66,2.15,1.66,-0.25,1.85,2.0,Bradford City,Northampton Town,bradford_city,northampton_town
+2022-12-29,E3,England-L2,2223,Bradford,Harrogate,1.0,0.0,H,1.0,0.0,H,1.8,3.6,4.5,1.77,3.86,4.73,1.78,3.65,4.35,1.88,1.98,1.84,1.91,-0.75,2.02,1.83,Bradford City,Harrogate Town,bradford_city,harrogate_town
+2023-01-01,E3,England-L2,2223,Bradford,Salford,3.0,2.0,H,2.0,1.0,H,2.0,3.5,3.75,2.05,3.41,3.93,2.0,3.37,3.67,2.08,1.73,2.07,1.71,-0.5,2.0,1.85,Bradford City,Salford City,bradford_city,salford_city
+2023-01-10,E3,England-L2,2223,Bradford,Rochdale,1.0,2.0,A,1.0,0.0,H,1.8,3.75,4.33,1.81,3.72,4.64,1.81,3.58,4.31,2.02,1.83,1.98,1.8,-0.5,1.77,2.02,Bradford City,Rochdale,bradford_city,rochdale
+2023-02-04,E3,England-L2,2223,Bradford,Mansfield,1.0,1.0,D,1.0,0.0,H,2.63,3.3,2.7,2.66,3.32,2.81,2.58,3.22,2.71,2.1,1.7,2.09,1.7,0.0,1.88,1.98,Bradford City,Mansfield Town,bradford_city,mansfield_town
+2023-02-14,E3,England-L2,2223,Bradford,Tranmere,2.0,0.0,H,1.0,0.0,H,2.38,3.2,3.2,2.56,3.17,3.06,2.4,3.15,3.0,2.15,1.67,2.16,1.66,-0.25,2.05,1.8,Bradford City,Tranmere Rovers,bradford_city,tranmere_rovers
+2023-02-18,E3,England-L2,2223,Bradford,Barrow,0.0,1.0,A,0.0,1.0,A,2.0,3.4,3.8,2.02,3.41,4.07,2.01,3.3,3.75,2.2,1.65,2.22,1.62,-0.5,2.0,1.85,Bradford City,Barrow,bradford_city,barrow
+2023-03-04,E3,England-L2,2223,Bradford,Colchester,2.0,0.0,H,0.0,0.0,D,1.8,3.3,5.0,1.85,3.54,4.71,1.83,3.38,4.41,2.15,1.67,2.14,1.67,-0.5,1.83,2.02,Bradford City,Colchester United,bradford_city,colchester_united
+2023-03-18,E3,England-L2,2223,Bradford,Hartlepool,2.0,2.0,D,0.0,1.0,A,1.6,3.8,6.0,1.6,4.02,5.79,1.57,3.93,5.64,2.0,1.85,1.97,1.79,-1.0,2.05,1.8,Bradford City,Hartlepool United,bradford_city,hartlepool_united
+2023-03-21,E3,England-L2,2223,Bradford,Carlisle,0.0,0.0,D,0.0,0.0,D,2.38,3.1,3.2,2.4,3.16,3.33,2.35,3.09,3.15,2.25,1.62,2.27,1.6,-0.25,2.0,1.85,Bradford City,Carlisle United,bradford_city,carlisle_united
+2023-04-01,E3,England-L2,2223,Bradford,Grimsby,3.0,2.0,H,1.0,2.0,A,1.91,3.4,4.33,1.89,3.61,4.34,1.89,3.42,4.1,2.1,1.7,2.13,1.67,-0.5,1.88,1.98,Bradford City,Grimsby Town,bradford_city,grimsby_town
+2023-04-10,E3,England-L2,2223,Bradford,Sutton,3.0,1.0,H,1.0,0.0,H,2.25,3.25,3.4,2.26,3.17,3.55,2.2,3.15,3.41,2.25,1.62,2.26,1.6,-0.25,1.88,1.98,Bradford City,Sutton United,bradford_city,sutton_united
+2023-04-22,E3,England-L2,2223,Bradford,Gillingham,2.0,2.0,D,0.0,1.0,A,1.7,3.3,6.5,1.75,3.36,6.05,1.72,3.34,5.47,2.4,1.53,2.42,1.53,-0.75,1.93,1.93,Bradford City,Gillingham,bradford_city,gillingham
+2023-05-08,E3,England-L2,2223,Bradford,Leyton Orient,1.0,1.0,D,1.0,1.0,D,1.91,3.5,4.2,1.98,3.5,3.77,1.93,3.48,3.83,2.1,1.77,2.0,1.76,-0.5,1.93,1.93,Bradford City,Leyton Orient,bradford_city,leyton_orient
+2023-08-12,E3,England-L2,2324,Bradford,Colchester,2.0,1.0,H,1.0,1.0,D,1.91,3.4,4.2,1.92,3.57,4.15,1.88,3.45,4.03,2.08,1.73,2.06,1.71,-0.5,1.9,1.95,Bradford City,Colchester United,bradford_city,colchester_united
+2023-08-26,E3,England-L2,2324,Bradford,Crewe,1.0,0.0,H,1.0,0.0,H,1.6,4.0,5.25,1.65,4.24,5.13,1.61,4.07,5.05,1.8,2.05,1.76,2.02,-1.0,2.03,1.78,Bradford City,Crewe Alexandra,bradford_city,crewe_alexandra
+2023-09-09,E3,England-L2,2324,Bradford,Grimsby,1.0,1.0,D,0.0,1.0,A,1.95,3.5,3.8,2.06,3.45,3.87,2.0,3.41,3.65,2.0,1.85,1.97,1.79,-0.5,1.98,1.88,Bradford City,Grimsby Town,bradford_city,grimsby_town
+2023-09-16,E3,England-L2,2324,Bradford,Harrogate,1.0,1.0,D,0.0,0.0,D,1.73,3.75,4.75,1.76,3.74,4.95,1.74,3.62,4.62,2.0,1.85,1.97,1.79,-0.75,2.0,1.85,Bradford City,Harrogate Town,bradford_city,harrogate_town
+2023-09-30,E3,England-L2,2324,Bradford,Walsall,1.0,3.0,A,1.0,2.0,A,1.83,3.4,4.5,1.82,3.65,4.53,1.83,3.51,4.22,2.05,1.75,2.0,1.76,-0.5,1.83,2.03,Bradford City,Walsall,bradford_city,walsall
+2023-10-07,E3,England-L2,2324,Bradford,Swindon,1.0,0.0,H,0.0,0.0,D,2.38,3.4,3.0,2.42,3.73,2.84,2.32,3.51,2.82,1.75,2.05,1.71,2.06,-0.25,2.05,1.8,Bradford City,Swindon Town,bradford_city,swindon_town
+2023-10-21,E3,England-L2,2324,Bradford,Wrexham,1.0,1.0,D,0.0,0.0,D,2.88,3.5,2.38,3.05,3.57,2.35,2.84,3.39,2.34,1.83,2.03,1.76,1.99,0.25,1.7,2.1,Bradford City,Wrexham,bradford_city,wrexham
+2023-11-11,E3,England-L2,2324,Bradford,Barrow,1.0,2.0,A,1.0,1.0,D,2.25,3.25,3.3,2.32,3.07,3.61,2.21,3.12,3.41,2.25,1.62,2.22,1.62,-0.25,1.93,1.93,Bradford City,Barrow,bradford_city,barrow
+2023-11-25,E3,England-L2,2324,Bradford,Accrington,1.0,0.0,H,0.0,0.0,D,2.15,3.5,3.25,2.18,3.58,3.39,2.11,3.51,3.25,1.8,2.0,1.79,1.97,-0.25,1.85,2.0,Bradford City,Accrington Stanley,bradford_city,accrington_stanley
+2023-12-26,E3,England-L2,2324,Bradford,Morecambe,2.0,2.0,D,0.0,2.0,A,1.75,3.75,4.75,1.7,3.88,5.25,1.7,3.72,4.76,1.98,1.88,1.91,1.84,-0.75,1.93,1.93,Bradford City,Morecambe,bradford_city,morecambe
+2023-12-29,E3,England-L2,2324,Bradford,Stockport,0.0,0.0,D,0.0,0.0,D,3.25,3.3,2.25,3.29,3.34,2.32,3.15,3.25,2.27,2.15,1.67,2.15,1.66,0.25,1.9,1.95,Bradford City,Stockport County,bradford_city,stockport_county
+2024-01-06,E3,England-L2,2324,Bradford,Crawley Town,2.0,4.0,A,0.0,1.0,A,1.73,4.0,4.5,1.74,3.94,4.82,1.72,3.81,4.5,1.85,2.0,1.8,1.96,-0.75,1.93,1.93,Bradford City,Crawley Town,bradford_city,crawley_town
+2024-01-23,E3,England-L2,2324,Bradford,Salford,1.0,1.0,D,1.0,1.0,D,1.67,3.8,5.25,1.7,3.99,5.04,1.63,3.91,4.94,1.83,2.03,1.77,1.97,-0.75,1.85,2.0,Bradford City,Salford City,bradford_city,salford_city
+2024-02-03,E3,England-L2,2324,Bradford,AFC Wimbledon,0.0,0.0,D,0.0,0.0,D,2.38,3.5,2.88,2.51,3.33,2.99,2.38,3.3,2.89,2.08,1.73,2.06,1.72,-0.25,2.1,1.78,Bradford City,AFC Wimbledon,bradford_city,afc_wimbledon
+2024-02-13,E3,England-L2,2324,Bradford,Milton Keynes Dons,4.0,0.0,H,2.0,0.0,H,2.25,3.6,3.0,2.35,3.45,3.16,2.27,3.36,3.02,2.0,1.85,1.96,1.8,-0.25,2.03,1.83,Bradford City,MK Dons,bradford_city,mk_dons
+2024-02-17,E3,England-L2,2324,Bradford,Sutton,1.0,0.0,H,0.0,0.0,D,1.62,4.0,5.5,1.68,3.91,5.48,1.63,3.81,5.2,2.03,1.83,1.97,1.79,-0.75,1.83,2.03,Bradford City,Sutton United,bradford_city,sutton_united
+2024-03-05,E3,England-L2,2324,Bradford,Doncaster,1.0,1.0,D,0.0,1.0,A,1.85,3.5,4.2,1.86,3.72,4.37,1.85,3.52,4.14,2.03,1.83,1.97,1.8,-0.5,1.88,1.98,Bradford City,Doncaster Rovers,bradford_city,doncaster_rovers
+2024-03-12,E3,England-L2,2324,Bradford,Forest Green,0.0,2.0,A,0.0,1.0,A,1.55,4.0,7.0,1.56,4.1,6.61,1.53,3.97,6.3,2.05,1.75,2.01,1.77,-1.0,1.95,1.9,Bradford City,Forest Green Rovers,bradford_city,forest_green_rovers
+2024-03-16,E3,England-L2,2324,Bradford,Mansfield,1.0,5.0,A,0.0,4.0,A,3.1,3.25,2.38,3.22,3.21,2.43,3.05,3.23,2.34,2.0,1.85,1.93,1.83,0.25,1.83,2.03,Bradford City,Mansfield Town,bradford_city,mansfield_town
+2024-03-19,E3,England-L2,2324,Bradford,Notts County,0.0,3.0,A,0.0,1.0,A,1.85,3.75,4.0,1.9,3.8,4.05,1.89,3.68,3.79,1.65,2.2,1.63,2.23,-0.5,1.88,1.98,Bradford City,Notts County,bradford_city,notts_county
+2024-03-29,E3,England-L2,2324,Bradford,Tranmere,2.0,0.0,H,0.0,0.0,D,2.1,3.6,3.3,2.14,3.61,3.39,2.1,3.49,3.31,1.93,1.93,1.88,1.88,-0.25,1.85,2.0,Bradford City,Tranmere Rovers,bradford_city,tranmere_rovers
+2024-04-06,E3,England-L2,2324,Bradford,Gillingham,1.0,0.0,H,1.0,0.0,H,2.25,3.25,3.3,2.32,3.27,3.32,2.26,3.22,3.22,2.25,1.62,2.25,1.61,-0.25,1.98,1.88,Bradford City,Gillingham,bradford_city,gillingham
+2024-04-27,E3,England-L2,2324,Bradford,Newport County,4.0,1.0,H,2.0,0.0,H,1.3,5.0,10.0,1.32,5.64,9.26,1.3,5.36,9.18,1.6,2.3,1.59,2.28,-1.5,1.88,1.98,Bradford City,Newport County,bradford_city,newport_county
+2024-08-17,E3,England-L2,2425,Bradford,Salford,0.0,0.0,D,0.0,0.0,D,1.73,3.8,4.5,1.7,3.96,4.52,1.72,3.87,4.41,1.67,2.15,1.67,2.13,-0.75,1.93,1.93,Bradford City,Salford City,bradford_city,salford_city
+2024-08-24,E3,England-L2,2425,Bradford,Bromley,3.0,1.0,H,2.0,0.0,H,1.7,3.6,4.75,1.71,3.98,4.44,1.7,3.86,4.53,1.8,2.0,1.78,1.99,-0.75,1.93,1.93,Bradford City,Bromley,bradford_city,bromley
+2024-09-07,E3,England-L2,2425,Bradford,Carlisle,2.0,1.0,H,1.0,0.0,H,1.73,3.75,4.33,1.7,3.77,4.61,1.72,3.73,4.54,1.88,1.98,1.83,1.92,-0.75,1.98,1.88,Bradford City,Carlisle United,bradford_city,carlisle_united
+2024-09-21,E3,England-L2,2425,Bradford,AFC Wimbledon,0.0,0.0,D,0.0,0.0,D,2.45,3.3,2.8,2.45,3.36,2.81,2.42,3.31,2.81,2.05,1.8,2.03,1.75,0.0,1.8,2.05,Bradford City,AFC Wimbledon,bradford_city,afc_wimbledon
+2024-10-07,E3,England-L2,2425,Bradford,Newport County,3.0,1.0,H,1.0,0.0,H,1.48,4.33,6.0,1.45,4.45,6.47,1.45,4.4,6.52,1.73,2.08,1.72,2.07,-1.25,2.05,1.75,Bradford City,Newport County,bradford_city,newport_county
+2024-10-19,E3,England-L2,2425,Bradford,Gillingham,2.0,1.0,H,2.0,1.0,H,2.1,3.2,3.6,2.23,2.84,3.8,2.15,3.1,3.59,2.08,1.73,2.08,1.71,-0.25,1.83,2.03,Bradford City,Gillingham,bradford_city,gillingham
+2024-10-26,E3,England-L2,2425,Bradford,Doncaster,1.0,2.0,A,0.0,0.0,D,2.5,3.25,2.65,2.56,3.36,2.67,2.48,3.37,2.7,1.9,1.95,1.85,1.91,0.0,1.85,2.0,Bradford City,Doncaster Rovers,bradford_city,doncaster_rovers
+2024-12-03,E3,England-L2,2425,Bradford,Barrow,1.0,1.0,D,0.0,0.0,D,2.0,3.25,3.75,2.08,3.27,3.81,2.06,3.3,3.6,2.15,1.67,2.14,1.67,-0.5,2.05,1.8,Bradford City,Barrow,bradford_city,barrow
+2024-12-14,E3,England-L2,2425,Bradford,Swindon,1.0,0.0,H,1.0,0.0,H,1.67,3.8,4.75,1.63,3.95,4.95,1.64,3.88,4.85,1.83,2.03,1.81,1.97,-0.75,1.85,2.0,Bradford City,Swindon Town,bradford_city,swindon_town
+2024-12-26,E3,England-L2,2425,Bradford,Port Vale,2.0,1.0,H,1.0,0.0,H,2.1,3.4,3.3,2.18,3.24,3.41,2.11,3.3,3.36,2.1,1.7,2.11,1.68,-0.25,1.85,2.0,Bradford City,Port Vale,bradford_city,port_vale
+2024-12-29,E3,England-L2,2425,Bradford,Chesterfield,2.0,1.0,H,1.0,1.0,D,2.2,3.4,2.9,2.2,3.41,3.18,2.24,3.38,3.01,1.93,1.93,1.86,1.89,-0.25,1.98,1.88,Bradford City,Chesterfield,bradford_city,chesterfield
+2025-01-04,E3,England-L2,2425,Bradford,Grimsby,3.0,1.0,H,1.0,0.0,H,1.85,3.4,4.33,1.85,3.52,4.32,1.85,3.47,4.15,2.0,1.85,1.95,1.81,-0.5,1.85,2.0,Bradford City,Grimsby Town,bradford_city,grimsby_town
+2025-01-25,E3,England-L2,2425,Bradford,Walsall,3.0,0.0,H,2.0,0.0,H,2.63,3.2,2.63,2.69,3.24,2.63,2.67,3.23,2.58,2.1,1.7,2.06,1.72,0.0,1.95,1.9,Bradford City,Walsall,bradford_city,walsall
+2025-01-28,E3,England-L2,2425,Bradford,Morecambe,1.0,0.0,H,1.0,0.0,H,1.48,4.2,6.25,1.5,4.22,6.79,1.48,4.2,6.65,1.98,1.88,1.91,1.88,-1.0,1.85,2.0,Bradford City,Morecambe,bradford_city,morecambe
+2025-02-08,E3,England-L2,2425,Bradford,Harrogate,1.0,0.0,H,1.0,0.0,H,1.6,3.9,5.0,1.6,3.8,5.55,1.61,3.77,5.33,2.08,1.73,2.05,1.73,-0.75,1.8,2.05,Bradford City,Harrogate Town,bradford_city,harrogate_town
+2025-02-11,E3,England-L2,2425,Bradford,Accrington,1.0,0.0,H,1.0,0.0,H,1.65,3.6,5.5,1.64,3.86,5.53,1.63,3.71,5.3,2.03,1.83,2.0,1.78,-0.75,1.85,2.0,Bradford City,Accrington Stanley,bradford_city,accrington_stanley
+2025-02-22,E3,England-L2,2425,Bradford,Milton Keynes Dons,2.0,0.0,H,1.0,0.0,H,1.75,3.7,4.33,1.76,3.67,4.44,1.75,3.65,4.36,1.93,1.93,1.89,1.87,-0.75,2.03,1.83,Bradford City,MK Dons,bradford_city,mk_dons
+2025-03-04,E3,England-L2,2425,Bradford,Cheltenham,3.0,0.0,H,1.0,0.0,H,1.62,3.6,5.75,1.64,3.83,5.5,1.64,3.71,5.19,2.05,1.75,2.02,1.76,-1.0,2.1,1.7,Bradford City,Cheltenham Town,bradford_city,cheltenham_town
+2025-03-15,E3,England-L2,2425,Bradford,Tranmere,0.0,1.0,A,0.0,0.0,D,1.57,3.9,6.0,1.6,3.57,6.16,1.6,3.65,5.69,2.1,1.7,2.07,1.71,-1.0,2.05,1.8,Bradford City,Tranmere Rovers,bradford_city,tranmere_rovers
+2025-03-22,E3,England-L2,2425,Bradford,Colchester,4.0,1.0,H,2.0,1.0,H,2.1,3.1,3.6,2.15,2.97,3.8,2.12,3.01,3.71,2.7,1.44,2.7,1.42,-0.25,1.83,2.03,Bradford City,Colchester United,bradford_city,colchester_united
+2025-04-05,E3,England-L2,2425,Bradford,Crewe,2.0,0.0,H,1.0,0.0,H,1.7,3.4,5.5,1.71,3.37,5.29,1.71,3.43,5.03,2.3,1.6,2.28,1.59,-0.75,1.95,1.9,Bradford City,Crewe Alexandra,bradford_city,crewe_alexandra
+2025-04-17,E3,England-L2,2425,Bradford,Notts County,1.0,1.0,D,0.0,0.0,D,2.15,3.2,3.3,2.19,3.23,3.53,2.18,3.23,3.34,2.03,1.83,2.01,1.78,-0.25,1.88,1.98,Bradford City,Notts County,bradford_city,notts_county
+2025-05-03,E3,England-L2,2425,Bradford,Fleetwood Town,1.0,0.0,H,0.0,0.0,D,1.42,4.0,7.5,1.43,4.21,6.97,1.44,4.22,7.0,1.93,1.93,1.87,1.89,-1.25,2.1,1.78,Bradford City,Fleetwood Town,bradford_city,fleetwood_town
+2025-08-02,E2,England-L1,2526,Bradford,Wycombe,2.0,1.0,H,2.0,0.0,H,2.45,3.25,2.8,2.5,3.33,2.82,2.46,3.28,2.79,2.15,1.67,2.12,1.67,0.0,1.8,2.05,Bradford City,Wycombe Wanderers,bradford_city,wycombe_wanderers
+2025-08-16,E2,England-L1,2526,Bradford,Luton,2.0,1.0,H,1.0,0.0,H,3.3,3.3,2.15,3.47,3.29,2.15,3.34,3.34,2.12,2.1,1.7,2.06,1.7,0.25,2.0,1.85,Bradford City,Luton,bradford_city,luton
+2025-08-30,E2,England-L1,2526,Bradford,AFC Wimbledon,3.0,2.0,H,1.0,1.0,D,1.68,3.6,4.75,1.78,3.49,4.76,1.74,3.55,4.66,2.15,1.67,2.09,1.67,-0.75,2.0,1.85,Bradford City,AFC Wimbledon,bradford_city,afc_wimbledon
+2025-09-13,E2,England-L1,2526,Bradford,Huddersfield,3.0,1.0,H,3.0,0.0,H,2.5,3.4,2.65,2.6,3.4,2.66,2.51,3.33,2.7,2.05,1.75,1.98,1.77,0.0,1.85,2.0,Bradford City,Huddersfield,bradford_city,huddersfield
+2025-09-27,E2,England-L1,2526,Bradford,Blackpool,1.0,0.0,H,0.0,0.0,D,1.91,3.4,3.7,1.98,3.63,3.61,1.94,3.55,3.68,1.93,1.93,1.83,1.9,-0.5,1.98,1.88,Bradford City,Blackpool,bradford_city,blackpool
+2025-10-18,E2,England-L1,2526,Bradford,Barnsley,2.0,2.0,D,2.0,1.0,H,2.01,3.6,3.2,2.06,3.69,3.33,2.05,3.66,3.24,1.62,2.25,1.6,2.24,-0.25,1.8,2.05,Bradford City,Barnsley,bradford_city,barnsley
+2025-10-28,E2,England-L1,2526,Bradford,Lincoln,0.0,0.0,D,0.0,0.0,D,2.1,3.3,3.4,2.35,3.32,3.04,2.15,3.36,3.28,2.05,1.75,1.96,1.78,-0.25,1.88,1.98,Bradford City,Lincoln City,bradford_city,lincoln_city
+2025-11-08,E2,England-L1,2526,Bradford,Burton,1.0,2.0,A,0.0,2.0,A,1.62,3.7,4.75,,,,1.67,3.83,4.74,1.85,2.0,1.79,1.96,-0.75,1.9,1.95,Bradford City,Burton Albion,bradford_city,burton_albion
+2025-11-29,E2,England-L1,2526,Bradford,Exeter,1.0,0.0,H,1.0,0.0,H,1.62,3.7,5.0,,,,1.69,3.74,4.74,1.85,1.95,1.83,1.89,-0.75,1.93,1.93,Bradford City,Exeter City,bradford_city,exeter_city
+2025-12-13,E2,England-L1,2526,Bradford,Reading,2.0,0.0,H,0.0,0.0,D,1.91,3.6,3.6,,,,1.93,3.58,3.67,1.8,2.0,1.78,1.95,-0.5,1.98,1.88,Bradford City,Reading,bradford_city,reading
+2025-12-26,E2,England-L1,2526,Bradford,Wigan,2.0,1.0,H,1.0,0.0,H,1.86,3.4,3.75,,,,1.94,3.36,3.81,2.1,1.7,2.08,1.68,-0.5,1.98,1.88,Bradford City,Wigan Athletic,bradford_city,wigan_athletic
+2025-12-29,E2,England-L1,2526,Bradford,Port Vale,1.0,0.0,H,0.0,0.0,D,1.68,3.7,4.5,,,,1.75,3.59,4.56,1.95,1.85,1.93,1.79,-0.75,1.98,1.88,Bradford City,Port Vale,bradford_city,port_vale
+2026-01-17,E2,England-L1,2526,Bradford,Cardiff,1.0,2.0,A,0.0,2.0,A,2.75,3.6,2.2,,,,2.82,3.53,2.31,1.75,2.05,1.75,1.98,0.25,1.8,2.05,Bradford City,Cardiff City,bradford_city,cardiff_city
+2026-01-31,E2,England-L1,2526,Bradford,Doncaster,1.0,0.0,H,0.0,0.0,D,2.3,3.3,2.85,,,,2.35,3.31,2.92,1.9,1.95,1.86,1.87,-0.25,2.03,1.83,Bradford City,Doncaster Rovers,bradford_city,doncaster_rovers
+2026-02-14,E2,England-L1,2526,Bradford,Peterboro,2.0,0.0,H,1.0,0.0,H,1.91,3.5,3.4,,,,2.0,3.53,3.41,1.8,2.0,1.74,1.99,-0.5,2.0,1.85,Bradford City,Peterborough United,bradford_city,peterborough_united
+2026-02-17,E2,England-L1,2526,Bradford,Stockport,1.0,0.0,H,0.0,0.0,D,2.57,3.3,2.55,,,,2.59,3.35,2.59,2.05,1.75,1.92,1.8,0.0,1.95,1.9,Bradford City,Stockport County,bradford_city,stockport_county
+2026-02-24,E2,England-L1,2526,Bradford,Rotherham,1.0,0.0,H,1.0,0.0,H,1.68,3.4,5.25,,,,1.7,3.48,5.05,2.15,1.67,2.08,1.69,-0.75,1.98,1.88,Bradford City,Rotherham United,bradford_city,rotherham_united
+2026-03-07,E2,England-L1,2526,Bradford,Leyton Orient,2.0,1.0,H,1.0,1.0,D,1.76,3.4,4.5,,,,1.81,3.44,4.29,2.1,1.7,2.05,1.71,-0.5,1.8,2.05,Bradford City,Leyton Orient,bradford_city,leyton_orient
+2026-03-17,E2,England-L1,2526,Bradford,Mansfield,1.0,1.0,D,0.0,1.0,A,1.86,3.5,3.9,,,,1.89,3.47,3.87,2.03,1.83,1.93,1.8,-0.5,1.93,1.93,Bradford City,Mansfield Town,bradford_city,mansfield_town
+2026-04-03,E2,England-L1,2526,Bradford,Northampton,1.0,0.0,H,1.0,0.0,H,1.37,4.5,7.5,,,,1.39,4.51,7.64,1.8,2.0,1.75,1.98,-1.25,1.95,1.9,Bradford City,Northampton Town,bradford_city,northampton_town
+2026-04-11,E2,England-L1,2526,Bradford,Stevenage,0.0,1.0,A,0.0,0.0,D,2.1,3.0,3.75,,,,2.15,3.05,3.54,2.7,1.44,2.55,1.47,-0.25,1.85,2.0,Bradford City,Stevenage,bradford_city,stevenage
+2026-04-21,E2,England-L1,2526,Bradford,Plymouth,1.0,1.0,D,0.0,1.0,A,2.55,3.25,2.55,,,,2.61,3.35,2.56,1.93,1.93,1.86,1.86,,1.93,1.93,Bradford City,Plymouth Argyle,bradford_city,plymouth_argyle
+2026-04-25,E2,England-L1,2526,Bradford,Bolton,1.0,1.0,D,0.0,0.0,D,2.57,3.1,2.65,,,,2.61,3.12,2.67,1.9,1.95,1.85,1.88,0.0,1.9,1.95,Bradford City,Bolton,bradford_city,bolton
+2026-08-15,E2,England-L1,2627,Bradford,Peterboro,2.0,0.0,H,0.0,0.0,D,1.62,3.8,4.75,,,,1.66,3.84,4.75,1.83,2.03,1.79,1.94,-0.75,1.88,1.98,Bradford City,Peterborough United,bradford_city,peterborough_united
+2026-09-01,E2,England-L1,2627,Bradford,Cambridge,1.0,2.0,A,0.0,0.0,D,1.71,3.4,4.5,,,,1.76,3.57,4.47,2.0,1.8,1.91,1.8,-0.75,2.05,1.8,Bradford City,Cambridge United,bradford_city,cambridge_united
+2026-09-05,E2,England-L1,2627,Bradford,Mansfield,1.0,0.0,H,1.0,0.0,H,1.79,3.6,4.0,,,,1.86,3.55,3.96,1.9,1.95,1.82,1.91,-0.5,1.85,2.0,Bradford City,Mansfield Town,bradford_city,mansfield_town
+2026-10-10,E2,England-L1,2627,Bradford,Leyton Orient,0.0,0.0,D,0.0,0.0,D,1.68,3.7,4.5,,,,1.7,3.77,4.62,1.93,1.93,1.84,1.89,-0.75,1.98,1.88,Bradford City,Leyton Orient,bradford_city,leyton_orient
+2026-10-17,E2,England-L1,2627,Bradford,Stevenage,2.0,0.0,H,0.0,0.0,D,1.86,3.4,4.0,,,,1.93,3.34,3.92,2.15,1.67,2.17,1.63,-0.5,1.95,1.9,Bradford City,Stevenage,bradford_city,stevenage

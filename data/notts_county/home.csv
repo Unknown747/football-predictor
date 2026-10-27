@@ -1,0 +1,98 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-06,EC,England-Conference,2223,Notts County,Maidenhead,3.0,0.0,H,2.0,0.0,H,1.44,4.33,6.5,1.5,4.58,6.08,1.43,4.46,6.19,1.7,2.1,1.66,2.11,-1.25,2.0,1.8,Notts County,Maidenhead,notts_county,maidenhead
+2022-08-20,EC,England-Conference,2223,Notts County,Chesterfield,2.0,2.0,D,0.0,1.0,A,2.25,3.5,3.0,2.4,3.63,2.84,2.31,3.44,2.79,1.75,2.05,1.73,2.02,-0.25,1.9,1.9,Notts County,Chesterfield,notts_county,chesterfield
+2022-08-29,EC,England-Conference,2223,Notts County,Solihull,1.0,0.0,H,0.0,0.0,D,2.2,3.5,3.1,2.29,3.59,3.05,2.23,3.44,2.92,1.8,2.0,1.74,2.02,-0.25,1.93,1.88,Notts County,Solihull,notts_county,solihull
+2022-09-13,EC,England-Conference,2223,Notts County,Aldershot,2.0,0.0,H,0.0,0.0,D,1.33,5.0,7.5,1.33,5.46,8.44,1.32,5.07,8.06,1.57,2.35,1.56,2.3,-1.5,1.93,1.88,Notts County,Aldershot,notts_county,aldershot
+2022-10-01,EC,England-Conference,2223,Notts County,Altrincham,3.0,1.0,H,2.0,0.0,H,1.4,4.75,6.5,1.41,4.8,7.49,1.4,4.58,6.74,1.66,2.15,1.64,2.16,-1.25,1.9,1.9,Notts County,Altrincham,notts_county,altrincham
+2022-10-04,EC,England-Conference,2223,Notts County,Wrexham,1.0,0.0,H,1.0,0.0,H,2.1,3.5,3.0,2.14,3.7,3.26,2.12,3.48,3.09,1.75,2.05,1.74,1.99,-0.25,1.83,1.98,Notts County,Wrexham,notts_county,wrexham
+2022-10-21,EC,England-Conference,2223,Notts County,Maidstone,3.0,0.0,H,1.0,0.0,H,1.25,5.5,11.0,1.26,6.1,9.83,1.26,5.7,8.83,1.44,2.7,1.42,2.71,-1.75,1.93,1.88,Notts County,Maidstone,notts_county,maidstone
+2022-10-29,EC,England-Conference,2223,Notts County,Torquay,4.0,0.0,H,2.0,0.0,H,1.16,6.5,12.0,1.16,7.7,16.06,1.15,7.02,12.91,1.4,2.87,1.4,2.78,-2.0,1.8,2.0,Notts County,Torquay,notts_county,torquay
+2022-11-01,EC,England-Conference,2223,Notts County,Bromley,1.0,1.0,D,1.0,0.0,H,1.36,4.5,9.0,1.37,5.19,7.73,1.35,4.89,7.31,1.57,2.35,1.54,2.37,-1.5,1.98,1.83,Notts County,Bromley,notts_county,bromley
+2022-11-19,EC,England-Conference,2223,Notts County,Yeovil,0.0,0.0,D,0.0,0.0,D,1.22,5.5,13.0,1.22,6.25,12.82,1.21,5.9,11.45,1.57,2.35,1.56,2.29,-1.75,1.88,1.93,Notts County,Yeovil Town,notts_county,yeovil_town
+2022-12-13,EC,England-Conference,2223,Notts County,Gateshead,2.0,0.0,H,1.0,0.0,H,1.17,6.5,13.0,1.17,7.39,14.94,1.16,6.99,13.45,1.44,2.7,1.42,2.68,-2.0,1.83,1.98,Notts County,Gateshead,notts_county,gateshead
+2022-12-26,EC,England-Conference,2223,Notts County,Oldham,4.0,1.0,H,4.0,1.0,H,1.22,5.5,13.0,1.19,6.51,13.37,1.21,5.86,11.63,1.57,2.35,1.52,2.39,-1.75,1.88,1.93,Notts County,Oldham,notts_county,oldham
+2023-01-10,EC,England-Conference,2223,Notts County,Boreham Wood,1.0,1.0,D,0.0,1.0,A,1.36,4.75,9.0,1.36,5.08,8.55,1.33,4.86,8.07,1.6,2.3,1.65,2.17,-1.5,2.0,1.8,Notts County,Boreham Wood,notts_county,boreham_wood
+2023-01-28,EC,England-Conference,2223,Notts County,Halifax,1.0,0.0,H,1.0,0.0,H,1.29,4.75,10.0,1.25,6.16,11.62,1.24,5.56,10.31,1.62,2.25,1.63,2.18,-1.5,1.8,2.0,Notts County,Halifax,notts_county,halifax
+2023-02-14,EC,England-Conference,2223,Notts County,Barnet,4.0,1.0,H,0.0,1.0,A,1.3,5.25,7.5,1.36,5.35,7.81,1.32,5.11,7.49,1.5,2.5,1.46,2.53,-1.5,1.85,1.95,Notts County,Barnet,notts_county,barnet
+2023-02-21,EC,England-Conference,2223,Notts County,Southend,4.0,0.0,H,2.0,0.0,H,1.62,4.0,4.75,1.67,3.84,5.25,1.63,3.77,4.92,1.85,1.95,1.83,1.91,-0.75,1.8,2.0,Notts County,Southend United,notts_county,southend_united
+2023-02-25,EC,England-Conference,2223,Notts County,Dag and Red,1.0,2.0,A,1.0,1.0,D,1.25,5.0,9.0,1.24,6.25,10.9,1.25,5.69,9.25,1.48,2.6,1.45,2.58,-1.75,2.02,1.77,Notts County,Dag and Red,notts_county,dag_and_red
+2023-03-11,EC,England-Conference,2223,Notts County,Dorking,3.0,1.0,H,1.0,1.0,D,1.13,7.5,17.0,1.14,8.28,18.04,1.12,8.08,15.92,1.3,3.5,1.28,3.36,-2.5,2.0,1.8,Notts County,Dorking,notts_county,dorking
+2023-03-14,EC,England-Conference,2223,Notts County,Eastleigh,3.0,1.0,H,0.0,1.0,A,1.33,5.0,9.0,1.33,5.48,8.68,1.3,5.17,8.42,1.6,2.3,1.6,2.24,-1.5,1.93,1.88,Notts County,Eastleigh,notts_county,eastleigh
+2023-03-25,EC,England-Conference,2223,Notts County,Scunthorpe,4.0,0.0,H,2.0,0.0,H,1.2,5.75,10.0,1.22,6.84,10.99,1.21,6.29,10.44,1.44,2.7,1.42,2.68,-1.75,1.8,2.0,Notts County,Scunthorpe United,notts_county,scunthorpe_united
+2023-04-07,EC,England-Conference,2223,Notts County,Wealdstone,3.0,0.0,H,1.0,0.0,H,1.14,8.0,13.0,1.16,7.77,16.86,1.14,7.44,14.61,1.36,3.1,1.34,3.01,-2.25,1.93,1.88,Notts County,Wealdstone,notts_county,wealdstone
+2023-04-15,EC,England-Conference,2223,Notts County,Woking,3.0,0.0,H,0.0,0.0,D,1.5,4.0,7.0,1.48,4.4,6.36,1.47,4.19,6.07,1.8,2.0,1.76,1.98,-1.0,1.83,1.98,Notts County,Woking,notts_county,woking
+2023-04-29,EC,England-Conference,2223,Notts County,York,1.0,1.0,D,1.0,0.0,H,1.25,6.0,12.0,1.21,7.15,10.12,1.21,6.4,10.26,1.4,2.88,1.39,2.81,-2.0,2.05,1.75,Notts County,York,notts_county,york
+2023-08-12,E3,England-L2,2324,Notts County,Grimsby,3.0,2.0,H,1.0,2.0,A,1.73,4.0,4.75,1.78,4.16,4.32,1.72,3.92,4.31,1.7,2.1,1.7,2.09,-0.75,1.95,1.9,Notts County,Grimsby Town,notts_county,grimsby_town
+2023-08-26,E3,England-L2,2324,Notts County,Tranmere,2.0,1.0,H,1.0,0.0,H,1.57,4.33,5.75,1.6,4.43,5.35,1.55,4.29,5.29,1.65,2.2,1.64,2.21,-1.0,1.95,1.9,Notts County,Tranmere Rovers,notts_county,tranmere_rovers
+2023-09-02,E3,England-L2,2324,Notts County,Accrington,3.0,1.0,H,1.0,1.0,D,1.6,4.2,5.25,1.59,4.51,5.32,1.59,4.21,4.97,1.57,2.35,1.56,2.36,-1.0,2.03,1.78,Notts County,Accrington Stanley,notts_county,accrington_stanley
+2023-09-23,E3,England-L2,2324,Notts County,Forest Green,4.0,3.0,H,2.0,0.0,H,1.53,4.33,6.0,1.51,4.79,5.96,1.48,4.48,5.74,1.53,2.4,1.52,2.43,-1.0,1.8,2.05,Notts County,Forest Green Rovers,notts_county,forest_green_rovers
+2023-10-03,E3,England-L2,2324,Notts County,Swindon,3.0,1.0,H,3.0,0.0,H,1.83,4.2,3.75,1.86,4.36,3.71,1.83,4.1,3.62,1.4,2.88,1.4,2.8,-0.5,1.85,2.0,Notts County,Swindon Town,notts_county,swindon_town
+2023-10-14,E3,England-L2,2324,Notts County,Mansfield,1.0,4.0,A,1.0,1.0,D,2.3,3.5,3.0,2.24,3.98,2.98,2.2,3.71,2.9,1.65,2.2,1.6,2.24,-0.25,2.0,1.85,Notts County,Mansfield Town,notts_county,mansfield_town
+2023-10-24,E3,England-L2,2324,Notts County,Newport County,3.0,0.0,H,2.0,0.0,H,1.55,4.33,5.5,1.58,4.65,5.32,1.56,4.41,5.05,1.44,2.7,1.45,2.63,-1.0,1.9,1.95,Notts County,Newport County,notts_county,newport_county
+2023-10-28,E3,England-L2,2324,Notts County,Wrexham,0.0,2.0,A,0.0,0.0,D,2.3,3.75,2.8,2.4,3.84,2.81,2.33,3.74,2.69,1.48,2.6,1.45,2.62,-0.25,2.05,1.8,Notts County,Wrexham,notts_county,wrexham
+2023-11-18,E3,England-L2,2324,Notts County,Bradford,4.0,2.0,H,4.0,0.0,H,1.85,3.6,4.33,1.89,3.94,3.97,1.84,3.77,3.86,1.7,2.1,1.64,2.18,-0.5,1.85,2.0,Notts County,Bradford City,notts_county,bradford_city
+2023-11-28,E3,England-L2,2324,Notts County,Crawley Town,3.0,1.0,H,1.0,1.0,D,1.6,4.2,5.5,1.62,4.62,4.9,1.59,4.33,4.81,1.44,2.7,1.44,2.67,-1.0,1.95,1.9,Notts County,Crawley Town,notts_county,crawley_town
+2023-12-09,E3,England-L2,2324,Notts County,Walsall,1.0,2.0,A,1.0,0.0,H,1.6,4.0,5.5,1.58,4.63,5.25,1.57,4.25,5.03,1.6,2.3,1.56,2.35,-1.0,1.98,1.88,Notts County,Walsall,notts_county,walsall
+2023-12-26,E3,England-L2,2324,Notts County,Doncaster,3.0,0.0,H,2.0,0.0,H,1.67,3.75,5.25,1.65,4.28,5.11,1.63,4.12,4.71,1.6,2.3,1.55,2.34,-1.0,2.03,1.78,Notts County,Doncaster Rovers,notts_county,doncaster_rovers
+2023-12-29,E3,England-L2,2324,Notts County,Morecambe,5.0,0.0,H,4.0,0.0,H,1.57,4.0,5.75,1.59,4.36,5.61,1.57,4.23,5.21,1.6,2.3,1.56,2.34,-1.0,1.95,1.9,Notts County,Morecambe,notts_county,morecambe
+2024-01-27,E3,England-L2,2324,Notts County,Barrow,1.0,1.0,D,1.0,1.0,D,2.1,3.6,3.4,2.16,3.9,3.19,2.09,3.65,3.13,1.73,2.08,1.71,2.07,-0.25,1.85,2.0,Notts County,Barrow,notts_county,barrow
+2024-02-09,E3,England-L2,2324,Notts County,Gillingham,1.0,3.0,A,1.0,2.0,A,2.2,3.8,3.0,2.21,3.68,3.23,2.17,3.59,3.07,1.65,2.2,1.68,2.14,-0.25,1.95,1.9,Notts County,Gillingham,notts_county,gillingham
+2024-02-24,E3,England-L2,2324,Notts County,Crewe,1.0,3.0,A,0.0,2.0,A,1.91,3.75,4.0,1.92,3.99,3.8,1.87,3.86,3.65,1.57,2.35,1.54,2.4,-0.5,1.88,1.98,Notts County,Crewe Alexandra,notts_county,crewe_alexandra
+2024-02-27,E3,England-L2,2324,Notts County,Sutton,3.0,4.0,A,2.0,2.0,D,1.7,4.2,4.5,1.69,4.17,4.85,1.65,4.11,4.57,1.57,2.35,1.55,2.36,-0.75,1.88,1.98,Notts County,Sutton United,notts_county,sutton_united
+2024-03-09,E3,England-L2,2324,Notts County,AFC Wimbledon,0.0,2.0,A,0.0,0.0,D,2.15,3.6,3.2,2.3,3.69,3.05,2.2,3.62,3.01,1.62,2.25,1.63,2.22,-0.25,1.93,1.93,Notts County,AFC Wimbledon,notts_county,afc_wimbledon
+2024-03-23,E3,England-L2,2324,Notts County,Salford,1.0,2.0,A,0.0,1.0,A,2.0,4.2,3.2,2.05,4.17,3.26,2.0,3.98,3.18,1.44,2.7,1.42,2.74,-0.5,2.0,1.85,Notts County,Salford City,notts_county,salford_city
+2024-04-01,E3,England-L2,2324,Notts County,Milton Keynes Dons,3.0,3.0,D,1.0,1.0,D,2.7,3.6,2.5,2.8,3.82,2.38,2.7,3.7,2.35,1.5,2.5,1.49,2.51,0.25,1.75,2.05,Notts County,MK Dons,notts_county,mk_dons
+2024-04-06,E3,England-L2,2324,Notts County,Harrogate,3.0,0.0,H,1.0,0.0,H,1.91,4.1,3.5,1.9,4.35,3.52,1.85,4.13,3.56,1.44,2.7,1.43,2.71,-0.5,1.85,2.0,Notts County,Harrogate Town,notts_county,harrogate_town
+2024-04-16,E3,England-L2,2324,Notts County,Stockport,2.0,5.0,A,0.0,3.0,A,3.8,3.8,1.85,3.85,4.07,1.86,3.71,3.86,1.87,1.57,2.35,1.58,2.3,0.5,1.98,1.88,Notts County,Stockport County,notts_county,stockport_county
+2024-04-20,E3,England-L2,2324,Notts County,Colchester,1.0,0.0,H,0.0,0.0,D,2.3,3.8,2.75,2.45,3.75,2.74,2.33,3.75,2.7,1.48,2.6,1.45,2.63,-0.25,2.05,1.8,Notts County,Colchester United,notts_county,colchester_united
+2024-08-18,E3,England-L2,2425,Notts County,Fleetwood Town,2.0,2.0,D,0.0,1.0,A,2.1,3.7,3.1,2.14,3.91,3.0,2.13,3.74,2.99,1.62,2.25,1.61,2.24,-0.25,1.88,1.98,Notts County,Fleetwood Town,notts_county,fleetwood_town
+2024-08-22,E3,England-L2,2425,Notts County,Grimsby,4.0,1.0,H,3.0,1.0,H,1.91,3.4,4.0,1.88,3.76,3.82,1.89,3.67,3.76,1.7,2.1,1.66,2.16,-0.5,1.93,1.93,Notts County,Grimsby Town,notts_county,grimsby_town
+2024-09-07,E3,England-L2,2425,Notts County,Accrington,2.0,0.0,H,1.0,0.0,H,1.62,4.0,5.0,1.58,4.52,4.68,1.59,4.38,4.7,1.48,2.6,1.45,2.62,-1.0,2.03,1.83,Notts County,Accrington Stanley,notts_county,accrington_stanley
+2024-09-21,E3,England-L2,2425,Notts County,Gillingham,0.0,1.0,A,0.0,1.0,A,1.91,3.75,3.6,1.9,3.71,3.71,1.93,3.66,3.6,1.7,2.1,1.68,2.11,-0.5,1.95,1.9,Notts County,Gillingham,notts_county,gillingham
+2024-10-05,E3,England-L2,2425,Notts County,Port Vale,0.0,1.0,A,0.0,1.0,A,2.4,3.5,2.7,2.44,3.42,2.77,2.41,3.44,2.74,1.73,2.08,1.73,2.04,0.0,1.8,2.05,Notts County,Port Vale,notts_county,port_vale
+2024-10-19,E3,England-L2,2425,Notts County,AFC Wimbledon,1.0,0.0,H,0.0,0.0,D,2.5,3.3,2.8,2.37,3.58,2.77,2.38,3.48,2.76,1.73,2.08,1.72,2.05,0.0,1.77,2.05,Notts County,AFC Wimbledon,notts_county,afc_wimbledon
+2024-10-26,E3,England-L2,2425,Notts County,Harrogate,1.0,0.0,H,0.0,0.0,D,1.44,4.33,6.5,1.5,4.38,5.79,1.5,4.36,5.73,1.62,2.25,1.62,2.23,-1.0,1.83,2.03,Notts County,Harrogate Town,notts_county,harrogate_town
+2024-11-23,E3,England-L2,2425,Notts County,Newport County,0.0,0.0,D,0.0,0.0,D,1.4,4.75,7.0,1.4,5.05,6.91,1.4,4.81,6.8,1.53,2.4,1.51,2.43,-1.25,1.88,1.98,Notts County,Newport County,notts_county,newport_county
+2024-12-21,E3,England-L2,2425,Notts County,Bradford,3.0,0.0,H,3.0,0.0,H,2.3,3.2,3.1,2.27,3.61,2.91,2.26,3.44,2.97,1.8,2.0,1.77,2.0,-0.25,2.0,1.85,Notts County,Bradford City,notts_county,bradford_city
+2025-01-01,E3,England-L2,2425,Notts County,Walsall,1.0,2.0,A,1.0,0.0,H,2.55,3.5,2.55,2.56,3.57,2.55,2.57,3.47,2.51,1.8,2.0,1.76,2.01,0.0,1.95,1.9,Notts County,Walsall,notts_county,walsall
+2025-01-04,E3,England-L2,2425,Notts County,Swindon,2.0,0.0,H,2.0,0.0,H,1.67,3.9,4.5,1.7,4.26,4.27,1.69,4.01,4.39,1.65,2.2,1.6,2.25,-0.75,1.9,1.95,Notts County,Swindon Town,notts_county,swindon_town
+2025-01-25,E3,England-L2,2425,Notts County,Bromley,1.0,1.0,D,0.0,0.0,D,1.81,3.75,3.8,1.86,3.74,3.83,1.86,3.72,3.75,1.67,2.15,1.67,2.14,-0.5,1.88,1.98,Notts County,Bromley,notts_county,bromley
+2025-01-28,E3,England-L2,2425,Notts County,Carlisle,1.0,0.0,H,1.0,0.0,H,1.57,4.33,5.0,1.59,4.34,5.22,1.58,4.25,4.98,1.6,2.3,1.6,2.28,-1.0,1.98,1.88,Notts County,Carlisle United,notts_county,carlisle_united
+2025-02-08,E3,England-L2,2425,Notts County,Morecambe,2.0,0.0,H,0.0,0.0,D,1.38,4.5,8.0,1.38,4.87,7.25,1.38,4.75,7.21,1.67,2.15,1.63,2.21,-1.25,1.88,1.98,Notts County,Morecambe,notts_county,morecambe
+2025-02-18,E3,England-L2,2425,Notts County,Colchester,1.0,1.0,D,1.0,0.0,H,1.91,3.6,3.7,1.93,3.62,3.9,1.93,3.52,3.73,1.98,1.88,1.93,1.84,-0.5,1.95,1.9,Notts County,Colchester United,notts_county,colchester_united
+2025-02-22,E3,England-L2,2425,Notts County,Tranmere,2.0,1.0,H,0.0,0.0,D,1.55,4.2,5.25,1.56,4.16,5.33,1.56,4.16,5.18,1.75,2.05,1.72,2.06,-1.0,2.0,1.85,Notts County,Tranmere Rovers,notts_county,tranmere_rovers
+2025-03-04,E3,England-L2,2425,Notts County,Barrow,1.0,2.0,A,0.0,1.0,A,1.65,3.7,5.0,1.68,3.88,5.07,1.67,3.75,4.92,2.0,1.85,1.95,1.82,-0.75,1.88,1.98,Notts County,Barrow,notts_county,barrow
+2025-03-15,E3,England-L2,2425,Notts County,Chesterfield,1.0,2.0,A,0.0,0.0,D,1.9,3.7,3.75,1.95,3.57,3.69,1.92,3.61,3.62,1.8,2.0,1.76,2.0,-0.5,1.95,1.9,Notts County,Chesterfield,notts_county,chesterfield
+2025-03-22,E3,England-L2,2425,Notts County,Crewe,0.0,0.0,D,0.0,0.0,D,1.9,3.5,3.8,1.91,3.68,3.83,1.91,3.54,3.77,1.88,1.98,1.84,1.93,-0.5,1.93,1.93,Notts County,Crewe Alexandra,notts_county,crewe_alexandra
+2025-04-02,E3,England-L2,2425,Notts County,Milton Keynes Dons,3.0,0.0,H,0.0,0.0,D,1.7,4.1,4.2,1.7,4.02,4.37,1.7,3.96,4.3,1.57,2.35,1.57,2.32,-0.75,1.9,1.95,Notts County,MK Dons,notts_county,mk_dons
+2025-04-11,E3,England-L2,2425,Notts County,Salford,1.0,3.0,A,0.0,1.0,A,1.85,3.6,3.9,1.88,3.62,4.11,1.86,3.6,3.99,1.9,1.95,1.89,1.9,-0.5,1.88,1.98,Notts County,Salford City,notts_county,salford_city
+2025-04-21,E3,England-L2,2425,Notts County,Cheltenham,1.0,2.0,A,1.0,0.0,H,1.48,4.33,6.25,1.48,4.44,5.87,1.48,4.35,5.98,1.62,2.2,1.63,2.2,-1.0,1.77,2.05,Notts County,Cheltenham Town,notts_county,cheltenham_town
+2025-05-03,E3,England-L2,2425,Notts County,Doncaster,1.0,2.0,A,0.0,2.0,A,2.3,3.4,2.9,2.28,3.56,2.82,2.3,3.52,2.82,1.67,2.15,1.67,2.15,-0.25,2.03,1.83,Notts County,Doncaster Rovers,notts_county,doncaster_rovers
+2025-08-09,E3,England-L2,2526,Notts County,Salford,1.0,2.0,A,0.0,1.0,A,2.0,3.6,3.4,2.01,3.51,3.55,2.02,3.61,3.32,1.8,2.0,1.72,2.02,-0.5,2.03,1.83,Notts County,Salford City,notts_county,salford_city
+2025-08-20,E3,England-L2,2526,Notts County,Shrewsbury,4.0,1.0,H,2.0,1.0,H,1.73,3.6,4.75,1.72,3.63,4.74,1.73,3.59,4.66,2.05,1.75,2.0,1.74,-0.75,1.95,1.85,Notts County,Shrewsbury Town,notts_county,shrewsbury_town
+2025-08-23,E3,England-L2,2526,Notts County,Bromley,2.0,2.0,D,2.0,1.0,H,2.15,3.4,3.2,2.13,3.71,3.09,2.12,3.44,3.22,1.83,2.03,1.82,1.9,-0.25,1.85,1.95,Notts County,Bromley,notts_county,bromley
+2025-09-06,E3,England-L2,2526,Notts County,Fleetwood Town,1.0,0.0,H,0.0,0.0,D,1.86,3.5,3.75,1.96,3.46,3.74,1.92,3.51,3.74,1.93,1.93,1.85,1.88,-0.5,1.98,1.88,Notts County,Fleetwood Town,notts_county,fleetwood_town
+2025-09-20,E3,England-L2,2526,Notts County,Crawley Town,4.0,0.0,H,1.0,0.0,H,1.86,3.8,3.5,1.95,3.8,3.45,1.9,3.74,3.59,1.7,2.1,1.65,2.13,-0.5,1.95,1.9,Notts County,Crawley Town,notts_county,crawley_town
+2025-10-04,E3,England-L2,2526,Notts County,Oldham,3.0,1.0,H,2.0,0.0,H,2.1,3.3,3.25,2.15,3.42,3.24,2.15,3.38,3.21,2.03,1.83,1.94,1.79,-0.25,1.85,2.0,Notts County,Oldham,notts_county,oldham
+2025-10-25,E3,England-L2,2526,Notts County,Cambridge,2.0,0.0,H,0.0,0.0,D,2.32,3.25,2.85,2.41,3.15,3.05,2.42,3.16,2.92,2.25,1.62,2.2,1.61,-0.25,2.05,1.8,Notts County,Cambridge United,notts_county,cambridge_united
+2025-11-15,E3,England-L2,2526,Notts County,Harrogate,1.0,1.0,D,0.0,1.0,A,1.42,4.1,7.0,,,,1.46,4.35,6.35,1.73,2.08,1.7,2.06,-1.25,2.05,1.8,Notts County,Harrogate Town,notts_county,harrogate_town
+2025-11-22,E3,England-L2,2526,Notts County,Colchester,1.0,3.0,A,1.0,1.0,D,2.15,3.3,3.2,,,,2.17,3.38,3.17,1.93,1.93,1.87,1.85,-0.25,1.9,1.95,Notts County,Colchester United,notts_county,colchester_united
+2025-12-09,E3,England-L2,2526,Notts County,Milton Keynes Dons,3.0,2.0,H,2.0,2.0,D,2.75,3.2,2.4,,,,2.72,3.19,2.56,2.05,1.75,2.0,1.74,0.0,2.05,1.8,Notts County,MK Dons,notts_county,mk_dons
+2025-12-20,E3,England-L2,2526,Notts County,Walsall,0.0,0.0,D,0.0,0.0,D,2.4,3.25,2.75,,,,2.45,3.23,2.8,2.05,1.75,2.01,1.72,0.0,1.8,2.05,Notts County,Walsall,notts_county,walsall
+2026-01-01,E3,England-L2,2526,Notts County,Accrington,0.0,1.0,A,0.0,0.0,D,1.81,3.5,4.1,,,,1.84,3.53,4.03,1.95,1.9,1.85,1.87,-0.5,1.88,1.98,Notts County,Accrington Stanley,notts_county,accrington_stanley
+2026-01-24,E3,England-L2,2526,Notts County,Crewe,1.0,0.0,H,1.0,0.0,H,1.91,3.6,3.6,,,,1.96,3.47,3.58,1.85,1.95,1.82,1.89,-0.5,1.98,1.88,Notts County,Crewe Alexandra,notts_county,crewe_alexandra
+2026-01-27,E3,England-L2,2526,Notts County,Swindon,2.0,1.0,H,1.0,1.0,D,2.05,3.25,3.4,,,,2.13,3.29,3.32,2.05,1.75,1.99,1.73,-0.25,1.85,2.0,Notts County,Swindon Town,notts_county,swindon_town
+2026-02-03,E3,England-L2,2526,Notts County,Gillingham,1.0,0.0,H,1.0,0.0,H,1.86,3.25,4.0,,,,1.9,3.38,3.92,2.05,1.75,1.98,1.75,-0.5,1.98,1.88,Notts County,Gillingham,notts_county,gillingham
+2026-02-07,E3,England-L2,2526,Notts County,Barrow,2.0,1.0,H,1.0,1.0,D,1.51,4.1,5.25,,,,1.55,3.97,5.48,1.8,2.0,1.77,1.96,-1.0,2.0,1.85,Notts County,Barrow,notts_county,barrow
+2026-02-21,E3,England-L2,2526,Notts County,Tranmere,5.0,0.0,H,1.0,0.0,H,1.66,3.75,4.75,,,,1.7,3.73,4.56,1.88,1.98,1.81,1.9,-0.75,1.93,1.93,Notts County,Tranmere Rovers,notts_county,tranmere_rovers
+2026-02-28,E3,England-L2,2526,Notts County,Grimsby,0.0,1.0,A,0.0,0.0,D,2.05,3.4,3.3,,,,2.09,3.33,3.31,2.0,1.8,1.94,1.78,-0.25,1.83,2.03,Notts County,Grimsby Town,notts_county,grimsby_town
+2026-03-14,E3,England-L2,2526,Notts County,Chesterfield,2.0,3.0,A,2.0,2.0,D,2.01,3.4,3.4,,,,2.04,3.41,3.4,1.98,1.88,1.88,1.84,-0.25,1.8,2.05,Notts County,Chesterfield,notts_county,chesterfield
+2026-03-21,E3,England-L2,2526,Notts County,Cheltenham,5.0,2.0,H,2.0,2.0,D,1.49,3.9,5.75,,,,1.54,3.93,5.71,1.93,1.93,1.85,1.86,-1.0,1.95,1.9,Notts County,Cheltenham Town,notts_county,cheltenham_town
+2026-04-06,E3,England-L2,2526,Notts County,Newport County,3.0,1.0,H,2.0,0.0,H,1.49,4.0,5.75,,,,1.5,4.04,5.85,1.8,2.0,1.74,2.0,-1.0,1.93,1.93,Notts County,Newport County,notts_county,newport_county
+2026-04-18,E3,England-L2,2526,Notts County,Barnet,1.0,2.0,A,1.0,1.0,D,2.3,3.25,3.0,,,,2.3,3.27,2.98,2.0,1.8,1.94,1.78,-0.25,2.03,1.83,Notts County,Barnet,notts_county,barnet
+2026-05-02,E3,England-L2,2526,Notts County,Bristol Rvs,1.0,1.0,D,1.0,0.0,H,1.62,4.33,4.2,,,,1.65,4.09,4.4,1.67,2.15,1.62,2.16,-0.75,1.85,2.0,Notts County,Bristol Rvs,notts_county,bristol_rvs
+2026-08-15,E2,England-L1,2627,Notts County,Leicester,1.0,1.0,D,0.0,0.0,D,3.6,3.4,1.96,,,,3.56,3.38,2.02,2.03,1.83,1.96,1.76,0.5,1.8,2.05,Notts County,Leicester City,notts_county,leicester_city
+2026-08-29,E2,England-L1,2627,Notts County,Burton,2.0,1.0,H,0.0,1.0,A,2.2,3.4,3.0,,,,2.26,3.33,3.02,2.03,1.83,1.94,1.79,-0.25,2.0,1.85,Notts County,Burton Albion,notts_county,burton_albion
+2026-09-12,E2,England-L1,2627,Notts County,Bradford,0.0,1.0,A,0.0,0.0,D,3.0,3.1,2.3,,,,2.93,3.24,2.37,2.08,1.73,2.1,1.67,0.25,1.8,2.05,Notts County,Bradford City,notts_county,bradford_city
+2026-10-10,E2,England-L1,2627,Notts County,Oxford,1.0,2.0,A,0.0,1.0,A,2.5,3.3,2.57,,,,2.53,3.37,2.64,1.95,1.85,1.91,1.82,0.0,1.85,2.0,Notts County,Oxford United,notts_county,oxford_united
+2026-10-20,E2,England-L1,2627,Notts County,Sheffield Weds,2.0,0.0,H,1.0,0.0,H,3.2,3.4,2.1,,,,3.15,3.48,2.15,1.83,2.03,1.79,1.95,0.25,1.95,1.9,Notts County,Sheffield Wednesday,notts_county,sheffield_wednesday

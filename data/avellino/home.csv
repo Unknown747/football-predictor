@@ -1,0 +1,24 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2025-09-12,I2,Italy-SB,2526,Avellino,Monza,2.0,1.0,H,1.0,0.0,H,3.9,3.1,1.96,3.91,3.24,2.13,3.51,3.13,2.08,2.25,1.62,2.19,1.61,0.25,2.08,1.73,Avellino,Monza,avellino,monza
+2025-09-27,I2,Italy-SB,2526,Avellino,Virtus Entella,2.0,0.0,H,1.0,0.0,H,2.57,3.1,2.7,2.65,3.09,2.88,2.58,3.04,2.68,2.4,1.53,2.31,1.55,0.0,1.83,1.98,Avellino,Virtus Entella,avellino,virtus_entella
+2025-10-04,I2,Italy-SB,2526,Avellino,Mantova,0.0,0.0,D,0.0,0.0,D,1.96,3.4,3.7,2.05,3.41,3.69,1.97,3.32,3.58,2.0,1.8,1.95,1.77,-0.5,2.0,1.8,Avellino,Mantova,avellino,mantova
+2025-10-25,I2,Italy-SB,2526,Avellino,Spezia,0.0,4.0,A,0.0,0.0,D,2.65,2.95,2.65,2.83,3.04,2.73,2.76,2.96,2.57,2.4,1.53,2.38,1.52,0.0,1.9,1.9,Avellino,Spezia,avellino,spezia
+2025-11-01,I2,Italy-SB,2526,Avellino,Reggiana,4.0,3.0,H,1.0,1.0,D,1.81,3.5,4.2,,,,1.89,3.33,3.92,2.2,1.65,2.13,1.65,-0.5,1.88,1.93,Avellino,Reggiana,avellino,reggiana
+2025-11-22,I2,Italy-SB,2526,Avellino,Empoli,0.0,3.0,A,0.0,2.0,A,2.15,3.05,3.6,,,,2.26,3.05,3.16,2.25,1.62,2.2,1.6,-0.25,1.83,1.98,Avellino,Empoli,avellino,empoli
+2025-12-08,I2,Italy-SB,2526,Avellino,Venezia,1.0,1.0,D,1.0,0.0,H,4.5,3.7,1.71,,,,4.3,3.52,1.76,1.95,1.85,1.94,1.78,0.75,1.8,2.0,Avellino,Venezia,avellino,venezia
+2025-12-20,I2,Italy-SB,2526,Avellino,Palermo,2.0,2.0,D,1.0,0.0,H,4.33,3.6,1.76,,,,4.35,3.46,1.76,2.0,1.8,1.97,1.75,0.5,2.03,1.78,Avellino,Palermo,avellino,palermo
+2026-01-10,I2,Italy-SB,2526,Avellino,Sampdoria,2.0,1.0,H,1.0,0.0,H,3.0,3.0,2.45,,,,2.87,3.0,2.45,2.25,1.62,2.24,1.58,0.0,2.03,1.78,Avellino,Sampdoria,avellino,sampdoria
+2026-01-17,I2,Italy-SB,2526,Avellino,Carrarese,1.0,2.0,A,1.0,1.0,D,2.65,3.0,2.75,,,,2.62,3.03,2.68,2.03,1.78,1.97,1.74,0.0,1.85,1.95,Avellino,Carrarese,avellino,carrarese
+2026-01-31,I2,Italy-SB,2526,Avellino,Cesena,3.0,1.0,H,2.0,1.0,H,3.3,3.1,2.25,,,,3.14,3.08,2.3,2.2,1.65,2.16,1.62,0.25,1.85,1.95,Avellino,Cesena,avellino,cesena
+2026-02-11,I2,Italy-SB,2526,Avellino,Frosinone,1.0,3.0,A,0.0,2.0,A,3.3,3.1,2.25,,,,3.07,3.2,2.26,1.8,2.0,1.79,1.92,0.25,1.85,1.95,Avellino,Frosinone,avellino,frosinone
+2026-02-15,I2,Italy-SB,2526,Avellino,Pescara,0.0,1.0,A,0.0,0.0,D,2.15,3.3,3.1,,,,2.16,3.32,3.07,1.85,1.95,1.82,1.87,-0.25,1.93,1.88,Avellino,Pescara,avellino,pescara
+2026-02-28,I2,Italy-SB,2526,Avellino,Juve Stabia,0.0,0.0,D,0.0,0.0,D,3.0,2.5,3.0,,,,2.78,2.79,2.73,2.4,1.53,2.35,1.53,0.0,1.9,1.9,Avellino,Juve Stabia,avellino,juve_stabia
+2026-03-07,I2,Italy-SB,2526,Avellino,Padova,1.0,0.0,H,0.0,0.0,D,2.15,2.75,3.9,,,,2.14,2.92,3.61,2.25,1.62,2.2,1.61,-0.25,1.8,2.0,Avellino,Padova,avellino,padova
+2026-03-18,I2,Italy-SB,2526,Avellino,Sudtirol,3.0,2.0,H,1.0,0.0,H,2.82,2.82,2.7,,,,2.76,2.9,2.63,2.3,1.6,2.24,1.58,0.0,1.95,1.85,Avellino,Sudtirol,avellino,sudtirol
+2026-04-11,I2,Italy-SB,2526,Avellino,Catanzaro,1.0,1.0,D,0.0,0.0,D,2.65,3.25,2.57,,,,2.57,3.16,2.6,2.05,1.75,2.01,1.73,0.0,1.9,1.9,Avellino,Catanzaro,avellino,catanzaro
+2026-04-24,I2,Italy-SB,2526,Avellino,Bari,2.0,0.0,H,0.0,0.0,D,1.81,3.4,4.2,,,,1.84,3.31,4.04,2.08,1.73,2.04,1.7,-0.5,1.83,1.98,Avellino,Bari,avellino,bari
+2026-05-08,I2,Italy-SB,2526,Avellino,Modena,1.0,0.0,H,1.0,0.0,H,1.61,3.8,5.0,,,,1.61,3.65,5.12,2.0,1.8,1.95,1.76,-0.75,1.8,2.0,Avellino,Modena,avellino,modena
+2026-08-22,I2,Italy-SB,2627,Avellino,Arezzo,1.0,2.0,A,1.0,0.0,H,2.15,3.25,3.25,,,,2.16,3.18,3.25,2.2,1.65,2.17,1.63,-0.25,1.88,1.93,Avellino,Arezzo,avellino,arezzo
+2026-08-29,I2,Italy-SB,2627,Avellino,Vicenza,3.0,0.0,H,2.0,0.0,H,2.35,3.1,2.75,,,,2.43,3.06,2.85,2.25,1.62,2.17,1.63,0.0,1.7,2.1,Avellino,Vicenza,avellino,vicenza
+2026-09-13,I2,Italy-SB,2627,Avellino,Palermo,1.0,1.0,D,0.0,0.0,D,3.9,3.2,1.96,,,,3.64,3.2,2.0,2.05,1.75,1.99,1.74,0.5,1.8,2.0,Avellino,Palermo,avellino,palermo
+2026-10-09,I2,Italy-SB,2627,Avellino,Sampdoria,4.0,1.0,H,4.0,1.0,H,2.55,3.1,2.55,,,,2.59,3.18,2.56,2.05,1.75,1.96,1.75,0.0,1.9,1.9,Avellino,Sampdoria,avellino,sampdoria

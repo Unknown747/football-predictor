@@ -1,0 +1,96 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,SC2,Scotland-L1,2122,Dumbarton,Airdrie Utd,2.0,2.0,D,0.0,1.0,A,2.5,3.4,2.4,2.53,3.91,2.51,2.49,3.54,2.47,1.8,2.0,1.78,1.97,0.0,1.95,1.9,Dumbarton,Airdrie Utd,dumbarton,airdrie_utd
+2021-08-21,SC2,Scotland-L1,2122,Peterhead,Airdrie Utd,2.0,3.0,A,0.0,1.0,A,2.62,3.3,2.62,2.6,3.25,2.59,2.58,3.21,2.56,2.05,1.75,2.02,1.75,0.0,1.93,1.93,Peterhead,Airdrie Utd,peterhead,airdrie_utd
+2021-09-11,SC2,Scotland-L1,2122,Queens Park,Airdrie Utd,0.0,0.0,D,0.0,0.0,D,1.66,3.75,4.33,1.76,3.75,4.13,1.73,3.66,4.19,1.9,1.95,1.86,1.87,-0.75,1.98,1.88,Queens Park,Airdrie Utd,queens_park,airdrie_utd
+2021-09-25,SC2,Scotland-L1,2122,Cove Rangers,Airdrie Utd,1.0,0.0,H,0.0,0.0,D,1.8,3.75,3.75,1.79,3.95,3.74,1.83,3.67,3.71,1.85,1.95,1.81,1.93,-0.5,1.88,1.98,Cove Rangers,Airdrie Utd,cove_rangers,airdrie_utd
+2021-10-16,SC2,Scotland-L1,2122,Falkirk,Airdrie Utd,0.0,3.0,A,0.0,1.0,A,1.95,3.4,3.25,1.82,3.54,3.64,1.89,3.56,3.53,1.8,2.0,1.73,2.04,-0.5,1.95,1.9,Falkirk,Airdrie Utd,falkirk,airdrie_utd
+2021-10-30,SC2,Scotland-L1,2122,Alloa,Airdrie Utd,2.0,1.0,H,1.0,0.0,H,2.5,3.5,2.37,2.58,3.39,2.53,2.5,3.33,2.56,1.9,1.9,1.87,1.87,0.0,1.95,1.9,Alloa,Airdrie Utd,alloa,airdrie_utd
+2021-11-13,SC2,Scotland-L1,2122,East Fife,Airdrie Utd,0.0,1.0,A,0.0,1.0,A,3.75,3.5,1.83,3.69,3.77,1.85,3.6,3.63,1.86,1.65,2.2,1.66,2.1,0.5,1.93,1.93,East Fife,Airdrie Utd,east_fife,airdrie_utd
+2021-12-07,SC2,Scotland-L1,2122,Montrose,Airdrie Utd,2.0,1.0,H,1.0,1.0,D,2.2,3.4,2.8,2.39,3.41,2.83,2.31,3.35,2.81,1.85,2.0,1.81,1.93,-0.25,2.0,1.85,Montrose,Airdrie Utd,montrose,airdrie_utd
+2022-01-02,SC2,Scotland-L1,2122,Dumbarton,Airdrie Utd,0.0,1.0,A,0.0,0.0,D,,,,3.42,3.48,1.95,3.31,3.41,2.01,,,1.79,1.95,0.25,,,Dumbarton,Airdrie Utd,dumbarton,airdrie_utd
+2022-01-25,SC2,Scotland-L1,2122,Clyde,Airdrie Utd,2.0,2.0,D,0.0,0.0,D,3.3,3.6,1.85,3.97,3.73,1.83,3.71,3.59,1.84,1.75,2.05,1.69,2.07,0.5,2.05,1.8,Clyde,Airdrie Utd,clyde,airdrie_utd
+2022-01-29,SC2,Scotland-L1,2122,Queens Park,Airdrie Utd,1.0,1.0,D,1.0,1.0,D,2.1,3.3,3.0,2.27,3.34,2.84,2.22,3.33,2.94,1.88,1.98,1.8,1.93,-0.25,1.95,1.9,Queens Park,Airdrie Utd,queens_park,airdrie_utd
+2022-02-05,SC2,Scotland-L1,2122,Cove Rangers,Airdrie Utd,1.0,1.0,D,1.0,0.0,H,1.7,3.5,4.5,1.7,3.71,4.22,1.73,3.67,4.16,1.88,1.98,1.81,1.92,-0.75,1.98,1.88,Cove Rangers,Airdrie Utd,cove_rangers,airdrie_utd
+2022-02-19,SC2,Scotland-L1,2122,Peterhead,Airdrie Utd,0.0,1.0,A,0.0,1.0,A,3.5,3.0,2.0,3.09,3.64,2.15,3.19,3.46,2.06,2.0,1.85,1.8,1.94,0.25,2.08,1.73,Peterhead,Airdrie Utd,peterhead,airdrie_utd
+2022-03-05,SC2,Scotland-L1,2122,Alloa,Airdrie Utd,0.0,2.0,A,0.0,1.0,A,3.2,3.4,2.0,3.27,3.41,1.97,3.25,3.41,2.05,1.83,2.02,1.78,1.96,0.25,2.05,1.8,Alloa,Airdrie Utd,alloa,airdrie_utd
+2022-03-12,SC2,Scotland-L1,2122,Falkirk,Airdrie Utd,1.0,4.0,A,0.0,1.0,A,2.37,3.4,2.62,2.51,3.58,2.59,2.42,3.4,2.63,1.83,2.02,1.79,1.94,0.0,1.83,2.02,Falkirk,Airdrie Utd,falkirk,airdrie_utd
+2022-04-02,SC2,Scotland-L1,2122,East Fife,Airdrie Utd,0.0,2.0,A,0.0,1.0,A,3.8,3.5,1.9,4.13,3.56,1.85,3.77,3.48,1.89,1.88,1.98,1.81,1.93,0.5,1.88,1.98,East Fife,Airdrie Utd,east_fife,airdrie_utd
+2022-04-09,SC2,Scotland-L1,2122,Montrose,Airdrie Utd,2.0,2.0,D,1.0,1.0,D,2.45,3.3,2.5,2.65,3.47,2.51,2.55,3.33,2.54,1.95,1.9,1.87,1.86,0.0,1.9,1.95,Montrose,Airdrie Utd,montrose,airdrie_utd
+2022-04-23,SC2,Scotland-L1,2122,Clyde,Airdrie Utd,0.0,5.0,A,0.0,1.0,A,4.0,3.8,1.66,4.86,3.94,1.65,4.54,3.81,1.66,1.75,2.05,1.73,2.03,0.75,1.9,1.95,Clyde,Airdrie Utd,clyde,airdrie_utd
+2022-07-30,SC2,Scotland-L1,2223,Peterhead,Airdrie Utd,0.0,2.0,A,0.0,2.0,A,3.5,3.4,1.9,3.91,3.41,1.93,3.64,3.42,1.91,1.95,1.9,1.86,1.87,0.5,1.85,1.95,Peterhead,Airdrie Utd,peterhead,airdrie_utd
+2022-08-13,SC2,Scotland-L1,2223,Queen of Sth,Airdrie Utd,1.0,1.0,D,0.0,1.0,A,2.4,3.4,2.55,2.58,3.67,2.48,2.49,3.38,2.56,1.8,2.05,1.81,1.93,0.0,1.85,2.0,Queen of Sth,Airdrie Utd,queen_of_sth,airdrie_utd
+2022-08-27,SC2,Scotland-L1,2223,Dunfermline,Airdrie Utd,1.0,1.0,D,0.0,0.0,D,1.9,3.4,3.6,2.11,3.37,3.41,2.02,3.37,3.38,1.9,1.95,1.84,1.9,-0.5,1.98,1.88,Dunfermline,Airdrie Utd,dunfermline,airdrie_utd
+2022-10-01,SC2,Scotland-L1,2223,Kelty Hearts,Airdrie Utd,1.0,0.0,H,0.0,0.0,D,3.2,3.6,2.0,3.23,3.55,2.11,3.25,3.5,2.01,1.72,2.07,1.73,2.01,0.25,2.05,1.8,Kelty Hearts,Airdrie Utd,kelty_hearts,airdrie_utd
+2022-10-04,SC2,Scotland-L1,2223,Montrose,Airdrie Utd,4.0,2.0,H,2.0,0.0,H,2.45,3.3,2.62,2.5,3.52,2.63,2.48,3.36,2.57,1.88,1.98,1.81,1.93,0.0,1.85,2.0,Montrose,Airdrie Utd,montrose,airdrie_utd
+2022-10-15,SC2,Scotland-L1,2223,Alloa,Airdrie Utd,2.0,0.0,H,0.0,0.0,D,2.55,3.3,2.4,2.77,3.79,2.28,2.67,3.5,2.33,1.7,2.1,1.66,2.12,0.25,1.68,2.15,Alloa,Airdrie Utd,alloa,airdrie_utd
+2022-10-22,SC2,Scotland-L1,2223,FC Edinburgh,Airdrie Utd,3.0,1.0,H,1.0,0.0,H,3.1,3.6,2.05,3.48,3.64,1.99,3.36,3.49,1.98,1.83,2.02,1.77,1.96,0.25,2.02,1.83,FC Edinburgh,Airdrie Utd,fc_edinburgh,airdrie_utd
+2022-11-05,SC2,Scotland-L1,2223,Clyde,Airdrie Utd,0.0,1.0,A,0.0,0.0,D,4.33,3.6,1.66,4.1,3.78,1.79,4.21,3.74,1.71,1.75,2.05,1.72,2.02,0.75,1.93,1.93,Clyde,Airdrie Utd,clyde,airdrie_utd
+2022-12-03,SC2,Scotland-L1,2223,Falkirk,Airdrie Utd,1.0,1.0,D,1.0,0.0,H,1.85,3.5,3.75,1.99,3.71,3.42,1.98,3.53,3.34,1.72,2.07,1.7,2.06,-0.5,1.9,1.95,Falkirk,Airdrie Utd,falkirk,airdrie_utd
+2022-12-23,SC2,Scotland-L1,2223,Montrose,Airdrie Utd,2.0,4.0,A,1.0,1.0,D,2.15,3.3,2.9,2.27,3.7,2.83,2.26,3.44,2.81,1.85,1.95,1.79,1.95,-0.25,1.98,1.88,Montrose,Airdrie Utd,montrose,airdrie_utd
+2023-01-07,SC2,Scotland-L1,2223,Peterhead,Airdrie Utd,0.0,3.0,A,0.0,0.0,D,5.0,3.6,1.62,5.99,3.78,1.58,5.18,3.77,1.59,1.88,1.98,1.8,1.95,0.75,2.02,1.83,Peterhead,Airdrie Utd,peterhead,airdrie_utd
+2023-01-14,SC2,Scotland-L1,2223,Kelty Hearts,Airdrie Utd,1.0,1.0,D,0.0,1.0,A,2.9,3.4,2.15,2.76,3.47,2.42,2.82,3.37,2.28,1.8,2.0,1.8,1.94,0.25,1.9,1.95,Kelty Hearts,Airdrie Utd,kelty_hearts,airdrie_utd
+2023-02-18,SC2,Scotland-L1,2223,Dunfermline,Airdrie Utd,1.0,1.0,D,0.0,1.0,A,1.85,3.2,4.2,1.93,3.42,3.96,1.87,3.32,3.93,2.08,1.73,1.99,1.76,-0.5,1.9,1.95,Dunfermline,Airdrie Utd,dunfermline,airdrie_utd
+2023-03-04,SC2,Scotland-L1,2223,Queen of Sth,Airdrie Utd,3.0,2.0,H,2.0,0.0,H,2.55,3.3,2.4,2.55,3.5,2.59,2.53,3.39,2.49,1.88,1.98,1.75,2.01,0.0,1.98,1.83,Queen of Sth,Airdrie Utd,queen_of_sth,airdrie_utd
+2023-03-24,SC2,Scotland-L1,2223,Clyde,Airdrie Utd,1.0,5.0,A,1.0,3.0,A,6.0,4.2,1.44,6.02,4.53,1.48,5.81,4.32,1.46,1.62,2.25,1.58,2.27,1.0,2.13,1.75,Clyde,Airdrie Utd,clyde,airdrie_utd
+2023-04-01,SC2,Scotland-L1,2223,Alloa,Airdrie Utd,0.0,1.0,A,0.0,1.0,A,2.63,3.25,2.38,2.74,3.62,2.36,2.66,3.41,2.37,1.7,2.1,1.67,2.11,0.0,2.02,1.83,Alloa,Airdrie Utd,alloa,airdrie_utd
+2023-04-15,SC2,Scotland-L1,2223,Falkirk,Airdrie Utd,2.0,2.0,D,1.0,0.0,H,1.85,3.6,3.4,1.94,3.62,3.65,1.89,3.54,3.53,1.9,1.95,1.83,1.9,-0.5,1.95,1.9,Falkirk,Airdrie Utd,falkirk,airdrie_utd
+2023-05-06,SC2,Scotland-L1,2223,FC Edinburgh,Airdrie Utd,1.0,4.0,A,0.0,1.0,A,3.0,3.75,2.0,3.48,3.87,1.93,3.24,3.69,1.97,1.53,2.4,1.51,2.41,0.5,1.77,2.02,FC Edinburgh,Airdrie Utd,fc_edinburgh,airdrie_utd
+2023-08-05,SC1,Scotland-Champ,2324,Dunfermline,Airdrie Utd,2.0,1.0,H,1.0,1.0,D,1.85,3.4,3.75,1.96,3.69,3.78,1.9,3.49,3.65,1.9,1.95,1.87,1.87,-0.5,1.95,1.9,Dunfermline,Airdrie Utd,dunfermline,airdrie_utd
+2023-09-02,SC1,Scotland-Champ,2324,Dundee United,Airdrie Utd,2.0,0.0,H,1.0,0.0,H,1.7,4.0,4.5,1.64,4.0,5.26,1.63,3.81,4.82,1.88,1.98,1.82,1.92,-0.75,1.85,2.0,Dundee United,Airdrie Utd,dundee_united,airdrie_utd
+2023-09-16,SC1,Scotland-Champ,2324,Arbroath,Airdrie Utd,4.0,0.0,H,2.0,0.0,H,2.55,3.3,2.7,2.43,3.68,2.77,2.41,3.41,2.67,1.85,2.0,1.81,1.93,0.0,1.83,2.03,Arbroath,Airdrie Utd,arbroath,airdrie_utd
+2023-09-30,SC1,Scotland-Champ,2324,Morton,Airdrie Utd,0.0,1.0,A,0.0,1.0,A,2.15,3.2,3.2,2.16,3.81,3.13,2.14,3.48,3.04,1.73,2.08,1.72,2.05,-0.25,1.9,1.95,Morton,Airdrie Utd,morton,airdrie_utd
+2023-10-28,SC1,Scotland-Champ,2324,Inverness C,Airdrie Utd,1.0,0.0,H,1.0,0.0,H,2.1,3.6,3.0,2.28,3.64,3.03,2.21,3.47,2.91,1.73,2.08,1.75,2.01,-0.25,1.9,1.95,Inverness Caledonian Thistle,Airdrie Utd,inverness_caledonian_thistle,airdrie_utd
+2023-11-04,SC1,Scotland-Champ,2324,Raith Rvs,Airdrie Utd,1.0,1.0,D,1.0,0.0,H,1.6,4.0,4.5,1.68,4.08,4.78,1.64,3.93,4.56,1.62,2.25,1.66,2.14,-0.75,1.8,2.05,Raith Rvs,Airdrie Utd,raith_rvs,airdrie_utd
+2023-12-02,SC1,Scotland-Champ,2324,Partick,Airdrie Utd,2.0,1.0,H,2.0,0.0,H,1.67,4.0,4.0,1.76,4.18,4.15,1.71,3.88,4.19,1.7,2.1,1.67,2.12,-0.75,1.95,1.9,Partick,Airdrie Utd,partick,airdrie_utd
+2023-12-16,SC1,Scotland-Champ,2324,Ayr,Airdrie Utd,1.0,0.0,H,1.0,0.0,H,2.1,3.4,3.0,2.22,3.42,3.31,2.15,3.33,3.15,2.0,1.85,1.92,1.82,-0.25,1.93,1.93,Ayr,Airdrie Utd,ayr,airdrie_utd
+2023-12-30,SC1,Scotland-Champ,2324,Queens Park,Airdrie Utd,1.0,2.0,A,1.0,0.0,H,2.4,3.4,2.4,2.61,3.4,2.73,2.51,3.38,2.56,1.83,2.03,1.78,1.96,0.0,1.9,1.95,Queens Park,Airdrie Utd,queens_park,airdrie_utd
+2024-02-24,SC1,Scotland-Champ,2324,Morton,Airdrie Utd,2.0,1.0,H,2.0,0.0,H,1.91,3.3,3.8,2.07,3.53,3.59,1.98,3.35,3.55,2.05,1.8,1.97,1.77,-0.5,1.95,1.9,Morton,Airdrie Utd,morton,airdrie_utd
+2024-02-27,SC1,Scotland-Champ,2324,Dundee United,Airdrie Utd,0.0,2.0,A,0.0,0.0,D,1.44,4.2,7.0,1.42,4.72,7.37,1.39,4.43,7.21,1.88,1.98,1.78,1.97,-1.25,1.98,1.88,Dundee United,Airdrie Utd,dundee_united,airdrie_utd
+2024-03-05,SC1,Scotland-Champ,2324,Dunfermline,Airdrie Utd,0.0,2.0,A,0.0,1.0,A,2.3,3.1,3.0,2.45,3.28,3.02,2.38,3.19,2.86,2.1,1.7,2.07,1.71,0.0,1.68,2.15,Dunfermline,Airdrie Utd,dunfermline,airdrie_utd
+2024-03-09,SC1,Scotland-Champ,2324,Inverness C,Airdrie Utd,0.0,0.0,D,0.0,0.0,D,2.15,3.1,3.3,2.2,3.35,3.43,2.13,3.21,3.29,2.15,1.67,2.11,1.68,-0.25,1.85,2.0,Inverness Caledonian Thistle,Airdrie Utd,inverness_caledonian_thistle,airdrie_utd
+2024-03-29,SC1,Scotland-Champ,2324,Ayr,Airdrie Utd,2.0,1.0,H,0.0,1.0,A,2.6,3.25,2.5,2.74,3.17,2.71,2.61,3.18,2.6,2.08,1.73,2.03,1.73,0.0,1.95,1.9,Ayr,Airdrie Utd,ayr,airdrie_utd
+2024-04-02,SC1,Scotland-Champ,2324,Arbroath,Airdrie Utd,1.0,2.0,A,0.0,0.0,D,4.0,3.75,1.75,4.57,3.74,1.76,4.3,3.65,1.74,1.95,1.9,1.88,1.87,0.75,1.83,2.03,Arbroath,Airdrie Utd,arbroath,airdrie_utd
+2024-04-09,SC1,Scotland-Champ,2324,Raith Rvs,Airdrie Utd,1.0,3.0,A,0.0,2.0,A,1.91,3.3,3.6,2.03,3.34,3.87,1.99,3.29,3.62,2.15,1.67,2.11,1.68,-0.5,2.03,1.83,Raith Rvs,Airdrie Utd,raith_rvs,airdrie_utd
+2024-04-20,SC1,Scotland-Champ,2324,Partick,Airdrie Utd,4.0,0.0,H,0.0,0.0,D,2.1,3.4,3.1,2.19,3.66,3.12,2.1,3.45,3.13,1.83,2.03,1.79,1.95,-0.25,1.88,1.98,Partick,Airdrie Utd,partick,airdrie_utd
+2024-05-03,SC1,Scotland-Champ,2324,Queens Park,Airdrie Utd,2.0,0.0,H,1.0,0.0,H,1.95,3.5,3.2,2.03,3.82,3.38,2.01,3.61,3.22,1.73,2.08,1.71,2.06,-0.5,2.0,1.85,Queens Park,Airdrie Utd,queens_park,airdrie_utd
+2024-08-09,SC1,Scotland-Champ,2425,Ayr,Airdrie Utd,5.0,0.0,H,2.0,0.0,H,2.15,3.3,3.25,2.21,3.32,3.38,2.15,3.27,3.22,1.98,1.88,1.9,1.83,-0.25,1.9,1.95,Ayr,Airdrie Utd,ayr,airdrie_utd
+2024-08-31,SC1,Scotland-Champ,2425,Hamilton,Airdrie Utd,2.0,2.0,D,0.0,0.0,D,2.25,3.4,3.1,2.28,3.56,2.98,2.24,3.43,2.91,1.83,2.03,1.76,2.01,-0.25,1.98,1.88,Hamilton Academical,Airdrie Utd,hamilton_academical,airdrie_utd
+2024-09-21,SC1,Scotland-Champ,2425,Morton,Airdrie Utd,2.0,0.0,H,1.0,0.0,H,2.25,3.4,2.75,2.38,3.16,3.04,2.31,3.21,2.95,2.08,1.73,2.07,1.71,-0.25,2.03,1.83,Morton,Airdrie Utd,morton,airdrie_utd
+2024-09-28,SC1,Scotland-Champ,2425,Livingston,Airdrie Utd,2.0,1.0,H,1.0,1.0,D,1.44,4.33,5.5,1.44,4.35,6.61,1.45,4.24,6.19,1.75,2.05,1.73,2.03,-1.0,1.75,2.05,Livingston,Airdrie Utd,livingston,airdrie_utd
+2024-10-19,SC1,Scotland-Champ,2425,Partick,Airdrie Utd,2.0,1.0,H,1.0,1.0,D,1.65,4.0,4.2,1.64,3.83,4.94,1.65,3.77,4.73,1.88,1.98,1.84,1.9,-0.75,1.82,1.92,Partick,Airdrie Utd,partick,airdrie_utd
+2024-10-29,SC1,Scotland-Champ,2425,Raith Rvs,Airdrie Utd,1.0,0.0,H,1.0,0.0,H,1.67,3.75,4.33,1.72,3.85,4.68,1.71,3.67,4.43,2.0,1.85,1.94,1.82,-0.75,1.93,1.93,Raith Rvs,Airdrie Utd,raith_rvs,airdrie_utd
+2024-11-09,SC1,Scotland-Champ,2425,Falkirk,Airdrie Utd,2.0,0.0,H,1.0,0.0,H,1.25,5.5,8.0,1.22,6.07,10.3,1.24,5.66,9.93,1.5,2.5,1.46,2.54,-1.5,1.73,2.08,Falkirk,Airdrie Utd,falkirk,airdrie_utd
+2024-11-16,SC1,Scotland-Champ,2425,Dunfermline,Airdrie Utd,1.0,0.0,H,0.0,0.0,D,1.8,3.5,4.5,1.72,3.71,4.76,1.74,3.57,4.43,1.98,1.88,1.93,1.82,-0.75,2.05,1.8,Dunfermline,Airdrie Utd,dunfermline,airdrie_utd
+2024-12-07,SC1,Scotland-Champ,2425,Queens Park,Airdrie Utd,2.0,0.0,H,2.0,0.0,H,1.67,3.7,4.5,1.69,4.14,4.16,1.69,3.85,4.29,1.88,1.98,1.82,1.92,-0.75,1.9,1.95,Queens Park,Airdrie Utd,queens_park,airdrie_utd
+2024-12-28,SC1,Scotland-Champ,2425,Hamilton,Airdrie Utd,3.0,2.0,H,2.0,2.0,D,1.8,3.6,3.5,1.85,3.81,3.77,1.86,3.63,3.65,1.75,2.05,1.74,2.02,-0.5,1.88,1.98,Hamilton Academical,Airdrie Utd,hamilton_academical,airdrie_utd
+2025-01-14,SC1,Scotland-Champ,2425,Livingston,Airdrie Utd,2.0,1.0,H,1.0,1.0,D,1.33,4.5,8.0,1.3,5.27,10.21,1.31,4.99,8.37,1.7,2.1,1.7,2.08,-1.5,2.0,1.85,Livingston,Airdrie Utd,livingston,airdrie_utd
+2025-02-15,SC1,Scotland-Champ,2425,Morton,Airdrie Utd,2.0,2.0,D,1.0,1.0,D,1.95,3.4,3.9,2.0,3.53,3.5,1.96,3.41,3.52,1.88,1.98,1.86,1.87,-0.5,2.0,1.85,Morton,Airdrie Utd,morton,airdrie_utd
+2025-02-22,SC1,Scotland-Champ,2425,Partick,Airdrie Utd,1.0,1.0,D,1.0,0.0,H,1.7,3.8,4.2,1.72,4.01,4.13,1.7,3.87,4.14,1.67,2.15,1.66,2.12,-0.75,1.93,1.93,Partick,Airdrie Utd,partick,airdrie_utd
+2025-03-01,SC1,Scotland-Champ,2425,Ayr,Airdrie Utd,4.0,1.0,H,3.0,0.0,H,1.48,4.75,5.75,1.44,4.36,6.6,1.45,4.38,6.06,1.75,2.05,1.73,2.01,-1.25,2.05,1.8,Ayr,Airdrie Utd,ayr,airdrie_utd
+2025-03-22,SC1,Scotland-Champ,2425,Falkirk,Airdrie Utd,2.0,0.0,H,0.0,0.0,D,1.22,5.5,11.0,1.19,6.7,11.51,1.19,6.35,11.31,1.44,2.63,1.41,2.69,-1.75,1.78,2.03,Falkirk,Airdrie Utd,falkirk,airdrie_utd
+2025-04-02,SC1,Scotland-Champ,2425,Queens Park,Airdrie Utd,0.0,5.0,A,0.0,3.0,A,2.1,3.75,2.9,2.22,3.6,2.96,2.14,3.52,3.0,1.83,2.03,1.78,1.97,-0.25,1.93,1.93,Queens Park,Airdrie Utd,queens_park,airdrie_utd
+2025-04-12,SC1,Scotland-Champ,2425,Raith Rvs,Airdrie Utd,1.0,1.0,D,1.0,1.0,D,1.85,3.25,3.9,1.93,3.09,4.44,1.9,3.22,4.07,2.2,1.65,2.2,1.62,-0.5,1.93,1.93,Raith Rvs,Airdrie Utd,raith_rvs,airdrie_utd
+2025-04-26,SC1,Scotland-Champ,2425,Dunfermline,Airdrie Utd,0.0,0.0,D,0.0,0.0,D,2.0,3.3,3.4,2.07,3.21,3.67,2.05,3.26,3.49,2.05,1.75,2.03,1.73,-0.25,1.75,2.05,Dunfermline,Airdrie Utd,dunfermline,airdrie_utd
+2025-08-09,SC1,Scotland-Champ,2526,Dunfermline,Airdrie Utd,2.0,0.0,H,2.0,0.0,H,1.85,3.2,4.0,1.89,3.4,4.06,1.87,3.27,3.84,2.08,1.73,2.02,1.7,-0.5,1.9,1.9,Dunfermline,Airdrie Utd,dunfermline,airdrie_utd
+2025-08-30,SC1,Scotland-Champ,2526,Arbroath,Airdrie Utd,1.0,0.0,H,0.0,0.0,D,2.1,3.5,3.0,2.22,3.41,3.1,2.07,3.45,3.09,1.85,1.95,1.78,1.92,-0.25,1.88,1.93,Arbroath,Airdrie Utd,arbroath,airdrie_utd
+2025-09-12,SC1,Scotland-Champ,2526,Partick,Airdrie Utd,2.0,1.0,H,0.0,1.0,A,1.6,3.7,5.0,1.62,4.03,5.3,1.6,3.8,4.79,1.8,2.0,1.73,2.0,-0.75,1.78,2.03,Partick,Airdrie Utd,partick,airdrie_utd
+2025-09-27,SC1,Scotland-Champ,2526,Ayr,Airdrie Utd,4.0,2.0,H,4.0,1.0,H,1.55,4.1,5.25,1.54,4.16,5.46,1.56,3.86,5.07,1.8,2.0,1.75,1.97,-1.0,1.98,1.83,Ayr,Airdrie Utd,ayr,airdrie_utd
+2025-10-18,SC1,Scotland-Champ,2526,Queens Park,Airdrie Utd,0.0,0.0,D,0.0,0.0,D,2.15,3.2,3.1,2.24,3.37,3.1,2.13,3.29,3.08,1.93,1.88,1.85,1.85,-0.25,1.93,1.88,Queens Park,Airdrie Utd,queens_park,airdrie_utd
+2025-11-01,SC1,Scotland-Champ,2526,St Johnstone,Airdrie Utd,3.0,0.0,H,1.0,0.0,H,1.25,5.5,9.5,,,,1.26,5.11,9.58,1.7,2.1,1.67,2.08,-1.5,1.85,1.95,St Johnstone,Airdrie Utd,st_johnstone,airdrie_utd
+2025-11-15,SC1,Scotland-Champ,2526,Raith Rvs,Airdrie Utd,0.0,3.0,A,0.0,1.0,A,1.5,3.7,5.75,,,,1.48,3.85,6.11,1.98,1.83,1.94,1.77,-1.0,1.88,1.93,Raith Rvs,Airdrie Utd,raith_rvs,airdrie_utd
+2025-12-06,SC1,Scotland-Champ,2526,Ross County,Airdrie Utd,1.0,2.0,A,0.0,0.0,D,1.6,3.7,5.0,,,,1.6,3.7,4.92,1.75,2.05,1.78,1.92,-0.75,1.78,2.03,Ross County,Airdrie Utd,ross_county,airdrie_utd
+2025-12-13,SC1,Scotland-Champ,2526,Morton,Airdrie Utd,0.0,1.0,A,0.0,0.0,D,1.95,3.1,3.6,,,,1.96,3.19,3.61,2.15,1.67,2.12,1.64,-0.5,2.0,1.8,Morton,Airdrie Utd,morton,airdrie_utd
+2025-12-27,SC1,Scotland-Champ,2526,Arbroath,Airdrie Utd,1.0,1.0,D,0.0,0.0,D,1.73,3.3,4.33,,,,1.78,3.35,4.16,2.0,1.8,1.94,1.76,-0.5,1.8,2.0,Arbroath,Airdrie Utd,arbroath,airdrie_utd
+2026-01-10,SC1,Scotland-Champ,2526,Ayr,Airdrie Utd,1.0,1.0,D,1.0,1.0,D,1.57,3.5,5.0,,,,1.58,3.7,5.04,1.9,1.9,1.84,1.85,-1.0,2.08,1.73,Ayr,Airdrie Utd,ayr,airdrie_utd
+2026-01-31,SC1,Scotland-Champ,2526,Dunfermline,Airdrie Utd,0.0,2.0,A,0.0,1.0,A,1.7,3.3,4.33,,,,1.72,3.36,4.55,2.1,1.7,2.07,1.68,-0.75,1.98,1.83,Dunfermline,Airdrie Utd,dunfermline,airdrie_utd
+2026-02-21,SC1,Scotland-Champ,2526,Partick,Airdrie Utd,1.0,0.0,H,1.0,0.0,H,1.55,3.5,5.25,,,,1.55,3.76,5.3,1.9,1.9,1.84,1.86,-1.0,2.03,1.78,Partick,Airdrie Utd,partick,airdrie_utd
+2026-03-07,SC1,Scotland-Champ,2526,Queens Park,Airdrie Utd,1.0,0.0,H,1.0,0.0,H,2.5,3.1,2.55,,,,2.44,3.19,2.65,2.0,1.8,1.94,1.78,0.0,1.78,2.03,Queens Park,Airdrie Utd,queens_park,airdrie_utd
+2026-03-21,SC1,Scotland-Champ,2526,Raith Rvs,Airdrie Utd,3.0,1.0,H,0.0,0.0,D,2.05,3.0,3.4,,,,1.95,3.2,3.58,2.15,1.67,2.08,1.66,-0.25,1.83,1.98,Raith Rvs,Airdrie Utd,raith_rvs,airdrie_utd
+2026-04-04,SC1,Scotland-Champ,2526,Ross County,Airdrie Utd,0.0,4.0,A,0.0,3.0,A,1.8,3.3,3.9,,,,1.84,3.4,3.79,1.93,1.88,1.86,1.85,-0.5,1.83,1.98,Ross County,Airdrie Utd,ross_county,airdrie_utd
+2026-04-11,SC1,Scotland-Champ,2526,St Johnstone,Airdrie Utd,4.0,0.0,H,3.0,0.0,H,1.25,4.75,9.0,,,,1.27,5.1,8.79,1.62,2.25,1.58,2.26,-1.5,1.8,2.0,St Johnstone,Airdrie Utd,st_johnstone,airdrie_utd
+2026-05-01,SC1,Scotland-Champ,2526,Morton,Airdrie Utd,1.0,1.0,D,0.0,0.0,D,2.2,3.2,2.88,,,,2.25,3.28,2.83,1.85,1.95,1.81,1.9,-0.25,1.95,1.85,Morton,Airdrie Utd,morton,airdrie_utd
+2026-08-01,SC2,Scotland-L1,2627,Cove Rangers,Airdrie Utd,0.0,0.0,D,0.0,0.0,D,2.63,3.4,2.25,,,,2.66,3.38,2.29,2.0,1.8,1.94,1.76,0.0,2.08,1.73,Cove Rangers,Airdrie Utd,cove_rangers,airdrie_utd
+2026-08-15,SC2,Scotland-L1,2627,Hamilton,Airdrie Utd,4.0,0.0,H,1.0,0.0,H,1.9,3.3,3.4,,,,1.98,3.27,3.36,2.0,1.8,1.92,1.78,-0.5,2.0,1.8,Hamilton Academical,Airdrie Utd,hamilton_academical,airdrie_utd
+2026-09-05,SC2,Scotland-L1,2627,Queen of Sth,Airdrie Utd,2.0,1.0,H,0.0,1.0,A,2.5,3.5,2.4,,,,2.52,3.4,2.43,1.8,2.0,1.76,1.96,0.0,1.95,1.85,Queen of Sth,Airdrie Utd,queen_of_sth,airdrie_utd
+2026-09-19,SC2,Scotland-L1,2627,Peterhead,Airdrie Utd,1.0,2.0,A,0.0,1.0,A,2.88,3.4,2.2,,,,2.87,3.25,2.23,1.95,1.85,1.91,1.8,0.25,1.83,1.98,Peterhead,Airdrie Utd,peterhead,airdrie_utd
+2026-10-10,SC2,Scotland-L1,2627,East Kilbride,Airdrie Utd,2.0,2.0,D,2.0,1.0,H,1.83,3.5,3.6,,,,1.84,3.57,3.51,1.7,2.1,1.68,2.07,-0.5,1.88,1.93,East Kilbride,Airdrie Utd,east_kilbride,airdrie_utd

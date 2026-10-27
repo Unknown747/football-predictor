@@ -1,0 +1,121 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-07,E1,England-Champ,2122,Bristol City,Blackpool,1.0,1.0,D,1.0,0.0,H,2.15,3.4,3.3,2.27,3.39,3.35,2.22,3.32,3.3,2.2,1.66,2.17,1.7,-0.25,1.94,1.96,Bristol City,Blackpool,bristol_city,blackpool
+2021-08-21,E1,England-Champ,2122,Bournemouth,Blackpool,2.0,2.0,D,2.0,0.0,H,1.65,3.8,5.5,1.68,3.8,5.64,1.68,3.73,5.33,2.0,1.8,2.03,1.79,-0.75,1.9,2.0,Bournemouth,Blackpool,bournemouth,blackpool
+2021-08-28,E1,England-Champ,2122,Millwall,Blackpool,2.0,1.0,H,0.0,0.0,D,1.83,3.5,4.5,1.87,3.55,4.58,1.87,3.47,4.43,2.2,1.66,2.22,1.67,-0.5,1.89,2.04,Millwall,Blackpool,millwall,blackpool
+2021-09-18,E1,England-Champ,2122,Middlesbrough,Blackpool,1.0,2.0,A,1.0,0.0,H,1.83,3.4,4.75,1.85,3.5,4.92,1.84,3.43,4.61,2.2,1.66,2.22,1.67,-0.5,1.85,2.08,Middlesbrough,Blackpool,middlesbrough,blackpool
+2021-09-28,E1,England-Champ,2122,Hull,Blackpool,1.0,1.0,D,0.0,1.0,A,2.25,3.2,3.4,2.35,3.2,3.45,2.28,3.2,3.35,2.2,1.66,2.17,1.7,-0.25,1.97,1.93,Hull City,Blackpool,hull_city,blackpool
+2021-10-16,E1,England-Champ,2122,Nott'm Forest,Blackpool,2.0,1.0,H,1.0,0.0,H,2.0,3.3,4.0,2.06,3.42,4.01,2.03,3.37,3.78,2.1,1.72,2.14,1.71,-0.5,2.05,1.85,Nottingham Forest,Blackpool,nottingham_forest,blackpool
+2021-10-20,E1,England-Champ,2122,Reading,Blackpool,2.0,3.0,A,2.0,0.0,H,2.2,3.3,3.4,2.26,3.4,3.43,2.21,3.35,3.3,2.0,1.8,2.05,1.77,-0.25,1.92,1.98,Reading,Blackpool,reading,blackpool
+2021-10-30,E1,England-Champ,2122,Sheffield United,Blackpool,0.0,1.0,A,0.0,0.0,D,1.57,4.0,6.0,1.6,4.05,6.29,1.58,4.0,5.89,1.8,2.0,1.83,1.97,-1.0,2.0,1.9,Sheffield United,Blackpool,sheffield_united,blackpool
+2021-11-20,E1,England-Champ,2122,Swansea,Blackpool,1.0,1.0,D,1.0,0.0,H,1.85,3.5,4.5,1.9,3.52,4.56,1.88,3.48,4.3,2.1,1.72,2.07,1.76,-0.5,1.88,2.02,Swansea City,Blackpool,swansea_city,blackpool
+2021-11-27,E1,England-Champ,2122,Birmingham,Blackpool,1.0,0.0,H,0.0,0.0,D,2.1,3.25,3.75,2.22,3.22,3.75,2.17,3.24,3.57,2.2,1.66,2.15,1.7,-0.25,1.88,2.02,Birmingham,Blackpool,birmingham,blackpool
+2021-12-11,E1,England-Champ,2122,Derby,Blackpool,1.0,0.0,H,0.0,0.0,D,2.4,3.0,3.3,2.47,3.16,3.27,2.41,3.13,3.15,2.3,1.61,2.36,1.59,-0.25,2.06,1.84,Derby,Blackpool,derby,blackpool
+2021-12-26,E1,England-Champ,2122,Huddersfield,Blackpool,3.0,2.0,H,1.0,2.0,A,2.15,3.3,3.5,2.24,3.38,3.51,2.18,3.32,3.4,2.2,1.66,2.19,1.68,-0.25,1.89,2.01,Huddersfield,Blackpool,huddersfield,blackpool
+2022-01-29,E1,England-Champ,2122,Fulham,Blackpool,1.0,1.0,D,1.0,0.0,H,1.3,5.25,11.0,1.31,5.48,11.6,1.3,5.38,10.07,1.61,2.3,1.6,2.34,-1.5,1.92,1.98,Fulham,Blackpool,fulham,blackpool
+2022-02-08,E1,England-Champ,2122,Coventry,Blackpool,1.0,1.0,D,1.0,1.0,D,1.66,3.8,5.25,1.69,3.95,5.36,1.67,3.79,5.33,2.1,1.72,2.07,1.76,-0.75,1.9,2.0,Coventry,Blackpool,coventry,blackpool
+2022-02-19,E1,England-Champ,2122,Cardiff,Blackpool,1.0,1.0,D,0.0,1.0,A,2.0,3.4,3.8,2.1,3.4,3.88,2.06,3.36,3.73,2.2,1.66,2.14,1.7,-0.5,2.06,1.84,Cardiff City,Blackpool,cardiff_city,blackpool
+2022-02-23,E1,England-Champ,2122,QPR,Blackpool,2.0,1.0,H,1.0,0.0,H,1.9,3.5,4.0,1.97,3.44,4.34,1.95,3.45,4.0,2.0,1.8,2.05,1.77,-0.5,1.95,1.95,Queens Park Rangers,Blackpool,queens_park_rangers,blackpool
+2022-03-05,E1,England-Champ,2122,Stoke,Blackpool,0.0,1.0,A,0.0,0.0,D,1.9,3.4,4.33,1.93,3.42,4.54,1.92,3.41,4.24,2.1,1.72,2.12,1.72,-0.5,1.9,2.0,Stoke City,Blackpool,stoke_city,blackpool
+2022-04-05,E1,England-Champ,2122,Preston,Blackpool,1.0,0.0,H,1.0,0.0,H,2.2,3.2,3.4,2.34,3.17,3.52,2.29,3.15,3.39,2.3,1.61,2.33,1.6,-0.25,1.98,1.92,Preston,Blackpool,preston,blackpool
+2022-04-09,E1,England-Champ,2122,Blackburn,Blackpool,1.0,1.0,D,1.0,0.0,H,1.72,3.75,5.0,1.75,3.86,5.05,1.74,3.68,4.87,2.2,1.66,2.17,1.68,-0.75,2.0,1.9,Blackburn,Blackpool,blackburn,blackpool
+2022-04-15,E1,England-Champ,2122,West Brom,Blackpool,2.0,1.0,H,1.0,0.0,H,1.7,3.8,5.0,1.75,3.71,5.33,1.73,3.64,5.08,2.2,1.66,2.15,1.7,-0.75,1.98,1.92,West Bromwich Albion,Blackpool,west_bromwich_albion,blackpool
+2022-04-23,E1,England-Champ,2122,Luton,Blackpool,1.0,1.0,D,1.0,0.0,H,1.9,3.5,4.2,1.94,3.57,4.27,1.91,3.51,4.15,2.0,1.8,2.05,1.77,-0.5,1.92,1.98,Luton,Blackpool,luton,blackpool
+2022-04-26,E1,England-Champ,2122,Barnsley,Blackpool,0.0,2.0,A,0.0,1.0,A,2.87,3.6,2.3,3.07,3.57,2.37,3.0,3.42,2.35,2.0,1.85,1.99,1.82,0.25,1.87,2.03,Barnsley,Blackpool,barnsley,blackpool
+2022-05-07,E1,England-Champ,2122,Peterboro,Blackpool,5.0,0.0,H,1.0,0.0,H,3.3,3.6,2.1,3.25,4.04,2.11,3.21,3.8,2.1,1.57,2.37,1.57,2.39,0.25,2.05,1.85,Peterborough United,Blackpool,peterborough_united,blackpool
+2022-08-06,E1,England-Champ,2223,Stoke,Blackpool,2.0,0.0,H,1.0,0.0,H,2.05,3.4,3.75,2.12,3.36,3.85,2.07,3.35,3.71,2.1,1.72,2.12,1.72,-0.5,2.06,1.84,Stoke City,Blackpool,stoke_city,blackpool
+2022-08-16,E1,England-Champ,2223,QPR,Blackpool,0.0,1.0,A,0.0,1.0,A,2.0,3.6,3.75,1.99,3.69,3.91,1.98,3.58,3.75,1.95,1.9,1.94,1.87,-0.5,1.97,1.93,Queens Park Rangers,Blackpool,queens_park_rangers,blackpool
+2022-08-20,E1,England-Champ,2223,Burnley,Blackpool,3.0,3.0,D,3.0,1.0,H,1.57,4.0,6.0,1.58,4.22,6.23,1.56,4.02,6.14,1.98,1.88,1.96,1.85,-1.0,2.0,1.9,Burnley,Blackpool,burnley,blackpool
+2022-09-04,E1,England-Champ,2223,Huddersfield,Blackpool,0.0,1.0,A,0.0,1.0,A,2.5,3.25,2.87,2.53,3.47,2.91,2.5,3.31,2.85,2.1,1.77,2.04,1.78,0.0,1.8,2.1,Huddersfield,Blackpool,huddersfield,blackpool
+2022-09-14,E1,England-Champ,2223,Rotherham,Blackpool,3.0,0.0,H,1.0,0.0,H,2.3,3.2,3.25,2.32,3.32,3.38,2.29,3.3,3.17,2.0,1.8,2.04,1.77,-0.25,1.98,1.92,Rotherham United,Blackpool,rotherham_united,blackpool
+2022-09-17,E1,England-Champ,2223,Millwall,Blackpool,2.0,1.0,H,1.0,1.0,D,2.0,3.4,4.0,2.0,3.47,4.15,2.0,3.42,3.84,2.1,1.72,2.1,1.73,-0.5,2.01,1.89,Millwall,Blackpool,millwall,blackpool
+2022-10-04,E1,England-Champ,2223,Sunderland,Blackpool,0.0,0.0,D,0.0,0.0,D,1.9,3.5,4.0,1.93,3.62,4.24,1.9,3.54,4.05,2.0,1.85,1.99,1.82,-0.5,1.91,1.99,Sunderland,Blackpool,sunderland,blackpool
+2022-10-15,E1,England-Champ,2223,Sheffield United,Blackpool,3.0,3.0,D,2.0,2.0,D,1.57,4.0,6.0,1.55,4.27,6.62,1.54,4.08,6.13,1.85,2.0,1.85,1.95,-1.0,1.94,1.96,Sheffield United,Blackpool,sheffield_united,blackpool
+2022-10-29,E1,England-Champ,2223,Coventry,Blackpool,1.0,2.0,A,1.0,0.0,H,1.95,3.4,4.0,1.98,3.59,4.06,1.99,3.44,3.82,2.0,1.8,2.02,1.78,-0.5,1.98,1.92,Coventry,Blackpool,coventry,blackpool
+2022-11-01,E1,England-Champ,2223,West Brom,Blackpool,1.0,0.0,H,0.0,0.0,D,1.66,4.0,5.0,1.67,3.97,5.56,1.66,3.9,5.16,1.83,2.02,1.82,1.98,-0.75,1.84,2.06,West Bromwich Albion,Blackpool,west_bromwich_albion,blackpool
+2022-11-12,E1,England-Champ,2223,Wigan,Blackpool,2.0,1.0,H,0.0,1.0,A,2.25,3.4,3.2,2.31,3.45,3.27,2.26,3.38,3.15,2.02,1.83,2.04,1.77,-0.25,1.98,1.92,Wigan Athletic,Blackpool,wigan_athletic,blackpool
+2022-12-17,E1,England-Champ,2223,Cardiff,Blackpool,1.0,1.0,D,1.0,0.0,H,1.83,3.5,4.5,1.88,3.56,4.59,1.85,3.52,4.35,2.1,1.73,2.08,1.74,-0.5,1.84,2.06,Cardiff City,Blackpool,cardiff_city,blackpool
+2022-12-26,E1,England-Champ,2223,Hull,Blackpool,1.0,1.0,D,0.0,1.0,A,2.1,3.4,3.75,2.09,3.48,3.73,2.08,3.38,3.56,2.1,1.73,2.11,1.73,-0.25,1.73,2.08,Hull City,Blackpool,hull_city,blackpool
+2023-01-14,E1,England-Champ,2223,Watford,Blackpool,2.0,0.0,H,0.0,0.0,D,1.8,3.75,4.33,1.81,3.86,4.61,1.79,3.71,4.41,1.95,1.9,1.93,1.88,-0.5,1.75,2.05,Watford,Blackpool,watford,blackpool
+2023-02-04,E1,England-Champ,2223,Middlesbrough,Blackpool,3.0,0.0,H,1.0,0.0,H,1.53,4.0,6.5,1.55,4.0,7.33,1.54,4.08,6.3,1.8,2.0,1.81,2.0,-1.0,1.93,1.97,Middlesbrough,Blackpool,middlesbrough,blackpool
+2023-02-15,E1,England-Champ,2223,Swansea,Blackpool,2.0,1.0,H,1.0,0.0,H,1.67,4.0,5.0,1.66,4.08,5.44,1.67,3.95,4.98,1.85,2.0,1.84,1.97,-0.75,1.86,2.04,Swansea City,Blackpool,swansea_city,blackpool
+2023-02-21,E1,England-Champ,2223,Blackburn,Blackpool,1.0,0.0,H,1.0,0.0,H,2.0,3.5,3.8,2.03,3.52,3.98,2.01,3.4,3.81,2.1,1.73,2.1,1.73,-0.5,2.02,1.88,Blackburn,Blackpool,blackburn,blackpool
+2023-02-25,E1,England-Champ,2223,Reading,Blackpool,3.0,1.0,H,1.0,0.0,H,2.1,3.5,3.5,2.13,3.51,3.56,2.11,3.41,3.46,2.1,1.73,2.07,1.75,-0.25,1.83,2.07,Reading,Blackpool,reading,blackpool
+2023-03-11,E1,England-Champ,2223,Bristol City,Blackpool,2.0,0.0,H,0.0,0.0,D,1.95,3.6,4.0,1.95,3.61,4.16,1.94,3.5,3.92,2.05,1.8,2.04,1.77,-0.5,1.95,1.95,Bristol City,Blackpool,bristol_city,blackpool
+2023-04-01,E1,England-Champ,2223,Preston,Blackpool,3.0,1.0,H,2.0,0.0,H,2.1,3.2,3.8,2.11,3.41,3.82,2.07,3.34,3.66,2.2,1.67,2.2,1.67,-0.5,2.09,1.81,Preston,Blackpool,preston,blackpool
+2023-04-10,E1,England-Champ,2223,Luton,Blackpool,3.0,1.0,H,1.0,1.0,D,1.53,4.0,7.0,1.53,4.19,7.14,1.52,4.05,6.71,2.0,1.8,2.03,1.78,-1.0,1.92,1.98,Luton,Blackpool,luton,blackpool
+2023-04-22,E1,England-Champ,2223,Birmingham,Blackpool,0.0,1.0,A,0.0,0.0,D,2.15,3.25,3.6,2.24,3.36,3.53,2.17,3.32,3.45,2.1,1.73,2.11,1.72,-0.25,1.84,2.06,Birmingham,Blackpool,birmingham,blackpool
+2023-05-08,E1,England-Champ,2223,Norwich,Blackpool,0.0,1.0,A,0.0,1.0,A,1.53,4.0,6.5,1.53,4.63,5.99,1.52,4.42,5.92,1.67,2.2,1.68,2.17,-1.0,1.87,2.03,Norwich City,Blackpool,norwich_city,blackpool
+2023-08-12,E2,England-L1,2324,Exeter,Blackpool,0.0,0.0,D,0.0,0.0,D,2.88,3.3,2.5,2.96,3.32,2.54,2.83,3.32,2.44,1.93,1.93,1.89,1.88,0.0,2.05,1.8,Exeter City,Blackpool,exeter_city,blackpool
+2023-08-26,E2,England-L1,2324,Lincoln,Blackpool,3.0,0.0,H,2.0,0.0,H,2.63,3.3,2.7,2.72,3.18,2.85,2.63,3.17,2.73,2.2,1.65,2.2,1.66,0.0,1.9,1.95,Lincoln City,Blackpool,lincoln_city,blackpool
+2023-09-16,E2,England-L1,2324,Wycombe,Blackpool,2.0,0.0,H,1.0,0.0,H,2.6,3.5,2.6,2.81,3.43,2.59,2.67,3.35,2.56,2.0,1.8,2.03,1.76,0.0,1.95,1.9,Wycombe Wanderers,Blackpool,wycombe_wanderers,blackpool
+2023-09-30,E2,England-L1,2324,Barnsley,Blackpool,0.0,1.0,A,0.0,1.0,A,2.15,3.8,3.1,2.26,3.6,3.19,2.18,3.48,3.16,2.0,1.85,1.96,1.81,-0.25,1.9,1.95,Barnsley,Blackpool,barnsley,blackpool
+2023-10-07,E2,England-L1,2324,Charlton,Blackpool,2.0,2.0,D,0.0,1.0,A,2.38,3.5,2.88,2.38,3.57,3.0,2.33,3.41,2.91,1.9,1.95,1.87,1.89,-0.25,2.03,1.83,Charlton,Blackpool,charlton,blackpool
+2023-10-21,E2,England-L1,2324,Oxford,Blackpool,1.0,1.0,D,1.0,0.0,H,1.91,3.5,4.2,1.94,3.64,4.09,1.89,3.53,3.92,1.9,1.95,1.86,1.89,-0.5,1.9,1.95,Oxford United,Blackpool,oxford_united,blackpool
+2023-11-01,E2,England-L1,2324,Fleetwood Town,Blackpool,3.0,3.0,D,2.0,0.0,H,3.0,3.3,2.38,3.05,3.38,2.44,2.91,3.34,2.38,1.93,1.93,1.88,1.88,0.25,1.8,2.05,Fleetwood Town,Blackpool,fleetwood_town,blackpool
+2023-11-11,E2,England-L1,2324,Bolton,Blackpool,1.0,0.0,H,0.0,0.0,D,2.15,3.5,3.3,2.16,3.76,3.28,2.11,3.57,3.23,1.73,2.08,1.73,2.06,-0.25,1.85,2.0,Bolton,Blackpool,bolton,blackpool
+2023-11-25,E2,England-L1,2324,Portsmouth,Blackpool,0.0,4.0,A,0.0,1.0,A,2.0,3.6,3.6,2.03,3.72,3.58,2.0,3.55,3.51,1.9,1.95,1.85,1.92,-0.5,2.03,1.83,Portsmouth,Blackpool,portsmouth,blackpool
+2023-12-16,E2,England-L1,2324,Cambridge,Blackpool,2.0,1.0,H,2.0,1.0,H,4.2,3.6,1.85,4.09,3.65,1.93,3.93,3.54,1.9,2.05,1.8,1.99,1.79,0.5,1.95,1.9,Cambridge United,Blackpool,cambridge_united,blackpool
+2023-12-26,E2,England-L1,2324,Burton,Blackpool,1.0,0.0,H,1.0,0.0,H,4.0,4.0,1.8,4.41,3.75,1.85,4.12,3.64,1.81,1.93,1.93,1.89,1.87,0.5,2.03,1.83,Burton Albion,Blackpool,burton_albion,blackpool
+2023-12-29,E2,England-L1,2324,Port Vale,Blackpool,3.0,0.0,H,1.0,0.0,H,3.4,3.4,2.15,3.31,3.47,2.15,3.31,3.38,2.13,2.05,1.75,2.02,1.76,0.25,1.98,1.88,Port Vale,Blackpool,port_vale,blackpool
+2024-01-20,E2,England-L1,2324,Bristol Rvs,Blackpool,1.0,2.0,A,1.0,2.0,A,2.6,3.5,2.6,2.62,3.5,2.74,2.57,3.36,2.61,1.95,1.9,1.89,1.87,0.0,1.9,1.95,Bristol Rvs,Blackpool,bristol_rvs,blackpool
+2024-02-03,E2,England-L1,2324,Stevenage,Blackpool,1.0,0.0,H,0.0,0.0,D,2.3,3.4,3.1,2.4,3.37,3.12,2.27,3.32,3.05,2.08,1.73,2.06,1.73,-0.25,2.0,1.85,Stevenage,Blackpool,stevenage,blackpool
+2024-02-13,E2,England-L1,2324,Cheltenham,Blackpool,2.0,0.0,H,1.0,0.0,H,3.3,3.5,2.15,3.63,3.48,2.12,3.37,3.35,2.11,2.08,1.73,2.06,1.73,0.25,2.03,1.83,Cheltenham Town,Blackpool,cheltenham_town,blackpool
+2024-02-17,E2,England-L1,2324,Peterboro,Blackpool,1.0,2.0,A,1.0,0.0,H,1.95,3.5,4.0,1.95,3.86,3.81,1.93,3.7,3.55,1.65,2.2,1.62,2.22,-0.5,1.98,1.88,Peterborough United,Blackpool,peterborough_united,blackpool
+2024-02-27,E2,England-L1,2324,Leyton Orient,Blackpool,1.0,0.0,H,0.0,0.0,D,2.4,3.5,2.9,2.46,3.35,3.05,2.4,3.26,2.91,2.05,1.75,2.07,1.73,-0.25,2.1,1.78,Leyton Orient,Blackpool,leyton_orient,blackpool
+2024-03-02,E2,England-L1,2324,Shrewsbury,Blackpool,0.0,2.0,A,0.0,1.0,A,4.2,3.5,1.91,4.0,3.63,1.96,3.89,3.49,1.9,2.1,1.7,2.1,1.7,0.5,1.93,1.93,Shrewsbury Town,Blackpool,shrewsbury_town,blackpool
+2024-03-12,E2,England-L1,2324,Northampton,Blackpool,0.0,1.0,A,0.0,0.0,D,4.0,3.6,1.91,4.28,3.6,1.91,3.98,3.52,1.88,2.03,1.83,1.99,1.79,0.5,1.95,1.9,Northampton Town,Blackpool,northampton_town,blackpool
+2024-03-16,E2,England-L1,2324,Wigan,Blackpool,1.0,0.0,H,1.0,0.0,H,3.2,3.5,2.2,3.41,3.38,2.25,3.26,3.32,2.18,2.1,1.7,2.11,1.69,0.25,1.93,1.93,Wigan Athletic,Blackpool,wigan_athletic,blackpool
+2024-03-29,E2,England-L1,2324,Derby,Blackpool,1.0,0.0,H,1.0,0.0,H,1.85,3.6,4.0,1.93,3.47,4.29,1.87,3.47,4.07,2.05,1.75,2.04,1.74,-0.5,1.88,1.98,Derby,Blackpool,derby,blackpool
+2024-04-13,E2,England-L1,2324,Carlisle,Blackpool,0.0,1.0,A,0.0,1.0,A,5.0,4.0,1.65,5.18,3.89,1.68,4.92,3.88,1.65,1.95,1.9,1.92,1.85,0.75,2.0,1.85,Carlisle United,Blackpool,carlisle_united,blackpool
+2024-04-27,E2,England-L1,2324,Reading,Blackpool,3.0,2.0,H,1.0,1.0,D,3.6,3.8,1.95,3.61,3.77,2.01,3.47,3.67,1.97,1.69,2.07,1.72,2.07,0.5,1.88,1.98,Reading,Blackpool,reading,blackpool
+2024-08-10,E2,England-L1,2425,Crawley Town,Blackpool,2.0,1.0,H,2.0,0.0,H,3.4,3.5,2.0,3.71,3.46,2.01,3.52,3.44,2.01,1.98,1.88,1.92,1.85,0.5,1.8,2.05,Crawley Town,Blackpool,crawley_town,blackpool
+2024-08-24,E2,England-L1,2425,Cambridge,Blackpool,4.0,4.0,D,1.0,3.0,A,3.9,3.4,1.95,3.89,3.41,1.97,3.81,3.4,1.95,2.08,1.73,2.04,1.74,0.5,1.88,1.98,Cambridge United,Blackpool,cambridge_united,blackpool
+2024-09-21,E2,England-L1,2425,Charlton,Blackpool,1.0,2.0,A,0.0,2.0,A,2.3,3.3,3.0,2.34,3.31,3.07,2.32,3.28,2.98,1.95,1.9,1.92,1.85,-0.25,2.05,1.8,Charlton,Blackpool,charlton,blackpool
+2024-09-24,E2,England-L1,2425,Huddersfield,Blackpool,0.0,2.0,A,0.0,2.0,A,1.85,3.5,4.0,1.88,3.92,3.91,1.88,3.71,3.76,1.7,2.1,1.71,2.09,-0.5,1.9,1.95,Huddersfield,Blackpool,huddersfield,blackpool
+2024-10-05,E2,England-L1,2425,Mansfield,Blackpool,2.0,0.0,H,2.0,0.0,H,2.63,3.6,2.4,2.72,3.74,2.38,2.65,3.61,2.39,1.62,2.25,1.63,2.22,0.0,2.03,1.83,Mansfield Town,Blackpool,mansfield_town,blackpool
+2024-10-22,E2,England-L1,2425,Peterboro,Blackpool,5.0,1.0,H,3.0,1.0,H,2.63,3.6,2.45,2.71,3.63,2.53,2.63,3.54,2.46,1.6,2.3,1.61,2.26,0.0,1.98,1.88,Peterborough United,Blackpool,peterborough_united,blackpool
+2024-11-09,E2,England-L1,2425,Leyton Orient,Blackpool,3.0,0.0,H,1.0,0.0,H,2.6,3.3,2.6,2.63,3.42,2.62,2.58,3.35,2.59,1.95,1.9,1.88,1.89,0.0,1.93,1.93,Leyton Orient,Blackpool,leyton_orient,blackpool
+2024-11-23,E2,England-L1,2425,Bolton,Blackpool,2.0,1.0,H,0.0,1.0,A,1.83,3.6,4.1,1.82,3.87,4.15,1.82,3.76,3.94,1.65,2.2,1.64,2.2,-0.5,1.85,2.0,Bolton,Blackpool,bolton,blackpool
+2024-11-26,E2,England-L1,2425,Bristol Rvs,Blackpool,0.0,2.0,A,0.0,1.0,A,2.9,3.5,2.2,3.09,3.62,2.27,2.99,3.5,2.22,1.67,2.15,1.68,2.13,0.25,1.88,1.98,Bristol Rvs,Blackpool,bristol_rvs,blackpool
+2024-12-04,E2,England-L1,2425,Shrewsbury,Blackpool,1.0,2.0,A,1.0,0.0,H,3.5,3.5,2.0,3.52,3.63,2.01,3.37,3.56,2.03,1.8,2.0,1.78,1.99,0.5,1.83,2.03,Shrewsbury Town,Blackpool,shrewsbury_town,blackpool
+2024-12-14,E2,England-L1,2425,Reading,Blackpool,0.0,3.0,A,0.0,2.0,A,2.3,3.5,2.8,2.34,3.62,2.85,2.31,3.57,2.8,1.65,2.2,1.63,2.23,-0.25,2.03,1.83,Reading,Blackpool,reading,blackpool
+2024-12-26,E2,England-L1,2425,Wrexham,Blackpool,2.0,1.0,H,1.0,1.0,D,2.1,3.6,3.2,2.12,3.72,3.16,2.09,3.53,3.18,1.88,1.98,1.85,1.91,-0.25,1.85,2.0,Wrexham,Blackpool,wrexham,blackpool
+2024-12-29,E2,England-L1,2425,Birmingham,Blackpool,0.0,0.0,D,0.0,0.0,D,1.48,4.5,6.0,1.48,4.4,6.2,1.46,4.38,6.15,1.7,2.1,1.69,2.11,-1.25,2.05,1.8,Birmingham,Blackpool,birmingham,blackpool
+2025-01-04,E2,England-L1,2425,Wycombe,Blackpool,1.0,1.0,D,1.0,0.0,H,1.81,3.7,3.8,1.9,3.64,3.89,1.85,3.61,3.88,1.85,2.0,1.82,1.94,-0.5,1.88,1.98,Wycombe Wanderers,Blackpool,wycombe_wanderers,blackpool
+2025-01-25,E2,England-L1,2425,Exeter,Blackpool,1.0,3.0,A,0.0,3.0,A,2.9,3.25,2.38,2.88,3.42,2.41,2.83,3.33,2.39,1.98,1.88,1.91,1.85,0.25,1.78,2.1,Exeter City,Blackpool,exeter_city,blackpool
+2025-01-28,E2,England-L1,2425,Lincoln,Blackpool,0.0,2.0,A,0.0,1.0,A,2.38,3.3,2.9,2.5,3.29,2.99,2.43,3.23,2.9,2.08,1.73,2.06,1.74,-0.25,2.1,1.78,Lincoln City,Blackpool,lincoln_city,blackpool
+2025-02-08,E2,England-L1,2425,Burton,Blackpool,1.0,1.0,D,1.0,0.0,H,3.3,3.4,2.1,3.32,3.41,2.17,3.29,3.39,2.11,1.95,1.9,1.92,1.85,0.25,2.0,1.85,Burton Albion,Blackpool,burton_albion,blackpool
+2025-03-01,E2,England-L1,2425,Stockport,Blackpool,2.0,1.0,H,0.0,1.0,A,1.73,3.6,4.75,1.76,3.67,4.58,1.75,3.57,4.42,2.0,1.85,1.95,1.82,-0.5,1.73,2.08,Stockport County,Blackpool,stockport_county,blackpool
+2025-03-08,E2,England-L1,2425,Barnsley,Blackpool,0.0,3.0,A,0.0,0.0,D,2.25,3.4,3.0,2.34,3.56,2.97,2.26,3.46,2.9,1.75,2.05,1.72,2.05,-0.25,2.0,1.85,Barnsley,Blackpool,barnsley,blackpool
+2025-03-22,E2,England-L1,2425,Northampton,Blackpool,0.0,2.0,A,0.0,1.0,A,3.0,3.25,2.3,3.13,3.25,2.34,3.07,3.22,2.28,2.1,1.7,2.06,1.72,0.25,1.85,2.0,Northampton Town,Blackpool,northampton_town,blackpool
+2025-04-05,E2,England-L1,2425,Rotherham,Blackpool,2.0,1.0,H,1.0,0.0,H,2.5,3.6,2.5,2.61,3.54,2.58,2.55,3.47,2.55,1.75,2.05,1.74,2.04,0.0,1.93,1.93,Rotherham United,Blackpool,rotherham_united,blackpool
+2025-04-18,E2,England-L1,2425,Stevenage,Blackpool,1.0,3.0,A,0.0,0.0,D,2.88,3.1,2.55,2.86,3.21,2.54,2.82,3.19,2.5,2.15,1.67,2.14,1.67,0.0,2.05,1.8,Stevenage,Blackpool,stevenage,blackpool
+2025-04-26,E2,England-L1,2425,Wigan,Blackpool,1.0,1.0,D,1.0,0.0,H,2.7,3.3,2.5,2.88,3.22,2.52,2.78,3.25,2.48,2.05,1.75,2.05,1.74,0.0,2.03,1.83,Wigan Athletic,Blackpool,wigan_athletic,blackpool
+2025-08-09,E2,England-L1,2526,Exeter,Blackpool,4.0,1.0,H,2.0,1.0,H,3.4,3.3,2.15,3.31,3.5,2.13,3.21,3.38,2.14,2.0,1.85,1.94,1.8,0.25,2.0,1.85,Exeter City,Blackpool,exeter_city,blackpool
+2025-08-19,E2,England-L1,2526,Mansfield,Blackpool,2.0,0.0,H,0.0,0.0,D,2.55,3.3,2.63,2.55,3.41,2.82,2.48,3.34,2.65,2.03,1.83,1.95,1.79,0.0,1.88,1.98,Mansfield Town,Blackpool,mansfield_town,blackpool
+2025-08-23,E2,England-L1,2526,Plymouth,Blackpool,1.0,0.0,H,0.0,0.0,D,2.6,3.3,2.6,2.66,3.38,2.61,2.62,3.38,2.54,1.95,1.9,1.89,1.85,0.0,1.93,1.93,Plymouth Argyle,Blackpool,plymouth_argyle,blackpool
+2025-09-13,E2,England-L1,2526,Northampton,Blackpool,1.0,0.0,H,0.0,0.0,D,2.57,3.4,2.57,2.61,3.29,2.72,2.61,3.2,2.68,2.4,1.53,2.33,1.55,0.0,1.9,1.95,Northampton Town,Blackpool,northampton_town,blackpool
+2025-09-27,E2,England-L1,2526,Bradford,Blackpool,1.0,0.0,H,0.0,0.0,D,1.91,3.4,3.7,1.98,3.63,3.61,1.94,3.55,3.68,1.93,1.93,1.83,1.9,-0.5,1.98,1.88,Bradford City,Blackpool,bradford_city,blackpool
+2025-10-11,E2,England-L1,2526,Stockport,Blackpool,1.0,0.0,H,0.0,0.0,D,1.68,3.6,4.5,1.74,3.77,4.57,1.77,3.66,4.32,1.98,1.88,1.91,1.84,-0.75,2.0,1.85,Stockport County,Blackpool,stockport_county,blackpool
+2025-10-25,E2,England-L1,2526,Peterboro,Blackpool,1.0,2.0,A,1.0,1.0,D,2.25,3.3,2.85,2.48,3.36,2.82,2.38,3.4,2.83,1.88,1.98,1.79,1.95,-0.25,2.03,1.83,Peterborough United,Blackpool,peterborough_united,blackpool
+2025-11-15,E2,England-L1,2526,Burton,Blackpool,1.0,0.0,H,0.0,0.0,D,2.15,3.5,2.95,,,,2.29,3.42,2.96,1.85,2.0,1.86,1.88,-0.25,1.98,1.88,Burton Albion,Blackpool,burton_albion,blackpool
+2025-11-22,E2,England-L1,2526,Leyton Orient,Blackpool,1.0,1.0,D,1.0,0.0,H,1.76,3.9,4.2,,,,1.79,3.75,4.16,1.83,2.03,1.78,1.95,-0.75,2.03,1.83,Leyton Orient,Blackpool,leyton_orient,blackpool
+2025-12-10,E2,England-L1,2526,Rotherham,Blackpool,0.0,3.0,A,0.0,2.0,A,2.25,3.05,3.05,,,,2.33,3.25,2.98,2.08,1.73,2.01,1.74,-0.25,2.03,1.83,Rotherham United,Blackpool,rotherham_united,blackpool
+2025-12-20,E2,England-L1,2526,Wigan,Blackpool,0.0,2.0,A,0.0,0.0,D,1.86,3.2,4.0,,,,1.93,3.33,3.97,2.1,1.7,2.04,1.71,-0.5,1.98,1.88,Wigan Athletic,Blackpool,wigan_athletic,blackpool
+2026-01-01,E2,England-L1,2526,Port Vale,Blackpool,5.0,1.0,H,0.0,1.0,A,2.55,3.05,2.65,,,,2.52,3.26,2.72,2.08,1.73,2.0,1.74,0.0,1.85,2.0,Port Vale,Blackpool,port_vale,blackpool
+2026-01-17,E2,England-L1,2526,Barnsley,Blackpool,2.0,1.0,H,1.0,0.0,H,2.1,3.4,3.2,,,,2.14,3.56,3.1,1.73,2.08,1.68,2.08,-0.25,1.88,1.98,Barnsley,Blackpool,barnsley,blackpool
+2026-01-31,E2,England-L1,2526,Luton,Blackpool,1.0,0.0,H,0.0,0.0,D,1.62,3.7,5.0,,,,1.68,3.69,4.86,1.95,1.9,1.89,1.85,-0.75,1.85,2.0,Luton,Blackpool,luton,blackpool
+2026-02-07,E2,England-L1,2526,Huddersfield,Blackpool,2.0,2.0,D,0.0,2.0,A,1.62,3.75,4.75,,,,1.66,3.76,4.86,1.85,1.95,1.81,1.92,-0.75,1.88,1.98,Huddersfield,Blackpool,huddersfield,blackpool
+2026-02-21,E2,England-L1,2526,Bolton,Blackpool,2.0,2.0,D,0.0,0.0,D,1.49,4.0,6.0,,,,1.52,4.18,5.7,1.73,2.08,1.68,2.07,-1.0,1.88,1.98,Bolton,Blackpool,bolton,blackpool
+2026-02-28,E2,England-L1,2526,Lincoln,Blackpool,4.0,0.0,H,1.0,0.0,H,1.46,4.33,5.75,,,,1.46,4.32,6.3,1.73,2.08,1.7,2.05,-1.25,2.05,1.8,Lincoln City,Blackpool,lincoln_city,blackpool
+2026-03-11,E2,England-L1,2526,AFC Wimbledon,Blackpool,4.0,1.0,H,1.0,0.0,H,2.1,3.25,3.25,,,,2.19,3.24,3.23,2.15,1.67,2.09,1.68,-0.25,1.9,1.95,AFC Wimbledon,Blackpool,afc_wimbledon,blackpool
+2026-03-14,E2,England-L1,2526,Doncaster,Blackpool,2.0,1.0,H,1.0,0.0,H,1.71,3.75,4.2,,,,1.77,3.68,4.18,1.85,1.95,1.78,1.96,-0.75,2.03,1.83,Doncaster Rovers,Blackpool,doncaster_rovers,blackpool
+2026-03-21,E2,England-L1,2526,Cardiff,Blackpool,0.0,0.0,D,0.0,0.0,D,1.33,4.75,7.5,,,,1.38,4.79,6.94,1.57,2.35,1.53,2.39,-1.25,1.83,2.03,Cardiff City,Blackpool,cardiff_city,blackpool
+2026-04-06,E2,England-L1,2526,Stevenage,Blackpool,1.0,0.0,H,0.0,0.0,D,1.79,3.1,4.33,,,,1.81,3.3,4.41,2.25,1.62,2.2,1.61,-0.5,1.8,2.05,Stevenage,Blackpool,stevenage,blackpool
+2026-04-18,E2,England-L1,2526,Wycombe,Blackpool,0.0,1.0,A,0.0,0.0,D,1.81,3.75,3.75,,,,1.81,3.68,4.0,1.75,2.05,1.75,1.98,-0.5,1.85,2.0,Wycombe Wanderers,Blackpool,wycombe_wanderers,blackpool
+2026-05-02,E2,England-L1,2526,Reading,Blackpool,0.0,1.0,A,0.0,0.0,D,2.2,3.4,3.0,,,,2.23,3.44,2.96,1.85,2.0,1.79,1.93,-0.25,1.98,1.88,Reading,Blackpool,reading,blackpool
+2026-08-22,E2,England-L1,2627,Stockport,Blackpool,1.0,2.0,A,0.0,2.0,A,1.56,3.7,5.5,,,,1.58,3.94,5.42,1.8,2.0,1.75,1.99,-1.0,2.05,1.8,Stockport County,Blackpool,stockport_county,blackpool
+2026-09-02,E2,England-L1,2627,Barnsley,Blackpool,2.0,1.0,H,0.0,0.0,D,2.1,3.5,3.0,,,,2.2,3.54,2.97,1.7,2.1,1.68,2.08,-0.25,1.93,1.93,Barnsley,Blackpool,barnsley,blackpool
+2026-09-05,E2,England-L1,2627,Reading,Blackpool,3.0,1.0,H,1.0,0.0,H,1.91,3.4,3.75,,,,1.97,3.56,3.47,1.75,2.05,1.75,1.98,-0.5,1.98,1.88,Reading,Blackpool,reading,blackpool
+2026-10-10,E2,England-L1,2627,Cambridge,Blackpool,1.0,0.0,H,0.0,0.0,D,2.01,3.5,3.3,,,,2.01,3.65,3.35,1.7,2.1,1.68,2.1,-0.5,2.05,1.8,Cambridge United,Blackpool,cambridge_united,blackpool
+2026-10-17,E2,England-L1,2627,Leyton Orient,Blackpool,2.0,0.0,H,1.0,0.0,H,2.15,3.5,3.0,,,,2.18,3.57,3.01,1.67,2.15,1.66,2.13,-0.25,1.93,1.93,Leyton Orient,Blackpool,leyton_orient,blackpool

@@ -1,0 +1,2 @@
+input_path,input_sha256,input_rows,capture_ts_utc,label,source,odds_source
+/root/football-predictor/reports/shadow_test_20261026/fixtures/no_odds.csv,6eab479be7d1178e3a17a350a54fbbf4cdfd0b7f862c2dfbd2714bd1c50ae421,1,2026-10-26T15:40:34.730143+00:00,SYNTHETIC_TEST_ONLY,manual,unknown

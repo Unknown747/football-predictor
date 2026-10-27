@@ -1,0 +1,120 @@
+======================================================================
+PRE-CHECK L10.4
+======================================================================
+
+[1] Split temporal dari config.json backtest:
+  train_end: 2024-06-30
+  val_end:   2025-06-30
+  n_train:   22945
+  n_test:    9438
+  test_period: ['2025-07-25', '2026-10-21']
+
+[2] Base rates dari config.json (harus identik dengan audit):
+  ou25: 0.5056875136
+  home_ou05: 0.7654826760
+  home_ou15: 0.4306384833
+  away_ou05: 0.6860753977
+  away_ou15: 0.3366310743
+
+[3] Recompute base rates dari features_train.csv (train split only):
+  N train: 22945
+  Expected (config): 22945
+  Match: True
+  ou25: recomputed=0.5056875136, expected=0.5056875136, diff=0.00e+00
+  home_ou05: recomputed=0.7654826760, expected=0.7654826760, diff=0.00e+00
+  home_ou15: recomputed=0.4306384833, expected=0.4306384833, diff=0.00e+00
+  away_ou05: recomputed=0.6860753977, expected=0.6860753977, diff=0.00e+00
+  away_ou15: recomputed=0.3366310743, expected=0.3366310743, diff=0.00e+00
+
+[4] Toleransi numerik base rate:
+  ou25: diff=0.00e+00 < 1e-09: True
+  home_ou05: diff=0.00e+00 < 1e-09: True
+  home_ou15: diff=0.00e+00 < 1e-09: True
+  away_ou05: diff=0.00e+00 < 1e-09: True
+  away_ou15: diff=0.00e+00 < 1e-09: True
+
+[5] Test split rows:
+  N test: 9438
+  Expected: 9438
+  Match: True
+  Date range: 2025-07-25 .. 2026-10-21
+
+[6] Load predictions.csv:
+  N rows: 9438
+  Duplicated match_id: 0
+  Duplicated (date,home,away,league): 0
+
+[7] Merge features_train test + predictions:
+  df_te['Date'] dtype: datetime64[ns]
+  preds['date'] dtype: object
+  preds['date'] dtype (after cast): datetime64[ns]
+  preds['date'] null after cast: 0
+
+  Team name matching check:
+    features_te unique homes: 425
+    preds unique homes: 425
+    only in features: 0
+    only in preds: 0
+  df_te: 9438
+  preds: 9438
+  merged: 9438
+  Match 1:1: True
+
+[8] Target null check (test split):
+  target_1x2: 0 null
+  target_ou25: 0 null
+  target_home_ou05: 0 null
+  target_home_ou15: 0 null
+  target_away_ou05: 0 null
+  target_away_ou15: 0 null
+
+[9] Model prob validation (predictions.csv):
+  p_1x2_H: finite=True, range=[0.1034,0.8612], ok=True
+  p_1x2_D: finite=True, range=[0.0760,0.4391], ok=True
+  p_1x2_A: finite=True, range=[0.0611,0.7906], ok=True
+  p_ou25: finite=True, range=[0.3323,0.7500], ok=True
+  p_home_ou05: finite=True, range=[0.4621,0.8982], ok=True
+  p_home_ou15: finite=True, range=[0.1713,0.8011], ok=True
+  p_away_ou05: finite=True, range=[0.3845,0.9055], ok=True
+  p_away_ou15: finite=True, range=[0.1764,0.6984], ok=True
+
+[10] 1x2 sum check:
+  min=1.000000, max=1.000000, all_close_1=True
+
+[11] Odds availability per league (test split):
+  League | N_test | 1x2_odds_valid | ou25_odds_valid
+  Belgium-JPL                    |  383 |  383 |  380
+  Germany-BL2                    |  378 |  378 |  378
+  England-L1                     |  678 |  678 |  678
+  Scotland-Champ                 |  234 |  234 |  234
+  England-L2                     |  690 |  690 |  690
+  Scotland-Prem                  |  282 |  282 |  282
+  Scotland-L1                    |  234 |  234 |  234
+  Scotland-L2                    |  235 |  235 |  235
+  England-Champ                  |  684 |  684 |  684
+  Netherlands-ED                 |  387 |  387 |  387
+  Portugal-Liga1                 |  378 |  378 |  378
+  Turkey-SL                      |  378 |  378 |  378
+  England-Conference             |  707 |  695 |  695
+  France-L2                      |  386 |  386 |  385
+  England-PL                     |  450 |  450 |  450
+  France-L1                      |  369 |  369 |  369
+  Spain-LaLiga                   |  469 |  469 |  469
+  Spain-Segunda                  |  572 |  572 |  572
+  Germany-BL1                    |  360 |  360 |  360
+  Italy-SB                       |  450 |  450 |  450
+  Greece-SL                      |  284 |  284 |  276
+  Italy-SA                       |  450 |  450 |  450
+
+[12] Global aggregate check:
+  sum(N per league) = 9438
+  total merged rows = 9438
+
+[13] Input hashes:
+  features_train.csv: 37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09
+  predictions.csv:    e23888c4bfb7c759d3834b5f41a6bf4e286c8b910514dc8d275426a316c3cb1e
+  config.json:        db8f156622b668a064e700ae0d7542f0e169a3ef42c6375394139697ce088fab
+
+======================================================================
+PRE-CHECK VERDICT: PASS ✓
+======================================================================

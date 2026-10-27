@@ -1,0 +1,98 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2022-08-06,EC,England-Conference,2223,Barnet,Halifax,2.0,0.0,H,1.0,0.0,H,3.2,3.5,2.05,3.31,3.84,2.07,3.15,3.58,2.05,1.72,2.07,1.71,2.05,0.25,2.0,1.8,Barnet,Halifax,barnet,halifax
+2022-08-20,EC,England-Conference,2223,Barnet,Woking,2.0,0.0,H,1.0,0.0,H,2.8,3.5,2.37,2.76,3.76,2.4,2.66,3.51,2.37,1.7,2.1,1.68,2.09,0.0,2.05,1.75,Barnet,Woking,barnet,woking
+2022-08-29,EC,England-Conference,2223,Barnet,Eastleigh,3.0,1.0,H,2.0,0.0,H,2.2,3.6,3.1,2.23,3.7,3.06,2.17,3.5,3.0,1.72,2.07,1.74,2.01,-0.25,1.95,1.85,Barnet,Eastleigh,barnet,eastleigh
+2022-09-13,EC,England-Conference,2223,Barnet,Dorking,0.0,1.0,A,0.0,1.0,A,2.3,3.5,2.62,2.37,3.73,2.82,2.29,3.62,2.7,1.57,2.35,1.52,2.39,-0.25,2.05,1.75,Barnet,Dorking,barnet,dorking
+2022-10-01,EC,England-Conference,2223,Barnet,York,0.0,5.0,A,0.0,2.0,A,2.3,3.4,2.9,2.48,3.59,2.76,2.36,3.36,2.76,1.88,1.93,1.83,1.91,0.0,1.7,2.1,Barnet,York,barnet,york
+2022-10-04,EC,England-Conference,2223,Barnet,Maidstone,4.0,3.0,H,1.0,1.0,D,2.4,3.4,2.6,2.47,3.71,2.71,2.38,3.59,2.6,1.6,2.3,1.57,2.28,0.0,1.83,1.98,Barnet,Maidstone,barnet,maidstone
+2022-10-22,EC,England-Conference,2223,Barnet,Maidenhead,2.0,1.0,H,1.0,0.0,H,2.45,3.5,2.7,2.44,3.73,2.72,2.38,3.51,2.64,1.66,2.15,1.65,2.13,0.0,1.77,2.02,Barnet,Maidenhead,barnet,maidenhead
+2022-10-28,EC,England-Conference,2223,Barnet,Scunthorpe,1.0,1.0,D,0.0,0.0,D,2.05,3.5,3.2,2.1,4.06,3.09,2.08,3.69,2.99,1.53,2.4,1.52,2.4,-0.25,1.83,1.98,Barnet,Scunthorpe United,barnet,scunthorpe_united
+2022-11-01,EC,England-Conference,2223,Barnet,Southend,0.0,3.0,A,0.0,1.0,A,3.6,3.5,2.0,3.45,3.71,2.06,3.31,3.59,2.0,1.7,2.1,1.69,2.08,0.25,2.08,1.73,Barnet,Southend United,barnet,southend_united
+2022-11-19,EC,England-Conference,2223,Barnet,Torquay,1.0,0.0,H,1.0,0.0,H,1.8,4.0,3.6,1.77,4.35,3.95,1.78,3.96,3.7,1.53,2.4,1.49,2.48,-0.75,2.02,1.77,Barnet,Torquay,barnet,torquay
+2022-12-03,EC,England-Conference,2223,Barnet,Wealdstone,2.0,0.0,H,1.0,0.0,H,2.3,3.6,2.8,2.31,3.5,3.07,2.24,3.43,2.88,1.7,2.1,1.66,2.1,-0.25,1.95,1.85,Barnet,Wealdstone,barnet,wealdstone
+2022-12-26,EC,England-Conference,2223,Barnet,Boreham Wood,2.0,1.0,H,0.0,0.0,D,2.7,3.4,2.5,2.8,3.37,2.49,2.72,3.3,2.41,2.0,1.8,1.96,1.8,0.0,1.98,1.83,Barnet,Boreham Wood,barnet,boreham_wood
+2023-01-07,EC,England-Conference,2223,Barnet,Gateshead,1.0,1.0,D,0.0,0.0,D,2.2,3.4,3.1,2.19,3.68,3.16,2.2,3.45,2.95,1.75,2.05,1.72,2.04,-0.25,1.95,1.85,Barnet,Gateshead,barnet,gateshead
+2023-01-28,EC,England-Conference,2223,Barnet,Chesterfield,3.0,0.0,H,1.0,0.0,H,3.6,3.75,1.91,3.85,4.11,1.84,3.62,3.76,1.85,1.67,2.15,1.65,2.15,0.5,1.9,1.9,Barnet,Chesterfield,barnet,chesterfield
+2023-02-21,EC,England-Conference,2223,Barnet,Altrincham,2.0,4.0,A,2.0,1.0,H,2.05,3.6,3.0,2.16,3.59,3.3,2.09,3.49,3.13,1.7,2.1,1.67,2.11,-0.25,1.85,1.95,Barnet,Altrincham,barnet,altrincham
+2023-02-25,EC,England-Conference,2223,Barnet,Aldershot,4.0,1.0,H,1.0,0.0,H,1.91,3.5,3.5,1.97,3.81,3.62,1.93,3.63,3.44,1.7,2.1,1.68,2.08,-0.5,1.9,1.9,Barnet,Aldershot,barnet,aldershot
+2023-02-28,EC,England-Conference,2223,Barnet,Oldham,1.0,3.0,A,1.0,1.0,D,1.75,3.6,3.75,1.85,3.71,4.22,1.81,3.59,3.92,1.83,1.98,1.77,1.97,-0.5,1.8,2.0,Barnet,Oldham,barnet,oldham
+2023-03-14,EC,England-Conference,2223,Barnet,Yeovil,2.0,1.0,H,0.0,0.0,D,1.73,3.75,4.5,1.72,3.81,4.88,1.73,3.61,4.43,1.93,1.88,1.9,1.84,-0.75,1.95,1.85,Barnet,Yeovil Town,barnet,yeovil_town
+2023-03-18,EC,England-Conference,2223,Barnet,Notts County,1.0,1.0,D,1.0,1.0,D,4.75,3.8,1.6,5.31,4.1,1.62,4.86,3.97,1.6,1.62,2.25,1.63,2.16,1.0,1.75,2.05,Barnet,Notts County,barnet,notts_county
+2023-04-07,EC,England-Conference,2223,Barnet,Bromley,1.0,1.0,D,1.0,0.0,H,2.5,3.4,2.63,2.46,3.46,2.87,2.42,3.36,2.68,1.73,2.08,1.75,2.01,0.0,1.77,2.02,Barnet,Bromley,barnet,bromley
+2023-04-15,EC,England-Conference,2223,Barnet,Wrexham,0.0,0.0,D,0.0,0.0,D,7.0,4.0,1.5,6.18,4.55,1.5,5.88,4.34,1.46,1.57,2.35,1.58,2.27,1.0,2.08,1.73,Barnet,Wrexham,barnet,wrexham
+2023-04-18,EC,England-Conference,2223,Barnet,Solihull,1.0,0.0,H,1.0,0.0,H,2.05,3.3,3.25,2.03,3.72,3.51,2.02,3.54,3.26,1.7,2.1,1.65,2.15,-0.5,2.08,1.73,Barnet,Solihull,barnet,solihull
+2023-04-29,EC,England-Conference,2223,Barnet,Dag and Red,0.0,2.0,A,0.0,0.0,D,1.7,3.75,4.75,1.74,4.17,4.32,1.71,3.87,4.15,1.62,2.25,1.6,2.23,-0.75,1.93,1.88,Barnet,Dag and Red,barnet,dag_and_red
+2023-08-05,EC,England-Conference,2324,Barnet,Hartlepool,3.0,2.0,H,1.0,0.0,H,2.2,3.4,3.25,2.09,3.65,3.35,2.08,3.48,3.18,1.75,2.05,1.72,2.02,-0.25,1.83,1.98,Barnet,Hartlepool United,barnet,hartlepool_united
+2023-08-19,EC,England-Conference,2324,Barnet,Woking,2.0,0.0,H,1.0,0.0,H,2.3,3.3,2.7,2.35,3.48,3.02,2.31,3.33,2.83,1.85,1.95,1.82,1.9,-0.25,2.0,1.8,Barnet,Woking,barnet,woking
+2023-08-28,EC,England-Conference,2324,Barnet,Ebbsfleet,3.0,2.0,H,1.0,1.0,D,1.95,3.6,3.6,2.01,3.81,3.5,1.95,3.61,3.43,1.73,2.08,1.7,2.06,-0.5,1.95,1.85,Barnet,Ebbsfleet,barnet,ebbsfleet
+2023-09-09,EC,England-Conference,2324,Barnet,Altrincham,3.0,0.0,H,1.0,0.0,H,1.83,3.5,3.6,1.92,3.81,3.81,1.86,3.68,3.64,1.65,2.2,1.63,2.19,-0.5,1.85,1.95,Barnet,Altrincham,barnet,altrincham
+2023-09-19,EC,England-Conference,2324,Barnet,Aldershot,2.0,1.0,H,1.0,0.0,H,1.65,4.0,4.75,1.58,4.4,5.25,1.55,4.15,5.01,1.65,2.2,1.59,2.26,-1.0,2.05,1.75,Barnet,Aldershot,barnet,aldershot
+2023-09-23,EC,England-Conference,2324,Barnet,Halifax,0.0,0.0,D,0.0,0.0,D,1.75,3.4,4.75,1.79,3.5,4.92,1.73,3.51,4.57,1.95,1.85,1.92,1.82,-0.75,2.0,1.8,Barnet,Halifax,barnet,halifax
+2023-10-03,EC,England-Conference,2324,Barnet,Fylde,2.0,1.0,H,0.0,1.0,A,1.5,4.0,6.0,1.51,4.56,6.01,1.5,4.22,5.38,1.57,2.35,1.54,2.34,-1.0,1.83,1.98,Barnet,Fylde,barnet,fylde
+2023-10-21,EC,England-Conference,2324,Barnet,Maidenhead,3.0,2.0,H,1.0,2.0,A,1.4,4.33,7.0,1.41,4.77,7.54,1.39,4.47,6.91,1.73,2.08,1.71,2.02,-1.25,1.93,1.88,Barnet,Maidenhead,barnet,maidenhead
+2023-10-24,EC,England-Conference,2324,Barnet,Solihull,1.0,1.0,D,0.0,0.0,D,1.53,4.2,6.0,1.56,4.33,5.59,1.53,4.16,5.22,1.62,2.25,1.6,2.23,-1.0,1.88,1.93,Barnet,Solihull,barnet,solihull
+2023-11-18,EC,England-Conference,2324,Barnet,Gateshead,0.0,2.0,A,0.0,0.0,D,2.0,3.6,3.6,2.05,3.99,3.26,1.95,3.72,3.25,1.53,2.4,1.51,2.42,-0.5,1.95,1.85,Barnet,Gateshead,barnet,gateshead
+2023-11-22,EC,England-Conference,2324,Barnet,Oldham,1.0,4.0,A,0.0,1.0,A,1.75,3.4,4.2,1.87,3.86,3.95,1.87,3.65,3.62,1.67,2.15,1.63,2.16,-0.5,1.8,2.0,Barnet,Oldham,barnet,oldham
+2023-12-23,EC,England-Conference,2324,Barnet,Boreham Wood,6.0,0.0,H,3.0,0.0,H,1.83,3.6,3.5,1.93,4.0,3.59,1.86,3.67,3.59,1.73,2.08,1.72,2.02,-0.5,1.88,1.93,Barnet,Boreham Wood,barnet,boreham_wood
+2023-12-30,EC,England-Conference,2324,Barnet,Southend,1.0,0.0,H,0.0,0.0,D,2.0,3.5,3.2,2.1,3.86,3.23,2.0,3.6,3.25,1.73,2.08,1.72,2.03,-0.5,2.05,1.75,Barnet,Southend United,barnet,southend_united
+2024-01-09,EC,England-Conference,2324,Barnet,Dag and Red,2.0,1.0,H,1.0,1.0,D,1.73,3.6,4.33,1.76,4.24,4.11,1.74,3.85,4.0,1.67,2.15,1.66,2.14,-0.75,1.98,1.83,Barnet,Dag and Red,barnet,dag_and_red
+2024-02-03,EC,England-Conference,2324,Barnet,Wealdstone,1.0,1.0,D,1.0,0.0,H,1.55,3.8,5.5,1.63,4.35,4.92,1.56,4.11,4.91,1.57,2.35,1.54,2.37,-1.0,1.95,1.85,Barnet,Wealdstone,barnet,wealdstone
+2024-02-24,EC,England-Conference,2324,Barnet,York,2.0,0.0,H,1.0,0.0,H,1.6,3.8,5.5,1.62,4.21,5.13,1.57,4.07,4.9,1.62,2.25,1.61,2.21,-1.0,2.0,1.8,Barnet,York,barnet,york
+2024-02-27,EC,England-Conference,2324,Barnet,Chesterfield,0.0,2.0,A,0.0,1.0,A,3.1,3.6,2.0,3.42,3.77,2.05,3.2,3.63,2.01,1.6,2.3,1.57,2.29,0.25,2.03,1.78,Barnet,Chesterfield,barnet,chesterfield
+2024-03-05,EC,England-Conference,2324,Barnet,Rochdale,2.0,0.0,H,1.0,0.0,H,1.55,3.6,5.25,1.59,4.45,5.08,1.57,4.13,4.86,1.6,2.3,1.54,2.37,-1.0,1.98,1.83,Barnet,Rochdale,barnet,rochdale
+2024-03-19,EC,England-Conference,2324,Barnet,Eastleigh,2.0,1.0,H,2.0,1.0,H,1.29,5.5,8.0,1.28,5.91,9.24,1.27,5.54,8.51,1.44,2.7,1.4,2.77,-1.75,1.98,1.83,Barnet,Eastleigh,barnet,eastleigh
+2024-03-23,EC,England-Conference,2324,Barnet,Dorking,6.0,0.0,H,4.0,0.0,H,1.36,4.5,7.5,1.42,5.14,6.65,1.37,4.84,6.72,1.53,2.4,1.5,2.46,-1.25,1.8,2.0,Barnet,Dorking,barnet,dorking
+2024-04-01,EC,England-Conference,2324,Barnet,Oxford City,3.0,1.0,H,1.0,0.0,H,1.14,8.5,10.0,1.15,8.7,14.0,1.13,7.85,12.98,1.33,3.4,1.32,3.19,-2.25,1.95,1.85,Barnet,Oxford City,barnet,oxford_city
+2024-04-09,EC,England-Conference,2324,Barnet,Bromley,1.0,1.0,D,0.0,0.0,D,1.75,3.6,3.8,1.88,3.64,4.06,1.8,3.63,3.92,1.73,2.08,1.72,2.05,-0.5,1.83,1.98,Barnet,Bromley,barnet,bromley
+2024-04-20,EC,England-Conference,2324,Barnet,Kidderminster,4.0,1.0,H,2.0,0.0,H,1.53,4.2,4.75,1.58,4.15,5.42,1.55,4.12,5.06,1.7,2.1,1.69,2.09,-1.0,1.95,1.85,Barnet,Kidderminster,barnet,kidderminster
+2024-08-20,EC,England-Conference,2425,Barnet,Forest Green,1.0,0.0,H,0.0,0.0,D,1.8,3.75,3.7,1.81,3.91,4.08,1.79,3.74,3.85,1.65,2.2,1.63,2.19,-0.5,1.8,2.0,Barnet,Forest Green Rovers,barnet,forest_green_rovers
+2024-08-24,EC,England-Conference,2425,Barnet,Southend,2.0,1.0,H,1.0,0.0,H,1.95,3.4,3.5,1.94,3.56,3.65,1.95,3.44,3.52,1.85,1.95,1.83,1.91,-0.5,1.98,1.83,Barnet,Southend United,barnet,southend_united
+2024-08-31,EC,England-Conference,2425,Barnet,Tamworth,7.0,0.0,H,3.0,0.0,H,1.48,4.5,5.25,1.47,4.46,6.41,1.47,4.29,5.9,1.7,2.1,1.68,2.1,-1.0,1.8,2.0,Barnet,Tamworth,barnet,tamworth
+2024-09-10,EC,England-Conference,2425,Barnet,Altrincham,2.0,1.0,H,1.0,1.0,D,1.45,5.0,5.75,1.43,4.97,6.27,1.43,4.69,5.8,1.4,2.88,1.39,2.81,-1.25,1.93,1.88,Barnet,Altrincham,barnet,altrincham
+2024-09-14,EC,England-Conference,2425,Barnet,Braintree Town,3.0,1.0,H,2.0,1.0,H,1.36,4.75,8.5,1.36,4.88,7.44,1.34,4.8,7.56,1.65,2.2,1.63,2.19,-1.25,1.78,2.03,Barnet,Braintree Town,barnet,braintree_town
+2024-09-28,EC,England-Conference,2425,Barnet,Fylde,2.0,0.0,H,0.0,0.0,D,1.33,5.5,7.0,1.31,5.53,7.5,1.3,5.44,7.36,1.36,3.1,1.33,3.04,-1.5,1.85,1.95,Barnet,Fylde,barnet,fylde
+2024-10-05,EC,England-Conference,2425,Barnet,Boston Utd,3.0,1.0,H,0.0,1.0,A,1.22,6.0,9.0,1.23,6.16,9.37,1.23,5.96,9.36,1.44,2.7,1.4,2.77,-1.75,1.88,1.93,Barnet,Boston Utd,barnet,boston_utd
+2024-10-26,EC,England-Conference,2425,Barnet,Rochdale,2.0,1.0,H,2.0,0.0,H,1.7,3.9,4.75,1.68,3.96,4.45,1.67,3.89,4.35,1.67,2.15,1.64,2.16,-0.75,1.85,1.95,Barnet,Rochdale,barnet,rochdale
+2024-11-09,EC,England-Conference,2425,Barnet,Oldham,0.0,0.0,D,0.0,0.0,D,1.8,3.75,3.9,1.76,3.88,4.11,1.76,3.75,3.97,1.67,2.15,1.65,2.15,-0.75,2.03,1.78,Barnet,Oldham,barnet,oldham
+2024-11-23,EC,England-Conference,2425,Barnet,Woking,2.0,0.0,H,1.0,0.0,H,1.3,5.0,8.5,1.3,5.35,8.49,1.3,5.18,8.28,1.57,2.35,1.55,2.34,-1.5,1.88,1.93,Barnet,Woking,barnet,woking
+2024-12-14,EC,England-Conference,2425,Barnet,Ebbsfleet,4.0,1.0,H,4.0,0.0,H,1.18,6.5,15.0,1.16,7.23,12.4,1.17,6.87,12.42,1.36,3.1,1.35,2.98,-2.0,1.8,2.0,Barnet,Ebbsfleet,barnet,ebbsfleet
+2024-12-21,EC,England-Conference,2425,Barnet,Halifax,1.0,1.0,D,1.0,1.0,D,1.48,4.0,6.5,1.47,4.33,6.18,1.47,4.2,6.09,1.73,2.08,1.7,2.06,-1.0,1.78,2.03,Barnet,Halifax,barnet,halifax
+2024-12-26,EC,England-Conference,2425,Barnet,Sutton,3.0,3.0,D,2.0,1.0,H,1.55,3.8,6.0,1.5,4.12,6.05,1.51,4.04,5.62,1.7,2.1,1.67,2.08,-1.0,1.88,1.93,Barnet,Sutton United,barnet,sutton_united
+2025-01-25,EC,England-Conference,2425,Barnet,Maidenhead,3.0,0.0,H,1.0,0.0,H,1.3,5.0,7.5,1.29,5.39,8.53,1.29,5.18,8.25,1.53,2.4,1.51,2.42,-1.5,1.9,1.9,Barnet,Maidenhead,barnet,maidenhead
+2025-01-28,EC,England-Conference,2425,Barnet,Hartlepool,2.0,0.0,H,0.0,0.0,D,1.57,4.1,5.25,1.54,4.38,5.59,1.54,4.21,5.13,1.62,2.25,1.59,2.26,-1.0,1.95,1.85,Barnet,Hartlepool United,barnet,hartlepool_united
+2025-02-15,EC,England-Conference,2425,Barnet,Solihull,3.0,1.0,H,1.0,0.0,H,1.55,4.0,5.75,1.57,4.03,5.34,1.55,3.98,5.11,1.7,2.1,1.68,2.09,-1.0,1.98,1.83,Barnet,Solihull,barnet,solihull
+2025-02-18,EC,England-Conference,2425,Barnet,York,3.0,1.0,H,1.0,0.0,H,1.8,3.25,3.9,1.88,3.6,4.09,1.87,3.45,3.82,1.85,1.95,1.81,1.94,-0.5,1.85,1.95,Barnet,York,barnet,york
+2025-03-04,EC,England-Conference,2425,Barnet,Yeovil,5.0,0.0,H,3.0,0.0,H,1.33,4.75,8.0,1.34,4.9,9.18,1.34,4.58,8.28,1.9,1.9,1.85,1.89,-1.5,2.08,1.73,Barnet,Yeovil Town,barnet,yeovil_town
+2025-03-08,EC,England-Conference,2425,Barnet,Dag and Red,1.0,0.0,H,0.0,0.0,D,1.3,4.75,9.5,1.28,5.52,9.77,1.28,5.11,9.11,1.65,2.2,1.6,2.23,-1.5,1.9,1.9,Barnet,Dag and Red,barnet,dag_and_red
+2025-03-29,EC,England-Conference,2425,Barnet,Gateshead,3.0,1.0,H,2.0,0.0,H,1.38,4.5,8.5,1.35,5.13,7.87,1.36,4.68,7.38,1.53,2.4,1.51,2.42,-1.5,2.0,1.8,Barnet,Gateshead,barnet,gateshead
+2025-04-12,EC,England-Conference,2425,Barnet,Wealdstone,1.0,1.0,D,1.0,0.0,H,1.25,5.25,10.0,1.25,5.9,9.74,1.26,5.6,9.09,1.5,2.5,1.47,2.53,-1.75,1.98,1.83,Barnet,Wealdstone,barnet,wealdstone
+2025-04-18,EC,England-Conference,2425,Barnet,Eastleigh,1.0,1.0,D,1.0,1.0,D,1.29,5.25,8.0,1.28,5.33,9.19,1.29,5.02,8.7,1.67,2.15,1.65,2.14,-1.5,1.93,1.88,Barnet,Eastleigh,barnet,eastleigh
+2025-04-26,EC,England-Conference,2425,Barnet,Aldershot,4.0,0.0,H,2.0,0.0,H,1.25,5.75,11.0,1.28,4.72,11.54,1.25,5.43,10.35,1.48,2.6,1.45,2.58,-1.75,1.93,1.88,Barnet,Aldershot,barnet,aldershot
+2025-08-02,E3,England-L2,2526,Barnet,Fleetwood Town,0.0,2.0,A,0.0,1.0,A,1.95,3.5,3.6,1.94,3.55,3.74,1.96,3.39,3.58,1.98,1.88,1.9,1.83,-0.5,1.98,1.88,Barnet,Fleetwood Town,barnet,fleetwood_town
+2025-08-16,E3,England-L2,2526,Barnet,Walsall,1.0,2.0,A,1.0,2.0,A,2.0,3.5,3.5,2.02,3.49,3.57,2.06,3.38,3.42,1.95,1.9,1.91,1.82,-0.5,2.05,1.8,Barnet,Walsall,barnet,walsall
+2025-08-30,E3,England-L2,2526,Barnet,Colchester,1.0,1.0,D,0.0,1.0,A,1.91,3.6,3.6,1.93,3.39,3.96,1.95,3.4,3.8,2.05,1.75,2.02,1.74,-0.5,1.98,1.88,Barnet,Colchester United,barnet,colchester_united
+2025-09-06,E3,England-L2,2526,Barnet,Shrewsbury,1.0,3.0,A,1.0,3.0,A,1.66,3.75,4.5,1.69,3.71,4.83,1.73,3.67,4.54,1.98,1.88,1.92,1.81,-0.75,2.0,1.85,Barnet,Shrewsbury Town,barnet,shrewsbury_town
+2025-09-20,E3,England-L2,2526,Barnet,Grimsby,3.0,0.0,H,1.0,0.0,H,2.2,3.5,2.85,2.29,3.58,2.88,2.24,3.5,2.95,1.85,2.0,1.79,1.95,-0.25,2.0,1.85,Barnet,Grimsby Town,barnet,grimsby_town
+2025-10-04,E3,England-L2,2526,Barnet,Accrington,2.0,0.0,H,1.0,0.0,H,1.57,3.9,5.0,1.63,3.92,5.03,1.63,3.9,4.93,1.88,1.98,1.8,1.93,-0.75,1.83,2.03,Barnet,Accrington Stanley,barnet,accrington_stanley
+2025-10-18,E3,England-L2,2526,Barnet,Notts County,0.0,1.0,A,0.0,0.0,D,1.96,3.5,3.5,2.0,3.58,3.55,2.01,3.55,3.42,1.85,2.0,1.77,1.98,-0.5,2.03,1.83,Barnet,Notts County,barnet,notts_county
+2025-11-08,E3,England-L2,2526,Barnet,Milton Keynes Dons,2.0,2.0,D,2.0,1.0,H,2.05,3.6,3.05,,,,2.14,3.46,3.14,1.9,1.95,1.85,1.87,-0.25,1.9,1.95,Barnet,MK Dons,barnet,mk_dons
+2025-11-29,E3,England-L2,2526,Barnet,Harrogate,1.0,1.0,D,1.0,0.0,H,1.27,5.25,9.0,,,,1.29,5.28,9.45,1.65,2.2,1.63,2.15,-1.5,1.88,1.98,Barnet,Harrogate Town,barnet,harrogate_town
+2025-12-09,E3,England-L2,2526,Barnet,Bristol Rvs,4.0,0.0,H,2.0,0.0,H,1.53,3.75,5.75,,,,1.59,3.84,5.41,1.93,1.93,1.88,1.84,-1.0,2.05,1.8,Barnet,Bristol Rvs,barnet,bristol_rvs
+2025-12-20,E3,England-L2,2526,Barnet,Salford,1.0,3.0,A,0.0,2.0,A,1.76,3.8,3.9,,,,1.84,3.71,3.84,1.75,2.05,1.74,2.0,-0.5,1.83,2.03,Barnet,Salford City,barnet,salford_city
+2026-01-01,E3,England-L2,2526,Barnet,Crawley Town,2.0,1.0,H,1.0,1.0,D,1.53,4.1,5.0,,,,1.59,4.01,5.07,1.67,2.15,1.68,2.07,-1.0,2.03,1.83,Barnet,Crawley Town,barnet,crawley_town
+2026-01-24,E3,England-L2,2526,Barnet,Oldham,3.0,2.0,H,2.0,1.0,H,1.79,3.6,4.0,,,,1.82,3.56,4.12,1.85,1.95,1.84,1.87,-0.5,1.85,2.0,Barnet,Oldham,barnet,oldham
+2026-01-27,E3,England-L2,2526,Barnet,Tranmere,1.0,0.0,H,0.0,0.0,D,1.62,3.9,5.0,,,,1.61,3.93,4.97,1.7,2.1,1.69,2.05,-0.75,1.85,2.0,Barnet,Tranmere Rovers,barnet,tranmere_rovers
+2026-02-03,E3,England-L2,2526,Barnet,Crewe,1.0,1.0,D,1.0,1.0,D,1.66,3.6,5.0,,,,1.72,3.66,4.63,1.93,1.93,1.87,1.85,-0.75,1.93,1.93,Barnet,Crewe Alexandra,barnet,crewe_alexandra
+2026-02-14,E3,England-L2,2526,Barnet,Cheltenham,0.0,0.0,D,0.0,0.0,D,1.37,4.33,6.5,,,,1.4,4.46,6.98,1.73,2.08,1.7,2.04,-1.25,1.98,1.88,Barnet,Cheltenham Town,barnet,cheltenham_town
+2026-02-17,E3,England-L2,2526,Barnet,Swindon,1.0,2.0,A,1.0,0.0,H,1.68,3.9,4.33,,,,1.75,3.73,4.32,1.75,2.05,1.74,1.99,-0.75,1.95,1.9,Barnet,Swindon Town,barnet,swindon_town
+2026-02-28,E3,England-L2,2526,Barnet,Chesterfield,1.0,0.0,H,0.0,0.0,D,1.86,3.8,3.6,,,,1.88,3.68,3.65,1.7,2.1,1.7,2.05,-0.5,1.93,1.93,Barnet,Chesterfield,barnet,chesterfield
+2026-03-14,E3,England-L2,2526,Barnet,Newport County,1.0,2.0,A,1.0,0.0,H,1.3,5.0,7.5,,,,1.34,4.89,7.88,1.65,2.2,1.62,2.18,-1.5,2.03,1.83,Barnet,Newport County,barnet,newport_county
+2026-03-28,E3,England-L2,2526,Barnet,Cambridge,1.0,0.0,H,0.0,0.0,D,2.65,3.1,2.55,,,,2.64,3.11,2.65,2.4,1.53,2.31,1.55,0.0,1.98,1.88,Barnet,Cambridge United,barnet,cambridge_united
+2026-04-03,E3,England-L2,2526,Barnet,Bromley,2.0,2.0,D,1.0,1.0,D,1.96,3.4,3.6,,,,2.05,3.43,3.4,1.88,1.98,1.81,1.9,-0.25,1.75,2.05,Barnet,Bromley,barnet,bromley
+2026-04-11,E3,England-L2,2526,Barnet,Barrow,3.0,2.0,H,1.0,1.0,D,1.51,3.8,6.0,,,,1.55,3.9,5.6,1.9,1.9,1.84,1.87,-1.0,1.98,1.88,Barnet,Barrow,barnet,barrow
+2026-04-25,E3,England-L2,2526,Barnet,Gillingham,6.0,2.0,H,5.0,1.0,H,1.39,4.75,6.0,,,,1.43,4.45,6.6,1.75,2.05,1.73,2.0,-1.25,2.0,1.85,Barnet,Gillingham,barnet,gillingham
+2026-08-15,E3,England-L2,2627,Barnet,Salford,3.0,1.0,H,2.0,0.0,H,2.25,3.2,3.1,,,,2.29,3.29,2.97,2.03,1.83,1.93,1.79,-0.25,2.05,1.8,Barnet,Salford City,barnet,salford_city
+2026-08-29,E3,England-L2,2627,Barnet,Cheltenham,2.0,2.0,D,1.0,0.0,H,1.57,3.8,5.25,,,,1.59,3.85,5.42,1.85,2.0,1.78,1.96,-1.0,2.08,1.73,Barnet,Cheltenham Town,barnet,cheltenham_town
+2026-09-12,E3,England-L2,2627,Barnet,Accrington,2.0,1.0,H,0.0,1.0,A,1.56,3.9,5.25,,,,1.57,4.13,5.12,1.6,2.3,1.57,2.27,-0.75,1.75,2.05,Barnet,Accrington Stanley,barnet,accrington_stanley
+2026-09-19,E3,England-L2,2627,Barnet,Fleetwood Town,3.0,1.0,H,1.0,1.0,D,1.66,3.8,4.5,,,,1.66,3.94,4.59,1.7,2.1,1.65,2.13,-0.75,1.9,1.95,Barnet,Fleetwood Town,barnet,fleetwood_town
+2026-10-20,E3,England-L2,2627,Barnet,Swindon,1.0,3.0,A,0.0,3.0,A,1.46,4.2,5.75,,,,1.47,4.57,5.67,1.5,2.5,1.47,2.52,-1.25,2.05,1.8,Barnet,Swindon Town,barnet,swindon_town

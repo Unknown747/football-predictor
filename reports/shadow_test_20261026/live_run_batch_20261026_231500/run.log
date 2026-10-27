@@ -1,0 +1,20 @@
+[2026-10-26T16:15:59.013127+00:00] === START shadow_capture ===
+[2026-10-26T16:15:59.013170+00:00] Input: /root/football-predictor/reports/shadow_test_20261026/fixture_batch_20261026.csv
+[2026-10-26T16:15:59.013183+00:00] Output dir: /root/football-predictor/reports/shadow_test_20261026/live_run_batch_20261026_231500
+[2026-10-26T16:15:59.013189+00:00] Label: HISTORICAL_FIXTURE
+[2026-10-26T16:15:59.013195+00:00] Source: stake_flashscore_manual
+[2026-10-26T16:15:59.013201+00:00] Odds source: stake
+[2026-10-26T16:15:59.013206+00:00] Checking production integrity...
+[2026-10-26T16:15:59.045459+00:00] Production integrity OK
+[2026-10-26T16:15:59.047652+00:00] Input rows: 1
+[2026-10-26T16:15:59.047675+00:00] Validating input...
+[2026-10-26T16:15:59.049413+00:00] Input validation OK
+[2026-10-26T16:15:59.053620+00:00] Input manifest saved (input_sha256: a1ef20a90d8ef4c6...)
+[2026-10-26T16:15:59.053640+00:00] Loading models & resources...
+[2026-10-26T16:15:59.095942+00:00] Loaded: 6 models, 506 teams, 22 leagues, 78 feat cols
+[2026-10-26T16:15:59.096058+00:00] Predicting 1 matches...
+[2026-10-26T16:15:59.155861+00:00] Predictions saved: /root/football-predictor/reports/shadow_test_20261026/live_run_batch_20261026_231500/shadow_predictions.csv (1 rows)
+[2026-10-26T16:15:59.166313+00:00] config.json saved
+[2026-10-26T16:15:59.167190+00:00] limitations.md saved
+[2026-10-26T16:15:59.167237+00:00] === DONE ===
+[2026-10-26T16:15:59.167264+00:00] Output dir: /root/football-predictor/reports/shadow_test_20261026/live_run_batch_20261026_231500

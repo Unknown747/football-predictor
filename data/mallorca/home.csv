@@ -1,0 +1,101 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-14,SP1,Spain-LaLiga,2122,Mallorca,Betis,1.0,1.0,D,1.0,0.0,H,3.3,3.4,2.2,3.51,3.35,2.28,3.38,3.29,2.24,2.0,1.8,2.02,1.82,0.25,1.97,1.96,Mallorca,Real Betis,mallorca,real_betis
+2021-08-27,SP1,Spain-LaLiga,2122,Mallorca,Espanol,1.0,0.0,H,1.0,0.0,H,2.6,2.9,3.1,2.69,2.99,3.17,2.64,2.95,3.08,2.75,1.44,2.69,1.47,0.0,1.81,2.13,Mallorca,Espanyol,mallorca,espanyol
+2021-09-19,SP1,Spain-LaLiga,2122,Mallorca,Villarreal,0.0,0.0,D,0.0,0.0,D,3.5,3.0,2.3,3.62,3.2,2.31,3.47,3.13,2.29,2.37,1.57,2.4,1.58,0.25,1.96,1.97,Mallorca,Villarreal,mallorca,villarreal
+2021-09-26,SP1,Spain-LaLiga,2122,Mallorca,Osasuna,2.0,3.0,A,2.0,1.0,H,2.7,3.2,2.75,2.85,3.21,2.79,2.77,3.12,2.77,2.5,1.53,2.44,1.57,0.0,1.96,1.97,Mallorca,Osasuna,mallorca,osasuna
+2021-10-02,SP1,Spain-LaLiga,2122,Mallorca,Levante,1.0,0.0,H,0.0,0.0,D,2.1,3.2,3.4,2.22,3.51,3.49,2.17,3.37,3.47,2.1,1.72,2.15,1.72,-0.25,1.89,2.04,Mallorca,Levante,mallorca,levante
+2021-10-27,SP1,Spain-LaLiga,2122,Mallorca,Sevilla,1.0,1.0,D,1.0,0.0,H,5.5,3.3,1.75,5.49,3.28,1.86,5.09,3.33,1.81,2.3,1.61,2.31,1.62,0.5,2.06,1.87,Mallorca,Sevilla,mallorca,sevilla
+2021-11-07,SP1,Spain-LaLiga,2122,Mallorca,Elche,2.0,2.0,D,0.0,0.0,D,2.05,3.0,4.33,2.09,3.14,4.43,2.06,3.1,4.19,2.5,1.53,2.56,1.51,-0.5,2.08,1.85,Mallorca,Elche,mallorca,elche
+2021-11-27,SP1,Spain-LaLiga,2122,Mallorca,Getafe,0.0,0.0,D,0.0,0.0,D,2.3,2.9,3.75,2.36,2.98,3.8,2.31,2.94,3.65,2.75,1.44,2.78,1.43,-0.25,1.98,1.95,Mallorca,Getafe,mallorca,getafe
+2021-12-10,SP1,Spain-LaLiga,2122,Mallorca,Celta,0.0,0.0,D,0.0,0.0,D,2.5,3.0,3.1,2.62,3.0,3.26,2.56,2.98,3.14,2.5,1.53,2.53,1.53,0.0,1.73,2.08,Mallorca,Celta Vigo,mallorca,celta_vigo
+2022-01-02,SP1,Spain-LaLiga,2122,Mallorca,Barcelona,0.0,1.0,A,0.0,1.0,A,3.4,3.4,2.15,3.7,3.33,2.16,3.59,3.33,2.14,2.01,1.89,1.98,1.85,0.25,1.98,1.92,Mallorca,Barcelona,mallorca,barcelona
+2022-02-05,SP1,Spain-LaLiga,2122,Mallorca,Cadiz,2.0,1.0,H,1.0,1.0,D,1.83,3.4,4.6,1.81,3.4,5.28,1.83,3.39,4.93,2.3,1.61,2.36,1.6,-0.75,2.02,1.77,Mallorca,Cadiz,mallorca,cadiz
+2022-02-14,SP1,Spain-LaLiga,2122,Mallorca,Ath Bilbao,3.0,2.0,H,2.0,0.0,H,3.4,3.1,2.3,3.46,3.21,2.38,3.37,3.12,2.33,2.62,1.5,2.52,1.52,0.25,1.92,1.98,Mallorca,Athletic Bilbao,mallorca,athletic_bilbao
+2022-02-26,SP1,Spain-LaLiga,2122,Mallorca,Valencia,0.0,1.0,A,0.0,1.0,A,2.4,3.1,3.1,2.48,3.17,3.29,2.47,3.17,3.11,2.2,1.66,2.22,1.67,-0.25,2.09,1.81,Mallorca,Valencia,mallorca,valencia
+2022-03-02,SP1,Spain-LaLiga,2122,Mallorca,Sociedad,0.0,2.0,A,0.0,1.0,A,3.4,3.2,2.25,3.61,3.22,2.3,3.47,3.21,2.25,2.3,1.61,2.27,1.65,0.25,1.98,1.92,Mallorca,Real Sociedad,mallorca,real_sociedad
+2022-03-14,SP1,Spain-LaLiga,2122,Mallorca,Real Madrid,0.0,3.0,A,0.0,0.0,D,6.0,4.0,1.57,6.3,4.39,1.56,5.78,4.28,1.56,1.72,2.1,1.76,2.08,1.0,1.92,1.98,Mallorca,Real Madrid,mallorca,real_madrid
+2022-04-09,SP1,Spain-LaLiga,2122,Mallorca,Ath Madrid,1.0,0.0,H,0.0,0.0,D,4.0,3.4,1.95,4.51,3.42,1.96,4.33,3.35,1.95,2.3,1.61,2.33,1.62,0.5,1.94,1.96,Mallorca,Atletico Madrid,mallorca,atletico_madrid
+2022-04-19,SP1,Spain-LaLiga,2122,Mallorca,Alaves,2.0,1.0,H,2.0,0.0,H,1.95,3.3,4.2,2.0,3.28,4.55,2.0,3.24,4.34,2.5,1.53,2.46,1.56,-0.5,1.98,1.92,Mallorca,Deportivo Alaves,mallorca,deportivo_alaves
+2022-05-07,SP1,Spain-LaLiga,2122,Mallorca,Granada,2.0,6.0,A,1.0,1.0,D,1.95,3.5,4.0,2.05,3.36,4.23,2.02,3.39,3.99,2.2,1.66,2.19,1.69,-0.5,2.02,1.88,Mallorca,Granada,mallorca,granada
+2022-05-15,SP1,Spain-LaLiga,2122,Mallorca,Vallecano,2.0,1.0,H,1.0,0.0,H,1.57,3.8,6.5,1.64,3.97,5.88,1.62,3.82,6.04,2.2,1.66,2.23,1.67,-0.75,1.77,2.14,Mallorca,Rayo Vallecano,mallorca,rayo_vallecano
+2022-08-20,SP1,Spain-LaLiga,2223,Mallorca,Betis,1.0,2.0,A,0.0,1.0,A,3.1,3.2,2.4,3.18,3.35,2.44,3.1,3.26,2.42,2.2,1.66,2.18,1.7,0.25,1.83,2.07,Mallorca,Real Betis,mallorca,real_betis
+2022-09-03,SP1,Spain-LaLiga,2223,Mallorca,Girona,1.0,1.0,D,0.0,0.0,D,2.15,3.2,3.6,2.19,3.17,4.0,2.17,3.16,3.79,2.37,1.57,2.37,1.6,-0.25,1.82,2.08,Mallorca,Girona,mallorca,girona
+2022-09-17,SP1,Spain-LaLiga,2223,Mallorca,Almeria,1.0,0.0,H,1.0,0.0,H,2.0,3.3,4.0,2.04,3.33,4.3,2.05,3.32,3.94,2.2,1.66,2.23,1.66,-0.5,2.03,1.87,Mallorca,Almeria,mallorca,almeria
+2022-10-01,SP1,Spain-LaLiga,2223,Mallorca,Barcelona,0.0,1.0,A,0.0,1.0,A,9.0,5.0,1.36,8.8,5.53,1.37,8.63,5.3,1.35,1.61,2.3,1.62,2.31,1.25,2.08,1.73,Mallorca,Barcelona,mallorca,barcelona
+2022-10-15,SP1,Spain-LaLiga,2223,Mallorca,Sevilla,0.0,1.0,A,0.0,0.0,D,2.9,3.0,2.7,2.95,3.14,2.74,2.93,3.11,2.63,2.3,1.61,2.34,1.61,0.0,2.02,1.88,Mallorca,Sevilla,mallorca,sevilla
+2022-10-28,SP1,Spain-LaLiga,2223,Mallorca,Espanol,1.0,1.0,D,0.0,0.0,D,2.25,3.1,3.4,2.34,3.09,3.69,2.3,3.08,3.49,2.62,1.5,2.58,1.5,-0.25,1.95,1.95,Mallorca,Espanyol,mallorca,espanyol
+2022-11-09,SP1,Spain-LaLiga,2223,Mallorca,Ath Madrid,1.0,0.0,H,1.0,0.0,H,3.8,3.1,2.1,3.92,3.23,2.19,3.78,3.2,2.14,2.5,1.53,2.46,1.55,0.25,2.06,1.84,Mallorca,Atletico Madrid,mallorca,atletico_madrid
+2023-01-07,SP1,Spain-LaLiga,2223,Mallorca,Valladolid,1.0,0.0,H,0.0,0.0,D,1.95,3.3,4.2,1.99,3.39,4.45,1.96,3.34,4.26,2.38,1.57,2.36,1.6,-0.5,1.99,1.91,Mallorca,Real Valladolid,mallorca,real_valladolid
+2023-01-20,SP1,Spain-LaLiga,2223,Mallorca,Celta,1.0,0.0,H,0.0,0.0,D,2.8,2.75,3.0,2.89,2.79,3.15,2.85,2.76,3.06,3.5,1.3,3.34,1.33,0.0,1.85,2.05,Mallorca,Celta Vigo,mallorca,celta_vigo
+2023-02-05,SP1,Spain-LaLiga,2223,Mallorca,Real Madrid,1.0,0.0,H,1.0,0.0,H,5.0,3.5,1.73,5.22,3.7,1.78,5.05,3.63,1.75,2.2,1.67,2.2,1.69,0.75,1.89,2.04,Mallorca,Real Madrid,mallorca,real_madrid
+2023-02-18,SP1,Spain-LaLiga,2223,Mallorca,Villarreal,4.0,2.0,H,2.0,1.0,H,3.2,3.0,2.45,3.53,2.95,2.5,3.34,2.94,2.47,2.75,1.44,2.72,1.47,0.25,1.84,2.06,Mallorca,Villarreal,mallorca,villarreal
+2023-03-04,SP1,Spain-LaLiga,2223,Mallorca,Elche,0.0,1.0,A,0.0,0.0,D,1.7,3.4,5.75,1.71,3.43,6.49,1.71,3.39,6.09,2.63,1.5,2.69,1.47,-0.75,1.95,1.95,Mallorca,Elche,mallorca,elche
+2023-03-12,SP1,Spain-LaLiga,2223,Mallorca,Sociedad,1.0,1.0,D,0.0,1.0,A,3.5,2.9,2.38,3.68,2.92,2.42,3.47,2.91,2.42,3.2,1.36,2.99,1.39,0.25,1.87,2.06,Mallorca,Real Sociedad,mallorca,real_sociedad
+2023-03-31,SP1,Spain-LaLiga,2223,Mallorca,Osasuna,0.0,0.0,D,0.0,0.0,D,2.2,2.9,3.9,2.26,2.87,4.21,2.23,2.87,4.02,3.2,1.36,3.15,1.35,-0.25,1.88,2.02,Mallorca,Osasuna,mallorca,osasuna
+2023-04-23,SP1,Spain-LaLiga,2223,Mallorca,Getafe,3.0,1.0,H,0.0,1.0,A,2.3,2.88,3.75,2.41,2.8,3.92,2.35,2.81,3.79,3.4,1.33,3.38,1.32,-0.25,1.98,1.92,Mallorca,Getafe,mallorca,getafe
+2023-05-01,SP1,Spain-LaLiga,2223,Mallorca,Ath Bilbao,1.0,1.0,D,0.0,0.0,D,3.6,3.0,2.25,3.66,3.05,2.34,3.64,2.98,2.29,3.0,1.4,2.86,1.42,0.25,1.97,1.96,Mallorca,Athletic Bilbao,mallorca,athletic_bilbao
+2023-05-12,SP1,Spain-LaLiga,2223,Mallorca,Cadiz,1.0,0.0,H,1.0,0.0,H,2.15,2.9,4.0,2.25,3.02,4.05,2.19,2.99,3.95,2.75,1.44,2.74,1.46,-0.25,1.86,2.04,Mallorca,Cadiz,mallorca,cadiz
+2023-05-25,SP1,Spain-LaLiga,2223,Mallorca,Valencia,1.0,0.0,H,0.0,0.0,D,3.3,3.0,2.4,3.43,2.97,2.5,3.4,2.97,2.41,2.75,1.44,2.72,1.46,0.25,1.84,2.06,Mallorca,Valencia,mallorca,valencia
+2023-06-04,SP1,Spain-LaLiga,2223,Mallorca,Vallecano,3.0,0.0,H,0.0,0.0,D,3.0,3.3,2.38,3.1,3.41,2.4,3.1,3.33,2.36,2.1,1.73,2.14,1.72,0.25,1.85,2.05,Mallorca,Rayo Vallecano,mallorca,rayo_vallecano
+2023-08-18,SP1,Spain-LaLiga,2324,Mallorca,Villarreal,0.0,1.0,A,0.0,0.0,D,2.8,3.2,2.6,3.04,3.13,2.68,2.95,3.11,2.63,2.3,1.62,2.38,1.6,0.0,2.1,1.83,Mallorca,Villarreal,mallorca,villarreal
+2023-09-03,SP1,Spain-LaLiga,2324,Mallorca,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,3.3,3.0,2.38,3.3,3.11,2.49,3.26,3.09,2.42,2.63,1.5,2.58,1.52,0.25,1.85,2.08,Mallorca,Athletic Bilbao,mallorca,athletic_bilbao
+2023-09-26,SP1,Spain-LaLiga,2324,Mallorca,Barcelona,2.0,2.0,D,2.0,1.0,H,7.5,4.2,1.5,6.98,4.53,1.51,6.89,4.38,1.5,1.9,2.0,1.86,1.98,1.0,2.07,1.83,Mallorca,Barcelona,mallorca,barcelona
+2023-10-07,SP1,Spain-LaLiga,2324,Mallorca,Valencia,1.0,1.0,D,1.0,1.0,D,2.5,3.0,3.2,2.54,3.05,3.26,2.51,3.08,3.16,2.5,1.5,2.53,1.53,-0.25,2.14,1.77,Mallorca,Valencia,mallorca,valencia
+2023-10-28,SP1,Spain-LaLiga,2324,Mallorca,Getafe,0.0,0.0,D,0.0,0.0,D,2.25,3.0,3.5,2.35,3.03,3.67,2.31,3.03,3.61,2.88,1.4,2.8,1.44,-0.25,1.98,1.95,Mallorca,Getafe,mallorca,getafe
+2023-11-29,SP1,Spain-LaLiga,2324,Mallorca,Cadiz,1.0,1.0,D,1.0,1.0,D,1.95,3.2,4.33,1.99,3.21,4.56,1.98,3.24,4.38,2.5,1.5,2.57,1.52,-0.5,2.0,1.9,Mallorca,Cadiz,mallorca,cadiz
+2023-12-03,SP1,Spain-LaLiga,2324,Mallorca,Alaves,0.0,0.0,D,0.0,0.0,D,2.45,3.0,3.25,2.47,2.99,3.41,2.46,3.01,3.32,2.7,1.44,2.77,1.45,-0.25,2.11,1.82,Mallorca,Deportivo Alaves,mallorca,deportivo_alaves
+2023-12-09,SP1,Spain-LaLiga,2324,Mallorca,Sevilla,1.0,0.0,H,1.0,0.0,H,2.75,3.1,2.75,2.69,3.16,2.9,2.68,3.16,2.83,2.35,1.57,2.38,1.59,0.0,1.87,2.03,Mallorca,Sevilla,mallorca,sevilla
+2023-12-21,SP1,Spain-LaLiga,2324,Mallorca,Osasuna,3.0,2.0,H,1.0,1.0,D,2.3,2.9,3.3,2.42,2.98,3.51,2.37,3.0,3.45,2.7,1.44,2.78,1.45,-0.25,2.03,1.87,Mallorca,Osasuna,mallorca,osasuna
+2024-01-13,SP1,Spain-LaLiga,2324,Mallorca,Celta,1.0,1.0,D,1.0,1.0,D,2.5,3.1,3.0,2.57,3.02,3.2,2.57,3.02,3.1,2.6,1.48,2.6,1.5,-0.25,2.08,1.73,Mallorca,Celta Vigo,mallorca,celta_vigo
+2024-01-27,SP1,Spain-LaLiga,2324,Mallorca,Betis,0.0,1.0,A,0.0,1.0,A,2.3,3.2,3.2,2.39,3.13,3.37,2.4,3.14,3.25,2.4,1.53,2.48,1.55,-0.25,2.03,1.87,Mallorca,Real Betis,mallorca,real_betis
+2024-02-11,SP1,Spain-LaLiga,2324,Mallorca,Vallecano,2.0,1.0,H,0.0,0.0,D,2.3,3.0,3.4,2.42,2.97,3.54,2.38,2.98,3.46,2.7,1.44,2.72,1.46,-0.25,2.04,1.89,Mallorca,Rayo Vallecano,mallorca,rayo_vallecano
+2024-02-18,SP1,Spain-LaLiga,2324,Mallorca,Sociedad,1.0,2.0,A,1.0,1.0,D,3.4,2.8,2.5,3.4,2.83,2.6,3.34,2.83,2.55,3.4,1.33,3.25,1.33,0.25,1.77,2.14,Mallorca,Real Sociedad,mallorca,real_sociedad
+2024-03-03,SP1,Spain-LaLiga,2324,Mallorca,Girona,1.0,0.0,H,1.0,0.0,H,3.25,3.2,2.3,3.27,3.3,2.35,3.23,3.3,2.3,2.15,1.67,2.15,1.71,0.25,1.91,1.99,Mallorca,Girona,mallorca,girona
+2024-03-16,SP1,Spain-LaLiga,2324,Mallorca,Granada,1.0,0.0,H,0.0,0.0,D,1.83,3.3,5.0,1.84,3.43,5.0,1.84,3.4,4.85,2.35,1.57,2.41,1.59,-0.5,1.86,2.07,Mallorca,Granada,mallorca,granada
+2024-04-13,SP1,Spain-LaLiga,2324,Mallorca,Real Madrid,0.0,1.0,A,0.0,0.0,D,5.0,3.6,1.75,5.09,3.68,1.76,4.92,3.66,1.77,2.05,1.75,2.08,1.77,0.75,1.89,2.01,Mallorca,Real Madrid,mallorca,real_madrid
+2024-05-04,SP1,Spain-LaLiga,2324,Mallorca,Ath Madrid,0.0,1.0,A,0.0,1.0,A,3.75,3.2,2.15,3.82,3.16,2.19,3.75,3.2,2.15,2.38,1.57,2.39,1.59,0.25,2.08,1.85,Mallorca,Atletico Madrid,mallorca,atletico_madrid
+2024-05-11,SP1,Spain-LaLiga,2324,Mallorca,Las Palmas,1.0,0.0,H,1.0,0.0,H,1.65,3.5,6.5,1.62,3.32,7.34,1.66,3.46,6.65,2.63,1.5,2.53,1.53,-0.75,1.87,2.03,Mallorca,Las Palmas,mallorca,las_palmas
+2024-05-19,SP1,Spain-LaLiga,2324,Mallorca,Almeria,2.0,2.0,D,1.0,1.0,D,1.5,4.1,7.0,1.48,4.23,6.88,1.51,4.18,6.92,2.0,1.8,2.05,1.8,-1.0,1.88,2.02,Mallorca,Almeria,mallorca,almeria
+2024-08-18,SP1,Spain-LaLiga,2425,Mallorca,Real Madrid,1.0,1.0,D,0.0,1.0,A,8.0,4.2,1.45,7.77,4.43,1.46,7.33,4.34,1.47,1.95,1.95,1.92,1.91,1.0,2.05,1.75,Mallorca,Real Madrid,mallorca,real_madrid
+2024-08-27,SP1,Spain-LaLiga,2425,Mallorca,Sevilla,0.0,0.0,D,0.0,0.0,D,2.38,3.1,3.25,2.47,3.11,3.33,2.41,3.11,3.26,2.5,1.53,2.52,1.53,-0.25,2.07,1.86,Mallorca,Sevilla,mallorca,sevilla
+2024-09-14,SP1,Spain-LaLiga,2425,Mallorca,Villarreal,1.0,2.0,A,0.0,1.0,A,2.45,3.4,2.88,2.5,3.21,3.07,2.5,3.27,2.96,2.1,1.73,2.11,1.75,0.0,1.8,2.1,Mallorca,Villarreal,mallorca,villarreal
+2024-09-17,SP1,Spain-LaLiga,2425,Mallorca,Sociedad,1.0,0.0,H,1.0,0.0,H,2.9,2.75,3.0,2.94,2.81,3.02,2.88,2.81,2.93,3.2,1.36,3.04,1.38,0.0,1.92,1.98,Mallorca,Real Sociedad,mallorca,real_sociedad
+2024-10-20,SP1,Spain-LaLiga,2425,Mallorca,Vallecano,1.0,0.0,H,0.0,0.0,D,2.05,3.1,4.0,2.13,3.06,4.2,2.1,3.07,4.08,2.75,1.44,2.79,1.44,-0.5,2.04,1.74,Mallorca,Rayo Vallecano,mallorca,rayo_vallecano
+2024-10-28,SP1,Spain-LaLiga,2425,Mallorca,Ath Bilbao,0.0,0.0,D,0.0,0.0,D,2.9,3.1,2.55,3.04,2.93,2.76,3.0,2.98,2.64,2.63,1.5,2.57,1.52,0.0,2.06,1.84,Mallorca,Athletic Bilbao,mallorca,athletic_bilbao
+2024-11-10,SP1,Spain-LaLiga,2425,Mallorca,Ath Madrid,0.0,1.0,A,0.0,0.0,D,3.6,3.1,2.2,3.88,2.95,2.29,3.74,3.02,2.24,2.63,1.5,2.64,1.47,0.25,2.0,1.9,Mallorca,Atletico Madrid,mallorca,atletico_madrid
+2024-11-29,SP1,Spain-LaLiga,2425,Mallorca,Valencia,2.0,1.0,H,1.0,1.0,D,2.0,3.0,4.5,2.04,2.95,4.86,2.04,2.94,4.67,3.2,1.36,3.03,1.38,-0.5,2.07,1.83,Mallorca,Valencia,mallorca,valencia
+2024-12-03,SP1,Spain-LaLiga,2425,Mallorca,Barcelona,1.0,5.0,A,1.0,1.0,D,5.75,4.33,1.53,6.27,4.41,1.55,6.11,4.38,1.53,1.73,2.1,1.72,2.14,1.0,2.0,1.9,Mallorca,Barcelona,mallorca,barcelona
+2024-12-14,SP1,Spain-LaLiga,2425,Mallorca,Girona,2.0,1.0,H,1.0,1.0,D,2.3,3.1,3.25,2.38,3.08,3.48,2.36,3.05,3.37,2.38,1.57,2.42,1.57,-0.25,2.01,1.89,Mallorca,Girona,mallorca,girona
+2025-01-25,SP1,Spain-LaLiga,2425,Mallorca,Betis,0.0,1.0,A,0.0,0.0,D,2.25,3.0,3.5,2.31,3.1,3.61,2.3,3.05,3.48,2.5,1.53,2.53,1.52,-0.25,1.98,1.92,Mallorca,Real Betis,mallorca,real_betis
+2025-02-10,SP1,Spain-LaLiga,2425,Mallorca,Osasuna,1.0,1.0,D,0.0,0.0,D,2.0,3.0,4.33,2.05,3.22,4.26,2.02,3.15,4.22,2.75,1.44,2.76,1.44,-0.5,2.06,1.84,Mallorca,Osasuna,mallorca,osasuna
+2025-02-16,SP1,Spain-LaLiga,2425,Mallorca,Las Palmas,3.0,1.0,H,3.0,0.0,H,1.73,3.5,5.25,1.74,3.63,5.42,1.73,3.53,5.29,2.38,1.57,2.43,1.57,-0.75,1.98,1.92,Mallorca,Las Palmas,mallorca,las_palmas
+2025-03-02,SP1,Spain-LaLiga,2425,Mallorca,Alaves,1.0,1.0,D,1.0,0.0,H,2.25,3.1,3.5,2.31,3.11,3.59,2.27,3.05,3.57,3.0,1.4,2.87,1.41,-0.25,1.95,1.98,Mallorca,Deportivo Alaves,mallorca,deportivo_alaves
+2025-03-15,SP1,Spain-LaLiga,2425,Mallorca,Espanol,2.0,1.0,H,0.0,0.0,D,1.77,3.3,5.0,1.83,3.4,5.1,1.82,3.37,4.91,2.5,1.53,2.54,1.53,-0.5,1.84,2.06,Mallorca,Espanyol,mallorca,espanyol
+2025-04-05,SP1,Spain-LaLiga,2425,Mallorca,Celta,1.0,2.0,A,1.0,0.0,H,2.63,3.2,2.8,2.73,3.07,2.94,2.68,3.09,2.85,2.3,1.62,2.34,1.59,0.0,1.87,2.03,Mallorca,Celta Vigo,mallorca,celta_vigo
+2025-04-19,SP1,Spain-LaLiga,2425,Mallorca,Leganes,0.0,0.0,D,0.0,0.0,D,1.85,3.1,5.0,1.87,3.15,5.44,1.88,3.15,4.93,2.63,1.5,2.54,1.51,-0.5,1.9,2.0,Mallorca,Leganes,mallorca,leganes
+2025-05-10,SP1,Spain-LaLiga,2425,Mallorca,Valladolid,2.0,1.0,H,1.0,1.0,D,1.33,5.25,9.0,1.35,5.21,9.62,1.34,5.0,9.97,2.0,1.9,1.96,1.85,-1.5,2.07,1.83,Mallorca,Real Valladolid,mallorca,real_valladolid
+2025-05-18,SP1,Spain-LaLiga,2425,Mallorca,Getafe,1.0,2.0,A,0.0,0.0,D,2.0,3.2,4.2,2.01,3.31,4.26,2.01,3.2,4.16,2.75,1.44,2.67,1.46,-0.5,2.03,1.83,Mallorca,Getafe,mallorca,getafe
+2025-08-16,SP1,Spain-LaLiga,2526,Mallorca,Barcelona,0.0,3.0,A,0.0,2.0,A,7.0,5.0,1.4,6.68,5.03,1.45,6.75,4.74,1.43,1.62,2.3,1.6,2.25,1.25,1.88,1.98,Mallorca,Barcelona,mallorca,barcelona
+2025-08-23,SP1,Spain-LaLiga,2526,Mallorca,Celta,1.0,1.0,D,0.0,1.0,A,3.0,3.1,2.55,3.06,3.1,2.6,2.94,3.09,2.52,2.38,1.57,2.34,1.55,0.0,2.1,1.78,Mallorca,Celta Vigo,mallorca,celta_vigo
+2025-09-21,SP1,Spain-LaLiga,2526,Mallorca,Ath Madrid,1.0,1.0,D,0.0,0.0,D,5.0,3.6,1.75,5.05,3.69,1.76,5.05,3.51,1.72,2.2,1.67,2.15,1.66,0.75,1.85,2.0,Mallorca,Atletico Madrid,mallorca,atletico_madrid
+2025-09-27,SP1,Spain-LaLiga,2526,Mallorca,Alaves,1.0,0.0,H,1.0,0.0,H,2.35,3.0,3.4,2.42,3.03,3.45,2.33,2.97,3.4,3.0,1.4,2.74,1.42,-0.25,2.0,1.85,Mallorca,Deportivo Alaves,mallorca,deportivo_alaves
+2025-10-26,SP1,Spain-LaLiga,2526,Mallorca,Levante,1.0,1.0,D,0.0,1.0,A,2.1,3.3,3.6,2.09,3.41,3.81,2.1,3.26,3.58,2.1,1.73,2.12,1.67,-0.5,2.08,1.73,Mallorca,Levante,mallorca,levante
+2025-11-09,SP1,Spain-LaLiga,2526,Mallorca,Getafe,1.0,0.0,H,1.0,0.0,H,2.5,2.9,3.2,2.53,2.9,3.42,2.47,2.84,3.25,3.2,1.36,2.96,1.36,-0.25,2.13,1.75,Mallorca,Getafe,mallorca,getafe
+2025-11-29,SP1,Spain-LaLiga,2526,Mallorca,Osasuna,2.0,2.0,D,0.0,0.0,D,2.35,3.0,3.4,2.38,3.09,3.45,2.34,3.03,3.3,2.5,1.53,2.43,1.52,-0.25,2.0,1.85,Mallorca,Osasuna,mallorca,osasuna
+2025-12-13,SP1,Spain-LaLiga,2526,Mallorca,Elche,3.0,1.0,H,1.0,1.0,D,2.45,3.1,3.1,2.51,3.09,3.22,2.42,3.07,3.1,2.38,1.57,2.3,1.57,-0.25,2.1,1.78,Mallorca,Elche,mallorca,elche
+2026-01-04,SP1,Spain-LaLiga,2526,Mallorca,Girona,1.0,2.0,A,0.0,1.0,A,2.25,3.2,3.4,2.26,3.29,3.49,2.24,3.12,3.34,2.2,1.67,2.17,1.64,-0.25,1.93,1.93,Mallorca,Girona,mallorca,girona
+2026-01-17,SP1,Spain-LaLiga,2526,Mallorca,Ath Bilbao,3.0,2.0,H,2.0,2.0,D,3.8,2.9,2.25,,,,3.62,3.04,2.2,2.5,1.53,2.45,1.51,0.25,1.98,1.88,Mallorca,Athletic Bilbao,mallorca,athletic_bilbao
+2026-02-02,SP1,Spain-LaLiga,2526,Mallorca,Sevilla,4.0,1.0,H,1.0,1.0,D,2.4,3.2,3.1,,,,2.39,3.12,3.05,2.2,1.67,2.2,1.63,-0.25,2.05,1.8,Mallorca,Sevilla,mallorca,sevilla
+2026-02-15,SP1,Spain-LaLiga,2526,Mallorca,Betis,1.0,2.0,A,0.0,2.0,A,2.88,3.2,2.45,,,,2.93,3.21,2.41,2.0,1.8,1.99,1.76,0.25,1.73,2.08,Mallorca,Real Betis,mallorca,real_betis
+2026-02-28,SP1,Spain-LaLiga,2526,Mallorca,Sociedad,0.0,1.0,A,0.0,1.0,A,3.0,3.3,2.4,,,,2.97,3.24,2.39,2.1,1.73,2.03,1.73,0.25,1.78,2.1,Mallorca,Real Sociedad,mallorca,real_sociedad
+2026-03-15,SP1,Spain-LaLiga,2526,Mallorca,Espanol,2.0,1.0,H,0.0,1.0,A,2.3,3.2,3.3,,,,2.3,3.09,3.19,2.3,1.62,2.31,1.57,-0.25,1.98,1.88,Mallorca,Espanyol,mallorca,espanyol
+2026-04-04,SP1,Spain-LaLiga,2526,Mallorca,Real Madrid,2.0,1.0,H,1.0,0.0,H,5.5,4.33,1.57,,,,5.51,4.22,1.55,1.67,2.2,1.63,2.19,1.0,1.9,1.95,Mallorca,Real Madrid,mallorca,real_madrid
+2026-04-12,SP1,Spain-LaLiga,2526,Mallorca,Vallecano,3.0,0.0,H,2.0,0.0,H,2.38,3.25,3.0,,,,2.41,3.15,2.96,2.2,1.67,2.19,1.63,-0.25,2.05,1.8,Mallorca,Rayo Vallecano,mallorca,rayo_vallecano
+2026-04-21,SP1,Spain-LaLiga,2526,Mallorca,Valencia,1.0,1.0,D,0.0,0.0,D,2.6,3.1,2.88,,,,2.51,3.12,2.88,2.1,1.73,2.1,1.68,,1.8,2.05,Mallorca,Valencia,mallorca,valencia
+2026-05-10,SP1,Spain-LaLiga,2526,Mallorca,Villarreal,1.0,1.0,D,1.0,1.0,D,2.3,3.5,3.0,,,,2.32,3.48,2.83,1.73,2.1,1.72,2.04,-0.25,2.05,1.8,Mallorca,Villarreal,mallorca,villarreal
+2026-05-23,SP1,Spain-LaLiga,2526,Mallorca,Oviedo,3.0,0.0,H,1.0,0.0,H,1.44,4.5,7.0,,,,1.45,4.33,6.9,1.88,1.98,1.83,1.9,-1.25,2.03,1.83,Mallorca,Real Oviedo,mallorca,real_oviedo
+2026-08-15,SP2,Spain-Segunda,2627,Mallorca,Valladolid,2.0,0.0,H,0.0,0.0,D,1.66,3.5,5.25,,,,1.67,3.55,4.77,1.95,1.85,1.91,1.82,-0.75,1.9,1.9,Mallorca,Real Valladolid,mallorca,real_valladolid
+2026-08-30,SP2,Spain-Segunda,2627,Mallorca,Ceuta,3.0,0.0,H,1.0,0.0,H,1.39,4.2,8.0,,,,1.39,4.44,6.76,1.7,2.1,1.64,2.14,-1.25,1.93,1.88,Mallorca,Ceuta,mallorca,ceuta
+2026-09-13,SP2,Spain-Segunda,2627,Mallorca,Sabadell,2.0,0.0,H,2.0,0.0,H,1.71,3.4,5.25,,,,1.7,3.41,4.89,2.2,1.65,2.16,1.64,-0.75,1.98,1.83,Mallorca,Sabadell,mallorca,sabadell
+2026-09-27,SP2,Spain-Segunda,2627,Mallorca,Almeria,0.0,1.0,A,0.0,1.0,A,2.05,3.3,3.5,,,,2.06,3.26,3.33,1.9,1.9,1.85,1.85,-0.5,2.08,1.73,Mallorca,Almeria,mallorca,almeria
+2026-10-11,SP2,Spain-Segunda,2627,Mallorca,Las Palmas,3.0,1.0,H,1.0,0.0,H,1.53,3.8,6.0,,,,1.54,3.93,5.25,1.8,2.0,1.75,1.97,-1.0,2.0,1.8,Mallorca,Las Palmas,mallorca,las_palmas

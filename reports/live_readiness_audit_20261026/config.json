@@ -1,0 +1,22 @@
+{
+  "audit_phase": "L11 - Live Readiness Audit (Read-Only)",
+  "timestamp": "2026-10-26T22:30:00",
+  "project": "Football Predictor",
+  "production_hash_baseline": {
+    "data/features_train.csv": "37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09",
+    "features.py": "ba8f4c7313ec734a19aaad593a4135186884433d24992c77beee0150d52dbfbc",
+    "train.py": "5df530499a9694721d8f259470d7b51fc7e35a6a66a9b5a9378c274bd19fd7fc",
+    "predict.py": "3942d9babe6df0db8d4f88ed71ebe2d3845d60991583c8e556996154f4f5142b"
+  },
+  "status_legend": {
+    "PASS": "Terverifikasi dengan bukti artefak aktual",
+    "FAIL": "Terbukti tidak memenuhi syarat",
+    "BELUM_TERVERIFIKASI": "Tidak dapat dibuktikan dari artefak yang ada"
+  },
+  "scope_limitations": [
+    "Tidak fetch fixture mendatang",
+    "Tidak menghasilkan prediksi live",
+    "Tidak klaim profitabilitas",
+    "Tidak ubah production"
+  ]
+}

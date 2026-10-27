@@ -1,0 +1,106 @@
+Date,league_code,league_name,season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,B365H,B365D,B365A,PSH,PSD,PSA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,B365AHH,B365AHA,HomeTeam_canon,AwayTeam_canon,HomeTeam_folder,AwayTeam_folder
+2021-08-23,SP2,Spain-Segunda,2122,Mirandes,Amorebieta,2.0,0.0,H,0.0,0.0,D,2.05,3.2,3.75,2.16,3.04,4.13,2.13,2.99,3.73,2.5,1.5,2.56,1.48,-0.25,1.83,2.02,Mirandes,Amorebieta,mirandes,amorebieta
+2021-09-05,SP2,Spain-Segunda,2122,Mirandes,Las Palmas,4.0,2.0,H,3.0,1.0,H,2.55,2.87,3.1,2.67,2.88,3.21,2.57,2.85,3.04,2.6,1.47,2.67,1.45,0.0,1.77,2.1,Mirandes,Las Palmas,mirandes,las_palmas
+2021-09-11,SP2,Spain-Segunda,2122,Mirandes,Alcorcon,1.0,3.0,A,1.0,1.0,D,2.3,3.1,3.2,2.44,2.89,3.53,2.37,2.91,3.32,2.7,1.44,2.65,1.46,-0.25,2.02,1.83,Mirandes,Alcorcon,mirandes,alcorcon
+2021-09-26,SP2,Spain-Segunda,2122,Mirandes,Leganes,1.0,2.0,A,1.0,1.0,D,2.7,2.9,2.7,2.8,3.02,2.85,2.74,2.94,2.74,2.5,1.5,2.54,1.49,0.0,1.95,1.9,Mirandes,Leganes,mirandes,leganes
+2021-10-09,SP2,Spain-Segunda,2122,Mirandes,Eibar,3.0,3.0,D,1.0,2.0,A,4.0,3.1,2.0,3.86,3.29,2.1,3.57,3.16,2.09,2.1,1.7,2.1,1.71,0.25,2.05,1.8,Mirandes,Eibar,mirandes,eibar
+2021-10-21,SP2,Spain-Segunda,2122,Mirandes,Girona,1.0,2.0,A,0.0,2.0,A,2.3,3.2,3.25,2.34,3.28,3.27,2.32,3.11,3.12,2.3,1.6,2.35,1.57,-0.25,2.0,1.85,Mirandes,Girona,mirandes,girona
+2021-10-24,SP2,Spain-Segunda,2122,Mirandes,Almeria,1.0,4.0,A,0.0,3.0,A,3.4,3.1,2.25,3.22,3.43,2.29,3.12,3.25,2.25,2.0,1.8,2.01,1.79,0.25,1.93,1.93,Mirandes,Almeria,mirandes,almeria
+2021-11-03,SP2,Spain-Segunda,2122,Mirandes,Lugo,3.0,2.0,H,0.0,1.0,A,2.05,3.1,3.8,2.23,2.99,3.9,2.13,3.06,3.61,2.3,1.6,2.33,1.58,-0.25,1.83,2.02,Mirandes,Lugo,mirandes,lugo
+2021-11-13,SP2,Spain-Segunda,2122,Mirandes,Huesca,0.0,1.0,A,0.0,0.0,D,3.1,3.2,2.37,3.17,3.27,2.4,3.07,3.18,2.33,2.15,1.66,2.17,1.67,0.25,1.8,2.05,Mirandes,Huesca,mirandes,huesca
+2021-11-26,SP2,Spain-Segunda,2122,Mirandes,Oviedo,1.0,1.0,D,0.0,0.0,D,2.87,3.1,2.62,2.98,3.06,2.74,2.88,2.97,2.61,2.35,1.57,2.37,1.57,0.0,2.02,1.83,Mirandes,Real Oviedo,mirandes,real_oviedo
+2021-12-13,SP2,Spain-Segunda,2122,Mirandes,Sociedad B,2.0,0.0,H,0.0,0.0,D,2.15,3.25,3.6,2.16,3.24,3.74,2.14,3.17,3.5,2.35,1.57,2.41,1.55,-0.25,1.85,2.0,Mirandes,Sociedad B,mirandes,sociedad_b
+2022-01-02,SP2,Spain-Segunda,2122,Mirandes,Zaragoza,2.0,0.0,H,1.0,0.0,H,2.6,3.0,2.6,3.45,3.3,2.16,3.38,3.22,2.15,2.3,1.6,2.25,1.62,0.25,1.63,2.25,Mirandes,Zaragoza,mirandes,zaragoza
+2022-01-30,SP2,Spain-Segunda,2122,Mirandes,Malaga,3.0,0.0,H,2.0,0.0,H,2.2,3.1,3.6,2.24,3.12,3.67,2.2,3.14,3.35,2.2,1.65,2.2,1.64,-0.25,1.93,1.93,Mirandes,Malaga,mirandes,malaga
+2022-02-12,SP2,Spain-Segunda,2122,Mirandes,Sp Gijon,0.0,3.0,A,0.0,1.0,A,2.5,3.3,2.87,2.49,3.09,3.2,2.47,3.1,2.93,2.2,1.65,2.19,1.65,0.0,1.75,2.13,Mirandes,Sp Gijon,mirandes,sp_gijon
+2022-02-26,SP2,Spain-Segunda,2122,Mirandes,Tenerife,2.0,1.0,H,2.0,1.0,H,3.1,3.2,2.4,3.15,3.01,2.57,2.99,3.03,2.47,2.35,1.57,2.35,1.57,0.0,2.08,1.73,Mirandes,Tenerife,mirandes,tenerife
+2022-03-12,SP2,Spain-Segunda,2122,Mirandes,Cartagena,2.0,1.0,H,1.0,0.0,H,2.2,3.4,3.4,2.16,3.6,3.35,2.16,3.39,3.23,1.88,1.98,1.88,1.9,-0.25,1.83,2.02,Mirandes,Cartagena,mirandes,cartagena
+2022-03-27,SP2,Spain-Segunda,2122,Mirandes,Ponferradina,3.0,1.0,H,2.0,0.0,H,2.2,3.3,3.4,2.19,3.54,3.33,2.18,3.33,3.22,2.0,1.85,1.98,1.8,-0.25,1.85,2.0,Mirandes,Ponferradina,mirandes,ponferradina
+2022-04-10,SP2,Spain-Segunda,2122,Mirandes,Burgos,3.0,1.0,H,1.0,1.0,D,2.0,3.4,3.8,2.0,3.6,3.81,2.03,3.36,3.61,2.05,1.75,2.1,1.71,-0.5,2.0,1.85,Mirandes,Burgos,mirandes,burgos
+2022-04-24,SP2,Spain-Segunda,2122,Mirandes,Valladolid,0.0,1.0,A,0.0,1.0,A,3.75,3.6,1.95,3.83,3.61,1.99,3.6,3.52,1.97,1.83,2.02,1.79,1.99,0.5,1.88,1.98,Mirandes,Real Valladolid,mirandes,real_valladolid
+2022-05-15,SP2,Spain-Segunda,2122,Mirandes,Ibiza,4.0,0.0,H,2.0,0.0,H,2.05,3.5,3.6,2.01,3.73,3.64,2.02,3.56,3.42,1.8,2.0,1.79,1.99,-0.5,2.0,1.85,Mirandes,Ibiza,mirandes,ibiza
+2022-05-27,SP2,Spain-Segunda,2122,Mirandes,Fuenlabrada,5.0,1.0,H,2.0,0.0,H,1.75,4.2,4.0,1.81,4.15,4.24,1.75,4.0,4.09,1.53,2.4,1.53,2.43,-0.75,2.0,1.85,Mirandes,Fuenlabrada,mirandes,fuenlabrada
+2022-08-13,SP2,Spain-Segunda,2223,Mirandes,Sp Gijon,1.0,1.0,D,1.0,1.0,D,2.6,3.25,2.7,2.68,3.34,2.82,2.62,3.2,2.69,2.1,1.7,2.11,1.71,0.0,1.88,1.98,Mirandes,Sp Gijon,mirandes,sp_gijon
+2022-08-27,SP2,Spain-Segunda,2223,Mirandes,Malaga,1.0,3.0,A,0.0,1.0,A,2.4,3.1,3.2,2.42,3.15,3.36,2.35,3.13,3.12,2.25,1.61,2.21,1.64,-0.25,2.02,1.83,Mirandes,Malaga,mirandes,malaga
+2022-09-11,SP2,Spain-Segunda,2223,Mirandes,Andorra,1.0,1.0,D,1.0,0.0,H,2.25,3.3,3.3,2.25,3.39,3.34,2.25,3.26,3.15,2.05,1.75,2.05,1.75,-0.25,1.93,1.93,Mirandes,Andorra,mirandes,andorra
+2022-09-24,SP2,Spain-Segunda,2223,Mirandes,Zaragoza,2.0,0.0,H,1.0,0.0,H,2.87,3.3,2.5,3.03,3.22,2.59,2.87,3.12,2.52,2.25,1.61,2.25,1.62,0.0,2.1,1.77,Mirandes,Zaragoza,mirandes,zaragoza
+2022-10-01,SP2,Spain-Segunda,2223,Mirandes,Las Palmas,3.0,3.0,D,1.0,1.0,D,3.3,3.25,2.2,3.49,3.31,2.28,3.29,3.25,2.21,2.05,1.8,2.03,1.76,0.25,1.93,1.93,Mirandes,Las Palmas,mirandes,las_palmas
+2022-10-13,SP2,Spain-Segunda,2223,Mirandes,Levante,0.0,1.0,A,0.0,1.0,A,3.75,3.6,1.95,3.96,3.68,1.92,3.79,3.5,1.93,2.07,1.72,2.04,1.76,0.5,1.93,1.93,Mirandes,Levante,mirandes,levante
+2022-10-22,SP2,Spain-Segunda,2223,Mirandes,Huesca,1.0,1.0,D,0.0,0.0,D,2.3,3.2,3.3,2.31,3.25,3.41,2.27,3.16,3.25,2.1,1.7,2.12,1.7,-0.25,1.95,1.9,Mirandes,Huesca,mirandes,huesca
+2022-11-02,SP2,Spain-Segunda,2223,Mirandes,Tenerife,1.0,0.0,H,0.0,0.0,D,2.7,3.25,2.7,2.81,3.18,2.76,2.73,3.1,2.65,2.25,1.61,2.31,1.59,0.0,1.95,1.9,Mirandes,Tenerife,mirandes,tenerife
+2022-11-21,SP2,Spain-Segunda,2223,Mirandes,Cartagena,2.0,1.0,H,0.0,0.0,D,2.9,3.0,2.62,2.97,3.14,2.57,2.87,3.08,2.52,2.25,1.61,2.23,1.63,0.0,2.02,1.83,Mirandes,Cartagena,mirandes,cartagena
+2022-12-03,SP2,Spain-Segunda,2223,Mirandes,Albacete,4.0,2.0,H,3.0,1.0,H,2.75,2.9,2.8,2.79,3.13,2.81,2.7,3.02,2.73,2.4,1.53,2.37,1.56,0.0,1.9,1.95,Mirandes,Albacete,mirandes,albacete
+2022-12-17,SP2,Spain-Segunda,2223,Mirandes,Ponferradina,2.0,1.0,H,2.0,0.0,H,2.1,3.4,3.6,2.13,3.36,3.76,2.08,3.25,3.59,2.15,1.67,2.14,1.69,-0.25,1.8,2.05,Mirandes,Ponferradina,mirandes,ponferradina
+2023-01-15,SP2,Spain-Segunda,2223,Mirandes,Lugo,2.0,0.0,H,1.0,0.0,H,2.05,3.0,4.33,2.02,3.08,4.42,2.01,3.05,4.08,2.5,1.5,2.5,1.51,-0.5,2.02,1.83,Mirandes,Lugo,mirandes,lugo
+2023-01-29,SP2,Spain-Segunda,2223,Mirandes,Alaves,1.0,3.0,A,1.0,1.0,D,3.1,3.0,2.55,3.21,2.9,2.66,3.06,2.92,2.54,2.6,1.48,2.64,1.47,0.0,2.08,1.73,Mirandes,Deportivo Alaves,mirandes,deportivo_alaves
+2023-02-11,SP2,Spain-Segunda,2223,Mirandes,Villarreal B,2.0,1.0,H,1.0,0.0,H,2.2,3.2,3.5,2.25,3.19,3.63,2.21,3.11,3.43,2.25,1.62,2.26,1.62,-0.25,1.9,1.95,Mirandes,Villarreal B,mirandes,villarreal_b
+2023-02-25,SP2,Spain-Segunda,2223,Mirandes,Leganes,0.0,0.0,D,0.0,0.0,D,3.1,3.0,2.55,3.13,3.05,2.59,3.02,2.98,2.51,2.6,1.48,2.6,1.48,0.0,2.1,1.77,Mirandes,Leganes,mirandes,leganes
+2023-03-04,SP2,Spain-Segunda,2223,Mirandes,Oviedo,1.0,0.0,H,1.0,0.0,H,2.63,2.9,3.0,2.71,2.86,3.18,2.66,2.77,3.04,3.1,1.36,3.0,1.37,0.0,1.77,2.1,Mirandes,Real Oviedo,mirandes,real_oviedo
+2023-03-20,SP2,Spain-Segunda,2223,Mirandes,Eibar,2.0,3.0,A,2.0,0.0,H,3.4,3.1,2.3,3.43,2.94,2.43,3.26,2.95,2.35,2.5,1.5,2.51,1.5,0.25,1.85,2.0,Mirandes,Eibar,mirandes,eibar
+2023-04-02,SP2,Spain-Segunda,2223,Mirandes,Ibiza,2.0,2.0,D,1.0,1.0,D,2.15,3.1,3.5,2.33,3.23,3.28,2.25,3.15,3.23,2.2,1.65,2.23,1.63,-0.25,1.85,2.0,Mirandes,Ibiza,mirandes,ibiza
+2023-04-23,SP2,Spain-Segunda,2223,Mirandes,Burgos,2.0,1.0,H,0.0,0.0,D,2.45,2.88,3.5,2.47,2.86,3.46,2.4,2.87,3.27,2.7,1.44,2.66,1.45,-0.25,2.05,1.8,Mirandes,Burgos,mirandes,burgos
+2023-05-06,SP2,Spain-Segunda,2223,Mirandes,Santander,1.0,1.0,D,1.0,1.0,D,2.38,3.1,3.2,2.4,3.01,3.52,2.33,3.05,3.24,2.2,1.65,2.18,1.66,-0.25,2.0,1.85,Mirandes,Santander,mirandes,santander
+2023-05-20,SP2,Spain-Segunda,2223,Mirandes,Granada,1.0,3.0,A,0.0,1.0,A,5.0,3.7,1.7,5.42,3.66,1.73,4.94,3.54,1.73,2.08,1.73,2.09,1.72,0.75,1.9,1.95,Mirandes,Granada,mirandes,granada
+2023-08-14,SP2,Spain-Segunda,2324,Mirandes,Alcorcon,4.0,0.0,H,2.0,0.0,H,2.5,3.1,3.0,2.66,2.96,3.13,2.53,2.96,2.97,2.5,1.5,2.48,1.51,0.0,1.78,2.1,Mirandes,Alcorcon,mirandes,alcorcon
+2023-08-27,SP2,Spain-Segunda,2324,Mirandes,Espanol,0.0,1.0,A,0.0,0.0,D,3.6,3.1,2.25,3.58,3.22,2.28,3.39,3.18,2.2,2.25,1.62,2.28,1.61,0.25,1.98,1.88,Mirandes,Espanyol,mirandes,espanyol
+2023-09-10,SP2,Spain-Segunda,2324,Mirandes,Andorra,4.0,3.0,H,2.0,0.0,H,3.25,3.1,2.38,3.24,3.21,2.46,3.07,3.12,2.37,2.15,1.67,2.17,1.65,0.25,1.8,2.05,Mirandes,Andorra,mirandes,andorra
+2023-09-24,SP2,Spain-Segunda,2324,Mirandes,Leganes,1.0,3.0,A,1.0,1.0,D,2.6,3.0,3.0,2.78,2.83,3.19,2.63,2.9,2.96,2.5,1.5,2.54,1.5,0.0,1.8,2.05,Mirandes,Leganes,mirandes,leganes
+2023-10-05,SP2,Spain-Segunda,2324,Mirandes,Eibar,1.0,3.0,A,1.0,1.0,D,3.4,3.1,2.25,3.59,3.1,2.35,3.33,3.08,2.26,2.35,1.57,2.38,1.56,0.25,1.93,1.93,Mirandes,Eibar,mirandes,eibar
+2023-10-14,SP2,Spain-Segunda,2324,Mirandes,Tenerife,1.0,1.0,D,1.0,1.0,D,3.3,2.9,2.5,3.33,2.94,2.58,3.11,2.93,2.49,2.4,1.53,2.46,1.52,0.25,1.78,2.1,Mirandes,Tenerife,mirandes,tenerife
+2023-10-29,SP2,Spain-Segunda,2324,Mirandes,Cartagena,2.0,1.0,H,0.0,0.0,D,2.38,3.3,3.1,2.37,3.37,3.23,2.3,3.27,3.1,2.08,1.73,2.08,1.73,-0.25,2.0,1.85,Mirandes,Cartagena,mirandes,cartagena
+2023-11-11,SP2,Spain-Segunda,2324,Mirandes,Ferrol,1.0,2.0,A,0.0,2.0,A,2.5,3.1,3.0,2.53,3.04,3.3,2.45,3.04,3.07,2.35,1.57,2.35,1.57,-0.25,2.13,1.75,Mirandes,Ferrol,mirandes,ferrol
+2023-11-26,SP2,Spain-Segunda,2324,Mirandes,Oviedo,2.0,1.0,H,1.0,0.0,H,3.1,3.1,2.4,3.33,2.98,2.55,3.14,2.94,2.45,2.7,1.44,2.65,1.46,0.25,1.78,2.1,Mirandes,Real Oviedo,mirandes,real_oviedo
+2023-12-03,SP2,Spain-Segunda,2324,Mirandes,Santander,0.0,0.0,D,0.0,0.0,D,2.38,3.25,3.1,2.53,3.33,3.02,2.4,3.24,2.96,2.03,1.83,2.0,1.78,-0.25,2.05,1.8,Mirandes,Santander,mirandes,santander
+2023-12-16,SP2,Spain-Segunda,2324,Mirandes,Albacete,2.0,0.0,H,1.0,0.0,H,3.4,3.2,2.25,3.46,3.29,2.3,3.22,3.24,2.25,2.05,1.75,2.06,1.74,0.25,1.93,1.93,Mirandes,Albacete,mirandes,albacete
+2024-01-21,SP2,Spain-Segunda,2324,Mirandes,Levante,1.0,1.0,D,0.0,1.0,A,2.5,3.2,3.0,2.6,3.15,3.07,2.5,3.13,2.87,2.2,1.65,2.16,1.67,0.0,1.8,2.05,Mirandes,Levante,mirandes,levante
+2024-02-03,SP2,Spain-Segunda,2324,Mirandes,Villarreal B,3.0,0.0,H,1.0,0.0,H,2.1,3.1,4.0,2.13,3.27,3.96,2.07,3.25,3.65,2.1,1.7,2.05,1.75,-0.5,2.05,1.75,Mirandes,Villarreal B,mirandes,villarreal_b
+2024-02-26,SP2,Spain-Segunda,2324,Mirandes,Huesca,0.0,3.0,A,0.0,0.0,D,2.25,2.8,4.0,2.33,2.9,3.85,2.22,2.89,3.67,3.1,1.36,2.89,1.39,-0.25,1.88,1.98,Mirandes,Huesca,mirandes,huesca
+2024-03-09,SP2,Spain-Segunda,2324,Mirandes,Eldense,3.0,1.0,H,1.0,0.0,H,2.5,2.88,3.2,2.44,2.89,3.35,2.43,2.93,3.17,2.6,1.48,2.5,1.51,-0.25,2.1,1.78,Mirandes,Eldense,mirandes,eldense
+2024-03-24,SP2,Spain-Segunda,2324,Mirandes,Zaragoza,0.0,0.0,D,0.0,0.0,D,2.45,2.7,3.0,2.82,2.74,3.2,2.64,2.77,3.03,2.88,1.4,2.8,1.41,0.0,1.78,2.1,Mirandes,Zaragoza,mirandes,zaragoza
+2024-04-07,SP2,Spain-Segunda,2324,Mirandes,Sp Gijon,1.0,3.0,A,1.0,1.0,D,2.7,2.8,3.1,2.54,2.93,3.08,2.52,2.92,3.0,2.5,1.5,2.43,1.53,-0.25,2.15,1.68,Mirandes,Sp Gijon,mirandes,sp_gijon
+2024-04-21,SP2,Spain-Segunda,2324,Mirandes,Burgos,2.0,1.0,H,0.0,0.0,D,2.4,3.1,3.2,2.5,3.15,3.16,2.37,3.05,3.09,2.4,1.53,2.4,1.54,-0.25,2.03,1.83,Mirandes,Burgos,mirandes,burgos
+2024-05-04,SP2,Spain-Segunda,2324,Mirandes,Valladolid,0.0,1.0,A,0.0,1.0,A,3.3,3.2,2.3,3.35,3.13,2.41,3.24,3.05,2.3,2.4,1.53,2.45,1.52,0.25,1.85,2.0,Mirandes,Real Valladolid,mirandes,real_valladolid
+2024-05-17,SP2,Spain-Segunda,2324,Mirandes,Elche,1.0,1.0,D,0.0,0.0,D,3.3,3.25,2.2,3.57,3.24,2.25,3.37,3.18,2.19,2.1,1.7,2.13,1.7,0.25,1.95,1.9,Mirandes,Elche,mirandes,elche
+2024-06-02,SP2,Spain-Segunda,2324,Mirandes,Amorebieta,1.0,0.0,H,0.0,0.0,D,2.15,3.3,3.3,2.11,3.51,3.18,2.1,3.4,3.26,1.93,1.93,1.89,1.88,-0.25,1.88,1.98,Mirandes,Amorebieta,mirandes,amorebieta
+2024-08-16,SP2,Spain-Segunda,2425,Mirandes,Cordoba,1.0,0.0,H,1.0,0.0,H,3.0,3.0,2.55,3.13,3.05,2.6,2.99,2.98,2.51,2.4,1.53,2.44,1.53,0.0,2.13,1.75,Mirandes,Cordoba,mirandes,cordoba
+2024-09-01,SP2,Spain-Segunda,2425,Mirandes,Zaragoza,0.0,0.0,D,0.0,0.0,D,2.88,3.0,2.63,2.98,3.02,2.62,2.87,2.99,2.59,2.6,1.48,2.54,1.49,0.0,2.03,1.83,Mirandes,Zaragoza,mirandes,zaragoza
+2024-09-15,SP2,Spain-Segunda,2425,Mirandes,Albacete,2.0,0.0,H,1.0,0.0,H,2.45,3.1,3.0,2.6,2.81,3.2,2.5,2.94,3.04,2.5,1.5,2.5,1.51,-0.25,2.13,1.75,Mirandes,Albacete,mirandes,albacete
+2024-09-28,SP2,Spain-Segunda,2425,Mirandes,Huesca,1.0,0.0,H,1.0,0.0,H,2.55,2.7,3.4,2.66,2.57,3.52,2.57,2.67,3.3,3.1,1.36,2.96,1.37,-0.25,2.1,1.78,Mirandes,Huesca,mirandes,huesca
+2024-10-05,SP2,Spain-Segunda,2425,Mirandes,Granada,0.0,1.0,A,0.0,1.0,A,2.88,2.9,2.7,2.87,2.96,2.75,2.83,2.93,2.68,2.5,1.5,2.52,1.5,0.0,2.0,1.85,Mirandes,Granada,mirandes,granada
+2024-10-19,SP2,Spain-Segunda,2425,Mirandes,Eibar,1.0,0.0,H,1.0,0.0,H,3.0,2.88,2.63,3.04,2.78,2.77,2.94,2.84,2.66,2.7,1.44,2.68,1.43,0.0,2.03,1.83,Mirandes,Eibar,mirandes,eibar
+2024-10-26,SP2,Spain-Segunda,2425,Mirandes,Cartagena,3.0,1.0,H,2.0,0.0,H,1.9,3.0,5.0,1.93,3.01,4.91,1.91,3.02,4.66,2.88,1.4,2.77,1.41,-0.5,1.93,1.93,Mirandes,Cartagena,mirandes,cartagena
+2024-11-09,SP2,Spain-Segunda,2425,Mirandes,Cadiz,2.0,2.0,D,1.0,1.0,D,3.1,2.55,2.9,3.11,2.56,2.97,3.01,2.62,2.83,3.1,1.36,2.84,1.39,0.0,1.98,1.88,Mirandes,Cadiz,mirandes,cadiz
+2024-11-24,SP2,Spain-Segunda,2425,Mirandes,Eldense,1.0,0.0,H,0.0,0.0,D,2.1,3.1,3.75,2.15,3.0,3.97,2.12,3.01,3.72,2.7,1.44,2.65,1.45,-0.25,1.83,2.03,Mirandes,Eldense,mirandes,eldense
+2024-12-06,SP2,Spain-Segunda,2425,Mirandes,Levante,2.0,1.0,H,0.0,0.0,D,2.55,3.0,3.0,2.66,2.91,3.19,2.55,2.89,3.02,2.5,1.5,2.48,1.51,0.0,1.78,2.1,Mirandes,Levante,mirandes,levante
+2024-12-18,SP2,Spain-Segunda,2425,Mirandes,Sp Gijon,1.0,1.0,D,1.0,0.0,H,2.7,3.0,2.8,2.7,2.88,3.02,2.66,2.86,2.91,2.7,1.44,2.76,1.41,0.0,1.83,2.03,Mirandes,Sp Gijon,mirandes,sp_gijon
+2025-01-20,SP2,Spain-Segunda,2425,Mirandes,Malaga,3.0,2.0,H,0.0,1.0,A,2.1,3.0,4.0,2.06,2.98,4.36,2.06,2.94,4.04,2.88,1.4,2.76,1.41,-0.25,1.73,2.08,Mirandes,Malaga,mirandes,malaga
+2025-02-01,SP2,Spain-Segunda,2425,Mirandes,Elche,3.0,0.0,H,1.0,0.0,H,3.0,3.0,2.55,3.22,2.86,2.65,3.05,2.87,2.53,2.88,1.4,2.8,1.4,0.0,2.13,1.75,Mirandes,Elche,mirandes,elche
+2025-02-14,SP2,Spain-Segunda,2425,Mirandes,Ferrol,4.0,1.0,H,2.0,1.0,H,1.67,3.4,5.75,1.7,3.41,6.34,1.68,3.29,5.8,2.7,1.44,2.65,1.46,-0.75,1.93,1.93,Mirandes,Ferrol,mirandes,ferrol
+2025-03-03,SP2,Spain-Segunda,2425,Mirandes,Tenerife,2.0,0.0,H,1.0,0.0,H,1.85,3.1,5.0,1.88,3.2,4.82,1.86,3.09,4.66,2.7,1.44,2.68,1.44,-0.5,1.9,1.95,Mirandes,Tenerife,mirandes,tenerife
+2025-03-08,SP2,Spain-Segunda,2425,Mirandes,Oviedo,1.0,0.0,H,0.0,0.0,D,2.55,3.0,3.0,2.7,2.82,3.2,2.6,2.82,3.04,2.88,1.4,2.87,1.4,0.0,1.78,2.1,Mirandes,Real Oviedo,mirandes,real_oviedo
+2025-03-22,SP2,Spain-Segunda,2425,Mirandes,Santander,2.0,1.0,H,0.0,1.0,A,2.25,3.2,3.4,2.26,3.2,3.39,2.21,3.19,3.31,2.2,1.65,2.17,1.65,-0.25,1.93,1.93,Mirandes,Santander,mirandes,santander
+2025-04-13,SP2,Spain-Segunda,2425,Mirandes,La Coruna,2.0,2.0,D,0.0,1.0,A,1.95,3.0,4.5,1.93,3.07,4.78,1.94,3.05,4.41,2.4,1.53,2.44,1.52,-0.5,1.98,1.88,Mirandes,La Coruna,mirandes,la_coruna
+2025-04-26,SP2,Spain-Segunda,2425,Mirandes,Burgos,2.0,1.0,H,0.0,0.0,D,2.0,2.88,4.5,2.06,2.74,4.96,2.01,2.84,4.5,2.88,1.4,2.79,1.4,-0.5,2.03,1.83,Mirandes,Burgos,mirandes,burgos
+2025-05-10,SP2,Spain-Segunda,2425,Mirandes,Castellon,3.0,2.0,H,1.0,1.0,D,1.95,3.5,3.75,2.0,3.48,3.8,1.97,3.47,3.64,1.93,1.93,1.9,1.87,-0.5,2.0,1.85,Mirandes,Castellon,mirandes,castellon
+2025-05-25,SP2,Spain-Segunda,2425,Mirandes,Almeria,0.0,0.0,D,0.0,0.0,D,2.15,3.1,3.6,2.16,3.3,3.33,2.18,3.17,3.37,1.88,1.93,1.87,1.89,-0.25,1.85,1.95,Mirandes,Almeria,mirandes,almeria
+2025-08-23,SP2,Spain-Segunda,2526,Mirandes,Huesca,0.0,1.0,A,0.0,1.0,A,3.2,2.8,2.5,3.36,2.82,2.52,3.14,2.75,2.46,3.1,1.36,2.83,1.38,0.25,1.73,2.08,Mirandes,Huesca,mirandes,huesca
+2025-09-13,SP2,Spain-Segunda,2526,Mirandes,La Coruna,1.0,5.0,A,0.0,2.0,A,3.25,3.1,2.25,3.5,2.91,2.38,3.14,2.98,2.3,2.4,1.53,2.37,1.53,0.25,1.8,2.0,Mirandes,La Coruna,mirandes,la_coruna
+2025-09-26,SP2,Spain-Segunda,2526,Mirandes,Zaragoza,0.0,1.0,A,0.0,1.0,A,2.65,3.1,2.65,2.75,3.16,2.83,2.66,3.02,2.61,2.4,1.53,2.41,1.51,0.0,1.88,1.93,Mirandes,Zaragoza,mirandes,zaragoza
+2025-10-11,SP2,Spain-Segunda,2526,Mirandes,Leganes,0.0,0.0,D,0.0,0.0,D,3.2,3.0,2.3,3.31,2.94,2.45,3.15,2.89,2.34,2.6,1.48,2.59,1.45,0.25,1.78,2.03,Mirandes,Leganes,mirandes,leganes
+2025-10-25,SP2,Spain-Segunda,2526,Mirandes,Santander,1.0,3.0,A,1.0,1.0,D,3.2,3.7,2.05,3.39,3.59,2.1,3.11,3.55,2.07,1.73,2.08,1.66,2.11,0.25,1.98,1.83,Mirandes,Santander,mirandes,santander
+2025-11-07,SP2,Spain-Segunda,2526,Mirandes,Sp Gijon,2.0,1.0,H,0.0,1.0,A,2.82,3.05,2.45,,,,2.88,2.97,2.45,2.4,1.53,2.38,1.52,0.0,2.05,1.75,Mirandes,Sp Gijon,mirandes,sp_gijon
+2025-11-16,SP2,Spain-Segunda,2526,Mirandes,Burgos,0.0,2.0,A,0.0,0.0,D,3.3,2.85,2.35,,,,3.13,2.86,2.37,2.88,1.4,2.7,1.41,0.25,1.78,2.03,Mirandes,Burgos,mirandes,burgos
+2025-11-30,SP2,Spain-Segunda,2526,Mirandes,Sociedad B,1.0,0.0,H,0.0,0.0,D,2.05,3.25,3.5,2.12,3.22,3.72,2.09,3.13,3.43,2.2,1.65,2.19,1.61,-0.25,1.8,2.0,Mirandes,Sociedad B,mirandes,sociedad_b
+2025-12-21,SP2,Spain-Segunda,2526,Mirandes,Cordoba,1.0,2.0,A,1.0,1.0,D,3.3,3.3,2.15,3.31,3.32,2.24,3.11,3.22,2.17,2.08,1.73,2.04,1.69,0.25,1.9,1.9,Mirandes,Cordoba,mirandes,cordoba
+2026-01-10,SP2,Spain-Segunda,2526,Mirandes,Almeria,2.0,2.0,D,1.0,1.0,D,3.5,3.4,2.01,3.63,3.43,2.07,3.41,3.31,2.02,1.95,1.85,1.92,1.79,0.5,1.75,2.05,Mirandes,Almeria,mirandes,almeria
+2026-01-18,SP2,Spain-Segunda,2526,Mirandes,Andorra,1.0,2.0,A,0.0,1.0,A,2.45,3.25,2.7,,,,2.47,3.12,2.73,2.03,1.78,2.0,1.72,0.0,1.8,2.0,Mirandes,Andorra,mirandes,andorra
+2026-02-02,SP2,Spain-Segunda,2526,Mirandes,Malaga,2.0,1.0,H,1.0,0.0,H,3.0,3.2,2.32,,,,2.96,3.08,2.35,2.15,1.67,2.16,1.62,0.25,1.75,2.05,Mirandes,Malaga,mirandes,malaga
+2026-02-15,SP2,Spain-Segunda,2526,Mirandes,Las Palmas,1.0,1.0,D,0.0,0.0,D,3.2,3.1,2.3,,,,3.15,3.03,2.28,2.35,1.57,2.31,1.55,0.25,1.8,2.0,Mirandes,Las Palmas,mirandes,las_palmas
+2026-03-01,SP2,Spain-Segunda,2526,Mirandes,Ceuta,0.0,1.0,A,0.0,1.0,A,2.3,3.2,3.1,,,,2.33,3.12,2.91,2.1,1.7,2.06,1.68,-0.25,2.0,1.8,Mirandes,Ceuta,mirandes,ceuta
+2026-03-13,SP2,Spain-Segunda,2526,Mirandes,Cadiz,0.0,2.0,A,0.0,2.0,A,2.15,3.3,3.3,,,,2.19,3.2,3.11,2.05,1.75,2.01,1.71,-0.25,1.9,1.9,Mirandes,Cadiz,mirandes,cadiz
+2026-03-22,SP2,Spain-Segunda,2526,Mirandes,Valladolid,2.0,1.0,H,1.0,1.0,D,2.82,3.1,2.5,,,,2.73,3.1,2.49,2.15,1.67,2.1,1.66,0.0,2.0,1.8,Mirandes,Real Valladolid,mirandes,real_valladolid
+2026-03-31,SP2,Spain-Segunda,2526,Mirandes,Albacete,1.0,1.0,D,1.0,0.0,H,2.35,3.25,3.0,,,,2.41,3.21,2.75,2.03,1.78,1.95,1.77,0.0,1.7,2.1,Mirandes,Albacete,mirandes,albacete
+2026-04-12,SP2,Spain-Segunda,2526,Mirandes,Castellon,2.0,2.0,D,0.0,2.0,A,3.75,3.4,1.96,,,,3.56,3.37,1.95,1.73,2.08,1.7,2.05,0.5,1.83,1.98,Mirandes,Castellon,mirandes,castellon
+2026-04-26,SP2,Spain-Segunda,2526,Mirandes,Cultural Leonesa,2.0,1.0,H,1.0,0.0,H,2.1,3.5,3.2,,,,2.15,3.29,3.06,1.9,1.9,1.87,1.84,-0.25,1.9,1.9,Mirandes,Cultural Leonesa,mirandes,cultural_leonesa
+2026-05-10,SP2,Spain-Segunda,2526,Mirandes,Eibar,0.0,1.0,A,0.0,1.0,A,2.65,3.4,2.45,,,,2.72,3.19,2.4,2.05,1.75,2.01,1.73,0.0,1.98,1.83,Mirandes,Eibar,mirandes,eibar
+2026-05-24,SP2,Spain-Segunda,2526,Mirandes,Granada,3.0,1.0,H,2.0,1.0,H,1.57,4.0,5.25,,,,1.57,3.92,4.91,1.73,2.08,1.7,2.04,-1.0,2.03,1.78,Mirandes,Granada,mirandes,granada

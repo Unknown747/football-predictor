@@ -1,0 +1,43 @@
+{
+  "capture_ts_utc": "2026-10-26T15:40:27.193111+00:00",
+  "input_path": "/root/football-predictor/reports/shadow_test_20261026/fixtures/unknown_team.csv",
+  "input_sha256": "88592bce03489cd3dc9578e4ef03239e9989e2217a9987b32897cbce797a11c2",
+  "input_rows": 1,
+  "label": "SYNTHETIC_TEST_ONLY",
+  "source": "manual",
+  "odds_source": "unknown",
+  "n_predictions": 1,
+  "n_ok": 0,
+  "n_warning": 0,
+  "n_error": 1,
+  "production_integrity": {
+    "predict.py": {
+      "expected": "3942d9babe6df0db8d4f88ed71ebe2d3845d60991583c8e556996154f4f5142b",
+      "actual": "3942d9babe6df0db8d4f88ed71ebe2d3845d60991583c8e556996154f4f5142b",
+      "match": true
+    },
+    "features.py": {
+      "expected": "ba8f4c7313ec734a19aaad593a4135186884433d24992c77beee0150d52dbfbc",
+      "actual": "ba8f4c7313ec734a19aaad593a4135186884433d24992c77beee0150d52dbfbc",
+      "match": true
+    },
+    "train.py": {
+      "expected": "5df530499a9694721d8f259470d7b51fc7e35a6a66a9b5a9378c274bd19fd7fc",
+      "actual": "5df530499a9694721d8f259470d7b51fc7e35a6a66a9b5a9378c274bd19fd7fc",
+      "match": true
+    },
+    "data/features_train.csv": {
+      "expected": "37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09",
+      "actual": "37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09",
+      "match": true
+    }
+  },
+  "model_hashes": {
+    "lgb_1x2_modeB.txt": "0e78456e59e8ff6336c9c3451c9adf1877f775bb10f60455587069851f32683e",
+    "lgb_ou25_modeB.txt": "de65429544bee058530a836ee7a54cfaa30fa36b551387b0917643ce51ea3b8b",
+    "lgb_home_ou05_modeB.txt": "c91dd5bc44f0bdf010002104dbf9ce4568696974a09d23cd2c0055c11f41fff0",
+    "lgb_home_ou15_modeB.txt": "1de2dd1ce6c19932bb511025593d5cf1fd4a11d9fb632d899a939ee821ca5d2b",
+    "lgb_away_ou05_modeB.txt": "8ff79bc5716a30a3c0e62667d6e01f0470d65acd5c4eefa8a9e08398ed17aaf2",
+    "lgb_away_ou15_modeB.txt": "7de8119cce018a420bf5c7c9d68dd302945b9472e9ce2a8d132b9a15ba165edd"
+  }
+}
