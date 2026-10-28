@@ -1,1 +1,2 @@
 - [Dashboard test isolation](dashboard-test-isolation.md) — test dashboard HTML changes in `new/index.html` before applying them to the main page.
+- [Model research isolation](model-research-isolation.md) — keep model experiments under `new/`; the user says existing forecasts have never been live-bet.
