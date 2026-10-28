@@ -14,6 +14,7 @@ from simulate_odds_scenarios import (  # noqa: E402
     _scenario_probabilities,
     generate_synthetic_odds,
     poisson_over_probability,
+    probability_coherence,
 )
 
 
@@ -72,6 +73,35 @@ class SyntheticOddsScenarioTests(unittest.TestCase):
         low = poisson_over_probability(0.8, 2.5)
         high = poisson_over_probability(3.8, 2.5)
         self.assertLess(low, high)
+
+    def test_family_coherence_is_checked_per_model(self):
+        rows = []
+        for candidate, over05, over15 in (
+            ("LAB_FAMILY_lgbm", 0.80, 0.45),
+            ("LAB_FAMILY_xgboost", 0.75, 0.40),
+        ):
+            for market, over_probability in (
+                ("home_ou05", over05),
+                ("home_ou15", over15),
+            ):
+                rows.append({
+                    "_row_id": 1,
+                    "scenario": "STANDARD",
+                    "candidate": candidate,
+                    "market": market,
+                    "p0": 1.0 - over_probability,
+                    "p1": over_probability,
+                })
+
+        checks = probability_coherence(pd.DataFrame(rows))
+        team_checks = checks.loc[
+            checks["check"] == "over15_not_above_over05"
+        ]
+        self.assertEqual(
+            set(team_checks["model"]),
+            {"LAB_FAMILY_lgbm", "LAB_FAMILY_xgboost"},
+        )
+        self.assertEqual(int(team_checks["violations"].sum()), 0)
 
 
 if __name__ == "__main__":

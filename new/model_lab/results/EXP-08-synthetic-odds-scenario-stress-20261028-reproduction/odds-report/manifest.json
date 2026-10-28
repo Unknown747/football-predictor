@@ -1,0 +1,111 @@
+{
+  "experiment_id": "EXP-08",
+  "status": "REFERENCE_ONLY",
+  "purpose": "all available model candidates under synthetic pre-match odds stress scenarios",
+  "input": "data/features_train.csv",
+  "input_sha256": "37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09",
+  "input_valid_date_rows": 40064,
+  "test_fold": {
+    "name": "2026-27-partial",
+    "train_end": "2026-06-30",
+    "test_start": "2026-07-01",
+    "test_end": "2027-06-30"
+  },
+  "test_date_min": "2026-07-31",
+  "test_date_max": "2026-10-21",
+  "test_fixture_rows": 1792,
+  "test_labeled_rows_per_market": {
+    "1x2": 1792,
+    "ou25": 1792,
+    "home_ou05": 1792,
+    "home_ou15": 1792,
+    "away_ou05": 1792,
+    "away_ou15": 1792
+  },
+  "safe_feature_count": 74,
+  "h2h_features": [
+    "h2h_n",
+    "h2h_home_wins",
+    "h2h_draws",
+    "h2h_away_wins",
+    "h2h_total_goals_avg"
+  ],
+  "feature_hash": "990c223264342ef6e38e2c6f08d9651e9c2eb5fb71edbaaf0ebbdce45f0d1a45",
+  "candidate_inventory": {
+    "main_script": "Current production Mode B LightGBM artifacts; synthetic quotes injected into odds features per scenario.",
+    "EXP-05": [
+      "lgbm",
+      "xgboost",
+      "histgb",
+      "logreg"
+    ],
+    "EXP-01": [
+      "F0",
+      "F1",
+      "F2",
+      "F3",
+      "F4",
+      "F5"
+    ],
+    "unique_model_candidates_per_market": 11,
+    "additional_references": [
+      "TRAIN_BASE_RATE",
+      "SYNTHETIC_ODDS_REFERENCE"
+    ]
+  },
+  "feature_ablation_models_by_market": {
+    "1x2": "xgboost",
+    "ou25": "logreg",
+    "home_ou05": "xgboost",
+    "home_ou15": "xgboost",
+    "away_ou05": "xgboost",
+    "away_ou15": "xgboost"
+  },
+  "coherence_rules": [
+    "1X2 and each binary market sum to 1.",
+    "Team Over 1.5 probability does not exceed Over 0.5."
+  ],
+  "scenarios": {
+    "STANDARD": "Training-fold prior blended 50/50 with simple pre-match feature proxy.",
+    "HEAVY_FAVOURITE": "Synthetic quote assigns 78% to the stronger 1X2 side; binary markets assign 82% to the feature-proxy-favoured side.",
+    "EXTREME_GAP": "Synthetic quote assigns 93% to the stronger 1X2 side; binary markets assign 94% to the proxy-favoured side, creating longshot decimal prices.",
+    "MISMATCHED_ODDS": "Synthetic quote favours the side opposite the pre-match strength/goal proxy."
+  },
+  "synthetic_margin": 0.06,
+  "betting_style_rule": {
+    "description": "One hypothetical unit only when the largest model expected return at synthetic decimal odds is at least 3%.",
+    "ev_threshold": 0.03,
+    "not_real_bets": true
+  },
+  "main_model_feature_manifest": "logs/feat_cols_modeB_ordered.json",
+  "main_model_feature_manifest_sha256": "d54debdb64bff8ecaed87e98dcec0fc8af354969d04fb7e1e140bf65d46d4e15",
+  "main_model_hashes": {
+    "1x2": "0e78456e59e8ff6336c9c3451c9adf1877f775bb10f60455587069851f32683e",
+    "ou25": "de65429544bee058530a836ee7a54cfaa30fa36b551387b0917643ce51ea3b8b",
+    "home_ou05": "c91dd5bc44f0bdf010002104dbf9ce4568696974a09d23cd2c0055c11f41fff0",
+    "home_ou15": "1de2dd1ce6c19932bb511025593d5cf1fd4a11d9fb632d899a939ee821ca5d2b",
+    "away_ou05": "8ff79bc5716a30a3c0e62667d6e01f0470d65acd5c4eefa8a9e08398ed17aaf2",
+    "away_ou15": "7de8119cce018a420bf5c7c9d68dd302945b9472e9ce2a8d132b9a15ba165edd"
+  },
+  "family_predictions": "new/model_lab/results/EXP-08-synthetic-odds-scenario-stress-20261028-reproduction/family-models/predictions.csv",
+  "family_predictions_sha256": "baec88f06cb232922ab986619c79da6653fd0a8d87038b84759aea3d6a74d68f",
+  "family_manifest_sha256": "6ec97b33486e7f4d352d242e2e987dacd89573a9f454886c2ddb9fc43b0f8336",
+  "feature_predictions": "new/model_lab/results/EXP-08-synthetic-odds-scenario-stress-20261028-reproduction/feature-groups/predictions.csv",
+  "feature_predictions_sha256": "076e67fea5cc2ad98c0d0eb4d0237ad11cb6c655b75e972282a188f95f164686",
+  "feature_manifest_sha256": "a5086d778086464e5c881d8e0bcc1dd4f28c7fc6e4173aaf9615cff43aa7af23",
+  "package_versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.5.2",
+    "lightgbm": "4.5.0",
+    "xgboost": "2.1.1"
+  },
+  "limitations": [
+    "Every test period in this project has already been reviewed; no untouched holdout.",
+    "The latest-season fold is partial and is for scenario stress screening only.",
+    "All odds are synthetic pre-match quotes, not bookmaker observations or live/in-play prices.",
+    "The production Mode B model was trained with historical closing-odds features; synthetic odds create distribution shift.",
+    "Hypothetical returns use invented prices and do not estimate real betting profit or readiness.",
+    "No live bet or money stake was placed; no production artifact was changed."
+  ]
+}

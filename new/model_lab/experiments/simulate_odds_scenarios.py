@@ -502,8 +502,9 @@ def _scenario_diagnostics(
 
 
 def _coherence_model_key(candidate: str) -> str:
-    if candidate.startswith("LAB_F"):
-        return "_".join(candidate.split("_")[:2])
+    parts = candidate.split("_")
+    if len(parts) >= 3 and parts[0] == "LAB" and parts[1] in GROUP_NAMES:
+        return "_".join(parts[:2])
     return candidate
 
 
@@ -829,6 +830,40 @@ def make_report(
     scenario_leaders: pd.DataFrame,
     manifest: dict,
 ) -> str:
+    sum_checks = coherence.loc[coherence["check"] == "probability_sum"]
+    team_checks = coherence.loc[
+        coherence["check"] == "over15_not_above_over05"
+    ]
+    sum_violations = int(sum_checks["violations"].sum())
+    sum_comparisons = int(sum_checks["n"].sum())
+    team_summary = (
+        team_checks.groupby(["model", "market"], as_index=False)
+        .agg(
+            comparisons=("n", "sum"),
+            violations=("violations", "sum"),
+            max_excess=("max_error_or_excess", "max"),
+        )
+        .sort_values(["violations", "model", "market"], ascending=[False, True, True])
+    )
+    team_issues = team_summary.loc[team_summary["violations"] > 0]
+    family_issues = team_issues.loc[
+        team_issues["model"].str.startswith("LAB_FAMILY_")
+    ]
+    quote_issues = team_summary.loc[
+        team_summary["model"] == "SYNTHETIC_ODDS_REFERENCE"
+    ]
+    quote_violation_count = int(quote_issues["violations"].sum())
+    quote_comparison_count = int(quote_issues["comparisons"].sum())
+    quote_max_excess = (
+        float(quote_issues["max_excess"].max()) if not quote_issues.empty else 0.0
+    )
+    sensitivity_top = (
+        modeb_sensitivity.loc[
+            modeb_sensitivity["prediction_class_flip_pct"].idxmax()
+        ]
+        if not modeb_sensitivity.empty
+        else None
+    )
     lines = [
         "# EXP-08 — Uji Tekanan Odds Sintetis untuk Semua Kandidat",
         "",
@@ -919,6 +954,52 @@ def make_report(
         )
     lines.extend([
         "",
+        "## Konsistensi probabilitas antarpasar",
+        "",
+        f"- Jumlah probabilitas dalam tiap pasar: {sum_violations:,} pelanggaran dari "
+        f"{sum_comparisons:,} pemeriksaan.",
+        "- Untuk gol tim, probabilitas Over 1.5 harus tidak melebihi Over 0.5. "
+        f"Terjadi {int(team_issues['violations'].sum()):,} pelanggaran di seluruh "
+        "kandidat dan skenario.",
+    ])
+    if team_issues.empty:
+        lines.append("- Tidak ada pelanggaran urutan probabilitas gol tim.")
+    else:
+        lines.extend([
+            "",
+            "| Kandidat | Relasi pasar | Pelanggaran | Perbandingan | Excess maksimum |",
+            "|---|---|---:|---:|---:|",
+        ])
+        for row in team_issues.itertuples(index=False):
+            lines.append(
+                f"| {row.model} | {row.market} | {int(row.violations):,} | "
+                f"{int(row.comparisons):,} | {row.max_excess:.4f} |"
+            )
+    if quote_violation_count:
+        lines.extend([
+            "",
+            f"`SYNTHETIC_ODDS_REFERENCE` melanggar urutan Over 1.5 ≤ Over 0.5 pada "
+            f"{quote_violation_count:,} dari {quote_comparison_count:,} perbandingan "
+            f"(excess maksimum {quote_max_excess:.4f}). Ini berasal dari quote "
+            "MISMATCHED_ODDS yang membalik tiap garis gol secara independen; quote "
+            "tersebut sengaja adversarial dan bukan referensi lintas-pasar yang koheren.",
+        ])
+    if not family_issues.empty:
+        lines.append(
+            f"Model keluarga EXP-05 memiliki {int(family_issues['violations'].sum()):,} "
+            "pelanggaran kandidat-level; nilai probabilitas pasar-pasar tersebut tidak "
+            "boleh dianggap koheren hanya karena LogLoss per pasar baik."
+        )
+    if sensitivity_top is not None:
+        lines.append(
+            f"Perubahan kelas terbesar pada MAIN_MODE_B adalah "
+            f"{sensitivity_top['prediction_class_flip_pct']:.1f}% untuk "
+            f"`{sensitivity_top['market']}` pada skenario "
+            f"`{sensitivity_top['scenario']}`; ini diagnostik pergeseran distribusi "
+            "akibat odds sintetis, bukan validasi odds nyata."
+        )
+    lines.extend([
+        "",
         "## Cara membaca simulasi bet",
         "",
         f"Kolom sinyal menghitung fixture yang melewati aturan EV tetap: satu unit hipotetis "
@@ -964,6 +1045,8 @@ def make_report(
         "- `market_leaders.csv` / `scenario_leaders.csv`: pemimpin screening agregat dan per skenario.",
         "- `scenario_ambiguity.csv` / `class_bias.csv`: perbedaan pendapat, bias per kelas, dan "
         "respons kandidat.",
+        "- `probability_coherence.csv`: pemeriksaan jumlah probabilitas dan urutan Over 1.5/0.5.",
+        "- `modeb_scenario_sensitivity.csv`: perubahan prediksi Mode B saat quote sintetis berubah.",
         "- `synthetic_odds_quotes.csv`: odds sintetis per fixture, pasar, dan skenario.",
         "- `per_league_metrics.csv` dan `manifest.json`: rincian liga, identitas input, hash, "
         "aturan simulasi, serta batasan.",

@@ -133,6 +133,10 @@ Gunakan status berikut dalam register: `REFERENCE_ONLY`, `PLANNED`, `RUNNING`, `
 
 `EXP-01` sudah dijalankan sebagai `REFERENCE_ONLY` pada fold parsial `2026-27`. Tidak ada penambahan fitur yang meningkatkan LogLoss secara meyakinkan setelah koreksi perbandingan berganda; F3 memperburuk O/U 2.5. Hasil satu fold parsial tidak memilih kandidat atau membuktikan kesiapan.
 
+`EXP-08` sudah dijalankan ulang pada 2026-10-28 di `results/EXP-08-synthetic-odds-scenario-stress-20261028-reproduction/`. Keenam pasar memakai 1.792 pertandingan yang sama dan empat skenario quote sintetis ber-margin 6%; hasil utama dan quote cocok persis dengan run terdahulu. Pemimpin screening adalah `LAB_FAMILY_logreg` untuk 1X2, kandang O/U 1.5, dan kedua pasar tandang; `LAB_FAMILY_xgboost` untuk kandang O/U 0.5; serta `LAB_F2_logreg` untuk O/U 2.5. Ini bukan kandidat final.
+
+Diagnostik baru menemukan 0 pelanggaran jumlah probabilitas dalam 559.104 pemeriksaan, tetapi 2.451 pelanggaran urutan Over 1.5 ≤ Over 0.5 dalam 186.368 pemeriksaan. Sebanyak 2.439 berasal dari `SYNTHETIC_ODDS_REFERENCE` pada `MISMATCHED_ODDS`, karena garis dibuat secara independen; 12 lainnya muncul pada model keluarga HistGradientBoosting/logistic. Quote mismatch karena itu bukan baseline lintas-pasar yang koheren. `MAIN_MODE_B` juga membalik kelas pada 84,9% pertandingan O/U 2.5 di skenario mismatch. Semua ini tetap screening `REFERENCE_ONLY`, terutama karena odds buatan sendiri dan distribusi odds Mode B berbeda dari data latih closing-odds.
+
 ## Referensi
 
 - Baseline: `reports/final_audit_20261026/`
