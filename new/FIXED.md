@@ -4,20 +4,35 @@ Catatan ini membedakan perbaikan kode dari temuan yang hanya sudah diverifikasi.
 
 ## 1. Baseline halaman uji dibuat terpisah
 
-- `new/index.html` dibuat dari salinan `index.html` utama pada 2026-10-28.
+- `new/index.html` dibangun ulang dari generator HTML proyek dengan keluaran dialihkan ke folder `new/`, sehingga tidak menulis ke halaman utama.
 - Banner menandai halaman sebagai uji.
 - Tombol scan dinonaktifkan agar halaman uji tidak memanggil `/api/scan`, yang menjalankan pipeline dan menulis ulang halaman utama.
 - Halaman utama tetap menjadi sumber produksi dan tidak diubah oleh eksperimen ini.
 
-## 2. Contoh AC Milan–Bologna sudah dicocokkan dengan sumbernya
+## 2. Sumber angka AC Milan–Bologna sudah dicocokkan
 
 Untuk snapshot yang diperiksa:
 
 - Kartu **Home Win 49.0%** cocok dengan `p_H=48.96%` dari `predictions/predictions_20261028_030931.csv`.
 - Tabel **Away Win 41.3%** cocok dengan `p_A=41.28%` dari baris yang sama.
 - **AC Milan 59%** dan **Bologna 35%** adalah tingkat kemenangan historis terpisah dari 98 laga kandang/tandang masing-masing.
+- Ketiga probabilitas model adalah `p_H=48.9626%`, `p_D=9.7525%`, `p_A=41.2849%`; totalnya 100.0000% setelah dibulatkan ke empat angka desimal.
 
-**Kesimpulan:** selisih 49% vs 59%/35% pada contoh ini bukan bukti bahwa probabilitas model tidak sinkron dengan baris prediksi. Masalah keterbacaan label dan ketiadaan `prediction_mode` pada file terbaru masih dicatat di `TO_FIX.md`; belum ada perubahan produksi untuk hal tersebut.
+**Kesimpulan:** nilai probabilitas pada kartu yang tersedia cocok dengan CSV. Selisih 49% vs 59%/35% membandingkan probabilitas model dengan win rate historis, bukan dua nilai model yang seharusnya sama.
+
+## 3. Prototipe label dan cakupan penuh tersedia di halaman uji
+
+- `new/index.html` menampilkan 226 kartu dari 226 baris CSV berstatus valid.
+- Tabel 1X2 menampilkan Home, Draw, dan Away; judul panel riwayat menyebut bahwa win rate historis bukan probabilitas model.
+- Mode model ditandai “tidak tercatat” karena kolom itu tidak ada pada CSV sumber terbaru.
+- Tombol scan tetap nonaktif di halaman uji.
+- Halaman uji belum diterapkan ke halaman utama.
+
+## 4. Cakupan halaman utama sudah dibandingkan dengan CSV
+
+- CSV terbaru memiliki 226 baris valid, sedangkan halaman utama memiliki 190 kartu; **36 baris belum tampil di halaman utama**.
+- Semua 190 kartu utama cocok dengan baris prediksi berdasarkan tanggal dan kedua tim; tidak ditemukan selisih probabilitas pada kartu yang tampil.
+- Generator yang sama menghasilkan seluruh 226 kartu saat diarahkan ke halaman uji. Penyebab halaman utama belum mengikuti keluaran ini masih tercatat di `TO_FIX.md`.
 
 ## 3. Perbaikan rekonstruksi historis yang sudah ada
 
