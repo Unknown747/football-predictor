@@ -110,15 +110,20 @@ body {
     background: var(--forest-dark) !important;
 }
 
+#btnScan:focus-visible {
+    outline: 3px solid rgba(49, 93, 75, .28) !important;
+    outline-offset: 2px;
+}
+
 #btnScan:disabled {
     color: #53685c !important;
     border-color: #cfd9d0 !important;
     background: #e8eee8 !important;
     cursor: wait !important;
-    opacity: .72;
+    opacity: .8;
 }
 
-#scanIcon { display: none; }
+#scanIcon { display: inline-block; }
 #scanStatus { color: var(--muted) !important; }
 
 h1 {
