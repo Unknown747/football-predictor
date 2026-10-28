@@ -1,5 +1,5 @@
 # Kandidat Model
 
-Hanya simpan kandidat yang lolos gerbang di `PLAN.md`. Setiap subfolder kandidat harus memuat manifest fitur, parameter, tanggal data, hasil semua fold, pemeriksaan kebocoran, kalibrasi, serta alasan pemilihan per pasar.
+Setiap bundle kandidat harus memuat manifest fitur, parameter, cutoff data, hash input/model, dan alasan pemilihan per pasar.
 
-Kandidat di sini belum menjadi model produksi. Jangan menyalin artefak ke `models/` atau mengubah script utama tanpa persetujuan eksplisit pengguna.
+`EXP06_BLEND_V1_REFERENCE_ONLY` adalah integrasi inferensi opt-in yang telah disetujui. Bundle tetap disimpan di lab, Mode B tetap default, dan model ini belum siap untuk produksi atau taruhan. Jangan menyalin artefak ke `models/` atau mengubah default tanpa persetujuan terpisah.

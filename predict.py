@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-predict.py — Prediction pipeline using Mode B only.
+predict.py — Prediction pipeline with Mode B default and an opt-in EXP-06 mode.
 
 Prinsip:
 - Cutoff ketat: hanya pakai data master_canon dengan Date < target_date.
-- Model: six verified Mode B models.
+- Default model: six verified Mode B models.
+- EXP06_BLEND_V1 is an explicit, reference-only, odds-free alternative.
 - Missing odds remain missing Mode B features; never switch to another model mode.
 - Fail closed: UNKNOWN_TEAM / UNKNOWN_LEAGUE / DATE_NOT_IN_FUTURE → NaN, tidak predict.
 - Deterministik: match_id dari sha256 jika tidak disupply user.
@@ -42,6 +43,19 @@ except Exception as e:
 # Konstanta
 CUTOFF_DATE = pd.Timestamp("2026-10-21")
 FUZZY_THRESHOLD = 95.0
+EXP06_MODE = "EXP06_BLEND_V1"
+EXP06_PREDICTION_TAG = "EXP06_BLEND_V1_REFERENCE_ONLY"
+EXP06_BUNDLE_DIR = BASE / "new/model_lab/candidates/EXP06_BLEND_V1_REFERENCE_ONLY"
+EXP06_PAPER_OUTPUT_DIR = BASE / "new/model_lab/paper/EXP06_BLEND_V1"
+
+MARKET_CLASS_COUNTS = {
+    "1x2": 3,
+    "ou25": 2,
+    "home_ou05": 2,
+    "home_ou15": 2,
+    "away_ou05": 2,
+    "away_ou15": 2,
+}
 
 MODEL_MAP = {
     "1x2": "lgb_1x2_modeB.txt",
@@ -114,6 +128,132 @@ def load_feat_cols():
         raise FileNotFoundError(f"feat_cols tidak ada: {path}")
     with open(path) as f:
         return json.load(f)
+
+
+def _sha256_file(path):
+    digest = hashlib.sha256()
+    with open(path, "rb") as stream:
+        for chunk in iter(lambda: stream.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def _feature_hash(columns):
+    return hashlib.sha256("\n".join(columns).encode("utf-8")).hexdigest()
+
+
+def load_exp06_bundle():
+    """Load and integrity-check the opt-in EXP-06 reference-only bundle."""
+    import joblib
+
+    manifest_path = EXP06_BUNDLE_DIR / "manifest.json"
+    if not manifest_path.is_file():
+        raise FileNotFoundError(
+            f"Bundle {EXP06_MODE} tidak ditemukan: {manifest_path}. "
+            "Bangun bundle dengan new/model_lab/experiments/"
+            "build_exp06_inference_bundle.py."
+        )
+    with manifest_path.open(encoding="utf-8") as stream:
+        manifest = json.load(stream)
+    if (
+        manifest.get("mode") != EXP06_MODE
+        or manifest.get("prediction_mode") != EXP06_PREDICTION_TAG
+        or manifest.get("status") != "REFERENCE_ONLY"
+        or manifest.get("betting_ready") is not False
+    ):
+        raise ValueError("Bundle EXP-06 tidak memiliki status REFERENCE_ONLY yang valid.")
+    if manifest.get("training_cutoff_inclusive") != "2026-06-30":
+        raise ValueError("Cutoff bundle EXP-06 tidak cocok dengan cutoff yang dibekukan.")
+
+    feat_cols = manifest.get("features")
+    if (
+        not isinstance(feat_cols, list)
+        or not feat_cols
+        or len(feat_cols) != manifest.get("feature_count")
+        or _feature_hash(feat_cols) != manifest.get("features_sha256")
+        or any(str(column).startswith("odds_") for column in feat_cols)
+    ):
+        raise ValueError("Daftar fitur bundle EXP-06 tidak valid atau memuat odds.")
+
+    market_specs = manifest.get("markets")
+    if not isinstance(market_specs, dict) or set(market_specs) != set(MARKET_CLASS_COUNTS):
+        raise ValueError("Bundle EXP-06 harus berisi tepat enam pasar yang diharapkan.")
+
+    models = {}
+    for market, class_count in MARKET_CLASS_COUNTS.items():
+        spec = market_specs[market]
+        weights = spec.get("weights", {})
+        model_specs = spec.get("models", {})
+        if set(weights) != {"lgbm", "xgboost", "histgb", "logreg"}:
+            raise ValueError(f"Daftar bobot model tidak lengkap untuk {market}.")
+        if any(not np.isfinite(float(weight)) or float(weight) < 0
+               for weight in weights.values()):
+            raise ValueError(f"Bobot tidak valid untuk {market}.")
+        if not np.isclose(sum(float(weight) for weight in weights.values()), 1.0):
+            raise ValueError(f"Jumlah bobot bukan 1 untuk {market}.")
+        expected_families = {name for name, weight in weights.items()
+                             if float(weight) > 0}
+        if set(model_specs) != expected_families:
+            raise ValueError(f"Model bundle tidak sesuai dengan bobot untuk {market}.")
+
+        market_models = []
+        for family in sorted(expected_families):
+            model_spec = model_specs[family]
+            artifact = (EXP06_BUNDLE_DIR / model_spec["file"]).resolve()
+            if artifact.parent != EXP06_BUNDLE_DIR.resolve() or not artifact.is_file():
+                raise FileNotFoundError(f"Artefak model tidak valid: {artifact}")
+            if _sha256_file(artifact) != model_spec.get("sha256"):
+                raise ValueError(f"Hash model tidak cocok: {artifact.name}")
+            estimator = joblib.load(artifact)
+            feature_count = getattr(estimator, "n_features_in_", None)
+            if feature_count is not None and int(feature_count) != len(feat_cols):
+                raise ValueError(
+                    f"Jumlah fitur {artifact.name} ({feature_count}) "
+                    f"tidak sama dengan manifest ({len(feat_cols)})."
+                )
+            classes = set(int(value) for value in estimator.classes_)
+            if classes != set(range(class_count)):
+                raise ValueError(
+                    f"Label kelas {artifact.name} tidak sesuai untuk {market}."
+                )
+            market_models.append((estimator, float(weights[family])))
+        models[market] = market_models
+
+    return models, feat_cols
+
+
+def predict_exp06_market(models, market, X):
+    """Return a class-aligned weighted probability vector for one market."""
+    class_count = MARKET_CLASS_COUNTS[market]
+    blended = np.zeros(class_count, dtype=float)
+    total_weight = 0.0
+    for estimator, weight in models[market]:
+        probabilities = np.asarray(estimator.predict_proba(X), dtype=float)
+        classes = np.asarray(estimator.classes_)
+        if probabilities.shape != (1, len(classes)):
+            raise ValueError(
+                f"predict_proba shape tidak valid untuk {market}: {probabilities.shape}"
+            )
+        if not np.isfinite(probabilities).all() or (probabilities < 0).any():
+            raise ValueError(f"Probabilitas tidak valid dari model {market}.")
+        aligned = np.zeros(class_count, dtype=float)
+        seen = set()
+        for position, label in enumerate(classes):
+            class_id = int(label)
+            if class_id < 0 or class_id >= class_count or class_id in seen:
+                raise ValueError(f"Urutan kelas tidak valid pada model {market}.")
+            aligned[class_id] = probabilities[0, position]
+            seen.add(class_id)
+        if seen != set(range(class_count)):
+            raise ValueError(f"Kelas model tidak lengkap pada pasar {market}.")
+        probability_sum = aligned.sum()
+        if probability_sum <= 0:
+            raise ValueError(f"Jumlah probabilitas nol pada pasar {market}.")
+        blended += weight * (aligned / probability_sum)
+        total_weight += weight
+    if not np.isclose(total_weight, 1.0) or blended.sum() <= 0:
+        raise ValueError(f"Bobot inferensi tidak valid pada pasar {market}.")
+    return blended / blended.sum()
 
 
 # ============================================================
@@ -268,7 +408,8 @@ def empty_output(row, status, notes):
     return out
 
 
-def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set):
+def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set,
+                mode="B"):
     """Predict satu match. Return dict matching SCHEMA."""
     # Extract input
     raw_home = row.get("home_team", "")
@@ -365,14 +506,32 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set):
         return empty_output(row, "FEATURE_BUILD_FAILED",
                             [f"X shape {X.shape} != (1,{len(selected_feat_cols)})"])
 
-    # 8) Predict
+    # 8) Predict. EXP06 uses its frozen 74-statistic whitelist; odds stay excluded.
     try:
-        p_1x2 = selected_models["1x2"].predict(X)[0]  # (3,)
-        p_ou25_over = float(selected_models["ou25"].predict(X)[0])
-        p_home_ou05 = float(selected_models["home_ou05"].predict(X)[0])
-        p_home_ou15 = float(selected_models["home_ou15"].predict(X)[0])
-        p_away_ou05 = float(selected_models["away_ou05"].predict(X)[0])
-        p_away_ou15 = float(selected_models["away_ou15"].predict(X)[0])
+        if mode == "B":
+            p_1x2 = selected_models["1x2"].predict(X)[0]  # (3,)
+            p_ou25_over = float(selected_models["ou25"].predict(X)[0])
+            p_home_ou05 = float(selected_models["home_ou05"].predict(X)[0])
+            p_home_ou15 = float(selected_models["home_ou15"].predict(X)[0])
+            p_away_ou05 = float(selected_models["away_ou05"].predict(X)[0])
+            p_away_ou15 = float(selected_models["away_ou15"].predict(X)[0])
+        elif mode == EXP06_MODE:
+            p_1x2 = predict_exp06_market(selected_models, "1x2", X)
+            p_ou25_over = float(predict_exp06_market(selected_models, "ou25", X)[1])
+            p_home_ou05 = float(
+                predict_exp06_market(selected_models, "home_ou05", X)[1]
+            )
+            p_home_ou15 = float(
+                predict_exp06_market(selected_models, "home_ou15", X)[1]
+            )
+            p_away_ou05 = float(
+                predict_exp06_market(selected_models, "away_ou05", X)[1]
+            )
+            p_away_ou15 = float(
+                predict_exp06_market(selected_models, "away_ou15", X)[1]
+            )
+        else:
+            raise ValueError(f"Prediction mode tidak dikenal: {mode}")
     except Exception as e:
         return empty_output(row, "MODEL_PREDICT_FAILED", [f"predict: {e}"])
 
@@ -384,8 +543,22 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set):
     p_ou25_over, p_home_ou05, p_home_ou15, p_away_ou05, p_away_ou15 = probs_list
 
     # Status final
-    all_notes = hist_notes + odds_notes
-    status = "OK_WITH_WARNING" if insuff else "OK"
+    coherence_notes = []
+    if mode == EXP06_MODE:
+        if p_home_ou15 > p_home_ou05 + 1e-12:
+            coherence_notes.append(
+                "EXP06 coherence warning: home Over 1.5 > home Over 0.5"
+            )
+        if p_away_ou15 > p_away_ou05 + 1e-12:
+            coherence_notes.append(
+                "EXP06 coherence warning: away Over 1.5 > away Over 0.5"
+            )
+    mode_notes = (
+        ["REFERENCE_ONLY; odds are not model features"]
+        if mode == EXP06_MODE else []
+    )
+    all_notes = mode_notes + hist_notes + odds_notes + coherence_notes
+    status = "OK_WITH_WARNING" if insuff or coherence_notes else "OK"
 
     # Predicted labels
     pred_1x2 = ["H", "D", "A"][int(np.argmax(p_1x2))]
@@ -468,7 +641,9 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set):
         "home_form5_ga": recon.get("home_form5_ga", 0),
         "away_form5_gf": recon.get("away_form5_gf", 0),
         "away_form5_ga": recon.get("away_form5_ga", 0),
-        "prediction_mode": "B",
+        "prediction_mode": (
+            EXP06_PREDICTION_TAG if mode == EXP06_MODE else "B"
+        ),
     }
 
 
@@ -477,38 +652,57 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set):
 # ============================================================
 
 def main():
-    parser = argparse.ArgumentParser(description="Predict football matches (Mode B only)")
+    parser = argparse.ArgumentParser(
+        description="Predict matches with Mode B or an opt-in EXP-06 reference mode."
+    )
     parser.add_argument("--input", required=True, help="Input CSV (date, home_team, away_team, league_name, [odds_*])")
-    parser.add_argument("--output-dir", default=str(PREDICTIONS), help="Output directory")
+    parser.add_argument(
+        "--mode",
+        choices=["B", EXP06_MODE],
+        default="B",
+        help="B is the unchanged default; EXP06_BLEND_V1 is reference-only.",
+    )
+    parser.add_argument(
+        "--output-dir",
+        default=None,
+        help="Output directory (EXP-06 defaults to new/model_lab/paper/).",
+    )
     args = parser.parse_args()
 
-    out_dir = Path(args.output_dir)
+    out_dir = Path(args.output_dir) if args.output_dir else (
+        EXP06_PAPER_OUTPUT_DIR if args.mode == EXP06_MODE else PREDICTIONS
+    )
     out_dir.mkdir(parents=True, exist_ok=True)
 
     print(f"=== START predict ===")
     print(f"Input: {args.input}")
     print(f"Output dir: {out_dir}")
+    print(f"Prediction mode: {args.mode}")
 
     # Load resources
-    print("Loading models...")
-    models = load_models()
-    print(f"  {len(models)} Mode B models loaded")
+    if args.mode == "B":
+        print("Loading Mode B models...")
+        models = load_models()
+        print(f"  {len(models)} Mode B models loaded")
+        feat_cols = load_feat_cols()
+        for model_name, model in models.items():
+            expected_features = len(feat_cols)
+            actual_features = model.num_feature()
+            if actual_features != expected_features:
+                raise ValueError(
+                    f"Feature count Mode B ({model_name}) tidak cocok: "
+                    f"model={actual_features}, daftar={expected_features}"
+                )
+        print(f"  Mode B features: {len(feat_cols)}")
+    else:
+        print("Loading EXP-06 reference-only bundle...")
+        models, feat_cols = load_exp06_bundle()
+        print(f"  Six market strategies loaded; features: {len(feat_cols)}")
+
     print("Loading team map & league set...")
     raw_to_canon, canon_set = load_team_map()
     league_set = load_league_set()
-    feat_cols = load_feat_cols()
-    for model_name, model in models.items():
-        expected_features = len(feat_cols)
-        actual_features = model.num_feature()
-        if actual_features != expected_features:
-            raise ValueError(
-                f"Feature count Mode B ({model_name}) tidak cocok: model={actual_features}, "
-                f"daftar={expected_features}"
-            )
-    print(
-        f"  Teams: {len(canon_set)}, Leagues: {len(league_set)}, "
-        f"Mode B features: {len(feat_cols)}"
-    )
+    print(f"  Teams: {len(canon_set)}, Leagues: {len(league_set)}")
 
     # Read input
     if not Path(args.input).exists():
@@ -538,9 +732,13 @@ def main():
     for i, row in df_in.iterrows():
         try:
             r = predict_one(row.to_dict(), models, feat_cols,
-                            raw_to_canon, canon_set, league_set)
+                            raw_to_canon, canon_set, league_set,
+                            mode=args.mode)
         except Exception as e:
             r = empty_output(row.to_dict(), "UNEXPECTED_ERROR", [str(e)])
+        r["prediction_mode"] = (
+            EXP06_PREDICTION_TAG if args.mode == EXP06_MODE else "B"
+        )
         results.append(r)
         if (i + 1) % 5 == 0 or i + 1 == len(df_in):
             print(f"Progress: {i + 1}/{len(df_in)} matches", flush=True)
