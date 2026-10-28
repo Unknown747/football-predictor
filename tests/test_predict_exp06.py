@@ -21,6 +21,10 @@ class FixedProbabilityModel:
 
 
 class Exp06PredictionTests(unittest.TestCase):
+    def test_exp06_is_the_primary_default(self):
+        self.assertEqual(predict.DEFAULT_PREDICTION_MODE, predict.EXP06_MODE)
+        self.assertEqual(predict.DEFAULT_PREDICTION_MODE, "EXP06_BLEND_V1")
+
     def test_blend_aligns_model_class_order(self):
         models = {
             "1x2": [

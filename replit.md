@@ -7,8 +7,8 @@
 
 ## Model prediksi utama
 
-- Prediksi utama memakai bundle blend EXP-06 di `models/exp06_blend_v1/`; `predict.py` memilihnya secara default dan memberi tag `EXP06_BLEND_V1_PRIMARY_REFERENCE_ONLY`.
+- Prediksi utama memakai bundle blend EXP-06 di `models/exp06_blend_v1/`; `predict.py` memilihnya secara default dan dashboard tidak akan fallback ke snapshot Mode B.
 - Model memakai 74 fitur statistik historis tanpa odds. Odds yang masuk masih dapat dipakai untuk menghitung kolom nilai, tetapi tidak mengubah probabilitas model.
-- Bundle dilatih dengan cutoff inklusif 30 Juni 2026. Semua evaluasi yang tersedia bersifat historis/reference-only; model belum divalidasi prospektif, belum terbukti menguntungkan, dan bukan model siap taruhan.
+- Bundle dilatih dengan cutoff inklusif 30 Juni 2026. Cohort paper pertama mencatat 228 prediksi pra-pertandingan; hasilnya masih menunggu. Belum ada kesimpulan validasi prospektif, profitabilitas, atau kesiapan taruhan.
 - Mode B lama tetap tersedia untuk pembanding: `python predict.py --input <file-fixture.csv> --mode B`. `train.py` masih melatih Mode B lama dan tidak menimpa bundle utama EXP-06.
-- Dashboard memilih snapshot terbaru bertag model yang dikenal dan menampilkan model serta batasannya. Tombol scan menjalankan scraper, prediksi utama, lalu membangun ulang dashboard.
+- Dashboard hanya memilih snapshot EXP-06 yang valid dan tidak fallback ke Mode B. Tombol scan menjalankan scraper, prediksi utama, lalu membangun ulang dashboard.

@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 import os
+import json
 from pathlib import Path
 from datetime import datetime
 
@@ -33,20 +34,29 @@ for _, entry in team_map.iterrows():
         if folder_name:
             TEAM_FOLDER_BY_CANON.setdefault(canonical_name.casefold(), folder_name)
 
-LEGACY_MODE_B_SNAPSHOTS = {"predictions_20261028_030931.csv"}
 MODE_B_VALUES = {"B", "B_ONLY", "B_WITH_ODDS"}
-PRIMARY_MODEL_VALUES = {"EXP06_BLEND_V1_PRIMARY_REFERENCE_ONLY"}
+PRIMARY_MODEL_TAG = "EXP06_BLEND_V1_PRIMARY_REFERENCE_ONLY"
+PRIMARY_MODEL_VALUES = {PRIMARY_MODEL_TAG}
 SUPPORTED_MODEL_VALUES = MODE_B_VALUES | PRIMARY_MODEL_VALUES
 
 
-def is_supported_prediction_snapshot(path):
-    """Only use snapshots tagged with a supported model or approved legacy data."""
+def prediction_snapshot_modes(path):
     columns = pd.read_csv(path, nrows=0).columns
     if "prediction_mode" not in columns:
-        return path.name in LEGACY_MODE_B_SNAPSHOTS
+        return set()
     modes = pd.read_csv(path, usecols=["prediction_mode"])["prediction_mode"]
-    modes = set(modes.dropna().astype(str).str.strip().str.upper())
+    return set(modes.dropna().astype(str).str.strip().str.upper())
+
+
+def is_supported_prediction_snapshot(path):
+    """Reject untagged, mixed, or unknown prediction snapshots."""
+    modes = prediction_snapshot_modes(path)
     return bool(modes) and modes.issubset(SUPPORTED_MODEL_VALUES)
+
+
+def is_primary_prediction_snapshot(path):
+    """The main dashboard must never silently fall back to legacy Mode B."""
+    return prediction_snapshot_modes(path) == PRIMARY_MODEL_VALUES
 
 
 def prediction_file_key(path):
@@ -56,10 +66,16 @@ def prediction_file_key(path):
     return timestamp, path.stat().st_mtime_ns, path.name
 
 
-files = [path for path in PRED_DIR.glob("predictions_*.csv")
-         if is_supported_prediction_snapshot(path)]
+files = [
+    path for path in PRED_DIR.glob("predictions_*.csv")
+    if is_supported_prediction_snapshot(path)
+    and is_primary_prediction_snapshot(path)
+]
 if not files:
-    raise FileNotFoundError(f"Tidak ada snapshot prediksi model yang valid di {PRED_DIR}")
+    raise FileNotFoundError(
+        f"Tidak ada snapshot prediksi EXP-06 primary yang valid di {PRED_DIR}; "
+        "dashboard tidak akan memakai snapshot legacy Mode B sebagai fallback."
+    )
 latest_pred = max(files, key=prediction_file_key)
 
 df_pred = pd.read_csv(latest_pred)
@@ -70,6 +86,64 @@ snapshot_modes = (
     if "prediction_mode" in df_pred.columns else set()
 )
 uses_primary_model = bool(snapshot_modes & PRIMARY_MODEL_VALUES)
+
+
+def paper_tracking_summary():
+    """Show the no-stakes cohort status without presenting it as readiness."""
+    paper_dir = BASE / "new" / "model_lab" / "paper"
+    protocol_path = paper_dir / "exp07_protocol.json"
+    forecasts_path = paper_dir / "exp07_forecasts.jsonl"
+    results_path = paper_dir / "exp07_results.jsonl"
+    scorecard_path = paper_dir / "scorecard" / "scorecard.json"
+    if not protocol_path.is_file():
+        return "EXP-07 paper tracking belum dimulai."
+
+    try:
+        protocol = json.loads(protocol_path.read_text(encoding="utf-8"))
+        if protocol.get("model_tag") != PRIMARY_MODEL_TAG:
+            return "EXP-07 tidak cocok dengan model utama; status perlu diaudit."
+
+        def read_records(path):
+            if not path.is_file():
+                return []
+            records = []
+            with path.open("r", encoding="utf-8") as handle:
+                for line in handle:
+                    if line.strip():
+                        records.append(json.loads(line))
+            return records
+
+        forecasts = read_records(forecasts_path)
+        results = read_records(results_path)
+        if any(row.get("model_tag") != PRIMARY_MODEL_TAG
+               for row in forecasts):
+            return "EXP-07 memuat tag model berbeda; status perlu diaudit."
+        finished_count = sum(
+            str(row.get("status", "")).upper() == "FINISHED" for row in results
+        )
+        if finished_count == 0:
+            result_state = "hasil pertandingan masih menunggu"
+        elif scorecard_path.is_file():
+            scorecard = json.loads(scorecard_path.read_text(encoding="utf-8"))
+            if (
+                scorecard.get("model_tag") == PRIMARY_MODEL_TAG
+                and scorecard.get("finished_result_count") == finished_count
+            ):
+                result_state = "scorecard deskriptif sudah diperbarui"
+            else:
+                result_state = "hasil tercatat; scorecard perlu diperbarui"
+        else:
+            result_state = "hasil tercatat; scorecard perlu dibuat"
+        return (
+            f"Paper test tanpa stake: {len(forecasts)} prediksi tersimpan, "
+            f"{finished_count} hasil selesai; {result_state}. "
+            "Status kesiapan tidak dinilai."
+        )
+    except (OSError, json.JSONDecodeError, TypeError):
+        return "EXP-07 tidak dapat dibaca; periksa ledger sebelum menilai hasil."
+
+
+paper_status_text = paper_tracking_summary()
 
 LEAGUE_MAP = {
     "England-PL": "Premier League", "England-Champ": "Championship",
@@ -234,9 +308,10 @@ html = """
     <div class="subtitle">Dibuat: """ + datetime.now().strftime("%Y-%m-%d %H:%M") + """ · Sumber: """ + latest_pred.name + """</div>
     <div class="model-disclaimer" role="note">
         """ + (
-            "Model utama: EXP-06 blend, tanpa fitur odds. Status REFERENCE_ONLY; "
-            "belum divalidasi secara prospektif, probabilitas belum dikalibrasi, "
-            "dan bukan bukti profitabilitas."
+            "Model utama/default script: EXP-06 blend; odds bukan fitur model. "
+            "Tahap eksplorasi; belum dipakai untuk live bet. "
+            + paper_status_text +
+            " Tidak ada klaim kesiapan atau profitabilitas."
             if uses_primary_model else
             "Mode B legacy. Persentase adalah estimasi model, bukan odds pasar; "
             "hasil belum dikalibrasi dan tidak menjamin hasil pertandingan. "
@@ -289,7 +364,9 @@ for d in dates:
         }
         row_mode = str(row.get("prediction_mode", "")).strip().upper()
         if row_mode in PRIMARY_MODEL_VALUES:
-            prediction_note = "EXP-06 blend · odds bukan fitur model · REFERENCE_ONLY"
+            prediction_note = (
+                "EXP-06 default · estimasi model · eksplorasi, belum live bet"
+            )
         else:
             prediction_note = (
                 f"Mode B legacy · "
