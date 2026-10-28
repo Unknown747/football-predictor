@@ -9,55 +9,337 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Football Prediction Dashboard</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; background-color: #0E1117; color: #FAFAFA; padding: 15px; margin: 0; }
-        h1 { color: #1E88E5; text-align: center; font-size: 1.5rem; margin-bottom: 5px;}
-        .subtitle { text-align:center; color:#888; font-size: 0.8rem; margin-bottom: 20px;}
-        .model-disclaimer { max-width: 1000px; margin: 0 auto 18px; padding: 11px 14px; border: 1px solid #7c5d1c; border-radius: 7px; background: #292417; color: #f0d99c; font-size: 0.85rem; line-height: 1.45; }
-        h2 { color: #E0E0E0; margin-top: 30px; font-size: 1.1rem; border-bottom: 1px solid #333; padding-bottom: 5px;}
-
-        .card { background-color: #1E1E1E; border-radius: 8px; padding: 12px; margin-bottom: 15px; border-left: 4px solid #1E88E5; }
-        .match-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px; }
-        .team { font-weight: bold; font-size: 1rem; width: 35%; }
-        .team.away { text-align: right; }
-        .score-box { background-color: #262730; padding: 8px 15px; border-radius: 5px; font-weight: bold; color: #00FF00; font-size: 1.2rem; text-align: center; }
-        .score-label { font-size: 0.7rem; color: #AAA; text-align: center; margin-top: -2px; margin-bottom: 10px; }
-        .league-badge { text-align: center; margin-bottom: 10px; }
-        .league-badge span { background-color: #333; color: #FFF; padding: 3px 10px; border-radius: 12px; font-size: 0.75rem; font-weight: bold;}
-
-        .section-title { font-size: 0.75rem; color: #888; text-transform: uppercase; margin-bottom: 5px; margin-top: 10px;}
-
-        .dashboard-toolbar { flex-wrap: wrap; gap: 12px; }
-        .dashboard-toolbar > div:first-child { flex-wrap: wrap; }
-        .markets { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; font-size: 0.85rem; margin-bottom: 5px;}
-        .markets.one-x-two { grid-template-columns: repeat(3, minmax(0, 1fr));}
-        .market-item { background-color: #2b2b36; padding: 8px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center;}
-        .market-label { color: #AAA; }
-        .market-value { font-weight: bold; color: #FFF; font-size: 0.95rem; }
-
-        .stats-box { display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 0.85rem; margin-bottom: 10px;}
-        .stat-home { background-color: #2b2b36; padding: 6px; border-radius: 4px; text-align: center; border-top: 2px solid #FF9800;}
-        .stat-away { background-color: #2b2b36; padding: 6px; border-radius: 4px; text-align: center; border-top: 2px solid #2196F3;}
-        .stat-title { color: #888; font-size: 0.7rem; text-transform: uppercase;}
-        .stat-val { font-weight: bold; color: #FFF; font-size: 1rem; }
-        .stat-missing { color: #FF5252; font-size: 0.8rem; font-style: italic; }
-
-        .h2h-box { background-color: #2b2b36; padding: 10px; border-radius: 4px; font-size: 0.85rem; border-left: 2px solid #F44336;}
-        .h2h-title { font-weight: bold; color: #FF5252; margin-bottom: 5px; }
-        .h2h-last { font-size: 0.75rem; color: #AAA; margin-top: 5px; font-style: italic; }
-        .no-h2h { color: #666; font-style: italic; font-size: 0.8rem; margin-top: 5px;}
-        .prediction-note { text-align:center; color:#d8c28d; font-size:0.72rem; margin: 0 0 10px; }
-        .probability-note { color:#888; font-size:0.7rem; margin: 2px 0 8px; }
-        @media (max-width: 520px) {
-            body { padding: 10px; }
-            .markets.one-x-two { grid-template-columns: 1fr; }
-            .dashboard-toolbar { align-items: stretch !important; }
-            .dashboard-toolbar > div:first-child { flex: 1 1 100%; gap: 10px !important; }
-            .dashboard-toolbar > div:first-child > div { flex: 1 1 0; min-width: 0; }
-            .dashboard-toolbar select { width: 100%; min-width: 0; box-sizing: border-box; }
-            .dashboard-toolbar > div:last-child { width: 100%; text-align: left !important; }
-            .dashboard-toolbar > div:last-child #scanStatus { text-align: left !important; }
+        :root {
+            color-scheme: light;
+            --ink: #24332d;
+            --muted: #75817a;
+            --paper: #f2f4ef;
+            --surface: #fbfcf8;
+            --line: #dce3dc;
+            --forest: #315d4b;
+            --forest-dark: #244838;
+            --mint: #e7f0e9;
+            --gold: #a87537;
+            --gold-wash: #f6f0e5;
+            --home: #a87537;
+            --away: #527d8a;
+            --shadow: 0 10px 30px rgba(35, 55, 44, .055);
         }
-
+        * { box-sizing: border-box; }
+        body {
+            max-width: 1480px;
+            margin: 0 auto;
+            padding: 30px clamp(16px, 3.5vw, 52px) 72px;
+            color: var(--ink);
+            background:
+                radial-gradient(ellipse at 84% -14%, rgba(214, 228, 215, .7), transparent 37rem),
+                var(--paper);
+            font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+            font-size: 14px;
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+        #test-only-banner {
+            max-width: 1320px;
+            margin: 0 auto 18px !important;
+            padding: 11px 15px !important;
+            color: #735522 !important;
+            border: 1px solid #e3d2ad !important;
+            border-left: 3px solid #b18747 !important;
+            border-radius: 7px !important;
+            background: #fbf6e9 !important;
+            font-size: 12px !important;
+            letter-spacing: .01em;
+        }
+        .dashboard-toolbar {
+            display: flex;
+            flex-wrap: wrap;
+            max-width: 1320px;
+            min-height: 82px;
+            margin: 0 auto 36px !important;
+            padding: 14px 18px !important;
+            gap: 16px !important;
+            border: 1px solid var(--line) !important;
+            border-left: 3px solid var(--forest) !important;
+            border-radius: 9px !important;
+            background: rgba(251, 252, 248, .88) !important;
+            box-shadow: 0 3px 12px rgba(35, 55, 44, .035);
+        }
+        .dashboard-toolbar > div:first-child { gap: 12px !important; }
+        .dashboard-toolbar label {
+            color: var(--muted) !important;
+            font-size: 10px !important;
+            font-weight: 700;
+            letter-spacing: .105em;
+            text-transform: uppercase;
+        }
+        .dashboard-toolbar select {
+            min-width: 190px;
+            padding: 10px 36px 10px 12px !important;
+            color: var(--ink) !important;
+            border: 1px solid #d6dfd7 !important;
+            border-radius: 6px !important;
+            outline: none !important;
+            background-color: #f6f8f4 !important;
+            font: inherit;
+            transition: border-color .18s ease, background-color .18s ease;
+        }
+        .dashboard-toolbar select:focus { border-color: var(--forest) !important; background-color: var(--surface) !important; }
+        #btnScan {
+            justify-content: center;
+            min-width: 205px;
+            padding: 10px 15px !important;
+            color: #53685c !important;
+            border: 1px solid #cfd9d0 !important;
+            border-radius: 6px !important;
+            background: #e8eee8 !important;
+            font-family: inherit !important;
+            font-size: 12px !important;
+            font-weight: 700 !important;
+            line-height: 1.2;
+            letter-spacing: .015em;
+            cursor: not-allowed !important;
+            opacity: .72;
+            box-shadow: none !important;
+        }
+        #btnScan:disabled { opacity: .72; }
+        #scanIcon { display: none; }
+        #scanStatus { color: var(--muted) !important; }
+        h1 {
+            max-width: 1320px;
+            margin: 0 auto 5px;
+            color: var(--ink);
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: clamp(32px, 4.8vw, 54px);
+            font-weight: 500;
+            letter-spacing: -.045em;
+            line-height: 1.04;
+            text-align: left;
+        }
+        h1::before {
+            display: block;
+            margin-bottom: 12px;
+            color: var(--forest);
+            content: "MATCHDAY INTELLIGENCE";
+            font-family: "Avenir Next", Avenir, sans-serif;
+            font-size: 10px;
+            font-weight: 800;
+            letter-spacing: .2em;
+        }
+        .subtitle {
+            max-width: 1320px;
+            margin: 12px auto 22px;
+            color: var(--muted);
+            font-size: 12px;
+            letter-spacing: .025em;
+            text-align: left;
+        }
+        .model-disclaimer {
+            max-width: 1320px;
+            margin: 0 auto 30px;
+            padding: 13px 16px 13px 18px;
+            color: #735c36;
+            border: 1px solid #e8ddc6;
+            border-left: 3px solid #b38c53;
+            border-radius: 6px;
+            background: #f8f4eb;
+            font-size: 12px;
+            line-height: 1.65;
+        }
+        #predictionList { max-width: 1320px; margin: 0 auto; }
+        #predictionList > section {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 16px;
+            align-items: start;
+            margin-bottom: 36px;
+        }
+        #predictionList > section[hidden] { display: none; }
+        h2 {
+            grid-column: 1 / -1;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin: 0 0 2px !important;
+            padding: 0 0 12px !important;
+            color: var(--ink);
+            border-bottom: 1px solid #d8e0d9 !important;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: 23px !important;
+            font-weight: 500;
+            letter-spacing: -.025em;
+        }
+        h2::after {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: #789681;
+            content: "";
+            order: -1;
+        }
+        .card {
+            min-width: 0;
+            margin: 0 !important;
+            padding: 19px 20px 20px !important;
+            color: var(--ink);
+            border: 1px solid #dfe5df;
+            border-left: 3px solid #87a08d !important;
+            border-radius: 8px !important;
+            background: var(--surface) !important;
+            box-shadow: var(--shadow);
+            transition: transform .18s ease, box-shadow .18s ease;
+        }
+        .card:hover { transform: translateY(-2px); box-shadow: 0 14px 34px rgba(35, 55, 44, .09); }
+        .league-badge {
+            margin: 0 0 15px !important;
+            color: var(--muted);
+            font-size: 10px;
+            font-weight: 800;
+            letter-spacing: .12em;
+            text-align: left !important;
+            text-transform: uppercase;
+        }
+        .league-badge span {
+            padding: 0 !important;
+            color: var(--forest) !important;
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            font-size: inherit !important;
+            font-weight: inherit !important;
+        }
+        .match-header {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) minmax(110px, auto) minmax(0, 1fr);
+            gap: 12px;
+            align-items: center;
+            margin: 0 0 4px !important;
+        }
+        .team {
+            width: auto !important;
+            min-width: 0;
+            color: var(--ink);
+            font-size: clamp(16px, 1.5vw, 20px) !important;
+            font-weight: 750 !important;
+            letter-spacing: -.025em;
+            line-height: 1.2;
+            overflow-wrap: anywhere;
+        }
+        .team.away { text-align: right; }
+        .match-header > div:nth-child(2) { min-width: 0; max-width: 100%; text-align: center; }
+        .score-box {
+            padding: 8px 10px !important;
+            color: var(--forest-dark) !important;
+            border: 1px solid #d9e7dc;
+            border-radius: 6px !important;
+            background: var(--mint) !important;
+            font-size: 12px !important;
+            font-weight: 800 !important;
+            line-height: 1.35;
+        }
+        .score-box span { color: #5e7767 !important; }
+        .score-label {
+            margin: 5px 0 11px !important;
+            color: #87918b !important;
+            font-size: 9px !important;
+            line-height: 1.35;
+        }
+        .prediction-note {
+            margin: 0 0 16px !important;
+            color: #7c725f !important;
+            font-size: 10px !important;
+            text-align: center;
+        }
+        .section-title {
+            margin: 15px 0 7px !important;
+            color: #76817a !important;
+            font-size: 9px !important;
+            font-weight: 800;
+            letter-spacing: .11em;
+            line-height: 1.35;
+            text-transform: uppercase;
+        }
+        .stats-box {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 7px !important;
+            margin: 0 0 13px !important;
+        }
+        .stat-home, .stat-away {
+            min-width: 0;
+            padding: 9px 8px !important;
+            border: 1px solid #e4e8e2;
+            border-top: 2px solid var(--home) !important;
+            border-radius: 5px !important;
+            background: #f7f8f4 !important;
+            text-align: left !important;
+        }
+        .stat-away { border-top-color: var(--away) !important; }
+        .stat-title { color: #78837c !important; font-size: 9px !important; font-weight: 700; letter-spacing: .035em; }
+        .stat-val { color: var(--ink) !important; font-size: 14px !important; line-height: 1.35; }
+        .stat-home div[style], .stat-away div[style] { color: #6d7971 !important; }
+        .stat-missing { color: #a85249 !important; }
+        .h2h-box {
+            padding: 11px 12px !important;
+            color: #536159;
+            border: 1px solid #e0e8df;
+            border-left: 2px solid #899d81 !important;
+            border-radius: 5px !important;
+            background: #f4f7f1 !important;
+            line-height: 1.6;
+        }
+        .h2h-title { margin-bottom: 4px !important; color: var(--forest-dark) !important; font-size: 12px; }
+        .h2h-box span { font-size: 11px; }
+        .h2h-box span[style*="4CAF50"] { color: #527c61 !important; }
+        .h2h-box span[style*="FFC107"] { color: #9a7432 !important; }
+        .h2h-box span[style*="2196F3"] { color: #527d8a !important; }
+        .h2h-last { margin-top: 7px !important; color: #77827b !important; font-size: 10px !important; line-height: 1.55; }
+        .markets {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 6px !important;
+            margin-bottom: 4px !important;
+        }
+        .markets.one-x-two { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px !important; }
+        .market-item {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            min-width: 0;
+            gap: 5px;
+            padding: 8px 9px !important;
+            border: 1px solid #e6eae4;
+            border-radius: 5px !important;
+            background: #f7f8f5 !important;
+        }
+        .market-label { min-width: 0; color: #77827b !important; font-size: 10px; line-height: 1.3; overflow-wrap: anywhere; }
+        .market-value { color: var(--ink) !important; font-size: 12px !important; font-variant-numeric: tabular-nums; white-space: nowrap; }
+        .probability-note { margin: 4px 0 9px !important; color: #8a938d !important; font-size: 9px !important; line-height: 1.45; }
+        .no-h2h { color: #737e77 !important; }
+        @media (max-width: 760px) {
+            body { padding: 18px 14px 44px; }
+            .dashboard-toolbar { margin-bottom: 28px !important; }
+            #predictionList > section { grid-template-columns: minmax(0, 1fr); gap: 12px; }
+            h2 { font-size: 21px !important; }
+            .card { padding: 16px !important; }
+            .team { font-size: clamp(15px, 4vw, 19px) !important; }
+        }
+        @media (max-width: 520px) {
+            .dashboard-toolbar { align-items: stretch !important; padding: 13px !important; }
+            .dashboard-toolbar > div:first-child { display: flex; flex: 1 0 100%; width: 100%; gap: 9px !important; }
+            .dashboard-toolbar > div:first-child > div { flex: 1 1 0; min-width: 0; }
+            .dashboard-toolbar select { width: 100%; min-width: 0; }
+            .dashboard-toolbar > div:last-child { flex: 1 0 100%; width: 100%; text-align: left !important; }
+            .dashboard-toolbar > div:last-child #scanStatus { text-align: left !important; }
+            #btnScan { width: 100%; min-width: 0; }
+            .markets.one-x-two { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+            .market-item { flex-direction: row; align-items: center; }
+            .stat-val { font-size: 12px !important; }
+        }
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
+        }
 </style>
 </head>
 <body>
@@ -83,7 +365,7 @@
     </div>
     <div style="text-align:right;">
         <button id="btnScan" type="button" disabled aria-disabled="true" title="Scan dinonaktifkan pada halaman uji" style="background:#10b981; color:white; border:none; padding:10px 20px; border-radius:6px; font-weight:bold; cursor:pointer; display:flex; align-items:center; gap:10px; transition:all 0.3s;">
-            <span id="scanIcon">🔄</span> <span id="scanText">Scan dinonaktifkan</span>
+            <span id="scanIcon" aria-hidden="true"></span> <span id="scanText">Scan dinonaktifkan</span>
         </button>
         <div id="scanStatus" style="color:#FFC107; font-size:12px; margin-top:5px; font-weight:bold; text-align:right; max-width:200px; word-wrap:break-word;"></div>
     </div>
@@ -92,7 +374,7 @@
 
 
 
-    <h1>⚽ Complete Stats & Prediction Dashboard</h1>
+    <h1>Football Predictions</h1>
     <div class="subtitle">Dibuat: 2026-10-28 04:11 · Sumber: predictions_20261028_030931.csv</div>
     <div class="model-disclaimer" role="note">
         Mode B saja. Persentase adalah estimasi model, bukan odds pasar; hasil belum dikalibrasi dan tidak menjamin hasil pertandingan.
@@ -12356,7 +12638,7 @@ async function startScan() {
     var icon = document.getElementById('scanIcon');
     var text = document.getElementById('scanText');
     btn.disabled = true;
-    icon.textContent = '⏳';
+    icon.textContent = '';
     text.textContent = 'Sedang scan...';
     status.textContent = 'Memulai proses...';
 
@@ -12378,17 +12660,17 @@ async function startScan() {
             status.textContent = latest;
 
             if (scan.running) continue;
-            if (output.indexOf('✅ Semua proses selesai!') !== -1) {
-                status.textContent = '✅ Selesai! Memuat ulang...';
+            if (output.indexOf('Semua proses selesai!') !== -1) {
+                status.textContent = 'Selesai! Memuat ulang...';
                 setTimeout(function() { window.location.reload(); }, 1500);
                 return;
             }
             throw new Error(latest || 'Scan berhenti tanpa status berhasil.');
         }
     } catch (e) {
-        status.textContent = '❌ ' + e.message;
+        status.textContent = e.message;
         btn.disabled = false;
-        icon.textContent = '🔄';
+        icon.textContent = '';
         text.textContent = 'Scan Ulang Data';
     }
 }
