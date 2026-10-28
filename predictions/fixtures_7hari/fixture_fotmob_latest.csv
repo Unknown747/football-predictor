@@ -1,21 +1,21 @@
 date,home_team,away_team,league_name,match_id_fotmob,utc
-2026-10-28,AC Milan,Bologna,Italy-SA,5749720,2026-10-28T17:30:00Z
-2026-10-28,Aberdeen,Falkirk,Scotland-Prem,5793958,2026-10-28T19:45:00Z
-2026-10-28,Carlisle United,Harrogate Town,England-Conference,5906534,2026-10-28T19:45:00Z
-2026-10-28,Carrarese,Arezzo,Italy-SB,5967121,2026-10-28T19:00:00Z
-2026-10-28,Celtic,Dundee United,Scotland-Prem,5793959,2026-10-28T19:45:00Z
-2026-10-28,Forest Green Rovers,Eastleigh,England-Conference,5906535,2026-10-28T19:45:00Z
-2026-10-28,Genoa,Juventus,Italy-SA,5749724,2026-10-28T19:45:00Z
-2026-10-28,Hearts,Rangers,Scotland-Prem,5793961,2026-10-28T20:00:00Z
-2026-10-28,Juve Stabia,Hellas Verona,Italy-SB,5967124,2026-10-28T19:00:00Z
-2026-10-28,Monza,Napoli,Italy-SA,5749725,2026-10-28T19:45:00Z
-2026-10-28,Parma,Udinese,Italy-SA,5749726,2026-10-28T17:30:00Z
-2026-10-28,Pisa,Palermo,Italy-SB,5967128,2026-10-28T18:00:00Z
-2026-10-28,Sutton United,aldershot,England-Conference,5906536,2026-10-28T19:45:00Z
-2026-10-28,Venezia,Inter Milan,Italy-SA,5749729,2026-10-28T17:30:00Z
-2026-10-28,dundee,Kilmarnock,Scotland-Prem,5793960,2026-10-28T19:45:00Z
-2026-10-28,st johnstone,Motherwell,Scotland-Prem,5793962,2026-10-28T19:45:00Z
-2026-10-28,st mirren,Hibernian,Scotland-Prem,5793963,2026-10-28T19:45:00Z
+2026-10-28,AC Milan,Bologna,Italy-SA,5749720,2026-10-28T17:30:00.000Z
+2026-10-28,Aberdeen,Falkirk,Scotland-Prem,5793958,2026-10-28T19:45:00.000Z
+2026-10-28,Carlisle United,Harrogate Town,England-Conference,5906534,2026-10-28T19:45:00.000Z
+2026-10-28,Carrarese,Arezzo,Italy-SB,5967121,2026-10-28T19:00:00.000Z
+2026-10-28,Celtic,Dundee United,Scotland-Prem,5793959,2026-10-28T19:45:00.000Z
+2026-10-28,Forest Green Rovers,Eastleigh,England-Conference,5906535,2026-10-28T19:45:00.000Z
+2026-10-28,Genoa,Juventus,Italy-SA,5749724,2026-10-28T19:45:00.000Z
+2026-10-28,Hearts,Rangers,Scotland-Prem,5793961,2026-10-28T20:00:00.000Z
+2026-10-28,Juve Stabia,Hellas Verona,Italy-SB,5967124,2026-10-28T19:00:00.000Z
+2026-10-28,Monza,Napoli,Italy-SA,5749725,2026-10-28T19:45:00.000Z
+2026-10-28,Parma,Udinese,Italy-SA,5749726,2026-10-28T17:30:00.000Z
+2026-10-28,Pisa,Palermo,Italy-SB,5967128,2026-10-28T18:00:00.000Z
+2026-10-28,Sutton United,aldershot,England-Conference,5906536,2026-10-28T19:45:00.000Z
+2026-10-28,Venezia,Inter Milan,Italy-SA,5749729,2026-10-28T17:30:00.000Z
+2026-10-28,dundee,Kilmarnock,Scotland-Prem,5793960,2026-10-28T19:45:00.000Z
+2026-10-28,st johnstone,Motherwell,Scotland-Prem,5793962,2026-10-28T19:45:00.000Z
+2026-10-28,st mirren,Hibernian,Scotland-Prem,5793963,2026-10-28T19:45:00.000Z
 2026-10-29,Fiorentina,Atalanta,Italy-SA,5749722,2026-10-29T19:45:00Z
 2026-10-29,Frosinone,Lecce,Italy-SA,5749723,2026-10-29T17:30:00Z
 2026-10-30,Arminia Bielefeld,braunschweig,Germany-BL2,5881708,2026-10-30T17:30:00Z

@@ -6,7 +6,7 @@ import subprocess, re, json, time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-BASE = Path("/root/football-predictor")
+BASE = Path(__file__).resolve().parent
 MAPPING = json.load(open(BASE / "logs" / "fotmob_league_ids.json"))
 UA = "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/124 Mobile Safari/537.36"
 
