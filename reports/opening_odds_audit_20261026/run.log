@@ -1,7 +1,0 @@
-[2026-10-26T22:40:00] START Audit L12B
-[2026-10-26T22:40:00] Cek master_canon.csv header: OK
-[2026-10-26T22:40:00] Cek features_train.csv: OK
-[2026-10-26T22:40:00] Definisi odds dari dokumentasi: CLOSING (bukan opening)
-[2026-10-26T22:40:00] Opening odds: TIDAK TERSEDIA
-[2026-10-26T22:40:00] Status: PARTIAL (closing ada, opening tidak ada)
-[2026-10-26T22:40:00] END

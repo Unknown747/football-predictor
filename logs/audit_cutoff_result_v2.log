@@ -1,9 +1,0 @@
-=== CUTOFF TEST: target injection tidak boleh mengubah fitur ===
-  ✓ S1_early_season: cutoff OK
-  ✓ S2_mid_h2h_mixed: cutoff OK
-  ✓ S3_late_high_h2h: cutoff OK
-  ✓ S4_h2h_zero: cutoff OK
-  ✓ S5_minimal_history: cutoff OK
-  ✓ S6_rich_mixed_h2h: cutoff OK
-
-OVERALL CUTOFF: PASS ✓
