@@ -8,57 +8,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Football Prediction Dashboard</title>
-    <style>
-        body { font-family: 'Segoe UI', sans-serif; background-color: #0E1117; color: #FAFAFA; padding: 15px; margin: 0; }
-        h1 { color: #1E88E5; text-align: center; font-size: 1.5rem; margin-bottom: 5px;}
-        .subtitle { text-align:center; color:#888; font-size: 0.8rem; margin-bottom: 20px;}
-        .model-disclaimer { max-width: 1000px; margin: 0 auto 18px; padding: 11px 14px; border: 1px solid #7c5d1c; border-radius: 7px; background: #292417; color: #f0d99c; font-size: 0.85rem; line-height: 1.45; }
-        h2 { color: #E0E0E0; margin-top: 30px; font-size: 1.1rem; border-bottom: 1px solid #333; padding-bottom: 5px;}
-
-        .card { background-color: #1E1E1E; border-radius: 8px; padding: 12px; margin-bottom: 15px; border-left: 4px solid #1E88E5; }
-        .match-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px; }
-        .team { font-weight: bold; font-size: 1rem; width: 35%; }
-        .team.away { text-align: right; }
-        .score-box { background-color: #262730; padding: 8px 15px; border-radius: 5px; font-weight: bold; color: #00FF00; font-size: 1.2rem; text-align: center; }
-        .score-label { font-size: 0.7rem; color: #AAA; text-align: center; margin-top: -2px; margin-bottom: 10px; }
-        .league-badge { text-align: center; margin-bottom: 10px; }
-        .league-badge span { background-color: #333; color: #FFF; padding: 3px 10px; border-radius: 12px; font-size: 0.75rem; font-weight: bold;}
-
-        .section-title { font-size: 0.75rem; color: #888; text-transform: uppercase; margin-bottom: 5px; margin-top: 10px;}
-
-        .dashboard-toolbar { flex-wrap: wrap; gap: 12px; }
-        .dashboard-toolbar > div:first-child { flex-wrap: wrap; }
-        .markets { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; font-size: 0.85rem; margin-bottom: 5px;}
-        .markets.one-x-two { grid-template-columns: repeat(3, minmax(0, 1fr));}
-        .market-item { background-color: #2b2b36; padding: 8px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center;}
-        .market-label { color: #AAA; }
-        .market-value { font-weight: bold; color: #FFF; font-size: 0.95rem; }
-
-        .stats-box { display: grid; grid-template-columns: 1fr 1fr; gap: 5px; font-size: 0.85rem; margin-bottom: 10px;}
-        .stat-home { background-color: #2b2b36; padding: 6px; border-radius: 4px; text-align: center; border-top: 2px solid #FF9800;}
-        .stat-away { background-color: #2b2b36; padding: 6px; border-radius: 4px; text-align: center; border-top: 2px solid #2196F3;}
-        .stat-title { color: #888; font-size: 0.7rem; text-transform: uppercase;}
-        .stat-val { font-weight: bold; color: #FFF; font-size: 1rem; }
-        .stat-missing { color: #FF5252; font-size: 0.8rem; font-style: italic; }
-
-        .h2h-box { background-color: #2b2b36; padding: 10px; border-radius: 4px; font-size: 0.85rem; border-left: 2px solid #F44336;}
-        .h2h-title { font-weight: bold; color: #FF5252; margin-bottom: 5px; }
-        .h2h-last { font-size: 0.75rem; color: #AAA; margin-top: 5px; font-style: italic; }
-        .no-h2h { color: #666; font-style: italic; font-size: 0.8rem; margin-top: 5px;}
-        .prediction-note { text-align:center; color:#d8c28d; font-size:0.72rem; margin: 0 0 10px; }
-        .probability-note { color:#888; font-size:0.7rem; margin: 2px 0 8px; }
-        @media (max-width: 520px) {
-            body { padding: 10px; }
-            .markets.one-x-two { grid-template-columns: 1fr; }
-            .dashboard-toolbar { align-items: stretch !important; }
-            .dashboard-toolbar > div:first-child { flex: 1 1 100%; gap: 10px !important; }
-            .dashboard-toolbar > div:first-child > div { flex: 1 1 0; min-width: 0; }
-            .dashboard-toolbar select { width: 100%; min-width: 0; box-sizing: border-box; }
-            .dashboard-toolbar > div:last-child { width: 100%; text-align: left !important; }
-            .dashboard-toolbar > div:last-child #scanStatus { text-align: left !important; }
-        }
-
-</style>
+    <link rel="stylesheet" href="/dashboard-theme.css">
 </head>
 <body>
 
