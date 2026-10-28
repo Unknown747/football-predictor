@@ -36,7 +36,14 @@ Untuk snapshot yang diperiksa:
 - Tombol scan tetap aktif di halaman utama; banner dan tombol nonaktif hanya ada di `new/index.html`.
 - Generator memang memilih CSV terbaru menurut timestamp pada nama file dan sekarang merapikan spasi akhir saat menulis HTML.
 
-## 5. Perbaikan rekonstruksi historis yang sudah ada
+## 5. Penyebab `prediction_mode` hilang sudah ditelusuri
+
+- CSV terbaru cocok persis dengan skema 49 kolom dari predictor lama; skema saat ini menambah satu kolom `prediction_mode`.
+- Predictor lama menggunakan model Mode B untuk semua prediksi dan tidak menyimpan nama mode ke CSV.
+- `used_odds_input=none` tidak cukup untuk mengubah label historis menjadi `A_NO_ODDS`; mode lama tidak ditebak atau ditulis ulang.
+- Jalur scan saat ini menjalankan predictor yang menulis mode. Tidak ada pemindaian atau prediksi ulang yang dijalankan saat investigasi.
+
+## 6. Perbaikan rekonstruksi historis yang sudah ada
 
 - `logs/reconstruct_pit.py` memberi `match_id` stabil dari indeks baris saat `data/master_canon.csv` tidak menyediakan kolom tersebut.
 - Verifikasi terakhir `python tests/test_predict.py`: **24/24 lulus**.

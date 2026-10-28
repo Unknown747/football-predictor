@@ -1,6 +1,6 @@
 # Yang Masih Perlu Diuji atau Diperbaiki
 
-Status: cakupan halaman utama sudah diperbaiki dan diuji. Selisih AC Milan–Bologna bukan bug model yang terkonfirmasi. Hal yang masih perlu ditelusuri adalah kolom `prediction_mode` yang tidak ada di CSV terbaru.
+Status: cakupan halaman utama sudah diperbaiki dan diuji. Selisih AC Milan–Bologna bukan bug model yang terkonfirmasi. Penyebab kolom `prediction_mode` tidak ada sudah ditemukan; CSV lama tetap tidak aman untuk diberi mode hasil tebakan.
 
 ## 1. Selidiki perbedaan angka AC Milan–Bologna
 
@@ -15,9 +15,16 @@ Pemeriksaan pada snapshot data yang tersedia menemukan:
 
 Karena itu, selisih angka pada contoh ini bukan perbedaan antara `p_H` dan win rate historis yang sama jenisnya. Label yang memisahkan probabilitas model dari win rate historis kini sudah diterapkan ke halaman utama dan generatornya.
 
-## 2. Periksa sumber dan keterlacakan mode model
+## 2. Mode pada CSV lama — penyebab ditemukan, nilai tetap tidak tercatat
 
-File prediksi terbaru tersebut tidak memiliki kolom `prediction_mode`. Tanpa kolom ini, mode model yang menghasilkan angka AC Milan–Bologna tidak dapat dipastikan dari file tersebut. UI sekarang menyatakan mode tidak tercatat, bukan menebaknya. Telusuri pembuatan CSV agar mode dapat dicatat untuk prediksi berikutnya.
+Perbandingan versi memastikan:
+
+- CSV terbaru berisi **49 kolom** dan cocok persis dengan skema predictor lama.
+- Skema `predict.py` saat ini memiliki **50 kolom**; satu-satunya kolom tambahan adalah `prediction_mode`.
+- Predictor lama memuat model dan daftar fitur Mode B untuk semua baris. Kolom `used_odds_input=none` pada CSV lama **tidak** berarti prediksi itu memakai Mode A.
+- Endpoint scan saat ini menjalankan `predict.py` yang menulis `prediction_mode` sebagai `A_NO_ODDS` atau `B_WITH_ODDS`; file baru dari jalur ini akan mencatat mode.
+
+Mode pada CSV historis tidak akan ditebak atau ditulis ulang. Untuk menghasilkan prediksi dengan skema dan model saat ini dibutuhkan proses prediksi baru; proses itu tidak dijalankan karena ada instruksi agar tidak mengulang pipeline dari awal.
 
 ## 3. Cakupan seluruh prediksi valid — sudah diperbaiki
 
@@ -37,7 +44,7 @@ Sekarang halaman utama menampilkan **226 kartu**, cocok dengan seluruh baris CSV
 - Semua baris valid saat ini sudah muncul satu kali di halaman utama; pertahankan pemeriksaan ini saat generator atau pipeline berubah.
 - Tabel 1X2 menampilkan Home, Seri/Draw, dan Away; nilai bersumber dari baris prediksi yang sama.
 - Statistik historis di halaman utama sudah diberi label jelas dan dihitung dari file tim sebelum tanggal pertandingan.
-- File prediksi baru menyertakan `prediction_mode`; jika tidak tersedia, UI harus menyebutkannya, bukan menebak.
+- CSV baru dari endpoint scan menyertakan `prediction_mode`; jika tidak tersedia, UI harus menyebutkannya, bukan menebak.
 - Pengujian mencakup AC Milan–Bologna dan pertandingan lain dengan mode/odds berbeda.
 
 ## Batas isolasi
@@ -45,3 +52,4 @@ Sekarang halaman utama menampilkan **226 kartu**, cocok dengan seluruh baris CSV
 - Gunakan `new/index.html` untuk percobaan visual berikutnya sebelum menerapkannya ke halaman utama.
 - Tombol scan pada halaman uji sengaja dinonaktifkan. Endpoint `/api/scan` membangun ulang halaman utama, sehingga tidak aman dipanggil dari uji terisolasi.
 - Halaman utama memakai tombol scan aktif dan dibangun dari `build_html_dashboard.py`.
+- Jangan mengisi mode CSV lama dari `used_odds_input`; file itu dibuat oleh predictor Mode B lama.
