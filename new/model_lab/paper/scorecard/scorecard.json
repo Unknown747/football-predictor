@@ -1,0 +1,99 @@
+{
+  "experiment": "EXP-07",
+  "model_tag": "EXP06_BLEND_V1_PRIMARY_REFERENCE_ONLY",
+  "forecast_count": 228,
+  "finished_result_count": 0,
+  "status": "AWAITING_RESULTS",
+  "readiness_assessment": "NOT_ASSESSED",
+  "markets": [
+    {
+      "market": "1x2",
+      "captured_fixtures": 228,
+      "completed_matches": 0,
+      "completed_match_coverage": 0.0,
+      "distinct_kickoff_weeks": 0,
+      "logloss": null,
+      "brier": null,
+      "ece_10bin": null,
+      "accuracy": null,
+      "95pct_week_cluster_bootstrap": null,
+      "evidence_status": "PENDING_RESULTS",
+      "readiness_assessment": "NOT_ASSESSED"
+    },
+    {
+      "market": "ou25",
+      "captured_fixtures": 228,
+      "completed_matches": 0,
+      "completed_match_coverage": 0.0,
+      "distinct_kickoff_weeks": 0,
+      "logloss": null,
+      "brier": null,
+      "ece_10bin": null,
+      "accuracy": null,
+      "95pct_week_cluster_bootstrap": null,
+      "evidence_status": "PENDING_RESULTS",
+      "readiness_assessment": "NOT_ASSESSED"
+    },
+    {
+      "market": "home_ou05",
+      "captured_fixtures": 228,
+      "completed_matches": 0,
+      "completed_match_coverage": 0.0,
+      "distinct_kickoff_weeks": 0,
+      "logloss": null,
+      "brier": null,
+      "ece_10bin": null,
+      "accuracy": null,
+      "95pct_week_cluster_bootstrap": null,
+      "evidence_status": "PENDING_RESULTS",
+      "readiness_assessment": "NOT_ASSESSED"
+    },
+    {
+      "market": "home_ou15",
+      "captured_fixtures": 228,
+      "completed_matches": 0,
+      "completed_match_coverage": 0.0,
+      "distinct_kickoff_weeks": 0,
+      "logloss": null,
+      "brier": null,
+      "ece_10bin": null,
+      "accuracy": null,
+      "95pct_week_cluster_bootstrap": null,
+      "evidence_status": "PENDING_RESULTS",
+      "readiness_assessment": "NOT_ASSESSED"
+    },
+    {
+      "market": "away_ou05",
+      "captured_fixtures": 228,
+      "completed_matches": 0,
+      "completed_match_coverage": 0.0,
+      "distinct_kickoff_weeks": 0,
+      "logloss": null,
+      "brier": null,
+      "ece_10bin": null,
+      "accuracy": null,
+      "95pct_week_cluster_bootstrap": null,
+      "evidence_status": "PENDING_RESULTS",
+      "readiness_assessment": "NOT_ASSESSED"
+    },
+    {
+      "market": "away_ou15",
+      "captured_fixtures": 228,
+      "completed_matches": 0,
+      "completed_match_coverage": 0.0,
+      "distinct_kickoff_weeks": 0,
+      "logloss": null,
+      "brier": null,
+      "ece_10bin": null,
+      "accuracy": null,
+      "95pct_week_cluster_bootstrap": null,
+      "evidence_status": "PENDING_RESULTS",
+      "readiness_assessment": "NOT_ASSESSED"
+    }
+  ],
+  "limitations": [
+    "Paper evaluation only; no stakes, execution data, or ROI claim.",
+    "No bookmaker odds with a verifiable pre-match quote timestamp were captured.",
+    "Descriptive scores do not certify readiness for live use."
+  ]
+}

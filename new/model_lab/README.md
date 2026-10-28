@@ -64,3 +64,7 @@ File utama hasil: `REPORT.md` (ringkasan dan batas klaim), `manifest.json` (hash
 Mulai dari `PLAN.md`; catat run di `EXPERIMENT_REGISTER.csv` dan salin `EXPERIMENT_TEMPLATE.md` ke folder eksperimennya. Untuk stress test odds di seluruh kandidat, jalankan `bash new/model_lab/run_odds_stress.sh <direktori-hasil-baru>` agar run lama tidak tertimpa. Runner membandingkan model Mode B utama, empat keluarga EXP-05, dan enam grup fitur EXP-01 pada fold parsial terbaru. Reproduksi terverifikasi dan batas klaim ada di `results/EXP-08-synthetic-odds-scenario-stress-20261028-reproduction/odds-report/REPORT.md`.
 
 Odds EXP-08 adalah sintetis, pra-pertandingan, dan tidak bertimestamp dari bookmaker. Angka return hanya simulasi satu unit dengan ambang EV tetap; bukan taruhan atau bukti profit. Hasil historis berstatus `REFERENCE_ONLY`. Setelah benchmark historis, jalankan paper tracking prospektif sesuai protokol yang disetujui. Jangan menulis status `PROMOTED_WITH_APPROVAL` tanpa persetujuan pengguna.
+
+## EXP-07 — Paper tracking prospektif
+
+EXP-07 aktif tanpa taruhan uang. Cohort pertama berisi 228 prediksi EXP-06 bertimestamp sebelum kick-off pada 28 Oktober 2026; hasilnya masih menunggu. Gunakan `paper/exp07_tracker.py` untuk merekam snapshot pra-pertandingan, mengimpor skor akhir, dan membuat scorecard. Panduan dan batas klaim ada di `paper/README.md`. Status `PROSPECTIVE_ACTIVE` berarti pengumpulan data sedang berjalan, bukan model siap live.

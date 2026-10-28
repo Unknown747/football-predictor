@@ -1,0 +1,7 @@
+market,captured_fixtures,completed_matches,completed_match_coverage,distinct_kickoff_weeks,logloss,logloss_ci_low,logloss_ci_high,brier,brier_ci_low,brier_ci_high,ece_10bin,ece_ci_low,ece_ci_high,accuracy,accuracy_ci_low,accuracy_ci_high,evidence_status,readiness_assessment
+1x2,228,0,0.0,0,,,,,,,,,,,,,PENDING_RESULTS,NOT_ASSESSED
+ou25,228,0,0.0,0,,,,,,,,,,,,,PENDING_RESULTS,NOT_ASSESSED
+home_ou05,228,0,0.0,0,,,,,,,,,,,,,PENDING_RESULTS,NOT_ASSESSED
+home_ou15,228,0,0.0,0,,,,,,,,,,,,,PENDING_RESULTS,NOT_ASSESSED
+away_ou05,228,0,0.0,0,,,,,,,,,,,,,PENDING_RESULTS,NOT_ASSESSED
+away_ou15,228,0,0.0,0,,,,,,,,,,,,,PENDING_RESULTS,NOT_ASSESSED

@@ -1,0 +1,31 @@
+{
+  "experiment": "EXP-07",
+  "status": "PROSPECTIVE_PAPER_ONLY",
+  "created_at_utc": "2026-10-28T08:45:37Z",
+  "first_forecast_at_utc": "2026-10-28T08:26:37Z",
+  "model_tag": "EXP06_BLEND_V1_PRIMARY_REFERENCE_ONLY",
+  "model_manifest_sha256": "c0d90d8bef4610bed4e08287a83e479eed15c2e4373372c3148ee6690e512afc",
+  "model_bundle_sha256": "12d16a987785f7c7f8e185f1d8962a08d32374ba42214936bfe52d09d8ec10a5",
+  "training_cutoff_inclusive": "2026-06-30",
+  "git_commit_at_registration": "0999722012c367fcea6a9589a16a85bf4df588be",
+  "markets": [
+    "1x2",
+    "ou25",
+    "home_ou05",
+    "home_ou15",
+    "away_ou05",
+    "away_ou15"
+  ],
+  "primary_metrics": [
+    "logloss",
+    "brier",
+    "ece_10bin",
+    "accuracy",
+    "completed_match_coverage"
+  ],
+  "uncertainty": "95% percentile intervals from 1,000 deterministic week-cluster bootstrap replicates; omitted when fewer than two completed weeks exist.",
+  "inclusion": "One immutable EXP-06 forecast per FotMob match ID and scheduled kickoff; prediction must precede scheduled kickoff; only actual finished scores are scored.",
+  "exclusions": "No historical replay, no post-kickoff replacement, no stakes, no ROI/profit claim, and no readiness certification.",
+  "readiness_assessment": "NOT_ASSESSED",
+  "odds_comparison": "Not available for this cohort: no bookmaker source and quote timestamp were captured."
+}
