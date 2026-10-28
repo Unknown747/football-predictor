@@ -11,6 +11,8 @@ from features import build_team_rows
 
 MASTER = pd.read_csv('data/master_canon.csv', low_memory=False)
 MASTER['Date'] = pd.to_datetime(MASTER['Date'])
+if 'match_id' not in MASTER.columns:
+    MASTER['match_id'] = MASTER.index.astype('int64')
 MASTER_TEAM_ROWS = build_team_rows(MASTER)
 
 def infer_season(d):
