@@ -114,6 +114,15 @@ Setelah kandidat dipilih, catat ramalan yang dibuat sebelum pertandingan, waktu 
 
 Status paper tracking tetap berbeda dari bukti live betting dan profitabilitas. Promosi ke model utama memerlukan keputusan dan persetujuan terpisah.
 
+### 8. Stress test odds sintetis untuk seluruh kandidat
+
+- Bandingkan model Mode B yang sedang dipakai script utama, empat keluarga model EXP-05, dan kandidat fitur F0-F5 EXP-01 pada fixture yang sama di keenam pasar.
+- Libatkan fitur H2H sebelum kickoff. F0-F3 tetap disertakan sebagai ablation tanpa H2H; keluarga penuh, Mode B, F4, dan F5 memakai fitur H2H.
+- Uji `STANDARD`, `HEAVY_FAVOURITE`, `EXTREME_GAP`, dan `MISMATCHED_ODDS`. Semua harga dibuat dari prior train dan proxy statistik pra-pertandingan, dengan margin sintetis yang dicatat; jangan gunakan target test untuk membentuk quote.
+- Laporkan LogLoss, Brier, kalibrasi/bias per kelas, ketidaksepakatan antarmodel, hasil per liga, dan pemimpin screening untuk tiap pasar serta skenario.
+- Jika menghitung keputusan mirip taruhan, tetapkan aturan EV sebelum run dan sebut return sebagai hipotetis. Harga sintetis tidak dapat menunjukkan profit, value bookmaker, atau kesiapan live.
+- Status tetap `REFERENCE_ONLY` untuk test historis yang telah dilihat. Catat pemimpin screening untuk handoff, tetapi jangan menobatkannya sebagai kandidat final tanpa periode prospektif baru dan persetujuan pengguna.
+
 ## Status eksperimen
 
 Gunakan status berikut dalam register: `REFERENCE_ONLY`, `PLANNED`, `RUNNING`, `REPRODUCED`, `CANDIDATE`, `REJECTED`, `PAPER_ONLY`, `PROMOTED_WITH_APPROVAL`.

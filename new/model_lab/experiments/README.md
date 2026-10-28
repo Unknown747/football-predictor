@@ -31,6 +31,18 @@ Buat satu subfolder per run, misalnya `EXP-01-form-ablation-20261028/`. Simpan k
 
 Semua runner dan keluaran harus tetap di bawah `new/model_lab/`. Jangan menjalankan script utama langsung dengan output ke `models/`, `predictions/`, atau `backtest/`.
 
+## Stress test odds sintetis EXP-08
+
+```bash
+bash new/model_lab/run_odds_stress.sh
+```
+
+Runner mengulang EXP-05 untuk empat keluarga model dan EXP-01 untuk F0-F5 pada fixture yang sama di fold parsial `2026-27-partial`, lalu membandingkannya dengan artefak Mode B yang dipakai `predict.py`. Pasar yang diuji: 1X2, pertandingan O/U 2.5, dan gol kandang/tandang O/U 0.5 serta 1.5.
+
+Empat skenario quote sintetis—`STANDARD`, `HEAVY_FAVOURITE`, `EXTREME_GAP`, `MISMATCHED_ODDS`—dibuat dari prior train dan fitur sebelum kickoff; label hasil test tidak dipakai untuk membuat harga. Model Mode B menerima quote sintetis sebagai pengganti fitur odds, sementara model lab tanpa odds tetap menggunakan fitur statistiknya. Semua kandidat dinilai pada quote yang sama. Aturan taruhan ilustratif adalah satu unit hipotetis saat EV terbaik model minimal 3%; angka ini tidak merepresentasikan stake atau profit nyata.
+
+Hasil berada di `results/EXP-08-synthetic-odds-scenario-stress-20261028/`. Laporan ada di `odds-report/REPORT.md`, metrik lengkap semua kandidat di `odds-report/scenario_metrics.csv`, dan identitas input/aturan di `odds-report/manifest.json`. Karena fold historis telah dilihat dan harga dibuat sendiri, seluruh peringkat berstatus screening `REFERENCE_ONLY`, bukan pemenang final atau kesiapan live.
+
 ## Ablation fitur F0-F5 (EXP-01)
 
 Runner `feature_ablation.py` membandingkan kelompok fitur kumulatif yang ditetapkan di `PLAN.md`. Keluarga model dibekukan per pasar dari empat fold lengkap EXP-05 sebelum fold terbaru, lalu keenam kelompok fitur dibandingkan pada fixture/outcome terbaru yang tersedia.
