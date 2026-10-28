@@ -11,6 +11,8 @@ Mencari kombinasi fitur, model, dan kalibrasi yang paling kuat **untuk tiap pasa
 
 Model saat ini menggunakan statistik tim historis yang disiapkan dari data proyek. Semua eksperimen tahap ini offline. Prediksi belum pernah digunakan untuk live bet dan tidak ada klaim profitabilitas.
 
+Tujuan pengguna saat ini adalah menilai model berbasis histori untuk kemungkinan penggunaan taruhan nyata. Data yang ada hanya mendukung eksperimen pra-pertandingan; tidak ada data in-play atau odds pada waktu keputusan. Karena seluruh periode test historis sudah ditinjau, hasil berikutnya tetap harus dianggap referensi dan tidak cukup untuk menyatakan model siap taruhan.
+
 ## Batas yang tidak boleh dilanggar
 
 - Semua kode eksperimen, konfigurasi, model kandidat, prediksi, dan laporan disimpan di `new/model_lab/`.
@@ -115,6 +117,8 @@ Status paper tracking tetap berbeda dari bukti live betting dan profitabilitas. 
 ## Status eksperimen
 
 Gunakan status berikut dalam register: `REFERENCE_ONLY`, `PLANNED`, `RUNNING`, `REPRODUCED`, `CANDIDATE`, `REJECTED`, `PAPER_ONLY`, `PROMOTED_WITH_APPROVAL`.
+
+`EXP-05` adalah perbandingan keluarga model pra-pertandingan tanpa odds sebagai fitur. Script dan protokolnya dijelaskan dalam `experiments/README.md`; semua hasil harus berstatus `REFERENCE_ONLY` sampai validasi prospektif yang belum dilihat selesai.
 
 ## Referensi
 

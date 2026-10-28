@@ -1,0 +1,366 @@
+{
+  "1x2": {
+    "lgbm_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.04041857778992797,
+      "ci_low": -0.04583062606374295,
+      "ci_high": -0.03493124698049062,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "lgbm_vs_CLOSING_ODDS_REFERENCE": {
+      "n": 32704,
+      "weeks": 196,
+      "delta_logloss": 0.03564452424147767,
+      "ci_low": 0.030912721108192674,
+      "ci_high": 0.04069339747417757,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "xgboost_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.04169330052248955,
+      "ci_low": -0.04737043779491529,
+      "ci_high": -0.0359587542621924,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "xgboost_vs_CLOSING_ODDS_REFERENCE": {
+      "n": 32704,
+      "weeks": 196,
+      "delta_logloss": 0.034355209473756275,
+      "ci_low": 0.02950005706985905,
+      "ci_high": 0.03921313846394997,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "histgb_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.001994061961302295,
+      "ci_low": -0.012723687313724613,
+      "ci_high": 0.00980256074162294,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "histgb_vs_CLOSING_ODDS_REFERENCE": {
+      "n": 32704,
+      "weeks": 196,
+      "delta_logloss": 0.07413592835154427,
+      "ci_low": 0.06444149380088306,
+      "ci_high": 0.08463661470538329,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "logreg_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.0327778908807771,
+      "ci_low": -0.041647447256157995,
+      "ci_high": -0.022402349817248528,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "logreg_vs_CLOSING_ODDS_REFERENCE": {
+      "n": 32704,
+      "weeks": 196,
+      "delta_logloss": 0.04340844620526965,
+      "ci_low": 0.036007855003513514,
+      "ci_high": 0.05273332155326162,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  },
+  "away_ou05": {
+    "lgbm_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.010587754544976343,
+      "ci_low": -0.013347660868252962,
+      "ci_high": -0.0078409165855536,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "xgboost_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.011596297749366172,
+      "ci_low": -0.014110129028903228,
+      "ci_high": -0.009039150547890307,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "histgb_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": 0.00457662331782739,
+      "ci_low": -0.001029637657752891,
+      "ci_high": 0.010907651636799586,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "logreg_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.011810875992479292,
+      "ci_low": -0.015624125597509432,
+      "ci_high": -0.007295329031919156,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  },
+  "away_ou15": {
+    "lgbm_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.015796398311544852,
+      "ci_low": -0.019691780743217476,
+      "ci_high": -0.012069334227172546,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "xgboost_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.016665636420365077,
+      "ci_low": -0.020847026127444504,
+      "ci_high": -0.012451296513923,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "histgb_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.001263053719608034,
+      "ci_low": -0.007115869377465247,
+      "ci_high": 0.004427896479338649,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "logreg_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.01664736166256418,
+      "ci_low": -0.021208000897536442,
+      "ci_high": -0.011901473895867504,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  },
+  "home_ou05": {
+    "lgbm_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.011982378902571826,
+      "ci_low": -0.015212580051191207,
+      "ci_high": -0.00851658462304686,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "xgboost_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.013993895918925674,
+      "ci_low": -0.01727350383336049,
+      "ci_high": -0.010515902814150362,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "histgb_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": 0.0023457426832970887,
+      "ci_low": -0.0027643578632509103,
+      "ci_high": 0.008021190760934443,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "logreg_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.012268882308544934,
+      "ci_low": -0.016847360047107164,
+      "ci_high": -0.007437348038742317,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  },
+  "home_ou15": {
+    "lgbm_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.0219178097898113,
+      "ci_low": -0.025916842323857624,
+      "ci_high": -0.017785195472541447,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "xgboost_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.022777523877709843,
+      "ci_low": -0.02669509156312307,
+      "ci_high": -0.018646069254795332,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "histgb_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.011182457776678213,
+      "ci_low": -0.01681889499653762,
+      "ci_high": -0.005466698586832971,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "logreg_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.01885059443244901,
+      "ci_low": -0.02532254382213334,
+      "ci_high": -0.011590683142166104,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  },
+  "ou25": {
+    "lgbm_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.0017444809677172987,
+      "ci_low": -0.004210139780032729,
+      "ci_high": 0.0006789114434373923,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "lgbm_vs_CLOSING_ODDS_REFERENCE": {
+      "n": 32673,
+      "weeks": 196,
+      "delta_logloss": 0.015038203665873546,
+      "ci_low": 0.012243801015995526,
+      "ci_high": 0.017899032845718352,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "xgboost_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.0031246483721366044,
+      "ci_low": -0.005292919205442763,
+      "ci_high": -0.000924001959357922,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "xgboost_vs_CLOSING_ODDS_REFERENCE": {
+      "n": 32673,
+      "weeks": 196,
+      "delta_logloss": 0.013659508275130275,
+      "ci_low": 0.010983827375447053,
+      "ci_high": 0.016399078832259394,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "histgb_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": 0.010718299372867541,
+      "ci_low": 0.005982430814187715,
+      "ci_high": 0.015560199108610609,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "histgb_vs_CLOSING_ODDS_REFERENCE": {
+      "n": 32673,
+      "weeks": 196,
+      "delta_logloss": 0.027587602918165255,
+      "ci_low": 0.023220435332250274,
+      "ci_high": 0.032066998943599496,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "logreg_vs_BASE_RATE": {
+      "n": 32748,
+      "weeks": 196,
+      "delta_logloss": -0.0044500382910663185,
+      "ci_low": -0.007201160148458585,
+      "ci_high": -0.001434776581257028,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "logreg_vs_CLOSING_ODDS_REFERENCE": {
+      "n": 32673,
+      "weeks": 196,
+      "delta_logloss": 0.01224356631508005,
+      "ci_low": 0.009435163521035675,
+      "ci_high": 0.015234710382446394,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  }
+}
