@@ -1,6 +1,6 @@
 # Yang Sudah Diperbaiki atau Diverifikasi
 
-Catatan ini membedakan perbaikan kode dari temuan yang hanya sudah diverifikasi. Tidak ada perubahan pada `index.html` utama dalam pekerjaan uji ini.
+Catatan ini membedakan perbaikan kode dari temuan yang hanya sudah diverifikasi.
 
 ## 1. Baseline halaman uji dibuat terpisah
 
@@ -26,15 +26,17 @@ Untuk snapshot yang diperiksa:
 - Tabel 1X2 menampilkan Home, Draw, dan Away; judul panel riwayat menyebut bahwa win rate historis bukan probabilitas model.
 - Mode model ditandai “tidak tercatat” karena kolom itu tidak ada pada CSV sumber terbaru.
 - Tombol scan tetap nonaktif di halaman uji.
-- Halaman uji belum diterapkan ke halaman utama.
+- Setelah hasil uji lolos, perubahan label dan cakupan diterapkan ke generator dan halaman utama.
 
-## 4. Cakupan halaman utama sudah dibandingkan dengan CSV
+## 4. Halaman utama sudah diregenerasi dan dicocokkan
 
-- CSV terbaru memiliki 226 baris valid, sedangkan halaman utama memiliki 190 kartu; **36 baris belum tampil di halaman utama**.
-- Semua 190 kartu utama cocok dengan baris prediksi berdasarkan tanggal dan kedua tim; tidak ditemukan selisih probabilitas pada kartu yang tampil.
-- Generator yang sama menghasilkan seluruh 226 kartu saat diarahkan ke halaman uji. Penyebab halaman utama belum mengikuti keluaran ini masih tercatat di `TO_FIX.md`.
+- Snapshot sebelum regenerasi memiliki 190 kartu dari 226 baris valid; **36 baris belum tampil saat itu**.
+- Halaman utama kini menampilkan **226 kartu** dari 226 baris valid.
+- Pemeriksaan berdasarkan tanggal, tim, dan p_H/p_D/p_A menemukan 226 kecocokan dan **0 selisih probabilitas**.
+- Tombol scan tetap aktif di halaman utama; banner dan tombol nonaktif hanya ada di `new/index.html`.
+- Generator memang memilih CSV terbaru menurut timestamp pada nama file dan sekarang merapikan spasi akhir saat menulis HTML.
 
-## 3. Perbaikan rekonstruksi historis yang sudah ada
+## 5. Perbaikan rekonstruksi historis yang sudah ada
 
 - `logs/reconstruct_pit.py` memberi `match_id` stabil dari indeks baris saat `data/master_canon.csv` tidak menyediakan kolom tersebut.
 - Verifikasi terakhir `python tests/test_predict.py`: **24/24 lulus**.

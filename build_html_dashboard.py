@@ -176,6 +176,8 @@ html = """
         
         .section-title { font-size: 0.75rem; color: #888; text-transform: uppercase; margin-bottom: 5px; margin-top: 10px;}
         
+        .dashboard-toolbar { flex-wrap: wrap; gap: 12px; }
+        .dashboard-toolbar > div:first-child { flex-wrap: wrap; }
         .markets { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; font-size: 0.85rem; margin-bottom: 5px;}
         .markets.one-x-two { grid-template-columns: repeat(3, minmax(0, 1fr));}
         .market-item { background-color: #2b2b36; padding: 8px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center;}
@@ -194,15 +196,22 @@ html = """
         .h2h-last { font-size: 0.75rem; color: #AAA; margin-top: 5px; font-style: italic; }
         .no-h2h { color: #666; font-style: italic; font-size: 0.8rem; margin-top: 5px;}
         .prediction-note { text-align:center; color:#d8c28d; font-size:0.72rem; margin: 0 0 10px; }
+        .probability-note { color:#888; font-size:0.7rem; margin: 2px 0 8px; }
         @media (max-width: 520px) {
             body { padding: 10px; }
             .markets.one-x-two { grid-template-columns: 1fr; }
+            .dashboard-toolbar { align-items: stretch !important; }
+            .dashboard-toolbar > div:first-child { flex: 1 1 100%; gap: 10px !important; }
+            .dashboard-toolbar > div:first-child > div { flex: 1 1 0; min-width: 0; }
+            .dashboard-toolbar select { width: 100%; min-width: 0; box-sizing: border-box; }
+            .dashboard-toolbar > div:last-child { width: 100%; text-align: left !important; }
+            .dashboard-toolbar > div:last-child #scanStatus { text-align: left !important; }
         }
     
 </style>
 </head>
 <body>\n
-<div style="background:#1e1e24; padding:15px; border-radius:8px; margin-bottom:20px; display:flex; justify-content:space-between; align-items:center; border-left: 4px solid #3b82f6;">
+<div class="dashboard-toolbar" style="background:#1e1e24; padding:15px; border-radius:8px; margin-bottom:20px; display:flex; justify-content:space-between; align-items:center; border-left: 4px solid #3b82f6;">
     <div style="display:flex; gap:15px;">
         <div>
             <label style="color:#aaa; font-size:12px; display:block; margin-bottom:5px;">Pilih Tanggal</label>
@@ -278,22 +287,22 @@ for d in dates:
             pred_text = "Unknown"
 
         h_display = f"""
-            <div class="stat-title">{home} (Home)</div>
-            <div class="stat-val">{h_stats['win_rate']*100:.0f}% Menang</div>
+            <div class="stat-title">{home} · riwayat kandang</div>
+            <div class="stat-val">{h_stats['win_rate']*100:.0f}% win rate historis</div>
             <div style="font-size:0.75rem; color:#aaa;">Avg Gol: {h_stats['avg_gf']:.1f} | Kebobolan: {h_stats['avg_ga']:.1f}</div>
             <div style="font-size:0.7rem; color:#666;">({h_stats['n']} laga)</div>
         """ if h_stats['found'] else f"""
-            <div class="stat-title">{home} (Home)</div>
+            <div class="stat-title">{home} · riwayat kandang</div>
             <div class="stat-missing">Data tim tidak ada di database</div>
         """
         
         a_display = f"""
-            <div class="stat-title">{away} (Away)</div>
-            <div class="stat-val">{a_stats['win_rate']*100:.0f}% Menang</div>
+            <div class="stat-title">{away} · riwayat tandang</div>
+            <div class="stat-val">{a_stats['win_rate']*100:.0f}% win rate historis</div>
             <div style="font-size:0.75rem; color:#aaa;">Avg Gol: {a_stats['avg_gf']:.1f} | Kebobolan: {a_stats['avg_ga']:.1f}</div>
             <div style="font-size:0.7rem; color:#666;">({a_stats['n']} laga)</div>
         """ if a_stats['found'] else f"""
-            <div class="stat-title">{away} (Away)</div>
+            <div class="stat-title">{away} · riwayat tandang</div>
             <div class="stat-missing">Data tim tidak ada di database</div>
         """
 
@@ -332,7 +341,7 @@ for d in dates:
             </div>
             <div class="prediction-note">{prediction_note}</div>
             
-            <div class="section-title">Statistik Historis (Kandang vs Tandang)</div>
+            <div class="section-title">Win rate historis — bukan probabilitas model</div>
             <div class="stats-box">
                 <div class="stat-home">{h_display}</div>
                 <div class="stat-away">{a_display}</div>
@@ -340,12 +349,13 @@ for d in dates:
 
             {h2h_html}
 
-            <div class="section-title">Estimasi 1X2 (jumlah ≈ 100%)</div>
+            <div class="section-title">Probabilitas model 1X2 (Home / Seri / Away; dibulatkan)</div>
             <div class="markets one-x-two">
                 <div class="market-item"><span class="market-label">Home Win</span> <span class="market-value">{row['p_H']*100:.1f}%</span></div>
-                <div class="market-item"><span class="market-label">Seri</span> <span class="market-value">{row['p_D']*100:.1f}%</span></div>
+                <div class="market-item"><span class="market-label">Seri (Draw)</span> <span class="market-value">{row['p_D']*100:.1f}%</span></div>
                 <div class="market-item"><span class="market-label">Away Win</span> <span class="market-value">{row['p_A']*100:.1f}%</span></div>
             </div>
+            <div class="probability-note">Angka ditampilkan hingga 1 desimal; nilai penuh bersumber dari CSV prediksi.</div>
 
             <div class="section-title">Total Gol 2.5 (estimasi)</div>
             <div class="markets">
@@ -495,5 +505,8 @@ async function startScan() {
 </html>
 """
 
-OUT_HTML.write_text(html)
+OUT_HTML.write_text(
+    "\n".join(line.rstrip() for line in html.splitlines()) + "\n",
+    encoding="utf-8",
+)
 print(f"✅ Dashboard FINAL. H2H ditarik langsung dari master data (features_train.csv).")
