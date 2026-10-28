@@ -30,3 +30,20 @@ Hasil tidak disalin ke `models/`, `predictions/`, `backtest/`, atau dashboard ut
 Buat satu subfolder per run, misalnya `EXP-01-form-ablation-20261028/`. Simpan konfigurasi yang dibekukan, log, manifest input, dan catatan keputusan di folder run tersebut. Salin `../EXPERIMENT_TEMPLATE.md` sebagai catatan utama.
 
 Semua runner dan keluaran harus tetap di bawah `new/model_lab/`. Jangan menjalankan script utama langsung dengan output ke `models/`, `predictions/`, atau `backtest/`.
+
+## Ablation fitur F0-F5 (EXP-01)
+
+Runner `feature_ablation.py` membandingkan kelompok fitur kumulatif yang ditetapkan di `PLAN.md`. Keluarga model dibekukan per pasar dari empat fold lengkap EXP-05 sebelum fold terbaru, lalu keenam kelompok fitur dibandingkan pada fixture/outcome terbaru yang tersedia.
+
+```bash
+bash new/model_lab/run_feature_ablation.sh
+```
+
+Secara default runner memakai fold parsial `2026-27-partial`, semua pasar, dan semua kelompok. Pilihan terbatas untuk uji cepat:
+
+```bash
+bash new/model_lab/run_feature_ablation.sh \
+  --markets home_ou05 --groups F0 F5 --fold 2026-27-partial
+```
+
+Keluaran berada di `results/EXP-01-feature-ablation-2026-27-partial/`. Karena data historis proyek telah ditinjau dan fold ini masih parsial, hasil tetap `REFERENCE_ONLY`; kelompok dengan skor terendah bukan kandidat siap pakai.

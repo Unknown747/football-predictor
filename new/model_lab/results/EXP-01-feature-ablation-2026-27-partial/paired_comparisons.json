@@ -1,0 +1,344 @@
+{
+  "1x2": {
+    "F1": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.004556878416710374,
+      "ci_low": -0.012988993748060047,
+      "ci_high": 0.010531972615029346,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F2": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": 0.0011042869748448532,
+      "ci_low": -0.005149968407955934,
+      "ci_high": 0.005464097718455665,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F3": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.002565617770653732,
+      "ci_low": -0.01379876746138411,
+      "ci_high": 0.010458560480486863,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F4": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.004059051061005722,
+      "ci_low": -0.012199553885035814,
+      "ci_high": 0.003825169650759053,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F5": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.0038061369466236084,
+      "ci_low": -0.013069121064469235,
+      "ci_high": 0.002751972793213088,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  },
+  "ou25": {
+    "F1": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.0015472631551308215,
+      "ci_low": -0.0067172364913646926,
+      "ci_high": 0.0019244530755447183,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F2": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.00045423948113969146,
+      "ci_low": -0.0017130917627166998,
+      "ci_high": 0.000573900015259095,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F3": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": 0.008131061497746313,
+      "ci_low": 0.0011464611530548302,
+      "ci_high": 0.017432771182658843,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F4": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.0006389710567584227,
+      "ci_low": -0.002672805245566292,
+      "ci_high": 0.0016228638755363533,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F5": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": 0.0009424186239816798,
+      "ci_low": -0.0004187159314722779,
+      "ci_high": 0.003839122081135396,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  },
+  "home_ou05": {
+    "F1": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.0010819375677461245,
+      "ci_low": -0.00987672108579828,
+      "ci_high": 0.006251696494240791,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F2": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": 0.001198628578647627,
+      "ci_low": -0.0029547904972126167,
+      "ci_high": 0.004236860489478594,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F3": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": 0.001435567705442441,
+      "ci_low": -0.004228549125357851,
+      "ci_high": 0.008768519675140533,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F4": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.002675591021425808,
+      "ci_low": -0.006784443544324486,
+      "ci_high": 0.002241640835952577,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F5": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": 0.0016708610099001788,
+      "ci_low": -0.0037722493422817347,
+      "ci_high": 0.0070853662470120255,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  },
+  "home_ou15": {
+    "F1": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.006001188012404348,
+      "ci_low": -0.01574406010991813,
+      "ci_high": 0.007558340068308108,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F2": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.000381511987552631,
+      "ci_low": -0.004362002253370834,
+      "ci_high": 0.004452510257172462,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F3": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": 0.005868614771505383,
+      "ci_low": -0.0006165692445486604,
+      "ci_high": 0.012122687777232013,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F4": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.002381241877973913,
+      "ci_low": -0.007000224626618571,
+      "ci_high": 0.0020614232429069864,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F5": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.0017222960527095486,
+      "ci_low": -0.005871413418025235,
+      "ci_high": 0.005602827147403398,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  },
+  "away_ou05": {
+    "F1": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": 0.001602779722498898,
+      "ci_low": -0.0038487580589718594,
+      "ci_high": 0.009207861739326442,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F2": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.0023049977736092457,
+      "ci_low": -0.004907921787566733,
+      "ci_high": 0.0009049206896692636,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F3": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.0006900623434721143,
+      "ci_low": -0.004901557370309565,
+      "ci_high": 0.0060285183377520235,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F4": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.0029339238668067403,
+      "ci_low": -0.008008776400686594,
+      "ci_high": 0.00019503501693307642,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F5": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": 0.00048358311375210544,
+      "ci_low": -0.00421697548292406,
+      "ci_high": 0.005725827594672308,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  },
+  "away_ou15": {
+    "F1": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.0063913836186115765,
+      "ci_low": -0.013746665012237454,
+      "ci_high": 0.0008269721379441953,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F2": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": 0.0006816453131424765,
+      "ci_low": -0.00230561290810631,
+      "ci_high": 0.0036981601868919245,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F3": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.0015787018006407107,
+      "ci_low": -0.005950308284249433,
+      "ci_high": 0.0033958513475679042,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F4": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": -0.0006196275600369232,
+      "ci_low": -0.0031098944878109104,
+      "ci_high": 0.002492847794112768,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "F5": {
+      "n": 1792,
+      "weeks": 13,
+      "delta_logloss": 0.004212023711232278,
+      "ci_low": -0.0005899472256385533,
+      "ci_high": 0.00831807563969768,
+      "bootstrap_reps": 5000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  }
+}

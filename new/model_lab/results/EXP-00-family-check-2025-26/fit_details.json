@@ -1,0 +1,42 @@
+[
+  {
+    "fold": "2025-26",
+    "market": "home_ou05",
+    "model": "lgbm",
+    "train_n": 30626,
+    "test_n": 7646,
+    "elapsed_seconds": 20.89,
+    "selected_iterations": 99,
+    "inner_validation_days": 90
+  },
+  {
+    "fold": "2025-26",
+    "market": "home_ou05",
+    "model": "xgboost",
+    "train_n": 30626,
+    "test_n": 7646,
+    "elapsed_seconds": 6.295,
+    "selected_iterations": 95,
+    "inner_validation_days": 90
+  },
+  {
+    "fold": "2025-26",
+    "market": "home_ou05",
+    "model": "histgb",
+    "train_n": 30626,
+    "test_n": 7646,
+    "elapsed_seconds": 17.121,
+    "selected_iterations": null,
+    "inner_validation_days": 90
+  },
+  {
+    "fold": "2025-26",
+    "market": "home_ou05",
+    "model": "logreg",
+    "train_n": 30626,
+    "test_n": 7646,
+    "elapsed_seconds": 0.59,
+    "selected_iterations": null,
+    "inner_validation_days": 90
+  }
+]

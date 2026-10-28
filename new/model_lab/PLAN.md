@@ -120,6 +120,10 @@ Gunakan status berikut dalam register: `REFERENCE_ONLY`, `PLANNED`, `RUNNING`, `
 
 `EXP-05` adalah perbandingan keluarga model pra-pertandingan tanpa odds sebagai fitur. Script dan protokolnya dijelaskan dalam `experiments/README.md`; semua hasil harus berstatus `REFERENCE_ONLY` sampai validasi prospektif yang belum dilihat selesai.
 
+`EXP-00` masih `PLANNED`: spot check `home_ou05` pada fold `2025-26` cocok tepat dengan hasil tersimpan, tetapi reproduksi penuh semua pasar dan fold belum dilakukan.
+
+`EXP-01` sudah dijalankan sebagai `REFERENCE_ONLY` pada fold parsial `2026-27`. Tidak ada penambahan fitur yang meningkatkan LogLoss secara meyakinkan setelah koreksi perbandingan berganda; F3 memperburuk O/U 2.5. Hasil satu fold parsial tidak memilih kandidat atau membuktikan kesiapan.
+
 ## Referensi
 
 - Baseline: `reports/final_audit_20261026/`

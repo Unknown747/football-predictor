@@ -1,0 +1,48 @@
+{
+  "home_ou05": {
+    "lgbm_vs_BASE_RATE": {
+      "n": 7646,
+      "weeks": 45,
+      "delta_logloss": -0.012444082884887662,
+      "ci_low": -0.019763097934731216,
+      "ci_high": -0.005482227282322745,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "xgboost_vs_BASE_RATE": {
+      "n": 7646,
+      "weeks": 45,
+      "delta_logloss": -0.01493718312810339,
+      "ci_low": -0.021853834086256508,
+      "ci_high": -0.008005372129497318,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "histgb_vs_BASE_RATE": {
+      "n": 7646,
+      "weeks": 45,
+      "delta_logloss": -0.005710691549636744,
+      "ci_low": -0.01453252855340031,
+      "ci_high": 0.003473792993560358,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    },
+    "logreg_vs_BASE_RATE": {
+      "n": 7646,
+      "weeks": 45,
+      "delta_logloss": -0.018094973414803567,
+      "ci_low": -0.02630891963329126,
+      "ci_high": -0.009953549911201518,
+      "bootstrap_reps": 20000,
+      "unit": "calendar_week",
+      "familywise_confidence": 0.95,
+      "bonferroni_comparisons": 32
+    }
+  }
+}
