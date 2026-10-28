@@ -59,3 +59,24 @@ bash new/model_lab/run_feature_ablation.sh \
 ```
 
 Keluaran berada di `results/EXP-01-feature-ablation-2026-27-partial/`. Karena data historis proyek telah ditinjau dan fold ini masih parsial, hasil tetap `REFERENCE_ONLY`; kelompok dengan skor terendah bukan kandidat siap pakai.
+
+## Blend berbobot out-of-fold EXP-06
+
+Laporan lengkap ada di `results/EXP-06-model-blending-20261028/blend-search/REPORT.md`. Prediksi mentah besar tidak disimpan di Git, jadi buat ulang inputnya terlebih dahulu di direktori baru:
+
+```bash
+bash new/model_lab/run_benchmark.sh \
+  --output-dir new/model_lab/results/EXP-06-model-blending-20261028/family-models-oof-rebuilt
+
+bash new/model_lab/run_feature_ablation.sh \
+  --fold 2026-27-partial \
+  --output-dir new/model_lab/results/EXP-06-model-blending-20261028/feature-groups-latest-rebuilt
+
+bash new/model_lab/run_blend_search.sh \
+  --predictions new/model_lab/results/EXP-06-model-blending-20261028/family-models-oof-rebuilt/predictions.csv \
+  --feature-predictions new/model_lab/results/EXP-06-model-blending-20261028/feature-groups-latest-rebuilt/predictions.csv \
+  --modeb-metrics new/model_lab/results/EXP-08-synthetic-odds-scenario-stress-20261028-reproduction/odds-report/scenario_metrics.csv \
+  --output-dir new/model_lab/results/EXP-06-model-blending-20261028/blend-search
+```
+
+Runner memakai lima fold kronologis; setiap bobot hanya belajar dari fold sebelumnya. Blend lolos screening pada 1X2, gol kandang O/U 0.5 dan 1.5, serta gol tandang O/U 1.5. Untuk pertandingan O/U 2.5 dan gol tandang O/U 0.5, paket tetap memakai acuan satu model EXP-05 karena bukti peningkatan blend belum cukup. Semua peringkat `REFERENCE_ONLY`; laporan juga memuat pembanding F0-F5, Mode B dengan quote sintetis STANDARD di fold terbaru, serta pemeriksaan H2H dan koherensi.

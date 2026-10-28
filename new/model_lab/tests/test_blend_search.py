@@ -11,6 +11,7 @@ sys.path.insert(0, str(EXPERIMENT_DIR))
 from benchmark_model_families import FOLDS, MARKETS, MODEL_NAMES  # noqa: E402
 from search_blend_weights import (  # noqa: E402
     BLEND_NAME,
+    _comparison_rows,
     _walk_forward_blends,
     blend_probabilities,
     choose_blend_weights,
@@ -39,6 +40,38 @@ class BlendSearchTests(unittest.TestCase):
         self.assertTrue(np.allclose(
             blend_probabilities(probabilities, weights).sum(axis=1), 1.0
         ))
+
+    def test_family_and_blend_comparators_are_marked_as_using_h2h(self):
+        models = [
+            "lgbm",
+            BLEND_NAME,
+            "BASE_RATE",
+            "LAB_F3_xgboost",
+            "LAB_F4_xgboost",
+        ]
+        rows = []
+        for model in models:
+            for label in (0, 1):
+                rows.append({
+                    "fold": "test",
+                    "market": "home_ou05",
+                    "model": model,
+                    "y_true": label,
+                    "p0": float(label == 0),
+                    "p1": float(label == 1),
+                })
+
+        compared = _comparison_rows(
+            pd.DataFrame(rows), "model", "test"
+        )
+        uses_h2h = {
+            row["model"]: row["uses_h2h"] for row in compared
+        }
+        self.assertTrue(uses_h2h["lgbm"])
+        self.assertTrue(uses_h2h[BLEND_NAME])
+        self.assertFalse(uses_h2h["BASE_RATE"])
+        self.assertFalse(uses_h2h["LAB_F3_xgboost"])
+        self.assertTrue(uses_h2h["LAB_F4_xgboost"])
 
     def _synthetic_oof_predictions(self):
         rows = []

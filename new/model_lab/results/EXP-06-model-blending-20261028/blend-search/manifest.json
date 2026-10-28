@@ -1,0 +1,71 @@
+{
+  "experiment_id": "EXP-06",
+  "status": "REFERENCE_ONLY",
+  "input_predictions": "new/model_lab/results/EXP-06-model-blending-20261028/family-models-oof-rebuilt/predictions.csv",
+  "input_predictions_sha256": "5b24311b3bc813b9afd3c2010621f92cbf18c402fe40813ce1b009ed18becfb7",
+  "input_rows": 1047817,
+  "families": [
+    "lgbm",
+    "xgboost",
+    "histgb",
+    "logreg"
+  ],
+  "markets": [
+    "1x2",
+    "ou25",
+    "home_ou05",
+    "home_ou15",
+    "away_ou05",
+    "away_ou15"
+  ],
+  "folds": [
+    "2022-23",
+    "2023-24",
+    "2024-25",
+    "2025-26",
+    "2026-27-partial"
+  ],
+  "first_fold_policy": "2022-23 uses a predeclared equal-weight blend and is excluded from candidate gate.",
+  "weight_selection": {
+    "grid_step": 0.1,
+    "objective": "minimize prior-fold OOF LogLoss; tie-break Brier then fewer nonzero models",
+    "leakage_rule": "Each fold's blend weights are fitted only on earlier OOF folds."
+  },
+  "candidate_gate": {
+    "paired_bootstrap": 5000,
+    "familywise_comparisons": 24,
+    "must_improve_logloss_ci_upper_below_zero": true,
+    "brier_must_not_worsen": true,
+    "maximum_ece_increase": 0.005,
+    "fallback": "EXP-05 historical single-model winner"
+  },
+  "evaluation_folds": [
+    "2023-24",
+    "2024-25",
+    "2025-26",
+    "2026-27-partial"
+  ],
+  "latest_fold": "2026-27-partial",
+  "historical_holdout_reviewed": true,
+  "package_versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.5.2",
+    "lightgbm": "4.5.0",
+    "xgboost": "2.1.1"
+  },
+  "limitations": [
+    "All historical test periods were already reviewed; results are reference-only.",
+    "Main Mode B comparison is available only on the latest partial fold and uses synthetic STANDARD odds.",
+    "No timestamped bookmaker prices or prospective outcomes are available."
+  ],
+  "history_aggregate_sha256": "8abd8e8fdedf55fe8ed1de13ea8e9a9c420be3fbf6523b7be6133161de53f1c1",
+  "selected_offline_strategy": {
+    "1x2": "OOF_BLEND_PREVIOUS_FOLDS",
+    "ou25": "logreg",
+    "home_ou05": "OOF_BLEND_PREVIOUS_FOLDS",
+    "home_ou15": "OOF_BLEND_PREVIOUS_FOLDS",
+    "away_ou05": "logreg",
+    "away_ou15": "OOF_BLEND_PREVIOUS_FOLDS"
+  }
+}

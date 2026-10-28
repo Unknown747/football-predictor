@@ -417,7 +417,9 @@ def _comparison_rows(frame: pd.DataFrame, model_col: str,
         result["model"] = str(model)
         result["source"] = source
         result["uses_h2h"] = bool(
-            str(model).startswith("LAB_FAMILY_")
+            str(model) in MODEL_NAMES
+            or str(model) == BLEND_NAME
+            or str(model).startswith("LAB_FAMILY_")
             or str(model).startswith("LAB_F4_")
             or str(model).startswith("LAB_F5_")
         )
@@ -503,6 +505,8 @@ def _report(selection: pd.DataFrame, fold_scorecard: pd.DataFrame,
         "tunggal pemenang EXP-05 historis untuk pasar itu.",
         "- Semua periode historis sudah ditinjau sebelumnya. Angka ini tidak menjadi "
         "holdout independen atau bukti profit.",
+        "- Keluarga EXP-05 dan blend memakai fitur statistik pra-pertandingan "
+        "termasuk H2H; F0-F3 tidak memakai H2H, sedangkan F4-F5 memakainya.",
         "",
         "## Strategi screening per pasar",
         "",
@@ -550,11 +554,26 @@ def _report(selection: pd.DataFrame, fold_scorecard: pd.DataFrame,
             f"- Over 1.5 ≤ Over 0.5: {int(team['violations'].sum()):,} pelanggaran "
             f"dari {int(team['n'].sum()):,} pemeriksaan pada data OOF."
         )
+        source_counts = team.groupby("model", sort=True)["violations"].sum()
+        source_counts = source_counts[source_counts > 0].sort_values(
+            ascending=False
+        )
+        if source_counts.empty:
+            source_summary = "tidak ada model dengan pelanggaran"
+        else:
+            source_summary = ", ".join(
+                f"{model}: {int(count):,}"
+                for model, count in source_counts.items()
+            )
+        lines.append(
+            f"- Rincian pelanggaran O/U tim menurut model: {source_summary}."
+        )
     lines.extend([
         "- Tidak ada hasil baru yang dapat membuktikan kesiapan taruhan uang: odds "
         "bookmaker bertimestamp dan holdout prospektif belum tersedia.",
-        "- Paket disimpan di `new/model_lab/candidates/`; jangan pindahkan ke model "
-        "utama tanpa peninjauan dan persetujuan terpisah.",
+        "- Bobot terpilih dan tabel perbandingan disimpan di folder hasil run ini; "
+        "tidak ada paket model atau artefak proyek utama yang ditulis. Promosi "
+        "memerlukan peninjauan dan persetujuan terpisah.",
         "",
     ])
     return "\n".join(lines)

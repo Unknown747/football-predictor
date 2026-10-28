@@ -1,0 +1,80 @@
+{
+  "1x2": {
+    "xgboost": {
+      "n": 24918,
+      "weeks": 148,
+      "delta_logloss_blend_minus_reference": -0.003942128097099973,
+      "ci_low_familywise": -0.004970338876705035,
+      "ci_high_familywise": -0.0028510076814042885,
+      "familywise_alpha": 0.05,
+      "familywise_comparisons": 24,
+      "bootstrap_repetitions": 5000,
+      "method": "paired weekly block bootstrap; Bonferroni-adjusted two-sided CI"
+    }
+  },
+  "ou25": {
+    "logreg": {
+      "n": 24918,
+      "weeks": 148,
+      "delta_logloss_blend_minus_reference": -0.00027721395005497095,
+      "ci_low_familywise": -0.0014845219205324603,
+      "ci_high_familywise": 0.0008283584221784542,
+      "familywise_alpha": 0.05,
+      "familywise_comparisons": 24,
+      "bootstrap_repetitions": 5000,
+      "method": "paired weekly block bootstrap; Bonferroni-adjusted two-sided CI"
+    }
+  },
+  "home_ou05": {
+    "xgboost": {
+      "n": 24918,
+      "weeks": 148,
+      "delta_logloss_blend_minus_reference": -0.0018829761506396231,
+      "ci_low_familywise": -0.0027195913555711606,
+      "ci_high_familywise": -0.001081543789722997,
+      "familywise_alpha": 0.05,
+      "familywise_comparisons": 24,
+      "bootstrap_repetitions": 5000,
+      "method": "paired weekly block bootstrap; Bonferroni-adjusted two-sided CI"
+    }
+  },
+  "home_ou15": {
+    "xgboost": {
+      "n": 24918,
+      "weeks": 148,
+      "delta_logloss_blend_minus_reference": -0.0025476879697814395,
+      "ci_low_familywise": -0.0036362669971966373,
+      "ci_high_familywise": -0.0014115451066247474,
+      "familywise_alpha": 0.05,
+      "familywise_comparisons": 24,
+      "bootstrap_repetitions": 5000,
+      "method": "paired weekly block bootstrap; Bonferroni-adjusted two-sided CI"
+    }
+  },
+  "away_ou05": {
+    "logreg": {
+      "n": 24918,
+      "weeks": 148,
+      "delta_logloss_blend_minus_reference": -0.001016845392557419,
+      "ci_low_familywise": -0.002348194370958705,
+      "ci_high_familywise": 0.00033284038583172756,
+      "familywise_alpha": 0.05,
+      "familywise_comparisons": 24,
+      "bootstrap_repetitions": 5000,
+      "method": "paired weekly block bootstrap; Bonferroni-adjusted two-sided CI"
+    }
+  },
+  "away_ou15": {
+    "xgboost": {
+      "n": 24918,
+      "weeks": 148,
+      "delta_logloss_blend_minus_reference": -0.0027919445427619545,
+      "ci_low_familywise": -0.00419778852455892,
+      "ci_high_familywise": -0.001316780668936655,
+      "familywise_alpha": 0.05,
+      "familywise_comparisons": 24,
+      "bootstrap_repetitions": 5000,
+      "method": "paired weekly block bootstrap; Bonferroni-adjusted two-sided CI"
+    }
+  }
+}
