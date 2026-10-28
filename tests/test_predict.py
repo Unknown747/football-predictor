@@ -123,7 +123,7 @@ def main():
                f"used={r['used_odds_input']}")
         record("T4_odds_nan", pd.isna(r["odds_home"]) and pd.isna(r["value_1x2_H"]))
         record("T4_predicts", not pd.isna(r["p_H"]))
-        record("T4_selects_no_odds_model", r["prediction_mode"] == "A_NO_ODDS",
+        record("T4_selects_mode_b_without_odds", r["prediction_mode"] == "B",
                f"mode={r['prediction_mode']}")
 
     # ============================================================
@@ -139,7 +139,7 @@ def main():
         r = df.iloc[0]
         record("T5_used_odds_both", r["used_odds_input"] == "both",
                f"used={r['used_odds_input']}")
-        record("T5_selects_odds_model", r["prediction_mode"] == "B_WITH_ODDS",
+        record("T5_selects_mode_b_with_odds", r["prediction_mode"] == "B",
                f"mode={r['prediction_mode']}")
         # implied sum=1
         s = r["implied_H"] + r["implied_D"] + r["implied_A"]

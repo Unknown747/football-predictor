@@ -180,8 +180,8 @@ def train_binary(X_tr, y_tr, X_va, y_va, X_te, y_te, w_tr=None, name="binary"):
 def main():
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("--mode", choices=["A", "B"], default="B",
-                        help="A=pure ML (no odds features), B=hybrid (odds_p as features)")
+    parser.add_argument("--mode", choices=["B"], default="B",
+                        help="Production training mode (B only; includes odds-probability features)")
     parser.add_argument("--train-end", default=DEFAULT_TRAIN_END)
     parser.add_argument("--val-end", default=DEFAULT_VAL_END)
     parser.add_argument("--half-life", type=float, default=DEFAULT_HALF_LIFE_DAYS,

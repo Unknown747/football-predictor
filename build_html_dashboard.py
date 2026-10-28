@@ -1,15 +1,46 @@
 import pandas as pd
 import re
+import os
 from pathlib import Path
 from datetime import datetime
 
 BASE = Path(__file__).resolve().parent
 PRED_DIR = BASE / "predictions"
-OUT_HTML = BASE / "index.html"
+OUTPUT_SETTING = Path(os.environ.get("DASHBOARD_OUTPUT_FILE", "index.html"))
+OUT_HTML = OUTPUT_SETTING if OUTPUT_SETTING.is_absolute() else BASE / OUTPUT_SETTING
+TEST_OUTPUT = os.environ.get("DASHBOARD_TEST_MODE") == "1"
 
 # BACA FILE MASTER (KITAB SUCI DATA KITA)
 master = pd.read_csv(BASE / "data" / "features_train.csv", low_memory=False)
 master['Date'] = pd.to_datetime(master['Date'], errors='coerce')
+
+team_map = pd.read_csv(BASE / "team_map.csv", dtype=str).fillna("")
+TEAM_NAME_TO_CANON = {}
+TEAM_FOLDER_BY_CANON = {}
+for _, entry in team_map.iterrows():
+    raw_name = str(entry.get("raw_name", "")).strip()
+    canonical_name = str(entry.get("canonical_name", "")).strip()
+    folder_name = str(entry.get("folder_name", "")).strip()
+    if raw_name and canonical_name:
+        TEAM_NAME_TO_CANON.setdefault(raw_name.casefold(), canonical_name)
+    if canonical_name:
+        TEAM_NAME_TO_CANON.setdefault(canonical_name.casefold(), canonical_name)
+        if folder_name:
+            TEAM_FOLDER_BY_CANON.setdefault(canonical_name.casefold(), folder_name)
+
+LEGACY_MODE_B_SNAPSHOTS = {"predictions_20261028_030931.csv"}
+MODE_B_VALUES = {"B", "B_ONLY", "B_WITH_ODDS"}
+
+
+def is_mode_b_snapshot(path):
+    """Only use explicit Mode B files or the approved legacy Mode B snapshot."""
+    columns = pd.read_csv(path, nrows=0).columns
+    if "prediction_mode" not in columns:
+        return path.name in LEGACY_MODE_B_SNAPSHOTS
+    modes = pd.read_csv(path, usecols=["prediction_mode"])["prediction_mode"]
+    modes = set(modes.dropna().astype(str).str.strip().str.upper())
+    return bool(modes) and modes.issubset(MODE_B_VALUES)
+
 
 def prediction_file_key(path):
     """Prefer timestamp in the filename; use mtime and name for deterministic ties."""
@@ -18,26 +49,15 @@ def prediction_file_key(path):
     return timestamp, path.stat().st_mtime_ns, path.name
 
 
-files = list(PRED_DIR.glob("predictions_*.csv"))
+files = [path for path in PRED_DIR.glob("predictions_*.csv")
+         if is_mode_b_snapshot(path)]
 if not files:
-    raise FileNotFoundError(f"Tidak ada file predictions_*.csv di {PRED_DIR}")
+    raise FileNotFoundError(f"Tidak ada snapshot prediksi Mode B yang valid di {PRED_DIR}")
 latest_pred = max(files, key=prediction_file_key)
 
 df_pred = pd.read_csv(latest_pred)
 df_pred['date'] = pd.to_datetime(df_pred['date'], errors='coerce')
 df_pred = df_pred.sort_values(by=['date'])
-
-# PETA NAMA FOLDER (Untuk Statistik Home/Away per tim)
-FOLDER_MAP = {
-    "Cambuur": "sc_cambuur", "Lens": "rc_lens", "Milan": "ac_milan", 
-    "Roma": "as_roma", "Sociedad": "real_sociedad"
-}
-
-# PETA NAMA TIM DI MASTER DATA (Jika API kirim nama beda)
-NAME_TO_MASTER = {
-    "Milan": "AC Milan", "Roma": "AS Roma", "Inter": "Inter Milan",
-    "PSG": "Paris Saint-Germain", "Sociedad": "Real Sociedad"
-}
 
 LEAGUE_MAP = {
     "England-PL": "Premier League", "England-Champ": "Championship",
@@ -49,11 +69,15 @@ LEAGUE_MAP = {
 }
 
 def get_folder(team):
-    if team in FOLDER_MAP: return FOLDER_MAP[team]
-    return team.lower().replace(" ", "_").replace(".", "").replace("-", "_")
+    canonical = get_master_name(team)
+    mapped = TEAM_FOLDER_BY_CANON.get(canonical.casefold())
+    if mapped:
+        return mapped
+    return canonical.lower().replace(" ", "_").replace(".", "").replace("-", "_")
 
 def get_master_name(team):
-    return NAME_TO_MASTER.get(team, team)
+    name = str(team).strip()
+    return TEAM_NAME_TO_CANON.get(name.casefold(), name)
 
 def get_team_stats(team, is_home, match_date):
     folder = get_folder(team)
@@ -91,10 +115,16 @@ def get_h2h_from_master(home, away, match_date):
         if 'opponent' not in df.columns:
             return None
             
-        target_away = str(db_away).lower()
-        mask_match = df['opponent'].astype(str).str.lower() == target_away
-                     
-        hist = df[mask_match & (df['Date'] < match_date)].sort_values('Date', ascending=False)
+        target_away = get_master_name(db_away).casefold()
+        eligible = df[df['Date'] < match_date].copy()
+        opponents = eligible['opponent'].astype(str)
+        exact_mask = opponents.str.strip().str.casefold() == target_away
+        if exact_mask.any():
+            eligible = eligible[exact_mask]
+        else:
+            canonical_mask = opponents.map(get_master_name).str.casefold() == target_away
+            eligible = eligible[canonical_mask]
+        hist = eligible.sort_values('Date', ascending=False)
         
         if len(hist) == 0: return None
 
@@ -241,8 +271,8 @@ html = """
     <h1>⚽ Complete Stats & Prediction Dashboard</h1>
     <div class="subtitle">Dibuat: """ + datetime.now().strftime("%Y-%m-%d %H:%M") + """ · Sumber: """ + latest_pred.name + """</div>
     <div class="model-disclaimer" role="note">
-        Persentase adalah estimasi model, bukan odds pasar dan belum dikalibrasi. Angka tidak menjamin hasil pertandingan.
-        Model tanpa odds digunakan saat odds lengkap tidak tersedia.
+        Mode B saja. Persentase adalah estimasi model, bukan odds pasar; hasil belum dikalibrasi dan tidak menjamin hasil pertandingan.
+        Jika odds tidak tersedia, fitur odds tetap kosong dan model tetap menggunakan Mode B.
     </div>
 """
 
@@ -269,13 +299,14 @@ for d in dates:
         p_d = row.get('p_D', 0)
         p_a = row.get('p_A', 0)
         pred_raw = str(row.get('pred_1x2', '')).upper()
-        prediction_mode = str(row.get('prediction_mode', '')).upper()
-        if prediction_mode == "A_NO_ODDS":
-            prediction_note = "Estimasi model tanpa odds · belum dikalibrasi"
-        elif prediction_mode == "B_WITH_ODDS":
-            prediction_note = "Estimasi model dengan odds · belum dikalibrasi"
-        else:
-            prediction_note = "Mode model tidak tercatat · estimasi belum dikalibrasi"
+        odds_input = str(row.get('used_odds_input', 'none') or 'none').lower()
+        odds_labels = {
+            "both": "odds 1X2 dan O/U tersedia",
+            "1x2": "hanya odds 1X2 tersedia",
+            "ou25": "hanya odds O/U tersedia",
+            "none": "tanpa input odds",
+        }
+        prediction_note = f"Model Mode B · {odds_labels.get(odds_input, 'status odds tidak diketahui')}"
         
         if pred_raw == 'H':
             pred_text = f"Home Win<br><span style='font-size:0.8rem; color:#aaa;'>({p_h*100:.1f}%)</span>"
@@ -505,8 +536,28 @@ async function startScan() {
 </html>
 """
 
+valid_prediction_count = int(df_pred["data_status"].isin(["OK", "OK_WITH_WARNING"]).sum())
+if TEST_OUTPUT:
+    banner = (
+        '<div id="test-only-banner" role="note" '
+        'style="background:#3b2d12;color:#ffe5a1;border:1px solid #9a7224;'
+        'border-radius:8px;padding:12px 16px;margin-bottom:14px;font-size:0.9rem;'
+        'line-height:1.45;"><strong>HALAMAN UJI — new/index.html</strong><br>'
+        f'Sumber: {latest_pred.name} · Mode B · {valid_prediction_count} prediksi valid. '
+        'Tombol scan dinonaktifkan; halaman utama tidak diubah.</div>'
+    )
+    html = html.replace("<body>\\n", "<body>\\n" + banner + "\\n", 1)
+    html = html.replace(
+        '<button id="btnScan" onclick="startScan()"',
+        '<button id="btnScan" type="button" disabled aria-disabled="true" '
+        'title="Scan dinonaktifkan pada halaman uji"',
+        1,
+    )
+    html = html.replace("Scan Ulang Data", "Scan dinonaktifkan", 1)
+
+OUT_HTML.parent.mkdir(parents=True, exist_ok=True)
 OUT_HTML.write_text(
     "\n".join(line.rstrip() for line in html.splitlines()) + "\n",
     encoding="utf-8",
 )
-print(f"✅ Dashboard FINAL. H2H ditarik langsung dari master data (features_train.csv).")
+print(f"✅ Dashboard Mode B dibuat: {OUT_HTML}")

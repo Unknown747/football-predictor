@@ -2,7 +2,7 @@ modules = ["web", "python-3.12", "nodejs-24"]
 
 [nix]
 channel = "stable-25_05"
-packages = ["glibcLocales", "libxcrypt", "ocl-icd", "opencl-headers", "pkg-config", "rapidfuzz-cpp", "taskflow", "xsimd", "gcc"]
+packages = ["gcc", "glibcLocales", "libxcrypt", "ocl-icd", "opencl-headers", "pkg-config", "rapidfuzz-cpp", "taskflow", "xsimd"]
 
 [agent]
 expertMode = true
