@@ -273,7 +273,7 @@ html = """
     <div class="model-disclaimer" role="note">
         Mode B saja. Persentase adalah estimasi model, bukan odds pasar; hasil belum dikalibrasi dan tidak menjamin hasil pertandingan.
         Jika odds tidak tersedia, fitur odds tetap kosong dan model tetap menggunakan Mode B.
-        Pertandingan tanpa riwayat H2H sebelumnya tidak ditampilkan.
+        Hanya pertandingan dengan minimal satu catatan H2H di data historis proyek yang ditampilkan.
     </div>
 """
 
