@@ -273,18 +273,31 @@ html = """
     <div class="model-disclaimer" role="note">
         Mode B saja. Persentase adalah estimasi model, bukan odds pasar; hasil belum dikalibrasi dan tidak menjamin hasil pertandingan.
         Jika odds tidak tersedia, fitur odds tetap kosong dan model tetap menggunakan Mode B.
+        Pertandingan tanpa riwayat H2H sebelumnya tidak ditampilkan.
     </div>
 """
 
+visible_h2h_match_count = 0
 dates = df_pred['date'].dt.date.unique()
 for d in dates:
     if pd.isna(d): continue
-    html += f'<h2 data-date="{d.strftime("%Y-%m-%d")}">{d.strftime("%A, %d %B %Y")}</h2>'
     daily_matches = df_pred[df_pred['date'].dt.date == d]
-    
+
+    matches_with_h2h = []
     for _, row in daily_matches.iterrows():
         if row['data_status'] not in ['OK', 'OK_WITH_WARNING']: continue
-        
+
+        h2h = get_h2h_from_master(row['home_team'], row['away_team'], row['date'])
+        if not h2h or h2h.get('n', 0) < 1:
+            continue
+        matches_with_h2h.append((row, h2h))
+
+    if not matches_with_h2h:
+        continue
+
+    visible_h2h_match_count += len(matches_with_h2h)
+    html += f'<h2 data-date="{d.strftime("%Y-%m-%d")}">{d.strftime("%A, %d %B %Y")}</h2>'
+    for row, h2h in matches_with_h2h:
         home = row['home_team']
         away = row['away_team']
         match_date = row['date']
@@ -292,7 +305,6 @@ for d in dates:
         
         h_stats = get_team_stats(home, True, match_date)
         a_stats = get_team_stats(away, False, match_date)
-        h2h = get_h2h_from_master(home, away, match_date)
         
         # Logika untuk teks Prediksi 1X2
         p_h = row.get('p_H', 0)
@@ -538,15 +550,18 @@ async function startScan() {
 
 valid_prediction_count = int(df_pred["data_status"].isin(["OK", "OK_WITH_WARNING"]).sum())
 if TEST_OUTPUT:
+    hidden_no_h2h_count = max(valid_prediction_count - visible_h2h_match_count, 0)
     banner = (
         '<div id="test-only-banner" role="note" '
         'style="background:#3b2d12;color:#ffe5a1;border:1px solid #9a7224;'
         'border-radius:8px;padding:12px 16px;margin-bottom:14px;font-size:0.9rem;'
         'line-height:1.45;"><strong>HALAMAN UJI — new/index.html</strong><br>'
-        f'Sumber: {latest_pred.name} · Mode B · {valid_prediction_count} prediksi valid. '
+        f'Sumber: {latest_pred.name} · {valid_prediction_count} prediksi valid; '
+        f'{visible_h2h_match_count} kartu dengan H2H ditampilkan; '
+        f'{hidden_no_h2h_count} tanpa H2H disembunyikan. '
         'Tombol scan dinonaktifkan; halaman utama tidak diubah.</div>'
     )
-    html = html.replace("<body>\\n", "<body>\\n" + banner + "\\n", 1)
+    html = html.replace("<body>", "<body>\n" + banner + "\n", 1)
     html = html.replace(
         '<button id="btnScan" onclick="startScan()"',
         '<button id="btnScan" type="button" disabled aria-disabled="true" '
