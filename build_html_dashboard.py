@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 from pathlib import Path
 from datetime import datetime
 
@@ -10,10 +11,17 @@ OUT_HTML = BASE / "index.html"
 master = pd.read_csv(BASE / "data" / "features_train.csv", low_memory=False)
 master['Date'] = pd.to_datetime(master['Date'], errors='coerce')
 
-# Ambil file prediksi terbaru
-files = sorted(PRED_DIR.glob("predictions_*.csv"), key=lambda x: x.stat().st_mtime, reverse=True)
-# Ambil file terbaru berdasarkan waktu modifikasi (tidak peduli ada _CLEAN atau tidak)
-latest_pred = sorted(files, key=lambda x: x.stat().st_mtime, reverse=True)[0]
+def prediction_file_key(path):
+    """Prefer timestamp in the filename; use mtime and name for deterministic ties."""
+    match = re.search(r"predictions_(\d{8}_\d{6})", path.name)
+    timestamp = match.group(1) if match else ""
+    return timestamp, path.stat().st_mtime_ns, path.name
+
+
+files = list(PRED_DIR.glob("predictions_*.csv"))
+if not files:
+    raise FileNotFoundError(f"Tidak ada file predictions_*.csv di {PRED_DIR}")
+latest_pred = max(files, key=prediction_file_key)
 
 df_pred = pd.read_csv(latest_pred)
 df_pred['date'] = pd.to_datetime(df_pred['date'], errors='coerce')
@@ -141,14 +149,6 @@ def get_h2h_from_master(home, away, match_date):
     except Exception as e:
         return None
 
-def get_expected_score(row):
-    if pd.isna(row.get('p_home_over15')): return "-"
-    h = 2 if row['p_home_over15'] > 0.60 else (1 if row['p_home_over05'] > 0.60 else 0)
-    a = 2 if row['p_away_over15'] > 0.60 else (1 if row['p_away_over05'] > 0.60 else 0)
-    if h == a and row['p_H'] > 0.50: h += 1
-    if h == a and row['p_A'] > 0.50: a += 1
-    return f"{h} - {a}"
-
 html = """
 <!DOCTYPE html>
 <html>
@@ -162,6 +162,7 @@ html = """
         body { font-family: 'Segoe UI', sans-serif; background-color: #0E1117; color: #FAFAFA; padding: 15px; margin: 0; }
         h1 { color: #1E88E5; text-align: center; font-size: 1.5rem; margin-bottom: 5px;}
         .subtitle { text-align:center; color:#888; font-size: 0.8rem; margin-bottom: 20px;}
+        .model-disclaimer { max-width: 1000px; margin: 0 auto 18px; padding: 11px 14px; border: 1px solid #7c5d1c; border-radius: 7px; background: #292417; color: #f0d99c; font-size: 0.85rem; line-height: 1.45; }
         h2 { color: #E0E0E0; margin-top: 30px; font-size: 1.1rem; border-bottom: 1px solid #333; padding-bottom: 5px;}
         
         .card { background-color: #1E1E1E; border-radius: 8px; padding: 12px; margin-bottom: 15px; border-left: 4px solid #1E88E5; }
@@ -176,6 +177,7 @@ html = """
         .section-title { font-size: 0.75rem; color: #888; text-transform: uppercase; margin-bottom: 5px; margin-top: 10px;}
         
         .markets { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; font-size: 0.85rem; margin-bottom: 5px;}
+        .markets.one-x-two { grid-template-columns: repeat(3, minmax(0, 1fr));}
         .market-item { background-color: #2b2b36; padding: 8px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center;}
         .market-label { color: #AAA; }
         .market-value { font-weight: bold; color: #FFF; font-size: 0.95rem; }
@@ -191,21 +193,13 @@ html = """
         .h2h-title { font-weight: bold; color: #FF5252; margin-bottom: 5px; }
         .h2h-last { font-size: 0.75rem; color: #AAA; margin-top: 5px; font-style: italic; }
         .no-h2h { color: #666; font-style: italic; font-size: 0.8rem; margin-top: 5px;}
+        .prediction-note { text-align:center; color:#d8c28d; font-size:0.72rem; margin: 0 0 10px; }
+        @media (max-width: 520px) {
+            body { padding: 10px; }
+            .markets.one-x-two { grid-template-columns: 1fr; }
+        }
     
-    .filter-container {
-        display: flex; flex-wrap: wrap; gap: 15px;
-        background: #1e1e24; padding: 15px; border-radius: 8px;
-        margin-bottom: 20px; border-left: 4px solid #3b82f6;
-    }
-    .filter-group { display: flex; flex-direction: column; }
-    .filter-group label { font-size: 0.8rem; color: #aaa; margin-bottom: 5px; }
-    .filter-group select {
-        background: #2b2b36; color: white; border: 1px solid #444;
-        padding: 8px 12px; border-radius: 6px; font-size: 0.9rem;
-    }
-\n
-    @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-\n</style>
+</style>
 </head>
 <body>\n
 <div style="background:#1e1e24; padding:15px; border-radius:8px; margin-bottom:20px; display:flex; justify-content:space-between; align-items:center; border-left: 4px solid #3b82f6;">
@@ -236,13 +230,17 @@ html = """
 
 
     <h1>⚽ Complete Stats & Prediction Dashboard</h1>
-    <div class="subtitle">Generated: """ + datetime.now().strftime("%Y-%m-%d %H:%M") + """</div>
+    <div class="subtitle">Dibuat: """ + datetime.now().strftime("%Y-%m-%d %H:%M") + """ · Sumber: """ + latest_pred.name + """</div>
+    <div class="model-disclaimer" role="note">
+        Persentase adalah estimasi model, bukan odds pasar dan belum dikalibrasi. Angka tidak menjamin hasil pertandingan.
+        Model tanpa odds digunakan saat odds lengkap tidak tersedia.
+    </div>
 """
 
 dates = df_pred['date'].dt.date.unique()
 for d in dates:
     if pd.isna(d): continue
-    html += f"<h2>{d.strftime('%A, %d %B %Y')}</h2>"
+    html += f'<h2 data-date="{d.strftime("%Y-%m-%d")}">{d.strftime("%A, %d %B %Y")}</h2>'
     daily_matches = df_pred[df_pred['date'].dt.date == d]
     
     for _, row in daily_matches.iterrows():
@@ -257,17 +255,18 @@ for d in dates:
         a_stats = get_team_stats(away, False, match_date)
         h2h = get_h2h_from_master(home, away, match_date)
         
-        # --- SKIP JIKA TIDAK ADA H2H ---
-        if h2h is None or h2h.get('n', 0) == 0:
-            continue
-        
-        score_ai = get_expected_score(row)
-        
         # Logika untuk teks Prediksi 1X2
         p_h = row.get('p_H', 0)
         p_d = row.get('p_D', 0)
         p_a = row.get('p_A', 0)
         pred_raw = str(row.get('pred_1x2', '')).upper()
+        prediction_mode = str(row.get('prediction_mode', '')).upper()
+        if prediction_mode == "A_NO_ODDS":
+            prediction_note = "Estimasi model tanpa odds · belum dikalibrasi"
+        elif prediction_mode == "B_WITH_ODDS":
+            prediction_note = "Estimasi model dengan odds · belum dikalibrasi"
+        else:
+            prediction_note = "Mode model tidak tercatat · estimasi belum dikalibrasi"
         
         if pred_raw == 'H':
             pred_text = f"Home Win<br><span style='font-size:0.8rem; color:#aaa;'>({p_h*100:.1f}%)</span>"
@@ -327,10 +326,11 @@ for d in dates:
                     <div class="score-box" style="color: #10b981; font-weight: bold; font-size: 1.1rem; padding: 8px;">
                         {pred_text}
                     </div>
-                    <div class="score-label">Prediksi 1X2</div>
+                    <div class="score-label">Pilihan model dengan peluang tertinggi</div>
                 </div>
                 <div class="team away">{away}</div>
             </div>
+            <div class="prediction-note">{prediction_note}</div>
             
             <div class="section-title">Statistik Historis (Kandang vs Tandang)</div>
             <div class="stats-box">
@@ -340,10 +340,15 @@ for d in dates:
 
             {h2h_html}
 
-            <div class="section-title">1X2 & Total Gol</div>
-            <div class="markets">
+            <div class="section-title">Estimasi 1X2 (jumlah ≈ 100%)</div>
+            <div class="markets one-x-two">
                 <div class="market-item"><span class="market-label">Home Win</span> <span class="market-value">{row['p_H']*100:.1f}%</span></div>
+                <div class="market-item"><span class="market-label">Seri</span> <span class="market-value">{row['p_D']*100:.1f}%</span></div>
                 <div class="market-item"><span class="market-label">Away Win</span> <span class="market-value">{row['p_A']*100:.1f}%</span></div>
+            </div>
+
+            <div class="section-title">Total Gol 2.5 (estimasi)</div>
+            <div class="markets">
                 <div class="market-item"><span class="market-label">Over 2.5</span> <span class="market-value">{row['p_over25']*100:.1f}%</span></div>
                 <div class="market-item"><span class="market-label">Under 2.5</span> <span class="market-value">{row['p_under25']*100:.1f}%</span></div>
             </div>
@@ -374,63 +379,115 @@ html += """
 \n
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    // --- 1. FILTER TANGGAL ---
     var dateFilter = document.getElementById('dateFilter');
-    var cards = Array.from(document.querySelectorAll('.card'));
-    var dates = new Set();
-    
-    cards.forEach(function(c) {
-        var match = c.innerText.match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/);
-        if (match) {
-            c.setAttribute('data-date', match[0]);
-            dates.add(match[0]);
+    var sortFilter = document.getElementById('sortFilter');
+    var headings = Array.from(document.querySelectorAll('body > h2'));
+    var groups = [];
+
+    function getDateKey(heading) {
+        if (heading.dataset.date) return heading.dataset.date;
+        var match = heading.textContent.match(/\\b(\\d{1,2})\\s+([A-Za-z]+)\\s+(\\d{4})$/);
+        if (!match) return '';
+        var date = new Date(match[2] + ' ' + match[1] + ', ' + match[3]);
+        if (Number.isNaN(date.getTime())) return '';
+        return match[3] + '-' + String(date.getMonth() + 1).padStart(2, '0') +
+            '-' + String(date.getDate()).padStart(2, '0');
+    }
+
+    headings.forEach(function(heading) {
+        var group = document.createElement('section');
+        group.dataset.date = getDateKey(heading);
+        heading.parentNode.insertBefore(group, heading);
+        group.appendChild(heading);
+        while (group.nextElementSibling &&
+                group.nextElementSibling.classList.contains('card')) {
+            group.appendChild(group.nextElementSibling);
+        }
+        if (group.querySelector('.card')) {
+            groups.push(group);
+        } else {
+            group.remove();
         }
     });
-    
-    Array.from(dates).sort().forEach(function(d) {
-        dateFilter.innerHTML += '<option value="' + d + '">' + d + '</option>';
+
+    if (groups.length) {
+        var list = document.createElement('div');
+        list.id = 'predictionList';
+        groups[0].parentNode.insertBefore(list, groups[0]);
+        groups.forEach(function(group) { list.appendChild(group); });
+    }
+
+    groups.forEach(function(group) {
+        if (!group.dataset.date) return;
+        var option = document.createElement('option');
+        option.value = group.dataset.date;
+        option.textContent = group.querySelector('h2').textContent.trim();
+        dateFilter.appendChild(option);
     });
+
+    function updatePredictions() {
+        var selectedDate = dateFilter.value;
+        var direction = sortFilter.value;
+        var orderedGroups = groups.slice();
+        if (direction === 'date-asc' || direction === 'date-desc') {
+            orderedGroups.sort(function(a, b) {
+                var comparison = a.dataset.date.localeCompare(b.dataset.date);
+                return direction === 'date-asc' ? comparison : -comparison;
+            });
+        }
+        orderedGroups.forEach(function(group) {
+            group.hidden = selectedDate !== 'all' && group.dataset.date !== selectedDate;
+            list.appendChild(group);
+        });
+    }
 
     dateFilter.addEventListener('change', function() {
-        var val = this.value;
-        cards.forEach(function(c) {
-            if (val === 'all' || c.getAttribute('data-date') === val) {
-                c.style.display = 'block';
-            } else {
-                c.style.display = 'none';
-            }
-        });
+        updatePredictions();
     });
+    sortFilter.addEventListener('change', updatePredictions);
+    updatePredictions();
 });
 
-// --- 2. TOMBOL SCAN ---
 async function startScan() {
     var btn = document.getElementById('btnScan');
     var status = document.getElementById('scanStatus');
+    var icon = document.getElementById('scanIcon');
+    var text = document.getElementById('scanText');
     btn.disabled = true;
-    btn.innerText = '⏳...';
-    status.innerText = 'Memulai...';
+    icon.textContent = '⏳';
+    text.textContent = 'Sedang scan...';
+    status.textContent = 'Memulai proses...';
     
     try {
-        var res = await fetch('/api/scan', { method: 'POST' });
-        if (!res.ok) throw new Error('Server sibuk');
-        
-        var interval = setInterval(async function() {
-            var sres = await fetch('/api/status');
-            var sdata = await sres.json();
-            var lines = sdata.last_output.trim().split('\n');
-            status.innerText = lines[lines.length - 1].substring(0, 30);
-            
-            if (!sdata.running) {
-                clearInterval(interval);
-                status.innerText = '✅ Selesai!';
+        var response = await fetch('/api/scan', { method: 'POST' });
+        var result = await response.json().catch(function() { return {}; });
+        if (!response.ok) {
+            throw new Error(result.message || 'Permintaan scan ditolak.');
+        }
+
+        while (true) {
+            await new Promise(function(resolve) { setTimeout(resolve, 2000); });
+            var statusResponse = await fetch('/api/status', { cache: 'no-store' });
+            if (!statusResponse.ok) throw new Error('Gagal membaca status scan.');
+            var scan = await statusResponse.json();
+            var output = String(scan.last_output || '');
+            var lines = output.trim().split(/\\r?\\n/).filter(Boolean);
+            var latest = lines.length ? lines[lines.length - 1] : 'Menunggu status scan...';
+            status.textContent = latest;
+
+            if (scan.running) continue;
+            if (output.indexOf('✅ Semua proses selesai!') !== -1) {
+                status.textContent = '✅ Selesai! Memuat ulang...';
                 setTimeout(function() { window.location.reload(); }, 1500);
+                return;
             }
-        }, 2000);
+            throw new Error(latest || 'Scan berhenti tanpa status berhasil.');
+        }
     } catch (e) {
-        status.innerText = '❌ Gagal.';
+        status.textContent = '❌ ' + e.message;
         btn.disabled = false;
-        btn.innerText = '🔄 Scan';
+        icon.textContent = '🔄';
+        text.textContent = 'Scan Ulang Data';
     }
 }
 </script>

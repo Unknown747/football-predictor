@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-predict.py — Mode B prediction pipeline (production candidate).
+predict.py — Prediction pipeline with odds-aware and no-odds models.
 
 Prinsip:
 - Cutoff ketat: hanya pakai data master_canon dengan Date < target_date.
-- Model: 6 model Mode B (78 fitur) yang sudah diverifikasi.
-- Odds: opsional (hybrid). Jika lengkap per grup, hitung implied + value.
+- Model: Mode A (tanpa odds) atau Mode B (odds lengkap).
+- Odds tidak lengkap: gunakan Mode A agar fitur hilang tidak diarahkan ke Mode B.
 - Fail closed: UNKNOWN_TEAM / UNKNOWN_LEAGUE / DATE_NOT_IN_FUTURE → NaN, tidak predict.
 - Deterministik: match_id dari sha256 jika tidak disupply user.
 
@@ -43,16 +43,28 @@ except Exception as e:
 CUTOFF_DATE = pd.Timestamp("2026-10-21")
 FUZZY_THRESHOLD = 95.0
 
-MODEL_MAP = {
-    "1x2":      "lgb_1x2_modeB.txt",
-    "ou25":     "lgb_ou25_modeB.txt",
-    "home_ou05": "lgb_home_ou05_modeB.txt",
-    "home_ou15": "lgb_home_ou15_modeB.txt",
-    "away_ou05": "lgb_away_ou05_modeB.txt",
-    "away_ou15": "lgb_away_ou15_modeB.txt",
+ODDS_FEATURES = {"odds_pH", "odds_pD", "odds_pA", "odds_pOver25"}
+
+MODEL_MAPS = {
+    "A": {
+        "1x2": "lgb_1x2_modeA.txt",
+        "ou25": "lgb_ou25_modeA.txt",
+        "home_ou05": "lgb_home_ou05_modeA.txt",
+        "home_ou15": "lgb_home_ou15_modeA.txt",
+        "away_ou05": "lgb_away_ou05_modeA.txt",
+        "away_ou15": "lgb_away_ou15_modeA.txt",
+    },
+    "B": {
+        "1x2": "lgb_1x2_modeB.txt",
+        "ou25": "lgb_ou25_modeB.txt",
+        "home_ou05": "lgb_home_ou05_modeB.txt",
+        "home_ou15": "lgb_home_ou15_modeB.txt",
+        "away_ou05": "lgb_away_ou05_modeB.txt",
+        "away_ou15": "lgb_away_ou15_modeB.txt",
+    },
 }
 
-# Final schema (39 columns)
+# Final schema (50 columns)
 SCHEMA = [
     "match_id", "date", "home_team", "away_team", "league_name",
     "data_status", "notes", "warning_insufficient_history",
@@ -73,6 +85,7 @@ SCHEMA = [
     "h2h_n", "h2h_home_wins", "h2h_draws", "h2h_away_wins",
     "home_venue_form5_win_rate", "away_venue_form5_win_rate",
     "home_form5_gf", "home_form5_ga", "away_form5_gf", "away_form5_ga",
+    "prediction_mode",
 ]
 
 
@@ -81,13 +94,15 @@ SCHEMA = [
 # ============================================================
 
 def load_models():
-    """Load 6 model Mode B. Raise jika ada yang missing."""
+    """Load model Mode A and B; missing files fail explicitly."""
     models = {}
-    for name, fname in MODEL_MAP.items():
-        path = MODELS / fname
-        if not path.exists():
-            raise FileNotFoundError(f"Model Mode B tidak ditemukan: {path}")
-        models[name] = lgb.Booster(model_file=str(path))
+    for mode, model_map in MODEL_MAPS.items():
+        models[mode] = {}
+        for name, fname in model_map.items():
+            path = MODELS / fname
+            if not path.exists():
+                raise FileNotFoundError(f"Model Mode {mode} tidak ditemukan: {path}")
+            models[mode][name] = lgb.Booster(model_file=str(path))
     return models
 
 
@@ -112,7 +127,9 @@ def load_feat_cols():
     if not path.exists():
         raise FileNotFoundError(f"feat_cols tidak ada: {path}")
     with open(path) as f:
-        return json.load(f)
+        mode_b = json.load(f)
+    mode_a = [column for column in mode_b if column not in ODDS_FEATURES]
+    return {"A": mode_a, "B": mode_b}
 
 
 # ============================================================
@@ -342,7 +359,7 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set):
         if has_any:
             odds_notes.append("ou25 odds incomplete/invalid → NaN")
 
-    # used_odds_input
+    # Record available odds separately from which model can safely use them.
     if odds_1x2_ok and odds_ou_ok:
         used = "both"
     elif odds_1x2_ok:
@@ -352,23 +369,31 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set):
     else:
         used = "none"
 
+    prediction_mode = "B" if used == "both" else "A"
+    selected_models = models[prediction_mode]
+    selected_feat_cols = feat_cols[prediction_mode]
+    if prediction_mode == "A":
+        odds_notes.append(
+            "Model Mode A tanpa odds dipakai; estimasi mentah belum dikalibrasi"
+        )
+
     # 7) Build X in correct order
     try:
-        X = np.array([[recon[c] for c in feat_cols]], dtype=float)
+        X = np.array([[recon[c] for c in selected_feat_cols]], dtype=float)
     except Exception as e:
         return empty_output(row, "FEATURE_BUILD_FAILED", [f"X build: {e}"])
-    if X.shape != (1, len(feat_cols)):
+    if X.shape != (1, len(selected_feat_cols)):
         return empty_output(row, "FEATURE_BUILD_FAILED",
-                            [f"X shape {X.shape} != (1,{len(feat_cols)})"])
+                            [f"X shape {X.shape} != (1,{len(selected_feat_cols)})"])
 
     # 8) Predict
     try:
-        p_1x2 = models["1x2"].predict(X)[0]  # (3,)
-        p_ou25_over = float(models["ou25"].predict(X)[0])
-        p_home_ou05 = float(models["home_ou05"].predict(X)[0])
-        p_home_ou15 = float(models["home_ou15"].predict(X)[0])
-        p_away_ou05 = float(models["away_ou05"].predict(X)[0])
-        p_away_ou15 = float(models["away_ou15"].predict(X)[0])
+        p_1x2 = selected_models["1x2"].predict(X)[0]  # (3,)
+        p_ou25_over = float(selected_models["ou25"].predict(X)[0])
+        p_home_ou05 = float(selected_models["home_ou05"].predict(X)[0])
+        p_home_ou15 = float(selected_models["home_ou15"].predict(X)[0])
+        p_away_ou05 = float(selected_models["away_ou05"].predict(X)[0])
+        p_away_ou15 = float(selected_models["away_ou15"].predict(X)[0])
     except Exception as e:
         return empty_output(row, "MODEL_PREDICT_FAILED", [f"predict: {e}"])
 
@@ -381,7 +406,7 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set):
 
     # Status final
     all_notes = hist_notes + odds_notes
-    status = "OK_WITH_WARNING" if insuff else "OK"
+    status = "OK_WITH_WARNING" if insuff or prediction_mode == "A" else "OK"
 
     # Predicted labels
     pred_1x2 = ["H", "D", "A"][int(np.argmax(p_1x2))]
@@ -464,6 +489,7 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set):
         "home_form5_ga": recon.get("home_form5_ga", 0),
         "away_form5_gf": recon.get("away_form5_gf", 0),
         "away_form5_ga": recon.get("away_form5_ga", 0),
+        "prediction_mode": "B_WITH_ODDS" if prediction_mode == "B" else "A_NO_ODDS",
     }
 
 
@@ -472,7 +498,7 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set):
 # ============================================================
 
 def main():
-    parser = argparse.ArgumentParser(description="Predict football matches (Mode B)")
+    parser = argparse.ArgumentParser(description="Predict football matches (Mode A/B)")
     parser.add_argument("--input", required=True, help="Input CSV (date, home_team, away_team, league_name, [odds_*])")
     parser.add_argument("--output-dir", default=str(PREDICTIONS), help="Output directory")
     args = parser.parse_args()
@@ -487,12 +513,23 @@ def main():
     # Load resources
     print("Loading models...")
     models = load_models()
-    print(f"  {len(models)} models loaded")
+    print(f"  {sum(len(mode_models) for mode_models in models.values())} models loaded")
     print("Loading team map & league set...")
     raw_to_canon, canon_set = load_team_map()
     league_set = load_league_set()
     feat_cols = load_feat_cols()
-    print(f"  Teams: {len(canon_set)}, Leagues: {len(league_set)}, Feat cols: {len(feat_cols)}")
+    for mode in ("A", "B"):
+        expected_features = len(feat_cols[mode])
+        actual_features = models[mode]["1x2"].num_feature()
+        if actual_features != expected_features:
+            raise ValueError(
+                f"Feature count Mode {mode} tidak cocok: model={actual_features}, "
+                f"daftar={expected_features}"
+            )
+    print(
+        f"  Teams: {len(canon_set)}, Leagues: {len(league_set)}, "
+        f"Features Mode A/B: {len(feat_cols['A'])}/{len(feat_cols['B'])}"
+    )
 
     # Read input
     if not Path(args.input).exists():
@@ -526,6 +563,8 @@ def main():
         except Exception as e:
             r = empty_output(row.to_dict(), "UNEXPECTED_ERROR", [str(e)])
         results.append(r)
+        if (i + 1) % 5 == 0 or i + 1 == len(df_in):
+            print(f"Progress: {i + 1}/{len(df_in)} matches", flush=True)
 
     # Write output
     df_out = pd.DataFrame(results, columns=SCHEMA)
@@ -540,6 +579,8 @@ def main():
     print(df_out["data_status"].value_counts().to_string())
     print("\n=== used_odds_input SUMMARY ===")
     print(df_out["used_odds_input"].value_counts().to_string())
+    print("\n=== prediction_mode SUMMARY ===")
+    print(df_out["prediction_mode"].value_counts(dropna=False).to_string())
     print("\n=== DONE ===")
 
 

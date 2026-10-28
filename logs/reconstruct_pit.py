@@ -3,18 +3,15 @@
 Rekonstruksi point-in-time. Hanya baca master_canon, bukan features_train.
 Menggunakan fungsi features.py untuk konsistensi formula.
 """
-import json
 import numpy as np
 import pandas as pd
 import sys
 sys.path.insert(0, '.')
-from features import (
-    build_team_rows, rolling_features, rest_days, cumulative_season,
-    h2h_features,
-)
+from features import build_team_rows
 
 MASTER = pd.read_csv('data/master_canon.csv', low_memory=False)
 MASTER['Date'] = pd.to_datetime(MASTER['Date'])
+MASTER_TEAM_ROWS = build_team_rows(MASTER)
 
 def infer_season(d):
     """Return season code sebagai int (konsisten dengan dtype season di
@@ -54,86 +51,95 @@ def venue_form_from_history(history_team, venue_filter, cutoff_date, window=5):
 
 def reconstruct(match_date, home, away, league):
     md = pd.Timestamp(match_date)
-    # Strict cutoff
-    h = MASTER[MASTER['Date'] < md].copy().reset_index(drop=True)
+    # Strict cutoff. Build team histories once at module load instead of
+    # rebuilding all rolling features from every historical match per fixture.
+    history = MASTER[MASTER['Date'] < md]
+    team_history = MASTER_TEAM_ROWS[MASTER_TEAM_ROWS['date'] < md]
+    home_history = team_history[team_history['team'] == home].sort_values(
+        ['date', 'match_id']
+    )
+    away_history = team_history[team_history['team'] == away].sort_values(
+        ['date', 'match_id']
+    )
 
-    # --- target row untuk rolling (tidak masuk H2H) ---
-    target = {c: np.nan for c in MASTER.columns}
-    target.update({
-        'Date': md,
-        'HomeTeam_canon': home,
-        'AwayTeam_canon': away,
-        'FTHG': 0.0, 'FTAG': 0.0, 'FTR': 'D',
-        'HTHG': 0.0, 'HTAG': 0.0, 'HTR': 'D',
-        'league_name': league,
-        'season': infer_season(md),
-    })
-    m = pd.concat([h, pd.DataFrame([target])], ignore_index=True)
-    tr = build_team_rows(m)
+    def rolling_stats(rows, prefix, window):
+        recent = rows.tail(window)
+        if recent.empty:
+            return {
+                f'{prefix}{name}': np.nan
+                for name in (
+                    'ppg', 'pts', 'gf', 'ga', 'gf_sum', 'ga_sum',
+                    'win_rate', 'draw_rate', 'loss_rate', 'cs_rate',
+                    'fts_rate',
+                )
+            } | {f'{prefix}n_played': 0}
+        return {
+            f'{prefix}ppg': recent['points'].mean(),
+            f'{prefix}pts': recent['points'].sum(),
+            f'{prefix}gf': recent['gf'].mean(),
+            f'{prefix}ga': recent['ga'].mean(),
+            f'{prefix}gf_sum': recent['gf'].sum(),
+            f'{prefix}ga_sum': recent['ga'].sum(),
+            f'{prefix}win_rate': recent['won'].mean(),
+            f'{prefix}draw_rate': recent['drawn'].mean(),
+            f'{prefix}loss_rate': recent['lost'].mean(),
+            f'{prefix}cs_rate': recent['cs'].mean(),
+            f'{prefix}fts_rate': recent['failed_to_score'].mean(),
+            f'{prefix}n_played': len(rows),
+        }
 
-    HOME_ID, AWAY_ID = -1, -2
-    tr.loc[(tr['date'] == md) & (tr['team'] == home), 'match_id'] = HOME_ID
-    tr.loc[(tr['date'] == md) & (tr['team'] == away), 'match_id'] = AWAY_ID
+    def team_features(rows):
+        result = {}
+        result.update(rolling_stats(rows, 'form5_', 5))
+        result.update(rolling_stats(rows, 'form10_', 10))
 
-    # --- rolling (form5, form10) ---
-    r5 = rolling_features(tr, "form5_", 5)
-    r10 = rolling_features(tr, "form10_", 10)
-    # --- rest days ---
-    rd = rest_days(tr)
-    # --- cumulative season (menggunakan infer_season via target['season']) ---
-    cs = cumulative_season(tr)
+        result['rest_days'] = (
+            (md - rows['date'].max()).days if not rows.empty else np.nan
+        )
+        season_rows = rows[rows['season'] == infer_season(md)]
+        season_count = len(season_rows)
+        result['season_n_played'] = season_count
+        result['season_ppg'] = (
+            season_rows['points'].sum() / season_count if season_count else np.nan
+        )
+        return result
 
-    # --- merge for target rows ---
-    fdf = r5.merge(r10, on=["team","date","match_id"], how="left")
-    fdf = fdf.merge(rd, on=["team","date","match_id"], how="left")
-    fdf = fdf.merge(cs, on=["team","date","match_id"], how="left")
+    home_features = team_features(home_history)
+    away_features = team_features(away_history)
+    out = {
+        **{f'home_{key}': value for key, value in home_features.items()},
+        **{f'away_{key}': value for key, value in away_features.items()},
+    }
 
-    home_row = fdf[(fdf['team']==home) & (fdf['match_id']==HOME_ID)].iloc[0]
-    away_row = fdf[(fdf['team']==away) & (fdf['match_id']==AWAY_ID)].iloc[0]
-
-    out = {}
-    # form & rest & season
-    for c in fdf.columns:
-        if c in ('team','date','match_id'): continue
-        out[f'home_{c}'] = home_row[c]
-        out[f'away_{c}'] = away_row[c]
-
-    # --- venue rolling: hitung manual per team, per venue ---
-    tr_h = tr[tr['team'] == home]
-    tr_a = tr[tr['team'] == away]
-    vh = venue_form_from_history(tr_h, 'H', md, 5)
-    va = venue_form_from_history(tr_a, 'A', md, 5)
+    # --- venue form uses only matches strictly before the target date ---
+    vh = venue_form_from_history(home_history, 'H', md, 5)
+    va = venue_form_from_history(away_history, 'A', md, 5)
     for k, v in vh.items():
         out[f'home_venue_form5_{k}'] = v
     for k, v in va.items():
         out[f'away_venue_form5_{k}'] = v
 
-    # --- H2H: pakai fungsi features.py, DENGAN cutoff strict (tanpa target) ---
-    h2h_df = h.copy()
-    if 'match_id' not in h2h_df.columns:
-        h2h_df['match_id'] = h2h_df.index.astype('int64')
-    # Filter hanya pair ini, lalu jalankan h2h_features
+    # --- H2H dihitung dari pasangan historis dengan cutoff strict ---
     pair_mask = (
-        ((h2h_df['HomeTeam_canon']==home) & (h2h_df['AwayTeam_canon']==away)) |
-        ((h2h_df['HomeTeam_canon']==away) & (h2h_df['AwayTeam_canon']==home))
+        ((history['HomeTeam_canon'] == home) & (history['AwayTeam_canon'] == away)) |
+        ((history['HomeTeam_canon'] == away) & (history['AwayTeam_canon'] == home))
     )
-    h2h_sub = h2h_df[pair_mask].copy()
-    # Tambah target row (untuk dihitung fitur H2H target)
-    target_h2h = target.copy()
-    target_h2h['match_id'] = -1
-    # FTR dummy agar h2h_features tidak crash; tidak akan dipakai untuk update H2H-nya sendiri
-    # (karena cutoff: target row tidak masuk history)
-    h2h_input = pd.concat([h2h_sub, pd.DataFrame([target_h2h])], ignore_index=True)
-    h2h_out = h2h_features(h2h_input)
-    target_h2h_row = h2h_out[h2h_out['match_id'] == -1]
-    if len(target_h2h_row) == 0:
-        raise RuntimeError(f"H2H target row missing for {home} vs {away} {md}")
-    target_h2h_row = target_h2h_row.iloc[0]
-    out['h2h_n'] = target_h2h_row['h2h_n']
-    out['h2h_home_wins'] = target_h2h_row['h2h_home_wins']
-    out['h2h_away_wins'] = target_h2h_row['h2h_away_wins']
-    out['h2h_draws'] = target_h2h_row['h2h_draws']
-    out['h2h_total_goals_avg'] = target_h2h_row['h2h_total_goals_avg']
+    h2h = history[pair_mask].sort_values(['Date', 'match_id'])
+    home_wins = (
+        ((h2h['HomeTeam_canon'] == home) & (h2h['FTR'] == 'H')) |
+        ((h2h['AwayTeam_canon'] == home) & (h2h['FTR'] == 'A'))
+    )
+    away_wins = (
+        ((h2h['HomeTeam_canon'] == away) & (h2h['FTR'] == 'H')) |
+        ((h2h['AwayTeam_canon'] == away) & (h2h['FTR'] == 'A'))
+    )
+    out['h2h_n'] = len(h2h)
+    out['h2h_home_wins'] = int(home_wins.sum())
+    out['h2h_away_wins'] = int(away_wins.sum())
+    out['h2h_draws'] = int((h2h['FTR'] == 'D').sum())
+    out['h2h_total_goals_avg'] = (
+        (h2h['FTHG'] + h2h['FTAG']).mean() if not h2h.empty else np.nan
+    )
 
     # --- derived ---
     out['diff_ppg5'] = out.get('home_form5_ppg', np.nan) - out.get('away_form5_ppg', np.nan)

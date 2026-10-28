@@ -123,6 +123,8 @@ def main():
                f"used={r['used_odds_input']}")
         record("T4_odds_nan", pd.isna(r["odds_home"]) and pd.isna(r["value_1x2_H"]))
         record("T4_predicts", not pd.isna(r["p_H"]))
+        record("T4_selects_no_odds_model", r["prediction_mode"] == "A_NO_ODDS",
+               f"mode={r['prediction_mode']}")
 
     # ============================================================
     # T5: Odds lengkap
@@ -137,6 +139,8 @@ def main():
         r = df.iloc[0]
         record("T5_used_odds_both", r["used_odds_input"] == "both",
                f"used={r['used_odds_input']}")
+        record("T5_selects_odds_model", r["prediction_mode"] == "B_WITH_ODDS",
+               f"mode={r['prediction_mode']}")
         # implied sum=1
         s = r["implied_H"] + r["implied_D"] + r["implied_A"]
         record("T5_implied_sum_1", abs(s - 1.0) < 1e-5, f"sum={s:.6f}")
@@ -200,9 +204,9 @@ def main():
     # ============================================================
     # T10: Schema length
     # ============================================================
-    print("\nT10: Schema 39 kolom")
-    expected_cols = 39
-    record("T10_columns_39", len(df.columns) == expected_cols,
+    print("\nT10: Schema 50 kolom")
+    expected_cols = 50
+    record("T10_columns_50", len(df.columns) == expected_cols,
            f"cols={len(df.columns)}")
 
     # ============================================================
