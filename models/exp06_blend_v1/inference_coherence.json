@@ -1,0 +1,61 @@
+{
+  "mode": "EXP06_BLEND_V1",
+  "status": "REFERENCE_ONLY",
+  "training_cutoff_inclusive": "2026-06-30",
+  "reference_data": "data/features_train.csv",
+  "reference_data_sha256": "37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09",
+  "evaluation_rows": 1792,
+  "evaluation_date_min": "2026-07-31",
+  "evaluation_date_max": "2026-10-21",
+  "evaluation_features_sha256": "990c223264342ef6e38e2c6f08d9651e9c2eb5fb71edbaaf0ebbdce45f0d1a45",
+  "historical_period_previously_reviewed": true,
+  "checks": {
+    "1x2": {
+      "n": 1792,
+      "sum_violations": 0,
+      "max_absolute_sum_error": 2.220446049250313e-16
+    },
+    "ou25": {
+      "n": 1792,
+      "sum_violations": 0,
+      "max_absolute_sum_error": 0.0
+    },
+    "home_ou05": {
+      "n": 1792,
+      "sum_violations": 0,
+      "max_absolute_sum_error": 1.1102230246251565e-16
+    },
+    "home_ou15": {
+      "n": 1792,
+      "sum_violations": 0,
+      "max_absolute_sum_error": 1.1102230246251565e-16
+    },
+    "away_ou05": {
+      "n": 1792,
+      "sum_violations": 0,
+      "max_absolute_sum_error": 0.0
+    },
+    "away_ou15": {
+      "n": 1792,
+      "sum_violations": 0,
+      "max_absolute_sum_error": 0.0
+    },
+    "home_over15_le_over05": {
+      "n": 1792,
+      "violations": 0,
+      "violation_rate": 0.0,
+      "max_excess": 0.0
+    },
+    "away_over15_le_over05": {
+      "n": 1792,
+      "violations": 0,
+      "violation_rate": 0.0,
+      "max_excess": 0.0
+    }
+  },
+  "probability_coherence_passed": true,
+  "technical_merge_ready": false,
+  "blockers": [
+    "Historical post-cutoff rows are reference-only, not prospective validation."
+  ]
+}

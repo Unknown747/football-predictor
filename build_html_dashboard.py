@@ -5,7 +5,12 @@ from pathlib import Path
 from datetime import datetime
 
 BASE = Path(__file__).resolve().parent
-PRED_DIR = BASE / "predictions"
+PREDICTIONS_SETTING = Path(os.environ.get("PREDICTIONS_DIR", "predictions"))
+PRED_DIR = (
+    PREDICTIONS_SETTING
+    if PREDICTIONS_SETTING.is_absolute()
+    else BASE / PREDICTIONS_SETTING
+)
 OUTPUT_SETTING = Path(os.environ.get("DASHBOARD_OUTPUT_FILE", "index.html"))
 OUT_HTML = OUTPUT_SETTING if OUTPUT_SETTING.is_absolute() else BASE / OUTPUT_SETTING
 TEST_OUTPUT = os.environ.get("DASHBOARD_TEST_MODE") == "1"
@@ -30,16 +35,18 @@ for _, entry in team_map.iterrows():
 
 LEGACY_MODE_B_SNAPSHOTS = {"predictions_20261028_030931.csv"}
 MODE_B_VALUES = {"B", "B_ONLY", "B_WITH_ODDS"}
+PRIMARY_MODEL_VALUES = {"EXP06_BLEND_V1_PRIMARY_REFERENCE_ONLY"}
+SUPPORTED_MODEL_VALUES = MODE_B_VALUES | PRIMARY_MODEL_VALUES
 
 
-def is_mode_b_snapshot(path):
-    """Only use explicit Mode B files or the approved legacy Mode B snapshot."""
+def is_supported_prediction_snapshot(path):
+    """Only use snapshots tagged with a supported model or approved legacy data."""
     columns = pd.read_csv(path, nrows=0).columns
     if "prediction_mode" not in columns:
         return path.name in LEGACY_MODE_B_SNAPSHOTS
     modes = pd.read_csv(path, usecols=["prediction_mode"])["prediction_mode"]
     modes = set(modes.dropna().astype(str).str.strip().str.upper())
-    return bool(modes) and modes.issubset(MODE_B_VALUES)
+    return bool(modes) and modes.issubset(SUPPORTED_MODEL_VALUES)
 
 
 def prediction_file_key(path):
@@ -50,14 +57,19 @@ def prediction_file_key(path):
 
 
 files = [path for path in PRED_DIR.glob("predictions_*.csv")
-         if is_mode_b_snapshot(path)]
+         if is_supported_prediction_snapshot(path)]
 if not files:
-    raise FileNotFoundError(f"Tidak ada snapshot prediksi Mode B yang valid di {PRED_DIR}")
+    raise FileNotFoundError(f"Tidak ada snapshot prediksi model yang valid di {PRED_DIR}")
 latest_pred = max(files, key=prediction_file_key)
 
 df_pred = pd.read_csv(latest_pred)
 df_pred['date'] = pd.to_datetime(df_pred['date'], errors='coerce')
 df_pred = df_pred.sort_values(by=['date'])
+snapshot_modes = (
+    set(df_pred["prediction_mode"].dropna().astype(str).str.strip().str.upper())
+    if "prediction_mode" in df_pred.columns else set()
+)
+uses_primary_model = bool(snapshot_modes & PRIMARY_MODEL_VALUES)
 
 LEAGUE_MAP = {
     "England-PL": "Premier League", "England-Champ": "Championship",
@@ -221,8 +233,15 @@ html = """
     <h1>⚽ Complete Stats & Prediction Dashboard</h1>
     <div class="subtitle">Dibuat: """ + datetime.now().strftime("%Y-%m-%d %H:%M") + """ · Sumber: """ + latest_pred.name + """</div>
     <div class="model-disclaimer" role="note">
-        Mode B saja. Persentase adalah estimasi model, bukan odds pasar; hasil belum dikalibrasi dan tidak menjamin hasil pertandingan.
-        Jika odds tidak tersedia, fitur odds tetap kosong dan model tetap menggunakan Mode B.
+        """ + (
+            "Model utama: EXP-06 blend, tanpa fitur odds. Status REFERENCE_ONLY; "
+            "belum divalidasi secara prospektif, probabilitas belum dikalibrasi, "
+            "dan bukan bukti profitabilitas."
+            if uses_primary_model else
+            "Mode B legacy. Persentase adalah estimasi model, bukan odds pasar; "
+            "hasil belum dikalibrasi dan tidak menjamin hasil pertandingan. "
+            "Jika odds tidak tersedia, fitur odds tetap kosong."
+        ) + """
         Hanya pertandingan dengan minimal satu catatan H2H di data historis proyek yang ditampilkan.
     </div>
 """
@@ -268,7 +287,14 @@ for d in dates:
             "ou25": "hanya odds O/U tersedia",
             "none": "tanpa input odds",
         }
-        prediction_note = f"Model Mode B · {odds_labels.get(odds_input, 'status odds tidak diketahui')}"
+        row_mode = str(row.get("prediction_mode", "")).strip().upper()
+        if row_mode in PRIMARY_MODEL_VALUES:
+            prediction_note = "EXP-06 blend · odds bukan fitur model · REFERENCE_ONLY"
+        else:
+            prediction_note = (
+                f"Mode B legacy · "
+                f"{odds_labels.get(odds_input, 'status odds tidak diketahui')}"
+            )
         
         if pred_raw == 'H':
             pred_text = f"Home Win<br><span style='font-size:0.8rem; color:#aaa;'>({p_h*100:.1f}%)</span>"
@@ -525,4 +551,5 @@ OUT_HTML.write_text(
     "\n".join(line.rstrip() for line in html.splitlines()) + "\n",
     encoding="utf-8",
 )
-print(f"✅ Dashboard Mode B dibuat: {OUT_HTML}")
+model_label = "EXP-06 primary" if uses_primary_model else "Mode B legacy"
+print(f"✅ Dashboard {model_label} dibuat: {OUT_HTML}")

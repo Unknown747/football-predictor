@@ -1,0 +1,480 @@
+{
+  "mode": "EXP06_BLEND_V1",
+  "prediction_mode": "EXP06_BLEND_V1_PRIMARY_REFERENCE_ONLY",
+  "status": "REFERENCE_ONLY",
+  "deployment_role": "PRIMARY_REFERENCE_ONLY",
+  "historical_use_only": true,
+  "betting_ready": false,
+  "training_cutoff_inclusive": "2026-06-30",
+  "training_source": "data/features_train.csv",
+  "training_source_sha256": "37b54914bd714fdb752e8f794e00d92a0d192d24d57aa452d496f20b34ff2f09",
+  "training_rows_before_cutoff": 38272,
+  "feature_count": 74,
+  "features": [
+    "home_form5_ppg",
+    "home_form5_pts",
+    "home_form5_gf",
+    "home_form5_ga",
+    "home_form5_gf_sum",
+    "home_form5_ga_sum",
+    "home_form5_win_rate",
+    "home_form5_draw_rate",
+    "home_form5_loss_rate",
+    "home_form5_cs_rate",
+    "home_form5_fts_rate",
+    "home_form5_n_played",
+    "home_form10_ppg",
+    "home_form10_pts",
+    "home_form10_gf",
+    "home_form10_ga",
+    "home_form10_gf_sum",
+    "home_form10_ga_sum",
+    "home_form10_win_rate",
+    "home_form10_draw_rate",
+    "home_form10_loss_rate",
+    "home_form10_cs_rate",
+    "home_form10_fts_rate",
+    "home_form10_n_played",
+    "home_venue_form5_ppg",
+    "home_venue_form5_gf",
+    "home_venue_form5_ga",
+    "home_venue_form5_win_rate",
+    "home_rest_days",
+    "home_season_ppg",
+    "home_season_n_played",
+    "away_form5_ppg",
+    "away_form5_pts",
+    "away_form5_gf",
+    "away_form5_ga",
+    "away_form5_gf_sum",
+    "away_form5_ga_sum",
+    "away_form5_win_rate",
+    "away_form5_draw_rate",
+    "away_form5_loss_rate",
+    "away_form5_cs_rate",
+    "away_form5_fts_rate",
+    "away_form5_n_played",
+    "away_form10_ppg",
+    "away_form10_pts",
+    "away_form10_gf",
+    "away_form10_ga",
+    "away_form10_gf_sum",
+    "away_form10_ga_sum",
+    "away_form10_win_rate",
+    "away_form10_draw_rate",
+    "away_form10_loss_rate",
+    "away_form10_cs_rate",
+    "away_form10_fts_rate",
+    "away_form10_n_played",
+    "away_venue_form5_ppg",
+    "away_venue_form5_gf",
+    "away_venue_form5_ga",
+    "away_venue_form5_win_rate",
+    "away_rest_days",
+    "away_season_ppg",
+    "away_season_n_played",
+    "h2h_n",
+    "h2h_home_wins",
+    "h2h_draws",
+    "h2h_away_wins",
+    "h2h_total_goals_avg",
+    "diff_ppg5",
+    "diff_gf5",
+    "diff_ga5",
+    "diff_ppg10",
+    "diff_season_ppg",
+    "sum_expected_goals",
+    "diff_venue_ppg"
+  ],
+  "features_sha256": "990c223264342ef6e38e2c6f08d9651e9c2eb5fb71edbaaf0ebbdce45f0d1a45",
+  "candidate_selection": "new/model_lab/results/EXP-06-model-blending-20261028/blend-search/candidate_selection.csv",
+  "candidate_selection_sha256": "2c192c6f05efd1cc35562dcbdcfaf007325bec3fe09b9137fcc5071f95406fb0",
+  "blend_manifest_sha256": "231856944a2e3197d64ce9f1ab279594bef8c4b88e492d63eb65bcb0239c104c",
+  "family_oof_manifest_sha256": "51381cfc1874fee4ee2daaaabbb32d05be14bafa1b905c1d046bb40b41d86ddf",
+  "weights_policy": "Use EXP-06 final-fold candidate_selection weights; single-model fallback markets use the recorded EXP-05 winner.",
+  "markets": {
+    "1x2": {
+      "strategy": "OOF_BLEND_PREVIOUS_FOLDS",
+      "decision": "BLEND_GATE_PASSED_REFERENCE_ONLY",
+      "weights": {
+        "lgbm": 0.3,
+        "xgboost": 0.4,
+        "histgb": 0.0,
+        "logreg": 0.3
+      },
+      "models": {
+        "lgbm": {
+          "weight": 0.3,
+          "file": "1x2_lgbm.joblib",
+          "sha256": "36e33754d40432fa578220f398f1c1768ac5694b2700469966c16c45acef1a30",
+          "fit": {
+            "selected_iterations": 69,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "fit_seconds": 4.49,
+            "classes": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "xgboost": {
+          "weight": 0.4,
+          "file": "1x2_xgboost.joblib",
+          "sha256": "6bd639dc7f2573e608879cdcfa6eb1141ab54c8fa743446cfb6fc0aa11216af9",
+          "fit": {
+            "selected_iterations": 126,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "fit_seconds": 4.54,
+            "classes": [
+              0,
+              1,
+              2
+            ]
+          }
+        },
+        "logreg": {
+          "weight": 0.3,
+          "file": "1x2_logreg.joblib",
+          "sha256": "c79156430eba03a70a9ed15296e3a4ffa0cb4fe2ef1a8bae6f4cb3f2debdfc30",
+          "fit": {
+            "selected_iterations": null,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "early_stopping_skipped": true,
+            "fit_seconds": 1.7,
+            "classes": [
+              0,
+              1,
+              2
+            ]
+          }
+        }
+      },
+      "training": {
+        "n": 38272,
+        "label_counts": {
+          "0": 16570,
+          "1": 10016,
+          "2": 11686
+        },
+        "date_min": "2021-07-23",
+        "date_max": "2026-05-31"
+      }
+    },
+    "ou25": {
+      "strategy": "logreg",
+      "decision": "USE_HISTORICAL_SINGLE_BASELINE_REFERENCE_ONLY",
+      "weights": {
+        "lgbm": 0.0,
+        "xgboost": 0.0,
+        "histgb": 0.0,
+        "logreg": 1.0
+      },
+      "models": {
+        "logreg": {
+          "weight": 1.0,
+          "file": "ou25_logreg.joblib",
+          "sha256": "a037198806ee9503af7b6263130dd99b81339369952f449f14c48b9c48f8e5e9",
+          "fit": {
+            "selected_iterations": null,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "early_stopping_skipped": true,
+            "fit_seconds": 0.77,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        }
+      },
+      "training": {
+        "n": 38272,
+        "label_counts": {
+          "0": 18789,
+          "1": 19483
+        },
+        "date_min": "2021-07-23",
+        "date_max": "2026-05-31"
+      }
+    },
+    "home_ou05": {
+      "strategy": "OOF_BLEND_PREVIOUS_FOLDS",
+      "decision": "BLEND_GATE_PASSED_REFERENCE_ONLY",
+      "weights": {
+        "lgbm": 0.2,
+        "xgboost": 0.4,
+        "histgb": 0.0,
+        "logreg": 0.4
+      },
+      "models": {
+        "lgbm": {
+          "weight": 0.2,
+          "file": "home_ou05_lgbm.joblib",
+          "sha256": "c54e4443b01ca32da3314d5de5cd5b176354ea2771f8bda4c9b74567f414b873",
+          "fit": {
+            "selected_iterations": 73,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "fit_seconds": 4.03,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        },
+        "xgboost": {
+          "weight": 0.4,
+          "file": "home_ou05_xgboost.joblib",
+          "sha256": "49aa47e9da7467f519762c12dad53bd97caddec336d91734293b44b73aaddf2b",
+          "fit": {
+            "selected_iterations": 82,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "fit_seconds": 1.33,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        },
+        "logreg": {
+          "weight": 0.4,
+          "file": "home_ou05_logreg.joblib",
+          "sha256": "c4a114c0b05ccd6e2ea2e7a9c3a7db6d8b52024966de4c0c87c38b70eb9c4b73",
+          "fit": {
+            "selected_iterations": null,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "early_stopping_skipped": true,
+            "fit_seconds": 0.56,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        }
+      },
+      "training": {
+        "n": 38272,
+        "label_counts": {
+          "0": 8926,
+          "1": 29346
+        },
+        "date_min": "2021-07-23",
+        "date_max": "2026-05-31"
+      }
+    },
+    "home_ou15": {
+      "strategy": "OOF_BLEND_PREVIOUS_FOLDS",
+      "decision": "BLEND_GATE_PASSED_REFERENCE_ONLY",
+      "weights": {
+        "lgbm": 0.2,
+        "xgboost": 0.3,
+        "histgb": 0.1,
+        "logreg": 0.4
+      },
+      "models": {
+        "lgbm": {
+          "weight": 0.2,
+          "file": "home_ou15_lgbm.joblib",
+          "sha256": "93f29e5f2bdd256ab3e48115a558b3bfa779c1c01d199eb692d0685bd6e6ac42",
+          "fit": {
+            "selected_iterations": 54,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "fit_seconds": 1.7,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        },
+        "xgboost": {
+          "weight": 0.3,
+          "file": "home_ou15_xgboost.joblib",
+          "sha256": "86c64ffd45d46aa2a1ce4b1acfba0562c474e38e568d162ea6ad4c6ff912679f",
+          "fit": {
+            "selected_iterations": 64,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "fit_seconds": 0.98,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        },
+        "histgb": {
+          "weight": 0.1,
+          "file": "home_ou15_histgb.joblib",
+          "sha256": "9ab51e88a04425d1eadbf545541ddb90d9d95d90176e0ce2c8ca27f51da412c3",
+          "fit": {
+            "selected_iterations": null,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "early_stopping_skipped": true,
+            "fit_seconds": 1.15,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        },
+        "logreg": {
+          "weight": 0.4,
+          "file": "home_ou15_logreg.joblib",
+          "sha256": "3df73d9fa6a1992f1e9917e83b1d8ee8046fff5765fde69afb2185c9bf069887",
+          "fit": {
+            "selected_iterations": null,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "early_stopping_skipped": true,
+            "fit_seconds": 0.71,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        }
+      },
+      "training": {
+        "n": 38272,
+        "label_counts": {
+          "0": 21773,
+          "1": 16499
+        },
+        "date_min": "2021-07-23",
+        "date_max": "2026-05-31"
+      }
+    },
+    "away_ou05": {
+      "strategy": "logreg",
+      "decision": "USE_HISTORICAL_SINGLE_BASELINE_REFERENCE_ONLY",
+      "weights": {
+        "lgbm": 0.0,
+        "xgboost": 0.0,
+        "histgb": 0.0,
+        "logreg": 1.0
+      },
+      "models": {
+        "logreg": {
+          "weight": 1.0,
+          "file": "away_ou05_logreg.joblib",
+          "sha256": "6b9cd798f5e05c97a02170a20d1d257e563e1de68f62b69429e2714990bcbacf",
+          "fit": {
+            "selected_iterations": null,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "early_stopping_skipped": true,
+            "fit_seconds": 0.56,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        }
+      },
+      "training": {
+        "n": 38272,
+        "label_counts": {
+          "0": 11864,
+          "1": 26408
+        },
+        "date_min": "2021-07-23",
+        "date_max": "2026-05-31"
+      }
+    },
+    "away_ou15": {
+      "strategy": "OOF_BLEND_PREVIOUS_FOLDS",
+      "decision": "BLEND_GATE_PASSED_REFERENCE_ONLY",
+      "weights": {
+        "lgbm": 0.2,
+        "xgboost": 0.3,
+        "histgb": 0.0,
+        "logreg": 0.5
+      },
+      "models": {
+        "lgbm": {
+          "weight": 0.2,
+          "file": "away_ou15_lgbm.joblib",
+          "sha256": "ac857a4f8d182e6ff9cbc11154ddc830ad35cbb9a429330368b3a489fc380887",
+          "fit": {
+            "selected_iterations": 71,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "fit_seconds": 1.77,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        },
+        "xgboost": {
+          "weight": 0.3,
+          "file": "away_ou15_xgboost.joblib",
+          "sha256": "d0cb2de42e7a004c49b385f33c83505d8b3035212ed8f120fbae417e86ae5540",
+          "fit": {
+            "selected_iterations": 54,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "fit_seconds": 0.88,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        },
+        "logreg": {
+          "weight": 0.5,
+          "file": "away_ou15_logreg.joblib",
+          "sha256": "8bc07fb6aaa9e13af5fe2ed0acac9f72aa3bf3e9d469033a9dc07e372ccfe6cd",
+          "fit": {
+            "selected_iterations": null,
+            "inner_validation_days": 90,
+            "fit_rows": 38272,
+            "early_stopping_skipped": true,
+            "fit_seconds": 0.46,
+            "classes": [
+              0,
+              1
+            ]
+          }
+        }
+      },
+      "training": {
+        "n": 38272,
+        "label_counts": {
+          "0": 25305,
+          "1": 12967
+        },
+        "date_min": "2021-07-23",
+        "date_max": "2026-05-31"
+      }
+    }
+  },
+  "package_versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.5.2",
+    "lightgbm": "4.5.0",
+    "xgboost": "2.1.1",
+    "joblib": "1.6.0"
+  },
+  "limitations": [
+    "All historical evaluation folds were already reviewed; metrics are REFERENCE_ONLY.",
+    "No prospective validation with timestamped bookmaker odds is included.",
+    "This bundle is an opt-in technical integration, not betting-ready.",
+    "Odds are excluded from every candidate feature vector."
+  ],
+  "inference_coherence_audit": {
+    "file": "inference_coherence.json",
+    "sha256": "9259f8aa9ed6b928058f340874ede7a53ecee7a80fbe3b70fcec116dd7ae3c06",
+    "probability_coherence_passed": true,
+    "technical_merge_ready": false,
+    "evaluation_rows": 1792
+  }
+}

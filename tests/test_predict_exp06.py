@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Focused contract checks for the opt-in EXP-06 inference mode."""
+"""Focused contract checks for the primary EXP-06 inference mode."""
 
 import unittest
 import sys
@@ -57,11 +57,15 @@ class Exp06PredictionTests(unittest.TestCase):
                 models, "1x2", np.zeros((1, 74), dtype=float)
             )
 
-    def test_bundle_loads_with_frozen_odds_free_features(self):
+    def test_primary_bundle_loads_with_frozen_odds_free_features(self):
         models, features = predict.load_exp06_bundle()
         self.assertEqual(len(features), 74)
         self.assertFalse(any(column.startswith("odds_") for column in features))
         self.assertEqual(set(models), set(predict.MARKET_CLASS_COUNTS))
+        self.assertEqual(
+            predict.EXP06_PREDICTION_TAG,
+            "EXP06_BLEND_V1_PRIMARY_REFERENCE_ONLY",
+        )
 
         X = np.zeros((1, len(features)), dtype=float)
         for market, class_count in predict.MARKET_CLASS_COUNTS.items():

@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-predict.py — Prediction pipeline with Mode B default and an opt-in EXP-06 mode.
+predict.py — Prediction pipeline with EXP-06 as primary and Mode B as legacy.
 
 Prinsip:
 - Cutoff ketat: hanya pakai data master_canon dengan Date < target_date.
-- Default model: six verified Mode B models.
-- EXP06_BLEND_V1 is an explicit, reference-only, odds-free alternative.
+- Default model: primary EXP06_BLEND_V1 blend bundle.
+- Mode B remains available explicitly as a legacy comparison.
 - Missing odds remain missing Mode B features; never switch to another model mode.
 - Fail closed: UNKNOWN_TEAM / UNKNOWN_LEAGUE / DATE_NOT_IN_FUTURE → NaN, tidak predict.
 - Deterministik: match_id dari sha256 jika tidak disupply user.
@@ -44,9 +44,9 @@ except Exception as e:
 CUTOFF_DATE = pd.Timestamp("2026-10-21")
 FUZZY_THRESHOLD = 95.0
 EXP06_MODE = "EXP06_BLEND_V1"
-EXP06_PREDICTION_TAG = "EXP06_BLEND_V1_REFERENCE_ONLY"
-EXP06_BUNDLE_DIR = BASE / "new/model_lab/candidates/EXP06_BLEND_V1_REFERENCE_ONLY"
-EXP06_PAPER_OUTPUT_DIR = BASE / "new/model_lab/paper/EXP06_BLEND_V1"
+EXP06_PREDICTION_TAG = "EXP06_BLEND_V1_PRIMARY_REFERENCE_ONLY"
+DEFAULT_PREDICTION_MODE = EXP06_MODE
+EXP06_BUNDLE_DIR = MODELS / "exp06_blend_v1"
 
 MARKET_CLASS_COUNTS = {
     "1x2": 3,
@@ -143,7 +143,7 @@ def _feature_hash(columns):
 
 
 def load_exp06_bundle():
-    """Load and integrity-check the opt-in EXP-06 reference-only bundle."""
+    """Load and integrity-check the primary EXP-06 reference-only bundle."""
     import joblib
 
     manifest_path = EXP06_BUNDLE_DIR / "manifest.json"
@@ -160,8 +160,12 @@ def load_exp06_bundle():
         or manifest.get("prediction_mode") != EXP06_PREDICTION_TAG
         or manifest.get("status") != "REFERENCE_ONLY"
         or manifest.get("betting_ready") is not False
+        or manifest.get("deployment_role") != "PRIMARY_REFERENCE_ONLY"
     ):
-        raise ValueError("Bundle EXP-06 tidak memiliki status REFERENCE_ONLY yang valid.")
+        raise ValueError(
+            "Bundle utama EXP-06 tidak memiliki metadata PRIMARY_REFERENCE_ONLY "
+            "yang valid."
+        )
     if manifest.get("training_cutoff_inclusive") != "2026-06-30":
         raise ValueError("Cutoff bundle EXP-06 tidak cocok dengan cutoff yang dibekukan.")
 
@@ -409,7 +413,7 @@ def empty_output(row, status, notes):
 
 
 def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set,
-                mode="B"):
+                mode=DEFAULT_PREDICTION_MODE):
     """Predict satu match. Return dict matching SCHEMA."""
     # Extract input
     raw_home = row.get("home_team", "")
@@ -493,6 +497,10 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set,
         used = "ou25"
     else:
         used = "none"
+    if mode == EXP06_MODE:
+        # EXP-06 is odds-free. Odds may still support value calculations below,
+        # but they are not model inputs.
+        used = "none"
 
     selected_models = models
     selected_feat_cols = feat_cols
@@ -554,7 +562,7 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set,
                 "EXP06 coherence warning: away Over 1.5 > away Over 0.5"
             )
     mode_notes = (
-        ["REFERENCE_ONLY; odds are not model features"]
+        ["PRIMARY_MODEL; REFERENCE_ONLY; odds are not model features"]
         if mode == EXP06_MODE else []
     )
     all_notes = mode_notes + hist_notes + odds_notes + coherence_notes
@@ -653,25 +661,26 @@ def predict_one(row, models, feat_cols, raw_to_canon, canon_set, league_set,
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Predict matches with Mode B or an opt-in EXP-06 reference mode."
+        description=(
+            "Predict with the primary EXP-06 model by default; "
+            "Mode B remains available as a legacy option."
+        )
     )
     parser.add_argument("--input", required=True, help="Input CSV (date, home_team, away_team, league_name, [odds_*])")
     parser.add_argument(
         "--mode",
         choices=["B", EXP06_MODE],
-        default="B",
-        help="B is the unchanged default; EXP06_BLEND_V1 is reference-only.",
+        default=DEFAULT_PREDICTION_MODE,
+        help="EXP06_BLEND_V1 is primary; choose B for the legacy model.",
     )
     parser.add_argument(
         "--output-dir",
         default=None,
-        help="Output directory (EXP-06 defaults to new/model_lab/paper/).",
+        help=f"Output directory (default: {PREDICTIONS}).",
     )
     args = parser.parse_args()
 
-    out_dir = Path(args.output_dir) if args.output_dir else (
-        EXP06_PAPER_OUTPUT_DIR if args.mode == EXP06_MODE else PREDICTIONS
-    )
+    out_dir = Path(args.output_dir) if args.output_dir else PREDICTIONS
     out_dir.mkdir(parents=True, exist_ok=True)
 
     print(f"=== START predict ===")
@@ -681,9 +690,9 @@ def main():
 
     # Load resources
     if args.mode == "B":
-        print("Loading Mode B models...")
+        print("Loading legacy Mode B models...")
         models = load_models()
-        print(f"  {len(models)} Mode B models loaded")
+        print(f"  {len(models)} legacy Mode B models loaded")
         feat_cols = load_feat_cols()
         for model_name, model in models.items():
             expected_features = len(feat_cols)
@@ -695,9 +704,9 @@ def main():
                 )
         print(f"  Mode B features: {len(feat_cols)}")
     else:
-        print("Loading EXP-06 reference-only bundle...")
+        print("Loading primary EXP-06 bundle (REFERENCE_ONLY)...")
         models, feat_cols = load_exp06_bundle()
-        print(f"  Six market strategies loaded; features: {len(feat_cols)}")
+        print(f"  Six primary market strategies loaded; features: {len(feat_cols)}")
 
     print("Loading team map & league set...")
     raw_to_canon, canon_set = load_team_map()

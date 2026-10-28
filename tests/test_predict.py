@@ -24,13 +24,15 @@ def record(name, passed, detail=""):
     status = "PASS" if passed else "FAIL"
     print(f"  [{status}] {name} {('- ' + detail) if detail else ''}")
 
-def run_predict(input_csv, output_dir):
+def run_predict(input_csv, output_dir, mode=None):
     """Run predict.py on input CSV. Return (success, output_csv_path)."""
     out_dir = Path(output_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     cmd = [sys.executable, str(PREDICT),
            "--input", str(input_csv),
            "--output-dir", str(out_dir)]
+    if mode is not None:
+        cmd.extend(["--mode", mode])
     proc = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
     if proc.returncode != 0:
         return False, None, proc.stderr
@@ -123,7 +125,8 @@ def main():
                f"used={r['used_odds_input']}")
         record("T4_odds_nan", pd.isna(r["odds_home"]) and pd.isna(r["value_1x2_H"]))
         record("T4_predicts", not pd.isna(r["p_H"]))
-        record("T4_selects_mode_b_without_odds", r["prediction_mode"] == "B",
+        record("T4_selects_primary_without_odds",
+               r["prediction_mode"] == "EXP06_BLEND_V1_PRIMARY_REFERENCE_ONLY",
                f"mode={r['prediction_mode']}")
 
     # ============================================================
@@ -137,14 +140,28 @@ def main():
     else:
         df = load_output(out)
         r = df.iloc[0]
-        record("T5_used_odds_both", r["used_odds_input"] == "both",
+        record("T5_primary_does_not_use_odds", r["used_odds_input"] == "none",
                f"used={r['used_odds_input']}")
-        record("T5_selects_mode_b_with_odds", r["prediction_mode"] == "B",
+        record("T5_selects_primary_with_odds",
+               r["prediction_mode"] == "EXP06_BLEND_V1_PRIMARY_REFERENCE_ONLY",
                f"mode={r['prediction_mode']}")
         # implied sum=1
         s = r["implied_H"] + r["implied_D"] + r["implied_A"]
         record("T5_implied_sum_1", abs(s - 1.0) < 1e-5, f"sum={s:.6f}")
         record("T5_value_nonnull", not pd.isna(r["value_1x2_H"]))
+
+        # The legacy model remains explicitly available as a comparison mode.
+        ok_b, out_b, err_b = run_predict(
+            f, TMP_OUT / "T5B", mode="B"
+        )
+        if not ok_b:
+            record("T5B_legacy_mode_runs", False, err_b[:200])
+        else:
+            legacy = load_output(out_b).iloc[0]
+            record("T5B_legacy_mode_tag", legacy["prediction_mode"] == "B",
+                   f"mode={legacy['prediction_mode']}")
+            record("T5B_legacy_uses_odds", legacy["used_odds_input"] == "both",
+                   f"used={legacy['used_odds_input']}")
 
     # ============================================================
     # T6: Duplikat di input
