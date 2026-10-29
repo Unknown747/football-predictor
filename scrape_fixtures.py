@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Scrape fixture 7 hari dari FotMob (test version — output ke /tmp/)."""
-import sys, json
+import sys
 from pathlib import Path
-from datetime import datetime, timezone
+from datetime import datetime
 from rapidfuzz import process, fuzz
 
 BASE = Path(__file__).resolve().parent

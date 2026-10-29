@@ -5,7 +5,6 @@ Tujuan: dokumentasikan perilaku IMPLEMENTASI LAMA sebelum patch.
 Setiap test mencetak PASS/FAIL per assertion + penjelasan.
 """
 import sys
-import numpy as np
 import pandas as pd
 sys.path.insert(0, '.')
 from features import h2h_features

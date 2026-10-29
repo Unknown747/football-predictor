@@ -7,7 +7,6 @@ Build per-team folders:
 Plus root:
   h2h_summary.csv
 """
-import shutil
 import pandas as pd
 from pathlib import Path
 

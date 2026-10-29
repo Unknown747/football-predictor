@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """Scraper football-data.co.uk - 22 liga x 6 musim = 132 CSV."""
-import os
 import time
 import requests
 from datetime import datetime

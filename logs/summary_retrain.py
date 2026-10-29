@@ -4,7 +4,6 @@ Ringkasan verdict global per mode dari comparison_retrain.json.
 """
 import json
 from collections import Counter
-from pathlib import Path
 
 with open("logs/comparison_retrain.json") as f:
     data = json.load(f)

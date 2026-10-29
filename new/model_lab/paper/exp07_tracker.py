@@ -14,7 +14,7 @@ import re
 import subprocess
 import sys
 from collections import Counter, defaultdict
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]

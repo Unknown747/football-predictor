@@ -3,13 +3,10 @@
 Test suite predict.py — 15 test cases + parity + determinism.
 Tidak menyentuh file produksi. Output ke /tmp/test_predict_output/.
 """
-import hashlib
 import json
-import os
 import shutil
 import subprocess
 import sys
-import tempfile
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent

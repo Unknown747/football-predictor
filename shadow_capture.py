@@ -24,7 +24,6 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-import numpy as np
 import pandas as pd
 
 # Import predict.py (aman, main guarded)
